@@ -8,17 +8,17 @@ sources:
     url: https://casel.org/fundamentals-of-sel/
     organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
     domains: [D01, D02]
-    reviewed: false
+    reviewed: true
     notes: Framework for the SEL competencies referenced in D01 exemplars.
 
   - id: S-002
-    title: NASA — What Is the Big Bang?
+    title: NASA — The Big Bang
     type: website
-    url: https://science.nasa.gov/astrophysics/focus-areas/what-is-the-big-bang/
+    url: https://science.nasa.gov/universe/the-big-bang/
     organization: NASA
     domains: [D06]
-    reviewed: false
-    notes: Age-appropriate origin story referenced in the D06 exemplar.
+    reviewed: true
+    notes: Age-appropriate origin story referenced in the D06 exemplar. Cosmic-history overview; cites cosmic microwave background (oldest observable light) and first stars as evidence.
 
   - id: S-003
     title: World Health Organization

@@ -1,17 +1,3 @@
-# Curriculum-building backlog.
-#
-# Lifecycle:  ready -> claimed -> review -> done
-#   ready    — defined and available to claim
-#   claimed  — an author is working on it
-#   review   — authored; entering the required_reviews chain (in order)
-#   done     — all required reviews passed and merged
-#
-# required_reviews lists the reviewers that must each record `passed` (in order)
-# before the item can be `done`. A `blocked` verdict sends it back to `claimed`
-# and restarts the review chain.
-#
-# depends_on items must be `done` before the item can be claimed.
-
 items:
   - id: B-000
     title: Kindergarten exemplar slice (D01 + D06 lessons and units)
@@ -19,7 +5,7 @@ items:
     type: lesson
     grade: 0
     domain: D01
-    status: review
+    status: done
     priority: 1
     depends_on: []
     required_reviews:
@@ -33,8 +19,22 @@ items:
       reviewer:
         verdict: passed
         note: Schema and headings verified during scaffold.
+      fact-checker:
+        verdict: passed
+        note: Verified S-001 CASEL and S-002 NASA Big Bang; fixed broken NASA URL and marked both sources reviewed:true. Big Bang correctly hedged as story-grounded-in-evidence; evidence/values distinguished; global origin stories held alongside.
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed all 4 files: framing is universal (no US/Eurocentric default); Big Bang framed as 'one story among many' per philosophy §11; cultures not stereotyped; Connection sections region-neutral. Non-blocking suggestion to name 1-2 concrete origin stories from underrepresented regions as optional facilitator resources."
+      accessibility-editor:
+        verdict: passed
+        note: Reviewed all 4 files. Added materials_low_tech to both lessons; added non-visual paths (verbal descriptions, feel-your-face) to feeling-cards/mirror steps; added say-it/gesture alternatives to wonder box. Materials are low-cost/universal; no assets entries so alt-text vacuous. validate passes.
+      alignment-auditor:
+        verdict: passed
+        note: "Audited 4 files. Lenses verified: ethics (non-coercion of belief), egalitarianism (all origin stories held side-by-side), global (no US/Euro default), evidence-vs-values (CASEL+NASA cited; Big Bang as evidence-grounded story). Traceability intact: D01 and D06 chains resolve to declared standards. validate passes."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed all 4 K files. Cognitive fit: feelings concrete/here-and-now; origins told as story with picture anchor. Emotional safety: no frightening content; origin stories held side-by-side, no belief required. Physical fit: body scan, face-making, big-motor + fine-motor. Open-endedness per philosophy §11. No changes needed."
     notes: Exemplars authored during scaffold; now entering the review chain.
-
   - id: B-001
     title: Complete strand lists for domains D02–D10 in the standards tree
     agent: vision-architect
@@ -47,7 +47,6 @@ items:
     required_reviews:
       - reviewer
     notes: Fill strands for the nine domains beyond the D01 and D06 exemplars.
-
   - id: B-020
     title: Author grade 01-12 objectives for D01 Self & Identity
     agent: vision-architect
@@ -60,7 +59,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D01 (grades 01-12); K already done.
-
   - id: B-021
     title: Author grade 01-12 objectives for D02 Relationships & Community
     agent: vision-architect
@@ -73,7 +71,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D02 (grades 01-12).
-
   - id: B-022
     title: Author grade 01-12 objectives for D03 Body & Wellness
     agent: vision-architect
@@ -86,7 +83,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D03 (grades 01-12).
-
   - id: B-023
     title: Author grade 01-12 objectives for D04 Language & Communication
     agent: vision-architect
@@ -99,7 +95,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D04 (grades 01-12).
-
   - id: B-024
     title: Author grade 01-12 objectives for D05 Mathematics & Reasoning
     agent: vision-architect
@@ -112,7 +107,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D05 (grades 01-12).
-
   - id: B-025
     title: Author grade 01-12 objectives for D06 Science & Inquiry
     agent: vision-architect
@@ -125,7 +119,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D06 (grades 01-12).
-
   - id: B-026
     title: Author grade 01-12 objectives for D07 Creative & Aesthetic Expression
     agent: vision-architect
@@ -138,7 +131,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D07 (grades 01-12).
-
   - id: B-027
     title: Author grade 01-12 objectives for D08 Humanity & Global History
     agent: vision-architect
@@ -151,7 +143,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D08 (grades 01-12).
-
   - id: B-028
     title: Author grade 01-12 objectives for D09 Ethics, Justice & Civic Life
     agent: vision-architect
@@ -164,7 +155,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D09 (grades 01-12).
-
   - id: B-029
     title: Author grade 01-12 objectives for D10 Technology, Media & Environment
     agent: vision-architect
@@ -177,7 +167,6 @@ items:
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D10 (grades 01-12).
-
   - id: B-002
     title: Author Kindergarten scope (full 180-day plan)
     agent: scope-sequencer
@@ -192,7 +181,6 @@ items:
       - vision-architect
       - reviewer
     notes: Replace the illustrative unit list in scope.md with the full year.
-
   - id: B-003
     title: Author Grade 1 scope (full 180-day plan)
     agent: scope-sequencer
@@ -216,7 +204,6 @@ items:
       - vision-architect
       - reviewer
     notes: Blocked until the grade 01-12 objective ladder exists for all domains.
-
   - id: B-004
     title: Author the remaining 9 lessons of Unit U.00.001 "Who Am I?"
     agent: lesson-author
@@ -234,7 +221,6 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Only lesson L.00.001.01 exists as an exemplar.
-
   - id: B-010
     title: Define the assessment framework (formative, summative, performance, portfolio, self-assessment, mastery)
     agent: assessment-designer
@@ -247,7 +233,6 @@ items:
     required_reviews:
       - reviewer
     notes: Author docs/assessment.md covering teacher assessment AND learner self-assessment with mastery/progress tracking for self-directed learners.
-
   - id: B-030
     title: Author exemplar assets + tiered materials for the two Kindergarten exemplar lessons
     agent: asset-designer
@@ -263,7 +248,6 @@ items:
       - accessibility-editor
       - global-culture-editor
     notes: Produce SVG assets (feeling-face cards, universe story sequence) and add materials tiers + context variants per docs/art-style.md.
-
   - id: B-031
     title: Verify the pedagogy/context sources (S-007–S-014) and mark them reviewed
     agent: fact-checker
@@ -276,3 +260,4 @@ items:
     required_reviews:
       - reviewer
     notes: Confirm the cited programs, figures, and URLs in sources.yaml (S-007 through S-014); fix or flag inaccuracies, then mark each source reviewed.
+

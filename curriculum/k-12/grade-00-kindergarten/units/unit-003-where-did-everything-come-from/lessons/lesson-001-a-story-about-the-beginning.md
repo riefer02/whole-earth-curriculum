@@ -30,6 +30,11 @@ materials:
   - name: Wonder box
     quantity: 1
     notes: A decorated box where learners place questions and drawings
+materials_low_tech:
+  - name: Told story
+    notes: Tell the story with voice and gesture alone; no pictures needed
+  - name: Any container as a wonder box
+    notes: Any box, basket, or bag; questions can be spoken, drawn, or made with a mark
 duration_minutes: 45
 summary: >-
   Learners hear the Big Bang told as a story grounded in evidence, learn that there
@@ -98,8 +103,9 @@ as meaningful, too. The goal is curiosity and comfort with big questions, not be
 3. **Many stories (10 min).** People all over the world, for a very long time, have
    told other beautiful stories about beginnings, too. We can listen to all of them.
    If you wish, share a story your family tells.
-4. **Wonder box (15 min).** Draw your favorite part of the story — or draw a question
-   you have about the beginning — and place it in the wonder box.
+4. **Wonder box (15 min).** Show your favorite part of the story — or a question you
+   have about the beginning. You can draw it, say it (a partner or facilitator can
+   write it down), or make any mark or gesture. Place it in the wonder box.
 5. **Close (5 min).** Remember: some questions are so big that even grown-ups are
    still wondering. Wondering together is one of the best things humans do.
 
@@ -117,5 +123,5 @@ as meaningful, too. The goal is curiosity and comfort with big questions, not be
 
 ## Resources
 
-- NASA, "What Is the Big Bang?" (age-appropriate background for facilitators):
-  <https://science.nasa.gov/astrophysics/focus-areas/what-is-the-big-bang/>
+- NASA, "The Big Bang" (age-appropriate background for facilitators):
+  <https://science.nasa.gov/universe/the-big-bang/>

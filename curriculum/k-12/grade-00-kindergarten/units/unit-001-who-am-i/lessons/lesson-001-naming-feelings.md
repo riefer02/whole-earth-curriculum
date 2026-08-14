@@ -29,6 +29,11 @@ materials:
     quantity: "per learner"
   - name: Mirror (optional)
     quantity: 1
+materials_low_tech:
+  - name: Hand-drawn feeling faces
+    notes: Draw simple faces together, or use a friend's face as the "card"
+  - name: Voice and body
+    notes: Describe each feeling aloud and act it out; no cards or mirror needed
 duration_minutes: 45
 summary: >-
   Learners name basic feelings, notice them in their own bodies, and practice
@@ -87,9 +92,12 @@ guide the closing reflection — the learner follows the procedure directly.
 
 1. **Gather (5 min).** Sit comfortably. Notice: how does your body feel right now?
 2. **Meet the feeling cards (10 min).** Look at each card and name the feeling. Make
-   the face together. Point to the card that matches how you feel today.
+   the face together. Describe each face aloud too — "a frown, eyebrows down" — so
+   everyone can join, even without seeing the card. Point to the card that matches
+   how you feel today.
 3. **Body check (10 min).** Slowly scan your body: where do you feel happy? (A warm
-   chest, a smile.) Look in a mirror to see your own face.
+   chest, a smile.) If you have a mirror, look in it to see your own face; if not,
+   feel your face with your hands.
 4. **Express it (15 min).** Choose one feeling and show it in one of three ways: a
    word, a drawing, or a movement. Share with a partner.
 5. **Close (5 min).** Remember: everyone has feelings, and feelings change. That is
