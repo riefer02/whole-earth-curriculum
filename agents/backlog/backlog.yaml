@@ -133,12 +133,16 @@ items:
     type: standards
     grade: null
     domain: D06
-    status: ready
+    status: done
     priority: 1
     depends_on: []
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D06 (grades 01-12).
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (18 files). Verified 99 objective IDs D06.S1-S4 K/01-12, S2/S3 correctly start G1, no dupes/gaps. Spiral: S1 ask-why→G3 fair test→G7 correlation/causation→G12 falsifiability. Origins: S4 holds 'one story among many', G10 'model vs revealed truth', G12 'respectful relation' — inquiry over creed per §11."
   - id: B-026
     title: Author grade 01-12 objectives for D07 Creative & Aesthetic Expression
     agent: vision-architect
