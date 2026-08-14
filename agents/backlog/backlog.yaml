@@ -117,12 +117,16 @@ items:
     type: standards
     grade: null
     domain: D05
-    status: ready
+    status: done
     priority: 1
     depends_on: []
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D05 (grades 01-12).
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (18 files). Verified 100 objective IDs D05.S1-S4 K/01-12, contiguous nn, no dupes/gaps/out-of-order. Spiral: S1 K count→G4 multi-digit→G6 ratios/negatives→G8 irrational/scientific notation→G10 complex→G12 limits. Lenses carried (fair shares, algorithmic bias, sustainability). Non-blocking: G4/G5 S4 near-duplicate to watch."
   - id: B-025
     title: Author grade 01-12 objectives for D06 Science & Inquiry
     agent: vision-architect
