@@ -1,7 +1,5 @@
 {
   "$comment": "Shared loop state. Managed by tools/loop/loop.mjs; prefer not to hand-edit.",
-  "claimed": {
-    "B-028": "vision-architect"
-  },
+  "claimed": {},
   "last_updated": "2026-08-14"
 }
