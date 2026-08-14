@@ -14,6 +14,7 @@ objectives:
   - D01.S1.K.01
   - D01.S1.K.02
   - D01.S2.K.01
+  - D01.S2.K.02
 essential_questions:
   - What am I feeling right now, and how do I know?
   - What makes me me, and what do I share with others?
@@ -47,3 +48,12 @@ vocabulary and belonging, not performance.
 | Lesson | Title | Standards |
 |--------|-------|-----------|
 | L.00.001.01 | Naming Our Feelings | D01.S1.K.01, D01.S1.K.02 |
+| L.00.001.02 | Feelings in Our Bodies | D01.S1.K.01, D01.S1.K.02 |
+| L.00.001.03 | Feelings Come and Go | D01.S1.K.01, D01.S1.K.02 |
+| L.00.001.04 | Finding Feelings in Others | D01.S1.K.01 |
+| L.00.001.05 | Many Ways to Say a Feeling | D01.S1.K.02 |
+| L.00.001.06 | What Makes Me Me | D01.S2.K.01 |
+| L.00.001.07 | Things We Share | D01.S2.K.01 |
+| L.00.001.08 | My Family and My People | D01.S2.K.02 |
+| L.00.001.09 | My Class, My Community | D01.S2.K.02 |
+| L.00.001.10 | All About Me | D01.S2.K.01, D01.S2.K.02 |

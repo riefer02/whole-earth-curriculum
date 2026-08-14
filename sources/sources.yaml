@@ -134,3 +134,12 @@ sources:
     domains: []
     reviewed: true
     notes: Mixed-age (3-year) classrooms, self-directed learning, prepared environment; global practice for over a century.
+
+  - id: S-015
+    title: RULER Approach — Yale Center for Emotional Intelligence
+    type: website
+    url: https://www.rulerapproach.org/
+    organization: Yale Center for Emotional Intelligence
+    domains: [D01]
+    reviewed: true
+    notes: Evidence-based SEL approach (Recognizing, Understanding, Labeling, Expressing, Regulating emotions); cited in L.00.001.05.

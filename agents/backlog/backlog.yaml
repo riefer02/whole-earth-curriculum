@@ -257,7 +257,7 @@ items:
     type: lesson
     grade: 0
     domain: D01
-    status: ready
+    status: done
     priority: 4
     depends_on: []
     required_reviews:
@@ -268,6 +268,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Only lesson L.00.001.01 exists as an exemplar.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (38 files, 0 warnings). All 9 lessons have correct ids L.00.001.02-.10 with matching sequence_in_unit; objectives resolve to real D01 K standards only (D01.S1.K.01/.02, D01.S2.K.01/.02; D01.S3 has no K rung). Required headings (Procedure/Assessment/Facilitator note/Connection) present in all. Learner-first 'you' voice; facilitator guidance quarantined in Facilitator note. Connection concrete/region-neutral/faithful (e.g. lesson-007: 'No matter where people live... everyone eats, sleeps, laughs, and cries'). materials_low_tech on all (voice/body/stick-in-sand). Age-appropriate play-based. unit.md now lists D01.S2.K.02 + Lessons table lists all 10 with matching standards. Non-blocking: lenses vary stylistically; lessons 004/005 intentionally single-objective."
+      fact-checker:
+        verdict: passed
+        note: "Validate passed (38 files, 0 warnings). Emotion/body-response claims accurate + framed as possibilities not universals (lesson-002 body map: happy warm chest, angry hot cheeks, scared fast heart; facilitator note 'no wrong answer, goal is noticing not matching a chart'). 'Feelings come and go' framed as normalizing, not certainty. Cross-cultural display differences correctly nuanced. Universal shared needs accurate. No fabricated citations. Resources URLs verified live: CASEL (S-001, reviewed) + RULER approach (rulerapproach.org, Yale Center for Emotional Intelligence, real/on-topic). No unsourced medical/psych claims. Registered new source S-015 (RULER) reviewed:true to keep registry canonical; validate still clean."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed all 9 lessons. Framing: no US/Eurocentric default — no country-specific assumptions/currencies/holidays/institutions; a learner in Lagos/Lima/Lahore would recognize their world (lesson-007: 'No matter where people live — in a busy city, a village, by the sea, or in the mountains...'). Representation: low-tech/outdoor variants use low-resource materials ('stick or finger in sand', 'seed pod', 'a well, a meeting tree'); no single-region cast. Family/belonging breadth (008/009): no normative family model — 'use the wide word people so every family shape is honored — one caregiver, two, grandparents, guardians, a chosen family'; no hierarchy. Connections body/nature-based and varied. Lesson-004 cross-cultural accuracy: 'a guess is a guess, and asking is how we learn' — frames cultural variation as reason to check, avoids universal-facial-expression pitfall. Non-blocking: CASEL/RULER are US-origin (add one-line note they're one lens among many traditions); body metaphors could add alternative idioms."
+      accessibility-editor:
+        verdict: passed
+        note: "Checked all 9 lessons. UDL multi-modal: lesson-2 body-pointing + sand/soil drawing; lesson-4 teaches three clue-channels (face/voice/body) with body-only outdoor variant; lesson-5 four 'languages' (words/drawing/movement/sound); lesson-7 'nod or point instead of stepping' motor support. Low-tech: materials_low_tech on all 9 (voice, body, sand, sticks, stones, seed pods, found objects); enriched devices optional/separate. Disability/neurodivergence: short segments, sentence starters, two-choice scaffolds, picture/gesture pointing. Language plain + home-language feeling words invited (lesson-5). context_variants (large-group, self-directed, outdoor-only) on all 9. No assets: declared, alt-text vacuously satisfied. Non-blocking: lesson-4 core assumes sight in some steps — consider an explicit no-vision path (partner reads a 'feeling voice' sentence, listener names it)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified end-to-end: all 9 lessons declare domain D01/pillar P1, objectives resolve to real D01 K standards (D01.S1.K.01/.02, D01.S2.K.01/.02); chain lesson -> strand (D01.S1/S2) -> D01 Self & Identity -> P1 Emotional & Social Awareness -> vision North Star intact. unit.md adds D01.S2.K.02, lessons table matches. Lenses: ethics as care (L2 'take care of yourself', L4 'ask kindly'); egalitarianism (L6 no ranking/comparing, L8 'use the wide word people... do not assume a single household form', L9 'honor each equally'); global (L4 'faces and voices show feelings differently in different families and cultures', L9 'a shop, a well, a meeting tree'); tech/environment not claimed (correct for K SEL, tablets only optional enriched). Evidence/values distinguished; CASEL cited in Resources, L5 cites RULER. No hierarchy/supremacy. Non-blocking: global lens thin in L2/L10; L7 universal-needs claim reads as values; L2 'feelings live in the body' experiential not cited."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed all 9 lessons (L.00.001.02-.10) against K-2 band of development.md. Cognitive fit: concrete/here-and-now, feelings noticed+named not analyzed; tangible anchors (body outline L2, weather/guest metaphor L3, hand-tracing L6); L4 'guess and check' matched to emerging theory of mind. Emotional safety: feelings normalized ('no wrong answer', 'feelings change'); no frightening/shaming; L3 'If a learner shares something heavy, honor it calmly'; L8 'use the wide word people so every family shape is honored'. Physical fit: body scans, big-motor, fine-motor match K. Not dumbed down: uniqueness+sharedness, widening circles of belonging. Open-ended: learner as author (draw/move/build own Me book). Example: L2 facilitator note 'Some learners will feel a feeling everywhere or nowhere — honor both. There is no wrong answer; the goal is noticing, not matching a chart.' Non-blocking: L7 step-in could add 'staying in place is okay too'; L6 could pair uniqueness with sharedness earlier."
   - id: B-010
     title: Define the assessment framework (formative, summative, performance, portfolio, self-assessment, mastery)
     agent: assessment-designer
