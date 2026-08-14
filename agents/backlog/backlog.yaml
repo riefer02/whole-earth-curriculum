@@ -274,12 +274,16 @@ items:
     type: standards
     grade: null
     domain: null
-    status: ready
+    status: done
     priority: 2
     depends_on: []
     required_reviews:
       - reviewer
     notes: Author docs/assessment.md covering teacher assessment AND learner self-assessment with mastery/progress tracking for self-directed learners.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate clean (29 files). Read docs/assessment.md end-to-end. All 5 modes + mastery covered (formative/summative/performance/portfolio/self-assessment); teacher AND self-directed learner assessment with 4-level mastery checklist ('not yet/with help/on my own/can teach') + 'when to move on'. Philosophy faithful: no high-stakes/ranking/belief-testing (cites §8/§11/§12 correctly). Concreteness: mastery-levels scale examined (level 3 'On my own' observable signal) and worked example maps real D01.S1.K.01 to observable check (objective text matches domain-01 verbatim). Schema fields referenced (assessment_type, assessment_plan, materials tiers, context_variants). Fairness checks (culture/language/learning style/low-tech). Fixed non-blocking: corrected D05.S2.02.01 paraphrase in §4 example to 'identify and extend growing patterns'."
   - id: B-030
     title: Author exemplar assets + tiered materials for the two Kindergarten exemplar lessons
     agent: asset-designer
