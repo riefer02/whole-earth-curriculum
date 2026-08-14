@@ -12,7 +12,8 @@ age-inappropriate.
 1. Find an item awaiting your review: `npm run loop:next -- reviewer`.
 2. Run `npm run validate`; every file must pass.
 3. Check that IDs, fields, and required headings are complete and correct.
-4. Check age-appropriateness and that factual claims carry sources.
+4. Check age-appropriateness, that factual claims carry sources, and that the
+   `## Connection` is present, concrete, and faithful to the concept.
 5. Record your verdict with specifics:
    `npm run loop:review -- <item-id> reviewer passed|blocked "<note>"`.
    A `passed` note MUST name what you actually verified and at least one concrete

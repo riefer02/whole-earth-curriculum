@@ -96,10 +96,10 @@ See `agents/README.md` and the machine-readable `agents/definitions/agents.yaml`
 
 In addition to valid frontmatter, the Markdown body must include certain headings.
 
-- **`lesson`** requires `## Procedure`, `## Assessment`, and `## Facilitator note`
-  (case-insensitive, `##` level), and is strongly encouraged to include `## Summary`,
-  `## Objectives`, `## Materials`, `## Preparation`, `## Differentiation`,
-  `## Resources`, and `## Home connection`.
+- **`lesson`** requires `## Procedure`, `## Assessment`, `## Facilitator note`, and
+  `## Connection` (case-insensitive, `##` level), and is strongly encouraged to
+  include `## Summary`, `## Objectives`, `## Materials`, `## Preparation`,
+  `## Differentiation`, `## Resources`, and `## Home connection`.
 
 The validator checks these. Content that fails frontmatter or heading checks will
 not pass CI.
@@ -109,3 +109,13 @@ not pass CI.
 The `## Procedure` is written **to the learner** ("you"), so a lesson works in a
 classroom *and* for a self-directed learner. Teacher guidance lives in
 `## Facilitator note`. See [`docs/facilitation.md`](facilitation.md).
+
+## Connection: anchor to real life
+
+Every lesson's `## Connection` (2–3 sentences) ties the concept to everyday life,
+written so it survives different lives:
+
+- **Concrete before abstract** — a real, recognizable example before the abstraction.
+- **Faithful** — the example illustrates the *real* concept, not a distorted cartoon.
+- **Varied** — offer more than one context (city and farm, sea and mountain) or keep
+  it explicitly adaptable. Life differs everywhere; avoid one default.

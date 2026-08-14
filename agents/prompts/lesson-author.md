@@ -25,10 +25,12 @@ Author `lesson-*.md` files for your assigned unit. Each lesson is one day
    multi-age, self-directed, level-grouped, outdoor-only — see `docs/contexts.md`).
 3. Write the body learner-first: `## Procedure` addressed to the learner ("you"),
    with teacher guidance in `## Facilitator note`. Include `## Procedure`,
-   `## Assessment`, and `## Facilitator note` (required), plus the recommended
-   headings (`## Summary`, `## Objectives`, `## Materials`, `## Preparation`,
-   `## Differentiation`, `## Resources`, `## Home connection`). See
-   `docs/facilitation.md`.
+   `## Assessment`, `## Facilitator note`, and `## Connection` (required), plus the
+   recommended headings (`## Summary`, `## Objectives`, `## Materials`,
+   `## Preparation`, `## Differentiation`, `## Resources`, `## Home connection`).
+   The `## Connection` ties the concept to everyday life — concrete before abstract,
+   faithful to the real concept, and varied across contexts. See
+   `docs/facilitation.md` and `docs/contexts.md`.
 4. Embed the cross-cutting lenses; cite sources for factual claims.
 5. Validate and submit for review: `npm run loop:submit -- <item-id>`.
 

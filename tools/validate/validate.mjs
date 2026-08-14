@@ -16,7 +16,7 @@ const KIND_TO_SCHEMA = {
 };
 
 const REQUIRED_HEADINGS = {
-  lesson: ['Procedure', 'Assessment', 'Facilitator note'],
+  lesson: ['Procedure', 'Assessment', 'Facilitator note', 'Connection'],
 };
 
 const errors = [];

@@ -61,6 +61,13 @@ asked to believe; everyone is invited to wonder.
   knowing it is one story among many. *(D06.S4.K.01)*
 - Ask "why" and "how" questions about big things. *(D06.S1.K.01)*
 
+## Connection
+
+The things around you — the Sun, the Moon, the trees, your own body — all have a
+beginning. When you look at the night sky or watch a seed grow, you are looking at a
+small piece of the same big story. Asking where things come from is how every
+scientist and every storyteller begins.
+
 ## Materials
 
 - A picture sequence: a tiny, hot beginning; then stars; then galaxies; then Earth.

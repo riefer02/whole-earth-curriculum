@@ -57,7 +57,14 @@ or a movement.
 
 - Name and identify basic feelings (happy, sad, angry, scared, calm) in self and
   others. _(D01.S1.K.01)_
-- Describe a feeling using words, a drawing, or a movement. _(D01.S2.K.02)_
+- Describe a feeling using words, a drawing, or a movement. _(D01.S1.K.02)_
+
+## Connection
+
+Everyone has feelings, every single day. When you know what you are feeling, you can
+share it, ask for help, and understand the people around you — at home, in a
+classroom, or anywhere people are together. Naming a feeling is the first step to
+taking care of it.
 
 ## Materials
 

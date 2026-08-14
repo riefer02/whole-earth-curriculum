@@ -20,6 +20,9 @@ must never default to one nation's or one civilization's point of view.
 - **Multiple traditions** — where a topic has multiple knowledge traditions
   (scientific and otherwise), are they held respectfully side by side, per
   `docs/philosophy.md` §11?
+- **Life contexts** — does the lesson's `## Connection` and its examples span more
+  than one region or way of life, rather than a single (usually Western/urban)
+  default?
 
 ## How to work
 

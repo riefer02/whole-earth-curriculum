@@ -22,6 +22,13 @@ Lessons are written **to the learner** ("you"). Read the `## Procedure` aloud fo
 younger learners; older and self-directed learners read it themselves. Your guidance
 as facilitator lives in each lesson's `## Facilitator note`.
 
+## Anchor to the learner's life
+
+Before you teach the abstraction, give the learner a concrete, recognizable example
+from their own world — a kitchen, a field, a market, a game, a relationship. Each
+lesson's `## Connection` does this; let it guide where you begin. Keep the example
+faithful to the real concept, and adapt it to the life in front of you.
+
 ## Holding difficult topics safely
 
 The curriculum does not avoid the hard parts of the world; it introduces them at a
