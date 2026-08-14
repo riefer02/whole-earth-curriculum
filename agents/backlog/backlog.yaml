@@ -101,12 +101,16 @@ items:
     type: standards
     grade: null
     domain: D04
-    status: ready
+    status: done
     priority: 1
     depends_on: []
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D04 (grades 01-12).
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (18 files). Verified 100 objective IDs D04.S1-S4 K/01-12, 25/strand, contiguous nn, no dupes/gaps. Spiral: S4 K greeting→G7 dialect/accent variation→G12 language justice; multilingualism as wealth, home language first. Lenses carried (ethics/egalitarianism/global/technology)."
   - id: B-024
     title: Author grade 01-12 objectives for D05 Mathematics & Reasoning
     agent: vision-architect
