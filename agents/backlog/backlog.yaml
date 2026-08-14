@@ -290,7 +290,7 @@ items:
     type: assets
     grade: 0
     domain: D01
-    status: ready
+    status: done
     priority: 2
     depends_on:
       - B-000
@@ -299,6 +299,16 @@ items:
       - accessibility-editor
       - global-culture-editor
     notes: Produce SVG assets (feeling-face cards, universe story sequence) and add materials tiers + context variants per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate clean (29 files, 0 warnings; both assets: paths resolve). Both lessons carry materials_low_tech (hand-drawn faces / told story), materials_enriched (laminated cards / space video), context_variants (large-group, self-directed, outdoor-only). assets: entries have valid ^assets/.*.svg$ path + non-empty alt (e.g. universe-story.svg alt 'A four-panel picture sequence showing a tiny hot beginning, then stars, then galaxies, then a warm Earth with living things.'). SVGs valid self-contained XML, viewBox 0 0 512 512, role=img + <title>. Palette soft/muted per art-style; feeling-faces differ by mouth/eyebrow shape (grayscale-printable). K-appropriate, universe framed as story/wonder, belief-neutral. Non-blocking: system sans-serif font re-layout for translations; scared-face white eyes slightly faint in grayscale."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed both lessons + SVGs. UDL: feeling lesson has non-visual path ('Describe each face aloud... everyone can join, even without seeing the card') + tactile no-mirror fallback; universe lesson low-tech 'Tell the story with voice and gesture alone'. Multiple means of expression (word/drawing/movement; draw/say-with-scribe/gesture). Low-tech: materials_low_tech uses paper/voice/body/found objects; camera/video only under materials_enriched; no silent wealth/device/able-bodied requirement. Alt text present on every assets: entry. SVGs role=img + aria-labelledby + title/desc, self-contained, high contrast; faces distinguished by shape + labels (never color alone); universe uses step numbers + captions. Representation: 5 skin tones + hearing aid on calm face (natural, unlabeled). Non-blocking: name hearing-aid wearer in desc; universe desc says 'Earth with living things' but panel 4 shows a single sprout (match desc); optional Home connection heading."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed all 4 files. Framing: no US/Eurocentric default — both Connections region-neutral (naming-feelings 'at home, in a classroom, or anywhere people are together'; origin-story 'the Sun, the Moon, the trees, your own body'). Representation: 5 skin tones light->deep, faces differ by mouth/eyebrow shape not color (emotion never tied to skin tone); hearing aid natural on calm face (positive, not tokenized). Universe story has no human figures (appropriate for K cosmic story, cannot flatten a culture). Multiple traditions per §11: Big Bang held as ONE story among many ('Nobody is asked to believe; everyone is invited to wonder'; step 3 'Many stories' invites family stories; objective 'one story among many'); evidence/values preserved (Big Bang grounded in evidence, others honored as meaningful). Life contexts avoid single Western/urban default. Non-blocking: scramble tone-emotion ordering (avoid faint light/good gradient); note panel order adaptable to RTL scripts; name example origin stories in facilitator resource; plan SVG text localization."
   - id: B-031
     title: Verify the pedagogy/context sources (S-007–S-014) and mark them reviewed
     agent: fact-checker

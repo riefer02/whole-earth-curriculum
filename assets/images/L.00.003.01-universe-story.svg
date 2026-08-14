@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The universe's story in four pictures</title>
+  <desc id="desc">A four-panel sequence read left to right: a tiny hot beginning, then stars, then galaxies, then a warm Earth with living things. Simple, calm shapes for young learners; the panels print clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">The Universe&#39;s Story</text>
+
+  <!-- Panel frames -->
+  <rect x="16"  y="84" width="114" height="292" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="138" y="84" width="114" height="292" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="260" y="84" width="114" height="292" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="382" y="84" width="114" height="292" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+  <!-- Step numbers -->
+  <text x="30" y="104" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">1</text>
+  <text x="152" y="104" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">2</text>
+  <text x="274" y="104" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">3</text>
+  <text x="396" y="104" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">4</text>
+
+  <!-- Panel 1: tiny hot beginning -->
+  <g>
+    <circle cx="73" cy="230" r="26" fill="none" stroke="#e0a458" stroke-width="2" stroke-opacity="0.6"/>
+    <circle cx="73" cy="230" r="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M90 230 L100 230" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M85 218 L92 211" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M73 213 L73 203" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M61 218 L54 211" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M56 230 L46 230" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M61 242 L54 249" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M73 247 L73 257" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M85 242 L92 249" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Panel 2: stars -->
+  <g>
+    <path d="M195 191 L197.3 198.3 L205 200 L197.3 201.7 L195 209 L192.7 201.7 L185 200 L192.7 198.3 Z" fill="#e0a458"/>
+    <path d="M168 224 L169.7 229.7 L176 231 L169.7 232.3 L168 238 L166.3 232.3 L160 231 L166.3 229.7 Z" fill="#6b93b6"/>
+    <path d="M220 217 L221.4 222.4 L227 224 L221.4 225.6 L220 231 L218.6 225.6 L213 224 L218.6 222.4 Z" fill="#e0a458"/>
+    <path d="M175 256 L176.7 261.7 L183 263 L176.7 264.3 L175 270 L173.3 264.3 L167 263 L173.3 261.7 Z" fill="#e0a458"/>
+    <path d="M212 251 L214.4 258.4 L222 260 L214.4 261.6 L212 269 L209.6 261.6 L202 260 L209.6 258.4 Z" fill="#6b93b6"/>
+    <circle cx="190" cy="233" r="2.5" fill="#4f6d7a"/>
+    <circle cx="206" cy="184" r="2" fill="#4f6d7a"/>
+    <circle cx="231" cy="240" r="2" fill="#4f6d7a"/>
+    <circle cx="158" cy="205" r="2" fill="#4f6d7a"/>
+  </g>
+
+  <!-- Panel 3: galaxies -->
+  <g>
+    <circle cx="300" cy="220" r="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M305 220 C312 213 306 203 295 202" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M295 220 C288 227 294 237 305 238" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="336" cy="255" r="3.5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M340 255 C344 250 340 244 334 243" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M332 255 C328 260 332 265 338 266" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Panel 4: Earth -->
+  <g>
+    <circle cx="416" cy="180" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M416 166 L416 161" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M416 194 L416 199" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M402 180 L397 180" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M430 180 L435 180" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <path d="M428 200 Q432 194 436 200 Q440 194 444 200" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="439" cy="242" r="46" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M421 222 Q432 216 442 224 Q438 236 426 236 Q418 230 421 222 Z" fill="#7a9e7e"/>
+    <path d="M446 254 Q456 250 460 262 Q454 270 444 266 Q442 258 446 254 Z" fill="#7a9e7e"/>
+    <path d="M439 270 L439 256" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M439 256 Q433 254 431 248 Q438 251 439 256 Z" fill="#7a9e7e"/>
+    <path d="M439 256 Q445 254 447 248 Q440 251 439 256 Z" fill="#7a9e7e"/>
+  </g>
+
+  <!-- Captions -->
+  <text x="73" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">tiny hot</text>
+  <text x="73" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">beginning</text>
+  <text x="195" y="415" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">stars</text>
+  <text x="317" y="415" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">galaxies</text>
+  <text x="439" y="415" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Earth</text>
+</svg>

@@ -35,6 +35,25 @@ materials_low_tech:
     notes: Tell the story with voice and gesture alone; no pictures needed
   - name: Any container as a wonder box
     notes: Any box, basket, or bag; questions can be spoken, drawn, or made with a mark
+materials_enriched:
+  - name: Large printed sequence cards
+    quantity: "1 set"
+    notes: Big, laminated four-panel cards of the universe's story for ordering and retelling at the front of the room
+  - name: Space imagery video
+    quantity: 1
+    notes: A short, gentle, age-appropriate video clip of stars, galaxies, and Earth for learners who benefit from seeing the story move
+context_variants:
+  - context: large-group
+    note: Hold up each panel of the universe story in turn so every learner can see, and invite the whole group to make a "growing" gesture from tiny to Earth
+  - context: self-directed
+    note: A learner arranges the four picture panels in order on their own and tells the story back to a grown-up, a partner, or a recording
+  - context: outdoor-only
+    note: "Use the sky itself as the story — find the Sun by day, notice the wide sky where stars and galaxies are at night, and stand on the Earth as the last panel"
+assets:
+  - path: assets/images/L.00.003.01-universe-story.svg
+    alt: A four-panel picture sequence showing a tiny hot beginning, then stars, then galaxies, then a warm Earth with living things
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners hear the Big Bang told as a story grounded in evidence, learn that there

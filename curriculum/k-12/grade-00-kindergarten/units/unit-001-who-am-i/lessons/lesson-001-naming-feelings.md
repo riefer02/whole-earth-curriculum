@@ -34,6 +34,25 @@ materials_low_tech:
     notes: Draw simple faces together, or use a friend's face as the "card"
   - name: Voice and body
     notes: Describe each feeling aloud and act it out; no cards or mirror needed
+materials_enriched:
+  - name: Laminated feeling face cards
+    quantity: "1 set per pair"
+    notes: Durable, wipeable cards of the five feeling faces for repeated sorting and matching games
+  - name: Tablet or camera
+    quantity: "1 per group"
+    notes: A photo app to capture learners' own real faces for each feeling and build a class "feelings gallery"
+context_variants:
+  - context: large-group
+    note: Project or hold up the feeling face card large enough for all to see; invite the whole group to make each face together before pointing to a match
+  - context: self-directed
+    note: A learner works through the card set alone, making each face in a mirror and naming the body feeling for each
+  - context: outdoor-only
+    note: Use the card set as a reference outdoors; invite learners to find a plant, shadow, or sky view that "feels" calm, bright (happy), heavy (sad), sharp (angry), or hidden (scared)
+assets:
+  - path: assets/images/L.00.001.01-feeling-faces.svg
+    alt: Five labeled round faces showing happy, sad, angry, scared, and calm expressions, in varied skin tones, with one face wearing a hearing aid
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name basic feelings, notice them in their own bodies, and practice
