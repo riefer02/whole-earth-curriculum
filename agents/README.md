@@ -42,6 +42,7 @@ npm run loop:review -- <item> <agent> passed|blocked
 npm run loop:complete -- <item>          # finish after all reviews pass
 npm run loop:report                      # progress summary
 npm run loop:pipeline                    # show the sequential stage order
+npm run loop:stale                       # flag items stalled >30 min
 npm run loop:coverage                    # standards coverage by domain/grade
 npm run loop:run                         # drive the loop with opencode
 ```

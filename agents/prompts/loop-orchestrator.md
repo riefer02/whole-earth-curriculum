@@ -34,6 +34,20 @@ Repeat until no `ready` items and no pending reviews remain (or you are told to 
 Stages run in order (`agents/pipeline.yaml`). The review chain is a linear dependency
 sequence — never skip or fan out in parallel. Keep the linear thread.
 
+## Stall recovery
+
+Progress must keep moving. If a single step hangs or fails:
+
+1. **Do not spin.** Retry a failed subagent delegation or review verdict at most once.
+2. If it still has not completed, run `npm run loop:report` and `npm run loop:stale`,
+   then **stop and report** which item stalled and on what step. Never loop
+   indefinitely.
+3. Give subagents tight, bounded instructions — never an open-ended task that can
+   wander or retry forever.
+4. A healthy step takes minutes. If `loop:stale` flags an item (>30 min in
+   `claimed`/`review`) or you have made no progress for several turns, stop and
+   report rather than continuing.
+
 ## Guardrails
 
 - Never complete an item that has not passed `npm run validate`.

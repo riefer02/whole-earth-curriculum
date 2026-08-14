@@ -107,6 +107,29 @@ function pipeline() {
   }
 }
 
+function stale(thresholdMin) {
+  const backlog = readBacklog();
+  const now = Date.now();
+  const threshold = thresholdMin * 60 * 1000;
+  const flagged = [];
+  for (const item of backlog.items) {
+    let at = null;
+    if (item.status === 'claimed') at = item.claimed_at;
+    else if (item.status === 'review') at = item.submitted_at;
+    if (!at) continue;
+    const age = now - new Date(at).getTime();
+    if (age > threshold) flagged.push({ id: item.id, status: item.status, age, title: item.title });
+  }
+  if (!flagged.length) {
+    console.log(`No stalled items (threshold ${thresholdMin} min).`);
+    return;
+  }
+  console.log(`Stalled items (>${thresholdMin} min):`);
+  for (const f of flagged) {
+    console.log(`  ${f.id.padEnd(7)} ${f.status.padEnd(8)} ~${Math.round(f.age / 60000)} min  ${f.title}`);
+  }
+}
+
 const [cmd, arg1, arg2, arg3] = process.argv.slice(2);
 
 switch (cmd) {
@@ -177,6 +200,8 @@ switch (cmd) {
     if (item.agent !== agentId) fail(`Item "${itemId}" belongs to "${item.agent}", not "${agentId}".`);
     if (!isUnblocked(item, backlog)) fail(`Item "${itemId}" is blocked by unmet dependencies: ${item.depends_on.join(', ')}.`);
     item.status = 'claimed';
+    item.claimed_at = new Date().toISOString();
+    delete item.submitted_at;
     writeBacklog(backlog);
     const state = readState();
     state.claimed[itemId] = agentId;
@@ -197,6 +222,7 @@ switch (cmd) {
     if (!item) fail(`Item "${itemId}" not found.`);
     if (item.status !== 'claimed') fail(`Item "${itemId}" is "${item.status}", not "claimed".`);
     item.status = 'review';
+    item.submitted_at = new Date().toISOString();
     writeBacklog(backlog);
     console.log(`Submitted ${itemId} for review.`);
     if (item.required_reviews?.length) {
@@ -238,6 +264,8 @@ switch (cmd) {
       }
     } else {
       item.status = 'claimed';
+      item.claimed_at = new Date().toISOString();
+      delete item.submitted_at;
       item.reviews = {};
       item.notes = (item.notes ? item.notes + ' ' : '') + `Blocked by ${agentId}${note ? ': ' + note : ''}.`;
       writeBacklog(backlog);
@@ -262,6 +290,8 @@ switch (cmd) {
     );
     if (missing.length) fail(`Cannot complete ${itemId}: missing reviews from ${missing.join(', ')}.`);
     item.status = 'done';
+    delete item.claimed_at;
+    delete item.submitted_at;
     writeBacklog(backlog);
     const state = readState();
     delete state.claimed[itemId];
@@ -279,6 +309,12 @@ switch (cmd) {
     pipeline();
     break;
 
+  case 'stale': {
+    const n = parseInt(arg1, 10);
+    stale(isNaN(n) ? 30 : n);
+    break;
+  }
+
   default:
     console.log(
       'Usage:\n' +
@@ -289,7 +325,8 @@ switch (cmd) {
         '  npm run loop:review -- <item-id> <agent-id> passed|blocked "<note>"\n' +
         '  npm run loop:complete -- <item-id>\n' +
         '  npm run loop:report\n' +
-        '  npm run loop:pipeline'
+        '  npm run loop:pipeline\n' +
+        '  npm run loop:stale [minutes]'
     );
     process.exit(cmd ? 1 : 0);
 }

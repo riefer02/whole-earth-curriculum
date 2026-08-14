@@ -181,7 +181,7 @@ items:
     type: standards
     grade: null
     domain: D09
-    status: ready
+    status: review
     priority: 1
     depends_on: []
     required_reviews:
