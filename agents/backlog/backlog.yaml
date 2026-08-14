@@ -85,12 +85,16 @@ items:
     type: standards
     grade: null
     domain: D03
-    status: ready
+    status: done
     priority: 1
     depends_on: []
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D03 (grades 01-12).
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (18 files). Verified 100 objective IDs D03.S1-S4 K/01-12, contiguous nn, no dupes/gaps. Spiral: Safety/Self-Care G1 body-belongs-to-them→G3 safe/unsafe touch+saying no→G5 consent→G9 sexual-reproductive health→G12 care for others. Puberty placed G6, substance G8, non-shaming, no able-bodied default."
   - id: B-023
     title: Author grade 01-12 objectives for D04 Language & Communication
     agent: vision-architect
