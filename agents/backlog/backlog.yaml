@@ -165,12 +165,16 @@ items:
     type: standards
     grade: null
     domain: D08
-    status: ready
+    status: done
     priority: 1
     depends_on: []
     required_reviews:
       - reviewer
     notes: Complete the vertical objective ladder for D08 (grades 01-12).
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (18 files). Verified 100 objective IDs D08.S1-S4 K/01-12, contiguous nn, no dupes/gaps. Spiral: S4 K fair/unfair→G4 peaceful resistance→G7 colonization→G8 slavery→G10 genocide→G12 own role. Sensitive history: absent K-5, colonization G6/7, slavery G8, genocide G10 — agency-centered, global/multi-perspective."
   - id: B-028
     title: Author grade 01-12 objectives for D09 Ethics, Justice & Civic Life
     agent: vision-architect
