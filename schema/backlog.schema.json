@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://newworldorder.edu/schema/backlog.schema.json",
+  "title": "BacklogItem",
+  "description": "A single item in the curriculum-building backlog.",
+  "type": "object",
+  "required": ["id", "title", "agent", "status"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^B-\\d{3,}$" },
+    "title": { "type": "string", "minLength": 1 },
+    "agent": { "type": "string", "pattern": "^[a-z][a-z0-9-]+$" },
+    "type": { "type": "string" },
+    "grade": { "type": ["integer", "null"], "minimum": 0, "maximum": 12 },
+    "domain": { "type": ["string", "null"] },
+    "status": { "type": "string", "enum": ["ready", "claimed", "review", "done"] },
+    "priority": { "type": "integer", "minimum": 1 },
+    "depends_on": { "type": "array", "items": { "type": "string", "pattern": "^B-\\d{3,}$" } },
+    "required_reviews": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z][a-z0-9-]+$" }
+    },
+    "reviews": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["verdict"],
+        "properties": {
+          "verdict": { "type": "string", "enum": ["passed", "blocked"] },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": true
+}

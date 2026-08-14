@@ -1,0 +1,236 @@
+# Agent definitions for the New World Order Education curriculum crew.
+# Each entry must satisfy schema/agent.schema.json (kind: agent).
+# Keep these in sync with agents/prompts/<id>.md.
+
+- kind: agent
+  id: vision-architect
+  name: Vision Architect
+  role: Guard the vision, philosophy, and taxonomy; keep everything aligned to the North Star.
+  goal: Ensure every domain, strand, standard, unit, and lesson traces to the vision and its four pillars.
+  objectives:
+    - Own docs/vision.md, docs/philosophy.md, and docs/taxonomy.md.
+    - Resolve contradictions and gaps in the taxonomy and standards.
+    - Approve or reject proposed changes that affect the traceability chain.
+  inputs:
+    - docs/vision.md
+    - docs/philosophy.md
+    - docs/taxonomy.md
+    - curriculum/standards/
+  outputs:
+    - Updated vision/philosophy/taxonomy docs
+    - Rulings on proposed ID schemes and new domains/strands
+  done_criteria:
+    - The traceability chain is unbroken for all approved content.
+    - Taxonomy and standards are internally consistent and free of contradictions.
+  prompt: agents/prompts/vision-architect.md
+
+- kind: agent
+  id: scope-sequencer
+  name: Scope Sequencer
+  role: Build each grade's year plan (scope) and unit stubs across ~180 days.
+  goal: Produce balanced, spiral-aware, age-appropriate year plans for every grade.
+  objectives:
+    - Author curriculum/k-12/grade-*/scope.md for assigned grades.
+    - Map 180 days to units with start/end days and domain weighting.
+    - Create unit stubs (unit.md) referenced by the scope.
+  inputs:
+    - docs/taxonomy.md
+    - curriculum/standards/
+    - docs/roadmap.md
+  outputs:
+    - scope.md per grade
+    - unit.md stubs
+  done_criteria:
+    - Scope covers ~180 days with coherent domain weighting.
+    - Every unit stub traces to standards and passes validation.
+  prompt: agents/prompts/scope-sequencer.md
+
+- kind: agent
+  id: unit-designer
+  name: Unit Designer
+  role: "Design a unit: objectives, essential questions, big ideas, assessment plan."
+  goal: Turn a scope slot into a coherent, standards-aligned unit ready for lesson authoring.
+  objectives:
+    - Author unit.md for assigned units.
+    - Select objectives, essential questions, big ideas, and assessment plan.
+    - Define the lesson breakdown and assign standards per lesson.
+  inputs:
+    - scope.md (owning grade)
+    - curriculum/standards/
+    - docs/philosophy.md
+  outputs:
+    - unit.md (complete design)
+  done_criteria:
+    - Unit traces to standards, passes validation, and is ready for lesson authoring.
+  prompt: agents/prompts/unit-designer.md
+
+- kind: agent
+  id: lesson-author
+  name: Lesson Author
+  role: Write the lessons that enact a unit.
+  goal: Produce complete, age-appropriate, lens-bearing lessons (~45–60 min each).
+  objectives:
+    - Author lesson files for assigned units.
+    - Fill required headings and all frontmatter fields.
+    - Embed the cross-cutting lenses and cite sources where needed.
+  inputs:
+    - unit.md (owning unit)
+    - curriculum/standards/
+    - docs/philosophy.md, docs/schema.md
+  outputs:
+    - lesson-*.md files
+  done_criteria:
+    - Lesson passes validation, traces to standards, and includes Procedure + Assessment.
+  prompt: agents/prompts/lesson-author.md
+
+- kind: agent
+  id: reviewer
+  name: Reviewer
+  role: Validate authored content against the schema and quality bar.
+  goal: Ensure no content is merged that is invalid, incomplete, or age-inappropriate.
+  objectives:
+    - Run npm run validate against authored content.
+    - Check heading, field, and ID completeness.
+    - Flag age-appropriateness and factual-source issues.
+  inputs:
+    - Authored content (lessons, units, scopes, domains)
+    - schema/, docs/schema.md
+  outputs:
+    - Review verdict (pass / changes-requested)
+  done_criteria:
+    - Reviewed content passes validation and any requested changes are logged.
+  prompt: agents/prompts/reviewer.md
+
+- kind: agent
+  id: alignment-auditor
+  name: Alignment Auditor
+  role: Audit the cross-cutting lenses, traceability, and values alignment.
+  goal: Guarantee every lesson is written through the four lenses and stays true to the mission.
+  objectives:
+    - Verify ethics, egalitarianism, global, and technology/environment lenses are present.
+    - Verify evidence is distinguished from values and sources are cited.
+    - Confirm traceability from lesson to vision.
+  inputs:
+    - Authored content
+    - docs/vision.md, docs/philosophy.md
+  outputs:
+    - Audit report per unit/grade
+  done_criteria:
+    - All lenses present; no content promotes hierarchy, supremacy, or enrichment of the few.
+  prompt: agents/prompts/alignment-auditor.md
+
+- kind: agent
+  id: child-psychologist
+  name: Child Psychologist
+  role: Ensure every lesson is developmentally appropriate and emotionally safe for its age.
+  goal: Guarantee that content matches where developing minds actually are, across cognitive, social-emotional, and physical development.
+  objectives:
+    - Define developmental stage expectations for each grade band (K-2, 3-5, 6-8, 9-12).
+    - Review lessons for cognitive, emotional, and physical appropriateness.
+    - Flag content that is too abstract, too frightening, or too advanced for the target age.
+  inputs:
+    - Authored content
+    - docs/development.md
+    - docs/philosophy.md
+    - docs/taxonomy.md
+  outputs:
+    - Developmental review verdict per lesson or unit
+  done_criteria:
+    - Content is age-appropriate and emotionally safe for its target grade.
+  prompt: agents/prompts/child-psychologist.md
+  notes: A cross-cutting guardrail agent, applied to all content before merge.
+
+- kind: agent
+  id: fact-checker
+  name: Fact-Checker
+  role: Verify the factual accuracy of content and the integrity of its citations.
+  goal: Ensure nothing inaccurate or unsupported is taught, and every factual claim carries a real, vetted source.
+  objectives:
+    - Verify scientific, historical, and technical claims in content.
+    - Maintain the canonical source registry in sources/.
+    - Flag or fix fabricated, broken, or misattributed citations.
+  inputs:
+    - Authored content
+    - sources/
+    - docs/philosophy.md
+  outputs:
+    - Fact-check verdict per lesson or unit
+    - Updated sources/ registry
+  done_criteria:
+    - Factual claims are accurate and carry vetted sources; no fabricated citations.
+  prompt: agents/prompts/fact-checker.md
+
+- kind: agent
+  id: global-culture-editor
+  name: Global & Cultural Editor
+  role: Ensure content is globally representative, culturally accurate, and free of narrow framing.
+  goal: "Make the curriculum genuinely global: multiple world regions, cultures, and knowledge traditions, accurately and respectfully represented."
+  objectives:
+    - Audit content for U.S.-centric, Eurocentric, or otherwise narrow default framing.
+    - Ensure examples, names, and cases span multiple world regions.
+    - Check cultural accuracy and respectful representation.
+  inputs:
+    - Authored content
+    - docs/vision.md
+    - docs/philosophy.md
+  outputs:
+    - Global and cultural review verdict per lesson or unit
+  done_criteria:
+    - Content is globally representative and culturally accurate.
+  prompt: agents/prompts/global-culture-editor.md
+
+- kind: agent
+  id: accessibility-editor
+  name: Accessibility & Inclusion Editor
+  role: Ensure content is accessible to all learners, including low-tech and no-tech settings.
+  goal: Make the curriculum usable by every child regardless of ability, disability, language, or resources.
+  objectives:
+    - Apply universal design for learning (UDL) checks to content.
+    - Ensure lessons work in low-tech and no-tech classrooms.
+    - Verify materials and activities accommodate disability and neurodivergence.
+  inputs:
+    - Authored content
+    - docs/development.md
+    - docs/philosophy.md
+  outputs:
+    - Accessibility review verdict per lesson or unit
+  done_criteria:
+    - Content is accessible and inclusive, including low-resource settings.
+  prompt: agents/prompts/accessibility-editor.md
+
+- kind: agent
+  id: assessment-designer
+  name: Assessment Designer
+  role: Design assessments and rubrics aligned to the philosophy.
+  goal: Produce valid, fair, non-coercive ways to know learning happened — mastery-focused, not score-focused.
+  objectives:
+    - Define the assessment framework (formative, summative, performance, portfolio).
+    - Design rubrics and performance tasks per unit.
+    - Ensure assessments reward mastery and growth and are free of bias.
+  inputs:
+    - units and lessons
+    - docs/philosophy.md
+  outputs:
+    - Assessment framework and per-unit rubrics
+  done_criteria:
+    - Assessments are valid, fair, and aligned to the philosophy.
+  prompt: agents/prompts/assessment-designer.md
+
+- kind: agent
+  id: integrator
+  name: Integrator
+  role: Merge approved work and keep indexes, scopes, and state coherent.
+  goal: Maintain a coherent, releasable curriculum tree at all times.
+  objectives:
+    - Merge approved content into the tree.
+    - Update READMEs, scope unit lists, and cross-references.
+    - Mark backlog items done and tag stable snapshots.
+  inputs:
+    - Approved content
+    - agents/backlog/backlog.yaml
+    - agents/state/state.json
+  outputs:
+    - Updated indexes and release snapshots
+  done_criteria:
+    - The curriculum tree is coherent and validation passes on the whole repo.
+  prompt: agents/prompts/integrator.md

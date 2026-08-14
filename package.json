@@ -1,0 +1,27 @@
+{
+  "name": "new-world-order-edu",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A comprehensive, holistic, egalitarian K-12 curriculum offered free to the world.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "validate": "node tools/validate/validate.mjs",
+    "loop:next": "node tools/loop/loop.mjs next",
+    "loop:claim": "node tools/loop/loop.mjs claim",
+    "loop:submit": "node tools/loop/loop.mjs submit",
+    "loop:review": "node tools/loop/loop.mjs review",
+    "loop:complete": "node tools/loop/loop.mjs complete",
+    "loop:report": "node tools/loop/loop.mjs report",
+    "loop:list": "node tools/loop/loop.mjs list",
+    "loop:pipeline": "node tools/loop/loop.mjs pipeline",
+    "loop:coverage": "node tools/report/coverage.mjs",
+    "loop:run": "bash tools/loop/run-loop.sh"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "yaml": "^2.5.1"
+  }
+}

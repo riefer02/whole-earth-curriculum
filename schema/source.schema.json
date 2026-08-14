@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://newworldorder.edu/schema/source.schema.json",
+  "title": "Source",
+  "description": "A vetted reference in the curriculum's source registry.",
+  "type": "object",
+  "required": ["id", "title", "type"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^S-\\d{3}$" },
+    "title": { "type": "string", "minLength": 1 },
+    "type": { "type": "string", "enum": ["book", "article", "website", "video", "report", "other"] },
+    "url": { "type": "string" },
+    "author": { "type": "string" },
+    "organization": { "type": "string" },
+    "year": { "type": ["integer", "string"] },
+    "domains": { "type": "array", "items": { "type": "string", "pattern": "^D\\d{2}$" } },
+    "reviewed": { "type": "boolean" },
+    "notes": { "type": "string" }
+  },
+  "additionalProperties": true
+}

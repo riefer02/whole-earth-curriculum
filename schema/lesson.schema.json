@@ -1,0 +1,98 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://newworldorder.edu/schema/lesson.schema.json",
+  "title": "Lesson",
+  "description": "A single day of instruction. Validates the frontmatter of lesson files.",
+  "type": "object",
+  "required": [
+    "kind",
+    "id",
+    "title",
+    "grade",
+    "unit",
+    "domain",
+    "objectives",
+    "duration_minutes",
+    "status"
+  ],
+  "properties": {
+    "kind": { "const": "lesson" },
+    "id": { "type": "string", "pattern": "^L\\.\\d{2}\\.\\d{3}\\.\\d{2}$" },
+    "title": { "type": "string", "minLength": 1 },
+    "grade": { "type": "integer", "minimum": 0, "maximum": 12 },
+    "unit": { "type": "string", "pattern": "^U\\.\\d{2}\\.\\d{3}$" },
+    "sequence_in_unit": { "type": "integer", "minimum": 1 },
+    "domain": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "pattern": "^D\\d{2}$" }
+    },
+    "pillar": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^P[1-4]$" }
+    },
+    "strand": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^D\\d{2}\\.S\\d+$" }
+    },
+    "objectives": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "pattern": "^D\\d{2}\\.S\\d+\\.(K|\\d{2})\\.\\d{2}$" }
+    },
+    "essential_question": { "type": "string" },
+    "key_vocabulary": { "type": "array", "items": { "type": "string" } },
+    "materials": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": { "type": "string" },
+          "quantity": { "type": ["string", "integer"] },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "duration_minutes": { "type": "integer", "minimum": 1 },
+    "summary": { "type": "string" },
+    "cross_cutting_lenses": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "ethics",
+          "egalitarianism",
+          "global",
+          "technology",
+          "environment",
+          "social-emotional",
+          "physical",
+          "intellectual",
+          "community",
+          "professional",
+          "critical-thinking"
+        ]
+      }
+    },
+    "assessment_type": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "formative",
+          "summative",
+          "self",
+          "peer",
+          "portfolio",
+          "performance",
+          "observation"
+        ]
+      }
+    },
+    "status": { "type": "string", "enum": ["draft", "review", "approved"] },
+    "author": { "type": "string" },
+    "last_updated": { "type": "string" }
+  },
+  "additionalProperties": true
+}

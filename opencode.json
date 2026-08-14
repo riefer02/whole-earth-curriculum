@@ -1,0 +1,84 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "deepseek/deepseek-v4-pro",
+  "agent": {
+    "curriculum": {
+      "description": "Curriculum loop orchestrator: drives the NWO-EDU agent loop to completion.",
+      "mode": "primary",
+      "prompt": "{file:./agents/prompts/loop-orchestrator.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "allow" }
+    },
+    "vision-architect": {
+      "description": "Guard the NWO-EDU vision, philosophy, and taxonomy.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/vision-architect.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
+    "child-psychologist": {
+      "description": "Ensure lessons are developmentally appropriate and emotionally safe.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/child-psychologist.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
+    "scope-sequencer": {
+      "description": "Build a grade's year plan (scope) and unit stubs.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/scope-sequencer.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
+    "unit-designer": {
+      "description": "Design a unit: objectives, questions, big ideas, assessment plan.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/unit-designer.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
+    "assessment-designer": {
+      "description": "Design assessments and rubrics aligned to the philosophy.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/assessment-designer.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
+    "lesson-author": {
+      "description": "Write the lessons that enact a unit.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/lesson-author.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
+    "reviewer": {
+      "description": "Validate and quality-check authored content.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/reviewer.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
+    "fact-checker": {
+      "description": "Verify factual accuracy and maintain the sources registry.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/fact-checker.md}",
+      "permission": { "edit": "allow", "bash": "allow", "webfetch": "allow", "task": "deny" }
+    },
+    "global-culture-editor": {
+      "description": "Ensure global representation and cultural accuracy.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/global-culture-editor.md}",
+      "permission": { "edit": "allow", "bash": "allow", "webfetch": "allow", "task": "deny" }
+    },
+    "accessibility-editor": {
+      "description": "Ensure UDL, inclusion, and low-tech/no-tech accessibility.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/accessibility-editor.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
+    "alignment-auditor": {
+      "description": "Audit the cross-cutting lenses and traceability.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/alignment-auditor.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
+    "integrator": {
+      "description": "Merge approved work and keep indexes/state coherent.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/integrator.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    }
+  }
+}

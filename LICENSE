@@ -1,0 +1,37 @@
+# License — New World Order Education
+
+## Curriculum & scholastic content
+
+All curriculum content, standards, lessons, documentation, and scholastic assets in
+this repository are licensed under the **Creative Commons Attribution-ShareAlike 4.0
+International (CC BY-SA 4.0)** license.
+
+This means you are free to:
+
+- **Share** — copy and redistribute the material in any medium or format for any
+  purpose, even commercially.
+- **Adapt** — remix, transform, and build upon the material for any purpose, even
+  commercially.
+
+Under the following terms:
+
+- **Attribution** — you must give appropriate credit, provide a link to the license,
+  and indicate if changes were made.
+- **ShareAlike** — if you remix, transform, or build upon the material, you must
+  distribute your contributions under the same license as the original.
+
+This ShareAlike term is deliberate: it keeps the curriculum, and anything built on
+it, open and free for everyone — preventing it from being captured and closed off by
+the few.
+
+The canonical, legally-binding text of the license is available at:
+
+<https://creativecommons.org/licenses/by-sa/4.0/legalcode>
+
+A human-readable summary is at:
+
+<https://creativecommons.org/licenses/by-sa/4.0/>
+
+## Tooling
+
+Code in `tools/` is licensed separately under the MIT License; see `tools/LICENSE`.

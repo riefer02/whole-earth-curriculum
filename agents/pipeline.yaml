@@ -1,0 +1,32 @@
+# Canonical linear order of the agent loop (sequential dependencies).
+#
+# Stages run in order; each stage's work must complete before the next begins.
+# The review stage is itself a linear chain, and each review agent depends on
+# the previous one (see agents/loop.md):
+#
+#   reviewer -> fact-checker -> global-culture-editor -> accessibility-editor
+#             -> alignment-auditor -> integrator
+#
+# This keeps a single, linear thread of traceability through git history.
+# Parallel fan-out is a later optimization, not the current default.
+
+stages:
+  - order: 1
+    name: foundation
+    agents: [vision-architect, child-psychologist]
+  - order: 2
+    name: sequence
+    agents: [scope-sequencer]
+  - order: 3
+    name: design
+    agents: [unit-designer, assessment-designer]
+  - order: 4
+    name: author
+    agents: [lesson-author]
+  - order: 5
+    name: review
+    agents:
+      [reviewer, fact-checker, global-culture-editor, accessibility-editor, alignment-auditor]
+  - order: 6
+    name: integrate
+    agents: [integrator]

@@ -1,0 +1,110 @@
+# Curriculum-building backlog.
+#
+# Lifecycle:  ready -> claimed -> review -> done
+#   ready    — defined and available to claim
+#   claimed  — an author is working on it
+#   review   — authored; entering the required_reviews chain (in order)
+#   done     — all required reviews passed and merged
+#
+# required_reviews lists the reviewers that must each record `passed` (in order)
+# before the item can be `done`. A `blocked` verdict sends it back to `claimed`
+# and restarts the review chain.
+#
+# depends_on items must be `done` before the item can be claimed.
+
+items:
+  - id: B-000
+    title: Kindergarten exemplar slice (D01 + D06 lessons and units)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D01
+    status: review
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Schema and headings verified during scaffold.
+    notes: Exemplars authored during scaffold; now entering the review chain.
+
+  - id: B-001
+    title: Complete strand lists for domains D02–D10 in the standards tree
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: null
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Fill strands for the nine domains beyond the D01 and D06 exemplars.
+
+  - id: B-002
+    title: Author Kindergarten scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 0
+    domain: null
+    status: ready
+    priority: 2
+    depends_on:
+      - B-001
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Replace the illustrative unit list in scope.md with the full year.
+
+  - id: B-003
+    title: Author Grade 1 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 1
+    domain: null
+    status: ready
+    priority: 3
+    depends_on:
+      - B-001
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Spiral from Kindergarten.
+
+  - id: B-004
+    title: Author the remaining 9 lessons of Unit U.00.001 "Who Am I?"
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D01
+    status: ready
+    priority: 4
+    depends_on: []
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Only lesson L.00.001.01 exists as an exemplar.
+
+  - id: B-010
+    title: Define the assessment framework (formative, summative, performance, portfolio)
+    agent: assessment-designer
+    type: standards
+    grade: null
+    domain: null
+    status: ready
+    priority: 2
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Author docs/assessment.md, the framework the assessment-designer applies per unit.

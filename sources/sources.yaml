@@ -1,0 +1,57 @@
+# Canonical source registry. Owned by the fact-checker agent.
+# `reviewed` is true only after the fact-checker has verified the source.
+
+sources:
+  - id: S-001
+    title: CASEL — Fundamentals of Social and Emotional Learning
+    type: website
+    url: https://casel.org/fundamentals-of-sel/
+    organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
+    domains: [D01, D02]
+    reviewed: false
+    notes: Framework for the SEL competencies referenced in D01 exemplars.
+
+  - id: S-002
+    title: NASA — What Is the Big Bang?
+    type: website
+    url: https://science.nasa.gov/astrophysics/focus-areas/what-is-the-big-bang/
+    organization: NASA
+    domains: [D06]
+    reviewed: false
+    notes: Age-appropriate origin story referenced in the D06 exemplar.
+
+  - id: S-003
+    title: World Health Organization
+    type: website
+    url: https://www.who.int/
+    organization: WHO
+    domains: [D03, D10]
+    reviewed: false
+    notes: Global health reference for Body & Wellness.
+
+  - id: S-004
+    title: UNESCO — Education for Sustainable Development
+    type: website
+    url: https://www.unesco.org/en/sustainable-development/education
+    organization: UNESCO
+    domains: [D08, D10]
+    reviewed: false
+    notes: Global education and sustainability reference.
+
+  - id: S-005
+    title: Intergovernmental Panel on Climate Change
+    type: website
+    url: https://www.ipcc.ch/
+    organization: IPCC
+    domains: [D06, D10]
+    reviewed: false
+    notes: Authoritative climate science for Environment content.
+
+  - id: S-006
+    title: Our World in Data
+    type: website
+    url: https://ourworldindata.org/
+    organization: Global Change Data Lab (University of Oxford)
+    domains: [D05, D08, D09]
+    reviewed: false
+    notes: Global, open data for history, civic life, and reasoning.
