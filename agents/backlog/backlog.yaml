@@ -263,3 +263,16 @@ items:
       - accessibility-editor
       - global-culture-editor
     notes: Produce SVG assets (feeling-face cards, universe story sequence) and add materials tiers + context variants per docs/art-style.md.
+
+  - id: B-031
+    title: Verify the pedagogy/context sources (S-007–S-014) and mark them reviewed
+    agent: fact-checker
+    type: review
+    grade: null
+    domain: null
+    status: ready
+    priority: 2
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Confirm the cited programs, figures, and URLs in sources.yaml (S-007 through S-014); fix or flag inaccuracies, then mark each source reviewed.

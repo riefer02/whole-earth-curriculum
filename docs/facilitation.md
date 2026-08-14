@@ -48,3 +48,10 @@ and the outdoors, you have enough. Adapt first; enrich when you can.
 A learner working alone reads the procedure as "you," does the activity, and uses the
 assessment and self-assessment to check understanding. Encourage them to write or
 talk through their thinking — the act of explaining *is* the learning.
+
+## When to instruct, when to inquire
+
+Use explicit instruction, worked examples, and guided practice for foundational
+skills (reading, arithmetic, novice knowledge). Use inquiry, story, and wonder for
+concepts, meaning, and motivation. Neither is a dogma. For class size, multi-grade,
+and no-facilitator contexts, see [`docs/contexts.md`](contexts.md).

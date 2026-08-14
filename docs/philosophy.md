@@ -89,3 +89,12 @@ that is, in many ways, deeply unhealthy. The measure of this curriculum is not t
 scores but whether learners become more self-aware, more self-motivated, more
 capable of joy and belonging, and more able to care for themselves, each other, and
 the living systems around them.
+
+## 13. Inquiry and instruction, balanced
+
+We favor inquiry, story, and wonder for concepts and motivation — but we do not make
+discovery a dogma. For foundational skills (reading, arithmetic, and other novice
+knowledge), we use explicit instruction, worked examples, and guided practice,
+because that is what the evidence supports (Kirschner, Sweller & Clark, 2006). The
+right method depends on what is being learned and who is learning it. See
+[`docs/contexts.md`](contexts.md).

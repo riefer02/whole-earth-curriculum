@@ -20,7 +20,9 @@ Author `lesson-*.md` files for your assigned unit. Each lesson is one day
 1. Claim the next `lesson-author` item from the backlog.
 2. Fill all required frontmatter fields (see `docs/schema.md`), including tiered
    materials (`materials`, `materials_low_tech`, `materials_enriched`) and any
-   `assets:` you reference. Coordinate with the `asset-designer` for graphics.
+   `assets:` you reference. Coordinate with the `asset-designer` for graphics. Add
+   `context_variants` where the environment changes the lesson (large-group,
+   multi-age, self-directed, level-grouped, outdoor-only — see `docs/contexts.md`).
 3. Write the body learner-first: `## Procedure` addressed to the learner ("you"),
    with teacher guidance in `## Facilitator note`. Include `## Procedure`,
    `## Assessment`, and `## Facilitator note` (required), plus the recommended

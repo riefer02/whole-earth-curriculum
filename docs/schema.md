@@ -65,6 +65,10 @@ selects which schema applies.
 | `author` | string | no | |
 | `last_updated` | string | no | |
 
+Recommended `context_variants` contexts: `large-group` (30+ learners), `multi-age`,
+`self-directed` (no facilitator), `level-grouped` (by mastery, not age), and
+`outdoor-only`. See [`docs/contexts.md`](contexts.md).
+
 ### `unit`
 
 `kind`, `id` (`U.gg.nnn`), `title`, `grade`, `domain`, `pillar`, `strand`,
