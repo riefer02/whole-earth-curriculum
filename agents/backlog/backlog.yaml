@@ -213,7 +213,7 @@ items:
     type: scope
     grade: 0
     domain: null
-    status: ready
+    status: done
     priority: 2
     depends_on:
       - B-001
@@ -221,6 +221,13 @@ items:
       - vision-architect
       - reviewer
     notes: Replace the illustrative unit list in scope.md with the full year.
+    reviews:
+      vision-architect:
+        verdict: passed
+        note: "Validate passed (29 files, 0 warnings). Traceability verified: all 13 units' objectives resolve to real K standards (e.g. U.00.009 declares D06.S1.K.01 + D06.S4.K.02, both in domain-06 K ladder; U.00.013 D01.S1.K.02/D01.S2.K.02/D02.S3.K.01/D02.S4.K.01 all resolve). No invented IDs; domain/pillar pairs match taxonomy (D01/D02->P1, D03->P2, D04-D07->P3, D08-D10->P4). Days 1-180 contiguous no gaps/overlaps; all 10 domains covered; weighting sums 100. All 4 pillars present, P1+P2 foundations front-loaded ~39% age-appropriate. Framing global/non-Eurocentric, origins as wonder-not-creed, no hierarchy/supremacy. Non-blocking: clarify lesson_count vs day-span (flex/assessment days), reword P1/P2 'most weight' prose to match day math."
+      reviewer:
+        verdict: passed
+        note: "Validate passed (29 files, 0 warnings). Scope frontmatter complete (kind/grade/year_title/units/status + total_school_days 180); all 13 unit entries carry unit_id/title/start_day/end_day. Days 1-180 continuous no gaps/overlaps. Cross-check: scope U.00.009 'The Living World Around Us' (126-140, D06) matches stub unit-009 id/title/grade/domain; all 13 unit_ids resolve to matching stubs (U.00.013 correctly domain [D01,D02]). Every objectives: entry resolves to real standards (D01.S1.K.01, D06.S4.K.02, D10.S4.K.01 all exist). domain_weighting sums 100. Age-appropriate (play-based, no high-stakes tests, origins as wonder-not-creed). Global framing (home language first, multilingualism as wealth). Non-blocking: duration_weeks mismatch on first 3 units vs day-spans; lesson_count vs day-span could use a note."
   - id: B-003
     title: Author Grade 1 scope (full 180-day plan)
     agent: scope-sequencer
