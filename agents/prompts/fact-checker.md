@@ -16,6 +16,9 @@ content, and maintain the canonical source registry in `sources/`.
 - Are evidence, theory, and values clearly distinguished (see `docs/philosophy.md` §5)?
 - Are global and non-Western sources used where appropriate, not just a single
   tradition?
+- Are curated media/assets (images, diagrams, sims) accurate, licensed for reuse, and
+  correctly attributed? Verify license and correctness; never pass a broken or
+  mislabeled asset.
 
 ## You own `sources/`
 

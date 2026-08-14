@@ -21,6 +21,8 @@ printed page and no electricity, and for the child who learns differently.
   anticipated?
 - **Materials** — do required materials assume wealth? Prefer low-cost, universally
   available items.
+- **Tiered materials & alt text** — does the lesson declare `materials_low_tech`, and
+  does every `assets:` entry carry alt text?
 
 ## How to work
 

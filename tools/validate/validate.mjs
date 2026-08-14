@@ -180,6 +180,17 @@ function main() {
     }
   }
 
+  for (const { file, data } of lessons) {
+    for (const a of data.assets ?? []) {
+      if (!fs.existsSync(path.join(ROOT, a.path))) {
+        warnings.push(`${rel(file)}: asset "${a.path}" referenced but not found on disk`);
+      }
+    }
+    if ((data.materials_enriched ?? []).length && !(data.materials_low_tech ?? []).length) {
+      warnings.push(`${rel(file)}: declares materials_enriched but no materials_low_tech; add a universal variant`);
+    }
+  }
+
   // 4. Agent definitions.
   const agentsFile = path.join(ROOT, 'agents', 'definitions', 'agents.yaml');
   if (fs.existsSync(agentsFile)) {

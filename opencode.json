@@ -38,6 +38,12 @@
       "prompt": "{file:./agents/prompts/assessment-designer.md}",
       "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
     },
+    "asset-designer": {
+      "description": "Author original SVG graphics/worksheets and tiered materials.",
+      "mode": "subagent",
+      "prompt": "{file:./agents/prompts/asset-designer.md}",
+      "permission": { "edit": "allow", "bash": "allow", "task": "deny" }
+    },
     "lesson-author": {
       "description": "Write the lessons that enact a unit.",
       "mode": "subagent",

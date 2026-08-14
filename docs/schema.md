@@ -52,7 +52,11 @@ selects which schema applies.
 | `objectives` | array | yes | one or more standard IDs |
 | `essential_question` | string | no | |
 | `key_vocabulary` | array | no | |
-| `materials` | array | no | `{ name, quantity, notes }` |
+| `materials` | array | no | standard classroom supplies `{ name, quantity, notes }` |
+| `materials_low_tech` | array | no | no-cost/universal variant (paper, found objects, voice, body) |
+| `materials_enriched` | array | no | lab/device/field-trip variant |
+| `context_variants` | array | no | `{ context, note }` for environment changes (forest vs lab, etc.) |
+| `assets` | array | no | `{ path, alt, kind, source }` — `path` must resolve to a real file |
 | `duration_minutes` | integer | yes | |
 | `summary` | string | no | |
 | `cross_cutting_lenses` | array | no | from the allowed list |

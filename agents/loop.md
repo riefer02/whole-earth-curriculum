@@ -58,7 +58,7 @@ item is declared in its `required_reviews` field.
 
 ```
 Production:   scope-sequencer → unit-designer → lesson-author
-Design:       assessment-designer (works alongside unit-designer and lesson-author)
+Design:       assessment-designer, asset-designer (alongside unit-designer and lesson-author)
 Review:       reviewer → fact-checker → global-culture-editor → accessibility-editor
                → alignment-auditor → child-psychologist
 Integrate:    integrator (completes and commits)

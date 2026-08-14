@@ -19,7 +19,7 @@ stages:
     agents: [scope-sequencer]
   - order: 3
     name: design
-    agents: [unit-designer, assessment-designer]
+    agents: [unit-designer, assessment-designer, asset-designer]
   - order: 4
     name: author
     agents: [lesson-author]

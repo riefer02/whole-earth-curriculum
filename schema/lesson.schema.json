@@ -15,6 +15,30 @@
     "duration_minutes",
     "status"
   ],
+  "definitions": {
+    "material": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "quantity": { "type": ["string", "integer"] },
+        "notes": { "type": "string" }
+      }
+    },
+    "asset": {
+      "type": "object",
+      "required": ["path", "alt"],
+      "properties": {
+        "path": {
+          "type": "string",
+          "pattern": "^assets/.*\\.(svg|png|webp|jpg|jpeg|pdf|mp3|ogg|opus|mp4|webm)$"
+        },
+        "alt": { "type": "string", "minLength": 1 },
+        "kind": { "type": "string", "enum": ["image", "worksheet", "audio", "video"] },
+        "source": { "type": "string" }
+      }
+    }
+  },
   "properties": {
     "kind": { "const": "lesson" },
     "id": { "type": "string", "pattern": "^L\\.\\d{2}\\.\\d{3}\\.\\d{2}$" },
@@ -42,18 +66,21 @@
     },
     "essential_question": { "type": "string" },
     "key_vocabulary": { "type": "array", "items": { "type": "string" } },
-    "materials": {
+    "materials": { "type": "array", "items": { "$ref": "#/definitions/material" } },
+    "materials_low_tech": { "type": "array", "items": { "$ref": "#/definitions/material" } },
+    "materials_enriched": { "type": "array", "items": { "$ref": "#/definitions/material" } },
+    "context_variants": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["name"],
+        "required": ["context"],
         "properties": {
-          "name": { "type": "string" },
-          "quantity": { "type": ["string", "integer"] },
-          "notes": { "type": "string" }
+          "context": { "type": "string", "minLength": 1 },
+          "note": { "type": "string" }
         }
       }
     },
+    "assets": { "type": "array", "items": { "$ref": "#/definitions/asset" } },
     "duration_minutes": { "type": "integer", "minimum": 1 },
     "summary": { "type": "string" },
     "cross_cutting_lenses": {

@@ -18,7 +18,9 @@ Author `lesson-*.md` files for your assigned unit. Each lesson is one day
 ## How to work
 
 1. Claim the next `lesson-author` item from the backlog.
-2. Fill all required frontmatter fields (see `docs/schema.md`).
+2. Fill all required frontmatter fields (see `docs/schema.md`), including tiered
+   materials (`materials`, `materials_low_tech`, `materials_enriched`) and any
+   `assets:` you reference. Coordinate with the `asset-designer` for graphics.
 3. Write the body with at least `## Procedure` and `## Assessment` (and the
    recommended headings).
 4. Embed the cross-cutting lenses; cite sources for factual claims.

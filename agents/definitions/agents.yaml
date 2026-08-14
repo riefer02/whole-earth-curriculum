@@ -217,6 +217,26 @@
   prompt: agents/prompts/assessment-designer.md
 
 - kind: agent
+  id: asset-designer
+  name: Asset Designer
+  role: Author original SVG graphics and worksheets, and declare tiered materials for lessons.
+  goal: Ensure every lesson has clear, accessible, culturally appropriate visual assets and materials that work across contexts.
+  objectives:
+    - Author original SVG graphics, diagrams, and worksheets following docs/art-style.md.
+    - Declare 3-tier materials (low-tech, standard, enriched) for each lesson.
+    - Provide context variants for different learning environments.
+  inputs:
+    - lessons and units
+    - docs/art-style.md
+    - assets/
+  outputs:
+    - SVG and worksheet files under assets/
+    - Tiered materials and context variants in lesson frontmatter
+  done_criteria:
+    - Assets resolve to real files, are accessible (alt text), and tiered materials include a low-tech option.
+  prompt: agents/prompts/asset-designer.md
+
+- kind: agent
   id: integrator
   name: Integrator
   role: Merge approved work and keep indexes, scopes, and state coherent.

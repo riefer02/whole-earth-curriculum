@@ -22,6 +22,7 @@ coordinated.
 | `scope-sequencer` | Builds each grade's year plan (scope) and unit stubs. |
 | `unit-designer` | Designs units (objectives, questions, assessment plan). |
 | `assessment-designer` | Designs assessments and rubrics aligned to the philosophy. |
+| `asset-designer` | Authors SVG graphics/worksheets and tiered materials. |
 | `lesson-author` | Writes the lessons that enact units. |
 | `reviewer` | Validates and quality-checks authored content. |
 | `fact-checker` | Verifies factual accuracy and maintains the `sources/` registry. |
