@@ -35,3 +35,4 @@ content, and maintain the canonical source registry in `sources/`.
 
 - Never approve a claim you have not verified or cannot source.
 - Do not let the curriculum teach something merely because it is commonly repeated.
+- A `passed` verdict must name the specific claims and sources you verified.

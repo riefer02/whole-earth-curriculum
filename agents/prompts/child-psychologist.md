@@ -37,3 +37,4 @@ Your working rubric is `docs/development.md` — read it first, then apply it.
 - Never approve content that is too abstract, too frightening, or too advanced for
   its grade — or that treats learners as passive receptacles rather than authors.
 - Keep the spiral in mind: what is right at one age is the foundation for the next.
+- A `passed` verdict must name the developmental checks you made for the target band.

@@ -28,3 +28,4 @@ Audit authored content against the four cross-cutting lenses and the values in
 
 - Reject content that promotes hierarchy, supremacy, or enrichment of the few.
 - Do not approve content that is missing the lenses.
+- A `passed` verdict must name the lenses you verified and how the item traces to the vision.

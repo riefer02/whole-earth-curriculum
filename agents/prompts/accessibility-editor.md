@@ -34,3 +34,4 @@ printed page and no electricity, and for the child who learns differently.
 
 - Do not approve content that silently requires wealth, devices, or able-bodiedness.
 - Assume learners are diverse by default, not as an edge case.
+- A `passed` verdict must name the specific accessibility barriers you checked.

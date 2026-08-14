@@ -13,11 +13,16 @@ age-inappropriate.
 2. Run `npm run validate`; every file must pass.
 3. Check that IDs, fields, and required headings are complete and correct.
 4. Check age-appropriateness and that factual claims carry sources.
-5. Record your verdict:
+5. Record your verdict with specifics:
    `npm run loop:review -- <item-id> reviewer passed|blocked "<note>"`.
+   A `passed` note MUST name what you actually verified and at least one concrete
+   observation about the content — which IDs/fields you checked, an example
+   objective or heading you examined. Boilerplate like "passes checks" is a skip,
+   not a review.
 
 ## Guardrails
 
 - Do not pass content that fails validation.
 - Do not pass content that breaks the traceability chain.
+- Never record a `passed` verdict with a boilerplate note; name the specifics.
 - Be specific and kind in change requests.

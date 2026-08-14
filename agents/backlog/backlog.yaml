@@ -1,3 +1,17 @@
+# Curriculum-building backlog.
+#
+# Lifecycle:  ready -> claimed -> review -> done
+#   ready    — defined and available to claim
+#   claimed  — an author is working on it
+#   review   — authored; entering the required_reviews chain (in order)
+#   done     — all required reviews passed and merged
+#
+# required_reviews lists the reviewers that must each record `passed` (in order)
+# before the item can be `done`. A `blocked` verdict sends it back to `claimed`
+# and restarts the review chain.
+#
+# depends_on items must be `done` before the item can be claimed.
+
 items:
   - id: B-000
     title: Kindergarten exemplar slice (D01 + D06 lessons and units)
@@ -20,6 +34,7 @@ items:
         verdict: passed
         note: Schema and headings verified during scaffold.
     notes: Exemplars authored during scaffold; now entering the review chain.
+
   - id: B-001
     title: Complete strand lists for domains D02–D10 in the standards tree
     agent: vision-architect
@@ -32,10 +47,137 @@ items:
     required_reviews:
       - reviewer
     notes: Fill strands for the nine domains beyond the D01 and D06 exemplars.
-    reviews:
-      reviewer:
-        verdict: passed
-        note: All 8 new domain files (D02-D05, D07-D10) pass schema, taxonomy, and voice checks; validation passes.
+
+  - id: B-020
+    title: Author grade 01-12 objectives for D01 Self & Identity
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D01
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D01 (grades 01-12); K already done.
+
+  - id: B-021
+    title: Author grade 01-12 objectives for D02 Relationships & Community
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D02
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D02 (grades 01-12).
+
+  - id: B-022
+    title: Author grade 01-12 objectives for D03 Body & Wellness
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D03
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D03 (grades 01-12).
+
+  - id: B-023
+    title: Author grade 01-12 objectives for D04 Language & Communication
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D04
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D04 (grades 01-12).
+
+  - id: B-024
+    title: Author grade 01-12 objectives for D05 Mathematics & Reasoning
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D05
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D05 (grades 01-12).
+
+  - id: B-025
+    title: Author grade 01-12 objectives for D06 Science & Inquiry
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D06
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D06 (grades 01-12).
+
+  - id: B-026
+    title: Author grade 01-12 objectives for D07 Creative & Aesthetic Expression
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D07
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D07 (grades 01-12).
+
+  - id: B-027
+    title: Author grade 01-12 objectives for D08 Humanity & Global History
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D08
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D08 (grades 01-12).
+
+  - id: B-028
+    title: Author grade 01-12 objectives for D09 Ethics, Justice & Civic Life
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D09
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D09 (grades 01-12).
+
+  - id: B-029
+    title: Author grade 01-12 objectives for D10 Technology, Media & Environment
+    agent: vision-architect
+    type: standards
+    grade: null
+    domain: D10
+    status: ready
+    priority: 1
+    depends_on: []
+    required_reviews:
+      - reviewer
+    notes: Complete the vertical objective ladder for D10 (grades 01-12).
+
   - id: B-002
     title: Author Kindergarten scope (full 180-day plan)
     agent: scope-sequencer
@@ -50,6 +192,7 @@ items:
       - vision-architect
       - reviewer
     notes: Replace the illustrative unit list in scope.md with the full year.
+
   - id: B-003
     title: Author Grade 1 scope (full 180-day plan)
     agent: scope-sequencer
@@ -57,13 +200,23 @@ items:
     grade: 1
     domain: null
     status: ready
-    priority: 3
+    priority: 5
     depends_on:
-      - B-001
+      - B-020
+      - B-021
+      - B-022
+      - B-023
+      - B-024
+      - B-025
+      - B-026
+      - B-027
+      - B-028
+      - B-029
     required_reviews:
       - vision-architect
       - reviewer
-    notes: Spiral from Kindergarten.
+    notes: Blocked until the grade 01-12 objective ladder exists for all domains.
+
   - id: B-004
     title: Author the remaining 9 lessons of Unit U.00.001 "Who Am I?"
     agent: lesson-author
@@ -81,6 +234,7 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Only lesson L.00.001.01 exists as an exemplar.
+
   - id: B-010
     title: Define the assessment framework (formative, summative, performance, portfolio)
     agent: assessment-designer
@@ -93,4 +247,3 @@ items:
     required_reviews:
       - reviewer
     notes: Author docs/assessment.md, the framework the assessment-designer applies per unit.
-

@@ -33,3 +33,4 @@ must never default to one nation's or one civilization's point of view.
 
 - Do not approve content that centers one civilization or excludes most of the world.
 - Treat cultures with respect and precision, never as decoration.
+- A `passed` verdict must name the specific framing or representation checks you made.
