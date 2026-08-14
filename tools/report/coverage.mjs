@@ -97,6 +97,22 @@ for (const [id, info] of [...standards.entries()].sort()) {
   console.log(`  ${id.padEnd(8)}${String(info.total).padEnd(12)}${String(covered).padEnd(12)}${pct(covered, info.total)}`);
 }
 
+console.log('\nDeclared objectives by grade x domain (spine)');
+const gradeTokens = ['K', ...Array.from({ length: 12 }, (_, i) => String(i + 1).padStart(2, '0'))];
+let header = '  ' + 'Domain'.padEnd(6);
+for (const g of gradeTokens) header += g.padStart(4);
+header += '  total';
+console.log(header);
+for (const [id, info] of [...standards.entries()].sort()) {
+  let row = '  ' + id.padEnd(6);
+  for (const g of gradeTokens) {
+    const n = info.byGrade.get(g) ?? 0;
+    row += (n === 0 ? '.' : String(n)).padStart(4);
+  }
+  row += '  ' + String(info.total).padStart(4);
+  console.log(row);
+}
+
 console.log('\nBy grade');
 console.log('  ' + 'Grade'.padEnd(8) + 'Units'.padEnd(8) + 'Lessons'.padEnd(10) + 'Objectives covered');
 for (const g of GRADES) {

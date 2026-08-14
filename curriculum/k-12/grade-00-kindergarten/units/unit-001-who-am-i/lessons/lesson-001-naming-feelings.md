@@ -70,19 +70,23 @@ or a movement.
 - Print or draw a set of feeling face cards.
 - Arrange a circle for gathering and discussion.
 
+## Facilitator note
+
+This lesson is written to the learner ("you") so it works in a classroom and for a
+self-directed learner. As facilitator, prepare the cards, mirror, and circle, then
+guide the closing reflection — the learner follows the procedure directly.
+
 ## Procedure
 
-1. **Gather (5 min).** Sit in a circle. Ask: "How does your body feel right now?"
-2. **Introduce the feeling cards (10 min).** Show each card; name the feeling; make
-   the face together. Invite learners to point to a card that matches how they feel
-   today.
-3. **Body check (10 min).** Guide a simple scan: "Where do you feel happy in your
-   body?" (e.g., a warm chest, a smile). Use the mirror so learners can see their
-   own faces.
-4. **Express it (15 min).** Learners choose one feeling and show it in one of three
-   ways: a word, a drawing, or a movement. Share in pairs.
-5. **Close (5 min).** Reflect: "Everyone has feelings, and feelings change. That is
-   okay."
+1. **Gather (5 min).** Sit comfortably. Notice: how does your body feel right now?
+2. **Meet the feeling cards (10 min).** Look at each card and name the feeling. Make
+   the face together. Point to the card that matches how you feel today.
+3. **Body check (10 min).** Slowly scan your body: where do you feel happy? (A warm
+   chest, a smile.) Look in a mirror to see your own face.
+4. **Express it (15 min).** Choose one feeling and show it in one of three ways: a
+   word, a drawing, or a movement. Share with a partner.
+5. **Close (5 min).** Remember: everyone has feelings, and feelings change. That is
+   okay.
 
 ## Differentiation
 

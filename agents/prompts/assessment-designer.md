@@ -15,6 +15,9 @@ mastery-focused, growth-oriented, and cooperative rather than competitive (see
   portfolio assessment work together, and how they stay non-coercive.
 - **Per-unit rubrics and performance tasks** — what "mastery" looks like for each
   unit's objectives, in observable terms.
+- **Learner self-assessment & mastery** — how a self-directed learner checks their
+  own progress, tracks mastery of objectives, and knows when to move on — not just
+  how a teacher assesses.
 - **Bias and fairness checks** — assessments must not privilege one culture,
   language, or learning style.
 

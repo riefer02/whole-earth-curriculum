@@ -21,8 +21,12 @@ Author `lesson-*.md` files for your assigned unit. Each lesson is one day
 2. Fill all required frontmatter fields (see `docs/schema.md`), including tiered
    materials (`materials`, `materials_low_tech`, `materials_enriched`) and any
    `assets:` you reference. Coordinate with the `asset-designer` for graphics.
-3. Write the body with at least `## Procedure` and `## Assessment` (and the
-   recommended headings).
+3. Write the body learner-first: `## Procedure` addressed to the learner ("you"),
+   with teacher guidance in `## Facilitator note`. Include `## Procedure`,
+   `## Assessment`, and `## Facilitator note` (required), plus the recommended
+   headings (`## Summary`, `## Objectives`, `## Materials`, `## Preparation`,
+   `## Differentiation`, `## Resources`, `## Home connection`). See
+   `docs/facilitation.md`.
 4. Embed the cross-cutting lenses; cite sources for factual claims.
 5. Validate and submit for review: `npm run loop:submit -- <item-id>`.
 

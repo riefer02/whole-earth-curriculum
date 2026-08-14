@@ -81,20 +81,20 @@ as meaningful, too. The goal is curiosity and comfort with big questions, not be
 
 ## Procedure
 
-1. **Gather (5 min).** Sit in a circle. Ask: "Has anyone ever wondered where
-   everything came from — the stars, the Earth, the people?"
-2. **Tell the story (10 min).** Tell it gently, using the pictures: "Once, a very,
-   very long time ago, everything we can see was packed into something unimaginably
-   small and hot. And then — it began to grow and stretch, and slowly, slowly, it
-   became stars, and galaxies, and our Earth." Add: "Scientists tell this story
-   because they have looked at the sky and found clues that point to it."
-3. **Many stories (10 min).** Say: "People all over the world, for a very long time,
-   have told other beautiful stories about beginnings, too. We can listen to all of
-   them." Invite learners to share a story their family tells, if they wish.
-4. **Wonder box (15 min).** Learners draw their favorite part of the story — or draw
-   a question they have about the beginning — and place it in the wonder box.
-5. **Close (5 min).** Reflect: "Some questions are so big that even grown-ups are
-   still wondering. Wondering together is one of the best things humans do."
+1. **Gather (5 min).** Sit comfortably. Wonder: where did everything come from — the
+   stars, the Earth, the people?
+2. **Hear the story (10 min).** Listen to the story of the beginning, and follow the
+   pictures: "Once, a very, very long time ago, everything we can see was packed into
+   something unimaginably small and hot. And then — it began to grow and stretch, and
+   slowly, slowly, it became stars, and galaxies, and our Earth." Scientists tell this
+   story because they have looked at the sky and found clues that point to it.
+3. **Many stories (10 min).** People all over the world, for a very long time, have
+   told other beautiful stories about beginnings, too. We can listen to all of them.
+   If you wish, share a story your family tells.
+4. **Wonder box (15 min).** Draw your favorite part of the story — or draw a question
+   you have about the beginning — and place it in the wonder box.
+5. **Close (5 min).** Remember: some questions are so big that even grown-ups are
+   still wondering. Wondering together is one of the best things humans do.
 
 ## Differentiation
 

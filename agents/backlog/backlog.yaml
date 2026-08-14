@@ -236,7 +236,7 @@ items:
     notes: Only lesson L.00.001.01 exists as an exemplar.
 
   - id: B-010
-    title: Define the assessment framework (formative, summative, performance, portfolio)
+    title: Define the assessment framework (formative, summative, performance, portfolio, self-assessment, mastery)
     agent: assessment-designer
     type: standards
     grade: null
@@ -246,7 +246,7 @@ items:
     depends_on: []
     required_reviews:
       - reviewer
-    notes: Author docs/assessment.md, the framework the assessment-designer applies per unit.
+    notes: Author docs/assessment.md covering teacher assessment AND learner self-assessment with mastery/progress tracking for self-directed learners.
 
   - id: B-030
     title: Author exemplar assets + tiered materials for the two Kindergarten exemplar lessons

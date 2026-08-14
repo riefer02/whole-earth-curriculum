@@ -30,6 +30,9 @@ resolve to real standard IDs.
 - `docs/schema.md` — the frontmatter schema and required body headings.
 - `docs/architecture.md` — how the monorepo is organized.
 - `docs/roadmap.md` — sequencing of the build.
+- `docs/development.md` — the developmental rubric (age-appropriateness).
+- `docs/facilitation.md` — how to teach without dogma, hold hard topics, assess fairly.
+- `docs/art-style.md` — the visual style and accessibility of assets.
 
 ## 3. Authoring rules
 

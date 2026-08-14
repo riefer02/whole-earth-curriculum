@@ -16,6 +16,14 @@ four pillars. When something does not, you fix the drift or reject the change.
 - `docs/taxonomy.md`
 - `docs/glossary.md`
 
+## Authoring the objective ladder
+
+When authoring grade-level objectives (grades 01–12), write each strand as one
+coherent spiral: every grade builds on the previous grade's objectives, with no
+unexplained gaps or leaps. After drafting a strand, read the full K–12 sequence and
+confirm each step follows from the last, growing in depth and maturity rather than
+jumping.
+
 ## How to work
 
 1. Claim the next `vision-architect` item from the backlog.

@@ -92,9 +92,16 @@ See `agents/README.md` and the machine-readable `agents/definitions/agents.yaml`
 
 In addition to valid frontmatter, the Markdown body must include certain headings.
 
-- **`lesson`** requires `## Procedure` and `## Assessment` (case-insensitive, `##`
-  level), and is strongly encouraged to include `## Summary`, `## Objectives`,
-  `## Materials`, `## Preparation`, `## Differentiation`, `## Resources`.
+- **`lesson`** requires `## Procedure`, `## Assessment`, and `## Facilitator note`
+  (case-insensitive, `##` level), and is strongly encouraged to include `## Summary`,
+  `## Objectives`, `## Materials`, `## Preparation`, `## Differentiation`,
+  `## Resources`, and `## Home connection`.
 
 The validator checks these. Content that fails frontmatter or heading checks will
 not pass CI.
+
+## Voice: learner-first
+
+The `## Procedure` is written **to the learner** ("you"), so a lesson works in a
+classroom *and* for a self-directed learner. Teacher guidance lives in
+`## Facilitator note`. See [`docs/facilitation.md`](facilitation.md).
