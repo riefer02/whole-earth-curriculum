@@ -315,10 +315,14 @@ items:
     type: review
     grade: null
     domain: null
-    status: ready
+    status: done
     priority: 2
     depends_on: []
     required_reviews:
       - reviewer
     notes: Confirm the cited programs, figures, and URLs in sources.yaml (S-007 through S-014); fix or flag inaccuracies, then mark each source reviewed.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (29 files, 0 warnings). All 8 sources S-007..S-014 now reviewed:true with concrete notes. S-011 URL corrected to DOI primary source (10.1207/s15326985ep4102_1, Educational Psychologist). S-012 year corrected 2009->2008, 815 meta-analyses, d~0.72 relationships / d~0.73 feedback, methodology-criticism caveat added. S-010 CONTESTED preserved + attributed (Opatrny et al. 2025, 66 studies/2,819 estimates, <=15 students, STAR-only effect). S-013 CONTESTED preserved (structure not proof). Bloom 2-sigma + effect sizes consistent; TaRL six J-PAL evals across seven states consistent. Remaining URLs on-topic Wikipedia secondaries + Pratham primary. Non-blocking: S-011 title abbreviated (full: 'Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching')."
 

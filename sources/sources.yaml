@@ -63,8 +63,8 @@ sources:
     organization: Educational Researcher
     year: 1984
     domains: []
-    reviewed: false
-    notes: One-to-one tutoring ≈2 SD above group instruction; mastery learning/feedback-corrective ≈1.0, cooperative learning ≈0.8, classroom participation ≈1.0.
+    reviewed: true
+    notes: One-to-one tutoring ≈2 SD above group instruction; mastery learning/feedback-corrective ≈1.0, cooperative learning ≈0.8, classroom participation ≈1.0 (Bloom's reported effect sizes).
 
   - id: S-008
     title: Escuela Nueva — multi-grade, self-paced rural schooling
@@ -73,8 +73,8 @@ sources:
     organization: Fundación Escuela Nueva (Vicky Colbert)
     year: 1975
     domains: []
-    reviewed: false
-    notes: One-room multi-grade schools; ~20,000 in Colombia, adopted in ~19 countries; UNESCO noted rural schools outperforming urban ones.
+    reviewed: true
+    notes: Founded mid-1970s by Vicky Colbert (co-founders Beryl Levinger, Oscar Mogollón). One-room multi-grade rural schools using self-paced learning guides; ~20,000 in Colombia, adopted in 19 countries. A 1990s UNESCO report found Colombia was the only South American country where poor rural schools outperformed city schools.
 
   - id: S-009
     title: Pratham — Teaching at the Right Level (TaRL)
@@ -82,8 +82,8 @@ sources:
     url: https://www.pratham.org/about/teaching-at-the-right-level/
     organization: Pratham
     domains: [D04, D05]
-    reviewed: false
-    notes: Group learners by assessed level, not age/grade; J-PAL randomized evaluations; GEEAP/World Bank "Good Buy" for low- and middle-income contexts.
+    reviewed: true
+    notes: Group learners by assessed level, not age/grade; six J-PAL randomized evaluations across seven Indian states found large learning gains; GEEAP/World Bank "Good Buy" for low- and middle-income contexts.
 
   - id: S-010
     title: Class-size reduction — Project STAR
@@ -92,17 +92,17 @@ sources:
     organization: Wikipedia (Project STAR, Tennessee)
     year: 1985
     domains: []
-    reviewed: false
-    notes: Randomized K-3 (small 13–17 vs regular 22–25); gains roughly doubled for minority/low-income learners. CONTESTED — a 2025 meta-analysis finds effects negligible outside STAR-like designs and classes under ~15.
+    reviewed: true
+    notes: Randomized K-3 (small 13–17 vs regular 22–25); gains about doubled for minority students (two to three times for low-income learners/children of color). CONTESTED — a 2025 meta-analysis (Opatrny et al., 66 studies / 2,819 estimates) finds effects negligible outside STAR-like designs and classes under ~15.
 
   - id: S-011
     title: Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work
     type: article
-    url: https://en.wikipedia.org/wiki/Discovery_learning
+    url: https://doi.org/10.1207/s15326985ep4102_1
     organization: Educational Psychologist
     year: 2006
     domains: []
-    reviewed: false
+    reviewed: true
     notes: Novices learn foundational material better with explicit instruction, worked examples, and guided practice than with minimal guidance.
 
   - id: S-012
@@ -110,10 +110,10 @@ sources:
     type: book
     url: https://en.wikipedia.org/wiki/John_Hattie
     organization: Routledge
-    year: 2009
+    year: 2008
     domains: []
-    reviewed: false
-    notes: Synthesis of 800+ meta-analyses; teacher-student relationships and feedback are among the largest influences, class size among the weakest.
+    reviewed: true
+    notes: Synthesis of 815 meta-analyses (800+); teacher-student relationships (d≈0.72) and feedback (d≈0.73) among the largest influences, class size among the weakest. Effect-size methodology has been criticized (miscategorized studies; some statistics reported incorrectly).
 
   - id: S-013
     title: Mitra — Hole in the Wall / Self-Organized Learning Environments (SOLE)
@@ -122,7 +122,7 @@ sources:
     organization: Sugata Mitra
     year: 1999
     domains: []
-    reviewed: false
+    reviewed: true
     notes: Children can self-organize learning around big questions. CONTESTED — original durability claims overclaimed; treat as a structure, not proof.
 
   - id: S-014
@@ -132,5 +132,5 @@ sources:
     organization: Montessori
     year: 1907
     domains: []
-    reviewed: false
+    reviewed: true
     notes: Mixed-age (3-year) classrooms, self-directed learning, prepared environment; global practice for over a century.
