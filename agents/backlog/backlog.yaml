@@ -938,4 +938,307 @@ items:
       - vision-architect
       - reviewer
     notes: Author curriculum/k-12/grade-02-*/scope.md + unit stubs, spiraling from Kindergarten and Grade 1.
+  - id: B-070
+    title: "Illustration pass: add SVG assets to lessons in U.00.001"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D01
+    status: ready
+    priority: 30
+    depends_on:
+      - B-004
+    required_reviews: &a2
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.001 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-071
+    title: "Illustration pass: add SVG assets to lessons in U.00.002"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D03
+    status: ready
+    priority: 31
+    depends_on:
+      - B-040
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.002 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-072
+    title: "Illustration pass: add SVG assets to lessons in U.00.003"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D06
+    status: ready
+    priority: 32
+    depends_on:
+      - B-041
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.003 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-073
+    title: "Illustration pass: add SVG assets to lessons in U.00.004"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D02
+    status: ready
+    priority: 33
+    depends_on:
+      - B-042
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.004 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-074
+    title: "Illustration pass: add SVG assets to lessons in U.00.005"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D04
+    status: ready
+    priority: 34
+    depends_on:
+      - B-043
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.005 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-075
+    title: "Illustration pass: add SVG assets to lessons in U.00.006"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D05
+    status: ready
+    priority: 35
+    depends_on:
+      - B-044
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.006 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-076
+    title: "Illustration pass: add SVG assets to lessons in U.00.007"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D07
+    status: ready
+    priority: 36
+    depends_on:
+      - B-045
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.007 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-077
+    title: "Illustration pass: add SVG assets to lessons in U.00.008"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D03
+    status: ready
+    priority: 37
+    depends_on:
+      - B-046
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.008 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-078
+    title: "Illustration pass: add SVG assets to lessons in U.00.009"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D06
+    status: ready
+    priority: 38
+    depends_on:
+      - B-047
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.009 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-079
+    title: "Illustration pass: add SVG assets to lessons in U.00.010"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D08
+    status: ready
+    priority: 39
+    depends_on:
+      - B-048
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.010 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-080
+    title: "Illustration pass: add SVG assets to lessons in U.00.011"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D09
+    status: ready
+    priority: 40
+    depends_on:
+      - B-049
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.011 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-081
+    title: "Illustration pass: add SVG assets to lessons in U.00.012"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D10
+    status: ready
+    priority: 41
+    depends_on:
+      - B-050
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.012 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-082
+    title: "Illustration pass: add SVG assets to lessons in U.00.013"
+    agent: asset-designer
+    type: assets
+    grade: 0
+    domain: D01
+    status: ready
+    priority: 42
+    depends_on:
+      - B-051
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.013 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-083
+    title: "Illustration pass: add SVG assets to lessons in U.01.001"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D01
+    status: ready
+    priority: 43
+    depends_on:
+      - B-052
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.001 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-084
+    title: "Illustration pass: add SVG assets to lessons in U.01.002"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D03
+    status: ready
+    priority: 44
+    depends_on:
+      - B-053
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.002 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-085
+    title: "Illustration pass: add SVG assets to lessons in U.01.003"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D02
+    status: ready
+    priority: 45
+    depends_on:
+      - B-054
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.003 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-086
+    title: "Illustration pass: add SVG assets to lessons in U.01.004"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D04
+    status: ready
+    priority: 46
+    depends_on:
+      - B-055
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.004 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-087
+    title: "Illustration pass: add SVG assets to lessons in U.01.005"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D05
+    status: ready
+    priority: 47
+    depends_on:
+      - B-056
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.005 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-088
+    title: "Illustration pass: add SVG assets to lessons in U.01.006"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D06
+    status: ready
+    priority: 48
+    depends_on:
+      - B-057
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.006 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-089
+    title: "Illustration pass: add SVG assets to lessons in U.01.007"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D07
+    status: ready
+    priority: 49
+    depends_on:
+      - B-058
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.007 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-090
+    title: "Illustration pass: add SVG assets to lessons in U.01.008"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D03
+    status: ready
+    priority: 50
+    depends_on:
+      - B-059
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.008 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-091
+    title: "Illustration pass: add SVG assets to lessons in U.01.009"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D08
+    status: ready
+    priority: 51
+    depends_on:
+      - B-060
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.009 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-092
+    title: "Illustration pass: add SVG assets to lessons in U.01.010"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D09
+    status: ready
+    priority: 52
+    depends_on:
+      - B-061
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.010 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-093
+    title: "Illustration pass: add SVG assets to lessons in U.01.011"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D10
+    status: ready
+    priority: 53
+    depends_on:
+      - B-062
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.011 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+  - id: B-094
+    title: "Illustration pass: add SVG assets to lessons in U.01.012"
+    agent: asset-designer
+    type: assets
+    grade: 1
+    domain: D01
+    status: ready
+    priority: 54
+    depends_on:
+      - B-063
+    required_reviews: *a2
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.012 that lack a graphic, and wire each into the lesson's assets: field with alt text."
 
