@@ -43,6 +43,11 @@ context_variants:
     note: A learner practices their greeting, teaches it to a grown-up or into a recording, and tries one greeting from another language
   - context: outdoor-only
     note: Greet the world outdoors — greet a tree, a bird, the sun — first in your home language, then in a new one
+assets:
+  - path: assets/images/L.00.005.12-many-ways-to-greet.svg
+    alt: Four people greet in different ways - a wave, a bow, hand on heart, and palms together - with greeting words in four languages below.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners share a greeting from their home language with pride, teach it to others,

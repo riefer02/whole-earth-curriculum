@@ -44,6 +44,11 @@ context_variants:
     note: A learner draws three boxes and puts one picture in each — first, next, last — then tells the story across the boxes
   - context: outdoor-only
     note: Mark three spots on the ground (a rock, a puddle, a tree); walk to each spot in order while telling that part
+assets:
+  - path: assets/images/L.00.005.03-beginning-middle-end.svg
+    alt: Three frames labeled beginning, middle, and end show a rising sun, a high sun, and a setting sun, with arrows showing the story order.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that stories move in order — a beginning, a middle, and an end —

@@ -46,6 +46,11 @@ context_variants:
     note: A learner picks one mark from their writing system, builds it with loose parts, and says its name aloud
   - context: outdoor-only
     note: Draw the marks in sand or soil with a stick, or form them from twigs and stones; trace each one with a finger
+assets:
+  - path: assets/images/L.00.005.05-many-writing-systems.svg
+    alt: Eight equal cards show marks from Latin, Cyrillic, Arabic, Devanagari, Chinese, Ethiopic, and Hangul writing systems, plus an empty Yours card for the learner's home script.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet the letters or characters of their own home writing system — whatever

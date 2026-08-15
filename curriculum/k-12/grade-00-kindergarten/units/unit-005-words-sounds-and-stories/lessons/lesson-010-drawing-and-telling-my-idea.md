@@ -43,6 +43,11 @@ context_variants:
     note: A learner draws an idea and dictates or records their explanation, then reads it back
   - context: outdoor-only
     note: Draw an idea from nature — a favorite tree, a cloud shape, a bug — then tell a partner what it is and why it matters
+assets:
+  - path: assets/images/L.00.005.10-drawing-and-telling.svg
+    alt: A child's drawing of a tree and a house sits beside a speech bubble holding the child's words, showing a picture plus words as one message.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners draw an idea and then tell what it means, practicing the earliest form of

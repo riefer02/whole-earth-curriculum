@@ -48,6 +48,11 @@ context_variants:
     note: A learner studies their own name card, builds the marks with loose parts, and says each mark's name
   - context: outdoor-only
     note: Write names in soil or sand with a stick, or form them from twigs and leaves; each learner walks along their own name saying the marks
+assets:
+  - path: assets/images/L.00.005.08-my-name-in-marks.svg
+    alt: Four equal name cards show the same name in Latin (Maya, with counting dots and a pointing hand), Cyrillic, Devanagari, and Chinese, showing that every name in every writing system is worth writing beautifully.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet their own name as marks in their home writing system, build its shape,

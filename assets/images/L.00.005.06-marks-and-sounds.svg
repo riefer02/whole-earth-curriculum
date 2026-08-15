@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Marks and sounds are partners</title>
+  <desc id="desc">Three rows show that a mark carries a sound. Each row has a mark card on the left — Latin A, Devanagari म, and Hangul 한 — an arrow pointing right, and then a mouth icon and an ear icon, showing that a mark is paired with a sound you say with your mouth and hear with your ear. The words "mark" and "sound" label the two sides. The shapes, arrows, and labels carry the meaning, so the picture prints clearly in grayscale and teaches that every writing system pairs its marks with sounds in its own way, and no accent is the only correct one.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Marks and Sounds Are Partners</text>
+
+  <text x="120" y="86" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">mark</text>
+  <text x="392" y="86" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">sound</text>
+
+  <!-- Row 1 -->
+  <rect x="40" y="104" width="96" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="168" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="44" font-weight="bold" fill="#2b3a42">A</text>
+  <path d="M148 152 L188 152" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M180 144 L192 152 L180 160 Z" fill="#2b3a42"/>
+  <path d="M250 132 Q240 132 240 142 Q240 154 252 158 Q264 162 272 152 Q278 142 272 134 Q266 128 258 128 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M250 138 Q246 142 248 146 Q250 149 252 146" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 136 Q354 130 368 136 Q354 148 340 136 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="366" y="164" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">say it &#183; hear it</text>
+
+  <!-- Row 2 -->
+  <rect x="40" y="212" width="96" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="276" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="44" font-weight="bold" fill="#2b3a42">म</text>
+  <path d="M148 260 L188 260" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M180 252 L192 260 L180 268 Z" fill="#2b3a42"/>
+  <path d="M250 240 Q240 240 240 250 Q240 262 252 266 Q264 270 272 260 Q278 250 272 242 Q266 236 258 236 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M250 246 Q246 250 248 254 Q250 257 252 254" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 244 Q354 238 368 244 Q354 256 340 244 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="366" y="272" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">say it &#183; hear it</text>
+
+  <!-- Row 3 -->
+  <rect x="40" y="320" width="96" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="384" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="44" font-weight="bold" fill="#2b3a42">한</text>
+  <path d="M148 368 L188 368" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M180 360 L192 368 L180 376 Z" fill="#2b3a42"/>
+  <path d="M250 348 Q240 348 240 358 Q240 370 252 374 Q264 378 272 368 Q278 358 272 350 Q266 344 258 344 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M250 354 Q246 358 248 362 Q250 365 252 362" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 352 Q354 346 368 352 Q354 364 340 352 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="366" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">say it &#183; hear it</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every writing system pairs its marks with sounds in its own way.</text>
+</svg>

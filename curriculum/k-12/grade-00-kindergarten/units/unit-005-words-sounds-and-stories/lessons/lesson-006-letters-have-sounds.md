@@ -43,6 +43,11 @@ context_variants:
     note: A learner picks an object, says its name, feels the first sound, and finds the mark that begins it
   - context: outdoor-only
     note: Hunt for objects outdoors whose names begin with a target sound; bring each one back and match it to its mark
+assets:
+  - path: assets/images/L.00.005.06-marks-and-sounds.svg
+    alt: Three rows pair a mark - Latin A, Devanagari, and Hangul - with a mouth and an ear, showing that each mark carries a sound.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that each mark in their writing system is a partner of a sound,

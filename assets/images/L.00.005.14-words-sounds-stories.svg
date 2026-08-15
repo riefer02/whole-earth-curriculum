@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Words, sounds, and stories: share who you are</title>
+  <desc id="desc">Four cards in a two-by-two grid show the four tools of the unit, each labeled: LISTEN shows an ear; TELL shows a speech bubble; MARK shows two marks from different writing systems side by side (Latin A and Chinese 山); GREET shows two ways to greet — a wave and palms together, so no single greeting is the only one. Between the cards, a circle says "share who you are". Below, three children with different skin tones hold hands in a celebration circle. The labels, icons, and hand-holding children carry the meaning, so the picture prints clearly in grayscale and teaches that listening, telling, marking, and greeting are how we share who we are with the world.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Words, Sounds &amp; Stories</text>
+
+  <!-- Card frames -->
+  <rect x="16" y="84" width="228" height="132" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="268" y="84" width="228" height="132" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="16" y="240" width="228" height="132" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="268" y="240" width="228" height="132" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <!-- LISTEN -->
+  <text x="130" y="110" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">LISTEN</text>
+  <path d="M130 132 Q118 132 118 144 Q118 158 132 164 Q146 170 156 156 Q162 144 154 136 Q146 130 138 130 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M130 140 Q126 144 128 148 Q130 151 132 148" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">ears open</text>
+
+  <!-- TELL -->
+  <text x="382" y="110" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">TELL</text>
+  <path d="M320 134 Q320 118 346 118 L420 118 Q432 118 432 128 L432 154 Q432 164 420 164 L366 164 L358 174 L360 164 L346 164 Q320 164 320 154 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="146" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">my story</text>
+  <text x="382" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">in my own words</text>
+
+  <!-- MARK -->
+  <text x="130" y="266" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">MARK</text>
+  <text x="106" y="330" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#2b3a42">A</text>
+  <text x="154" y="330" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="40" font-weight="bold" fill="#2b3a42">山</text>
+  <text x="130" y="352" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">marks carry meaning</text>
+
+  <!-- GREET -->
+  <text x="382" y="266" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">GREET</text>
+  <!-- wave -->
+  <circle cx="350" cy="316" r="8" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="350" y1="316" x2="350" y2="296" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M344 292 L340 284 M348 288 L346 280 M356 288 L358 280 M364 292 L370 284" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- palms together -->
+  <ellipse cx="404" cy="316" rx="5" ry="13" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="413" cy="316" rx="5" ry="13" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="408" y1="330" x2="408" y2="344" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <text x="382" y="352" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a word, many gestures</text>
+
+  <!-- Center circle -->
+  <circle cx="256" cy="198" r="44" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="193" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">share</text>
+  <text x="256" y="211" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">who you are</text>
+
+  <!-- Celebration children holding hands -->
+  <line x1="80" y1="446" x2="432" y2="446" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <g>
+    <circle cx="140" cy="392" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M124 390 A16 16 0 0 1 156 390 Z" fill="#2b3a42"/>
+    <circle cx="134" cy="392" r="1.7" fill="#2b3a42"/>
+    <circle cx="146" cy="392" r="1.7" fill="#2b3a42"/>
+    <path d="M134 401 Q140 406 146 401" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="128" y="410" width="24" height="34" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="136" y1="444" x2="134" y2="446" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="152" y1="444" x2="154" y2="446" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="128" y1="418" x2="110" y2="416" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="152" y1="418" x2="176" y2="414" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="256" cy="392" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M240 390 A16 16 0 0 1 272 390 Z" fill="#4f6d7a"/>
+    <circle cx="250" cy="392" r="1.7" fill="#2b3a42"/>
+    <circle cx="262" cy="392" r="1.7" fill="#2b3a42"/>
+    <path d="M250 401 Q256 406 262 401" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="244" y="410" width="24" height="34" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="252" y1="444" x2="250" y2="446" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="268" y1="444" x2="270" y2="446" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="244" y1="418" x2="226" y2="416" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="268" y1="418" x2="286" y2="416" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="372" cy="392" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M356 390 A16 16 0 0 1 388 390 Z" fill="#2b3a42"/>
+    <circle cx="366" cy="392" r="1.7" fill="#2b3a42"/>
+    <circle cx="378" cy="392" r="1.7" fill="#2b3a42"/>
+    <path d="M366 401 Q372 406 378 401" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="360" y="410" width="24" height="34" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="368" y1="444" x2="366" y2="446" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="384" y1="444" x2="386" y2="446" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="360" y1="418" x2="342" y2="416" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="384" y1="418" x2="402" y2="416" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Listen, mark, tell, greet — how you share who you are.</text>
+</svg>

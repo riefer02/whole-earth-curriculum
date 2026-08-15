@@ -46,6 +46,11 @@ context_variants:
     note: A learner draws several marks, then explains each one's meaning to a grown-up or into a recording
   - context: outdoor-only
     note: Draw marks in soil or sand with a stick; walk around and guess each other's marks' meanings
+assets:
+  - path: assets/images/L.00.005.09-marks-carry-meaning.svg
+    alt: A page of six hand-drawn marks - sun, heart, arrow, water, home, and a swirl - each labeled with its meaning.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that the marks they make can carry meaning — just like the writing

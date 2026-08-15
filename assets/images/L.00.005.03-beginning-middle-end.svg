@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Stories have a beginning, a middle, and an end</title>
+  <desc id="desc">Three frames in a row show the order of a story using a day: a rising sun for the beginning, a high bright sun for the middle, and a setting sun for the end. The frames are labeled BEGINNING, MIDDLE, and END, and bold arrows point from the first to the second and from the second to the third. Small words "first", "next", "last" sit under each frame. The labels, arrows, and the changing sun shape carry the meaning, so the picture prints clearly in grayscale and teaches that stories move in order from beginning to middle to end.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Beginning, Middle, End</text>
+
+  <!-- Frame 1: beginning (sunrise) -->
+  <rect x="28" y="96" width="130" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="93" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">BEGINNING</text>
+  <path d="M48 214 L138 214" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M58 206 L60 222 M78 202 L80 222 M98 200 L100 222 M118 202 L120 222" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M70 214 A26 26 0 0 1 70 166" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="70" cy="190" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="93" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">first</text>
+
+  <!-- Arrow 1 -> 2 -->
+  <path d="M166 172 L196 172" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M188 164 L200 172 L188 180 Z" fill="#2b3a42"/>
+
+  <!-- Frame 2: middle (high sun) -->
+  <rect x="208" y="96" width="130" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="273" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">MIDDLE</text>
+  <circle cx="273" cy="180" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M273 142 L273 132 M273 218 L273 228 M235 180 L225 180 M311 180 L321 180 M246 153 L239 146 M300 153 L307 146 M246 207 L239 214 M300 207 L307 214" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M238 214 L308 214" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <text x="273" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">next</text>
+
+  <!-- Arrow 2 -> 3 -->
+  <path d="M346 172 L376 172" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M368 164 L380 172 L368 180 Z" fill="#2b3a42"/>
+
+  <!-- Frame 3: end (sunset) -->
+  <rect x="388" y="96" width="130" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="453" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">END</text>
+  <path d="M408 214 L498 214" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M428 206 L426 222 M448 202 L446 222 M468 200 L466 222 M488 202 L486 222" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M456 214 A26 26 0 0 0 456 166" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="456" cy="190" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M446 196 Q438 206 430 210" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <text x="453" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">last</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">First, next, last — the order helps your listeners follow you.</text>
+</svg>

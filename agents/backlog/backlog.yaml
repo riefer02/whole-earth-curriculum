@@ -1194,12 +1194,22 @@ items:
     type: assets
     grade: 0
     domain: D04
-    status: ready
+    status: done
     priority: 34
     depends_on:
       - B-043
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.005 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 14 assets resolve to real files, non-empty alt, kind/source valid. 14 SVGs well-formed XML (viewBox, role=img, title/desc), grayscale-safe. Script-agnostic non-ranking: L.05 seven scripts equal-size + empty 'Yours!' home-script card; L.08 Maya in Latin/Cyrillic/Chinese/Devanagari same size; L.12 wave/bow/hand-on-heart/palms-together + 4 greetings no gesture privileged. Color never sole signal (labels/arrows/shapes/numbers). No eye-contact mandate (L.01/L.04 honor sign/listening by hands). Objectives resolve to real D04 K standards. UDL intact (tactile raised marks L.05, gesture greeting L.12). No blockers."
+      accessibility-editor:
+        verdict: passed
+        note: "All 14 SVGs role=img + aria-labelledby + title/desc, well-formed self-contained XML. Color never sole signal (desc states labels/shapes/arrows/numbers carry meaning, grayscale-safe). Alt non-empty concept-complete. No eye-contact mandate (L.01 'eyes watching or hands in sign'; L.04 'some look down to listen with respect'/'watch the hands', desc 'no single required way to use your eyes'). Script assets tactile path (raised marks sand/soil/clay/loose-parts, match by sound L.06). Low-tech pairing all 14. Inclusive varied skin tones. Non-blocking: no visible assistive device in this set (vs U.00.001/.004 passes). validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Script-agnostic no Latin default, multiple systems equal, home script honored. Fixes: L.08 'Maya' rendered big in Latin vs smaller scripts (visual Latin ranking) -> rebuilt as four equal-size cards 2x2 grid + alt updated; L.14 GREET card defaulted to single waving hand (Anglophone) -> wave + palms-together 'a word, many gestures'. Else strong: L.12 four greetings equal; L.06 no one-letter-one-sound, 'mark' with 'no accent correct'; L.05/.07/.13 seven scripts + 'Yours!' placeholder no ranking; home language first; universal 'we'. validate passes (301 files)."
   - id: B-075
     title: "Illustration pass: add SVG assets to lessons in U.00.006"
     agent: asset-designer

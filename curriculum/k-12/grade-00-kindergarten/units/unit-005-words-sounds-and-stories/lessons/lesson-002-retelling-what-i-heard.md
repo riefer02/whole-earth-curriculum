@@ -43,6 +43,11 @@ context_variants:
     note: "A learner retells the story to a toy, a grown-up, or a recording, then checks: did I include one important part?"
   - context: outdoor-only
     note: Walk through the story in three steps across the ground — one step per part — telling each part aloud as you go
+assets:
+  - path: assets/images/L.00.005.02-retelling-the-story.svg
+    alt: Three picture frames show a seed growing into a flower, labeled first, next, last, with a pointing hand and star marking the part a child retells in their own words.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice retelling a story by finding one important part and saying it in

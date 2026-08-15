@@ -50,6 +50,11 @@ context_variants:
     note: A learner gathers their unit artifacts and shares the whole set with a grown-up, telling what each one means
   - context: outdoor-only
     note: Hold the celebration outdoors — a "story circle" under the sky where each learner tells a part of their story and shares a greeting
+assets:
+  - path: assets/images/L.00.005.14-words-sounds-stories.svg
+    alt: Four cards labeled listen, tell, mark, and greet surround a share who you are circle, with three children holding hands in celebration below.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring together everything from the unit — listening, retelling, marks,

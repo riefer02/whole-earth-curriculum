@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Listening to a story: ears, eyes, and a still body</title>
+  <desc id="desc">An older storyteller sits on the left, hands open, telling a story that floats as a little star and crescent inside a speech bubble toward a young child on the right. The child sits facing the storyteller with a calm, still body. Below, three labeled badges show the three listening jobs: an ear for "ears open", an eye for "eyes watching" (or hands, in sign), and a small seated figure for "body still". The storyteller and the child have different skin tones and hair, and the storyteller wears a scarf. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches that careful listening carries a story from one person to another.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Listening to a Story</text>
+
+  <line x1="48" y1="330" x2="464" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Storyteller (left) -->
+  <g>
+    <circle cx="150" cy="205" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M128 203 A22 22 0 0 1 172 203 Z" fill="#4f6d7a"/>
+    <path d="M130 203 Q138 198 148 200" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="142" cy="205" r="2.2" fill="#2b3a42"/>
+    <circle cx="158" cy="205" r="2.2" fill="#2b3a42"/>
+    <path d="M142 216 Q150 222 158 216" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="132" y="230" width="38" height="56" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="141" y1="286" x2="139" y2="328" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="161" y1="286" x2="163" y2="328" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="132" y1="244" x2="98" y2="232" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="170" y1="244" x2="204" y2="230" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="150" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I tell</text>
+
+  <!-- Story speech bubble -->
+  <path d="M186 118 Q186 94 214 94 L270 94 Q284 94 284 106 L284 138 Q284 150 270 150 L226 150 L216 164 L218 150 L214 150 Q186 150 186 138 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M234 116 L237 126 L247 129 L237 132 L234 142 L231 132 L221 129 L231 126 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M262 116 A11 11 0 1 1 256 130 A12 12 0 0 0 262 116 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Listening child (right) -->
+  <g>
+    <circle cx="362" cy="205" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M340 203 A22 22 0 0 1 384 203 Z" fill="#2b3a42"/>
+    <circle cx="354" cy="205" r="2.2" fill="#2b3a42"/>
+    <circle cx="370" cy="205" r="2.2" fill="#2b3a42"/>
+    <path d="M354 216 Q362 222 370 216" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="344" y="230" width="36" height="56" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="352" y1="286" x2="350" y2="328" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="372" y1="286" x2="374" y2="328" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="344" y1="244" x2="318" y2="252" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="380" y1="244" x2="406" y2="252" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="362" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I listen</text>
+
+  <!-- Three listening-job badges -->
+  <rect x="28" y="382" width="144" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M86 400 Q78 400 78 408 Q78 418 86 422 Q94 426 100 418 Q106 410 102 404 Q98 398 90 398 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M86 405 Q82 409 84 413 Q86 416 88 413" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="418" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">ears open</text>
+  <text x="100" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">(hear)</text>
+
+  <rect x="184" y="382" width="144" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M238 406 Q256 400 274 406 Q256 414 238 406 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="256" cy="411" r="4" fill="#2b3a42"/>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">eyes watching</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">(or hands, in sign)</text>
+
+  <rect x="340" y="382" width="144" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="382" cy="410" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="374" y="424" width="16" height="20" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="378" y1="444" x2="376" y2="458" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="386" y1="444" x2="388" y2="458" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <text x="412" y="418" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">body still</text>
+  <text x="412" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">(calm and ready)</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Ears, eyes, and a calm body carry the story to you.</text>
+</svg>

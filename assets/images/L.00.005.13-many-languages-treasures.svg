@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Many languages are treasures</title>
+  <desc id="desc">A treasure chest sits open with gold coins, and seven small word-slip cards float above it, each carrying a mark from a different writing system: Latin A, Cyrillic Ж, Arabic, Devanagari म, Chinese 山, Ethiopic ሀ, and Hangul 한. Sparkle stars around the cards suggest that each is precious. The chest and the many equal-sized slips carry the meaning, so the picture prints clearly in grayscale and teaches that every language and writing system is a treasure, that no language is better than another, and that sharing them makes everyone richer.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Many Languages, Many Treasures</text>
+
+  <!-- Word slips -->
+  <g font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="26" font-weight="bold" fill="#2b3a42" text-anchor="middle">
+    <rect x="36" y="108" width="56" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="64" y="146">A</text>
+    <rect x="100" y="108" width="56" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="128" y="146">Ж</text>
+    <rect x="164" y="108" width="56" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="192" y="146">ﺏ</text>
+    <rect x="228" y="108" width="56" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="146">म</text>
+    <rect x="292" y="108" width="56" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="320" y="146">山</text>
+    <rect x="356" y="108" width="56" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="384" y="146">ሀ</text>
+    <rect x="420" y="108" width="56" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="448" y="146">한</text>
+  </g>
+
+  <!-- Sparkles -->
+  <path d="M96 86 L98 96 L108 98 L98 100 L96 110 L94 100 L84 98 L94 96 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M256 80 L258 90 L268 92 L258 94 L256 104 L254 94 L244 92 L254 90 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M420 86 L422 96 L432 98 L422 100 L420 110 L418 100 L408 98 L418 96 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Rays down to chest -->
+  <path d="M64 170 L168 300 M128 170 L200 300 M192 170 L236 300 M256 170 L256 300 M320 170 L280 300 M384 170 L316 300 M448 170 L350 300" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 6" stroke-linecap="round"/>
+
+  <!-- Treasure chest -->
+  <g>
+    <rect x="168" y="300" width="176" height="104" rx="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M168 300 L256 270 L344 300 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="168" y1="340" x2="344" y2="340" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="168" y1="380" x2="344" y2="380" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="250" y="352" width="12" height="20" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="244" y="346" width="24" height="10" rx="4" fill="#2b3a42"/>
+    <!-- coins -->
+    <circle cx="196" cy="392" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="212" cy="392" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="204" cy="382" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="312" cy="392" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="328" cy="392" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a chest of words</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every language is a treasure. Sharing makes us all richer.</text>
+</svg>

@@ -47,6 +47,11 @@ context_variants:
     note: A learner chooses a story (from a book, an audio recording, or a grown-up) and practices the three listening jobs alone, then tells someone one thing they remember
   - context: outdoor-only
     note: Tell the story outdoors; invite learners to listen also to the world around them — wind, birds, footsteps — before the story begins
+assets:
+  - path: assets/images/L.00.005.01-listening-to-a-story.svg
+    alt: A storyteller tells a story to a listening child, and three badges show the listening jobs - ears open, eyes watching, body still.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice listening with their whole body — ears, eyes, and a still,

@@ -44,6 +44,11 @@ context_variants:
     note: A learner listens to a grown-up or a recording, then tells back one thing and asks one wondering question
   - context: outdoor-only
     note: Invite a community member — a gardener, a fisher, a grandparent — to speak outdoors about one thing they know; learners listen and retell
+assets:
+  - path: assets/images/L.00.005.04-listening-to-a-speaker.svg
+    alt: A speaker holding a talking stick talks to a listening child, with insets showing two respectful ways to listen - eyes down, or watching the speaker's hands.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice listening to a real person, not just a story — holding their

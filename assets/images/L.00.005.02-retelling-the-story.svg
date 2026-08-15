@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Retelling: three story parts, one part in my own words</title>
+  <desc id="desc">Three picture frames in a row show three parts of one simple story: a seed planted in soil, a sprout growing, and a flower blooming. The frames are numbered 1, 2, 3 and labeled "first", "next", "last". A pointing hand and a star mark the third frame as "the part I remember", and a speech bubble says "I tell it my way". The numbers, labels, and the pointing hand carry the meaning, so the picture prints clearly in grayscale and teaches that retelling is choosing one important part and saying it in your own words.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Retelling in My Own Words</text>
+
+  <!-- Frame 1: seed -->
+  <rect x="28" y="96" width="140" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="98" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">1</text>
+  <path d="M60 206 Q70 196 80 206 Q90 196 100 206 Q110 196 120 206 Q130 196 138 206 L138 214 Q98 226 60 214 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="98" cy="196" rx="7" ry="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="98" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">first: a seed</text>
+
+  <!-- Frame 2: sprout -->
+  <rect x="186" y="96" width="140" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">2</text>
+  <path d="M256 214 Q246 188 256 170" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M256 186 Q244 180 240 170 Q252 174 256 186 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 194 Q268 188 272 178 Q260 182 256 194 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M228 214 Q256 206 284 214 L284 220 Q256 230 228 220 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">next: it grows</text>
+
+  <!-- Frame 3: flower -->
+  <rect x="344" y="96" width="140" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="414" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">3</text>
+  <line x1="414" y1="210" x2="414" y2="170" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M414 186 Q400 180 396 168 Q410 172 414 186 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="414" cy="160" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="400" cy="154" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="428" cy="154" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="400" cy="168" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="428" cy="168" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="414" cy="148" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="414" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">last: it blooms</text>
+
+  <!-- Star + pointer on frame 3 -->
+  <path d="M470 78 L472 86 L480 88 L472 90 L470 98 L468 90 L460 88 L468 86 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M430 300 L442 288" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="428" cy="302" r="4" fill="#2b3a42"/>
+
+  <!-- Speech bubble -->
+  <path d="M150 300 Q150 276 178 276 L336 276 Q350 276 350 288 L350 322 Q350 334 336 334 L196 334 L186 348 L188 334 L178 334 Q150 334 150 322 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="250" y="312" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">I tell it my way</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Choose one important part and retell it in your own words.</text>
+</svg>

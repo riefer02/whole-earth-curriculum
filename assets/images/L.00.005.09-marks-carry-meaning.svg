@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My marks carry meaning</title>
+  <desc id="desc">A sheet of paper holds six simple hand-drawn marks, each with a small label telling its meaning: a sun for "sun", a heart for "love", an arrow for "this way", three wavy lines for "water", a house for "home", and a spiral for "a swirl". The marks are simple bold shapes a young child might draw. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches that a mark can stand for an idea, and that when you draw a mark and tell what it means, you are writing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">My Marks Tell a Story</text>
+
+  <!-- Paper -->
+  <rect x="40" y="84" width="432" height="330" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="40" y1="84" x2="472" y2="84" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Row 1 -->
+  <!-- sun -->
+  <circle cx="120" cy="156" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M120 130 L120 122 M120 182 L120 190 M94 156 L86 156 M146 156 L154 156 M101 137 L95 131 M139 137 L145 131 M101 175 L95 181 M139 175 L145 181" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <text x="120" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">sun</text>
+
+  <!-- heart -->
+  <path d="M256 146 Q248 136 240 146 Q232 158 256 170 Q280 158 272 146 Q264 136 256 146 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">love</text>
+
+  <!-- arrow -->
+  <line x1="360" y1="156" x2="414" y2="156" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M406 148 L418 156 L406 164 Z" fill="#2b3a42"/>
+  <text x="392" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">this way</text>
+
+  <!-- Row 2 -->
+  <!-- water -->
+  <path d="M92 292 Q100 282 108 292 Q116 302 124 292 Q132 282 140 292" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M100 302 Q108 292 116 302 Q124 312 132 302 Q140 292 148 302" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+  <text x="120" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">water</text>
+
+  <!-- house -->
+  <path d="M236 296 L256 276 L276 296 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="240" y="296" width="32" height="28" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="252" y="308" width="10" height="16" fill="#4f6d7a"/>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">home</text>
+
+  <!-- spiral -->
+  <path d="M392 300 Q386 300 386 294 Q386 288 392 288 Q398 288 398 294 Q398 300 392 300 Q388 300 388 296" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <text x="392" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a swirl</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A mark + a meaning = writing. You are already writing.</text>
+</svg>

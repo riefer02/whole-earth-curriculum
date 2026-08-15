@@ -43,6 +43,11 @@ context_variants:
     note: A learner hunts for writing around the room or home, points to marks they recognize, and ticks them on a sheet
   - context: outdoor-only
     note: Hunt for writing outdoors — on shop signs, road signs, food stalls, and packages — and name the marks you find
+assets:
+  - path: assets/images/L.00.005.07-writing-all-around.svg
+    alt: A shop sign, a jar label, and a book each carry a mark, and a magnifying glass shows how to hunt for writing all around.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that writing is all around them — on signs, labels, and packages —

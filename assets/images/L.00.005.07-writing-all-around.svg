@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Writing is all around me</title>
+  <desc id="desc">A simple everyday scene shows where writing can be found. A shop has a sign with a mark, a jar has a label with a mark, and an open book shows marks on its page. Small labels point to each: "a sign", "a label", "a book". A magnifying glass over the scene suggests hunting for marks. The marks come from different writing systems — Chinese 山 on the shop sign, an Arabic letter on the jar label, and Latin and Cyrillic marks on the book page — to show that writing appears in many scripts. The shapes and labels carry the meaning, so the picture prints clearly in grayscale and teaches that writing is all around, waiting to be found.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Writing Is All Around</text>
+
+  <line x1="48" y1="330" x2="464" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Shop with sign -->
+  <g>
+    <rect x="48" y="180" width="150" height="150" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M48 180 L123 128 L198 180 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="82" y="150" width="82" height="44" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="123" y="180" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">山</text>
+    <rect x="74" y="222" width="40" height="64" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="94" y1="222" x2="94" y2="286" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="74" y1="254" x2="114" y2="254" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="123" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a sign</text>
+
+  <!-- Jar with label -->
+  <g>
+    <rect x="252" y="232" width="72" height="98" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="248" y="214" width="80" height="22" rx="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="266" y="252" width="44" height="40" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="288" y="282" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">ﺏ</text>
+  </g>
+  <text x="288" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a label</text>
+
+  <!-- Open book -->
+  <g>
+    <path d="M368 268 Q398 248 432 268 L432 322 Q398 302 368 322 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M368 268 Q398 288 432 268" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="388" y="292" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">A</text>
+    <text x="412" y="310" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Ж</text>
+  </g>
+  <text x="400" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a book</text>
+
+  <!-- Magnifying glass -->
+  <g>
+    <circle cx="330" cy="130" r="30" fill="none" stroke="#2b3a42" stroke-width="4"/>
+    <line x1="352" y1="152" x2="372" y2="172" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <path d="M320 122 L324 136 L330 122 L336 136 L340 122" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Hunt for your marks — they are everywhere.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">You are learning to read your world, one mark at a time.</text>
+</svg>

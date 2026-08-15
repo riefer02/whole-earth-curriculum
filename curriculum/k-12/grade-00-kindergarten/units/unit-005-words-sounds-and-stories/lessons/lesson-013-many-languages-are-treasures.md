@@ -43,6 +43,11 @@ context_variants:
     note: A learner makes their own small treasure chest of words — their home-language word plus one they learned from a friend
   - context: outdoor-only
     note: Gather "word treasures" on a walk — a leaf for each new word learned — and say the words as you collect
+assets:
+  - path: assets/images/L.00.005.13-many-languages-treasures.svg
+    alt: An open treasure chest with coins, and seven word-slip cards above it each carrying a mark from a different writing system.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners see that people speak thousands of languages, that no language is better

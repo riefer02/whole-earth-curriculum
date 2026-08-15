@@ -45,6 +45,11 @@ context_variants:
     note: A learner makes a small book alone — a picture and a few marks per page — then reads it aloud to a grown-up or into a recording
   - context: outdoor-only
     note: Tell the story outdoors first, walking through its beginning, middle, and end, then draw the pages on paper or in the soil
+assets:
+  - path: assets/images/L.00.005.11-writing-my-story.svg
+    alt: An open book shows three pages labeled beginning, middle, and end, and a child holds the finished book, proud to be its author.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners compose their own story — a beginning, a middle, and an end — in a
