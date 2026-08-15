@@ -873,11 +873,30 @@ items:
     type: lesson
     grade: 1
     domain: D06
-    status: ready
+    status: done
     priority: 19
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (233 files). IDs L.01.006.01-.10 sequential with matching sequence_in_unit 1-10, unit U.01.006, domain [D06], pillar [P3]. Objectives resolve only to the 8 grade-1 D06 standards (S1.01.01/.02, S2.01.01/.02, S3.01.01/.02, S4.01.01/.02); zero K-level/invented IDs. All 8 standards covered (L1-9 one each, L10 all 8). Required headings present in all 10. unit.md Lessons table lists all 10. Connections concrete/faithful/varied; no four-season default; no geocentrism (NASA Space Place cited); age-appropriate, no frightening content; access notes for non-speaking/blind/low-vision/motor learners.
+      fact-checker:
+        verdict: passed
+        note: Scientific claims accurate and age-hedged; L8 day/night from Earth rotation, no geocentrism ('Earth turns, Sun only seems to rise/set'). Living-needs/living-nonliving/material-properties/push-pull-friction/regional weather correct. Fixed misattributed citation in L8 (spaceplace.nasa.gov/days was 'How Long Is One Day on Other Planets' — replaced with BBC Bitesize KS1 day-and-night + NASA Space Place 'What Causes the Seasons' which states Earth spins). Added Resources to L1/L4/L5/L6/L7/L9. Registered 9 new sources S-029..S-037 (BBC Bitesize + NASA Space Place), reviewed:true. Evidence vs values distinguished (sky stories as stories, wonder as open questions). validate passes (233 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed all 10 lessons + unit.md. No US/Eurocentric default (only classroom 'we'); examples span mango/rain-on-skin/desert camel (L4), clay pot/metal pan/wooden bowl (L6), monsoon/wet-dry (L9). Four-season default explicitly avoided (L9 facilitator forbids spring-summer-autumn-winter assumption, names wet/dry/warm-all-year/cold + South/Southeast Asian monsoon; 'no correct season, only the one that is home'). No ranking (L6/L8/L9/L10). L8 sky stories (Indigenous, African, Asian/Pacific, Greek/Norse) held side by side unranked as stories, no geocentrism. Fix: L4 leaned pet-centric (puppy/chick/fish/person) — added a wild bird + farm/wild creatures to materials and matching step. validate passes (233 files). Non-blocking: Resources are BBC Bitesize (UK)/NASA (US) but content itself not Western-centered."
+      accessibility-editor:
+        verdict: passed
+        note: Reviewed all 10 lessons. materials_low_tech universal (body/voice/found objects, no device/print required); enriched optional non-gating. Added tactile/spoken paths for blind/low-vision (L4 needs-matching by touch, L5 sort by touch+spoken, L7 feel ball-turn vs block-stay, L3 touch/hear, L10 verbal/partner share); visual/tactile for Deaf/HH (L1 see/touch/feel bell vibration, L9 weather by sight+skin); non-speaking point/draw/act (L2/L6); motor seated/partner paths (L1/L8); taste step L1 optional+allergy-checked. context_variants all three (+multi-age/level-grouped). No assets fields. validate passes (233 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified: vision -> P3 -> D06 -> S1-S4 -> 8 grade-1 standards -> U.01.006 -> L.01.006.01-.10; domain [D06] pillar [P3] on all; objectives resolve only to the 8 real grade-1 D06 standards, no invented IDs (L1/L2 both S1.01.01 as intentional two-step spiral, legitimate). Four lenses present: ethics (L4/L5/L10), egalitarianism (L3/L4/L6/L9/L10), global/anthropological (all, non-Eurocentric, no four-season default, sky stories side by side unranked), technology/environment (tech L6/L7, environment L1/L2/L4/L5/L8/L9/L10). Evidence vs values: facts cited (BBC Bitesize, NASA Space Place L1/L4-L9), wonder/sky stories as values not dogma (philosophy §11). No hierarchy (L10 non-competitive, L6 'no material better only better for something', L9 'no correct season'). No edits needed. validate passes (233 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed all 10 grade-1 lessons vs K-2 band. Cognitive fit: concrete/here-and-now senses-first (leaves/stones/fruit, lamp+ball day/night model, push/pull felt in muscles); no memorization or abstract cosmology; L8 splits observable pattern (concrete day-night) from unanswerable 'why' held as wonder/story. Emotional safety: no death/danger/frightening content (L5 'make more of themselves' gentle, seed-plant/chick-hen only); L4 food/water/housing insecurity without shame; L9 storms matter-of-factly 'wonder never fear', no four-season default; gentle living-things care without guilt; L8 protects family beliefs. Physical: big+fine motor woven in, inclusive adaptations. Open-ended: 'no silly questions', 'no story is the only story', 'a wrong guess is still a great guess', L10 celebration without ranking. Spiral sound toward 3-5 band. No edits. validate passes (233 files)."
   - id: B-058
     title: Author lessons for Unit U.01.007 (Making, Music & Movement)
     agent: lesson-author

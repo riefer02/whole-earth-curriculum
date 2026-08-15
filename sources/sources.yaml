@@ -268,3 +268,84 @@ sources:
     domains: [D05]
     reviewed: true
     notes: "Cited in U.01.005 L15 (coins/buying a snack). 3rd ed. 2002, University of Wales Press (1st ed. 1994). Standard economic history covering the origins and variety of money, including commodity money (cacao beans in Mesoamerica, salt, cowrie shells, beads) — supports the lesson's claim that people have used many forms of exchange besides coins."
+
+  - id: S-029
+    title: BBC Bitesize (KS1) — What is day and night?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zkvv4wx/articles/zyfhxbk
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.01.006 L08 (day/night from Earth's rotation) and L09 (seasons). URL verified live (2026-08-15). States: the Sun is the star at the centre of our solar system; Earth and the planets orbit it and rotate; the Sun shines on only half of Earth at once; as Earth rotates some places face the Sun (daytime) and others face away (night-time). Also covers seasons (Earth's tilt), daylight hours, and that north of the Arctic Circle the Sun does not set in summer — no geocentrism."
+
+  - id: S-030
+    title: NASA Space Place — What Causes the Seasons?
+    type: website
+    url: https://spaceplace.nasa.gov/seasons/en/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.01.006 L08 (day/night) and L09 (seasons). URL verified live (2026-08-15). States verbatim: 'Earth spins around this pole, making one complete turn each day. That is why we have day and night' — directly supports the no-geocentrism claim. Explains Earth's tilted axis causes the seasons, with opposite seasons in the two hemispheres."
+
+  - id: S-031
+    title: BBC Bitesize (KS1) — What are the senses?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z6882hv/articles/zsbntrd
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.01.006 L01 (five senses). URL verified live (2026-08-15). States we have five main senses — hearing, sight, smell, taste, and touch — and that our senses help us learn about the world around us."
+
+  - id: S-032
+    title: BBC Bitesize (KS1) — What do animals need to survive?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z6882hv/articles/zx38wmn
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.01.006 L04 (living things need food/water/air/shelter). URL verified live (2026-08-15). States verbatim: 'Animals need air, water, shelter and food to survive'; also notes fish use gills to get oxygen and animals find shelter in shells or burrows."
+
+  - id: S-033
+    title: BBC Bitesize (KS1) — What does a plant need to grow?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zpxnyrd/articles/zkp2jsg
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.01.006 L04 (plant needs). URL verified live (2026-08-15). States plants need water, light, the right temperature, air, and time; plants use light to make food inside their leaves, take up water through their roots, and obtain most nutrients from the soil."
+
+  - id: S-034
+    title: BBC Bitesize (KS1) — How can I sort objects into dead, living and non-living?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zx882hv/articles/zfhfn9q
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.01.006 L05 (living vs nonliving). URL verified live (2026-08-15). Living things react to surroundings, need air, feed, grow, reproduce, and get rid of waste; all living things (plants and animals) can move; non-living things have never been alive (water, rocks, weather, fire, metal) and do not need food, water, or air — consistent with the lesson's 'grow, move, reproduce' clues and its hedges (some non-living things like wind/water also move)."
+
+  - id: S-035
+    title: BBC Bitesize (KS1) — Describing materials
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zrssgk7/articles/zvpysk7
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.01.006 L06 (material properties). URL verified live (2026-08-15). Materials have properties (soft, hard, shiny) that describe how they look, feel, and behave; we select the right material for each job based on its properties."
+
+  - id: S-036
+    title: BBC Bitesize (KS2) — Friction
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/znmmn39/articles/zcmwkty
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.01.006 L07 (push/pull and what stops motion). URL verified live (2026-08-15) via the BBC Bitesize KS2 Science index (Forces section). Explains friction as the force that differs by surface and acts on objects moving across it — supports the lesson's note that friction (the ground rubbing) is the reason most moving things stop."
+
+  - id: S-037
+    title: BBC Bitesize (KS2) — Moving on different surfaces
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/znmmn39/articles/zqxnhcw
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.01.006 L07 (how objects move). URL verified live (2026-08-15) via the BBC Bitesize KS2 Science index (Forces section). Explains that objects move differently depending on the surface they are on — supports the lesson's rolling/sliding and 'what makes it stop' exploration."

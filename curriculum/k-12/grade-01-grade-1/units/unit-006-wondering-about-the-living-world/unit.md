@@ -59,6 +59,13 @@ weighing evidence, never dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | My Five Senses | D06.S1.01.01 |
+| 2 | Look Closely and Describe | D06.S1.01.01 |
+| 3 | Ask a Question and Make a Guess | D06.S1.01.02 |
+| 4 | What Living Things Need | D06.S2.01.01 |
+| 5 | Living and Nonliving | D06.S2.01.02 |
+| 6 | Properties of Materials | D06.S3.01.01 |
+| 7 | How Objects Move | D06.S3.01.02 |
+| 8 | Sun, Moon, and Stars | D06.S4.01.01 |
+| 9 | Weather and Seasons | D06.S4.01.02 |
+| 10 | The Wonder Fair | D06.S1.01.01, D06.S1.01.02, D06.S2.01.01, D06.S2.01.02, D06.S3.01.01, D06.S3.01.02, D06.S4.01.01, D06.S4.01.02 |
