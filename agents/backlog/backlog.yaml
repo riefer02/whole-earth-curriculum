@@ -723,11 +723,30 @@ items:
     type: lesson
     grade: 1
     domain: D01
-    status: ready
+    status: done
     priority: 14
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (173 files). All 10 lessons objectives resolve only to six grade-1 standards (D01.S1.01.01/.02, D01.S2.01.01/.02, D01.S3.01.01/.02); grep zero K-level IDs; capstone L010 all six grade-1 IDs. IDs L.01.001.01-.10 sequential, sequence_in_unit 1-10; headings + Connections present (L004 'detective of your own heart'). unit.md table lists all 10. Spiral intact (L001 reviews K happy/sad/angry/scared). Non-shaming (L009 calm corner 'never a punishment'; L010 wait/stop as care 'not obedience drills').
+      fact-checker:
+        verdict: passed
+        note: "Verified CASEL citations (L1/L9) match S-001 (reviewed:true), URL live/on-topic, L9 self-management label correct. Grep: only L1/L9 have Resources; no fabricated citations. Content values/SEL practice (body feels tight/fast, calming helps slow — descriptive not asserted science). No registry changes. validate passes (173 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. No single-civilization default; hedges against single emotional norm (L2 'clues are guesses not certainties', L4 'one situation can cause different feelings'). Fixes: L2 facilitator note — different families/places show feelings differently, no single right face/gesture; L5 'age: a number (and your birthday, if you know it)' so children without birth-date marking aren't put on spot. Already strong: L7 honors every family shape, 'none better, no ranking'; L5 'no correct family to draw'; L8 oral storytelling 'oldest technology'; L6 pride as growth not beating others. validate passes (173 files). Non-blocking: L2 add global lens; L6 humility/shared-credit cultures note; future untranslatable feeling words."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. Low-tech universal (voice/body/found objects, no device/print); no assets fields; context_variants all three (+multi-age/level-grouped). UDL non-verbal paths (act out, body check, draw); S2 dictation/scribe/draw. Fixes: L006 share 'hold up star/partner voices/add to collection — sharing is a choice not requirement'; L007 'show object/act with gestures/partner tells'; L009 motor calm alternatives (rock/sway/stretch/shake) + 'some bodies calm with stillness, others with movement' + 'point to picture'. validate passes (173 files). Non-blocking: L006-008 performance rubric could note showing artifact/partner voice counts; L009 deep-breath note for respiratory differences; L010 palm cue already has visual cards."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: six grade-1 standards (D01.S1/S2/S3.01.01/.02) not K-level; objectives match strands (L1-2 S1.01.01, L3-4 S1.01.02, L5-6 S2.01.01, L7-8 S2.01.02, L9 S3.01.01, L10 all six); domain:[D01] pillar:[P1] all; vision → P1 → D01 → strand → standard → unit → lesson intact. Lenses: ethics (calm corner 'never punishment', wait/stop as care), egalitarianism (every family shape, no ranking), global (traditions vary), tech/env (storytelling 'oldest technology', outdoor safe space). Evidence vs values: CASEL framework only; calming descriptive. No hierarchy. No edits. validate passes (173 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 grade-1 lessons vs K-2 band. Cognitive fit: feelings abstract anchored concrete (feeling cards, body checks 'proud=warm and tall', 'I felt ___ when ___' real situations); theory-of-mind emerging, held as optional extension; vocab grows 4→7 names right-sized for age 6. Emotional safety: no shaming ('no answer wrong', accept any feeling); calming as tool not punishment ('never send to calm corner as punishment'); wait/stop as caring not obedience; family sensitive ('no correct family', no ranking); disclosure never forced ('a choice not requirement'). Physical: big-motor acting/statues/start-stop + movement calm options (rock/sway/stretch/shake). No fixes. validate passes (173 files). Non-blocking: L4 'storm' card could note storm also cozy when safe; level-grouped extensions reach 3-5 territory — keep optional."
   - id: B-053
     title: Author lessons for Unit U.01.002 (My Body, My Senses)
     agent: lesson-author

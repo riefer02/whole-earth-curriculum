@@ -28,9 +28,9 @@ duration_weeks: 3
 assessment_plan: >-
   Observation of feeling-naming and calming strategies during the day; a simple
   "All About Me" page and a retold family story as portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 1 — My Feelings, My Story
@@ -54,6 +54,13 @@ self-regulation.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| L.01.001.01 | Feelings Grow Bigger | D01.S1.01.01 |
+| L.01.001.02 | Showing Feelings | D01.S1.01.01 |
+| L.01.001.03 | "I Felt ___ When ___" | D01.S1.01.02 |
+| L.01.001.04 | What Made Me Feel That Way? | D01.S1.01.02 |
+| L.01.001.05 | All About Me | D01.S2.01.01 |
+| L.01.001.06 | Something I'm Proud Of | D01.S2.01.01 |
+| L.01.001.07 | A Family Story or Tradition | D01.S2.01.02 |
+| L.01.001.08 | Telling My Story | D01.S2.01.02 |
+| L.01.001.09 | Calm Down | D01.S3.01.01 |
+| L.01.001.10 | Wait and Stop | D01.S3.01.02 (capstone: all six) |
