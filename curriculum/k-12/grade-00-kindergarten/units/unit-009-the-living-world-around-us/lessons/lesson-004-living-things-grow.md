@@ -43,6 +43,11 @@ context_variants:
     note: A learner matches baby to grown-up cards and draws one thing growing from small to big
   - context: outdoor-only
     note: Find a small plant, a big plant, and a seed on the ground; line them up from smallest to biggest and wonder how it happened
+assets:
+  - path: assets/images/L.00.009.04-living-things-grow.svg
+    alt: Two panels. The left shows a seed, a sprout, and a full plant with arrows between them. The right shows a small baby and a bigger child with an arrow between them. Size and shape show growth, so it prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners notice that living things grow and change — from seed to plant, baby to

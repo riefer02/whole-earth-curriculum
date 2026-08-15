@@ -36,6 +36,8 @@ materials_low_tech:
     notes: No soil or special seeds needed
   - name: Height mark on a wall or a knotted string
     notes: If no seed is available, watch your own body grow by marking your height now and again later
+  - name: Fingers and nose
+    notes: Feel the seed swell and the sprout's soft tip each day; smell the damp soil and tap the cup gently to hear the water — growth you can notice without eyes
 materials_enriched:
   - name: A clear cup or jar
     quantity: "1 per learner"
@@ -50,6 +52,11 @@ context_variants:
     note: A learner sets up their own seed, draws it, writes or draws a guess for next week, and keeps the journal going alone
   - context: outdoor-only
     note: Plant a seed in a patch of ground outside and mark the spot with a stick; return each day to look and draw
+assets:
+  - path: assets/images/L.00.009.05-watching-something-grow.svg
+    alt: Four frames labeled Day 1 through Day 4 showing the same seed in a cup growing a little more each day, from a seed to a tiny sprout to a sprout with leaves to a taller plant, with arrows pointing to the next day.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners set up a growing thing to watch — a seed, or their own height — and begin
@@ -114,13 +121,15 @@ living thing they are watching.
 2. **Set up a grow-watch (15 min).** Put a damp cloth (or a little soil) in your cup.
    Tuck your seed in where you can see it, and add a few drops of water. If you are
    watching your height instead, make a mark on the wall or tie a knot in your string.
-   That mark is your "small."
+   That mark is your "small." You can notice growth with more than your eyes: feel the
+   seed and the sprout with your fingers, smell the damp soil, and tap the cup gently
+   to hear the water.
 3. **Start a grow journal (10 min).** On the first page, draw your seed (or your
    height mark) exactly as it is right now. Write or draw the date if you can.
 4. **Guess and wonder (10 min).** What will it look like in a week? Draw your guess
    on the next page. You are not sure — and that is okay.
-5. **Close (5 min).** You will look again tomorrow, and the next day. You will see the
-   change with your own eyes.
+5. **Close (5 min).** You will look again tomorrow, and the next day. You will notice
+   the change for yourself.
 
 ## Differentiation
 

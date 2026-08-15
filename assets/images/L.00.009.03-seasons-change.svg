@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Many ways a year changes</title>
+  <desc id="desc">Three panels showing different climate patterns, none better than the others. The first shows a place with a wet time (rain clouds and rain over green plants) and a dry time (sun over dry cracked ground). The second shows a warm-all-year place with a leafy tree and sun. The third shows a cold-much-of-the-year place with snow and a bare tree. Each is labeled in words and by simple shapes, so the meaning holds in grayscale. There is no single "four seasons" default.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Many Ways a Year Changes</text>
+
+  <!-- Panel 1: Wet time / Dry time -->
+  <g>
+    <rect x="18" y="74" width="150" height="344" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="93" y="100" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Wet, then Dry</text>
+
+    <!-- wet -->
+    <g>
+      <rect x="30" y="116" width="126" height="120" rx="10" fill="#eef4f6" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.3"/>
+      <circle cx="72" cy="140" r="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+      <circle cx="96" cy="134" r="17" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+      <circle cx="118" cy="142" r="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+      <g stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round">
+        <line x1="70" y1="162" x2="66" y2="176"/>
+        <line x1="92" y1="166" x2="88" y2="182"/>
+        <line x1="114" y1="164" x2="110" y2="180"/>
+        <line x1="52" y1="178" x2="48" y2="192"/>
+        <line x1="134" y1="176" x2="130" y2="190"/>
+      </g>
+      <path d="M30 236 Q 60 200 93 210 Q 126 220 156 200 L156 236 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+      <text x="93" y="230" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">rain — plants grow</text>
+    </g>
+
+    <!-- dry -->
+    <g>
+      <rect x="30" y="256" width="126" height="100" rx="10" fill="#f7eeda" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.3"/>
+      <circle cx="118" cy="278" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+      <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+        <line x1="118" y1="252" x2="118" y2="246"/>
+        <line x1="118" y1="304" x2="118" y2="310"/>
+        <line x1="92" y1="278" x2="86" y2="278"/>
+        <line x1="144" y1="278" x2="150" y2="278"/>
+      </g>
+      <path d="M30 356 L60 336 L88 356 L116 338 L156 356 L156 356 Z" fill="none" stroke="#e0a458" stroke-width="2"/>
+      <text x="93" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">dry — ground cracks</text>
+    </g>
+
+    <text x="93" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">two seasons</text>
+  </g>
+
+  <!-- Panel 2: Warm all year -->
+  <g>
+    <rect x="181" y="74" width="150" height="344" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Warm All Year</text>
+
+    <circle cx="236" cy="150" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="236" y1="122" x2="236" y2="114"/>
+      <line x1="236" y1="178" x2="236" y2="186"/>
+      <line x1="208" y1="150" x2="200" y2="150"/>
+      <line x1="264" y1="150" x2="272" y2="150"/>
+      <line x1="216" y1="130" x2="210" y2="124"/>
+      <line x1="256" y1="170" x2="262" y2="176"/>
+      <line x1="256" y1="130" x2="262" y2="124"/>
+      <line x1="216" y1="170" x2="210" y2="176"/>
+    </g>
+
+    <!-- leafy tree -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="256" y1="290" x2="256" y2="250"/>
+      <path d="M256 260 Q 240 252 238 238" fill="none"/>
+      <path d="M256 255 Q 272 247 274 233" fill="none"/>
+    </g>
+    <circle cx="256" cy="232" r="28" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="238" cy="246" r="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="274" cy="246" r="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+    <path d="M181 418 Q 218 350 256 362 Q 294 374 331 356 L331 418 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+    <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">hot all year</text>
+  </g>
+
+  <!-- Panel 3: Cold much of the year -->
+  <g>
+    <rect x="344" y="74" width="150" height="344" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="419" y="100" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Cold Much of the Year</text>
+
+    <!-- snow cloud -->
+    <g fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4">
+      <circle cx="400" cy="132" r="12"/>
+      <circle cx="416" cy="126" r="15"/>
+      <circle cx="432" cy="132" r="11"/>
+    </g>
+    <g fill="#6b93b6">
+      <circle cx="398" cy="156" r="3"/>
+      <circle cx="412" cy="162" r="3"/>
+      <circle cx="428" cy="154" r="3"/>
+      <circle cx="406" cy="168" r="3"/>
+    </g>
+
+    <!-- bare tree -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none">
+      <line x1="419" y1="300" x2="419" y2="256"/>
+      <line x1="419" y1="272" x2="402" y2="250"/>
+      <line x1="419" y1="266" x2="436" y2="244"/>
+      <line x1="402" y1="250" x2="394" y2="236"/>
+      <line x1="402" y1="250" x2="406" y2="236"/>
+      <line x1="436" y1="244" x2="442" y2="230"/>
+      <line x1="436" y1="244" x2="432" y2="230"/>
+    </g>
+
+    <!-- snowy ground -->
+    <path d="M344 418 Q 381 358 419 368 Q 457 378 494 360 L494 418 Z" fill="#e8ecf1" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+    <text x="419" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">snow and frost</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every place has its own pattern — none is the "right" one.</text>
+</svg>

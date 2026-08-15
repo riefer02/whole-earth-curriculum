@@ -43,6 +43,11 @@ context_variants:
     note: A learner writes or draws their biggest question, offers their own guess, and keeps the page as a starting point
   - context: outdoor-only
     note: Find something outside to wonder about, ask a "why" or "how" question about it aloud, and share your own idea
+assets:
+  - path: assets/images/L.00.009.07-asking-why-and-how.svg
+    alt: A wondering child with a raised finger looks at a leaf and a seed. Two speech bubbles above say Why and How. A box labeled Wonder box and a lightbulb labeled my idea show that asking and sharing your own idea is how curious people begin.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice asking "why" and "how" about the world, offer their own ideas,

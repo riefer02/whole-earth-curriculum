@@ -43,6 +43,11 @@ context_variants:
     note: A learner draws their own place at two different times of the year and tells how they differ
   - context: outdoor-only
     note: Stand outside and look for clues about what time of year it is — leaves, rain, flowers, dry ground, wind — and name them
+assets:
+  - path: assets/images/L.00.009.03-seasons-change.svg
+    alt: Three panels showing many ways a year changes, none better than the others. One place has a wet rainy time and a dry sunny time; one is warm all year with a leafy tree; one is cold much of the year with snow and a bare tree. Every place is labeled in words and simple shapes.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners explore how their own place changes through the year — whatever pattern

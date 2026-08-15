@@ -1282,12 +1282,22 @@ items:
     type: assets
     grade: 0
     domain: D06
-    status: ready
+    status: done
     priority: 38
     depends_on:
       - B-047
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.009 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (301 files). All 10 assets resolve to real files, non-empty alt, kind/source valid. 10 SVGs well-formed XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal (labels/shapes/light-vs-dark). No geocentrism (day/night phenomenological, enrichment globe+flashlight); no four-season default (wet/dry/warm-all-year/cold); wonder-not-creed, 'no correct sky/environment/season' (L9/10). UDL intact (low-tech/enriched, non-visual 'skin and ears'). Objectives D06.S1.K.01/D06.S4.K.02 resolve to real K standards.
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs role=img + aria-labelledby + title/desc, self-contained valid XML, grayscale-safe, color never only signal (labels/shapes/light-vs-dark). Alt concept-complete. Day/night + sky (L.01/02) skin-and-ears/spoken non-visual paths; looking-closely (L.08) touch/smell/sound alternative. No wealth/device assumption (materials_low_tech all; devices optional enriched). Fix: L.05 'Watching Something Grow' was sight-dominant -> added 'Fingers and nose' low-tech path + touch/smell/sound note, softened 'see the change with your own eyes' to 'notice the change for yourself'. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No four-season/temperate default (L.03 wet/dry + warm-all-year + cold, 'none is the right one', facilitator warns against four-season assumption). No ranking of environments/seasons/skies. No geocentrism/one-sky-story (day/night phenomenological, sky pure observation no imposed origin). Biome span (tropical wet/dry + warm + polar). Looking-closely care without guilt ('touch softly leave where found'). Fix: five single-figure graphics used identical light-medium skin tone (single-region default) -> diversified (L.04 deep #9a6a44 consistent dark hair fixing light-dark mismatch; L.07/L.10 medium #c99567); dropped 'neutral warm skin tone' claim in L.04 desc. validate passes (301 files)."
   - id: B-079
     title: "Illustration pass: add SVG assets to lessons in U.00.010"
     agent: asset-designer

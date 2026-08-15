@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Asking why and how</title>
+  <desc id="desc">A wondering child with a raised finger looks at a leaf and a seed on a table in front of them. Two speech bubbles above the child hold the question words "Why?" and "How?". A box to the right is labeled "Wonder box," where questions can be dropped. A small lightbulb marks the child's own idea. The scene shows that wondering and asking is how every curious person begins, and it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Asking Why and How</text>
+
+  <!-- Why bubble -->
+  <g>
+    <path d="M110 96 Q110 72 148 72 L192 72 Q230 72 230 96 L230 118 Q230 142 192 142 L160 142 L144 164 L152 142 L148 142 Q110 142 110 118 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="170" y="114" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#6b93b6">Why?</text>
+  </g>
+
+  <!-- How bubble -->
+  <g>
+    <path d="M282 96 Q282 72 320 72 L368 72 Q406 72 406 96 L406 118 Q406 142 368 142 L336 142 L320 164 L328 142 L324 142 Q282 142 282 118 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="344" y="114" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#7a9e7e">How?</text>
+  </g>
+
+  <!-- Child -->
+  <g>
+    <circle cx="256" cy="252" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M234 244 A28 28 0 0 1 278 244" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+    <g fill="#2b3a42">
+      <circle cx="246" cy="254" r="3.5"/>
+      <circle cx="266" cy="254" r="3.5"/>
+    </g>
+    <path d="M250 270 Q256 276 262 270" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="230" y="282" width="52" height="66" rx="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="240" y1="300" x2="224" y2="372" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
+    <line x1="272" y1="300" x2="288" y2="372" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
+    <line x1="248" y1="346" x2="248" y2="420" stroke="#2b3a42" stroke-width="17" stroke-linecap="round"/>
+    <line x1="264" y1="346" x2="264" y2="420" stroke="#2b3a42" stroke-width="17" stroke-linecap="round"/>
+    <!-- raised arm with raised finger -->
+    <line x1="276" y1="300" x2="308" y2="268" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
+    <circle cx="312" cy="262" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Table with leaf and seed -->
+  <g>
+    <rect x="150" y="436" width="212" height="16" rx="6" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="164" y1="452" x2="164" y2="478" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="348" y1="452" x2="348" y2="478" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- leaf -->
+    <path d="M184 424 Q198 408 212 424 Q198 440 184 424 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="184" y1="424" x2="212" y2="424" stroke="#2b3a42" stroke-width="1.5"/>
+    <!-- seed -->
+    <ellipse cx="340" cy="428" rx="12" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M334 426 Q340 432 346 426" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Wonder box -->
+  <g>
+    <rect x="392" y="330" width="100" height="80" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M404 330 L404 316 Q404 308 414 308 L458 308 Q468 308 468 316 L468 330" fill="none" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+    <path d="M442 330 L442 344 M434 330 L434 344 M450 330 L450 344" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="442" y="366" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Wonder</text>
+    <text x="442" y="386" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">box</text>
+  </g>
+
+  <!-- Idea lightbulb -->
+  <g>
+    <circle cx="86" cy="330" r="20" fill="#f7eeda" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="82" y="350" width="8" height="6" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M76 336 Q80 332 84 336 M88 336 Q92 332 96 336" fill="none" stroke="#e0a458" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="86" y="386" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my idea</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">There are no silly questions. Ask, then share your own idea.</text>
+</svg>

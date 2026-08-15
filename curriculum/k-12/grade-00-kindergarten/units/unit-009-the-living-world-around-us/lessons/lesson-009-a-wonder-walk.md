@@ -45,6 +45,11 @@ context_variants:
     note: A learner takes a slow walk alone, notices one thing that makes them wonder, and draws it with a "why" or "how" question
   - context: outdoor-only
     note: This lesson is made for outdoors — wander slowly and let every learner's own path and questions set the direction
+assets:
+  - path: assets/images/L.00.009.09-a-wonder-walk.svg
+    alt: An outdoor wonder walk scene. One child sits quietly on a log at a sit spot while a friend points, surrounded by things to wonder about — a bird, a tree, a flower, a puddle, a cloud, and a bug. Two bubbles ask Why and How.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners take a slow walk — indoors or out — and practice noticing the living world

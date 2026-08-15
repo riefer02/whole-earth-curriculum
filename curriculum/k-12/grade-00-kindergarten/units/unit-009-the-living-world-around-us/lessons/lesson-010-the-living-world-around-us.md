@@ -48,6 +48,11 @@ context_variants:
     note: A learner draws their own living world — sky, light, a growing thing, themselves — and writes or draws one question they still wonder about
   - context: outdoor-only
     note: Draw the living world on the ground with a stick, or build it from stones, leaves, and sticks, then walk around it and tell its story
+assets:
+  - path: assets/images/L.00.009.10-the-living-world-around-us.svg
+    alt: A collage of the living world. A sky shows the sun on one side and the moon and stars on the other. A child stands in the middle, surrounded by a growing plant, a tree with falling leaves, a bird, raindrops, and a puddle, with a question mark bubble above.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the unit together in one big picture of the living world around

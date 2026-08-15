@@ -52,6 +52,11 @@ context_variants:
     note: A learner picks one object, studies it for a full minute, and draws every detail they can find
   - context: outdoor-only
     note: Choose a leaf, stone, or insect path outside; look at it for a full minute and name three details you did not see at first
+assets:
+  - path: assets/images/L.00.009.08-looking-closely.svg
+    alt: A hand holds a magnifying glass over a leaf. Inside the round lens the leaf's veins and a tiny dot are drawn bigger, showing that slow looking reveals details missed at first. Labels for see, touch, smell, and hear sit beside the lens.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners slow down and look at one small thing very closely, discovering details

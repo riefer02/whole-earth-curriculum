@@ -49,6 +49,11 @@ context_variants:
     note: A learner sorts or acts out things they do in the light and things they do in the dark, then draws both skies
   - context: outdoor-only
     note: Go outside and find where the light comes from; use your own shadow to show the sun is out, then imagine the same spot at night
+assets:
+  - path: assets/images/L.00.009.01-day-and-night.svg
+    alt: Two panels side by side. The day panel shows a sun with rays over a green hill and a small plant, labeled Day. The night panel shows a crescent moon and stars over a dark hill, labeled Night. Light versus dark shows the change, not color alone.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners observe the change between day and night, notice that the sun gives us

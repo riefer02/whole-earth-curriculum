@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The living world around me</title>
+  <desc id="desc">One big picture that brings the unit together. A sky shows the sun on the left and the moon and stars on the right, so day and night both appear. In the middle stands a child, and around them are the parts of a living world: a growing plant, a tree with falling and new leaves, a raindrop, a bird, and a puddle. A question bubble floats above the child. Every part is drawn as a shape and labeled, so the collage prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">The Living World Around Me</text>
+
+  <!-- Ground -->
+  <path d="M0 396 Q 128 348 256 362 Q 384 376 512 348 L512 512 L0 512 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+  <!-- Sun (day, left) -->
+  <circle cx="90" cy="120" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <line x1="90" y1="84" x2="90" y2="76"/>
+    <line x1="90" y1="156" x2="90" y2="164"/>
+    <line x1="54" y1="120" x2="46" y2="120"/>
+    <line x1="126" y1="120" x2="134" y2="120"/>
+    <line x1="65" y1="95" x2="59" y2="89"/>
+    <line x1="115" y1="145" x2="121" y2="151"/>
+    <line x1="115" y1="95" x2="121" y2="89"/>
+    <line x1="65" y1="145" x2="59" y2="151"/>
+  </g>
+  <text x="90" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">day</text>
+
+  <!-- Moon and stars (night, right) -->
+  <circle cx="430" cy="112" r="24" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="442" cy="104" r="20" fill="#fdfbf7"/>
+  <g fill="#2b3a42">
+    <path d="M392 80 Q395 86 401 86 Q395 86 392 92 Q389 86 383 86 Q389 86 392 80 Z"/>
+    <path d="M462 68 Q464 73 469 73 Q464 73 462 78 Q460 73 455 73 Q460 73 462 68 Z"/>
+    <circle cx="474" cy="96" r="2.5"/>
+    <circle cx="370" cy="104" r="2.5"/>
+    <circle cx="406" cy="66" r="2.5"/>
+  </g>
+  <text x="430" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">night</text>
+
+  <!-- Bird -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M250 92 Q262 80 274 92 Q286 80 298 92"/>
+  </g>
+
+  <!-- Raindrop -->
+  <g stroke="#6b93b6" stroke-width="3" stroke-linecap="round">
+    <line x1="360" y1="196" x2="355" y2="210"/>
+    <line x1="378" y1="206" x2="373" y2="220"/>
+  </g>
+  <text x="368" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">rain</text>
+
+  <!-- Growing plant -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none">
+    <line x1="120" y1="380" x2="120" y2="330"/>
+    <path d="M120 352 Q 108 346 106 332" fill="none"/>
+    <path d="M120 342 Q 132 336 134 322" fill="none"/>
+  </g>
+  <circle cx="120" cy="326" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M96 380 Q120 394 144 380" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="120" y="414" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">grows</text>
+
+  <!-- Tree with falling and new leaves -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <line x1="474" y1="360" x2="474" y2="300"/>
+    <path d="M474 322 Q 456 314 454 300" fill="none"/>
+    <path d="M474 316 Q 492 308 494 294" fill="none"/>
+  </g>
+  <circle cx="474" cy="288" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="456" cy="302" r="17" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="492" cy="302" r="17" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- falling leaf -->
+  <path d="M452 340 Q442 358 452 372 Q462 358 452 340 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="474" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">changes</text>
+
+  <!-- Puddle -->
+  <ellipse cx="220" cy="452" rx="42" ry="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.6"/>
+
+  <!-- Child in the middle -->
+  <g>
+    <circle cx="256" cy="300" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M238 294 A24 24 0 0 1 274 294" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+    <g fill="#2b3a42">
+      <circle cx="246" cy="302" r="3"/>
+      <circle cx="266" cy="302" r="3"/>
+    </g>
+    <path d="M250 314 Q256 320 262 314" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="232" y="326" width="48" height="60" rx="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="240" y1="342" x2="226" y2="410" stroke="#2b3a42" stroke-width="14" stroke-linecap="round"/>
+    <line x1="272" y1="342" x2="286" y2="410" stroke="#2b3a42" stroke-width="14" stroke-linecap="round"/>
+    <line x1="248" y1="384" x2="248" y2="452" stroke="#2b3a42" stroke-width="16" stroke-linecap="round"/>
+    <line x1="264" y1="384" x2="264" y2="452" stroke="#2b3a42" stroke-width="16" stroke-linecap="round"/>
+  </g>
+
+  <!-- Question bubble -->
+  <g>
+    <path d="M256 206 Q256 188 286 188 L318 188 Q348 188 348 206 L348 224 Q348 242 318 242 L296 242 L286 258 L291 242 L288 242 Q256 242 256 224 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="302" y="224" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#6b93b6">?</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">I am part of the living world — and my wonder is part of it too.</text>
+</svg>

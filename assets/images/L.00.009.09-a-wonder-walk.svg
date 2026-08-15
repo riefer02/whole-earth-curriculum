@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A wonder walk with a sit spot</title>
+  <desc id="desc">An outdoor scene for a wonder walk. A child sits quietly on a log at a sit spot, looking and listening, while a friend stands beside them and points. Around them are things to wonder about: a bird flying, a tree, a flower, a puddle, a cloud, and a bug on the ground. Two question bubbles float over the scene. The scene shows that you can walk or sit and let the world come to you, and it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">A Wonder Walk</text>
+
+  <!-- Sky / ground -->
+  <path d="M0 360 Q 128 312 256 330 Q 384 348 512 320 L512 512 L0 512 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+  <!-- Cloud -->
+  <g fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4">
+    <circle cx="404" cy="106" r="12"/>
+    <circle cx="420" cy="100" r="15"/>
+    <circle cx="436" cy="106" r="11"/>
+  </g>
+
+  <!-- Bird -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M120 96 Q132 84 144 96 Q156 84 168 96"/>
+  </g>
+
+  <!-- Tree -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <line x1="436" y1="300" x2="436" y2="250"/>
+    <path d="M436 268 Q 422 260 420 248" fill="none"/>
+    <path d="M436 262 Q 450 254 452 242" fill="none"/>
+  </g>
+  <circle cx="436" cy="240" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="420" cy="254" r="17" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="452" cy="254" r="17" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Flower -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <line x1="70" y1="330" x2="70" y2="300"/>
+  </g>
+  <circle cx="70" cy="294" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="70" cy="294" r="3" fill="#2b3a42"/>
+
+  <!-- Puddle -->
+  <ellipse cx="250" cy="420" rx="46" ry="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.6"/>
+
+  <!-- Bug on ground -->
+  <g stroke="#2b3a42" stroke-width="1.5" fill="none" stroke-linecap="round">
+    <circle cx="366" cy="406" r="5" fill="#2b3a42"/>
+    <line x1="362" y1="401" x2="358" y2="396"/>
+    <line x1="362" y1="411" x2="358" y2="416"/>
+    <line x1="370" y1="401" x2="374" y2="396"/>
+    <line x1="370" y1="411" x2="374" y2="416"/>
+  </g>
+
+  <!-- Sit log -->
+  <rect x="150" y="376" width="120" height="24" rx="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="160" cy="388" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="260" cy="388" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- Sitting child -->
+  <g>
+    <circle cx="196" cy="336" r="22" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M182 330 A20 20 0 0 1 210 330" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+    <g fill="#2b3a42">
+      <circle cx="188" cy="338" r="2.5"/>
+      <circle cx="204" cy="338" r="2.5"/>
+    </g>
+    <path d="M192 348 Q196 352 200 348" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="178" y="356" width="36" height="26" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="182" y1="378" x2="176" y2="402" stroke="#2b3a42" stroke-width="12" stroke-linecap="round"/>
+    <line x1="210" y1="378" x2="216" y2="402" stroke="#2b3a42" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <!-- Standing child pointing -->
+  <g>
+    <circle cx="300" cy="300" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M286 294 A20 20 0 0 1 314 294" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+    <g fill="#2b3a42">
+      <circle cx="292" cy="302" r="2.5"/>
+      <circle cx="308" cy="302" r="2.5"/>
+    </g>
+    <path d="M296 312 Q300 316 304 312" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="282" y="322" width="36" height="48" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="288" y1="338" x2="280" y2="392" stroke="#2b3a42" stroke-width="13" stroke-linecap="round"/>
+    <line x1="312" y1="338" x2="320" y2="392" stroke="#2b3a42" stroke-width="13" stroke-linecap="round"/>
+    <line x1="314" y1="334" x2="346" y2="314" stroke="#2b3a42" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="350" cy="310" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Question bubbles -->
+  <g>
+    <path d="M320 150 Q320 130 352 130 L388 130 Q420 130 420 150 L420 168 Q420 188 388 188 L364 188 L352 206 L358 188 L354 188 Q320 188 320 168 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="370" y="168" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#6b93b6">Why?</text>
+  </g>
+  <g>
+    <path d="M96 220 Q96 200 128 200 L164 200 Q196 200 196 220 L196 238 Q196 258 164 258 L140 258 L128 276 L134 258 L130 258 Q96 258 96 238 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="146" y="238" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#7a9e7e">How?</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Walk slowly, or sit and let the world come to you. Wonder wherever you go.</text>
+</svg>

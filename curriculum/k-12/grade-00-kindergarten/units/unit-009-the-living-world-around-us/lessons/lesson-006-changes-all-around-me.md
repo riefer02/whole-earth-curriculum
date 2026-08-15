@@ -43,6 +43,11 @@ context_variants:
     note: A learner sits by a window or outside for a few minutes, finds three changes, and draws one of them
   - context: outdoor-only
     note: Walk outside and find three changes with your own eyes — a cloud moved, a leaf fell, a shadow grew — then draw one
+assets:
+  - path: assets/images/L.00.009.06-changes-all-around-me.svg
+    alt: A child with a pointing stick stands in an outdoor scene hunting for change. Around them are labeled sense spots for see, hear, smell, and feel, plus change clues — a moving cloud, a falling leaf, raindrops, and a sun. Words and shapes, not color alone, carry the meaning.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners hunt for change in the world right around them — the sky, the weather, the

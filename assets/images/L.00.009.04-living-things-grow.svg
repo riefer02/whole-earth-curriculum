@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Living things grow: seed to plant, baby to child</title>
+  <desc id="desc">Two panels showing growing and changing as a sign of being alive. The left panel shows a seed, a sprout, and a full plant with an arrow between them. The right panel shows a small baby and a bigger child with an arrow between them. Each is labeled in words and by shape and size, not color alone, so it prints clearly in grayscale. The figures wear simple clothes.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Living Things Grow</text>
+
+  <!-- Left panel: seed to plant -->
+  <g>
+    <rect x="18" y="78" width="230" height="356" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="133" y="108" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Seed → Plant</text>
+
+    <!-- seed -->
+    <ellipse cx="66" cy="170" rx="16" ry="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M58 168 Q66 176 74 168" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- arrow -->
+    <path d="M96 170 L130 170" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M126 163 L134 170 L126 177 Z" fill="#2b3a42"/>
+
+    <!-- sprout -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none">
+      <line x1="156" y1="180" x2="156" y2="156"/>
+      <path d="M156 166 Q 148 162 147 152" fill="none"/>
+      <path d="M156 158 Q 164 154 165 144" fill="none"/>
+    </g>
+    <path d="M148 180 Q156 184 164 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- arrow down -->
+    <path d="M133 210 L133 250" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M126 246 L133 254 L140 246 Z" fill="#2b3a42"/>
+
+    <!-- full plant -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none">
+      <line x1="133" y1="330" x2="133" y2="286"/>
+      <path d="M133 310 Q 118 304 116 288" fill="none"/>
+      <path d="M133 300 Q 148 294 150 278" fill="none"/>
+    </g>
+    <circle cx="133" cy="282" r="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M110 330 Q 133 344 156 330" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+    <text x="133" y="388" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a seed grows into a plant</text>
+  </g>
+
+  <!-- Right panel: baby to child -->
+  <g>
+    <rect x="264" y="78" width="230" height="356" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="379" y="108" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Baby → Child</text>
+
+    <!-- baby -->
+    <g>
+      <circle cx="320" cy="168" r="20" fill="#9a6a44" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M308 160 A14 14 0 0 1 332 160" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+      <g fill="#2b3a42">
+        <circle cx="314" cy="167" r="2.5"/>
+        <circle cx="326" cy="167" r="2.5"/>
+      </g>
+      <path d="M316 176 Q320 180 324 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+      <ellipse cx="320" cy="206" rx="26" ry="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    </g>
+
+    <!-- arrow -->
+    <path d="M356 176 L390 176" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M386 169 L394 176 L386 183 Z" fill="#2b3a42"/>
+
+    <!-- child -->
+    <g>
+      <circle cx="436" cy="176" r="24" fill="#9a6a44" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M420 168 A22 22 0 0 1 452 168" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+      <g fill="#2b3a42">
+        <circle cx="428" cy="176" r="3"/>
+        <circle cx="444" cy="176" r="3"/>
+      </g>
+      <path d="M432 188 Q436 192 440 188" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+      <rect x="412" y="200" width="48" height="58" rx="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="422" y1="216" x2="406" y2="286" stroke="#2b3a42" stroke-width="14" stroke-linecap="round"/>
+      <line x1="450" y1="216" x2="466" y2="286" stroke="#2b3a42" stroke-width="14" stroke-linecap="round"/>
+      <line x1="426" y1="256" x2="426" y2="330" stroke="#2b3a42" stroke-width="16" stroke-linecap="round"/>
+      <line x1="446" y1="256" x2="446" y2="330" stroke="#2b3a42" stroke-width="16" stroke-linecap="round"/>
+    </g>
+
+    <text x="379" y="388" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a baby grows into a child</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Growing and changing is how we know something is alive.</text>
+</svg>

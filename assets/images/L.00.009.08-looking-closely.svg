@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Looking closely at a leaf</title>
+  <desc id="desc">A hand holds a magnifying glass over a leaf. Inside the round lens, the leaf's veins and a tiny dot are drawn bigger, so a learner can see that looking slowly reveals details they missed at first. Beside the lens are small labels for the senses used in close looking — see, touch, smell, hear. The picture shows observing gently without harming a living thing, and prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Looking Closely</text>
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Slow down and you will see a whole new world.</text>
+
+  <!-- Leaf (under the magnifier) -->
+  <g>
+    <path d="M150 320 Q230 250 320 300 Q330 350 250 380 Q160 370 150 320 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M150 320 Q250 310 320 300" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M210 320 L200 358" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M260 320 L264 364" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M300 312 L304 352" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- Magnifier handle -->
+  <line x1="330" y1="330" x2="404" y2="410" stroke="#e0a458" stroke-width="12" stroke-linecap="round"/>
+  <line x1="330" y1="330" x2="404" y2="410" stroke="#2b3a42" stroke-width="12" stroke-linecap="round" stroke-opacity="0.35"/>
+
+  <!-- Magnifier lens ring -->
+  <circle cx="256" cy="232" r="92" fill="none" stroke="#2b3a42" stroke-width="12"/>
+  <circle cx="256" cy="232" r="80" fill="#fdfbf7"/>
+
+  <!-- Enlarged leaf detail inside the lens -->
+  <g>
+    <path d="M256 232 Q 300 180 330 240 Q 300 292 256 232 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M256 232 L326 236" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M268 218 L300 202" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M270 250 L298 262" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M288 204 L302 210" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M290 258 L304 250" stroke="#2b3a42" stroke-width="1.5"/>
+    <!-- tiny detail dot -->
+    <circle cx="304" cy="214" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- Sense labels -->
+  <g font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42" text-anchor="middle">
+    <text x="104" y="120">see</text>
+    <ellipse cx="104" cy="140" rx="15" ry="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="104" cy="140" r="5" fill="#2b3a42"/>
+
+    <text x="406" y="120">touch</text>
+    <path d="M398 130 Q408 125 416 132 L420 148 Q420 160 408 160 L396 157 L394 144 Q393 136 398 130 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+
+    <text x="104" y="250">smell</text>
+    <path d="M98 260 Q104 255 110 260 Q110 266 104 270 Q98 266 98 260 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+
+    <text x="406" y="250">hear</text>
+    <path d="M414 258 Q402 265 414 276 Q426 265 414 258 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Look with your eyes; touch softly; leave it where you found it.</text>
+</svg>

@@ -47,6 +47,11 @@ context_variants:
     note: A learner sorts the sky cards into "day," "night," and "sometimes both," then draws the sky they saw most recently
   - context: outdoor-only
     note: Lie back and watch the real sky together; name everything you can see, and talk about how it will look different at night
+assets:
+  - path: assets/images/L.00.009.02-the-changing-sky.svg
+    alt: Three cards. A sun with rays labeled Sun; a moon shown in three shapes (round, half, and thin crescent) labeled Moon, it changes shape; and four-pointed stars labeled Stars. Shapes and words, not color alone, carry the meaning.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners notice what lives in the sky — sun, moon, stars — and how the sky changes

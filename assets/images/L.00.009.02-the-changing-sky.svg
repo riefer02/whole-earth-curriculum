@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The changing sky: sun, moon, and stars</title>
+  <desc id="desc">Three cards in a row. The first shows the sun with rays, labeled "Sun — day." The second shows the moon in three changing shapes (round, half, and thin crescent), labeled "Moon — it changes shape." The third shows a few four-pointed stars, labeled "Stars — night." Each card is labeled in words and distinguished by shape, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">The Changing Sky</text>
+  <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">What do you see when you look up?</text>
+
+  <!-- Card 1: Sun -->
+  <g>
+    <rect x="18" y="104" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="93" cy="220" r="42" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="93" y1="164" x2="93" y2="146"/>
+      <line x1="93" y1="276" x2="93" y2="294"/>
+      <line x1="37" y1="220" x2="19" y2="220"/>
+      <line x1="149" y1="220" x2="167" y2="220"/>
+      <line x1="53" y1="180" x2="40" y2="167"/>
+      <line x1="133" y1="260" x2="146" y2="273"/>
+      <line x1="133" y1="180" x2="146" y2="167"/>
+      <line x1="53" y1="260" x2="40" y2="273"/>
+    </g>
+    <text x="93" y="342" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Sun</text>
+    <text x="93" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">seen in the day</text>
+  </g>
+
+  <!-- Card 2: Moon (three shapes) -->
+  <g>
+    <rect x="181" y="104" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <!-- full -->
+    <circle cx="216" cy="180" r="22" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <!-- half -->
+    <circle cx="256" cy="180" r="22" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 158 A22 22 0 0 0 256 202 Z" fill="#2b3a42"/>
+    <!-- crescent -->
+    <circle cx="296" cy="180" r="22" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="288" cy="171" r="18" fill="#ffffff"/>
+    <g stroke="#4f6d7a" stroke-width="1.5" stroke-linecap="round">
+      <line x1="216" y1="214" x2="216" y2="230"/>
+      <line x1="256" y1="214" x2="256" y2="230"/>
+      <line x1="296" y1="214" x2="296" y2="230"/>
+    </g>
+    <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">round  half  thin</text>
+    <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Moon</text>
+    <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">it changes shape</text>
+  </g>
+
+  <!-- Card 3: Stars -->
+  <g>
+    <rect x="344" y="104" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round">
+      <path d="M382 170 Q388 182 400 182 Q388 182 382 194 Q376 182 364 182 Q376 182 382 170 Z"/>
+      <path d="M430 150 Q434 159 443 159 Q434 159 430 168 Q426 159 417 159 Q426 159 430 150 Z"/>
+      <path d="M452 208 Q456 216 464 216 Q456 216 452 224 Q448 216 440 216 Q448 216 452 208 Z"/>
+      <path d="M398 232 Q401 239 408 239 Q401 239 398 246 Q395 239 388 239 Q395 239 398 232 Z"/>
+    </g>
+    <g fill="#2b3a42">
+      <circle cx="438" cy="182" r="3"/>
+      <circle cx="408" cy="204" r="3"/>
+      <circle cx="368" cy="212" r="3"/>
+    </g>
+    <text x="419" y="342" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Stars</text>
+    <text x="419" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">seen at night</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Sometimes the moon shows up in the day sky too — a wonder to notice.</text>
+</svg>
