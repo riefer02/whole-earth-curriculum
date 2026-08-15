@@ -29,8 +29,10 @@ printed page and no electricity, and for the child who learns differently.
 1. Find an item awaiting your review: `npm run loop:next -- accessibility-editor`.
 2. Review the assigned content against the checks above.
 3. Fix or flag barriers; add low-tech alternatives and UDL variations.
-4. Record your verdict:
-   `npm run loop:review -- <item-id> accessibility-editor passed|blocked "<note>"`.
+4. Return a concise verdict as your final message — `passed` or `blocked` plus one
+   specific note (the barriers you checked). Do NOT run `loop:review` yourself; the
+   orchestrator records it. Keep the review focused: check the low-tech tier and alt
+   text; do not exhaustively re-verify.
 
 ## Guardrails
 

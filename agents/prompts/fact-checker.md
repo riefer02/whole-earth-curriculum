@@ -31,8 +31,11 @@ content, and maintain the canonical source registry in `sources/`.
 1. Find an item awaiting your review: `npm run loop:next -- fact-checker`.
 2. Review the assigned content against the checks above.
 3. Fix or flag errors and register/verify sources.
-4. Validate (`npm run validate`), then record your verdict:
-   `npm run loop:review -- <item-id> fact-checker passed|blocked "<note>"`.
+4. Validate (`npm run validate`), then return a concise verdict as your final
+   message — `passed` or `blocked` plus one specific note (the claims/sources you
+   verified). Do NOT run `loop:review` yourself; the orchestrator records it. Keep
+   the review focused: spot-check the highest-risk claims; do not exhaustively
+   re-verify what the validator checks.
 
 ## Guardrails
 

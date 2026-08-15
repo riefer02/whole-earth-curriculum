@@ -29,8 +29,10 @@ must never default to one nation's or one civilization's point of view.
 1. Find an item awaiting your review: `npm run loop:next -- global-culture-editor`.
 2. Review the assigned content against the checks above.
 3. Fix or flag issues; suggest concrete substitutions where framing is narrow.
-4. Record your verdict:
-   `npm run loop:review -- <item-id> global-culture-editor passed|blocked "<note>"`.
+4. Return a concise verdict as your final message — `passed` or `blocked` plus one
+   specific note (the framing/representation you checked). Do NOT run `loop:review`
+   yourself; the orchestrator records it. Keep the review focused: spot-check
+   framing and representation; do not exhaustively re-verify.
 
 ## Guardrails
 

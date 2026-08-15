@@ -21,8 +21,9 @@ Audit authored content against the four cross-cutting lenses and the values in
 1. Find an item awaiting your review: `npm run loop:next -- alignment-auditor`.
 2. Produce an audit report for the assigned content.
 3. If issues exist, either fix them or route them back with a clear note.
-4. Record your verdict:
-   `npm run loop:review -- <item-id> alignment-auditor passed|blocked "<note>"`.
+4. Return a concise verdict as your final message — `passed` or `blocked` plus one
+   specific note (the lenses you verified). Do NOT run `loop:review` yourself; the
+   orchestrator records it. Keep the review focused.
 
 ## Guardrails
 

@@ -20,7 +20,8 @@ Repeat until no `ready` items and no pending reviews remain (or you are told to 
    the matching subagent (e.g. `@lesson-author`) via the Task tool, run
    `npm run validate` (must pass), then `npm run loop:submit -- <item-id>`.
 3. **Advance pending reviews in order:** for the item's next reviewer (shown by
-   `loop:next`), delegate to that reviewer subagent, then record the verdict:
+   `loop:next`), delegate to that reviewer subagent. The subagent returns a verdict
+   (`passed`/`blocked`) as its final message — YOU record it immediately:
    `npm run loop:review -- <item-id> <reviewer-id> passed|blocked "<note>"`. Do not
    skip a reviewer or review out of order — the tooling enforces it.
 4. **When all reviews pass:** `npm run loop:complete -- <item-id>`, then commit the

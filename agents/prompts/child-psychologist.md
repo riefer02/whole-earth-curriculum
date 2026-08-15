@@ -29,8 +29,9 @@ Your working rubric is `docs/development.md` — read it first, then apply it.
 1. Find an item awaiting your review: `npm run loop:next -- child-psychologist`.
 2. Review the assigned content and write a short developmental verdict.
 3. Route issues back with a clear, specific note (what to adjust and why).
-4. Record your verdict:
-   `npm run loop:review -- <item-id> child-psychologist passed|blocked "<note>"`.
+4. Return a concise verdict as your final message — `passed` or `blocked` plus one
+   specific note (the developmental checks you made for the target band). Do NOT run
+   `loop:review` yourself; the orchestrator records it. Keep the review focused.
 
 ## Guardrails
 
