@@ -27,9 +27,9 @@ duration_weeks: 2
 assessment_plan: >-
   Formative observation of self-care routines and body-awareness activities; a "my
   body" drawing and a senses walk as portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 2 — My Body, My Home
@@ -52,6 +52,13 @@ range of bodies and abilities humans have.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| L.00.002.01 | Meet My Five Senses | D03.S1.K.01 |
+| L.00.002.02 | A Senses Walk | D03.S1.K.01 |
+| L.00.002.03 | My Body Can Move | D03.S2.K.01 |
+| L.00.002.04 | Little Hands, Little Jobs | D03.S2.K.01 |
+| L.00.002.05 | Everyday Foods and Sometimes Foods | D03.S3.K.01 |
+| L.00.002.06 | Foods That Help Me Grow | D03.S3.K.01 |
+| L.00.002.07 | Washing Hands, Washing Me | D03.S4.K.01 |
+| L.00.002.08 | Brushing My Teeth | D03.S4.K.01 |
+| L.00.002.09 | Asking for Help | D03.S4.K.01 |
+| L.00.002.10 | My Body Is My Home | D03.S1.K.01, D03.S2.K.01, D03.S3.K.01, D03.S4.K.01 |

@@ -143,3 +143,22 @@ sources:
     domains: [D01]
     reviewed: true
     notes: Evidence-based SEL approach (Recognizing, Understanding, Labeling, Expressing, Regulating emotions); cited in L.00.001.05.
+
+  - id: S-016
+    title: WHO — Hand hygiene (infection prevention and control)
+    type: website
+    url: https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene
+    organization: World Health Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.00.002.07 (handwashing). WHO hand-hygiene guidance — soap and water remove germs; supports a ~20-second scrub and handwashing at key moments (before eating, after toilet, etc.)."
+
+  - id: S-017
+    title: WHO — Oral health fact sheet
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/oral-health
+    organization: World Health Organization
+    year: 2025
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.00.002.08 (brushing teeth). WHO recommends twice-daily brushing with fluoride toothpaste (1000–1500 ppm); supports morning/night brushing and fluoride toothpaste."

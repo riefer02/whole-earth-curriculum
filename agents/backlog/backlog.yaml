@@ -357,7 +357,7 @@ items:
     type: lesson
     grade: 0
     domain: D03
-    status: ready
+    status: done
     priority: 2
     depends_on: []
     required_reviews: &a1
@@ -368,6 +368,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (61 files). Reviewed all 10 lessons L.00.002.01-.10 + unit.md: IDs sequential with matching sequence_in_unit/unit/domain/pillar/strand; required headings (Procedure/Assessment/Facilitator note/Connection) present in all. Objectives resolve only to real D03 K standards (read domain-03 file: D03.S1/S2/S3/S4.K.01 all exist). Age-appropriate play-based, honor-every-body adaptations, no shame framing (lesson 005 'never good/bad'). WHO citations in lessons 007/008 where factual. unit.md Lessons table matches all 10. Non-blocking: none."
+      fact-checker:
+        verdict: passed
+        note: "Verified the only two citations in the unit: WHO hand-hygiene page (fetched, live, on-topic) and WHO oral-health fact sheet (live, dated 17 Mar 2025, backs twice-daily fluoride brushing 1000-1500 ppm). Five senses/smell-tastes/movement-heart-rate and everyday-vs-sometimes food framing accurate and age-hedged; handwashing (~20s scrub) and teeth (pea-sized, ~2 min, no sharing) match WHO/ADA guidance; 'ash when no soap' hedged as low-resource. No fabricated citations; lessons 001-006/009/010 carry no unsourced scientific claims. Registered S-016 and S-017 in sources/sources.yaml (reviewed:true). validate passes."
+      global-culture-editor:
+        verdict: passed
+        note: "Audited all 10 lessons + unit.md. Framing region-neutral (contexts name road/field/sea/mountain, market, boat, garden, rooftop pot — Lagos/Lima/Lahore/village recognized). Foods 005/006 no ranking/moralizing, 'never good and bad', facilitator note forbids judging family/culture/budget; examples span rice-and-beans/flatbread-lentils/fish-root-veg/mango. Self-care 007/008 works across water availability (pour jug/bucket/stream/conservation), names ash-as-soap and chewing-stick/clean-finger alternatives, no poverty=dirtiness framing. Movement 003/004 honor every body (wheelchair/seated/feet/mouth/helper-tool). Fix: added line to lesson 003 Connection honoring learners' own family/community movement traditions. validate passes. Non-blocking: note lactose-intolerance breadth for milk item; add 'family elder/neighbor' to trusted-grown-ups in 009."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed all 10 lessons + unit.md. materials_low_tech universal on all (found objects/voice/body/dirt/ash/pour-jug/chewing-stick); enriched quarantined. No assets: fields so no alt-text barrier. context_variants all have large-group/self-directed/outdoor-only (most add multi-age/level-grouped). Fixes: added wheelchair-roll/'senses sit' non-motor path to senses walk 002 (facilitator note + step 2); added sign/point/tap/picture non-speaking path to 009; changed capstone 010 'run, hop, balance' to 'move your body your way — run, roll, glide, stretch… balance seated or standing'. Movement 003/hands 004 already honor every body. validate passes. Non-blocking: 001 taste+smell step could note water/skippable; 004 hand-default learner text; 002 picture checklist surface spoken alternative earlier."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified unbroken: vision → P2 → D03 Body & Wellness → strands S1-S4 → standards D03.S1/S2/S3/S4.K.01 (all exist in domain-03) → U.00.002 → L.00.002.01-.10. domain:[D03] pillar:[P2] on unit+lessons; objectives resolve only to real D03 K standards. Lenses: ethics (dignity/no-shame spine), egalitarianism (every body/ability/food/culture honored, no hierarchy), global (region-neutral settings, varied staples, ash/chewing-stick), tech/env where natural (water conservation, plant growth), not forced. Evidence vs values: only two factual claims both WHO-cited (S-016/S-017); values framed as values. No hierarchy/supremacy. Fix: added 'global' to cross_cutting_lenses in lessons 003/004 (body already carried the lens). validate passes."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed all 10 K lessons vs K-2 band of development.md. Cognitive fit: concrete/here-and-now sensory anchors (mystery bag, senses walk, movement, food sorting, live handwashing, capstone drawing); no abstract analysis; 'body as home' via metaphor+drawing. Emotional safety: food lessons 005/006 exemplary — 'everyday/sometimes' never 'good/bad', facilitator instructed to never comment on size/appetite or ask what a child ate; no weight/body-image/moralizing. Washing/teeth 007/008 'care never a test', no-shame low-resource alternatives. 009 asking-for-help gentle, trusted-grown-up + safeguarding note, not frightening. No shaming content. Physical fit: big/fine motor in 5-yo range with adapted moves (wheelchair/seated/feet/mouth/helper-tool). Open-ended, not dumbed down. No edits needed. Non-blocking: 001 taste step could add allergen note; 006 objective text mirrors 005 (body is growth/energy — same K standard D03.S3.K.01 is the only K food objective, acceptable)."
   - id: B-041
     title: Author lessons for Unit U.00.003 (Where Did Everything Come From?)
     agent: lesson-author
