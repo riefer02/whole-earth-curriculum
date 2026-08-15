@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Feelings in stories: reading a character's face</title>
+  <desc id="desc">An open storybook shows a small bird standing beside an empty nest on a branch, looking worried, with a single tear on its cheek. A question mark and the words "How does the bird feel?" float above the book, and a pointing finger underlines a line of story text that reads "The little bird lost its nest." The worried face, the tear, and the question carry the meaning, so the picture prints clearly in grayscale and teaches that we guess a story character's feelings the same way we guess a friend's.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Feelings in Stories</text>
+
+  <!-- ===== Open book ===== -->
+  <path d="M256 340 Q150 290 96 300 L70 308 Q130 400 256 428 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 340 Q362 290 416 300 L442 308 Q382 400 256 428 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="340" x2="256" y2="428" stroke="#2b3a42" stroke-width="2"/>
+  <!-- book cover edge -->
+  <path d="M66 306 L74 314 L256 436 L438 314 L446 306 Q410 384 256 420 Q102 384 66 306 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ===== Branch and nest (left page) ===== -->
+  <path d="M96 360 Q180 344 232 352" fill="none" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <path d="M150 348 Q156 330 162 348" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- empty nest -->
+  <ellipse cx="176" cy="336" rx="30" ry="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 336 Q176 318 202 336" fill="none" stroke="#c99567" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- ===== Worried bird ===== -->
+  <g>
+    <circle cx="128" cy="308" r="15" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M134 302 L140 294 L146 302 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="123" cy="306" r="2" fill="#2b3a42"/>
+    <path d="M126 316 Q128 319 130 316" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- worried eyebrow -->
+    <line x1="117" y1="302" x2="125" y2="304" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- tear -->
+    <path d="M123 308 Q121 313 123 317 Q125 313 123 308 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="128" y1="323" x2="128" y2="334" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="134" y1="323" x2="134" y2="334" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Story text (right page) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <line x1="290" y1="330" x2="420" y2="330"/>
+    <line x1="290" y1="344" x2="410" y2="344"/>
+    <line x1="290" y1="358" x2="396" y2="358"/>
+  </g>
+  <!-- pointing hand -->
+  <g>
+    <path d="M316 378 L310 396 L318 404 L324 386 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Question bubble -->
+  <text x="256" y="120" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#2b3a42">?</text>
+  <rect x="146" y="138" width="220" height="34" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="161" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">How does the bird feel?</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Characters show feelings the same way friends do.</text>
+</svg>

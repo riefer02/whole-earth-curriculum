@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Asking with kind words: "May I please?"</title>
+  <desc id="desc">Two children stand facing each other. The child on the left holds a toy; the child on the right asks with a speech bubble that reads "Please, may I have a turn?" The left child answers with a speech bubble that reads "Yes — here you go." A second small bubble on the right reads "Thank you." A "kind words" card at the top shows the words please, may I, and thank you. A note reminds that every language has its own kind words, so the skill, not one phrase, is the point. The two children have different skin tones, and the words inside the bubbles carry the lesson, so the picture prints clearly in grayscale and teaches that asking with kind words is kinder than grabbing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Asking with Kind Words</text>
+
+  <!-- Ground -->
+  <line x1="48" y1="430" x2="464" y2="430" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Left child (holds the toy) ===== -->
+  <g>
+    <circle cx="150" cy="286" r="24" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M126 284 A24 24 0 0 1 174 284 Z" fill="#2b3a42"/>
+    <circle cx="141" cy="286" r="2.4" fill="#2b3a42"/>
+    <circle cx="159" cy="286" r="2.4" fill="#2b3a42"/>
+    <path d="M141 298 Q150 304 159 298" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="128" y="314" width="44" height="70" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="138" y1="384" x2="134" y2="428" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+    <line x1="162" y1="384" x2="166" y2="428" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+    <!-- arms holding toy toward center -->
+    <line x1="128" y1="330" x2="230" y2="352" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="128" y1="344" x2="232" y2="362" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <!-- Toy being held (a soft block) -->
+  <rect x="224" y="340" width="34" height="34" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="241" cy="357" r="4" fill="#2b3a42"/>
+
+  <!-- ===== Right child (asking) ===== -->
+  <g>
+    <circle cx="362" cy="286" r="24" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 284 A24 24 0 0 1 386 284 Z" fill="#4f6d7a"/>
+    <circle cx="353" cy="286" r="2.4" fill="#2b3a42"/>
+    <circle cx="371" cy="286" r="2.4" fill="#2b3a42"/>
+    <path d="M353 298 Q362 304 371 298" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="340" y="314" width="44" height="70" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="350" y1="384" x2="346" y2="428" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+    <line x1="374" y1="384" x2="378" y2="428" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+    <!-- open asking hands -->
+    <line x1="340" y1="330" x2="280" y2="350" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="340" y1="344" x2="282" y2="360" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <!-- Speech bubble (asking) -->
+  <path d="M258 150 Q258 116 306 116 L430 116 Q452 116 452 138 L452 186 Q452 208 430 208 L326 208 L306 224 L310 208 L306 208 Q258 208 258 186 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="355" y="158" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Please, may I</text>
+  <text x="355" y="182" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">have a turn?</text>
+
+  <!-- Speech bubble (answering) -->
+  <path d="M62 250 Q62 222 96 222 L220 222 Q242 222 242 240 L242 282 Q242 300 220 300 L116 300 L96 314 L100 300 L96 300 Q62 300 62 282 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="152" y="260" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Yes — here you go.</text>
+
+  <!-- Small thank-you bubble -->
+  <path d="M300 150 Q300 128 322 128 L366 128 Q382 128 382 140 L382 168 Q382 180 366 180 L344 180 L338 190 L340 180 L344 180 Q300 180 300 168 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="341" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">thank you</text>
+
+  <!-- Kind words card at top -->
+  <rect x="120" y="66" width="272" height="34" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="256" y="89" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">please &#8226; may I &#8226; thank you</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every language has its own kind words &#8212; say them in your words too.</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Kind words turn asking into a gift.</text>
+</svg>

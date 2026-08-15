@@ -49,6 +49,11 @@ context_variants:
     note: Older learners write a word or sentence about their family; younger ones draw and tell
   - context: level-grouped
     note: Learners who are ready describe two things their family does together; others name one
+assets:
+  - path: assets/images/L.00.004.09-my-family-community.svg
+    alt: Four panels of families in many shapes — one grown-up and a child cooking, a grandparent and a child walking, two grown-ups and a child holding hands, and an older child fetching water with a younger child.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name their family as a community they belong to and share one thing their

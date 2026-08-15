@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Helping hands: three small ways hands can help</title>
+  <desc id="desc">Three panels show hands of different skin tones doing three helping jobs. Panel one: two hands pass a pencil from one to the other. Panel two: two hands pick up spilled blocks and put them into a basket. Panel three: one hand helps pull a zipper up a coat. Each panel is labeled with its helping job. The labels and the shapes of the hands carry the meaning, not color, so the picture prints clearly in grayscale and teaches that helping is a skill we do with our own hands.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Helping Hands</text>
+
+  <!-- Panel frames -->
+  <rect x="18" y="92" width="150" height="220" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="181" y="92" width="150" height="220" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="344" y="92" width="150" height="220" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ===== Panel 1: pass a pencil ===== -->
+  <g>
+    <!-- right hand passing pencil -->
+    <path d="M100 190 Q108 170 122 178 L134 190 Q140 198 132 202 L118 204 Q100 204 96 196 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- left hand receiving -->
+    <path d="M140 190 Q148 170 162 178 L174 190 Q180 198 172 202 L158 204 Q140 204 136 196 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- pencil -->
+    <line x1="118" y1="186" x2="180" y2="186" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M176 182 L184 186 L176 190 Z" fill="#2b3a42"/>
+  </g>
+  <text x="93" y="298" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">pass a pencil</text>
+
+  <!-- ===== Panel 2: pick up spilled blocks ===== -->
+  <g>
+    <!-- basket -->
+    <path d="M216 240 L214 268 Q214 282 228 282 L244 282 Q258 282 258 268 L256 240 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="212" y1="228" x2="260" y2="228" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- blocks -->
+    <rect x="200" y="206" width="22" height="22" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="228" y="200" width="22" height="22" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- hand picking up a block -->
+    <path d="M244 160 Q238 146 226 152 L218 162 Q212 170 220 176 L236 178 Q250 178 252 168 Z" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="214" y="176" width="20" height="20" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="256" y="298" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">pick up blocks</text>
+
+  <!-- ===== Panel 3: zip a coat ===== -->
+  <g>
+    <!-- coat -->
+    <path d="M400 160 L400 250 Q400 272 424 272 L432 272 Q456 272 456 250 L456 160 Q456 148 444 148 L412 148 Q400 148 400 160 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- zipper line -->
+    <line x1="428" y1="150" x2="428" y2="268" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 3"/>
+    <!-- zipper pull -->
+    <rect x="424" y="196" width="8" height="14" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- hand pulling zipper -->
+    <path d="M410 196 Q408 182 418 178 L430 184 Q438 190 432 196 L424 200 Q412 200 410 196 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- arrow up -->
+    <line x1="458" y1="212" x2="458" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M452 184 L458 174 L464 184 Z" fill="#2b3a42"/>
+  </g>
+  <text x="419" y="298" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">zip a coat</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Helping is caring made visible — your hands can do it.</text>
+  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ask first: "Can I help?"</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Being a good listener: giving a friend full attention</title>
+  <desc id="desc">Two children face each other. The child on the left holds a talking shell and speaks, with a small speech bubble. The child on the right gives their full attention with a calm, turned-toward body and hands gently still, and a little heart floats between them. Two small insets below show different ways to listen: one child listens with eyes gently closed, and one child listens by watching the speaker's face and hands. The words "be present" and "let them finish" and the calm body carry the meaning, so the picture prints clearly in grayscale and teaches that listening is giving attention, in whatever way each body listens best.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Being a Good Listener</text>
+
+  <!-- Ground -->
+  <line x1="48" y1="330" x2="464" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Speaker (left) holds talking shell ===== -->
+  <g>
+    <circle cx="140" cy="210" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 208 A22 22 0 0 1 162 208 Z" fill="#2b3a42"/>
+    <circle cx="132" cy="210" r="2.2" fill="#2b3a42"/>
+    <circle cx="148" cy="210" r="2.2" fill="#2b3a42"/>
+    <path d="M132 220 Q140 226 148 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="122" y="234" width="36" height="58" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="130" y1="292" x2="128" y2="328" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="150" y1="292" x2="152" y2="328" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="122" y1="248" x2="192" y2="232" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- talking shell -->
+    <path d="M204 222 Q214 214 222 224 Q214 238 204 232 Q198 228 204 222 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="140" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I speak</text>
+
+  <!-- ===== Listener (right) giving attention ===== -->
+  <g>
+    <circle cx="372" cy="210" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M350 208 A22 22 0 0 1 394 208 Z" fill="#4f6d7a"/>
+    <circle cx="364" cy="210" r="2.2" fill="#2b3a42"/>
+    <circle cx="380" cy="210" r="2.2" fill="#2b3a42"/>
+    <path d="M364 220 Q372 226 380 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="354" y="234" width="36" height="58" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="362" y1="292" x2="360" y2="328" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="382" y1="292" x2="384" y2="328" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- calm hands folded -->
+    <path d="M354 250 Q358 262 362 250" fill="none" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <path d="M366 250 Q370 262 374 250" fill="none" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="372" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I listen</text>
+
+  <!-- Heart between them -->
+  <path d="M256 244 Q250 234 244 244 Q238 254 256 264 Q274 254 268 244 Q262 234 256 244 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Small speech bubble -->
+  <path d="M96 140 Q96 118 124 118 L196 118 Q212 118 212 132 L212 156 Q212 170 196 170 L142 170 L132 182 L134 170 L124 170 Q96 170 96 156 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="154" y="149" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Today I feel&#8230;</text>
+
+  <!-- ===== Two listening insets ===== -->
+  <rect x="30" y="378" width="218" height="88" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="86" cy="422" r="18" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M68 420 A18 18 0 0 1 104 420 Z" fill="#2b3a42"/>
+  <path d="M80 422 Q84 419 88 422" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M92 422 Q96 419 100 422" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="150" y="418" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">some listen with</text>
+  <text x="150" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">eyes gently closed</text>
+
+  <rect x="264" y="378" width="218" height="88" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="320" cy="422" r="18" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M302 420 A18 18 0 0 1 338 420 Z" fill="#4f6d7a"/>
+  <circle cx="314" cy="422" r="2" fill="#2b3a42"/>
+  <circle cx="326" cy="422" r="2" fill="#2b3a42"/>
+  <text x="392" y="418" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">some listen by</text>
+  <text x="392" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">watching face and hands</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Be present, don't interrupt, let them finish.</text>
+</svg>

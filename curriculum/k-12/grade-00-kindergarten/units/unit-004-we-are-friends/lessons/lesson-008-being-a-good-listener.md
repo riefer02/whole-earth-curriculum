@@ -51,6 +51,11 @@ context_variants:
     note: An older learner tells a short story while younger ones practice giving attention, then retell one thing
   - context: level-grouped
     note: Learners who are ready retell what a partner said; others practice just waiting and showing they heard
+assets:
+  - path: assets/images/L.00.004.08-being-a-good-listener.svg
+    alt: Two children face each other; one holds a talking shell and speaks while the other gives calm attention, with two insets showing different ways to listen — with eyes closed, and by watching face and hands.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice giving a friend their full attention — in whatever way their own

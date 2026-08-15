@@ -49,6 +49,11 @@ context_variants:
     note: Older learners explain how the class helps each other; younger ones name what they like doing together
   - context: level-grouped
     note: Learners who are ready name one way they help the class; others name one thing they do together
+assets:
+  - path: assets/images/L.00.004.10-my-class-community.svg
+    alt: A circle of seven children, each labeled with the part they add to the class — a smile, a question, a helping hand, a song, an idea, and a listening ear — with one child in a wheelchair.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name their class as a community they belong to and share one thing the

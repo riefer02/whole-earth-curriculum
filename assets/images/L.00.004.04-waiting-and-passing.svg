@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Waiting and passing: one ball moves hand to hand</title>
+  <desc id="desc">Four children sit in a row, passing one ball from hand to hand along the line. A dotted arrow over the line shows the direction the ball travels. Two musical notes and the word "clap" mark the slow beat that helps everyone wait. The children have different skin tones and hair, and one child uses a wheelchair. The direction of the passing arrow and the numbered waiting hands carry the meaning, so the picture prints clearly in grayscale and teaches that waiting and passing keep the game going for everyone.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Waiting and Passing</text>
+
+  <!-- Ground -->
+  <line x1="36" y1="404" x2="476" y2="404" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Passing direction arrow -->
+  <path d="M70 140 L430 140" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="9 7" stroke-linecap="round"/>
+  <path d="M420 128 L438 140 L420 152 Z" fill="#2b3a42"/>
+  <text x="252" y="120" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">pass it on</text>
+
+  <!-- ===== Child 1 (holding the ball) ===== -->
+  <g>
+    <circle cx="100" cy="280" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M80 278 A20 20 0 0 1 120 278 Z" fill="#2b3a42"/>
+    <circle cx="93" cy="280" r="2" fill="#2b3a42"/>
+    <circle cx="107" cy="280" r="2" fill="#2b3a42"/>
+    <path d="M93 290 Q100 295 107 290" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="86" y="302" width="28" height="46" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="92" y1="348" x2="90" y2="402" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="108" y1="348" x2="110" y2="402" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="86" y1="310" x2="142" y2="300" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Ball -->
+  <circle cx="160" cy="300" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M142 292 Q160 284 178 292" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Child 2 ===== -->
+  <g>
+    <circle cx="220" cy="280" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M200 278 A20 20 0 0 1 240 278 Z" fill="#4f6d7a"/>
+    <circle cx="213" cy="280" r="2" fill="#2b3a42"/>
+    <circle cx="227" cy="280" r="2" fill="#2b3a42"/>
+    <path d="M213 290 Q220 295 227 290" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="206" y="302" width="28" height="46" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="212" y1="348" x2="210" y2="402" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="228" y1="348" x2="230" y2="402" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="206" y1="310" x2="148" y2="300" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== Child 3 (wheelchair user) ===== -->
+  <g>
+    <circle cx="328" cy="260" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M308 258 A20 20 0 0 1 348 258 Z" fill="#2b3a42"/>
+    <circle cx="321" cy="260" r="2" fill="#2b3a42"/>
+    <circle cx="335" cy="260" r="2" fill="#2b3a42"/>
+    <path d="M321 270 Q328 275 335 270" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="314" y="282" width="28" height="44" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="314" y1="292" x2="256" y2="300" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- wheelchair -->
+    <rect x="304" y="326" width="48" height="7" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="320" y1="330" x2="340" y2="326" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="314" cy="348" r="15" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="314" cy="348" r="3" fill="#2b3a42"/>
+    <circle cx="342" cy="348" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+
+  <!-- ===== Child 4 (receiving, open hands) ===== -->
+  <g>
+    <circle cx="416" cy="280" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M396 278 A20 20 0 0 1 436 278 Z" fill="#2b3a42"/>
+    <circle cx="409" cy="280" r="2" fill="#2b3a42"/>
+    <circle cx="423" cy="280" r="2" fill="#2b3a42"/>
+    <path d="M409 290 Q416 295 423 290" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="402" y="302" width="28" height="46" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="408" y1="348" x2="406" y2="402" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="424" y1="348" x2="426" y2="402" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="402" y1="310" x2="354" y2="300" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Beat markers -->
+  <g font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">
+    <text x="70" y="210">&#9835;</text>
+    <text x="256" y="170">&#9835;</text>
+    <text x="430" y="210">&#9835;</text>
+  </g>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">clap &#8230; clap &#8230; clap &#8212; the beat helps us wait</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Waiting and passing keep the play fair for everyone.</text>
+</svg>

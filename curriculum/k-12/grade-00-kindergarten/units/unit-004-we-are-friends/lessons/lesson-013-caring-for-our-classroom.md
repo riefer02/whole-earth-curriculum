@@ -50,6 +50,11 @@ context_variants:
     note: Older learners pair with younger ones to share a care job and model how it is done
   - context: level-grouped
     note: Learners who are ready rotate jobs independently; others do one job with a model beside them
+assets:
+  - path: assets/images/L.00.004.13-caring-for-our-classroom.svg
+    alt: Four children care for the classroom together — wiping a table, sorting blocks, watering a plant, and straightening books — with one child in a wheelchair and a heart in the center.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners care for their shared classroom space — wiping, sorting, and tidying — and

@@ -50,6 +50,11 @@ context_variants:
     note: An older learner models "now it's your turn" and hands the marker to a younger partner
   - context: level-grouped
     note: Learners who already wait well take longer turns with more steps; others practice a single quick pass
+assets:
+  - path: assets/images/L.00.004.01-taking-turns.svg
+    alt: Two children face each other; the child on the left holds a ball and a TURN marker while the child on the right waits with open hands, and a dashed arrow labeled "your turn next" shows the pass.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners experience taking turns with one shared object and learn that waiting

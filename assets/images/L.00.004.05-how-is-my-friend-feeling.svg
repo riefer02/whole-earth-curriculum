@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How is my friend feeling? Three clue cards: face, voice, body</title>
+  <desc id="desc">Three clue cards show the three places a friend's feelings appear. Card one, labeled FACE, shows a simple smiling face. Card two, labeled VOICE, shows a sound wave with the words "laugh, cry, shout" written inside. Card three, labeled BODY, shows a small figure with slumped shoulders and arms hanging low. A question mark at the top asks "How is my friend feeling?" The labels and shapes, not color, carry the meaning, so the cards print clearly in grayscale and teach that we read feelings by looking at a face, listening to a voice, and watching a body.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">How Is My Friend Feeling?</text>
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Three places give us clues</text>
+
+  <!-- ===== Card 1: FACE ===== -->
+  <rect x="20" y="104" width="150" height="200" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="20" y="104" width="150" height="42" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="95" y="132" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">FACE</text>
+  <circle cx="95" cy="220" r="40" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="82" cy="216" r="3.5" fill="#2b3a42"/>
+  <circle cx="108" cy="216" r="3.5" fill="#2b3a42"/>
+  <path d="M82 232 Q95 242 108 232" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="95" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a smile</text>
+
+  <!-- ===== Card 2: VOICE ===== -->
+  <rect x="182" y="104" width="150" height="200" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="182" y="104" width="150" height="42" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="257" y="132" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">VOICE</text>
+  <g stroke="#2b3a42" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M232 236 Q224 220 232 204"/>
+    <path d="M244 244 Q230 220 244 196"/>
+    <path d="M256 250 Q236 220 256 190"/>
+  </g>
+  <text x="257" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">laugh &#8226; cry &#8226; shout</text>
+
+  <!-- ===== Card 3: BODY ===== -->
+  <rect x="344" y="104" width="150" height="200" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="344" y="104" width="150" height="42" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="419" y="132" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">BODY</text>
+  <!-- slumped figure -->
+  <circle cx="419" cy="196" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M399 194 A20 20 0 0 1 439 194 Z" fill="#2b3a42"/>
+  <circle cx="412" cy="196" r="2" fill="#2b3a42"/>
+  <circle cx="426" cy="196" r="2" fill="#2b3a42"/>
+  <path d="M412 204 Q419 207 426 204" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="419" y1="216" x2="419" y2="258" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M419 228 Q404 236 396 250" fill="none" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <path d="M419 228 Q434 236 442 250" fill="none" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <text x="419" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">shoulders low</text>
+
+  <!-- Question mark -->
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="42" font-weight="bold" fill="#2b3a42">?</text>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Look &#8226; listen &#8226; watch</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">When you notice the clues, you can care.</text>
+</svg>

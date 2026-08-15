@@ -49,6 +49,11 @@ context_variants:
     note: An older learner shows a younger one how to divide a pile into two fair shares
   - context: level-grouped
     note: Learners who are ready share unequal piles and figure out how to make them fair; others split a pile of two
+assets:
+  - path: assets/images/L.00.004.02-sharing-our-things.svg
+    alt: Two children at a low table split a pile of blocks into two equal piles labeled "one for me" and "one for you," with an equals sign between the piles.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice sharing by dividing objects so that everyone has some, and see

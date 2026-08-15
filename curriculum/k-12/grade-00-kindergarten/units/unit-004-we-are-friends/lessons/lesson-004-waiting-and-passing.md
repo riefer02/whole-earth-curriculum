@@ -49,6 +49,11 @@ context_variants:
     note: Younger learners wait beside an older buddy who helps them remember when it is their turn
   - context: level-grouped
     note: Learners who find waiting easy pass more slowly and deliberately; others use a fast pass first
+assets:
+  - path: assets/images/L.00.004.04-waiting-and-passing.svg
+    alt: Four children in a row pass one ball hand to hand, with a dashed arrow showing the direction and musical notes marking the beat; one child uses a wheelchair.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice the hardest part of sharing — waiting — by passing one object

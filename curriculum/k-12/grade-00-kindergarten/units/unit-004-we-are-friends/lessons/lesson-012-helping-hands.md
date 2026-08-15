@@ -50,6 +50,11 @@ context_variants:
     note: An older learner shows a younger one how to do a helping job, then they do it together
   - context: level-grouped
     note: Learners who are ready choose and complete a help independently; others help with a model beside them
+assets:
+  - path: assets/images/L.00.004.12-helping-hands.svg
+    alt: Three panels of hands helping — passing a pencil, picking up spilled blocks into a basket, and zipping a coat — each labeled with its helping job.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that helping is a skill they can learn and practice with their own

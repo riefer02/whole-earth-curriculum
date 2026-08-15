@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My neighborhood: places people share</title>
+  <desc id="desc">A neighborhood scene along a winding path shows five labeled places people share: a home with a door, a market stall with fruit, a well where a person draws water, a meeting tree with two people sitting under it, and a school building with a flag. A path connects them all, and small arrows show people walking between places. Labels name each place, and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and shows that a neighborhood is the places and people around our home where we belong to each other.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">My Neighborhood</text>
+
+  <!-- Sky / ground hint -->
+  <line x1="20" y1="430" x2="492" y2="430" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Winding path -->
+  <path d="M48 420 Q120 360 160 400 Q220 440 300 380 Q360 340 440 360 Q470 372 492 356" fill="none" stroke="#c99567" stroke-width="14" stroke-linecap="round"/>
+  <path d="M48 420 Q120 360 160 400 Q220 440 300 380 Q360 340 440 360 Q470 372 492 356" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-dasharray="none" opacity="0.4"/>
+
+  <!-- ===== HOME ===== -->
+  <g>
+    <rect x="56" y="240" width="72" height="64" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M50 240 L92 206 L134 240 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="80" y="270" width="22" height="34" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="66" y="252" width="16" height="16" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="92" y="328" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">home</text>
+
+  <!-- ===== MARKET ===== -->
+  <g>
+    <rect x="168" y="252" width="72" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M168 252 L168 216 L240 216 L240 252 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M168 216 L204 196 L240 216 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="186" cy="272" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="204" cy="272" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="222" cy="272" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="204" y="328" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">market</text>
+
+  <!-- ===== WELL ===== -->
+  <g>
+    <circle cx="290" cy="270" r="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="290" cy="270" r="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="272" y="232" width="8" height="46" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="300" y="232" width="8" height="46" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M276 232 L304 208 L304 232 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M286 232 L304 214 L322 232" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <!-- person drawing water -->
+    <circle cx="332" cy="250" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M322 248 A10 10 0 0 1 342 248 Z" fill="#2b3a42"/>
+    <rect x="324" y="260" width="16" height="26" rx="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="290" y="328" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">well</text>
+
+  <!-- ===== MEETING TREE ===== -->
+  <g>
+    <rect x="360" y="244" width="10" height="60" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="365" cy="228" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- two people sitting under tree -->
+    <circle cx="346" cy="292" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="384" cy="292" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="365" y="328" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">meeting tree</text>
+
+  <!-- ===== SCHOOL ===== -->
+  <g>
+    <rect x="408" y="236" width="60" height="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M402 236 L438 210 L474 236 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="430" y="258" width="16" height="34" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="438" y1="210" x2="438" y2="196" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M438 196 L456 200 L438 204 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="438" y="328" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">school</text>
+
+  <!-- Walking arrows -->
+  <path d="M120 190 Q180 170 220 196" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5" stroke-linecap="round"/>
+  <path d="M214 188 L220 196 L208 198 Z" fill="#2b3a42"/>
+
+  <!-- Bottom note -->
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A neighborhood is the places and people around home.</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">City block or village road — people share it and help each other.</text>
+</svg>

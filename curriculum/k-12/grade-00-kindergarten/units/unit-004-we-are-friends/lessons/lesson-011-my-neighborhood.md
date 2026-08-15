@@ -50,6 +50,11 @@ context_variants:
     note: Older learners write the names of places on the map while younger ones draw them
   - context: level-grouped
     note: Learners who are ready describe what people do together in a place; others name the place itself
+assets:
+  - path: assets/images/L.00.004.11-my-neighborhood.svg
+    alt: A neighborhood scene with labeled places people share — a home, a market, a well, a meeting tree, and a school — connected by a winding path with a person drawing water.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name their neighborhood as a community they belong to and describe one

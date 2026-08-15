@@ -51,6 +51,11 @@ context_variants:
     note: Older learners add *why* each situation makes a friend glad or sad; younger ones sort and point
   - context: level-grouped
     note: Learners who are ready think of their own glad/sad situations; others sort given cards
+assets:
+  - path: assets/images/L.00.004.07-glad-or-sad.svg
+    alt: Two panels side by side — a GLAD scene of two children sharing a snack, and a SAD scene of a child whose block tower fell — with a dashed arrow from sad to glad reading "I can change it."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sort small situations into what makes a friend glad and what makes a

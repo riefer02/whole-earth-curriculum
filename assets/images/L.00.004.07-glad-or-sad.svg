@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Glad or sad: two scenes to sort</title>
+  <desc id="desc">Two panels show opposite situations. The left panel, labeled GLAD, shows two children sharing a snack and smiling. The right panel, labeled SAD, shows one child whose block tower has fallen, looking down with a tear. Below, a sorting arrow points from the sad scene to the glad scene with the words "I can change it: a friend helps build again." The labels, the smile, the tear, and the arrow carry the meaning, so the picture prints clearly in grayscale and teaches that kind actions make friends glad and hurtful ones make them sad, and that we can choose the kind thing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">What Makes a Friend Glad or Sad?</text>
+
+  <!-- ===== GLAD panel ===== -->
+  <rect x="24" y="76" width="224" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="76" width="224" height="40" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="103" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">GLAD</text>
+
+  <!-- shared snack: two children, one plate -->
+  <g>
+    <circle cx="92" cy="200" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M72 198 A20 20 0 0 1 112 198 Z" fill="#2b3a42"/>
+    <circle cx="85" cy="200" r="2" fill="#2b3a42"/>
+    <circle cx="99" cy="200" r="2" fill="#2b3a42"/>
+    <path d="M85 210 Q92 216 99 210" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="78" y="222" width="28" height="44" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <g>
+    <circle cx="184" cy="200" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M164 198 A20 20 0 0 1 204 198 Z" fill="#4f6d7a"/>
+    <circle cx="177" cy="200" r="2" fill="#2b3a42"/>
+    <circle cx="191" cy="200" r="2" fill="#2b3a42"/>
+    <path d="M177 210 Q184 216 191 210" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="170" y="222" width="28" height="44" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- plate of snack between them -->
+  <ellipse cx="138" cy="252" rx="26" ry="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="132" cy="248" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="144" cy="247" r="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="138" cy="245" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="278" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">we share a snack</text>
+
+  <!-- ===== SAD panel ===== -->
+  <rect x="264" y="76" width="224" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="264" y="76" width="224" height="40" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="103" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">SAD</text>
+
+  <!-- fallen tower, sad child -->
+  <g>
+    <circle cx="352" cy="196" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M332 194 A20 20 0 0 1 372 194 Z" fill="#2b3a42"/>
+    <circle cx="345" cy="196" r="2" fill="#2b3a42"/>
+    <circle cx="359" cy="196" r="2" fill="#2b3a42"/>
+    <path d="M345 208 Q352 205 359 208" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M345 198 Q343 203 345 208" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M345 202 Q342 206 345 210 Q348 206 345 202 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="338" y="218" width="28" height="44" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- fallen blocks -->
+  <rect x="396" y="244" width="26" height="26" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="420" y="238" width="26" height="26" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="410" y="218" width="26" height="26" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="278" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the tower fell</text>
+
+  <!-- Sorting arrow sad -> glad -->
+  <path d="M340 306 Q256 346 172 306" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="8 6" stroke-linecap="round"/>
+  <path d="M184 316 L172 306 L184 300 Z" fill="#2b3a42"/>
+
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">I can change it</text>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a friend helps build it again</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Kind actions make friends glad; you get to choose.</text>
+</svg>

@@ -59,6 +59,11 @@ context_variants:
     note: Learners of different ages share the friendship skills with each other and build the banner together
   - context: level-grouped
     note: Learners who are ready name all four skills and one example each; others point to a picture for each
+assets:
+  - path: assets/images/L.00.004.14-we-are-friends.svg
+    alt: A circle of four children holding hands, with four skill badges around it — share and take turns, notice feelings, belong to a community, and help — and a heart that reads "we are friends."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   A capstone that gathers the unit's four friendship skills — sharing, reading

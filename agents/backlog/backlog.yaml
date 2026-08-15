@@ -1172,12 +1172,22 @@ items:
     type: assets
     grade: 0
     domain: D02
-    status: ready
+    status: done
     priority: 33
     depends_on:
       - B-042
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.004 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 14 assets: resolve to real files, non-empty alt, kind:image/source:original, each lesson has Connection. 14 SVGs self-contained XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal. Objectives resolve to real D02 K standards (S1-S4 all exist). Concept fidelity: L.09 four varied family shapes no ranking; L.08 eyes-closed/face-watching equal listening (no eye-contact mandate); L.12 'Ask first: can I help?' mutual aid no pity. UDL paths intact. Non-blocking: L.10 alt lists six parts vs seven children (cosmetic)."
+      accessibility-editor:
+        verdict: passed
+        note: "All 14 SVGs role=img + aria-labelledby + title/desc, well-formed XML. Color never sole signal (labels/shapes/arrows, TURN card, GLAD/SAD labels); grayscale-safe confirmed in desc. Alt concept-complete. Inclusive: varied skin tones, wheelchair (.04/.10/.13/.14), hearing aid (.09), varied family shapes. L.08 listening does not mandate eye contact (honors averted gaze/signing/lip-reading). Low-tech pairing all 14 (voice/body/found objects); no wealth/device assumption. No barriers. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed all 14 SVGs. Skin tone/hair varied, no single-region default. Family/community varied non-hierarchical (L.09 four structures 'no shape better'; L.10 circle of seven; L.11 home/market/well/meeting tree/school 'none is the default'). L.08 listening rejects eye-contact default (eyes-closed + face-hands watching, honors sign/lip-reading/looking-away). Ability natural (wheelchair L.04/.10/.13/.14, hearing aid L.09). Fix: L.03 showed only English kind-words -> added 'Every language has its own kind words — say them in your words too' + updated desc. Non-blocking: body types uniform across set. validate passes (301 files)."
   - id: B-074
     title: "Illustration pass: add SVG assets to lessons in U.00.005"
     agent: asset-designer

@@ -50,6 +50,11 @@ context_variants:
     note: An older learner asks a younger one to share, modeling the words, then invites the younger to try
   - context: level-grouped
     note: Learners who are ready add "thank you" after their turn; others practice just "please"
+assets:
+  - path: assets/images/L.00.004.03-asking-with-kind-words.svg
+    alt: Two children, one holding a toy and the other asking "Please, may I have a turn?" in a speech bubble, with the reply "Yes — here you go" and a "thank you" bubble, plus a kind-words card reading please, may I, thank you.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice asking for a turn with kind words — "please" and "may I" — and

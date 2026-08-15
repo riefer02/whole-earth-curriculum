@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Taking turns: two children passing one ball</title>
+  <desc id="desc">Two children face each other. The child on the left holds one ball and a small "TURN" marker card; the child on the right waits with open hands. A dashed arrow curves from the left child to the right child with the words "your turn next." The two children have different skin tones and shirt colors. The words and the passing arrow carry the meaning, so the picture prints clearly in grayscale and shows that waiting then passing means everyone gets a turn.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Taking Turns</text>
+
+  <!-- Ground -->
+  <line x1="48" y1="392" x2="464" y2="392" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Left child (holding the ball, their turn) ===== -->
+  <g>
+    <circle cx="150" cy="224" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M128 222 A22 22 0 0 1 172 222 Z" fill="#2b3a42"/>
+    <circle cx="142" cy="224" r="2.2" fill="#2b3a42"/>
+    <circle cx="158" cy="224" r="2.2" fill="#2b3a42"/>
+    <path d="M142 234 Q150 240 158 234" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="132" y="248" width="36" height="64" rx="13" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="140" y1="312" x2="138" y2="390" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="160" y1="312" x2="162" y2="390" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- arms holding the ball -->
+    <line x1="132" y1="264" x2="214" y2="290" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="132" y1="276" x2="216" y2="300" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- turn marker card held high -->
+    <rect x="118" y="180" width="40" height="26" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="138" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">TURN</text>
+  </g>
+  <text x="150" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">my turn</text>
+
+  <!-- ===== Ball ===== -->
+  <circle cx="256" cy="296" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 286 Q256 276 280 286" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M234 304 Q256 314 278 304" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Right child (waiting) ===== -->
+  <g>
+    <circle cx="362" cy="224" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M340 222 A22 22 0 0 1 384 222 Z" fill="#4f6d7a"/>
+    <circle cx="354" cy="224" r="2.2" fill="#2b3a42"/>
+    <circle cx="370" cy="224" r="2.2" fill="#2b3a42"/>
+    <path d="M354 234 Q362 240 370 234" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="344" y="248" width="36" height="64" rx="13" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="352" y1="312" x2="350" y2="390" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="372" y1="312" x2="374" y2="390" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- open waiting hands -->
+    <line x1="344" y1="264" x2="296" y2="290" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="344" y1="276" x2="298" y2="300" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="362" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I wait</text>
+
+  <!-- Passing arrow -->
+  <path d="M186 240 Q256 150 326 240" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="8 6" stroke-linecap="round"/>
+  <path d="M318 226 L326 240 L314 248 Z" fill="#2b3a42"/>
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">your turn next</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Wait, then pass it on — everyone gets a chance.</text>
+</svg>

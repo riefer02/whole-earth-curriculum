@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">We are friends: four friendship skills in a circle</title>
+  <desc id="desc">A friendship circle of four children holding hands. Around the circle, four labeled skill badges show the four friendship skills: share and take turns, notice feelings, belong to a community, and help. The children have different skin tones and hair, and one child uses a wheelchair. A heart sits in the center with the words "we are friends." The circle and the word labels carry the meaning, not color, so the picture prints clearly in grayscale and gathers the whole unit's friendship skills into one shared picture.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">We Are Friends</text>
+
+  <!-- ===== Four children in a circle, holding hands ===== -->
+
+  <!-- Child 1 (top) -->
+  <g>
+    <circle cx="256" cy="152" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M236 150 A20 20 0 0 1 276 150 Z" fill="#2b3a42"/>
+    <circle cx="249" cy="152" r="2" fill="#2b3a42"/>
+    <circle cx="263" cy="152" r="2" fill="#2b3a42"/>
+    <path d="M249 162 Q256 167 263 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="242" y="174" width="28" height="44" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="242" y1="184" x2="188" y2="208" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="270" y1="184" x2="324" y2="208" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Child 2 (right) -->
+  <g>
+    <circle cx="396" cy="244" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M376 242 A20 20 0 0 1 416 242 Z" fill="#4f6d7a"/>
+    <circle cx="389" cy="244" r="2" fill="#2b3a42"/>
+    <circle cx="403" cy="244" r="2" fill="#2b3a42"/>
+    <path d="M389 254 Q396 259 403 254" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="382" y="266" width="28" height="44" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="382" y1="276" x2="330" y2="290" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="396" y1="310" x2="368" y2="348" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Child 3 (bottom) -->
+  <g>
+    <circle cx="256" cy="384" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M236 382 A20 20 0 0 1 276 382 Z" fill="#2b3a42"/>
+    <circle cx="249" cy="384" r="2" fill="#2b3a42"/>
+    <circle cx="263" cy="384" r="2" fill="#2b3a42"/>
+    <path d="M249 394 Q256 399 263 394" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="242" y="406" width="28" height="44" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="242" y1="416" x2="202" y2="368" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="270" y1="416" x2="310" y2="368" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Child 4 (left, wheelchair) -->
+  <g>
+    <circle cx="116" cy="244" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M96 242 A20 20 0 0 1 136 242 Z" fill="#4f6d7a"/>
+    <circle cx="109" cy="244" r="2" fill="#2b3a42"/>
+    <circle cx="123" cy="244" r="2" fill="#2b3a42"/>
+    <path d="M109 254 Q116 259 123 254" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="102" y="266" width="28" height="44" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="102" y1="276" x2="184" y2="290" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- wheelchair -->
+    <rect x="92" y="310" width="48" height="7" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="108" y1="314" x2="128" y2="310" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="102" cy="332" r="15" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="102" cy="332" r="3" fill="#2b3a42"/>
+    <circle cx="130" cy="332" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+
+  <!-- Center heart -->
+  <path d="M256 296 Q250 286 244 296 Q238 306 256 316 Q274 306 268 296 Q262 286 256 296 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="302" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">we are</text>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">friends</text>
+
+  <!-- ===== Four skill badges ===== -->
+  <rect x="24" y="446" width="224" height="30" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="466" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">share and take turns</text>
+
+  <rect x="264" y="446" width="224" height="30" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="466" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">notice feelings</text>
+
+  <rect x="24" y="484" width="224" height="30" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="504" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">belong to a community</text>
+
+  <rect x="264" y="484" width="224" height="30" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="504" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">help</text>
+
+  <!-- Top note -->
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Many small skills, one caring group.</text>
+</svg>

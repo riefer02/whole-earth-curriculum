@@ -49,6 +49,11 @@ context_variants:
     note: An older learner reads the story while younger ones point to a feeling face at each moment
   - context: level-grouped
     note: Learners who are ready explain *why* the character feels that way; others just name the feeling
+assets:
+  - path: assets/images/L.00.004.06-feelings-in-stories.svg
+    alt: An open storybook shows a worried bird beside an empty nest with a tear, and a question bubble asks "How does the bird feel?"
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners follow a story character's feelings, guessing how the character feels and

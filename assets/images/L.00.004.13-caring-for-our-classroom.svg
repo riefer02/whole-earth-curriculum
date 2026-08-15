@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Caring for our classroom: tidying together</title>
+  <desc id="desc">A classroom scene shows four children doing care jobs together. One child wipes a table with a cloth, one sorts blocks into a basket, one waters a plant in a pot, and one child in a wheelchair straightens books on a low shelf. A small heart floats in the middle. Each job is labeled with a short caption. The children have different skin tones and hair. The labels and the shapes carry the meaning, not color, so the picture prints clearly in grayscale and teaches that caring for a shared space is caring for each other.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Caring for Our Classroom</text>
+
+  <!-- Floor -->
+  <line x1="20" y1="440" x2="492" y2="440" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Table (center) ===== -->
+  <rect x="200" y="280" width="112" height="16" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="212" y1="296" x2="212" y2="436" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="300" y1="296" x2="300" y2="436" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- ===== Child 1: wiping the table ===== -->
+  <g>
+    <circle cx="184" cy="222" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M164 220 A20 20 0 0 1 204 220 Z" fill="#2b3a42"/>
+    <circle cx="177" cy="222" r="2" fill="#2b3a42"/>
+    <circle cx="191" cy="222" r="2" fill="#2b3a42"/>
+    <path d="M177 232 Q184 237 191 232" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="170" y="244" width="28" height="46" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="170" y1="256" x2="206" y2="278" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- cloth -->
+    <rect x="202" y="274" width="26" height="12" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="184" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">wipe the table</text>
+
+  <!-- ===== Child 2: sorting blocks into basket ===== -->
+  <g>
+    <circle cx="340" cy="230" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M320 228 A20 20 0 0 1 360 228 Z" fill="#4f6d7a"/>
+    <circle cx="333" cy="230" r="2" fill="#2b3a42"/>
+    <circle cx="347" cy="230" r="2" fill="#2b3a42"/>
+    <path d="M333 240 Q340 245 347 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="326" y="252" width="28" height="46" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- basket with blocks -->
+    <path d="M356 300 L354 330 Q354 344 368 344 L384 344 Q398 344 398 330 L396 300 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="360" y="286" width="20" height="20" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="376" y="288" width="20" height="20" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="340" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">sort the blocks</text>
+
+  <!-- ===== Child 3: watering a plant ===== -->
+  <g>
+    <circle cx="90" cy="250" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M70 248 A20 20 0 0 1 110 248 Z" fill="#2b3a42"/>
+    <circle cx="83" cy="250" r="2" fill="#2b3a42"/>
+    <circle cx="97" cy="250" r="2" fill="#2b3a42"/>
+    <path d="M83 260 Q90 265 97 260" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="76" y="272" width="28" height="46" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="76" y1="284" x2="124" y2="300" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- watering can -->
+    <path d="M122 286 Q136 278 140 288 Q142 296 130 300 L120 296 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M134 280 L142 270" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- plant -->
+    <path d="M150 388 Q150 352 150 344" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M150 360 Q136 344 128 344" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M150 356 Q164 340 172 344" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M144 400 L156 400 L156 430 L144 430 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- water drops -->
+    <path d="M138 296 Q136 302 138 306 Q140 302 138 296 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M128 300 Q126 306 128 310 Q130 306 128 300 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <text x="90" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">water the plant</text>
+
+  <!-- ===== Child 4 (wheelchair): straightening books ===== -->
+  <g>
+    <circle cx="416" cy="264" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M396 262 A20 20 0 0 1 436 262 Z" fill="#4f6d7a"/>
+    <circle cx="409" cy="264" r="2" fill="#2b3a42"/>
+    <circle cx="423" cy="264" r="2" fill="#2b3a42"/>
+    <path d="M409 274 Q416 279 423 274" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="402" y="286" width="28" height="44" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="402" y1="296" x2="370" y2="306" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- wheelchair -->
+    <rect x="392" y="330" width="48" height="7" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="408" y1="334" x2="428" y2="330" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="402" cy="352" r="15" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="402" cy="352" r="3" fill="#2b3a42"/>
+    <circle cx="430" cy="352" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <!-- books on shelf -->
+    <line x1="320" y1="330" x2="368" y2="330" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <rect x="324" y="302" width="10" height="28" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="336" y="306" width="10" height="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="348" y="300" width="10" height="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="416" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">straighten books</text>
+
+  <!-- Heart in center -->
+  <path d="M256 392 Q250 382 244 392 Q238 402 256 412 Q274 402 268 392 Q262 382 256 392 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Bottom note -->
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Caring for our shared space is caring for each other.</text>
+</svg>

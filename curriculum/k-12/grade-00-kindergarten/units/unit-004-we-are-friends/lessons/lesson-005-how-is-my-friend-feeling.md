@@ -50,6 +50,11 @@ context_variants:
     note: An older learner acts out a feeling for younger ones to guess, then they swap roles
   - context: level-grouped
     note: Learners who are ready guess from body language alone; others use face cards for support
+assets:
+  - path: assets/images/L.00.004.05-how-is-my-friend-feeling.svg
+    alt: Three clue cards labeled FACE, VOICE, and BODY show a smiling face, a sound wave labeled laugh, cry, shout, and a small figure with low shoulders.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners read the clues a friend gives with face, voice, and body, and practice
