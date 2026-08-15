@@ -51,6 +51,16 @@ context_variants:
     note: Group by build experience — some stack flat pieces, others make a plan and join parts — and give each a matching challenge
   - context: outdoor-only
     note: Build from nature — stick bridges, stone towers, leaf boats — and test them right where you are
+assets:
+  - path: assets/images/L.00.007.09-building-something.svg
+    alt: >-
+      Three panels of things built to do a job: a block tower with a wide base
+      labeled "it stands", a bridge with two supports and a deck spanning water
+      labeled "it spans", and a little boat floating on waves with a leaf inside
+      labeled "it floats". Teaches that builders turn materials into things that
+      help; the labels carry the meaning, so it prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners plan, build, and test something with a job — a tower, a bridge, a boat, a

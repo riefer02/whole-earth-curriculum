@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Building something: a tower, a bridge, and a boat</title>
+  <desc id="desc">Three panels show things built to do a job. The first panel shows a block tower with a wide base, labeled "a tower — it stands". The second panel shows a bridge: two block supports with a deck spanning the gap between them over water, labeled "a bridge — it spans". The third panel shows a little boat floating on wavy water with a leaf resting inside, labeled "a boat — it floats". Each build is labeled with the job it does, so the picture prints clearly in grayscale and teaches that builders turn materials into things that help.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Building Something</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Build something that does a job.</text>
+
+  <!-- Panel 1: tower -->
+  <g>
+    <rect x="22" y="96" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="97" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">a tower</text>
+    <rect x="83" y="188" width="28" height="26" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="75" y="216" width="44" height="26" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="67" y="244" width="60" height="26" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="60" y1="272" x2="134" y2="272" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="97" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">it stands</text>
+    <text x="97" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">wide base = steady</text>
+  </g>
+
+  <!-- Panel 2: bridge -->
+  <g>
+    <rect x="181" y="96" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">a bridge</text>
+    <!-- supports -->
+    <rect x="204" y="216" width="30" height="42" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="278" y="216" width="30" height="42" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- deck spanning -->
+    <rect x="192" y="206" width="128" height="16" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- water -->
+    <path d="M194 268 Q208 262 222 268 Q236 274 250 268 Q264 262 278 268 Q292 274 306 268" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">it spans</text>
+    <text x="256" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">across the gap</text>
+  </g>
+
+  <!-- Panel 3: boat -->
+  <g>
+    <rect x="340" y="96" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="415" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">a boat</text>
+    <!-- leaf in boat -->
+    <path d="M415 210 Q406 198 415 190 Q424 198 415 210 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="415" y1="210" x2="415" y2="218" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- hull -->
+    <path d="M392 218 Q415 252 438 218 L436 228 Q415 258 394 228 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- water -->
+    <path d="M384 262 Q398 256 412 262 Q426 268 440 262 Q454 256 462 262" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <text x="415" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">it floats</text>
+    <text x="415" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">it holds a leaf</text>
+  </g>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Build, look, change, build again.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Builders turn materials into things that help.</text>
+</svg>

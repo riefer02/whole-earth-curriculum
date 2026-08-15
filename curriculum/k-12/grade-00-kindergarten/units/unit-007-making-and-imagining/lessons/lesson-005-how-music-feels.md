@@ -51,6 +51,17 @@ context_variants:
     note: Some learners focus on one contrast (fast vs slow); others hold two at once (loud and fast) — match the listening task
   - context: outdoor-only
     note: Listen to the sounds outside — birds, wind, water — and decide together if each feels fast or slow, loud or soft, calm or exciting
+assets:
+  - path: assets/images/L.00.007.05-how-music-feels.svg
+    alt: >-
+      Two panels. Left: a lively face with wide eyes and raised arms, sharp fast
+      sound waves, and a drum labeled "fast and loud — exciting!" with a note
+      "feel the beat". Right: a calm face with closed eyes and a gentle smile,
+      soft slow waves, and a drum labeled "slow and soft — calm". The faces differ
+      by mouth and eyebrow shape, and everything is labeled, so it prints clearly
+      in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners listen to fast, slow, loud, and soft music and name the feeling each one

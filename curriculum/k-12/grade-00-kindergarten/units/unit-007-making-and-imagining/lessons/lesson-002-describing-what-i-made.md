@@ -55,6 +55,16 @@ context_variants:
     note: Group by how much language the learner uses — some name one word, others tell a whole story — and match the prompting to each
   - context: outdoor-only
     note: Describe a piece made from natural things by pointing to its parts on the ground and naming colors and shapes found in nature
+assets:
+  - path: assets/images/L.00.007.02-describing-what-i-made.svg
+    alt: >-
+      A framed child's artwork with a red circle, a blue wiggly line, and a green
+      triangle, each named by a speech bubble — "red circle", "wiggly line",
+      "triangle" — beside a smooth stone labeled "turn marker — my turn to share".
+      Teaches that naming or pointing to a color, shape, or line is a way to
+      describe art; the words carry the meaning, so it prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners look at what they made and describe it — with words, or by pointing to a

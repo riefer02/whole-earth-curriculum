@@ -50,6 +50,17 @@ context_variants:
     note: Group by how much the learner already uses their whole body — some do one part (arms as wings), others the full animal — and nudge each a step further
   - context: outdoor-only
     note: Watch real animals if you can — birds, ants, a bug — then move like them right where you are
+assets:
+  - path: assets/images/L.00.007.06-moving-like-animals.svg
+    alt: >-
+      Four panels of children moving like animals with varied skin tones: a child
+      with arms spread like a bird ("flap wings"), a crouched child ready to hop
+      like a frog ("hop"), a child wiggling one arm like a snake from a chair
+      ("wiggle — from a chair"), and a child swaying one arm like an elephant's
+      trunk ("sway"). Labels carry the meaning, and one panel shows a seated
+      version, so it prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners use their whole bodies to move like animals — crawling, leaping, swimming,

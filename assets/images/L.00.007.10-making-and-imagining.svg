@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Making and imagining: draw, sing, move, and build</title>
+  <desc id="desc">Four panels show the four ways of making and imagining. The first shows a hand with a pencil drawing a circle on paper, labeled "make — draw". The second shows two hands clapping beside a music note, labeled "sing — clap". The third shows a child with arms raised dancing, labeled "move — dance". The fourth shows a stack of blocks, labeled "build". Each panel is labeled with its way of making, so the picture prints clearly in grayscale and teaches that drawing, music, movement, and building are all ways of making and imagining, and every piece has a story.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Making &amp; Imagining</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Four ways to make and imagine.</text>
+
+  <!-- Panel 1: draw -->
+  <g>
+    <rect x="22" y="96" width="228" height="160" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="70" y="118" width="110" height="92" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="118" cy="160" r="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M140 178 Q150 168 158 178" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+    <!-- pencil -->
+    <line x1="196" y1="196" x2="172" y2="176" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <path d="M168 173 L172 176 L169 181 Z" fill="#2b3a42"/>
+    <!-- hand -->
+    <path d="M200 202 Q210 196 214 206 L210 216 Q206 220 198 216 L192 208 Q188 202 200 202 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="238" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">make — draw</text>
+  </g>
+
+  <!-- Panel 2: sing -->
+  <g>
+    <rect x="262" y="96" width="228" height="160" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <!-- clapping hands -->
+    <path d="M326 186 L326 148 Q326 132 340 132 L348 132 Q362 132 362 148 L362 186 Q362 198 344 198 Q326 198 326 186 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M396 186 L396 148 Q396 132 410 132 L418 132 Q432 132 432 148 L432 186 Q432 198 414 198 Q396 198 396 186 Z" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round">
+      <line x1="374" y1="156" x2="366" y2="150"/>
+      <line x1="384" y1="156" x2="392" y2="150"/>
+    </g>
+    <!-- music note -->
+    <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+      <line x1="388" y1="214" x2="388" y2="184"/>
+      <path d="M388 184 Q398 186 398 194" fill="none"/>
+    </g>
+    <ellipse cx="380" cy="216" rx="10" ry="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="238" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">sing — clap</text>
+  </g>
+
+  <!-- Panel 3: move -->
+  <g>
+    <rect x="22" y="268" width="228" height="160" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="136" cy="308" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M122 306 Q136 290 150 306" fill="#2b3a42"/>
+    <circle cx="131" cy="306" r="2.2" fill="#2b3a42"/>
+    <circle cx="141" cy="306" r="2.2" fill="#2b3a42"/>
+    <path d="M130 313 Q136 317 142 313" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="121" y="324" width="30" height="38" rx="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="124" y1="330" x2="110" y2="306" stroke="#8f5f3d" stroke-width="6" stroke-linecap="round"/>
+    <line x1="148" y1="330" x2="162" y2="306" stroke="#8f5f3d" stroke-width="6" stroke-linecap="round"/>
+    <line x1="130" y1="362" x2="128" y2="392" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="142" y1="362" x2="144" y2="392" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+      <line x1="106" y1="334" x2="100" y2="334"/>
+      <line x1="166" y1="334" x2="172" y2="334"/>
+    </g>
+    <text x="136" y="412" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">move — dance</text>
+  </g>
+
+  <!-- Panel 4: build -->
+  <g>
+    <rect x="262" y="268" width="228" height="160" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="356" y="356" width="48" height="24" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="362" y="332" width="36" height="24" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="368" y="308" width="24" height="24" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="348" y1="382" x2="412" y2="382" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="376" y="412" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">build</text>
+  </g>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Drawing, music, movement, and building — every piece has a story.</text>
+</svg>

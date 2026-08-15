@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Moving like animals: bird, frog, snake, elephant</title>
+  <desc id="desc">Four panels show children moving like animals, each with a different skin tone. The bird panel shows a child with arms spread as wings, labeled "bird — flap wings". The frog panel shows a child crouched low and ready to hop, labeled "frog — hop". The snake panel shows a child sitting in a chair wiggling one arm in a wave, labeled "snake — wiggle (from a chair)". The elephant panel shows a child swaying one arm down like a trunk, labeled "elephant — sway". Every panel is labeled with the animal and its movement, and one panel shows a seated version, so the picture prints clearly in grayscale and teaches that every animal movement works from where you are.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Moving Like Animals</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your body can become anything.</text>
+
+  <!-- Panel 1: bird -->
+  <g>
+    <rect x="22" y="96" width="228" height="196" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="122" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">bird</text>
+    <circle cx="136" cy="152" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 150 Q136 132 152 150" fill="#e0a458"/>
+    <circle cx="130" cy="150" r="2.4" fill="#2b3a42"/>
+    <circle cx="142" cy="150" r="2.4" fill="#2b3a42"/>
+    <path d="M130 158 Q136 162 142 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="118" y="172" width="36" height="44" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- wings (arms out) -->
+    <line x1="120" y1="182" x2="92" y2="162" stroke="#f5d6b6" stroke-width="7" stroke-linecap="round"/>
+    <line x1="152" y1="182" x2="180" y2="162" stroke="#f5d6b6" stroke-width="7" stroke-linecap="round"/>
+    <!-- legs -->
+    <line x1="130" y1="216" x2="128" y2="252" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="144" y1="216" x2="146" y2="252" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <text x="136" y="278" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">flap wings</text>
+  </g>
+
+  <!-- Panel 2: frog -->
+  <g>
+    <rect x="262" y="96" width="228" height="196" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="122" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">frog</text>
+    <circle cx="376" cy="154" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 152 Q376 134 392 152" fill="#2b3a42"/>
+    <circle cx="370" cy="152" r="2.4" fill="#2b3a42"/>
+    <circle cx="382" cy="152" r="2.4" fill="#2b3a42"/>
+    <path d="M370 160 Q376 164 382 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- crouched body -->
+    <rect x="358" y="172" width="36" height="36" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- bent legs -->
+    <path d="M364 206 L346 206 L346 236" fill="none" stroke="#2b3a42" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M388 206 L406 206 L406 236" fill="none" stroke="#2b3a42" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- arms to ground -->
+    <line x1="362" y1="180" x2="360" y2="240" stroke="#ab7a4e" stroke-width="7" stroke-linecap="round"/>
+    <line x1="390" y1="180" x2="392" y2="240" stroke="#ab7a4e" stroke-width="7" stroke-linecap="round"/>
+    <text x="376" y="278" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">hop</text>
+  </g>
+
+  <!-- Panel 3: snake (seated) -->
+  <g>
+    <rect x="22" y="298" width="228" height="196" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="324" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#c99567">snake</text>
+    <!-- chair -->
+    <rect x="118" y="362" width="48" height="10" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="124" y1="372" x2="124" y2="414" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="160" y1="372" x2="160" y2="414" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <rect x="112" y="340" width="10" height="34" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- seated child -->
+    <circle cx="146" cy="322" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M130 320 Q146 302 162 320" fill="#4f6d7a"/>
+    <circle cx="140" cy="320" r="2.4" fill="#2b3a42"/>
+    <circle cx="152" cy="320" r="2.4" fill="#2b3a42"/>
+    <path d="M140 328 Q146 332 152 328" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="128" y="340" width="36" height="30" rx="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- wiggling arm (snake) -->
+    <path d="M162 348 Q176 340 184 352 Q192 364 206 356 Q214 350 220 354" fill="none" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="220" cy="354" r="4" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">wiggle — from a chair</text>
+  </g>
+
+  <!-- Panel 4: elephant -->
+  <g>
+    <rect x="262" y="298" width="228" height="196" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="324" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">elephant</text>
+    <circle cx="376" cy="354" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 352 Q376 334 392 352" fill="#2b3a42"/>
+    <circle cx="370" cy="352" r="2.4" fill="#2b3a42"/>
+    <circle cx="382" cy="352" r="2.4" fill="#2b3a42"/>
+    <path d="M370 360 Q376 364 382 360" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="358" y="374" width="36" height="46" rx="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <!-- trunk arm (sways down) -->
+    <path d="M396 384 Q420 396 416 424 Q414 440 404 452" fill="none" stroke="#8f5f3d" stroke-width="7" stroke-linecap="round"/>
+    <!-- other arm up -->
+    <line x1="358" y1="384" x2="340" y2="368" stroke="#8f5f3d" stroke-width="7" stroke-linecap="round"/>
+    <!-- legs -->
+    <line x1="370" y1="420" x2="368" y2="456" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="384" y1="420" x2="386" y2="456" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <text x="376" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">sway trunk</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Watching and copying counts. Every animal works from where you are.</text>
+</svg>

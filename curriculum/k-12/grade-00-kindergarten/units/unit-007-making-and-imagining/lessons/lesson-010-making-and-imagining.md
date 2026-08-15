@@ -57,6 +57,17 @@ context_variants:
     note: Mix groups across levels so every learner both shares and asks a question; celebrate all four kinds of making equally
   - context: outdoor-only
     note: Lay the unit's work — drawings, songs, movements, and builds — out on the ground and walk the gallery under the open sky
+assets:
+  - path: assets/images/L.00.007.10-making-and-imagining.svg
+    alt: >-
+      Four panels show the four ways of making and imagining: a hand with a pencil
+      drawing a circle on paper ("make — draw"), two hands clapping beside a music
+      note ("sing — clap"), a child with arms raised dancing ("move — dance"), and
+      a stack of blocks ("build"). Teaches that drawing, music, movement, and
+      building are all ways of making and imagining; the labels carry the meaning,
+      so it prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the whole unit together in a gallery and celebration: they share
@@ -132,8 +143,8 @@ voice matters.
 3. **Walk the gallery (10 min).** Move quietly around and look. Find one thing that
    makes you curious. Ask its maker, "Tell me about this."
 4. **Share and celebrate (15 min).** One at a time, share your piece — show it, sing
-   it, dance it, or explain what it does. Everyone claps for everyone, because every
-   piece has a story.
+   it, dance it, or explain what it does. Everyone claps for everyone — or waves and
+   flutters hands, or gives a thumbs-up — because every piece has a story.
 5. **Close (5 min).** Remember: your hands, your voice, your body, and your ideas can
    all make something new. That is making and imagining — and it is yours forever.
 

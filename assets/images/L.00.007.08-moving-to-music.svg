@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Moving to music: fast, slow, and freeze</title>
+  <desc id="desc">Three panels show how a body moves to music, with three different skin tones. The first panel shows a child with arms raised and legs apart moving big and fast, with motion lines, labeled "fast — move fast". The second panel shows a child dancing from a chair with one arm swaying gently, labeled "slow — move slow (from a chair)". The third panel shows a child standing very still like a statue with a sparkle above the head, labeled "freeze". Each panel is labeled with the music change and the movement, so the picture prints clearly in grayscale and teaches that dance is listening with the whole body.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Moving to Music</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Dance is listening with your whole body.</text>
+
+  <!-- Panel 1: fast -->
+  <g>
+    <rect x="22" y="96" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="97" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">fast</text>
+    <circle cx="97" cy="160" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M82 158 Q97 140 112 158" fill="#2b3a42"/>
+    <circle cx="91" cy="158" r="2.4" fill="#2b3a42"/>
+    <circle cx="103" cy="158" r="2.4" fill="#2b3a42"/>
+    <path d="M90 166 Q97 172 104 166" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="81" y="178" width="32" height="44" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- arms raised -->
+    <line x1="84" y1="186" x2="72" y2="152" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
+    <line x1="110" y1="186" x2="122" y2="152" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
+    <!-- legs apart (jump) -->
+    <line x1="90" y1="222" x2="80" y2="264" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="104" y1="222" x2="114" y2="264" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- motion lines -->
+    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round">
+      <line x1="56" y1="176" x2="48" y2="176"/>
+      <line x1="138" y1="176" x2="146" y2="176"/>
+      <line x1="60" y1="214" x2="52" y2="214"/>
+      <line x1="134" y1="214" x2="142" y2="214"/>
+    </g>
+    <text x="97" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">move fast</text>
+    <text x="97" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">music is fast</text>
+  </g>
+
+  <!-- Panel 2: slow (seated) -->
+  <g>
+    <rect x="181" y="96" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">slow</text>
+    <!-- chair -->
+    <rect x="234" y="324" width="10" height="38" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="238" y="358" width="44" height="10" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="244" y1="368" x2="244" y2="400" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="276" y1="368" x2="276" y2="400" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <!-- seated child -->
+    <circle cx="258" cy="288" r="15" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M243 286 Q258 268 273 286" fill="#4f6d7a"/>
+    <circle cx="252" cy="286" r="2.4" fill="#2b3a42"/>
+    <circle cx="264" cy="286" r="2.4" fill="#2b3a42"/>
+    <path d="M251 294 Q258 299 265 294" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="242" y="306" width="32" height="40" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- swaying arm -->
+    <path d="M272 318 Q286 312 292 322" fill="none" stroke="#8f5f3d" stroke-width="7" stroke-linecap="round"/>
+    <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" fill="none">
+      <path d="M296 314 Q300 318 296 322"/>
+      <path d="M302 310 Q306 314 302 318"/>
+    </g>
+    <!-- legs -->
+    <line x1="250" y1="346" x2="248" y2="368" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="268" y1="346" x2="270" y2="368" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">move slow</text>
+    <text x="256" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">from a chair, too</text>
+  </g>
+
+  <!-- Panel 3: freeze -->
+  <g>
+    <rect x="340" y="96" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="415" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">freeze</text>
+    <!-- sparkle -->
+    <path d="M415 132 L417.4 140.6 L426 142 L417.4 143.4 L415 152 L412.6 143.4 L404 142 L412.6 140.6 Z" fill="#e0a458"/>
+    <circle cx="415" cy="160" r="15" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M400 158 Q415 140 430 158" fill="#e0a458"/>
+    <circle cx="409" cy="158" r="2.4" fill="#2b3a42"/>
+    <circle cx="421" cy="158" r="2.4" fill="#2b3a42"/>
+    <path d="M409 166 L421 166" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="399" y="178" width="32" height="46" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- arms at sides -->
+    <line x1="401" y1="186" x2="390" y2="212" stroke="#f5d6b6" stroke-width="7" stroke-linecap="round"/>
+    <line x1="429" y1="186" x2="440" y2="212" stroke="#f5d6b6" stroke-width="7" stroke-linecap="round"/>
+    <!-- legs together -->
+    <line x1="408" y1="224" x2="406" y2="264" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="422" y1="224" x2="424" y2="264" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <text x="415" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">freeze</text>
+    <text x="415" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">hold still</text>
+  </g>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Your dance is yours — every movement is a real answer.</text>
+</svg>

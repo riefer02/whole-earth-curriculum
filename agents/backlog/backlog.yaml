@@ -1238,12 +1238,22 @@ items:
     type: assets
     grade: 0
     domain: D07
-    status: ready
+    status: done
     priority: 36
     depends_on:
       - B-045
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.007 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 10 assets resolve to real files, non-empty alt, kind/source valid. 10 SVGs well-formed XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal (L.02 labeled shapes, L.04 numbered clap markers, L.05 faces differ by mouth/eyebrow + labels). Process-over-product + living heritage: turn marker (no talking stick), anti-ranking only, no tokenizing; UDL (Deaf/HH vibration L.04/05, seated L.06/07/08, non-visual L.03). Objectives resolve to real D07 K standards. Required headings present."
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs role=img + aria-labelledby + title/desc. Color never sole signal (labels/numbers/shapes, grayscale-safe). Alt concept-complete. Music lessons Deaf/HH vibration + visible beat (L.04/05); movement/character seated paths (L.06/07/08); non-visual touch-describe/told-story; 'watching/copying is full participation' no forced performance; found materials low-cost, devices only enriched. Fixes: L.08 freeze cue was hearing-dependent -> added visible clap/stamp beat + raised-hand freeze + floor/drum vibration; L.10 wave-hands/thumbs-up celebration alternatives. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: No fine-art-vs-craft ranking (draw/music/movement/build equal, 'every child's making honored', arts as living heritage). No sacred-practice tokenizing ('turn marker' never 'talking stick'; grep zero dreamcatcher/totem/smudging/spirit-animal/ceremony). No single-region/culture default (no country/holiday/currency, 'everywhere in the world', found materials, 5+ skin tones, emotion never tied to skin). Found-materials universality (materials_low_tech all; devices enriched). No ranking ('never rank whose animal is best', 'no best pieces', 'no wrong way'). No edits. validate passes (301 files).
   - id: B-077
     title: "Illustration pass: add SVG assets to lessons in U.00.008"
     agent: asset-designer

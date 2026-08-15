@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How music feels: fast and loud, slow and soft</title>
+  <desc id="desc">Two side-by-side panels show how music feels. The left panel shows a lively feeling face with wide eyes and raised arms, sharp fast sound waves, and a drum, labeled "fast and loud — exciting!" with a note "feel the beat". The right panel shows a calm feeling face with closed eyes and a gentle smile, soft slow waves, and the label "slow and soft — calm". The faces differ by eyebrow and mouth shape, not color, and every panel is labeled, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">How Music Feels</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Fast, slow, loud, soft — each one carries a feeling.</text>
+
+  <!-- Left panel: fast and loud -->
+  <g>
+    <rect x="22" y="96" width="228" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="124" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">fast + loud</text>
+
+    <!-- excited face -->
+    <circle cx="136" cy="170" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="126" cy="164" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="146" cy="164" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="126" cy="164" r="2.2" fill="#2b3a42"/>
+    <circle cx="146" cy="164" r="2.2" fill="#2b3a42"/>
+    <path d="M120 150 Q126 145 132 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M140 150 Q146 145 152 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M122 182 Q136 196 150 182" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- raised arms -->
+    <line x1="104" y1="184" x2="88" y2="150" stroke="#e6bb92" stroke-width="7" stroke-linecap="round"/>
+    <line x1="168" y1="184" x2="184" y2="150" stroke="#e6bb92" stroke-width="7" stroke-linecap="round"/>
+
+    <!-- fast sound waves -->
+    <path d="M90 238 L110 222 L130 238 L150 222 L170 238 L186 226" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="136" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">exciting!</text>
+
+    <!-- drum with hand -->
+    <path d="M108 330 L114 288 Q116 282 126 282 L146 282 Q156 282 158 288 L164 330 Q164 340 136 340 Q108 340 108 330 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="136" cy="282" rx="22" ry="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M136 262 Q130 252 122 256 L116 266 Q112 272 120 276 L132 278 Q142 278 144 270 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <path d="M96 288 Q92 294 96 300"/>
+      <path d="M176 288 Q180 294 176 300"/>
+    </g>
+    <text x="136" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">feel the beat</text>
+  </g>
+
+  <!-- Right panel: slow and soft -->
+  <g>
+    <rect x="262" y="96" width="228" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="124" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">slow + soft</text>
+
+    <!-- calm face -->
+    <circle cx="376" cy="170" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M364 164 Q370 160 376 164" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M376 164 Q382 160 388 164" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M366 150 Q370 147 374 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M378 150 Q382 147 386 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M364 182 Q376 190 388 182" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- leaning-in hand -->
+    <path d="M406 182 Q416 186 418 196 L420 206" fill="none" stroke="#8f5f3d" stroke-width="7" stroke-linecap="round"/>
+
+    <!-- slow soft waves -->
+    <path d="M316 246 Q330 234 344 246 Q358 258 372 246 Q386 234 400 246" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <text x="376" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">calm</text>
+
+    <!-- gentle drum (soft) -->
+    <path d="M348 330 L354 288 Q356 282 366 282 L386 282 Q396 282 398 288 L404 330 Q404 340 376 340 Q348 340 348 330 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="376" cy="282" rx="22" ry="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <path d="M336 288 Q332 294 336 300"/>
+      <path d="M416 288 Q420 294 416 300"/>
+    </g>
+    <text x="376" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">soft tap</text>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Music is a feeling you can hear — and feel in your body.</text>
+</svg>

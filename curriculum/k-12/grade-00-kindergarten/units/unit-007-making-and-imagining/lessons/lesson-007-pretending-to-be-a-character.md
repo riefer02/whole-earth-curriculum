@@ -53,6 +53,16 @@ context_variants:
     note: Some learners focus on one part of the character (just the voice or just the walk); others use voice, face, and body together
   - context: outdoor-only
     note: Act the story outside using found things — a stick for a walking cane, a leaf for a dish — to become the character
+assets:
+  - path: assets/images/L.00.007.07-pretending-to-be-a-character.svg
+    alt: >-
+      A child as a kind helper carrying a basket of food, with three labeled cards
+      pointing to the parts of a character: "voice" with a speech bubble reading
+      "I can help!", "face" with a warm smiling face, and "body" with feet and
+      motion lines for "my walk". Teaches that voice, face, and body make a
+      character; the labels carry the meaning, so it prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners become characters from a simple story using voice, face, and body. They

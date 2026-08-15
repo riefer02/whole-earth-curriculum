@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Pretending to be a character: voice, face, and body</title>
+  <desc id="desc">A child with light-medium brown skin stands as a character — a kind helper carrying a basket of food. To the right, three labeled cards point to the parts that make a character: a "voice" card with a speech bubble reading "I can help!", a "face" card with a smiling face, and a "body" card with little feet and motion lines labeled "my walk". The cards and arrows show that a character is made with voice, face, and body, so the picture prints clearly in grayscale and teaches that your voice, face, and body are your costume.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Pretending to Be a Character</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your voice, face, and body are your costume.</text>
+
+  <!-- Child character (helper with basket) -->
+  <g>
+    <circle cx="150" cy="250" r="16" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M134 248 Q150 230 166 248" fill="#4f6d7a"/>
+    <circle cx="144" cy="248" r="2.4" fill="#2b3a42"/>
+    <circle cx="156" cy="248" r="2.4" fill="#2b3a42"/>
+    <path d="M143 256 Q150 262 157 256" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="132" y="272" width="36" height="56" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- left arm at side -->
+    <path d="M134 288 Q120 296 122 314" fill="none" stroke="#e6bb92" stroke-width="7" stroke-linecap="round"/>
+    <!-- right arm holding basket -->
+    <path d="M166 288 Q196 292 208 302" fill="none" stroke="#e6bb92" stroke-width="7" stroke-linecap="round"/>
+    <!-- legs -->
+    <line x1="142" y1="328" x2="140" y2="374" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="158" y1="328" x2="160" y2="374" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- basket -->
+    <path d="M196 300 Q212 286 228 300" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M198 302 L224 302 L218 344 L204 344 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="204" y1="302" x2="207" y2="344" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="211" y1="302" x2="211" y2="344" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="218" y1="302" x2="215" y2="344" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- Voice card -->
+  <g>
+    <rect x="300" y="110" width="186" height="72" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="314" y="122" width="70" height="34" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M330 156 L322 170 L344 156" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="392" y="140" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">voice</text>
+    <text x="392" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"I can help!"</text>
+    <line x1="300" y1="146" x2="172" y2="240" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 4"/>
+  </g>
+
+  <!-- Face card -->
+  <g>
+    <rect x="300" y="210" width="186" height="72" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="349" cy="246" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="343" cy="243" r="2.2" fill="#2b3a42"/>
+    <circle cx="355" cy="243" r="2.2" fill="#2b3a42"/>
+    <path d="M342 253 Q349 258 356 253" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="402" y="240" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">face</text>
+    <text x="402" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a warm smile</text>
+    <line x1="300" y1="246" x2="172" y2="252" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 4"/>
+  </g>
+
+  <!-- Body card -->
+  <g>
+    <rect x="300" y="310" width="186" height="72" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="339" cy="346" rx="12" ry="6" fill="#2b3a42"/>
+    <ellipse cx="359" cy="358" rx="12" ry="6" fill="#2b3a42"/>
+    <path d="M324 340 Q320 346 324 352 M334 340 Q330 346 334 352" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="402" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">body</text>
+    <text x="402" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">my walk</text>
+    <line x1="300" y1="346" x2="172" y2="310" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 4"/>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Pretending helps us feel what others feel.</text>
+</svg>

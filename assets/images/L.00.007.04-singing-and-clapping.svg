@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Singing and clapping: a visible beat</title>
+  <desc id="desc">Two hands, one light and one deep brown, come together in a clap with little motion lines around them. Below, a row of three labeled beat markers shows a clap-clap-pat pattern: the first two circles say "clap" and the third says "pat", with numbers 1, 2, 3 so the beat can be seen and counted. At the bottom, a hand rests on top of a drum with the label "feel the beat", because a beat can be felt as a vibration, not only heard. Labels and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Singing and Clapping</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Clap, clap, pat — a beat you can see and feel.</text>
+
+  <!-- Clapping hands -->
+  <g>
+    <!-- left hand (light) -->
+    <path d="M182 200 L182 150 Q182 128 200 128 L212 128 Q230 128 230 150 L230 200 Q230 220 206 220 Q182 220 182 200 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="196" y1="130" x2="196" y2="146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="206" y1="130" x2="206" y2="146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- right hand (deep) -->
+    <path d="M282 200 L282 150 Q282 128 300 128 L312 128 Q330 128 330 150 L330 200 Q330 220 306 220 Q282 220 282 200 Z" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="306" y1="130" x2="306" y2="146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="316" y1="130" x2="316" y2="146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- motion lines -->
+    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round">
+      <line x1="256" y1="150" x2="256" y2="138"/>
+      <line x1="242" y1="160" x2="232" y2="154"/>
+      <line x1="270" y1="160" x2="280" y2="154"/>
+      <line x1="238" y1="185" x2="228" y2="185"/>
+      <line x1="274" y1="185" x2="284" y2="185"/>
+      <line x1="256" y1="218" x2="256" y2="230"/>
+    </g>
+  </g>
+
+  <!-- Beat markers: clap, clap, pat -->
+  <g>
+    <circle cx="96" cy="288" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="96" y="282" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">1</text>
+    <text x="96" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">clap</text>
+    <path d="M64 270 Q64 256 80 256" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M128 270 Q128 256 112 256" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="256" cy="288" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">2</text>
+    <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">clap</text>
+    <path d="M224 270 Q224 256 240 256" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M288 270 Q288 256 272 256" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="416" cy="288" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="416" y="282" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">3</text>
+    <text x="416" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">pat</text>
+    <path d="M384 270 Q384 256 400 256" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M448 270 Q448 256 432 256" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">say the sounds too: clap, clap, pat</text>
+
+  <!-- Feel the beat: hand on drum -->
+  <g>
+    <path d="M148 452 L156 392 Q158 384 170 384 L182 384 Q194 384 196 392 L204 452 Q204 464 176 464 Q148 464 148 452 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="176" cy="384" rx="28" ry="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <!-- hand resting on drum -->
+    <path d="M176 340 Q168 324 156 330 L148 344 Q142 352 152 358 L168 360 Q182 360 184 350 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- vibration arcs -->
+    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <path d="M120 392 Q116 398 120 404"/>
+      <path d="M232 392 Q236 398 232 404"/>
+      <path d="M112 404 Q108 410 112 416"/>
+      <path d="M240 404 Q244 410 240 416"/>
+    </g>
+    <text x="176" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">feel the beat</text>
+  </g>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Your hands and voice are an instrument you always carry.</text>
+</svg>

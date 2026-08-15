@@ -50,6 +50,17 @@ context_variants:
     note: Group by movement confidence — some move one body part, others the whole body — and encourage each to add one new part
   - context: outdoor-only
     note: Dance outside to the sounds around you — wind, birds, your own feet — and let the natural music lead
+assets:
+  - path: assets/images/L.00.007.08-moving-to-music.svg
+    alt: >-
+      Three panels of bodies moving to music with varied skin tones: a child
+      moving big and fast with raised arms and legs apart, a child dancing slowly
+      from a chair with one swaying arm, and a child frozen still like a statue
+      with a sparkle above the head. Each panel is labeled "fast", "slow", or
+      "freeze", so it prints clearly in grayscale and teaches that dance is
+      listening with the whole body.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners move their bodies to music, changing with the music's speed and pauses.
@@ -127,6 +138,10 @@ Dance is listening with the whole body, and there is no wrong answer.
 - **Seated/adapted:** Dance entirely from a chair — arms, head, shoulders, and a
   swaying torso all move to the music; "freeze" is holding still wherever you are, and
   one moving hand is a full dance.
+- **Deaf/HH path:** Make every change visible and feelable — the leader claps or
+  stamps the beat where everyone can see, raises an open hand for "freeze" and drops
+  it to move again. Learners who do not hear can follow the hand signal and feel the
+  beat as vibration through the floor or a drum, so no sound is needed to dance.
 - **Extension:** Invite learners to lead the group's music (clapping fast and slow)
   while others dance to their beat.
 

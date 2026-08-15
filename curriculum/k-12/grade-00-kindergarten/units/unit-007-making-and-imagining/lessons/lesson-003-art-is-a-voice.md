@@ -50,6 +50,16 @@ context_variants:
     note: Group by how abstract the learner works — some draw a face, some a whole scene — and celebrate all of it as "saying something"
   - context: outdoor-only
     note: Find or make a picture outside that shows a feeling — a stormy sky, a bright flower — and describe what it "says"
+assets:
+  - path: assets/images/L.00.007.03-art-is-a-voice.svg
+    alt: >-
+      A child with medium brown skin draws a smiling sun on paper while a speech
+      bubble shows a heart and the word "happy"; a second child with deep brown
+      skin points at the sun and asks "What does it say?" Teaches that a picture
+      can say a feeling without words; the labels carry the meaning, so it prints
+      clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners draw a picture that shows a feeling, then share it and let others guess

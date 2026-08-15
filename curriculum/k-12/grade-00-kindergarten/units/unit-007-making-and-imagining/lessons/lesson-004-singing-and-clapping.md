@@ -53,6 +53,16 @@ context_variants:
     note: Group by comfort with keeping time — some clap one beat at a time, others hold a full pattern — and match the challenge
   - context: outdoor-only
     note: Use feet on the ground and hands on knees, or tap two stones together, to make a rhythm in the open air
+assets:
+  - path: assets/images/L.00.007.04-singing-and-clapping.svg
+    alt: >-
+      Two hands, one light and one deep brown, clap together with motion lines.
+      Below, three numbered beat markers show a clap-clap-pat pattern, and a hand
+      rests on a drum labeled "feel the beat". Teaches that rhythm is made with the
+      body and that a beat can be seen and felt, not only heard; labels and numbers
+      carry the meaning, so it prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners clap and sing a simple rhythm, echo patterns, and keep a steady beat

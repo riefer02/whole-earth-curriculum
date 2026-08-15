@@ -53,6 +53,16 @@ context_variants:
     note: Group by comfort with tools — some stick to finger and chalk, others add scissors or glue — then rotate so everyone tries a new material
   - context: outdoor-only
     note: Use what the ground offers — sand, mud, leaves, sticks, pebbles — to build and mark a picture right where you are
+assets:
+  - path: assets/images/L.00.007.01-making-with-many-materials.svg
+    alt: >-
+      Six labeled cards show found materials — a leaf, a stone, a shell, a coil of
+      string, a ball of clay, and a stick — and below them two hands of different
+      skin tones press a leaf onto paper to make a green leaf print. Teaches that
+      any found material can become art; the labels and shapes carry the meaning,
+      so it prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners explore several materials — paper, chalk, and loose found parts — and
