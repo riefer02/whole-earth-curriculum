@@ -208,3 +208,63 @@ sources:
     domains: [D09]
     reviewed: true
     notes: "Cited in U.00.011 L07 (solving a small disagreement / making it right). IIRP Graduate School, Bethlehem, PA — the field's graduate school for restorative practices; frames responding to harm by repairing it and restoring relationships rather than only punishing."
+
+  - id: S-023
+    title: "Ifrah (2000) — The Universal History of Numbers"
+    type: book
+    author: Georges Ifrah
+    organization: John Wiley & Sons
+    year: 2000
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.01.005 L02 (reading/writing numbers). Standard, authoritative history of numeration; documents that the decimal positional system with zero and the ten glyphs 0–9 originated in India and reached the wider world through Arabic-speaking scholars, hence 'Hindu-Arabic numerals.' English translation published 2000 by Wiley. Supports the lesson's accurate, appropriately hedged claim that these digits are one system among many (tally marks, Inka quipu, etc.)."
+
+  - id: S-024
+    title: "Zaslavsky (1999) — Africa Counts: Number and Pattern in African Cultures"
+    type: book
+    author: Claudia Zaslavsky
+    organization: Lawrence Hill Books
+    year: 1999
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.01.005 L02, L07, L15 (numeral traditions; pattern in weaving/beading; cowrie shells as pre-coin exchange). 3rd ed. 1999, Lawrence Hill Books (1st ed. 1973). Documents African counting systems, tally/knot records, woven and beaded patterns, and cowrie-shell money across African cultures — on-topic for each claim it supports."
+
+  - id: S-025
+    title: "Carpenter, Fennema, Franke, Levi & Empson (2015) — Children's Mathematics: Cognitively Guided Instruction"
+    type: book
+    author: Thomas P. Carpenter, Elizabeth Fennema, Megan Loef Franke, Linda Levi, Susan B. Empson
+    organization: Heinemann
+    year: 2015
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.01.005 L04, L05, L06, L09 (join/separate problem types, counting strategies, missing-addend/missing-number problems). 2nd ed. 2015, Heinemann. The foundational CGI framework: children's informal joining/separating strategies underpin addition/subtraction, and children explaining their own strategies builds understanding — exactly what those lessons claim."
+
+  - id: S-026
+    title: "Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School Mathematics: Teaching Developmentally"
+    type: book
+    author: John A. Van de Walle, Karen S. Karp, Jennifer M. Bay-Williams
+    organization: Pearson
+    year: 2019
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.01.005 L10, L11, L12, L14 (shape composition; 3-D attributes faces/edges/vertices; unit iteration and equal units; telling time to hour/half-hour). 10th ed. 2019, Pearson. Standard methods text for elementary/middle math; the cited topics (composing/decomposing shapes, non-standard measurement, grade-1 clock reading) are all covered there."
+
+  - id: S-027
+    title: "National Research Council (2009) — Mathematics Learning in Early Childhood: Paths Toward Excellence and Equity"
+    type: report
+    author: Committee on Early Childhood Mathematics (C. T. Cross, T. A. Woods, H. Schweingruber, eds.)
+    organization: The National Academies Press
+    year: 2009
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.01.005 L12, L13 (non-standard measurement / unit iteration; early data collection and representation with picture graphs). Authoritative NRC consensus report on early math learning trajectories; both cited topics appear in its recommendations for grades PreK–2."
+
+  - id: S-028
+    title: "Davies (2002) — A History of Money: From Ancient Times to the Present Day"
+    type: book
+    author: Glyn Davies
+    organization: University of Wales Press
+    year: 2002
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.01.005 L15 (coins/buying a snack). 3rd ed. 2002, University of Wales Press (1st ed. 1994). Standard economic history covering the origins and variety of money, including commodity money (cacao beans in Mesoamerica, salt, cowrie shells, beads) — supports the lesson's claim that people have used many forms of exchange besides coins."

@@ -58,6 +58,18 @@ pattern, and shape drawn from many traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Counting to 120 | D05.S1.01.01 |
+| 2 | Reading and Writing Numbers to 120 | D05.S1.01.01 |
+| 3 | Saying How Many | D05.S1.01.01 |
+| 4 | Joining Two Groups: Adding Within 20 | D05.S1.01.02 |
+| 5 | Taking Away: Subtracting Within 20 | D05.S1.01.02 |
+| 6 | What Add and Subtract Mean | D05.S1.01.02 |
+| 7 | Repeating Patterns: Identify and Extend | D05.S2.01.01 |
+| 8 | Creating Patterns and Telling the Rule | D05.S2.01.01 |
+| 9 | Finding the Missing Number | D05.S2.01.02 |
+| 10 | Flat Shapes: Compose and Take Apart | D05.S3.01.01 |
+| 11 | Solid Shapes: Faces, Sides, and Corners | D05.S3.01.01 |
+| 12 | Measuring and Comparing Lengths | D05.S3.01.02 |
+| 13 | Making a Picture Graph | D05.S4.01.01 |
+| 14 | Telling and Writing Time | D05.S4.01.02 |
+| 15 | Coins and Buying a Snack | D05.S1.01.01, D05.S1.01.02, D05.S2.01.01, D05.S2.01.02, D05.S3.01.01, D05.S3.01.02, D05.S4.01.01, D05.S4.01.02 |

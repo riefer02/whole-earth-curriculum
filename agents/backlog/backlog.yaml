@@ -843,11 +843,30 @@ items:
     type: lesson
     grade: 1
     domain: D05
-    status: ready
+    status: done
     priority: 18
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (223 files). All 15 lessons L.01.005.01-.15 sequential with matching sequence_in_unit 1-15, unit U.01.005, domain [D05], pillar [P3]. Objectives resolve only to the 8 grade-1 D05 standards (S1.01.01/.02, S2.01.01/.02, S3.01.01/.02, S4.01.01/.02); zero K-level or invented IDs. All 8 standards covered across 15 lessons; strand matches objectives. Required headings (Procedure/Assessment/Facilitator note/Connection) present in all. unit.md Lessons table lists all 15. Age-appropriate concrete/play-based; factual claims cited (Ifrah 2000, Zaslavsky 1999, NRC 2009, Van de Walle 2019, Davies 2002).
+      fact-checker:
+        verdict: passed
+        note: Registered 6 new sources (S-023 Ifrah 2000 Universal History of Numbers; S-024 Zaslavsky 1999 Africa Counts; S-025 Carpenter 2015 CGI; S-026 Van de Walle 2019; S-027 NRC 2009 Math Learning in Early Childhood; S-028 Davies 2002 History of Money), all real/on-topic/reviewed:true. Re-confirmed S-020 Clements & Sarama. Historical claims (Hindu-Arabic numerals+quipu, body measures cubit/foot/hand-span, commodity money cowrie/cacao/salt, tangram/mosaic) accurate and hedged. Values framed as values not facts. validate passes (223 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed all 15 lessons + unit.md. No single-civilization default; spans market/shepherd/fisher/weaver contexts. Named traditions held side-by-side unranked: Hindu-Arabic numerals (India via Arabic world), Inka quipu, Chinese tangram, African patchwork, Islamic mosaics, cubit/foot/hand-span, cowrie/cacao/salt commodity money. Numerals framed 'one system among many' (L2); money framed one system among many (barter/gift/sharing named, facilitator never ranks currency, L15); timekeeping honors sundials/water-clocks/bells/call-to-prayer (L14); no single correct way to write numbers. Fix: removed base-10 universalism in L1 ('people everywhere count by tens') -> 'people in many lands... some counted in twenties (Maya) and every way works'. validate passes (223 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed all 15 lessons. materials_low_tech universal (hands/body/found objects/dirt, no device/print/purchase required). Explicit Deaf/HH (sign/touch/visual), blind/low-vision (tactile digits/feely bags/tactile clock-graph/count-by-sound), non-speaking (point/place/draw), and limited-movement (partner-directed, large objects) paths in every Facilitator note across counting/shapes/measure/graph/time/money. Money lesson allows found-object tokens + barter (no wealth assumption). context_variants large-group/self-directed/outdoor-only all; multi-age/level-grouped where relevant. No assets: fields (alt-text vacuous, not flagged). Fixes: added motor differentiation to L002 (digit cards/raised digits/whole-arm tracing) and L007 (table/lap taps, blinking, partner-directed for body patterns). validate passes (223 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: vision -> P3 -> D05 -> S1-S4 -> 8 grade-1 standards -> U.01.005 -> L.01.005.01-.15; domain [D05] pillar [P3] on all; objectives resolve only to the 8 real grade-1 D05 standards, no invented IDs. All four lenses present: ethics (fair balance equals-sign, fair exchange, cooperation over speed), egalitarianism (pervasive no ranking by speed/smartness/handwriting/currency), global (Hindu-Arabic numerals+quipu, base-20 counting, tangram/patchwork/mosaic, cubit/foot/hand-span, sundial/water-clock/call-to-prayer, cowrie/cacao/salt), technology/environment (clock as tool, money as agreed human tool with barter/gift/sharing). Evidence vs values: all 15 lessons cite real sources (Clements & Sarama, Ifrah, Zaslavsky, Carpenter, Van de Walle, NRC, Davies); values labeled as commitments not facts. No hierarchy/supremacy. Fix: added technology to L15 cross_cutting_lenses (money-as-tool). validate passes (223 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed all 15 grade-1 lessons vs K-2 band. Cognitive fit: manipulatives -> drawing -> symbol, never symbol-first; bundling tens to 120, add/subtract within 20 with counting as one tool not the only one, missing-number acted out, time to hour/half-hour 'not minutes yet', all concrete anchors. Emotional safety: no ranking/speed/shaming; 'no learner's speed measures smartness', 'mastery at its own pace', recounts as checking not failing; L15 money sensitive handled well ('more coins is a fact not a worth', one way among many). Physical: big+fine motor present, inclusive adaptations for blind/low-vision/Deaf/HH/motor/non-speaking. Open-ended: learners author patterns/number sentences/survey questions/own market; numerals/time/money held as systems among many not creeds. No edits needed. validate passes (223 files)."
   - id: B-057
     title: Author lessons for Unit U.01.006 (Wondering About the Living World)
     agent: lesson-author
