@@ -783,11 +783,30 @@ items:
     type: lesson
     grade: 1
     domain: D02
-    status: ready
+    status: done
     priority: 16
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (193 files). IDs L.01.003.01-.10 sequential, sequence_in_unit 1-10; headings + Connections present. Objectives resolve only to eight D02 grade-01 standards (domain-02 lines 47-62); no K IDs. unit.md table matches. L6 honors many family shapes ('never define family as one shape'); L8 mutual aid not pity, consent ('no thank you' always okay); L9 sharing as fairness not sacrifice. Example objective L1 kind-words verbatim.
+      fact-checker:
+        verdict: passed
+        note: Verified CASEL citations (L4/L8) match S-001 (reviewed:true, D02); URL live/on-topic; competency mappings accurate (L4 social-awareness/relationship-skills, L8 relationship-skills/responsible-decision-making). L10 has no Resources (capstone synthesis, no factual claim) — noted check premise was inaccurate. No fabricated citations; no scientific/medical claims (grep clean). No media assets. No registry changes. validate passes (193 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. Kind words de-universalized (L1 facilitator 'kind words are not one language's property... honor every version', Connection 'every family and language has its own kind words', home-language invitations). Family/community no single model (L6 'never define family as one shape... grandparent/aunt/siblings/foster/chosen'; L7 no one does everything/everyone does something, anti-hero). Fix: L2 'listening body' mandated 'eyes on speaker' — edited Summary/facilitator/step 2 to honor averted-gaze cultures ('looking down or to the side is the respectful way... never insist on eyes on the speaker'). Helping mutual aid (L8 'not pity or rescuing', consent, anyone can need/give help). validate passes (193 files). Non-blocking: L6 add market/village examples."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. Fixes: L2 'ears open/mouth quiet/hands still' conflicted with signing/deaf — reworded 'caring with ears or eyes', added Deaf/HH (watching face+hands IS listening) + non-speaking (sign/gesture/picture/device as voice); L3 turn signal generalized (raised hand/card/look/tap/partner), sign/picture 'may I' alternatives; L4 non-visual path (voice+body+asking complete) + low-vision; L5 point/act-out guesses; L7 'helping hands'→'yourself helping out'; L8/L9 motor-limited buddy/name-point; L10 group share words/pictures/acting, no forced speaking. validate passes (193 files). Non-blocking: L1 gesture 'or any gesture you can do'; L6 outdoor draw-circles fine-motor note; no assets."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: domain:[D02] pillar:[P1] all; objectives only 8 grade-1 standards (D02.S1-S4.01.01/.02); no K IDs; chain vision → P1 → D02 → S1-S4 → standards → unit → lessons. Lenses: ethics (mutual aid not competition, 'not pity or rescuing' + consent), egalitarianism (never define family as one shape, anti-hero), global (kind words vary, communities many shapes), environment where natural (L7/L9 shared spaces = Earth care). Evidence vs values: CASEL cited as framework only. No hierarchy ('not just the loudest or fastest'). No fixes. validate passes (193 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 grade-1 lessons vs K-2 band. Cognitive fit: concrete/play-based (gestures, listening body, charades, scene cards, community-circle); theory of mind precise (L4 clues + 'a guess is a guess — check by asking'); need-vs-want tangible; community concrete. Emotional safety: family shape never single model (L6 grandparent/aunt/sibling/foster/chosen, sharing optional); no forced performance (L10 'no learner must speak, sharing by drawing/action/partner'); helping mutual aid not pity (L8 'anyone can need/give help', 'no thank you' consent); no child 'the problem' (L2 interrupt = 'excitement not rudeness'). Physical: role-play abundant; inclusion thorough (Deaf/HH, non-speaking, low-vision, limited-movement paths). Not dumbed down; learner as agent. validate passes (193 files). Non-blocking: L10 summary says 'eight skills' but enumerates seven (copy nit); status draft vs unit review."
   - id: B-055
     title: Author lessons for Unit U.01.004 (Letters, Sounds & Words)
     agent: lesson-author

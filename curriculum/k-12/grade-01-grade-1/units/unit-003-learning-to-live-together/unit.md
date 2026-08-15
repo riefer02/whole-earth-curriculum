@@ -33,9 +33,9 @@ assessment_plan: >-
   Observation of kind words, listening, and spontaneous helping during the day; a
   "communities I belong to" picture and a class "caring community" project as
   portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 3 — Learning to Live Together
@@ -59,6 +59,13 @@ skills to practice, in a spirit of mutual aid rather than competition.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Kind Words | D02.S1.01.01 |
+| 2 | Listening Without Interrupting | D02.S1.01.02 |
+| 3 | Waiting to Speak | D02.S1.01.02, D02.S1.01.01 |
+| 4 | Reading Feelings | D02.S2.01.01 |
+| 5 | What Might They Need? | D02.S2.01.02 |
+| 6 | My Communities | D02.S3.01.01 |
+| 7 | What We Do Together | D02.S3.01.02 |
+| 8 | Offering Help | D02.S4.01.01 |
+| 9 | Sharing and Caring for Materials | D02.S4.01.02 |
+| 10 | Learning to Live Together | D02.S1.01.01, D02.S1.01.02, D02.S2.01.01, D02.S2.01.02, D02.S3.01.01, D02.S3.01.02, D02.S4.01.01, D02.S4.01.02 |
