@@ -933,11 +933,30 @@ items:
     type: lesson
     grade: 1
     domain: D03
-    status: ready
+    status: done
     priority: 21
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (251 files). IDs L.01.008.01-.08 sequential, sequence_in_unit 1-8, unit U.01.008, domain [D03], pillar [P2]. Objectives resolve only to the 4 assigned grade-1 D03 standards (S3.01.01 L1-2, S3.01.02 L3, S4.01.01 L4-6, S4.01.02 L7-8); zero S1/S2 or K-level IDs. Required headings 4/4 per file. unit.md table lists all 8. Age-6 fit: no-shame framing ('care is never a test', 'no food shaming'), body-autonomy L7/L8 empowering non-frightening, no anatomical names, doll role-play, full safeguarding guidance. WHO cited for L3 diet/L4 hand-hygiene/L5 oral-health; values-only elsewhere. Connections concrete/region-neutral/faithful."
+      fact-checker:
+        verdict: passed
+        note: "Registered S-038 (WHO Healthy diet fact sheet, live 26 Jan 2026, 'carbohydrates provide the primary energy source' supports L03). Re-confirmed S-016 hand hygiene (L04) and S-017 oral health (L05, verbatim 'twice-daily brushing with fluoride toothpaste 1000-1500 ppm'). Claims accurate+age-hedged: handwashing wet-lather-scrub-rinse-dry ~20s + key moments; brushing ~2min twice daily pea-sized don't-swallow; food=energy; four food groups hedged 'one way to sort'. Evidence vs values clean (L03 labels energy claim 'a fact not a value'). validate passes (251 files). Non-blocking: L05 says 'toothpaste' not 'fluoride toothpaste' (WHO specifies fluoride) — inaccurate nothing, but exact citation match would add one word."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 8 lessons + unit.md. No food ranking/moralizing ('no food is bad/empty', 'never ranked', 'never tie food to size/weight/appetite'; L2 four groups 'one way to sort not the only right one'). Diet spans world staples (rice/beans/flatbread/maize/cassava/lentils/millet/greens/mango/papaya/fish/root veg/eggs/milk). No poverty judgment: L4 ash-when-no-soap + water conservation (sink/basin/bucket/pour-jug/stream), L3 'some children have little food at home', L6 'no poverty judgment ever'. Non-exoticizing: chewing-stick (L5) and ash hand-washing (L4) as honored alternatives. Only classroom 'we'. Fixes: L7 greeting examples expanded beyond hug/handshake (kiss-on-cheek, joined palms, bow — 'your body is still yours'); L6 dressing fasteners added wrap/tie/sash/drawstring. validate passes (251 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed all 8 lessons. materials_low_tech universal (voice/body/real foods/dirt circles/bucket-ash handwash/chewing-stick/own clothes); no device/print/wealth assumption. context_variants all five on all 8. Non-speaking point/act/draw/sign + caregiver-assist; blind/low-vision tactile/spoken (food sort by touch, brushing by feel, dressing by touch); 'honor every body' + never-a-test framing. Fixes: added Deaf/HH visual-cue accommodations (front-facing demo, picture step cards, signing/pointing) to all 8 lessons; added blind/low-vision (feel seed/plant, clay model) + motor (nod/blink/partner/point) to L3; added blind/low-vision dressing-by-touch to L6 Differentiation. No assets fields. validate passes (251 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified: vision -> P2 -> D03 -> S3/S4 -> 4 grade-1 standards -> U.01.008 -> L.01.008.01-.08; domain [D03] pillar [P2] on all; objectives resolve only to D03.S3.01.01/.02 + D03.S4.01.01/.02, no S1/S2/K/invented IDs. Lenses: ethics ('care is never a test', 'telling is never wrong', no blame, consent), egalitarianism (no ranking of foods/bodies/families, 'no poverty judgment'), global/anthropological (world staples, global greetings hug/handshake/joined-palms/bow/cheek-kiss, wraps/ties/drawstrings, ash/chewing-stick/finger alternatives), environment (water conservation, food-as-fuel). Evidence vs values: WHO facts cited L3-L5; L3 separates fact from value; no-shame + body-autonomy as values; body-safety L7/L8 safeguarding, no fear, no anatomical names, never fault child. No hierarchy/supremacy. Cosmetic fix: stray mid-word line break in L2. validate passes (251 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 8 grade-1 lessons vs K-2 band. Cognitive fit: concrete here-and-now (sorting real foods, sprouting seed, doing handwashing/brushing/dressing); 'food as fuel' anchored to fire-wood/plant-water analogy; grouping framed as 'a tool for noticing not a test'. Emotional safety (body autonomy L7/L8): empowering not frightening ('tell a trusted adult' never 'be afraid'), explicit no-blame ('never your fault, never in trouble for telling'), no anatomical/graphic content, consent modeled (may decline hug/handshake), role-play confined to doll, full safeguarding guidance (believe, no secrecy promise, no leading questions, refer to lead), 'keep telling' framed as persistence. Food L1-L3: no shame/ranking/size-weight tie, scarcity named matter-of-factly. Physical: fine-motor self-care age-appropriate + big-motor acting; inclusive differentiation; 'goal is clean hands not doing it alone'. Open-ended wonder/notice framing. No edits. validate passes (251 files)."
   - id: B-060
     title: Author lessons for Unit U.01.009 (People, Places & Long Ago)
     agent: lesson-author

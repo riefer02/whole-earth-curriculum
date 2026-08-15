@@ -51,6 +51,11 @@ families eat and live.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Many Foods, Many Kinds | D03.S3.01.01 |
+| 2 | Food Groups: Fruits, Vegetables, Grains, and Proteins | D03.S3.01.01 |
+| 3 | Food Gives Me Energy to Grow, Play, and Learn | D03.S3.01.02 |
+| 4 | Washing My Hands | D03.S4.01.01 |
+| 5 | Brushing My Teeth | D03.S4.01.01 |
+| 6 | Dressing and My Daily Care | D03.S4.01.01 |
+| 7 | My Body Belongs to Me | D03.S4.01.02 |
+| 8 | Trusted Adults and Asking for Help | D03.S4.01.02 |

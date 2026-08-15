@@ -349,3 +349,13 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in U.01.006 L07 (how objects move). URL verified live (2026-08-15) via the BBC Bitesize KS2 Science index (Forces section). Explains that objects move differently depending on the surface they are on — supports the lesson's rolling/sliding and 'what makes it stop' exploration."
+
+  - id: S-038
+    title: WHO — Healthy diet fact sheet
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+    organization: World Health Organization
+    year: 2026
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.01.008 L03 (food gives the body energy to grow, play, and learn). URL verified live (2026-08-15); page updated 26 Jan 2026. States 'Carbohydrates provide the primary energy source for the body' and frames protein as the building blocks for body structure/growth — supports the lesson's basic-biology claim that food gives the body energy to grow, play, and learn. Also supports the global/variety framing (diversity across food groups as one of four core principles)."
