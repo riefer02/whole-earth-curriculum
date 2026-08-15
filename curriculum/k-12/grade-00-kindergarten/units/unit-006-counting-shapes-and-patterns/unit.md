@@ -27,9 +27,9 @@ duration_weeks: 3
 assessment_plan: >-
   Observation of counting, sorting, and pattern work with real objects; sorting and
   shape-hunt work as portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 6 — Counting, Shapes & Patterns
@@ -51,6 +51,13 @@ sandbox, the garden, and the circle.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| L.00.006.01 | Counting Real Things | D05.S1.K.01 |
+| L.00.006.02 | Counting to Ten, Then Twenty | D05.S1.K.01 |
+| L.00.006.03 | How Many Are There? | D05.S1.K.01 |
+| L.00.006.04 | Patterns All Around Us | D05.S2.K.01 |
+| L.00.006.05 | Making and Continuing Patterns | D05.S2.K.01 |
+| L.00.006.06 | Meet the Shapes | D05.S3.K.01 |
+| L.00.006.07 | Matching Shapes | D05.S3.K.01 |
+| L.00.006.08 | Where Is It? Over, Under, Beside | D05.S3.K.01 |
+| L.00.006.09 | Sorting Into Groups | D05.S4.K.01 |
+| L.00.006.10 | Counting, Shapes & Patterns | D05.S1.K.01, D05.S2.K.01, D05.S3.K.01, D05.S4.K.01 |

@@ -180,3 +180,13 @@ sources:
     domains: [D04]
     reviewed: true
     notes: "Cited in U.00.005 L12/L13 (home-language greetings; 'many languages are treasures'). Page states verbatim: 'Globally 40 per cent of the population does not have access to an education in a language they speak or understand.' Supports the 40% claim and the value of every learner's home language."
+
+  - id: S-020
+    title: "Clements & Sarama — Learning and Teaching Early Math: The Learning Trajectories Approach"
+    type: book
+    author: Douglas H. Clements & Julie Sarama
+    organization: Routledge
+    year: 2014
+    domains: [D05]
+    reviewed: true
+    notes: "2nd ed., Routledge, 2014 (ISBN 9780415828505). Cited in U.00.006 L01–L03. The learning-trajectories framework for early math; its counting trajectory explicitly treats one-to-one correspondence, the verbal counting sequence, and cardinality (the last counting word names the quantity) as foundational skills."
