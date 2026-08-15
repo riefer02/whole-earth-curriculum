@@ -19,10 +19,11 @@ Author `lesson-*.md` files for your assigned unit. Each lesson is one day
 
 1. Claim the next `lesson-author` item from the backlog.
 2. Fill all required frontmatter fields (see `docs/schema.md`), including tiered
-   materials (`materials`, `materials_low_tech`, `materials_enriched`) and any
-   `assets:` you reference. Coordinate with the `asset-designer` for graphics. Add
-   `context_variants` where the environment changes the lesson (large-group,
-   multi-age, self-directed, level-grouped, outdoor-only — see `docs/contexts.md`).
+   materials (`materials`, `materials_low_tech`, `materials_enriched`). Author any
+   needed graphics yourself as SVG (see "Graphics" below) and reference each in
+   `assets:`. Add `context_variants` where the environment changes the lesson
+   (large-group, multi-age, self-directed, level-grouped, outdoor-only — see
+   `docs/contexts.md`).
 3. Write the body learner-first: `## Procedure` addressed to the learner ("you"),
    with teacher guidance in `## Facilitator note`. Include `## Procedure`,
    `## Assessment`, `## Facilitator note`, and `## Connection` (required), plus the
@@ -54,6 +55,22 @@ These evidence-grounded techniques are not optional; they are what makes a lesso
   what to do next (self-check, peer-check, or facilitator check).
 - **Mastery, not ranking.** A learner who has not yet got it revisits and tries
   again; "not yet" is information, never a verdict.
+
+## Graphics (author your own)
+
+Most lessons benefit from a graphic — a diagram, chart, picture sequence, worksheet,
+or manipulable. You author these yourself as original SVG; do not wait for another
+agent.
+
+- Author **at least one** simple, original SVG for the lesson when a graphic would
+  help a learner understand (for most lessons, one is expected).
+- Follow `docs/art-style.md`: palette, line weight, grayscale-printable, diverse
+  representation, and accessibility (`role="img"`, `<title>`, `<desc>`, alt text).
+- Save to `assets/images/<lesson-id>-<slug>.svg` (or `assets/worksheets/` for
+  worksheets). Name the file with the lesson id.
+- Reference each asset from the lesson's `assets:` field with a non-empty `alt`;
+  the path must resolve on disk (`npm run validate` checks this).
+- Keep it simple and faithful — a clear, correct graphic is better than a fancy one.
 
 ## Guardrails
 
