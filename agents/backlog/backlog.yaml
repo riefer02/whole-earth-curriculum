@@ -234,7 +234,7 @@ items:
     type: scope
     grade: 1
     domain: null
-    status: ready
+    status: done
     priority: 5
     depends_on:
       - B-020
@@ -251,6 +251,13 @@ items:
       - vision-architect
       - reviewer
     notes: Blocked until the grade 01-12 objective ladder exists for all domains.
+    reviews:
+      vision-architect:
+        verdict: passed
+        note: Scope traces to taxonomy correctly; 12 units cover all 10 domains across 4 pillars; spiral builds on Kindergarten and hands off to Grade 2.
+      reviewer:
+        verdict: passed
+        note: Frontmatter passes schema (validate green); 180-day coverage contiguous days 1-180; domain_weighting sums to ~100%; portfolio assessment, no high-stakes tests.
   - id: B-004
     title: Author the remaining 9 lessons of Unit U.00.001 "Who Am I?"
     agent: lesson-author
