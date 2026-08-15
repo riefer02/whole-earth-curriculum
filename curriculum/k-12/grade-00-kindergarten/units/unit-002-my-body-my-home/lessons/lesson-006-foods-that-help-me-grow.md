@@ -50,6 +50,11 @@ context_variants:
     note: Visit or imagine a garden; look at a real plant and talk about how food and water help it — and us — grow
   - context: multi-age
     note: Older learners explain the seed-to-plant idea to younger ones and help write the class grow list
+assets:
+  - path: assets/images/L.00.002.06-foods-help-me-grow.svg
+    alt: A seed growing into a sprout and then a tall plant, beside a plate labeled with everyday foods — fruit, vegetable, grain, and fish or beans — that help a body grow
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners connect everyday foods to what a body needs to grow, play, and learn, and

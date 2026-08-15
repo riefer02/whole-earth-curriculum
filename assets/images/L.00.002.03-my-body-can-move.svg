@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My body can move</title>
+  <desc id="desc">Two children moving in different ways. On the left a child reaches high in a jump or stretch. On the right a child in a wheelchair raises one arm to roll or glide. A bottom row names five big movements — run, hop, balance, jump, and stretch — so the movements are labeled with words, not color alone.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Body Can Move</text>
+
+  <!-- Ground -->
+  <rect x="0" y="360" width="512" height="152" fill="#dbe6d2"/>
+  <line x1="0" y1="360" x2="512" y2="360" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- Left: child stretching high (medium skin) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="150" cy="196" r="30" fill="#c99567"/>
+    <rect x="128" y="228" width="44" height="72" rx="16" fill="#e0a458"/>
+    <!-- raised arms -->
+    <line x1="134" y1="240" x2="110" y2="180" stroke-width="16" stroke="#c99567"/>
+    <line x1="166" y1="240" x2="190" y2="180" stroke-width="16" stroke="#c99567"/>
+    <!-- legs apart (jump) -->
+    <line x1="140" y1="298" x2="122" y2="348" stroke-width="18" stroke="#4f6d7a"/>
+    <line x1="160" y1="298" x2="178" y2="348" stroke-width="18" stroke="#4f6d7a"/>
+    <!-- motion arcs -->
+    <path d="M100 170 q14 -16 28 0" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M172 170 q14 -16 28 0" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  </g>
+  <text x="150" y="386" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">stretch · jump</text>
+
+  <!-- Right: child rolling in wheelchair (deep skin), arm raised -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="370" cy="216" r="30" fill="#8f5f3d"/>
+    <rect x="348" y="248" width="44" height="66" rx="16" fill="#6b93b6"/>
+    <!-- raised arm -->
+    <line x1="386" y1="258" x2="416" y2="216" stroke-width="16" stroke="#8f5f3d"/>
+    <circle cx="416" cy="214" r="10" fill="#8f5f3d"/>
+    <!-- other arm on wheel -->
+    <line x1="352" y1="258" x2="338" y2="300" stroke-width="16" stroke="#8f5f3d"/>
+    <!-- wheelchair -->
+    <rect x="336" y="300" width="72" height="14" rx="6" fill="#4f6d7a"/>
+    <line x1="352" y1="314" x2="352" y2="352" stroke="#4f6d7a" stroke-width="8"/>
+    <circle cx="350" cy="352" r="16" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="396" cy="352" r="11" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <!-- motion arc -->
+    <path d="M414 196 q14 -16 28 0" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  </g>
+  <text x="374" y="386" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">roll · glide</text>
+
+  <!-- Bottom movement words -->
+  <g font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">
+    <text x="40" y="452" text-anchor="middle">run</text>
+    <text x="148" y="452" text-anchor="middle">hop</text>
+    <text x="256" y="452" text-anchor="middle">balance</text>
+    <text x="364" y="452" text-anchor="middle">jump</text>
+    <text x="472" y="452" text-anchor="middle">stretch</text>
+  </g>
+  <g fill="#7a9e7e">
+    <circle cx="40" cy="430" r="5"/>
+    <circle cx="148" cy="430" r="5"/>
+    <circle cx="256" cy="430" r="5"/>
+    <circle cx="364" cy="430" r="5"/>
+    <circle cx="472" cy="430" r="5"/>
+  </g>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every body moves its own way.</text>
+</svg>

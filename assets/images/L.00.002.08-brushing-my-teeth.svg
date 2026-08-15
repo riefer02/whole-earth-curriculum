@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Brushing my teeth</title>
+  <desc id="desc">A large tooth with a toothbrush beside it, showing a small circular brushing motion. Four labeled steps run across the bottom: tops, fronts, backs, and tongue. A caption notes to brush in the morning and before bed. Steps and shapes, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Brushing My Teeth</text>
+
+  <!-- Big tooth -->
+  <g>
+    <path d="M158 130 Q158 104 182 104 Q206 104 206 130 L206 208 Q206 232 182 232 Q158 232 158 208 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M178 130 Q178 110 182 110 Q186 110 186 130 L186 204 Q186 224 182 224 Q178 224 178 204 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+    <!-- shiny face -->
+    <path d="M168 176 q6 -8 12 0" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M182 160 q6 -8 12 0" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Toothbrush -->
+  <g>
+    <rect x="268" y="120" width="16" height="86" rx="7" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="284" y="104" width="54" height="22" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <g fill="#fdfbf7" stroke="#2b3a42" stroke-width="2">
+      <line x1="294" y1="108" x2="294" y2="120"/>
+      <line x1="304" y1="108" x2="304" y2="120"/>
+      <line x1="314" y1="108" x2="314" y2="120"/>
+      <line x1="324" y1="108" x2="324" y2="120"/>
+    </g>
+    <!-- circular motion arrows -->
+    <path d="M318 150 q20 -10 34 4 q10 10 4 24" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+    <path d="M352 160 l-6 -6 l6 -2 l2 6 Z" fill="#e0a458"/>
+  </g>
+
+  <!-- steps -->
+  <g font-family="sans-serif">
+    <g>
+      <rect x="20" y="330" width="110" height="72" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+      <text x="75" y="366" text-anchor="middle" font-size="20" font-weight="bold" fill="#222222">tops</text>
+      <text x="75" y="390" text-anchor="middle" font-size="14" fill="#4f6d7a">chewing part</text>
+    </g>
+    <g>
+      <rect x="140" y="330" width="110" height="72" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+      <text x="195" y="366" text-anchor="middle" font-size="20" font-weight="bold" fill="#222222">fronts</text>
+      <text x="195" y="390" text-anchor="middle" font-size="14" fill="#4f6d7a">the smiling side</text>
+    </g>
+    <g>
+      <rect x="260" y="330" width="110" height="72" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+      <text x="315" y="366" text-anchor="middle" font-size="20" font-weight="bold" fill="#222222">backs</text>
+      <text x="315" y="390" text-anchor="middle" font-size="14" fill="#4f6d7a">behind them</text>
+    </g>
+    <g>
+      <rect x="380" y="330" width="110" height="72" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+      <text x="435" y="366" text-anchor="middle" font-size="20" font-weight="bold" fill="#222222">tongue</text>
+      <text x="435" y="390" text-anchor="middle" font-size="14" fill="#4f6d7a">gently too</text>
+    </g>
+  </g>
+
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Brush in the morning and before bed, for about two minutes.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Clean teeth help me eat, talk, and smile.</text>
+</svg>

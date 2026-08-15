@@ -48,6 +48,11 @@ context_variants:
     note: Wash at an outdoor tap, a stream (only with safe water), or a shared jug; conserve water by wetting, lathering with the water off, then rinsing
   - context: multi-age
     note: Older learners demonstrate the steps and help younger ones reach the tap and check that fingers, thumbs, and wrists are all washed
+assets:
+  - path: assets/images/L.00.002.07-washing-hands.svg
+    alt: A five-step handwashing sequence — wet, soap, scrub, rinse, dry — with a numbered, labeled hand drawing for each step
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice a full handwashing routine step by step, learn when to wash, and

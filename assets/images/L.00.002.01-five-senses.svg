@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My five senses on a body map</title>
+  <desc id="desc">A front-facing body in a neutral tone with five labeled sense spots. Leader lines point from the words see (eyes), hear (ears), smell (nose), taste (tongue), and touch (hands) to the matching body part. Labels and shapes, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">My Five Senses</text>
+
+  <!-- Body (neutral "everyone's body" tone) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#d7d1c3">
+    <!-- head -->
+    <circle cx="256" cy="150" r="46"/>
+    <!-- torso -->
+    <rect x="218" y="196" width="76" height="132" rx="24"/>
+    <!-- arms (thick lines) -->
+    <line x1="222" y1="214" x2="188" y2="300" stroke-width="20"/>
+    <line x1="290" y1="214" x2="324" y2="300" stroke-width="20"/>
+    <!-- legs -->
+    <line x1="236" y1="326" x2="236" y2="398" stroke-width="22"/>
+    <line x1="276" y1="326" x2="276" y2="398" stroke-width="22"/>
+    <!-- hands -->
+    <circle cx="188" cy="302" r="11"/>
+    <circle cx="324" cy="302" r="11"/>
+    <!-- feet -->
+    <rect x="220" y="396" width="30" height="12" rx="6"/>
+    <rect x="262" y="396" width="30" height="12" rx="6"/>
+  </g>
+
+  <!-- Face: two eyes, nose, mouth -->
+  <g fill="#2b3a42">
+    <circle cx="238" cy="144" r="4"/>
+    <circle cx="274" cy="144" r="4"/>
+  </g>
+  <!-- nose (small triangle) -->
+  <path d="M250 152 L262 152 L256 166 Z" fill="#b9b2a2" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <!-- mouth with tongue (taste) -->
+  <path d="M244 180 Q256 192 268 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="256" cy="183" rx="5" ry="3.4" fill="#7a9e7e"/>
+
+  <!-- Ears -->
+  <path d="M210 138 Q200 150 210 162" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M302 138 Q312 150 302 162" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Sense spot highlights (rings) -->
+  <g fill="none" stroke-width="3" stroke-linecap="round">
+    <circle cx="238" cy="144" r="12" stroke="#6b93b6"/>   <!-- see: eye -->
+    <circle cx="210" cy="150" r="13" stroke="#e0a458"/>   <!-- hear: ear -->
+    <circle cx="256" cy="159" r="13" stroke="#7a9e7e"/>   <!-- smell: nose -->
+    <circle cx="256" cy="183" r="12" stroke="#4f6d7a"/>   <!-- taste: tongue -->
+    <circle cx="188" cy="302" r="16" stroke="#e0a458"/>   <!-- touch: hand -->
+  </g>
+
+  <!-- Leader lines -->
+  <g stroke="#4f6d7a" stroke-width="1.5" fill="none">
+    <line x1="146" y1="132" x2="225" y2="142"/>
+    <line x1="146" y1="176" x2="198" y2="158"/>
+    <line x1="146" y1="306" x2="172" y2="303"/>
+    <line x1="366" y1="132" x2="271" y2="152"/>
+    <line x1="366" y1="180" x2="269" y2="182"/>
+  </g>
+
+  <!-- Labels -->
+  <g font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">
+    <text x="146" y="128" text-anchor="end">see — eyes</text>
+    <text x="146" y="172" text-anchor="end">hear — ears</text>
+    <text x="146" y="302" text-anchor="end">touch — hands</text>
+    <text x="366" y="128" text-anchor="start">smell — nose</text>
+    <text x="366" y="176" text-anchor="start">taste — tongue</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">My body knows the world five ways.</text>
+</svg>

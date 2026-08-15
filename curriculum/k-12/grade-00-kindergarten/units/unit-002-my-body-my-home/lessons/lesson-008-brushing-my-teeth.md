@@ -51,6 +51,11 @@ context_variants:
     note: Brush at an outdoor tap or with a cup of water; practice the circular motion with a finger or a clean twig if no brush is available
   - context: multi-age
     note: Older learners demonstrate the steps and help younger ones reach back teeth and rinse without swallowing
+assets:
+  - path: assets/images/L.00.002.08-brushing-my-teeth.svg
+    alt: A large tooth with a toothbrush showing a circular brushing motion, with the steps tops, fronts, backs, and tongue labeled across the bottom
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice brushing their teeth step by step, learn when and how long to

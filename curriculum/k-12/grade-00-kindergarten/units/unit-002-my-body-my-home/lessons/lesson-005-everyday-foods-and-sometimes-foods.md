@@ -48,6 +48,11 @@ context_variants:
     note: Draw two big circles in the dirt and place real or drawn foods into the everyday or sometimes circle
   - context: multi-age
     note: Older learners can act as recorders, writing or tallying which foods went in each group while younger learners sort
+assets:
+  - path: assets/images/L.00.002.05-everyday-sometimes-foods.svg
+    alt: Two labeled food groups — an everyday group with fruit, vegetable, rice, fish, and beans, and a sometimes group with a sweet, a fried snack, cake, and a drink
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sort common foods into "everyday" and "sometimes" groups with guidance,

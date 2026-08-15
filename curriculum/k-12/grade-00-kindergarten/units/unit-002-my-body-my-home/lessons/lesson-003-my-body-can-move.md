@@ -51,6 +51,11 @@ context_variants:
     note: Use a field, path, or shoreline as the movement space; a fallen log or line in the sand becomes the balance beam
   - context: level-grouped
     note: Group by comfort, not age — some learners start with wide, steady steps while others try hopping and balancing; each group moves at its own challenge level
+assets:
+  - path: assets/images/L.00.002.03-my-body-can-move.svg
+    alt: Two children moving their own ways — one reaching high in a stretch or jump and one in a wheelchair with an arm raised — with the movement words run, hop, balance, jump, and stretch labeled below
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice big movements — running, hopping, balancing, jumping, and

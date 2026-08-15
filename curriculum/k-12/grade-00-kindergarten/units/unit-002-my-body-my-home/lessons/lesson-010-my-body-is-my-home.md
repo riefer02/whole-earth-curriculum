@@ -55,6 +55,11 @@ context_variants:
     note: Arrange a big body shape on the ground with leaves, stones, and sticks, and place a found object at each sense and each body part you care for
   - context: multi-age
     note: Older learners help younger ones label their drawings and run the closing movement celebration
+assets:
+  - path: assets/images/L.00.002.10-my-body-is-my-home.svg
+    alt: A child standing inside a house outline with a heart on their chest, circled by four labeled reminders — senses, move, food, and care
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the whole unit together — senses, movement, food, and self-care — by

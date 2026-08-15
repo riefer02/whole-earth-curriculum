@@ -49,6 +49,11 @@ context_variants:
     note: A learner works alone, reaching into a bag, naming what each item feels, smells, or sounds like, then drawing one thing they noticed
   - context: outdoor-only
     note: Use the schoolyard or a nearby path as the mystery bag — find one thing to touch, one sound to hear, and one smell to notice outdoors
+assets:
+  - path: assets/images/L.00.002.01-five-senses.svg
+    alt: A body map in a neutral tone showing the five senses with labeled leader lines — see (eyes), hear (ears), smell (nose), taste (tongue), and touch (hands)
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet their five senses, match each sense to the body part that does the

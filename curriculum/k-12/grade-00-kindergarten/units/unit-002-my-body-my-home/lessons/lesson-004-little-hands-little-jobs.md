@@ -51,6 +51,11 @@ context_variants:
     note: Stack stones or sticks, thread leaves onto grass, and draw in the dirt with a finger or twig
   - context: multi-age
     note: Older learners demonstrate each small job first, then help younger learners who are still learning to grip and pinch
+assets:
+  - path: assets/images/L.00.002.04-little-hands-little-jobs.svg
+    alt: Three hands in different skin tones doing small jobs, labeled draw (holding a crayon), stack (placing a block), and thread (a bead onto a string)
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice small hand movements — drawing, stacking, pinching, and threading —

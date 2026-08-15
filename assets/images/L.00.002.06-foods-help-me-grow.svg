@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Foods that help me grow</title>
+  <desc id="desc">On the left, a seed grows into a sprout and then a tall plant, showing how food and water help living things grow. On the right, a plate with labeled sections holds fruit, vegetables, grains, and fish or beans — everyday foods that help a body grow and play. Labels and shapes carry the meaning in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Foods That Help Me Grow</text>
+
+  <!-- Left: seed to plant -->
+  <g>
+    <!-- seed -->
+    <ellipse cx="90" cy="300" rx="22" ry="14" fill="#8a6f52" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="90" y1="314" x2="90" y2="330" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <!-- arrow -->
+    <path d="M126 270 L158 270" stroke="#4f6d7a" stroke-width="3" marker-end="none"/>
+    <path d="M150 262 L158 270 L150 278 Z" fill="#4f6d7a"/>
+    <!-- sprout -->
+    <g>
+      <line x1="196" y1="300" x2="196" y2="250" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+      <path d="M196 262 q-14 -6 -16 -20" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+      <path d="M196 246 q14 -6 16 -20" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <!-- tall plant -->
+    <g>
+      <line x1="120" y1="150" x2="120" y2="80" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+      <ellipse cx="112" cy="96" rx="12" ry="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+      <ellipse cx="130" cy="116" rx="12" ry="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M120 150 q-24 0 -28 20" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+      <path d="M120 150 q24 0 28 20" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+      <!-- sun + water drops -->
+      <circle cx="60" cy="70" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+      <g stroke="#6b93b6" stroke-width="3" stroke-linecap="round">
+        <line x1="168" y1="120" x2="168" y2="134"/>
+        <line x1="176" y1="126" x2="176" y2="140"/>
+      </g>
+    </g>
+    <text x="96" y="370" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">seed</text>
+    <text x="96" y="396" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">food + water = grow</text>
+  </g>
+
+  <!-- Right: a plate of everyday foods -->
+  <g>
+    <circle cx="382" cy="250" r="118" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="382" cy="250" r="92" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+    <!-- section lines -->
+    <line x1="382" y1="158" x2="382" y2="342" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="290" y1="250" x2="474" y2="250" stroke="#4f6d7a" stroke-width="2"/>
+
+    <!-- fruit (top-left) -->
+    <circle cx="346" cy="206" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="346" y1="188" x2="346" y2="180" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <text x="344" y="178" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">fruit</text>
+
+    <!-- vegetables (top-right) -->
+    <path d="M418 192 L436 216 L400 216 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="418" y="178" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">vegetable</text>
+
+    <!-- grains (bottom-left) -->
+    <path d="M320 282 L364 282 L358 304 L326 304 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="342" cy="282" rx="22" ry="7" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="342" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">grain</text>
+
+    <!-- fish / beans (bottom-right) -->
+    <ellipse cx="424" cy="290" rx="24" ry="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M448 290 L460 282 L460 298 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="412" cy="288" r="2" fill="#2b3a42"/>
+    <text x="424" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">fish / beans</text>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Everyday foods help me grow, play, and learn.</text>
+</svg>

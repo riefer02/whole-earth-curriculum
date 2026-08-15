@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My body is my home</title>
+  <desc id="desc">A child stands inside a house outline, with a heart on the chest and a roof above. Four labeled reminders circle the house: senses (an eye), move (a running figure), food (an apple), and care (a hand with a water drop). The labels and shapes carry the meaning so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Body Is My Home</text>
+
+  <!-- House -->
+  <g>
+    <!-- roof -->
+    <path d="M176 160 L256 104 L336 160 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+    <!-- walls -->
+    <rect x="196" y="160" width="120" height="180" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+    <!-- door -->
+    <rect x="236" y="238" width="40" height="102" rx="8" fill="#dbe6d2" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="270" cy="290" r="3" fill="#2b3a42"/>
+    <!-- window -->
+    <rect x="208" y="184" width="36" height="34" rx="6" fill="#eef3f0" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="226" y1="184" x2="226" y2="218" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="208" y1="201" x2="244" y2="201" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Child inside doorway -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="222" r="18" fill="#c99567"/>
+    <rect x="244" y="240" width="24" height="40" rx="10" fill="#7a9e7e"/>
+    <line x1="248" y1="248" x2="240" y2="272" stroke-width="10" stroke="#c99567"/>
+    <line x1="264" y1="248" x2="272" y2="272" stroke-width="10" stroke="#c99567"/>
+    <circle cx="250" cy="218" r="2.4" fill="#2b3a42"/>
+    <circle cx="262" cy="218" r="2.4" fill="#2b3a42"/>
+    <path d="M250 230 Q256 234 262 230" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <!-- heart on chest -->
+    <path d="M250 258 q-4 -5 0 -8 q4 3 6 0 q4 3 0 8 l-3 3 l-3 -3 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- Four reminders -->
+  <g>
+    <!-- senses: eye -->
+    <g>
+      <path d="M52 190 q22 -16 44 0 q-22 16 -44 0 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <circle cx="74" cy="190" r="7" fill="#2b3a42"/>
+      <text x="74" y="222" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">senses</text>
+    </g>
+    <!-- move: running figure -->
+    <g>
+      <circle cx="438" cy="184" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="430" y1="196" x2="424" y2="212" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
+      <line x1="446" y1="196" x2="452" y2="210" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
+      <line x1="434" y1="212" x2="430" y2="224" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>
+      <line x1="442" y1="212" x2="446" y2="224" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>
+      <text x="438" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">move</text>
+    </g>
+    <!-- food: apple -->
+    <g>
+      <circle cx="74" cy="360" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="74" y1="342" x2="74" y2="332" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+      <text x="74" y="392" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">food</text>
+    </g>
+    <!-- care: hand + water drop -->
+    <g>
+      <path d="M430 342 L430 356 L418 362 L418 352 L412 356 L414 344 L426 340 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M446 340 q8 10 0 18 q-8 -8 0 -18 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+      <text x="434" y="392" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">care</text>
+    </g>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">I care for my body — my home for my whole life.</text>
+</svg>

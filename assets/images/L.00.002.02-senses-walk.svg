@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A senses walk outdoors</title>
+  <desc id="desc">A calm outdoor scene: a tree with a singing bird, the sun, a flower to smell, stones to touch, and a path where one child walks and another rolls in a wheelchair. A bottom row shows five labeled sense icons — see (eye), hear (ear), smell (nose), touch (hand), and taste (mouth) — so the senses are named with shapes and words, not color alone.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">A Senses Walk</text>
+
+  <!-- Sky band -->
+  <rect x="0" y="64" width="512" height="296" fill="#eef3f0"/>
+
+  <!-- Sun -->
+  <g>
+    <circle cx="440" cy="110" r="30" fill="#e0a458"/>
+    <g stroke="#e0a458" stroke-width="3" stroke-linecap="round">
+      <line x1="440" y1="70" x2="440" y2="58"/>
+      <line x1="440" y1="150" x2="440" y2="162"/>
+      <line x1="400" y1="110" x2="388" y2="110"/>
+      <line x1="480" y1="110" x2="492" y2="110"/>
+      <line x1="419" y1="89" x2="410" y2="80"/>
+      <line x1="461" y1="89" x2="470" y2="80"/>
+      <line x1="419" y1="131" x2="410" y2="140"/>
+      <line x1="461" y1="131" x2="470" y2="140"/>
+    </g>
+  </g>
+
+  <!-- Ground -->
+  <rect x="0" y="360" width="512" height="152" fill="#dbe6d2"/>
+  <!-- Path -->
+  <path d="M226 512 L286 512 L296 360 L216 360 Z" fill="#e9e0cc"/>
+
+  <!-- Tree -->
+  <g>
+    <rect x="96" y="232" width="18" height="130" rx="6" fill="#8a6f52" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="105" cy="196" r="58" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- bird (sound) -->
+    <path d="M140 168 q7 -9 14 0 q7 -9 14 0 l-8 10 h-12 z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- sound notes -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M172 150 q6 -6 0 -12"/>
+      <path d="M180 138 q6 -6 0 -12"/>
+    </g>
+  </g>
+
+  <!-- Flower (smell) -->
+  <g>
+    <line x1="330" y1="330" x2="330" y2="298" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="330" cy="290" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="318" cy="296" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="342" cy="296" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="324" cy="282" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="336" cy="282" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Stones (touch) -->
+  <g fill="#b9b2a2" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="392" cy="344" rx="16" ry="10"/>
+    <ellipse cx="416" cy="352" rx="12" ry="8"/>
+  </g>
+
+  <!-- Walking child (light skin) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="240" cy="330" r="14" fill="#f5d6b6"/>
+    <rect x="229" y="344" width="22" height="40" rx="9" fill="#6b93b6"/>
+    <line x1="232" y1="350" x2="216" y2="376" stroke-width="10" stroke="#f5d6b6"/>
+    <line x1="248" y1="350" x2="264" y2="372" stroke-width="10" stroke="#f5d6b6"/>
+    <line x1="234" y1="382" x2="230" y2="404" stroke-width="10" stroke="#8a6f52"/>
+    <line x1="246" y1="382" x2="252" y2="404" stroke-width="10" stroke="#8a6f52"/>
+  </g>
+
+  <!-- Wheelchair child (deep skin) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="286" cy="320" r="14" fill="#8f5f3d"/>
+    <rect x="275" y="334" width="22" height="40" rx="9" fill="#7a9e7e"/>
+    <line x1="286" y1="340" x2="302" y2="322" stroke-width="10" stroke="#8f5f3d"/>
+    <!-- wheelchair seat + wheels -->
+    <rect x="268" y="374" width="36" height="12" rx="5" fill="#4f6d7a"/>
+    <circle cx="278" cy="404" r="13" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="298" cy="404" r="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+
+  <!-- Bottom sense icons row -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- eye -->
+    <g>
+      <rect x="18" y="424" width="84" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
+      <path d="M40 452 Q60 438 80 452 Q60 466 40 452 Z" fill="#ffffff"/>
+      <circle cx="60" cy="452" r="6" fill="#2b3a42"/>
+      <text x="60" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">see</text>
+    </g>
+    <!-- ear -->
+    <g>
+      <rect x="112" y="424" width="84" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
+      <path d="M150 436 Q138 452 150 468" fill="none" stroke="#2b3a42" stroke-width="4"/>
+      <text x="154" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">hear</text>
+    </g>
+    <!-- nose -->
+    <g>
+      <rect x="206" y="424" width="84" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
+      <path d="M238 438 L258 438 L248 462 Z" fill="#ffffff"/>
+      <text x="248" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">smell</text>
+    </g>
+    <!-- hand -->
+    <g>
+      <rect x="300" y="424" width="84" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
+      <path d="M334 442 L334 452 L326 458 L326 452 L320 454 L322 446 L332 440 Z" fill="#e6bb92"/>
+      <text x="342" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">touch</text>
+    </g>
+    <!-- mouth -->
+    <g>
+      <rect x="394" y="424" width="100" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
+      <path d="M424 448 Q444 462 464 448" fill="none" stroke="#2b3a42" stroke-width="3"/>
+      <text x="444" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">taste</text>
+    </g>
+  </g>
+</svg>

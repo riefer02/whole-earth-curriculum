@@ -1128,12 +1128,22 @@ items:
     type: assets
     grade: 0
     domain: D03
-    status: ready
+    status: done
     priority: 31
     depends_on:
       - B-040
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.002 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 10 assets: paths resolve to real files, non-empty alt, kind/source valid. 10 SVGs well-formed XML (viewBox, role=img, title/desc), grayscale-printable with word labels, color-not-only-signal. Each teaches its lesson concept (L.02 walking+wheelchair child with five senses; L.07 numbered handwashing steps). Non-visual paths intact via descriptive alt + facilitator notes. Objectives resolve to real D03 K standards."
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs carry role=img + aria-labelledby + title/desc (programmatic). Color never only signal (word labels + shapes, deep-slate on paper, grayscale-safe). Alt non-empty concept-complete. Inclusive: single 'everyone's body' map uses neutral non-skin warm-gray #d7d1c3; multi-figure graphics vary skin tones; wheelchair natural (roll/glide); 'Every body moves its own way' footer; feet/mouths/tools alternatives. Low-tech pairing: all materials_low_tech + describe-aloud facilitator notes; devices only enriched; water-scarce (ash/pour-jug) + no-brush (clean finger/chewing stick) alternatives. No wealth/device/able-bodied assumption. No edits. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Audited 10 SVGs. Skin tones span light/medium/deep + neutral non-realistic 'everyone's body' (#d7d1c3) — no single-region/ethnicity default. Ability natural (wheelchair children ordinary participants in senses-walk + movement). Food uses everyday/sometimes (never good/bad) with world staples (rice/beans/fish) + 'No food is bad' footer. Self-care no wealth/water assumption (no indoor faucet, clean cloth, bucket/stream/pour-jug, ash-as-soap, chewing-stick/miswak). No color-emotion/race ties (shape+labels carry meaning). Non-blocking: 'sometimes' column leans Western treats; L.06 plate mirrors Western MyPlate — future passes could broaden everyday column. No edits. validate passes (301 files)."
   - id: B-072
     title: "Illustration pass: add SVG assets to lessons in U.00.003"
     agent: asset-designer

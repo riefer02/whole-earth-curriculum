@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Little hands, little jobs</title>
+  <desc id="desc">Three panels showing a hand doing a small job: drawing with a crayon, stacking a block, and threading a bead onto a string. Each panel is labeled draw, stack, or thread. The hands use three different skin tones, and the labels carry the meaning so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Little Hands, Little Jobs</text>
+
+  <!-- Panel 1: draw (light skin) -->
+  <g>
+    <rect x="20" y="96" width="148" height="300" rx="14" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+    <!-- hand holding crayon -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M68 250 L72 236 L104 230 L104 252 L74 256 Z" fill="#f5d6b6"/>
+      <line x1="100" y1="224" x2="120" y2="196" stroke="#e0a458" stroke-width="10"/>
+      <path d="M60 268 q-8 22 6 34 q10 8 22 2" fill="none" stroke="#f5d6b6" stroke-width="10"/>
+    </g>
+    <!-- drawn line -->
+    <path d="M56 320 q22 -18 44 0 q22 18 44 0" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+    <text x="94" y="372" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">draw</text>
+  </g>
+
+  <!-- Panel 2: stack (medium skin) -->
+  <g>
+    <rect x="182" y="96" width="148" height="300" rx="14" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+    <!-- stack of blocks -->
+    <rect x="232" y="220" width="48" height="34" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="240" y="186" width="32" height="34" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="234" y="152" width="44" height="34" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- hand placing top block -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M252 120 L256 108 L288 104 L288 122 L256 126 Z" fill="#c99567"/>
+      <rect x="248" y="118" width="40" height="30" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    </g>
+    <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">stack</text>
+  </g>
+
+  <!-- Panel 3: thread (deep skin) -->
+  <g>
+    <rect x="344" y="96" width="148" height="300" rx="14" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+    <!-- string with beads -->
+    <g stroke="#2b3a42" stroke-width="2">
+      <path d="M366 200 q28 40 56 0" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="384" cy="226" r="14" fill="#7a9e7e"/>
+      <circle cx="410" cy="226" r="14" fill="#6b93b6"/>
+    </g>
+    <!-- hand threading a bead -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M408 250 L414 236 L446 232 L446 254 L416 258 Z" fill="#8f5f3d"/>
+      <circle cx="430" cy="240" r="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="434" y1="236" x2="446" y2="224" stroke="#4f6d7a" stroke-width="3"/>
+    </g>
+    <text x="418" y="372" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">thread</text>
+  </g>
+
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Hands can do many little jobs.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Feet, mouths, and tools can do them too.</text>
+</svg>

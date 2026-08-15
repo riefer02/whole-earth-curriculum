@@ -48,6 +48,11 @@ context_variants:
     note: Act out asking for help on a walk — a scrape, feeling lost, a wasp nest — and practice finding the nearest safe grown-up
   - context: multi-age
     note: Older learners play the "grown-up" in role-plays so younger learners can practice asking a real person
+assets:
+  - path: assets/images/L.00.002.09-asking-for-help.svg
+    alt: A child with a raised hand saying I need help in a speech bubble, beside a trusted grown-up with an open, welcoming hand
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice telling the difference between things they can try themselves and

@@ -47,6 +47,11 @@ context_variants:
     note: This lesson is at home outdoors — no indoor space needed; use whatever path, garden, shore, or street is safe nearby
   - context: multi-age
     note: Pair older learners as "sense guides" who ask younger ones what they notice and help them mark their checklists
+assets:
+  - path: assets/images/L.00.002.02-senses-walk.svg
+    alt: An outdoor senses walk with a tree and singing bird, sun, flower, and stones, where a walking child and a wheelchair-rolling child explore, with five labeled sense icons — see, hear, smell, touch, and taste
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners take a short walk and use each of the five senses to notice the world,
