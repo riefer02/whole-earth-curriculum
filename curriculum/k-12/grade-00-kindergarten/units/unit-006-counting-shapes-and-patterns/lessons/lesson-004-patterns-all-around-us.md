@@ -46,6 +46,11 @@ context_variants:
     note: A learner walks the space (or their home) with a "pattern eyes" challenge and lists or draws three patterns they find
   - context: outdoor-only
     note: Hunt for patterns outdoors — stripes on bark or feathers, rows of leaves, waves, bird calls, or the repeating beat of footsteps
+assets:
+  - path: assets/images/L.00.006.04-patterns-all-around.svg
+    alt: Four labeled pattern cards — stripes, spiral, weave, and tiles — showing repeating patterns found in cloth, shells, baskets, and floors in every land.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover what a pattern is — something that repeats — and go on a hunt to

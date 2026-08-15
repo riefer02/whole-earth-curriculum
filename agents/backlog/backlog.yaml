@@ -1216,12 +1216,22 @@ items:
     type: assets
     grade: 0
     domain: D05
-    status: ready
+    status: done
     priority: 35
     depends_on:
       - B-044
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.006 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (301 files). All 10 assets resolve to real files, non-empty alt, kind/source valid. 10 SVGs well-formed self-contained XML (viewBox, role=img, title/desc), palette-only, grayscale-safe, color-not-only-signal (L.09 round-vs-pointy labels+counts; L.07 check-vs-X). Concrete-before-abstract (L.01 found objects with numerals under; L.03 pebbles before '7'). No speed/ranking; L.09 'More is a fact, not a worth'. UDL intact. Objectives resolve to real D05 K standards (S1-S4).
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs role=img + aria-labelledby + title/desc. Color never only signal (shapes/labels/numerals, check-vs-X, round-vs-pointy). Alt concept-complete. Non-visual paths in every facilitator note (touch/sound, sign/visual/feel, voice/sign/eye-gaze/mouth-stick + partner). No speed/ranking; materials_low_tech universal (found objects/voice/body/fingers), devices only enriched. Fix: corrected layout defect in L.06 (triangle/rectangle over circle/square cards) and L.10 (pattern/shape content over count/sort cards) — content now in own cards. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "L.01 tally marks 'another way people count', 'numerals one way among many'; L.02 body-counting parallel; Hindu-Arabic numerals not Western default. Anti-gatekeeping: L.09 'More is a fact not a worth', lessons 'no one's speed is a measure of smartness', no speed=smart. L.04 universal patterns (stripes/spiral/weave/tiles) + lesson names kente/molas/beadwork/mosaics as equals. Found-materials universality (pebbles/shells/seeds/leaves), purchased only enriched. No edits. validate passes (301 files)."
   - id: B-076
     title: "Illustration pass: add SVG assets to lessons in U.00.007"
     agent: asset-designer

@@ -47,6 +47,11 @@ context_variants:
     note: A learner sorts their pile by one feature, counts or lines up each group, and says which has more
   - context: outdoor-only
     note: Gather a mixed pile outdoors (leaves, stones, seeds) and sort it into two rings drawn in the earth, then compare the groups
+assets:
+  - path: assets/images/L.00.006.09-sorting-into-groups.svg
+    alt: A mixed collection sorted into a round group of four pebbles and a pointy group of three leaves, lined up one-to-one to show that round has more, with a note that "more" is a fact, not a worth.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sort objects into groups by one feature — color, size, or kind — and learn

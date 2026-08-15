@@ -48,6 +48,11 @@ context_variants:
     note: A learner lays out outline cards, matches each shape to its outline, and checks each pair by name
   - context: outdoor-only
     note: Match found shapes outdoors — two round stones, two triangular leaves, two rectangular bricks — and say why they match
+assets:
+  - path: assets/images/L.00.006.07-matching-shapes.svg
+    alt: Two rows — a big and small triangle marked as a match, and a circle and square marked as not a match — teaching that matching is by shape, not size.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice matching shapes by finding things that are the same shape, and

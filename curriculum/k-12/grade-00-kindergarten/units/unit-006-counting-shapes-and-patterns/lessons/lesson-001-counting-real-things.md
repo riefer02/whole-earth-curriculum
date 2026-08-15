@@ -46,6 +46,11 @@ context_variants:
     note: A learner gathers their own collection and counts it slowly, touching each thing and saying one number aloud, then recounts to check
   - context: outdoor-only
     note: Gather a handful of pebbles, leaves, or seeds outdoors and count them on a flat stone or a patch of earth
+assets:
+  - path: assets/images/L.00.006.01-counting-real-things.svg
+    alt: A pointing hand touches the first of five found objects in a row — a pebble, a shell, a seed, a leaf, and another pebble — with a number 1 to 5 under each, one number for each thing, and a strip of tally marks showing another way people count.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that counting means matching one number to one thing, and they

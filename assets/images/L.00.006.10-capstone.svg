@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Counting, shapes, and patterns: four math jobs in a math museum</title>
+  <desc id="desc">Four cards show the four jobs of the unit as a math museum. The first card shows five pebbles and the numeral 5 for counting. The second card shows two small rings, one with three circles and one with two triangles, for sorting and asking which has more. The third card shows a repeating shell-pebble pattern. The fourth card shows a circle, a square, a triangle, and a rectangle for naming shapes. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Counting, Shapes &amp; Patterns</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Four math jobs, one collection — welcome to the math museum.</text>
+
+  <!-- Count -->
+  <rect x="36" y="104" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="104" cy="152" rx="14" ry="10"/><ellipse cx="142" cy="142" rx="13" ry="9"/><ellipse cx="96" cy="182" rx="13" ry="9"/><ellipse cx="136" cy="186" rx="13" ry="9"/><ellipse cx="178" cy="160" rx="12" ry="8"/>
+  </g>
+  <text x="196" y="184" text-anchor="middle" font-family="sans-serif" font-size="42" font-weight="bold" fill="#2b3a42">5</text>
+  <text x="140" y="238" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">count</text>
+
+  <!-- Sort -->
+  <rect x="268" y="104" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="318" cy="176" r="34" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="7 5"/>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5">
+    <circle cx="306" cy="170" r="8"/><circle cx="332" cy="168" r="8"/><circle cx="318" cy="188" r="8"/>
+  </g>
+  <circle cx="432" cy="176" r="34" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="7 5"/>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5">
+    <polygon points="420,164 428,186 412,186"/>
+    <polygon points="444,168 450,188 436,188"/>
+  </g>
+  <text x="375" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">which has more?</text>
+  <text x="372" y="238" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">sort</text>
+
+  <!-- Pattern -->
+  <rect x="36" y="278" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M100 370 L84 352 Q100 338 116 352 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="142" cy="356" rx="14" ry="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M172 370 L156 352 Q172 338 188 352 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="214" cy="356" rx="14" ry="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="406" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">pattern</text>
+  <text x="140" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">shell, pebble, shell, pebble …</text>
+
+  <!-- Shape -->
+  <rect x="268" y="278" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="308" cy="356" r="13" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="336" y="344" width="24" height="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="386,332 398,368 374,368" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="412" y="350" width="30" height="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="406" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">shape</text>
+  <text x="372" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">circle, square, triangle, rectangle</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Count it, sort it, pattern it, name the shapes — math helps you see your world.</text>
+</svg>

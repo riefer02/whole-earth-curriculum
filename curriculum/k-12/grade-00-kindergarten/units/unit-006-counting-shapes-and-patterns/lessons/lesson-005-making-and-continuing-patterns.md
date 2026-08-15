@@ -46,6 +46,11 @@ context_variants:
     note: A learner builds a pattern with two kinds of objects, then covers the last piece and asks themselves "what comes next?" before checking
   - context: outdoor-only
     note: Make patterns on the ground with leaves and stones, or with claps and stomps, and continue a friend's pattern
+assets:
+  - path: assets/images/L.00.006.05-making-patterns.svg
+    alt: A repeating shell-pebble-shell-pebble-shell pattern ending in a dashed question-mark spot, with an answer strip showing the next piece is a pebble.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners move from seeing patterns to making them: they build simple repeating

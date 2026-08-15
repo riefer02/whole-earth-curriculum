@@ -53,6 +53,11 @@ context_variants:
     note: A learner works through all four jobs at their own pace, then arranges their favorite piece and tells (or draws) what they did
   - context: outdoor-only
     note: Build the whole capstone outdoors — count a natural collection, sort it, make a pattern of it, and find shapes in the sky and landscape
+assets:
+  - path: assets/images/L.00.006.10-capstone.svg
+    alt: Four cards — count (five pebbles and the numeral 5), sort (three circles and two triangles), pattern (a shell-pebble repeat), and shape (circle, square, triangle, rectangle) — the four math jobs of the unit.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the whole unit together in a playful capstone: they count a

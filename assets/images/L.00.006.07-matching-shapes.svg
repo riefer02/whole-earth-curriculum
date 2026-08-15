@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Matching shapes: the same shape matches, even in a different size</title>
+  <desc id="desc">Two rows show shape matching. In the top row, a big triangle and a small triangle are paired with a green check mark and the words "big and small — still a match," teaching that shape is about sides and corners, not size. In the bottom row, a circle and a square are paired with an orange X and the words "circle and square — not a match," teaching that different shapes do not match. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Matching Shapes</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Same shape = a match, even if big or small.</text>
+
+  <!-- Row 1: match (big + small triangle) -->
+  <rect x="36" y="104" width="440" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="138" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">big and small — still a match</text>
+  <polygon points="150,168 92,236 208,236" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  <polygon points="296,204 272,232 320,232" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M232 196 l11 11 l20 -24" fill="none" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="242" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Both are triangles: 3 sides and 3 corners.</text>
+
+  <!-- Row 2: not a match (circle + square) -->
+  <rect x="36" y="278" width="440" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="312" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">circle and square — not a match</text>
+  <circle cx="150" cy="364" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="274" y="334" width="60" height="60" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M234 350 l18 18 M252 350 l-18 18" fill="none" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A circle and a square are different shapes.</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Matching is looking carefully: are these the same shape?</text>
+</svg>

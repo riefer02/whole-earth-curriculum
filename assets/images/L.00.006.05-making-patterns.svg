@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Making and continuing patterns: what comes next?</title>
+  <desc id="desc">A repeating pattern of a shell, a pebble, a shell, a pebble, a shell sits in a row, ending in a dashed empty spot with a question mark. Below, an answer strip shows the same pattern finished with a pebble in the empty spot, labeled next equals pebble, with a check mark. This teaches that a pattern repeats, so you can say what comes next. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Making and Continuing Patterns</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A pattern repeats — so you can say what comes next.</text>
+
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">The pattern</text>
+
+  <!-- shell 1 -->
+  <path d="M116 236 L92 210 Q116 188 140 210 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="116" y1="236" x2="104" y2="208" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="116" y1="236" x2="116" y2="196" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="116" y1="236" x2="128" y2="208" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- pebble 1 -->
+  <ellipse cx="196" cy="222" rx="26" ry="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- shell 2 -->
+  <path d="M276 236 L252 210 Q276 188 300 210 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="276" y1="236" x2="264" y2="208" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="276" y1="236" x2="276" y2="196" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="276" y1="236" x2="288" y2="208" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- pebble 2 -->
+  <ellipse cx="356" cy="222" rx="26" ry="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- shell 3 -->
+  <path d="M436 236 L412 210 Q436 188 460 210 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="436" y1="236" x2="424" y2="208" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="436" y1="236" x2="436" y2="196" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="436" y1="236" x2="448" y2="208" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- empty spot -->
+  <circle cx="456" cy="222" r="30" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="7 6"/>
+  <text x="456" y="230" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#4f6d7a">?</text>
+
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">Shell, pebble, shell, pebble, shell … what comes next?</text>
+
+  <!-- Answer strip -->
+  <rect x="88" y="330" width="336" height="112" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Keep it going</text>
+  <ellipse cx="150" cy="400" rx="22" ry="15" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="224" y="408" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">next = pebble</text>
+  <path d="M296 396 l11 11 l20 -24" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Read the pattern aloud and it tells you what comes next.</text>
+</svg>

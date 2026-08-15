@@ -47,6 +47,11 @@ context_variants:
     note: A learner feels each shape's sides and corners, names it, and finds or draws two real things that are that shape
   - context: outdoor-only
     note: Find shapes outdoors — the round sun, a triangular roof or leaf, a square window, a rectangular door — and trace them in the earth
+assets:
+  - path: assets/images/L.00.006.06-meet-the-shapes.svg
+    alt: Four labeled shape cards — circle (round, no corners), square (4 equal sides, 4 corners), triangle (3 sides, 3 corners), and rectangle (4 sides, 2 long and 2 short) — with dots marking corners.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet four common shapes — circle, square, triangle, and rectangle — feel

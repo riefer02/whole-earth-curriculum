@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Counting to ten, then twenty: two full ten-frames</title>
+  <desc id="desc">Two ten-frames sit side by side. The first ten-frame holds ten dots, five in the top row and five in the bottom, labeled ten. The second ten-frame holds ten more dots, labeled ten more. Together they show that ten and ten more make twenty, with the equation 10 + 10 = 20 below. A note reminds learners that ten fingers and ten toes also make twenty. Labels and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Counting to Ten, Then Twenty</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Ten and ten more make twenty.</text>
+
+  <!-- Ten-frame 1 (full: 10) -->
+  <rect x="66" y="120" width="150" height="60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5">
+    <circle cx="81" cy="135" r="9"/><circle cx="111" cy="135" r="9"/><circle cx="141" cy="135" r="9"/><circle cx="171" cy="135" r="9"/><circle cx="201" cy="135" r="9"/>
+    <circle cx="81" cy="165" r="9"/><circle cx="111" cy="165" r="9"/><circle cx="141" cy="165" r="9"/><circle cx="171" cy="165" r="9"/><circle cx="201" cy="165" r="9"/>
+  </g>
+  <text x="141" y="212" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">10 — ten</text>
+
+  <!-- Ten-frame 2 (full: 10 more) -->
+  <rect x="296" y="120" width="150" height="60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="1.5">
+    <circle cx="311" cy="135" r="9"/><circle cx="341" cy="135" r="9"/><circle cx="371" cy="135" r="9"/><circle cx="401" cy="135" r="9"/><circle cx="431" cy="135" r="9"/>
+    <circle cx="311" cy="165" r="9"/><circle cx="341" cy="165" r="9"/><circle cx="371" cy="165" r="9"/><circle cx="401" cy="165" r="9"/><circle cx="431" cy="165" r="9"/>
+  </g>
+  <text x="371" y="212" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">10 more</text>
+
+  <!-- Equation -->
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#222222">10 + 10 = 20</text>
+  <text x="256" y="302" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Twenty is just ten, and then ten more.</text>
+
+  <!-- Fingers and toes note -->
+  <rect x="108" y="336" width="296" height="96" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <g fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <line x1="170" y1="382" x2="170" y2="414"/><line x1="186" y1="382" x2="186" y2="414"/><line x1="202" y1="382" x2="202" y2="414"/><line x1="218" y1="382" x2="218" y2="414"/><line x1="234" y1="382" x2="234" y2="414"/>
+  </g>
+  <text x="202" y="428" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">10 fingers</text>
+  <g fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <line x1="330" y1="382" x2="330" y2="414"/><line x1="346" y1="382" x2="346" y2="414"/><line x1="362" y1="382" x2="362" y2="414"/><line x1="378" y1="382" x2="378" y2="414"/><line x1="394" y1="382" x2="394" y2="414"/>
+  </g>
+  <text x="362" y="428" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">10 toes</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">+</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Your body is a counting tool you carry everywhere.</text>
+</svg>

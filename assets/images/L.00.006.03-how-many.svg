@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How many are there? The last number you say is the answer</title>
+  <desc id="desc">A scattered collection of seven pebbles sits on the left. The seventh pebble is circled with a dashed ring and an arrow labeled last, showing that the last object you count gives the answer. On the right, a large card asks "How many?" and shows the numeral 7. A caption below says to count once and count again to check. Labels and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">How Many Are There?</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The last number you say is the answer.</text>
+
+  <!-- Scattered collection of seven pebbles -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="118" cy="180" rx="26" ry="18"/>
+    <ellipse cx="180" cy="150" rx="22" ry="15"/>
+    <ellipse cx="96" cy="238" rx="24" ry="17"/>
+    <ellipse cx="168" cy="232" rx="20" ry="14"/>
+    <ellipse cx="214" cy="192" rx="18" ry="13"/>
+    <ellipse cx="120" cy="292" rx="21" ry="15"/>
+    <ellipse cx="196" cy="288" rx="23" ry="16"/>
+  </g>
+
+  <!-- The seventh (last) pebble circled -->
+  <circle cx="196" cy="288" r="34" fill="none" stroke="#e0a458" stroke-width="4" stroke-dasharray="8 6"/>
+  <text x="252" y="276" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">last</text>
+  <line x1="248" y1="282" x2="232" y2="288" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- How many card -->
+  <rect x="300" y="130" width="176" height="190" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="388" y="180" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">How many?</text>
+  <text x="388" y="268" text-anchor="middle" font-family="sans-serif" font-size="96" font-weight="bold" fill="#2b3a42">7</text>
+  <text x="388" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">seven</text>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Count once, then count again to check — that is how we know.</text>
+
+  <!-- Check badges -->
+  <rect x="84" y="388" width="160" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="164" y="416" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">count</text>
+  <text x="164" y="442" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">1, 2, 3, 4, 5, 6, 7</text>
+
+  <rect x="268" y="388" width="160" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="348" y="416" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">check</text>
+  <text x="348" y="442" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">count again = 7</text>
+</svg>

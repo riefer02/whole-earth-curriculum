@@ -46,6 +46,11 @@ context_variants:
     note: A learner counts their collection to ten, puts ten into one cup, then counts the rest and says the total up to twenty
   - context: outdoor-only
     note: Count steps, claps, or jumps to twenty outdoors, then count twenty gathered objects (stones, seeds, petals)
+assets:
+  - path: assets/images/L.00.006.02-counting-to-ten-then-twenty.svg
+    alt: Two full ten-frames, each holding ten dots, labeled ten and ten more, with 10 + 10 = 20 below and a note that ten fingers and ten toes also make twenty.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners stretch their counting from ten all the way to twenty, using their bodies

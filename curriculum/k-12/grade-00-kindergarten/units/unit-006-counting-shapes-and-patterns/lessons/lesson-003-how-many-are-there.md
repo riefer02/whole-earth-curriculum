@@ -46,6 +46,11 @@ context_variants:
     note: A learner counts each of several collections, says the total aloud, and writes or draws a mark for each total to compare them
   - context: outdoor-only
     note: Count different natural collections outdoors — a pile of petals, a line of sticks, a handful of pebbles — and say how many in each
+assets:
+  - path: assets/images/L.00.006.03-how-many.svg
+    alt: A scattered collection of seven pebbles with the last one circled and labeled last, beside a card asking "How many?" that shows the numeral 7, teaching that the last number said is the answer.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice the big idea that the last number they say when counting is the

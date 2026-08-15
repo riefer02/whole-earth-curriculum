@@ -47,6 +47,11 @@ context_variants:
     note: A learner moves one object to several positions and says each position word aloud, then tests themselves with their eyes closed
   - context: outdoor-only
     note: Use a tree or rock outdoors — put a stone under the tree, over the rock, beside the path — and say each position
+assets:
+  - path: assets/images/L.00.006.08-position-words.svg
+    alt: A woven basket with a bird over it, a leaf on its rim, a seed inside it, a pebble under it, and a seed beside it, each labeled with its position word.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners use position words — over, under, beside, on, in — to say where things

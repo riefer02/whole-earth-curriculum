@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Meet the shapes: circle, square, triangle, rectangle</title>
+  <desc id="desc">Four cards show the four common shapes. A circle is round with no corners. A square has four equal sides and four corners. A triangle has three sides and three corners. A rectangle has four sides, two long and two short. Small dots mark the corners of the square, triangle, and rectangle. Each shape is labeled with its name and its sides and corners. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Meet the Shapes</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Feel the sides and count the corners.</text>
+
+  <!-- Circle -->
+  <rect x="36" y="104" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="140" cy="166" r="40" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <text x="140" y="232" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">circle</text>
+  <text x="140" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">round, no corners</text>
+
+  <!-- Square -->
+  <rect x="268" y="104" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="336" y="124" width="76" height="76" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <g fill="#2b3a42">
+    <circle cx="336" cy="124" r="4"/><circle cx="412" cy="124" r="4"/><circle cx="336" cy="200" r="4"/><circle cx="412" cy="200" r="4"/>
+  </g>
+  <text x="372" y="232" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">square</text>
+  <text x="372" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">4 equal sides, 4 corners</text>
+
+  <!-- Triangle -->
+  <rect x="36" y="278" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="140,308 92,382 188,382" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  <g fill="#2b3a42">
+    <circle cx="140" cy="308" r="4"/><circle cx="92" cy="382" r="4"/><circle cx="188" cy="382" r="4"/>
+  </g>
+  <text x="140" y="406" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">triangle</text>
+  <text x="140" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">3 sides, 3 corners</text>
+
+  <!-- Rectangle -->
+  <rect x="268" y="278" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="332" y="312" width="84" height="56" fill="#c99567" stroke="#2b3a42" stroke-width="3"/>
+  <g fill="#2b3a42">
+    <circle cx="332" cy="312" r="4"/><circle cx="416" cy="312" r="4"/><circle cx="332" cy="368" r="4"/><circle cx="416" cy="368" r="4"/>
+  </g>
+  <text x="372" y="406" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">rectangle</text>
+  <text x="372" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">4 sides, 2 long + 2 short</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Shapes are the building blocks of everything you see.</text>
+</svg>
