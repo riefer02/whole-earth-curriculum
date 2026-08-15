@@ -993,11 +993,30 @@ items:
     type: lesson
     grade: 1
     domain: D09
-    status: ready
+    status: done
     priority: 23
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (271 files). IDs L.01.010.01-.10 sequential, sequence_in_unit 1-10, unit U.01.010, domain [D09], pillar [P4]. Objectives resolve only to the 8 grade-1 D09 standards; zero K/invented IDs. All 8 covered (S4.01.01 split L7 saying/L8 listening; L10 all 8). Required headings 4/4 in all 10. unit.md table lists all 10. Age-appropriate gentle examples, 'name the act never the child', no heavy content. CASEL (L1) + IIRP restorative (L9) cited. Non-blocking: turn-marker Indigenous/communal acknowledgment is hedged cultural attribution without source (fine as written)."
+      fact-checker:
+        verdict: passed
+        note: "All 10 lessons are values/SEL framing (fairness/sharing/rule-making/listening/repair as open questions), no empirical claims requiring citation. Both citations real/on-topic: CASEL Fundamentals of SEL (L1, responsible decision-making) and IIRP (L9, repair not only punish) — already registered S-001/S-022 reviewed:true, re-verified live; appended new unit citations to existing registry notes. Evidence vs values clean ('fairness is practiced not preached'). No new sources needed. validate passes (271 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons + unit.md. Fairness framed as human universal ('in every home and every classroom'), never one culture/nation's rules; only classroom/community 'we'. Individualist vs collectivist not ranked (L3 communal 'we just share' honored as fair, 'not a lesser one'); equity-vs-equality held open as two live ideas. Representation spans regions (water queue, shared rice bowl, village deciding when to draw water, sweeping courtyard, carrying water for elder, mending net), no Western urban default. Fixes: removed vague 'old honored idea from many Indigenous/communal traditions' attribution for turn marker (co-opting/flattening — talking circles are specific Nations' practices) -> neutral 'one-voice-at-a-time is a human universal, passing object is one simple respectful way'; L6 'feed a class pet' -> 'care for a class animal, if there is one'. validate passes (271 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed all 10 lessons. materials_low_tech universal (voice/body/found objects/drawn strips); electronics confined to enriched. context_variants large-group/self-directed/outdoor-only/multi-age all 10. 'say or show/point/act' + 'may always pass' throughout. Skill paths verified: L7 feel (sign/point/act/eye-gaze/board), L8 listen (blind turn-ear + stillness, Deaf/HH watch face + sign/nod, repeat-back), L3 share (point/sign/touch-count/direct), L5 rule (point/sign/peer-voice/blind name aloud/eye-gaze), L6 job (point-to-card/touch-name/direct partner/choose job that fits). Fixes: L2 story was auditory-only -> added sign/drawn-strip/picture-book/watch-puppets path; L1 added Deaf/HH path + replaced draw-only artifact with build/act/partner-scribe alternative; L10 sharing line includes signing. No assets fields. validate passes (271 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified: vision -> P4 -> D09 -> S1-S4 -> 8 grade-1 standards -> U.01.010 -> L.01.010.01-.10; domain [D09] pillar [P4] on all; objectives resolve only to the 8 real grade-1 D09 standards, no invented IDs; L7/L8 split compound S4.01.01, L10 all 8. Lenses: ethics ('what does this choice do for the other person', name-act-never-child), egalitarianism ('every voice not just the loudest', 'every person not most people', contributions-not-rewards), global/anthropological (water queue, rice bowl, sweeping courtyard, communal sharing), technology/environment light via repair contexts + optional non-worshipful tech. Evidence vs values: CASEL (L1) + IIRP (L9) as frameworks; fairness/repair as values/open questions. No hierarchy (no shaming/punishment/ranking, both sides heard, repair over punishment). Fix: added global lens to L5/L7/L9/L10. validate passes (271 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 grade-1 lessons vs K-2 band. Cognitive fit: concrete anchors (sharing snack/toy, Amara water-queue, swing/ball conflict, block tower); theory-of-mind L2 scaffolded with picture reasons; equality-vs-equity L3 held open ('wonder which is fairer') with tangible anchors (child who can't reach, hungrier friend). Emotional safety: 'name the act never the child' consistent, no labeling; repair blame-free restorative ('repair not punishment'); no forced disclosure ('never require sharing a real private feeling', 'may always pass'); all conflicts small/gentle/repairable. Physical: role-play/puppet/pass-turn-marker/circle, draw with build/act/scribe alternatives. Open-ended: questions held as questions, learners decide rule/job/repair. Spiral K->1->2 clean. No edits. validate passes (271 files)."
   - id: B-062
     title: Author lessons for Unit U.01.011 (Tools, Stories & Our Earth Home)
     agent: lesson-author

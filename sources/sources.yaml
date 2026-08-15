@@ -9,7 +9,7 @@ sources:
     organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
     domains: [D01, D02, D04, D09]
     reviewed: true
-    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the listening-and-asking lesson that cites it."
+    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency. URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it."
 
   - id: S-002
     title: NASA — The Big Bang
@@ -207,7 +207,7 @@ sources:
     organization: IIRP Graduate School (International Institute for Restorative Practices)
     domains: [D09]
     reviewed: true
-    notes: "Cited in U.00.011 L07 (solving a small disagreement / making it right). IIRP Graduate School, Bethlehem, PA — the field's graduate school for restorative practices; frames responding to harm by repairing it and restoring relationships rather than only punishing."
+    notes: "Cited in U.00.011 L07 (solving a small disagreement / making it right) and U.01.010 L09 (making things right — repair, not punishment). IIRP Graduate School, Bethlehem, PA — the field's graduate school for restorative practices; frames responding to harm by repairing it and restoring relationships rather than only punishing. URL re-verified live (2026-08-15)."
 
   - id: S-023
     title: "Ifrah (2000) — The Universal History of Numbers"

@@ -57,6 +57,13 @@ held as questions, not answered as dogma — fairness is practiced, not preached
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Kind and Unkind Choices | D09.S1.01.01 |
+| 2 | Why a Character Made That Choice | D09.S1.01.02 |
+| 3 | Fair and Unfair Sharing | D09.S2.01.01 |
+| 4 | What Everyone Needs to Feel Safe and Treated Well | D09.S2.01.02 |
+| 5 | Making a Class Rule With a Reason | D09.S3.01.01 |
+| 6 | A Small Job That Helps | D09.S3.01.02 |
+| 7 | Words for My Feelings in a Conflict | D09.S4.01.01 |
+| 8 | Listening to a Friend's Feelings | D09.S4.01.01 |
+| 9 | Making Things Right | D09.S4.01.02 |
+| 10 | Fairness All Together | D09.S1.01.01, D09.S1.01.02, D09.S2.01.01, D09.S2.01.02, D09.S3.01.01, D09.S3.01.02, D09.S4.01.01, D09.S4.01.02 |
