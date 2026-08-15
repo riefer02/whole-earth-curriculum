@@ -162,3 +162,12 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in L.00.002.08 (brushing teeth). WHO recommends twice-daily brushing with fluoride toothpaste (1000–1500 ppm); supports morning/night brushing and fluoride toothpaste."
+
+  - id: S-018
+    title: NASA Space Place — What Is the Big Bang?
+    type: website
+    url: https://spaceplace.nasa.gov/big-bang/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in L.00.003.02 (Big Bang told as the 'Everywhere Stretch'). Child-friendly NASA page: universe began as a single point, then expanded and stretched (Lemaître 1927); galaxies receding (Hubble) is the evidence it is still expanding; hot particles cooled and grouped into atoms, then stars and galaxies; universe ~13.8 billion years old."

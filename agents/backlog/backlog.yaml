@@ -393,11 +393,30 @@ items:
     type: lesson
     grade: 0
     domain: D06
-    status: ready
+    status: done
     priority: 3
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (65 files). Verified IDs L.00.003.01-.05 sequential with matching sequence_in_unit; old exemplar lesson-001-a-story-about-the-beginning.md (id L.00.003.01) properly deleted (git D), new lesson-001-asking-big-questions.md holds L.00.003.01, no duplicate/orphaned ID; unit.md table consistent. All 5 lessons have Procedure/Assessment/Facilitator note/Connection. Objectives resolve only to D06.S1.K.01 and D06.S4.K.01 (zero D06.S4.K.02). Big Bang framed as 'Everywhere Stretch' with 'nobody has to believe it'; lesson 3 holds cosmic-egg/Ranginui-Papatuanuku/Yoruba/Dreaming side-by-side unranked. Connection (lesson-002 balloon example) concrete/faithful.
+      fact-checker:
+        verdict: passed
+        note: "Verified NASA Space Place 'What Is the Big Bang?' URL (fetched, live, last updated Jul 31 2026): single point that expanded/stretched and still stretching, credits Lemaitre 1927 + Hubble receding galaxies, ~13.8 Gyr — matches lesson-002 'Everywhere Stretch' retelling, correctly hedged, no 'explosion in empty space', facilitator says 'nothing explodes or breaks'. Origin stories (golden egg India/Hiranyagarbha, Ranginui-Papatuanuku Maori, Yoruba water/land, Dreaming) broadly accurate with 'one simple version' hedge, no misattribution. No fabricated citations. Added S-018 (NASA Space Place) to sources.yaml reviewed:true (S-002 already covers science.nasa.gov distinct page). validate passes."
+      global-culture-editor:
+        verdict: passed
+        note: "Lesson-003 holds four origin stories (golden egg/India, Ranginui-Papatuanuku/Maori, Yoruba water-land, the Dreaming) accurately and respectfully, no ranking, 'myth' avoided. Big Bang (lesson-002) explicitly 'one story among many', 'nobody has to believe it', facilitator 'Do not say this is how it really happened'; attributed to 'scientists'/sky-studiers not a Western figure. Fix: Dreaming edited to note it is an English gloss many Aboriginal nations each name in their own language (not one people's single story). validate passes. Non-blocking: Yoruba 'spirit' could become 'kind one'/name Obatala; unit.md 'told because of evidence' could guard against implying others are lesser."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 5 lessons. materials_low_tech universal (voice/body/found objects/sand-drawing/memory); no silent device/printed-card requirement. lesson-002 conveys Everywhere Stretch verbally + crouch-and-stretch kinesthetic (non-visual). lesson-003 low-tech 'Voices only'. Fixes: added existing assets/images/L.00.003.01-universe-story.svg reference to lesson-002 with grayscale-safe alt text (path resolves); added whole-body 'Acting it out' expression option to lesson-004. context_variants large-group/self-directed/outdoor-only in all 5. validate passes (65 files). Non-blocking: rename SVG to L.00.003.02-* to match new lesson id; lesson-003 self-directed note could add 'or have story told'; multi-age/level-grouped variants absent."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: vision → P3 → D06 → D06.S1/S4 → D06.S1.K.01/D06.S4.K.01 → U.00.003 → L.00.003.01-.05; domain:[D06] pillar:[P3] on all. Lenses: ethics (nobody coerced to believe), egalitarianism (all origin stories equal treasured tellings, none ranked), global (India/Maori/Yoruba/Dreaming, non-Eurocentric), tech/env (Big Bang grounded in telescope evidence + NASA cite; env via sky/earth/water/land imagery). Evidence vs values exemplar: Big Bang as evidence ('a clue you can see or measure'), others as meaningful values, 'myth' never used, no 'science=true/others=false' ranking — faithful to philosophy §11. Fix: renamed misnamed asset via git mv to assets/images/L.00.003.02-universe-story.svg and updated lesson-002 reference. validate passes (65 files, 0 warnings)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 5 K lessons vs K-2 band. Cognitive fit: big question never abstract cosmology — anchored via picture cards/wondering wall (L1), Everywhere Stretch balloon+crouch-stretch body retelling (L2), 'treasure' picture cards (L3), crayon drawing (L4), wonder box (L5); 'evidence' grounded as 'something you can see or measure'. Emotional safety: 'nobody has to believe it' explicit in unit+L2/L3 facilitator+close; facilitator told to receive family stories with respect ('what a beautiful story — there are many'); L2 pre-empts fear ('nothing explodes or breaks, everything stretches'); no death/destruction/scare content. Open-ended: 'no wrong question', 'some questions we cannot answer yet — that is wonderful'. Physical: crouch-and-stretch big-motor with space-clearing note. validate passes. Non-blocking: L2 extension 'before the beginning' slightly abstract (keep optional); L3 long line cosmetic; consider explicit 'you never have to share' cue."
   - id: B-042
     title: Author lessons for Unit U.00.004 (We Are Friends)
     agent: lesson-author

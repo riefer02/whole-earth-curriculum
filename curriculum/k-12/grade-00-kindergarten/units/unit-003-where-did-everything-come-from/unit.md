@@ -24,9 +24,9 @@ duration_weeks: 1
 assessment_plan: >-
   Formative observation of questioning and retelling; a "wonder box" drawing as a
   portfolio artifact.
-status: draft
+status: review
 author: curriculum-head
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 3 — Where Did Everything Come From?
@@ -48,4 +48,8 @@ voice (see [`docs/philosophy.md`](../../../../docs/philosophy.md) §11).
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-| L.00.003.01 | A Story About the Beginning | D06.S4.K.01, D06.S1.K.01 |
+| L.00.003.01 | Asking Big Questions | D06.S1.K.01 |
+| L.00.003.02 | A Story About the Beginning | D06.S4.K.01 |
+| L.00.003.03 | Many Stories of Beginnings | D06.S4.K.01 |
+| L.00.003.04 | Retelling in My Own Words | D06.S4.K.01 |
+| L.00.003.05 | Our Wonder Box | D06.S1.K.01 |
