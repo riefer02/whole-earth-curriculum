@@ -32,9 +32,9 @@ duration_weeks: 4
 assessment_plan: >-
   One-on-one reading check-ins, a writing sample, and read-backs; a home-language
   sharing and a multilingual greeting as portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 4 — Letters, Sounds & Words
@@ -60,6 +60,18 @@ practice, per [`docs/philosophy.md`](../../../../docs/philosophy.md) §13.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Listening and Asking Questions | D04.S1.01.01 |
+| 2 | Answering Questions About a Story | D04.S1.01.01 |
+| 3 | Speaking in Complete Sentences | D04.S1.01.02 |
+| 4 | Letters and Sounds | D04.S2.01.01 |
+| 5 | Sounding Out Words | D04.S2.01.01 |
+| 6 | Letter Groups | D04.S2.01.01 |
+| 7 | Reading Aloud | D04.S2.01.02 |
+| 8 | Beginning, Middle, End | D04.S2.01.02 |
+| 9 | Writing Letters and Words | D04.S3.01.01 |
+| 10 | Reading Back What I Wrote | D04.S3.01.01 |
+| 11 | A Complete Sentence | D04.S3.01.02 |
+| 12 | Writing My Own Sentence | D04.S3.01.02 |
+| 13 | My Home Language | D04.S4.01.01 |
+| 14 | Greetings in Another Language | D04.S4.01.02 |
+| 15 | Letters, Sounds & Words Festival | D04.S1.01.01, D04.S1.01.02, D04.S2.01.01, D04.S2.01.02, D04.S3.01.01, D04.S3.01.02, D04.S4.01.01, D04.S4.01.02 |

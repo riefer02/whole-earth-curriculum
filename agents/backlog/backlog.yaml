@@ -813,11 +813,30 @@ items:
     type: lesson
     grade: 1
     domain: D04
-    status: ready
+    status: done
     priority: 17
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (208 files). IDs L.01.004.01-.15 sequential, sequence_in_unit 1-15; headings present. Objectives resolve only to eight D04 grade-01 standards; zero K-level IDs. Age-appropriate: formal literacy age 6; S2 decoding script-agnostic (L005 'alphabetic sound letter-by-letter... syllabic/character combine same way; never assume one mark=one sound'); home language first (L013 'honor home language first... oral and signed traditions are full languages'). Connections concrete/faithful (L008 'story is a path with three parts'). unit.md table lists all 15."
+      fact-checker:
+        verdict: passed
+        note: "Verified CASEL (L1 only source) live/on-topic (S-001 reviewed:true, D04); grep confirms L1 only Resources, no fabricated citations. Linguistic accuracy: L4 alphabetic/syllabic/logographic correct; 'one letter=one sound' caveat explicit L4-6; character systems map to syllables/word-marks; L11 capital+end-mark convention case/punctuation-specific. Updated S-001 note (new citation site). S-019 no change (L13/14 honor home language but cite no source). validate passes (208 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 15 lessons. No Euro/Latin default (decoding built around home writing system; facilitator notes name Arabic/Devanagari/Chinese/Cyrillic/Ethiopic/Hangul with per-system accommodations; L11 capital/end-mark caveat flagged). Home language first (L13 'wealth', oral+signed as full languages); 'no correct accent' verbatim L1/L2/L3/L7/L14. Oral not primitive (L7/L8/L13/L15 counterbalance L9 durability point). Greetings non-coerced (L14 learners as experts, 'never reduce a language to a gimmick'). Fix: L13 'sharing by invitation never requirement... may pass/draw/share with partner'. validate passes (208 files). Non-blocking: L9 durability point add oral-stories-counterbalance; L13 repeat-step '(or just listen)'; L11 mirror script-boundary caveat in summary."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 15 lessons. Fixes: L1 listening-body excluded Deaf/signing — 'full attention with eyes, ears, or hands' + deaf/HH visual/signed/written + non-speaking paths; L7 reading-aloud had no non-speaking path — sign/point/AAC as full reading aloud, assessment 'spoken, signed, or communicated'; L3 sign/picture/device as equal complete sentences; L9-12 dictation/letter-board/typing/whole-arm-foot-mouth-stick, handwriting never 'correct'; L4-6 tactile marks + point/touch matching; L8/L13-15 sign/point/draw/gesture paths. Low-tech all 15; contexts all three; no assets. validate passes (208 files). Non-blocking: L15 station prompts spoken framing; unit-level note naming signed/AAC as equals; explicit dyslexia multisensory note."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: 15 lessons objectives only eight grade-1 D04 standards, zero K IDs; domain:[D04] pillar:[P3] all; D04 anchors P3; chain lesson → strand → D04 → P3 → vision. Lenses: ethics (speaker feels heard, sharing by invitation), egalitarianism (no writing system better, no ranking, no correct accent), global (script-agnostic named non-Latin systems, oral/signed as full languages), tech/env (AAC/typing enrichment, outdoor variants). Evidence vs values: CASEL once as framework; multilingualism-as-wealth is value. No hierarchy. No fixes. validate passes (208 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 15 grade-1 lessons vs K-2 band. Cognitive fit: explicit instruction + guided practice (model→together→try), standards on-band, spiral intact (K recognize/name→decode, draw/dictate→write); no fluency/comprehension demands; home-language-first script-agnostic. Emotional safety: shame engineered out ('inventing spelling normal', 'handwriting never judged', 'no correct accent', mistakes as learning); no 'behind' labeling; L13 'sharing by invitation never requirement'; read-aloud volunteer with signed/AAC/pointed alternates. Physical: air-tracing/sand before paper, scribe/letter-board/typing/foot-mouth-stick, movement woven. Not dumbed down; learner as author. No edits. validate passes (208 files). Non-blocking: L15 station inline non-speaking alternative; L9/11/12 add movement break."
   - id: B-056
     title: Author lessons for Unit U.01.005 (Numbers All Around Us)
     agent: lesson-author
