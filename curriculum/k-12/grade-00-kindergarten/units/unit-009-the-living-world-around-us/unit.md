@@ -24,9 +24,9 @@ duration_weeks: 3
 assessment_plan: >-
   Observation of questioning and nature journaling; a growth or seasons observation
   as a portfolio artifact.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 9 — The Living World Around Us
@@ -49,6 +49,13 @@ observation and wonder, never as a set of facts to memorize.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| L.00.009.01 | Day and Night | D06.S4.K.02 |
+| L.00.009.02 | The Changing Sky | D06.S4.K.02 |
+| L.00.009.03 | Seasons Change | D06.S4.K.02 |
+| L.00.009.04 | Living Things Grow | D06.S4.K.02 |
+| L.00.009.05 | Watching Something Grow | D06.S4.K.02 |
+| L.00.009.06 | Changes All Around Me | D06.S4.K.02 |
+| L.00.009.07 | Asking Why and How | D06.S1.K.01 |
+| L.00.009.08 | Looking Closely | D06.S1.K.01 |
+| L.00.009.09 | A Wonder Walk | D06.S1.K.01 |
+| L.00.009.10 | The Living World Around Us | D06.S1.K.01, D06.S4.K.02 |

@@ -190,3 +190,12 @@ sources:
     domains: [D05]
     reviewed: true
     notes: "2nd ed., Routledge, 2014 (ISBN 9780415828505). Cited in U.00.006 L01–L03. The learning-trajectories framework for early math; its counting trajectory explicitly treats one-to-one correspondence, the verbal counting sequence, and cardinality (the last counting word names the quantity) as foundational skills."
+
+  - id: S-021
+    title: NASA Space Place — NASA Science for Kids (home)
+    type: website
+    url: https://spaceplace.nasa.gov/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in L.00.009.02 (The Changing Sky) as a kid-friendly space/sky reference. Live homepage with Sun, Moon, Earth, Solar System, and Universe menus; includes Moon phases, skywatching tips, and Earth/Sun explainers. On-topic and authoritative for age-appropriate sky observation."

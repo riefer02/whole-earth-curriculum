@@ -573,11 +573,30 @@ items:
     type: lesson
     grade: 0
     domain: D06
-    status: ready
+    status: done
     priority: 9
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (133 files). IDs L.00.009.01-.10 sequential, sequence_in_unit 1-10; headings (Connection/Procedure/Assessment) 3/3 per file via grep. Objectives: L1-6 only D06.S4.K.02, L7-9 only D06.S1.K.01, L10 both; D06.S4.K.01 (origin-story) appears nowhere (belongs U.00.003). Age-appropriate: L3 'Some places have four seasons; some places have two — wet and dry' + facilitator warns against four-season default; science as observation/wonder not memorized facts. Connections concrete/faithful (L4 'you were once a tiny baby' → seed→plant). unit.md table lists all 10."
+      fact-checker:
+        verdict: passed
+        note: "Verified science: no geocentric falsehood (day/night via appearance language; L1 globe+flashlight models rotation, 'one half in light one in dark', never 'sun goes around Earth'; equator vs poles hedged). L2 moon can appear in day sky + light-pollution stars correct. L4 rock 'mostly' stays same hedged. L5 seed germination (bean/lentil on damp cloth) accurate. Seasons-by-region L3 accurate (four seasons vs wet/dry vs warm-all-year vs cold). Only citation L2 NASA Space Place https://spaceplace.nasa.gov/ (fetched, live, on-topic). Registered S-021 (reviewed:true). No fabricated/uncited claims. validate passes (133 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons + unit.md. No temperate/four-season default (L3 Connection states wet/dry + warm-all-year + cold, facilitator warns 'four seasons assumption can sneak in — do not let it'; L1 handles equator vs poles day-length). Diverse ways of knowing (L2 facilitator 'honor many stories people everywhere told about sun/moon/stars, side by side without ranking'; L6 farmers/gardeners watch weather). Region-spanning non-exoticizing examples (seed-plant/puppy-dog/chick-hen, bean/lentil or any fast-germinating seed, local plants deferred to). No environment ranking (L9 'no correct environment, only the one that is home', L10 'no correct sky/season'). validate passes (133 files). Non-blocking: L4 add wild pair tadpole-frog/caterpillar-butterfly; L2 resources could note cultures' own sky stories."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. Low-tech universal; no timed/competitive; context_variants all three; no assets fields. Fixes (5 lessons): L1 'skin and ears' non-visual day/night (sun warmth=day, cooler+quieter=night); L2 spoken-description sky sort; L6 change-hunt eyes/ears/nose/skin; L8 reframed 'looking'→multisensory noticing + touch/smell/sound paths + vocab; L9 seated sit-spot/window-wonder for motor-limited + sound/smell/texture noticing. validate passes (133 files). Non-blocking: multi-age/level-grouped absent; L4/L5/L10 draw-only portfolio could add tactile/verbal; L2 moon-shapes inherently visual could add spoken/raised-relief."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: vision → P3 → D06 → S1/S4 → D06.S1.K.01/D06.S4.K.02 → U.00.009 → L.00.009.01-.10; domain:[D06] pillar:[P3] all; L1-6 S4.K.02, L7-9 S1.K.01, L10 both; D06.S4.K.01 appears nowhere (reserved U.00.003). Lenses: ethics (care for living things through-line, wonder over creed), egalitarianism (no correct environment, local nature honored), global (equator/poles, wet/dry vs four-season), environment central + tech light (thermometer/rain gauge). Evidence vs values: NASA cited for sky facts; science-as-wonder explicitly value; no geocentric falsehood. No hierarchy/ranking. No edits. validate passes (133 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 K lessons vs K-2 band. Cognitive fit: concrete here-and-now (sorting cards, acting out curl-like-a-seed, drawing, observation); abstract astronomy refused (L2 'wonder not astronomy facts', L1 equator/poles only if asked as wonder); memorization rejected. Emotional safety: no sun's-end/disaster/death content; L4 seed-vs-rock gentle; L4 flags baby-grown-up pair may be tender (new sibling) + plant/animal alternatives; care for living things affirmative ('be gentle, return it where found'); wonder not anxiety. Physical: big/fine motor + wheelchair sit-spot/window-wonder, low-vision skin/ears/nose paths; L8 'a full minute feels long at five'. Not dumbed down; learner as agent; open-ended non-creedal. No fixes. validate passes (133 files). Non-blocking: L3 home connection 'changed over years' could hint 'one small change'; L1/L2 'skin and ears' wording repetition."
   - id: B-048
     title: "Author lessons for Unit U.00.010 (Then & Now: Stories of People)"
     agent: lesson-author
