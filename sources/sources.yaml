@@ -359,3 +359,14 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in U.01.008 L03 (food gives the body energy to grow, play, and learn). URL verified live (2026-08-15); page updated 26 Jan 2026. States 'Carbohydrates provide the primary energy source for the body' and frames protein as the building blocks for body structure/growth — supports the lesson's basic-biology claim that food gives the body energy to grow, play, and learn. Also supports the global/variety framing (diversity across food groups as one of four core principles)."
+
+  - id: S-039
+    title: "Dunlosky, Rawson, Marsh, Nathan & Willingham (2013) — Improving Students' Learning With Effective Learning Techniques"
+    type: article
+    author: John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham
+    organization: Psychological Science in the Public Interest
+    year: 2013
+    url: https://doi.org/10.1177/1529100612453266
+    domains: []
+    reviewed: true
+    notes: "Cited in U.01.009 L10 (unit capstone described as a retrieval-practice/spacing 'science-of-learning payoff'). Real, well-known consensus review (14(1), 4–58). DOI verified live (2026-08-15). Identifies practice testing (retrieval practice) and distributed practice (spacing) as the two highest-utility learning techniques — supports the lesson's claim that recalling the unit's ideas across the unit (spaced retrieval) is evidence-backed."

@@ -59,6 +59,13 @@ triumph.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Sequencing My Day | D08.S1.01.01 |
+| 2 | Then and Now — A Tool or Toy | D08.S1.01.02 |
+| 3 | A Family or Community Tradition | D08.S2.01.01 |
+| 4 | Two Celebrations, Alike and Different | D08.S2.01.02 |
+| 5 | My Place — Land, Water, Weather, Living Things | D08.S3.01.01 |
+| 6 | Maps and Globes — Home and Another Place | D08.S3.01.02 |
+| 7 | A Character Treated Unfairly | D08.S4.01.01 |
+| 8 | A Kind Act | D08.S4.01.02 |
+| 9 | Standing Up and Helping | D08.S4.01.01, D08.S4.01.02 |
+| 10 | Our People, Places & Long Ago Story | D08.S1.01.01, D08.S1.01.02, D08.S2.01.01, D08.S2.01.02, D08.S3.01.01, D08.S3.01.02, D08.S4.01.01, D08.S4.01.02 |

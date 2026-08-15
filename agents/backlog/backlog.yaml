@@ -963,11 +963,30 @@ items:
     type: lesson
     grade: 1
     domain: D08
-    status: ready
+    status: done
     priority: 22
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (261 files). IDs L.01.009.01-.10 sequential, sequence_in_unit 1-10, unit U.01.009, domain [D08], pillar [P4]. Objectives resolve only to the 8 grade-1 D08 standards; zero K-level/invented IDs. All 8 covered (L1-8 one each, L9 S4.01.01+.02, L10 all 8). Required headings 4/4 in all 10. unit.md table matches. Age-appropriate then-and-now, blame-free, repair-ended; unfairness L7/L9 gentle ('no frightening/violent content', 'no child is ever the problem'); heavy history correctly absent at grade 1. Only citation Kirschner/Sweller/Clark 2006 (S-011, real); cultural descriptors hedged/respectful/general. No ranking/progress framing. No fixes.
+      fact-checker:
+        verdict: passed
+        note: "Re-verified S-011 Kirschner/Sweller/Clark 2006 (DOI 10.1207/s15326985ep4102_1, on-topic for worked-example sequencing/comparing L1/L2). Cultural descriptors (L4) accurate + hedged, no misattribution: Lunar New Year (family/fresh start), Nowruz Haft-Sin described faithfully ('spring table of seven things'), Persian/Central Asian Nowruz = spring/renewal, West African harvest = gratitude; all framed as meaning, anti-tokenization. L2 candle/oil-lamp vs bulb gentle common knowledge. Evidence vs values clean. Fix: L10 uncited spaced-retrieval claim now cited; registered S-039 Dunlosky et al. 2013 (10.1177/1529100612453266, verified live, practice testing + distributed practice highest-utility). validate passes (261 files)."
+      global-culture-editor:
+        verdict: passed
+        note: Reviewed 10 lessons + unit.md. No Euro/US-centric or single-nation-triumph framing ('many perspectives, never a single nation's triumph', no national narratives). No ranking of cultures/families/places/traditions. No tokenizing/exoticizing (traditions described from inside their meaning, 'never as a costume', no dress-up, no 'perform a culture'). No progress ranking (L2 'neither is better', never rank old/new). No single religious default ('new year'/'naming day' not Christmas/christening; 'pray' one inclusive possibility). No-travel assumption explicit L6. No forced disclosure (L3/4/5/7/10 allow pass). Representation spans East/SE Asia, West Africa, Persian/Central Asia. No edits. validate passes (261 files).
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed all 10 lessons. materials_low_tech universal (found objects + voice/body; L6 drawn-on-ground map + round-fruit globe). Blind/low-vision tactile/verbal everywhere (L6 raised-line string/sand-glue tactile map + textured globe). Non-speaking point/act/draw/sign (added missing non-speaking entry to L2). No forced performance (may pass, never require — L3/4/7/8/9/10); family/place/hurt disclosure optional. Materials universal (paper/crayons/pebbles/leaves/stones), no wealth/device assumption. context_variants large-group/self-directed/outdoor-only + multi-age/level-grouped. Fixes: added Deaf/HH (sign/picture-sequence story) + motor-difference (point/eye-gaze/partner/easy-grip/scribe) paths to all 10 Differentiation. No assets fields. validate passes (261 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified: vision -> P4 -> D08 -> S1-S4 -> 8 grade-1 standards -> U.01.009 -> L.01.009.01-.10; domain [D08] pillar [P4] on all; objectives resolve only to the 8 real grade-1 D08 standards, zero K/invented IDs. Lenses: ethics (blame-free unfairness/repair L7/L9, 'why it mattered' L8, honor-don't-costume L3/L4), egalitarianism (never-rank pervasive, 'no wrong day', 'no correct place/family', honor every body), global/anthropological (Lunar New Year, Nowruz/Haft-Sin, West African harvest; 'many perspectives never a single nation's triumph'), technology/environment (candle-lamp L2, land/water/weather L5, maps/globes L6). Evidence vs values: two factual claims both cited (Kirschner/Sweller/Clark 2006 L1/L2; Dunlosky 2013 L10). No hierarchy/supremacy. Fix: added egalitarianism lens to L1/L5/L6. validate passes (261 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 grade-1 lessons vs K-2 band. Cognitive fit: concrete here-and-now, no dates/chronology (sequence own day before/after/next; then-and-now object comparison; concrete tradition description; land/water/weather observation; room-map -> globe progression); dates/timelines correctly deferred to Grade 2. Emotional safety (unfairness L7-L9): gentle blame-free mild repairable examples (left out of game, skipped turn), each ends in repair/standing-up, 'no child is ever the problem', 'unfairness is in the treatment not the child', no disclosure required. Family/tradition/place L3-L5: 'no correct family' (adopted/fostered/chosen), 'no correct place' (moved/two-home), may pass, no perform/disclose; traditions told from inside meaning not costume/caricature. Physical: inclusive, movement/outdoor/found objects, differentiation every lesson. Open-ended: no ranking, faith respected without creed. No edits. validate passes (261 files)."
   - id: B-061
     title: Author lessons for Unit U.01.010 (Fairness & Our Shared Rules)
     agent: lesson-author
