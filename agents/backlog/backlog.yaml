@@ -453,11 +453,30 @@ items:
     type: lesson
     grade: 0
     domain: D04
-    status: ready
+    status: done
     priority: 5
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (93 files, 0 errors). Verified 14 lessons L.00.005.01-.14 sequential with matching sequence_in_unit 1-14, unit U.00.005; required headings present in all. Objectives resolve only to D04.S1/S2/S3/S4.K.01 (checked against domain-04 K grade_objectives; text verbatim; L08 S2+S3, L14 all four; no foreign IDs). S2 lessons script-agnostic: L05 'never assume English alphabet', names Latin/Arabic/Devanagari/Chinese/Cyrillic/Ethiopic/Hangul; L06 warns against one-letter-one-sound English model. Home language honored first (L12 greet in own language first, L08 never correct a name's spelling into another script); multilingualism as wealth (L13). Connections concrete/faithful (L09 'a mark can stand for an idea... already writing'). unit.md table lists all 14."
+      fact-checker:
+        verdict: passed
+        note: "Verified CASEL (fetched live, on-topic, S-001) and UNESCO International Mother Language Day https://www.unesco.org/en/days/mother-language (fetched live; page states 'Globally 40 per cent of the population does not have access to an education in a language they speak or understand' — L13's 'around 40 per cent... cannot learn in a language they speak or understand' accurate and correctly attributed). Linguistic claims sound: Latin/Arabic/Devanagari/Chinese/Cyrillic/Ethiopic/Hangul real scripts; Maya glyphs/Adinkra real; 'one letter = one sound' caveat correct. Fixes: registered S-019 (UNESCO, reviewed:true, D04); added D04 to S-001 domains; corrected L06 typology (Arabic abjad/Devanagari abugida no longer lumped under 'alphabet'). validate passes (93 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 14 lessons. Script representation genuinely script-agnostic, non-tokenized (Arabic/Devanagari/Chinese/Cyrillic/Ethiopic/Hangul + Maya glyph/Adinkra; L06 honors character systems map to syllables/words not one-letter-one-sound). Home-language-first + multilingualism-as-wealth consistent; no correct-accent/ranking; L12/L13 permit nod/smile/gesture (no forced 'performance'); oral storytelling co-equal with written (L10 'the telling itself is the writing'). Fixes: L01 softened 'eyes watching speaker' norm (facilitator note: attention looks different across cultures, look down/away toward elders honored); L12 'eye contact'→'warm face'. validate passes (93 files). Non-blocking: L12 enriched greetings could add underrepresented-region examples (Indigenous/Pacific/West African); L09 'long before you could write' wording watch for future spirals."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 14 lessons. No assets: fields (alt-text vacuous). materials_low_tech universal (voice/body/sand/soil/sticks/stones/seeds); devices only in enriched. context_variants large-group/self-directed/outdoor-only all. S3 writing already exemplary (dictation/scribe, marks as valid writing, 'never correct a name's spelling' L8, 'no mark is scribble' L9, 'write exactly what child says' L10/L11). S4 gestures count (L12/L13). Fixes: L1 deaf/visual-story path + non-speaking retelling + 'listen with eyes and hands'; L4 sign/lip-reading/captions; L2/L3 signed/drawn/pointed/acted retelling; L6 deaf/HH match-by-shape/gesture path; L5/L7 raised tactile marks + touch mark-hunt. validate passes (93 files). Non-blocking: L1/L4 'ears open' metaphor could become 'attention open'; multi-age/level-grouped absent; L6 signed-letter alternative."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified: 14/14 domain:[D04] pillar:[P3]; objectives resolve only to D04.S1/S2/S3/S4.K.01 (grep zero foreign IDs); strand matches (L01-04 S1, L05-07 S2, L08 S2+S3, L09-10 S3, L11 S3+S1, L12-13 S4, L14 all). Chain vision → P3 → D04 → S1-S4 → K.01 → unit → lesson unbroken. Lenses: ethics (listening as gift; no coercion to perform — 'never force it... nod/smile/gesture'), egalitarianism (multilingualism wealth not problem, 'no writing system is the right one', no correct accent), global (script-agnostic, Maya glyph/Adinkra, cross-cultural listening norms), tech/env (devices enriched-tier only, low-tech universal, outdoor ties language to environment). Evidence vs values: 40% figure is fact (UNESCO-cited), multilingualism-as-wealth labeled a value — distinct. No hierarchy. No edits. validate passes (93 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 14 K lessons vs K-2 band. Cognitive fit: emergent literacy not formal phonics — letter work is recognition/naming/matching (no decoding; L7 'reading full words not expected'); retelling scoped to one important part; story order via three fingers/found objects; composition is mark-making/drawing/dictation without spelling demand. Emotional safety: home-language-first egalitarian ('no language better', 'never mock an accent', 'no accent correct'); non-speaking never on spot (sign/point/draw/act); forced performance prohibited (L12 'never force it'); capstone 'celebration not test'; deaf/HH + low-vision embedded. Physical: loose-part/tracing/drawing, no handwriting demand, big-motor woven in. Not dumbed down ('You are an author the moment you tell your own story'). No fixes. validate passes (93 files). Non-blocking: mirror 'you may pass/share with partner' into learner-facing L12/L14 steps; L8 name-origin question soft alternative."
   - id: B-044
     title: Author lessons for Unit U.00.006 (Counting, Shapes & Patterns)
     agent: lesson-author

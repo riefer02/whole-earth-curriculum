@@ -7,9 +7,9 @@ sources:
     type: website
     url: https://casel.org/fundamentals-of-sel/
     organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
-    domains: [D01, D02]
+    domains: [D01, D02, D04]
     reviewed: true
-    notes: Framework for the SEL competencies referenced in D01 exemplars.
+    notes: Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04).
 
   - id: S-002
     title: NASA — The Big Bang
@@ -171,3 +171,12 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in L.00.003.02 (Big Bang told as the 'Everywhere Stretch'). Child-friendly NASA page: universe began as a single point, then expanded and stretched (Lemaître 1927); galaxies receding (Hubble) is the evidence it is still expanding; hot particles cooled and grouped into atoms, then stars and galaxies; universe ~13.8 billion years old."
+
+  - id: S-019
+    title: UNESCO — International Mother Language Day
+    type: website
+    url: https://www.unesco.org/en/days/mother-language
+    organization: UNESCO
+    domains: [D04]
+    reviewed: true
+    notes: "Cited in U.00.005 L12/L13 (home-language greetings; 'many languages are treasures'). Page states verbatim: 'Globally 40 per cent of the population does not have access to an education in a language they speak or understand.' Supports the 40% claim and the value of every learner's home language."

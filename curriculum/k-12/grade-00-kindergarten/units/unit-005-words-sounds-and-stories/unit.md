@@ -27,9 +27,9 @@ duration_weeks: 4
 assessment_plan: >-
   Observation of retelling, letter recognition, and drawing or writing; a dictated
   "my story" page and home-language greetings as portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 5 — Words, Sounds & Stories
@@ -51,6 +51,17 @@ not a deficit, and every way of speaking is respected.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| L.00.005.01 | Listening to a Story | D04.S1.K.01 |
+| L.00.005.02 | Retelling What I Heard | D04.S1.K.01 |
+| L.00.005.03 | Stories Have a Beginning, Middle, and End | D04.S1.K.01 |
+| L.00.005.04 | Listening to a Speaker | D04.S1.K.01 |
+| L.00.005.05 | Meet the Letters of My Language | D04.S2.K.01 |
+| L.00.005.06 | Letters Have Sounds | D04.S2.K.01 |
+| L.00.005.07 | Letters All Around Me | D04.S2.K.01 |
+| L.00.005.08 | My Name in Marks | D04.S2.K.01, D04.S3.K.01 |
+| L.00.005.09 | My Marks Tell a Story | D04.S3.K.01 |
+| L.00.005.10 | Drawing and Telling My Idea | D04.S3.K.01 |
+| L.00.005.11 | Writing My Own Story | D04.S3.K.01, D04.S1.K.01 |
+| L.00.005.12 | Greetings in My Language | D04.S4.K.01 |
+| L.00.005.13 | Many Languages Are Treasures | D04.S4.K.01 |
+| L.00.005.14 | Words, Sounds & Stories | D04.S1.K.01, D04.S2.K.01, D04.S3.K.01, D04.S4.K.01 |
