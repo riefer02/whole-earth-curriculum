@@ -58,6 +58,13 @@ museum piece.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Lines, Shapes, and Colors | D07.S1.01.01 |
+| 2 | Looking at an Artwork | D07.S1.01.02 |
+| 3 | Singing and Keeping the Beat | D07.S2.01.01 |
+| 4 | Loud and Soft, Fast and Slow | D07.S2.01.02 |
+| 5 | Moving to Show a Feeling | D07.S3.01.01 |
+| 6 | Pretending to Be a Character | D07.S3.01.02 |
+| 7 | Building with a Plan | D07.S4.01.01 |
+| 8 | Testing and Improving | D07.S4.01.02 |
+| 9 | The Make-and-Improve Cycle | D07.S4.01.01, D07.S4.01.02 |
+| 10 | Making, Music & Movement | D07.S1.01.01, D07.S1.01.02, D07.S2.01.01, D07.S2.01.02, D07.S3.01.01, D07.S3.01.02, D07.S4.01.01, D07.S4.01.02 |

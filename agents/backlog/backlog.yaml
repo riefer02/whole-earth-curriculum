@@ -903,11 +903,30 @@ items:
     type: lesson
     grade: 1
     domain: D07
-    status: ready
+    status: done
     priority: 20
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (243 files). IDs L.01.007.01-.10 sequential with matching sequence_in_unit 1-10, unit U.01.007, domain [D07], pillar [P3]. Objectives resolve only to the 8 grade-1 D07 standards (S1.01.01/.02, S2.01.01/.02, S3.01.01/.02, S4.01.01/.02); zero K-level/invented IDs. All 8 covered (L1-8 one each, L9-10 recombine). Required headings 4/4 per file. Age-appropriate play-based, strongly inclusive. Kirschner/Sweller/Clark 2006 cited (L3/L9) for explicit modeling. Connections concrete/varied. unit.md table lists all 10.
+      fact-checker:
+        verdict: passed
+        note: "Only citation is Kirschner/Sweller/Clark 2006 (Educational Psychologist 41(2) 75-86) in L3/L9 — real, already registered as S-011 (reviewed:true), DOI 10.1207/s15326985ep4102_1 re-verified live and on-topic (explicit modeling for novice skills). Physics claims correct: sound is vibration (L3), loud=bigger amplitude soft=smaller (L4), fast/slow=tempo not pitch (no frequency/amplitude conflation). Evidence vs values distinguished (art/music-as-language, process-over-product, 'not yet', living heritage = values; explicit-instruction = the one cited claim). No fabricated citations or new sources needed. validate passes (243 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed all 10 lessons + unit.md. No fine-art/default: art located in weaving/pottery/wall-murals (L1) and 'a picture or real made object' (L2); arts as 'living heritage not museum piece'. No tokenization: 'turn marker' (stone/cloth knot) replaces talking stick (L6), 'never co-opt sacred/ceremonial roles', 'do not tokenize sacred objects' (L2). No single song/instrument/movement default: song taught by ear in home language, lullabies/work songs/celebration songs universal (L3); movement via dance/play/greeting (L5). Only classroom 'we'. Found-materials universality (stick-in-sand, body percussion, sticks/stones/mud, no purchase required). Connections rotate weaving/pottery/murals/work songs/boat-builders. No edits needed. validate passes (243 files)."
+      accessibility-editor:
+        verdict: passed
+        note: Reviewed all 10 lessons. materials_low_tech universal (body/voice/found objects, no print/device/wealth requirement). Non-speaking paths (point/gesture/sign) in every lesson; 'watching and copying is full participation', 'never push a shy learner to perform'. Deaf/HH felt vibration+visible beat present (L3/L4); added Deaf/HH to movement L5 (modeled movement, felt beat via drum/floor, sign for feelings) and character L6 (sign/gesture/pictures). Blind/low-vision tactile/describe present (L1/L2); added to L6 (voice+body) and building L7/L8/L9 (build/test by feel+sound, tactile string+stone cycle chart). Motor/seated variants L5/L6 + 'direct a partner' L7-L9. context_variants all five. No assets fields. validate passes (243 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified: vision -> P3 -> D07 -> S1-S4 -> 8 grade-1 standards -> U.01.007 -> L.01.007.01-.10; domain [D07] pillar [P3] on all; objectives resolve only to the 8 real grade-1 D07 standards, zero invented/K-level IDs; unit.md table matches. Four lenses present: ethics (L6 empathy, L10 every voice matters, L2 honor maker never tokenize), egalitarianism (pervasive, universal adaptations, no contest), global/anthropological (living heritage not museum piece, never co-opt ceremonial roles, home-language song, weaving/pottery/murals/boat-building), technology/environment (env L4/L7-L9, tech optional enriched). Evidence vs values: art/music-as-language + process-over-product as values; explicit-instruction claim cited Kirschner/Sweller/Clark 2006 (L3/L9); physics facts accurate. No hierarchy/supremacy. No edits. validate passes (243 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 grade-1 lessons vs K-2 band. Cognitive fit: concrete play-based, no premature technique/notation (art=lines/shapes/colors, music by ear no staff, movement expressive, building purpose-plan-build); L9 cycle anchored via picture chart + physical steps. Emotional safety: strong process-over-product ('no wrong way', 'not yet is not wrong', 'a wobbly tower is still a thinker's tower'), no ranking/best-work, mistakes as information; L5 anger expressed via safe non-violent movement (SEL naming/regulating). Physical: big+fine motor matched, seated/adapted/blind/low-vision/Deaf/HH/non-speaking accommodations. Open-ended: learner-as-creator, no right/wrong way. Fix: L10 sharing made a choice (may pass; watching+clapping is full participation) to avoid forced solo performance. validate passes (243 files)."
   - id: B-059
     title: Author lessons for Unit U.01.008 (Healthy, Safe & Strong)
     agent: lesson-author
