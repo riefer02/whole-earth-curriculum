@@ -24,7 +24,12 @@ newest_age() {
 }
 
 pending() {
-  node tools/loop/loop.mjs next 2>/dev/null | grep -qE 'claim:|verdict:|Next item|Pending reviews' && echo 1 || echo 0
+  node -e "
+    const { parse } = require('yaml');
+    const fs = require('fs');
+    const b = parse(fs.readFileSync('agents/backlog/backlog.yaml', 'utf8')) || { items: [] };
+    process.exit((b.items || []).some((i) => i.status !== 'done') ? 0 : 1);
+  " 2>/dev/null && echo 1 || echo 0
 }
 
 log "watchdog started (threshold ${THRESHOLD}m)"

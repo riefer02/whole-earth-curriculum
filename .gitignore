@@ -22,3 +22,4 @@ build/
 
 # Agent scratch (committed state lives in agents/state/state.json only)
 agents/state/tmp/
+agents/state/watchdog.log
