@@ -603,11 +603,30 @@ items:
     type: lesson
     grade: 0
     domain: D08
-    status: ready
+    status: done
     priority: 10
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (143 files). IDs L.00.010.01-.10 sequential, sequence_in_unit 1-10; kind/unit/domain D08/pillar P4 on all. Objectives resolve only to D08.S1/S2/S3/S4.K.01 (confirmed domain-08 lines 38-45, text verbatim). Headings all present. Age-appropriate: history as 'then and now' via artifacts/songs/stories, no dates/war/triumphalism; sensitivity explicit (L2 never require baby photo + adopted/fostered; L3 'never rank old as worse/new as better'; L8 'never require a child to tell a moving story'). Connections concrete/faithful (L5 lullaby/clapping song 'We are here, and this is ours'). unit.md table lists all 10."
+      fact-checker:
+        verdict: passed
+        note: Reviewed 10 lessons + unit.md. No Resources sections, no citations (grep http/doi/link = zero). No unsupported factual/historical claims; content narrative/learner-directed; 'every people tells stories'/'people everywhere sing' are anthropological universals as gentle orientation. L3 old/new lighting (candle/lantern vs lamp/switch) and carrying water (pot vs tap) generic/accurate, explicitly 'still today in many homes', no ranking old as inferior. Objectives resolve to real D08 standards. validate passes (143 files). No registry changes.
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. No Euro/US/nation-triumph framing ('past is a story of many peoples, never one nation's triumph'); no dates/national history. Stories/songs respectful + non-exoticized (L4 'told by or faithful to the culture, never a caricature or costume'; L5 'different world regions', forbids mimicking accents/'songs are not toys or costumes'). Family/place/moving strong (L8 names displacement/loss/adoption, 'never require a child to tell a moving story', 'none is a child's fault', blame-free; L7 'no travel required', 'never rank places'). Then-and-now L3 doesn't rank modern/Western better ('never rank old as worse/new as better', candle/lamp + pot/tap equally valid living ways). No ranking of cultures. Non-blocking: L3 object-cards lean Euro/urban (add mortar-pestle/grinding-stone); L4 rotate world regions across unit."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. Fixes: S2 L4-6 were auditory-first — added 'Story in pictures or signs' low-tech + deaf/HH signed/picture-sequence differentiation to L4; 'Feel the beat' vibration path + deaf/HH bullet to L5; L4 'ears open'→'listen with eyes or ears'. Non-speaking point/draw/sign/act alternatives to L4/L5/L6 share-steps, L9 non-speaking retelling (point/act/order cards), L1 rubric 'say or point'. No forced performance (L8 sharing optional, L5 forbids mimicry, L2/L8 sensitivity notes). materials_low_tech universal. context_variants all three. No assets. validate passes (143 files). Non-blocking: L1 'offer objects to hold not only pictures'; L5 fully-visual 'watch the beat' named variant."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: vision → P4 → D08 → S1-S4 → D08.S1/S2/S3/S4.K.01 → U.00.010 → L.00.010.01-.10; domain:[D08] pillar:[P4] all; strand assignments correct (L1-3 S1, L4-6 S2, L7-8 S3, L9 S4, L10 all four). Lenses: ethics (no wrong pasts, blame-free moving, fair/unfair), egalitarianism (every family/place/song side by side), global (people everywhere tell stories/sing, different regions), technology/environment (L3 old/new ways 'never rank old as worse... not progress'). Evidence vs values: zero citations, content narrative; 'history is story of many peoples' is value not fact. Anti-hierarchy explicit ('never one nation's triumph', anti-progress, 'never exoticize', 'never rank places'). No fixes. validate passes (143 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 K lessons vs K-2 band. Cognitive fit: 'then and now' concrete anchors (picture cards seed-plant/baby-child/candle-lamp, own body little-me/now-me, everyday objects, personal places); no dates/chronology/timeline; 'future' touches gentle/imaginative. Emotional safety: L2 never requires baby photo + honors adopted/fostered; L8 most-sensitive, displacement/loss/adoption named, sharing optional, blame-free, no forced disclosure; L9 fair/unfair gentle blame-free ends in repair, avoid heavy unfairness; no frightening/traumatic history. Physical: acting crawl/run, carrying water, clapping/marching, journey between trees, fair/unfair with ball; Deaf/HoH + non-speaking differentiation L4-6/L9. Not dumbed down ('every noticing welcome, no right answer'); learner as author (L10). No fixes. validate passes (143 files). Non-blocking: L5 materials list 3 songs but Procedure walks 2."
   - id: B-049
     title: Author lessons for Unit U.00.011 (Fairness & Caring for Others)
     agent: lesson-author
