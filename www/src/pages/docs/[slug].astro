@@ -1,0 +1,35 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
+import { ui } from '../../i18n';
+import { docTitle } from '../../lib/docs';
+
+export async function getStaticPaths() {
+  const docs = await getCollection('docs');
+  return docs.map((d) => ({ params: { slug: d.id } }));
+}
+
+const { slug } = Astro.params;
+const doc = await getEntry('docs', slug ?? '');
+if (!doc) return Astro.redirect('/docs/');
+
+const title = docTitle(doc.body, slug ?? '');
+const { Content } = await render(doc);
+---
+
+<BaseLayout title={title} pagefindFilters={['type:Document']}>
+  <div class="container container--prose">
+    <Breadcrumbs
+      crumbs={[
+        { label: ui.nav.docs, href: '/docs/' },
+        { label: title },
+      ]}
+    />
+    <TableOfContents />
+    <article class="prose" data-content>
+      <Content />
+    </article>
+  </div>
+</BaseLayout>

@@ -1,0 +1,90 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { ui } from '../../../i18n';
+import { strandPath } from '../../../lib/links';
+import { pillarValue } from '../../../lib/filters';
+import { gradeKeyLabel, objectivesForStrand } from '../../../lib/standards';
+
+export async function getStaticPaths() {
+  const domains = await getCollection('domains');
+  return domains
+    .filter((d) => d.id)
+    .map((d) => ({ params: { domain: (d.id as string).toLowerCase() } }));
+}
+
+const domainId = (Astro.params.domain ?? '').toUpperCase();
+
+const domainEntry = await getEntry('domains', domainId);
+if (!domainEntry) return Astro.redirect('/standards/');
+
+const { Content } = await render(domainEntry);
+
+const strands = domainEntry.data.strands ?? [];
+const gradeObjectives = domainEntry.data.grade_objectives ?? {};
+
+// Per strand: objectives across the K–12 ladder.
+const strandLadders = strands.map((s) => ({
+  strand: s,
+  objectives: objectivesForStrand(gradeObjectives, s.id ?? ''),
+}));
+
+const title = `${domainEntry.data.title} (${domainId})`;
+const pagefindFilters = [
+  'type:Standard',
+  `domain:${domainEntry.data.title}`,
+  ...(domainEntry.data.pillar ?? []).map((p) => `pillar:${pillarValue(p)}`),
+];
+---
+
+<BaseLayout title={title} description={domainEntry.data.description} pagefindFilters={pagefindFilters}>
+  <div class="container">
+    <Breadcrumbs
+      crumbs={[
+        { label: ui.nav.standards, href: '/standards/' },
+        { label: domainId },
+      ]}
+    />
+
+    <h1 class="page-title">{domainEntry.data.title}</h1>
+    <div class="badge-row">
+      <span class="badge">{domainId}</span>
+      {(domainEntry.data.pillar ?? []).map((p) => (
+        <span class={`badge badge--pillar-${p}`}>
+          {p}: {ui.pillarTitles[p] ?? p}
+        </span>
+      ))}
+    </div>
+    <p class="lede">{domainEntry.data.description}</p>
+    {domainEntry.data.rationale && <p class="prose">{domainEntry.data.rationale}</p>}
+
+    <h2 class="page-title" style="font-size:1.4rem; margin-top:2rem">{ui.common.verticalLadder}</h2>
+
+    {
+      strandLadders.map(({ strand, objectives }) => (
+        <div class="strand-block">
+          <h3 class="card__title" style="font-size:1.1rem">
+            <a href={strandPath(strand.id ?? '')}>
+              <span class="badge">{strand.id}</span> {strand.title}
+            </a>
+          </h3>
+          {strand.description && <p class="card__meta">{strand.description}</p>}
+          <ul class="ladder">
+            {objectives.map((o) => (
+              <li>
+                <span class="grade-key">{gradeKeyLabel(o.gradeKey)}</span>
+                <span class="obj-id">{o.id}</span>
+                <span>{o.text}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    }
+
+    <div class="prose prose--no-h1">
+      <Content />
+    </div>
+  </div>
+</BaseLayout>

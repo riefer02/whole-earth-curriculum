@@ -1,0 +1,123 @@
+/* ==========================================================================
+   NWO-EDU design tokens — the single place to tune the look.
+   Light theme lives in :root; dark theme overrides via [data-theme="dark"].
+
+   The head of BaseLayout sets `data-theme` on <html> (stored preference or
+   system), so these overrides are deterministic. A `color-scheme` is declared
+   so native controls/scrollbars follow along.
+
+   The palette follows docs/art-style.md (calm, warm, honest). Dark mode keeps
+   the same hue family, raised in value, never a pure black/white flip.
+   ========================================================================== */
+
+:root {
+  color-scheme: light;
+
+  /* Color — surfaces */
+  --paper: #fdfbf7;          /* page background (paper) */
+  --paper-soft: #f6f2e9;     /* cards, wells, code, badge chips */
+
+  /* Color — text */
+  --text: #222222;
+  --muted: #5a6064;
+
+  /* Color — brand */
+  --slate: #2b3a42;          /* headings, primary buttons, nav-active */
+  --secondary: #3f6d7a;      /* links, accents (darkened for AA) */
+  --accent-warm: #e0a458;
+  --accent-green: #7a9e7e;
+  --accent-blue: #6b93b6;
+
+  /* Color — structure */
+  --border: #e6e0d3;
+  --focus: #e0a458;
+
+  /* Color — pillars (decorative) + their AA-safe text variants */
+  --pillar-1: #c98a5a;
+  --pillar-2: #7a9e7e;
+  --pillar-3: #6b93b6;
+  --pillar-4: #8a7fae;
+  --pillar-1-text: #8a5a2e;
+  --pillar-2-text: #4c6b52;
+  --pillar-3-text: #3f6585;
+  --pillar-4-text: #5b527f;
+
+  /* Typography */
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, 'Noto Sans', 'Liberation Sans', sans-serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', 'Menlo', 'Consolas', monospace;
+  --text-base: 1.0625rem;    /* 17px — a touch larger for readability */
+  --leading: 1.65;
+  --maxw: 76rem;             /* page container */
+  --prosew: 70ch;            /* comfortable reading measure */
+
+  /* Shape & depth */
+  --radius: 0.5rem;
+  --shadow: 0 1px 3px rgba(43, 58, 66, 0.08), 0 1px 2px rgba(43, 58, 66, 0.06);
+  --transition: 150ms ease;
+
+  /* Pagefind search UI — themed from the same tokens. !important wins over the
+     defaults that pagefind-ui.css writes to :root. */
+  --pagefind-ui-scale: 1 !important;
+  --pagefind-ui-primary: var(--secondary) !important;
+  --pagefind-ui-text: var(--text) !important;
+  --pagefind-ui-background: var(--paper) !important;
+  --pagefind-ui-border: var(--border) !important;
+  --pagefind-ui-tag: var(--paper-soft) !important;
+  --pagefind-ui-font: var(--font-sans) !important;
+  --pagefind-ui-border-radius: var(--radius) !important;
+  --pagefind-ui-border-width: 1px !important;
+}
+
+/* ----------------------------------------------------------------------
+   Dark theme
+   ---------------------------------------------------------------------- */
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --paper: #171b1f;
+  --paper-soft: #20262c;
+
+  --text: #e6e1d8;
+  --muted: #9aa4ab;
+
+  --slate: #d4dde3;
+  --secondary: #8fb3c9;
+  --accent-warm: #e2a65c;
+  --accent-green: #8fb697;
+  --accent-blue: #82a6c7;
+
+  --border: #333a41;
+  --focus: #e2a65c;
+
+  --pillar-1: #d29a6b;
+  --pillar-2: #8fb697;
+  --pillar-3: #82a6c7;
+  --pillar-4: #9d94c0;
+  --pillar-1-text: #d7ab7f;
+  --pillar-2-text: #9cc3a4;
+  --pillar-3-text: #96b5d0;
+  --pillar-4-text: #b2a6d4;
+
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.4), 0 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+/* ----------------------------------------------------------------------
+   Print — force a clean, high-contrast light rendering regardless of theme.
+   Overriding the tokens (rather than individual rules) keeps it simple.
+   ---------------------------------------------------------------------- */
+@media print {
+  :root {
+    --paper: #ffffff;
+    --paper-soft: #ffffff;
+    --text: #000000;
+    --muted: #333333;
+    --slate: #000000;
+    --secondary: #000000;
+    --border: #999999;
+    --pillar-1-text: #000000;
+    --pillar-2-text: #000000;
+    --pillar-3-text: #000000;
+    --pillar-4-text: #000000;
+  }
+}

@@ -1,0 +1,116 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import { ui } from '../../../i18n';
+import { unitPath, domainPath } from '../../../lib/links';
+import { lessonsByUnit } from '../../../lib/data';
+import { buildDomainIndex } from '../../../lib/standards';
+import { gradeValue } from '../../../lib/filters';
+import { pad2, sortDomainIds } from '../../../lib/taxonomy';
+
+export async function getStaticPaths() {
+  const scopes = await getCollection('scopes');
+  return scopes
+    .filter((s) => typeof s.data.grade === 'number')
+    .map((s) => ({ params: { grade: pad2(s.data.grade as number) } }));
+}
+
+const grade = Number(Astro.params.grade);
+
+const [scopes, lessons, domains] = await Promise.all([
+  getCollection('scopes'),
+  getCollection('lessons'),
+  getCollection('domains'),
+]);
+
+const scope = scopes.find((s) => s.data.grade === grade);
+if (!scope) return Astro.redirect('/curriculum/');
+
+const lessonMap = lessonsByUnit(lessons);
+const domainIndex = buildDomainIndex(domains);
+const weighting = scope.data.domain_weighting ?? {};
+const weightingIds = sortDomainIds(Object.keys(weighting));
+const { Content } = await render(scope);
+
+const title = `${ui.gradeLabel(grade)}`;
+const description = scope.data.summary;
+const pagefindFilters = ['type:Scope', `grade:${gradeValue(grade)}`];
+---
+
+<BaseLayout title={title} description={description} pagefindFilters={pagefindFilters}>
+  <div class="container">
+    <Breadcrumbs
+      crumbs={[
+        { label: ui.nav.curriculum, href: '/curriculum/' },
+        { label: ui.gradeLabel(grade) },
+      ]}
+    />
+
+    <h1 class="page-title">{scope.data.year_title ?? ui.gradeLabel(grade)}</h1>
+    <p class="lede">{scope.data.summary}</p>
+
+    <div class="badge-row">
+      <span class="badge">{scope.data.total_school_days ?? 180} {ui.common.schoolDays}</span>
+      {scope.data.status && (
+        <span class={`badge badge--status-${scope.data.status}`}>
+          {ui.status[scope.data.status] ?? scope.data.status}
+        </span>
+      )}
+    </div>
+
+    <h2 class="section-label" style="font-size:1rem; text-transform:none; letter-spacing:0">
+      {ui.common.timeline}
+    </h2>
+    <ol class="timeline">
+      {
+        (scope.data.units ?? []).map((u) => (
+          <li>
+            <span class="days">
+              {u.start_day ?? ''}–{u.end_day ?? ''}
+            </span>
+            <a href={unitPath(u.unit_id ?? '')}>{u.title ?? u.unit_id}</a>
+            <span class="badge">
+              {lessonMap.get(u.unit_id ?? '')?.length ?? u.lesson_count ?? 0} {ui.common.lessons.toLowerCase()}
+            </span>
+          </li>
+        ))
+      }
+    </ol>
+
+    {
+      weightingIds.length > 0 && (
+        <>
+          <h2 class="section-label" style="font-size:1rem; text-transform:none; letter-spacing:0">
+            {ui.common.domainWeighting}
+          </h2>
+          <ul class="ladder">
+            {weightingIds.map((id) => (
+              <li>
+                <span class="obj-id">
+                  <a href={domainPath(id)}>{domainIndex.get(id) ?? id}</a>
+                </span>
+                <span style="flex:1">
+                  <span
+                    style={{
+                      display: 'inline-block',
+                      height: '0.6rem',
+                      width: `${Math.min(100, weighting[id] * 3)}%`,
+                      background: 'var(--accent-green)',
+                      borderRadius: '999px',
+                    }}
+                  />
+                </span>
+                <span class="grade-key">{weighting[id]}%</span>
+              </li>
+            ))}
+          </ul>
+        </>
+      )
+    }
+
+    <div class="prose prose--no-h1">
+      <Content />
+    </div>
+  </div>
+</BaseLayout>

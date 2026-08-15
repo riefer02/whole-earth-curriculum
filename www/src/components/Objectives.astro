@@ -1,0 +1,25 @@
+---
+import { ui } from '../i18n';
+
+interface Props {
+  objectives: Array<{ id: string; text: string }>;
+}
+
+const { objectives } = Astro.props;
+---
+
+{
+  objectives.length > 0 && (
+    <>
+      <p class="section-label">{ui.common.objectives}</p>
+      <ul class="objective-list">
+        {objectives.map((o) => (
+          <li>
+            <span class="obj-id">{o.id}</span>
+            <span>{o.text}</span>
+          </li>
+        ))}
+      </ul>
+    </>
+  )
+}

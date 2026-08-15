@@ -1,0 +1,235 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import BaseLayout from '../../../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
+import Objectives from '../../../../../components/Objectives.astro';
+import PrintButton from '../../../../../components/PrintButton.astro';
+import TableOfContents from '../../../../../components/TableOfContents.astro';
+import { ui } from '../../../../../i18n';
+import { gradePath, unitPath, lessonPath, domainPath } from '../../../../../lib/links';
+import { buildStandardMap, resolveObjectives, buildDomainIndex } from '../../../../../lib/standards';
+import { lessonsByUnit } from '../../../../../lib/data';
+import { gradeValue, pillarValue } from '../../../../../lib/filters';
+import { pad2 } from '../../../../../lib/taxonomy';
+
+export async function getStaticPaths() {
+  const lessons = await getCollection('lessons');
+  return lessons
+    .filter((l) => l.data.id)
+    .map((l) => {
+      const m = (l.data.id as string).match(/^L\.(\d+)\.(\d+)\.(\d+)$/);
+      return {
+        params: {
+          grade: pad2(m?.[1] ?? '0'),
+          unit: pad2(m?.[2] ?? '0'),
+          lesson: pad2(m?.[3] ?? '0'),
+        },
+      };
+    });
+}
+
+const { grade, unit, lesson } = Astro.params;
+const lessonId = `L.${grade}.${unit}.${lesson}`;
+const gradeNum = Number(grade);
+const unitId = `U.${grade}.${unit}`;
+
+const [lessonEntry, unitEntry, domains, lessons] = await Promise.all([
+  getEntry('lessons', lessonId),
+  getEntry('units', unitId),
+  getCollection('domains'),
+  getCollection('lessons'),
+]);
+
+if (!lessonEntry) return Astro.redirect('/curriculum/');
+
+const standardMap = buildStandardMap(domains);
+const objectives = resolveObjectives(lessonEntry.data.objectives, standardMap);
+const { Content } = await render(lessonEntry);
+
+const domainIndex = buildDomainIndex(domains);
+const unitLessons = lessonsByUnit(lessons).get(unitId) ?? [];
+const lessonIndex = unitLessons.findIndex((l) => l.data.id === lessonId);
+const prevLesson = lessonIndex > 0 ? unitLessons[lessonIndex - 1] : null;
+const nextLesson =
+  lessonIndex >= 0 && lessonIndex < unitLessons.length - 1
+    ? unitLessons[lessonIndex + 1]
+    : null;
+
+const pagefindFilters = [
+  'type:Lesson',
+  `grade:${gradeValue(gradeNum)}`,
+  ...(lessonEntry.data.domain ?? []).map((d) => `domain:${domainIndex.get(d) ?? d}`),
+  ...(lessonEntry.data.pillar ?? []).map((p) => `pillar:${pillarValue(p)}`),
+];
+
+const assets = lessonEntry.data.assets ?? [];
+const images = assets.filter((a) => (a.kind ?? 'image') === 'image');
+const otherAssets = assets.filter((a) => (a.kind ?? 'image') !== 'image');
+
+const materialTiers = [
+  { label: ui.common.standardMaterials, items: lessonEntry.data.materials },
+  { label: ui.common.lowTechMaterials, items: lessonEntry.data.materials_low_tech },
+  { label: ui.common.enrichedMaterials, items: lessonEntry.data.materials_enriched },
+];
+
+const title = `${ui.common.lesson} ${lesson} — ${lessonEntry.data.title}`;
+---
+
+<BaseLayout title={title} pagefindFilters={pagefindFilters}>
+  <div class="container">
+    <Breadcrumbs
+      crumbs={[
+        { label: ui.nav.curriculum, href: '/curriculum/' },
+        { label: ui.gradeLabel(gradeNum), href: gradePath(gradeNum) },
+        { label: `${ui.common.unit} ${unit}${unitEntry ? ` — ${unitEntry.data.title}` : ''}`, href: unitPath(unitId) },
+        { label: `${ui.common.lesson} ${lesson}` },
+      ]}
+    />
+
+    <div class="page-actions">
+      <PrintButton />
+    </div>
+
+    <h1 class="page-title">
+      {ui.common.lesson} {lesson} — {lessonEntry.data.title}
+    </h1>
+    {lessonEntry.data.summary && <p class="lede">{lessonEntry.data.summary}</p>}
+
+    <div class="badge-row">
+      {(lessonEntry.data.domain ?? []).map((d) => (
+        <a class="badge" href={domainPath(d)}>{d}</a>
+      ))}
+      {(lessonEntry.data.pillar ?? []).map((p) => (
+        <span class={`badge badge--pillar-${p}`}>
+          {p}: {ui.pillarTitles[p] ?? p}
+        </span>
+      ))}
+      {(lessonEntry.data.strand ?? []).map((s) => (
+        <span class="badge">{s}</span>
+      ))}
+      {lessonEntry.data.duration_minutes !== undefined && (
+        <span class="badge">{lessonEntry.data.duration_minutes} {ui.common.durationMinutes}</span>
+      )}
+      {lessonEntry.data.status && (
+        <span class={`badge badge--status-${lessonEntry.data.status}`}>
+          {ui.status[lessonEntry.data.status] ?? lessonEntry.data.status}
+        </span>
+      )}
+    </div>
+
+    <Objectives objectives={objectives} />
+
+    {lessonEntry.data.essential_question && (
+      <>
+        <p class="section-label">{ui.common.essentialQuestion}</p>
+        <p class="prose">{lessonEntry.data.essential_question}</p>
+      </>
+    )}
+
+    {
+      (lessonEntry.data.key_vocabulary ?? []).length > 0 && (
+        <div class="badge-row">
+          {lessonEntry.data.key_vocabulary!.map((v) => (
+            <span class="badge">{v}</span>
+          ))}
+        </div>
+      )
+    }
+
+    {
+      materialTiers.filter((t) => (t.items ?? []).length > 0).length > 0 && (
+        <>
+          <p class="section-label">{ui.common.materials}</p>
+          {
+            materialTiers.map((tier) => {
+              if (!(tier.items ?? []).length) return null;
+              return (
+                <>
+                  <p class="section-label" style="margin-top:0.6rem">{tier.label}</p>
+                  <ul class="materials">
+                    {tier.items!.map((m) => (
+                      <li>
+                        <span>{m.name}</span>
+                        {m.quantity && <span class="qty">· {m.quantity}</span>}
+                        {m.notes && <span class="notes">{m.notes}</span>}
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              );
+            })
+          }
+        </>
+      )
+    }
+
+    {
+      (lessonEntry.data.context_variants ?? []).length > 0 && (
+        <>
+          <p class="section-label">{ui.common.contextVariants}</p>
+          <ul class="materials">
+            {lessonEntry.data.context_variants!.map((c) => (
+              <li>
+                <span class="badge">{c.context}</span>
+                <span class="notes" style="flex-basis:auto">{c.note}</span>
+              </li>
+            ))}
+          </ul>
+        </>
+      )
+    }
+
+    {
+      images.length > 0 && (
+        <div style="margin: 1rem 0; display: grid; gap: 1rem">
+          {images.map((a) => (
+            <figure style="margin:0">
+              <img src={`/${a.path}`} alt={a.alt ?? ''} loading="lazy" />
+              {a.alt && <figcaption class="card__meta">{a.alt}</figcaption>}
+            </figure>
+          ))}
+        </div>
+      )
+    }
+
+    {
+      otherAssets.length > 0 && (
+        <>
+          <p class="section-label">{ui.common.materials}</p>
+          <ul class="materials">
+            {otherAssets.map((a) => (
+              <li>
+                <a href={`/${a.path}`}>{a.path}</a>
+              </li>
+            ))}
+          </ul>
+        </>
+      )
+    }
+
+    <TableOfContents />
+
+    <div class="prose prose--no-h1" data-content>
+      <Content />
+    </div>
+
+    <nav class="prevnext" aria-label={ui.common.lessons}>
+      {prevLesson ? (
+        <a class="prevnext__link prevnext__link--prev" href={lessonPath(prevLesson.data.id ?? '')}>
+          <span class="prevnext__dir">← {ui.common.previous}</span>
+          <span class="prevnext__title">{prevLesson.data.title}</span>
+        </a>
+      ) : (
+        <span></span>
+      )}
+      {nextLesson ? (
+        <a class="prevnext__link prevnext__link--next" href={lessonPath(nextLesson.data.id ?? '')}>
+          <span class="prevnext__dir">{ui.common.next} →</span>
+          <span class="prevnext__title">{nextLesson.data.title}</span>
+        </a>
+      ) : (
+        <span></span>
+      )}
+    </nav>
+  </div>
+</BaseLayout>

@@ -1,0 +1,80 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
+import { ui } from '../../../../i18n';
+import { domainPath } from '../../../../lib/links';
+import { pillarValue } from '../../../../lib/filters';
+import { gradeKeyLabel, objectivesForStrand } from '../../../../lib/standards';
+
+export async function getStaticPaths() {
+  const domains = await getCollection('domains');
+  const paths: Array<{ params: { domain: string; strand: string } }> = [];
+  for (const d of domains) {
+    if (!d.id) continue;
+    for (const s of d.data.strands ?? []) {
+      if (!s.id) continue;
+      const strandSlug = s.id.split('.')[1]?.toLowerCase() ?? '';
+      paths.push({ params: { domain: d.id.toLowerCase(), strand: strandSlug } });
+    }
+  }
+  return paths;
+}
+
+const { domain: domainSlug, strand: strandSlug } = Astro.params;
+const domainId = (domainSlug ?? '').toUpperCase();
+const strandId = `${domainId}.${(strandSlug ?? '').toUpperCase()}`;
+
+const domainEntry = await getEntry('domains', domainId);
+if (!domainEntry) return Astro.redirect('/standards/');
+
+const strand = (domainEntry.data.strands ?? []).find((s) => s.id === strandId);
+if (!strand) return Astro.redirect(domainPath(domainId));
+
+const objectives = objectivesForStrand(
+  domainEntry.data.grade_objectives ?? {},
+  strandId,
+);
+
+const title = `${strandId} — ${strand.title}`;
+const pagefindFilters = [
+  'type:Standard',
+  `domain:${domainEntry.data.title}`,
+  `strand:${strand.title}`,
+  ...(domainEntry.data.pillar ?? []).map((p) => `pillar:${pillarValue(p)}`),
+];
+---
+
+<BaseLayout title={title} description={strand.description} pagefindFilters={pagefindFilters}>
+  <div class="container">
+    <Breadcrumbs
+      crumbs={[
+        { label: ui.nav.standards, href: '/standards/' },
+        { label: `${domainId} — ${domainEntry.data.title}`, href: domainPath(domainId) },
+        { label: strandId },
+      ]}
+    />
+
+    <h1 class="page-title">{strand.title}</h1>
+    <div class="badge-row">
+      <span class="badge">{strandId}</span>
+      {(domainEntry.data.pillar ?? []).map((p) => (
+        <span class={`badge badge--pillar-${p}`}>
+          {p}: {ui.pillarTitles[p] ?? p}
+        </span>
+      ))}
+    </div>
+    <p class="lede">{strand.description}</p>
+
+    <h2 class="page-title" style="font-size:1.4rem; margin-top:2rem">{ui.common.verticalLadder}</h2>
+    <ul class="ladder">
+      {objectives.map((o) => (
+        <li>
+          <span class="grade-key">{gradeKeyLabel(o.gradeKey)}</span>
+          <span class="obj-id">{o.id}</span>
+          <span>{o.text}</span>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

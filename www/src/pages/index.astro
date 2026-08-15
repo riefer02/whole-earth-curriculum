@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { ui } from '../i18n';
+import { PILLAR_IDS } from '../lib/taxonomy';
+import { gradePath } from '../lib/links';
+
+const title = ui.site.name;
+const grades = Array.from({ length: 13 }, (_, i) => i);
+---
+
+<BaseLayout title={title}>
+  <section class="hero">
+    <div class="container">
+      <p class="hero__kicker">{ui.home.heroKicker}</p>
+      <h1 class="hero__title">{ui.home.heroTitle}</h1>
+      <p class="hero__subtitle">{ui.home.heroSubtitle}</p>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="/curriculum/">{ui.home.browseCurriculum}</a>
+        <a class="btn btn--ghost" href="/standards/">{ui.home.browseStandards}</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{ui.home.browseByGrade}</h2>
+      <p class="lede">Jump straight to a grade level.</p>
+      <div class="grades-nav">
+        {
+          grades.map((g) => (
+            <a class="grades-nav__item" href={gradePath(g)}>
+              {ui.gradeLabel(g)}
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{ui.home.pillarsTitle}</h2>
+      <p class="lede">{ui.home.pillarsIntro}</p>
+      <div class="pillars">
+        {
+          PILLAR_IDS.map((id) => (
+            <a class={`pillar pillar--${id}`} href="/standards/">
+              <span class="pillar__id">{id}</span>
+              <h3>{ui.pillarTitles[id]}</h3>
+              <p>{ui.pillarQuestions[id]}</p>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{ui.home.valuesTitle}</h2>
+      <ul class="prose" style="max-width: var(--prosew)">
+        {ui.home.values.map((v) => <li>{v}</li>)}
+      </ul>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{ui.home.howTitle}</h2>
+      <ol class="prose" style="max-width: var(--prosew)">
+        {ui.home.howSteps.map((s) => <li>{s}</li>)}
+      </ol>
+    </div>
+  </section>
+</BaseLayout>

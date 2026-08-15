@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+import { domainPath } from '../../lib/links';
+
+const domains = await getCollection('domains');
+domains.sort((a, b) => (a.id ?? '').localeCompare(b.id ?? ''));
+---
+
+<BaseLayout title={`${ui.nav.standards} · ${ui.site.short}`}>
+  <div class="container">
+    <h1 class="page-title">{ui.common.domainIndex}</h1>
+    <p class="lede">
+      Ten domains, each anchored to a pillar and organized into strands that
+      spiral from Kindergarten to Grade 12. Every lesson traces back to here.
+    </p>
+
+    <div class="grid" style="margin-top: 1.5rem">
+      {
+        domains.map((d) => (
+          <a class="card" href={domainPath(d.id ?? '')}>
+            <p class="card__meta" style="margin-bottom:0.35rem">{d.id}</p>
+            <h2 class="card__title">{d.data.title}</h2>
+            <div class="badge-row" style="margin-block:0.5rem">
+              {(d.data.pillar ?? []).map((p) => (
+                <span class={`badge badge--pillar-${p}`}>{p}</span>
+              ))}
+              <span class="badge">{(d.data.strands ?? []).length} {ui.common.strands.toLowerCase()}</span>
+            </div>
+            {d.data.description && <p class="card__meta">{d.data.description}</p>}
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</BaseLayout>

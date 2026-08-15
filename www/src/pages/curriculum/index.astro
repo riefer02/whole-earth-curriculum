@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+import { gradePath, unitPath } from '../../lib/links';
+import { scopeByGrade } from '../../lib/data';
+
+const scopes = await getCollection('scopes');
+const scopeMap = scopeByGrade(scopes);
+
+const grades = Array.from({ length: 13 }, (_, i) => i);
+---
+
+<BaseLayout title={`${ui.nav.curriculum} · ${ui.site.short}`}>
+  <div class="container">
+    <h1 class="page-title">{ui.nav.curriculum}</h1>
+    <p class="lede">
+      {ui.site.name} spans Kindergarten through Grade 12, each grade a
+      continuous school year built from ordered units and daily lessons.
+    </p>
+
+    <div class="grade-index">
+      {
+        grades.map((grade) => {
+          const scope = scopeMap.get(grade);
+          const gradeUnits = scope?.data.units ?? [];
+          return (
+            <section class="grade-index__grade">
+              <h2 class="grade-index__heading">
+                {scope ? (
+                  <a href={gradePath(grade)}>{ui.gradeLabel(grade)}</a>
+                ) : (
+                  <span>{ui.gradeLabel(grade)}</span>
+                )}
+              </h2>
+              {scope ? (
+                <ul class="grade-index__units">
+                  {gradeUnits.map((u) => (
+                    <li>
+                      <a href={unitPath(u.unit_id ?? '')}>{u.title ?? u.unit_id}</a>
+                    </li>
+                  ))}
+                </ul>
+              ) : (
+                <p class="card__meta">{ui.common.notYetAuthored}</p>
+              )}
+            </section>
+          );
+        })
+      }
+    </div>
+  </div>
+</BaseLayout>

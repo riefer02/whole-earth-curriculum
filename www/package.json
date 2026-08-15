@@ -1,0 +1,27 @@
+{
+  "name": "nwo-edu-www",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Static website for New World Order Education, rendered from the curriculum content source of truth.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "postbuild": "pagefind --site dist",
+    "preview": "astro preview",
+    "check": "astro check",
+    "prebuild": "node scripts/check-assets.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.4.1",
+    "astro": "^7.2.2"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "pagefind": "^1.5.2",
+    "typescript": "^5.7.3"
+  }
+}

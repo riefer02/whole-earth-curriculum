@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+import { docPath } from '../../lib/links';
+import { docTitle, DOC_ORDER } from '../../lib/docs';
+
+const docs = await getCollection('docs');
+const bySlug = new Map(docs.map((d) => [d.id, d]));
+
+const ordered = DOC_ORDER.map((slug) => ({ slug, entry: bySlug.get(slug) }))
+  .filter((x) => x.entry)
+  .concat(
+    docs
+      .filter((d) => !DOC_ORDER.includes(d.id))
+      .map((d) => ({ slug: d.id, entry: d })),
+  );
+---
+
+<BaseLayout title={`${ui.nav.docs} · ${ui.site.short}`}>
+  <div class="container">
+    <h1 class="page-title">{ui.nav.docs}</h1>
+    <p class="lede">
+      The canonical reference documents that define the vision, philosophy,
+      taxonomy, and architecture of the curriculum.
+    </p>
+
+    <div class="grid" style="margin-top: 1.5rem">
+      {
+        ordered.map(({ slug, entry }) => (
+          <a class="card" href={docPath(slug)}>
+            <h2 class="card__title">{docTitle(entry?.body, slug)}</h2>
+            <p class="card__meta">{slug}.md</p>
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,34 @@
+---
+import { ui } from '../i18n';
+
+interface Props {
+  // Selector for the element whose h2/h3 headings become the table of contents.
+  // Content containers are tagged with `data-content`.
+  source?: string;
+}
+
+const { source = '[data-content]' } = Astro.props;
+---
+
+<nav class="toc" data-toc data-source={source} aria-label={ui.common.onThisPage}>
+  <p class="toc__title">{ui.common.onThisPage}</p>
+  <ul class="toc__list"></ul>
+</nav>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-toc]').forEach((toc) => {
+    const src = document.querySelector(toc.dataset.source || '[data-content]');
+    const list = toc.querySelector('.toc__list');
+    if (!src || !list) return;
+    src.querySelectorAll('h2[id], h3[id]').forEach((heading) => {
+      const item = document.createElement('li');
+      item.className =
+        heading.tagName === 'H3' ? 'toc__item toc__item--sub' : 'toc__item';
+      const link = document.createElement('a');
+      link.href = `#${heading.id}`;
+      link.textContent = heading.textContent;
+      item.appendChild(link);
+      list.appendChild(item);
+    });
+  });
+</script>

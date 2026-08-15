@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { ui } from '../i18n';
+---
+
+<BaseLayout title="404">
+  <div class="container">
+    <h1 class="page-title">404</h1>
+    <p class="lede">That page does not exist.</p>
+    <p>
+      <a href="/curriculum/">{ui.home.browseCurriculum}</a> ·{' '}
+      <a href="/standards/">{ui.home.browseStandards}</a>
+    </p>
+  </div>
+</BaseLayout>

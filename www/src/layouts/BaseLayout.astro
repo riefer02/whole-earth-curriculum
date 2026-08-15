@@ -1,0 +1,233 @@
+---
+import '../styles/tokens.css';
+import '../styles/global.css';
+import { ui } from '../i18n';
+
+interface Props {
+  title: string;
+  description?: string;
+  pagefindFilters?: string[];
+}
+
+const { title, description, pagefindFilters } = Astro.props;
+const desc = description ?? ui.site.description;
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const pathname = Astro.url.pathname;
+
+const navItems = [
+  { href: '/', label: ui.nav.home },
+  { href: '/curriculum/', label: ui.nav.curriculum },
+  { href: '/standards/', label: ui.nav.standards },
+  { href: '/docs/', label: ui.nav.docs },
+  { href: '/docs/vision/', label: ui.nav.about },
+  { href: '/search/', label: ui.nav.search },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} · {ui.site.short}</title>
+    <meta name="description" content={desc} />
+    {canonical && <link rel="canonical" href={canonical} />}
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:type" content="website" />
+    {canonical && <meta property="og:url" content={canonical} />}
+    <meta name="generator" content={Astro.generator} />
+    <slot name="head" />
+    <script is:inline>
+      // Apply theme before first paint to avoid a flash. Respects a stored
+      // choice, then falls back to the system preference.
+      (() => {
+        try {
+          const stored = localStorage.getItem('nwo-theme');
+          const theme =
+            stored ||
+            (window.matchMedia('(prefers-color-scheme: dark)').matches
+              ? 'dark'
+              : 'light');
+          document.documentElement.setAttribute('data-theme', theme);
+        } catch {
+          document.documentElement.setAttribute('data-theme', 'light');
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    {pagefindFilters?.map((f) => <span data-pagefind-filter={f} hidden></span>)}
+    <a class="skip-link" href="#main">{ui.nav.skipToContent}</a>
+    <header class="site-header">
+      <div class="container site-header__inner">
+        <a class="brand" href="/">
+          <span class="brand__name">{ui.site.name}</span>
+          <span class="brand__short">{ui.site.short}</span>
+        </a>
+        <div class="site-header__tools">
+          <form class="header-search" action="/search/" method="get" role="search">
+            <label class="sr-only" for="header-search-input">{ui.nav.search}</label>
+            <input
+              id="header-search-input"
+              type="search"
+              name="q"
+              placeholder={ui.search.shortPlaceholder}
+              autocomplete="off"
+            />
+          </form>
+          <nav class="site-nav" aria-label="Primary">
+            {
+              navItems.map((item) => (
+                <a
+                  href={item.href}
+                  aria-current={pathname === item.href ? 'page' : undefined}
+                >
+                  {item.label}
+                </a>
+              ))
+            }
+          </nav>
+          <button
+            type="button"
+            class="theme-toggle"
+            data-theme-toggle
+            data-label-dark={ui.nav.themeToDark}
+            data-label-light={ui.nav.themeToLight}
+            aria-label={ui.nav.theme}
+          >
+            <svg
+              class="icon-sun"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+            <svg
+              class="icon-moon"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+          </button>
+          <details class="mobile-nav">
+            <summary class="mobile-nav__toggle" aria-label={ui.nav.menu}>
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+              </svg>
+            </summary>
+            <div class="mobile-nav__panel">
+              <nav aria-label="Primary">
+                {
+                  navItems.map((item) => (
+                    <a
+                      href={item.href}
+                      aria-current={pathname === item.href ? 'page' : undefined}
+                    >
+                      {item.label}
+                    </a>
+                  ))
+                }
+              </nav>
+            </div>
+          </details>
+        </div>
+      </div>
+    </header>
+    <main id="main" class="site-main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container site-footer__inner">
+        <div>
+          <p class="site-footer__brand">{ui.site.name}</p>
+          <p>{ui.footer.tagline}</p>
+        </div>
+        <nav class="site-footer__nav" aria-label="Footer">
+          {
+            navItems.map((item) => (
+              <a href={item.href}>{item.label}</a>
+            ))
+          }
+        </nav>
+      </div>
+      <div class="container site-footer__legal">
+        <p>{ui.footer.license}</p>
+      </div>
+    </footer>
+    <script is:inline>
+      // "/" focuses the header search input (unless typing elsewhere).
+      document.addEventListener('keydown', (event) => {
+        const target = event.target;
+        const el = target instanceof Element ? target : null;
+        const isTyping =
+          el &&
+          (el.closest('input, textarea, [contenteditable]') ||
+            el.tagName === 'SELECT');
+        if (event.key === '/' && !isTyping) {
+          const input = document.getElementById('header-search-input');
+          if (input) {
+            event.preventDefault();
+            input.focus();
+          }
+        }
+      });
+    </script>
+    <script is:inline>
+      // Theme toggle: keep label and stored preference in sync.
+      (() => {
+        const btn = document.querySelector('[data-theme-toggle]');
+        if (!btn) return;
+        const labels = {
+          dark: { next: 'light', label: btn.dataset.labelLight },
+          light: { next: 'dark', label: btn.dataset.labelDark },
+        };
+        const sync = () => {
+          const current =
+            document.documentElement.getAttribute('data-theme') || 'light';
+          btn.setAttribute('aria-label', labels[current].label);
+        };
+        btn.addEventListener('click', () => {
+          const current =
+            document.documentElement.getAttribute('data-theme') || 'light';
+          const next = labels[current].next;
+          document.documentElement.setAttribute('data-theme', next);
+          try {
+            localStorage.setItem('nwo-theme', next);
+          } catch {}
+          sync();
+        });
+        sync();
+      })();
+    </script>
+  </body>
+</html>

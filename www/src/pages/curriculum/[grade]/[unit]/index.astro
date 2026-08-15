@@ -1,0 +1,149 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
+import Objectives from '../../../../components/Objectives.astro';
+import PrintButton from '../../../../components/PrintButton.astro';
+import { ui } from '../../../../i18n';
+import { gradePath, lessonPath, domainPath } from '../../../../lib/links';
+import { lessonsByUnit } from '../../../../lib/data';
+import { buildStandardMap, resolveObjectives, buildDomainIndex } from '../../../../lib/standards';
+import { gradeValue, pillarValue } from '../../../../lib/filters';
+import { pad2 } from '../../../../lib/taxonomy';
+
+export async function getStaticPaths() {
+  const units = await getCollection('units');
+  return units
+    .filter((u) => typeof u.data.grade === 'number' && u.data.id)
+    .map((u) => {
+      const m = (u.data.id as string).match(/^U\.(\d+)\.(\d+)$/);
+      return {
+        params: { grade: pad2(u.data.grade as number), unit: pad2(m?.[2] ?? '0') },
+      };
+    });
+}
+
+const { grade, unit } = Astro.params;
+const unitId = `U.${grade}.${unit}`;
+const gradeNum = Number(grade);
+
+const [unitEntry, lessons, domains] = await Promise.all([
+  getEntry('units', unitId),
+  getCollection('lessons'),
+  getCollection('domains'),
+]);
+
+if (!unitEntry) return Astro.redirect('/curriculum/');
+
+const lessonMap = lessonsByUnit(lessons);
+const unitLessons = lessonMap.get(unitId) ?? [];
+const standardMap = buildStandardMap(domains);
+const objectives = resolveObjectives(unitEntry.data.objectives, standardMap);
+const { Content } = await render(unitEntry);
+
+const domainIndex = buildDomainIndex(domains);
+const pagefindFilters = [
+  'type:Unit',
+  `grade:${gradeValue(gradeNum)}`,
+  ...(unitEntry.data.domain ?? []).map((d) => `domain:${domainIndex.get(d) ?? d}`),
+  ...(unitEntry.data.pillar ?? []).map((p) => `pillar:${pillarValue(p)}`),
+];
+
+const title = `${ui.common.unit} ${unit} — ${unitEntry.data.title}`;
+---
+
+<BaseLayout title={title} pagefindFilters={pagefindFilters}>
+  <div class="container">
+    <Breadcrumbs
+      crumbs={[
+        { label: ui.nav.curriculum, href: '/curriculum/' },
+        { label: ui.gradeLabel(gradeNum), href: gradePath(gradeNum) },
+        { label: `${ui.common.unit} ${unit}` },
+      ]}
+    />
+
+    <div class="page-actions">
+      <PrintButton />
+    </div>
+
+    <h1 class="page-title">{unitEntry.data.title}</h1>
+    {unitEntry.data.summary && <p class="lede">{unitEntry.data.summary}</p>}
+
+    <div class="badge-row">
+      {(unitEntry.data.domain ?? []).map((d) => (
+        <a class="badge" href={domainPath(d)}>{d}</a>
+      ))}
+      {(unitEntry.data.pillar ?? []).map((p) => (
+        <span class={`badge badge--pillar-${p}`}>
+          {p}: {ui.pillarTitles[p] ?? p}
+        </span>
+      ))}
+      {unitEntry.data.duration_weeks !== undefined && (
+        <span class="badge">{unitEntry.data.duration_weeks} wk</span>
+      )}
+      {unitEntry.data.status && (
+        <span class={`badge badge--status-${unitEntry.data.status}`}>
+          {ui.status[unitEntry.data.status] ?? unitEntry.data.status}
+        </span>
+      )}
+    </div>
+
+    <Objectives objectives={objectives} />
+
+    {
+      (unitEntry.data.essential_questions ?? []).length > 0 && (
+        <>
+          <p class="section-label">{ui.common.essentialQuestions}</p>
+          <ul class="prose" style="max-width: var(--prosew)">
+            {unitEntry.data.essential_questions!.map((q) => (
+              <li>{q}</li>
+            ))}
+          </ul>
+        </>
+      )
+    }
+
+    {
+      (unitEntry.data.big_ideas ?? []).length > 0 && (
+        <>
+          <p class="section-label">{ui.common.bigIdeas}</p>
+          <ul class="prose" style="max-width: var(--prosew)">
+            {unitEntry.data.big_ideas!.map((b) => (
+              <li>{b}</li>
+            ))}
+          </ul>
+        </>
+      )
+    }
+
+    {
+      unitLessons.length > 0 && (
+        <>
+          <p class="section-label">{ui.common.lessons}</p>
+          <ol class="timeline">
+            {unitLessons.map((l) => (
+              <li>
+                <span class="days">{l.data.sequence_in_unit ?? ''}</span>
+                <a href={lessonPath(l.data.id ?? '')}>{l.data.title ?? l.data.id}</a>
+                {l.data.duration_minutes !== undefined && (
+                  <span class="badge">{l.data.duration_minutes} {ui.common.durationMinutes}</span>
+                )}
+              </li>
+            ))}
+          </ol>
+        </>
+      )
+    }
+
+    {unitEntry.data.assessment_plan && (
+      <>
+        <p class="section-label">{ui.common.assessmentPlan}</p>
+        <p class="prose">{unitEntry.data.assessment_plan}</p>
+      </>
+    )}
+
+    <div class="prose prose--no-h1">
+      <Content />
+    </div>
+  </div>
+</BaseLayout>

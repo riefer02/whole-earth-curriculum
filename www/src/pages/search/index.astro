@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+---
+
+<BaseLayout title={ui.search.title}>
+  <Fragment slot="head">
+    <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  </Fragment>
+
+  <div class="container container--prose">
+    <h1 class="page-title">{ui.search.title}</h1>
+    <p class="lede">{ui.search.intro}</p>
+    <div
+      id="search"
+      class="search-root"
+      data-placeholder={ui.search.placeholder}
+      data-zero-results={ui.search.zeroResults}
+    >
+    </div>
+    <p class="note" style="margin-top: 2rem">{ui.search.hint}</p>
+  </div>
+
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    (() => {
+      if (typeof PagefindUI === 'undefined') return;
+      const el = document.getElementById('search');
+      const search = new PagefindUI({
+        element: '#search',
+        showSubResults: true,
+        openFilters: ['type', 'grade'],
+        translations: {
+          placeholder: el.dataset.placeholder,
+          zero_results: el.dataset.zeroResults,
+        },
+      });
+      const q = new URLSearchParams(window.location.search).get('q');
+      if (q) search.triggerSearch(q);
+    })();
+  </script>
+</BaseLayout>
