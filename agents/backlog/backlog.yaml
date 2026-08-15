@@ -513,11 +513,30 @@ items:
     type: lesson
     grade: 0
     domain: D07
-    status: ready
+    status: done
     priority: 7
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (113 files). IDs L.00.007.01-.10 sequential, sequence_in_unit 1-10; required headings in all 10. Objectives resolve only to D07.S1/S2/S3/S4.K.01 (S1 01-03, S2 04-05, S3 06-08, S4 09, capstone 10 all four; verbatim-faithful to domain.md). Process-over-product: 'praise effort and curiosity not correctness', 'no wrong way to move', 'no best pieces'. Connections concrete/faithful (L09 homes/bridges/boats from local materials worldwide). unit.md table lists all 10."
+      fact-checker:
+        verdict: passed
+        note: Verified 10 lessons + unit.md. Arts/process unit, no scientific/historical/medical claims requiring citation. Near-factual statements are generic anthropological framing (people everywhere make pictures/weavings/carvings; clap and dance; build homes/bridges/boats from wood/stone/clay/reeds) — value/egalitarian framing not testable facts. Animal movements common-knowledge accurate. No citations anywhere (no fabricated refs); Resources omission acceptable. Standard IDs resolve to domain-07. No changes. validate passes (113 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons + unit.md. No Euro/US default: all Connections global ('people everywhere', 'in every corner of the world'); art forms universal (drawing/weaving/carving/singing/clapping/drumming/dancing/building); materials low-tech global (sand/soil/leaves/reeds/clay/cloth/stones). No fine-art-vs-craft ranking ('celebrate all four kinds equally', 'never rank whose animal is best'). No specific tradition named (age-appropriate), nothing stereotyped. S3 animals global with 'local/well-known' directive; characters universal archetypes, facilitator 'story from any culture told respectfully'; music/dance body percussion + work songs. Non-blocking: L2 'talking stick' could rename 'turn marker' to avoid co-opting Indigenous practice."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. Low-tech universal (body/voice/found objects; devices enriched-only). Non-speaking honored ('art does not require words', pointing counts, watching/copying full participation). context_variants all five. No assets fields. Fixes: seated/adapted differentiation to movement L6/L7/L8 ('every animal works from a chair', 'character lives in face/voice/hands', 'dance entirely from a chair') + chair-inviting facilitator line L6; deaf/HH vibration+visible-rhythm paths to L4/L5 ('feel the beat by resting hand on drum/tabletop/floor'); non-visual/tactile paths to S1 (L2 touch-based describing, L3 sound/touch textured-picture alternative). validate passes (113 files). Non-blocking: L2 'talking stick'→'turn marker'; L2/L3 could add tactile/sound sibling activity; L4 title centers singing."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified: objectives resolve to D07.S1/S2/S3/S4.K.01 (L01-03 S1, L04-05 S2, L06-08 S3, L09 S4, L10 all four); domain:[D07] pillar:[P3] on all; D07 anchors P3 in taxonomy. Lenses: ethics (praise effort not correctness, no wrong way), egalitarianism (no good/bad art, every culture's art honored), global (people everywhere, no Euro/US default), environment (found materials leaves/sticks/stones/mud/reeds). Evidence vs values: no factual claims needing citation; 'art is a voice' clearly value. Fix: renamed 'talking stick'→'turn marker' throughout lesson 2 (avoid co-opting Indigenous practice). validate passes (113 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 K lessons vs K-2 band. Cognitive fit: concrete play-based (mark-making/describing/rhythm-echo/animal movement/character pretend/open building); abstract anchored to hands/voice/body; no premature technique/notation, 'closeness to the beat grows'; imagination invited not performance-forced. Emotional safety: process-over-product consistent ('no right way', 'never ask what it is supposed to be', 'never rank whose animal is best', 'never correct a dance', 'no best pieces'); pointing/gesture full answers; L7 'never push shy learner to perform, watching is full participation'. Physical: big/fine motor abundant; every movement lesson has Seated/adapted path, music has Deaf/HH vibration path. Not dumbed down (open questions, learner-invented); learner as agent. No edits. validate passes (113 files). Non-blocking: L10 'everyone claps for everyone' could soften; keep assessment non-evaluative."
   - id: B-046
     title: Author lessons for Unit U.00.008 (Moving & Growing)
     agent: lesson-author

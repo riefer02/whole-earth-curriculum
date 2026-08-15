@@ -27,9 +27,9 @@ duration_weeks: 3
 assessment_plan: >-
   Observation of making, singing, and pretend play; a self-chosen artwork and a
   built object as portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 7 — Making & Imagining
@@ -51,6 +51,13 @@ making is honored as worthy of attention and story.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| L.00.007.01 | Making with Many Materials | D07.S1.K.01 |
+| L.00.007.02 | Describing What I Made | D07.S1.K.01 |
+| L.00.007.03 | Art Is a Voice | D07.S1.K.01 |
+| L.00.007.04 | Singing and Clapping | D07.S2.K.01 |
+| L.00.007.05 | How Music Feels | D07.S2.K.01 |
+| L.00.007.06 | Moving Like Animals | D07.S3.K.01 |
+| L.00.007.07 | Pretending to Be a Character | D07.S3.K.01 |
+| L.00.007.08 | Moving to Music | D07.S3.K.01 |
+| L.00.007.09 | Building Something | D07.S4.K.01 |
+| L.00.007.10 | Making & Imagining | D07.S1.K.01, D07.S2.K.01, D07.S3.K.01, D07.S4.K.01 |
