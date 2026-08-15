@@ -633,11 +633,30 @@ items:
     type: lesson
     grade: 0
     domain: D09
-    status: ready
+    status: done
     priority: 11
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (151 files). IDs L.00.011.01-.08 sequential, sequence_in_unit 1-8; headings present. Objectives resolve only to D09.S1/S2/S3/S4.K.01 (verified domain-09; S1 L01-02, S2 L03-04, S3 L05-06, S4 L07, L08 all four; text verbatim). Ethics as questions not rules (L03 'not a rule to obey but a question to explore together'); restorative not punitive (L07 'repair not punishment'); no good/bad-child labeling (L01 'describe the act'). Connections concrete/faithful (L04 tall/small stools equity-not-equality). unit.md table lists all 8.
+      fact-checker:
+        verdict: passed
+        note: "Verified both URLs live/on-topic: CASEL fundamentals (S-001, added D09 domain) and IIRP Graduate School https://www.iirp.edu/ (real restorative-practices org, Bethlehem PA). Only L01 (CASEL) + L07 (IIRP) carry Resources; lessons 2-6/8 none, no fabricated citations. Content values/SEL ('fair means everyone gets a turn', equity-vs-equality, repair-not-punishment) framed as values not facts; evidence/values distinguished. Registered IIRP as S-022 (D09, reviewed:true); added D09 to S-001. validate passes (151 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 8 lessons. Fairness/caring/justice universal not one culture's rules ('everyone in every part of the world knows that feeling'); examples span world (sharing food, carrying for neighbor, 'pets, livestock, or wild neighbors' avoids pet-centrism, 'village decides where to put a well', family/class/village jobs). No hierarchy ('none is the right way', 'avoid ranking'); right/wrong as questions. Equity gentle (L4 'same amount' honored as one way, 'what each needs' held as question, respects individualist+collectivist norms). Repair universal (L7). Fix: added acknowledgment to L4/L5 that passing/talking object echoes Indigenous talking circles, used respectfully not as decoration. validate passes (151 files). Non-blocking: L7 IIRP could note restorative echoes Indigenous/communal traditions (ubuntu, talking circles); L1/L3 Connection could name non-Western scene (common pot, water queue)."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 8 lessons. Fixes: L7 'words to solve' → say/sign/point to picture strip/communication board/grown-up voicing, deaf/HH + low-vision notes, motor alternative (point/direct partner). L5 'hear every voice' → point/tap/sign/nod/eye-gaze/board, non-motor passing object + hand-raising. L4 partner-passes-for-you + say/sign/point. L6 limited-movement (choose/direct job), 'say or show' assessment. materials_low_tech all 8; contexts all three; no assets. validate passes (151 files). Non-blocking: L1-L3 'tell a partner'/'say why' could add 'or point to the card'."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: U.00.011 → D09 → P4; all 8 lessons domain:[D09] pillar:[P4]; objectives resolve to D09.S1/S2/S3/S4.K.01 (verbatim in domain-09); strand mapping L1-2 S1, L3-4 S2, L5-6 S3, L7 S4, L8 all four. Lenses: ethics (repair not punishment, no good/bad-child labeling), egalitarianism (fairness-as-equity L4 held alongside equality as question), global (universal fairness, no pet-centrism, talking-circle acknowledgment), environment where natural (L2/L6), tech correctly absent. Evidence vs values: CASEL/IIRP cited as frameworks not factual claims; fairness-as-equity is value. No hierarchy (anti-ranking, contributions not rewards). Fixes: added egalitarianism to L7 lenses + global to L4 (body already carried). validate passes (151 files). Non-blocking: L6/L8 global weak in tag; L7 IIRP could note Indigenous/communal roots."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 8 K lessons vs K-2 band. Cognitive fit: fairness concrete (sharing/turns/jobs/real decision); equity-not-equality L4 gentle (same-amount honored as one way, what-you-need as question, stool-and-window anchor). Emotional safety: no good/bad-child labeling (name the act not child); L7 blame-free restorative (repair not punishment, asking for help is strength); L6 jobs as contributions not rewards; L5 softened toward consensus (not raw majority-wins). Physical: acting/role-play/passing object/real jobs; inclusion thorough (non-speaking sign/point/eye-gaze/board, limited-movement partner, deaf/HH + blind/low-vision, never force speaking). Not dumbed down (real decision-making; learner authors kind/fair pages). No changes. validate passes (151 files). Non-blocking: status:draft vs unit review sync; L3 'being left out' tender — hold gently for children experiencing exclusion."
   - id: B-050
     title: Author lessons for Unit U.00.012 (Tools, Media & Our Earth Home)
     agent: lesson-author

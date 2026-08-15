@@ -7,9 +7,9 @@ sources:
     type: website
     url: https://casel.org/fundamentals-of-sel/
     organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
-    domains: [D01, D02, D04]
+    domains: [D01, D02, D04, D09]
     reviewed: true
-    notes: Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04).
+    notes: Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04) and in D09 kindness/caring (U.00.011 L01).
 
   - id: S-002
     title: NASA — The Big Bang
@@ -199,3 +199,12 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in L.00.009.02 (The Changing Sky) as a kid-friendly space/sky reference. Live homepage with Sun, Moon, Earth, Solar System, and Universe menus; includes Moon phases, skywatching tips, and Earth/Sun explainers. On-topic and authoritative for age-appropriate sky observation."
+
+  - id: S-022
+    title: International Institute for Restorative Practices (IIRP)
+    type: website
+    url: https://www.iirp.edu/
+    organization: IIRP Graduate School (International Institute for Restorative Practices)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.00.011 L07 (solving a small disagreement / making it right). IIRP Graduate School, Bethlehem, PA — the field's graduate school for restorative practices; frames responding to harm by repairing it and restoring relationships rather than only punishing."

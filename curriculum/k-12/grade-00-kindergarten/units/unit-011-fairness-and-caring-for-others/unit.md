@@ -27,9 +27,9 @@ duration_weeks: 2
 assessment_plan: >-
   Observation of fairness talk and conflict solving; a "kind choice" picture and the
   class job chart as portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 11 — Fairness & Caring for Others
@@ -52,6 +52,11 @@ obey.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Kind and Helpful Things | D09.S1.K.01 |
+| 2 | Helping a Friend or Animal | D09.S1.K.01 |
+| 3 | Fair or Unfair? | D09.S2.K.01 |
+| 4 | Sharing and Taking Turns | D09.S2.K.01 |
+| 5 | Making a Group Decision | D09.S3.K.01 |
+| 6 | A Class Job That Helps | D09.S3.K.01 |
+| 7 | Solving a Small Disagreement | D09.S4.K.01 |
+| 8 | Fairness & Caring for Others | D09.S1.K.01, D09.S2.K.01, D09.S3.K.01, D09.S4.K.01 |
