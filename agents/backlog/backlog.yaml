@@ -693,11 +693,30 @@ items:
     type: lesson
     grade: 0
     domain: D01
-    status: ready
+    status: done
     priority: 13
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (163 files). IDs L.00.013.01-.04 sequential, sequence_in_unit 1-4; headings present. Objectives resolve only to D01.S1.K.02/D01.S2.K.02/D02.S3.K.01/D02.S4.K.01 (confirmed domain-01 + domain-02; forbidden D01.S1.K.01/D01.S2.K.01 appear nowhere). Age-appropriate non-competitive (L4 'no best work awards, no winners or ranking'; L2 honors grandparents/aunts/one parent/chosen family). Connections concrete/faithful (L4 uniqueness+belonging+shared-space care). unit.md table lists all 4.
+      fact-checker:
+        verdict: passed
+        note: "Verified CASEL URL (fetched live, on-topic, matches S-001 reviewed:true). Lessons 2-4: grep confirms no URLs/citations; content reflection/celebration values ('some children live with grandparents/one parent/chosen family', 'communities look different worldwide') not factual claims needing source. Evidence vs values clean. validate passes (163 files). No edits."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 4 lessons. No US/Euro default; celebration universal (L4 'something people do together, in every community'); L1 honors families/cultures express feelings differently. Family shapes honored (L2 'grandparents, aunts/uncles, one parent, several generations under one roof, chosen family'); community variety (faith/neighborhood/team/market/language group; fishing village/high-rise/mountain village/city block/market square). No ranking (L2 'never rank one better', L3 'none better', L4 'no best work awards'). Fixes: added 'several generations under one roof' + 'market/market square' to L2/L3 lists. validate passes (163 files). Non-blocking: L1 feeling vocabulary Western-psychological; add longing/gratitude/contentment in future enrichment."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 4 lessons. Low-tech universal (voice/body/found objects/floor circles; devices enriched-only); contexts all three; no assets fields. Fixes: L4 share 'say or point... speaking is one way not the only way'; L4 assessment 'speaking/pointing/gesturing/helper's voice... No child required to speak publicly'; L2 'or point/draw/gesture'; L3 'or show... point/draw/gesture if speaking is not your way'. validate passes (163 files). Non-blocking: L3 add found-object option; L4 close/home 'tell a grown-up'→'or show/point'; unit-level note celebration is sharing not judged performance."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: objectives resolve to D01.S1.K.02/D01.S2.K.02/D02.S3.K.01/D02.S4.K.01 (domain-01/02 K ladders); strands match; D01→P1 and D02→P1; unit domain:[D01,D02] pillar:[P1]. Lenses: ethics (celebration not competition, no best-work awards), egalitarianism (unique AND connected, never rank), global (celebration universal, fishing village/high-rise/mountain village/market square, all family shapes), tech/env where natural (enrichment optional, outdoor contexts). Evidence vs values: CASEL cited as framework only; reflection/celebration is values. No hierarchy. No edits. validate passes (163 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 4 K lessons vs K-2 band. Cognitive fit: concrete (feeling cards + portfolio, me-in-my-circles drawing, one community + one thing, choose one piece of work); no identity essay; essential question teacher-facing only. Emotional safety: celebration not competition (L4 no best-work awards, equal display); fix added explicit opt-out ('a child who prefers not to take a turn may hang their piece and that counts as sharing'); L2 honors every family shape; L1 'no right or wrong feelings'; no child shamed for less work. Physical: big/fine motor with low-tech/outdoor/inclusive alternatives. Not dumbed down; learner as agent (choose feeling/group/activity/work). validate passes (163 files). Non-blocking: L4 'every one's work'→'everyone's work'; L1 could add community lens."
   - id: B-052
     title: Author lessons for Unit U.01.001 (My Feelings, My Story)
     agent: lesson-author

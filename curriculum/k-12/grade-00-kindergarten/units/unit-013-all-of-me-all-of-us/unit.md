@@ -29,9 +29,9 @@ duration_weeks: 1
 assessment_plan: >-
   Year-end portfolio share and reflection; each child's collected work and a class
   celebration of belonging as the culminating artifact.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 13 — All of Me, All of Us
@@ -54,6 +54,7 @@ work, and the class notices how everyone is both unique and connected.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | My Feelings This Year | D01.S1.K.02 |
+| 2 | The Groups I Belong To | D01.S2.K.02 |
+| 3 | My Community, What We Do Together | D02.S3.K.01 |
+| 4 | All of Me, All of Us — Celebration & Care | D01.S1.K.02, D01.S2.K.02, D02.S3.K.01, D02.S4.K.01 |
