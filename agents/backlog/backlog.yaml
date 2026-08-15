@@ -1023,11 +1023,30 @@ items:
     type: lesson
     grade: 1
     domain: D10
-    status: ready
+    status: done
     priority: 24
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (281 files). IDs L.01.011.01-.10 sequential, sequence_in_unit 1-10, unit U.01.011, domain [D10], pillar [P4]. Objectives resolve only to the 8 grade-1 D10 standards; zero K/invented IDs. All 8 covered (L1-8 1:1, L9 S4 double, L10 all 8). Required headings 4/4 in all. unit.md table lists all 10. Age-appropriate concrete hands-on; death deferred L5 facilitator note; sacred family stories protected L3. Only foundational science claims; ESD/UNESCO cited L9. Non-blocking: 'breathe' for plants is age-hedged simplification (flagged in facilitator notes)."
+      fact-checker:
+        verdict: passed
+        note: "Claims verified: living/nonliving L5 accurate + age-hedged (water/sunlight/air nonliving but needed, seed/feather as wonder); plants+animals both need water+air L6 (shared vs special needs separated, photosynthesis deferred); caring needs L8 accurate; real-vs-pretend L3 accurate (sacred stories honored not labeled make-believe); tool/waste-less claims hedged. UNESCO ESD (S-004) fetched live on-topic, marked reviewed:true. Fixes: added Resources citations to L5/L6/L8 (previously uncited science); registered D10 reuse of S-032/33/34 (BBC Bitesize). Values (tech neutrality, earth-as-home) framed as values. validate passes (281 files)."
+      global-culture-editor:
+        verdict: passed
+        note: Reviewed 10 lessons + unit.md. No tool ranking (mortar-pestle = phone, basket = anything new, 'no place's tools more important', L1/L2). Make-believe non-culturally-specific, honors believing child, refuses to label sacred family story make-believe (L3). No Western/region default (materials gourd/basket/mortar-pestle/water-jug/slate/mat/market signs). Eco-framing respects water scarcity (L2 dry beans instead of water, L7/L9 'never frame any family as wasteful', 'a precious jug of water used carefully'). Pet-centrism avoided (L8 windowsill plant/wild bird given water/street tree = pet). No screen/media shaming (L3/L4). No edits needed. validate passes (281 files).
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed all 10 lessons. materials_low_tech universal (touch-and-hold, voice/body acting, found objects, no print/device); devices only enriched. context_variants large-group/self-directed/outdoor-only + multi-age/level-grouped. Blind/low-vision (touch/sound/smell) and non-speaking (point/act) paths already present. Fixes: Deaf/HH (sign/picture/act) paths missing in 9/10 lessons -> added; motor-difference (direct-partner's-hands) missing for tool-use/real-vs-pretend/living-nonliving (L1/3/4/5/6) -> added; reinforced 'honor every body' in L1 facilitator note. No assets fields. validate passes (281 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified: vision -> P4 -> D10 -> S1-S4 -> 8 grade-1 standards -> U.01.011 -> L.01.011.01-.10; domain [D10] pillar [P4] on all; objectives resolve only to the 8 real grade-1 D10 standards, no invented/cross-grade IDs; strand/objective pairings correct. Lenses central to D10 all visibly carried in body: ethics ('treat every living thing with gentle care', 'helpers not saviors'), egalitarianism (anti-ranking 'no place's tools matter more', 'never frame any family as wasteful'), global/anthropological (mortar-pestle vs phone, water-scarce places, sacred-story honoring, UNESCO ESD), technology/environment (tech L1-L4, env L5-L9, capstone L10). Evidence vs values: living/nonliving + plant/animal needs cite BBC Bitesize; ESD cites UNESCO; L3 separates photo-is-camera-made from 'make-believe is a treasure not a lie'. No hierarchy/supremacy. No edits. validate passes (281 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 grade-1 lessons vs K-2 band. Cognitive fit: concrete hands-on (sorting, carrying dry beans, watering plant, drawing); photosynthesis deferred L6; real-vs-pretend L3 'noticing not judging'. Emotional safety: real-vs-pretend 'treasure to love not trick to fear', sacred/family stories honored not called make-believe; no death/frightening content (L5 note says don't raise death); no eco-anxiety/guilt (care 'not about feeling bad', 'never shaming', 'helpers not saviors'); no media/screen shaming; care as agency. Physical: movement + fine-motor, inclusive differentiation all lessons; dry-material safety choice L2. Open-ended: questions held as questions. Non-blocking: L5 BBC link title contains 'dead' category — add one-line facilitator note to not raise death. No edits. validate passes (281 files)."
   - id: B-063
     title: Author lessons for Unit U.01.012 (All of Me, All of Us)
     agent: lesson-author

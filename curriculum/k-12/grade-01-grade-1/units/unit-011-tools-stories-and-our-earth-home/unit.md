@@ -58,6 +58,13 @@ it is the ground we stand on.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Tools at Home and School | D10.S1.01.01 |
+| 2 | How a Tool Makes Work Easier or Faster | D10.S1.01.02 |
+| 3 | Real Photo or Pretend? | D10.S2.01.01 |
+| 4 | Who Made It, and for Whom? | D10.S2.01.02 |
+| 5 | Living or Nonliving? | D10.S3.01.01 |
+| 6 | What Plants and Animals Both Need | D10.S3.01.02 |
+| 7 | Wasting Less | D10.S4.01.01 |
+| 8 | Caring for a Plant or Animal | D10.S4.01.02 |
+| 9 | Earth Care in Practice | D10.S4.01.01, D10.S4.01.02 |
+| 10 | Our Earth Home: Tools, Stories, and Care | D10.S1.01.01, D10.S1.01.02, D10.S2.01.01, D10.S2.01.02, D10.S3.01.01, D10.S3.01.02, D10.S4.01.01, D10.S4.01.02 |

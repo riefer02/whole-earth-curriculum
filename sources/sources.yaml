@@ -35,8 +35,8 @@ sources:
     url: https://www.unesco.org/en/sustainable-development/education
     organization: UNESCO
     domains: [D08, D10]
-    reviewed: false
-    notes: Global education and sustainability reference.
+    reviewed: true
+    notes: "Cited in U.01.011 L09 (Earth Care in Practice) as a general frame for the idea that caring for the Earth and for other people is one everyday practice. URL re-verified live (2026-08-15): UNESCO's ESD page defines ESD as empowering people with the knowledge, skills, values, attitudes and behaviours to live in a way that is good for the environment, economy and society — on-topic for the lesson's stewardship framing (a value frame, not a factual claim)."
 
   - id: S-005
     title: Intergovernmental Panel on Climate Change
@@ -301,7 +301,7 @@ sources:
     type: website
     url: https://www.bbc.co.uk/bitesize/topics/z6882hv/articles/zx38wmn
     organization: BBC Bitesize
-    domains: [D06]
+    domains: [D06, D10]
     reviewed: true
     notes: "Cited in U.01.006 L04 (living things need food/water/air/shelter). URL verified live (2026-08-15). States verbatim: 'Animals need air, water, shelter and food to survive'; also notes fish use gills to get oxygen and animals find shelter in shells or burrows."
 
@@ -310,7 +310,7 @@ sources:
     type: website
     url: https://www.bbc.co.uk/bitesize/topics/zpxnyrd/articles/zkp2jsg
     organization: BBC Bitesize
-    domains: [D06]
+    domains: [D06, D10]
     reviewed: true
     notes: "Cited in U.01.006 L04 (plant needs). URL verified live (2026-08-15). States plants need water, light, the right temperature, air, and time; plants use light to make food inside their leaves, take up water through their roots, and obtain most nutrients from the soil."
 
@@ -319,7 +319,7 @@ sources:
     type: website
     url: https://www.bbc.co.uk/bitesize/topics/zx882hv/articles/zfhfn9q
     organization: BBC Bitesize
-    domains: [D06]
+    domains: [D06, D10]
     reviewed: true
     notes: "Cited in U.01.006 L05 (living vs nonliving). URL verified live (2026-08-15). Living things react to surroundings, need air, feed, grow, reproduce, and get rid of waste; all living things (plants and animals) can move; non-living things have never been alive (water, rocks, weather, fire, metal) and do not need food, water, or air — consistent with the lesson's 'grow, move, reproduce' clues and its hedges (some non-living things like wind/water also move)."
 
