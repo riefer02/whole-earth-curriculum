@@ -753,12 +753,30 @@ items:
     type: lesson
     grade: 1
     domain: D03
-    status: claimed
+    status: done
     priority: 15
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
-    claimed_at: 2026-08-15T17:51:18.380Z
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (183 files). IDs L.01.002.01-.10 sequential, sequence_in_unit 1-10; headings present. Objectives resolve only to D03.S1.01.01/.02 + D03.S2.01.01/.02 (confirmed domain-03 grade 01 block); no K or S3/S4 IDs. Connections concrete/faithful (L006 skipping/galloping keeping a beat). Age-appropriate: L003/004 food-insecurity guard ('never assume what a learner has eaten... if food not available that is not your fault'); L006-009 seated/wheelchair/adapted 'real choices not second choices'. unit.md table lists all 10."
+      fact-checker:
+        verdict: passed
+        note: Verified WHO homepage URL live (official, © 2026); S-003 was reviewed:false — marked reviewed:true with note (general wellbeing reference for U.01.002 L03-05). Body/health claims accurate+hedged (growling tummy=hunger, dry mouth=thirst, heavy eyes=tiredness; water when thirsty helps body work; food-insecurity guards 'never assume what learner has eaten', 'if food not available not your fault'). Movement claims descriptive, no overstatement. No fabricated citations (lessons 1/2/6-10 no Resources). validate passes (183 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. No Euro/US default (universal body/senses/movement, L6 'all over the world people move to music'). Movement generic skills, no single cultural tradition, no exoticizing. Body signals food-insecurity care ('eat if food is near', 'no food right now not your fault — tell a grown-up', 'customs vary, no right amount/time to eat', 'never assume how much rest'). Every movement lesson honors non-able-bodied ('adapted as real choices not second choices', wheelchair/seated/arm-spring, 'mouth/tool/friend's help', L1 'never compare bodies'). Fix: L2 'your hands hold your spoon... legs walk you' → 'your spoon, chopsticks, or pencil' + 'legs walk you — or wheels roll you'. validate passes (183 files). Non-blocking: L6 could name movement traditions; animal imagery could offer non-animal alternative."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. Movement seated/adapted equal choices (L6-8/L10 wheelchair glide/seated-bounce/arm-spring 'not second choices'); body-parts tactile; signals point-to-card; low-tech all (print or draw); fine-motor L9 tearing/larger beads/pre-cut/mouth-tool-friend; contexts all three; no assets. Fixes: L1 visual cue for deaf/HH + tactile/partner-label self-portrait; L6 visual beat + rest line for respiratory; L7 visual landing cue + rest; L8 visible freeze signal (was purely auditory). validate passes (183 files). Non-blocking: L3 'close your eyes'→'or look softly down'; L10 inherit visual-beat reminder."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: domain:[D03] pillar:[P2] all; strands S1 (L1-5)/S2 (L6-9)/both (L10); objectives only D03.S1.01.01/.02 + D03.S2.01.01/.02 (no K/S3/S4); chain lesson → unit → strand → D03 → P2 → vision. Lenses: ethics (never compare bodies, food-insecurity care, rest not lazy), egalitarianism (adapted movement 'real choices not second choices'), global (all over the world people move to music, customs vary), tech/env where natural. Evidence vs values: WHO as general reference (S-003 reviewed:true, honestly scoped); body signals hedged as 'messages'; values labeled. No hierarchy; anti-race, no able-bodied default. validate passes (183 files). No edits."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 grade-1 lessons vs K-2 band. Cognitive fit: concrete/here-and-now (touch-and-name, acting, picture cards, real water break, rest pause); no abstract anatomy/systems. Emotional safety: no body shaming ('never compare bodies', 'never correct a learner for naming a part their own way'); hunger/thirst food-insecurity care ('never assume what learner has eaten', 'not your fault', 'your body's message always right even when answer waits', 'tell trusted adult'); tiredness 'kind care not lazy'. Physical: big/fine motor age-appropriate, seated/wheelchair 'real choices not second choices', visual cues, non-competitive ('never speed or distance'). Not dumbed down; learner as agent. Fix: L8 'see who can stay steady'→'stay steady together' (removed faint competition). validate passes (183 files). Non-blocking: WHO links could get gentler title."
   - id: B-054
     title: Author lessons for Unit U.01.003 (Learning to Live Together)
     agent: lesson-author

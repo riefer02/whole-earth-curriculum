@@ -37,7 +37,7 @@ materials_low_tech:
   - name: Found container
     notes: Any safe cup or hollow object to pretend to drink from
 materials_enriched:
-  - name: "Hungry or thirsty?" sorting game cards
+  - name: Hungry or thirsty? sorting game cards
     quantity: "1 set per pair"
     notes: Picture cards to sort into hungry, thirsty, or neither
   - name: Water station with labeled cups

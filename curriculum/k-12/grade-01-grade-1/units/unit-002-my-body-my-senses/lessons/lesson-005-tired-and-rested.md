@@ -33,7 +33,7 @@ materials_low_tech:
   - name: Voice
     notes: Describe tired and rested aloud and act out each with the body
 materials_enriched:
-  - name: "Tired or rested?" sorting cards
+  - name: Tired or rested? sorting cards
     quantity: "1 set per pair"
     notes: Picture cards of yawning, heavy bodies and bright, alert bodies to sort
   - name: A timer or soft music player

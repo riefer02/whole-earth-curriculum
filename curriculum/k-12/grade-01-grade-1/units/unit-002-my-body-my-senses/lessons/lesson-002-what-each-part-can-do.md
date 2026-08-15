@@ -81,10 +81,11 @@ the same jobs in different ways.
 
 ## Connection
 
-Every part of your body is busy with a job, all day long. Your hands hold your spoon
-and your pencil; your legs walk you to where you are going; your arms can reach a cup
-or wrap around someone in a hug. When you know what each part does, you can thank your
-body for all the work it does for you.
+Every part of your body is busy with a job, all day long. Your hands hold your spoon,
+your chopsticks, or your pencil; your legs walk you — or your wheels roll you — to
+where you are going; your arms can reach a cup or wrap around someone in a hug. When
+you know what each part does, you can thank your body for all the work it does for
+you.
 
 ## Materials
 

@@ -108,7 +108,12 @@ self-directed learner. Prepare the chart or cards, clear the circle, then lead t
 touch-and-name game and guide the self-portrait. Every body is different, and every
 body is good: some learners may use a wheelchair, a hearing aid, or a friend to help
 point. Honor each learner's own body; never correct a learner for naming a part in
-their own way, and never compare bodies.
+their own way, and never compare bodies. In the touch-and-name game, hold up or point
+to the matching card as you say each part, so learners who are deaf or hard of hearing
+can follow along. The game is already hands-on: touching and feeling each part is a
+tactile path for learners with low vision. For the self-portrait, drawing around one's
+own hand or foot (touching counts) or telling/pointing to a partner who labels are
+equal ways to make the artifact.
 
 ## Procedure
 

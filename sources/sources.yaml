@@ -26,8 +26,8 @@ sources:
     url: https://www.who.int/
     organization: WHO
     domains: [D03, D10]
-    reviewed: false
-    notes: Global health reference for Body & Wellness.
+    reviewed: true
+    notes: Global health reference for Body & Wellness. URL verified live (2026-08-15) — official WHO homepage, on-topic for D03 body-signals/hunger/thirst/tiredness lessons (U.01.002 L03–L05) which cite it as a general wellbeing reference. General authority, not a page-level citation for any single claim.
 
   - id: S-004
     title: UNESCO — Education for Sustainable Development
