@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our wonder box</title>
+  <desc id="desc">A decorated box labeled "Wonder Box" holds slips of paper with question marks and the words "Why?" and "How?" sticking up out of it. The box front shows a star, an egg, and a winding river. A round wonder stone marked with a question mark sits beside the box. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Our Wonder Box</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Questions are treasures. Keep wondering.</text>
+
+  <!-- question slips peeking out -->
+  <g>
+    <rect x="166" y="150" width="36" height="64" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="184" y="184" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">?</text>
+    <rect x="238" y="138" width="56" height="76" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="266" y="178" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Why?</text>
+    <rect x="310" y="150" width="56" height="64" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="338" y="184" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">How?</text>
+  </g>
+
+  <!-- box -->
+  <rect x="136" y="210" width="240" height="190" rx="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Wonder Box</text>
+
+  <!-- decorations on the box -->
+  <path d="M180 296 L186 312 L202 318 L186 324 L180 340 L174 324 L158 318 L174 312 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="256" cy="322" rx="16" ry="21" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M308 322 Q316 312 324 322 T340 322" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- wonder stone -->
+  <circle cx="88" cy="320" r="16" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#ffffff">?</text>
+</svg>

@@ -43,6 +43,16 @@ materials_enriched:
   - name: A short audio or video of storytellers (where available)
     quantity: "1"
     notes: Let learners hear a real storyteller's voice if one is accessible
+assets:
+  - path: assets/images/L.00.003.03-many-stories-of-beginnings.svg
+    alt: >-
+      Four equal side-by-side panels showing beginning stories held without
+      ranking: a golden egg that splits and lets light out, a sky and an earth
+      held apart with light between them, water with scattered soil forming dry
+      land, and a winding river through hills with a dotted path. Each panel is
+      labeled with its name and place.
+    kind: image
+    source: original
 context_variants:
   - context: large-group
     note: Pass each card in a circle and let a different learner hold it while you tell that story, so each story has its own keeper

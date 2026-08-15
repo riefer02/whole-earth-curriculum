@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A child asking big questions</title>
+  <desc id="desc">A child with brown skin and a hearing aid looks up in wonder, hand near the cheek. Three thought bubbles hold the question words "Why?", "How?", and a question mark. Below are five simple pictures to wonder about: sun, cloud, seed, bird, and moon, each labeled. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Asking Big Questions</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Turn what you see into a question.</text>
+
+  <!-- Thought bubbles -->
+  <g>
+    <rect x="232" y="88" width="158" height="60" rx="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="311" y="126" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Why?</text>
+    <circle cx="262" cy="146" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="250" cy="158" r="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <g>
+    <rect x="308" y="170" width="158" height="60" rx="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="387" y="208" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">How?</text>
+    <circle cx="320" cy="230" r="4.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="310" cy="240" r="3" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <g>
+    <circle cx="216" cy="180" r="28" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="216" y="191" text-anchor="middle" font-family="sans-serif" font-size="38" font-weight="bold" fill="#e0a458">?</text>
+  </g>
+
+  <!-- Child -->
+  <g>
+    <rect x="108" y="296" width="84" height="84" rx="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="118" y1="310" x2="96" y2="352" stroke="#6b93b6" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="96" cy="355" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M182 308 Q198 288 176 274" fill="none" stroke="#6b93b6" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="174" cy="272" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+
+    <circle cx="150" cy="250" r="42" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="150" cy="204" r="16" fill="#2b3a42"/>
+    <circle cx="126" cy="212" r="12" fill="#2b3a42"/>
+    <circle cx="174" cy="212" r="12" fill="#2b3a42"/>
+    <circle cx="110" cy="226" r="9" fill="#2b3a42"/>
+    <circle cx="186" cy="220" r="8" fill="#2b3a42"/>
+
+    <circle cx="188" cy="246" r="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M188 246 Q182 250 186 260" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+    <circle cx="131" cy="244" r="4.5" fill="#2b3a42"/>
+    <circle cx="168" cy="244" r="4.5" fill="#2b3a42"/>
+    <path d="M122 232 Q131 227 140 232" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M159 232 Q168 227 177 232" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M136 268 Q150 277 164 268" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="121" cy="260" r="5" fill="#e0a458" opacity="0.5"/>
+    <circle cx="179" cy="260" r="5" fill="#e0a458" opacity="0.5"/>
+  </g>
+
+  <!-- Things to wonder about -->
+  <g>
+    <circle cx="70" cy="438" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="2.5" stroke-linecap="round">
+      <line x1="70" y1="406" x2="70" y2="398"/>
+      <line x1="70" y1="470" x2="70" y2="478"/>
+      <line x1="38" y1="438" x2="30" y2="438"/>
+      <line x1="102" y1="438" x2="110" y2="438"/>
+      <line x1="48" y1="416" x2="42" y2="410"/>
+      <line x1="92" y1="416" x2="98" y2="410"/>
+      <line x1="48" y1="460" x2="42" y2="466"/>
+      <line x1="92" y1="460" x2="98" y2="466"/>
+    </g>
+    <text x="70" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">sun</text>
+
+    <g fill="#6b93b6">
+      <circle cx="152" cy="446" r="13"/>
+      <circle cx="175" cy="438" r="17"/>
+      <circle cx="198" cy="448" r="12"/>
+      <rect x="152" y="446" width="46" height="14" rx="7"/>
+    </g>
+    <g stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round">
+      <line x1="158" y1="470" x2="156" y2="476"/>
+      <line x1="175" y1="472" x2="175" y2="480"/>
+      <line x1="192" y1="470" x2="194" y2="476"/>
+    </g>
+    <text x="175" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">cloud</text>
+
+    <line x1="250" y1="452" x2="306" y2="452" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="264" cy="446" rx="9" ry="6" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M288 452 C288 430 284 424 280 416" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M280 416 Q268 410 272 400 Q282 406 280 416 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M280 416 Q292 410 288 400 Q278 406 280 416 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="278" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">seed</text>
+
+    <ellipse cx="350" cy="446" rx="16" ry="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="367" cy="437" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M373 435 L381 437 L373 440 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="369" cy="436" r="1.6" fill="#2b3a42"/>
+    <path d="M335 444 L327 448 L335 452 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M346 443 Q350 439 356 441" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="350" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">bird</text>
+
+    <path d="M440 416 A22 22 0 1 0 440 460 A16 16 0 1 1 440 416 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="435" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">moon</text>
+  </g>
+</svg>

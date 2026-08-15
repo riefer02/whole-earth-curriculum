@@ -41,6 +41,14 @@ materials_enriched:
   - name: Question-starter cube
     quantity: "1 per small group"
     notes: A cube with "why," "how," "what if," and pictures to prompt wondering
+assets:
+  - path: assets/images/L.00.003.01-asking-big-questions.svg
+    alt: >-
+      A child with brown skin and a hearing aid looks up in wonder while three
+      thought bubbles ask "Why?", "How?", and a question mark. Below are five
+      labeled pictures to wonder about: sun, cloud, seed, bird, and moon.
+    kind: image
+    source: original
 context_variants:
   - context: large-group
     note: Hold up each picture card large and slow; invite the whole group to whisper their question to a partner before a few share aloud, so many voices get a turn

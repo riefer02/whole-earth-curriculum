@@ -42,6 +42,15 @@ materials_enriched:
   - name: A voice recorder
     quantity: "1"
     notes: To capture spoken questions for learners who do not yet write
+assets:
+  - path: assets/images/L.00.003.05-our-wonder-box.svg
+    alt: >-
+      A decorated box labeled "Wonder Box" with slips of paper showing a question
+      mark and the words "Why?" and "How?" sticking out. The box front is drawn
+      with a star, an egg, and a winding river, and a round wonder stone marked
+      with a question mark sits beside it.
+    kind: image
+    source: original
 context_variants:
   - context: large-group
     note: Pass the wonder stone around the circle; each learner may say a question, draw one, or pass it on — passing is always welcome

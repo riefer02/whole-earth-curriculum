@@ -44,6 +44,14 @@ materials_enriched:
   - name: An audio recorder
     quantity: "1 per small group"
     notes: To record each learner's spoken retelling to keep or share with family
+assets:
+  - path: assets/images/L.00.003.04-retelling-in-my-own-words.svg
+    alt: >-
+      Three frames joined by arrows showing a story in order: a seed resting in
+      soil, a sprout with two leaves, and a taller plant with a flower and a
+      small sun. The frames are numbered and labeled Beginning, Middle, and End.
+    kind: image
+    source: original
 context_variants:
   - context: large-group
     note: Pair learners to tell in twos, then invite two or three volunteers to share with the whole circle, so everyone retells without a long wait

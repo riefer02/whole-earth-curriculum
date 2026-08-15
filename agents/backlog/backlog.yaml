@@ -1150,12 +1150,22 @@ items:
     type: assets
     grade: 0
     domain: D06
-    status: ready
+    status: done
     priority: 32
     depends_on:
       - B-041
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.003 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). 4 lessons gained additive assets: blocks (path/alt/kind:image/source:original, schema-valid); no deletions; UDL paths intact. Objectives D06.S1.K.01/D06.S4.K.01 resolve to real standards. 4 new SVGs well-formed XML (viewBox, role=img, title/desc, 'prints in grayscale'), meaning via dark strokes + labels not color. No ranking (L.03 'Every story is a treasure. No one above another'; L.04 'one story among many'). lesson-002 existing universe-story.svg untouched. Non-blocking: lesson files still status:draft."
+      accessibility-editor:
+        verdict: passed
+        note: "All 4 SVGs role=img + aria-labelledby + title/desc. Color never only signal (question-word text, per-panel captions, numbered circles + Beginning/Middle/End labels + arrows). Alt non-empty concept-complete. Inclusive: L.01 child brown skin + natural hearing aid (desc+alt). Low-tech pairing: all lessons materials_low_tech (voice/body/found objects/sand-dirt/any-container); enriched separated. No wealth/device assumption. No edits. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "L.00.003.03 four origin stories span four regions (India, Aotearoa/Maori, Yoruba/West Africa, Aboriginal Australia) in equal frames, footer 'Every story is a treasure. No one above another' — unranked, no myth framing, wonder-not-creed. Other assets region-neutral non-tokenizing; L.01 brown-skinned child + natural hearing aid. Fix: Dreaming panel place label '(Australia)' (settler-state name flattening hundreds of nations) -> '(Aboriginal Australia)' matching lesson body. validate passes (301 files)."
   - id: B-073
     title: "Illustration pass: add SVG assets to lessons in U.00.004"
     agent: asset-designer

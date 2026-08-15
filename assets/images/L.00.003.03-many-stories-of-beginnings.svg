@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Many stories of beginnings, side by side</title>
+  <desc id="desc">Four equal panels, read left to right, each holding one peoples' beginning story: a golden egg that splits and lets light out; a sky and an earth held apart with light between them; water with scattered soil forming dry land; and a winding river through hills with a dotted path. Each panel is labeled with its name and place, and none is placed above another. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Many Stories of Beginnings</text>
+
+  <!-- Panel frames -->
+  <rect x="16" y="72" width="114" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="138" y="72" width="114" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="260" y="72" width="114" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="382" y="72" width="114" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+  <!-- Panel 1: golden egg -->
+  <g>
+    <ellipse cx="73" cy="200" rx="34" ry="44" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M73 160 L78 172 L68 184 L76 196 L69 208 L77 220 L71 232" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+      <line x1="56" y1="176" x2="48" y2="170"/>
+      <line x1="92" y1="182" x2="100" y2="176"/>
+      <line x1="54" y1="210" x2="45" y2="210"/>
+      <line x1="93" y1="212" x2="102" y2="212"/>
+      <line x1="60" y1="240" x2="52" y2="248"/>
+      <line x1="88" y1="236" x2="96" y2="244"/>
+    </g>
+  </g>
+
+  <!-- Panel 2: sky and earth -->
+  <g>
+    <rect x="138" y="72" width="114" height="104" fill="#6b93b6"/>
+    <circle cx="162" cy="96" r="2.5" fill="#ffffff"/>
+    <circle cx="210" cy="120" r="2.5" fill="#ffffff"/>
+    <circle cx="182" cy="130" r="2" fill="#ffffff"/>
+    <rect x="138" y="276" width="114" height="96" fill="#7a9e7e"/>
+    <path d="M138 276 Q156 268 176 276 Q198 284 220 276 Q238 270 252 276" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+      <line x1="195" y1="184" x2="195" y2="176"/>
+      <line x1="183" y1="190" x2="179" y2="184"/>
+      <line x1="207" y1="190" x2="211" y2="184"/>
+      <line x1="195" y1="196" x2="195" y2="202"/>
+    </g>
+    <circle cx="195" cy="222" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="195" y1="230" x2="195" y2="246" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="195" y1="236" x2="183" y2="228" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="195" y1="236" x2="207" y2="228" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="195" y1="246" x2="187" y2="258" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="195" y1="246" x2="203" y2="258" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Panel 3: water and land -->
+  <g>
+    <rect x="260" y="72" width="114" height="300" fill="#6b93b6"/>
+    <path d="M260 220 Q280 212 300 220 Q320 228 340 220 Q356 214 374 220" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+    <path d="M260 252 Q282 244 304 252 Q326 260 348 252 Q364 246 374 252" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+    <path d="M260 288 Q280 280 300 288 Q322 296 342 288 Q358 282 374 288" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.6"/>
+    <ellipse cx="317" cy="308" rx="34" ry="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="298" cy="150" r="3" fill="#8f5f3d"/>
+    <circle cx="320" cy="132" r="3" fill="#8f5f3d"/>
+    <circle cx="306" cy="168" r="2.5" fill="#8f5f3d"/>
+    <circle cx="334" cy="158" r="2.5" fill="#8f5f3d"/>
+    <circle cx="316" cy="182" r="2" fill="#8f5f3d"/>
+  </g>
+
+  <!-- Panel 4: the Dreaming -->
+  <g>
+    <path d="M382 372 L382 314 Q406 296 434 304 Q462 312 496 300 L496 372 Z" fill="#7a9e7e"/>
+    <path d="M388 372 C388 342 410 326 428 312 C446 298 448 278 464 264" fill="none" stroke="#6b93b6" stroke-width="11" stroke-linecap="round"/>
+    <g fill="#e0a458">
+      <circle cx="402" cy="356" r="2.5"/>
+      <circle cx="416" cy="342" r="2.5"/>
+      <circle cx="430" cy="326" r="2.5"/>
+      <circle cx="444" cy="310" r="2.5"/>
+      <circle cx="456" cy="294" r="2.5"/>
+      <circle cx="468" cy="278" r="2.5"/>
+    </g>
+    <path d="M474 344 L474 322" stroke="#ab7a4e" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="474" cy="316" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M474 316 C468 306 472 300 480 296" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Captions -->
+  <g font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">
+    <text x="73" y="398" text-anchor="middle">golden egg</text>
+    <text x="73" y="418" text-anchor="middle" font-size="12" fill="#4f6d7a">(India)</text>
+    <text x="195" y="398" text-anchor="middle">sky &amp; earth</text>
+    <text x="195" y="418" text-anchor="middle" font-size="12" fill="#4f6d7a">(Aotearoa)</text>
+    <text x="317" y="398" text-anchor="middle">water &amp; land</text>
+    <text x="317" y="418" text-anchor="middle" font-size="12" fill="#4f6d7a">(Yoruba)</text>
+    <text x="439" y="398" text-anchor="middle">the Dreaming</text>
+    <text x="439" y="418" text-anchor="middle" font-size="11" fill="#4f6d7a">(Aboriginal Australia)</text>
+  </g>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every story is a treasure. No one above another.</text>
+</svg>
