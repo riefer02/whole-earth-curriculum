@@ -25,9 +25,9 @@ duration_weeks: 3
 assessment_plan: >-
   Observation of movement skills and food-sorting; a "things that help me grow"
   drawing and a senses walk as portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 8 — Moving & Growing
@@ -49,6 +49,13 @@ growth as worthy.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| L.00.008.01 | Big Movements | D03.S2.K.01 |
+| L.00.008.02 | Small Movements | D03.S2.K.01 |
+| L.00.008.03 | Balance and Control | D03.S2.K.01 |
+| L.00.008.04 | Moving Games | D03.S2.K.01 |
+| L.00.008.05 | My Senses Notice the World | D03.S1.K.01 |
+| L.00.008.06 | Senses on the Move | D03.S1.K.01 |
+| L.00.008.07 | Senses and Joy | D03.S1.K.01 |
+| L.00.008.08 | Food for My Growing Body | D03.S3.K.01 |
+| L.00.008.09 | Sorting Everyday and Sometimes Foods | D03.S3.K.01 |
+| L.00.008.10 | Moving & Growing | D03.S1.K.01, D03.S2.K.01, D03.S3.K.01 |

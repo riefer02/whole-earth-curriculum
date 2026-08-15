@@ -543,11 +543,30 @@ items:
     type: lesson
     grade: 0
     domain: D03
-    status: ready
+    status: done
     priority: 8
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (123 files). IDs L.00.008.01-.10 sequential, sequence_in_unit 1-10. Objectives resolve only to D03.S1/S2/S3.K.01 (grep: zero D03.S4.K.01); body text verbatim (L8/L9 D03.S3.K.01). Required headings all present. Connections concrete/faithful (L1 'run to meet a friend, hop over a puddle... children everywhere move big in their own games'). unit.md table lists all 10. Movement-weighted (1-4 movement, 5-7 senses, 8-9 food, 10 capstone); every lesson 'Honor every body' note with seated/adapted alternatives; L8 'No food shaming, ever', 'sometimes = special and enjoyable not forbidden'."
+      fact-checker:
+        verdict: passed
+        note: Reviewed 10 lessons + unit.md. Health/nutrition claims general + age-hedged ('food gives energy', 'food is fuel', 'beans help me grow strong'); no vitamin/calorie/nutrient-level or medical claims; L8 'quick energy vs grow taller/stronger' safe general level. No Resources sections, no fabricated citations; no claim rises to specific nutrition fact needing a source. Food-shaming strongly handled (L8 'no food shaming ever, never tie food to size/weight'; L9 'no food is bad, sometimes = special not forbidden, every family different'). Senses framed as inclusive facts not deficits; L10 heartbeat close is values language. validate passes (123 files). No edits.
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. Connections globalize (L1 beach/festival, L2 stacking stones/threading beads, L3 fisher in boat/stepping stones, L4 'some games same in many places, some belong to one people'); food examples reach non-Western staples (corn/cassava/lentils/greens). Foods: no ranking/moralizing (L8 'no food shaming ever, never tie food to size/weight', 'a food daily for one family may be rare for another'); L9 'sometimes = special not forbidden' + inverts assumption. Movement: every lesson 'Honor every body' seated/adapted/wheelchair note; games universal, no exoticizing. No ranking (L7 'no favorites mocked/ranked', L10 'no comparisons, no best'). Non-blocking: L8 materials_enriched lists carrot/apple/bread (temperate) — add cassava/mango/flatbread; (out of remit) L8 objective 'sort' vs body 'food is fuel' (L9 carries actual sorting)."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 10 lessons. Low-motor/seated/adapted paths inside procedures (roll/glide/pump arms, seated gallop, seated balance, chunky crayons, wheelchair-rollable L6). Senses non-visual+non-auditory (L5 describe aloud, L6 'share what other senses found', L7 draw-by-feel). Food sorting non-fine-motor (point/call-out/gesture). Low-tech universal; no competition/timed demands ('no one is out'); context_variants all three. No assets fields. Fixes: visual stop/go cues L1 (raised hand), L3 statue cue, L4 freeze cue, L9 point/gesture/name sort. validate passes (123 files). Non-blocking: L5 'then look'→'(or feel/smell/hear)'; L6 paper checklist optional."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: vision → P2 → D03 → S1/S2/S3 → standards → unit → lessons; all 10 objectives resolve to D03.S1/S2/S3.K.01 (domain-03 confirms), domain:[D03] pillar:[P2] on all; S4 correctly excluded. Lenses: ethics (wobbling is learning never failure; no food shaming; never tie food to size/weight), egalitarianism (wheelchair/seated adaptations, no one out, every pace worthy), global (children-everywhere games, corn/cassava/lentils), environment (L6 senses outdoors); tech not forced. Evidence vs values: no unsourced factual claims (foundational only); 'every body grows at its own pace' is value. Fix: L8 objective text aligned (added everyday/sometimes sort to Build-the-chart step + assessment) since declared sort didn't match food-as-fuel body. validate passes (123 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 10 K lessons vs K-2 band. Cognitive fit: concrete/here-and-now (running/hoping/balancing, stacking/drawing/threading, senses on own body); no abstract physiology; 'food is fuel' anchored to observable (hand on tummy, energy used to run). Emotional safety: no body-image/weight/food shame (L8/L9 'no food shaming ever', 'no bad foods', 'sometimes = special and enjoyable'); no competition (L4 'nobody is out', L10 'celebration not test', 'no comparisons no best'); movement not a fitness test (observes attempt/growing control); 'every pace of growth worthy'. Physical: big-motor abundant, fine-motor gentle (chunky tools); every lesson Honor-every-body + visual cues alongside auditory. Agentic/open-ended (choose proudest movement, invent games). No fixes. validate passes (123 files). Non-blocking: L1 objective line could add jump/gallop; keep energy framing anchored in grade-1 spiral."
   - id: B-047
     title: Author lessons for Unit U.00.009 (The Living World Around Us)
     agent: lesson-author
