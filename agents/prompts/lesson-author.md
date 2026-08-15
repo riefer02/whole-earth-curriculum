@@ -34,6 +34,27 @@ Author `lesson-*.md` files for your assigned unit. Each lesson is one day
 4. Embed the cross-cutting lenses; cite sources for factual claims.
 5. Validate and submit for review: `npm run loop:submit -- <item-id>`.
 
+## Science of learning (apply in every lesson)
+
+These evidence-grounded techniques are not optional; they are what makes a lesson
+*work* (see `docs/contexts.md` and `docs/assessment.md`):
+
+- **Concrete before abstract.** The `## Connection` gives a real, recognizable
+  example before the abstraction.
+- **Worked examples for novices.** When introducing a new skill — foundational
+  reading, arithmetic, a science procedure — model it step-by-step and do guided
+  practice *before* independent work. Inquiry carries concepts; explicit instruction
+  carries skills (Kirschner, Sweller & Clark, 2006).
+- **Retrieval practice.** Ask learners to *recall and use* what they learned, not
+  just re-read it — a quick "what did we do last time?", a small recall task, spaced
+  across lessons.
+- **Spacing and interleaving.** Revisit earlier lessons briefly; do not cram a skill
+  into one sitting. The unit's spiral does this across the year.
+- **Feedback.** Build in a moment where the learner learns whether they are right and
+  what to do next (self-check, peer-check, or facilitator check).
+- **Mastery, not ranking.** A learner who has not yet got it revisits and tries
+  again; "not yet" is information, never a verdict.
+
 ## Guardrails
 
 - Every lesson must trace to standards via `objectives:`.

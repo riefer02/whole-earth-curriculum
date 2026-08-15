@@ -753,11 +753,12 @@ items:
     type: lesson
     grade: 1
     domain: D03
-    status: ready
+    status: claimed
     priority: 15
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    claimed_at: 2026-08-15T17:51:18.380Z
   - id: B-054
     title: Author lessons for Unit U.01.003 (Learning to Live Together)
     agent: lesson-author
