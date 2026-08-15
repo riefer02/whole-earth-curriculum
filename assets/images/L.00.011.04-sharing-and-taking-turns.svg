@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sharing and taking turns: the same or what each needs</title>
+  <desc id="desc">Two panels. Panel one, "the same": two children share six crackers so each gets three, with a dashed line splitting the plate into two equal groups. Panel two, "what each needs": a tall child and a small child both look out a high window; the small child stands on a stool to reach it, showing that fair can mean giving each person what they need, not the same thing. The children have different skin tones. The labels and the shapes carry the meaning, not color, so the picture prints clearly in grayscale and holds two real kinds of fair side by side as a question.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Sharing: The Same or What Each Needs?</text>
+
+  <!-- Panel frames -->
+  <rect x="16" y="84" width="232" height="306" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="264" y="84" width="232" height="306" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ===== Panel 1: the same amount ===== -->
+  <g>
+    <line x1="24" y1="330" x2="240" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- left child -->
+    <circle cx="70" cy="200" r="18" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M52 196 A18 18 0 0 1 88 196 Z" fill="#2b3a42"/>
+    <circle cx="64" cy="202" r="2" fill="#2b3a42"/>
+    <circle cx="78" cy="202" r="2" fill="#2b3a42"/>
+    <path d="M65 212 Q72 217 79 212" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="52" y="222" width="36" height="58" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="60" y1="280" x2="58" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="80" y1="280" x2="82" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- right child -->
+    <circle cx="194" cy="200" r="18" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M176 196 A18 18 0 0 1 212 196 Z" fill="#4f6d7a"/>
+    <circle cx="188" cy="202" r="2" fill="#2b3a42"/>
+    <circle cx="202" cy="202" r="2" fill="#2b3a42"/>
+    <path d="M189 212 Q196 217 203 212" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="176" y="222" width="36" height="58" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="184" y1="280" x2="182" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="204" y1="280" x2="206" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- plate -->
+    <ellipse cx="132" cy="288" rx="46" ry="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <!-- dashed divider -->
+    <line x1="132" y1="252" x2="132" y2="284" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 4"/>
+    <!-- crackers: 3 left, 3 right -->
+    <rect x="100" y="280" width="12" height="12" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="116" y="278" width="12" height="12" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="100" y="296" width="12" height="12" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="136" y="280" width="12" height="12" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="152" y="278" width="12" height="12" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="136" y="296" width="12" height="12" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="108" y="270" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">3</text>
+    <text x="156" y="270" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">3</text>
+    <text x="132" y="358" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">the same</text>
+    <text x="132" y="376" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">each gets three</text>
+  </g>
+
+  <!-- ===== Panel 2: what each needs ===== -->
+  <g>
+    <line x1="272" y1="330" x2="488" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- window -->
+    <rect x="348" y="108" width="64" height="112" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="380" y1="108" x2="380" y2="220" stroke="#fdfbf7" stroke-width="4"/>
+    <line x1="348" y1="164" x2="412" y2="164" stroke="#fdfbf7" stroke-width="4"/>
+    <!-- tall child (right of window) -->
+    <circle cx="440" cy="150" r="18" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M422 146 A18 18 0 0 1 458 146 Z" fill="#2b3a42"/>
+    <circle cx="434" cy="152" r="2" fill="#2b3a42"/>
+    <circle cx="448" cy="152" r="2" fill="#2b3a42"/>
+    <path d="M435 162 Q442 167 449 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="424" y="172" width="32" height="74" rx="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="432" y1="246" x2="430" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="448" y1="246" x2="450" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- stool -->
+    <rect x="296" y="300" width="56" height="28" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- small child on stool (left of window) -->
+    <circle cx="324" cy="204" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M308 200 A16 16 0 0 1 340 200 Z" fill="#4f6d7a"/>
+    <circle cx="319" cy="206" r="2" fill="#2b3a42"/>
+    <circle cx="331" cy="206" r="2" fill="#2b3a42"/>
+    <path d="M320 216 Q326 220 332 216" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="309" y="224" width="30" height="54" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="316" y1="278" x2="314" y2="300" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="332" y1="278" x2="334" y2="300" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- label arrow to stool -->
+    <line x1="356" y1="296" x2="342" y2="296" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M342 290 L332 296 L342 302 Z" fill="#2b3a42"/>
+    <text x="392" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">a stool</text>
+    <text x="380" y="358" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">what each needs</text>
+    <text x="380" y="376" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a stool to see</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Fair can mean the same — or what each person needs.</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Two real ways to be fair. Which one fits here?</text>
+</svg>

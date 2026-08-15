@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fair or unfair</title>
+  <desc id="desc">Two panels side by side. Panel one, "fair": two children share six crayons so each has three, and a thumbs-up marks it fair. Panel two, "unfair": one child holds all six crayons while the other child stands with empty open hands and a thumbs-down marks it unfair. The children have different skin tones. The labels, the number of crayons each child holds, and the thumbs up and down carry the meaning, not color, so the picture prints clearly in grayscale and shows that fair means everyone gets a share, while unfair means someone is left out.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Fair or Unfair?</text>
+
+  <!-- Panel frames -->
+  <rect x="16" y="84" width="232" height="306" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="264" y="84" width="232" height="306" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ===== Panel 1: fair ===== -->
+  <g>
+    <!-- thumbs up -->
+    <g>
+      <path d="M210 108 Q200 96 192 104 L184 116 Q182 122 190 124 L198 122 L198 134 Q198 142 206 142 L212 142 Q220 142 220 134 L220 112 Q220 104 210 108 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <!-- ground -->
+    <line x1="24" y1="330" x2="240" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- left child -->
+    <circle cx="84" cy="196" r="19" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M65 192 A19 19 0 0 1 103 192 Z" fill="#2b3a42"/>
+    <circle cx="78" cy="198" r="2" fill="#2b3a42"/>
+    <circle cx="92" cy="198" r="2" fill="#2b3a42"/>
+    <path d="M79 208 Q86 213 93 208" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="66" y="218" width="36" height="58" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="74" y1="276" x2="72" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="94" y1="276" x2="96" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- left child's 3 crayons -->
+    <line x1="102" y1="238" x2="126" y2="250" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <line x1="102" y1="246" x2="126" y2="258" stroke="#6b93b6" stroke-width="5" stroke-linecap="round"/>
+    <line x1="102" y1="254" x2="126" y2="266" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+    <!-- right child -->
+    <circle cx="180" cy="196" r="19" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M161 192 A19 19 0 0 1 199 192 Z" fill="#4f6d7a"/>
+    <circle cx="174" cy="198" r="2" fill="#2b3a42"/>
+    <circle cx="188" cy="198" r="2" fill="#2b3a42"/>
+    <path d="M175 208 Q182 213 189 208" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="162" y="218" width="36" height="58" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="170" y1="276" x2="168" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="190" y1="276" x2="192" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- right child's 3 crayons -->
+    <line x1="162" y1="238" x2="138" y2="250" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <line x1="162" y1="246" x2="138" y2="258" stroke="#6b93b6" stroke-width="5" stroke-linecap="round"/>
+    <line x1="162" y1="254" x2="138" y2="266" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+    <text x="132" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">fair</text>
+    <text x="132" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">each gets three</text>
+  </g>
+
+  <!-- ===== Panel 2: unfair ===== -->
+  <g>
+    <!-- thumbs down -->
+    <g>
+      <path d="M308 108 Q318 96 326 104 L334 116 Q336 122 328 124 L320 122 L320 134 Q320 142 312 142 L306 142 Q298 142 298 134 L298 112 Q298 104 308 108 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <!-- ground -->
+    <line x1="272" y1="330" x2="488" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- child with all crayons -->
+    <circle cx="330" cy="180" r="19" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M311 176 A19 19 0 0 1 349 176 Z" fill="#2b3a42"/>
+    <circle cx="324" cy="182" r="2" fill="#2b3a42"/>
+    <circle cx="338" cy="182" r="2" fill="#2b3a42"/>
+    <path d="M325 192 Q332 197 339 192" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="312" y="202" width="36" height="60" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="320" y1="262" x2="318" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="340" y1="262" x2="342" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- fanned bundle of six crayons -->
+    <line x1="330" y1="218" x2="300" y2="212" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <line x1="330" y1="222" x2="298" y2="220" stroke="#6b93b6" stroke-width="5" stroke-linecap="round"/>
+    <line x1="330" y1="226" x2="296" y2="228" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+    <line x1="330" y1="230" x2="294" y2="236" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <line x1="330" y1="234" x2="292" y2="244" stroke="#6b93b6" stroke-width="5" stroke-linecap="round"/>
+    <line x1="330" y1="238" x2="290" y2="252" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+    <!-- child with none -->
+    <circle cx="430" cy="206" r="19" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M411 202 A19 19 0 0 1 449 202 Z" fill="#4f6d7a"/>
+    <circle cx="424" cy="208" r="2" fill="#2b3a42"/>
+    <circle cx="438" cy="208" r="2" fill="#2b3a42"/>
+    <path d="M425 216 Q432 220 439 216" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="412" y="228" width="36" height="58" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="420" y1="286" x2="418" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="440" y1="286" x2="442" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- empty open hands -->
+    <line x1="412" y1="244" x2="388" y2="254" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="412" y1="252" x2="388" y2="262" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <text x="380" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">unfair</text>
+    <text x="380" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">one keeps them all</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Fair means no one is left out.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Everyone, everywhere, knows this feeling.</text>
+</svg>

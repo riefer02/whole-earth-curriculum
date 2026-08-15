@@ -45,6 +45,11 @@ context_variants:
     note: The learner chooses a friend-card or an animal-card, names one way to help, and says why it matters
   - context: outdoor-only
     note: Look for a real living thing to help gently — a plant to water, an ant to step around, a leaf to leave on the ground — and say why it is good
+assets:
+  - path: assets/images/L.00.011.02-helping-a-friend-or-animal.svg
+    alt: Two panels. The left panel, "help a friend," shows a child offering a hand up to a friend who has fallen and is sitting on the ground. The right panel, "help an animal," shows a child pouring water from a small jug into a dish while a small wild bird waits beside it. The people have different skin tones, and the animal is a wild bird, not a pet. Labels and shapes carry the meaning, so it prints in grayscale and shows two gentle ways to help a living thing.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice gentle, specific ways to help a friend or an animal and say why

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fairness and caring for others: my kind choice page</title>
+  <desc id="desc">A four-box page that gathers the whole unit. Box one, "kind and helpful," shows a heart. Box two, "fair," shows a balance scale with two equal pans. Box three, "our job or decision," shows three people with different skin tones side by side. Box four, "make it right," shows two hands meeting with a small heart above them. Each box is labeled. The labels and the shapes carry the meaning, not color, so the picture prints clearly in grayscale and shows four small things a person can do every day to be fair and caring.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Fair &amp; Caring — My Kind Choice Page</text>
+
+  <!-- Box frames -->
+  <rect x="24" y="80" width="224" height="180" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="264" y="80" width="224" height="180" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="272" width="224" height="180" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="264" y="272" width="224" height="180" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ===== Box 1: kind & helpful ===== -->
+  <text x="136" y="108" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">kind &amp; helpful</text>
+  <path d="M136 198 C128 184 116 190 116 200 C116 212 126 216 136 226 C146 216 156 212 156 200 C156 190 144 184 136 198 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="136" y="244" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a kind act</text>
+
+  <!-- ===== Box 2: fair ===== -->
+  <text x="376" y="108" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">fair</text>
+  <g>
+    <line x1="376" y1="150" x2="376" y2="206" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="358" y1="206" x2="394" y2="206" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="330" y1="152" x2="422" y2="152" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="376" cy="150" r="3.5" fill="#2b3a42"/>
+    <!-- left pan -->
+    <line x1="330" y1="152" x2="322" y2="176" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="330" y1="152" x2="338" y2="176" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M320 176 Q330 186 340 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="324" y="168" width="12" height="10" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- right pan -->
+    <line x1="422" y1="152" x2="414" y2="176" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="422" y1="152" x2="430" y2="176" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M412 176 Q422 186 432 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="416" y="168" width="12" height="10" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="376" y="244" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">everyone gets a share</text>
+
+  <!-- ===== Box 3: our job or decision ===== -->
+  <text x="136" y="300" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">our job or decision</text>
+  <g>
+    <circle cx="108" cy="336" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M90 344 Q108 358 126 344 L126 344 Q120 368 96 368 Q90 368 90 344 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="136" cy="330" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 338 Q136 352 154 338 L154 338 Q148 362 124 362 Q118 362 118 338 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="164" cy="336" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M146 344 Q164 358 182 344 L182 344 Q176 368 152 368 Q146 368 146 344 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- linking line: together -->
+    <path d="M108 336 Q136 320 164 336" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4" stroke-linecap="round"/>
+  </g>
+  <text x="136" y="432" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">we decide and help together</text>
+
+  <!-- ===== Box 4: make it right ===== -->
+  <text x="376" y="300" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">make it right</text>
+  <g>
+    <!-- left hand -->
+    <path d="M346 366 Q340 352 348 344 L360 338 Q366 336 368 342 L372 352 Q360 358 354 366 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- right hand -->
+    <path d="M406 366 Q412 352 404 344 L392 338 Q386 336 384 342 L380 352 Q392 358 398 366 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- small heart above the hands -->
+    <path d="M376 322 C371 315 364 318 364 324 C364 330 371 333 376 339 C381 333 388 330 388 324 C388 318 381 315 376 322 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <text x="376" y="432" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">repair the hurt, not punish</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Four small things, every day, make a fair and caring life.</text>
+</svg>

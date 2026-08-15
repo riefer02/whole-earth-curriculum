@@ -46,6 +46,11 @@ context_variants:
     note: The learner picks one job, does it, and tells a grown-up or peer how it helped the group
   - context: outdoor-only
     note: Do a job that helps the shared outdoor space — watering plants, clearing a path, picking up litter safely — and name how it helps
+assets:
+  - path: assets/images/L.00.011.06-a-class-job-that-helps.svg
+    alt: Three panels of small class jobs. The first panel, "water the plants," shows a child tipping a small watering can over a potted plant. The second panel, "pass the paper," shows two children passing a sheet of paper from one to the other. The third panel, "tidy the shelf," shows a child placing a book on a shelf. The children have different skin tones. Each job is labeled, and the labels and shapes carry the meaning, so it prints in grayscale and shows that many small jobs, done by many hands, care for the whole class.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners choose and carry out a small, real job that helps the whole class, and

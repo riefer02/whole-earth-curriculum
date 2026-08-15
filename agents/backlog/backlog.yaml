@@ -1326,12 +1326,22 @@ items:
     type: assets
     grade: 0
     domain: D09
-    status: ready
+    status: done
     priority: 40
     depends_on:
       - B-049
     required_reviews: *a2
-    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.011 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.011 that lack a graphic, and wire each into the lesson's assets: field with alt text. Blocked by reviewer: lesson-004-sharing-and-taking-turns.md still uses 'talking stick' (sacred Indigenous practice) in 2 places: frontmatter materials line (notes: 'A ball, a shell, or a special \"talking stick\"...') and body line ('A shared object to pass (ball, shell, or \"talking stick\")'). Rename both to neutral 'turn marker' (matching lesson-5 SVG and codebase standard). Everything else clean: 8/8 assets resolve, valid grayscale-safe SVGs, ethics-as-question + repair-not-punishment + name-the-act framing, equity-as-need held as open question, D09 K objectives resolve.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Rework resolved: validate passes (301 files); grep zero 'talking stick' in unit-011 (both lesson-004 occurrences now 'turn marker'). All 8 assets resolve with non-empty alt/kind/source; 8 SVGs well-formed XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal (labels/shapes). Framing held: ethics-as-questions, repair-not-punishment, name-the-act, equity-as-need. Objectives resolve to real D09 K standards. (Note: unrelated units U.00.004/U.00.005/grade-01 U.003 still contain 'talking stick' in lesson text — out of this item's scope, previously flagged non-blocking.)"
+      accessibility-editor:
+        verdict: passed
+        note: "8 SVGs role=img + aria-labelledby + title/desc, grayscale-safe (labels/shapes/counts/thumbs), color never sole signal. Alt concept-complete. 'say or show/point/act' paths (L3 thumbs, L4 say-sign-point, L5 point/nod/eye-gaze, L7 say-sign-point); non-speaking + motor alternates (partner passes/moves); no forced speaking. Inclusive (wheelchair L5, varied skin tones). Low-tech all 8. Fix: two invalid stroke-linecap='2' -> 'round' in L.03/L.06. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Rework holds: zero 'talking stick' in U.00.011 (L.04 now 'turn marker'; L.05 'talking object' + SVG 'turn marker', facilitator notes honor talking circles respectfully not decoration). Fairness universal ('everyone everywhere knows this feeling', how people share differs across cultures). Equity-vs-equality held open (L.04 'not a correction', SVG 04 'Two real ways to be fair. Which fits here?'). No pet-centrism (L.02 friends/pets/livestock/wild; SVG 02 wild bird 'not a pet'). Name-act-never-child. Skin tones vary; wheelchair natural (SVG 05). Grayscale-safe. No edits. validate passes (301 files)."
   - id: B-081
     title: "Illustration pass: add SVG assets to lessons in U.00.012"
     agent: asset-designer

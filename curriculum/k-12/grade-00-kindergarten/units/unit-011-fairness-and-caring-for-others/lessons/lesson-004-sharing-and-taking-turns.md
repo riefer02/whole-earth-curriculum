@@ -23,7 +23,7 @@ key_vocabulary:
 materials:
   - name: A shared object to pass
     quantity: "1"
-    notes: A ball, a shell, or a special "talking stick" for turn-taking practice
+    notes: A ball, a shell, or a special "turn marker" for turn-taking practice
   - name: Timer or song
     quantity: "1"
     notes: To mark turns (a short song or counting works)
@@ -48,6 +48,11 @@ context_variants:
     note: The learner practices dividing a small set of objects and explains when "the same amount" is fair and when "what each needs" is fair
   - context: outdoor-only
     note: Share one natural item (a stick, a flower, a turn on a log) and practice a fair way to take turns around the group
+assets:
+  - path: assets/images/L.00.011.04-sharing-and-taking-turns.svg
+    alt: Two panels. The left panel, "the same," shows two children sharing six crackers so each gets three, with a dashed line splitting the plate into two equal groups. The right panel, "what each needs," shows a tall child and a small child both looking out a high window, and the small child stands on a stool to reach it. The children have different skin tones. Labels and shapes carry the meaning, so it prints in grayscale and holds two real kinds of fair side by side as a question.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice sharing and taking turns, and discover that fair sometimes means
@@ -90,7 +95,7 @@ same window — that is fair, and it is not the same.
 
 ## Materials
 
-- A shared object to pass (ball, shell, or "talking stick")
+- A shared object to pass (ball, shell, or "turn marker")
 - A timer or a short song to mark turns
 - Crayons and paper
 

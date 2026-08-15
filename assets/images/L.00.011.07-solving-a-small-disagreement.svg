@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Solving a small disagreement</title>
+  <desc id="desc">At the top, a three-step strip shows Stop and breathe, Use words, and Ask for help. Below, two children who wanted the same ball now stand on either side of it, both reaching to share it, with speech bubbles "are you okay?" and "let's share." A small heart floats between them. The children have different skin tones. The steps, the words, and the two children sharing the ball carry the meaning, not color, so the picture prints clearly in grayscale and shows that words solve a small problem and that making it right repairs the hurt instead of punishing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Solving a Small Disagreement</text>
+
+  <!-- ===== Three-step strip ===== -->
+  <g>
+    <rect x="16" y="70" width="144" height="68" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="184" y="70" width="144" height="68" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="352" y="70" width="144" height="68" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+    <!-- Box 1: stop -->
+    <circle cx="34" cy="86" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="34" y="90" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">1</text>
+    <rect x="32" y="98" width="20" height="28" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="33" y="90" width="4.5" height="12" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="39" y="90" width="4.5" height="12" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="45" y="90" width="4.5" height="12" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="51" y="90" width="4.5" height="12" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="72" y="101" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Stop</text>
+    <text x="72" y="118" font-family="sans-serif" font-size="12" fill="#4f6d7a">and breathe</text>
+
+    <!-- arrow 1->2 -->
+    <line x1="164" y1="104" x2="180" y2="104" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M178 99 L184 104 L178 109 Z" fill="#2b3a42"/>
+
+    <!-- Box 2: words -->
+    <circle cx="202" cy="86" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="202" y="90" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">2</text>
+    <rect x="198" y="98" width="28" height="20" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M206 118 L212 126 L200 118 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="240" y="101" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Use words</text>
+    <text x="240" y="118" font-family="sans-serif" font-size="12" fill="#4f6d7a">say or sign</text>
+
+    <!-- arrow 2->3 -->
+    <line x1="332" y1="104" x2="348" y2="104" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M346 99 L352 104 L346 109 Z" fill="#2b3a42"/>
+
+    <!-- Box 3: ask for help -->
+    <circle cx="370" cy="86" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="370" y="90" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">3</text>
+    <rect x="366" y="98" width="20" height="28" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="367" y="90" width="4.5" height="12" rx="2" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="373" y="90" width="4.5" height="12" rx="2" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="379" y="90" width="4.5" height="12" rx="2" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="385" y="90" width="4.5" height="12" rx="2" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="374" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">?</text>
+    <text x="408" y="101" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Ask for</text>
+    <text x="408" y="118" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">help</text>
+  </g>
+
+  <!-- ===== Middle scene: making it right ===== -->
+  <g>
+    <line x1="48" y1="396" x2="464" y2="396" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Left child -->
+    <circle cx="140" cy="252" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 248 A22 22 0 0 1 162 248 Z" fill="#2b3a42"/>
+    <circle cx="132" cy="254" r="2.2" fill="#2b3a42"/>
+    <circle cx="148" cy="254" r="2.2" fill="#2b3a42"/>
+    <path d="M132 264 Q140 270 148 264" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="122" y="276" width="36" height="64" rx="13" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="130" y1="340" x2="128" y2="394" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="150" y1="340" x2="152" y2="394" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- arm to ball -->
+    <line x1="122" y1="296" x2="206" y2="320" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+
+    <!-- Right child -->
+    <circle cx="372" cy="252" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M350 248 A22 22 0 0 1 394 248 Z" fill="#4f6d7a"/>
+    <circle cx="364" cy="254" r="2.2" fill="#2b3a42"/>
+    <circle cx="380" cy="254" r="2.2" fill="#2b3a42"/>
+    <path d="M364 264 Q372 270 380 264" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="354" y="276" width="36" height="64" rx="13" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="362" y1="340" x2="360" y2="394" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="382" y1="340" x2="384" y2="394" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- arm to ball -->
+    <line x1="390" y1="296" x2="306" y2="320" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+
+    <!-- Ball, shared -->
+    <circle cx="256" cy="326" r="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M234 316 Q256 306 278 316" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M236 336 Q256 344 276 336" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- heart -->
+    <path d="M256 284 C250 276 240 280 240 288 C240 296 248 300 256 306 C264 300 272 296 272 288 C272 280 262 276 256 284 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+
+    <!-- speech bubbles -->
+    <rect x="56" y="192" width="146" height="44" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M132 236 L140 250 L124 236 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="129" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">are you okay?</text>
+
+    <rect x="310" y="192" width="146" height="44" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M380 236 L388 250 L372 236 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="383" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">let&#39;s share</text>
+  </g>
+
+  <!-- make it right tag -->
+  <rect x="196" y="414" width="120" height="28" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">make it right</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Words solve it — then make it right, so everyone can play again.</text>
+</svg>

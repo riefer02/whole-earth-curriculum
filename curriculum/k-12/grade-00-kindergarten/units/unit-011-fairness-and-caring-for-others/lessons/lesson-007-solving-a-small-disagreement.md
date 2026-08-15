@@ -48,6 +48,11 @@ context_variants:
     note: The learner follows the three steps with a picture strip and practices saying the repair words aloud
   - context: outdoor-only
     note: Use a real small conflict over a shared found object (a stick, a turn on a log) and practice the three steps right there
+assets:
+  - path: assets/images/L.00.011.07-solving-a-small-disagreement.svg
+    alt: At the top, a three-step strip shows Stop and breathe, Use words, and Ask for help. Below, two children who wanted the same ball now stand on either side of it, both reaching to share it, with speech bubbles "are you okay?" and "let's share," and a small heart between them. The children have different skin tones. The steps, the words, and the two children sharing the ball carry the meaning, so it prints in grayscale and shows that words solve a small problem and making it right repairs the hurt instead of punishing.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice a simple three-step way to solve a small disagreement with words

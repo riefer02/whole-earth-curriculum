@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Helping a friend or animal</title>
+  <desc id="desc">Two panels. Panel one, "help a friend": a child offers a hand up to a friend who has fallen and is sitting on the ground. Panel two, "help an animal": a child pours water from a small jug into a dish while a small wild bird waits beside it. The people have different skin tones and shirt colors, and the animal is a wild bird, not a pet. Each panel is labeled. The labels and the shapes of the actions carry the meaning, not color, so the picture prints clearly in grayscale and shows two gentle ways to help a living thing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Helping a Friend or Animal</text>
+
+  <!-- Panel frames -->
+  <rect x="16" y="84" width="232" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="264" y="84" width="232" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ===== Panel 1: help a friend ===== -->
+  <g>
+    <!-- ground -->
+    <line x1="24" y1="336" x2="240" y2="336" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- fallen friend, sitting -->
+    <circle cx="104" cy="206" r="19" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M85 202 A19 19 0 0 1 123 202 Z" fill="#4f6d7a"/>
+    <circle cx="98" cy="208" r="2" fill="#2b3a42"/>
+    <circle cx="112" cy="208" r="2" fill="#2b3a42"/>
+    <path d="M99 216 Q106 221 113 216" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="86" y="228" width="36" height="46" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- sitting legs forward -->
+    <line x1="96" y1="272" x2="120" y2="334" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="114" y1="272" x2="138" y2="334" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- friend's hand reaching up -->
+    <line x1="112" y1="240" x2="136" y2="212" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- helper child, standing -->
+    <circle cx="180" cy="150" r="19" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M161 146 A19 19 0 0 1 199 146 Z" fill="#2b3a42"/>
+    <circle cx="174" cy="152" r="2" fill="#2b3a42"/>
+    <circle cx="188" cy="152" r="2" fill="#2b3a42"/>
+    <path d="M175 162 Q182 167 189 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="162" y="172" width="36" height="60" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="170" y1="232" x2="168" y2="334" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="190" y1="232" x2="192" y2="334" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- helper's helping arm down -->
+    <line x1="162" y1="190" x2="138" y2="212" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- hands meeting -->
+    <circle cx="137" cy="212" r="5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="132" y="362" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">help a friend</text>
+    <text x="132" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a hand up</text>
+  </g>
+
+  <!-- ===== Panel 2: help an animal ===== -->
+  <g>
+    <!-- ground -->
+    <line x1="272" y1="336" x2="488" y2="336" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- child standing, holding jug -->
+    <circle cx="322" cy="178" r="19" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M303 174 A19 19 0 0 1 341 174 Z" fill="#2b3a42"/>
+    <circle cx="316" cy="180" r="2" fill="#2b3a42"/>
+    <circle cx="330" cy="180" r="2" fill="#2b3a42"/>
+    <path d="M317 190 Q324 195 331 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="304" y="200" width="36" height="62" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="312" y1="262" x2="310" y2="334" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="332" y1="262" x2="334" y2="334" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- arm holding jug out -->
+    <line x1="340" y1="218" x2="368" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- jug -->
+    <path d="M366 232 L384 232 L386 256 L368 258 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M380 232 Q382 246 390 252" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- water stream -->
+    <line x1="390" y1="252" x2="390" y2="296" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-dasharray="3 4"/>
+    <!-- water dish -->
+    <ellipse cx="392" cy="312" rx="34" ry="11" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="392" cy="310" rx="24" ry="6" fill="#6b93b6" stroke="none"/>
+    <!-- bird -->
+    <g>
+      <ellipse cx="438" cy="292" rx="14" ry="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+      <circle cx="452" cy="280" r="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M460 279 L470 282 L460 285 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+      <circle cx="455" cy="278" r="1.6" fill="#2b3a42"/>
+      <path d="M432 288 Q438 282 444 288" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+      <line x1="436" y1="302" x2="436" y2="322" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+      <line x1="443" y1="302" x2="443" y2="322" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <text x="380" y="362" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">help an animal</text>
+    <text x="380" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fill the water dish</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Helping a living thing says: you matter.</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Always be gentle — and ask a grown-up if you are not sure.</text>
+</svg>

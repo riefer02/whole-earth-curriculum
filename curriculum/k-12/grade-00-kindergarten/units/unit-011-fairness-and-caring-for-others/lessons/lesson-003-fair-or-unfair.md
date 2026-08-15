@@ -47,6 +47,11 @@ context_variants:
     note: The learner sorts each card into "fair" or "unfair" and says one reason for each
   - context: outdoor-only
     note: Use a real shared object — one swing, one ball, a few stones — and act out a fair way and an unfair way to share it
+assets:
+  - path: assets/images/L.00.011.03-fair-or-unfair.svg
+    alt: Two panels. The left panel, "fair," shows two children sharing six crayons so each gets three, marked with a thumbs up. The right panel, "unfair," shows one child holding all six crayons while the other stands with empty open hands, marked with a thumbs down. The children have different skin tones. Labels, the number of crayons each child holds, and the thumbs carry the meaning, so it prints in grayscale and shows that fair means everyone gets a share while unfair leaves someone out.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners tell whether simple situations are fair or unfair and say why, using

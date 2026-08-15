@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A class job that helps</title>
+  <desc id="desc">Three panels of small class jobs. Panel one, "water the plants": a child tips a small watering can over a potted plant. Panel two, "pass the paper": two children pass a sheet of paper from one to the other. Panel three, "tidy the shelf": a child places a book on a shelf. The children have different skin tones and shirt colors. Each job is labeled. The labels and the shapes of the jobs carry the meaning, not color, so the picture prints clearly in grayscale and shows that many small jobs, done by many hands, care for the whole class.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Class Job That Helps</text>
+
+  <!-- Panel frames -->
+  <rect x="16" y="84" width="152" height="296" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="180" y="84" width="152" height="296" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="344" y="84" width="152" height="296" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ===== Panel 1: water the plants ===== -->
+  <g>
+    <line x1="24" y1="330" x2="160" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- plant -->
+    <path d="M78 274 L78 258 M78 262 Q70 258 70 250 M78 266 Q86 262 86 254" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M62 300 L110 300 L104 336 L68 336 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- child -->
+    <circle cx="86" cy="176" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M70 172 A16 16 0 0 1 102 172 Z" fill="#2b3a42"/>
+    <circle cx="80" cy="178" r="1.8" fill="#2b3a42"/>
+    <circle cx="93" cy="178" r="1.8" fill="#2b3a42"/>
+    <path d="M81 188 Q87 192 93 188" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="70" y="196" width="32" height="56" rx="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="78" y1="252" x2="76" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="94" y1="252" x2="96" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- arm to watering can -->
+    <line x1="102" y1="212" x2="120" y2="238" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- watering can -->
+    <path d="M114 232 L134 232 L136 254 L116 256 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M130 232 Q132 248 140 254" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- water drops -->
+    <line x1="138" y1="254" x2="128" y2="272" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-dasharray="3 4"/>
+    <text x="92" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">water the</text>
+    <text x="92" y="374" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">plants</text>
+  </g>
+
+  <!-- ===== Panel 2: pass the paper ===== -->
+  <g>
+    <line x1="188" y1="330" x2="324" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- left child -->
+    <circle cx="216" cy="188" r="15" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M201 184 A15 15 0 0 1 231 184 Z" fill="#4f6d7a"/>
+    <circle cx="211" cy="190" r="1.7" fill="#2b3a42"/>
+    <circle cx="222" cy="190" r="1.7" fill="#2b3a42"/>
+    <path d="M212 199 Q217 202 222 199" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="201" y="206" width="30" height="52" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="208" y1="258" x2="206" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="224" y1="258" x2="226" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- right child -->
+    <circle cx="296" cy="188" r="15" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M281 184 A15 15 0 0 1 311 184 Z" fill="#2b3a42"/>
+    <circle cx="291" cy="190" r="1.7" fill="#2b3a42"/>
+    <circle cx="302" cy="190" r="1.7" fill="#2b3a42"/>
+    <path d="M292 199 Q297 202 302 199" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="281" y="206" width="30" height="52" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="288" y1="258" x2="286" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="304" y1="258" x2="306" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- paper between them -->
+    <rect x="240" y="236" width="32" height="24" rx="2" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="246" y1="243" x2="266" y2="243" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="246" y1="249" x2="266" y2="249" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="246" y1="255" x2="260" y2="255" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- arms to paper -->
+    <line x1="231" y1="224" x2="246" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="281" y1="224" x2="266" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <text x="256" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">pass the</text>
+    <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">paper</text>
+  </g>
+
+  <!-- ===== Panel 3: tidy the shelf ===== -->
+  <g>
+    <line x1="352" y1="330" x2="488" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- shelf board -->
+    <line x1="360" y1="246" x2="480" y2="246" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- books on shelf -->
+    <rect x="434" y="220" width="14" height="26" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="450" y="222" width="13" height="24" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="465" y="220" width="14" height="26" rx="2" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- child -->
+    <circle cx="394" cy="180" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M379 176 A15 15 0 0 1 409 176 Z" fill="#6b4a2f"/>
+    <circle cx="389" cy="182" r="1.7" fill="#2b3a42"/>
+    <circle cx="400" cy="182" r="1.7" fill="#2b3a42"/>
+    <path d="M390 191 Q395 194 400 191" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="379" y="198" width="30" height="52" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="386" y1="250" x2="384" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="402" y1="250" x2="404" y2="328" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- arm placing a book -->
+    <line x1="409" y1="214" x2="424" y2="234" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <rect x="418" y="224" width="14" height="24" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">tidy the</text>
+    <text x="420" y="374" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">shelf</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">When each person does a little, the whole group is cared for.</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Every job helps — no job is too small.</text>
+</svg>

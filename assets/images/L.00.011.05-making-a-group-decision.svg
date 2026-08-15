@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Making a group decision</title>
+  <desc id="desc">A group of four children gathered in a circle to decide together. One child, who uses a wheelchair, sits on the left; the child in the middle holds up a smooth stone turn marker labeled "turn marker" and says "I choose the song." In front of the group sit three choice cards labeled song, game, and name, each with a small picture. The children have different skin tones and shirt colors. The turn marker passes from speaker to speaker so every voice is heard. The labels and shapes carry the meaning, not color, so the picture prints clearly in grayscale and shows that a group decision belongs to everyone.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Making a Group Decision</text>
+
+  <!-- Ground -->
+  <line x1="40" y1="398" x2="472" y2="398" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Child A: wheelchair user (left) ===== -->
+  <g>
+    <circle cx="64" cy="204" r="17" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M47 200 A17 17 0 0 1 81 200 Z" fill="#4f6d7a"/>
+    <circle cx="58" cy="206" r="1.9" fill="#2b3a42"/>
+    <circle cx="72" cy="206" r="1.9" fill="#2b3a42"/>
+    <path d="M59 216 Q65 220 71 216" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="48" y="224" width="32" height="52" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- seat and legs -->
+    <rect x="46" y="276" width="36" height="12" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="52" y1="288" x2="50" y2="350" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="72" y1="288" x2="74" y2="350" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <rect x="46" y="350" width="36" height="8" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <!-- wheels -->
+    <circle cx="50" cy="378" r="20" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="50" cy="378" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="78" cy="378" r="20" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="78" cy="378" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- ===== Child B: speaker, holds turn marker ===== -->
+  <g>
+    <circle cx="176" cy="168" r="19" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M157 164 A19 19 0 0 1 195 164 Z" fill="#2b3a42"/>
+    <circle cx="170" cy="170" r="2" fill="#2b3a42"/>
+    <circle cx="184" cy="170" r="2" fill="#2b3a42"/>
+    <path d="M171 180 Q178 185 185 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="158" y="190" width="36" height="64" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="166" y1="254" x2="164" y2="396" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="186" y1="254" x2="188" y2="396" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- raised arm to stone -->
+    <line x1="158" y1="210" x2="136" y2="150" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <!-- turn marker stone -->
+  <ellipse cx="130" cy="142" rx="15" ry="19" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M120 146 Q130 138 140 146" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="150" y="126" width="96" height="22" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="198" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">turn marker</text>
+  <line x1="150" y1="136" x2="146" y2="139" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- speech bubble -->
+  <rect x="200" y="102" width="150" height="44" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M236 146 L244 160 L228 146 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="275" y="130" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I choose the song</text>
+
+  <!-- ===== Child C ===== -->
+  <g>
+    <circle cx="288" cy="168" r="19" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M269 164 A19 19 0 0 1 307 164 Z" fill="#2b3a42"/>
+    <circle cx="282" cy="170" r="2" fill="#2b3a42"/>
+    <circle cx="296" cy="170" r="2" fill="#2b3a42"/>
+    <path d="M283 180 Q290 185 297 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="270" y="190" width="36" height="64" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="278" y1="254" x2="276" y2="396" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="298" y1="254" x2="300" y2="396" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== Child D ===== -->
+  <g>
+    <circle cx="410" cy="186" r="18" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M392 182 A18 18 0 0 1 428 182 Z" fill="#6b4a2f"/>
+    <circle cx="404" cy="188" r="1.9" fill="#2b3a42"/>
+    <circle cx="418" cy="188" r="1.9" fill="#2b3a42"/>
+    <path d="M405 198 Q412 202 419 198" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="394" y="206" width="32" height="62" rx="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="402" y1="268" x2="400" y2="396" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="418" y1="268" x2="420" y2="396" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== Choice cards ===== -->
+  <g>
+    <!-- song -->
+    <rect x="150" y="344" width="72" height="50" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="172" cy="364" r="5" fill="#2b3a42"/>
+    <line x1="177" y1="364" x2="177" y2="348" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M177 348 Q185 350 186 358" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="202" y="370" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">song</text>
+
+    <!-- game -->
+    <rect x="250" y="344" width="72" height="50" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="272" cy="362" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M265 358 Q272 354 279 358" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="302" y="370" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">game</text>
+
+    <!-- name (plant) -->
+    <rect x="350" y="344" width="72" height="50" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M370 366 L370 352 M370 356 Q363 354 362 348 M370 358 Q377 356 378 350" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
+    <path d="M364 372 L376 372 L374 366 L366 366 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="402" y="370" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">name</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Everyone has a voice — we decide together.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Pass the turn marker so each voice is heard.</text>
+</svg>

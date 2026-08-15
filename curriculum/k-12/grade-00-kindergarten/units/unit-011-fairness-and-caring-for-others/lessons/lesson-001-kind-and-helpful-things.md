@@ -44,6 +44,11 @@ context_variants:
     note: The learner looks at each card, names the kind act, and tells a grown-up or writes one reason it is good
   - context: outdoor-only
     note: 'Find kind acts outdoors (watering a plant, moving a rock from a path, leaving a flower for a bee), then name each and say why it is good'
+assets:
+  - path: assets/images/L.00.011.01-kind-and-helpful-things.svg
+    alt: A neighbor and a child lift one basket of fruit together. The child asks "Can I help?" and the neighbor answers "Thank you — that's kind!" The two people have different skin tones. The words and the act of two people carrying one basket carry the meaning, so the picture prints clearly in grayscale and shows that helping carry is one kind and helpful thing you can do.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name kind and helpful things they can do, practice saying why each is

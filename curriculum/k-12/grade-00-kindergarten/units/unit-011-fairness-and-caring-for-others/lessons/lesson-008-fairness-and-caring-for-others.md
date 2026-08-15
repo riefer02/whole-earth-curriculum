@@ -57,6 +57,11 @@ context_variants:
     note: The learner completes all four boxes alone, then shares the finished page with a grown-up or peer
   - context: outdoor-only
     note: Build the four-part page on the ground with found objects in four marked circles, then share aloud
+assets:
+  - path: assets/images/L.00.011.08-fairness-and-caring-for-others.svg
+    alt: A four-box page that gathers the whole unit. "Kind and helpful" shows a heart. "Fair" shows a balance scale with two equal pans. "Our job or decision" shows three people with different skin tones side by side. "Make it right" shows two hands meeting with a small heart above them. Each box is labeled, and the labels and shapes carry the meaning, so it prints in grayscale and shows four small things a person can do every day to be fair and caring.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the unit together in a four-part "kind choice" page — kind/helpful,

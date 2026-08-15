@@ -46,6 +46,11 @@ context_variants:
     note: The learner (or a small learner group without an adult) poses a simple shared choice, hears each person, and records what the group decides
   - context: outdoor-only
     note: Mark two or three choice spots with sticks or stones and have learners walk to their choice, then talk it over together
+assets:
+  - path: assets/images/L.00.011.05-making-a-group-decision.svg
+    alt: A group of four children gathered in a circle to decide together. One child who uses a wheelchair sits on the left; the child in the middle holds up a smooth stone turn marker labeled "turn marker" and says "I choose the song." In front sit three choice cards labeled song, game, and name. The children have different skin tones. Labels and shapes carry the meaning, so it prints in grayscale and shows that the turn marker passes so every voice is heard and the decision belongs to everyone.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners make a real group decision together — hearing every voice, listening, and
