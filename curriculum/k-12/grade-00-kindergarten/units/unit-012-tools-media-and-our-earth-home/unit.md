@@ -27,9 +27,9 @@ duration_weeks: 2
 assessment_plan: >-
   Observation of tool-talk, real-vs-make-believe sorting, and acts of care; a "care
   for the Earth" drawing as a portfolio artifact.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 12 — Tools, Media & Our Earth Home
@@ -52,6 +52,11 @@ resource to consume.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Tools Help Us | D10.S1.K.01 |
+| 2 | Tools All Around Me | D10.S1.K.01 |
+| 3 | Real or Make-Believe? | D10.S2.K.01 |
+| 4 | Stories Real and Pretend | D10.S2.K.01 |
+| 5 | What Living Things Need | D10.S3.K.01 |
+| 6 | Watching a Living Thing | D10.S3.K.01 |
+| 7 | Caring for Our Earth Home | D10.S4.K.01 |
+| 8 | Tools, Media & Our Earth Home | D10.S1.K.01, D10.S2.K.01, D10.S3.K.01, D10.S4.K.01 |

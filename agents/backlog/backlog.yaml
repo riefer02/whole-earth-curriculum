@@ -663,11 +663,30 @@ items:
     type: lesson
     grade: 0
     domain: D10
-    status: ready
+    status: done
     priority: 12
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (159 files). IDs L.00.012.01-.08 sequential, sequence_in_unit 1-8; headings present. Objectives resolve only to D10.S1/S2/S3/S4.K.01 (confirmed domain-10 verbatim). Age-appropriate: tech neutral ('not magic and not better just because new'), make-believe gentle ('a treasure to love not a trick to fear'), 'Do not shame any media or screen'. Connections concrete/faithful (L6 'a scientist is first a watcher'; L7 'the Earth is our home'). unit.md table lists all 8."
+      fact-checker:
+        verdict: passed
+        note: "Reviewed 8 lessons + unit.md. No Resources/citations/URLs; content has no claim needing a vetted source. Facts verified: plants need sun/water/food/air (food 'from the soil' not 'plants eat soil'; facilitator softens 'sun' for animals); tools accurate (spoon scoops, broom sweeps, mortar-pestle grinds, loom weaves, jug carries; 'people everywhere in every time have made tools'); real-vs-make-believe accurate (dragon/unicorn/talking moon; 'animals do not talk, houses do not fly', make-believe as treasure not lie); Earth care accurate (watering, turning off tap, litter). Evidence vs values clean; global tools (mortar-pestle/gourd/loom/scythe) not tech-centric. No registry changes. validate passes (159 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 8 lessons. Tools cross-cultural/cross-era (mortar-pestle/gourd/loom/scythe/grinding stone/water pump/fishing net/plow/hoe/basket/bicycle) equally valid, never ranked (L1 phone not 'the real modern tool', mortar-pestle 'just as much' a tool; L2 'no place's tools more important'). Media: dragon/unicorn/talking moon span traditions respectfully, pretend 'a treasure to love not a trick to fear', handles belief in dragons with wonder. Earth care multiple framings (watering/tap/leaf-to-soil/shading/litter), water-scarce adaptation, 'no right animal to watch'. No ranking. No fixes. Non-blocking: make-believe cards lean Western (add qilin/rainbow serpent/Anansi); L7 extension could name land-based care (tending fire, giving thanks)."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed 8 lessons. Low-tech universal (found objects/voice/body; devices enriched-only); context_variants all three (+multi-age L2/L8); no assets fields. Fixes: L5/L6 touch/smell/sound observation paths + low-vision/blind bullet, L6 'use your senses... watch without harming'; L7 motor-differences bullet (choose the act, direct partner's hands); L4 deaf/HH sign/act/picture path + differentiation; L2 'touching and holding as well as seeing'. validate passes (159 files). Non-blocking: L6 title 'Watching' could become 'Observing'; specify region sign language when localizing; future assets need alt text."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: vision → P4 → D10 → S1-S4 → D10.S1/S2/S3/S4.K.01 → U.00.012 → L.00.012.01-.08; domain:[D10] pillar:[P4] all; strands match objectives (S1 L1-2, S2 L3-4, S3 L5-6, S4 L7, L8 all). Lenses: ethics ('tools not magic, not better just because new', 'watch without harming'), egalitarianism (tools of every culture/era equal, 'no place's tools more important'), global (loom/jug/grinding stone/scythe/gourd/pump/net/plow/hoe/basket/bicycle; make-believe spans traditions), tech+env central. Evidence vs values: 'Earth as home not resource' explicitly value; facts uncontroversial everyday. No hierarchy. No fixes. validate passes (159 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 8 K lessons vs K-2 band. Cognitive fit: concrete/tangible (holdable tools, observed plant, one care act); real-vs-make-believe pitched at emerging distinction, soft not cynical (pretend 'treasure to love not a trick to fear', dragon-believer met with wonder); L4 'how do we know' checkable-truth heuristic age-appropriate. Emotional safety: no screen/media shaming; no eco-anxiety ('helpers not saviors or enemies', 'no act too small'); care as agency not guilt; make-believe never 'a lie'. Physical: supervised tool handling, 'watch without harming', doable care acts; motor/low-vision/deaf differentiation. Not dumbed down; learner as agent. Fix: L4 facilitator note — honor family sacred stories, don't call them make-believe (closes worldview collision). validate passes (159 files). Non-blocking: L6 observe bugs in place not jar; L1 mortar-pestle keep from youngest hands."
   - id: B-051
     title: Author lessons for Unit U.00.013 (All of Me, All of Us)
     agent: lesson-author
