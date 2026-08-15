@@ -423,11 +423,30 @@ items:
     type: lesson
     grade: 0
     domain: D02
-    status: ready
+    status: done
     priority: 4
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (79 files). Verified all 14 lessons L.00.004.01-.14 sequential with matching sequence_in_unit 1-14, unit U.00.004 on all. Headings Procedure/Assessment/Facilitator note/Connection present in all 14 (+ Summary/Objectives/Materials/Preparation/Differentiation/Resources/Home connection). Objectives resolve only to D02.S1/S2/S3/S4.K.01 (S1 lessons 1-4, S2 5-8, S3 9-11, S4 12-13, capstone 14 all four) — confirmed IDs exist in domain-02 (lines 38-44). Age-5 play/circle-based, no competition; L9 honors multiple family shapes and facilitator prohibits 'where is your mother/father'. Connections concrete/faithful (L1 swing/ball/drum; L9 'people who care for each other'). unit.md table lists all 14.
+      fact-checker:
+        verdict: passed
+        note: "Verified CASEL URL (fetched, live, on-topic: 'Fundamentals of SEL' — five core competencies across four settings, cites equity/safety outcomes). All 14 lessons cite it under 'CASEL SEL Framework (foundational competencies)'. S-001 already in sources.yaml (domains D01,D02, reviewed:true, exact URL match) — no action. Grep for other URLs/author-year/'research shows'/'proves' found nothing; content is pure values/skills SEL, no scientific/medical assertions. No fabricated citations. validate passes (79 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed all 14 lessons + unit.md. No US/Euro/urban default: objects/settings low-cost global (balls/shells/stones/seeds/petals/clapping/soil-drawings/water-fetching/tending plants); L11 spans city block/village/homes-along-road + market/well/tap/meeting tree/field/path/worship. Family/community: L9 honors grandparents/aunts/one/two parents/chosen people, facilitator bans 'where is your mother/father'; L11 covers family/class/village/neighborhood/market/faith. No ranking: L9 'no shape is better', L11 'none is the default'. SEL norms framed universal not etiquette. Fix: L3 added facilitator note that 'please/may I' are Anglophone — invite learners to share how they ask kindly in home languages. validate passes. Non-blocking: L8 'eyes looking' respectful-default vs averted-gaze cultures; L3 body could add 'in your language'."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed all 14 lessons. Fix: rewrote L8 'listening body' — removed eye-contact/'eyes on speaker'/fixed-posture mandate; listening now = giving attention/not interrupting/letting speaker finish; body flexible ('eyes toward or away, hands still or busy'); facilitator note: never insist on eye contact/posture, looking away IS listening, sign/lip-reading counts. Vocab eyes/ears→attention/calm/show. Low-tech universal on all 14 (voice/body/found objects, no device/card requirement). UDL non-visual/non-verbal/non-motor paths present; sentence starters + two-choice scaffolds in L2/L5/L9/L10/L14. context_variants large-group/self-directed/outdoor-only all. No assets fields. validate passes (79 files). Non-blocking: L5 still leads with facial-expression reading (add 'some friends show feelings via words/sounds/movement'); L1 'wait and watch'/L4 'watch sand fall' slightly visual."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: vision → P1 → D02 → S1-S4 → D02.S1/S2/S3/S4.K.01 → U.00.004 → L.00.004.01-.14; domain:[D02] pillar:[P1] on all; strand declarations match objectives. Lenses: ethics (mutual aid over competition), egalitarianism (no family/community shape ranked), global (varied family/neighborhood/story forms), environment where natural (L11/L13 shared path/well→classroom→Earth), tech not forced. Evidence vs values: all framed as values/practice, CASEL cited as framework not empirical backing. No hierarchy/supremacy (L12 'not a favor from above', L9 'never rank one family'). No fixes. validate passes (79 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 14 K lessons vs K-2 band. Cognitive fit: concrete/here-and-now (real ball/crayons/friend's face); theory of mind held at emerging level (L5 clue-finders + 'let's ask them', L6 inference at one remove via story character, never beyond age 5). Emotional safety: L9 bans 'where is your mother/father', pass allowed, no forced disclosure; L2 forbids forcing sharing of beloved object; L3 honors 'no'; L12 helping voluntary/mutual; assessment observation/portfolio, L14 'celebration not test'; friendship as practice not obligation. Physical: play/big-motor carry every lesson, non-exclusionary 'everyone gets a chance'; L8 refuses eye-contact/posture mandate, names autistic learners + sign/lip-readers. Agentic/open-ended: learners invent own games/kind words/helping jobs. No fixes needed. validate passes (79 files). Non-blocking: L7 'pushed/hurt' cards could add comfort-not-correction cushion for a child carrying real hurt."
   - id: B-043
     title: Author lessons for Unit U.00.005 (Words, Sounds & Stories)
     agent: lesson-author

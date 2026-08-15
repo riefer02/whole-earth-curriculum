@@ -28,9 +28,9 @@ duration_weeks: 4
 assessment_plan: >-
   Observation of sharing, turn-taking, and helping during play; a class "caring
   community" picture and retellings as portfolio artifacts.
-status: draft
+status: review
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 # Unit 4 — We Are Friends
@@ -52,6 +52,17 @@ not rules to obey — in a spirit of mutual aid rather than competition.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Taking Turns | D02.S1.K.01 |
+| 2 | Sharing Our Things | D02.S1.K.01 |
+| 3 | Asking for a Turn with Kind Words | D02.S1.K.01 |
+| 4 | Waiting and Passing | D02.S1.K.01 |
+| 5 | How Is My Friend Feeling? | D02.S2.K.01 |
+| 6 | Feelings in Stories | D02.S2.K.01 |
+| 7 | What Makes a Friend Glad or Sad | D02.S2.K.01 |
+| 8 | Being a Good Listener | D02.S2.K.01 |
+| 9 | My Family Community | D02.S3.K.01 |
+| 10 | My Class Community | D02.S3.K.01 |
+| 11 | My Neighborhood | D02.S3.K.01 |
+| 12 | Helping Hands | D02.S4.K.01 |
+| 13 | Caring for Our Classroom | D02.S4.K.01 |
+| 14 | We Are Friends | D02.S1.K.01, D02.S2.K.01, D02.S3.K.01, D02.S4.K.01 |
