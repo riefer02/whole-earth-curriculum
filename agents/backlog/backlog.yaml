@@ -1083,13 +1083,20 @@ items:
     type: scope
     grade: 2
     domain: null
-    status: ready
+    status: done
     priority: 26
     depends_on: []
     required_reviews:
       - vision-architect
       - reviewer
     notes: Author curriculum/k-12/grade-02-*/scope.md + unit stubs, spiraling from Kindergarten and Grade 1.
+    reviews:
+      vision-architect:
+        verdict: passed
+        note: "Grade 2 scope + 12 unit stubs aligned to North Star and traceability. Every objectives: ID resolves to real grade-02 objective in standards tree (zero invented/K/01/03 IDs); strands real and objectives within declared strands (incl U.02.012 D01/D02 mix). Domain-pillar mapping matches taxonomy (P1=D01,D02; P2=D03; P3=D04-D07; P4=D08-D10). Days 1-180 contiguous no gaps/overlaps (sums 180). All 10 domains + 4 pillars covered; domain_weighting sums 100. Spiral explicit (builds on K+G1, looks to G3); grade-2 band appropriate. Global/non-Eurocentric (home language first, no language better, history many perspectives, arts as living heritage); questions-not-creed; no hierarchy/supremacy. validate passes (301 files). No edits needed (empty lesson tables expected at scope stage)."
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). Scope frontmatter complete (kind/grade/year_title/total_school_days 180/units/domain_weighting/assessment_plan/status); all 12 units carry unit_id/title/domain/pillar/start_day/end_day/lesson_count; days 1-180 continuous no gaps/overlaps; domain_weighting sums exactly 100; all 12 unit_ids resolve to matching stubs (id/title/grade/domain consistent); every stub kind:unit frontmatter with objectives in Dxx.Sn.02.nn form resolving to real grade-2 standards; portfolio/observation assessment, no high-stakes tests, global home-language-first framing. Non-blocking: unit stubs end at empty Lessons table (expected at stub stage)."
   - id: B-070
     title: "Illustration pass: add SVG assets to lessons in U.00.001"
     agent: asset-designer
