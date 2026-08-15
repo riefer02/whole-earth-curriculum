@@ -351,4 +351,287 @@ items:
       reviewer:
         verdict: passed
         note: "Validate passed (29 files, 0 warnings). All 8 sources S-007..S-014 now reviewed:true with concrete notes. S-011 URL corrected to DOI primary source (10.1207/s15326985ep4102_1, Educational Psychologist). S-012 year corrected 2009->2008, 815 meta-analyses, d~0.72 relationships / d~0.73 feedback, methodology-criticism caveat added. S-010 CONTESTED preserved + attributed (Opatrny et al. 2025, 66 studies/2,819 estimates, <=15 students, STAR-only effect). S-013 CONTESTED preserved (structure not proof). Bloom 2-sigma + effect sizes consistent; TaRL six J-PAL evals across seven states consistent. Remaining URLs on-topic Wikipedia secondaries + Pratham primary. Non-blocking: S-011 title abbreviated (full: 'Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching')."
+  - id: B-040
+    title: Author lessons for Unit U.00.002 (My Body, My Home)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D03
+    status: ready
+    priority: 2
+    depends_on: []
+    required_reviews: &a1
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-041
+    title: Author lessons for Unit U.00.003 (Where Did Everything Come From?)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D06
+    status: ready
+    priority: 3
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-042
+    title: Author lessons for Unit U.00.004 (We Are Friends)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D02
+    status: ready
+    priority: 4
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-043
+    title: Author lessons for Unit U.00.005 (Words, Sounds & Stories)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D04
+    status: ready
+    priority: 5
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-044
+    title: Author lessons for Unit U.00.006 (Counting, Shapes & Patterns)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D05
+    status: ready
+    priority: 6
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-045
+    title: Author lessons for Unit U.00.007 (Making & Imagining)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D07
+    status: ready
+    priority: 7
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-046
+    title: Author lessons for Unit U.00.008 (Moving & Growing)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D03
+    status: ready
+    priority: 8
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-047
+    title: Author lessons for Unit U.00.009 (The Living World Around Us)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D06
+    status: ready
+    priority: 9
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-048
+    title: "Author lessons for Unit U.00.010 (Then & Now: Stories of People)"
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D08
+    status: ready
+    priority: 10
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-049
+    title: Author lessons for Unit U.00.011 (Fairness & Caring for Others)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D09
+    status: ready
+    priority: 11
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-050
+    title: Author lessons for Unit U.00.012 (Tools, Media & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D10
+    status: ready
+    priority: 12
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-051
+    title: Author lessons for Unit U.00.013 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 0
+    domain: D01
+    status: ready
+    priority: 13
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-052
+    title: Author lessons for Unit U.01.001 (My Feelings, My Story)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D01
+    status: ready
+    priority: 14
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-053
+    title: Author lessons for Unit U.01.002 (My Body, My Senses)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D03
+    status: ready
+    priority: 15
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-054
+    title: Author lessons for Unit U.01.003 (Learning to Live Together)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D02
+    status: ready
+    priority: 16
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-055
+    title: Author lessons for Unit U.01.004 (Letters, Sounds & Words)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D04
+    status: ready
+    priority: 17
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-056
+    title: Author lessons for Unit U.01.005 (Numbers All Around Us)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D05
+    status: ready
+    priority: 18
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-057
+    title: Author lessons for Unit U.01.006 (Wondering About the Living World)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D06
+    status: ready
+    priority: 19
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-058
+    title: Author lessons for Unit U.01.007 (Making, Music & Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D07
+    status: ready
+    priority: 20
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-059
+    title: Author lessons for Unit U.01.008 (Healthy, Safe & Strong)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D03
+    status: ready
+    priority: 21
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-060
+    title: Author lessons for Unit U.01.009 (People, Places & Long Ago)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D08
+    status: ready
+    priority: 22
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-061
+    title: Author lessons for Unit U.01.010 (Fairness & Our Shared Rules)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D09
+    status: ready
+    priority: 23
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-062
+    title: Author lessons for Unit U.01.011 (Tools, Stories & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D10
+    status: ready
+    priority: 24
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-063
+    title: Author lessons for Unit U.01.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 1
+    domain: D01
+    status: ready
+    priority: 25
+    depends_on: []
+    required_reviews: *a1
+    notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+  - id: B-064
+    title: Author Grade 2 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 2
+    domain: null
+    status: ready
+    priority: 26
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-02-*/scope.md + unit stubs, spiraling from Kindergarten and Grade 1.
 
