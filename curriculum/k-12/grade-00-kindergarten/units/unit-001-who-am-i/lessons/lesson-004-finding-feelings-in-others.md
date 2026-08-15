@@ -48,6 +48,11 @@ context_variants:
     note: A learner looks at a picture or thinks of a person, guesses the feeling from face and body, and writes or draws the clue
   - context: outdoor-only
     note: In pairs, one learner stands far away and shows a feeling using only their body (no face or words); the other guesses from the body shape
+assets:
+  - path: assets/images/L.00.001.04-feeling-clues.svg
+    alt: Three cards showing where to read a feeling in another person — a face, a voice with sound waves, and a body with drooping shoulders — plus a banner reading "Look, Listen, Ask to be sure"
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice reading feelings in other people by noticing faces, voices, and

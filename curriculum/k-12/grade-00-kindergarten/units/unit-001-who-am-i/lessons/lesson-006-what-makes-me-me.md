@@ -46,6 +46,11 @@ context_variants:
     note: A learner fills in the "Me" sheet alone, then reads or shows it to a grown-up or older learner
   - context: outdoor-only
     note: Each learner finds one natural object that reminds them of themselves — a tall stem, a round stone — and tells why
+assets:
+  - path: assets/images/L.00.001.06-all-about-me-frame.svg
+    alt: A four-part "Me" frame with labeled spaces — my name with a blank name tag, things I like with a heart and a star, things I can do with an open hand, and my people with two figures, one taller and one shorter
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name what makes each of them unique — their name, a favorite thing,

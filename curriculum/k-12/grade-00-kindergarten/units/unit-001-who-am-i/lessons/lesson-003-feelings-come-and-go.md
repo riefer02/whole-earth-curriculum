@@ -49,6 +49,11 @@ context_variants:
     note: A learner thinks of a feeling from earlier today, draws it, then draws how it changed by now
   - context: outdoor-only
     note: Watch clouds or shadows change shape and pass; connect it to how a feeling can move on too
+assets:
+  - path: assets/images/L.00.001.03-feelings-come-and-go.svg
+    alt: A three-picture sequence showing a feeling arrive (a sad face with one tear under a cloud), stay (the same sad face bigger with two tears), and pass (a happy face under a sun), with arrows between the panels
+    kind: image
+    source: original
 duration_minutes: 40
 summary: >-
   Learners discover that feelings change: they arrive, stay a while, and pass — and

@@ -50,6 +50,11 @@ context_variants:
     note: A learner works alone, closing their eyes, thinking of each feeling, and touching the place it shows up, then drawing it
   - context: outdoor-only
     note: Walk to a quiet spot; feel the sun or wind on the skin and ask where "calm" or "scared" sits in the body, then mark it on a sand-drawn body
+assets:
+  - path: assets/images/L.00.001.02-feelings-in-body.svg
+    alt: A child body outline with five labeled feeling spots marked by shapes — a heart on the chest for happy, a diamond on the shoulder for sad, a circle on the cheek for angry, a triangle on the tummy for scared, and a square on the hand for calm
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners notice that every feeling shows up somewhere in the body — a warm chest,

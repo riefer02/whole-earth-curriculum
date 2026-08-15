@@ -46,6 +46,11 @@ context_variants:
     note: A learner draws two circles that overlap — one for "me," one for "everyone" — and writes shared things where they meet
   - context: outdoor-only
     note: Gather a natural object that everyone around you also needs or uses — water, shade, air — and talk about sharing it
+assets:
+  - path: assets/images/L.00.001.07-things-we-share.svg
+    alt: A row of five labeled icons for things everyone shares — a bowl for food, a drop for water, a crescent moon for sleep, a ball for play, and a heart for feelings
+    kind: image
+    source: original
 duration_minutes: 40
 summary: >-
   Learners discover what all people share — needs, feelings, growth — and see that

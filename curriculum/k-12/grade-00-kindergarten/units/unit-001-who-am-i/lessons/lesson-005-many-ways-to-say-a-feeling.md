@@ -45,6 +45,11 @@ context_variants:
     note: A learner picks one feeling and shows it three ways — a word, a drawing, a movement — then explains each to a grown-up or in a journal
   - context: outdoor-only
     note: Find something in nature that says a feeling — a rustling leaf for calm, a sharp stick-shape for angry — and share what you found
+assets:
+  - path: assets/images/L.00.001.05-four-languages.svg
+    alt: Four cards showing four ways to show one feeling — words in a speech bubble, a drawing of a cloud, a movement with a figure hiding its face, and a sound with a drum and musical notes
+    kind: image
+    source: original
 duration_minutes: 50
 summary: >-
   Learners discover that one feeling can be shown many ways — with words, a drawing,

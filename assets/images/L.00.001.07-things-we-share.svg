@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Things we all share: food, water, sleep, play, feelings</title>
+  <desc id="desc">A row of five labeled icons showing things every person shares: a bowl for food, a drop for water, a crescent moon for sleep, a ball for play, and a heart for feelings. Each icon is a distinct shape with its word printed beneath, so meaning does not depend on color and the image prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Things We All Share</text>
+  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">everyone, everywhere</text>
+
+  <!-- food (bowl) -->
+  <g>
+    <path d="M34 180 A26 26 0 0 0 86 180 L80 204 L40 204 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M52 150 Q50 144 52 138" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M66 146 Q64 140 66 134" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="60" y="244" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">food</text>
+  </g>
+
+  <!-- water (drop) -->
+  <g>
+    <path d="M158 146 C158 146 136 176 136 192 A22 22 0 0 0 180 192 C180 176 158 146 158 146 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M146 194 Q148 200 146 206" fill="none" stroke="#fdfbf7" stroke-width="3" stroke-linecap="round"/>
+    <text x="158" y="244" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">water</text>
+  </g>
+
+  <!-- sleep (moon) -->
+  <g>
+    <path d="M256 150 A32 32 0 1 0 256 214 A26 26 0 1 1 256 150 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="286" y="150" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="300" y="132" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">sleep</text>
+  </g>
+
+  <!-- play (ball) -->
+  <g>
+    <circle cx="354" cy="185" r="26" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M354 159 A26 26 0 0 1 354 211" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M328 185 A26 26 0 0 0 380 185" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="354" y="244" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">play</text>
+  </g>
+
+  <!-- feelings (heart) -->
+  <g>
+    <path d="M452 194 C447 186 438 186 438 193 C438 199 452 210 452 210 C452 210 466 199 466 193 C466 186 457 186 452 194 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="452" y="244" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">feelings</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">These are just a few &#8212; everyone shares them.</text>
+  <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">I am me, and I share with everyone.</text>
+</svg>

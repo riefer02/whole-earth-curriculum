@@ -46,6 +46,11 @@ context_variants:
     note: A learner assembles the book alone, then reads it through and tells a grown-up the three biggest things they learned about themselves
   - context: outdoor-only
     note: Sit in a circle outside and pass the "Me" books around, each learner showing one page under the open sky
+assets:
+  - path: assets/images/L.00.001.10-self-portrait.svg
+    alt: An "All About Me" template with a frame labeled "draw me" holding a dashed face guide, and fill-in lines for my name, one feeling I know, something that makes me me, and a group I belong to
+    kind: image
+    source: original
 duration_minutes: 60
 summary: >-
   Learners gather everything they have learned about themselves into a small "Me"

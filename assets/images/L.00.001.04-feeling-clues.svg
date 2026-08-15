@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Finding feelings in others: face, voice, and body clues</title>
+  <desc id="desc">Three labeled cards showing where to look for feelings in another person. The FACE card shows a face with eyes and a mouth. The VOICE card shows an open mouth with sound waves, labeled loud, quiet, fast, slow. The BODY card shows a small figure with drooping shoulders, labeled shoulders, hands, feet. A bottom banner reads "Look, Listen, Ask to be sure." Words and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Finding Feelings in Others</text>
+
+  <!-- Card frames -->
+  <rect x="16" y="88" width="150" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="181" y="88" width="150" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="346" y="88" width="150" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+  <!-- Card labels -->
+  <text x="91" y="118" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">FACE</text>
+  <text x="256" y="118" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">VOICE</text>
+  <text x="421" y="118" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">BODY</text>
+
+  <!-- Card 1: FACE -->
+  <g>
+    <circle cx="91" cy="208" r="30" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M80 190 Q84 186 88 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M94 190 Q98 186 102 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="84" cy="204" r="3.5" fill="#2b3a42"/>
+    <circle cx="98" cy="204" r="3.5" fill="#2b3a42"/>
+    <path d="M79 218 Q91 228 103 218" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="91" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">eyes &#183; mouth</text>
+  </g>
+
+  <!-- Card 2: VOICE -->
+  <g>
+    <ellipse cx="256" cy="208" rx="11" ry="15" fill="#2b3a42"/>
+    <g fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round">
+      <path d="M274 192 Q282 208 274 224"/>
+      <path d="M284 184 Q294 208 284 232"/>
+      <path d="M294 176 Q306 208 294 240"/>
+    </g>
+    <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">loud &#183; quiet &#183; fast &#183; slow</text>
+  </g>
+
+  <!-- Card 3: BODY -->
+  <g>
+    <circle cx="421" cy="182" r="15" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M412 176 A15 15 0 0 1 430 176 Z" fill="#2b3a42"/>
+    <rect x="410" y="199" width="22" height="38" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="410" y1="204" x2="398" y2="236" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="432" y1="204" x2="444" y2="236" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="397" cy="239" r="4" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="445" cy="239" r="4" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="415" y1="237" x2="412" y2="266" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="427" y1="237" x2="430" y2="266" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <ellipse cx="410" cy="270" rx="7" ry="4" fill="#2b3a42"/>
+    <ellipse cx="432" cy="270" rx="7" ry="4" fill="#2b3a42"/>
+    <text x="421" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">shoulders &#183; hands &#183; feet</text>
+  </g>
+
+  <!-- Bottom banner -->
+  <rect x="86" y="366" width="340" height="48" rx="24" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Look &#183; Listen &#183; Ask to be sure</text>
+</svg>

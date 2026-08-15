@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Feelings come and go: a three-picture sequence</title>
+  <desc id="desc">A three-panel sequence read left to right. Panel 1 shows a sad face with a tear under a cloud, labeled "it arrives." Panel 2 shows the same sad face bigger with two tears, labeled "it stays." Panel 3 shows a happy face under a sun, labeled "it passes." Arrows join the panels. The words and face shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Feelings Come and Go</text>
+
+  <!-- Panel frames -->
+  <rect x="16" y="84" width="132" height="256" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="190" y="84" width="132" height="256" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="364" y="84" width="132" height="256" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+  <!-- Step numbers -->
+  <text x="30" y="106" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">1</text>
+  <text x="204" y="106" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">2</text>
+  <text x="378" y="106" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">3</text>
+
+  <!-- Arrows between panels -->
+  <g fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="152" y1="212" x2="180" y2="212"/>
+    <path d="M178 205 L188 212 L178 219"/>
+    <line x1="326" y1="212" x2="354" y2="212"/>
+    <path d="M352 205 L362 212 L352 219"/>
+  </g>
+
+  <!-- Panel 1: a feeling arrives (sad face, small tear, cloud) -->
+  <g>
+    <path d="M62 148 Q66 136 76 134 Q88 128 100 136 Q110 128 118 140 Q124 146 122 152 Q126 158 120 160 Q108 166 92 160 Q70 158 62 148 Z" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="82" cy="202" r="28" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M70 182 L80 187" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M84 187 L94 182" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="77" cy="200" r="3" fill="#2b3a42"/>
+    <circle cx="87" cy="200" r="3" fill="#2b3a42"/>
+    <path d="M72 214 Q82 206 92 214" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="77" cy="206" rx="2.4" ry="3.6" fill="#6b93b6"/>
+  </g>
+
+  <!-- Panel 2: it stays (sad face, bigger, two tears) -->
+  <g>
+    <path d="M236 140 Q240 128 250 126 Q262 118 274 126 Q284 118 290 128 Q296 134 294 140 Q298 146 292 148 Q280 154 264 148 Q242 146 236 140 Z" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="248" y1="150" x2="246" y2="158" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="262" y1="152" x2="264" y2="160" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="256" cy="204" r="32" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M242 182 L254 188" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M258 188 L270 182" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="250" cy="202" r="3" fill="#2b3a42"/>
+    <circle cx="262" cy="202" r="3" fill="#2b3a42"/>
+    <path d="M244 218 Q256 208 268 218" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="250" cy="209" rx="2.6" ry="4" fill="#6b93b6"/>
+    <ellipse cx="262" cy="209" rx="2.6" ry="4" fill="#6b93b6"/>
+  </g>
+
+  <!-- Panel 3: it passes (happy face, sun) -->
+  <g>
+    <circle cx="430" cy="138" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="2.5" stroke-linecap="round">
+      <line x1="430" y1="116" x2="430" y2="108"/>
+      <line x1="430" y1="160" x2="430" y2="168"/>
+      <line x1="408" y1="138" x2="400" y2="138"/>
+      <line x1="452" y1="138" x2="460" y2="138"/>
+      <line x1="414" y1="122" x2="408" y2="116"/>
+      <line x1="446" y1="122" x2="452" y2="116"/>
+      <line x1="414" y1="154" x2="408" y2="160"/>
+      <line x1="446" y1="154" x2="452" y2="160"/>
+    </g>
+    <circle cx="430" cy="202" r="28" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="421" cy="196" r="3" fill="#2b3a42"/>
+    <circle cx="439" cy="196" r="3" fill="#2b3a42"/>
+    <path d="M414 192 Q419 187 424 192" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M436 192 Q441 187 446 192" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M418 210 Q430 220 442 210" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Captions -->
+  <text x="82" y="372" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">it arrives</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">it stays</text>
+  <text x="430" y="372" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">it passes</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A new feeling is always on its way.</text>
+</svg>

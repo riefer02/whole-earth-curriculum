@@ -46,6 +46,11 @@ context_variants:
     note: A learner draws the people who care for them in the circle, then tells a grown-up one thing those people do together
   - context: outdoor-only
     note: Find a plant or tree that grows with others near it, and talk about how people also grow best with others around them
+assets:
+  - path: assets/images/L.00.001.08-my-people.svg
+    alt: Four panels showing many kinds of people who care — one grown-up and a child, two grown-ups and a child with a hearing aid, a grandparent with glasses and a cane and a child, and a child with a friend in a wheelchair
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name the people who care for them — family and the wider circle of "my

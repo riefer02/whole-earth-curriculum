@@ -1103,7 +1103,7 @@ items:
     type: assets
     grade: 0
     domain: D01
-    status: ready
+    status: done
     priority: 30
     depends_on:
       - B-004
@@ -1112,6 +1112,16 @@ items:
       - accessibility-editor
       - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.001 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 10 assets: entries in U.00.001 resolve to real files, non-empty faithful alt, kind:image/source:original. 9 new SVGs + untouched L.00.001.01 parse as well-formed XML (viewBox 0 0 512 512, role=img, aria-labelledby, title/desc). Each asset matches its lesson concept (e.g. L.04 face/voice/body clue cards with Look-Listen-Ask banner). Grayscale + color-not-only-signal satisfied (shape+labels carry meaning). Non-visual low-tech paths intact. Traceability holds (objectives resolve to real D01 K standards)."
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 assets carry role=img + aria-labelledby=title desc + title/desc (verified programmatically). Color never only signal (shape+labels carry meaning; deep-slate strokes on paper grayscale-safe; desc states it). Alt text non-empty and fully conveys concept. Inclusive representation: varied skin tones, hearing aid (L01/L08), glasses+cane grandparent (L08), wheelchair (L08), varied family structures 'no single household is the family'. Low-tech non-visual pairing: every lesson materials_low_tech + spoken-description path; device tiers optional enriched only. No edits needed. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Audited all 9 new SVGs. Fixed L.00.001.02: (1) 'angry' marker was near-black same as 'calm' -> changed to warm terracotta #c96f5f (shape+word still carry meaning in grayscale) to avoid dark=bad racialization; (2) single default body was light-peach skin -> neutralized to non-skin warm gray #d6d1c7 so any learner sees their own body. Otherwise strong: skin tones vary across multi-figure graphics; L.08 shows four non-normative care structures (one caregiver, two, grandparent+child, friends) with hearing aid/glasses+cane/wheelchair natural; roles generic non-stereotyped; no tokenizing. validate passes (301 files)."
   - id: B-071
     title: "Illustration pass: add SVG assets to lessons in U.00.002"
     agent: asset-designer

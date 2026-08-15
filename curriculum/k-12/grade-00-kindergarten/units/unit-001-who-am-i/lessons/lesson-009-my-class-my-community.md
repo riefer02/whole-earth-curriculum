@@ -46,6 +46,11 @@ context_variants:
     note: A learner draws themselves in the middle and draws circles for each group they belong to — class, neighbors, friends, a place of gathering
   - context: outdoor-only
     note: Walk the edges of a shared space and name the people and helpers who make it a community — a shop, a well, a meeting tree
+assets:
+  - path: assets/images/L.00.001.09-our-community.svg
+    alt: A child in the center of a dashed circle surrounded by six labeled community members — a food seller with a basket, a teacher with a book, a healer with a bottle, a fixer with a hammer, a friend with a ball, and a neighbor with a house
+    kind: image
+    source: original
 duration_minutes: 50
 summary: >-
   Learners name the groups beyond family that they belong to — their class, friends,
