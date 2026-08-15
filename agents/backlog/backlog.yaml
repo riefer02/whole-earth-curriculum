@@ -1053,11 +1053,30 @@ items:
     type: lesson
     grade: 1
     domain: D01
-    status: ready
+    status: done
     priority: 25
     depends_on: []
     required_reviews: *a1
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (288 files). IDs L.01.012.01-.07 sequential, sequence_in_unit 1-7, unit U.01.012, pillar [P1], grade 1. Domain mapping correct (L1-3 [D01], L4-5 [D02], L6-7 [D01,D02]). Objectives resolve only to the 5 assigned grade-1 standards (D01.S1.01.01, D01.S2.01.01/.02, D02.S3.01.01, D02.S4.01.01); zero invented/K/off-grade IDs. All 5 covered (L6/L7 all five). Required headings 4/4 in all 7. unit.md table lists all 7. Age-appropriate child-first voice (L5 consent 'no thank you is always okay', L1 'a feeling is never wrong').
+      fact-checker:
+        verdict: passed
+        note: Content purely values/reflection/celebration framing (feelings, pride-as-growth, family shapes, community, mutual-aid/consent), zero empirical/scientific/historical claims needing citation. Only citations CASEL (L1 foundational competencies, L5 relationship skills) — fetched live, on-topic, attributions accurate, no fabrication. Evidence vs values clean (values labeled as values; body-sense feeling metaphors hedged as noticing-not-matching). S-001 already registered reviewed:true domains [D01,D02]; no new source needed. validate passes (288 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Reviewed 7 lessons + unit.md. Family/community models already honored (one caregiver, two, grandparents, guardians, siblings, chosen family, multi-generational, 'no correct family'); added explicit 'foster family/foster parent' in L2/L3 facilitator notes + L3 Connection. Feeling vocabulary: added facilitator note inviting home-language feeling words (ones English has no single word for). No ranking ('a feeling is never wrong', 'no correct family/community', 'celebration not contest', 'no work better than another's'). Universal celebration framing ('all over the world... every community, every continent', class-created song/clap not one holiday). No forced disclosure (L3 by-invitation, pass/draw/point/act count; L7 may not hang page). No tokenized traditions (L3 family 'passes down like a treasure'). validate passes (288 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Reviewed all 7 lessons. materials_low_tech universal (found objects/voice/body/folded paper); devices only enriched/optional, no required print/electricity. Non-speaking point/draw/act/sign in all 7. Fixes: added Deaf/HH path to L1 (read feelings through face/body/sign); added level-grouped to L3/L7; L7 non-speaking reflection path (saying/pointing/drawing/signing/partner-voicing) in summative assessment; L3 family-absence/community-tradition alternative. Blind/low-vision tactile/spoken + partner-scribe + body-sense descriptions all lessons. Motor differences L6 + dictation/point L2-L3. Sharing is choice not required performance ('a pass is a full share'). context_variants large-group/self-directed/outdoor-only/multi-age (+level-grouped now all). No assets fields. validate passes (288 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability verified: vision -> P1 -> D01 (S1/S2) + D02 (S3/S4) -> 5 grade-1 standards -> U.01.012 -> L.01.012.01-.07; pillar [P1] all; domain correct (L1-3 [D01], L4-5 [D02], L6-7 [D01,D02]); objectives resolve only to D01.S1.01.01, D01.S2.01.01/.02, D02.S3.01.01, D02.S4.01.01; no invented/cross-grade/K IDs. Lenses: ethics (consent L5, 'a feeling is never wrong' L1, no ranking families, celebration-not-contest L7), egalitarianism (pride-as-growth L2, mutual aid not pity L5, no community better L4, no work better L6/L7), global/anthropological (home-language feeling words L1, traditions everywhere L3, communities worldwide L4, celebrations every continent L7), technology/environment neutral documenting tool only (non-blocking). Evidence vs values: no empirical claims; CASEL (L1/L5) accurate. No hierarchy/supremacy. No edits. validate passes (288 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 7 grade-1 lessons vs K-2 band. Cognitive fit: reflection anchored in concrete artifacts (feeling-face cards, folded Who-I-Am page, share-a-bag object, community web, picture cards, gallery-walk All-About-Me page); pride tied to effort/practice, mutual aid to 'today you give, another day you receive'. Emotional safety (celebration L7): celebration-not-contest, no awards/ranking, equal display, pass = full share, sharing by choice nobody called on. Feelings L1 'a feeling is never wrong, only our guess can miss', home-language words honored. Family/tradition L3 by invitation, gentle alternatives, pass counts, all family shapes honored. Pride L2 growth not competition. Helping L5 mutual aid + consent ('no thank you' answered calmly). Physical inclusive all lessons. Open-ended learner-authored. Copyedit: removed mid-sentence hard break L2. validate passes (288 files)."
   - id: B-064
     title: Author Grade 2 scope (full 180-day plan)
     agent: scope-sequencer

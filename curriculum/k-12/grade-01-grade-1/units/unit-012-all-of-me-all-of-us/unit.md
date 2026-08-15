@@ -56,6 +56,10 @@ sends the learner forward into Grade 2.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
-
-Lessons for this unit are authored in a later phase of the build (see
-[`docs/roadmap.md`](../../../../docs/roadmap.md)).
+| 1 | Feelings I've Grown This Year | D01.S1.01.01 |
+| 2 | Who I Am — Facts and One Thing I'm Proud Of | D01.S2.01.01 |
+| 3 | A Family Story or Tradition | D01.S2.01.02 |
+| 4 | My Communities | D02.S3.01.01 |
+| 5 | Offering Help, Without Being Asked | D02.S4.01.01 |
+| 6 | Making My "All About Me" Page | D01.S1.01.01, D01.S2.01.01, D01.S2.01.02, D02.S3.01.01, D02.S4.01.01 |
+| 7 | Our Celebration | D01.S1.01.01, D01.S2.01.01, D01.S2.01.02, D02.S3.01.01, D02.S4.01.01 |
