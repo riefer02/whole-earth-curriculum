@@ -49,6 +49,11 @@ context_variants:
     note: A learner works through the hand tasks alone, trying each small movement and choosing the one they want to practice again
   - context: outdoor-only
     note: Stack stones or twigs, draw in the dirt with a stick, and thread a blade of grass or a stem through a leaf
+assets:
+  - path: assets/images/L.00.008.02-small-movements.svg
+    alt: Four labeled hand movements — stacking blocks into a tower, drawing a zigzag with a crayon, pinching a bead, and threading beads onto a string
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice small hand and finger movements — stacking, drawing, pinching,

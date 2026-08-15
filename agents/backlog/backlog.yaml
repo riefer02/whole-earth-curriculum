@@ -1260,12 +1260,22 @@ items:
     type: assets
     grade: 0
     domain: D03
-    status: ready
+    status: done
     priority: 37
     depends_on:
       - B-046
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.008 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 10 assets resolve to real files, non-empty alt, kind/source valid. 10 SVGs self-contained valid XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal (word labels). Honor-every-body: L.01 roll/glide 'every body moves big its own way'; L.03 seated+standing balance equal; L.04/.06 wheelchair inside group. Food everyday/sometimes 'no food is good or bad', no size/weight tie (L.08 grow arrow = growth not weight). Objectives trace to real D03 K standards."
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs role=img + aria-labelledby + title/desc, self-contained XML. Color never only signal (labels+shapes), grayscale-safe. Alt concept-complete. Honor-every-body: wheelchair/seated/adapted as equal (L.01 equal-width roll-glide band, L.03 seated+standing, L.04 wheelchair inside group, L.06 'senses sit'); sound cues paired with visual signal. Inclusive senses ('some hear less and feel more... every way is full'). Food sort point/gesture/name (no fine-motor gate), no good/bad, no competition. materials_low_tech universal; devices only enriched. No edits. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Food spans world staples (rice/beans/bread/fish/fruit/veg), 'no food is good or bad', no shaming (L.08/09). Able-bodied default avoided (L.01 roll-glide band, L.03 standing+seated equal, L.04 wheelchair follower, L.06 wheelchair child). Skin tones vary across every figure set. No ranking ('every way is full', 'nobody is out', 'every body grows at own pace'). Senses-as-deficit countered ('not missing a sense'). Fix: capstone L.10 move panel showed only able-bodied runner -> added rolling wheelchair child + updated desc/alt. validate passes (301 files)."
   - id: B-078
     title: "Illustration pass: add SVG assets to lessons in U.00.009"
     agent: asset-designer

@@ -48,6 +48,11 @@ context_variants:
     note: Use a field or clearing; a tree line, path, or rope marks the boundaries of the game space
   - context: multi-age
     note: Older learners lead rounds of follow-the-leader so younger learners can copy; leaders are encouraged to include movements every body can do
+assets:
+  - path: assets/images/L.00.008.04-moving-games.svg
+    alt: Children playing follow the leader, mirror, and freeze together — a leader raises both arms as a freeze signal, and one child joins from a wheelchair, with the caption everyone plays, nobody is out
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners play cooperative movement games — follow the leader, mirror, and freeze

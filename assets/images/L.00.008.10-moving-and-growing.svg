@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Moving and growing</title>
+  <desc id="desc">A three-part collage of the things that help a body grow. The move panel shows a running child and a child rolling in a wheelchair, with the words run, hop, balance, draw, stack. The sense panel shows an eye, an ear, and a hand with the words see, hear, smell, taste, touch. The grow panel shows a fruit, a sprout, and a grow arrow with the words food and rest. A banner reads moving, sensing, and eating all help me grow. Labels and shapes carry the meaning in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Moving &amp; Growing</text>
+
+  <!-- MOVE panel -->
+  <g>
+    <rect x="24" y="64" width="148" height="328" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <rect x="24" y="64" width="148" height="48" rx="14" fill="#6b93b6"/>
+    <text x="98" y="95" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">move</text>
+    <!-- running child (left) and rolling child in a wheelchair (right) -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="70" cy="168" r="13" fill="#c99567"/>
+      <rect x="63" y="183" width="15" height="23" rx="7" fill="#e0a458"/>
+      <line x1="67" y1="190" x2="56" y2="180" stroke-width="6" stroke="#c99567"/>
+      <line x1="77" y1="190" x2="86" y2="180" stroke-width="6" stroke="#c99567"/>
+      <line x1="67" y1="204" x2="61" y2="220" stroke-width="6" stroke="#4f6d7a"/>
+      <line x1="75" y1="204" x2="80" y2="220" stroke-width="6" stroke="#4f6d7a"/>
+    </g>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="130" cy="168" r="13" fill="#8f5f3d"/>
+      <rect x="123" y="183" width="15" height="20" rx="7" fill="#6b93b6"/>
+      <line x1="132" y1="190" x2="142" y2="180" stroke-width="6" stroke="#8f5f3d"/>
+      <line x1="124" y1="190" x2="120" y2="204" stroke-width="6" stroke="#8f5f3d"/>
+      <rect x="115" y="204" width="28" height="6" rx="3" fill="#4f6d7a"/>
+      <line x1="121" y1="210" x2="121" y2="218" stroke="#4f6d7a" stroke-width="5"/>
+      <circle cx="120" cy="220" r="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+      <circle cx="139" cy="224" r="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+      <path d="M48 176 q7 -7 14 0"/>
+    </g>
+    <text x="98" y="264" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">run · hop · balance</text>
+    <text x="98" y="288" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">draw · stack</text>
+    <text x="98" y="368" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">build strength</text>
+  </g>
+
+  <!-- SENSE panel -->
+  <g>
+    <rect x="180" y="64" width="152" height="328" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <rect x="180" y="64" width="152" height="48" rx="14" fill="#7a9e7e"/>
+    <text x="256" y="95" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">sense</text>
+    <!-- eye -->
+    <ellipse cx="216" cy="180" rx="14" ry="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="216" cy="180" r="5" fill="#2b3a42"/>
+    <!-- ear -->
+    <path d="M248 172 q -11 0 -11 10 q 0 10 11 10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- hand -->
+    <rect x="282" y="172" width="20" height="22" rx="8" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="296" y="176" width="7" height="6" rx="2" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="296" y="186" width="7" height="6" rx="2" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="256" y="264" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">see · hear · smell</text>
+    <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">taste · touch</text>
+    <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">notice and delight</text>
+  </g>
+
+  <!-- GROW panel -->
+  <g>
+    <rect x="340" y="64" width="148" height="328" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <rect x="340" y="64" width="148" height="48" rx="14" fill="#e0a458"/>
+    <text x="414" y="95" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">grow</text>
+    <!-- fruit -->
+    <circle cx="414" cy="178" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="414" y1="162" x2="414" y2="154" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <!-- sprout -->
+    <line x1="414" y1="240" x2="414" y2="216" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M414 226 q -8 -4 -9 -12" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M414 220 q 8 -4 9 -12" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <!-- grow arrow -->
+    <line x1="452" y1="224" x2="452" y2="182" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M445 190 L452 179 L459 190 Z" fill="#4f6d7a"/>
+    <text x="414" y="272" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">food · rest</text>
+    <text x="414" y="368" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">grow strong</text>
+  </g>
+
+  <rect x="16" y="404" width="480" height="48" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="433" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">moving + sensing + eating help me grow</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every body grows at its own pace — and that is exactly right.</text>
+</svg>

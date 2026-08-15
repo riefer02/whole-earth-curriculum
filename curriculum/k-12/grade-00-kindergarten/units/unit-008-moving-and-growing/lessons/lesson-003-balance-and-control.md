@@ -51,6 +51,11 @@ context_variants:
     note: Use a fallen log, a line in the sand, or the edge of a path; balance a leaf or stone on an open hand
   - context: level-grouped
     note: Group by comfort — some balance sitting with an object on a knee, others walk a line or step across low stones; each group works at its own challenge
+assets:
+  - path: assets/images/L.00.008.03-balance-and-control.svg
+    alt: Two equal ways to balance — a child walking a line with a beanbag on their head, and a seated child balancing a beanbag on one open hand, with wobble arcs showing the body adjusting
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice balance and body control — walking a line, standing still, and

@@ -49,6 +49,11 @@ context_variants:
     note: A learner thinks of one favorite for each sense and records it in words or pictures, then shares it with someone
   - context: outdoor-only
     note: Find a joyful thing for each sense outdoors — a warm patch of sun, a bird's song, a flower's smell — and share favorites in a circle
+assets:
+  - path: assets/images/L.00.008.07-senses-and-joy.svg
+    alt: A smiling child with arms open surrounded by labeled sense favorites — a rainbow (see), a music note (hear), a flower (smell), a fruit (taste), and a soft blanket with a heart (touch), with floating hearts
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners explore how their senses bring joy and comfort, name one favorite thing

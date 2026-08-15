@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Moving games</title>
+  <desc id="desc">A group of children playing movement games together. A leader on the left raises both arms as a freeze signal. Three friends follow, each moving their own way, including one child in a wheelchair raising one arm. A caption reads follow the leader, mirror, freeze — everyone plays, nobody is out. Shapes and labels carry the meaning in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Moving Games</text>
+
+  <!-- Ground -->
+  <line x1="16" y1="324" x2="496" y2="324" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="16" y="326" width="480" height="20" fill="#dbe6d2"/>
+
+  <!-- Leader (freeze signal, both arms raised) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="90" cy="180" r="24" fill="#c99567"/>
+    <rect x="72" y="206" width="36" height="54" rx="14" fill="#e0a458"/>
+    <line x1="78" y1="220" x2="54" y2="178" stroke-width="13" stroke="#c99567"/>
+    <circle cx="52" cy="176" r="6" fill="#c99567"/>
+    <line x1="102" y1="220" x2="126" y2="178" stroke-width="13" stroke="#c99567"/>
+    <circle cx="128" cy="176" r="6" fill="#c99567"/>
+    <line x1="82" y1="258" x2="82" y2="320" stroke-width="14" stroke="#4f6d7a"/>
+    <line x1="98" y1="258" x2="98" y2="320" stroke-width="14" stroke="#4f6d7a"/>
+  </g>
+  <text x="90" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">freeze!</text>
+
+  <!-- Follower 2 (copying) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="210" cy="180" r="24" fill="#8f5f3d"/>
+    <rect x="192" y="206" width="36" height="54" rx="14" fill="#6b93b6"/>
+    <line x1="216" y1="220" x2="240" y2="178" stroke-width="13" stroke="#8f5f3d"/>
+    <circle cx="242" cy="176" r="6" fill="#8f5f3d"/>
+    <line x1="196" y1="220" x2="184" y2="244" stroke-width="13" stroke="#8f5f3d"/>
+    <circle cx="182" cy="246" r="6" fill="#8f5f3d"/>
+    <line x1="200" y1="258" x2="200" y2="320" stroke-width="14" stroke="#4f6d7a"/>
+    <line x1="216" y1="258" x2="216" y2="320" stroke-width="14" stroke="#4f6d7a"/>
+  </g>
+
+  <!-- Follower 3 (wheelchair, arm raised) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="330" cy="196" r="24" fill="#a47148"/>
+    <rect x="312" y="222" width="36" height="50" rx="14" fill="#7a9e7e"/>
+    <line x1="336" y1="234" x2="360" y2="192" stroke-width="13" stroke="#a47148"/>
+    <circle cx="362" cy="190" r="6" fill="#a47148"/>
+    <line x1="314" y1="234" x2="306" y2="264" stroke-width="13" stroke="#a47148"/>
+    <circle cx="304" cy="266" r="6" fill="#a47148"/>
+    <rect x="300" y="270" width="60" height="12" rx="6" fill="#4f6d7a"/>
+    <line x1="314" y1="282" x2="314" y2="306" stroke="#4f6d7a" stroke-width="8"/>
+    <circle cx="312" cy="306" r="16" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="356" cy="314" r="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Follower 4 (mirroring) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="450" cy="180" r="24" fill="#f1c9a5"/>
+    <rect x="432" y="206" width="36" height="54" rx="14" fill="#e0a458"/>
+    <line x1="438" y1="220" x2="418" y2="196" stroke-width="13" stroke="#f1c9a5"/>
+    <circle cx="416" cy="194" r="6" fill="#f1c9a5"/>
+    <line x1="462" y1="220" x2="480" y2="196" stroke-width="13" stroke="#f1c9a5"/>
+    <circle cx="482" cy="194" r="6" fill="#f1c9a5"/>
+    <line x1="440" y1="258" x2="440" y2="320" stroke-width="14" stroke="#4f6d7a"/>
+    <line x1="456" y1="258" x2="456" y2="320" stroke-width="14" stroke="#4f6d7a"/>
+  </g>
+
+  <!-- motion arcs between friends -->
+  <g fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+    <path d="M150 300 q16 -10 32 0"/>
+    <path d="M268 300 q16 -10 32 0"/>
+    <path d="M388 300 q16 -10 32 0"/>
+  </g>
+
+  <rect x="16" y="360" width="480" height="84" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">follow the leader · mirror · freeze</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">everyone plays — nobody is out</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Together-games: every body joins, every body leads.</text>
+</svg>

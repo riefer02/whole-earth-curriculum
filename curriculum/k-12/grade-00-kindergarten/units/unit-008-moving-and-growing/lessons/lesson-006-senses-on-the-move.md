@@ -50,6 +50,11 @@ context_variants:
     note: This lesson lives outdoors — use whatever path, garden, shore, or street is safe nearby; moving changes what the senses find
   - context: multi-age
     note: Pair older learners as "sense guides" who ask younger ones what they notice while moving and help mark checklists
+assets:
+  - path: assets/images/L.00.008.06-senses-on-the-move.svg
+    alt: A child in a wheelchair rolls along a path while senses notice the world — wind lines for touch, sound waves for hearing, a bird for sight, the sun for warmth, and a flower for smell, each labeled
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners put their senses to work while moving — walking, hopping, rolling, and

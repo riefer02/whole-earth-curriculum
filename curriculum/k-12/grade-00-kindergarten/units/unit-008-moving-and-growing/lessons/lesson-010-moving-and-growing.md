@@ -53,6 +53,11 @@ context_variants:
     note: A learner revisits each idea alone — a movement, a sense, a food — and makes one drawing of the things that help them grow
   - context: outdoor-only
     note: Hold the celebration outside — move in the open air, notice with the senses, and name growing foods found or remembered from the garden or market
+assets:
+  - path: assets/images/L.00.008.10-moving-and-growing.svg
+    alt: A three-part collage of the things that help a body grow — a move panel with a running child and a child rolling in a wheelchair, a sense panel with an eye, ear, and hand, and a grow panel with a fruit, sprout, and grow arrow
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners celebrate how movement, senses, and food all work together to help a

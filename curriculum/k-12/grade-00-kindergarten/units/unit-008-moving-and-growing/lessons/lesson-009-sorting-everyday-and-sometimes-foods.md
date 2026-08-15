@@ -49,6 +49,11 @@ context_variants:
     note: A learner sorts a small set of food cards alone, then checks by saying why each food went where
   - context: outdoor-only
     note: Draw two big circles in the dirt with a stick and "sort" foods by naming them aloud and standing in the matching circle
+assets:
+  - path: assets/images/L.00.008.09-sorting-everyday-sometimes-foods.svg
+    alt: Two labeled food groups — everyday (eat often) with rice, fruit, vegetable, beans, and milk, and sometimes (now and then) with a sweet, cake, a drink, and a special dish — with the message that no food is good or bad
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sort common foods into "everyday" and "sometimes" groups with guidance,

@@ -49,6 +49,11 @@ context_variants:
     note: A learner sorts or points to foods that help bodies grow and draws one they like to eat
   - context: outdoor-only
     note: Look for food growing nearby — a fruit tree, a garden bed, or plants in pots — and talk about how plants become food that helps us grow
+assets:
+  - path: assets/images/L.00.008.08-food-for-my-growing-body.svg
+    alt: A child with arms raised beside a grow arrow, surrounded by six labeled everyday foods from around the world — rice, beans, fruit, vegetable, bread, and fish — with the message that food is fuel
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that food is fuel for a growing body — giving energy to run,

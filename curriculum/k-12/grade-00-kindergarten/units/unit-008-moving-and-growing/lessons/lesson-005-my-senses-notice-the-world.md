@@ -49,6 +49,11 @@ context_variants:
     note: A learner matches each sense card to its body part and explores safe objects alone, naming which sense each one uses
   - context: outdoor-only
     note: Use the outdoors as the mystery bag — find one thing to see, hear, smell, and touch, and remember a taste from the day
+assets:
+  - path: assets/images/L.00.008.05-my-senses-notice-the-world.svg
+    alt: A child pointing to their eye beside five rows matching each sense to the world — eye to a bird (see), ear to a bell (hear), nose to a flower (smell), tongue to a fruit (taste), and hand to the sun (touch)
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name the five senses, match each to the body part that does the sensing,

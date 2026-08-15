@@ -51,6 +51,11 @@ context_variants:
     note: Use a field, path, or shoreline as the course; a fallen branch or line in the sand marks the start and turn
   - context: level-grouped
     note: Group by comfort, not age — some learners start with wide, steady steps while others try galloping; each group moves at its own challenge level
+assets:
+  - path: assets/images/L.00.008.01-big-movements.svg
+    alt: Four big movements — run, hop, jump, and gallop — each as a labeled child figure, plus a child in a wheelchair rolling and gliding shown as an equal way to move big
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice big whole-body movements — running, hopping, jumping, and

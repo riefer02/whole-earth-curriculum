@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My senses notice the world</title>
+  <desc id="desc">A child on the left points to their eye. Five labeled rows on the right match each sense body part to something in the world: an eye to a bird (see), an ear to a ringing bell (hear), a nose to a flower (smell), a tongue to a fruit (taste), and a hand to the warm sun (touch). Each row has a word label, so meaning does not depend on color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Senses Notice the World</text>
+
+  <!-- Child figure -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="116" cy="196" r="26" fill="#c99567"/>
+    <rect x="98" y="224" width="36" height="56" rx="14" fill="#e0a458"/>
+    <line x1="122" y1="238" x2="146" y2="212" stroke-width="13" stroke="#c99567"/>
+    <circle cx="148" cy="210" r="6" fill="#c99567"/>
+    <line x1="106" y1="238" x2="94" y2="260" stroke-width="13" stroke="#c99567"/>
+    <circle cx="92" cy="262" r="6" fill="#c99567"/>
+    <line x1="108" y1="278" x2="108" y2="304" stroke-width="14" stroke="#4f6d7a"/>
+    <line x1="124" y1="278" x2="124" y2="304" stroke-width="14" stroke="#4f6d7a"/>
+  </g>
+  <line x1="20" y1="306" x2="200" y2="306" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="110" y="346" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">my body senses</text>
+  <text x="110" y="366" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">the world</text>
+
+  <!-- Row 1: see (eye -> bird) -->
+  <g>
+    <ellipse cx="270" cy="100" rx="18" ry="13" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="270" cy="100" r="6" fill="#2b3a42"/>
+    <path d="M296 100 L372 100" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M364 94 L372 100 L364 106 Z" fill="#4f6d7a"/>
+    <ellipse cx="402" cy="100" rx="16" ry="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="416" cy="90" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M422 90 L430 92 L422 96 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/>
+    <circle cx="413" cy="88" r="1.5" fill="#2b3a42"/>
+    <path d="M392 111 L392 120 L412 120 L412 111 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="394" y1="120" x2="392" y2="128" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="410" y1="120" x2="412" y2="128" stroke="#2b3a42" stroke-width="2"/>
+    <text x="462" y="105" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">see</text>
+  </g>
+
+  <!-- Row 2: hear (ear -> bell) -->
+  <g>
+    <path d="M258 164 q -14 0 -14 14 q 0 14 14 14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M262 170 q -8 0 -8 8 q 0 8 8 8" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M296 176 L372 176" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M364 170 L372 176 L364 182 Z" fill="#4f6d7a"/>
+    <path d="M390 176 L392 158 Q402 148 412 158 L414 176 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="402" cy="180" r="3" fill="#2b3a42"/>
+    <g fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+      <path d="M380 176 q -8 -8 0 -16"/>
+      <path d="M374 176 q -10 -10 0 -20"/>
+      <path d="M424 176 q 8 -8 0 -16"/>
+      <path d="M430 176 q 10 -10 0 -20"/>
+    </g>
+    <text x="462" y="181" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">hear</text>
+  </g>
+
+  <!-- Row 3: smell (nose -> flower) -->
+  <g>
+    <path d="M258 264 Q270 242 282 264" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="265" cy="264" r="2.5" fill="#2b3a42"/>
+    <circle cx="275" cy="264" r="2.5" fill="#2b3a42"/>
+    <path d="M296 252 L372 252" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M364 246 L372 252 L364 258 Z" fill="#4f6d7a"/>
+    <line x1="402" y1="266" x2="402" y2="240" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#e0a458" stroke="#2b3a42" stroke-width="1.5">
+      <circle cx="402" cy="234" r="7"/>
+      <circle cx="412" cy="241" r="7"/>
+      <circle cx="392" cy="241" r="7"/>
+      <circle cx="408" cy="229" r="7"/>
+      <circle cx="396" cy="229" r="7"/>
+    </g>
+    <circle cx="402" cy="236" r="4" fill="#6b93b6"/>
+    <text x="462" y="257" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">smell</text>
+  </g>
+
+  <!-- Row 4: taste (tongue -> fruit) -->
+  <g>
+    <path d="M256 322 Q270 338 284 322 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="266" y="328" width="8" height="14" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M296 328 L372 328" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M364 322 L372 328 L364 334 Z" fill="#4f6d7a"/>
+    <circle cx="402" cy="328" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="402" y1="312" x2="402" y2="304" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="410" cy="306" rx="5" ry="2.5" fill="#7a9e7e"/>
+    <text x="462" y="333" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">taste</text>
+  </g>
+
+  <!-- Row 5: touch (hand -> sun) -->
+  <g>
+    <rect x="254" y="390" width="28" height="30" rx="11" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="276" y="394" width="10" height="8" rx="3" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="276" y="406" width="10" height="8" rx="3" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="276" y="418" width="10" height="8" rx="3" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M296 404 L372 404" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M364 398 L372 404 L364 410 Z" fill="#4f6d7a"/>
+    <circle cx="402" cy="404" r="15" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="3" stroke-linecap="round">
+      <line x1="402" y1="382" x2="402" y2="378"/>
+      <line x1="402" y1="426" x2="402" y2="430"/>
+      <line x1="380" y1="404" x2="376" y2="404"/>
+      <line x1="424" y1="404" x2="428" y2="404"/>
+      <line x1="387" y1="389" x2="384" y2="386"/>
+      <line x1="417" y1="389" x2="420" y2="386"/>
+      <line x1="387" y1="419" x2="384" y2="422"/>
+      <line x1="417" y1="419" x2="420" y2="422"/>
+    </g>
+    <text x="462" y="409" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">touch</text>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every person's senses work a little differently — every way is full.</text>
+</svg>

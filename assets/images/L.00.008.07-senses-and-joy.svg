@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Senses and joy</title>
+  <desc id="desc">A smiling child stands with arms open in the middle of a joyful scene. Around them, five sense favorites are labeled: a rainbow for see, a music note for hear, a flower for smell, a fruit for taste, and a soft blanket with a heart for touch. Small hearts float nearby. Each object has a word tag, so the meaning does not depend on color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Senses and Joy</text>
+
+  <!-- Rainbow (see) -->
+  <g fill="none" stroke-width="6" stroke-linecap="round">
+    <path d="M78 130 A 22 22 0 0 1 122 130" stroke="#e0a458"/>
+    <path d="M84 130 A 16 16 0 0 1 116 130" stroke="#7a9e7e"/>
+    <path d="M90 130 A 10 10 0 0 1 110 130" stroke="#6b93b6"/>
+  </g>
+  <ellipse cx="78" cy="128" rx="10" ry="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="122" cy="128" rx="10" ry="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="68" y="146" width="64" height="26" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="100" y="164" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">see</text>
+
+  <!-- Music note (hear) -->
+  <g>
+    <line x1="412" y1="132" x2="412" y2="108" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M412 108 q10 4 5 12" fill="#2b3a42"/>
+    <ellipse cx="406" cy="134" rx="7" ry="5" fill="#2b3a42"/>
+  </g>
+  <g fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+    <path d="M428 116 q8 -8 0 -16"/>
+    <path d="M436 118 q8 -8 0 -16"/>
+  </g>
+  <rect x="378" y="146" width="64" height="26" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="410" y="164" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">hear</text>
+
+  <!-- Flower (smell) -->
+  <line x1="92" y1="300" x2="92" y2="276" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="1.5">
+    <circle cx="92" cy="270" r="7"/>
+    <circle cx="101" cy="276" r="7"/>
+    <circle cx="83" cy="276" r="7"/>
+    <circle cx="98" cy="265" r="7"/>
+    <circle cx="86" cy="265" r="7"/>
+  </g>
+  <circle cx="92" cy="272" r="4" fill="#6b93b6"/>
+  <g fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+    <path d="M74 258 q -6 -6 0 -12"/>
+    <path d="M68 250 q -6 -6 0 -12"/>
+  </g>
+  <rect x="60" y="306" width="64" height="26" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="92" y="324" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">smell</text>
+
+  <!-- Fruit (taste) -->
+  <circle cx="420" cy="290" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="420" y1="274" x2="420" y2="266" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="428" cy="268" rx="5" ry="2.5" fill="#7a9e7e"/>
+  <rect x="388" y="306" width="64" height="26" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="420" y="324" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">taste</text>
+
+  <!-- Soft blanket + heart (touch) -->
+  <rect x="212" y="418" width="88" height="34" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M212 432 q22 12 44 0 q22 12 44 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 402 C 249 394 241 394 241 402 C 241 410 249 415 256 421 C 263 415 271 410 271 402 C 271 394 263 394 256 402 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="224" y="448" width="64" height="26" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">touch</text>
+
+  <!-- Central joyful child -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="250" r="30" fill="#c99567"/>
+    <path d="M242 248 q6 6 12 0" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M258 248 q6 6 12 0" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M246 262 q10 8 20 0" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="238" y="282" width="36" height="52" rx="14" fill="#e0a458"/>
+    <line x1="244" y1="294" x2="216" y2="262" stroke-width="13" stroke="#c99567"/>
+    <circle cx="214" cy="260" r="6" fill="#c99567"/>
+    <line x1="268" y1="294" x2="296" y2="262" stroke-width="13" stroke="#c99567"/>
+    <circle cx="298" cy="260" r="6" fill="#c99567"/>
+    <line x1="246" y1="332" x2="246" y2="352" stroke-width="14" stroke="#4f6d7a"/>
+    <line x1="266" y1="332" x2="266" y2="352" stroke-width="14" stroke="#4f6d7a"/>
+  </g>
+
+  <!-- floating hearts -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="1.5">
+    <path d="M170 96 C 166 91 160 91 160 96 C 160 101 166 104 170 107 C 174 104 180 101 180 96 C 180 91 174 91 170 96 Z"/>
+    <path d="M342 96 C 338 91 332 91 332 96 C 332 101 338 104 342 107 C 346 104 352 101 352 96 C 352 91 346 91 342 96 Z"/>
+    <path d="M150 210 C 146 205 140 205 140 210 C 140 215 146 218 150 221 C 154 218 160 215 160 210 C 160 205 154 205 150 210 Z"/>
+    <path d="M362 210 C 358 205 352 205 352 210 C 352 215 358 218 362 221 C 366 218 372 215 372 210 C 372 205 366 205 362 210 Z"/>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Joy is shared and personal — every favorite is welcome.</text>
+</svg>
