@@ -44,6 +44,11 @@ context_variants:
     note: The learner draws their place alone, then describes it to a grown-up or peer using the sense words
   - context: outdoor-only
     note: Describe a place you can see right now — the sky, a tree, a path — and then draw it with a stick in the dirt or with found objects
+assets:
+  - path: assets/images/L.00.010.07-a-place-i-have-been.svg
+    alt: "Four place panels, a city, a village, a sea, and mountains, each with a small sense icon of an eye, an ear, a nose, and a hand, to prompt describing a remembered place."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners talk about and draw a place they have been — near or far, big or small —

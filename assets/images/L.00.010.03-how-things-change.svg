@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How things change: a toy then and now</title>
+  <desc id="desc">Two panels side by side. The left panel, labeled "then," shows a simple woven cloth doll. The right panel, labeled "now," shows a ball. A dashed line in the middle is labeled "same job: play," showing that although the toy changed, its job stayed the same. Neither toy is shown as better than the other. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">How Things Change</text>
+
+  <!-- divider -->
+  <line x1="256" y1="74" x2="256" y2="420" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- column labels -->
+  <text x="128" y="96" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">then</text>
+  <text x="384" y="96" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">now</text>
+
+  <!-- Woven cloth doll (then) -->
+  <g>
+    <!-- head -->
+    <circle cx="128" cy="180" r="34" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="118" cy="174" r="3.5" fill="#2b3a42"/>
+    <circle cx="138" cy="174" r="3.5" fill="#2b3a42"/>
+    <path d="M115 192 Q128 200 141 192" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- woven hair / head wrap -->
+    <path d="M94 176 Q128 138 162 176" fill="none" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
+    <path d="M96 172 L160 172" stroke="#2b3a42" stroke-width="2"/>
+    <!-- body (simple cloth dress) -->
+    <path d="M96 216 Q128 230 160 216 L156 296 Q128 310 100 296 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- stitch marks -->
+    <line x1="106" y1="250" x2="150" y2="250" stroke="#2b3a42" stroke-width="2" stroke-dasharray="3 3"/>
+    <line x1="108" y1="268" x2="148" y2="268" stroke="#2b3a42" stroke-width="2" stroke-dasharray="3 3"/>
+    <!-- arms -->
+    <line x1="96" y1="230" x2="74" y2="256" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+    <line x1="160" y1="230" x2="182" y2="256" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+    <text x="128" y="344" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">cloth doll</text>
+  </g>
+
+  <!-- Ball (now) -->
+  <g>
+    <circle cx="384" cy="220" r="60" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- panel lines -->
+    <path d="M336 190 Q384 164 432 190" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M336 250 Q384 276 432 250" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="384" y1="160" x2="384" y2="280" stroke="#2b3a42" stroke-width="2"/>
+    <!-- stars to distinguish panels by shape, not only color -->
+    <path d="M384 196 l4 8 8 1 -6 5 2 8 -8 -4 -8 4 2 -8 -6 -5 8 -1 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="384" y="344" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">ball</text>
+  </g>
+
+  <!-- same job bridge -->
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">same job</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">play</text>
+
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Both are for playing &#183; one thing changed, one stayed</text>
+</svg>

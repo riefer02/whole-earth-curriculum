@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Then and now: candle and lamp, water pot and tap</title>
+  <desc id="desc">Four simple objects in a two-by-two grid. The left column is labeled "then" and shows a candle and a water pot. The right column is labeled "now" and shows a lamp and a water tap. The candle and the lamp give the same shape of light rays, and the water pot and the tap give the same shape of water drops, to show that both ways are equally good ways to do the same jobs. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">Then and Now</text>
+
+  <!-- divider -->
+  <line x1="256" y1="74" x2="256" y2="462" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- column labels -->
+  <text x="128" y="96" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">then</text>
+  <text x="384" y="96" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">now</text>
+
+  <!-- Candle (then, light) -->
+  <g>
+    <rect x="108" y="200" width="40" height="66" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="128" y1="200" x2="128" y2="188" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="128" cy="172" rx="10" ry="15" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="128" cy="176" rx="5" ry="7" fill="#fdfbf7"/>
+    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+      <line x1="128" y1="142" x2="128" y2="128"/>
+      <line x1="98" y1="152" x2="86" y2="144"/>
+      <line x1="158" y1="152" x2="170" y2="144"/>
+      <line x1="96" y1="190" x2="84" y2="198"/>
+      <line x1="160" y1="190" x2="172" y2="198"/>
+    </g>
+    <text x="128" y="300" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">candle</text>
+  </g>
+
+  <!-- Lamp (now, light) -->
+  <g>
+    <rect x="364" y="244" width="40" height="12" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="384" y1="244" x2="384" y2="208" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M354 192 L414 192 L404 208 L364 208 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="384" cy="172" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+      <line x1="384" y1="142" x2="384" y2="128"/>
+      <line x1="354" y1="152" x2="342" y2="144"/>
+      <line x1="414" y1="152" x2="426" y2="144"/>
+      <line x1="352" y1="190" x2="340" y2="198"/>
+      <line x1="416" y1="190" x2="428" y2="198"/>
+    </g>
+    <text x="384" y="300" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">lamp</text>
+  </g>
+
+  <!-- Water pot (then, water) -->
+  <g>
+    <path d="M98 366 Q98 432 128 432 Q158 432 158 366 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="128" cy="366" rx="30" ry="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M106 366 Q128 338 150 366" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="128" y="462" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">water pot</text>
+  </g>
+
+  <!-- Tap (now, water) -->
+  <g>
+    <rect x="340" y="352" width="14" height="40" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="340" y="386" width="70" height="14" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="337" y="342" width="20" height="12" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="412" cy="414" rx="7" ry="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="394" cy="430" rx="4.5" ry="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="384" y="462" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">tap</text>
+  </g>
+
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Both give light &#183; Both give water</text>
+</svg>

@@ -1304,12 +1304,22 @@ items:
     type: assets
     grade: 0
     domain: D08
-    status: ready
+    status: done
     priority: 39
     depends_on:
       - B-048
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.010 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 10 assets resolve to real files, non-empty alt, kind/source valid. 10 SVGs valid self-contained XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal (L1/L3 labeled then/now columns + 'Both give light/water'; L6/L10 label+shape icons). History then-and-now no dates/war/triumphalism. Sensitivity: L8 blame-free, L2/L8/L10 no-forced-disclosure, L5 'no costume/mimicry'. Wheelchair + hearing-aid natural, varied skin tones. UDL unbroken. Objectives D08.S1-S4.K.01 resolve to real K standards."
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs role=img + aria-labelledby + title/desc, concept-complete desc. Color-not-only-signal (labels then/now fair/unfair, distinct shapes/arrows/vibration waves, 'prints in grayscale'). Inclusive: varied skin tones, wheelchair (L.04/L.09), hearing aid (L.04), hand-on-drum vibration (L.05). Deaf/HH 'feel the beat' + differentiation (L.05). Non-speaking/non-visual: 'story in pictures or signs', point/draw/act/sign. No forced disclosure (L.02 never require baby photo, L.08 sharing optional, L.10 never force family disclosure). Low-tech all 10. No edits. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No progress ranking (L.01 'both give light/water neither better', L.03 'neither toy better', lesson-003 'never rank old as worse/new as better'). No single-region/culture default (4-5 skin tones, city/village/sea/mountain, stories 'from many places'). Fix: L.06 + SVG 06 used 'talking stick' (sacred Indigenous practice) -> renamed neutral 'turn marker' (8 lesson + 2 SVG edits). Songs/stories not toys/costumes (L.05 'songs are not toys or costumes', L.04 'never caricature/costume'). No nation-triumph framing. Moving blame-free (SVG 08 + L.008 'none is a child's fault'). validate passes (301 files)."
   - id: B-080
     title: "Illustration pass: add SVG assets to lessons in U.00.011"
     agent: asset-designer

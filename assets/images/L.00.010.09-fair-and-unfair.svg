@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fair and unfair: everyone gets a turn</title>
+  <desc id="desc">Three gentle, blame-free scenes in a row. The first, labeled "fair," shows three children in a row, each holding a ball, all smiling. The second, labeled "unfair," shows two children playing with one ball while a third child in a wheelchair stands apart looking down with no ball. The third, labeled "then we make it fair," shows the same three children, and now the child who was left out holds a ball too, and everyone smiles. No one is shamed; the scenes end with repair. The children have varied skin tones, and one uses a wheelchair. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">Fair and Unfair</text>
+
+  <!-- panel 1: fair -->
+  <rect x="16" y="78" width="152" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="106" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">fair</text>
+  <!-- child a -->
+  <g>
+    <circle cx="92" cy="146" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="86" cy="142" r="2" fill="#2b3a42"/>
+    <circle cx="98" cy="142" r="2" fill="#2b3a42"/>
+    <path d="M82 152 Q92 158 102 152" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M76 162 Q92 172 108 162 L106 186 Q92 192 78 186 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="92" cy="202" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- child b -->
+  <g>
+    <circle cx="92" cy="238" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="86" cy="234" r="2" fill="#2b3a42"/>
+    <circle cx="98" cy="234" r="2" fill="#2b3a42"/>
+    <path d="M82 244 Q92 250 102 244" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M76 254 Q92 264 108 254 L106 278 Q92 284 78 278 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="92" cy="294" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- child c -->
+  <g>
+    <circle cx="92" cy="330" r="14" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="86" cy="326" r="2" fill="#2b3a42"/>
+    <circle cx="98" cy="326" r="2" fill="#2b3a42"/>
+    <path d="M82 336 Q92 342 102 336" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M76 346 Q92 356 108 346 L106 370 Q92 376 78 370 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="92" cy="386" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- panel 2: unfair -->
+  <rect x="180" y="78" width="152" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">unfair</text>
+  <!-- two children side by side sharing a ball -->
+  <g>
+    <circle cx="238" cy="160" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="232" cy="156" r="2" fill="#2b3a42"/>
+    <circle cx="244" cy="156" r="2" fill="#2b3a42"/>
+    <path d="M228 166 Q238 172 248 166" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M222 176 Q238 186 254 176 L252 200 Q238 206 224 200 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <circle cx="274" cy="160" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="268" cy="156" r="2" fill="#2b3a42"/>
+    <circle cx="280" cy="156" r="2" fill="#2b3a42"/>
+    <path d="M264 166 Q274 172 284 166" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M258 176 Q274 186 290 176 L288 200 Q274 206 260 200 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <!-- the one ball they share -->
+  <circle cx="256" cy="226" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M248 221 Q256 216 264 221" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- child left out (deep skin, wheelchair, sad) -->
+  <g>
+    <circle cx="256" cy="312" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="250" cy="308" r="2" fill="#2b3a42"/>
+    <circle cx="262" cy="308" r="2" fill="#2b3a42"/>
+    <path d="M248 322 Q256 316 264 322" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M240 328 Q256 338 272 328 L270 352 Q256 358 242 352 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="242" cy="380" r="11" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="270" cy="380" r="11" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="247" y1="380" x2="265" y2="380" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="256" y1="354" x2="256" y2="380" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+
+  <!-- panel 3: repair -->
+  <rect x="344" y="78" width="152" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="102" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">then we</text>
+  <text x="420" y="124" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">make it fair</text>
+  <g>
+    <circle cx="420" cy="146" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="414" cy="142" r="2" fill="#2b3a42"/>
+    <circle cx="426" cy="142" r="2" fill="#2b3a42"/>
+    <path d="M410 152 Q420 158 430 152" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M404 162 Q420 172 436 162 L434 186 Q420 192 406 186 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="420" cy="202" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <g>
+    <circle cx="420" cy="238" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="414" cy="234" r="2" fill="#2b3a42"/>
+    <circle cx="426" cy="234" r="2" fill="#2b3a42"/>
+    <path d="M410 244 Q420 250 430 244" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M404 254 Q420 264 436 254 L434 278 Q420 284 406 278 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="420" cy="294" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- the child who was left out now holds a ball too -->
+  <g>
+    <circle cx="420" cy="330" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="414" cy="326" r="2" fill="#2b3a42"/>
+    <circle cx="426" cy="326" r="2" fill="#2b3a42"/>
+    <path d="M410 336 Q420 342 430 336" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M404 346 Q420 356 436 346 L434 370 Q420 376 406 370 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="420" cy="386" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Fair means everyone gets a turn &#183; and we can help make it fair</text>
+</svg>

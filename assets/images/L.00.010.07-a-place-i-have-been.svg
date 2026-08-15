@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A place I have been: four places and four senses</title>
+  <desc id="desc">Four panels showing different kinds of places: a city street with a building, a small village house, a seaside with a boat, and mountains with trees. Each panel has one small sense icon — an eye, an ear, a nose, and a hand — to prompt describing what was seen, heard, smelled, or felt there. No place is shown as better than another, and no travel is required. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">A Place I Have Been</text>
+
+  <!-- panel 1: city (eye) -->
+  <rect x="20" y="78" width="226" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="133" y="106" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">city</text>
+  <g>
+    <!-- buildings -->
+    <rect x="46" y="170" width="60" height="74" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="112" y="140" width="54" height="104" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="172" y="184" width="52" height="60" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- windows -->
+    <rect x="54" y="182" width="12" height="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="78" y="182" width="12" height="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="54" y="206" width="12" height="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="120" y="152" width="12" height="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="146" y="152" width="12" height="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="120" y="180" width="12" height="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="180" y="196" width="12" height="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="202" y="196" width="12" height="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <!-- eye icon -->
+    <path d="M92 128 Q133 108 174 128 Q133 148 92 128 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="133" cy="128" r="7" fill="#2b3a42"/>
+  </g>
+
+  <!-- panel 2: village (ear) -->
+  <rect x="266" y="78" width="226" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="379" y="106" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">village</text>
+  <g>
+    <!-- house -->
+    <path d="M304 200 L352 150 L400 200 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="312" y="200" width="80" height="56" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="344" y="222" width="16" height="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- tree -->
+    <rect x="420" y="222" width="10" height="34" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="425" cy="212" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- ear icon -->
+    <path d="M372 134 Q352 134 352 112 Q352 90 372 86 Q384 84 384 100 Q384 116 372 116 L373 142 Q373 154 360 154 Q350 154 350 142 L361 142" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <!-- panel 3: sea (nose) -->
+  <rect x="20" y="290" width="226" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="133" y="318" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">sea</text>
+  <g>
+    <!-- water -->
+    <path d="M38 384 L228 384" stroke="#6b93b6" stroke-width="3"/>
+    <path d="M52 400 Q66 392 80 400 Q94 408 108 400 Q122 392 136 400 Q150 408 164 400 Q178 392 192 400 Q206 408 220 400" fill="none" stroke="#6b93b6" stroke-width="2"/>
+    <!-- sun -->
+    <circle cx="194" cy="352" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- boat -->
+    <path d="M60 396 L120 396 L106 420 L74 420 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="90" y1="396" x2="90" y2="362" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M90 362 L126 388 L90 388 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- nose icon -->
+    <path d="M133 342 Q122 358 133 362 Q144 358 133 342 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="124" cy="362" rx="5" ry="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="142" cy="362" rx="5" ry="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- panel 4: mountains (hand) -->
+  <rect x="266" y="290" width="226" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="379" y="318" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">mountains</text>
+  <g>
+    <!-- mountains -->
+    <path d="M290 420 L346 348 L382 420 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M356 420 L412 332 L474 420 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- snow caps -->
+    <path d="M346 348 L334 372 L350 372 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M412 332 L396 360 L416 360 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- hand icon -->
+    <g>
+      <rect x="360" y="120" width="14" height="18" rx="6" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M356 122 Q356 104 368 102" fill="none" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+      <path d="M362 118 Q366 100 380 100" fill="none" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+      <path d="M370 120 Q376 102 392 102" fill="none" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">What did you see, hear, smell, or feel there?</text>
+</svg>

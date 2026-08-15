@@ -24,14 +24,14 @@ materials:
   - name: A story or song from a previous lesson
     quantity: "1"
     notes: Reuse a story or song learners already heard, or choose one gentle new one
-  - name: '"I noticed..." talking stick or soft object'
+  - name: '"I noticed..." turn marker or soft object'
     quantity: "1"
     notes: Passed around so one voice is heard at a time
 materials_low_tech:
   - name: Partner sharing
     notes: Turn to a partner and say "I noticed..." — no object needed
   - name: A small stone or leaf
-    notes: Any found object can be the talking stick
+    notes: Any found object can be the turn marker
 materials_enriched:
   - name: Notice-and-draw sheet
     quantity: "1 per learner"
@@ -41,11 +41,16 @@ materials_enriched:
     notes: For learners to record their "I noticed..." sentence and play it back
 context_variants:
   - context: large-group
-    note: Pass one talking object around a circle so every learner gets a turn to say "I noticed..." without interruption
+    note: Pass one turn marker around a circle so every learner gets a turn to say "I noticed..." without interruption
   - context: self-directed
     note: The learner listens again, fills the four notice boxes, and shares the page with a grown-up or peer
   - context: outdoor-only
-    note: Sit in a quiet outdoor circle and pass a found leaf or stone as the talking object while sharing noticings
+    note: Sit in a quiet outdoor circle and pass a found leaf or stone as the turn marker while sharing noticings
+assets:
+  - path: assets/images/L.00.010.06-what-did-i-notice.svg
+    alt: "A four-box notice sheet labeled a sound, a word, a picture, and a feeling, each with an ear, a speech bubble, an eye, and a heart, plus a turn marker, to help name one thing noticed."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners return to a story or song, practice noticing more deeply — a sound, a
@@ -86,12 +91,12 @@ how people learn to understand each other.
 ## Materials
 
 - A story or song learners already heard (reused or gently new)
-- An "I noticed..." talking object (stick or soft object)
+- An "I noticed..." turn marker (stick or soft object)
 
 ## Preparation
 
 - Choose a story or song to revisit.
-- Prepare the talking object and a calm circle.
+- Prepare the turn marker and a calm circle.
 
 ## Facilitator note
 
@@ -110,7 +115,7 @@ kind so all voices are heard.
 3. **Notice with a helper (10 min).** With a partner, finish the sentence "I
    noticed..." Try to name the kind of thing you noticed: "I noticed the sound of..."
    or "I noticed the feeling of..."
-4. **Share (10 min).** Pass the talking object. When you hold it, share your "I
+4. **Share (10 min).** Pass the turn marker. When you hold it, share your "I
    noticed..." — say it, point to a picture, draw it, or sign it. When you do not
    hold it, attend to the speaker.
 5. **Close (5 min).** Listening closely is a way of respecting someone's story. The

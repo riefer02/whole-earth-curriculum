@@ -47,6 +47,11 @@ context_variants:
     note: The learner matches old-and-new pairs alone, then tells one way they are the same and one way they are different
   - context: outdoor-only
     note: Find two natural tools for one job outside, such as a big leaf and a small leaf for carrying water, and compare them
+assets:
+  - path: assets/images/L.00.010.03-how-things-change.svg
+    alt: "Two panels: a woven cloth doll labeled then and a ball labeled now, joined by a dashed line reading same job play, showing that although a toy changed, its job stayed the same and neither is better."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners compare an old and a new way of doing an everyday job — lighting a room,

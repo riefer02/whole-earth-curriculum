@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Stories from far and near: a storyteller and a listening circle</title>
+  <desc id="desc">A storyteller sits on a mat in the center of a circle of listeners with varied skin tones and hair. One listener uses a wheelchair and one wears a hearing aid. A dotted path loops from a small globe through the storyteller's raised hands to the listeners, showing a story traveling from far and near. No one is dressed as a costume; the focus is respectful listening. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">Stories from Far and Near</text>
+
+  <!-- storyteller's mat -->
+  <ellipse cx="256" cy="300" rx="74" ry="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- storyteller (center) -->
+  <g>
+    <circle cx="256" cy="230" r="24" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="248" cy="225" r="3" fill="#2b3a42"/>
+    <circle cx="264" cy="225" r="3" fill="#2b3a42"/>
+    <path d="M244 240 Q256 248 268 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M232 226 Q256 202 280 226" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M232 258 Q256 272 280 258 L278 300 Q256 310 234 300 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- raised arms telling the story -->
+    <path d="M234 270 Q210 250 208 226" fill="none" stroke="#8f5f3d" stroke-width="6" stroke-linecap="round"/>
+    <path d="M278 270 Q302 250 304 226" fill="none" stroke="#8f5f3d" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- story path from globe through storyteller to listeners -->
+  <path d="M78 118 Q120 90 180 108 Q240 126 256 176" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <path d="M256 176 Q262 200 200 210 Q150 218 130 248" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-dasharray="7 6"/>
+
+  <!-- globe -->
+  <g>
+    <circle cx="78" cy="118" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="78" cy="118" rx="14" ry="34" fill="none" stroke="#6b93b6" stroke-width="2"/>
+    <line x1="44" y1="118" x2="112" y2="118" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M52 98 Q78 84 104 98" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+    <path d="M52 138 Q78 152 104 138" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+  </g>
+
+  <!-- listener 1 (light skin, bottom-left) -->
+  <g>
+    <circle cx="150" cy="400" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="143" cy="396" r="2.5" fill="#2b3a42"/>
+    <circle cx="157" cy="396" r="2.5" fill="#2b3a42"/>
+    <path d="M141 408 Q150 414 159 408" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M130 398 Q150 380 170 398" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M132 424 Q150 434 168 424 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <!-- listener 2 (medium skin, bottom-center, hearing aid) -->
+  <g>
+    <circle cx="256" cy="408" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="249" cy="404" r="2.5" fill="#2b3a42"/>
+    <circle cx="263" cy="404" r="2.5" fill="#2b3a42"/>
+    <path d="M247 416 Q256 422 265 416" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- hearing aid -->
+    <path d="M270 400 A9 9 0 0 1 281 400" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="276" cy="402" r="2" fill="#e0a458"/>
+    <path d="M236 406 Q256 388 276 406" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M238 432 Q256 442 274 432 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <!-- listener 3 (deep skin, bottom-right, wheelchair) -->
+  <g>
+    <circle cx="364" cy="392" r="20" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="357" cy="388" r="2.5" fill="#2b3a42"/>
+    <circle cx="371" cy="388" r="2.5" fill="#2b3a42"/>
+    <path d="M355 400 Q364 406 373 400" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M344 390 Q364 372 384 390" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M346 416 Q364 426 382 416 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- wheelchair -->
+    <circle cx="346" cy="452" r="14" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="384" cy="452" r="14" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="356" y1="452" x2="376" y2="452" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="364" y1="426" x2="364" y2="452" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Every people tells stories &#183; listening is a gift</text>
+</svg>

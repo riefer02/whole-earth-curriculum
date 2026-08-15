@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Stories of moving: a gentle journey</title>
+  <desc id="desc">A gentle, blame-free scene of moving. A family of three with varied skin tones walks a curving path, carrying a small bundle, past a boat on water and toward a new little house with a round window. A small heart floats above them, showing that the people we love and the things we remember travel with us. A dotted path connects an old house on the left to the new house on the right. No one is blamed, and the mood is calm. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">Stories of Moving</text>
+
+  <!-- old house (left) -->
+  <g>
+    <path d="M36 196 L72 158 L108 196 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="42" y="196" width="60" height="46" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="66" y="216" width="12" height="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="48" y="204" width="10" height="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- new house (right) -->
+  <g>
+    <path d="M406 176 L444 136 L482 176 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="412" y="176" width="64" height="50" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="438" y="198" width="12" height="28" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="430" cy="188" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- dotted path connecting the houses -->
+  <path d="M74 242 Q160 300 250 296 Q360 292 430 226" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="8 7"/>
+
+  <!-- boat on water (below the path) -->
+  <g>
+    <path d="M118 386 Q180 404 244 386 Q182 416 118 386 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M148 386 L148 360 L196 380 L148 380 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M140 388 Q160 380 180 388" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- family walking the path -->
+  <!-- person 1 (deep skin, carrying bundle on head) -->
+  <g>
+    <circle cx="250" cy="272" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="243" cy="268" r="2.5" fill="#2b3a42"/>
+    <circle cx="257" cy="268" r="2.5" fill="#2b3a42"/>
+    <path d="M241 280 Q250 286 259 280" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- bundle on head -->
+    <ellipse cx="250" cy="248" rx="16" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M232 294 Q250 306 268 294 L266 324 Q250 332 234 324 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="236" y1="304" x2="222" y2="322" stroke="#8f5f3d" stroke-width="5" stroke-linecap="round"/>
+    <line x1="264" y1="304" x2="278" y2="322" stroke="#8f5f3d" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- person 2 (light skin, holding hands with child) -->
+  <g>
+    <circle cx="306" cy="280" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="299" cy="276" r="2.5" fill="#2b3a42"/>
+    <circle cx="313" cy="276" r="2.5" fill="#2b3a42"/>
+    <path d="M297 288 Q306 294 315 288" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M286 276 Q306 258 326 276" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M288 302 Q306 314 324 302 L322 332 Q306 340 290 332 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="292" y1="312" x2="280" y2="330" stroke="#f5d6b6" stroke-width="5" stroke-linecap="round"/>
+    <!-- arm reaching to child -->
+    <line x1="320" y1="312" x2="338" y2="318" stroke="#f5d6b6" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- person 3 (child, medium skin, holding a small toy) -->
+  <g>
+    <circle cx="352" cy="296" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="347" cy="293" r="2" fill="#2b3a42"/>
+    <circle cx="357" cy="293" r="2" fill="#2b3a42"/>
+    <path d="M344 302 Q352 307 360 302" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M337 292 Q352 278 367 292" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M339 314 Q352 322 365 314 L363 336 Q352 342 341 336 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="341" y1="320" x2="332" y2="336" stroke="#c99567" stroke-width="4.5" stroke-linecap="round"/>
+    <line x1="363" y1="320" x2="338" y2="318" stroke="#c99567" stroke-width="4.5" stroke-linecap="round"/>
+    <!-- small toy in hand -->
+    <circle cx="330" cy="340" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- heart above the family -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="294" cy="244" r="7"/>
+    <circle cx="308" cy="244" r="7"/>
+    <path d="M288 249 L314 249 L301 265 Z"/>
+  </g>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">The people we love travel with us</text>
+</svg>

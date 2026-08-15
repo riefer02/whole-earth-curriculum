@@ -46,6 +46,11 @@ context_variants:
     note: The learner reads or listens to the moving story alone, then draws or tells their own home story only if they want to
   - context: outdoor-only
     note: Walk a short "journey" together — from one tree to another — and wonder what it is like to carry your home to a new place
+assets:
+  - path: assets/images/L.00.010.08-stories-of-moving.svg
+    alt: "A gentle blame-free journey: a family with varied skin tones walks a dotted path from an old house to a new house, past a boat on water, carrying a small bundle, with a small heart above to show the people we love travel with us."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners hear a gentle story of moving and wonder together about why people move

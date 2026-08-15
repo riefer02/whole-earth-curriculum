@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Stories of People: a four-box page</title>
+  <desc id="desc">A page with four boxes ready for a learner to fill with their own story. The boxes are labeled "then &amp; now" with a seed and a sprout, "a story or song" with a musical note, "a place" with a little house and trees, and "fair" with three small people sharing a ball. Each box has room to draw or write. This is the capstone page that gathers the whole unit into one person's story. Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">Then &amp; Now: Stories of People</text>
+
+  <!-- box 1: then & now -->
+  <rect x="24" y="78" width="224" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="108" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">then &amp; now</text>
+  <g>
+    <!-- seed (then) -->
+    <ellipse cx="108" cy="178" rx="14" ry="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="108" y="220" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">then</text>
+    <!-- sprout (now) -->
+    <path d="M168 210 Q168 180 176 170" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M176 170 Q188 172 184 184 Q192 176 190 190 Q178 192 176 170 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="168" y1="210" x2="168" y2="226" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M160 226 Q168 222 176 226" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="168" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">now</text>
+  </g>
+
+  <!-- box 2: a story or song -->
+  <rect x="264" y="78" width="224" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="108" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">a story or song</text>
+  <g>
+    <ellipse cx="360" cy="180" rx="9" ry="6" transform="rotate(-15 360 180)"/>
+    <line x1="368" y1="180" x2="368" y2="144" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M368 144 Q380 142 380 154" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="394" cy="192" rx="8" ry="5" transform="rotate(10 394 192)"/>
+    <line x1="401" y1="192" x2="401" y2="160" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M401 160 Q412 158 412 168" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <!-- open book shape under the notes -->
+    <path d="M342 226 Q376 216 410 226 Q376 236 342 226 Z" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linejoin="round"/>
+    <line x1="376" y1="218" x2="376" y2="228" stroke="#6b93b6" stroke-width="2"/>
+  </g>
+
+  <!-- box 3: a place -->
+  <rect x="24" y="274" width="224" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="304" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">a place</text>
+  <g>
+    <path d="M82 372 L108 344 L134 372 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="88" y="372" width="40" height="28" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="102" y="384" width="10" height="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="152" y="380" width="8" height="20" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="156" cy="372" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M60 400 L160 400" stroke="#7a9e7e" stroke-width="2"/>
+  </g>
+
+  <!-- box 4: fair -->
+  <rect x="264" y="274" width="224" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="304" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">fair</text>
+  <g>
+    <circle cx="344" cy="368" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M330 388 Q344 396 358 388 L356 408 Q344 414 332 408 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="376" cy="368" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M362 388 Q376 396 390 388 L388 408 Q376 414 364 408 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="408" cy="368" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M394 388 Q408 396 422 388 L420 408 Q408 414 396 408 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="376" cy="428" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">My story matters &#183; and so does everyone&#8217;s</text>
+</svg>

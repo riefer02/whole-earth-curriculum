@@ -48,6 +48,11 @@ context_variants:
     note: The learner listens to the songs alone, then tells one thing they noticed about each song's sound or feeling
   - context: outdoor-only
     note: Listen outside and notice how the songs sound with open sky; clap along to the beat in the open air
+assets:
+  - path: assets/images/L.00.010.05-songs-many-places.svg
+    alt: "Three people with varied skin tones clap and hum around a drum while one hand rests on the drum to feel the beat, with musical notes above, showing a song shared with respect and not as a costume."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners listen to songs from several world regions, feel their rhythms with claps

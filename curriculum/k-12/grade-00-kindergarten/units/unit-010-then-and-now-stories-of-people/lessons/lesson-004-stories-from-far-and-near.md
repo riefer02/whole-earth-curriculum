@@ -48,6 +48,11 @@ context_variants:
     note: The learner listens to a recorded story alone, then tells a grown-up or peer one thing they noticed
   - context: outdoor-only
     note: Tell or play the story outside in a quiet spot, letting a natural sound (wind, birds) be part of the listening
+assets:
+  - path: assets/images/L.00.010.04-stories-far-and-near.svg
+    alt: "A storyteller sits in a circle of listeners with varied skin tones, one in a wheelchair and one wearing a hearing aid, while a dotted path carries a story from a small globe to their hands."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners listen to a gentle story from another culture and practice respectful

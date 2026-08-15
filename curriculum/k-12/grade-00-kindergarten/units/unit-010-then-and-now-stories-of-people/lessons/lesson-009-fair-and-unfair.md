@@ -46,6 +46,11 @@ context_variants:
     note: The learner listens to or reads the story, sorts the picture scenes into fair and unfair, and retells one in their own words
   - context: outdoor-only
     note: Act out a game of turns outside with a ball or stick — first everyone gets a turn (fair), then one person is left out (unfair) — and name each
+assets:
+  - path: assets/images/L.00.010.09-fair-and-unfair.svg
+    alt: "Three scenes: fair shows three children each with a ball, unfair shows two children sharing one ball while a third in a wheelchair is left out, and then we make it fair shows the third child now holding a ball too."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners hear a gentle, blame-free story about being treated fairly or unfairly,

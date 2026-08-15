@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What did I notice: a four-box notice sheet</title>
+  <desc id="desc">A sheet with four boxes, each labeled with a kind of noticing and a simple icon. The boxes are "a sound" with an ear, "a word" with a speech bubble, "a picture" with an eye, and "a feeling" with a heart. A turn marker rests beside the sheet. The icons differ by shape, so the page prints clearly in grayscale. It helps a learner name one thing they noticed in a story or song.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">What Did I Notice?</text>
+
+  <!-- four boxes -->
+  <!-- box 1: a sound -->
+  <rect x="28" y="84" width="216" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="116" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">a sound</text>
+  <g>
+    <!-- ear -->
+    <path d="M124 226 Q104 226 104 196 Q104 166 136 160 Q150 156 150 176 Q150 196 134 196 L136 232 Q136 246 120 246 Q108 246 108 232 L122 232" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- sound waves -->
+    <g stroke="#6b93b6" stroke-width="3" fill="none" stroke-linecap="round">
+      <path d="M158 178 Q168 190 158 202"/>
+      <path d="M170 168 Q184 190 170 212"/>
+    </g>
+  </g>
+
+  <!-- box 2: a word -->
+  <rect x="268" y="84" width="216" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="116" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">a word</text>
+  <g>
+    <!-- speech bubble -->
+    <path d="M356 160 Q356 138 376 138 L416 138 Q436 138 436 160 L436 196 Q436 218 416 218 L390 218 L374 238 L380 218 L356 218 Q336 218 336 196 L336 160 Q336 138 356 138 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- a simple word mark inside -->
+    <text x="386" y="186" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#fdfbf7">hi</text>
+  </g>
+
+  <!-- box 3: a picture -->
+  <rect x="28" y="278" width="216" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="310" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">a picture</text>
+  <g>
+    <!-- eye -->
+    <path d="M80 356 Q136 316 192 356 Q136 396 80 356 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="136" cy="356" r="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="136" cy="356" r="9" fill="#2b3a42"/>
+    <circle cx="131" cy="351" r="3" fill="#fdfbf7"/>
+  </g>
+
+  <!-- box 4: a feeling -->
+  <rect x="268" y="278" width="216" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="310" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">a feeling</text>
+  <g>
+    <!-- heart -->
+    <circle cx="360" cy="354" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="388" cy="354" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M348 362 L400 362 L374 396 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <!-- turn marker -->
+  <g>
+    <line x1="452" y1="460" x2="500" y2="368" stroke="#4f6d7a" stroke-width="8" stroke-linecap="round"/>
+    <line x1="452" y1="460" x2="500" y2="368" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="452" cy="462" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="500" cy="368" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Say it, point, draw, or sign what you noticed</text>
+</svg>

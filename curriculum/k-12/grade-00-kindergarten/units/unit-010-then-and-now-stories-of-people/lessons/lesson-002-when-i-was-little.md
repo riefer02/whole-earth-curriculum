@@ -46,6 +46,11 @@ context_variants:
     note: The learner draws the two frames alone, then tells a grown-up one thing that changed and one that stayed the same
   - context: outdoor-only
     note: Compare a small and a big thing you can find outside, then tell your own "little me" story aloud without paper
+assets:
+  - path: assets/images/L.00.010.02-when-i-was-little.svg
+    alt: "Two framed pictures of the same child: a small crawling child labeled then me, and a taller running child labeled now me, with the same smiling heart above both to show what stayed the same while they grew."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners tell their own then-and-now story by comparing "little me" and "now me,"

@@ -55,6 +55,11 @@ context_variants:
     note: The learner completes all four boxes alone, then shares the finished page with a grown-up or peer
   - context: outdoor-only
     note: Build the four-part story on the ground with found objects in four marked circles, then share aloud
+assets:
+  - path: assets/images/L.00.010.10-stories-of-people.svg
+    alt: "A four-box Stories of People page labeled then and now, a story or song, a place, and fair, each with a small icon and room to draw, for a learner to fill in their own story."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the unit together in a four-part "Stories of People" page — a

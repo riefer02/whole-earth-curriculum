@@ -45,6 +45,11 @@ context_variants:
     note: The learner sorts the cards alone, then tells a grown-up or peer one "then" and one "now" they chose
   - context: outdoor-only
     note: Find a living then-and-now example outside, such as a seed and a grown plant, or a small and a large leaf on the same plant
+assets:
+  - path: assets/images/L.00.010.01-then-and-now.svg
+    alt: "Two columns labeled then and now: a candle beside a lamp, and a water pot beside a tap. Both the candle and the lamp glow, and both the pot and the tap give water, so neither way is shown as better."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet the idea of "then and now" as a gentle way to talk about the past,
