@@ -48,6 +48,11 @@ context_variants:
     note: Name the signals outdoors; notice how a full day of play can bring hunger, thirst, and tiredness, and check in on each
   - context: multi-age
     note: Older learners act out a signal while younger learners guess whether it is hunger, thirst, or tiredness
+assets:
+  - path: assets/images/L.01.002.03-my-bodys-signals.svg
+    alt: Three cards showing the body's signals — a growling tummy for hunger, a dry mouth for thirst, and a yawning heavy-lidded face for tiredness — with the note that a body signal is always okay to have
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners learn that the body sends signals — hunger, thirst, and tiredness — and

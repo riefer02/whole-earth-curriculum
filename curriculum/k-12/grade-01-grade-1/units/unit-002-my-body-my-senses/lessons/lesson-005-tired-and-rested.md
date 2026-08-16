@@ -48,6 +48,11 @@ context_variants:
     note: Find a quiet spot to rest outdoors; notice how a still, shady place helps a tired body feel better
   - context: level-grouped
     note: Learners who name tiredness quickly can teach the rest-and-breathe pause to a partner
+assets:
+  - path: assets/images/L.01.002.05-tired-and-rested.svg
+    alt: Two figures of the same child — tired with a drooping head, heavy eyes, and a yawn, and rested with a lifted head and bright eyes — with an arrow labeled rest and sleep between them and the note that rest is not lazy
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners notice the body's tiredness signals and learn that rest and sleep help

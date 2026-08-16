@@ -59,6 +59,11 @@ context_variants:
     note: Hold the whole capstone outside — name parts, act out signals, skip and jump in a clear space, and thread a leaf onto a stem
   - context: multi-age
     note: Older learners lead each station and help younger learners name, signal, move, and do careful work
+assets:
+  - path: assets/images/L.01.002.10-my-body-my-senses.svg
+    alt: A four-part celebration collage showing name with a labeled body, signal with hunger thirst and tiredness icons, move with a skipping child and a wheelchair child, and careful hands with cutting threading and buttoning, ending with the note to celebrate everything your body can do
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   A capstone that brings the whole unit together: learners name body parts and their

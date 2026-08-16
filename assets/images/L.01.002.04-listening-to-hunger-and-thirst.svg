@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Listening to hunger and thirst</title>
+  <desc id="desc">Two panels show a body signal and a kind response. Hunger, with a growling tummy, points to eat if food is near, or tell a grown-up. Thirst, with a dry mouth, points to drink some water. A note at the bottom says that if food or water is not near, it is not the learner's fault, and to tell a trusted adult. Signals and responses are matched with words and shapes, not color alone.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Listening to Hunger and Thirst</text>
+
+  <!-- Hunger panel -->
+  <g>
+    <rect x="24" y="70" width="222" height="300" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="135" y="102" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">hunger</text>
+    <!-- tummy -->
+    <ellipse cx="135" cy="148" rx="44" ry="32" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M114 140 q5 -8 10 0 q5 8 10 0" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M122 152 q5 -8 10 0 q5 8 10 0" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="135" y="200" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">empty, growling tummy</text>
+    <!-- arrow down -->
+    <line x1="135" y1="214" x2="135" y2="244" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M128 238 L135 250 L142 238" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- response -->
+    <rect x="50" y="254" width="170" height="94" rx="10" fill="#f2f6ee" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="135" y="282" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">eat if food is near,</text>
+    <text x="135" y="306" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">or tell a grown-up</text>
+  </g>
+
+  <!-- Thirst panel -->
+  <g>
+    <rect x="266" y="70" width="222" height="300" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="377" y="102" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">thirst</text>
+    <!-- open mouth -->
+    <ellipse cx="377" cy="148" rx="28" ry="21" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 139 Q377 133 394 139" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 159 Q377 165 394 159" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="377" cy="149" rx="10" ry="6" fill="#d7d1c3"/>
+    <path d="M344 138 l5 4 M410 136 l-5 4" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="377" y="200" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">dry mouth and throat</text>
+    <!-- arrow down -->
+    <line x1="377" y1="214" x2="377" y2="244" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M370 238 L377 250 L384 238" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- response -->
+    <rect x="292" y="254" width="170" height="94" rx="10" fill="#eef3f7" stroke="#6b93b6" stroke-width="2"/>
+    <!-- small cup -->
+    <path d="M360 300 L360 320 L386 320 L380 300 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M360 306 L350 306 L350 314 L360 314" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="377" y="336" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">drink some water</text>
+  </g>
+
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">If food or water is not near, that is not your fault —</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">tell a grown-up you trust.</text>
+</svg>

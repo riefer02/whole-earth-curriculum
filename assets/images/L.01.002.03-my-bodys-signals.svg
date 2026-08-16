@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My body's signals</title>
+  <desc id="desc">Three cards show the body's signals. Hunger: a round tummy with growl squiggles, labeled hunger. Thirst: an open mouth with dry crack marks, labeled thirst. Tiredness: a yawning face with heavy, closed eyelids, labeled tiredness. Each signal is drawn with a distinct shape and a word label, so the meaning does not depend on color. A note at the bottom says a body signal is always okay to have.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Body's Signals</text>
+
+  <!-- Card 1: hunger -->
+  <g>
+    <rect x="20" y="66" width="150" height="300" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="95" y="100" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">hunger</text>
+    <!-- tummy -->
+    <ellipse cx="95" cy="180" rx="52" ry="40" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <!-- growl squiggles -->
+    <path d="M70 190 q6 -10 12 0 q6 10 12 0" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M80 205 q6 -10 12 0 q6 10 12 0" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="95" y="252" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">an empty,</text>
+    <text x="95" y="272" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">growling tummy</text>
+  </g>
+
+  <!-- Card 2: thirst -->
+  <g>
+    <rect x="181" y="66" width="150" height="300" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">thirst</text>
+    <!-- open mouth -->
+    <ellipse cx="256" cy="180" rx="34" ry="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M236 168 Q256 160 276 168" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M236 194 Q256 202 276 194" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="256" cy="181" rx="12" ry="7" fill="#d7d1c3"/>
+    <!-- dry crack marks -->
+    <path d="M214 160 l6 4 M306 158 l-6 4" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M226 204 l5 -4 M288 202 l-5 -4" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">a dry mouth</text>
+    <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">and throat</text>
+  </g>
+
+  <!-- Card 3: tiredness -->
+  <g>
+    <rect x="342" y="66" width="150" height="300" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="417" y="100" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">tiredness</text>
+    <!-- yawning face -->
+    <circle cx="417" cy="176" r="44" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <!-- heavy closed eyelids -->
+    <path d="M394 172 Q405 178 416 172" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M420 172 Q431 178 442 172" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- yawn mouth -->
+    <ellipse cx="417" cy="194" rx="13" ry="10" fill="#2b3a42"/>
+    <!-- z's -->
+    <text x="460" y="140" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="472" y="122" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="482" y="108" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="417" y="252" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">heavy eyes,</text>
+    <text x="417" y="272" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">yawning, slow body</text>
+  </g>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Listening to your body is a way of being kind to yourself.</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">A body signal is always okay to have.</text>
+</svg>

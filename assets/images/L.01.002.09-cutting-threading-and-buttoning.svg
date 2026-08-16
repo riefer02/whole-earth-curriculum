@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Cutting, threading, and buttoning</title>
+  <desc id="desc">Three panels show three careful hand jobs. Cutting with safety scissors along a drawn line on paper. Threading a bead onto a string through its hole. Buttoning a large button through a buttonhole. Each job is labeled with a word and drawn with distinct shapes, so the meaning does not depend on color. A note says every hand works in its own way and bigger pieces are a fine place to start.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Cutting, Threading, and Buttoning</text>
+
+  <!-- Cutting -->
+  <g>
+    <rect x="20" y="66" width="150" height="300" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="95" y="98" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">cut</text>
+    <!-- paper with dashed line -->
+    <rect x="48" y="120" width="94" height="70" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M54 152 L82 152 M90 152 L136 152" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5" stroke-linecap="round"/>
+    <path d="M54 140 L82 140 M90 140 L136 140" stroke="#d7d1c3" stroke-width="2" stroke-linecap="round"/>
+    <!-- scissors -->
+    <circle cx="80" cy="216" r="9" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="112" cy="216" r="9" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="88" y1="212" x2="122" y2="168" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+    <line x1="104" y1="212" x2="70" y2="168" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+    <text x="95" y="268" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">cut along the line,</text>
+    <text x="95" y="286" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">or tear a fold</text>
+  </g>
+
+  <!-- Threading -->
+  <g>
+    <rect x="181" y="66" width="150" height="300" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">thread</text>
+    <!-- bead with hole, string through -->
+    <circle cx="256" cy="150" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="150" r="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <!-- string -->
+    <path d="M222 182 Q256 196 290 182" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M222 118 Q256 104 290 118" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <!-- second bead below -->
+    <circle cx="290" cy="196" r="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="290" cy="196" r="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">push the string</text>
+    <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">through the hole</text>
+  </g>
+
+  <!-- Buttoning -->
+  <g>
+    <rect x="342" y="66" width="150" height="300" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="417" y="98" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">button</text>
+    <!-- button -->
+    <circle cx="417" cy="150" r="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="411" cy="144" r="3" fill="#2b3a42"/>
+    <circle cx="423" cy="144" r="3" fill="#2b3a42"/>
+    <circle cx="411" cy="156" r="3" fill="#2b3a42"/>
+    <circle cx="423" cy="156" r="3" fill="#2b3a42"/>
+    <!-- buttonhole fabric -->
+    <rect x="380" y="192" width="74" height="46" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="408" y="204" width="12" height="22" rx="6" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <!-- arrow showing push through -->
+    <path d="M417 178 L417 200" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M411 194 L417 202 L423 194" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="417" y="268" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">push it through,</text>
+    <text x="417" y="286" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">slow and careful</text>
+  </g>
+
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every hand works in its own way.</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Bigger pieces are a fine place to start.</text>
+</svg>

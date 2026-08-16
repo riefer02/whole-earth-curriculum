@@ -48,6 +48,11 @@ context_variants:
     note: Use a real or drawn line in the dirt as the "stream" to jump over and the path to hop along
   - context: level-grouped
     note: Learners who can hop and jump far practice aiming at targets, while others practice on the spot with support
+assets:
+  - path: assets/images/L.01.002.07-hopping-and-jumping.svg
+    alt: Two panels showing hop as a spring on one foot and jump as a spring on two feet, each with a standing child and an adapted seated or wheelchair version, plus a soft-landing bent-knees cue and the note that every body springs its own way
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners learn to hop on one foot and jump with two feet, and practice landing

@@ -52,6 +52,11 @@ context_variants:
     note: Name the parts and play the touch-and-name game with movement across a marked space, using the ground and sky as a big drawing surface
   - context: multi-age
     note: Older learners pair with younger ones to point and name each part, then help the younger learner label a drawing
+assets:
+  - path: assets/images/L.01.002.01-meet-my-body-parts.svg
+    alt: A neutral body map with leader lines labeling head, arms, legs, hands, and feet, and the note that every body is different and every body is good
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name the basic body parts — head, arms, legs, hands, and feet — point to

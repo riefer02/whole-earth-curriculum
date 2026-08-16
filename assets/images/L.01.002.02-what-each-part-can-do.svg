@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What each body part can do</title>
+  <desc id="desc">Five rows match a body part to jobs it can do. Head — think, look, listen. Arms — reach, lift, hug. Legs — walk or roll, run, kick. Hands — hold, build, touch. Feet — stand, walk, balance. Each part is drawn with a small icon and a word label, and an arrow points to its jobs, so the meaning does not depend on color. One row shows a wheelchair to remind that the same job is done many ways.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Each Part Can Do</text>
+
+  <!-- Row band 1: head -->
+  <g>
+    <rect x="24" y="64" width="464" height="72" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+    <!-- head icon -->
+    <circle cx="62" cy="100" r="20" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="56" cy="95" r="2.5" fill="#2b3a42"/>
+    <circle cx="68" cy="95" r="2.5" fill="#2b3a42"/>
+    <path d="M56 106 Q62 111 68 106" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="92" y="106" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">head</text>
+    <path d="M168 96 L196 96 M190 90 L198 96 L190 102" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="212" y="106" font-family="sans-serif" font-size="17" fill="#222222">think · look · listen</text>
+  </g>
+
+  <!-- Row band 2: arms -->
+  <g>
+    <rect x="24" y="146" width="464" height="72" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+    <!-- arms icon (two raised arms) -->
+    <path d="M52 120 l-6 -16 M72 120 l6 -16" stroke="#d7d1c3" stroke-width="12" stroke-linecap="round"/>
+    <line x1="52" y1="120" x2="52" y2="110" stroke="#d7d1c3" stroke-width="12" stroke-linecap="round"/>
+    <line x1="72" y1="120" x2="72" y2="110" stroke="#d7d1c3" stroke-width="12" stroke-linecap="round"/>
+    <text x="92" y="188" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">arms</text>
+    <path d="M168 178 L196 178 M190 172 L198 178 L190 184" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="212" y="188" font-family="sans-serif" font-size="17" fill="#222222">reach · lift · hug</text>
+  </g>
+
+  <!-- Row band 3: legs (with wheelchair option) -->
+  <g>
+    <rect x="24" y="228" width="464" height="72" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+    <!-- legs icon -->
+    <line x1="56" y1="252" x2="56" y2="282" stroke="#d7d1c3" stroke-width="11" stroke-linecap="round"/>
+    <line x1="74" y1="252" x2="74" y2="282" stroke="#d7d1c3" stroke-width="11" stroke-linecap="round"/>
+    <text x="92" y="270" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">legs</text>
+    <path d="M168 260 L196 260 M190 254 L198 260 L190 266" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="212" y="270" font-family="sans-serif" font-size="17" fill="#222222">walk or roll · run · kick</text>
+    <!-- small wheelchair hint -->
+    <circle cx="438" cy="272" r="9" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="466" cy="272" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="452" y1="272" x2="452" y2="252" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="430" y="250" width="34" height="6" rx="3" fill="#4f6d7a"/>
+  </g>
+
+  <!-- Row band 4: hands -->
+  <g>
+    <rect x="24" y="310" width="464" height="72" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+    <!-- hand icon (open hand) -->
+    <circle cx="62" cy="346" r="9" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="62" y1="355" x2="62" y2="370" stroke="#d7d1c3" stroke-width="8" stroke-linecap="round"/>
+    <text x="92" y="352" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">hands</text>
+    <path d="M168 342 L196 342 M190 336 L198 342 L190 348" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="212" y="352" font-family="sans-serif" font-size="17" fill="#222222">hold · build · touch</text>
+  </g>
+
+  <!-- Row band 5: feet -->
+  <g>
+    <rect x="24" y="392" width="464" height="72" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+    <!-- feet icon -->
+    <rect x="48" y="420" width="26" height="12" rx="6" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="52" y="412" width="18" height="8" rx="4" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <text x="92" y="434" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">feet</text>
+    <path d="M168 424 L196 424 M190 418 L198 424 L190 430" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="212" y="434" font-family="sans-serif" font-size="17" fill="#222222">stand · walk · balance</text>
+  </g>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">The same job can be done many ways.</text>
+</svg>

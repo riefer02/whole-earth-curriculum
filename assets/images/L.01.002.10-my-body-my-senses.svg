@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My body, my senses — a celebration</title>
+  <desc id="desc">A four-part celebration of the body. Name: a labeled body with head, arms, legs, hands, feet. Signal: three small icons for hunger, thirst, and tiredness. Move: a child skipping, with a wheelchair reminder that movement can be done with wheels. Careful hands: scissors, a bead and string, and a button. Each part is labeled with words, so the meaning does not depend on color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Body, My Senses</text>
+
+  <!-- Name quadrant -->
+  <g>
+    <rect x="20" y="62" width="232" height="210" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="136" y="90" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">name</text>
+    <!-- small body with labels -->
+    <circle cx="100" cy="128" r="24" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="80" y="152" width="40" height="62" rx="14" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="82" y1="162" x2="64" y2="196" stroke="#d7d1c3" stroke-width="11" stroke-linecap="round"/>
+    <line x1="118" y1="162" x2="136" y2="196" stroke="#d7d1c3" stroke-width="11" stroke-linecap="round"/>
+    <line x1="92" y1="212" x2="92" y2="246" stroke="#d7d1c3" stroke-width="11" stroke-linecap="round"/>
+    <line x1="108" y1="212" x2="108" y2="246" stroke="#d7d1c3" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="64" cy="198" r="6" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="136" cy="198" r="6" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <!-- labels -->
+    <text x="156" y="126" font-family="sans-serif" font-size="13" fill="#2b3a42">head</text>
+    <text x="156" y="196" font-family="sans-serif" font-size="13" fill="#2b3a42">arms</text>
+    <text x="156" y="230" font-family="sans-serif" font-size="13" fill="#2b3a42">legs</text>
+    <text x="40" y="262" font-family="sans-serif" font-size="13" fill="#2b3a42">hands</text>
+    <text x="148" y="262" font-family="sans-serif" font-size="13" fill="#2b3a42">feet</text>
+  </g>
+
+  <!-- Signal quadrant -->
+  <g>
+    <rect x="260" y="62" width="232" height="210" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="376" y="90" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">signal</text>
+    <!-- hunger -->
+    <ellipse cx="320" cy="130" rx="22" ry="16" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M306 133 q4 -6 8 0 q4 6 8 0" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="320" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">hunger</text>
+    <!-- thirst -->
+    <ellipse cx="376" cy="126" rx="16" ry="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="376" cy="127" rx="6" ry="4" fill="#d7d1c3"/>
+    <text x="376" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">thirst</text>
+    <!-- tiredness -->
+    <circle cx="432" cy="128" r="20" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M424 124 Q430 129 436 124" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M434 124 Q440 129 446 124" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="432" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">tiredness</text>
+    <text x="376" y="222" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">listen to what your body says</text>
+    <text x="376" y="244" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">— a signal is always okay</text>
+  </g>
+
+  <!-- Move quadrant -->
+  <g>
+    <rect x="20" y="284" width="232" height="210" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="136" y="312" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">move</text>
+    <!-- skipping child -->
+    <circle cx="100" cy="356" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="82" y="378" width="36" height="52" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="86" y1="388" x2="70" y2="420" stroke="#c99567" stroke-width="11" stroke-linecap="round"/>
+    <line x1="114" y1="388" x2="132" y2="414" stroke="#c99567" stroke-width="11" stroke-linecap="round"/>
+    <line x1="94" y1="428" x2="86" y2="470" stroke="#4f6d7a" stroke-width="11" stroke-linecap="round"/>
+    <line x1="108" y1="428" x2="118" y2="462" stroke="#4f6d7a" stroke-width="11" stroke-linecap="round"/>
+    <!-- wheelchair child -->
+    <circle cx="196" cy="386" r="18" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="180" y="404" width="32" height="36" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="182" y1="412" x2="166" y2="398" stroke="#8f5f3d" stroke-width="9" stroke-linecap="round"/>
+    <line x1="210" y1="412" x2="224" y2="398" stroke="#8f5f3d" stroke-width="9" stroke-linecap="round"/>
+    <rect x="174" y="444" width="44" height="9" rx="4" fill="#4f6d7a"/>
+    <circle cx="182" cy="462" r="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="212" cy="462" r="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="136" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">skip, gallop, hop, jump — feet or wheels</text>
+  </g>
+
+  <!-- Careful hands quadrant -->
+  <g>
+    <rect x="260" y="284" width="232" height="210" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="376" y="312" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">careful hands</text>
+    <!-- scissors -->
+    <circle cx="330" cy="376" r="7" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="354" cy="376" r="7" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="336" y1="372" x2="356" y2="344" stroke="#4f6d7a" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="348" y1="372" x2="330" y2="344" stroke="#4f6d7a" stroke-width="3.5" stroke-linecap="round"/>
+    <text x="342" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">cut</text>
+    <!-- bead and string -->
+    <circle cx="376" cy="362" r="17" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="376" cy="362" r="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 376 Q376 384 392 376" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="376" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">thread</text>
+    <!-- button -->
+    <circle cx="420" cy="364" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="416" cy="360" r="2" fill="#2b3a42"/>
+    <circle cx="424" cy="360" r="2" fill="#2b3a42"/>
+    <circle cx="416" cy="368" r="2" fill="#2b3a42"/>
+    <circle cx="424" cy="368" r="2" fill="#2b3a42"/>
+    <text x="420" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">button</text>
+    <text x="376" y="448" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">do one careful job slowly and well</text>
+    <text x="376" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">every hand works its own way</text>
+  </g>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Celebrate everything your body can do.</text>
+</svg>

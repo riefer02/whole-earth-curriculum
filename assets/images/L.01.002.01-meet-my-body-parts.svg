@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Meet my body parts</title>
+  <desc id="desc">A front-facing body drawn in a neutral tone with five labeled parts. Leader lines point from the words head, arms, legs, hands, and feet to the matching part on the body. The parts are named with words and pointed to with lines, so the meaning does not depend on color and it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Meet My Body Parts</text>
+
+  <!-- Body (neutral "everyone's body" tone) -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="#d7d1c3">
+    <!-- head -->
+    <circle cx="256" cy="150" r="46"/>
+    <!-- torso -->
+    <rect x="218" y="196" width="76" height="132" rx="24"/>
+    <!-- arms -->
+    <line x1="222" y1="214" x2="188" y2="300" stroke-width="20"/>
+    <line x1="290" y1="214" x2="324" y2="300" stroke-width="20"/>
+    <!-- legs -->
+    <line x1="236" y1="326" x2="236" y2="398" stroke-width="22"/>
+    <line x1="276" y1="326" x2="276" y2="398" stroke-width="22"/>
+    <!-- hands -->
+    <circle cx="188" cy="302" r="11"/>
+    <circle cx="324" cy="302" r="11"/>
+    <!-- feet -->
+    <rect x="220" y="396" width="30" height="12" rx="6"/>
+    <rect x="262" y="396" width="30" height="12" rx="6"/>
+  </g>
+
+  <!-- Friendly face -->
+  <g fill="#2b3a42">
+    <circle cx="238" cy="144" r="4"/>
+    <circle cx="274" cy="144" r="4"/>
+  </g>
+  <path d="M250 152 L262 152 L256 166 Z" fill="#b9b2a2" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M242 178 Q256 190 270 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Part highlights (rings) -->
+  <g fill="none" stroke-width="3" stroke-linecap="round">
+    <circle cx="256" cy="140" r="14" stroke="#6b93b6"/>   <!-- head -->
+    <circle cx="206" cy="246" r="15" stroke="#e0a458"/>   <!-- arm -->
+    <circle cx="188" cy="302" r="16" stroke="#7a9e7e"/>   <!-- hand -->
+    <circle cx="276" cy="360" r="15" stroke="#4f6d7a"/>   <!-- leg -->
+    <circle cx="278" cy="400" r="13" stroke="#e0a458"/>   <!-- foot -->
+  </g>
+
+  <!-- Leader lines -->
+  <g stroke="#4f6d7a" stroke-width="1.5" fill="none">
+    <line x1="140" y1="118" x2="216" y2="132"/>
+    <line x1="140" y1="244" x2="192" y2="245"/>
+    <line x1="140" y1="306" x2="174" y2="303"/>
+    <line x1="372" y1="356" x2="290" y2="358"/>
+    <line x1="372" y1="404" x2="292" y2="401"/>
+  </g>
+
+  <!-- Labels -->
+  <g font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">
+    <text x="140" y="112" text-anchor="end">head</text>
+    <text x="140" y="238" text-anchor="end">arms</text>
+    <text x="140" y="300" text-anchor="end">hands</text>
+    <text x="372" y="350" text-anchor="start">legs</text>
+    <text x="372" y="398" text-anchor="start">feet</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Every body is different, and every body is good.</text>
+</svg>

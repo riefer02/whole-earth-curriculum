@@ -48,6 +48,11 @@ context_variants:
     note: Skip and gallop along a clear outdoor path, from one mark to the next, using the ground as the boundary
   - context: multi-age
     note: Older learners demonstrate skip and gallop while younger learners copy, taking turns as leader
+assets:
+  - path: assets/images/L.01.002.06-skipping-and-galloping.svg
+    alt: Two panels showing skip as step-hop and gallop as step-together, each drawn with a standing child and a seated or wheelchair child moving the same way, with the note that every body moves its own way
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners learn two traveling movements — skipping and galloping — and practice them

@@ -52,6 +52,11 @@ context_variants:
     note: Practice the thirsty response with a real water break during outdoor play; notice thirst after running
   - context: multi-age
     note: Older learners help younger ones pour water safely and remind them to drink when their mouth feels dry
+assets:
+  - path: assets/images/L.01.002.04-listening-to-hunger-and-thirst.svg
+    alt: Two panels matching each signal to a kind response — hunger to eat if food is near or tell a grown-up, thirst to drink some water — with the note that if food or water is not near it is not the learner's fault and to tell a trusted adult
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners focus on two body signals — hunger and thirst — and practice simple,

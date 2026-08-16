@@ -56,6 +56,11 @@ context_variants:
     note: Thread leaves or seeds with holes onto a stem or string, and button a coat or shirt as part of dressing for outside
   - context: level-grouped
     note: Learners who cut, thread, and button easily choose the smallest beads and curviest lines, while others use larger pieces
+assets:
+  - path: assets/images/L.01.002.09-cutting-threading-and-buttoning.svg
+    alt: Three panels showing cutting along a line with scissors, threading a bead onto a string, and buttoning a large button through a hole, with the note that every hand works in its own way and bigger pieces are a fine place to start
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice three small hand movements — cutting, threading, and buttoning —

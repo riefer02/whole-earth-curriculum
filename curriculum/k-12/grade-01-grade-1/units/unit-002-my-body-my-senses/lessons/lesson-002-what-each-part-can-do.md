@@ -49,6 +49,11 @@ context_variants:
     note: Act out each job outside — reach for a branch, stand on a log, hold a stone — and name which part does it
   - context: level-grouped
     note: Group learners who already know the names to think up a second job for each part, while others practice the first
+assets:
+  - path: assets/images/L.01.002.02-what-each-part-can-do.svg
+    alt: Five rows matching each body part to its jobs — head to think look listen, arms to reach lift hug, legs to walk or roll run kick, hands to hold build touch, feet to stand walk balance — with a wheelchair shown as another way to go
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners connect each named body part to a simple job it can do, act the jobs out,

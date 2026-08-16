@@ -48,6 +48,11 @@ context_variants:
     note: Balance on a log, a low wall, or a line in the dirt, and carry a leaf or stone on an open hand
   - context: multi-age
     note: Older learners model the statue game and steady walking while younger learners copy
+assets:
+  - path: assets/images/L.01.002.08-balance-and-control.svg
+    alt: Three panels showing balance on two feet like a tree, on one foot like a flamingo, and a seated steady pose with a beanbag on the head, plus a balance-beam line, with the note that standing or seated every body can be steady
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice keeping their bodies steady and in control — balancing on two

@@ -1414,12 +1414,22 @@ items:
     type: assets
     grade: 1
     domain: D03
-    status: ready
+    status: done
     priority: 44
     depends_on:
       - B-053
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.002 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (301 files). All 10 assets resolve to real files, non-empty alt, kind/source valid. 10 SVGs well-formed self-contained XML (viewBox, role=img, title/desc, word labels), grayscale-safe, color-not-only-signal. Wheelchair/seated in movement assets (02/06/07/08/10). Honor-every-body ('never compare bodies' L.001); food-insecurity care (L.003 'never assume what learner has eaten', L.004 'not your fault'); tiredness as kind care not lazy (L.005 'rest is not being lazy'). No body shaming. Objectives resolve to real grade-1 D03 standards (S1.01.01/.02, S2.01.01/.02).
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs role=img + aria-labelledby + title/desc, concept-complete, word labels/shapes/arrows, grayscale-safe. Low-tech all; alt non-empty. Movement lessons seated/wheelchair/adapted as equal real choices ('not second choices') + visual beat/landing/freeze cues for deaf/HH + breathing rest accommodations. Body-signal food-insecurity non-shaming ('never assume what learner has eaten', 'not your fault'). Tactile (touch-and-name body map) + describe-aloud non-visual paths. No wealth/device assumption. Fix: invalid stroke-linecap='10' -> 'round' in L.06. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Movement equity: seated/wheelchair co-equal in every movement SVG (02 walk-or-roll, 06 standing+seated-bounce/wheelchair-roll 'feet or wheels', 07 push-and-glide, 08 seated own panel, 10 both). 4 distinct warm skin tones; body maps neutral beige; L.02 'spoon, chopsticks, or pencil'. Food-insecurity non-shaming (SVG 04 'not your fault — tell a grown-up'; 'eating customs vary across families/cultures'). No ranking ('never speed/distance/height', 'never compare bodies', 'never hold up one way'). No single 'we' default ('all over the world people move to music'). Body-part names anatomical universals. Non-blocking: SVG 01/05 single neutral standing figures (acceptable). No edits. validate passes (301 files)."
   - id: B-085
     title: "Illustration pass: add SVG assets to lessons in U.01.003"
     agent: asset-designer

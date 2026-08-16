@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Skipping and galloping</title>
+  <desc id="desc">Two panels show two traveling movements. Skip is a step and a hop, step-hop step-hop, shown by a standing child and a seated child who bounces and swings arms to the beat. Gallop is step-together like a horse, shown by a standing child leading one foot and a child in a wheelchair rolling with the same rhythm. Movement arrows and word labels carry the meaning, not color alone.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Skipping and Galloping</text>
+
+  <!-- Skip panel -->
+  <g>
+    <rect x="20" y="64" width="232" height="270" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="136" y="94" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">skip</text>
+    <!-- standing child step-hop -->
+    <circle cx="86" cy="138" r="24" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="66" y="162" width="40" height="58" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="70" y1="172" x2="54" y2="206" stroke="#c99567" stroke-width="12" stroke-linecap="round"/>
+    <line x1="102" y1="172" x2="118" y2="200" stroke="#c99567" stroke-width="12" stroke-linecap="round"/>
+    <line x1="80" y1="218" x2="70" y2="276" stroke="#4f6d7a" stroke-width="12" stroke-linecap="round"/>
+    <line x1="96" y1="218" x2="108" y2="268" stroke="#4f6d7a" stroke-width="12" stroke-linecap="round"/>
+    <!-- hop arc -->
+    <path d="M104 128 q16 -12 30 -4" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <!-- seated child bouncing -->
+    <circle cx="192" cy="176" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="174" y="196" width="36" height="40" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="176" y1="204" x2="160" y2="188" stroke="#8f5f3d" stroke-width="10" stroke-linecap="round"/>
+    <line x1="208" y1="204" x2="224" y2="188" stroke="#8f5f3d" stroke-width="10" stroke-linecap="round"/>
+    <rect x="168" y="240" width="48" height="10" rx="5" fill="#4f6d7a"/>
+    <line x1="180" y1="250" x2="180" y2="270" stroke="#4f6d7a" stroke-width="8"/>
+    <line x1="204" y1="250" x2="204" y2="270" stroke="#4f6d7a" stroke-width="8"/>
+    <!-- bounce arc -->
+    <path d="M210 160 q14 -10 26 -2" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="136" y="310" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">step-hop, step-hop</text>
+    <text x="136" y="326" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">standing or seated</text>
+  </g>
+
+  <!-- Gallop panel -->
+  <g>
+    <rect x="260" y="64" width="232" height="270" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="376" y="94" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">gallop</text>
+    <!-- standing child leading foot -->
+    <circle cx="326" cy="138" r="24" fill="#e3b587" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="306" y="162" width="40" height="58" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="310" y1="172" x2="294" y2="206" stroke="#e3b587" stroke-width="12" stroke-linecap="round"/>
+    <line x1="342" y1="172" x2="358" y2="200" stroke="#e3b587" stroke-width="12" stroke-linecap="round"/>
+    <line x1="316" y1="218" x2="300" y2="276" stroke="#4f6d7a" stroke-width="12" stroke-linecap="round"/>
+    <line x1="340" y1="218" x2="356" y2="268" stroke="#4f6d7a" stroke-width="12" stroke-linecap="round"/>
+    <!-- forward arrow -->
+    <path d="M300 128 q-14 -8 -24 0" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <!-- child in wheelchair rolling -->
+    <circle cx="434" cy="176" r="20" fill="#a9714b" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="416" y="196" width="36" height="40" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="418" y1="204" x2="404" y2="190" stroke="#a9714b" stroke-width="10" stroke-linecap="round"/>
+    <line x1="450" y1="204" x2="464" y2="190" stroke="#a9714b" stroke-width="10" stroke-linecap="round"/>
+    <rect x="408" y="240" width="52" height="10" rx="5" fill="#4f6d7a"/>
+    <line x1="422" y1="250" x2="422" y2="270" stroke="#4f6d7a" stroke-width="8"/>
+    <circle cx="414" cy="270" r="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="454" cy="270" r="7" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <!-- roll arrow -->
+    <path d="M458 160 q14 -10 26 -2" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="376" y="310" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">step-together</text>
+    <text x="376" y="326" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">feet or wheels</text>
+  </g>
+
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Keep the beat with your body — standing, seated, or rolling.</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every body moves its own way.</text>
+</svg>
