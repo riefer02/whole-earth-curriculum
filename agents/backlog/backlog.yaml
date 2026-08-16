@@ -1696,13 +1696,20 @@ items:
     type: scope
     grade: 5
     domain: null
-    status: ready
+    status: done
     priority: 32
     depends_on: []
     required_reviews:
       - vision-architect
       - reviewer
     notes: Author curriculum/k-12/grade-05-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+    reviews:
+      vision-architect:
+        verdict: passed
+        note: "Traceability verified: all 78 referenced objectives across 12 unit stubs + preserved exemplar lesson resolve to real grade-5 standards (Dxx.Sn.05.nn), 0 missing/off-grade; domain->pillar matches taxonomy (D01/D02->P1, D03->P2, D04-D07->P3, D08-D10->P4); all 10 domains + 4 pillars represented; days 1-180 continuous no gaps/overlaps; domain_weighting sums to 100. Spiral confirmed (builds on G4 controlled experiments, closes looking ahead to G6). Global/non-Eurocentric, questions-not-creed, no hierarchy. validate 345 files 0 errors."
+      reviewer:
+        verdict: passed
+        note: Validate passed (345 files). All 12 stubs carry complete frontmatter + Overview/Essential questions/Lessons headings (unit-001 Essential questions heading added during re-review). Objectives resolve to real grade-5 standards (D06.S1.05.01/.02, D04.S4.05.02, D10.S4.05.02, D08.S1.05.01); days 1-180 continuous no gaps/overlaps; domain_weighting sums to 100; global/non-Eurocentric, no high-stakes tests.
   - id: B-103
     title: Author Grade 6 scope (full 180-day plan)
     agent: scope-sequencer

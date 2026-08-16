@@ -36,6 +36,11 @@ science: real inquiry with controls, a hands-on investigation, and the explicit
 distinction between evidence, inference, and opinion — concrete, but genuinely
 rigorous.
 
+## Essential questions
+
+- How do we know what we know?
+- What is the difference between seeing something happen and explaining why it happens?
+
 ## Lessons
 
 | Lesson | Title | Standards |
