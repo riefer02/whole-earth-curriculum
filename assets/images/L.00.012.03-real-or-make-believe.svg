@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Real or make-believe</title>
+  <desc id="desc">Two boxes side by side. On the left, labeled "Real", a hand holds a real leaf, and below it sits a real dog. On the right, labeled "Make-believe", a friendly smiling dragon breathes a tiny heart, and a smiling moon peeks out. Under each box a line tells how we know: real is something we can see and touch; make-believe is something we imagine. Both are shown as good, not as better or worse, and the labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Real or Make-Believe?</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Both are treasures — we just learn to notice which is which.</text>
+
+  <!-- ===== Left panel: REAL ===== -->
+  <rect x="24" y="96" width="224" height="332" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="128" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Real</text>
+
+  <!-- hand holding a leaf -->
+  <g>
+    <path d="M94 186 L120 186 Q136 186 136 202 Q136 216 122 216 L94 216 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- fingers -->
+    <line x1="120" y1="190" x2="132" y2="186" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+    <line x1="122" y1="200" x2="134" y2="198" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+    <line x1="120" y1="210" x2="132" y2="210" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+    <!-- leaf -->
+    <path d="M136 178 Q156 166 166 178 Q156 190 136 178 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="138" y1="178" x2="162" y2="178" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="146" y1="178" x2="150" y2="170" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="152" y1="178" x2="154" y2="184" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <text x="136" y="236" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a real leaf</text>
+
+  <!-- real dog -->
+  <g>
+    <ellipse cx="136" cy="300" rx="34" ry="22" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="100" cy="286" r="14" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="84" cy="286" rx="9" ry="6" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="106" cy="283" r="2.4" fill="#2b3a42"/>
+    <path d="M112 286 Q116 290 112 293" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="120" y1="316" x2="118" y2="332" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="146" y1="316" x2="148" y2="332" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M160 314 q10 -4 18 0" fill="none" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="136" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a real dog</text>
+
+  <rect x="48" y="376" width="176" height="40" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="401" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">I can see and touch it</text>
+
+  <!-- ===== Right panel: MAKE-BELIEVE ===== -->
+  <rect x="264" y="96" width="224" height="332" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="128" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Make-believe</text>
+
+  <!-- friendly dragon -->
+  <g>
+    <path d="M340 210 Q344 172 376 168 Q410 172 414 210 L408 234 L344 234 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- spikes -->
+    <path d="M350 184 L356 172 L362 184 M362 180 L368 168 L374 180 M374 184 L380 172 L386 184" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="382" cy="192" r="3" fill="#2b3a42"/>
+    <path d="M384 200 Q388 204 384 208" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M360 212 Q376 220 392 212" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- wings -->
+    <path d="M344 206 Q330 192 340 180 Q348 190 352 196" fill="#8fb0cc" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- tail -->
+    <path d="M340 226 Q324 232 330 244" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <!-- breath: a small heart -->
+    <path d="M398 214 C394 206 388 208 388 213 C388 218 392 220 398 225 C404 220 408 218 408 213 C408 208 402 206 398 214 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <text x="376" y="266" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a friendly dragon</text>
+
+  <!-- talking moon -->
+  <g>
+    <path d="M360 300 a22 22 0 1 1 -18 -36 a26 26 0 1 0 18 36 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="360" cy="294" r="2.4" fill="#2b3a42"/>
+    <circle cx="374" cy="294" r="2.4" fill="#2b3a42"/>
+    <path d="M362 304 Q367 308 372 304" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="376" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a talking moon</text>
+
+  <rect x="288" y="376" width="176" height="40" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="401" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">I imagine it</text>
+
+  <!-- Footer -->
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Real is what we can see and touch; make-believe is what we imagine.</text>
+</svg>

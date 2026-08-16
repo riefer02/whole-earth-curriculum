@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Caring for our Earth home</title>
+  <desc id="desc">Four boxes, each showing one small act of care for the Earth, with a label for what it helps. A child waters a plant. A hand turns off a tap. A hand places a piece of litter into a bin. A hand plants a seed so more green can grow. Each box has a short line saying why it helps. The acts are drawn simply and labeled in words, so the picture prints clearly in grayscale and shows that one small act of care, done by many hands, becomes a big act.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Caring for Our Earth Home</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">One small act, done by many hands, becomes a big act.</text>
+
+  <!-- ===== Panel A: water a plant ===== -->
+  <rect x="24" y="100" width="224" height="176" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="128" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Water a plant</text>
+  <!-- plant -->
+  <path d="M96 236 Q96 214 110 204 Q118 196 128 204 Q138 196 146 204 Q160 214 160 236 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#7a9e7e" stroke-width="6" stroke-linecap="round">
+    <line x1="128" y1="236" x2="128" y2="180"/>
+    <path d="M128 200 Q114 194 110 182"/>
+    <path d="M128 214 Q142 208 146 196"/>
+  </g>
+  <ellipse cx="128" cy="242" rx="34" ry="9" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+  <!-- watering can -->
+  <path d="M150 156 L176 156 L176 196 Q176 210 162 210 Q148 210 148 196 L150 156 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="150" y="148" width="26" height="12" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="150" y1="164" x2="140" y2="156" stroke="#6b93b6" stroke-width="6" stroke-linecap="round"/>
+  <!-- water drops -->
+  <path d="M158 214 q-4 7 0 10 q4 -3 0 -10 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M170 216 q-4 7 0 10 q4 -3 0 -10 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="136" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">helps the plant grow</text>
+
+  <!-- ===== Panel B: turn off the tap ===== -->
+  <rect x="264" y="100" width="224" height="176" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="128" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Turn off the tap</text>
+  <!-- tap -->
+  <path d="M344 150 L372 150 L372 172 Q372 180 366 182 L366 196" fill="none" stroke="#2b3a42" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="336" y="144" width="42" height="10" rx="5" fill="#8fb0cc" stroke="#2b3a42" stroke-width="2"/>
+  <!-- hand turning the handle -->
+  <g>
+    <circle cx="408" cy="176" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="398" y1="170" x2="386" y2="164" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+    <line x1="400" y1="182" x2="388" y2="184" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <!-- no more dripping: a single stopped drop with a slash -->
+  <path d="M366 204 q-4 7 0 10 q4 -3 0 -10 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="358" y1="218" x2="376" y2="204" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <text x="376" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">saves water for others</text>
+
+  <!-- ===== Panel C: litter to the bin ===== -->
+  <rect x="24" y="292" width="224" height="176" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="320" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Litter to the bin</text>
+  <!-- bin -->
+  <path d="M96 366 L106 428 Q122 438 138 428 L148 366 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="90" y="360" width="64" height="10" rx="4" fill="#8fb0cc" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M106 360 Q122 352 138 360" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- hand dropping litter -->
+  <g>
+    <path d="M92 236 L106 236 Q118 236 118 248 Q118 258 106 258 L92 258 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="104" y1="240" x2="114" y2="238" stroke="#f5d6b6" stroke-width="5" stroke-linecap="round"/>
+    <line x1="104" y1="250" x2="114" y2="250" stroke="#f5d6b6" stroke-width="5" stroke-linecap="round"/>
+    <!-- litter falling -->
+    <rect x="110" y="264" width="16" height="10" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2" transform="rotate(15 118 269)"/>
+    <path d="M120 282 q3 10 0 20" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="3 3"/>
+  </g>
+  <text x="136" y="448" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">keeps our home clean</text>
+
+  <!-- ===== Panel D: plant a seed ===== -->
+  <rect x="264" y="292" width="224" height="176" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="320" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Plant a seed</text>
+  <!-- soil -->
+  <ellipse cx="376" cy="400" rx="52" ry="14" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+  <!-- hand placing a seed -->
+  <g>
+    <path d="M360 352 L376 352 Q390 352 390 366 Q390 378 376 378 L360 378 Z" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="372" y1="356" x2="384" y2="354" stroke="#8d5a3b" stroke-width="5" stroke-linecap="round"/>
+    <line x1="372" y1="368" x2="384" y2="368" stroke="#8d5a3b" stroke-width="5" stroke-linecap="round"/>
+    <!-- seed -->
+    <circle cx="384" cy="392" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- sprout in soil -->
+  <g stroke="#7a9e7e" stroke-width="4" stroke-linecap="round">
+    <line x1="360" y1="398" x2="360" y2="378"/>
+    <path d="M360 384 Q352 380 350 372"/>
+    <path d="M360 388 Q368 384 370 376"/>
+  </g>
+  <text x="376" y="448" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">grows more green</text>
+
+  <!-- Footer -->
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">When we each care a little, the whole Earth home is cared for.</text>
+</svg>

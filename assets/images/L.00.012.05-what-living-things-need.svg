@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What living things need</title>
+  <desc id="desc">A plant grows in the center. Around it, four labeled cards point to what it needs: the sun, water, food from the soil, and air. Each need has a simple drawing and a word label, and arrows point from each need to the plant. The four needs are shown with different shapes and labels, so the picture prints clearly in grayscale and shows that every living thing needs sun, water, food, and air to live and grow.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Living Things Need</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Sun, water, food, and air — every living thing needs these gifts.</text>
+
+  <!-- ===== Central plant ===== -->
+  <g>
+    <!-- soil mound -->
+    <ellipse cx="256" cy="322" rx="76" ry="18" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <!-- stem -->
+    <line x1="256" y1="322" x2="256" y2="224" stroke="#7a9e7e" stroke-width="8" stroke-linecap="round"/>
+    <!-- leaves -->
+    <path d="M256 250 Q234 244 230 228" fill="none" stroke="#7a9e7e" stroke-width="7" stroke-linecap="round"/>
+    <path d="M256 274 Q278 268 282 252" fill="none" stroke="#7a9e7e" stroke-width="7" stroke-linecap="round"/>
+    <path d="M256 230 Q238 224 236 208" fill="none" stroke="#7a9e7e" stroke-width="7" stroke-linecap="round"/>
+    <path d="M256 246 Q272 240 274 224" fill="none" stroke="#7a9e7e" stroke-width="7" stroke-linecap="round"/>
+    <!-- roots -->
+    <g stroke="#7a9e7e" stroke-width="4" stroke-linecap="round">
+      <line x1="256" y1="330" x2="240" y2="346"/>
+      <line x1="256" y1="330" x2="272" y2="346"/>
+    </g>
+  </g>
+
+  <!-- ===== Sun (top) ===== -->
+  <g>
+    <circle cx="256" cy="128" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="4" stroke-linecap="round">
+      <line x1="256" y1="96" x2="256" y2="86"/>
+      <line x1="256" y1="160" x2="256" y2="170"/>
+      <line x1="224" y1="128" x2="214" y2="128"/>
+      <line x1="288" y1="128" x2="298" y2="128"/>
+      <line x1="234" y1="106" x2="227" y2="99"/>
+      <line x1="278" y1="106" x2="285" y2="99"/>
+      <line x1="234" y1="150" x2="227" y2="157"/>
+      <line x1="278" y1="150" x2="285" y2="157"/>
+    </g>
+    <text x="256" y="184" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">sun</text>
+    <path d="M256 196 L256 216" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+    <path d="M253 213 L256 221 L259 213 Z" fill="#4f6d7a"/>
+  </g>
+
+  <!-- ===== Water (bottom) ===== -->
+  <g>
+    <path d="M256 424 q-9 15 0 22 q9 -7 0 -22 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">water</text>
+    <path d="M256 398 L256 420" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+    <path d="M253 417 L256 425 L259 417 Z" fill="#4f6d7a"/>
+  </g>
+
+  <!-- ===== Food from soil (left) ===== -->
+  <g>
+    <ellipse cx="108" cy="296" rx="34" ry="14" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="96" cy="290" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="110" cy="288" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="122" cy="292" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="108" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">food</text>
+    <text x="108" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">from soil</text>
+    <path d="M146 296 L176 304" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+    <path d="M173 300 L181 305 L173 309 Z" fill="#4f6d7a"/>
+  </g>
+
+  <!-- ===== Air (right) ===== -->
+  <g>
+    <path d="M396 272 q10 -12 26 -6 q-6 14 -18 12" fill="none" stroke="#8fb0cc" stroke-width="5" stroke-linecap="round"/>
+    <path d="M410 290 q12 -12 30 -4 q-8 16 -22 12" fill="none" stroke="#8fb0cc" stroke-width="5" stroke-linecap="round"/>
+    <text x="404" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">air</text>
+    <path d="M366 296 L336 304" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+    <path d="M339 300 L331 305 L339 309 Z" fill="#4f6d7a"/>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The Earth is the home that gives all living things what they need.</text>
+</svg>

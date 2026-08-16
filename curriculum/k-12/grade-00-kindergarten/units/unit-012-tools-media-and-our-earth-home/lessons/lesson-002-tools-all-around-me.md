@@ -48,6 +48,11 @@ context_variants:
     note: Walk and spot tools outdoors — a fence post, a path, a gate, a bucket — and name what each helps people do there
   - context: multi-age
     note: Older learners partner with younger ones to lead the tool hunt and help label each tool's drawing
+assets:
+  - path: assets/images/L.00.012.02-tools-all-around-me.svg
+    alt: "Four boxes, each a place where a tool lives, with a label: a pot in a kitchen, a hoe in a field, a basket at a market, and a bicycle on a road. Under each tool is the job it helps with. Each place is named in words and each tool is drawn simply, so the picture prints clearly in grayscale and shows that every place has its own tools and no place's tools are more important than another's."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners go on a tool hunt through their own space and through pictures of the

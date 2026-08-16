@@ -45,6 +45,11 @@ context_variants:
     note: A learner picks one living thing, sits quietly for five minutes, and draws or says three things they notice about it
   - context: outdoor-only
     note: Sit by a tree, an anthill, or a bird, and watch in silence; then share one thing it did and one thing it needs
+assets:
+  - path: assets/images/L.00.012.06-watching-a-living-thing.svg
+    alt: "A child sits quietly a little way from a tree, hands resting in their lap, watching a bird on a branch without touching it. A line of space separates the child from the tree, and a thought bubble above the child says \"I watch with quiet hands.\" The child does not reach out; the bird is safe and calm. The picture is drawn simply and prints clearly in grayscale, showing that observing a living thing gently, without harming it, is a way to care for it."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sit quietly and watch one living thing — a plant, a bug, a bird, a pet —

@@ -47,6 +47,11 @@ context_variants:
     note: A learner sorts the cards into two piles alone and then draws one real thing and one make-believe thing side by side
   - context: outdoor-only
     note: Touch real things outside (a leaf, a stone, a tree) and then invent one make-believe creature that "lives" in the space, naming why it is pretend
+assets:
+  - path: assets/images/L.00.012.03-real-or-make-believe.svg
+    alt: "Two boxes side by side. On the left, labeled \"Real\", a hand holds a real leaf and below it sits a real dog. On the right, labeled \"Make-believe\", a friendly smiling dragon breathes a tiny heart and a smiling moon peeks out. Under each box a line tells how we know: real is something we can see and touch; make-believe is something we imagine. Both are shown as good, not better or worse, and the labels carry the meaning, so the picture prints clearly in grayscale."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sort real things from make-believe ones — a real dog from a dragon, a real
@@ -129,6 +134,11 @@ frame it as noticing, not judging.
 
 - **Support:** Sort just two cards — one real, one make-believe — and hold the real
   object while deciding.
+- **Low vision / blind:** Describe each card aloud as it is shown — "this one shows a
+  real dog; you can see and touch a dog. This one shows a dragon; a dragon is
+  make-believe." The learner decides by voice, by pointing to the named basket, or by
+  saying "real" or "make-believe." The real-object step already works by touch, and
+  the make-believe step works by hearing the description aloud.
 - **Extension:** Invite learners to make up a make-believe creature and tell one real
   thing about it (it has fur, it breathes) and one pretend thing (it breathes fire).
 

@@ -46,6 +46,11 @@ context_variants:
     note: A learner gathers a few safe tools, says each name and its job out loud, and draws one tool helping someone
   - context: outdoor-only
     note: Hunt for "tools in nature" — a stick, a stone, a leaf cup, a gourd — and name what each could help a person do
+assets:
+  - path: assets/images/L.00.012.01-tools-help-us.svg
+    alt: "Four boxes, each showing one tool doing its job, with a label under each: a spoon scooping soup from a bowl, a water jug carrying water, a mortar and pestle grinding grain, and a broom sweeping the floor. Each tool is drawn simply with its job named in words, so the picture prints clearly in grayscale and shows that a tool is something people make to help them do a job."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet tools as things people make to help them do a job, name a tool and

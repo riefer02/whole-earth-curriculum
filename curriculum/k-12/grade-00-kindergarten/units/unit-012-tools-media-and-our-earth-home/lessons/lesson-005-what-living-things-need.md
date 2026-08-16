@@ -51,6 +51,11 @@ context_variants:
     note: A learner observes a plant, sorts the need cards, and draws the plant with its sun, water, food, and air
   - context: outdoor-only
     note: Find a living plant outside and, next to it, the sun in the sky and water in the ground; name each need while touching or pointing to it
+assets:
+  - path: assets/images/L.00.012.05-what-living-things-need.svg
+    alt: "A plant grows in the center. Around it, four labeled cards point to what it needs: the sun, water, food from the soil, and air. Each need has a simple drawing and a word label, and arrows point from each need to the plant. The four needs are shown with different shapes and labels, so the picture prints clearly in grayscale and shows that every living thing needs sun, water, food, and air to live and grow."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners observe a living plant and discover what it needs to live and grow — sun,

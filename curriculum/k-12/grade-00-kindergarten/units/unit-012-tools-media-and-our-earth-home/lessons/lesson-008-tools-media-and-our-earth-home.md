@@ -56,6 +56,11 @@ context_variants:
     note: Mark a big Earth circle on the ground and place one found object in each part — a tool-like stick, a real leaf, a living plant, and a stone placed with care — then tell what each means
   - context: multi-age
     note: Older learners help younger ones label their four parts and run the closing celebration
+assets:
+  - path: assets/images/L.00.012.08-tools-media-and-our-earth-home.svg
+    alt: "A big circle, the Earth home, is divided into four parts. The first part, labeled \"Tool\", shows a spoon. The second, labeled \"Real / Pretend\", shows a leaf and a dragon side by side. The third, labeled \"Living\", shows a plant with a sun. The fourth, labeled \"Care\", shows two hands holding a heart. The four parts are clearly labeled and each drawing is simple, so the picture prints clearly in grayscale and brings the whole unit together: tools, real-and-pretend stories, living things, and care all belong to our one Earth home."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the whole unit together by building a four-part "Earth home"

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Watching a living thing</title>
+  <desc id="desc">A child sits quietly a little way from a tree, hands resting in their lap, watching a bird on a branch without touching it. A line of space separates the child from the tree, and a thought bubble above the child says "I watch with quiet hands." The child does not reach out; the bird is safe and calm. The picture is drawn simply and prints clearly in grayscale, showing that observing a living thing gently, without harming it, is a way to care for it.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Watching a Living Thing</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Slow down, get quiet, and watch without harming.</text>
+
+  <!-- ground -->
+  <line x1="36" y1="400" x2="476" y2="400" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Tree (right) ===== -->
+  <g>
+    <line x1="392" y1="400" x2="392" y2="288" stroke="#2b3a42" stroke-width="10" stroke-linecap="round"/>
+    <path d="M392 312 Q360 300 352 276" fill="none" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <path d="M392 296 Q424 284 432 260" fill="none" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- canopy -->
+    <circle cx="352" cy="268" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="392" cy="248" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="432" cy="252" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="372" cy="286" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- bird on branch -->
+    <ellipse cx="360" cy="270" rx="13" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="348" cy="264" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M343 264 L338 261 L343 260 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="350" cy="263" r="1.5" fill="#2b3a42"/>
+    <path d="M362 262 L368 258" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <text x="392" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the living thing</text>
+
+  <!-- ===== Child (left) ===== -->
+  <g>
+    <!-- thought bubble -->
+    <rect x="76" y="112" width="200" height="46" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M150 158 L140 174 L166 158 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="176" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I watch with quiet hands</text>
+
+    <!-- head -->
+    <circle cx="168" cy="300" r="24" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- hair -->
+    <path d="M144 296 A24 24 0 0 1 192 296 L192 288 Q168 268 144 288 Z" fill="#2b3a42"/>
+    <circle cx="158" cy="302" r="2.4" fill="#2b3a42"/>
+    <circle cx="178" cy="302" r="2.4" fill="#2b3a42"/>
+    <path d="M160 314 Q168 320 176 314" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- body -->
+    <rect x="146" y="326" width="44" height="58" rx="15" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+    <!-- legs crossed (sitting) -->
+    <path d="M154 384 Q172 400 190 388" fill="none" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+    <path d="M182 384 Q188 396 196 388" fill="none" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+
+    <!-- hands resting in lap -->
+    <circle cx="158" cy="386" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="180" cy="388" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="168" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">quiet watcher</text>
+
+  <!-- ===== space between them ===== -->
+  <line x1="300" y1="250" x2="300" y2="398" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6" stroke-linecap="round"/>
+  <text x="300" y="232" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">space to be gentle</text>
+
+  <!-- Footer -->
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Watching quietly, without touching, is a way of caring.</text>
+</svg>

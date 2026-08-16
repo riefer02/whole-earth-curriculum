@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Stories real and pretend</title>
+  <desc id="desc">An open storybook with two pages. The left page, labeled "Real story", shows a bird sitting on a fence beside a small sun — things that really happen. The right page, labeled "Pretend story", shows a mouse wearing a tiny coat singing a song, with a music note. A speech bubble from the mouse says "la la la". The two pages are clearly labeled and the drawings differ in what they show, so the picture prints clearly in grayscale and shows that both a true story and a made-up story are worth telling.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Stories Real and Pretend</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Real and pretend stories are both treasures — we listen and notice which is which.</text>
+
+  <!-- ===== Open book ===== -->
+  <!-- book cover / pages -->
+  <path d="M24 120 Q256 96 488 120 L488 420 Q256 396 24 420 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  <!-- spine -->
+  <line x1="256" y1="108" x2="256" y2="408" stroke="#2b3a42" stroke-width="3"/>
+  <!-- page edges -->
+  <path d="M30 128 Q256 106 482 128" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M30 414 Q256 392 482 414" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- ===== Left page: REAL ===== -->
+  <text x="140" y="158" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Real story</text>
+  <text x="140" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"I saw a bird on the fence."</text>
+
+  <!-- sun -->
+  <circle cx="96" cy="226" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#e0a458" stroke-width="3" stroke-linecap="round">
+    <line x1="96" y1="200" x2="96" y2="192"/>
+    <line x1="96" y1="252" x2="96" y2="260"/>
+    <line x1="70" y1="226" x2="62" y2="226"/>
+    <line x1="122" y1="226" x2="130" y2="226"/>
+  </g>
+
+  <!-- fence -->
+  <line x1="60" y1="312" x2="224" y2="312" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="72" y1="312" x2="72" y2="344" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="116" y1="312" x2="116" y2="344" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="160" y1="312" x2="160" y2="344" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="204" y1="312" x2="204" y2="344" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="66" y1="320" x2="210" y2="320" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- bird -->
+  <g>
+    <ellipse cx="140" cy="292" rx="20" ry="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="120" cy="284" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M112 284 L104 280 L112 278 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="123" cy="283" r="2" fill="#2b3a42"/>
+    <path d="M150 288 L158 282" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M128 306 L126 312 M142 306 L144 312" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <rect x="70" y="360" width="140" height="34" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="382" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">really happened</text>
+
+  <!-- ===== Right page: PRETEND ===== -->
+  <text x="372" y="158" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Pretend story</text>
+  <text x="372" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"A mouse put on a tiny coat and sang."</text>
+
+  <!-- speech bubble -->
+  <rect x="404" y="200" width="72" height="40" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M420 240 L414 254 L430 240 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="440" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">la la la</text>
+
+  <!-- music note -->
+  <text x="300" y="230" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#e0a458">♪</text>
+
+  <!-- mouse in a coat -->
+  <g>
+    <ellipse cx="360" cy="306" rx="22" ry="24" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <!-- coat -->
+    <path d="M340 300 Q360 290 380 300 L382 340 Q360 350 338 340 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- head -->
+    <circle cx="356" cy="282" r="13" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <!-- ears -->
+    <circle cx="346" cy="270" r="7" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="366" cy="270" r="7" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="352" cy="281" r="2" fill="#2b3a42"/>
+    <circle cx="362" cy="281" r="2" fill="#2b3a42"/>
+    <path d="M356 286 L356 290 M356 286 Q350 288 350 284" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <!-- feet -->
+    <line x1="350" y1="346" x2="348" y2="358" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="370" y1="346" x2="372" y2="358" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <rect x="302" y="360" width="140" height="34" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="382" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">made up</text>
+
+  <!-- Footer -->
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A good listener knows which is which — and loves both.</text>
+</svg>

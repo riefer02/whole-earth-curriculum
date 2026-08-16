@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tools, media, and our Earth home</title>
+  <desc id="desc">A big circle, the Earth home, is divided into four parts. The first part, labeled "Tool", shows a spoon. The second, labeled "Real / Pretend", shows a leaf and a dragon side by side. The third, labeled "Living", shows a plant with a sun. The fourth, labeled "Care", shows two hands holding a heart. The four parts are clearly labeled and each drawing is simple, so the picture prints clearly in grayscale and brings the whole unit together: tools, real-and-pretend stories, living things, and care all belong to our one Earth home.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Our Earth Home</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Tools, stories, living things, and care — all in one home.</text>
+
+  <!-- ===== Earth circle ===== -->
+  <circle cx="256" cy="300" r="158" fill="#ffffff" stroke="#2b3a42" stroke-width="4"/>
+  <!-- quadrant divider lines -->
+  <line x1="256" y1="142" x2="256" y2="458" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="98" y1="300" x2="414" y2="300" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- ===== Quadrant 1 (top-left): Tool ===== -->
+  <text x="176" y="202" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Tool</text>
+  <!-- spoon -->
+  <ellipse cx="162" cy="242" rx="14" ry="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="162" y1="222" x2="182" y2="204" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- ===== Quadrant 2 (top-right): Real / Pretend ===== -->
+  <text x="336" y="202" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Real / Pretend</text>
+  <!-- leaf (real) -->
+  <path d="M300 234 Q312 224 322 234 Q312 244 300 234 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="302" y1="234" x2="320" y2="234" stroke="#2b3a42" stroke-width="2"/>
+  <!-- dragon (pretend) -->
+  <g>
+    <path d="M342 226 Q344 214 356 214 Q368 214 370 226 L366 238 L344 238 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="362" cy="222" r="1.8" fill="#2b3a42"/>
+    <path d="M348 234 Q356 240 364 234" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== Quadrant 3 (bottom-left): Living ===== -->
+  <text x="176" y="360" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Living</text>
+  <!-- sun -->
+  <circle cx="150" cy="388" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#e0a458" stroke-width="2.5" stroke-linecap="round">
+    <line x1="150" y1="372" x2="150" y2="366"/>
+    <line x1="150" y1="404" x2="150" y2="410"/>
+    <line x1="134" y1="388" x2="128" y2="388"/>
+    <line x1="166" y1="388" x2="172" y2="388"/>
+  </g>
+  <!-- plant -->
+  <g stroke="#7a9e7e" stroke-width="4" stroke-linecap="round">
+    <line x1="200" y1="410" x2="200" y2="380"/>
+    <path d="M200 392 Q192 388 190 378"/>
+    <path d="M200 396 Q208 392 210 382"/>
+  </g>
+  <ellipse cx="200" cy="412" rx="16" ry="5" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ===== Quadrant 4 (bottom-right): Care ===== -->
+  <text x="336" y="360" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Care</text>
+  <!-- two hands holding a heart -->
+  <g>
+    <path d="M300 386 L318 386 Q332 386 332 400 Q332 412 318 412 L300 412 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M372 386 L354 386 Q340 386 340 400 Q340 412 354 412 L372 412 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M336 394 C333 387 326 389 326 394 C326 400 331 402 336 407 C341 402 346 400 346 394 C346 389 339 387 336 394 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Tools, stories, living things, and care — all together, in one Earth home.</text>
+</svg>

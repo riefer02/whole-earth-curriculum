@@ -48,6 +48,11 @@ context_variants:
     note: A learner chooses and does one small act of care — water a plant, turn off a tap — and draws or says why it helps
   - context: outdoor-only
     note: Do the act of care outside — water a plant, return a fallen leaf to the soil, or carry litter to a bin, then say why it helps the living things there
+assets:
+  - path: assets/images/L.00.012.07-caring-for-our-earth-home.svg
+    alt: "Four boxes, each showing one small act of care for the Earth, with a label for what it helps. A child waters a plant, a hand turns off a tap, a hand places a piece of litter into a bin, and a hand plants a seed so more green can grow. Each box has a short line saying why it helps. The acts are drawn simply and labeled in words, so the picture prints clearly in grayscale and shows that one small act of care, done by many hands, becomes a big act."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners choose and actually do one small act of care for the Earth — watering a

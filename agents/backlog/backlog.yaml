@@ -1348,12 +1348,22 @@ items:
     type: assets
     grade: 0
     domain: D10
-    status: ready
+    status: done
     priority: 41
     depends_on:
       - B-050
     required_reviews: *a2
-    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.012 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.012 that lack a graphic, and wire each into the lesson's assets: field with alt text. Blocked by reviewer: lesson-007-caring-for-our-earth-home.md alt says 'Three boxes' + lists only 3 acts (water plant, turn off tap, litter to bin), but the SVG L.00.012.07 actually draws FOUR panels (4th = 'Plant a seed'). Same error in the SVG <desc>. Fix: change 'Three boxes' -> 'Four boxes' and add the 4th act in BOTH lesson-007 alt text and the SVG desc (e.g. 'a hand plants a seed so more green can grow'). Everything else passed: 8/8 assets resolve, valid self-contained XML, grayscale-safe, tech-neutral, gentle real-vs-pretend, care-as-agency, D10 K objectives resolve.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Rework resolved: lesson-007 alt + SVG desc both now 'Four boxes' enumerating all four acts (water plant, turn off tap, litter to bin, plant a seed), matching panels A-D. All 8 assets resolve with non-empty alt/kind/source; 8 SVGs valid XML (viewBox, role=img, title/desc), grayscale-safe via labels. Objectives resolve to real D10 K standards. Care framed as agency ('helpers not saviors')."
+      accessibility-editor:
+        verdict: passed
+        note: "8 SVGs role=img + aria-labelledby + title/desc; color never sole signal (word labels + shapes, grayscale-safe); alt concept-complete (lesson-007 'Four boxes' correct). No screen shaming; devices only enriched. Observation/care non-visual/non-motor (L.005/006 touch/smell/sound, L.006 'watch without harming', L.007 choose-act/direct-partner). Fix: L.003 real-or-make-believe had no non-visual path -> added low-vision/blind differentiation (describe card aloud, decide by voice/pointing) + matching note to L.004. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: No tool ranking (SVG 01 spoon/water-jug/mortar-pestle/broom equal, 'people everywhere every time have made tools'; lesson-001 forbids phone as 'modern/real' tool). Make-believe creatures generic non-exoticized (dragon/talking moon/mouse-in-coat/unicorn); L.004 honors sacred/family story not called make-believe. No single-region default (loom/pump/net/plow/scythe/mortar-pestle/gourd/hoe/basket, 'no place's tools more important'). Eco-framing never shames water scarcity (L.007 'if water scarce... turning off a tap or shading a plant is just as real', care-for-others not blame). No screen/media shaming ('do not shame any media or screen', 'never with worship or fear'). No edits. validate passes (301 files).
   - id: B-082
     title: "Illustration pass: add SVG assets to lessons in U.00.013"
     agent: asset-designer

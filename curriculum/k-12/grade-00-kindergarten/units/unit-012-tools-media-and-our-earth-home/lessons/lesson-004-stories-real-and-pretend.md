@@ -49,6 +49,11 @@ context_variants:
     note: A learner makes up one true and one pretend sentence, says each aloud, and draws the pretend one
   - context: outdoor-only
     note: Sit under a tree and take turns telling one real thing you saw outside and one pretend thing, signaling which is which
+assets:
+  - path: assets/images/L.00.012.04-stories-real-and-pretend.svg
+    alt: "An open storybook with two pages. The left page, labeled \"Real story\", shows a bird sitting on a fence beside a small sun, things that really happen. The right page, labeled \"Pretend story\", shows a mouse wearing a tiny coat singing a song, with a music note and a speech bubble saying \"la la la\". The two pages are clearly labeled and the drawings differ in what they show, so the picture prints clearly in grayscale and shows that both a true story and a made-up story are worth telling."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners listen to a true story and a pretend story, signal which is which, and
@@ -135,6 +140,9 @@ another family holds dear.
   drawn pictures; use the thumbs-up (real) / wiggle (pretend) signals or sign "real"
   and "pretend." A non-speaking learner can signal, point, gesture, or draw to show
   which is which.
+- **Low vision / blind:** The two stories are told aloud, so they can be followed by
+  ear; signal "real" and "pretend" with a spoken word, a clap, a thumbs-up, or a
+  wiggle instead of holding up a card, and retell the story back by voice.
 - **Extension:** Invite learners to tell a partner one true and one pretend story and
   explain one clue that gives each away.
 
