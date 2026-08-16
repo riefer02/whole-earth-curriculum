@@ -109,22 +109,25 @@ function gradeStatus() {
 const gs = gradeStatus();
 const assetCount = walk(path.join(ROOT, 'assets'), ['.svg']).length;
 const complete = [];
+const inProgress = [];
 const scopeOnly = [];
 const exemplar = [];
 const untouched = [];
 for (const g of GRADES) {
   const r = gs.get(g);
   const label = g === 0 ? 'K' : String(g);
-  if (r.hasScope && r.lessons > 0) complete.push(label);
+  if (r.hasScope && r.lessons >= r.units) complete.push(label);
+  else if (r.hasScope && r.lessons > 0) inProgress.push(label);
   else if (r.hasScope) scopeOnly.push(label);
   else if (r.units > 0 || r.lessons > 0) exemplar.push(label);
   else untouched.push(label);
 }
 const fmt = (arr) => (arr.length ? arr.join(', ') : '—');
-console.log(`  Grades complete (scope + lessons): ${fmt(complete)}`);
-console.log(`  Grades with scope, no lessons yet: ${fmt(scopeOnly)}`);
-console.log(`  Grades with exemplars only:        ${fmt(exemplar)}`);
-console.log(`  Grades untouched:                  ${fmt(untouched)}`);
+console.log(`  Grades complete (full year):        ${fmt(complete)}`);
+console.log(`  Grades in progress (some lessons):  ${fmt(inProgress)}`);
+console.log(`  Grades scope-only (no lessons yet): ${fmt(scopeOnly)}`);
+console.log(`  Grades with exemplars, no scope:    ${fmt(exemplar)}`);
+console.log(`  Grades untouched:                   ${fmt(untouched)}`);
 console.log(
   `  Standards: ${totalStandards}  |  Units: ${totalUnits}  |  Lessons: ${totalLessons}  |  Assets: ${assetCount}\n`
 );

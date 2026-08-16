@@ -1850,4 +1850,154 @@ items:
       reviewer:
         verdict: passed
         note: "Validate passes (436 files, 0 errors). Schema complete (kind scope, grade 12, total_school_days 180, 12-unit list, domain_weighting, assessment_plan, status draft); all 12 unit stubs valid kind:unit frontmatter. Days 1-180 contiguous no gaps/overlaps. domain_weighting sums exactly 100 (9+10+14+10+10+11+7+10+10+9). All 12 unit_ids resolve to matching stubs; 78/78 grade-12 objectives resolve to real IDs, zero invented/off-grade/orphans. Domain->pillar correct incl. unit 12 D01+D02->P1. Assessment observation/portfolio/capstone, no high-stakes tests. Framing home-language-first, history many-perspectives, origins evidence-grounded-among-many, global/egalitarian, no hierarchy. Non-blocking: unit 12 lesson_count 3 across 4-day window, flex/celebration fills remaining day (justified in scope)."
+  - id: B-200
+    title: Author lessons for Unit U.02.001 (My Feelings and My Strengths)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D01
+    status: ready
+    priority: 50
+    depends_on:
+      - B-064
+    required_reviews: &a3
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-201
+    title: Author lessons for Unit U.02.002 (My Body, My Senses and Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D03
+    status: ready
+    priority: 51
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-202
+    title: Author lessons for Unit U.02.003 (Caring and Working Together)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D02
+    status: ready
+    priority: 52
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-203
+    title: Author lessons for Unit U.02.004 (Reading, Writing and Many Languages)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D04
+    status: ready
+    priority: 53
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-204
+    title: Author lessons for Unit U.02.005 (Numbers, Shapes, Patterns and Data)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D05
+    status: ready
+    priority: 54
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-205
+    title: Author lessons for Unit U.02.006 (Wondering and Testing the Living World)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D06
+    status: ready
+    priority: 55
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-206
+    title: Author lessons for Unit U.02.007 (Making, Music and Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D07
+    status: ready
+    priority: 56
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-207
+    title: Author lessons for Unit U.02.008 (Healthy, Safe and Strong)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D03
+    status: ready
+    priority: 57
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-208
+    title: Author lessons for Unit U.02.009 (People, Places and Long Ago)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D08
+    status: ready
+    priority: 58
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-209
+    title: Author lessons for Unit U.02.010 (Fairness and Our Shared Rules)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D09
+    status: ready
+    priority: 59
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-210
+    title: Author lessons for Unit U.02.011 (Tools, Media and Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D10
+    status: ready
+    priority: 60
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-211
+    title: Author lessons for Unit U.02.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 2
+    domain: D01
+    status: ready
+    priority: 61
+    depends_on:
+      - B-064
+    required_reviews: *a3
+    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
 
