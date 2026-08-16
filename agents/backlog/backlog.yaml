@@ -1458,12 +1458,22 @@ items:
     type: assets
     grade: 1
     domain: D04
-    status: ready
+    status: done
     priority: 46
     depends_on:
       - B-055
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.004 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 15 assets resolve to real files, non-empty alt, kind/source valid. 15 SVGs self-contained XML (viewBox, role=img, title/desc), muted palette grayscale-safe, color-not-only-signal (labels/shapes/numbers). Script-agnostic: L.04 B/म/山 equal-size unranked; L.05 c-a-t + Hangul ㄱㅏ→감 'blend syllables the same way'; L.13 amor/حب/प्यार/爱/amour with spoken+signed; L.11 no-capital systems 'their own way'; L.14 Hello/Hola/你好/नमस्ते 'no single correct accent'. All 15 have Connection/Procedure/Assessment + UDL differentiation. Objectives resolve to 8 grade-1 D04 standards."
+      accessibility-editor:
+        verdict: passed
+        note: All 15 SVGs role=img + aria-labelledby + title/desc, concept-complete; corrected inaccurate <desc> in L.05 (claimed cat/finger/three parts vs two Hangul boxes). Color never only signal (labels/shapes/numbers/arrows/underlines, grayscale-safe). Reading-aloud non-speaking path (sign/point/AAC = reading); writing non-motor (dictation/scribe/letter-board/typing/mouth-stick); script tactile (string/sand-glue/clay/touch); listening no eye-contact mandate ('eyes, ears, or both'); home languages honored; low-tech all 15, devices only enriched. validate passes (301 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Script-agnostic anti-default holds: L.04 Latin/Devanagari/Chinese equal-size unranked ('none is better'); L.05/06 alphabetic + syllabic (Hangul) side by side; L.09 Latin+Devanagari; L.13 spoken/signed/written equal; L.14 multiple greetings + 'no single correct accent', no single gesture/language default. Fix: Hangul example in L.05 blended ㄱ+ㅏ into 감 (3 jamo) — changed to 가 (genuinely ㄱ+ㅏ) for linguistic precision + updated lesson alt. validate passes (301 files)."
   - id: B-087
     title: "Illustration pass: add SVG assets to lessons in U.01.005"
     agent: asset-designer

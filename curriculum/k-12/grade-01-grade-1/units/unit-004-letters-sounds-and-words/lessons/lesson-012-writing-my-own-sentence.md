@@ -48,6 +48,11 @@ context_variants:
     note: Choose something outdoors to describe, say a sentence aloud, and write it in the dirt or on a slate
   - context: level-grouped
     note: Learners ready for more write two sentences about the same topic, each with a capital and an end mark
+assets:
+  - path: assets/images/L.01.004.12-writing-my-own-sentence.svg
+    alt: Three steps — say it, write it, check it — showing a sentence composed with a capital letter and an end mark, and the reminder that a sentence can be composed by voice, typing, or arranging word cards
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners compose one or more complete sentences about a topic or picture, using a

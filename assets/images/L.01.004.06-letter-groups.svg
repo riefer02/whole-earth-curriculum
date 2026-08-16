@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Marks travel in groups</title>
+  <desc id="desc">Two panels show that marks often stay together as one group or chunk. The top panel shows a Latin letter group "sh" highlighted with a rounded outline, and it is found inside the word "ship" where "sh" is underlined, with the label "a letter group stays together." The bottom panel shows a Hangul syllable block 한 drawn as one connected block with a hand clapping once beside it, labeled "a syllable block is one chunk — clap once." A caption reminds learners that different writing systems build their groups in their own way. The outlines, underlines, and labels carry the meaning, so the picture prints clearly in grayscale and teaches learners to spot and read groups of marks as one part.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Marks Travel in Groups</text>
+
+  <!-- Top panel: letter group -->
+  <rect x="16" y="72" width="480" height="170" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a letter group stays together</text>
+
+  <rect x="70" y="120" width="96" height="64" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="3"/>
+  <text x="118" y="164" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="36" font-weight="bold" fill="#2b3a42">sh</text>
+  <text x="118" y="212" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the group</text>
+
+  <!-- word ship with sh underlined -->
+  <text x="256" y="164" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="40" font-weight="bold" fill="#2b3a42">ship</text>
+  <line x1="196" y1="178" x2="268" y2="178" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">find the group inside the word</text>
+
+  <rect x="360" y="120" width="92" height="64" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="406" y="164" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">one</text>
+  <text x="406" y="188" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">chunk</text>
+
+  <!-- Bottom panel: syllable block -->
+  <rect x="16" y="262" width="480" height="170" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a syllable block is one chunk</text>
+
+  <rect x="90" y="316" width="84" height="84" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="132" y="372" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="44" font-weight="bold" fill="#2b3a42">한</text>
+
+  <!-- clapping hands -->
+  <g>
+    <path d="M270 344 Q262 332 254 344 L252 356 Q252 368 262 372 L278 372 Q286 368 286 358 L284 344 Q282 336 276 336 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M286 344 Q292 332 300 344 L302 356 Q302 368 292 372 L276 372 Q268 368 268 358 L270 344 Q272 336 278 336 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M282 322 L278 316 M290 318 L290 312 M296 322 L302 318" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="300" y="408" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">clap once for the whole group</text>
+
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Different writing systems build their groups in their own way.</text>
+</svg>

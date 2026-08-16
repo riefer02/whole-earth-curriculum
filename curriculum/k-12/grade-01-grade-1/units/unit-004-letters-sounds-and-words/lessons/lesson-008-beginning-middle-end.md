@@ -47,6 +47,11 @@ context_variants:
     note: Retell the story while walking to three spots — first spot is the beginning, second the middle, third the end
   - context: multi-age
     note: Older learners help younger ones put three picture cards in order and retell the story with a beginning, middle, and end
+assets:
+  - path: assets/images/L.01.004.08-beginning-middle-end.svg
+    alt: Three boxes showing a seed, a watered sprout, and a blooming flower, labeled beginning, middle, and end with the words first-next-last, teaching learners to retell a story in order
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners read a simple text and retell its beginning, middle, and end, using a

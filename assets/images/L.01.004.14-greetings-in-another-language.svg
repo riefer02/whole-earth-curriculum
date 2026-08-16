@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Greetings and kind words in many languages</title>
+  <desc id="desc">Four greeting cards across the top each show the word for "hello" in a different language and script: "Hello" (English), "Hola" (Spanish), "你好" (Chinese), and "नमस्ते" (Hindi). Below them, four courtesy-word cards show "please" and "thank you" in another language: "please" and "thank you" in English, "por favor" and "gracias" in Spanish, "shukran" in Arabic script شكرا, and "asante" in Swahili. A small figure waves to show that a greeting is also a body gesture — a wave, a bow, or a sign. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that a greeting and a courtesy word in someone's language are a gift of respect, with no single correct accent.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Greetings and Kind Words</text>
+
+  <text x="256" y="74" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">a greeting — "hello"</text>
+
+  <!-- greeting cards -->
+  <g>
+    <rect x="20" y="92" width="108" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="74" y="130" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Hello</text>
+    <text x="74" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">English</text>
+
+    <rect x="140" y="92" width="108" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="194" y="130" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Hola</text>
+    <text x="194" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Spanish</text>
+
+    <rect x="260" y="92" width="108" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="314" y="130" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">你好</text>
+    <text x="314" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Chinese</text>
+
+    <rect x="380" y="92" width="108" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="434" y="130" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">नमस्ते</text>
+    <text x="434" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Hindi</text>
+  </g>
+
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">a courtesy word — "please" and "thank you"</text>
+
+  <!-- courtesy word cards -->
+  <g>
+    <rect x="20" y="234" width="108" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="74" y="268" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">please</text>
+    <text x="74" y="290" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">thank you</text>
+    <text x="74" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">English</text>
+
+    <rect x="140" y="234" width="108" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="194" y="268" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">por favor</text>
+    <text x="194" y="290" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">gracias</text>
+    <text x="194" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Spanish</text>
+
+    <rect x="260" y="234" width="108" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="314" y="282" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">شكرا</text>
+    <text x="314" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Arabic · thank you</text>
+
+    <rect x="380" y="234" width="108" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="434" y="282" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">asante</text>
+    <text x="434" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Swahili · thank you</text>
+  </g>
+
+  <!-- waving figure -->
+  <g>
+    <circle cx="122" cy="368" r="17" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M105 366 A17 17 0 0 1 139 366 Z" fill="#4f6d7a"/>
+    <circle cx="116" cy="368" r="1.8" fill="#2b3a42"/>
+    <circle cx="128" cy="368" r="1.8" fill="#2b3a42"/>
+    <path d="M116 377 Q122 382 128 377" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="108" y="386" width="28" height="38" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="114" y1="424" x2="112" y2="446" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="130" y1="424" x2="132" y2="446" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="136" y1="394" x2="152" y2="372" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <path d="M148 360 L150 350 M138 348 L140 338 M156 348 L160 340 M162 360 L172 356" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round"/>
+  </g>
+
+  <text x="300" y="380" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a greeting is also a gesture —</text>
+  <text x="300" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a wave, a bow, or a sign</text>
+  <text x="300" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">there is no single correct accent</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A greeting in someone's language is a gift of respect.</text>
+</svg>

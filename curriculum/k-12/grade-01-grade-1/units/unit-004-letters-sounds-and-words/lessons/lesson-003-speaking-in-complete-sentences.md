@@ -50,6 +50,11 @@ context_variants:
     note: Finish the sentence about something seen outside — "I see ___" — naming real things in view
   - context: level-grouped
     note: Group learners who are ready for longer sentences together and let them stretch one idea into two sentences
+assets:
+  - path: assets/images/L.01.004.03-speaking-in-complete-sentences.svg
+    alt: Sentence frames "I like ___" and "I saw ___" with a filled example "I like mangoes," showing that a complete sentence has a who and a what happened, and that it can be spoken, signed, pointed to, or said through a device
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners build complete sentences from simple frames and share their own ideas in

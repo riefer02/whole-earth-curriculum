@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Writing keeps your word</title>
+  <desc id="desc">Two panels show how a mark is formed so a word stays. The top panel shows a large dotted Latin letter "b" with a numbered arrow showing where to start and which way to move, labeled "trace the shape." The bottom panel shows a hand holding a stick writing in the sand, with a trail of marks behind it, and a hand tracing a Devanagari mark in the air, labeled "write in sand, air, or on paper." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to form the marks of their own writing system slowly and carefully — writing turns a spoken word into marks that last.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Writing Keeps Your Word</text>
+
+  <!-- Top panel: trace a letter -->
+  <rect x="16" y="72" width="480" height="170" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">trace the shape, then write it</text>
+
+  <!-- dotted b -->
+  <path d="M118 214 L118 152" stroke="#2b3a42" stroke-width="3" stroke-dasharray="6 6" stroke-linecap="round" fill="none"/>
+  <path d="M118 152 Q118 132 138 132 Q160 132 160 152 Q160 168 144 168 Q130 168 118 158 Q118 172 118 188 Q118 200 132 204 Q150 208 160 196" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="6 6" stroke-linecap="round"/>
+
+  <!-- start dot and arrow -->
+  <circle cx="118" cy="214" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="104" y="232" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">start</text>
+  <path d="M126 196 L134 196" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M130 192 L136 196 L130 200 Z" fill="#e0a458"/>
+
+  <text x="300" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">say the sound</text>
+  <text x="300" y="176" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">as you write it</text>
+  <text x="300" y="202" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">slow and careful beats fast</text>
+
+  <!-- Bottom panel: sand and air -->
+  <rect x="16" y="262" width="480" height="170" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">write in sand, air, or on paper</text>
+
+  <!-- sand writing with stick -->
+  <path d="M96 404 L160 404 Q176 404 176 392 L176 372 Q176 360 188 360 L240 360" fill="none" stroke="#e0a458" stroke-width="8" stroke-linecap="round" stroke-opacity="0.5"/>
+  <text x="150" y="352" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#e0a458" stroke="#2b3a42" stroke-width="0.6">म</text>
+  <path d="M220 344 L232 360 L236 356 L228 380" fill="none" stroke="#8f5f3d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="220" cy="340" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- air tracing -->
+  <path d="M330 360 Q324 340 332 324 Q338 314 348 316" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="5 5" stroke-linecap="round"/>
+  <path d="M356 330 L352 316 L366 322" fill="none" stroke="#8f5f3d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="358" cy="326" r="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <text x="400" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">trace in the air</text>
+  <text x="400" y="382" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">with your whole arm</text>
+
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your marks keep your words — for someone far away or years later.</text>
+</svg>

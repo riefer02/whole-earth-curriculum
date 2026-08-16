@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Marks stand for sounds, syllables, or words</title>
+  <desc id="desc">Three rows show the three ways a writing mark can carry meaning, all equal in size and none ranked. The first row pairs the Latin letter B with a mouth and ear, labeled "a mark stands for a sound." The second row pairs the Devanagari mark म with the label "a mark can stand for a syllable." The third row pairs the Chinese character 山 (mountain) with a small picture of a mountain, labeled "a mark can stand for a whole word." Each row has a mark card on the left, an arrow, and its meaning on the right. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches that every writing system records its words in its own way, and no writing system is better than another.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Marks Stand for Sounds, Syllables, or Words</text>
+
+  <!-- Row 1: sound -->
+  <rect x="40" y="80" width="112" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="150" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="46" font-weight="bold" fill="#2b3a42">B</text>
+  <path d="M162 132 L204 132" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M196 124 L208 132 L196 140 Z" fill="#2b3a42"/>
+  <path d="M262 122 Q252 122 252 132 Q252 144 264 148 Q276 152 284 142 Q290 132 284 124 Q278 118 270 118 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M262 128 Q258 132 260 136 Q262 139 264 136" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 126 Q354 120 368 126 Q354 138 340 126 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="352" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a mark stands for a sound</text>
+
+  <!-- Row 2: syllable -->
+  <rect x="40" y="200" width="112" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="270" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="46" font-weight="bold" fill="#2b3a42">म</text>
+  <path d="M162 252 L204 252" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M196 244 L208 252 L196 260 Z" fill="#2b3a42"/>
+  <path d="M262 242 Q252 242 252 252 Q252 264 264 268 Q276 272 284 262 Q290 252 284 244 Q278 238 270 238 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M262 248 Q258 252 260 256 Q262 259 264 256" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 246 Q354 240 368 246 Q354 258 340 246 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="352" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a mark can stand for a syllable</text>
+
+  <!-- Row 3: word -->
+  <rect x="40" y="320" width="112" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="390" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="46" font-weight="bold" fill="#2b3a42">山</text>
+  <path d="M162 372 L204 372" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M196 364 L208 372 L196 380 Z" fill="#2b3a42"/>
+  <path d="M262 372 L280 340 L298 372 Z" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M252 366 L268 352 L286 366" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M340 366 Q354 360 368 366 Q354 378 340 366 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="352" y="390" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a mark can stand for a whole word</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every writing system works — none is better than another.</text>
+</svg>

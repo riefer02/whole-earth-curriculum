@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Write it, then read it back</title>
+  <desc id="desc">A loop shows writing and reading working together. On the left, a hand with a pencil writes a word on paper, labeled "write it." An arrow leads to the right, where a finger points under each mark of the word and an eye looks at it, labeled "read it back." A circular arrow returns from reading back to writing, showing the loop repeats. The example word is "mango" written in clear marks. The labels, arrows, and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to write a word, then read it back and check that the marks say what they meant.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Write It, Then Read It Back</text>
+
+  <!-- Left: writing -->
+  <rect x="16" y="88" width="200" height="216" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <rect x="48" y="136" width="120" height="96" rx="8" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="60" y1="152" x2="156" y2="152" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+  <line x1="60" y1="168" x2="156" y2="168" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+  <line x1="60" y1="184" x2="156" y2="184" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="108" y="178" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">mango</text>
+
+  <!-- pencil -->
+  <path d="M118 246 L134 262 L168 228 L152 212 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M134 262 L148 276" fill="#2b3a42"/>
+  <path d="M152 212 L166 198" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M166 198 L168 200 L164 204 Z" fill="#2b3a42"/>
+
+  <text x="116" y="292" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">write it</text>
+
+  <!-- arrow to right -->
+  <path d="M232 196 L284 196" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M276 188 L288 196 L276 204 Z" fill="#2b3a42"/>
+
+  <!-- Right: reading back -->
+  <rect x="296" y="88" width="200" height="216" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <rect x="328" y="136" width="120" height="96" rx="8" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="388" y="178" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">mango</text>
+
+  <!-- pointing finger under word -->
+  <path d="M388 244 L388 252 L376 260 Q372 266 380 266 L392 266 Q396 266 396 260 L396 248 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- eye -->
+  <path d="M348 214 Q360 202 372 214 Q360 226 348 214 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="360" cy="214" r="4" fill="#2b3a42"/>
+
+  <text x="388" y="292" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">read it back</text>
+
+  <!-- return loop arrow -->
+  <path d="M496 300 Q496 348 388 348 Q256 348 256 320" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+  <path d="M256 332 L252 320 L262 322 Z" fill="#7a9e7e"/>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">check: do the marks say what I meant?</text>
+
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">If a mark is missing, fix it and read again.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Writing and reading are two halves of one loop.</text>
+</svg>

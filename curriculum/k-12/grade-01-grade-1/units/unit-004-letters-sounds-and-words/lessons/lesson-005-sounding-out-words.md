@@ -47,6 +47,11 @@ context_variants:
     note: Write a word in the dirt, walk or hop once per sound or syllable as you say it, then blend while stepping all the way through
   - context: level-grouped
     note: Group learners who blend quickly and give them slightly longer words while others keep practicing two-mark words
+assets:
+  - path: assets/images/L.01.004.05-sounding-out-words.svg
+    alt: A word in three boxes — c, a, t — sounded out with a pointing finger and blended into "cat," plus a Hangul example blending ㄱ and ㅏ into the syllable 가, teaching sound-out-then-blend in both alphabetic and syllabic systems
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners decode simple words by sounding out each mark in their home writing

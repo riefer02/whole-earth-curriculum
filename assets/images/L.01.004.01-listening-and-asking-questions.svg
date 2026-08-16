@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Listen, then ask a question</title>
+  <desc id="desc">A speaker on the left tells a short story, with a speech bubble that says "a little story." A listener on the right faces them calmly with hands still. Below, five equal question-starter cards read "Who?", "What?", "Where?", "When?", and "Why?", each with a tiny picture: a face for who, a block for what, a map pin for where, a clock for when, and a question mark for why. A caption under the cards reminds learners that a question can be asked by voice, sign, pointing, or drawing. The labels and shapes, not color, carry the meaning, so the picture prints clearly in grayscale and teaches learners to listen with their whole self and then ask one question using a starter word.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Listen, Then Ask a Question</text>
+
+  <line x1="48" y1="322" x2="464" y2="322" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Speaker (left) with speech bubble -->
+  <g>
+    <circle cx="140" cy="200" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 198 A22 22 0 0 1 162 198 Z" fill="#2b3a42"/>
+    <circle cx="132" cy="200" r="2.2" fill="#2b3a42"/>
+    <circle cx="148" cy="200" r="2.2" fill="#2b3a42"/>
+    <path d="M132 211 Q140 217 148 211" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="122" y="225" width="36" height="52" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="130" y1="277" x2="128" y2="320" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="150" y1="277" x2="152" y2="320" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="122" y1="240" x2="86" y2="252" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="158" y1="240" x2="194" y2="234" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="194" y1="234" x2="194" y2="204" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="194" cy="200" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="140" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I tell a story</text>
+
+  <!-- Speech bubble -->
+  <path d="M92 116 Q92 92 118 92 L206 92 Q220 92 220 104 L220 136 Q220 148 206 148 L150 148 L140 160 L142 148 L118 148 Q92 148 92 136 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="156" y="126" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a little story</text>
+
+  <!-- Listener (right) -->
+  <g>
+    <circle cx="372" cy="200" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M350 198 A22 22 0 0 1 394 198 Z" fill="#4f6d7a"/>
+    <circle cx="364" cy="200" r="2.2" fill="#2b3a42"/>
+    <circle cx="380" cy="200" r="2.2" fill="#2b3a42"/>
+    <path d="M364 211 Q372 217 380 211" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="354" y="225" width="36" height="52" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="362" y1="277" x2="360" y2="320" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="382" y1="277" x2="384" y2="320" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <path d="M354 244 Q358 256 362 244" fill="none" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <path d="M366 244 Q370 256 374 244" fill="none" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="372" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I listen</text>
+
+  <!-- Five question starter cards -->
+  <g>
+    <rect x="20" y="366" width="88" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="64" cy="398" r="9" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="61" cy="398" r="1.5" fill="#2b3a42"/>
+    <circle cx="67" cy="398" r="1.5" fill="#2b3a42"/>
+    <text x="64" y="434" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Who?</text>
+
+    <rect x="116" y="366" width="88" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="53" y="389" width="22" height="18" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2" transform="translate(107 0)"/>
+    <text x="160" y="434" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">What?</text>
+
+    <rect x="212" y="366" width="88" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="392" r="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M250 400 L256 414 L262 400 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Where?</text>
+
+    <rect x="308" y="366" width="88" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="352" cy="395" r="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="352" y1="395" x2="352" y2="389" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="352" y1="395" x2="357" y2="395" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="352" y="434" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">When?</text>
+
+    <rect x="404" y="366" width="88" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="448" y="404" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#4f6d7a">?</text>
+    <text x="448" y="434" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Why?</text>
+  </g>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ask by voice, sign, pointing, or drawing — every question counts.</text>
+</svg>

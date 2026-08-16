@@ -47,6 +47,11 @@ context_variants:
     note: Read the text aloud to a partner sitting across from you; use the open air to practice a voice that carries
   - context: level-grouped
     note: Pair confident readers with emerging readers so they take turns reading sentences aloud to each other
+assets:
+  - path: assets/images/L.01.004.07-reading-aloud.svg
+    alt: A reader with an open book reads aloud to a listener, with an inset showing reading by signing or pointing to each word as reading aloud too, teaching that reading aloud is sharing with a clear voice
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners read a simple text aloud with a clear, expressive voice, practicing

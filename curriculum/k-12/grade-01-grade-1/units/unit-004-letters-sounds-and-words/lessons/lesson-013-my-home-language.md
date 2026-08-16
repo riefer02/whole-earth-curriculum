@@ -47,6 +47,11 @@ context_variants:
     note: Sit in a circle outside and share home-language words for things you can see — tree, sky, bird — in each language
   - context: multi-age
     note: Older learners help younger ones write or draw their home-language word, and share a word of their own
+assets:
+  - path: assets/images/L.01.004.13-my-home-language.svg
+    alt: A treasure chest spilling word cards for "love" in several scripts, with spoken and signed insets, teaching that every home language is a treasure whether spoken, signed, or written, and no language is better than another
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name their home language or languages and share a few words in each with

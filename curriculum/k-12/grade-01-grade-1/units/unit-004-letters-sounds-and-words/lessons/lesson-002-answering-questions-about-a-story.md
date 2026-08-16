@@ -45,6 +45,11 @@ context_variants:
     note: A learner listens to the story twice, then answers written who/what/where questions aloud to a grown-up or older sibling
   - context: outdoor-only
     note: Tell the story in a circle outside; answer the who/what/where by pointing to a spot, a person, or acting out the happening
+assets:
+  - path: assets/images/L.01.004.02-answering-questions-about-a-story.svg
+    alt: A story panel of a bird beside a pond, with three cards answering Who? (a bird), What? (looking for water), and Where? (at the pond), and a full-sentence example "A bird was thirsty."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners listen to a story and answer simple who, what, and where questions about

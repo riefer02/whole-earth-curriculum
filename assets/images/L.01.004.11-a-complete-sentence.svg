@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A complete sentence: capital, thought, end mark</title>
+  <desc id="desc">A large sentence "The sun shines." is shown with its three parts marked. The capital letter T at the start is circled and labeled "a capital letter opens it." The middle words form the full thought, labeled "a full thought in the middle." The period at the end is circled and labeled "an end mark closes it." Below, three small cards show the three end marks a sentence can use: a period, a question mark, and an exclamation mark. A caption notes that writing systems that do not use capitals and periods mark beginnings and endings in their own way, and none is better. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners the parts of a complete written sentence.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">A Complete Sentence</text>
+
+  <!-- The sentence -->
+  <rect x="16" y="80" width="480" height="110" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+  <text x="120" y="148" font-family="sans-serif" font-size="40" font-weight="bold" fill="#2b3a42">T</text>
+  <ellipse cx="120" cy="144" rx="24" ry="28" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="190" y="148" font-family="sans-serif" font-size="40" fill="#2b3a42">he sun shines</text>
+  <ellipse cx="392" cy="146" rx="10" ry="14" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="392" y="148" font-family="sans-serif" font-size="40" fill="#2b3a42">.</text>
+
+  <!-- part labels -->
+  <text x="120" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a capital letter opens it</text>
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a full thought in the middle</text>
+  <text x="392" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">an end mark closes it</text>
+
+  <!-- End marks -->
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">three end marks a sentence can use</text>
+
+  <rect x="60" y="278" width="110" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="115" y="338" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#2b3a42">.</text>
+  <text x="115" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">period</text>
+
+  <rect x="201" y="278" width="110" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#2b3a42">?</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">question mark</text>
+
+  <rect x="342" y="278" width="110" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="397" y="338" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#2b3a42">!</text>
+  <text x="397" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">exclamation mark</text>
+
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Writing systems without capitals or periods mark beginnings and endings</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">in their own way — none is better.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A capital opens the thought; an end mark closes it.</text>
+</svg>

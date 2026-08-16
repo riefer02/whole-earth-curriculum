@@ -48,6 +48,11 @@ context_variants:
     note: Write marks and words in the sand or dirt with a stick, saying the sound as each is written
   - context: level-grouped
     note: Learners who form marks easily write whole words while others keep tracing single marks with support
+assets:
+  - path: assets/images/L.01.004.09-writing-letters-and-words.svg
+    alt: A dotted letter "b" with a start dot and a direction arrow to trace, and a hand writing a Devanagari mark in sand and another tracing in the air, teaching slow careful forming of marks in any writing surface
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice forming the marks of their own writing system and write simple

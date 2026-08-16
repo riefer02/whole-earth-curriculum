@@ -47,6 +47,11 @@ context_variants:
     note: Write a group in the dirt, then build a word by adding marks around it; clap when the whole group stays together
   - context: multi-age
     note: Older readers underline letter groups in a shared word list while younger learners read the group aloud
+assets:
+  - path: assets/images/L.01.004.06-letter-groups.svg
+    alt: A letter group "sh" highlighted and found inside the word "ship," and a Hangul syllable block 한 shown as one chunk with clapping hands, teaching that marks travel in groups that stay together
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners recognize that marks travel in groups — letter groups or syllable

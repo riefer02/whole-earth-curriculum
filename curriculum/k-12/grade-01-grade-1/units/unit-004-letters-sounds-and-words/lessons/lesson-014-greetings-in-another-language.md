@@ -48,6 +48,11 @@ context_variants:
     note: Practice greeting a partner with a wave or bow outside, saying the greeting and courtesy word as you meet
   - context: multi-age
     note: Pair learners so an older learner who knows the language models the sounds, and both practice greeting each other
+assets:
+  - path: assets/images/L.01.004.14-greetings-in-another-language.svg
+    alt: Greeting cards for "hello" and courtesy words for "please" and "thank you" in several languages and scripts, with a waving figure, teaching that a greeting in someone's language is a gift of respect and there is no single correct accent
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners learn a greeting and a courtesy word, such as please or thank you, in

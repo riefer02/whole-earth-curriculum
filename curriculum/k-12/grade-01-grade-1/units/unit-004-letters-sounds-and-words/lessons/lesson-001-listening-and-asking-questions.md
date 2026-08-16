@@ -51,6 +51,11 @@ context_variants:
     note: Sit in a circle outside; listen to a natural soundscape or a told story, then ask a question about what was heard
   - context: multi-age
     note: Older learners model asking one "who" and one "why" question; younger learners answer or point to the starter card
+assets:
+  - path: assets/images/L.01.004.01-listening-and-asking-questions.svg
+    alt: A speaker tells a story while a listener gives full attention, with five question-starter cards — Who?, What?, Where?, When?, and Why? — each with a small picture, and the reminder that a question can be asked by voice, sign, pointing, or drawing
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice listening with their whole body and asking one simple question

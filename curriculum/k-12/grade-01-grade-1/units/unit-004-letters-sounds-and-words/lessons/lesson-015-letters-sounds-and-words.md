@@ -63,6 +63,11 @@ context_variants:
     note: Hold the festival outside; use the ground for writing, a circle for reading aloud, and the open air for greetings and language sharing
   - context: multi-age
     note: Older learners run each station as guides, and younger learners travel between them collecting stamps in their language passport
+assets:
+  - path: assets/images/L.01.004.15-letters-sounds-and-words.svg
+    alt: Four festival stations — Listen and Ask, Read and Retell, Write, and Share Languages — each with a small icon, showing how listening, speaking, reading, writing, and sharing languages come together in one celebration where every language is wealth
+    kind: image
+    source: original
 duration_minutes: 50
 summary: >-
   A capstone "language festival" in which learners bring together all eight

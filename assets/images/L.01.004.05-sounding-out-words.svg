@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sound it out, then blend it</title>
+  <desc id="desc">A word is shown inside three separate boxes, one mark in each box — "c", "a", "t" — with a pointing finger under the first box and the label "say each mark, then blend." An arrow leads to the whole word "cat" in a box, labeled "one word." A second, smaller example below shows the same idea in a syllabic writing system, Hangul: two parts (ㄱ and ㅏ) blend into the syllable block 가, labeled "one syllable." The boxes, arrows, and labels carry the meaning, so the picture prints clearly in grayscale and teaches learners to decode a word by sounding out each part and blending the parts together.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Sound It Out, Then Blend It</text>
+
+  <!-- Alphabetic example -->
+  <rect x="16" y="76" width="480" height="196" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">alphabetic system — sound out each mark</text>
+
+  <!-- three boxes -->
+  <g>
+    <rect x="40" y="120" width="64" height="64" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="72" y="164" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="36" font-weight="bold" fill="#2b3a42">c</text>
+
+    <rect x="120" y="120" width="64" height="64" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="152" y="164" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="36" font-weight="bold" fill="#2b3a42">a</text>
+
+    <rect x="200" y="120" width="64" height="64" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="232" y="164" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="36" font-weight="bold" fill="#2b3a42">t</text>
+  </g>
+
+  <!-- pointing finger under first box -->
+  <path d="M72 200 L72 208 L60 216 Q56 222 64 222 L76 222 Q80 222 80 216 L80 204 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="152" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">say each mark, then blend</text>
+
+  <!-- arrow to whole word -->
+  <path d="M300 152 L356 152" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M348 144 L360 152 L348 160 Z" fill="#2b3a42"/>
+
+  <rect x="376" y="120" width="96" height="64" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="424" y="164" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="36" font-weight="bold" fill="#2b3a42">cat</text>
+
+  <text x="424" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">one word</text>
+
+  <!-- syllabic example -->
+  <rect x="16" y="292" width="480" height="146" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">syllabic system — blend syllables the same way</text>
+
+  <rect x="64" y="336" width="56" height="56" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="374" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">ㄱ</text>
+  <rect x="136" y="336" width="56" height="56" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="164" y="374" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">ㅏ</text>
+  <path d="M216 364 L268 364" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <path d="M260 356 L272 364 L260 372 Z" fill="#2b3a42"/>
+  <rect x="288" y="336" width="72" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="324" y="374" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">가</text>
+  <text x="388" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">one syllable</text>
+
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Point, tap, or touch each part — then blend it into one word.</text>
+</svg>

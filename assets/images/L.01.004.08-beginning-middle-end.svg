@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Beginning, middle, end</title>
+  <desc id="desc">Three boxes in a row tell one simple story in order: beginning, middle, and end. The first box is labeled "1 · beginning" and shows a seed in the ground. The second box is labeled "2 · middle" and shows a small sprout being watered. The third box is labeled "3 · end" and shows a full flower blooming. Arrows point from the first box to the second and from the second to the third, and the words "first, next, last" appear beneath them. The numbers, labels, arrows, and pictures carry the meaning, so the picture prints clearly in grayscale and teaches learners to retell a story's beginning, middle, and end in order.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Beginning, Middle, End</text>
+
+  <!-- Box 1: beginning -->
+  <rect x="16" y="80" width="144" height="240" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1 · beginning</text>
+
+  <path d="M88 292 Q72 292 72 276 L72 216 Q72 204 84 204 L92 204 Q104 204 104 216 L104 276 Q104 292 88 292 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="80" y1="240" x2="80" y2="292" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="96" y1="240" x2="96" y2="292" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="88" cy="232" rx="7" ry="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="88" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a seed in the ground</text>
+
+  <!-- Arrow 1-2 -->
+  <path d="M172 200 L188 200" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M182 194 L192 200 L182 206 Z" fill="#2b3a42"/>
+
+  <!-- Box 2: middle -->
+  <rect x="184" y="80" width="144" height="240" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">2 · middle</text>
+
+  <path d="M248 232 Q248 216 256 216 Q264 216 264 232 L264 272" fill="none" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+  <path d="M256 232 Q244 224 236 232 Q240 240 256 244 Q272 240 276 232 Q268 224 256 232 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 244 Q248 238 240 244 Q244 250 256 252 Q268 250 272 244 Q264 238 256 244 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <path d="M302 232 L322 216 L322 232 L342 216" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M302 240 Q298 246 300 252 M306 240 Q310 246 308 252" fill="none" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="320" cy="210" r="3" fill="#6b93b6"/>
+  <circle cx="336" cy="206" r="3" fill="#6b93b6"/>
+
+  <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a sprout, watered</text>
+
+  <!-- Arrow 2-3 -->
+  <path d="M340 200 L356 200" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M350 194 L360 200 L350 206 Z" fill="#2b3a42"/>
+
+  <!-- Box 3: end -->
+  <rect x="352" y="80" width="144" height="240" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="424" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">3 · end</text>
+
+  <path d="M424 292 Q416 292 416 276 L416 232 Q416 220 428 220 L432 220 Q444 220 444 232 L444 276 Q444 292 432 292 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="424" cy="240" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="424" cy="240" r="5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="424" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a flower blooms</text>
+
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">first · next · last</text>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Order is what keeps the whole story whole.</text>
+</svg>

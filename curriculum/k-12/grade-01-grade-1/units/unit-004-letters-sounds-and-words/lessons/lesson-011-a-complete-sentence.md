@@ -47,6 +47,11 @@ context_variants:
     note: A learner looks at each sentence strip, finds what is missing, and rewrites it complete
   - context: outdoor-only
     note: Write a broken sentence in the dirt, then "plant" a capital at the start and a pebble as the end mark
+assets:
+  - path: assets/images/L.01.004.11-a-complete-sentence.svg
+    alt: A sentence "The sun shines." with the capital T and the period circled, labeled capital-opens, full-thought, and end-mark-closes, plus three cards for the period, question mark, and exclamation mark, and the note that other writing systems mark beginnings and endings their own way
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners learn the three parts of a complete written sentence — a capital letter,

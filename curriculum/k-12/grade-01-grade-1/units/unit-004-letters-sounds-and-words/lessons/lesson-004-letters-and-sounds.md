@@ -48,6 +48,11 @@ context_variants:
     note: Write marks in the dirt or sand with a stick and say each sound as it is written; match to an object nearby
   - context: multi-age
     note: Older learners who read confidently coach younger ones in saying each mark's sound, in the shared home writing system
+assets:
+  - path: assets/images/L.01.004.04-letters-and-sounds.svg
+    alt: Three rows showing a mark standing for a sound (Latin B), a syllable (Devanagari म), and a whole word (Chinese 山, mountain), all equal in size and unranked, teaching that every writing system records its words in its own way
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners explore their own writing system and learn that its marks — letters or

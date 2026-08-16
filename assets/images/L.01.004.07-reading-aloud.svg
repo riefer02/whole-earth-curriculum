@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading aloud is sharing</title>
+  <desc id="desc">A reader on the left holds an open book and reads aloud, with sound lines and the word "clear" above them. A listener on the right sits and follows along. Below, a small inset shows a second way to "read aloud": a pair of hands points to each word in a book while a speech bubble reads it, with the label "sign, point, or use a device — that is reading aloud too." The words "clear" and "for a listener" and the book and pointing shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to read a simple text aloud clearly enough for a listener to follow, with no single required way to use the voice.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Reading Aloud Is Sharing</text>
+
+  <line x1="48" y1="318" x2="464" y2="318" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Reader (left) with open book -->
+  <g>
+    <circle cx="140" cy="196" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 194 A22 22 0 0 1 162 194 Z" fill="#4f6d7a"/>
+    <circle cx="132" cy="196" r="2.2" fill="#2b3a42"/>
+    <circle cx="148" cy="196" r="2.2" fill="#2b3a42"/>
+    <path d="M132 207 Q140 213 148 207" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="122" y="221" width="36" height="52" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="130" y1="273" x2="128" y2="316" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="150" y1="273" x2="152" y2="316" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+
+    <!-- open book in hands -->
+    <path d="M96 268 Q118 252 140 268 Q162 252 184 268 L184 292 Q162 276 140 292 Q118 276 96 292 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="140" y1="258" x2="140" y2="290" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="108" y1="276" x2="132" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="148" y1="276" x2="172" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="140" y="340" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I read</text>
+
+  <!-- sound lines + clear -->
+  <path d="M214 168 Q226 156 214 146 M226 172 Q238 160 226 148 M238 176 Q250 164 238 152" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <text x="238" y="188" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">clear</text>
+
+  <!-- Listener (right) -->
+  <g>
+    <circle cx="372" cy="196" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M350 194 A22 22 0 0 1 394 194 Z" fill="#2b3a42"/>
+    <circle cx="364" cy="196" r="2.2" fill="#2b3a42"/>
+    <circle cx="380" cy="196" r="2.2" fill="#2b3a42"/>
+    <path d="M364 207 Q372 213 380 207" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="354" y="221" width="36" height="52" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="362" y1="273" x2="360" y2="316" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="382" y1="273" x2="384" y2="316" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="372" y="340" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I follow along</text>
+
+  <!-- Inset: non-speaking path -->
+  <rect x="24" y="368" width="464" height="98" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M64 420 Q84 404 104 420 Q124 404 144 420 L144 442 Q124 426 104 442 Q84 426 64 442 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="104" y1="412" x2="104" y2="440" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M76 428 L98 428 M110 428 L132 428" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M150 452 L150 440 Q150 432 158 432 L170 432" fill="none" stroke="#c99567" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="150" cy="456" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+
+  <path d="M250 402 Q250 392 260 392 L300 392 Q310 392 310 402 L310 418 Q310 428 300 428 L268 428 L262 436 L264 428 L260 428 Q250 428 250 418 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="280" y="415" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">the words</text>
+
+  <text x="390" y="414" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">sign, point, or use</text>
+  <text x="390" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a device — that is</text>
+  <text x="390" y="454" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">reading aloud too</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Read clearly enough for a listener to follow every word.</text>
+</svg>

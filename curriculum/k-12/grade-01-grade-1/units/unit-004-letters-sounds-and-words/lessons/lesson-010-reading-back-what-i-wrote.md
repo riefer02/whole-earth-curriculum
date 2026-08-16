@@ -45,6 +45,11 @@ context_variants:
     note: A learner writes a word, points under each mark, reads it back aloud, and checks the meaning against a picture
   - context: outdoor-only
     note: Write a word in the dirt, then read it back to a partner, pointing at each mark as you go
+assets:
+  - path: assets/images/L.01.004.10-reading-back-what-i-wrote.svg
+    alt: A loop showing writing "mango" then reading it back with a pointing finger and an eye, and checking that the marks say what was meant, teaching the write-then-read-back loop
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners write a simple word, then read it back, checking that the marks match

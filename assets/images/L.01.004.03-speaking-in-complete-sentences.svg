@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A complete sentence: who plus what happened</title>
+  <desc id="desc">A sentence frame bar at the top reads "I like [a blank box]." and "I saw [a blank box]." Two labels above the blanks say "what happened." Below, an example shows a filled sentence "I like mangoes." with a friendly face as the "who" and a mango as the "what happened." Two small labels point out the two parts of a complete sentence: a "who" (the speaker) and a "what happened" (the rest). A caption notes that a complete sentence can also be signed, pointed to with picture cards, or said through a device. The labels, frames, and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to build a complete sentence from a who and a what happened.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">A Complete Sentence</text>
+
+  <!-- Sentence frames -->
+  <rect x="16" y="72" width="480" height="128" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+  <text x="44" y="122" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">I like</text>
+  <rect x="128" y="94" width="120" height="42" rx="8" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="8 6"/>
+  <text x="188" y="121" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a thing</text>
+
+  <text x="280" y="122" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">I saw</text>
+  <rect x="364" y="94" width="120" height="42" rx="8" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="8 6"/>
+  <text x="424" y="121" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a thing</text>
+
+  <text x="256" y="178" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the "who" is "I" — the rest tells what happened</text>
+
+  <!-- Filled example -->
+  <rect x="16" y="214" width="480" height="180" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">example</text>
+
+  <text x="44" y="320" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">I like</text>
+
+  <!-- who face -->
+  <circle cx="118" cy="296" r="24" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M96 294 A24 24 0 0 1 140 294 Z" fill="#4f6d7a"/>
+  <circle cx="110" cy="296" r="2.4" fill="#2b3a42"/>
+  <circle cx="126" cy="296" r="2.4" fill="#2b3a42"/>
+  <path d="M110 306 Q118 312 126 306" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- mango -->
+  <ellipse cx="230" cy="296" rx="24" ry="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M230 266 L236 252" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+  <text x="230" y="302" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">mango</text>
+
+  <text x="292" y="320" font-family="sans-serif" font-size="30" fill="#2b3a42">mangoes.</text>
+
+  <!-- part labels -->
+  <text x="118" y="358" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">who</text>
+  <text x="256" y="358" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">what happened</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A sentence can be spoken, signed, pointed to, or said through a device.</text>
+</svg>
