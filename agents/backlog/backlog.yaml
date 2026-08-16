@@ -1816,13 +1816,20 @@ items:
     type: scope
     grade: 11
     domain: null
-    status: ready
+    status: done
     priority: 38
     depends_on: []
     required_reviews:
       - vision-architect
       - reviewer
     notes: Author curriculum/k-12/grade-11-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+    reviews:
+      vision-architect:
+        verdict: passed
+        note: "Traceability verified: 78/78 grade-11 objectives across D01-D10 covered with clean set-match (zero orphans/invented/off-grade K/10/12 IDs). domain->pillar correct (D01/D02->P1, D03->P2, D04-D07->P3, D08-D10->P4); U.11.001-012; 10 domains + 4 pillars healthy weighting. Days 1-180 continuous (each end+1==next start); weighting sums 100. 9-12 band mature (complex systems, global history, political economy, rigorous ethics, evidence-vs-values, technology effects, hard truths with agency not nihilism, learners as co-authors); global/non-Eurocentric; home-language-first; questions held as questions; no hierarchy/high-stakes tests; spiral G10->11->12 capstone explicit. validate 423 files 0 errors."
+      reviewer:
+        verdict: passed
+        note: Validate passed (423 files, 0 errors). Scope frontmatter complete; 12 units U.11.001-012 full fields; days 1-180 continuous no gaps/overlaps (chains 1-15...177-180); weighting sums 100 (10+10+15+10+10+11+7+10+9+8). All 78 grade-11 standards referenced and every objective resolves to real grade-11 standard (D03.S4.11.01, D09.S4.11.02), zero K/10/12/invented IDs; 10 domains covered. All 12 stubs full frontmatter + Overview/Essential questions/Lessons. Age-appropriate 9-12 band; non-Eurocentric (indigenous knowledge traditions, history many perspectives); portfolio/critique assessment, no high-stakes tests.
   - id: B-109
     title: Author Grade 12 scope (full 180-day plan)
     agent: scope-sequencer
