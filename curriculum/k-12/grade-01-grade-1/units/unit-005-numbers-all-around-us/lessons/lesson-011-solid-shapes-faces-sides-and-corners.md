@@ -51,6 +51,11 @@ context_variants:
     note: Find solid shapes outdoors — a ball, a log (cylinder), a rock, a hut roof (cone) — and feel their faces, edges, and corners
   - context: multi-age
     note: Older learners name the shapes and count faces, sides, and corners while younger ones feel and find each shape
+assets:
+  - path: assets/images/L.01.005.11-faces-sides-and-corners.svg
+    alt: A cube with callouts to a face, a side (edge), and a corner, noting a cube has six faces, twelve sides, and eight corners, plus a row of sphere, cylinder, cone, and box with their features.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet solid (three-dimensional) shapes — cubes, spheres, cylinders, cones,

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Repeating patterns: find the core and keep going</title>
+  <desc id="desc">A row of six natural objects alternates stone, leaf, stone, leaf, stone, leaf. A bracket under the first two marks them as the core, labeled core: stone, leaf. Below, the next three objects are drawn as dashed outlines labeled keep going, showing how the pattern continues. A box at the bottom shows a three-part core: shell, pebble, leaf, repeated, with a note that a core can have two parts (AB) or three parts (ABC). Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Find the Core</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every repeating pattern has a part that comes again.</text>
+
+  <!-- AB pattern: stone, leaf, stone, leaf, stone, leaf -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="70" cy="160" rx="22" ry="15" fill="#d7d1c3"/>
+    <path d="M144 142 Q164 158 144 178 Q124 158 144 142 Z" fill="#7a9e7e"/>
+    <line x1="144" y1="146" x2="144" y2="174" stroke="#4f6d7a" stroke-width="2"/>
+    <ellipse cx="218" cy="160" rx="22" ry="15" fill="#d7d1c3"/>
+    <path d="M292 142 Q312 158 292 178 Q272 158 292 142 Z" fill="#7a9e7e"/>
+    <line x1="292" y1="146" x2="292" y2="174" stroke="#4f6d7a" stroke-width="2"/>
+    <ellipse cx="366" cy="160" rx="22" ry="15" fill="#d7d1c3"/>
+    <path d="M440 142 Q460 158 440 178 Q420 158 440 142 Z" fill="#7a9e7e"/>
+    <line x1="440" y1="146" x2="440" y2="174" stroke="#4f6d7a" stroke-width="2"/>
+  </g>
+
+  <!-- Core bracket -->
+  <g stroke="#e0a458" stroke-width="3">
+    <line x1="48" y1="214" x2="166" y2="214"/>
+    <line x1="48" y1="206" x2="48" y2="222"/>
+    <line x1="166" y1="206" x2="166" y2="222"/>
+  </g>
+  <text x="107" y="236" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">core = stone, leaf</text>
+
+  <!-- Extend: dashed next items -->
+  <g fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5">
+    <ellipse cx="70" cy="320" rx="22" ry="15"/>
+    <path d="M144 302 Q164 318 144 338 Q124 318 144 302 Z"/>
+    <ellipse cx="218" cy="320" rx="22" ry="15"/>
+  </g>
+  <text x="250" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">keep going: stone, leaf, stone &#8230;</text>
+
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The core repeats over and over.</text>
+
+  <!-- ABC pattern box -->
+  <rect x="40" y="394" width="432" height="102" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">A three-part core: shell, pebble, leaf</text>
+  <g stroke="#2b3a42" stroke-width="2">
+    <!-- shell -->
+    <path d="M52 448 A18 18 0 0 1 88 448 Z" fill="#f5d6b6"/>
+    <line x1="70" y1="448" x2="56" y2="436" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="70" y1="448" x2="70" y2="430" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="70" y1="448" x2="84" y2="436" stroke="#4f6d7a" stroke-width="1.5"/>
+    <!-- pebble -->
+    <ellipse cx="144" cy="448" rx="20" ry="14" fill="#d7d1c3"/>
+    <!-- leaf -->
+    <path d="M218 432 Q238 448 218 464 Q198 448 218 432 Z" fill="#7a9e7e"/>
+    <line x1="218" y1="436" x2="218" y2="460" stroke="#4f6d7a" stroke-width="2"/>
+    <!-- repeat -->
+    <path d="M292 448 A18 18 0 0 1 328 448 Z" fill="#f5d6b6"/>
+    <line x1="310" y1="448" x2="296" y2="436" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="310" y1="448" x2="310" y2="430" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="310" y1="448" x2="324" y2="436" stroke="#4f6d7a" stroke-width="1.5"/>
+    <ellipse cx="384" cy="448" rx="20" ry="14" fill="#d7d1c3"/>
+    <path d="M458 432 Q478 448 458 464 Q438 448 458 432 Z" fill="#7a9e7e"/>
+    <line x1="458" y1="436" x2="458" y2="460" stroke="#4f6d7a" stroke-width="2"/>
+  </g>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A core can be two parts (AB) or three parts (ABC).</text>
+</svg>

@@ -54,6 +54,11 @@ context_variants:
     note: Older learners coach younger ones in bundling tens and saying the decade numbers; younger learners echo each ten aloud
   - context: level-grouped
     note: Learners who already count to 120 can count backward or start from any number; others build tens and count on from each ten
+assets:
+  - path: assets/images/L.01.005.01-counting-to-120.svg
+    alt: Twelve bundles of ten sticks in two rows, each labeled with its decade number from 10 to 120, showing that twelve bundles of ten make one hundred twenty, with a note that counting by tens keeps a long count from getting lost.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners stretch their counting from twenty all the way to one hundred twenty,

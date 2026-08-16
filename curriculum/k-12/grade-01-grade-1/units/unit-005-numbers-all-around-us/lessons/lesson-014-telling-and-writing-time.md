@@ -51,6 +51,11 @@ context_variants:
     note: Draw a big clock on the ground and use sticks as hands; walk the hour hand's path and set times with the body
   - context: multi-age
     note: Older learners read the time while younger ones move the hands, then together they write it
+assets:
+  - path: assets/images/L.01.005.14-reading-the-clock.svg
+    alt: Two clock faces; 3 o'clock with the hour hand on 3 and the minute hand on 12, and half past 3 with the hour hand between 3 and 4 and the minute hand on 6, labeled 3:00 and 3:30.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners read a clock to the hour and the half hour and write the time, using a

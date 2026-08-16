@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Flat shapes: compose and take apart</title>
+  <desc id="desc">Two panels show composing and taking apart flat shapes. The left panel, labeled compose, shows a blue triangle and a green triangle with a downward arrow to a square made of the same two triangles joined along a dashed diagonal, captioned two triangles make a square. The right panel, labeled take apart, shows a square split into a blue triangle and a green triangle with a downward arrow to the two triangles pulled apart, captioned a square taken apart makes two triangles. A bottom note says big shapes are made of small shapes, and every shape has sides and corners. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Compose and Take Apart</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Small shapes join to make big shapes &#8212; and can be split apart again.</text>
+
+  <!-- Left panel: compose -->
+  <rect x="24" y="96" width="226" height="374" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="137" y="124" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">COMPOSE</text>
+  <text x="137" y="144" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">put together</text>
+
+  <!-- two triangles -->
+  <path d="M62 168 L116 168 L62 214 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M148 168 L148 214 L102 214 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+
+  <line x1="110" y1="224" x2="110" y2="250" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M102 242 L110 254 L118 242 Z" fill="#e0a458"/>
+
+  <!-- square made of two triangles -->
+  <rect x="75" y="258" width="70" height="70" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M75 258 L145 258 L145 328 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M75 258 L145 328 L75 328 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="75" y1="258" x2="145" y2="328" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 4"/>
+
+  <text x="137" y="366" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">two triangles</text>
+  <text x="137" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">make a square</text>
+
+  <!-- Right panel: take apart -->
+  <rect x="262" y="96" width="226" height="374" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="375" y="124" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">TAKE APART</text>
+  <text x="375" y="144" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">split it</text>
+
+  <!-- square -->
+  <rect x="300" y="165" width="70" height="70" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M300 165 L370 165 L370 235 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M300 165 L370 235 L300 235 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="300" y1="165" x2="370" y2="235" stroke="#2b3a42" stroke-width="2"/>
+
+  <line x1="335" y1="246" x2="335" y2="272" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M327 264 L335 276 L343 264 Z" fill="#e0a458"/>
+
+  <!-- two separated triangles -->
+  <path d="M300 282 L356 282 L300 329 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M378 282 L378 329 L332 329 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+
+  <text x="375" y="366" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a square taken apart</text>
+  <text x="375" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">makes two triangles</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Big shapes are made of small shapes &#8212; and every shape has sides and corners.</text>
+</svg>

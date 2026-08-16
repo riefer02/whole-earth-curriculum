@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Writing numbers: tens and ones make 35</title>
+  <desc id="desc">Three bundles of ten sticks and five loose circles sit in a row. Under the bundles a label says three tens (30), and under the circles a label says five ones (5). Together they are written as 35, with the caption "three tens and five ones = thirty-five." Below, a box shows two other ways people record numbers: five tally marks equal five, and a knotted cord called a quipu records numbers with knots. Labels and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Writing Numbers: Tens and Ones</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Ten little digits write every number up to 120.</text>
+
+  <!-- Three bundles of ten -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <g>
+      <rect x="70" y="98" width="40" height="44" rx="6" fill="#ffffff"/>
+      <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+        <line x1="78" y1="106" x2="78" y2="134"/><line x1="85" y1="106" x2="85" y2="134"/><line x1="92" y1="106" x2="92" y2="134"/><line x1="99" y1="106" x2="99" y2="134"/><line x1="106" y1="106" x2="106" y2="134"/>
+      </g>
+      <rect x="70" y="124" width="40" height="7" fill="#e0a458" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="130" y="98" width="40" height="44" rx="6" fill="#ffffff"/>
+      <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+        <line x1="138" y1="106" x2="138" y2="134"/><line x1="145" y1="106" x2="145" y2="134"/><line x1="152" y1="106" x2="152" y2="134"/><line x1="159" y1="106" x2="159" y2="134"/><line x1="166" y1="106" x2="166" y2="134"/>
+      </g>
+      <rect x="130" y="124" width="40" height="7" fill="#e0a458" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="190" y="98" width="40" height="44" rx="6" fill="#ffffff"/>
+      <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+        <line x1="198" y1="106" x2="198" y2="134"/><line x1="205" y1="106" x2="205" y2="134"/><line x1="212" y1="106" x2="212" y2="134"/><line x1="219" y1="106" x2="219" y2="134"/><line x1="226" y1="106" x2="226" y2="134"/>
+      </g>
+      <rect x="190" y="124" width="40" height="7" fill="#e0a458" stroke-width="1.5"/>
+    </g>
+  </g>
+
+  <!-- Five loose ones -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5">
+    <circle cx="282" cy="120" r="10"/><circle cx="306" cy="120" r="10"/><circle cx="330" cy="120" r="10"/><circle cx="354" cy="120" r="10"/><circle cx="378" cy="120" r="10"/>
+  </g>
+
+  <text x="150" y="172" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">3 tens = 30</text>
+  <text x="330" y="172" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">5 ones = 5</text>
+
+  <text x="256" y="218" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#2b3a42">35</text>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">three tens and five ones = thirty-five</text>
+
+  <!-- Other systems box -->
+  <rect x="56" y="278" width="400" height="200" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Other ways people record numbers</text>
+
+  <!-- Tally marks -->
+  <text x="140" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">Tally marks</text>
+  <g stroke="#2b3a42" stroke-width="5" stroke-linecap="round">
+    <line x1="96" y1="352" x2="96" y2="388"/>
+    <line x1="118" y1="352" x2="118" y2="388"/>
+    <line x1="140" y1="352" x2="140" y2="388"/>
+    <line x1="162" y1="352" x2="162" y2="388"/>
+    <line x1="96" y1="352" x2="184" y2="372"/>
+  </g>
+  <text x="184" y="382" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">= 5</text>
+
+  <!-- Quipu -->
+  <text x="372" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">Knots on a cord (quipu)</text>
+  <line x1="300" y1="352" x2="444" y2="352" stroke="#8f5f3d" stroke-width="3" stroke-linecap="round"/>
+  <g stroke="#8f5f3d" stroke-width="2.5" stroke-linecap="round">
+    <line x1="312" y1="352" x2="312" y2="386"/>
+    <line x1="336" y1="352" x2="336" y2="396"/>
+    <line x1="360" y1="352" x2="360" y2="380"/>
+    <line x1="384" y1="352" x2="384" y2="398"/>
+    <line x1="408" y1="352" x2="408" y2="384"/>
+  </g>
+  <g fill="none" stroke="#8f5f3d" stroke-width="2.5">
+    <circle cx="312" cy="372" r="4"/>
+    <circle cx="336" cy="372" r="4"/><circle cx="336" cy="386" r="4"/>
+    <circle cx="360" cy="366" r="4"/>
+    <circle cx="384" cy="372" r="4"/><circle cx="384" cy="388" r="4"/>
+    <circle cx="408" cy="370" r="4"/>
+  </g>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">These digits are one good system among many &#8212; none is "better."</text>
+</svg>

@@ -1480,12 +1480,22 @@ items:
     type: assets
     grade: 1
     domain: D05
-    status: ready
+    status: done
     priority: 47
     depends_on:
       - B-056
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.005 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (301 files). All 15 assets resolve to real files, non-empty alt, kind/source valid. 15 SVGs self-contained XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal (labels/numbers/shapes/captions). Math as sense-making (concrete-before-abstract, worked examples, 'no speed = smartness', 'more is a fact not a worth'). Numerals/money one system among many (tally/quipu L.02, cowrie/cacao/salt/barter L.15, global contexts). UDL unbroken. Objectives resolve to 8 grade-1 D05 standards.
+      accessibility-editor:
+        verdict: passed
+        note: "All 15 SVGs role=img + aria-labelledby + title/desc, concept-complete. Color never only signal (numerals/labels/shapes/counts), grayscale-safe. Non-visual: counting found-objects+voice (L.03), shapes clay/mud feel-faces-edges (L.11), measure hand-span/footstep/cubit (L.12), graph ground-stones+tally (L.13), time ground-drawn clock+sun (L.14), money tokens+barter (L.15). No speed/ranking; low-tech all 15. Alt non-empty, paths resolve. No edits. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: Parallel counting systems (L.02 tally marks + quipu 'other ways people record numbers', 'none is better'; Hindu-Arabic from India via Arabic world; base-20 equal). Money one system among many (L.15 cowrie/cacao/salt/barter, 'never rank currencies', 'more coins is a fact not a worth'). Math not a gate (L.03 'never about worth', L.01 'never a race', 'no speed = smartness'). No single-region default (found objects, weaving/beading/drumming/mosaic 'one end of Earth to the other' citing Africa Counts, mango/banana/apple graph). Found-materials universality (low-tech body/ground/gathered; paper clips only enrichment). No edits. validate passes (301 files).
   - id: B-088
     title: "Illustration pass: add SVG assets to lessons in U.01.006"
     agent: asset-designer

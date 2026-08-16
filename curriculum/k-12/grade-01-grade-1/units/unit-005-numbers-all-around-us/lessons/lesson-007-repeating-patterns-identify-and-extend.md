@@ -50,6 +50,11 @@ context_variants:
     note: Make repeating patterns from natural objects — stone, leaf, stone, leaf — and extend them along a path
   - context: multi-age
     note: Older learners model finding the core and continuing a longer pattern; younger learners copy and extend a simple one
+assets:
+  - path: assets/images/L.01.005.07-find-the-core.svg
+    alt: A stone, leaf repeating pattern with the first stone and leaf bracketed as the core, dashed outlines showing the pattern continuing, and a box with a three-part shell, pebble, leaf core.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners find the repeating part — the core — of patterns made of objects, sounds,

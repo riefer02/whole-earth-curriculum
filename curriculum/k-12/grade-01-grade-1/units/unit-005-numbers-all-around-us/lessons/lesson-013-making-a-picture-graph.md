@@ -54,6 +54,11 @@ context_variants:
     note: Build a living graph outdoors — each learner stands in a row for their answer — then count each row
   - context: multi-age
     note: Older learners write the question and count the rows while younger learners place their object and read the biggest and smallest rows
+assets:
+  - path: assets/images/L.01.005.13-picture-graph.svg
+    alt: A picture graph of favorite fruit with mango six, banana four, and apple three, labeled most and fewest, with the note that one mark equals one answer and every voice counts once.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners ask a real question, collect answers from the group, and build a picture

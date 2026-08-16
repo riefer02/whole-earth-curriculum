@@ -50,6 +50,11 @@ context_variants:
     note: Gather a pile of stones or leaves, remove some, and count what remains on the ground
   - context: multi-age
     note: Older learners write the number sentence while younger ones remove objects and count what is left, then compare answers
+assets:
+  - path: assets/images/L.01.005.05-taking-away.svg
+    alt: A basket of seven pebbles with two set aside as taken away, leaving five, with the number sentence 7 - 2 = 5 and the note that the minus sign means take away.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that subtracting means taking some away from a group and seeing

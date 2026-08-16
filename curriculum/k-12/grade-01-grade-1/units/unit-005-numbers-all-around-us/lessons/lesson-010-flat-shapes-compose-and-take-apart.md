@@ -51,6 +51,11 @@ context_variants:
     note: Build flat shapes from sticks and stones on the ground, then split them with a line into smaller shapes
   - context: multi-age
     note: Older learners name the shapes and count sides and corners while younger ones place the pieces
+assets:
+  - path: assets/images/L.01.005.10-compose-and-take-apart.svg
+    alt: Two panels showing two triangles joined into a square (compose) and a square split back into two triangles (take apart), with a note that big shapes are made of small shapes and every shape has sides and corners.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that flat shapes are made of sides and corners, and that small

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What add and subtract mean: joining and taking away</title>
+  <desc id="desc">Two side-by-side panels. The left panel is labeled joining, or add: three ducks sit on a pond while two more fly in along a dashed arrow, with the sentence 3 + 2 = 5 and the note that they come together and the group grows. The right panel is labeled taking away, or subtract: two ducks remain on a pond while three fly away along a dashed arrow, with the sentence 5 - 3 = 2 and the note that some leave and the group shrinks. Numbers, labels, and arrows carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">What Add and Subtract Mean</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Numbers grow by joining and shrink by taking away.</text>
+
+  <!-- Left panel: join -->
+  <rect x="24" y="96" width="226" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="137" y="124" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">JOINING (add)</text>
+
+  <!-- pond -->
+  <ellipse cx="137" cy="262" rx="82" ry="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M95 272 q10 6 20 0" fill="none" stroke="#fdfbf7" stroke-width="2" stroke-linecap="round"/>
+  <path d="M150 276 q10 6 20 0" fill="none" stroke="#fdfbf7" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- 3 ducks sitting -->
+  <g>
+    <g><ellipse cx="102" cy="252" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="110" cy="244" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M115 243 L122 244 L115 247 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="112" cy="243" r="1.2" fill="#2b3a42"/></g>
+    <g><ellipse cx="138" cy="258" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="146" cy="250" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M151 249 L158 250 L151 253 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="148" cy="249" r="1.2" fill="#2b3a42"/></g>
+    <g><ellipse cx="174" cy="252" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="182" cy="244" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M187 243 L194 244 L187 247 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="184" cy="243" r="1.2" fill="#2b3a42"/></g>
+  </g>
+
+  <!-- 2 ducks flying in + arrow -->
+  <g>
+    <g><ellipse cx="70" cy="146" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="78" cy="138" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M83 137 L90 138 L83 141 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="80" cy="137" r="1.2" fill="#2b3a42"/></g>
+    <g><ellipse cx="100" cy="168" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="108" cy="160" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M113 159 L120 160 L113 163 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="110" cy="159" r="1.2" fill="#2b3a42"/></g>
+  </g>
+  <path d="M50 120 q50 40 30 80" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-dasharray="6 5" stroke-linecap="round"/>
+  <path d="M74 198 L80 186 L68 190 Z" fill="#7a9e7e"/>
+
+  <text x="137" y="320" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#222222">3 + 2 = 5</text>
+  <text x="137" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">They come together &#8212;</text>
+  <text x="137" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the group grows.</text>
+
+  <!-- Right panel: take away -->
+  <rect x="262" y="96" width="226" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="375" y="124" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">TAKING AWAY (subtract)</text>
+
+  <!-- pond -->
+  <ellipse cx="375" cy="262" rx="82" ry="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M333 272 q10 6 20 0" fill="none" stroke="#fdfbf7" stroke-width="2" stroke-linecap="round"/>
+  <path d="M388 276 q10 6 20 0" fill="none" stroke="#fdfbf7" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- 2 ducks remaining -->
+  <g>
+    <g><ellipse cx="348" cy="252" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="356" cy="244" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M361 243 L368 244 L361 247 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="358" cy="243" r="1.2" fill="#2b3a42"/></g>
+    <g><ellipse cx="402" cy="252" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="410" cy="244" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M415 243 L422 244 L415 247 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="412" cy="243" r="1.2" fill="#2b3a42"/></g>
+  </g>
+
+  <!-- 3 ducks flying away + arrow -->
+  <g>
+    <g><ellipse cx="388" cy="146" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="396" cy="138" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M401 137 L408 138 L401 141 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="398" cy="137" r="1.2" fill="#2b3a42"/></g>
+    <g><ellipse cx="420" cy="168" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="428" cy="160" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M433 159 L440 160 L433 163 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="430" cy="159" r="1.2" fill="#2b3a42"/></g>
+    <g><ellipse cx="448" cy="140" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><circle cx="456" cy="132" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M461 131 L468 132 L461 135 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/><circle cx="458" cy="131" r="1.2" fill="#2b3a42"/></g>
+  </g>
+  <path d="M458 200 q-40 40 -30 80" fill="none" stroke="#c96f5f" stroke-width="3" stroke-dasharray="6 5" stroke-linecap="round"/>
+  <path d="M424 282 L436 276 L428 268 Z" fill="#c96f5f"/>
+
+  <text x="375" y="320" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#222222">5 &#8722; 3 = 2</text>
+  <text x="375" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Some leave &#8212;</text>
+  <text x="375" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the group shrinks.</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Tell the story in your own words &#8212; every clear way is right.</text>
+</svg>

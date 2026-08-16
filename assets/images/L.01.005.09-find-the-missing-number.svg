@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Finding the missing number: 3 plus what makes 7</title>
+  <desc id="desc">At the top, three pebbles are shown, then a plus sign, then a covered cup labeled with a question mark, then an equals sign and the number 7, with the note that three pebbles plus the cup make seven in all, so how many are hidden. Below, a row of seven circles shows the count-on: the first three circles are blue (the known part) and the next four are warm (the mystery), numbered 1 through 7, with a bracket under the last four labeled four more. A caption explains counting on from three reaches seven in four more steps, so the missing number is four. Numbers and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Find the Missing Number</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Count on from what you see to the total.</text>
+
+  <!-- Mystery row: 3 pebbles + cup(?) = 7 -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="60" cy="158" rx="13" ry="10" fill="#6b93b6"/>
+    <ellipse cx="92" cy="158" rx="13" ry="10" fill="#6b93b6"/>
+    <ellipse cx="124" cy="158" rx="13" ry="10" fill="#6b93b6"/>
+  </g>
+  <text x="158" y="170" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">+</text>
+
+  <!-- Hidden cup -->
+  <path d="M196 168 A36 36 0 0 1 268 168 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="232" y="152" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">?</text>
+
+  <text x="300" y="170" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">=</text>
+  <text x="360" y="170" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">7</text>
+
+  <text x="256" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">3 pebbles + the cup = 7 in all. How many are hidden?</text>
+
+  <!-- Count-on box -->
+  <rect x="40" y="232" width="432" height="252" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Count on from 3 to 7</text>
+
+  <g stroke="#2b3a42" stroke-width="2">
+    <circle cx="76" cy="300" r="16" fill="#6b93b6"/>
+    <circle cx="136" cy="300" r="16" fill="#6b93b6"/>
+    <circle cx="196" cy="300" r="16" fill="#6b93b6"/>
+    <circle cx="256" cy="300" r="16" fill="#e0a458"/>
+    <circle cx="316" cy="300" r="16" fill="#e0a458"/>
+    <circle cx="376" cy="300" r="16" fill="#e0a458"/>
+    <circle cx="436" cy="300" r="16" fill="#e0a458"/>
+  </g>
+  <g font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222" text-anchor="middle">
+    <text x="76" y="340">1</text>
+    <text x="136" y="340">2</text>
+    <text x="196" y="340">3</text>
+    <text x="256" y="340">4</text>
+    <text x="316" y="340">5</text>
+    <text x="376" y="340">6</text>
+    <text x="436" y="340">7</text>
+  </g>
+
+  <g stroke="#e0a458" stroke-width="3">
+    <line x1="240" y1="356" x2="452" y2="356"/>
+    <line x1="240" y1="348" x2="240" y2="364"/>
+    <line x1="452" y1="348" x2="452" y2="364"/>
+  </g>
+  <text x="346" y="378" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">4 more</text>
+
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Count on from 3: four, five, six, seven &#8212; that is 4 more.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">3 + 4 = 7</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A mystery solved with care is a mystery solved.</text>
+</svg>

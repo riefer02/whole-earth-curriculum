@@ -50,6 +50,11 @@ context_variants:
     note: Count two natural collections — stones versus leaves — and decide which has more by counting each
   - context: level-grouped
     note: Learners still building to 20 compare small piles; those fluent compare piles near 120 and estimate first
+assets:
+  - path: assets/images/L.01.005.03-the-last-number-is-how-many.svg
+    alt: Seven pebbles numbered 1 to 7 with the seventh highlighted as the last number said is how many, plus two compared groups labeled 5 fewer and 8 more, with the note that more and fewer are facts about amounts, not worth.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover the cardinal rule of counting — the last number said is how many

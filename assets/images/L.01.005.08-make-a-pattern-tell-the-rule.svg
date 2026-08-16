@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Creating patterns and telling the rule</title>
+  <desc id="desc">A learner-made pattern of shell, pebble, pebble, shell, pebble, pebble sits at the top, with the rule stated in words: shell, pebble, pebble, and it repeats. Below, a box shows the same rule translated into three materials. The objects row shows shell, pebble, pebble. The sound row shows a big dark circle for loud and two small light circles for soft, so the rule is loud, soft, soft. The movement row shows an up-pointing triangle for hop and two small circles for step, so the rule is hop, step, step. A note says the rule stays the same while only the material changes. Shapes and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Make a Pattern, Tell the Rule</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The rule is the pattern told in words.</text>
+
+  <!-- Created pattern: shell, pebble, pebble (ABB) -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <path d="M62 150 A18 18 0 0 1 98 150 Z" fill="#f5d6b6"/>
+    <line x1="80" y1="150" x2="66" y2="138" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="80" y1="150" x2="80" y2="132" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="80" y1="150" x2="94" y2="138" stroke="#4f6d7a" stroke-width="1.5"/>
+    <ellipse cx="150" cy="150" rx="18" ry="13" fill="#d7d1c3"/>
+    <ellipse cx="220" cy="150" rx="18" ry="13" fill="#d7d1c3"/>
+    <path d="M272 150 A18 18 0 0 1 308 150 Z" fill="#f5d6b6"/>
+    <line x1="290" y1="150" x2="276" y2="138" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="290" y1="150" x2="290" y2="132" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="290" y1="150" x2="304" y2="138" stroke="#4f6d7a" stroke-width="1.5"/>
+    <ellipse cx="360" cy="150" rx="18" ry="13" fill="#d7d1c3"/>
+    <ellipse cx="430" cy="150" rx="18" ry="13" fill="#d7d1c3"/>
+  </g>
+
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">The rule is: shell, pebble, pebble &#8212; and it repeats.</text>
+
+  <!-- Translation box -->
+  <rect x="40" y="234" width="432" height="252" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">The same rule, in different materials</text>
+
+  <!-- Row 1: objects -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <path d="M62 308 A18 18 0 0 1 98 308 Z" fill="#f5d6b6"/>
+    <line x1="80" y1="308" x2="66" y2="296" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="80" y1="308" x2="80" y2="290" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="80" y1="308" x2="94" y2="296" stroke="#4f6d7a" stroke-width="1.5"/>
+    <ellipse cx="132" cy="308" rx="14" ry="10" fill="#d7d1c3"/>
+    <ellipse cx="172" cy="308" rx="14" ry="10" fill="#d7d1c3"/>
+  </g>
+  <text x="204" y="313" font-family="sans-serif" font-size="15" fill="#4f6d7a">objects: shell, pebble, pebble</text>
+
+  <!-- Row 2: sound -->
+  <g>
+    <circle cx="80" cy="360" r="14" fill="#2b3a42"/>
+    <circle cx="132" cy="360" r="7" fill="#4f6d7a"/>
+    <circle cx="172" cy="360" r="7" fill="#4f6d7a"/>
+  </g>
+  <text x="204" y="365" font-family="sans-serif" font-size="15" fill="#4f6d7a">sound: loud, soft, soft</text>
+
+  <!-- Row 3: movement -->
+  <g>
+    <path d="M80 396 L94 420 L66 420 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="132" cy="412" r="7" fill="#4f6d7a"/>
+    <circle cx="172" cy="412" r="7" fill="#4f6d7a"/>
+  </g>
+  <text x="204" y="415" font-family="sans-serif" font-size="15" fill="#4f6d7a">movement: hop, step, step</text>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The rule stays the same &#8212; only the material changes.</text>
+</svg>

@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Counting by tens to 120: twelve bundles of ten</title>
+  <desc id="desc">Two rows of small bundles of sticks. Each bundle is a group of ten sticks tied with a band. Under each bundle is a decade number: ten, twenty, thirty, forty, fifty, sixty in the top row, and seventy, eighty, ninety, one hundred, one hundred ten, one hundred twenty in the bottom row. Twelve bundles of ten make one hundred twenty. A note reminds learners that ten fingers make a group of ten and that counting by tens keeps a long count from getting lost. Numbers and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Counting by Tens to 120</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Ten, twenty, thirty &#8230; one hundred twenty.</text>
+
+  <!-- Top row: bundles 10,20,30,40,50,60 -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <!-- bundle helper: sticks + tie band; cx positions -->
+    <g>
+      <rect x="56" y="118" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+        <line x1="64" y1="126" x2="64" y2="156"/><line x1="71" y1="126" x2="71" y2="156"/><line x1="78" y1="126" x2="78" y2="156"/><line x1="85" y1="126" x2="85" y2="156"/><line x1="92" y1="126" x2="92" y2="156"/>
+      </g>
+      <rect x="56" y="144" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="128" y="118" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+        <line x1="136" y1="126" x2="136" y2="156"/><line x1="143" y1="126" x2="143" y2="156"/><line x1="150" y1="126" x2="150" y2="156"/><line x1="157" y1="126" x2="157" y2="156"/><line x1="164" y1="126" x2="164" y2="156"/>
+      </g>
+      <rect x="128" y="144" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="200" y="118" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+        <line x1="208" y1="126" x2="208" y2="156"/><line x1="215" y1="126" x2="215" y2="156"/><line x1="222" y1="126" x2="222" y2="156"/><line x1="229" y1="126" x2="229" y2="156"/><line x1="236" y1="126" x2="236" y2="156"/>
+      </g>
+      <rect x="200" y="144" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="272" y="118" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+        <line x1="280" y1="126" x2="280" y2="156"/><line x1="287" y1="126" x2="287" y2="156"/><line x1="294" y1="126" x2="294" y2="156"/><line x1="301" y1="126" x2="301" y2="156"/><line x1="308" y1="126" x2="308" y2="156"/>
+      </g>
+      <rect x="272" y="144" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="344" y="118" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+        <line x1="352" y1="126" x2="352" y2="156"/><line x1="359" y1="126" x2="359" y2="156"/><line x1="366" y1="126" x2="366" y2="156"/><line x1="373" y1="126" x2="373" y2="156"/><line x1="380" y1="126" x2="380" y2="156"/>
+      </g>
+      <rect x="344" y="144" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="416" y="118" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+        <line x1="424" y1="126" x2="424" y2="156"/><line x1="431" y1="126" x2="431" y2="156"/><line x1="438" y1="126" x2="438" y2="156"/><line x1="445" y1="126" x2="445" y2="156"/><line x1="452" y1="126" x2="452" y2="156"/>
+      </g>
+      <rect x="416" y="144" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+  </g>
+
+  <g font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222" text-anchor="middle">
+    <text x="76" y="200">10</text>
+    <text x="148" y="200">20</text>
+    <text x="220" y="200">30</text>
+    <text x="292" y="200">40</text>
+    <text x="364" y="200">50</text>
+    <text x="436" y="200">60</text>
+  </g>
+
+  <!-- Bottom row: bundles 70,80,90,100,110,120 -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <g>
+      <rect x="56" y="244" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#6b93b6" stroke-width="2" stroke-linecap="round">
+        <line x1="64" y1="252" x2="64" y2="282"/><line x1="71" y1="252" x2="71" y2="282"/><line x1="78" y1="252" x2="78" y2="282"/><line x1="85" y1="252" x2="85" y2="282"/><line x1="92" y1="252" x2="92" y2="282"/>
+      </g>
+      <rect x="56" y="270" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="128" y="244" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#6b93b6" stroke-width="2" stroke-linecap="round">
+        <line x1="136" y1="252" x2="136" y2="282"/><line x1="143" y1="252" x2="143" y2="282"/><line x1="150" y1="252" x2="150" y2="282"/><line x1="157" y1="252" x2="157" y2="282"/><line x1="164" y1="252" x2="164" y2="282"/>
+      </g>
+      <rect x="128" y="270" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="200" y="244" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#6b93b6" stroke-width="2" stroke-linecap="round">
+        <line x1="208" y1="252" x2="208" y2="282"/><line x1="215" y1="252" x2="215" y2="282"/><line x1="222" y1="252" x2="222" y2="282"/><line x1="229" y1="252" x2="229" y2="282"/><line x1="236" y1="252" x2="236" y2="282"/>
+      </g>
+      <rect x="200" y="270" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="272" y="244" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#6b93b6" stroke-width="2" stroke-linecap="round">
+        <line x1="280" y1="252" x2="280" y2="282"/><line x1="287" y1="252" x2="287" y2="282"/><line x1="294" y1="252" x2="294" y2="282"/><line x1="301" y1="252" x2="301" y2="282"/><line x1="308" y1="252" x2="308" y2="282"/>
+      </g>
+      <rect x="272" y="270" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="344" y="244" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#6b93b6" stroke-width="2" stroke-linecap="round">
+        <line x1="352" y1="252" x2="352" y2="282"/><line x1="359" y1="252" x2="359" y2="282"/><line x1="366" y1="252" x2="366" y2="282"/><line x1="373" y1="252" x2="373" y2="282"/><line x1="380" y1="252" x2="380" y2="282"/>
+      </g>
+      <rect x="344" y="270" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <rect x="416" y="244" width="40" height="46" rx="6" fill="#ffffff" stroke="#2b3a42"/>
+      <g stroke="#6b93b6" stroke-width="2" stroke-linecap="round">
+        <line x1="424" y1="252" x2="424" y2="282"/><line x1="431" y1="252" x2="431" y2="282"/><line x1="438" y1="252" x2="438" y2="282"/><line x1="445" y1="252" x2="445" y2="282"/><line x1="452" y1="252" x2="452" y2="282"/>
+      </g>
+      <rect x="416" y="270" width="40" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+  </g>
+
+  <g font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222" text-anchor="middle">
+    <text x="76" y="326">70</text>
+    <text x="148" y="326">80</text>
+    <text x="220" y="326">90</text>
+    <text x="292" y="326">100</text>
+    <text x="364" y="326">110</text>
+    <text x="436" y="326">120</text>
+  </g>
+
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Twelve bundles of ten make one hundred twenty.</text>
+
+  <rect x="76" y="392" width="360" height="92" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ten fingers make a group of ten.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Counting by tens keeps a long count from getting lost.</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Counting is a rhythm everyone can join &#8212; never a race.</text>
+</svg>

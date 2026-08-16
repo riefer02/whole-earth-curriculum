@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Coins and buying a snack</title>
+  <desc id="desc">Three coins are shown, labeled 1, 5, and 10, with a note that a coin's value is written on it. Below, a mango with a price tag labeled 6 is bought by paying a 5 coin and a 1 coin, with the sentence 5 + 1 = 6 and the note that five and one make six, so you have enough. A box at the bottom shows three older ways people traded: a cowrie shell, a cacao bean, and a small pile of salt, with the note that long ago people traded goods, shells, cacao, and salt, so money is one way among many and having more coins is a fact, not a worth. Numbers and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Coins and Buying a Snack</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A coin is an agreed value &#8212; money is one system among many.</text>
+
+  <!-- Three coins -->
+  <circle cx="96" cy="150" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="160" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">1</text>
+  <circle cx="196" cy="150" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="196" y="160" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">5</text>
+  <circle cx="296" cy="150" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="296" y="160" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">10</text>
+  <text x="256" y="202" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A coin's value is written on it.</text>
+
+  <!-- Snack with price -->
+  <ellipse cx="112" cy="280" rx="34" ry="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="128" y1="258" x2="134" y2="248" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="139" cy="250" rx="7" ry="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="124" y1="262" x2="116" y2="256" stroke="#4f6d7a" stroke-width="1.5"/>
+  <rect x="120" y="236" width="36" height="24" rx="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="138" y="254" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">6</text>
+  <text x="112" y="324" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">cost = 6</text>
+
+  <!-- Paying: 5 + 1 = 6 -->
+  <circle cx="230" cy="280" r="24" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="230" y="289" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">5</text>
+  <text x="280" y="289" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">+</text>
+  <circle cx="322" cy="280" r="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="322" y="289" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">1</text>
+  <text x="370" y="289" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">=</text>
+  <text x="414" y="289" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#222222">6</text>
+
+  <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Pay 5 and 1 to make 6 &#8212; you have enough!</text>
+
+  <!-- Other ways to trade -->
+  <rect x="40" y="366" width="432" height="138" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Money is one system among many</text>
+
+  <!-- Cowrie shell -->
+  <ellipse cx="140" cy="424" rx="17" ry="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="132" y1="420" x2="148" y2="428" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="134" y1="426" x2="134" y2="432" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="140" y1="429" x2="140" y2="435" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="146" y1="431" x2="146" y2="437" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="140" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">shell</text>
+
+  <!-- Cacao bean -->
+  <ellipse cx="256" cy="424" rx="16" ry="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M244 424 Q256 428 268 424" fill="none" stroke="#f5d6b6" stroke-width="2"/>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">cacao</text>
+
+  <!-- Salt -->
+  <rect x="360" y="416" width="12" height="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="373" y="412" width="12" height="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="366" y="426" width="12" height="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">salt</text>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Long ago people traded goods, shells, cacao, and salt &#8212; money is one way among many.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Having more coins is a fact, not a worth.</text>
+</svg>

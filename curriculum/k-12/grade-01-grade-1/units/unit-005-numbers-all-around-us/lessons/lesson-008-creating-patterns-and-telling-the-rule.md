@@ -50,6 +50,11 @@ context_variants:
     note: Create a repeating pattern along a path with natural objects and tell its rule as you walk it
   - context: multi-age
     note: Older learners create a pattern and challenge younger ones to name its rule; younger learners create their own to teach back
+assets:
+  - path: assets/images/L.01.005.08-make-a-pattern-tell-the-rule.svg
+    alt: A created shell, pebble, pebble pattern with the rule stated in words, and the same rule translated into objects (shell, pebble, pebble), sound (loud, soft, soft), and movement (hop, step, step).
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners become pattern *makers*: they create their own repeating patterns from

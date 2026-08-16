@@ -53,6 +53,11 @@ context_variants:
     note: Write numerals in the earth with a stick or a wet finger, saying each number as it is written
   - context: multi-age
     note: Older learners read and write two- and three-digit numbers fluently and coach younger ones in forming each digit
+assets:
+  - path: assets/images/L.01.005.02-writing-numbers-tens-and-ones.svg
+    alt: Three bundles of ten and five loose circles make 35, labeled 3 tens and 5 ones, with tally marks and a knotted quipu cord shown as other ways people record numbers.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that the ten digits 0-9 can be combined to write every number up

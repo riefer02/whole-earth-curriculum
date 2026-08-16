@@ -53,6 +53,11 @@ context_variants:
     note: Hide a number of stones under a leaf or hand, then count on from the visible part to the total to find the hidden amount
   - context: multi-age
     note: Older learners explain the "count on" strategy while younger ones move the objects and find the hidden number together
+assets:
+  - path: assets/images/L.01.005.09-find-the-missing-number.svg
+    alt: Three pebbles plus a covered cup labeled with a question mark equals seven, with a count-on row of seven circles where the first three are known and the next four are the mystery, showing 3 + 4 = 7.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover how to find a missing number in a number sentence such as

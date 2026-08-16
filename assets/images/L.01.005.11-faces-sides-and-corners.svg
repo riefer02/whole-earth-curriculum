@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Solid shapes: faces, sides, and corners</title>
+  <desc id="desc">A large cube is drawn in the upper part, with three callouts. A dot on the front flat square points to the label face, a dot on the front-right vertical edge points to the label side (edge), and a dot on the bottom-right front corner points to the label corner. A note says a cube has six faces, twelve sides, and eight corners. Below, a row shows four other solid shapes: a sphere labeled rolls, no flat face, no corners; a cylinder labeled two circle faces; a cone labeled one circle face, one point; and a box labeled six rectangle faces. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Solid Shapes: Faces, Sides, and Corners</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Feel and count the parts of a solid shape.</text>
+
+  <!-- Cube -->
+  <g>
+    <!-- top face -->
+    <path d="M100 210 L180 210 L205 170 L125 170 Z" fill="#6b93b6" fill-opacity="0.35" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- right face -->
+    <path d="M180 210 L180 290 L205 250 L205 170 Z" fill="#6b93b6" fill-opacity="0.6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- front face -->
+    <rect x="100" y="210" width="80" height="80" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Callout: face -->
+  <circle cx="138" cy="252" r="4" fill="#e0a458"/>
+  <line x1="58" y1="260" x2="134" y2="254" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="52" y="266" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">face</text>
+
+  <!-- Callout: side (edge) -->
+  <circle cx="180" cy="250" r="4" fill="#e0a458"/>
+  <line x1="258" y1="254" x2="184" y2="252" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="264" y="259" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">side (edge)</text>
+
+  <!-- Callout: corner -->
+  <circle cx="180" cy="290" r="4" fill="#e0a458"/>
+  <line x1="246" y1="312" x2="184" y2="292" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="250" y="318" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">corner</text>
+
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">A cube has 6 faces, 12 sides, and 8 corners.</text>
+
+  <!-- Other solids -->
+  <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">Other solid shapes</text>
+
+  <!-- Sphere -->
+  <circle cx="84" cy="420" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M66 410 q18 -16 36 0" fill="none" stroke="#fdfbf7" stroke-width="2" stroke-linecap="round"/>
+  <text x="84" y="464" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">sphere</text>
+  <text x="84" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rolls; no face</text>
+
+  <!-- Cylinder -->
+  <rect x="176" y="398" width="36" height="44" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="194" cy="398" rx="18" ry="7" fill="#eef3f7" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M176 442 A18 7 0 0 0 212 442" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="194" y="464" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">cylinder</text>
+  <text x="194" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">2 circle faces</text>
+
+  <!-- Cone -->
+  <path d="M304 400 L322 442 L286 442 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M286 442 A18 6 0 0 0 322 442" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="304" y="464" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">cone</text>
+  <text x="304" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">1 circle, 1 point</text>
+
+  <!-- Box (rectangular prism) -->
+  <path d="M398 414 L434 414 L446 400 L410 400 Z" fill="#6b93b6" fill-opacity="0.35" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M434 414 L434 452 L446 438 L446 400 Z" fill="#6b93b6" fill-opacity="0.6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="398" y="414" width="36" height="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="464" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">box</text>
+  <text x="420" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">6 rectangle faces</text>
+
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Trace a face and you get a flat shape &#8212; the bridge between solid and flat.</text>
+</svg>

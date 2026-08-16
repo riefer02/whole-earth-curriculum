@@ -50,6 +50,11 @@ context_variants:
     note: Gather two handfuls of natural objects, join them into one pile, and count the total on the ground
   - context: multi-age
     note: Older learners write the number sentence while younger ones join the objects and count the total, then compare answers
+assets:
+  - path: assets/images/L.01.005.04-joining-two-groups.svg
+    alt: Two baskets holding three and four pebbles joined into one basket of seven pebbles, with the number sentence 3 + 4 = 7 and the note that plus means join and equals means is the same as.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that adding means joining two groups into one, count the new

@@ -65,6 +65,11 @@ context_variants:
     note: Set up a market with gathered goods and stone or seed tokens, and trade outdoors in the open air
   - context: multi-age
     note: Older learners act as shopkeepers who make change, while younger learners buy, count, and check the cost together
+assets:
+  - path: assets/images/L.01.005.15-coins-and-buying-a-snack.svg
+    alt: Three coins labeled 1, 5, and 10, a mango priced 6 bought by paying 5 and 1 (5 + 1 = 6), and a row of shell, cacao, and salt showing older ways to trade, with the note that money is one way among many.
+    kind: image
+    source: original
 duration_minutes: 50
 summary: >-
   The capstone of the unit: learners identify coins and their values, then run a

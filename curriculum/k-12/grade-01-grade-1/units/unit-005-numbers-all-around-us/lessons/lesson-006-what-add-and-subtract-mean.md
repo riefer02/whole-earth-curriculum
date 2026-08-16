@@ -50,6 +50,11 @@ context_variants:
     note: Tell joining and taking-away stories about gathering and letting go of natural things, and act them out on the ground
   - context: multi-age
     note: Older learners tell the story aloud while younger ones act it out with objects, then together decide join or take away
+assets:
+  - path: assets/images/L.01.005.06-join-or-take-away.svg
+    alt: Two panels; joining shows three ducks with two flying in to make five (3 + 2 = 5), and taking away shows five ducks with three flying off to leave two (5 - 3 = 2).
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners tell joining and taking-away stories apart, act each one out with real

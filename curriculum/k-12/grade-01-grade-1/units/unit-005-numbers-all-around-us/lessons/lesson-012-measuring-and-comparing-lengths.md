@@ -54,6 +54,11 @@ context_variants:
     note: Measure a path, a stick, or a shadow with footsteps, hand spans, or same-size stones laid end to end
   - context: multi-age
     note: Older learners record the numbers while younger ones lay the units end to end and count, then together compare lengths
+assets:
+  - path: assets/images/L.01.005.12-measuring-with-paper-clips.svg
+    alt: A pencil measured by six paper clips laid end to end and numbered 1 to 6, with an open hand showing a hand span and a note that units must match to keep measuring fair.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that length is measured by laying equal-size units end to end

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Saying how many: the last number is the total</title>
+  <desc id="desc">A row of seven pebbles, each with a number from 1 to 7 underneath. A warm ring highlights the seventh pebble with the caption that the last number you say is how many there are: seven. Below, a box compares two groups: a pile of five pebbles labeled 5 and a pile of eight pebbles labeled 8, with the caption that eight is more than five, and more and fewer are facts about amounts, never about a person's worth. Numbers and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Saying How Many</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Touch each thing and say one number for it.</text>
+
+  <!-- Row of seven pebbles -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="76" cy="132" rx="20" ry="14" fill="#6b93b6"/>
+    <ellipse cx="136" cy="132" rx="20" ry="14" fill="#7a9e7e"/>
+    <ellipse cx="196" cy="132" rx="20" ry="14" fill="#e0a458"/>
+    <ellipse cx="256" cy="132" rx="20" ry="14" fill="#6b93b6"/>
+    <ellipse cx="316" cy="132" rx="20" ry="14" fill="#7a9e7e"/>
+    <ellipse cx="376" cy="132" rx="20" ry="14" fill="#e0a458"/>
+    <ellipse cx="436" cy="132" rx="20" ry="14" fill="#6b93b6"/>
+  </g>
+
+  <circle cx="436" cy="132" r="29" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="436" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e0a458">last</text>
+
+  <g font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222" text-anchor="middle">
+    <text x="76" y="178">1</text>
+    <text x="136" y="178">2</text>
+    <text x="196" y="178">3</text>
+    <text x="256" y="178">4</text>
+    <text x="316" y="178">5</text>
+    <text x="376" y="178">6</text>
+    <text x="436" y="178">7</text>
+  </g>
+
+  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">The last number you say is how many: seven.</text>
+
+  <!-- Compare two groups -->
+  <rect x="56" y="242" width="400" height="240" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Compare two groups: more or fewer?</text>
+
+  <!-- Left pile: 5 -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="110" cy="318" rx="18" ry="13"/>
+    <ellipse cx="148" cy="306" rx="18" ry="13"/>
+    <ellipse cx="150" cy="340" rx="18" ry="13"/>
+    <ellipse cx="112" cy="348" rx="18" ry="13"/>
+    <ellipse cx="86" cy="336" rx="18" ry="13"/>
+  </g>
+  <text x="128" y="382" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">5</text>
+  <text x="128" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">fewer</text>
+
+  <!-- Right pile: 8 -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="356" cy="302" rx="18" ry="13"/>
+    <ellipse cx="396" cy="314" rx="18" ry="13"/>
+    <ellipse cx="342" cy="332" rx="18" ry="13"/>
+    <ellipse cx="384" cy="342" rx="18" ry="13"/>
+    <ellipse cx="416" cy="336" rx="18" ry="13"/>
+    <ellipse cx="374" cy="306" rx="18" ry="13"/>
+    <ellipse cx="410" cy="362" rx="18" ry="13"/>
+    <ellipse cx="352" cy="362" rx="18" ry="13"/>
+  </g>
+  <text x="382" y="406" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">8</text>
+  <text x="382" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">more</text>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">More and fewer are facts about amounts &#8212; never about a person's worth.</text>
+</svg>

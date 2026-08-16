@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Adding: joining two groups makes seven</title>
+  <desc id="desc">Two baskets sit side by side with a plus sign between them. The left basket holds three pebbles and the right basket holds four pebbles. Below, one wider basket holds all seven pebbles joined together, labeled 7. The number sentence 3 + 4 = 7 sits under it, with a caption that the plus sign means join and the equals sign means is the same as. Numbers and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Adding: Joining Two Groups</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Two groups joined become one bigger group.</text>
+
+  <!-- Left basket: 3 -->
+  <rect x="56" y="130" width="104" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="94" cy="154" rx="17" ry="12"/>
+    <ellipse cx="126" cy="166" rx="17" ry="12"/>
+    <ellipse cx="108" cy="178" rx="17" ry="12"/>
+  </g>
+  <text x="108" y="212" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">3</text>
+
+  <text x="190" y="176" text-anchor="middle" font-family="sans-serif" font-size="44" font-weight="bold" fill="#2b3a42">+</text>
+
+  <!-- Right basket: 4 -->
+  <rect x="224" y="130" width="104" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="258" cy="152" rx="17" ry="12"/>
+    <ellipse cx="292" cy="152" rx="17" ry="12"/>
+    <ellipse cx="262" cy="180" rx="17" ry="12"/>
+    <ellipse cx="296" cy="180" rx="17" ry="12"/>
+  </g>
+  <text x="276" y="212" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">4</text>
+
+  <!-- Join arrow -->
+  <line x1="256" y1="222" x2="256" y2="250" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M246 242 L256 254 L266 242 Z" fill="#7a9e7e"/>
+  <text x="286" y="246" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">join them</text>
+
+  <!-- Joined basket: 7 -->
+  <rect x="150" y="268" width="212" height="70" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="180" cy="292" rx="16" ry="12" fill="#6b93b6"/>
+    <ellipse cx="205" cy="300" rx="16" ry="12" fill="#e0a458"/>
+    <ellipse cx="230" cy="290" rx="16" ry="12" fill="#7a9e7e"/>
+    <ellipse cx="256" cy="300" rx="16" ry="12" fill="#6b93b6"/>
+    <ellipse cx="281" cy="290" rx="16" ry="12" fill="#e0a458"/>
+    <ellipse cx="306" cy="300" rx="16" ry="12" fill="#7a9e7e"/>
+    <ellipse cx="332" cy="292" rx="16" ry="12" fill="#6b93b6"/>
+  </g>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">7</text>
+
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#222222">3 + 4 = 7</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">+ means "join" &#8226; = means "is the same as"</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A correct total, reached any way, is correct.</text>
+</svg>
