@@ -50,6 +50,11 @@ context_variants:
     note: Build the list on the ground with found objects, one object per need, in a circle everyone can see
   - context: multi-age
     note: Younger learners name the need; older learners help write or draw each one onto the shared list
+assets:
+  - path: assets/images/L.01.010.04-what-everyone-needs-to-feel-safe.svg
+    alt: "Six labeled cards name what every person needs to feel safe and treated well: a kind word, being listened to, space for my body (a child with a hearing aid and arms out wide), my name said kindly, no one hurting me, and a turn to speak (a child using a wheelchair raising a hand beside a turn marker). Word labels carry the meaning, and the caption says these needs belong to everyone, everywhere."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name one thing every person in the class needs to feel safe and treated

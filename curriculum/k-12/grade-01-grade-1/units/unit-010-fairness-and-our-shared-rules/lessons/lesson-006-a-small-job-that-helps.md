@@ -48,6 +48,11 @@ context_variants:
     note: Do a job that helps the shared outdoor space — clear a path, water a plant, gather litter safely — and tell how it helped
   - context: multi-age
     note: Older learners partner with younger ones to do a job together and talk through how it helped
+assets:
+  - path: assets/images/L.01.010.06-a-small-job-that-helps.svg
+    alt: "Four cards show small jobs and how each helps: watering the plant (a watering can over a sprout) so the plant grows; tidying the shelf (books on a shelf) so everyone finds things; helping carry (two children with a basket, one using a wheelchair) so the load is lighter; and caring for the class animal (a bird in a nest) so the animal is well. Every job is labeled a contribution, and no job is more important than another."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners do a small job that helps the classroom or school and tell how it helped,

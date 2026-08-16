@@ -49,6 +49,11 @@ context_variants:
     note: Share a found pile (seeds, pebbles, fruit) under a tree, trying a fair and an unfair way and naming each
   - context: multi-age
     note: Older learners ask "what does each person need?" while younger learners count out the shares
+assets:
+  - path: assets/images/L.01.010.03-fair-and-unfair-sharing.svg
+    alt: "Three panels compare sharing round crackers. Unfair: one child has a big pile of five while another has an empty plate and a sad face. Fair — same amount: two children, one who uses a wheelchair, each have three crackers. Fair — what each needs: a very hungry child gets four while a not-hungry child gets two. Word labels and cracker counts carry the meaning, holding fair as the same amount or what each needs — a question to keep wondering."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice sharing a toy or snack in a fair way and an unfair way, say which

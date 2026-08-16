@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Making a class rule with a reason</title>
+  <desc id="desc">The picture shows how a class makes a rule together. At the top, a large rule chart reads "Our class rule" with the rule "We listen when someone speaks" and, beside a small ear icon, the reason "because every voice matters." Below, a row of four children decides together. One child with a speech bubble holds a soft turn marker, another raises a hand, a third child using a wheelchair places a choice token forward, and a fourth child with a hearing aid raises a hand. The rule, the reason, and the different ways of showing a choice are all labeled, so the picture prints clearly in grayscale and teaches that a rule is made by everyone, each idea carrying a reason, and every voice matters — not just the loudest.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Making a Class Rule With a Reason</text>
+
+  <!-- rule chart -->
+  <rect x="40" y="70" width="432" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a" letter-spacing="2">OUR CLASS RULE</text>
+  <text x="256" y="136" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">We listen when someone speaks</text>
+  <!-- ear icon -->
+  <path d="M120 150 q-14 -4 -14 13 q0 12 8 17 q-3 -6 1 -12 q-4 -2 -4 -6 q0 -5 5 -5 z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M104 158 q-7 0 -7 6 q0 5 5 5"/>
+  </g>
+  <text x="256" y="178" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">because every voice matters</text>
+  <text x="256" y="204" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a rule + its reason</text>
+
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Decide together</text>
+
+  <!-- figure 1: holds turn marker, speaking -->
+  <circle cx="92" cy="300" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M80 298 A12 12 0 0 1 104 298 Z" fill="#2b3a42"/>
+  <circle cx="87" cy="300" r="1.6" fill="#2b3a42"/>
+  <circle cx="97" cy="300" r="1.6" fill="#2b3a42"/>
+  <path d="M87 307 Q92 311 97 307" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="83" y="313" width="18" height="30" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="87" y1="343" x2="85" y2="366" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="97" y1="343" x2="99" y2="366" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- hold turn marker -->
+  <circle cx="110" cy="330" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="101" y1="322" x2="106" y2="328" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- speech bubble -->
+  <rect x="60" y="256" width="72" height="34" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M84 290 L80 300 L92 290 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="96" y="277" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">I speak</text>
+
+  <!-- figure 2: raises hand -->
+  <circle cx="196" cy="300" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M184 298 A12 12 0 0 1 208 298 Z" fill="#4f6d7a"/>
+  <circle cx="191" cy="300" r="1.6" fill="#2b3a42"/>
+  <circle cx="201" cy="300" r="1.6" fill="#2b3a42"/>
+  <path d="M191 307 Q196 311 201 307" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="187" y="313" width="18" height="30" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="191" y1="343" x2="189" y2="366" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="201" y1="343" x2="203" y2="366" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- raised hand -->
+  <line x1="208" y1="322" x2="222" y2="302" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="223" cy="300" r="4" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="196" y="388" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">raised hand</text>
+
+  <!-- figure 3: wheelchair user, places token -->
+  <circle cx="300" cy="304" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M288 302 A12 12 0 0 1 312 302 Z" fill="#2b3a42"/>
+  <circle cx="295" cy="304" r="1.6" fill="#2b3a42"/>
+  <circle cx="305" cy="304" r="1.6" fill="#2b3a42"/>
+  <path d="M295 311 Q300 315 305 311" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="291" y="317" width="18" height="26" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- wheelchair -->
+  <rect x="291" y="345" width="22" height="4" rx="2" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="296" cy="368" r="10" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="296" cy="368" r="3" fill="#2b3a42"/>
+  <circle cx="310" cy="368" r="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="291" y1="349" x2="285" y2="364" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <!-- arm placing token -->
+  <line x1="309" y1="326" x2="326" y2="352" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="330" cy="356" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="300" y="388" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">choice token</text>
+
+  <!-- figure 4: hearing aid, raises hand -->
+  <circle cx="404" cy="300" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M392 298 A12 12 0 0 1 416 298 Z" fill="#4f6d7a"/>
+  <!-- hearing aid -->
+  <path d="M416 296 q6 2 6 8" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="422" cy="306" r="2.5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="399" cy="300" r="1.6" fill="#2b3a42"/>
+  <circle cx="409" cy="300" r="1.6" fill="#2b3a42"/>
+  <path d="M399 307 Q404 311 409 307" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="395" y="313" width="18" height="30" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="399" y1="343" x2="397" y2="366" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="409" y1="343" x2="411" y2="366" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- raised hand -->
+  <line x1="416" y1="322" x2="430" y2="302" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="431" cy="300" r="4" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <text x="404" y="388" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">raised hand</text>
+
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every voice matters, not just the loudest or fastest.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A rule made by everyone is a rule everyone can keep</text>
+</svg>

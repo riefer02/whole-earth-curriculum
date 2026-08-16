@@ -1590,12 +1590,22 @@ items:
     type: assets
     grade: 1
     domain: D09
-    status: ready
+    status: done
     priority: 52
     depends_on:
       - B-061
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.010 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Verified all 10 assets: paths resolve, alt non-empty, SVGs well-formed/self-contained (viewBox 512, role=img, title/desc), grayscale-safe labels. Example: lesson-003 three panels (5-0 unfair, 3-3 equal, 4-2 by-need) match alt cracker counts; lesson-008 SVG states eye contact never required."
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs + lesson assets: non-empty alt conveying teaching point, role=img + aria-labelledby + title/desc, grayscale-safe label-carried meaning (no color-only cues), varied skin tones + wheelchair/hearing-aid natural, listening lesson no eye-contact mandate, non-visual low-tech pairing + turn marker only, no forced performance. No edits; validate passes."
+      global-culture-editor:
+        verdict: passed
+        note: "All 10 SVGs + alt: no Western/urban default (water queue, basket-carrying, shared snack, block repair), 4 warm skin tones no light-peach default, no skin-tone/good-bad mapping (same character Amara does kind + hurtful), zero talking-stick/stone (turn marker only), color never sole signal, alt matches. No edits."
   - id: B-093
     title: "Illustration pass: add SVG assets to lessons in U.01.011"
     agent: asset-designer

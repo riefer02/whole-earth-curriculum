@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fairness all together: a four-part page</title>
+  <desc id="desc">A four-part page gathers the whole unit into one place. The top-left box, labeled "a kind choice + its reason," shows a heart and a speech bubble reading "because I care." The top-right box, labeled "a fair share + what everyone needs," shows two plates with three crackers each and a heart. The bottom-left box, labeled "our rule + a job," shows a small rule sign and a watering can. The bottom-right box, labeled "listen + make it right," shows an ear and a heart with two small faces, one signing while looking away to show listening. Every box has a dashed "draw or write here" area, and each idea is labeled in words, so the picture prints clearly in grayscale and shows that fairness is many small things practiced together — not one big thing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Fairness All Together</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Many small things I can do every day</text>
+
+  <!-- box 1 -->
+  <rect x="20" y="90" width="236" height="200" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="138" y="118" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">a kind choice</text>
+  <text x="138" y="138" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">+ its reason</text>
+  <!-- heart -->
+  <path d="M106 168 C98 156 98 178 106 186 C114 178 114 156 106 168 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <!-- speech bubble -->
+  <rect x="124" y="154" width="88" height="36" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 190 L146 200 L162 190 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="168" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">because I care</text>
+  <!-- draw here -->
+  <rect x="40" y="214" width="196" height="56" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="138" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">draw or write here</text>
+
+  <!-- box 2 -->
+  <rect x="266" y="90" width="236" height="200" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="384" y="118" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">a fair share</text>
+  <text x="384" y="138" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">+ what everyone needs</text>
+  <!-- two plates with crackers -->
+  <g>
+    <ellipse cx="350" cy="178" rx="26" ry="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="338" cy="174" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="350" cy="172" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="362" cy="174" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <g>
+    <ellipse cx="418" cy="178" rx="26" ry="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="406" cy="174" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="418" cy="172" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="430" cy="174" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <!-- heart for needs -->
+  <path d="M384 196 C378 188 378 202 384 208 C390 202 390 188 384 196 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <!-- draw here -->
+  <rect x="286" y="214" width="196" height="56" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="384" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">draw or write here</text>
+
+  <!-- box 3 -->
+  <rect x="20" y="300" width="236" height="200" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="138" y="328" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">our rule</text>
+  <text x="138" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">+ a job I did</text>
+  <!-- rule sign -->
+  <rect x="60" y="364" width="70" height="34" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="70" y1="376" x2="120" y2="376" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="70" y1="388" x2="110" y2="388" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="95" y1="398" x2="95" y2="412" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <!-- watering can -->
+  <path d="M150 386 L186 386 L188 396 L152 396 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="186" y1="388" x2="198" y2="380" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <g stroke="#6b93b6" stroke-width="2" stroke-linecap="round">
+    <line x1="158" y1="398" x2="156" y2="408"/>
+    <line x1="170" y1="398" x2="168" y2="410"/>
+    <line x1="182" y1="398" x2="180" y2="408"/>
+  </g>
+  <!-- draw here -->
+  <rect x="40" y="424" width="196" height="56" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="138" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">draw or write here</text>
+
+  <!-- box 4 -->
+  <rect x="266" y="300" width="236" height="200" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="384" y="328" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">listen</text>
+  <text x="384" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">+ make it right</text>
+  <!-- ear -->
+  <path d="M330 372 q-14 -4 -14 13 q0 12 8 17 q-3 -6 1 -12 q-4 -2 -4 -6 q0 -5 5 -5 z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M314 380 q-7 0 -7 6 q0 5 5 5"/>
+  </g>
+  <!-- two small faces (one signing, looking away) -->
+  <circle cx="368" cy="386" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="364" cy="385" r="1.4" fill="#2b3a42"/>
+  <circle cx="372" cy="385" r="1.4" fill="#2b3a42"/>
+  <path d="M364 391 Q368 394 372 391" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="398" cy="386" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="408" y1="382" x2="416" y2="374" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="417" cy="373" r="3.5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <!-- heart for repair -->
+  <path d="M384 410 C377 401 377 416 384 423 C391 416 391 401 384 410 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <!-- draw here -->
+  <rect x="286" y="424" width="196" height="56" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="384" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">draw or write here</text>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Fairness is not one big thing — it is many small things practiced together.</text>
+</svg>

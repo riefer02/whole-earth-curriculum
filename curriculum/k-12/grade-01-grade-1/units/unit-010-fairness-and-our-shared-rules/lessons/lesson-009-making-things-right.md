@@ -50,6 +50,11 @@ context_variants:
     note: Use a real small hurt (a knocked-over fort, a broken twig) and practice making it right right there
   - context: multi-age
     note: Older learners model the repair, then younger learners suggest and try a repair of their own
+assets:
+  - path: assets/images/L.01.010.09-making-things-right.svg
+    alt: "Two panels and a five-step strip teach repair, not punishment. The hurt shows a block tower knocked over with blocks scattered and one child sad while another stands with a hand out. The repair shows the same two children rebuilding the tower together, smiling. Five numbered steps read: say what happened, name how they felt, ask what would help, do the repair, check back. Labels and the scattered-then-rebuilt blocks carry the meaning, and the caption names the act, never the child."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice suggesting a way to make things right after feelings or something

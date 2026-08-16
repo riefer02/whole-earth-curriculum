@@ -47,6 +47,11 @@ context_variants:
     note: Find real moments outdoors (a fallen toy to return, a stick someone wants, a spot in the shade) and name a kind and an unkind choice for each
   - context: multi-age
     note: Older learners model naming the choice and saying which is which, then younger learners try with their own examples
+assets:
+  - path: assets/images/L.01.010.01-kind-and-unkind-choices.svg
+    alt: "Two panels show the same situation — two children and one ball — handled two ways. Left, labeled unkind choice: one child hugs the ball while the other stands empty-handed with a sad frown. Right, labeled kind choice: both children smile and pass the ball. Word labels and faces, not color, carry the meaning, teaching that kind and unkind name the choice we make, never the child."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet the words "kind" and "unkind" as names for choices (not for children),

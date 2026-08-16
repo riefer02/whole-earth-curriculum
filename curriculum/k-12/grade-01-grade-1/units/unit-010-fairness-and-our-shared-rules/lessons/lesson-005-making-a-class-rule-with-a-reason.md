@@ -51,6 +51,11 @@ context_variants:
     note: Hold the decision in a circle outdoors, recording rules on the ground with marks and reasons told aloud
   - context: multi-age
     note: Older learners scribe the reasons while younger learners give the ideas and show their choice
+assets:
+  - path: assets/images/L.01.010.05-making-a-class-rule-with-a-reason.svg
+    alt: "A rule chart reads 'Our class rule: We listen when someone speaks — because every voice matters,' with a small ear icon. Below, four children decide together in different labeled ways: one holds a soft turn marker and speaks, one raises a hand, one using a wheelchair places a choice token, and one with a hearing aid raises a hand. Teaches that a rule is made by everyone, each idea carrying a reason, and every voice matters."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners take part in making a class rule, each idea carrying a reason, and make a

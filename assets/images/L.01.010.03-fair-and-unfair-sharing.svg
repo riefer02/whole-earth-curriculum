@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fair and unfair sharing: same amount or what each needs</title>
+  <desc id="desc">Three panels compare ways to share a snack of round crackers. The first panel is labeled unfair and shows one child with a big pile of five crackers while a second child stands with an empty plate and a sad face. The second panel is labeled fair: the same amount and shows two children — one who uses a wheelchair — each with three crackers, equal. The third panel is labeled fair: what each needs and shows a very hungry child with four crackers and rumble marks beside a not-hungry child with two crackers, so the need, not the number, decides. A caption below holds it as an open question: fair can mean the same amount for everyone, or what each person needs — or both. The labels, the count of crackers, and the faces, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Fair and Unfair Sharing</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Fair is thinking of everyone</text>
+
+  <!-- panels -->
+  <rect x="20" y="86" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="181" y="86" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="342" y="86" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <text x="95" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">unfair</text>
+  <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">fair: same amount</text>
+  <text x="417" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">fair: what each needs</text>
+
+  <!-- ===== Panel 1: unfair ===== -->
+  <!-- child A (left, medium skin, big pile) -->
+  <circle cx="62" cy="150" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M51 148 A11 11 0 0 1 73 148 Z" fill="#2b3a42"/>
+  <circle cx="57" cy="150" r="1.5" fill="#2b3a42"/>
+  <circle cx="67" cy="150" r="1.5" fill="#2b3a42"/>
+  <path d="M57 156 Q62 160 67 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="53" y="162" width="18" height="30" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="57" y1="192" x2="55" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="67" y1="192" x2="69" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- pile of 5 crackers -->
+  <circle cx="58" cy="262" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="72" cy="258" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="66" cy="272" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="80" cy="270" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="88" cy="260" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="66" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">5 crackers</text>
+
+  <!-- child B (right, light skin, empty, sad) -->
+  <circle cx="128" cy="150" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M117 148 A11 11 0 0 1 139 148 Z" fill="#4f6d7a"/>
+  <circle cx="123" cy="150" r="1.5" fill="#2b3a42"/>
+  <circle cx="133" cy="150" r="1.5" fill="#2b3a42"/>
+  <path d="M123 159 Q128 155 133 159" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="119" y="162" width="18" height="30" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="123" y1="192" x2="121" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="133" y1="192" x2="135" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- empty plate -->
+  <ellipse cx="128" cy="266" rx="16" ry="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">0 crackers</text>
+
+  <text x="95" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">someone left out</text>
+
+  <!-- ===== Panel 2: fair, same amount ===== -->
+  <!-- child A (wheelchair, medium-deep skin) -->
+  <circle cx="228" cy="146" r="11" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M217 144 A11 11 0 0 1 239 144 Z" fill="#2b3a42"/>
+  <circle cx="223" cy="146" r="1.5" fill="#2b3a42"/>
+  <circle cx="233" cy="146" r="1.5" fill="#2b3a42"/>
+  <path d="M223 152 Q228 156 233 152" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="219" y="158" width="18" height="26" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- wheelchair -->
+  <rect x="219" y="186" width="22" height="4" rx="2" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="224" cy="212" r="11" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="224" cy="212" r="3" fill="#2b3a42"/>
+  <circle cx="240" cy="212" r="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="219" y1="190" x2="212" y2="206" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <!-- 3 crackers in a row -->
+  <circle cx="212" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="228" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="244" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="228" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">3 crackers</text>
+
+  <!-- child B (right, light skin, standing) -->
+  <circle cx="288" cy="150" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M277 148 A11 11 0 0 1 299 148 Z" fill="#4f6d7a"/>
+  <circle cx="283" cy="150" r="1.5" fill="#2b3a42"/>
+  <circle cx="293" cy="150" r="1.5" fill="#2b3a42"/>
+  <path d="M283 156 Q288 160 293 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="279" y="162" width="18" height="30" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="283" y1="192" x2="281" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="293" y1="192" x2="295" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- 3 crackers in a row -->
+  <circle cx="272" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="288" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="304" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="288" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">3 crackers</text>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">everyone gets the same</text>
+
+  <!-- ===== Panel 3: fair, what each needs ===== -->
+  <!-- child A (left, very hungry, medium skin) -->
+  <circle cx="380" cy="150" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M369 148 A11 11 0 0 1 391 148 Z" fill="#2b3a42"/>
+  <circle cx="375" cy="150" r="1.5" fill="#2b3a42"/>
+  <circle cx="385" cy="150" r="1.5" fill="#2b3a42"/>
+  <path d="M375 157 Q380 161 385 157" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="371" y="162" width="18" height="30" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="375" y1="192" x2="373" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="385" y1="192" x2="387" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- rumble marks near tummy -->
+  <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" fill="none">
+    <path d="M396 172 q4 -3 8 0"/>
+    <path d="M396 180 q4 -3 8 0"/>
+  </g>
+  <!-- 4 crackers -->
+  <circle cx="368" cy="266" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="382" cy="264" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="376" cy="276" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="390" cy="274" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="380" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">very hungry: 4</text>
+
+  <!-- child B (right, not hungry, light skin) -->
+  <circle cx="442" cy="150" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M431 148 A11 11 0 0 1 453 148 Z" fill="#4f6d7a"/>
+  <circle cx="437" cy="150" r="1.5" fill="#2b3a42"/>
+  <circle cx="447" cy="150" r="1.5" fill="#2b3a42"/>
+  <path d="M437 156 Q442 160 447 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="433" y="162" width="18" height="30" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="437" y1="192" x2="435" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="447" y1="192" x2="449" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- 2 crackers -->
+  <circle cx="432" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="448" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="442" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">not hungry: 2</text>
+
+  <text x="417" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">each gets what they need</text>
+
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Is fair the same amount for everyone, or what each person needs — or both?</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A question to keep wondering about &#183; no one is left out</text>
+</svg>

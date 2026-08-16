@@ -51,6 +51,11 @@ context_variants:
     note: Use a real small conflict over a found object and practice saying how you feel right there
   - context: multi-age
     note: Older learners model the sentence first, then younger learners try it with their own gentle example
+assets:
+  - path: assets/images/L.01.010.07-words-for-my-feelings-in-a-conflict.svg
+    alt: "A three-part sentence strip teaches how to name a feeling in a conflict. 'I feel' shows labeled faces — mad, sad, scared. 'When' shows two children both reaching for one ball. 'I need' shows a child holding a turn marker asking for a turn, with a note that a grown-up's help is another need. A full example sentence runs below: 'I feel mad when I do not get a turn; I need a turn too.' Words carry the meaning, and no one has to speak if they do not want to."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice using words — "I feel… when… I need…" — to say how they feel

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What everyone needs to feel safe and treated well</title>
+  <desc id="desc">Six labeled cards show what every person in a class needs to feel safe and treated well. The cards are: a kind word, shown as a speech bubble with a heart; being listened to, shown as an ear with sound waves; space for my body, shown as a child with a hearing aid holding arms out wide inside a dashed boundary; my name said kindly, shown as a name tag with a smile; no one hurting me, shown as an open hand with a heart; and a turn to speak, shown as a child using a wheelchair raising a hand beside a soft turn marker. Each need is named in words, so the meaning does not depend on color and the picture prints clearly in grayscale. A caption below says these needs belong to everyone, everywhere — no one is left out.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Everyone Needs</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">to feel safe and treated well</text>
+
+  <!-- card frames row 1 -->
+  <rect x="20" y="90" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="181" y="90" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="342" y="90" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <!-- card frames row 2 -->
+  <rect x="20" y="252" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="181" y="252" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="342" y="252" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <!-- 1. kind word: speech bubble + heart -->
+  <rect x="60" y="126" width="70" height="48" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M78 174 L74 188 L92 174 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M95 144 C91 140 85 140 83 144 C81 140 75 140 73 144 C71 149 73 152 83 158 C93 152 95 149 95 144 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="95" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a kind word</text>
+
+  <!-- 2. being listened to: ear + waves -->
+  <path d="M266 132 q-22 -6 -22 20 q0 18 12 26 q-4 -10 2 -18 q-6 -4 -6 -10 q0 -8 8 -8 z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M240 150 q-12 0 -12 10 q0 8 8 8"/>
+    <path d="M232 150 q-18 0 -18 16 q0 12 12 12"/>
+  </g>
+  <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">being listened to</text>
+
+  <!-- 3. space for my body: child with hearing aid, arms wide, dashed boundary -->
+  <rect x="357" y="112" width="120" height="92" rx="10" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <circle cx="417" cy="142" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M406 140 A11 11 0 0 1 428 140 Z" fill="#4f6d7a"/>
+  <!-- hearing aid: arc behind ear -->
+  <path d="M427 138 q6 2 6 8" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="433" cy="148" r="2.5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="412" cy="142" r="1.4" fill="#2b3a42"/>
+  <circle cx="422" cy="142" r="1.4" fill="#2b3a42"/>
+  <path d="M412 148 Q417 152 422 148" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="408" y="154" width="18" height="28" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="412" y1="182" x2="410" y2="200" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="422" y1="182" x2="424" y2="200" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- arms out wide -->
+  <line x1="408" y1="164" x2="384" y2="176" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="426" y1="164" x2="450" y2="176" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <text x="417" y="224" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">space for my body</text>
+
+  <!-- 4. my name said kindly: name tag + smile -->
+  <rect x="55" y="132" width="80" height="34" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="66" y1="144" x2="124" y2="144" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="66" y1="154" x2="112" y2="154" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M80 188 Q95 202 110 188" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="80" cy="180" r="2.5" fill="#2b3a42"/>
+  <circle cx="110" cy="180" r="2.5" fill="#2b3a42"/>
+  <text x="95" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my name, said kindly</text>
+
+  <!-- 5. no one hurting me: open hand + heart -->
+  <g fill="#f5d6b6" stroke="#2b3a42" stroke-width="2">
+    <rect x="238" y="142" width="12" height="16" rx="5"/>
+    <rect x="252" y="136" width="12" height="22" rx="5"/>
+    <rect x="266" y="132" width="12" height="26" rx="5"/>
+    <rect x="280" y="136" width="12" height="22" rx="5"/>
+  </g>
+  <rect x="246" y="156" width="40" height="20" rx="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M266 186 C262 182 256 182 254 186 C252 190 254 193 266 200 C278 193 280 190 278 186 C276 182 270 182 266 186 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="266" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">no one hurting me</text>
+
+  <!-- 6. a turn to speak: wheelchair user raising hand + turn marker -->
+  <circle cx="404" cy="306" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M393 304 A11 11 0 0 1 415 304 Z" fill="#2b3a42"/>
+  <circle cx="399" cy="306" r="1.5" fill="#2b3a42"/>
+  <circle cx="409" cy="306" r="1.5" fill="#2b3a42"/>
+  <path d="M399 312 Q404 316 409 312" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="395" y="318" width="18" height="26" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- raised hand -->
+  <line x1="413" y1="326" x2="430" y2="310" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="431" cy="308" r="4" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- wheelchair -->
+  <rect x="395" y="346" width="22" height="4" rx="2" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="400" cy="370" r="10" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="400" cy="370" r="3" fill="#2b3a42"/>
+  <circle cx="415" cy="370" r="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="395" y1="350" x2="389" y2="366" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <!-- turn marker -->
+  <circle cx="447" cy="356" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="417" y="382" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a turn to speak</text>
+
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">These needs belong to everyone, everywhere — no one is left out.</text>
+</svg>

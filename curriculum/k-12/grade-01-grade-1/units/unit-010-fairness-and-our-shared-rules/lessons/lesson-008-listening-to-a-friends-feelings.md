@@ -51,6 +51,11 @@ context_variants:
     note: Practice listening in pairs sitting face to face outdoors, using a found turn marker (a stone or leaf)
   - context: multi-age
     note: Older learners demonstrate listening first, then younger learners practice with a partner
+assets:
+  - path: assets/images/L.01.010.08-listening-to-a-friends-feelings.svg
+    alt: "Three cards teach the listening steps. Face toward shows two children facing each other, one speaking and the other with a hearing aid listening, with a note that a listener may turn an ear or watch the speaker's hands. Wait your turn shows one child holding a turn marker while the other waits. Repeat back shows a listener saying 'I hear that you feel sad.' A bottom row shows listening can look different — signing 'I hear you' while looking away, or turning an ear to hear — and that eye contact is never required."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice listening when a friend says how they feel — facing the speaker,

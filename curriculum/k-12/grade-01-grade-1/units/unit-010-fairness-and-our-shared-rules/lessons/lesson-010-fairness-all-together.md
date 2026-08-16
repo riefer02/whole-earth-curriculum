@@ -61,6 +61,11 @@ context_variants:
     note: Build the four-part page on the ground with found objects in four marked circles, then share aloud
   - context: multi-age
     note: Older learners scribe or help younger ones draw each box while the younger learner gives the idea
+assets:
+  - path: assets/images/L.01.010.10-fairness-all-together.svg
+    alt: "A four-part page gathers the unit: a kind choice and its reason (a heart and 'because I care'), a fair share and what everyone needs (two plates of crackers and a heart), our rule and a job (a rule sign and a watering can), and listen and make it right (an ear, a heart, and two faces, one signing while looking away). Each box has a dashed draw-or-write area, and labels carry the meaning, showing fairness is many small things practiced together."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the whole unit together in a four-part "fairness" page — a kind

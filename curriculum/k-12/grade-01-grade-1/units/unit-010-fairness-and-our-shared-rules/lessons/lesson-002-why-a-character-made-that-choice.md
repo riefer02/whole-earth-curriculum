@@ -48,6 +48,11 @@ context_variants:
     note: Tell the story as a walk-and-tell, pausing to ask "why did the character do that?" at each turn of the path
   - context: multi-age
     note: Older learners tell the story to younger ones and help them find reasons for each choice
+assets:
+  - path: assets/images/L.01.010.02-why-a-character-made-that-choice.svg
+    alt: "Two panels follow Amara at a water queue. First, a good choice: she bends down to help a smaller child pick up a dropped cup, with a thought bubble 'why? she cared.' Second, a hurtful choice: she pushes past a person toward the tap, with a thought bubble 'why? tired and hot' and a note that a reason helps us understand but does not make the hurt okay."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners listen to a gentle story, give one reason why a character made a good
