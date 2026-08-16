@@ -47,6 +47,11 @@ context_variants:
     note: Use real outdoor moments — a dropped jacket, a friend who fell — as the scenes to read and respond to
   - context: multi-age
     note: Older learners act out a need scene; younger learners guess what the person might need and offer it
+assets:
+  - path: assets/images/L.01.003.05-guessing-needs.svg
+    alt: A scene card shows a child with a tipped cup and a spill. Beside it, three arrow-linked steps — "I see… a spill," "so they might need… a cloth," and "ask kindly" with the question "Can I help you?" — teach the chain from noticing a clue to guessing a need and checking the guess with a kind question.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners connect a feeling or clue to what a person might want or need in a

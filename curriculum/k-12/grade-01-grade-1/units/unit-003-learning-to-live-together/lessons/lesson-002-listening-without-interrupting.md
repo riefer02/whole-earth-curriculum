@@ -48,6 +48,11 @@ context_variants:
     note: Sit in a circle outdoors; listen to a natural sound (wind, birds) for one quiet minute, then take turns telling what you heard without interrupting
   - context: multi-age
     note: An older learner reads or tells a short story while a younger learner practices a listening body, then they swap
+assets:
+  - path: assets/images/L.01.003.02-listening-body.svg
+    alt: Two children face each other — a speaker holds a listening stone and speaks, while a listener wearing a hearing aid turns their body toward them, keeps their mouth closed, and holds a bursting thought by tapping their knee. Three insets show respectful ways to listen — eyes looking down or to the side, watching face and hands, and hands free to sign or tap — teaching that listening is attention, not eye contact.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice a "listening body" and discover how to let a classmate finish

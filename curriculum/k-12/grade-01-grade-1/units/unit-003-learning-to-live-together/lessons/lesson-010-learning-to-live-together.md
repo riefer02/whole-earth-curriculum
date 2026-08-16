@@ -51,7 +51,7 @@ materials_enriched:
     notes: Document the caring act to build a class "how we live together" book or poster
   - name: Class sharing circle props
     quantity: "1 set"
-    notes: A talking stick and soft rug for a celebratory closing circle
+    notes: A turn marker and soft rug for a celebratory closing circle
 context_variants:
   - context: large-group
     note: Split into small teams, each doing one caring act, then gather in one big circle to share what each team did
@@ -61,6 +61,11 @@ context_variants:
     note: Carry out the caring act outdoors — clean a shared space, water plants, or help a neighbor — then gather to reflect
   - context: multi-age
     note: Mixed-age teams plan a caring act together, with older learners writing the plan and younger learners leading the doing
+assets:
+  - path: assets/images/L.01.003.10-living-together-collage.svg
+    alt: A collage of eight labeled panels — kind words, listen, read feelings, guess needs, my community, help out, offer help, and share and care — with a central band reading "many small acts make a caring community," gathering the whole unit into one image of living together.
+    kind: image
+    source: original
 duration_minutes: 50
 summary: >-
   Capstone: learners bring all eight skills together — kind words, listening,

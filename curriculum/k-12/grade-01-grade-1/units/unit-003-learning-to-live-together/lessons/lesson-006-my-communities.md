@@ -48,6 +48,11 @@ context_variants:
     note: Draw circles in the dirt and place a pebble, leaf, or seed for each community you belong to, then name them aloud
   - context: multi-age
     note: Older learners help younger ones write the name of each community inside their circles
+assets:
+  - path: assets/images/L.01.003.06-my-communities-circles.svg
+    alt: Concentric circles radiate from a "me" figure at the center through rings labeled "the people who care for me," "my class," "my neighborhood," and "my bigger world," each holding small varied figures and places, teaching that a person belongs to many communities at once and that family comes in many shapes.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name the communities they belong to — family, class, neighborhood, and

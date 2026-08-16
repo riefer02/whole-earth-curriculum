@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sharing and caring for materials: share fairly, care gently, put away</title>
+  <desc id="desc">Two panels. The left panel, labeled "share," shows three children of different skin tones seated around a table sharing one cup of crayons and one pair of scissors, with a speech bubble reading "May I use a crayon?" The right panel, labeled "care," shows a child gently wiping a crayon box next to a four-step checklist — wipe, check whole, count, put away — with each step shown as a picture and a word. The passing of shared supplies, the wiping hand, and the labeled checklist carry the meaning, not color, so the picture prints clearly in grayscale and teaches that sharing makes a little bit enough for everyone, and caring for shared things is caring for each other and for the Earth.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Sharing and Caring for Materials</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Share fairly · care gently · put away</text>
+
+  <!-- Panel frames -->
+  <rect x="18" y="92" width="258" height="286" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="292" y="92" width="202" height="286" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+
+  <text x="147" y="116" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">share</text>
+  <text x="393" y="116" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">care</text>
+
+  <!-- ===== Left panel: share at a table ===== -->
+  <!-- table -->
+  <rect x="40" y="256" width="220" height="16" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="52" y1="272" x2="52" y2="300" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="248" y1="272" x2="248" y2="300" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- shared crayon cup -->
+  <rect x="128" y="220" width="42" height="38" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="138" y1="220" x2="134" y2="196" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <line x1="152" y1="220" x2="150" y2="194" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <line x1="164" y1="220" x2="168" y2="198" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- scissors -->
+  <line x1="196" y1="238" x2="226" y2="222" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <line x1="196" y1="238" x2="228" y2="234" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="196" cy="244" r="7" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="196" cy="232" r="7" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child 1 -->
+  <g>
+    <circle cx="92" cy="196" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M76 194 A16 16 0 0 1 108 194 Z" fill="#2b3a42"/>
+    <circle cx="86" cy="196" r="1.8" fill="#2b3a42"/>
+    <circle cx="98" cy="196" r="1.8" fill="#2b3a42"/>
+    <path d="M86 206 Q92 211 98 206" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="80" y="213" width="24" height="42" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="80" y1="224" x2="62" y2="240" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- child 2 -->
+  <g>
+    <circle cx="208" cy="188" r="15" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M193 186 A15 15 0 0 1 223 186 Z" fill="#4f6d7a"/>
+    <circle cx="202" cy="188" r="1.6" fill="#2b3a42"/>
+    <circle cx="214" cy="188" r="1.6" fill="#2b3a42"/>
+    <path d="M202 197 Q208 202 214 197" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="196" y="204" width="24" height="40" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="196" y1="216" x2="176" y2="232" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- child 3 -->
+  <g>
+    <circle cx="140" cy="180" r="14" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M126 178 A14 14 0 0 1 154 178 Z" fill="#2b3a42"/>
+    <circle cx="134" cy="180" r="1.6" fill="#2b3a42"/>
+    <circle cx="146" cy="180" r="1.6" fill="#2b3a42"/>
+    <path d="M134 188 Q140 192 146 188" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="130" y="195" width="22" height="38" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- speech bubble: May I use a crayon? -->
+  <path d="M70 118 Q70 102 96 102 L214 102 Q228 102 228 114 L228 134 Q228 146 214 146 L120 146 L108 158 L111 146 L96 146 Q70 146 70 134 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="149" y="128" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">May I use a crayon?</text>
+
+  <text x="147" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">take turns, ask with kind words</text>
+
+  <!-- ===== Right panel: materials doctor checklist ===== -->
+  <!-- child wiping box -->
+  <g>
+    <circle cx="352" cy="156" r="14" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 154 A14 14 0 0 1 366 154 Z" fill="#2b3a42"/>
+    <circle cx="347" cy="156" r="1.6" fill="#2b3a42"/>
+    <circle cx="357" cy="156" r="1.6" fill="#2b3a42"/>
+    <path d="M347 164 Q352 168 357 164" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="342" y="171" width="22" height="38" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="342" y1="182" x2="324" y2="196" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <!-- box being wiped -->
+  <rect x="366" y="182" width="52" height="34" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="374" y="178" width="14" height="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- cloth -->
+  <path d="M412 190 Q420 184 428 190 Q424 200 414 202 Q408 198 412 190 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M424 182 Q428 178 432 182" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- checklist -->
+  <text x="352" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">materials doctor</text>
+  <g font-family="sans-serif" font-size="13" fill="#222222">
+    <rect x="322" y="236" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M324 244 L328 248 L335 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="346" y="249">wipe</text>
+
+    <rect x="322" y="262" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M324 270 L328 274 L335 266" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="346" y="275">check whole</text>
+
+    <rect x="322" y="288" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M324 296 L328 300 L335 292" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="346" y="301">count</text>
+
+    <rect x="322" y="314" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="346" y="327">put away</text>
+  </g>
+  <text x="393" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">gently, like a doctor</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">When we care for our things, we care for each other and for the Earth.</text>
+</svg>

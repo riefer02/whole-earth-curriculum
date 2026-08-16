@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Learning to live together: a collage of eight caring skills</title>
+  <desc id="desc">A collage of eight small panels, each showing one skill from the unit, arranged in two rows of four. Row one: "kind words" shows a speech bubble; "listen" shows an ear and a turned-toward figure; "read feelings" shows two faces, one smiling and one sad; "guess needs" shows a thought bubble with a cloth. Row two: "my community" shows concentric circles; "help out" shows a hand watering a plant; "offer help" shows an open palm with the words "can I help?"; and "share and care" shows a crayon and a box. A central band below reads "many small acts make a caring community." The pictures and their labels carry the meaning, not color, so the print is clear in grayscale and gathers the whole unit into one image of living together.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Learning to Live Together</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">All our caring skills, one collage</text>
+
+  <!-- Panel frames: row 1 -->
+  <rect x="18" y="88" width="112" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="138" y="88" width="112" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="258" y="88" width="112" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="378" y="88" width="116" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- Panel frames: row 2 -->
+  <rect x="18" y="226" width="112" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="138" y="226" width="112" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="258" y="226" width="112" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="378" y="226" width="116" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- 1. kind words: speech bubble -->
+  <path d="M50 128 Q50 114 70 114 L106 114 Q118 114 118 124 L118 140 Q118 150 106 150 L88 150 L82 158 L84 150 L70 150 Q50 150 50 140 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M68 132 L84 132 L96 132" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M66 142 L84 142 L100 142" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <text x="74" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">kind words</text>
+
+  <!-- 2. listen: ear + turned figure -->
+  <path d="M182 138 Q170 138 170 150 Q170 166 188 166 Q196 166 196 158 L196 146 Q196 138 182 138 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M178 146 Q184 143 190 146" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="200" cy="132" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M190 130 A10 10 0 0 1 210 130 Z" fill="#2b3a42"/>
+  <text x="194" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">listen</text>
+
+  <!-- 3. read feelings: two faces -->
+  <circle cx="292" cy="146" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M276 144 A16 16 0 0 1 308 144 Z" fill="#2b3a42"/>
+  <circle cx="287" cy="146" r="1.8" fill="#2b3a42"/>
+  <circle cx="297" cy="146" r="1.8" fill="#2b3a42"/>
+  <path d="M287 154 Q292 159 297 154" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="334" cy="146" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M318 144 A16 16 0 0 1 350 144 Z" fill="#4f6d7a"/>
+  <circle cx="329" cy="146" r="1.8" fill="#2b3a42"/>
+  <circle cx="339" cy="146" r="1.8" fill="#2b3a42"/>
+  <path d="M329 156 Q334 151 339 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="314" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">read feelings</text>
+
+  <!-- 4. guess needs: thought bubble + cloth -->
+  <path d="M410 128 Q410 114 430 114 L462 114 Q474 114 474 124 L474 140 Q474 150 462 150 L446 150 L440 158 L442 150 L430 150 Q410 150 410 140 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="424" cy="134" r="2.5" fill="#2b3a42"/>
+  <circle cx="433" cy="134" r="2.5" fill="#2b3a42"/>
+  <circle cx="442" cy="134" r="2.5" fill="#2b3a42"/>
+  <rect x="422" y="164" width="30" height="22" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="424" y1="168" x2="450" y2="182" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="450" y1="168" x2="424" y2="182" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="436" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">guess needs</text>
+
+  <!-- 5. my community: concentric circles -->
+  <circle cx="74" cy="284" r="30" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="74" cy="284" r="20" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="74" cy="284" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="74" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">my community</text>
+
+  <!-- 6. help out: hand watering plant -->
+  <line x1="176" y1="284" x2="176" y2="270" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="176" cy="266" rx="7" ry="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M170 298 L172 284 L186 284 L188 298 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M200 288 Q204 280 210 286" fill="none" stroke="#6b93b6" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="211" cy="288" r="1.6" fill="#6b93b6"/>
+  <path d="M200 274 Q202 266 208 262 L212 268 Q216 274 210 278 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="194" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">help out</text>
+
+  <!-- 7. offer help: open palm -->
+  <path d="M296 272 Q290 262 298 256 L308 262 Q314 268 306 274 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="310" y1="268" x2="322" y2="282" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <text x="330" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">"can I help?"</text>
+  <text x="314" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">offer help</text>
+
+  <!-- 8. share and care: crayon + box -->
+  <line x1="408" y1="278" x2="424" y2="254" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <path d="M422 250 L428 250 L430 260 L426 260 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="434" y="268" width="40" height="26" rx="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="440" y="264" width="12" height="5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="436" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">share and care</text>
+
+  <!-- Central band -->
+  <rect x="18" y="364" width="476" height="66" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Many small acts make a caring community.</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">kind words · listen · read feelings · guess needs · community · help · share · care</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Living together is a skill we practice every day.</text>
+</svg>

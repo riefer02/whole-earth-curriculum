@@ -47,6 +47,11 @@ context_variants:
     note: Walk the school or neighborhood and name what people do together (plant, sweep, build) and how a child could help
   - context: multi-age
     note: Older learners interview younger ones about what their families do together and record it on the chart
+assets:
+  - path: assets/images/L.01.003.07-together-and-help-out.svg
+    alt: Two panels. "We do this together" shows four people of different ages and abilities, including a child in a wheelchair, planting a garden together. "I help out" shows one child sweeping and another watering a plant. The picture teaches that a community is kept strong by many small acts of care, not by one big hero.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners describe one thing a community does together and one way they help out,

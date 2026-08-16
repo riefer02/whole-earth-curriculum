@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What might they need: see a clue, guess a need, ask kindly</title>
+  <desc id="desc">On the left, a scene card shows a child with a worried face next to a tipped cup and a small puddle of spilled water. On the right, three steps run downward with arrows: step one "I see…" with an eye and the spill; step two "so they might need…" with a cloth; step three "ask kindly" with a speech bubble reading "Can I help you?" A bottom note reads "a need is not the same as a want." The eye, the cloth, the question, and the labels carry the meaning, not color, so the picture prints clearly in grayscale and teaches the caring chain of noticing a clue, guessing a need, and checking the guess with a kind question.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Might They Need?</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">See a clue → guess a need → ask kindly</text>
+
+  <!-- ===== Left scene card: spilled drink ===== -->
+  <rect x="24" y="96" width="220" height="256" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">the scene</text>
+
+  <!-- child -->
+  <g>
+    <circle cx="110" cy="180" r="22" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M88 178 A22 22 0 0 1 132 178 Z" fill="#2b3a42"/>
+    <!-- worried eyebrows -->
+    <path d="M98 172 L104 175" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M122 172 L116 175" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="103" cy="180" r="2.2" fill="#2b3a42"/>
+    <circle cx="117" cy="180" r="2.2" fill="#2b3a42"/>
+    <path d="M103 190 Q110 185 117 190" fill="none" stroke="#2b3a42" stroke-width="2.2" stroke-linecap="round"/>
+    <rect x="92" y="204" width="36" height="52" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="100" y1="256" x2="98" y2="300" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="120" y1="256" x2="122" y2="300" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="92" y1="218" x2="64" y2="232" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <!-- tipped cup and puddle -->
+  <g>
+    <path d="M178 252 L186 286 L162 286 L170 252 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" transform="rotate(-18 174 270)"/>
+    <path d="M150 306 Q172 318 196 306 Q206 300 204 292 Q200 284 186 288 Q168 296 150 306 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M196 298 Q200 292 196 288" fill="none" stroke="#6b93b6" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+  <text x="134" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a tipped cup, a spill</text>
+
+  <!-- ===== Right: the caring chain ===== -->
+  <!-- Step 1 -->
+  <rect x="272" y="96" width="216" height="70" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="306" cy="131" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="306" cy="131" r="4" fill="#2b3a42"/>
+  <text x="336" y="126" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">I see…</text>
+  <text x="336" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a spill on the floor</text>
+
+  <line x1="380" y1="166" x2="380" y2="184" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M374 184 L380 192 L386 184 Z" fill="#4f6d7a"/>
+
+  <!-- Step 2 -->
+  <rect x="272" y="192" width="216" height="70" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="286" y="214" width="34" height="28" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="288" y1="218" x2="318" y2="238" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="318" y1="218" x2="288" y2="238" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="344" y="222" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">so they might need…</text>
+  <text x="344" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a cloth to wipe it</text>
+
+  <line x1="380" y1="262" x2="380" y2="280" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M374 280 L380 288 L386 280 Z" fill="#4f6d7a"/>
+
+  <!-- Step 3 -->
+  <rect x="272" y="288" width="216" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M300 304 Q300 294 316 294 L344 294 Q358 294 358 304 L358 324 Q358 334 344 334 L330 334 L326 342 L328 334 L316 334 Q300 334 300 324 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="329" y="317" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Can I help you?</text>
+  <text x="430" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">ask kindly</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A need (water, rest, a hand) is not the same as a want.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Guessing is caring — and a guess can be wrong, so ask.</text>
+</svg>

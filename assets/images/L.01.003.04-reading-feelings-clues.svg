@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading feelings: face, voice, and body clues, then ask</title>
+  <desc id="desc">Three cards show where the feeling "sad" shows up. The face card shows a downturned mouth, lowered eyebrows, and a tear. The voice card shows a speech bubble with a soft "oh…" and wavy, quiet voice lines. The body card shows a figure with slumped shoulders, arms hugging in, and a drooping head. Below, a strip shows the kind check step: "Are you feeling sad?" with a "yes" and a "no" answer, labeled "a guess is a guess — ask." Mouth shape, body posture, voice waviness, and labels carry the meaning, not color, so the picture prints clearly in grayscale and teaches that reading feelings uses face, voice, and body together, and a guess must be checked by asking.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Reading Feelings</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Face + voice + body, then ask</text>
+
+  <!-- Panel frames -->
+  <rect x="18" y="94" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="181" y="94" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="344" y="94" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ===== Panel 1: face clue ===== -->
+  <g>
+    <circle cx="93" cy="160" r="40" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M53 156 A40 40 0 0 1 133 156 Z" fill="#2b3a42"/>
+    <!-- lowered eyebrows -->
+    <path d="M70 148 L86 152" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M116 148 L100 152" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="82" cy="162" r="3" fill="#2b3a42"/>
+    <circle cx="104" cy="162" r="3" fill="#2b3a42"/>
+    <!-- downturned mouth -->
+    <path d="M80 186 Q93 178 106 186" fill="none" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <!-- tear -->
+    <path d="M112 166 Q116 174 112 180" fill="none" stroke="#6b93b6" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+  <text x="93" y="276" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">face</text>
+  <text x="93" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">frown and a tear</text>
+
+  <!-- ===== Panel 2: voice clue ===== -->
+  <g>
+    <!-- speech bubble -->
+    <path d="M222 130 Q222 108 250 108 L298 108 Q314 108 314 122 L314 150 Q314 164 298 164 L262 164 L250 178 L253 164 L250 164 Q222 164 222 150 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="268" y="140" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">oh…</text>
+    <!-- quiet, wavy voice lines -->
+    <path d="M228 196 Q234 190 240 196 T252 196" fill="none" stroke="#4f6d7a" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M284 196 Q290 190 296 196 T308 196" fill="none" stroke="#4f6d7a" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M256 204 Q262 198 268 204 T280 204" fill="none" stroke="#4f6d7a" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+  <text x="256" y="276" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">voice</text>
+  <text x="256" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">soft and quiet</text>
+
+  <!-- ===== Panel 3: body clue ===== -->
+  <g>
+    <circle cx="419" cy="148" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M399 146 A20 20 0 0 1 439 146 Z" fill="#4f6d7a"/>
+    <circle cx="413" cy="148" r="2" fill="#2b3a42"/>
+    <circle cx="425" cy="148" r="2" fill="#2b3a42"/>
+    <path d="M413 157 Q419 162 425 157" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- slumped body, arms hugging in -->
+    <path d="M404 188 Q406 184 408 178 Q419 200 430 178 Q432 184 434 188 L432 244 Q432 258 418 258 L406 258 Q404 244 404 188 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M410 192 Q402 202 410 214" fill="none" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M428 192 Q436 202 428 214" fill="none" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="412" y1="258" x2="410" y2="282" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="426" y1="258" x2="428" y2="282" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="419" y="276" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">body</text>
+  <text x="419" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">shoulders drop</text>
+
+  <!-- ===== Check your guess strip ===== -->
+  <rect x="18" y="324" width="476" height="118" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Check your guess — ask kindly</text>
+  <path d="M118 372 Q118 358 148 358 L316 358 Q332 358 332 370 L332 384 Q332 396 316 396 L210 396 L198 408 L200 396 L148 396 Q118 396 118 384 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="225" y="380" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Are you feeling sad?</text>
+  <!-- yes / no -->
+  <rect x="356" y="368" width="58" height="26" rx="13" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="385" y="385" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">yes</text>
+  <rect x="424" y="368" width="58" height="26" rx="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="453" y="385" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">no</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A guess is a guess — faces can fool us, so ask and wait.</text>
+</svg>

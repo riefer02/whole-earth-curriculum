@@ -47,6 +47,11 @@ context_variants:
     note: Notice real struggles outdoors (carrying, climbing, finding) and practice offering help on the spot
   - context: multi-age
     note: Older learners set up a small struggle (a tricky task) and younger learners practice noticing and offering help
+assets:
+  - path: assets/images/L.01.003.08-offering-help-consent.svg
+    alt: One child struggles to lift a heavy bag while another offers an open palm and the words "Can I help you?" instead of grabbing. Two panels below show the two answers — "yes, please" (lifting together) and "no, thank you" (a kind step back) — teaching that help is offered, not forced, and a kind "no, thank you" is always okay.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice noticing when a classmate is struggling and offering help

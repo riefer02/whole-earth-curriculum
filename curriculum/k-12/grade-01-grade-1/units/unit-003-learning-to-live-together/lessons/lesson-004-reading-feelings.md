@@ -47,6 +47,11 @@ context_variants:
     note: Act out feelings with the whole body in an open space; guess a partner's feeling from their movements alone
   - context: multi-age
     note: An older learner performs a feeling with face, voice, and body while younger learners guess, then they swap
+assets:
+  - path: assets/images/L.01.003.04-reading-feelings-clues.svg
+    alt: Three cards show where the feeling "sad" shows up — on the face (frown and tear), in the voice (a soft "oh…" with wavy lines), and in the body (slumped shoulders and arms hugging in). A strip below shows the check step "Are you feeling sad?" with yes and no answers, teaching that a guess must be checked by asking.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners read feelings from three clues — face, voice, and body — and practice

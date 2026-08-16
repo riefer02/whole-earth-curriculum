@@ -48,6 +48,11 @@ context_variants:
     note: Share outdoor tools or found materials (a shovel, a watering can) and care for a shared natural space by cleaning or tidying it
   - context: multi-age
     note: Older learners model a tidy-up routine; younger learners follow along and check the supply set together
+assets:
+  - path: assets/images/L.01.003.09-sharing-and-caring-materials.svg
+    alt: Two panels. "Share" shows three children passing one cup of crayons around a table and asking "May I use a crayon?" "Care" shows a child wiping a box beside a four-step checklist — wipe, check whole, count, put away — teaching that sharing makes a little bit enough and caring for shared things is caring for each other.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice sharing classroom resources and caring for shared materials,

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A listening body: attention, not just eyes</title>
+  <desc id="desc">Two children face each other. On the left, a speaker holds a listening stone and speaks into a speech bubble. On the right, a listener wearing a hearing aid turns their whole body toward the speaker, keeps their mouth closed, and holds a bursting thought by gently tapping their knee, with a small "thought in my pocket" tag. Below are three insets showing respectful ways to listen: one child listens with eyes looking gently down or to the side, one listens by watching the speaker's face and hands, and one keeps hands free to sign or tap. The turned-toward body, the closed mouth, and the labels carry the meaning, not color, so the picture prints clearly in grayscale and teaches that listening is attention — in whatever way each body listens best, with no requirement to make eye contact.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">A Listening Body</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Attention is the gift — not the eyes</text>
+
+  <!-- Ground -->
+  <line x1="48" y1="320" x2="464" y2="320" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Speaker (left) ===== -->
+  <g>
+    <circle cx="140" cy="210" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 208 A22 22 0 0 1 162 208 Z" fill="#4f6d7a"/>
+    <circle cx="132" cy="210" r="2.2" fill="#2b3a42"/>
+    <circle cx="148" cy="210" r="2.2" fill="#2b3a42"/>
+    <path d="M132 220 Q140 226 148 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="122" y="234" width="36" height="54" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="130" y1="288" x2="128" y2="318" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="150" y1="288" x2="152" y2="318" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="122" y1="248" x2="192" y2="232" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="195" cy="232" r="5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <!-- listening stone -->
+    <path d="M204 222 Q214 214 222 224 Q214 238 204 232 Q198 228 204 222 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="140" y="346" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I speak</text>
+
+  <!-- Speech bubble from speaker -->
+  <path d="M120 120 Q120 98 148 98 L252 98 Q268 98 268 112 L268 132 Q268 146 252 146 L172 146 L160 158 L162 146 L148 146 Q120 146 120 132 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="194" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">…and then we played!</text>
+
+  <!-- ===== Listener (right): listening body ===== -->
+  <g>
+    <circle cx="372" cy="210" r="22" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M350 208 A22 22 0 0 1 394 208 Z" fill="#2b3a42"/>
+    <!-- behind-the-ear hearing aid -->
+    <path d="M392 200 Q404 208 394 218" fill="none" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="395" cy="220" r="2.4" fill="#e0a458" stroke="#2b3a42" stroke-width="1.4"/>
+    <circle cx="364" cy="210" r="2.2" fill="#2b3a42"/>
+    <circle cx="380" cy="210" r="2.2" fill="#2b3a42"/>
+    <!-- closed, quiet mouth -->
+    <line x1="366" y1="221" x2="378" y2="221" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <rect x="354" y="234" width="36" height="54" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="362" y1="288" x2="360" y2="318" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="382" y1="288" x2="384" y2="318" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- hand tapping knee (hold my thought) -->
+    <line x1="354" y1="250" x2="336" y2="262" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="333" cy="264" r="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M326 272 Q329 278 333 280" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M336 276 Q339 282 343 284" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="372" y="346" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I listen</text>
+
+  <!-- "hold my thought" pocket tag -->
+  <g>
+    <rect x="300" y="356" width="150" height="40" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="375" y="381" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">hold my thought</text>
+  </g>
+
+  <!-- ===== Three listening insets ===== -->
+  <rect x="24" y="410" width="148" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="72" cy="448" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M56 446 A16 16 0 0 1 88 446 Z" fill="#4f6d7a"/>
+  <path d="M66 448 Q70 445 74 448" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M78 448 Q82 445 86 448" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="98" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">eyes look down</text>
+  <text x="98" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">or to the side</text>
+  <text x="98" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">respectful too</text>
+
+  <rect x="182" y="410" width="148" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="230" cy="448" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M214 446 A16 16 0 0 1 246 446 Z" fill="#2b3a42"/>
+  <circle cx="224" cy="448" r="2" fill="#2b3a42"/>
+  <circle cx="236" cy="448" r="2" fill="#2b3a42"/>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">watch the face</text>
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and the hands</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">sign is listening</text>
+
+  <rect x="340" y="410" width="148" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="388" cy="448" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M372 446 A16 16 0 0 1 404 446 Z" fill="#4f6d7a"/>
+  <circle cx="382" cy="448" r="2" fill="#2b3a42"/>
+  <circle cx="394" cy="448" r="2" fill="#2b3a42"/>
+  <path d="M382 459 Q388 464 394 459" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="414" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">hands free to</text>
+  <text x="414" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">sign or tap</text>
+  <text x="414" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a real turn</text>
+</svg>

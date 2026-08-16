@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Offering help: offer, don't take over, and honor a "no, thank you"</title>
+  <desc id="desc">A main scene shows two children. The child on the left leans forward struggling to lift a very heavy bag. The child on the right reaches out with an open palm and a speech bubble reading "Can I help you?" instead of grabbing the bag. Below are two outcome panels. The first shows the two children lifting the bag together, labeled "yes, please." The second shows the helper stepping back with a kind, calm smile while the other carries on, labeled "no, thank you — okay too." The open hand, the heavy bag, the question, and the labels carry the meaning, not color, so the picture prints clearly in grayscale and teaches that help is offered, not forced, and that a kind "no, thank you" is always a fine answer.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Offering Help</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Offer, don't take over — a "no, thank you" is okay</text>
+
+  <!-- Ground -->
+  <line x1="36" y1="330" x2="476" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ===== Struggling child (left) ===== -->
+  <g>
+    <circle cx="140" cy="206" r="21" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M119 204 A21 21 0 0 1 161 204 Z" fill="#2b3a42"/>
+    <!-- strained face -->
+    <path d="M128 198 L136 202" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M152 198 L144 202" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <circle cx="134" cy="206" r="2" fill="#2b3a42"/>
+    <circle cx="146" cy="206" r="2" fill="#2b3a42"/>
+    <path d="M132 216 Q140 211 148 216" fill="none" stroke="#2b3a42" stroke-width="2.2" stroke-linecap="round"/>
+    <rect x="122" y="228" width="36" height="52" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="130" y1="280" x2="126" y2="326" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="150" y1="280" x2="156" y2="326" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- heavy bag -->
+    <path d="M176 240 L232 244 L228 316 Q226 330 208 330 L196 330 Q178 330 178 314 L180 244 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M204 240 L220 244 L216 316 Q214 328 202 328" fill="none" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+    <!-- straining arms -->
+    <line x1="122" y1="246" x2="180" y2="244" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="122" y1="254" x2="176" y2="262" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <!-- effort marks -->
+    <path d="M104 186 Q108 178 112 186" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M114 182 Q118 174 122 182" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="140" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">struggling</text>
+
+  <!-- ===== Helping child (right), open palm ===== -->
+  <g>
+    <circle cx="380" cy="206" r="21" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M359 204 A21 21 0 0 1 401 204 Z" fill="#4f6d7a"/>
+    <circle cx="374" cy="206" r="2" fill="#2b3a42"/>
+    <circle cx="386" cy="206" r="2" fill="#2b3a42"/>
+    <path d="M374 216 Q380 222 386 216" fill="none" stroke="#2b3a42" stroke-width="2.2" stroke-linecap="round"/>
+    <rect x="362" y="228" width="36" height="52" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="370" y1="280" x2="368" y2="326" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="390" y1="280" x2="392" y2="326" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- open palm reaching -->
+    <line x1="362" y1="246" x2="318" y2="252" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <path d="M304 252 Q298 242 306 236 L316 240 Q322 246 314 252 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="380" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">offering</text>
+
+  <!-- Speech bubble: Can I help you? -->
+  <path d="M312 128 Q312 108 340 108 L436 108 Q452 108 452 120 L452 142 Q452 154 436 154 L366 154 L354 166 L356 154 L340 154 Q312 154 312 142 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="136" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Can I help you?</text>
+
+  <!-- ===== Two outcome panels ===== -->
+  <rect x="30" y="378" width="218" height="108" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <rect x="264" y="378" width="218" height="108" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+
+  <!-- Outcome 1: yes please, lift together -->
+  <g>
+    <circle cx="88" cy="422" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M74 420 A14 14 0 0 1 102 420 Z" fill="#2b3a42"/>
+    <circle cx="83" cy="422" r="1.6" fill="#2b3a42"/>
+    <circle cx="93" cy="422" r="1.6" fill="#2b3a42"/>
+    <path d="M83 430 Q88 434 93 430" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="150" cy="422" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M136 420 A14 14 0 0 1 164 420 Z" fill="#4f6d7a"/>
+    <circle cx="145" cy="422" r="1.6" fill="#2b3a42"/>
+    <circle cx="155" cy="422" r="1.6" fill="#2b3a42"/>
+    <path d="M145 430 Q150 434 155 430" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <!-- shared bag -->
+    <path d="M104 418 L140 414 L140 462 Q140 472 126 472 L118 472 Q104 472 104 462 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="102" y1="424" x2="142" y2="420" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="139" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">yes, please</text>
+  <text x="139" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">we lift it together</text>
+
+  <!-- Outcome 2: no thank you -->
+  <g>
+    <circle cx="318" cy="422" r="14" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M304 420 A14 14 0 0 1 332 420 Z" fill="#2b3a42"/>
+    <circle cx="313" cy="422" r="1.6" fill="#2b3a42"/>
+    <circle cx="323" cy="422" r="1.6" fill="#2b3a42"/>
+    <path d="M313 430 Q318 434 323 430" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <!-- helper stepping back, open kind wave -->
+    <circle cx="388" cy="422" r="14" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M374 420 A14 14 0 0 1 402 420 Z" fill="#4f6d7a"/>
+    <circle cx="383" cy="422" r="1.6" fill="#2b3a42"/>
+    <circle cx="393" cy="422" r="1.6" fill="#2b3a42"/>
+    <path d="M383 430 Q388 434 393 430" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <line x1="374" y1="436" x2="356" y2="452" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="354" cy="454" r="4" fill="#e6bb92" stroke="#2b3a42" stroke-width="1.8"/>
+    <!-- heart between them -->
+    <path d="M350 418 Q346 412 342 418 Q338 424 350 430 Q362 424 358 418 Q354 412 350 418 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.8"/>
+  </g>
+  <text x="373" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">no, thank you</text>
+  <text x="373" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">that's okay too</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Anyone can need help, and anyone can give it. Offer, then let them choose.</text>
+</svg>

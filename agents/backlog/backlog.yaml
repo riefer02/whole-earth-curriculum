@@ -1436,12 +1436,22 @@ items:
     type: assets
     grade: 1
     domain: D02
-    status: ready
+    status: done
     priority: 45
     depends_on:
       - B-054
     required_reviews: *a2
-    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.003 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.003 that lack a graphic, and wire each into the lesson's assets: field with alt text. Blocked by reviewer: 'talking stick' (sacred Indigenous practice) appears throughout the unit, violating codebase standard neutral 'turn marker'. Fix all occurrences: lesson-003 (9 spots: frontmatter materials name L25, materials_low_tech L33, context_variants large-group L45, assets alt L54, Materials body L96, Facilitator note L107, Procedure 'Meet the talking stick' L120, Extension L140, Assessment L146); lesson-010 (materials_enriched 'talking stick and soft rug' L54); SVG L.01.003.03-turn-signals.svg (desc twice + 2 code comments). Non-blocking: lesson-001 'talking piece' is neutral, optionally harmonize to 'turn marker'. Everything else clean: 10/10 assets resolve, valid SVGs, kind-words-not-one-language, no eye-contact mandate, no single family model, mutual aid+consent, D02 grade-1 objectives resolve.. Blocked by reviewer: 'talking [object]' pattern persists: lesson-002 materials field names the object 'Listening stone' but 3 spots still say 'talking stone' (inconsistent). Fix: lesson-002-listening-without-interrupting.md line 53 alt text; L.01.003.02-listening-body.svg line 3 <desc> and line 26 code comment — change 'talking stone' -> 'listening stone'. Everything else cleared: talking stick/piece gone, 8 objectives resolve to grade-1 D02, 10 assets resolve, valid SVGs, kind-words 6 languages, no eye-contact mandate, no single family model, mutual aid + consent.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Rework resolved: grep unit-003 for 'talking (stone|stick|piece)' zero matches (only ordinary verb 'talking'); three reworked spots confirmed fixed (lesson-002 alt 'listening stone', SVG desc + comment). All 10 assets resolve with non-empty alt/kind/source; 10 SVGs valid XML (viewBox, role=img, title/desc), grayscale-safe. Objectives resolve to grade-1 D02 ladder (S1-S4). Value guards hold: kind words 6 languages, no eye-contact mandate, no single family model, mutual aid + consent. (Note: other units still have talking-stick/stone — previously flagged, out of scope.)"
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs role=img + aria-labelledby + title/desc; alt concept-complete; color never sole signal (labels/shapes, grayscale-safe). Listening lesson no eye-contact mandate (honors averted gaze + signing). Low-tech all; devices only enriched. Fixes: L.001 explicit non-speaking/sign path for kind words; added behind-ear hearing aid to listening-body figure + desc/alt (wheelchair L.007, signing L.002/003 now natural). validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: Zero co-opting terms (turn marker/listening stone; remaining 'talking' only ordinary verb). Kind words not one language's property (L.001 home languages + sign/gesture/card; SVG 01 six languages). No single family model (L.006 'never define family as one shape'; SVG 06 'the people who care for me'). Varied skin tones, region-neutral. No eye-contact mandate (L.002 'never insist on eyes on the speaker', SVG 02 eyes-down/side 'respectful too'). Helping mutual aid not pity (L.008 consent 'no thank you okay', SVG 08 'offer don't take over'). Anti-ranking 'not just loudest/fastest'. No edits. validate passes (301 files).
   - id: B-086
     title: "Illustration pass: add SVG assets to lessons in U.01.004"
     agent: asset-designer

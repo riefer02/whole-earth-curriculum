@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My communities: I belong to many circles</title>
+  <desc id="desc">Concentric circles radiate outward from a small "me" figure at the center. The rings are labeled from inside out: "the people who care for me," "my class," "my neighborhood," and "my bigger world." Simple icons mark each ring — a heart for the people who care for me, an open book for my class, a house and a tree for my neighborhood, and a small globe for my bigger world. Three small faces with different skin tones sit on the outer ring to show the many people in the wider world. The labels and the shapes carry the meaning, not color, so the picture prints clearly in grayscale and teaches that a person belongs to many communities at once, and that "family" — the people who care for you — comes in many shapes, none of them the only right one.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Communities</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">I belong to many circles</text>
+
+  <!-- Concentric circles centered at (256, 286) -->
+  <circle cx="256" cy="286" r="190" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+  <circle cx="256" cy="286" r="146" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+  <circle cx="256" cy="286" r="104" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+  <circle cx="256" cy="286" r="64" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+  <circle cx="256" cy="286" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Center: me -->
+  <g>
+    <circle cx="256" cy="272" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M243 270 A13 13 0 0 1 269 270 Z" fill="#2b3a42"/>
+    <circle cx="251" cy="272" r="1.6" fill="#2b3a42"/>
+    <circle cx="261" cy="272" r="1.6" fill="#2b3a42"/>
+    <path d="M251 279 Q256 283 261 279" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">me</text>
+
+  <!-- Ring labels (top center of each band) -->
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">my bigger world</text>
+  <text x="256" y="156" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">my neighborhood</text>
+  <text x="256" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">my class</text>
+  <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">the people who</text>
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">care for me</text>
+
+  <!-- Care band: heart -->
+  <path d="M204 304 Q198 296 202 288 Q206 280 214 288 Q222 296 214 304 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M304 304 Q298 296 302 288 Q306 280 314 288 Q322 296 314 304 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Class band: open book -->
+  <path d="M170 250 Q178 244 186 250 L186 288 Q178 282 170 288 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M186 250 Q194 244 202 250 L202 288 Q194 282 186 288 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M178 252 Q186 250 194 252" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Neighborhood band: house and tree -->
+  <path d="M128 250 L128 280 L160 280 L160 250 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M123 250 L144 232 L165 250 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="138" y="260" width="9" height="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="372" y1="286" x2="372" y2="258" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="372" cy="250" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="372" cy="250" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- World band: globe -->
+  <circle cx="392" cy="160" r="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M374 160 Q392 140 410 160 Q392 180 374 160 Z" fill="none" stroke="#2b3a42" stroke-width="1.8"/>
+  <line x1="372" y1="160" x2="412" y2="160" stroke="#2b3a42" stroke-width="1.8"/>
+
+  <!-- Three diverse faces on the outer ring (the bigger world) -->
+  <circle cx="180" cy="432" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M168 430 A12 12 0 0 1 192 430 Z" fill="#4f6d7a"/>
+  <circle cx="176" cy="432" r="1.6" fill="#2b3a42"/>
+  <circle cx="184" cy="432" r="1.6" fill="#2b3a42"/>
+  <path d="M176 438 Q180 442 184 438" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+
+  <circle cx="256" cy="448" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M244 446 A12 12 0 0 1 268 446 Z" fill="#2b3a42"/>
+  <circle cx="252" cy="448" r="1.6" fill="#2b3a42"/>
+  <circle cx="260" cy="448" r="1.6" fill="#2b3a42"/>
+  <path d="M252 454 Q256 458 260 454" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+
+  <circle cx="332" cy="432" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M320 430 A12 12 0 0 1 344 430 Z" fill="#2b3a42"/>
+  <circle cx="328" cy="432" r="1.6" fill="#2b3a42"/>
+  <circle cx="336" cy="432" r="1.6" fill="#2b3a42"/>
+  <path d="M328 438 Q332 442 336 438" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- Bottom note -->
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Families and communities come in many shapes — and you belong to all of yours.</text>
+</svg>

@@ -24,14 +24,14 @@ materials:
   - name: Chart paper and markers
     quantity: "1 sheet per group"
     notes: For the class "kind words wall"
-  - name: Soft talking piece
+  - name: Soft turn marker
     quantity: 1
     notes: A ball, stone, or beanbag passed around to show whose turn it is to speak
 materials_low_tech:
   - name: Voices and bodies
     notes: Practice saying and acting out kind words; no paper or markers needed
   - name: A found object
-    notes: Any small found object (a pebble, a leaf) can be the talking piece
+    notes: Any small found object (a pebble, a leaf) can be the turn marker
 materials_enriched:
   - name: Audio or voice recorder
     quantity: "1 per group"
@@ -41,13 +41,18 @@ materials_enriched:
     notes: Pre-printed cards inviting kind words in several languages to spark sharing
 context_variants:
   - context: large-group
-    note: Pass the talking piece around a big circle; say each kind word together as a whole group before acting it out
+    note: Pass the turn marker around a big circle; say each kind word together as a whole group before acting it out
   - context: self-directed
     note: A learner works alone, writing or drawing three kind words they use and one from a home language, then says each aloud to a grown-up or into a recorder
   - context: outdoor-only
     note: Gather in a circle outside; pass a found object (a leaf or stone) and practice kind words while sitting or walking on the ground
   - context: multi-age
     note: Older learners model a kind word in a home language; younger learners repeat it back
+assets:
+  - path: assets/images/L.01.003.01-kind-words.svg
+    alt: Six speech bubbles around a smiling child with open hands, each holding a kind word in a different language — please (English), gracias (Español), شكراً (العربية), 谢谢 (中文), asante (Kiswahili), and धन्यवाद (हिन्दी) — each labeled with its language, teaching that kind words come in every language.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice kind words — please, thank you, may I, and the kind words of
@@ -89,7 +94,7 @@ matters. Every family and every language has its own kind words — and yours do
 ## Materials
 
 - Chart paper and markers
-- A soft talking piece (ball, stone, or beanbag)
+- A soft turn marker (ball, stone, or beanbag)
 
 ## Preparation
 
@@ -100,17 +105,20 @@ matters. Every family and every language has its own kind words — and yours do
 
 The standard names "please, thank you, and may I," but kind words are not one
 language's property. Invite — never require — learners to share how they speak
-kindly at home. Honor every version as a real kind word. Some learners may not feel
-safe sharing a home language; accepting "I say it quietly at home" is fine. Read the
-procedure aloud; guide the sharing and the wall.
+kindly at home. Sign languages are languages too: a kind word signed, gestured, or
+shown on a picture card is a real kind word. A learner who does not speak with their
+mouth shares kind words with sign, a gesture, or a card. Honor every version as a real
+kind word. Some learners may not feel safe sharing a home language; accepting "I say
+it quietly at home" is fine. Read the procedure aloud; guide the sharing and the wall.
 
 ## Procedure
 
 1. **Gather (5 min).** Sit in a circle. Think of a time someone was kind to you.
    What did they say?
-2. **Meet the kind words (10 min).** Say "please," "thank you," and "may I" together.
-   Act each one out: open hands for "please," a nod for "thank you," a raised hand
-   for "may I." Ask yourself: what kind words do we say in my family, in my language?
+2. **Meet the kind words (10 min).** Say — or sign — "please," "thank you," and "may I"
+   together. Act each one out: open hands for "please," a nod for "thank you," a
+   raised hand for "may I." Ask yourself: what kind words do we say in my family, in
+   my language?
    Share one if you want to.
 3. **Kind word practice (15 min).** With a partner, practice three small scenes: ask
    to borrow a crayon, thank someone who helped you, and ask to join a game. Use your
@@ -123,7 +131,8 @@ procedure aloud; guide the sharing and the wall.
 ## Differentiation
 
 - **Support:** Model one kind word with a gesture; offer a sentence starter
-  ("May I...?").
+  ("May I...?"). For a learner who does not speak with their mouth, offer sign or a
+  picture "kind word" card as their way to share.
 - **Extension:** Invite learners to teach the class one kind word in a home language
   and add it to the wall with a drawing of when they would use it.
 

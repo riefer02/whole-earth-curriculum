@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Kind Words: kind words come in every language</title>
+  <desc id="desc">A smiling child stands in the center with open hands, the gesture for "please." Around the child float six speech bubbles, each holding a kind word in a different language: "please" (English), "gracias" (Español), "شكراً" (العربية), "谢谢" (中文), "asante" (Kiswahili), and "धन्यवाद" (हिन्दी). Each bubble is labeled with its language. A small heart floats above the child. The written words themselves carry the meaning, not color, so the picture prints clearly in grayscale and teaches that every language has its own kind words and no one language owns kindness.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Kind Words</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Kind words come in every language</text>
+
+  <!-- Heart above child -->
+  <path d="M256 96 Q250 88 244 96 Q238 104 256 114 Q274 104 268 96 Q262 88 256 96 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Central child with open "please" hands -->
+  <g>
+    <circle cx="256" cy="270" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M230 268 A26 26 0 0 1 282 268 Z" fill="#2b3a42"/>
+    <circle cx="246" cy="270" r="2.4" fill="#2b3a42"/>
+    <circle cx="266" cy="270" r="2.4" fill="#2b3a42"/>
+    <path d="M246 280 Q256 287 266 280" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="238" y="298" width="36" height="56" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="246" y1="354" x2="244" y2="386" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="266" y1="354" x2="268" y2="386" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="238" y1="312" x2="208" y2="302" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="274" y1="312" x2="304" y2="302" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="205" cy="302" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="307" cy="302" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Bubble 1: please (English) -->
+  <rect x="52" y="96" width="132" height="50" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M108 146 L128 146 L118 160 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="118" y="129" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#222222">please</text>
+  <text x="118" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">English</text>
+
+  <!-- Bubble 2: gracias (Español) -->
+  <rect x="328" y="96" width="132" height="50" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M384 146 L404 146 L394 160 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="394" y="129" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">gracias</text>
+  <text x="394" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Español</text>
+
+  <!-- Bubble 3: شكراً (العربية) -->
+  <rect x="40" y="236" width="120" height="50" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M160 251 L160 271 L176 261 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="100" y="269" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#222222">شكراً</text>
+  <text x="100" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">العربية</text>
+
+  <!-- Bubble 4: 谢谢 (中文) -->
+  <rect x="352" y="236" width="120" height="50" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M352 251 L352 271 L336 261 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="412" y="269" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#222222">谢谢</text>
+  <text x="412" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">中文</text>
+
+  <!-- Bubble 5: asante (Kiswahili) -->
+  <rect x="52" y="380" width="120" height="50" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M92 380 L112 380 L126 368 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="112" y="413" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">asante</text>
+  <text x="112" y="446" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Kiswahili</text>
+
+  <!-- Bubble 6: धन्यवाद (हिन्दी) -->
+  <rect x="340" y="380" width="132" height="50" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M390 380 L410 380 L378 368 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="406" y="413" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">धन्यवाद</text>
+  <text x="406" y="446" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">हिन्दी</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every language has its own kind words — and yours do too.</text>
+</svg>

@@ -22,7 +22,7 @@ key_vocabulary:
   - my turn
   - your turn
 materials:
-  - name: Talking stick
+  - name: Turn marker
     quantity: 1
     notes: Any decorated stick or wand that travels to show whose turn it is
   - name: Hand-raising picture cards
@@ -30,7 +30,7 @@ materials:
     notes: Simple cards showing a raised hand and a waiting body
 materials_low_tech:
   - name: A found stick
-    notes: A stick from outside can be the talking stick
+    notes: A stick from outside can be the turn marker
   - name: Hands and bodies
     notes: Practice raising a hand and waiting with no cards or props
 materials_enriched:
@@ -42,13 +42,18 @@ materials_enriched:
     notes: A reusable chart where learners move a marker to show who speaks next
 context_variants:
   - context: large-group
-    note: Pass one talking stick around a large circle; everyone practices raising a hand and waiting while many are waiting their turn
+    note: Pass one turn marker around a large circle; everyone practices raising a hand and waiting while many are waiting their turn
   - context: self-directed
     note: A learner practices with a family member or older friend at home, taking turns and raising a hand before speaking
   - context: outdoor-only
     note: Sit in a circle outdoors and pass a found stick; a hand, card, or wave raised to the sky is the signal to speak
   - context: multi-age
     note: Older learners model raising a hand and waiting; younger learners mirror them before speaking
+assets:
+  - path: assets/images/L.01.003.03-turn-signals.svg
+    alt: Four children in a row — one holds the turn marker and speaks, while three wait using different turn signals — a raised hand, a "my turn" card (with a signing hand), and a tap on the knee — each labeled, teaching that there are many ways to ask for a turn and every voice gets a fair chance.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice the routines of turn-taking — raising a hand, waiting, and
@@ -88,7 +93,7 @@ fair chance to be heard — not just the loudest or the fastest.
 
 ## Materials
 
-- A talking stick
+- A turn marker
 - Hand-raising picture cards
 
 ## Preparation
@@ -99,7 +104,7 @@ fair chance to be heard — not just the loudest or the fastest.
 ## Facilitator note
 
 This lesson turns waiting from a rule into a fair-sharing practice. The aim is not
-obedience but equity: every voice gets a turn. Use the talking stick so the turn is
+obedience but equity: every voice gets a turn. Use the turn marker so the turn is
 visible and concrete. Praise waiting ("you waited and your idea still got heard")
 more than you praise speed. The "raised hand" signal can be any clear signal a learner
 can make — a raised hand, a raised card, a look, a tap, a small sound, or a partner
@@ -112,7 +117,7 @@ the games with the learners.
 
 1. **Gather (5 min).** Sit in a circle. Think: what happens when everyone talks at
    once? Is it easy to hear anyone?
-2. **Meet the talking stick (10 min).** The person holding the stick speaks; everyone
+2. **Meet the turn marker (10 min).** The person holding the stick speaks; everyone
    else listens. Practice: pass the stick around and have each person share their name
    and one favorite thing — with their voice, with sign, or by pointing to a picture.
    Only the stick-holder talks.
@@ -132,12 +137,12 @@ the games with the learners.
   offer a physical token to hold while waiting. Offer a non-hand signal (a card, a
   look, a tap) for learners who cannot raise a hand, and a picture "my turn, please"
   card for learners who do not speak.
-- **Extension:** Invite learners to run the talking-stick circle themselves, choosing
+- **Extension:** Invite learners to run the turn-marker circle themselves, choosing
   who speaks next with kind words.
 
 ## Assessment
 
 - **Formative (observation):** Does the learner show their turn signal (a raised hand,
-  a card, a look, or a partner raising for them) and wait for the talking stick instead
+  a card, a look, or a partner raising for them) and wait for the turn marker instead
   of calling out?
 - **Self (reflection):** Ask: "How did it feel to wait? Was it hard or easy today?"
