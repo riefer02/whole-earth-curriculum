@@ -75,13 +75,19 @@ carried through *every* lesson, so values are not a unit but a habit.
 ## 5. Where it stands today *(live snapshot — growing)*
 
 - **975 standards** — a complete K–12 vertical spine across 10 domains and 4 pillars.
-- **2 full year-plans** (Kindergarten and Grade 1), each ~180 days.
-- **25 units** and **135 lessons**, authored and review-gated, with assets and
-  accessible SVG graphics.
+- **2 complete grades** (Kindergarten and Grade 1) — each ~180 days, all units and
+  lessons authored and illustrated, end-to-end.
+- **Grade 2 year-plan** complete with 12 unit stubs.
+- **Upper-grade calibration exemplars** — Grade 5 science, Grade 9 science, and
+  Grade 9 ethics/history — setting the rigor bar for grades 3–12.
+- **251 lessons** and **248 SVG assets** — a 1:1 lesson-to-asset ratio, all
+  accessible (alt text, grayscale-printable, diverse representation).
+- **40 units** across 5 grades.
 - A complete **assessment framework**, **facilitation guide**, **developmental
-  rubric**, and **art/accessibility style guide**.
+  rubric**, **art/accessibility style guide**, and **evidence-grounded contexts
+  guide**.
 - A reproducible **agent loop** that produces, reviews, and versions content — so the
-  remaining 11 grades can be produced at speed and consistent quality.
+  remaining 10 grades can be produced at speed and consistent quality.
 
 ## 6. The ask
 

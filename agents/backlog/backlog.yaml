@@ -1650,4 +1650,134 @@ items:
       global-culture-editor:
         verdict: passed
         note: "All 7 SVGs + alt: no Western/urban default (community web has market + language group; celebration universal not one holiday), skin tones span light-dark, natural disability (wheelchair/hearing-aid/cane/glasses), families span one/two/grandparent/chosen-foster. Fixed L.01.012.01 light-happy/dark-scared mapping: swapped happy->darkest #6f4a2e and scared->lightest #f5d6b6. validate passes."
+  - id: B-100
+    title: Author Grade 3 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 3
+    domain: null
+    status: ready
+    priority: 30
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-03-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+  - id: B-101
+    title: Author Grade 4 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 4
+    domain: null
+    status: ready
+    priority: 31
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-04-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+  - id: B-102
+    title: Author Grade 5 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 5
+    domain: null
+    status: ready
+    priority: 32
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-05-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+  - id: B-103
+    title: Author Grade 6 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 6
+    domain: null
+    status: ready
+    priority: 33
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-06-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+  - id: B-104
+    title: Author Grade 7 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 7
+    domain: null
+    status: ready
+    priority: 34
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-07-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+  - id: B-105
+    title: Author Grade 8 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 8
+    domain: null
+    status: ready
+    priority: 35
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-08-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+  - id: B-106
+    title: Author Grade 9 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 9
+    domain: null
+    status: ready
+    priority: 36
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-09-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+  - id: B-107
+    title: Author Grade 10 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 10
+    domain: null
+    status: ready
+    priority: 37
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-10-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+  - id: B-108
+    title: Author Grade 11 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 11
+    domain: null
+    status: ready
+    priority: 38
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-11-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+  - id: B-109
+    title: Author Grade 12 scope (full 180-day plan)
+    agent: scope-sequencer
+    type: scope
+    grade: 12
+    domain: null
+    status: ready
+    priority: 39
+    depends_on: []
+    required_reviews:
+      - vision-architect
+      - reviewer
+    notes: Author curriculum/k-12/grade-12-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
 
