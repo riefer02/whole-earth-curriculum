@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two celebrations, alike and different</title>
+  <desc id="desc">Two overlapping circles compare two celebrations of the same kind of event. The left circle is labeled celebration one and shows a lantern and a shared meal. The right circle is labeled celebration two and shows a table of foods and a song. Where the circles overlap, a heart and the words both, gather, share, and hope show what the two celebrations have in common. The labels, the shapes, and the words, not color, carry the meaning, so the picture prints clearly in grayscale and shows that two celebrations can be different treasures and alike in the heart, with neither one better than the other.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Two Celebrations, Alike and Different</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Different treasures &#183; alike in the heart</text>
+
+  <!-- circles -->
+  <circle cx="160" cy="300" r="120" fill="#6b93b6" fill-opacity="0.14" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="352" cy="300" r="120" fill="#7a9e7e" fill-opacity="0.14" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="160" y="180" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">celebration one</text>
+  <text x="352" y="180" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">celebration two</text>
+
+  <!-- lantern (left outer) -->
+  <g>
+    <path d="M138 232 Q150 218 162 232" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="140" y="232" width="20" height="30" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="150" y1="232" x2="150" y2="262" stroke="#2b3a42" stroke-width="1.6"/>
+    <line x1="140" y1="247" x2="160" y2="247" stroke="#2b3a42" stroke-width="1.6"/>
+    <ellipse cx="150" cy="250" rx="4" ry="6" fill="#e0a458"/>
+  </g>
+  <text x="160" y="312" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">a lantern</text>
+  <text x="160" y="332" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">a shared meal</text>
+
+  <!-- table of foods + song (right outer) -->
+  <g>
+    <rect x="336" y="238" width="52" height="8" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="344" y1="246" x2="344" y2="270" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="380" y1="246" x2="380" y2="270" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="346" cy="230" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="362" cy="228" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="378" cy="231" r="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- music note -->
+    <path d="M360 214 L360 202" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="354" cy="202" rx="6" ry="4" fill="#4f6d7a"/>
+  </g>
+  <text x="352" y="312" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">a table of foods</text>
+  <text x="352" y="332" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">a song</text>
+
+  <!-- overlap: both -->
+  <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">both</text>
+  <path d="M256 248 C244 238 244 258 256 250 C268 258 268 238 256 248 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">gather</text>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">share</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">hope</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Both gather, both share food, both hope for a good year.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Neither celebration is better &#183; both are real</text>
+</svg>

@@ -51,6 +51,11 @@ context_variants:
     note: Act out the full arc outside in a game of turns — someone left out, someone notices, someone invites them in — naming each step
   - context: level-grouped
     note: Learners who grasp the two-step arc coach others by asking "what did they notice first? what did they do next?"
+assets:
+  - path: assets/images/L.01.009.09-notice-then-help.svg
+    alt: "Two numbered steps show standing up and helping. Step 1 notice: a child sees someone left out and says that is not fair. Step 2 help: the child reaches out and invites them to come join us. Below, a repair band shows everyone playing together, so the story ends in warmth and inclusion."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring together noticing unfairness and doing a kind act: they follow a

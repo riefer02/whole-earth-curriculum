@@ -1568,12 +1568,22 @@ items:
     type: assets
     grade: 1
     domain: D08
-    status: ready
+    status: done
     priority: 51
     depends_on:
       - B-060
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.009 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 10 assets resolve to real files, non-empty alt, kind/source valid. 10 SVGs self-contained XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal. History then-and-now rank-free (L.02 'neither better', candle-lantern/pot valid living ways), no dates/war/triumphalism. Traditions from inside meaning ('never costume/tokenize', no ranking, 'may pass'); SVG 03 generic icons + meaning tags. Place/maps 'no travel needed', 'no correct place only home'. Unfairness/kindness gentle blame-free repair ('no child is ever the problem'). Objectives resolve to 8 grade-1 D08 standards. UDL intact. Non-blocking: L.01 says three cards vs four in SVG."
+      accessibility-editor:
+        verdict: passed
+        note: All 10 SVGs role=img + aria-labelledby + title/desc, concept-complete alt. Color-not-only-signal (labels/order-words/meaning-tags/shapes, grayscale-safe). Map/globe tactile path (L.006 raised-line string/sand-glue map, textured globe). Story/tradition non-speaking/non-visual + no forced disclosure ('may pass', never perform). Unfairness/kindness gentle blame-free repair. Inclusive (wheelchair sharing meal, glasses grandparent). Low-tech all, devices only enriched. No edits. validate passes (301 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Checked all 10 SVGs + lesson alt text: no Western/urban default, varied warm skin tones, named traditions (Lunar New Year, Nowruz/Haft-Sin, harvest) kept generic/non-tokenized and unranked, color never the only signal. No edits needed."
   - id: B-092
     title: "Illustration pass: add SVG assets to lessons in U.01.010"
     agent: asset-designer

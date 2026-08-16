@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A kind act, and why it mattered</title>
+  <desc id="desc">Two panels tell one gentle kind act and its meaning. The first panel is labeled the kind act and shows a child holding out a bowl of food to a child who has none. The second panel is labeled why it mattered and shows the child who received the food smiling with a warm heart above, because kindness met a need and told them they are not alone. Skin tones and clothes differ between the two children. The labels, the bowl, the heart, and the smiling face, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that a kind act is small but matters, because it meets a need and grows.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">A Kind Act</text>
+
+  <!-- panels -->
+  <rect x="20" y="84" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="266" y="84" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <text x="133" y="112" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">the kind act</text>
+  <text x="379" y="112" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">why it mattered</text>
+
+  <!-- arrow between panels -->
+  <line x1="250" y1="234" x2="260" y2="234" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M260 228 L267 234 L260 240 Z" fill="#4f6d7a"/>
+
+  <!-- ===== Panel 1: a child shares food ===== -->
+  <!-- giving child -->
+  <circle cx="95" cy="180" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M81 178 A14 14 0 0 1 109 178 Z" fill="#2b3a42"/>
+  <circle cx="89" cy="180" r="1.8" fill="#2b3a42"/>
+  <circle cx="101" cy="180" r="1.8" fill="#2b3a42"/>
+  <path d="M89 187 Q95 192 101 187" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="85" y="195" width="20" height="36" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="89" y1="231" x2="87" y2="260" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="101" y1="231" x2="103" y2="260" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- arms offering bowl -->
+  <line x1="105" y1="208" x2="130" y2="216" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- bowl -->
+  <path d="M128 200 Q142 194 156 200 L152 224 L132 224 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="126" y1="196" x2="158" y2="196" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" fill="none">
+    <path d="M136 214 Q138 211 140 214"/>
+    <path d="M146 214 Q148 211 150 214"/>
+  </g>
+  <!-- receiving child -->
+  <circle cx="175" cy="236" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M162 234 A13 13 0 0 1 188 234 Z" fill="#4f6d7a"/>
+  <circle cx="169" cy="236" r="1.6" fill="#2b3a42"/>
+  <circle cx="181" cy="236" r="1.6" fill="#2b3a42"/>
+  <path d="M169 243 Q175 247 181 243" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="166" y="250" width="18" height="28" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="170" y1="278" x2="168" y2="300" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="180" y1="278" x2="182" y2="300" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="133" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a child shares food</text>
+
+  <!-- ===== Panel 2: why it mattered ===== -->
+  <!-- heart -->
+  <path d="M379 150 C366 138 366 162 379 170 C392 162 392 138 379 150 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <!-- warm lines -->
+  <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+    <line x1="352" y1="170" x2="344" y2="176"/>
+    <line x1="406" y1="170" x2="414" y2="176"/>
+    <line x1="352" y1="196" x2="346" y2="204"/>
+    <line x1="406" y1="196" x2="412" y2="204"/>
+  </g>
+  <!-- smiling child -->
+  <circle cx="379" cy="240" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M363 238 A16 16 0 0 1 395 238 Z" fill="#4f6d7a"/>
+  <circle cx="372" cy="240" r="1.9" fill="#2b3a42"/>
+  <circle cx="386" cy="240" r="1.9" fill="#2b3a42"/>
+  <path d="M371 249 Q379 256 387 249" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="368" y="257" width="22" height="38" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="372" y1="295" x2="370" y2="322" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="386" y1="295" x2="388" y2="322" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <text x="379" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">they felt cared for, not alone</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Kindness meets a need and tells someone: you are not alone.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Kindness is small and mighty &#183; it grows</text>
+</svg>

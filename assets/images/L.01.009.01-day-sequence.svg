@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sequencing my day: first, next, then, last</title>
+  <desc id="desc">Four cards in a left-to-right line show the order of a day. Card one is a rising sun with a child stretching, labeled wake and first. Card two is a bowl with a spoon, labeled eat and next. Card three is a ball, labeled play and then. Card four is a moon and star with a child lying down, labeled sleep and last. Arrows point from each card to the next. The order words and arrows, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that a day is a story told in order.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Sequencing My Day</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A day is a story told in order</text>
+
+  <!-- card frames -->
+  <rect x="19" y="112" width="96" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="145" y="112" width="96" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="271" y="112" width="96" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="397" y="112" width="96" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- arrows between cards -->
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" fill="none">
+    <line x1="119" y1="207" x2="139" y2="207"/>
+    <line x1="245" y1="207" x2="265" y2="207"/>
+    <line x1="371" y1="207" x2="391" y2="207"/>
+  </g>
+  <g fill="#4f6d7a">
+    <path d="M139 201 L147 207 L139 213 Z"/>
+    <path d="M265 201 L273 207 L265 213 Z"/>
+    <path d="M391 201 L399 207 L391 213 Z"/>
+  </g>
+
+  <!-- card 1: wake -->
+  <g>
+    <circle cx="67" cy="158" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+      <line x1="67" y1="128" x2="67" y2="118"/>
+      <line x1="44" y1="140" x2="36" y2="134"/>
+      <line x1="90" y1="140" x2="98" y2="134"/>
+      <line x1="43" y1="168" x2="35" y2="174"/>
+      <line x1="91" y1="168" x2="99" y2="174"/>
+    </g>
+    <!-- child stretching -->
+    <circle cx="67" cy="236" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M54 234 A13 13 0 0 1 80 234 Z" fill="#2b3a42"/>
+    <circle cx="62" cy="236" r="1.6" fill="#2b3a42"/>
+    <circle cx="72" cy="236" r="1.6" fill="#2b3a42"/>
+    <path d="M62 243 Q67 247 72 243" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="58" y="250" width="18" height="26" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="60" y1="222" x2="50" y2="210" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="74" y1="222" x2="84" y2="210" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <text x="67" y="290" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">wake</text>
+  </g>
+
+  <!-- card 2: eat -->
+  <g>
+    <path d="M165 176 Q193 168 221 176 L216 208 L170 208 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="162" y1="170" x2="224" y2="170" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="178" y1="168" x2="182" y2="150" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="183" cy="146" rx="7" ry="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" fill="none">
+      <path d="M178 232 Q180 228 182 232"/>
+      <path d="M190 234 Q192 230 194 234"/>
+    </g>
+    <text x="193" y="290" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">eat</text>
+  </g>
+
+  <!-- card 3: play -->
+  <g>
+    <circle cx="319" cy="204" r="34" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M319 170 A34 34 0 0 1 353 204" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M319 170 A34 34 0 0 0 285 204" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M319 238 A34 34 0 0 0 285 204" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M319 238 A34 34 0 0 1 353 204" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="319" y="290" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">play</text>
+  </g>
+
+  <!-- card 4: sleep -->
+  <g>
+    <path d="M431 138 A24 24 0 1 1 463 166 A24 24 0 0 1 431 138 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M443 162 L443 152 M450 165 L456 159 M435 165 L429 159" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="431" cy="204" r="2" fill="#4f6d7a"/>
+    <circle cx="459" cy="230" r="2" fill="#4f6d7a"/>
+    <!-- child lying -->
+    <circle cx="451" cy="250" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M438 248 A13 13 0 0 1 464 248 Z" fill="#4f6d7a"/>
+    <path d="M444 250 Q447 252 450 250" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <rect x="436" y="262" width="30" height="14" rx="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="445" y="290" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">sleep</text>
+  </g>
+
+  <!-- order labels -->
+  <text x="67" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">first</text>
+  <text x="193" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">next</text>
+  <text x="319" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">then</text>
+  <text x="445" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">last</text>
+
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">before &#183; next &#183; after &#183; the order tells the story</text>
+</svg>

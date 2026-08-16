@@ -50,6 +50,11 @@ context_variants:
     note: Act out a game of turns outside — first one person is left out (unfair), then someone invites them in (help) — and name each
   - context: multi-age
     note: Older learners read the story aloud while younger learners point to the unfair moment and the helping moment
+assets:
+  - path: assets/images/L.01.009.07-unfair-then-help.svg
+    alt: "Two panels tell a gentle, blame-free story. First, three children play with a ball while a fourth child stands apart, head down, left out for no reason (unfair). Then a child reaches out and invites them in, and now all four play together (help). Ends in repair, not blame."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners hear a gentle, blame-free story in which a character is treated unfairly,

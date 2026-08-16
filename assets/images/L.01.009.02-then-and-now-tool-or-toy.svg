@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Then and now: a tool and a toy, neither better</title>
+  <desc id="desc">A two-by-two grid compares one thing from long ago with one thing today. The left column is labeled long ago and shows a clay pot and a hand-carved spinning top. The right column is labeled today and shows a jug and a store top. The top row is a tool for holding water: both the clay pot and the jug hold water. The bottom row is a toy: both the carved top and the store top spin. The labels and the matching shapes, not color, carry the meaning, so the picture prints clearly in grayscale and shows that neither way is better, only different.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Then and Now &#183; A Tool or Toy</text>
+
+  <line x1="256" y1="70" x2="256" y2="470" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <text x="128" y="94" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">long ago</text>
+  <text x="384" y="94" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">today</text>
+
+  <text x="128" y="120" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a tool for water</text>
+  <text x="384" y="120" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a tool for water</text>
+
+  <!-- clay pot (long ago, water) -->
+  <g>
+    <path d="M84 150 Q84 244 128 244 Q172 244 172 150 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="128" cy="150" rx="44" ry="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M92 150 Q128 124 164 150" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="128" y="272" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">clay pot</text>
+  </g>
+
+  <!-- jug (today, water) -->
+  <g>
+    <path d="M350 150 L354 224 Q354 244 384 244 Q414 244 414 224 L418 150 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="384" cy="150" rx="34" ry="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M418 168 Q436 168 436 190 Q436 210 420 210" fill="none" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <text x="384" y="272" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">jug</text>
+  </g>
+
+  <text x="128" y="308" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a toy that spins</text>
+  <text x="384" y="308" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a toy that spins</text>
+
+  <!-- carved top (long ago, toy) -->
+  <g>
+    <path d="M128 340 L152 386 Q128 400 104 386 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="128" y1="386" x2="128" y2="398" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M118 356 Q128 372 138 356" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M112 372 Q128 386 144 372" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M96 340 Q86 372 78 396" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <text x="128" y="430" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">carved top</text>
+  </g>
+
+  <!-- store top (today, toy) -->
+  <g>
+    <path d="M384 340 L404 386 Q384 400 364 386 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="384" y1="386" x2="384" y2="398" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <rect x="380" y="326" width="8" height="16" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M374 358 L394 358 M374 372 L394 372" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="384" y="430" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">store top</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">Both hold water &#183; Both spin &#183; Neither is better</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Different ways people solve the same job</text>
+</svg>

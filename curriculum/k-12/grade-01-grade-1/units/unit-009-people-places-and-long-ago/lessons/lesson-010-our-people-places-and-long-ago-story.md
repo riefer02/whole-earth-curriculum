@@ -60,6 +60,11 @@ context_variants:
     note: Build the story with found objects in a line — one for time, one for long ago, one for place, one for kindness — and tell it as you walk the line
   - context: multi-age
     note: Older learners scribe captions while younger learners draw and dictate; pairs share their pages together
+assets:
+  - path: assets/images/L.01.009.10-my-story-page.svg
+    alt: "A story page divided into five labeled sections — my day in order, then and now, a tradition, my place, and a kind act — each with a simple icon. Shows how all the pieces of the unit fit together into one story, and that every learner's story is different and every one belongs."
+    kind: image
+    source: original
 duration_minutes: 60
 summary: >-
   Learners gather everything from the unit into one "my story" page: a day in order,

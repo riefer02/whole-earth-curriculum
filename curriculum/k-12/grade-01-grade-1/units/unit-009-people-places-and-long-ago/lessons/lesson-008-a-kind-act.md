@@ -50,6 +50,11 @@ context_variants:
     note: Find a living chance for kindness — give water to a plant, move a stone from a path, notice an animal being cared for — and name why it matters
   - context: multi-age
     note: Older learners help younger ones put "why it mattered" into words; younger learners draw it
+assets:
+  - path: assets/images/L.01.009.08-a-kind-act.svg
+    alt: "Two panels show a kind act and its meaning. First, a child holds out a bowl of food to a child who has none (the kind act). Then the child who received it smiles with a warm heart above (why it mattered: they felt cared for and not alone)."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet a gentle kind act where someone helped a person or animal, describe

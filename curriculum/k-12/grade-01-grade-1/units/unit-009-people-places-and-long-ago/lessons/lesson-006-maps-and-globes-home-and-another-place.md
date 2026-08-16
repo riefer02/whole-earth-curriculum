@@ -51,6 +51,11 @@ context_variants:
     note: Draw a map of the outdoor space on the ground, mark "home," then mark a far place on a round fruit or drawn circle and name one difference
   - context: level-grouped
     note: Learners who can read labels help others find the two places; the whole group names the difference
+assets:
+  - path: assets/images/L.01.009.06-map-and-globe.svg
+    alt: "A map and a globe side by side. The flat map shows a home, a tree, water, and an another-place pin from above. The round globe on a stand shows land and water shapes with a home pin and an another-place pin joined by a line labeled far. Shows that a map is a picture from above and a globe is the Earth as a ball, and every place on them is someone's home."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners use a simple map or globe to find where they live and one other place, and

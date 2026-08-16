@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My people, places, and long ago story page</title>
+  <desc id="desc">This is a story page divided into five labeled sections, like a foldable a learner fills in. The sections are: my day in order, with a sun and an arrow; then and now, with a small pot and a spinning top; a tradition, with a heart; my place, with a hill and water; and a kind act, with a hand and a small heart. Each section has an icon and a clear label. The labels and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and shows how all the pieces of the unit fit together into one story, and that every learner's story is different and every one belongs.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">My People, Places and Long Ago Story</text>
+
+  <!-- the page -->
+  <rect x="28" y="66" width="456" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">My story page &#183; five pieces of one story</text>
+
+  <!-- section boxes -->
+  <rect x="44" y="108" width="140" height="150" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="190" y="108" width="140" height="150" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="336" y="108" width="140" height="150" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="102" y="270" width="140" height="150" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="258" y="270" width="140" height="150" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <!-- 1: my day in order -->
+  <g>
+    <circle cx="114" cy="172" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+      <line x1="114" y1="148" x2="114" y2="140"/>
+      <line x1="92" y1="172" x2="84" y2="172"/>
+      <line x1="136" y1="172" x2="144" y2="172"/>
+      <line x1="98" y1="156" x2="92" y2="150"/>
+      <line x1="130" y1="156" x2="136" y2="150"/>
+    </g>
+    <line x1="96" y1="196" x2="132" y2="196" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M132 191 L139 196 L132 201 Z" fill="#4f6d7a"/>
+    <text x="114" y="242" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">my day in order</text>
+  </g>
+
+  <!-- 2: then and now -->
+  <g>
+    <path d="M244 160 Q260 152 276 160 L272 184 L248 184 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="242" y1="156" x2="278" y2="156" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M252 194 L264 210 Q260 216 248 210 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="260" y1="210" x2="260" y2="216" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="260" y="242" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">then and now</text>
+  </g>
+
+  <!-- 3: a tradition -->
+  <g>
+    <path d="M406 158 C394 146 394 168 406 176 C418 168 418 146 406 158 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="406" y="242" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a tradition</text>
+  </g>
+
+  <!-- 4: my place -->
+  <g>
+    <path d="M156 300 L156 276 L172 276 L172 300 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M172 300 L172 288 L184 288 L184 300 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M150 300 L186 300" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M158 316 Q164 310 170 316" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M150 324 Q156 318 162 324" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="172" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">my place</text>
+  </g>
+
+  <!-- 5: a kind act -->
+  <g>
+    <path d="M306 312 Q314 296 330 306 L338 318 Q344 326 336 330 L322 330 Q310 330 306 322 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 316 C332 306 344 306 340 314 C350 308 350 320 340 320" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+    <text x="328" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a kind act</text>
+  </g>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every learner's story is different, and every one belongs.</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Told from many perspectives &#183; never just one</text>
+</svg>

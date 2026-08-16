@@ -50,6 +50,11 @@ context_variants:
     note: Share a tradition tied to the seasons or the land — a harvest, a rain, a first-fruit — and notice how place is part of its meaning
   - context: multi-age
     note: Older learners help younger ones put the meaning into words; younger learners can draw it
+assets:
+  - path: assets/images/L.01.009.03-tradition-as-treasure.svg
+    alt: "Three traditions told with their meaning: people gather around a table to share a meal (meaning tag: thanking), a grown-up holds a baby while a musical note floats above (welcoming), and a grandparent with glasses and a child look at a framed picture together (remembering). Each is held respectfully, with its meaning, never as a costume."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet one or two family or community traditions, held respectfully, and

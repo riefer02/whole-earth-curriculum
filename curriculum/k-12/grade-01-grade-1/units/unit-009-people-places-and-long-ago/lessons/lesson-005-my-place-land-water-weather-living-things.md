@@ -50,6 +50,11 @@ context_variants:
     note: Do the whole lesson outside, gathering one real thing for each of the four parts — a stone, a handful of water or dry soil, a cloud to name, a leaf
   - context: multi-age
     note: Older learners write the four labels while younger learners draw or place the found objects
+assets:
+  - path: assets/images/L.01.009.05-my-place.svg
+    alt: "A four-part chart of a home place: land (mountains), water (waves and a raindrop), weather (sun behind a rain cloud), and living things (a tree and a bird), with a small home marker in the middle. Shows the four parts that make up every place, and that there is no correct place, only the one that is home."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners describe the place where they live — its land, water, weather, and living

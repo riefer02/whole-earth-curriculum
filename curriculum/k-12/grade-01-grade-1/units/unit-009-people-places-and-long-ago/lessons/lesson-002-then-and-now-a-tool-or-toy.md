@@ -50,6 +50,11 @@ context_variants:
     note: Find a living pair outside — a hand-tool and a newer tool, or a seed and a fruit — and feel what is the same and what is different
   - context: level-grouped
     note: Learners who grasp the comparison quickly coach others by asking "what is the same? what is different?" rather than telling
+assets:
+  - path: assets/images/L.01.009.02-then-and-now-tool-or-toy.svg
+    alt: "Two columns compare long ago and today. The top row shows a clay pot and a jug, both holding water. The bottom row shows a hand-carved top and a store top, both spinning. Labels and matching shapes show what changed and what stayed the same, and that neither way is better."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners compare one thing from long ago with one thing today — a tool or a toy —

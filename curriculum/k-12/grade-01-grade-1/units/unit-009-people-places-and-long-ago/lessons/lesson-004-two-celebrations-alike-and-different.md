@@ -50,6 +50,11 @@ context_variants:
     note: Draw the two overlapping circles large on the ground and place pebbles or leaves for each "alike" and "different" finding
   - context: level-grouped
     note: Pairs of learners who are ready coach others with the question "what do both do?" and "what is only in one?"
+assets:
+  - path: assets/images/L.01.009.04-two-celebrations.svg
+    alt: "Two overlapping circles compare two celebrations. One circle shows a lantern and a shared meal; the other shows a table of foods and a song. Where they overlap, the words both, gather, share, and hope show what the two celebrations have in common, so neither is ranked as better."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners compare how two families or communities celebrate or mark the same kind of

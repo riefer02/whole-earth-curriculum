@@ -50,6 +50,11 @@ context_variants:
     note: Act out the day's events in a line across the yard — the line itself shows the order from first to last
   - context: multi-age
     note: Older learners read the order words aloud while younger learners place the cards and act each part
+assets:
+  - path: assets/images/L.01.009.01-day-sequence.svg
+    alt: "Four picture cards in a line show the order of a day: wake (a sun with a child stretching), eat (a bowl), play (a ball), and sleep (a moon with a child lying down), with arrows and the order words first, next, then, last. Shows that a day is a story told in order."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sequence three or four events from their own day using the order words

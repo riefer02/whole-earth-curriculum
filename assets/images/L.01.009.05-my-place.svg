@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My place: land, water, weather, and living things</title>
+  <desc id="desc">A four-part chart shows the pieces of a home place. The top-left square is labeled land and shows mountains. The top-right square is labeled water and shows waves with a raindrop. The bottom-left square is labeled weather and shows a sun behind a rain cloud. The bottom-right square is labeled living things and shows a tree with a bird. A small house marked home sits in the middle. The labels and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that every home place is made of these four parts, and there is no correct place, only the one that is home.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Place</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Land &#183; Water &#183; Weather &#183; Living things</text>
+
+  <!-- quadrant frames -->
+  <rect x="30" y="96" width="220" height="148" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="262" y="96" width="220" height="148" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="30" y="256" width="220" height="148" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="262" y="256" width="220" height="148" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <!-- land -->
+  <text x="140" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">land</text>
+  <g>
+    <path d="M88 218 L128 150 L168 218 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M128 150 L136 162 L120 162 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.4"/>
+    <path d="M140 218 L172 168 L204 218 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="88" y1="218" x2="204" y2="218" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- water -->
+  <text x="372" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">water</text>
+  <g>
+    <path d="M310 190 Q322 180 334 190 T358 190 T382 190" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M310 208 Q322 198 334 208 T358 208 T382 208" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M346 148 Q354 138 362 148 Q358 160 346 148 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- weather -->
+  <text x="140" y="282" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">weather</text>
+  <g>
+    <circle cx="110" cy="322" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+      <line x1="110" y1="300" x2="110" y2="292"/>
+      <line x1="88" y1="322" x2="80" y2="322"/>
+      <line x1="132" y1="322" x2="140" y2="322"/>
+      <line x1="94" y1="306" x2="88" y2="300"/>
+      <line x1="126" y1="306" x2="132" y2="300"/>
+    </g>
+    <path d="M140 352 Q154 340 170 352 Q186 340 200 352 L200 362 Q186 370 170 362 Q154 370 140 362 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <g stroke="#6b93b6" stroke-width="2" stroke-linecap="round">
+      <line x1="156" y1="370" x2="154" y2="380"/>
+      <line x1="172" y1="372" x2="170" y2="382"/>
+      <line x1="188" y1="370" x2="186" y2="380"/>
+    </g>
+  </g>
+
+  <!-- living things -->
+  <text x="372" y="282" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">living things</text>
+  <g>
+    <rect x="362" y="330" width="14" height="42" rx="5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="369" cy="314" r="24" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="356" cy="304" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="384" cy="306" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- bird -->
+    <circle cx="408" cy="330" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M400 330 L392 326 L400 322 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+    <circle cx="411" cy="328" r="1.4" fill="#2b3a42"/>
+  </g>
+
+  <!-- home marker in the middle -->
+  <g>
+    <circle cx="256" cy="256" r="30" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M246 268 L256 250 L266 268 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="249" y="268" width="14" height="12" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">home</text>
+  </g>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">There is no correct place &#183; only the one that is home.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Your place shapes how people live there &#183; every place is different</text>
+</svg>
