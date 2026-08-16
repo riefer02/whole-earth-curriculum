@@ -51,6 +51,15 @@ context_variants:
     note: Some learners name one thing they see; others connect what they see to a feeling; match the challenge to the learner
   - context: outdoor-only
     note: Look at a wall mural, a woven fence, or a pattern of stones and leaves as your artwork; notice and feel it right where you are
+assets:
+  - path: assets/images/L.01.007.02-looking-at-an-artwork.svg
+    alt: >-
+      A framed woven cloth labeled a maker's work hangs at left, with a small paper
+      notice frame over one corner to focus on a detail. Two cards on the right read
+      "I notice..." and "it makes me feel..." with example answers, and a child below
+      looks through a notice frame. Prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners look at an artwork — a picture or a real made object — and name one thing

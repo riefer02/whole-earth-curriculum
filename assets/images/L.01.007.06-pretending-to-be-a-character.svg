@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Pretending to be a character: voice, face, and body</title>
+  <desc id="desc">Three panels show the three tools a child uses to become a character. The first panel, labeled "voice," shows a child's head with an open mouth and a speech bubble reading "high · low · fast · slow." The second panel, labeled "face," shows a big close-up face with wide eyes, raised eyebrows, and an open mouth, with the note "show it with your face." The third panel, labeled "body," shows a child leaning forward with both arms reaching to carry a basket, with the note "tell it with your body." Below, the three are combined under the words "voice + face + body = a character," and a round turn marker — a stone with a cloth knot on top — is drawn beside the label "a turn marker shows whose turn it is." Words and shapes carry all meaning, not color, so the picture prints clearly in grayscale and teaches that there is no correct way to play a character.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Pretending to Be a Character</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your voice, face, and body are the costume.</text>
+
+  <!-- ===== Voice ===== -->
+  <g>
+    <rect x="22" y="96" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="97" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">voice</text>
+    <path d="M48 152 Q48 138 66 138 L128 138 Q146 138 146 152 L146 170 Q146 184 128 184 L94 184 L86 196 L88 184 L66 184 Q48 184 48 170 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="97" y="166" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">high · low ·</text>
+    <text x="97" y="180" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">fast · slow</text>
+    <circle cx="97" cy="226" r="22" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M75 224 A22 22 0 0 1 119 224 Z" fill="#4f6d7a"/>
+    <circle cx="90" cy="226" r="2.2" fill="#2b3a42"/>
+    <circle cx="104" cy="226" r="2.2" fill="#2b3a42"/>
+    <ellipse cx="97" cy="238" rx="7" ry="5" fill="#2b3a42"/>
+    <text x="97" y="276" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">make the voice</text>
+    <text x="97" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">your own way</text>
+  </g>
+
+  <!-- ===== Face ===== -->
+  <g>
+    <rect x="181" y="96" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">face</text>
+    <circle cx="256" cy="186" r="44" fill="#c99567" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M212 184 A44 44 0 0 1 300 184 Z" fill="#2b3a42"/>
+    <circle cx="238" cy="188" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="274" cy="188" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="240" cy="188" r="2.6" fill="#2b3a42"/>
+    <circle cx="272" cy="188" r="2.6" fill="#2b3a42"/>
+    <path d="M228 172 Q238 166 248 172" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M264 172 Q274 166 284 172" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="256" cy="210" rx="11" ry="7" fill="#2b3a42"/>
+    <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">show it with</text>
+    <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">your face</text>
+  </g>
+
+  <!-- ===== Body ===== -->
+  <g>
+    <rect x="340" y="96" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="415" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">body</text>
+    <circle cx="415" cy="164" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M395 162 A20 20 0 0 1 435 162 Z" fill="#2b3a42"/>
+    <circle cx="409" cy="164" r="2" fill="#2b3a42"/>
+    <circle cx="421" cy="164" r="2" fill="#2b3a42"/>
+    <path d="M409 172 Q415 177 421 172" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="399" y="186" width="32" height="44" rx="11" fill="#c47a6b" stroke="#2b3a42" stroke-width="2"/>
+    <!-- arms reaching forward to carry -->
+    <line x1="399" y1="194" x2="368" y2="214" stroke="#2b3a42" stroke-width="6.5" stroke-linecap="round"/>
+    <circle cx="366" cy="216" r="4.5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="431" y1="194" x2="462" y2="214" stroke="#2b3a42" stroke-width="6.5" stroke-linecap="round"/>
+    <circle cx="464" cy="216" r="4.5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <!-- basket -->
+    <path d="M358 216 L374 244 L456 244 L472 216 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="366" y1="244" x2="464" y2="244" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="408" y1="230" x2="406" y2="256" stroke="#2b3a42" stroke-width="6.5" stroke-linecap="round"/>
+    <line x1="422" y1="230" x2="424" y2="256" stroke="#2b3a42" stroke-width="6.5" stroke-linecap="round"/>
+    <text x="415" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">tell it with</text>
+    <text x="415" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">your body</text>
+  </g>
+
+  <!-- ===== Bottom: combine + turn marker ===== -->
+  <g>
+    <rect x="22" y="330" width="468" height="130" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">voice + face + body = a character</text>
+    <!-- turn marker -->
+    <circle cx="110" cy="414" r="22" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M96 404 Q110 392 124 404" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M96 424 Q110 436 124 424" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M110 394 Q102 380 112 372" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M110 434 Q102 448 112 456" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="152" y="402" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a turn marker</text>
+    <text x="152" y="422" font-family="sans-serif" font-size="13" fill="#4f6d7a">shows whose turn it is</text>
+    <text x="152" y="438" font-family="sans-serif" font-size="13" fill="#4f6d7a">to speak or act</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">There is no correct way to play a character — every way is a way to play.</text>
+</svg>

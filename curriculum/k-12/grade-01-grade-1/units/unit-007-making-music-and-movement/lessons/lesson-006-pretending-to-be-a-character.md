@@ -53,6 +53,15 @@ context_variants:
     note: Some learners focus on one part (just the voice, or just the walk); others use voice, face, and body together
   - context: outdoor-only
     note: Act the story outside, using found things — a stick for a cane, a leaf for a dish — to become the character
+assets:
+  - path: assets/images/L.01.007.06-pretending-to-be-a-character.svg
+    alt: >-
+      Three panels show the tools for becoming a character: voice (a speech bubble
+      with high, low, fast, slow), face (a big expressive close-up), and body (a
+      figure leaning forward to carry a basket). Below, a round turn marker is drawn
+      and labeled as showing whose turn it is. Prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners step into a story and become its characters using voice, face, and body.

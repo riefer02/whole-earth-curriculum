@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Lines, shapes, and colors: the three building blocks of a picture</title>
+  <desc id="desc">Three labeled panels show the parts every picture is built from. The first panel shows three kinds of lines, each labeled: a straight line, a wiggly line, and a zig-zag line. The second panel shows three shapes, each labeled: a circle, a triangle, and a square. The third panel shows three color swatches, each labeled with its name and marked with a different texture so it still reads in grayscale: a solid swatch labeled red, a dotted swatch labeled yellow, and a striped swatch labeled blue. Below, one panel puts the parts together into a simple picture: a circle sun, a triangle-roofed square house, and a wiggly ground line, labeled "your own picture." Labels and shapes carry all meaning, never color alone, and the bottom note says there is no wrong way to draw and every picture belongs.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Lines, Shapes, and Colors</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every picture is built from three parts.</text>
+
+  <!-- ===== Panel 1: lines ===== -->
+  <g>
+    <rect x="22" y="96" width="150" height="230" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="97" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">lines</text>
+    <line x1="40" y1="158" x2="154" y2="158" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <text x="97" y="178" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">straight</text>
+    <path d="M40 216 Q52 200 64 216 Q76 232 88 216 Q100 200 112 216 Q124 232 136 216 Q148 200 154 216" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <text x="97" y="240" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">wiggly</text>
+    <path d="M40 288 L58 268 L76 288 L94 268 L112 288 L130 268 L148 288" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="97" y="308" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">zig-zag</text>
+  </g>
+
+  <!-- ===== Panel 2: shapes ===== -->
+  <g>
+    <rect x="181" y="96" width="150" height="230" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">shapes</text>
+    <circle cx="210" cy="176" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="210" y="224" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">circle</text>
+    <path d="M241 196 L256 154 L271 196 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="256" y="224" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">triangle</text>
+    <rect x="282" y="154" width="44" height="44" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="304" y="224" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">square</text>
+    <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">shapes can join into new shapes</text>
+  </g>
+
+  <!-- ===== Panel 3: colors ===== -->
+  <g>
+    <rect x="340" y="96" width="150" height="230" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="415" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">colors</text>
+    <rect x="360" y="146" width="44" height="40" rx="6" fill="#c47a6b" stroke="#2b3a42" stroke-width="2"/>
+    <text x="414" y="171" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">red</text>
+    <rect x="360" y="204" width="44" height="40" rx="6" fill="#e3c66a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="372" cy="216" r="2.2" fill="#8a7032"/>
+    <circle cx="382" cy="232" r="2.2" fill="#8a7032"/>
+    <circle cx="394" cy="216" r="2.2" fill="#8a7032"/>
+    <circle cx="380" cy="222" r="2.2" fill="#8a7032"/>
+    <text x="414" y="229" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">yellow</text>
+    <rect x="360" y="262" width="44" height="40" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="360" y1="262" x2="404" y2="302" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="375" y1="262" x2="404" y2="286" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="360" y1="278" x2="404" y2="278" stroke="#2b3a42" stroke-width="2"/>
+    <text x="414" y="287" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">blue</text>
+    <text x="415" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">red, yellow, blue</text>
+    <text x="415" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and many more</text>
+  </g>
+
+  <!-- ===== Bottom: put them together ===== -->
+  <g>
+    <rect x="22" y="344" width="468" height="124" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">put the three parts together</text>
+    <!-- sun (circle) -->
+    <circle cx="84" cy="412" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- house: triangle roof + square body -->
+    <path d="M190 390 L236 360 L282 390 Z" fill="#c47a6b" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="196" y="390" width="80" height="52" rx="2" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="226" y="412" width="20" height="30" rx="2" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <!-- wiggly ground line -->
+    <path d="M116 452 Q132 444 148 452 Q164 460 180 452 Q196 444 212 452 Q228 460 244 452" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="312" y="400" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a sun, a house,</text>
+    <text x="312" y="420" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a path —</text>
+    <text x="312" y="440" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">your own picture</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">There is no wrong way to draw — every picture belongs.</text>
+</svg>

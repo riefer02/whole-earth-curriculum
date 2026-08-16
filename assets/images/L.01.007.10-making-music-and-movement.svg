@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Making, music, and movement: four ways to make, all one making</title>
+  <desc id="desc">Four panels show the four kinds of making from the unit, laid out like a gallery. The top-left panel, labeled "draw," shows a sheet of paper with a simple sun and house drawn on it, and a crayon beside it. The top-right panel, labeled "sing," shows a face with an open mouth and two music notes floating up. The bottom-left panel, labeled "move," shows a dancer with arms raised and legs apart. The bottom-right panel, labeled "build," shows a stacked block tower. Beneath them, the words "draw + sing + move + build = making" bring all four together, with the note that every piece has a story and making is a voice that matters. Each panel has both a picture and its word, so the meaning never depends on color and the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Making, Music &amp; Movement</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Four ways to make — all one making.</text>
+
+  <!-- ===== draw ===== -->
+  <g>
+    <rect x="22" y="96" width="224" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="134" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">draw</text>
+    <rect x="88" y="138" width="76" height="66" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="110" cy="156" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M132 162 L144 146 L156 162 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="135" y="162" width="18" height="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="178" y="162" width="8" height="34" rx="3" fill="#c47a6b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M178 162 L186 162 L182 152 Z" fill="#c47a6b" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <!-- ===== sing ===== -->
+  <g>
+    <rect x="266" y="96" width="224" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="378" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">sing</text>
+    <circle cx="364" cy="168" r="19" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M345 166 A19 19 0 0 1 383 166 Z" fill="#2b3a42"/>
+    <circle cx="358" cy="168" r="2" fill="#2b3a42"/>
+    <circle cx="370" cy="168" r="2" fill="#2b3a42"/>
+    <ellipse cx="364" cy="178" rx="6" ry="4.5" fill="#2b3a42"/>
+    <g fill="#2b3a42" stroke="#2b3a42" stroke-width="2">
+      <ellipse cx="394" cy="150" rx="6" ry="4.5"/>
+      <line x1="400" y1="150" x2="400" y2="134"/>
+      <path d="M400 134 Q406 136 404 143" fill="none" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g fill="#2b3a42" stroke="#2b3a42" stroke-width="2">
+      <ellipse cx="406" cy="166" rx="6" ry="4.5"/>
+      <line x1="412" y1="166" x2="412" y2="150"/>
+      <path d="M412 150 Q418 152 416 159" fill="none" stroke-width="2" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- ===== move ===== -->
+  <g>
+    <rect x="22" y="262" width="224" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="134" y="290" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">move</text>
+    <circle cx="134" cy="322" r="14" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 320 A14 14 0 0 1 148 320 Z" fill="#2b3a42"/>
+    <circle cx="130" cy="322" r="1.8" fill="#2b3a42"/>
+    <circle cx="138" cy="322" r="1.8" fill="#2b3a42"/>
+    <path d="M130 328 Q134 332 138 328" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="125" y="338" width="18" height="24" rx="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- arms up -->
+    <line x1="125" y1="342" x2="106" y2="320" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="143" y1="342" x2="162" y2="320" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <!-- legs apart -->
+    <line x1="130" y1="362" x2="120" y2="384" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="138" y1="362" x2="148" y2="384" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M98 332 Q100 324 106 322" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M170 332 Q168 324 162 322" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== build ===== -->
+  <g>
+    <rect x="266" y="262" width="224" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="378" y="290" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#c47a6b">build</text>
+    <rect x="358" y="336" width="40" height="16" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="364" y="318" width="28" height="16" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="370" y="300" width="16" height="16" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="352" y1="354" x2="404" y2="354" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== Bottom banner ===== -->
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">draw + sing + move + build = making</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every piece has a story — making is a voice, and every voice matters.</text>
+</svg>

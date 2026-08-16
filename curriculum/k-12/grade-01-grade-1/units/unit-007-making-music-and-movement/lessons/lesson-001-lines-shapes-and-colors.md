@@ -54,6 +54,15 @@ context_variants:
     note: Group by comfort — some make one line and one shape, others combine many — and match the challenge so everyone names what they made
   - context: outdoor-only
     note: Draw in the dirt with a stick and arrange leaves and stones into shapes; name each element you made
+assets:
+  - path: assets/images/L.01.007.01-lines-shapes-and-colors.svg
+    alt: >-
+      Three labeled panels show the building blocks of a picture: lines (straight,
+      wiggly, zig-zag), shapes (circle, triangle, square), and colors (swatches
+      labeled red, yellow, blue with different textures so they read in grayscale). A
+      bottom panel combines them into a simple sun, house, and path.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners make a drawing or painting using three building blocks — lines, shapes, and

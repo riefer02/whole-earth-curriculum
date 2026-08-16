@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Building with a plan: purpose, plan, build</title>
+  <desc id="desc">Three steps joined by arrows show how a build begins. The first panel, labeled "1 · purpose," shows a thought bubble asking "what is it for?" with the answer "cross the gap." The second panel, labeled "2 · plan," shows the same idea sketched in dashed lines: a bridge deck over two dashed supports above dashed water. The third panel, labeled "3 · build," shows the real thing made of blocks: a blue deck across two stacked block supports over wavy water, labeled "it spans." Arrows point from one step to the next. Words, numbers, and shapes carry all meaning, not color, so the picture prints clearly in grayscale and teaches that a purpose becomes a plan, and a plan becomes a build.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Building with a Plan</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A purpose becomes a plan, and a plan becomes a build.</text>
+
+  <!-- ===== Step 1: purpose ===== -->
+  <g>
+    <rect x="22" y="96" width="140" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="92" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">1 · purpose</text>
+    <path d="M34 160 Q34 144 56 144 L128 144 Q150 144 150 160 L150 180 Q150 196 128 196 L108 196 L98 210 L100 196 L56 196 Q34 196 34 180 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="92" y="174" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">what is it for?</text>
+    <text x="92" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">cross the gap</text>
+    <path d="M54 268 Q68 254 82 268 Q96 282 110 268 Q124 254 130 268" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <text x="92" y="316" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the purpose</text>
+    <text x="92" y="332" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">shapes the plan</text>
+  </g>
+
+  <!-- arrow 1 -->
+  <g>
+    <line x1="164" y1="250" x2="182" y2="250" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M182 250 L172 243 L172 257 Z" fill="#4f6d7a"/>
+  </g>
+
+  <!-- ===== Step 2: plan ===== -->
+  <g>
+    <rect x="186" y="96" width="140" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">2 · plan</text>
+    <line x1="222" y1="200" x2="290" y2="200" stroke="#2b3a42" stroke-width="3" stroke-dasharray="6 4" stroke-linecap="round"/>
+    <rect x="226" y="212" width="20" height="40" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="6 4"/>
+    <rect x="266" y="212" width="20" height="40" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="6 4"/>
+    <path d="M222 274 Q236 268 250 274 Q264 280 278 274 Q292 268 290 274" fill="none" stroke="#6b93b6" stroke-width="3" stroke-dasharray="6 4" stroke-linecap="round"/>
+    <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">sketch it —</text>
+    <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">say it or draw it</text>
+  </g>
+
+  <!-- arrow 2 -->
+  <g>
+    <line x1="328" y1="250" x2="346" y2="250" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M346 250 L336 243 L336 257 Z" fill="#4f6d7a"/>
+  </g>
+
+  <!-- ===== Step 3: build ===== -->
+  <g>
+    <rect x="350" y="96" width="140" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">3 · build</text>
+    <!-- deck -->
+    <rect x="372" y="200" width="96" height="14" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- left support -->
+    <rect x="376" y="214" width="24" height="20" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="376" y="236" width="24" height="20" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- right support -->
+    <rect x="440" y="214" width="24" height="20" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="440" y="236" width="24" height="20" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- water -->
+    <path d="M368 278 Q382 272 396 278 Q410 284 424 278 Q438 272 452 278 Q466 284 472 278" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <text x="420" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">it spans</text>
+    <text x="420" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">across the gap</text>
+  </g>
+
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Build, look, change, build again.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A plan is an idea you can build with your hands.</text>
+</svg>

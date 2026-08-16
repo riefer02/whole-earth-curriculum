@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Loud and soft, fast and slow: the size and speed of a sound</title>
+  <desc id="desc">Four labeled panels show two ways any sound can differ. The top-left panel is labeled "loud" and shows a tall, big sound wave, with the note "big waves — a drum, a shout." The top-right panel is labeled "soft" and shows a short, small wave, with "small waves — a whisper, a leaf." The bottom-left panel is labeled "fast" and shows waves packed close together, with "close waves — quick, quick." The bottom-right panel is labeled "slow" and shows waves spread wide apart, with "wide waves — slow, gentle." The size and spacing of the waves carry the meaning, not color, so the picture prints clearly in grayscale and teaches that every sound has a size (loud or soft) and a speed (fast or slow).</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Loud and Soft, Fast and Slow</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every sound has a size and a speed.</text>
+
+  <!-- ===== Loud ===== -->
+  <g>
+    <rect x="22" y="96" width="224" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="134" y="124" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#c47a6b">loud</text>
+    <path d="M42 184 Q58 150 74 184 Q90 218 106 184 Q122 150 138 184 Q154 218 170 184 Q186 150 202 184 Q218 218 226 184" fill="none" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round"/>
+    <text x="134" y="228" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">big waves</text>
+    <text x="134" y="244" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a drum, a shout</text>
+  </g>
+
+  <!-- ===== Soft ===== -->
+  <g>
+    <rect x="266" y="96" width="224" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="378" y="124" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#6b93b6">soft</text>
+    <path d="M42 184 Q58 174 74 184 Q90 194 106 184 Q122 174 138 184 Q154 194 170 184 Q186 174 202 184 Q218 194 226 184" fill="none" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round" transform="translate(244 0)"/>
+    <text x="378" y="228" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">small waves</text>
+    <text x="378" y="244" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a whisper, a leaf</text>
+  </g>
+
+  <!-- ===== Fast ===== -->
+  <g>
+    <rect x="22" y="262" width="224" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="134" y="290" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#e0a458">fast</text>
+    <path d="M42 350 Q56 322 70 350 Q84 378 98 350 Q112 322 126 350 Q140 378 154 350 Q168 322 182 350 Q196 378 210 350 Q224 322 226 350" fill="none" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round"/>
+    <text x="134" y="394" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">close waves</text>
+    <text x="134" y="410" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">quick, quick</text>
+  </g>
+
+  <!-- ===== Slow ===== -->
+  <g>
+    <rect x="266" y="262" width="224" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="378" y="290" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#7a9e7e">slow</text>
+    <path d="M42 350 Q88 320 134 350 Q180 380 226 350" fill="none" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round" transform="translate(244 0)"/>
+    <text x="378" y="394" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">wide waves</text>
+    <text x="378" y="410" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">slow, gentle</text>
+  </g>
+
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">show it with your body:</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">arms wide = loud · arms together = soft · hands move fast or slow</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">There is no wrong way to feel a sound.</text>
+</svg>

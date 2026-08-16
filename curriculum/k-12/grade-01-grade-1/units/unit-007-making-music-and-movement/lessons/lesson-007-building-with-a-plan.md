@@ -51,6 +51,14 @@ context_variants:
     note: Group by build experience — some start with one purpose and two materials, others plan a bigger structure — and match the challenge
   - context: outdoor-only
     note: Build from nature — stick bridges, stone towers, leaf boats — planning the purpose before you start
+assets:
+  - path: assets/images/L.01.007.07-building-with-a-plan.svg
+    alt: >-
+      Three numbered steps joined by arrows: purpose (what is it for?), plan (a
+      dashed sketch of a bridge), and build (a block bridge spanning wavy water),
+      ending with the label "it spans." Prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners think of a purpose, make a simple plan, and build something for it — a

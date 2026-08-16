@@ -61,6 +61,15 @@ context_variants:
     note: Mix groups across levels so every learner both shares and asks a question; celebrate all four kinds of making equally
   - context: outdoor-only
     note: Lay the unit's work — drawings, songs, movements, and builds — out on the ground and walk the gallery under the open sky
+assets:
+  - path: assets/images/L.01.007.10-making-music-and-movement.svg
+    alt: >-
+      Four panels laid out like a gallery show four ways to make: draw (a paper
+      picture with a sun and house), sing (a face with music notes), move (a dancer
+      with raised arms), and build (a block tower), joined by the words "draw + sing
+      + move + build = making." Prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the whole unit together in a gallery and celebration. They share

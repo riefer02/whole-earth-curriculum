@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Testing and improving: change one thing</title>
+  <desc id="desc">Three panels joined by arrows show how a build gets better. The first panel, labeled "1 · build," shows a standing block tower on a ground line. The second panel, labeled "2 · test," shows the same tower leaning to the right with a round weight on top, wobble marks beside it, and the note "it tips!" with a downward arrow. The third panel, labeled "3 · change one thing," shows the tower standing straight again, now on a much wider base, with the same weight on top, a check mark, and the note "it stands! wider base." The lean of the middle tower, the wide base, the labels, and the numbers carry all meaning, not color, so the picture prints clearly in grayscale and teaches that a test is a question, not a grade, and one change can make a build work better.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Testing and Improving</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Test, watch what happens, change one thing.</text>
+
+  <!-- ===== 1 · build ===== -->
+  <g>
+    <rect x="22" y="96" width="140" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="92" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">1 · build</text>
+    <rect x="64" y="252" width="56" height="22" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="70" y="228" width="44" height="22" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="76" y="204" width="32" height="22" rx="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="56" y1="276" x2="128" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="92" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">build it</text>
+  </g>
+
+  <!-- arrow 1 -->
+  <g>
+    <line x1="164" y1="250" x2="182" y2="250" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M182 250 L172 243 L172 257 Z" fill="#4f6d7a"/>
+  </g>
+
+  <!-- ===== 2 · test ===== -->
+  <g>
+    <rect x="186" y="96" width="140" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#c47a6b">2 · test</text>
+    <!-- leaning tower -->
+    <rect x="228" y="252" width="56" height="22" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="240" y="226" width="44" height="22" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="254" y="198" width="32" height="22" rx="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="270" cy="188" r="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="220" y1="276" x2="292" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- wobble marks -->
+    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" fill="none">
+      <path d="M292 214 Q296 220 292 226"/>
+      <path d="M300 226 Q304 232 300 238"/>
+    </g>
+    <!-- downward arrow -->
+    <line x1="280" y1="300" x2="280" y2="322" stroke="#c47a6b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M280 322 L273 312 L287 312 Z" fill="#c47a6b"/>
+    <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">it tips!</text>
+    <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a clue, not a grade</text>
+  </g>
+
+  <!-- arrow 2 -->
+  <g>
+    <line x1="328" y1="250" x2="346" y2="250" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M346 250 L336 243 L336 257 Z" fill="#4f6d7a"/>
+  </g>
+
+  <!-- ===== 3 · change one thing ===== -->
+  <g>
+    <rect x="350" y="96" width="140" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">3 · change one thing</text>
+    <!-- tower with wide base -->
+    <rect x="382" y="252" width="76" height="22" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="394" y="228" width="52" height="22" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="404" y="204" width="32" height="22" rx="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="420" cy="188" r="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="374" y1="276" x2="466" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- check mark -->
+    <path d="M398 300 L410 312 L438 284" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="420" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">it stands!</text>
+    <text x="420" y="360" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">wider base</text>
+    <!-- bracket to the wide base -->
+    <line x1="382" y1="264" x2="382" y2="282" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="458" y1="264" x2="458" y2="282" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="382" y1="282" x2="458" y2="282" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="420" y1="282" x2="420" y2="290" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A test is a question, not a grade.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">"Not yet" is not "wrong" — change one thing and try again.</text>
+</svg>

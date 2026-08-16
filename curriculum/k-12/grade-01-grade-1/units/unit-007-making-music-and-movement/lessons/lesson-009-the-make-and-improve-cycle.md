@@ -52,6 +52,15 @@ context_variants:
     note: Some learners follow the cycle with one simple build; others run two cycles and compare; match the challenge
   - context: outdoor-only
     note: Run the whole cycle outside with nature's materials, marking each step on the ground as you go
+assets:
+  - path: assets/images/L.01.007.09-the-make-and-improve-cycle.svg
+    alt: >-
+      A five-step cycle diagram arranged in a circle — imagine (a lightbulb), plan
+      (a pencil), make (two blocks), test (a magnifier), and improve (an up arrow) —
+      with arrows running around the loop and the words "make-and-improve cycle" in
+      the center. Prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners run the full make-and-improve cycle — imagine, plan, make, test, improve —

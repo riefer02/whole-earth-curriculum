@@ -51,6 +51,15 @@ context_variants:
     note: Some learners tap one beat at a time; others hold a whole steady pattern; match the challenge to the learner
   - context: outdoor-only
     note: Sing in the open air and keep the beat with feet on the ground or two stones tapped together
+assets:
+  - path: assets/images/L.01.007.03-singing-and-keeping-the-beat.svg
+    alt: >-
+      A child sings while music notes rise, and two hands clap with motion lines.
+      Below, four equal, evenly spaced beat circles numbered 1, 2, 3, 4 are labeled
+      clap, clap, clap, pat, and a hand rests on a drum labeled feel the beat.
+      Prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sing a simple song and keep a steady beat by clapping or tapping along.

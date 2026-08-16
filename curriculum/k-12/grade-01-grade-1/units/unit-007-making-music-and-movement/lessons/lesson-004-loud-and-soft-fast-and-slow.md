@@ -51,6 +51,15 @@ context_variants:
     note: Some learners sort by one pair at a time (loud/soft first); others sort by both pairs; match the challenge
   - context: outdoor-only
     note: Listen to the world outside — rain, wind, footsteps, birds — and sort each sound by loud or soft and fast or slow
+assets:
+  - path: assets/images/L.01.007.04-loud-and-soft-fast-and-slow.svg
+    alt: >-
+      Four labeled panels show two ways a sound can differ: loud (tall waves) and
+      soft (short waves), fast (waves close together) and slow (waves far apart),
+      each with an example sound. Below, body signals: arms wide for loud, together
+      for soft, hands moving fast or slow. Prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners listen to sounds they make and hear, and tell them apart two ways: loud or

@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Moving to show a feeling: the body is a language</title>
+  <desc id="desc">Three panels show the same idea — that a body can show a feeling without words. The first panel, labeled "happy," shows a light-skinned child with a hearing aid, arms raised and open, with little bounce arcs above the head, and the note "bouncy and open." The second panel, labeled "angry," shows a deep-brown-skinned child with slanted brows and tight fists pulled close to the body, with quick motion ticks, and the note "tight and fast." The third panel, labeled "tired," shows a medium-brown-skinned child with closed eyes and a drooping head, arms hanging heavy, with the note "slow and heavy." Below, a child in a wheelchair with open, raised arms is labeled "seated is equal." Every meaning is carried by the posture and the words, not color, so the picture prints clearly in grayscale and teaches that every body tells its own true feeling and there is no wrong way to move.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Moving to Show a Feeling</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your body can say what words cannot.</text>
+
+  <!-- ===== Happy ===== -->
+  <g>
+    <rect x="22" y="96" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="97" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">happy</text>
+    <!-- bounce arcs -->
+    <path d="M76 140 Q78 130 84 128" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M112 138 Q114 128 120 126" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="97" cy="168" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M75 166 A22 22 0 0 1 119 166 Z" fill="#2b3a42"/>
+    <!-- hearing aid -->
+    <path d="M117 158 Q124 160 122 170" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="118" cy="173" r="3" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="90" cy="168" r="2.2" fill="#2b3a42"/>
+    <circle cx="104" cy="168" r="2.2" fill="#2b3a42"/>
+    <path d="M90 176 Q97 184 104 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="79" y="192" width="36" height="46" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- open arms -->
+    <line x1="79" y1="200" x2="54" y2="168" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="52" cy="166" r="5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="115" y1="200" x2="140" y2="168" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="142" cy="166" r="5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="88" y1="238" x2="86" y2="256" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="106" y1="238" x2="108" y2="256" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <text x="97" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">bouncy and open</text>
+  </g>
+
+  <!-- ===== Angry ===== -->
+  <g>
+    <rect x="181" y="96" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#c47a6b">angry</text>
+    <circle cx="256" cy="168" r="22" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M234 166 A22 22 0 0 1 278 166 Z" fill="#4f6d7a"/>
+    <circle cx="249" cy="168" r="2.2" fill="#2b3a42"/>
+    <circle cx="263" cy="168" r="2.2" fill="#2b3a42"/>
+    <line x1="242" y1="158" x2="253" y2="161" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="270" y1="158" x2="259" y2="161" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M248 178 Q256 175 264 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="238" y="192" width="36" height="46" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- tight fists -->
+    <line x1="238" y1="200" x2="222" y2="206" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="220" cy="208" r="5.5" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="274" y1="200" x2="290" y2="206" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="292" cy="208" r="5.5" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- quick motion ticks -->
+    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round">
+      <line x1="236" y1="150" x2="232" y2="146"/>
+      <line x1="276" y1="150" x2="280" y2="146"/>
+      <line x1="226" y1="240" x2="221" y2="244"/>
+      <line x1="286" y1="240" x2="291" y2="244"/>
+    </g>
+    <line x1="247" y1="238" x2="245" y2="256" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="265" y1="238" x2="267" y2="256" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">tight and fast</text>
+  </g>
+
+  <!-- ===== Tired ===== -->
+  <g>
+    <rect x="340" y="96" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="415" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">tired</text>
+    <circle cx="415" cy="170" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M393 168 A22 22 0 0 1 437 168 Z" fill="#2b3a42"/>
+    <line x1="405" y1="168" x2="412" y2="168" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="418" y1="168" x2="425" y2="168" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M406 180 Q415 177 424 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="397" y="194" width="36" height="46" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- arms hanging heavy -->
+    <line x1="397" y1="202" x2="384" y2="234" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="383" cy="238" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="433" y1="202" x2="446" y2="234" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="447" cy="238" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- heavy droop lines -->
+    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round">
+      <line x1="398" y1="150" x2="394" y2="158"/>
+      <line x1="432" y1="150" x2="436" y2="158"/>
+    </g>
+    <line x1="406" y1="240" x2="404" y2="256" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="424" y1="240" x2="426" y2="256" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <text x="415" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">slow and heavy</text>
+  </g>
+
+  <!-- ===== Seated is equal (wheelchair) ===== -->
+  <g>
+    <text x="256" y="334" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">every body moves its own way</text>
+    <circle cx="256" cy="368" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M236 366 A20 20 0 0 1 276 366 Z" fill="#4f6d7a"/>
+    <circle cx="250" cy="368" r="2" fill="#2b3a42"/>
+    <circle cx="262" cy="368" r="2" fill="#2b3a42"/>
+    <path d="M250 376 Q256 382 262 376" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="238" y="390" width="36" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- open arms -->
+    <line x1="238" y1="398" x2="206" y2="372" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="204" cy="370" r="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="274" y1="398" x2="306" y2="372" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="308" cy="370" r="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <!-- seat and legs -->
+    <rect x="228" y="430" width="56" height="8" rx="4" fill="#2b3a42"/>
+    <line x1="246" y1="438" x2="246" y2="458" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="266" y1="438" x2="266" y2="458" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <!-- wheels -->
+    <circle cx="218" cy="452" r="24" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="218" cy="452" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="294" cy="452" r="24" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="294" cy="452" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">seated is equal — a happy body can be open arms, right where you are</text>
+  </g>
+</svg>

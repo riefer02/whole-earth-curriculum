@@ -54,6 +54,14 @@ context_variants:
     note: Some learners change one thing with a prompt; others find the change themselves; match the challenge
   - context: outdoor-only
     note: Test leaf boats in a puddle, stick bridges with a stone, stone towers with a nudge — change one thing and test again
+assets:
+  - path: assets/images/L.01.007.08-testing-and-improving.svg
+    alt: >-
+      Three numbered panels show a build getting better: build a block tower, test
+      it (it tips under a round weight), then change one thing (a wider base so it
+      stands, with a check mark). Prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners test what they made, watch what happens, and change one thing to make it

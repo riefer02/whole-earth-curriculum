@@ -1524,12 +1524,22 @@ items:
     type: assets
     grade: 1
     domain: D07
-    status: ready
+    status: done
     priority: 49
     depends_on:
       - B-058
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.007 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 10 assets resolve to real files, non-empty alt, kind/source valid. 10 SVGs self-contained XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal (L.01 texture+labels, L.03 numbered clap/pat, L.04 wave amplitude/spacing, L.05 posture/mouth/brow). Process-over-product + living-heritage ('no wrong way', 'never co-opt sacred roles', turn marker not talking stick — grep zero). Objectives resolve to grade-1 D07 standards (S1-S4). UDL unbroken (Deaf/HH vibration, tactile/verbal, seated/adapted, partner-direct). Non-blocking: wheelchair/seated only in L.05."
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs role=img + aria-labelledby + title/desc, concept-complete, self-contained. Color never sole signal (texture/labels/size/spacing, grayscale-safe). Alt non-empty. Low-tech all 10 (sticks/stones/sand/leaves/body/voice). Music Deaf/HH: visible beat + felt vibration drum/floor/table (L.03), vibration size/speed + arm/hand signals (L.04). Movement/character seated/adapted + non-speaking (L.05/06 'seated is equal', 'watching and copying is full participation', never force solo). Building fine-motor partner-direct + tactile cycle chart (L.07-09). Devices only enriched. No edits. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: No fine-art-vs-craft ranking (drawing/weaving/pottery/singing/dancing/building equal, 'no best pieces', 'a maker's work'). No co-opting (turn marker not talking stick; 'never co-opt sacred roles', 'do not tokenize sacred objects'; SVG 06 generic stone+cloth knot). No single-region default ('every part of the world', 'builders everywhere'). No single art/music/movement tradition (taught by ear, body percussion, found instruments). No ranking ('no wrong way/feeling/movement'). Found-materials universality (low-tech all). Diverse (hearing aid + wheelchair 'seated is equal' SVG 05, varied skin tones). No edits. validate passes (301 files).
   - id: B-090
     title: "Illustration pass: add SVG assets to lessons in U.01.008"
     agent: asset-designer

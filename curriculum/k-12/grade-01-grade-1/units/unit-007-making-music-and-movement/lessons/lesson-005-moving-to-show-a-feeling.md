@@ -50,6 +50,15 @@ context_variants:
     note: Some learners show the feeling with just their face or hands; others use the whole body; match the challenge
   - context: outdoor-only
     note: Move in a big open space to show feelings, letting the body go tall, low, fast, and slow
+assets:
+  - path: assets/images/L.01.007.05-moving-to-show-a-feeling.svg
+    alt: >-
+      Three panels show a body showing a feeling without words: happy (arms raised,
+      bouncy, one child wearing a hearing aid), angry (tight fists, furrowed brows),
+      and tired (drooping and heavy), each labeled. Below, a child in a wheelchair
+      with open arms is labeled seated is equal. Prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners move their bodies to show feelings — happy, angry, tired, and others — in
