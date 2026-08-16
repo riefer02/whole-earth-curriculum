@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My community web</title>
+  <desc id="desc">A community web with "me" at the center and six circles around it, connected by lines. The circles are labeled family (two small figures), class (a book), neighborhood (a house), my team (a ball), a market I visit (a basket), and a language group (a speech bubble). The center figure is one child among many; each circle is drawn the same size so no community is ranked above another. Word labels carry the meaning, not color, so the picture prints in grayscale. The closing line teaches that no community is better than another — each is a real home of belonging.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Community Web</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the circles I belong to</text>
+
+  <!-- connecting lines -->
+  <line x1="256" y1="250" x2="150" y2="150" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="256" y1="250" x2="362" y2="150" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="256" y1="250" x2="100" y2="270" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="256" y1="250" x2="412" y2="270" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="256" y1="250" x2="150" y2="386" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="256" y1="250" x2="362" y2="386" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+
+  <!-- family (top-left) -->
+  <circle cx="150" cy="150" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <circle cx="138" cy="138" r="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="1.6"/>
+  <circle cx="162" cy="138" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.6"/>
+  <path d="M132 138 A7 7 0 0 1 146 138 L146 133 A7 7 0 0 0 132 133 Z" fill="#2b3a42"/>
+  <path d="M156 138 A7 7 0 0 1 170 138 L170 133 A7 7 0 0 0 156 133 Z" fill="#8f5f3d"/>
+  <text x="150" y="172" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">family</text>
+
+  <!-- class (top-right) -->
+  <circle cx="362" cy="150" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="346" y="128" width="30" height="24" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="361" y1="128" x2="361" y2="152" stroke="#2b3a42" stroke-width="1.6"/>
+  <line x1="352" y1="136" x2="370" y2="136" stroke="#fdfbf7" stroke-width="1.6"/>
+  <text x="362" y="172" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">class</text>
+
+  <!-- neighborhood (left) -->
+  <circle cx="100" cy="270" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <path d="M100 244 L82 260 L90 260 L90 286 L110 286 L110 260 L118 260 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="96" y="272" width="8" height="14" fill="#2b3a42" stroke="#2b3a42" stroke-width="1.4"/>
+  <text x="100" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">neighborhood</text>
+
+  <!-- my team (right) -->
+  <circle cx="412" cy="270" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <circle cx="412" cy="254" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M403 248 Q412 242 421 248" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+  <path d="M403 260 Q412 266 421 260" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+  <text x="412" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">my team</text>
+
+  <!-- market (bottom-left) -->
+  <circle cx="150" cy="386" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <path d="M128 366 L172 366 L168 388 L132 388 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M128 366 Q150 354 172 366" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="408" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a market</text>
+
+  <!-- language group (bottom-right) -->
+  <circle cx="362" cy="386" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <ellipse cx="362" cy="370" rx="20" ry="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M344 376 L340 390 L356 382 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="362" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">hola</text>
+  <text x="362" y="408" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">language</text>
+
+  <!-- center: me -->
+  <circle cx="256" cy="250" r="46" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="244" r="11" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M245 244 A11 11 0 0 1 267 244 L267 236 A11 11 0 0 0 245 236 Z" fill="#2b3a42"/>
+  <rect x="246" y="255" width="20" height="22" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">me</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">No community is better than another — each is a real home of belonging.</text>
+</svg>

@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our celebration</title>
+  <desc id="desc">A celebration that is not a contest. Six framed pages hang from a line at exactly the same height — each the same size, none above another. Each frame holds a different simple drawing: a face, a star, a house, a plant, a heart, and a circle, to show that every page is shown equally with no ranking. Below, a group of children looks at the gallery and claps together; one child uses a wheelchair and one wears glasses, and their skin tones and hair vary. Word labels carry the meaning, not color, so the picture prints in grayscale. The closing line teaches that there are no winners and no ranking — everyone belongs.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Our Celebration</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a celebration, never a contest</text>
+
+  <!-- clothesline -->
+  <line x1="12" y1="104" x2="500" y2="104" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- six equal frames -->
+  <g>
+    <line x1="40" y1="104" x2="40" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="110" y1="104" x2="110" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="20" y="120" width="90" height="92" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="65" cy="160" r="18" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="59" cy="157" r="1.8" fill="#2b3a42"/>
+    <circle cx="71" cy="157" r="1.8" fill="#2b3a42"/>
+    <path d="M57 168 Q65 175 73 168" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g>
+    <line x1="118" y1="104" x2="118" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="188" y1="104" x2="188" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="98" y="120" width="90" height="92" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <polygon points="143,138 146,147 155,148 148,155 150,164 143,159 136,164 138,155 131,148 140,147" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <line x1="196" y1="104" x2="196" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="266" y1="104" x2="266" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="176" y="120" width="90" height="92" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M221 190 L205 168 L214 168 L214 148 L228 148 L228 168 L237 168 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.8" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <line x1="274" y1="104" x2="274" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="344" y1="104" x2="344" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="254" y="120" width="90" height="92" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="299" y1="196" x2="299" y2="170" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M299 186 Q291 180 285 184 Q291 176 299 182 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M299 176 Q307 170 313 174 Q307 166 299 172 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <line x1="352" y1="104" x2="352" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="422" y1="104" x2="422" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="332" y="120" width="90" height="92" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M377 154 Q365 140 372 130 Q383 142 390 130 Q397 140 385 154 Q381 162 377 154 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.8" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <line x1="430" y1="104" x2="430" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="500" y1="104" x2="500" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="410" y="120" width="90" height="92" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="455" cy="166" r="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="455" cy="166" r="7" fill="#ffffff" stroke="#2b3a42" stroke-width="1.6"/>
+  </g>
+
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">every page shown equally — no one's above another's</text>
+
+  <!-- children looking and clapping -->
+  <g>
+    <circle cx="86" cy="330" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M73 330 A13 13 0 0 1 99 330 L99 321 A13 13 0 0 0 73 321 Z" fill="#2b3a42"/>
+    <rect x="76" y="343" width="24" height="32" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="82" y1="375" x2="80" y2="402" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="94" y1="375" x2="96" y2="402" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="78" y1="350" x2="66" y2="336" stroke="#c99567" stroke-width="5" stroke-linecap="round"/>
+    <line x1="98" y1="350" x2="110" y2="336" stroke="#c99567" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="180" cy="336" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M168 336 A12 12 0 0 1 192 336 L192 328 A12 12 0 0 0 168 328 Z" fill="#4f6d7a"/>
+    <rect x="171" y="348" width="22" height="28" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="176" y1="376" x2="174" y2="400" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="187" y1="376" x2="189" y2="400" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <!-- wheelchair child -->
+  <g>
+    <circle cx="286" cy="330" r="13" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M273 330 A13 13 0 0 1 299 330 L299 321 A13 13 0 0 0 273 321 Z" fill="#2b3a42"/>
+    <rect x="276" y="343" width="24" height="26" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="286" y1="348" x2="300" y2="366" stroke="#ab7a4e" stroke-width="5" stroke-linecap="round"/>
+    <rect x="268" y="369" width="40" height="7" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="274" cy="394" r="13" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="274" cy="394" r="3" fill="#2b3a42"/>
+    <circle cx="302" cy="396" r="5" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <g>
+    <circle cx="392" cy="334" r="12" fill="#6f4a2e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M380 334 A12 12 0 0 1 404 334 L404 326 A12 12 0 0 0 380 326 Z" fill="#8f5f3d"/>
+    <rect x="383" y="346" width="22" height="28" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="388" y1="374" x2="386" y2="398" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="399" y1="374" x2="401" y2="398" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="398" cy="336" r="5.5" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="386" cy="336" r="5.5" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="392" y1="336" x2="392" y2="336" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- clapping hands -->
+  <g>
+    <line x1="452" y1="322" x2="452" y2="344" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
+    <line x1="464" y1="318" x2="464" y2="340" stroke="#e6bb92" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="436" cy="300" r="3" fill="#e0a458"/>
+    <circle cx="474" cy="296" r="3" fill="#6b93b6"/>
+    <circle cx="446" cy="288" r="2.5" fill="#7a9e7e"/>
+  </g>
+
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">No winners. No ranking. Everyone belongs.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A shared celebration we make together.</text>
+</svg>

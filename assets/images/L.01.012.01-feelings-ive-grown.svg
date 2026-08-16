@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Feelings I've grown this year</title>
+  <desc id="desc">Seven feeling faces in two rows. The top row shows the three new feelings this year — proud (warm and tall), lonely (quiet and heavy), and excited (buzzy and bright) — each tagged "new." The bottom row shows the four feelings already known — happy (light and sunny), sad (slow and droopy), angry (hot and tight), and scared (fast and small). Each face has different eyebrows and a different mouth so the feeling reads in grayscale, not by color, and each is labeled with a word plus a body-sense hint. Skin tones and hair vary across the faces; one wears glasses and one has a hearing aid. The closing line teaches that a feeling is never wrong — only a guess about someone else's feeling can miss.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Feelings I've Grown This Year</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">name it, show it, read it in a friend</text>
+
+  <!-- ===== Top row: three new feelings ===== -->
+
+  <!-- proud -->
+  <g>
+    <rect x="16" y="92" width="150" height="218" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="114" y="104" width="44" height="22" rx="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">new</text>
+    <circle cx="61" cy="190" r="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="121" cy="190" r="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M61 185 A30 30 0 0 1 121 185 L121 170 A30 30 0 0 0 61 170 Z" fill="#2b3a42"/>
+    <circle cx="91" cy="190" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M73 170 Q79 165 85 170" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M97 170 Q103 165 109 170" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="79" cy="182" r="3" fill="#2b3a42"/>
+    <circle cx="103" cy="182" r="3" fill="#2b3a42"/>
+    <path d="M79 206 Q91 218 103 206" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="91" y="250" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">proud</text>
+    <text x="91" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">warm and tall</text>
+  </g>
+
+  <!-- lonely -->
+  <g>
+    <rect x="181" y="92" width="150" height="218" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="279" y="104" width="44" height="22" rx="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="301" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">new</text>
+    <circle cx="226" cy="190" r="5" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="286" cy="190" r="5" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M226 185 A30 30 0 0 1 286 185 L286 168 A30 30 0 0 0 226 168 Z" fill="#8f5f3d"/>
+    <circle cx="256" cy="190" r="30" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M282 178 Q290 172 296 182" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="296" cy="184" r="3" fill="#4f6d7a"/>
+    <path d="M240 168 Q246 173 252 171" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M272 171 Q266 173 260 168" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="244" cy="185" r="2.5" fill="#2b3a42"/>
+    <circle cx="268" cy="185" r="2.5" fill="#2b3a42"/>
+    <path d="M244 206 Q256 198 268 206" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">lonely</text>
+    <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">quiet and heavy</text>
+  </g>
+
+  <!-- excited -->
+  <g>
+    <rect x="346" y="92" width="150" height="218" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="444" y="104" width="44" height="22" rx="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="466" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">new</text>
+    <circle cx="391" cy="190" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="451" cy="190" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M391 185 A30 30 0 0 1 451 185 L451 168 A30 30 0 0 0 391 168 Z" fill="#4f6d7a"/>
+    <circle cx="421" cy="163" r="7" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="421" cy="190" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M403 168 Q409 163 415 168" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M427 168 Q433 163 439 168" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="409" cy="182" r="5.5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="433" cy="182" r="5.5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="409" cy="182" r="2.5" fill="#2b3a42"/>
+    <circle cx="433" cy="182" r="2.5" fill="#2b3a42"/>
+    <ellipse cx="421" cy="208" rx="7" ry="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="421" y="250" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">excited</text>
+    <text x="421" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">buzzy and bright</text>
+  </g>
+
+  <!-- ===== Bottom row: four known feelings ===== -->
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">words I already knew</text>
+
+  <!-- happy -->
+  <g>
+    <rect x="16" y="332" width="102" height="124" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="67" cy="372" r="20" fill="#6f4a2e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M47 372 A20 20 0 0 1 87 372 L87 362 A20 20 0 0 0 47 362 Z" fill="#c99567"/>
+    <circle cx="59" cy="368" r="6" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="75" cy="368" r="6" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="65" y1="368" x2="69" y2="368" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="48" y1="368" x2="53" y2="368" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="81" y1="368" x2="86" y2="368" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="59" cy="368" r="1.6" fill="#2b3a42"/>
+    <circle cx="75" cy="368" r="1.6" fill="#2b3a42"/>
+    <path d="M57 382 Q67 390 77 382" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="67" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">happy</text>
+    <text x="67" y="430" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">light and sunny</text>
+  </g>
+
+  <!-- sad -->
+  <g>
+    <rect x="142" y="332" width="102" height="124" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="193" cy="372" r="20" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M173 372 A20 20 0 0 1 213 372 L213 362 A20 20 0 0 0 173 362 Z" fill="#2b3a42"/>
+    <circle cx="185" cy="370" r="1.8" fill="#2b3a42"/>
+    <circle cx="201" cy="370" r="1.8" fill="#2b3a42"/>
+    <path d="M185 366 Q189 369 193 367" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M197 367 Q201 369 205 366" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M185 384 Q193 378 201 384" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M204 368 L208 373 L206 376" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="193" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">sad</text>
+    <text x="193" y="430" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">slow and droopy</text>
+  </g>
+
+  <!-- angry -->
+  <g>
+    <rect x="268" y="332" width="102" height="124" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="319" cy="372" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M299 372 A20 20 0 0 1 339 372 L339 362 A20 20 0 0 0 299 362 Z" fill="#4f6d7a"/>
+    <line x1="309" y1="366" x2="321" y2="363" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="329" y1="363" x2="341" y2="366" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="311" cy="372" r="1.8" fill="#2b3a42"/>
+    <circle cx="327" cy="372" r="1.8" fill="#2b3a42"/>
+    <line x1="311" y1="383" x2="327" y2="383" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="319" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">angry</text>
+    <text x="319" y="430" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">hot and tight</text>
+  </g>
+
+  <!-- scared -->
+  <g>
+    <rect x="394" y="332" width="102" height="124" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="445" cy="372" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M425 372 A20 20 0 0 1 465 372 L465 362 A20 20 0 0 0 425 362 Z" fill="#2b3a42"/>
+    <path d="M435 364 Q440 360 445 364" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M445 364 Q450 360 455 364" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="437" cy="370" r="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="453" cy="370" r="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="437" cy="370" r="1.6" fill="#2b3a42"/>
+    <circle cx="453" cy="370" r="1.6" fill="#2b3a42"/>
+    <ellipse cx="445" cy="384" rx="3.5" ry="4.5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.8"/>
+    <text x="445" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">scared</text>
+    <text x="445" y="430" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fast and small</text>
+  </g>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A feeling is never wrong — only a guess about someone else's feeling can miss.</text>
+</svg>

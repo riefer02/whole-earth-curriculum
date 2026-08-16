@@ -49,6 +49,11 @@ context_variants:
     note: Older learners model noticing a struggle and offering help; younger learners practice with them
   - context: level-grouped
     note: Learners ready to extend notice a help need for the whole group and offer to help everyone
+assets:
+  - path: assets/images/L.01.012.05-offering-help.svg
+    alt: "Three steps for offering help without being asked: notice a struggle, offer with kind words ('Would you like help?'), and accept yes or no — showing that 'no thank you' is always okay and that help is mutual aid, not pity."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice noticing a classmate who is struggling and offering help without

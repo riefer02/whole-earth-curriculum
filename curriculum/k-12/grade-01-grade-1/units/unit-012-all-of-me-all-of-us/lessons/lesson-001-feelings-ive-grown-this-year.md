@@ -53,6 +53,11 @@ context_variants:
     note: Older learners act out a feeling for younger ones to guess, then coach the younger learner to name a time they felt it
   - context: level-grouped
     note: Learners ready to extend name a feeling beyond the seven words, drawing on the whole year's growing word bank
+assets:
+  - path: assets/images/L.01.012.01-feelings-ive-grown.svg
+    alt: "Seven feeling faces in two rows. The top row shows the three new feelings this year — proud (warm and tall), lonely (quiet and heavy), and excited (buzzy and bright) — and the bottom row the four already known — happy, sad, angry, and scared — each with a word label and a body-sense hint so it reads in grayscale, teaching that a feeling is never wrong."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners look back at the feelings they have learned to name this year — especially

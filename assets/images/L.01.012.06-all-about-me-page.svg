@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My All About Me page</title>
+  <desc id="desc">A large "All About Me" page with six labeled boxes and a self-portrait spot. The boxes are: a feeling (a smiling face), a fact (a star), a proud thing (a growing plant), a family tradition (a small house), a community (a circle with connecting dots), and a kind act (a hand and a heart). A line for "my name" and a round "me" self-portrait sit at the top. Word labels carry the meaning, not color, so the page prints in grayscale. The closing line teaches that the page can be made by writing, drawing, pasting, pointing, or signing — every page is a whole person's story.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My "All About Me" Page</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the whole me on one page</text>
+
+  <!-- the page -->
+  <rect x="30" y="88" width="452" height="310" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="50" y="114" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">My name: ____</text>
+  <circle cx="438" cy="110" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M418 110 A20 20 0 0 1 458 110 L458 100 A20 20 0 0 0 418 100 Z" fill="#2b3a42"/>
+  <circle cx="432" cy="108" r="1.8" fill="#2b3a42"/>
+  <circle cx="444" cy="108" r="1.8" fill="#2b3a42"/>
+  <path d="M432 116 Q438 122 444 116" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+  <text x="438" y="140" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">me</text>
+
+  <!-- box: a feeling -->
+  <rect x="44" y="152" width="206" height="72" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="56" y="172" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">a feeling</text>
+  <circle cx="204" cy="190" r="13" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="199" cy="187" r="1.6" fill="#2b3a42"/>
+  <circle cx="209" cy="187" r="1.6" fill="#2b3a42"/>
+  <path d="M197 195 Q204 201 211 195" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- box: a fact -->
+  <rect x="262" y="152" width="206" height="72" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="274" y="172" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">a fact</text>
+  <polygon points="422,176 425,183 433,184 427,190 428,198 422,194 416,198 417,190 411,184 419,183" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+
+  <!-- box: a proud thing -->
+  <rect x="44" y="234" width="206" height="72" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="56" y="254" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">a proud thing</text>
+  <line x1="204" y1="300" x2="204" y2="282" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+  <path d="M204 294 Q196 288 190 292 Q196 284 204 290 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M204 284 Q212 278 218 282 Q212 274 204 280 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M190 306 L218 306 L214 316 L194 316 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+
+  <!-- box: a family tradition -->
+  <rect x="262" y="234" width="206" height="72" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="274" y="254" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">a family tradition</text>
+  <path d="M412 300 L400 282 L406 282 L406 266 L418 266 L418 282 L424 282 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.8" stroke-linejoin="round"/>
+  <rect x="407" y="288" width="10" height="12" fill="#2b3a42" stroke="#2b3a42" stroke-width="1.2"/>
+
+  <!-- box: a community -->
+  <rect x="44" y="316" width="206" height="72" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="56" y="336" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">a community</text>
+  <circle cx="204" cy="352" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="204" cy="336" r="3" fill="#4f6d7a"/>
+  <circle cx="190" cy="348" r="3" fill="#4f6d7a"/>
+  <circle cx="218" cy="348" r="3" fill="#4f6d7a"/>
+  <circle cx="193" cy="364" r="3" fill="#4f6d7a"/>
+  <circle cx="215" cy="364" r="3" fill="#4f6d7a"/>
+  <line x1="204" y1="352" x2="204" y2="339" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="204" y1="352" x2="193" y2="351" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="204" y1="352" x2="215" y2="351" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <!-- box: a kind act -->
+  <rect x="262" y="316" width="206" height="72" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="274" y="336" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">a kind act</text>
+  <path d="M414 344 Q402 336 398 348 L398 356 Q404 366 414 360 Q424 366 430 356 L430 348 Q426 336 414 344 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M420 340 Q416 336 420 332 Q424 336 420 340 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.4"/>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">I can write, draw, paste, point, or sign — every page is a whole story.</text>
+</svg>

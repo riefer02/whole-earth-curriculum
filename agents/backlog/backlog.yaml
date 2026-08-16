@@ -1634,10 +1634,20 @@ items:
     type: assets
     grade: 1
     domain: D01
-    status: ready
+    status: done
     priority: 54
     depends_on:
       - B-063
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.012 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (301 files); all 7 assets paths resolve with non-empty alt; SVGs well-formed XML (viewBox 512, role=img, aria-labelledby, title/desc). Concept match e.g. L.01.012.05 three-panel notice/offer/yes-or-no ending 'both answers are okay' (consent); L.01.012.07 six equal frames 'No winners. No ranking.' Objectives resolve to grade-1 D01/D02 standards (D01/D02 mix matches spec). Fixed invalid stroke-linecap='4'->'round'. No talking-stick/stone.
+      accessibility-editor:
+        verdict: passed
+        note: "All 7 SVGs + assets: non-empty teaching-point alt, role=img + aria-labelledby + title/desc, grayscale-safe word labels (not color-only), natural representation (varied skin tones, wheelchair/hearing-aid/glasses/cane, wheelchair user is the helper not tokenized), no eye-contact mandate, materials_low_tech non-visual paths (describe-aloud/tactile/sign/body) devices enriched-only, sharing-by-invitation (pass counts), no talking-stick/stone. validate passes."
+      global-culture-editor:
+        verdict: passed
+        note: "All 7 SVGs + alt: no Western/urban default (community web has market + language group; celebration universal not one holiday), skin tones span light-dark, natural disability (wheelchair/hearing-aid/cane/glasses), families span one/two/grandparent/chosen-foster. Fixed L.01.012.01 light-happy/dark-scared mapping: swapped happy->darkest #6f4a2e and scared->lightest #f5d6b6. validate passes."
 

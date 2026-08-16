@@ -50,6 +50,11 @@ context_variants:
     note: Older learners share the communities they belong to as examples, then help younger ones name theirs
   - context: level-grouped
     note: Learners ready to extend name one thing each community does together and one way they help out
+assets:
+  - path: assets/images/L.01.012.04-community-web.svg
+    alt: "A community web with 'me' at the center and six labeled circles around it — family, class, neighborhood, my team, a market, and a language group — teaching that no community is better than another, each is a real home of belonging."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name several communities they belong to — family, class, neighborhood, and

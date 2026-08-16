@@ -51,6 +51,11 @@ context_variants:
     note: Older learners scribe the facts a younger learner dictates, then switch roles
   - context: level-grouped
     note: Learners ready to extend add a second proud moment or one thing they are still learning
+assets:
+  - path: assets/images/L.01.012.02-who-i-am-page.svg
+    alt: "A 'Who I Am' page with four fact boxes — my age, things I like, things I can do, and my family (a grown-up, a child, and an older person with a cane and hearing aid) — and a wide 'one thing I'm proud of' box showing a growing plant, captioned pride = my own growth, not beating anyone."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners describe themselves with several facts — age, likes, abilities, and family

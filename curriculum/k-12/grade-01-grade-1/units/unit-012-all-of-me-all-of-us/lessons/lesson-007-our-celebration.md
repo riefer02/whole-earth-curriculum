@@ -60,6 +60,11 @@ context_variants:
     note: Older learners help set up the gallery and lead the shared celebration; younger learners join in their own way
   - context: level-grouped
     note: Learners ready to extend co-plan one element of the celebration (a song, a display, the order of sharing) with a partner or the group
+assets:
+  - path: assets/images/L.01.012.07-our-celebration.svg
+    alt: "Six framed pages hang from a line at exactly the same height, each with a different drawing, while a group of children (including a wheelchair user) looks on and claps — teaching a celebration with no winners and no ranking, where everyone belongs."
+    kind: image
+    source: original
 duration_minutes: 60
 summary: >-
   Learners close the year with a portfolio celebration: every "All About Me" page

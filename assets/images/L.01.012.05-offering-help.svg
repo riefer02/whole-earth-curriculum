@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Offering help, without being asked</title>
+  <desc id="desc">Three steps for offering help without being asked. Step one, notice: a child using a wheelchair notices that a standing child has dropped pencils on the floor. Step two, offer: a child offers with kind words in a speech bubble, "Would you like help?" Step three, yes or no: if the answer is "yes, please," the two help side by side; if the answer is "no, thank you," the helper says "okay" and lets the person try alone — both answers are okay. Word labels and the speech bubbles carry the meaning, not color, so the picture prints in grayscale. The closing line teaches that help is mutual aid, not pity — today you give, another day you receive.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Offering Help, Without Being Asked</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">notice a struggle, offer with kind words, and "no thank you" is always okay</text>
+
+  <!-- panel 1: notice -->
+  <rect x="20" y="90" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="95" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1. notice</text>
+  <!-- wheelchair child (the one who notices) -->
+  <circle cx="58" cy="170" r="11" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M47 170 A11 11 0 0 1 69 170 L69 162 A11 11 0 0 0 47 162 Z" fill="#2b3a42"/>
+  <rect x="48" y="181" width="20" height="22" rx="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="58" y1="186" x2="74" y2="206" stroke="#ab7a4e" stroke-width="5" stroke-linecap="round"/>
+  <rect x="42" y="203" width="32" height="6" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="47" cy="224" r="12" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="47" cy="224" r="3" fill="#2b3a42"/>
+  <circle cx="71" cy="226" r="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="58" y1="203" x2="58" y2="218" stroke="#2b3a42" stroke-width="3"/>
+  <!-- standing child dropping pencils -->
+  <circle cx="126" cy="176" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M115 176 A11 11 0 0 1 137 176 L137 168 A11 11 0 0 0 115 168 Z" fill="#8f5f3d"/>
+  <rect x="116" y="187" width="20" height="26" rx="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="120" y1="213" x2="118" y2="236" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <line x1="132" y1="213" x2="134" y2="236" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <!-- dropped pencils on the floor -->
+  <line x1="100" y1="248" x2="112" y2="254" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <line x1="104" y1="254" x2="108" y2="252" stroke="#e0a458" stroke-width="3"/>
+  <line x1="120" y1="250" x2="134" y2="246" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <line x1="138" y1="252" x2="140" y2="246" stroke="#4f6d7a" stroke-width="3"/>
+  <text x="95" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">I notice someone is</text>
+  <text x="95" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">struggling</text>
+
+  <!-- panel 2: offer -->
+  <rect x="181" y="90" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="256" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">2. offer</text>
+  <!-- standing child offering help -->
+  <circle cx="216" cy="176" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M205 176 A11 11 0 0 1 227 176 L227 168 A11 11 0 0 0 205 168 Z" fill="#4f6d7a"/>
+  <rect x="206" y="187" width="20" height="26" rx="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="210" y1="213" x2="208" y2="236" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <line x1="222" y1="213" x2="224" y2="236" stroke="#2b3a42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="224" y1="192" x2="244" y2="204" stroke="#c99567" stroke-width="5" stroke-linecap="round"/>
+  <!-- wheelchair child reaching high -->
+  <circle cx="300" cy="170" r="11" fill="#6f4a2e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M289 170 A11 11 0 0 1 311 170 L311 162 A11 11 0 0 0 289 162 Z" fill="#2b3a42"/>
+  <rect x="290" y="181" width="20" height="22" rx="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="292" y1="186" x2="274" y2="196" stroke="#6f4a2e" stroke-width="5" stroke-linecap="round"/>
+  <rect x="284" y="203" width="32" height="6" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="289" cy="224" r="12" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="289" cy="224" r="3" fill="#2b3a42"/>
+  <circle cx="313" cy="226" r="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- high shelf -->
+  <line x1="262" y1="142" x2="306" y2="142" stroke="#4f6d7a" stroke-width="3"/>
+  <rect x="288" y="130" width="12" height="12" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6"/>
+  <!-- speech bubble -->
+  <ellipse cx="230" cy="270" rx="44" ry="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 288 L236 300 L244 288 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="230" y="275" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Would you</text>
+  <text x="230" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">like help?</text>
+  <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">I offer, without</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">being asked</text>
+
+  <!-- panel 3: yes or no -->
+  <rect x="342" y="90" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="417" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">3. yes or no</text>
+  <!-- yes please -->
+  <ellipse cx="385" cy="158" rx="42" ry="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="385" y="163" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">yes, please</text>
+  <!-- two hands together -->
+  <line x1="452" y1="150" x2="452" y2="170" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+  <line x1="462" y1="150" x2="462" y2="170" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+  <text x="417" y="200" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">we help side by side</text>
+  <!-- no thank you -->
+  <ellipse cx="385" cy="240" rx="42" ry="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="385" y="245" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">no, thank you</text>
+  <line x1="452" y1="232" x2="452" y2="252" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+  <text x="417" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">okay, you try alone</text>
+  <text x="417" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">both answers</text>
+  <text x="417" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">are okay</text>
+
+  <!-- bottom bar -->
+  <rect x="20" y="404" width="472" height="62" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Help is mutual aid, not pity.</text>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Today you give it; another day you receive it.</text>
+</svg>

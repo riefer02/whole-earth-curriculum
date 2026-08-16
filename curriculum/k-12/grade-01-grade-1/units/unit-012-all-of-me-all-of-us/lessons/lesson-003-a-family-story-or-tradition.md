@@ -51,6 +51,11 @@ context_variants:
     note: Older learners model telling their own tradition first, then help younger learners retell theirs
   - context: level-grouped
     note: Learners ready to extend tell a second tradition or share where one tradition may have come from
+assets:
+  - path: assets/images/L.01.012.03-family-stories-traditions.svg
+    alt: "Four panels show different family shapes each sharing a tradition — one grown-up singing at bedtime, two grown-ups sharing a meal, a grandparent in a wheelchair telling a tale, and a chosen or foster family dancing — teaching that there is no correct family and no better tradition."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name a story or tradition from their own family, share it by invitation,

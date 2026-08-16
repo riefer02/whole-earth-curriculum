@@ -60,6 +60,11 @@ context_variants:
     note: Older learners scribe or help place pieces for younger ones, then switch roles
   - context: level-grouped
     note: Learners ready to extend add a forward-looking box about what they want to grow in Grade 2
+assets:
+  - path: assets/images/L.01.012.06-all-about-me-page.svg
+    alt: "An 'All About Me' page with six labeled boxes — a feeling, a fact, a proud thing, a family tradition, a community, and a kind act — plus a name line and a self-portrait spot, teaching that the page can be made by writing, drawing, pasting, pointing, or signing."
+    kind: image
+    source: original
 duration_minutes: 50
 summary: >-
   Learners gather the year's pieces of who they are — a feeling, a fact, a proud
