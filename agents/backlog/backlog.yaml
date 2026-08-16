@@ -1736,13 +1736,20 @@ items:
     type: scope
     grade: 7
     domain: null
-    status: ready
+    status: done
     priority: 34
     depends_on: []
     required_reviews:
       - vision-architect
       - reviewer
     notes: Author curriculum/k-12/grade-07-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+    reviews:
+      vision-architect:
+        verdict: passed
+        note: "Traceability verified: all objectives resolve to real grade-7 standards (Dxx.Sn.07.nn), no K/06/08/invented IDs; D03's eight grade-7 objectives cleanly split between units 2 (S1.01,S2.01-02,S3.01) and 8 (S1.02,S3.02,S4.01-02), no overlap. domain->pillar matches taxonomy; days 1-180 continuous; weighting sums to 100; 12 units U.07.001-012; 10 domains + 4 pillars. Age-appropriate 6-8 band; global/home-language-first/multilingualism-as-wealth; questions held as questions; no high-stakes tests. validate 371 files 0 errors."
+      reviewer:
+        verdict: passed
+        note: Validate passed (371 files, 0 errors). Scope frontmatter complete; 12 units U.07.001-012 with unit_id/title/domain/pillar/start_day/end_day/lesson_count; days 1-180 continuous (each start = prior end+1); domain_weighting sums to 100 (10+10+13+11+12+10+7+10+10+7). Objectives resolve to real .07. standards (D05.S3.07.02, D08.S2.07.01, D10.S4.07.01), zero K/06/08 IDs; all stubs full frontmatter + Overview/Essential questions/Lessons. Age-appropriate 6-8 band; global/non-Eurocentric (unit 9 non-European achievement, unit 11 non-Western tech); no high-stakes tests.
   - id: B-105
     title: Author Grade 8 scope (full 180-day plan)
     agent: scope-sequencer
