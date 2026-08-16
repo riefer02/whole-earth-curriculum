@@ -50,6 +50,11 @@ context_variants:
     note: Gather a small natural object that says something about you (a smooth stone for calm, a fast leaf for running) and add it to one box
   - context: multi-age
     note: Older learners scribe the facts a younger learner dictates, then switch roles
+assets:
+  - path: assets/images/L.01.001.05-all-about-me-facts.svg
+    alt: An "All About Me" page with four boxes labeled my age, things I like, things I can do, and my family, each with an example icon and blank space for the learner to draw their own answer.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners gather several facts about themselves — age, likes, abilities, and family

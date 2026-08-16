@@ -47,6 +47,11 @@ context_variants:
     note: Find a real situation outdoors (a dropped leaf, a tall climb) and name the feeling it causes, then say the sentence
   - context: level-grouped
     note: Learners ready to extend explain why different situations can cause the same feeling, or the same situation different feelings
+assets:
+  - path: assets/images/L.01.001.04-cause-and-feeling.svg
+    alt: A detective chart linking a situation to the feeling it causes — a gift to excited, a lost toy to sad, and a new friend to happy — each with an arrow and a magnifying glass for finding the cause.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners work backward from a feeling to find its cause, matching situations to

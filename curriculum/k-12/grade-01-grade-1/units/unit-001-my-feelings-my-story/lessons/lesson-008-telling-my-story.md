@@ -48,6 +48,11 @@ context_variants:
     note: Tell stories in a circle outdoors; use a "talking stone" passed from speaker to speaker
   - context: level-grouped
     note: Learners ready to extend add a "next" — one hope or a wish for their story going forward
+assets:
+  - path: assets/images/L.01.001.08-my-story-sequence.svg
+    alt: Four cards labeled my facts, my feelings, my proud moment, and my family story connected by arrows, leading down into a "my story" panel with a child holding an open book.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring together the pieces of the unit — facts, feelings, a proud moment,

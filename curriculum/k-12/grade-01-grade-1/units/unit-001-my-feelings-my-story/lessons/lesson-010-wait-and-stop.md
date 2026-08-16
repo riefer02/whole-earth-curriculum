@@ -55,6 +55,11 @@ context_variants:
     note: Play a movement game with start-and-stop calls outdoors — run, then freeze on the stop signal, then wait for "go"
   - context: level-grouped
     note: "Learners ready to extend reflect on the capstone: name one feeling word, one fact about themselves, one family story, and one calming strategy"
+assets:
+  - path: assets/images/L.01.001.10-wait-and-stop.svg
+    alt: Two panels — "wait" shows children taking turns with a talking object and "stop" shows an open-palm stop cue and a frozen child — with captions that waiting and stopping are ways we care for each other.
+    kind: image
+    source: original
 duration_minutes: 50
 summary: >-
   Learners practice the first steps of self-regulation — waiting for a turn and

@@ -48,6 +48,11 @@ context_variants:
     note: Sit in a circle outdoors and share; invite learners to connect the tradition to a season or place if it has one
   - context: multi-age
     note: Older learners model telling their own tradition first, then help younger learners retell theirs
+assets:
+  - path: assets/images/L.01.001.07-family-story-treasure.svg
+    alt: Four cards showing family traditions (a shared meal, a song, a story, a special day) above three cards showing different family shapes (one grown-up and me, my grandparent and me, two grown-ups and me), showing that every family and tradition is worth telling.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name a story or tradition from their own family, share it with the group,

@@ -49,6 +49,11 @@ context_variants:
     note: Play "feeling freeze" outdoors — call a feeling, everyone freezes into a statue of it, then describe what they see in others' statues
   - context: level-grouped
     note: Learners who already know the seven feelings work on noticing smaller clues (eyebrows, breathing, voice pitch)
+assets:
+  - path: assets/images/L.01.001.02-showing-feelings-clues.svg
+    alt: Three cards showing where the feeling "excited" shows up — on the face (smile and wide eyes), in the body (tall with arms up and jump lines), and in the voice (a "Yay!" speech bubble) — with labels face, body, and voice.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners learn that a feeling shows up in three places — face, body, and voice —

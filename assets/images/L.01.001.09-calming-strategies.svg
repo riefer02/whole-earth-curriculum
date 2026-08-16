@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ways I calm down</title>
+  <desc id="desc">A menu of six calming strategies, each in its own card with an icon and a label. Top row: "take a deep breath" (a flower), "count to ten" (the numbers 1, 2, 3 with a ten), and "find a safe space" (a quiet pillow and mat). Bottom row: "hug a pillow" (a figure hugging a pillow), "drink water" (a cup with a straw), and "rock, sway, or stretch" (a figure reaching up). The labels and shapes, not color, carry the meaning so it prints clearly in grayscale, and the note at the bottom says a calm-down is a helpful tool, never a punishment.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Ways I Calm Down</text>
+
+  <!-- Card 1: deep breath -->
+  <g>
+    <rect x="16" y="84" width="150" height="178" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="91" cy="160" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="91" cy="160" r="7" fill="#7a9e7e"/>
+    <line x1="91" y1="184" x2="91" y2="208" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M76 196 Q91 188 106 196 Q91 204 76 196 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="91" y="238" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">take a deep breath</text>
+  </g>
+
+  <!-- Card 2: count to ten -->
+  <g>
+    <rect x="181" y="84" width="150" height="178" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="226" y="158" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#6b93b6">1</text>
+    <text x="252" y="158" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#6b93b6">2</text>
+    <text x="278" y="158" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#6b93b6">3</text>
+    <text x="252" y="196" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">10</text>
+    <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">count to ten</text>
+  </g>
+
+  <!-- Card 3: safe space -->
+  <g>
+    <rect x="346" y="84" width="150" height="178" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="388" y="140" width="66" height="20" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M378 192 Q421 176 464 192 L464 200 Q421 186 378 200 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M388 154 Q421 150 454 154" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="421" y="238" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">find a safe space</text>
+  </g>
+
+  <!-- Card 4: hug a pillow -->
+  <g>
+    <rect x="16" y="276" width="150" height="178" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="91" cy="336" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M79 328 A20 20 0 0 1 103 328 Z" fill="#2b3a42"/>
+    <circle cx="84" cy="334" r="2.2" fill="#2b3a42"/>
+    <circle cx="98" cy="334" r="2.2" fill="#2b3a42"/>
+    <path d="M84 344 Q91 349 98 344" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="76" y="358" width="30" height="42" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="60" y="372" width="24" height="34" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="74" y1="376" x2="70" y2="404" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="82" y1="376" x2="84" y2="404" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <text x="91" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">hug a pillow</text>
+  </g>
+
+  <!-- Card 5: drink water -->
+  <g>
+    <rect x="181" y="276" width="150" height="178" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M226 354 L240 412 L274 412 L288 354 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="257" y1="354" x2="257" y2="330" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+    <path d="M234 380 Q248 388 262 380" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">drink water</text>
+  </g>
+
+  <!-- Card 6: rock, sway, stretch -->
+  <g>
+    <rect x="346" y="276" width="150" height="178" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="421" cy="350" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M409 342 A20 20 0 0 1 433 342 Z" fill="#2b3a42"/>
+    <circle cx="414" cy="348" r="2.2" fill="#2b3a42"/>
+    <circle cx="428" cy="348" r="2.2" fill="#2b3a42"/>
+    <path d="M414 358 Q421 363 428 358" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="406" y="372" width="30" height="48" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="392" y1="380" x2="374" y2="356" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="450" y1="380" x2="468" y2="356" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="415" y1="420" x2="413" y2="444" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="427" y1="420" x2="429" y2="444" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <text x="421" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">rock, sway, or stretch</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A calm-down is a helpful tool, never a punishment.</text>
+</svg>

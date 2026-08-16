@@ -50,6 +50,11 @@ context_variants:
     note: Use the card set as a reference; invite learners to find a spot or object that "feels" proud (tall), lonely (all alone), or excited (bright and buzzing)
   - context: multi-age
     note: Older learners pair with younger ones to act out each feeling and coach the younger learner to guess the name
+assets:
+  - path: assets/images/L.01.001.01-feeling-word-ladder.svg
+    alt: A feeling-word ladder with four small known feelings (happy, sad, angry, scared) at the bottom and three bigger new feelings (proud, lonely, excited) tagged "new" at the top, with an upward "grow" arrow showing that feeling vocabulary grows bigger.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners review the four Kindergarten feelings (happy, sad, angry, scared) and

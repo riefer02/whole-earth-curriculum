@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Telling my story: the pieces become one story</title>
+  <desc id="desc">Four small cards in a row, connected by arrows, each standing for one piece of a learner's story: "my facts" (a person with a name tag), "my feelings" (a smiling face), "my proud moment" (a star), and "my family story" (an open book). A large arrow leads down into a big panel labeled "my story," which shows a child holding an open book. The graphic shows that separate pieces are woven into one story that can be told with voice, pictures, and words, and it prints clearly in grayscale because labels and shapes carry the meaning.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Telling My Story</text>
+
+  <!-- ===== Four pieces ===== -->
+  <!-- Piece 1: my facts -->
+  <g>
+    <rect x="16" y="80" width="108" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="70" cy="122" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M60 116 A14 14 0 0 1 80 116 Z" fill="#2b3a42"/>
+    <rect x="60" y="138" width="20" height="34" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="82" y="112" width="22" height="14" rx="4" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="86" y1="118" x2="100" y2="118" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="70" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">my facts</text>
+  </g>
+  <path d="M128 140 L138 140" stroke="#4f6d7a" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M133 135 L140 140 L133 145" fill="none" stroke="#4f6d7a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Piece 2: my feelings -->
+  <g>
+    <rect x="140" y="80" width="108" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="186" cy="126" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="202" cy="126" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="194" cy="126" r="24" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="186" cy="118" r="2.6" fill="#2b3a42"/>
+    <circle cx="202" cy="118" r="2.6" fill="#2b3a42"/>
+    <path d="M184 132 Q194 140 204 132" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="194" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">my feelings</text>
+  </g>
+  <path d="M252 140 L262 140" stroke="#4f6d7a" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M257 135 L264 140 L257 145" fill="none" stroke="#4f6d7a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Piece 3: my proud moment -->
+  <g>
+    <rect x="264" y="80" width="108" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M318 100 L326 122 L350 125 L331 141 L336 164 L318 154 L300 164 L305 141 L286 125 L310 122 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="318" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">my proud moment</text>
+  </g>
+  <path d="M376 140 L386 140" stroke="#4f6d7a" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M381 135 L388 140 L381 145" fill="none" stroke="#4f6d7a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Piece 4: my family story -->
+  <g>
+    <rect x="388" y="80" width="108" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M428 102 Q442 98 456 102 L456 138 Q442 134 428 138 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="442" y1="102" x2="442" y2="138" stroke="#2b3a42" stroke-width="2"/>
+    <text x="442" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">my family story</text>
+  </g>
+
+  <!-- Arrow down into my story -->
+  <line x1="256" y1="200" x2="256" y2="226" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M248 220 L256 232 L264 220" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- ===== My Story panel ===== -->
+  <rect x="16" y="236" width="480" height="212" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">my story</text>
+
+  <!-- Child holding an open book -->
+  <circle cx="150" cy="350" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M138 342 A20 20 0 0 1 162 342 Z" fill="#2b3a42"/>
+  <circle cx="143" cy="348" r="2.4" fill="#2b3a42"/>
+  <circle cx="157" cy="348" r="2.4" fill="#2b3a42"/>
+  <path d="M143 358 Q150 363 157 358" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="136" y="372" width="28" height="48" rx="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M120 340 Q136 334 152 340 L152 388 Q136 382 120 388 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M180 340 Q164 334 148 340 L148 388 Q164 382 180 388 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="150" y1="340" x2="150" y2="388" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="126" y1="350" x2="144" y2="350" stroke="#4f6d7a" stroke-width="1.8"/>
+  <line x1="126" y1="360" x2="144" y2="360" stroke="#4f6d7a" stroke-width="1.8"/>
+  <line x1="156" y1="350" x2="174" y2="350" stroke="#4f6d7a" stroke-width="1.8"/>
+  <line x1="156" y1="360" x2="174" y2="360" stroke="#4f6d7a" stroke-width="1.8"/>
+
+  <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">facts + feelings +</text>
+  <text x="256" y="358" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">proud moment + family story</text>
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">told with my voice, my pictures,</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">and my words</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your story has never been told by anyone else.</text>
+</svg>

@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Cause and feeling: what made me feel that way?</title>
+  <desc id="desc">A detective-style chart that links a situation to the feeling it causes. Three rows each show a situation icon on the left, an arrow in the middle, and a feeling face on the right. Row one: a gift box with a bow leads to an excited face. Row two: a lost teddy bear leads to a sad face. Row three: a new friend (two small figures) leads to a happy face. A magnifying glass in the corner stands for the "detective" hunt for the cause. Labels and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="29" font-weight="bold" fill="#2b3a42">What Made Me Feel That Way?</text>
+
+  <!-- Magnifying glass (detective) -->
+  <g>
+    <circle cx="452" cy="66" r="18" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="465" y1="79" x2="478" y2="92" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Column headers -->
+  <text x="140" y="112" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">the situation</text>
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">causes</text>
+  <text x="376" y="112" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">the feeling</text>
+
+  <!-- ===== Row 1: gift -> excited ===== -->
+  <rect x="16" y="132" width="232" height="100" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="120" y="152" width="44" height="44" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="126" y="146" width="32" height="12" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M142 158 L142 196 M120 158 L120 196 M164 158 L164 196" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M142 158 L142 196 M120 158 L120 196 M164 158 L164 196" fill="none"/>
+  <text x="132" y="218" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a gift</text>
+
+  <path d="M260 182 L276 182" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M270 176 L278 182 L270 188" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="348" cy="182" r="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="392" cy="182" r="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="370" cy="182" r="32" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="358" cy="170" r="4.5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="382" cy="170" r="4.5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="358" cy="170" r="1.8" fill="#2b3a42"/>
+  <circle cx="382" cy="170" r="1.8" fill="#2b3a42"/>
+  <ellipse cx="370" cy="197" rx="5.5" ry="7.5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="370" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">excited</text>
+
+  <!-- ===== Row 2: lost toy -> sad ===== -->
+  <rect x="16" y="252" width="232" height="100" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <circle cx="122" cy="290" r="18" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="110" cy="286" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="134" cy="286" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="117" cy="287" r="1.8" fill="#2b3a42"/>
+  <circle cx="127" cy="287" r="1.8" fill="#2b3a42"/>
+  <ellipse cx="122" cy="295" rx="3" ry="2.4" fill="#2b3a42"/>
+  <rect x="108" y="308" width="28" height="30" rx="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M118 338 L116 350 M126 338 L128 350" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <text x="122" y="240" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a lost toy</text>
+
+  <path d="M260 302 L276 302" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M270 296 L278 302 L270 308" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="348" cy="302" r="8" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="392" cy="302" r="8" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="370" cy="302" r="32" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="358" cy="290" r="3" fill="#2b3a42"/>
+  <circle cx="382" cy="290" r="3" fill="#2b3a42"/>
+  <path d="M356 318 Q370 310 384 318" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="370" y="352" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">sad</text>
+
+  <!-- ===== Row 3: new friend -> happy ===== -->
+  <rect x="16" y="372" width="232" height="100" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <circle cx="110" cy="414" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M100 408 A16 16 0 0 1 120 408 Z" fill="#2b3a42"/>
+  <circle cx="104" cy="412" r="1.8" fill="#2b3a42"/>
+  <circle cx="116" cy="412" r="1.8" fill="#2b3a42"/>
+  <path d="M104 421 Q110 425 116 421" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="100" y="432" width="20" height="34" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="142" cy="424" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M134 419 A12 12 0 0 1 150 419 Z" fill="#2b3a42"/>
+  <circle cx="138" cy="422" r="1.6" fill="#2b3a42"/>
+  <circle cx="146" cy="422" r="1.6" fill="#2b3a42"/>
+  <path d="M138 429 Q142 432 146 429" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="134" y="438" width="16" height="28" rx="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="132" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a new friend</text>
+
+  <path d="M260 422 L276 422" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M270 416 L278 422 L270 428" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="348" cy="422" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="392" cy="422" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="370" cy="422" r="32" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="358" cy="410" r="3.2" fill="#2b3a42"/>
+  <circle cx="382" cy="410" r="3.2" fill="#2b3a42"/>
+  <path d="M356 436 Q370 448 384 436" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="370" y="472" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">happy</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every feeling has a reason behind it.</text>
+</svg>

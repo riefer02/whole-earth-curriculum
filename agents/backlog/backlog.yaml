@@ -1392,12 +1392,22 @@ items:
     type: assets
     grade: 1
     domain: D01
-    status: ready
+    status: done
     priority: 43
     depends_on:
       - B-052
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.001 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 10 assets resolve to real files, non-empty descriptive alt, kind:image/source:original. 10 SVGs well-formed self-contained XML (viewBox, role=img, title/desc), grayscale-safe (labels+shape differences). Objectives resolve to real grade-1 D01 standards (D01.S1.01.01, D01.S3.01.02). Values: pride-as-growth 'not beating anyone' (L.06), calming-as-tool-never-punishment (L.09), wait/stop-as-care (L.10), sharing-is-a-choice (L.07), no single 'right' face/gesture (L.02). UDL intact."
+      accessibility-editor:
+        verdict: passed
+        note: "Fix: L.01.001.09 'drink water' card cup/straw/water/line misplaced (floating over 'count to ten' card, confusing grayscale/low-vision) -> shifted into own card. All 10 SVGs role=img + aria-labelledby + title/desc, self-contained XML. Color never only signal (labels+shape differences), grayscale-safe. Alt concept-complete. Inclusive (hearing aid, cane+glasses grandparent, varied skin tones + family shapes). No forced sharing/performance (sharing is choice). Calming tool-not-punishment; wait/stop care-not-obedience. Non-visual/non-speaking/motor paths. Low-tech all; devices enriched. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: Family/community varied no ranking (L.07 three shapes + 'none is better'; L.05 'family = people I live with or love'). No region/ethnicity default (5 skin tones, varied hair, natural ability). Western feeling-vocab hedged (L.02 'different families/places show same feeling differently; no single right face/gesture'). No single 'we' default ('people everywhere keep traditions, each one different'). No tokenizing (traditions as non-ranked treasures). Pride-as-competition guarded ('pride is about my own growth not beating anyone'). No edits. validate passes (301 files).
   - id: B-084
     title: "Illustration pass: add SVG assets to lessons in U.01.002"
     agent: asset-designer

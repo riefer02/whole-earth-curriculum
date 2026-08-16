@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Proud of my own growth</title>
+  <desc id="desc">A three-step staircase labeled "try," "practice," and "grow" rises from left to right, with a small seed, a sprout, and a flower drawn on the steps. At the top right, a large star holds a proud, smiling face. The graphic teaches that pride comes from a person's own effort and growth, not from beating anyone else, and it reads clearly in grayscale because the labels and shapes carry the meaning.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Something I'm Proud Of</text>
+
+  <!-- ===== Staircase: try -> practice -> grow ===== -->
+  <!-- Step 1: try -->
+  <rect x="16" y="330" width="120" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="76" y="360" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">try</text>
+  <ellipse cx="76" cy="390" rx="10" ry="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Step 2: practice -->
+  <rect x="156" y="246" width="120" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="216" y="276" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">practice</text>
+  <line x1="216" y1="314" x2="216" y2="298" stroke="#7a9e7e" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M206 306 Q216 298 226 306 Q216 314 206 306 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Step 3: grow -->
+  <rect x="296" y="162" width="120" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="356" y="192" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">grow</text>
+  <line x1="356" y1="238" x2="356" y2="222" stroke="#7a9e7e" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="356" cy="216" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="349" cy="211" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="363" cy="211" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="349" cy="220" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="363" cy="220" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- ===== Big star with proud face ===== -->
+  <g>
+    <path d="M356 96 L368 126 L400 130 L374 152 L380 184 L356 170 L332 184 L338 152 L312 130 L344 126 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="342" cy="150" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="374" cy="150" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="356" cy="150" r="27" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="346" cy="140" r="3" fill="#2b3a42"/>
+    <circle cx="366" cy="140" r="3" fill="#2b3a42"/>
+    <path d="M342 160 Q356 172 370 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="356" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">proud!</text>
+  </g>
+
+  <!-- Arrow up the steps -->
+  <path d="M136 340 L150 328" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M276 256 L290 244" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M352 184 L354 168" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M348 176 L354 166 L360 176" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Bottom note -->
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Pride is about my own growth, not beating anyone.</text>
+</svg>

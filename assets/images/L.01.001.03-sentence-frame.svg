@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">"I felt ___ when ___" sentence frame</title>
+  <desc id="desc">A large sentence frame reading "I felt [blank box] when [blank box]" with the two blanks labeled "a feeling" and "a situation." Below it, a filled example shows "I felt proud when I learned to swim," with a proud face in the feeling box and a person swimming in the situation box. The two-part structure teaches learners to join a feeling to the situation that caused it, and the labels and shapes, not color, carry the meaning in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">"I felt ___ when ___"</text>
+
+  <!-- ===== Sentence frame bar ===== -->
+  <rect x="16" y="96" width="480" height="120" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="48" y="162" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">I felt</text>
+  <rect x="138" y="126" width="110" height="58" rx="10" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="8 6"/>
+  <text x="193" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a feeling</text>
+  <text x="264" y="162" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">when</text>
+  <rect x="348" y="126" width="120" height="58" rx="10" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="8 6"/>
+  <text x="408" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a situation</text>
+
+  <!-- ===== Filled example ===== -->
+  <rect x="16" y="248" width="480" height="196" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">example</text>
+
+  <text x="48" y="356" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">I felt</text>
+
+  <!-- proud face -->
+  <circle cx="122" cy="320" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="160" cy="320" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="141" cy="320" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="131" cy="311" r="3" fill="#2b3a42"/>
+  <circle cx="151" cy="311" r="3" fill="#2b3a42"/>
+  <path d="M127 331 Q141 341 155 331" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="194" y="356" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">when</text>
+
+  <!-- swimmer -->
+  <circle cx="260" cy="328" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M252 323 A13 13 0 0 1 268 323 Z" fill="#2b3a42"/>
+  <path d="M247 328 Q260 322 273 328 Q260 334 247 328 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M272 332 L284 328" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M272 338 L284 342" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="330" y="356" font-family="sans-serif" font-size="30" fill="#2b3a42">learned to swim.</text>
+
+  <!-- captions under example boxes -->
+  <text x="141" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">proud</text>
+  <text x="260" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the situation</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A feeling and a situation go together.</text>
+</svg>

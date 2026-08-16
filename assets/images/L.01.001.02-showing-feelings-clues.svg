@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Where feelings show: face, body, and voice clues</title>
+  <desc id="desc">Three cards showing the three places a feeling shows, using one feeling (excited) as the example. Card one, "face," shows a smiling face with wide eyes. Card two, "body," shows a figure standing tall with both arms up and small jump lines under the feet. Card three, "voice," shows a speech bubble with the word "Yay!" inside. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale. Skin tones vary across the figures.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Where Feelings Show</text>
+  <text x="256" y="82" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">One feeling can show in three places.</text>
+
+  <!-- ===== Card 1: face ===== -->
+  <g>
+    <rect x="16" y="112" width="150" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="91" y="146" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">face</text>
+    <circle cx="71" cy="228" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="111" cy="228" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="91" cy="228" r="36" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="77" cy="214" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="105" cy="214" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="77" cy="214" r="2" fill="#2b3a42"/>
+    <circle cx="105" cy="214" r="2" fill="#2b3a42"/>
+    <path d="M72 198 Q77 193 82 198" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M100 198 Q105 193 110 198" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M75 244 Q91 260 107 244" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="91" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a smile, wide eyes,</text>
+    <text x="91" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">raised eyebrows</text>
+    <text x="91" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">I see it on the face.</text>
+  </g>
+
+  <!-- ===== Card 2: body ===== -->
+  <g>
+    <rect x="181" y="112" width="150" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="256" y="146" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">body</text>
+    <circle cx="256" cy="210" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M243 203 A26 26 0 0 1 269 203 Z" fill="#2b3a42"/>
+    <circle cx="248" cy="208" r="2.6" fill="#2b3a42"/>
+    <circle cx="264" cy="208" r="2.6" fill="#2b3a42"/>
+    <path d="M248 220 Q256 225 264 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="238" y="238" width="36" height="56" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="224" y1="244" x2="204" y2="218" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="288" y1="244" x2="308" y2="218" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="246" y1="294" x2="244" y2="330" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <line x1="266" y1="294" x2="268" y2="330" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+    <path d="M240 342 L244 350 L252 342" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M272 342 L276 350 L284 342" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tall, arms up,</text>
+    <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">I see it in the body.</text>
+  </g>
+
+  <!-- ===== Card 3: voice ===== -->
+  <g>
+    <rect x="346" y="112" width="150" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="421" y="146" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">voice</text>
+    <circle cx="401" cy="228" r="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="441" cy="228" r="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="421" cy="228" r="36" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="407" cy="214" r="3.6" fill="#2b3a42"/>
+    <circle cx="435" cy="214" r="3.6" fill="#2b3a42"/>
+    <path d="M407 244 Q421 256 435 244" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M388 168 L416 168 L440 132" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="362" y="118" width="68" height="48" rx="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="396" y="148" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Yay!</text>
+    <text x="421" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">loud, fast,</text>
+    <text x="421" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a happy sound</text>
+    <text x="421" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">I hear it in the voice.</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Noticing clues helps me be kind.</text>
+</svg>

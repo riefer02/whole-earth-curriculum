@@ -47,6 +47,11 @@ context_variants:
     note: Use a real outdoor moment as the "when" — "I felt excited when I saw the bird" — and say the frame aloud
   - context: level-grouped
     note: "Learners ready to extend add a second part: I felt ___ when ___ because ___"
+assets:
+  - path: assets/images/L.01.001.03-sentence-frame.svg
+    alt: A sentence frame "I felt ___ when ___" with two blank boxes labeled "a feeling" and "a situation," plus a filled example "I felt proud when I learned to swim" with a proud face and a swimmer.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners learn the sentence frame "I felt ___ when ___" and practice joining a

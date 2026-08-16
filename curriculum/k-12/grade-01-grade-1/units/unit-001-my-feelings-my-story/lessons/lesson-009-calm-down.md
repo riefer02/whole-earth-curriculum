@@ -50,6 +50,11 @@ context_variants:
     note: Use the outdoors as the safe space — find a quiet spot in the shade, breathe with the wind, or count leaves while calming
   - context: level-grouped
     note: Learners ready to extend practice choosing their own strategy and naming when they would use it, without a reminder
+assets:
+  - path: assets/images/L.01.001.09-calming-strategies.svg
+    alt: A menu of six calming strategies — take a deep breath, count to ten, find a safe space, hug a pillow, drink water, and rock, sway, or stretch — each with an icon and label, noting that a calm-down is a helpful tool, never a punishment.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice one calming strategy — a deep breath, counting, or finding a safe

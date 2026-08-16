@@ -47,6 +47,11 @@ context_variants:
     note: Draw the star in the dirt or with sticks, or find a "proud spot" outdoors (a hilltop, a tall tree) and tell your moment there
   - context: level-grouped
     note: Learners ready to extend name not just the win but the effort and practice behind it
+assets:
+  - path: assets/images/L.01.001.06-proud-of-my-growth.svg
+    alt: A staircase labeled try, practice, and grow rising to a big star holding a proud face, showing that pride comes from a person's own effort and growth, not from beating anyone.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners identify one thing they are proud of, connect it to the effort behind it,

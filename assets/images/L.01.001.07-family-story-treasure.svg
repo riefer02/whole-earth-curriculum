@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our family stories and traditions</title>
+  <desc id="desc">Two rows of cards. The top row shows four ways a family carries a tradition: a bowl of food for a shared meal, a music note for a song, an open book for a story, and a candle for a special day. The bottom row shows three different family shapes: one grown-up and a child; a grandparent with glasses and a cane and a child; and two grown-ups and a child, one grown-up wearing a hearing aid. Skin tones and hair vary. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale, and the graphic shows that every family shape and every tradition is worth telling.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Our Family Stories &amp; Traditions</text>
+
+  <!-- Row 1 label -->
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">traditions come in many forms</text>
+
+  <!-- Card 1: a shared meal -->
+  <g>
+    <rect x="16" y="88" width="108" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M48 156 Q70 138 92 156 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M58 136 Q62 124 66 136 M72 136 Q76 124 80 136" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="70" y="194" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a shared meal</text>
+  </g>
+
+  <!-- Card 2: a song -->
+  <g>
+    <rect x="140" y="88" width="108" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="194" cy="140" r="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="202" y1="150" x2="202" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M202 176 Q214 170 216 158" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M176 150 Q180 142 184 150" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="194" y="194" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a song</text>
+  </g>
+
+  <!-- Card 3: a story -->
+  <g>
+    <rect x="264" y="88" width="108" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M300 128 Q318 122 336 128 L336 166 Q318 160 300 166 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="318" y1="128" x2="318" y2="166" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="304" y1="140" x2="312" y2="140" stroke="#2b3a42" stroke-width="1.8"/>
+    <line x1="304" y1="148" x2="312" y2="148" stroke="#2b3a42" stroke-width="1.8"/>
+    <line x1="324" y1="140" x2="332" y2="140" stroke="#2b3a42" stroke-width="1.8"/>
+    <line x1="324" y1="148" x2="332" y2="148" stroke="#2b3a42" stroke-width="1.8"/>
+    <text x="318" y="194" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a story</text>
+  </g>
+
+  <!-- Card 4: a special day -->
+  <g>
+    <rect x="388" y="88" width="108" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="430" y="148" width="24" height="32" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="442" y1="144" x2="442" y2="138" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="442" cy="132" rx="5" ry="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="442" y="194" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a special day</text>
+  </g>
+
+  <!-- Row 2 label -->
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">families come in many shapes</text>
+
+  <!-- Family card 1: one grown-up and me -->
+  <g>
+    <rect x="16" y="252" width="150" height="156" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="80" cy="316" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M70 310 A16 16 0 0 1 90 310 Z" fill="#2b3a42"/>
+    <circle cx="74" cy="314" r="2" fill="#2b3a42"/>
+    <circle cx="86" cy="314" r="2" fill="#2b3a42"/>
+    <path d="M74 326 Q80 330 86 326" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="68" y="334" width="24" height="44" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="74" y1="378" x2="72" y2="398" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="86" y1="378" x2="88" y2="398" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="118" cy="346" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M111 341 A11 11 0 0 1 125 341 Z" fill="#2b3a42"/>
+    <circle cx="114" cy="344" r="1.8" fill="#2b3a42"/>
+    <circle cx="122" cy="344" r="1.8" fill="#2b3a42"/>
+    <path d="M114 352 Q118 355 122 352" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="110" y="358" width="16" height="28" rx="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="114" y1="386" x2="112" y2="398" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="122" y1="386" x2="124" y2="398" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <text x="91" y="398" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">one grown-up and me</text>
+  </g>
+
+  <!-- Family card 2: my grandparent and me -->
+  <g>
+    <rect x="181" y="252" width="150" height="156" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="245" cy="316" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M235 310 A15 15 0 0 1 255 310 Z" fill="#4f6d7a"/>
+    <circle cx="239" cy="314" r="3" fill="none" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="251" cy="314" r="3" fill="none" stroke="#2b3a42" stroke-width="1.8"/>
+    <line x1="242" y1="314" x2="248" y2="314" stroke="#2b3a42" stroke-width="1.8"/>
+    <path d="M239 326 Q245 330 251 326" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="234" y="333" width="22" height="42" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="238" y1="375" x2="236" y2="396" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="252" y1="375" x2="254" y2="396" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="222" y1="338" x2="219" y2="396" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+    <path d="M214 396 Q219 401 224 396" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="283" cy="346" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M277 341 A10 10 0 0 1 289 341 Z" fill="#2b3a42"/>
+    <circle cx="279" cy="344" r="1.6" fill="#2b3a42"/>
+    <circle cx="287" cy="344" r="1.6" fill="#2b3a42"/>
+    <path d="M279 351 Q283 354 287 351" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="275" y="357" width="16" height="26" rx="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="279" y1="383" x2="277" y2="396" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="287" y1="383" x2="289" y2="396" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">my grandparent and me</text>
+  </g>
+
+  <!-- Family card 3: two grown-ups and me -->
+  <g>
+    <rect x="346" y="252" width="150" height="156" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="406" cy="316" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M396 310 A15 15 0 0 1 416 310 Z" fill="#2b3a42"/>
+    <circle cx="400" cy="314" r="2" fill="#2b3a42"/>
+    <circle cx="412" cy="314" r="2" fill="#2b3a42"/>
+    <path d="M400 326 Q406 330 412 326" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="395" y="334" width="22" height="42" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="399" y1="376" x2="397" y2="396" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="413" y1="376" x2="415" y2="396" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="462" cy="316" r="15" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M452 310 A15 15 0 0 1 472 310 Z" fill="#2b3a42"/>
+    <path d="M473 312 A8 8 0 0 1 473 324" fill="none" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="476" cy="318" r="2.6" fill="#e0a458"/>
+    <circle cx="456" cy="314" r="2" fill="#2b3a42"/>
+    <circle cx="468" cy="314" r="2" fill="#2b3a42"/>
+    <path d="M456 326 Q462 330 468 326" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="451" y="334" width="22" height="42" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="455" y1="376" x2="453" y2="396" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="469" y1="376" x2="471" y2="396" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="434" cy="350" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M428 345 A10 10 0 0 1 440 345 Z" fill="#2b3a42"/>
+    <circle cx="430" cy="348" r="1.6" fill="#2b3a42"/>
+    <circle cx="438" cy="348" r="1.6" fill="#2b3a42"/>
+    <path d="M430 355 Q434 358 438 355" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="426" y="360" width="16" height="26" rx="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="430" y1="386" x2="428" y2="396" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="438" y1="386" x2="440" y2="396" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <text x="421" y="398" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">two grown-ups and me</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every family's story is a treasure worth telling.</text>
+</svg>

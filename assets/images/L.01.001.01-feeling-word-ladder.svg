@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Feelings grow bigger: a feeling-word ladder</title>
+  <desc id="desc">Two rows of feeling faces. The bottom row shows four small faces labeled happy, sad, angry, and scared, captioned "words I already know." The top row shows three bigger faces labeled proud, lonely, and excited, each tagged "new!" An arrow points up from the bottom row to the top, labeled "grow," to show that a learner's feeling vocabulary grows bigger with practice. Mouth and eyebrow shapes differ so each feeling reads clearly in grayscale, and skin tones vary across the faces.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#2b3a42">Feelings Grow Bigger</text>
+
+  <!-- ===== Top row: three new (bigger) feelings ===== -->
+
+  <!-- Card 1: proud -->
+  <g>
+    <rect x="16" y="92" width="150" height="232" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="118" y="104" width="40" height="22" rx="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="138" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">new</text>
+    <circle cx="71" cy="176" r="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="111" cy="176" r="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="91" cy="176" r="32" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="79" cy="164" r="3.5" fill="#2b3a42"/>
+    <circle cx="103" cy="164" r="3.5" fill="#2b3a42"/>
+    <path d="M75 152 Q79 148 83 152" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M99 152 Q103 148 107 152" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M77 190 Q91 204 105 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="91" y="304" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">proud</text>
+  </g>
+
+  <!-- Card 2: lonely -->
+  <g>
+    <rect x="181" y="92" width="150" height="232" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="283" y="104" width="40" height="22" rx="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="303" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">new</text>
+    <circle cx="236" cy="176" r="8" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="276" cy="176" r="8" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="176" r="32" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="244" cy="164" r="3" fill="#2b3a42"/>
+    <circle cx="268" cy="164" r="3" fill="#2b3a42"/>
+    <path d="M240 154 Q244 151 248 154" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M264 154 Q268 151 272 154" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M242 194 Q256 186 270 194" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">lonely</text>
+  </g>
+
+  <!-- Card 3: excited -->
+  <g>
+    <rect x="346" y="92" width="150" height="232" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="448" y="104" width="40" height="22" rx="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="468" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">new</text>
+    <circle cx="401" cy="176" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="441" cy="176" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="421" cy="176" r="32" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="409" cy="164" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="433" cy="164" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="409" cy="164" r="2" fill="#2b3a42"/>
+    <circle cx="433" cy="164" r="2" fill="#2b3a42"/>
+    <path d="M404 150 Q409 145 414 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M428 150 Q433 145 438 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="421" cy="194" rx="6" ry="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="421" y="304" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">excited</text>
+  </g>
+
+  <!-- Up arrow: grow -->
+  <g>
+    <line x1="256" y1="372" x2="256" y2="334" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+    <path d="M248 340 L256 330 L264 340" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="276" y="356" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">grow</text>
+  </g>
+
+  <!-- ===== Bottom row: four known feelings ===== -->
+  <g>
+    <rect x="16" y="392" width="480" height="104" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">words I already know</text>
+
+    <!-- happy -->
+    <circle cx="74" cy="444" r="6" fill="#f5d6b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="94" cy="444" r="6" fill="#f5d6b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="84" cy="444" r="15" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="79" cy="440" r="1.6" fill="#2b3a42"/>
+    <circle cx="89" cy="440" r="1.6" fill="#2b3a42"/>
+    <path d="M78 450 Q84 456 90 450" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="84" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">happy</text>
+
+    <!-- sad -->
+    <circle cx="194" cy="444" r="6" fill="#e6bb92" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="214" cy="444" r="6" fill="#e6bb92" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="204" cy="444" r="15" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="199" cy="440" r="1.6" fill="#2b3a42"/>
+    <circle cx="209" cy="440" r="1.6" fill="#2b3a42"/>
+    <path d="M198 452 Q204 447 210 452" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="204" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">sad</text>
+
+    <!-- angry -->
+    <circle cx="314" cy="444" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="334" cy="444" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="324" cy="444" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="319" cy="440" r="1.6" fill="#2b3a42"/>
+    <circle cx="329" cy="440" r="1.6" fill="#2b3a42"/>
+    <path d="M318 451 L330 451" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="324" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">angry</text>
+
+    <!-- scared -->
+    <circle cx="434" cy="444" r="6" fill="#ab7a4e" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="454" cy="444" r="6" fill="#ab7a4e" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="444" cy="444" r="15" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="439" cy="440" r="2.6" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="449" cy="440" r="2.6" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <ellipse cx="444" cy="454" rx="3" ry="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="444" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">scared</text>
+  </g>
+</svg>
