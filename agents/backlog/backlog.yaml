@@ -1776,13 +1776,20 @@ items:
     type: scope
     grade: 9
     domain: null
-    status: ready
+    status: done
     priority: 36
     depends_on: []
     required_reviews:
       - vision-architect
       - reviewer
     notes: Author curriculum/k-12/grade-09-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+    reviews:
+      vision-architect:
+        verdict: passed
+        note: "Traceability verified programmatically: all 78 grade-9 objectives (D01-D10) map bijectively to scope+units, zero orphans/off-grade/invented IDs. Science (D06 S2/S3/S4 -> U.09.008) and History (D08 -> U.09.012) now have dedicated full units beyond the 2 preserved exemplars, lifting D06->11 and D08->10. domain->pillar correct; U.09.001-014 contiguous; 10 domains + 4 pillars; days 1-180 continuous (14 units, sum 180); weighting sums 100. 9-12 band rigor (complex systems, global history, multi-framework ethics, evidence-vs-values, agency-not-nihilism, co-authorship); non-Eurocentric; home-language-first; questions held as questions; no high-stakes tests; G8->9->10 spiral. Exemplars U.09.001/002 preserved unchanged. validate 397 files 0 errors."
+      reviewer:
+        verdict: passed
+        note: Validate passed (397 files, 0 errors). Scope frontmatter complete; 14 units U.09.001-014 with full fields; days 1-180 continuous no gaps/overlaps; domain_weighting sums to 100 (9+9+15+10+9+11+7+10+12+8). Every objective resolves to a real grade-9 standard, zero invented/K/08/10 IDs, full coverage (78 grade-9 objectives across D01-D10, no orphans). D06 (U.09.008, weight 11) and D08 (U.09.012, weight 10) hold dedicated units beyond their exemplars; exemplar lessons L.09.001.01/L.09.002.01 intact. All 12 new stubs full frontmatter + Overview/Essential questions/Lessons. Non-Eurocentric; no high-stakes tests.
   - id: B-107
     title: Author Grade 10 scope (full 180-day plan)
     agent: scope-sequencer
