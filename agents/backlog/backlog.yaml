@@ -360,7 +360,7 @@ items:
     status: done
     priority: 2
     depends_on: []
-    required_reviews: &a1
+    required_reviews:
       - reviewer
       - fact-checker
       - global-culture-editor
@@ -396,7 +396,13 @@ items:
     status: done
     priority: 3
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -426,7 +432,13 @@ items:
     status: done
     priority: 4
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -456,7 +468,13 @@ items:
     status: done
     priority: 5
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -486,7 +504,13 @@ items:
     status: done
     priority: 6
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -516,7 +540,13 @@ items:
     status: done
     priority: 7
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -546,7 +576,13 @@ items:
     status: done
     priority: 8
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -576,7 +612,13 @@ items:
     status: done
     priority: 9
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -606,7 +648,13 @@ items:
     status: done
     priority: 10
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -636,7 +684,13 @@ items:
     status: done
     priority: 11
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -666,7 +720,13 @@ items:
     status: done
     priority: 12
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -696,7 +756,13 @@ items:
     status: done
     priority: 13
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -726,7 +792,13 @@ items:
     status: done
     priority: 14
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -756,7 +828,13 @@ items:
     status: done
     priority: 15
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -786,7 +864,13 @@ items:
     status: done
     priority: 16
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -816,7 +900,13 @@ items:
     status: done
     priority: 17
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -846,7 +936,13 @@ items:
     status: done
     priority: 18
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -876,7 +972,13 @@ items:
     status: done
     priority: 19
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -906,7 +1008,13 @@ items:
     status: done
     priority: 20
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -936,7 +1044,13 @@ items:
     status: done
     priority: 21
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -966,7 +1080,13 @@ items:
     status: done
     priority: 22
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -996,7 +1116,13 @@ items:
     status: done
     priority: 23
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -1026,7 +1152,13 @@ items:
     status: done
     priority: 24
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -1056,7 +1188,13 @@ items:
     status: done
     priority: 25
     depends_on: []
-    required_reviews: *a1
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the grade scope. Include tiered materials (materials / materials_low_tech / materials_enriched), context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only), and any needed SVG assets per docs/art-style.md and docs/facilitation.md.
     reviews:
       reviewer:
@@ -1107,7 +1245,7 @@ items:
     priority: 30
     depends_on:
       - B-004
-    required_reviews: &a2
+    required_reviews:
       - reviewer
       - accessibility-editor
       - global-culture-editor
@@ -1132,7 +1270,10 @@ items:
     priority: 31
     depends_on:
       - B-040
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.002 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1154,7 +1295,10 @@ items:
     priority: 32
     depends_on:
       - B-041
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.003 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1176,7 +1320,10 @@ items:
     priority: 33
     depends_on:
       - B-042
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.004 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1198,7 +1345,10 @@ items:
     priority: 34
     depends_on:
       - B-043
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.005 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1220,7 +1370,10 @@ items:
     priority: 35
     depends_on:
       - B-044
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.006 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1242,7 +1395,10 @@ items:
     priority: 36
     depends_on:
       - B-045
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.007 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1264,7 +1420,10 @@ items:
     priority: 37
     depends_on:
       - B-046
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.008 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1286,7 +1445,10 @@ items:
     priority: 38
     depends_on:
       - B-047
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.009 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1308,7 +1470,10 @@ items:
     priority: 39
     depends_on:
       - B-048
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.010 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1330,7 +1495,10 @@ items:
     priority: 40
     depends_on:
       - B-049
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.011 that lack a graphic, and wire each into the lesson's assets: field with alt text. Blocked by reviewer: lesson-004-sharing-and-taking-turns.md still uses 'talking stick' (sacred Indigenous practice) in 2 places: frontmatter materials line (notes: 'A ball, a shell, or a special \"talking stick\"...') and body line ('A shared object to pass (ball, shell, or \"talking stick\")'). Rename both to neutral 'turn marker' (matching lesson-5 SVG and codebase standard). Everything else clean: 8/8 assets resolve, valid grayscale-safe SVGs, ethics-as-question + repair-not-punishment + name-the-act framing, equity-as-need held as open question, D09 K objectives resolve.."
     reviews:
       reviewer:
@@ -1352,7 +1520,10 @@ items:
     priority: 41
     depends_on:
       - B-050
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.012 that lack a graphic, and wire each into the lesson's assets: field with alt text. Blocked by reviewer: lesson-007-caring-for-our-earth-home.md alt says 'Three boxes' + lists only 3 acts (water plant, turn off tap, litter to bin), but the SVG L.00.012.07 actually draws FOUR panels (4th = 'Plant a seed'). Same error in the SVG <desc>. Fix: change 'Three boxes' -> 'Four boxes' and add the 4th act in BOTH lesson-007 alt text and the SVG desc (e.g. 'a hand plants a seed so more green can grow'). Everything else passed: 8/8 assets resolve, valid self-contained XML, grayscale-safe, tech-neutral, gentle real-vs-pretend, care-as-agency, D10 K objectives resolve.."
     reviews:
       reviewer:
@@ -1374,7 +1545,10 @@ items:
     priority: 42
     depends_on:
       - B-051
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.013 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1396,7 +1570,10 @@ items:
     priority: 43
     depends_on:
       - B-052
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.001 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1418,7 +1595,10 @@ items:
     priority: 44
     depends_on:
       - B-053
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.002 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1440,7 +1620,10 @@ items:
     priority: 45
     depends_on:
       - B-054
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.003 that lack a graphic, and wire each into the lesson's assets: field with alt text. Blocked by reviewer: 'talking stick' (sacred Indigenous practice) appears throughout the unit, violating codebase standard neutral 'turn marker'. Fix all occurrences: lesson-003 (9 spots: frontmatter materials name L25, materials_low_tech L33, context_variants large-group L45, assets alt L54, Materials body L96, Facilitator note L107, Procedure 'Meet the talking stick' L120, Extension L140, Assessment L146); lesson-010 (materials_enriched 'talking stick and soft rug' L54); SVG L.01.003.03-turn-signals.svg (desc twice + 2 code comments). Non-blocking: lesson-001 'talking piece' is neutral, optionally harmonize to 'turn marker'. Everything else clean: 10/10 assets resolve, valid SVGs, kind-words-not-one-language, no eye-contact mandate, no single family model, mutual aid+consent, D02 grade-1 objectives resolve.. Blocked by reviewer: 'talking [object]' pattern persists: lesson-002 materials field names the object 'Listening stone' but 3 spots still say 'talking stone' (inconsistent). Fix: lesson-002-listening-without-interrupting.md line 53 alt text; L.01.003.02-listening-body.svg line 3 <desc> and line 26 code comment — change 'talking stone' -> 'listening stone'. Everything else cleared: talking stick/piece gone, 8 objectives resolve to grade-1 D02, 10 assets resolve, valid SVGs, kind-words 6 languages, no eye-contact mandate, no single family model, mutual aid + consent.."
     reviews:
       reviewer:
@@ -1462,7 +1645,10 @@ items:
     priority: 46
     depends_on:
       - B-055
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.004 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1484,7 +1670,10 @@ items:
     priority: 47
     depends_on:
       - B-056
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.005 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1506,7 +1695,10 @@ items:
     priority: 48
     depends_on:
       - B-057
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.006 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1528,7 +1720,10 @@ items:
     priority: 49
     depends_on:
       - B-058
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.007 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1550,7 +1745,10 @@ items:
     priority: 50
     depends_on:
       - B-059
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.008 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1572,7 +1770,10 @@ items:
     priority: 51
     depends_on:
       - B-060
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.009 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1594,7 +1795,10 @@ items:
     priority: 52
     depends_on:
       - B-061
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.010 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1616,7 +1820,10 @@ items:
     priority: 53
     depends_on:
       - B-062
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.011 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1638,7 +1845,10 @@ items:
     priority: 54
     depends_on:
       - B-063
-    required_reviews: *a2
+    required_reviews:
+      - reviewer
+      - accessibility-editor
+      - global-culture-editor
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.012 that lack a graphic, and wire each into the lesson's assets: field with alt text."
     reviews:
       reviewer:
@@ -1860,7 +2070,7 @@ items:
     priority: 50
     depends_on:
       - B-064
-    required_reviews: &a3
+    required_reviews:
       - reviewer
       - fact-checker
       - global-culture-editor
@@ -1878,7 +2088,13 @@ items:
     priority: 51
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-202
     title: Author lessons for Unit U.02.003 (Caring and Working Together)
@@ -1890,7 +2106,13 @@ items:
     priority: 52
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-203
     title: Author lessons for Unit U.02.004 (Reading, Writing and Many Languages)
@@ -1902,7 +2124,13 @@ items:
     priority: 53
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-204
     title: Author lessons for Unit U.02.005 (Numbers, Shapes, Patterns and Data)
@@ -1914,7 +2142,13 @@ items:
     priority: 54
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-205
     title: Author lessons for Unit U.02.006 (Wondering and Testing the Living World)
@@ -1926,7 +2160,13 @@ items:
     priority: 55
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-206
     title: Author lessons for Unit U.02.007 (Making, Music and Movement)
@@ -1938,7 +2178,13 @@ items:
     priority: 56
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-207
     title: Author lessons for Unit U.02.008 (Healthy, Safe and Strong)
@@ -1950,7 +2196,13 @@ items:
     priority: 57
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-208
     title: Author lessons for Unit U.02.009 (People, Places and Long Ago)
@@ -1962,7 +2214,13 @@ items:
     priority: 58
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-209
     title: Author lessons for Unit U.02.010 (Fairness and Our Shared Rules)
@@ -1974,7 +2232,13 @@ items:
     priority: 59
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-210
     title: Author lessons for Unit U.02.011 (Tools, Media and Our Earth Home)
@@ -1986,7 +2250,13 @@ items:
     priority: 60
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
   - id: B-211
     title: Author lessons for Unit U.02.012 (All of Me, All of Us)
@@ -1998,6 +2268,2154 @@ items:
     priority: 61
     depends_on:
       - B-064
-    required_reviews: *a3
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-300
+    title: Author lessons for Unit U.03.001 (Mixed Feelings, My Story & My Goals)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D01
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-301
+    title: Author lessons for Unit U.03.002 (My Body, My Senses & Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D03
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-302
+    title: Author lessons for Unit U.03.003 (Caring, Perspective & Belonging)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D02
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-303
+    title: Author lessons for Unit U.03.004 (Reading, Writing & Many Languages)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D04
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-304
+    title: Author lessons for Unit U.03.005 (Numbers, Shapes, Patterns & Data)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D05
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-305
+    title: Author lessons for Unit U.03.006 (Fair Tests & the Changing World)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D06
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-306
+    title: Author lessons for Unit U.03.007 (Making, Music & Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D07
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-307
+    title: Author lessons for Unit U.03.008 (Healthy, Safe & Strong)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D03
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-308
+    title: Author lessons for Unit U.03.009 (People, Places & Long Ago)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D08
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-309
+    title: Author lessons for Unit U.03.010 (Fairness & Our Shared Rules)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D09
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-310
+    title: Author lessons for Unit U.03.011 (Tools, Media & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D10
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-311
+    title: Author lessons for Unit U.03.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 3
+    domain: D01
+    status: ready
+    priority: 80
+    depends_on:
+      - B-100
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-312
+    title: Author lessons for Unit U.04.001 (Feelings in Full Color & My Growing Self)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D01
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-313
+    title: Author lessons for Unit U.04.002 (My Body at Work & at Rest)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D03
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-314
+    title: Author lessons for Unit U.04.003 (Listening, Perspective & Belonging)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D02
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-315
+    title: Author lessons for Unit U.04.004 (Reading, Writing & Many Languages)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D04
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-316
+    title: Author lessons for Unit U.04.005 (Numbers, Patterns, Shapes & Data)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D05
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-317
+    title: Author lessons for Unit U.04.006 (Controlled Experiments & the Living World)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D06
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-318
+    title: Author lessons for Unit U.04.007 (Making, Music & Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D07
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-319
+    title: Author lessons for Unit U.04.008 (Healthy, Safe & Strong)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D03
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-320
+    title: Author lessons for Unit U.04.009 (People, Places & Long Ago)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D08
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-321
+    title: Author lessons for Unit U.04.010 (Rights, Fairness & Our Shared Rules)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D09
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-322
+    title: Author lessons for Unit U.04.011 (Tools, Media & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D10
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-323
+    title: Author lessons for Unit U.04.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 4
+    domain: D01
+    status: ready
+    priority: 90
+    depends_on:
+      - B-101
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-324
+    title: Author lessons for Unit U.05.002 (My Feelings, My Values & My Growing Self)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D01
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-325
+    title: Author lessons for Unit U.05.003 (My Body, My Movement & My Growth)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D03
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-326
+    title: Author lessons for Unit U.05.004 (Teams, Empathy & Belonging)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D02
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-327
+    title: Author lessons for Unit U.05.005 (Reading, Writing, Research & Many Languages)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D04
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-328
+    title: Author lessons for Unit U.05.006 (Decimals, Fractions, Shapes & Data)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D05
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-329
+    title: Author lessons for Unit U.05.007 (Food Webs, Forces, Earth & Sky)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D06
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-330
+    title: Author lessons for Unit U.05.008 (Making, Music & Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D07
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-331
+    title: Author lessons for Unit U.05.009 (Healthy, Safe & Strong)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D03
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-332
+    title: Author lessons for Unit U.05.010 (People, Cultures & Long Ago)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D08
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-333
+    title: Author lessons for Unit U.05.011 (Rights, Fairness & Shared Decisions)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D09
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-334
+    title: Author lessons for Unit U.05.012 (Tools, Media & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 5
+    domain: D10
+    status: ready
+    priority: 100
+    depends_on:
+      - B-102
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-335
+    title: Author lessons for Unit U.06.001 (Feelings, Identity & My Many Selves)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D01
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-336
+    title: Author lessons for Unit U.06.002 (My Body, My Movement & My Growing Self)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D03
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-337
+    title: Author lessons for Unit U.06.003 (Friendships, Empathy & Belonging)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D02
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-338
+    title: Author lessons for Unit U.06.004 (Reading, Writing, Argument & Many Languages)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D04
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-339
+    title: Author lessons for Unit U.06.005 (Ratios, Integers, Equations & Data)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D05
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-340
+    title: Author lessons for Unit U.06.006 (Science as Systems & Evidence)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D06
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-341
+    title: Author lessons for Unit U.06.007 (Making, Composing & Designing)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D07
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-342
+    title: "Author lessons for Unit U.06.008 (Healthy, Safe & Strong: Puberty & Self-Care)"
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D03
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-343
+    title: Author lessons for Unit U.06.009 (People, Power & the Human Story)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D08
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-344
+    title: Author lessons for Unit U.06.010 (Fairness, Justice & Shared Decisions)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D09
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-345
+    title: Author lessons for Unit U.06.011 (Tools, Media & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D10
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-346
+    title: Author lessons for Unit U.06.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 6
+    domain: D01
+    status: ready
+    priority: 110
+    depends_on:
+      - B-103
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-347
+    title: Author lessons for Unit U.07.001 (Feelings, Identity & Purpose)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D01
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-348
+    title: Author lessons for Unit U.07.002 (My Body, Movement & Wellness)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D03
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-349
+    title: Author lessons for Unit U.07.003 (Relationships, Empathy & Conflict)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D02
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-350
+    title: Author lessons for Unit U.07.004 (Reading, Writing, Argument & Many Languages)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D04
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-351
+    title: Author lessons for Unit U.07.005 (Proportions, Rational Numbers, Equations & Chance)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D05
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-352
+    title: "Author lessons for Unit U.07.006 (Science: Systems, Evidence & Deep Time)"
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D06
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-353
+    title: Author lessons for Unit U.07.007 (Making, Performing & Designing)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D07
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-354
+    title: "Author lessons for Unit U.07.008 (Healthy, Safe & Strong: Puberty & Self-Care)"
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D03
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-355
+    title: Author lessons for Unit U.07.009 (Civilizations, Knowledge Systems & the Human Story)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D08
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-356
+    title: Author lessons for Unit U.07.010 (Ethics, Justice & Shared Power)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D09
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-357
+    title: Author lessons for Unit U.07.011 (Media, Technology & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D10
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-358
+    title: Author lessons for Unit U.07.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 7
+    domain: D01
+    status: ready
+    priority: 120
+    depends_on:
+      - B-104
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-359
+    title: Author lessons for Unit U.08.001 (Feelings, Identity & Purpose)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D01
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-360
+    title: Author lessons for Unit U.08.002 (My Body, Movement & Wellness)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D03
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-361
+    title: Author lessons for Unit U.08.003 (Relationships, Empathy & Conflict)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D02
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-362
+    title: Author lessons for Unit U.08.004 (Reading, Writing, Argument & Many Languages)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D04
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-363
+    title: Author lessons for Unit U.08.005 (Functions, Linear Equations, Geometry & Data)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D05
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-364
+    title: "Author lessons for Unit U.08.006 (Science: Systems, Evidence & Models)"
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D06
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-365
+    title: Author lessons for Unit U.08.007 (Making, Composing, Devising & Designing)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D07
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-366
+    title: "Author lessons for Unit U.08.008 (Healthy, Safe & Strong: Substance & Self-Care)"
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D03
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-367
+    title: Author lessons for Unit U.08.009 (Trade, Knowledge Systems & the Human Story)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D08
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-368
+    title: Author lessons for Unit U.08.010 (Ethics, Justice & Civic Power)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D09
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-369
+    title: Author lessons for Unit U.08.011 (Media, Technology & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D10
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-370
+    title: Author lessons for Unit U.08.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 8
+    domain: D01
+    status: ready
+    priority: 130
+    depends_on:
+      - B-105
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-371
+    title: Author lessons for Unit U.09.003 (Feelings, Identity & Purpose)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D01
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-372
+    title: Author lessons for Unit U.09.004 (My Body, Wellness & Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D03
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-373
+    title: Author lessons for Unit U.09.005 (Relationships, Empathy & Community)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D02
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-374
+    title: Author lessons for Unit U.09.006 (Language, Literature & Argument)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D04
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-375
+    title: Author lessons for Unit U.09.007 (Mathematics & Reasoning)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D05
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-376
+    title: Author lessons for Unit U.09.008 (Living Systems, Physical Systems & Our Origins)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D06
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-377
+    title: Author lessons for Unit U.09.009 (Creative & Aesthetic Expression)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D07
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-378
+    title: Author lessons for Unit U.09.010 (Health, Sexuality & Safety)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D03
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-379
+    title: Author lessons for Unit U.09.011 (Ethics, Justice & Political Economy)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D09
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-380
+    title: "Author lessons for Unit U.09.012 (Global History: Change, Power & Liberation)"
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D08
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-381
+    title: Author lessons for Unit U.09.013 (Technology, Media & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D10
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-382
+    title: Author lessons for Unit U.09.014 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 9
+    domain: D01
+    status: ready
+    priority: 140
+    depends_on:
+      - B-106
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-383
+    title: Author lessons for Unit U.10.001 (Feelings, Identity & Purpose)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D01
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-384
+    title: Author lessons for Unit U.10.002 (Body, Wellness & Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D03
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-385
+    title: Author lessons for Unit U.10.003 (Relationships, Community & Mutual Aid)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D02
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-386
+    title: Author lessons for Unit U.10.004 (Language, Literature & Argument)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D04
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-387
+    title: Author lessons for Unit U.10.005 (Mathematics & Reasoning)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D05
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-388
+    title: "Author lessons for Unit U.10.006 (Science: Systems, Evidence & Our Origins)"
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D06
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-389
+    title: Author lessons for Unit U.10.007 (Creative & Aesthetic Expression)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D07
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-390
+    title: Author lessons for Unit U.10.008 (Health, Sexuality & Safety)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D03
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-391
+    title: "Author lessons for Unit U.10.009 (Global History: Time, Culture & Atrocity)"
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D08
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-392
+    title: Author lessons for Unit U.10.010 (Ethics, Justice & Political Economy)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D09
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-393
+    title: Author lessons for Unit U.10.011 (Technology, Media & Our Earth Home)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D10
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-394
+    title: Author lessons for Unit U.10.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 10
+    domain: D01
+    status: ready
+    priority: 150
+    depends_on:
+      - B-107
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-395
+    title: Author lessons for Unit U.11.001 (Feelings, Identity & Purpose)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D01
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-396
+    title: Author lessons for Unit U.11.002 (Body, Wellness & Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D03
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-397
+    title: Author lessons for Unit U.11.003 (Relationships, Community & Solidarity)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D02
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-398
+    title: Author lessons for Unit U.11.004 (Language, Literature & Argument)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D04
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-399
+    title: Author lessons for Unit U.11.005 (Mathematics & Reasoning)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D05
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-400
+    title: "Author lessons for Unit U.11.006 (Science: Systems, Evidence & Our Origins)"
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D06
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-401
+    title: Author lessons for Unit U.11.007 (Creative & Aesthetic Expression)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D07
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-402
+    title: Author lessons for Unit U.11.008 (Health, Care & Access)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D03
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-403
+    title: "Author lessons for Unit U.11.009 (Global History: Transformation, Knowledge & Justice)"
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D08
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-404
+    title: Author lessons for Unit U.11.010 (Ethics, Justice & Political Economy)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D09
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-405
+    title: Author lessons for Unit U.11.011 (Technology, Media & the Living Earth)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D10
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-406
+    title: Author lessons for Unit U.11.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 11
+    domain: D01
+    status: ready
+    priority: 160
+    depends_on:
+      - B-108
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-407
+    title: Author lessons for Unit U.12.001 (Feelings, Identity & Purpose)
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D01
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-408
+    title: Author lessons for Unit U.12.002 (Body, Wellness & Lifelong Movement)
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D03
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-409
+    title: Author lessons for Unit U.12.003 (Relationships, Community & Collective Care)
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D02
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-410
+    title: Author lessons for Unit U.12.004 (Language, Literature & Deliberation)
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D04
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-411
+    title: "Author lessons for Unit U.12.005 (Mathematics: Reasoning about Large Systems)"
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D05
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-412
+    title: "Author lessons for Unit U.12.006 (Science: Systems, Evidence & Our Origins)"
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D06
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-413
+    title: "Author lessons for Unit U.12.007 (Creative & Aesthetic Expression: A Capstone Voice)"
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D07
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-414
+    title: Author lessons for Unit U.12.008 (Health, Nutrition & Care)
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D03
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-415
+    title: "Author lessons for Unit U.12.009 (Global History: Change, Knowledge & the Unfinished Story)"
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D08
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-416
+    title: Author lessons for Unit U.12.010 (Ethics, Justice & Civic Life)
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D09
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-417
+    title: Author lessons for Unit U.12.011 (Technology, Media & the Living Earth)
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D10
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+  - id: B-418
+    title: Author lessons for Unit U.12.012 (All of Me, All of Us)
+    agent: lesson-author
+    type: lesson
+    grade: 12
+    domain: D01
+    status: ready
+    priority: 170
+    depends_on:
+      - B-109
+    required_reviews:
+      - reviewer
+      - fact-checker
+      - global-culture-editor
+      - accessibility-editor
+      - alignment-auditor
+      - child-psychologist
+    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
 

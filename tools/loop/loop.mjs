@@ -14,7 +14,7 @@ function readBacklog() {
 }
 
 function writeBacklog(backlog) {
-  fs.writeFileSync(BACKLOG, stringify(backlog, { lineWidth: 0 }) + '\n');
+  fs.writeFileSync(BACKLOG, stringify(backlog, { lineWidth: 0, aliasDuplicateObjects: false }) + '\n');
 }
 
 function readState() {
