@@ -54,6 +54,11 @@ context_variants:
     note: Older learners explain the seed-to-plant idea to younger ones and help write the class energy chart
   - context: level-grouped
     note: Learners ready to explain in sentences say how a food helps; others act out grow-play-learn and point to foods
+assets:
+  - path: assets/images/L.01.008.03-food-gives-energy.svg
+    alt: A plate of food sending three arrows down to labeled panels — grow (a seed becoming a plant), play (a leaping figure), and learn (a head with a light bulb) — showing food is fuel for all three.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that food is the body's fuel, giving energy to grow, play, and

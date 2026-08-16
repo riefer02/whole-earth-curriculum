@@ -55,6 +55,11 @@ context_variants:
     note: Older learners play the "trusted adult" in role-plays so younger learners can practice asking a real person
   - context: level-grouped
     note: Some learners practice one help phrase; others ready for more name three trusted adults and practice telling in order
+assets:
+  - path: assets/images/L.01.008.08-trusted-adults-asking-for-help.svg
+    alt: A child with a raised hand saying I need help, a trusted grown-up who uses a wheelchair with an open hand, and a help hand naming five kinds of trusted adults — caregiver, grandparent, teacher, nurse, and neighbor.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name their trusted adults at home, school, and in their neighborhood, and

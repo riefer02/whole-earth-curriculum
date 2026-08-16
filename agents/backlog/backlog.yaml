@@ -1546,12 +1546,22 @@ items:
     type: assets
     grade: 1
     domain: D03
-    status: ready
+    status: done
     priority: 50
     depends_on:
       - B-059
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.008 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (301 files). All 8 assets resolve to real files, non-empty alt, kind/source valid. 8 SVGs self-contained XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal. Food no-shame (world staples, 'every family's food is worthy of honor', no size/weight tie). Self-care water-scarce friendly (pour-jug/basin, ash, chewing-stick/clean-finger). Body-autonomy L.007/008 warm empowering (dashed 'my body mine' circle, 'no/stop always okay', 'tell a trusted adult'), no anatomical detail, never fault child. Objectives resolve to grade-1 D03 S3/S4 only. Non-blocking: L.001 alt vs desc slight wording difference."
+      accessibility-editor:
+        verdict: passed
+        note: "All 8 SVGs role=img + aria-labelledby + title/desc; alt concept-complete; color never only signal (labels/numerals), grayscale-safe. Food sort point/gesture/name/sign (no fine-motor gate). Self-care caregiver/peer assist, adaptive fasteners, tactile alternatives. Body-autonomy no anatomical detail, no forced disclosure, 'never your fault', safeguarding guidance. Low-cost diverse (ash/chewing-stick/clean-finger). Fix: 'doing all six parts' -> 'all five parts' in lesson-004 (five handwashing steps). validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Food no moralizing/single-cuisine (10 world staples equal tiles, 'no food better than another', 'every food gives energy'). Water-scarcity (pour-jug/basin, ash-as-soap, save-water; chewing-stick/clean-finger). Body-autonomy greeting norms vary (hug/handshake/joined-palms/bow/cheek-kiss, consent applies to all). Trusted adults varied (caregiver/grandparent/teacher/nurse/neighbor). Fix: SVGs 07/08 had no assistive device -> added hearing aid to child L.07 + redrew trusted grown-up as wheelchair user L.08, updated desc + alt. validate passes (301 files)."
   - id: B-091
     title: "Illustration pass: add SVG assets to lessons in U.01.009"
     agent: asset-designer

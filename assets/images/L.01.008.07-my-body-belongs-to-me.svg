@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My body belongs to me</title>
+  <desc id="desc">A smiling child who wears a hearing aid stands inside a soft dashed circle that says my body, mine, with a small heart on the chest. Around the child are three gentle reminders: an open stop hand labeled no and stop are okay, a yes and stop card, and a speech bubble saying tell a trusted adult. There is no anatomical detail. The message is empowering and calm, and labels carry the meaning so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Body Belongs to Me</text>
+
+  <!-- Dashed boundary circle -->
+  <circle cx="256" cy="250" r="104" fill="#eef3f0" stroke="#7a9e7e" stroke-width="3" stroke-dasharray="12 8"/>
+  <text x="256" y="140" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">my body &#183; mine</text>
+
+  <!-- Child -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="212" r="24" fill="#c99567"/>
+    <rect x="234" y="238" width="44" height="58" rx="16" fill="#7a9e7e"/>
+    <line x1="240" y1="246" x2="226" y2="288" stroke="#c99567" stroke-width="12"/>
+    <line x1="272" y1="246" x2="286" y2="288" stroke="#c99567" stroke-width="12"/>
+    <line x1="244" y1="294" x2="240" y2="330" stroke="#4f6d7a" stroke-width="14"/>
+    <line x1="268" y1="294" x2="272" y2="330" stroke="#4f6d7a" stroke-width="14"/>
+    <!-- gentle smile and eyes -->
+    <circle cx="248" cy="208" r="3" fill="#2b3a42"/>
+    <circle cx="264" cy="208" r="3" fill="#2b3a42"/>
+    <path d="M248 220 Q256 226 264 220" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <!-- heart on chest -->
+    <path d="M250 256 q-4 -5 0 -8 q4 3 6 0 q4 3 0 8 l-3 3 l-3 -3 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <!-- behind-the-ear hearing aid -->
+    <ellipse cx="283" cy="209" rx="4" ry="7" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" transform="rotate(18 283 209)"/>
+    <path d="M283 216 q2 3 5 4" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Stop hand (left) -->
+  <g>
+    <circle cx="80" cy="200" r="40" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M80 184 L80 194 L70 200 L70 192 L64 195 L66 185 L76 182 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="80" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">&#8220;no&#8221; / &#8220;stop&#8221;</text>
+    <text x="80" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">is always okay</text>
+  </g>
+
+  <!-- Speech bubble (right): tell a trusted adult -->
+  <g>
+    <path d="M424 172 Q424 156 446 156 L496 156 Q516 156 516 172 L516 196 Q516 212 496 212 L470 212 L460 228 L460 212 Q424 212 424 196 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="470" y="186" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">tell a trusted</text>
+    <text x="470" y="204" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">adult</text>
+  </g>
+
+  <!-- Yes / stop card (bottom) -->
+  <g>
+    <rect x="156" y="368" width="200" height="96" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my yes / stop card</text>
+    <!-- yes -->
+    <circle cx="206" cy="432" r="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M196 432 l7 7 l14 -14" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="206" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">yes</text>
+    <!-- stop -->
+    <path d="M306 416 L306 428 L296 434 L296 426 L290 430 L292 420 L302 417 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="306" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">stop</text>
+  </g>
+
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">My body belongs to me. My no matters. I can always tell a trusted adult.</text>
+</svg>

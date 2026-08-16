@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Washing my hands</title>
+  <desc id="desc">Five numbered panels in a row show the handwashing routine in order: wet, lather, scrub, rinse, and dry. The wet and rinse panels use a pour jug and a basin so the method works where there is no tap, and a note says ash can wash when there is no soap. Steps are numbered and labeled, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Washing My Hands</text>
+
+  <!-- Step 1: wet (pour jug) -->
+  <g>
+    <rect x="16" y="80" width="92" height="262" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="62" cy="112" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="62" y="119" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">1</text>
+    <!-- pour jug -->
+    <path d="M44 148 L78 148 L74 186 Q74 196 62 196 Q50 196 50 186 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M66 152 L80 160 L76 176 L62 170 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M62 200 q0 8 6 8" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M62 206 q0 10 8 10" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-opacity="0.6"/>
+    <!-- basin + hand -->
+    <path d="M40 268 A22 16 0 0 0 84 268 Z" fill="#dbe6d2" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M62 246 L62 260 L48 268 L48 256 L40 260 L44 246 L58 242 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="62" y="312" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">wet</text>
+    <text x="62" y="334" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">pour jug</text>
+  </g>
+
+  <!-- Step 2: lather (soap or ash) -->
+  <g>
+    <rect x="116" y="80" width="92" height="262" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="162" cy="112" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="162" y="119" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">2</text>
+    <path d="M162 168 L162 184 L148 192 L148 180 L140 184 L144 170 L158 166 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="168" cy="206" rx="16" ry="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="150" cy="240" rx="13" ry="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <text x="162" y="274" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">lather</text>
+    <text x="162" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">soap or ash</text>
+  </g>
+
+  <!-- Step 3: scrub -->
+  <g>
+    <rect x="216" y="80" width="92" height="262" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="262" cy="112" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="262" y="119" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">3</text>
+    <path d="M244 176 L244 188 L232 194 L232 184 L226 188 L228 176 L240 174 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M280 176 L280 188 L292 194 L292 184 L298 188 L296 176 L284 174 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <g stroke="#4f6d7a" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M252 206 q6 -6 0 -12"/>
+      <path d="M262 212 q6 -6 0 -12"/>
+      <path d="M272 206 q6 -6 0 -12"/>
+    </g>
+    <text x="262" y="274" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">scrub</text>
+    <text x="262" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">every part</text>
+  </g>
+
+  <!-- Step 4: rinse -->
+  <g>
+    <rect x="316" y="80" width="92" height="262" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="362" cy="112" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="362" y="119" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">4</text>
+    <path d="M344 148 L378 148 L374 186 Q374 196 362 196 Q350 196 350 186 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M362 200 q0 8 6 8" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M362 206 q0 10 8 10" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-opacity="0.6"/>
+    <path d="M340 268 A22 16 0 0 0 384 268 Z" fill="#dbe6d2" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M362 246 L362 260 L348 268 L348 256 L340 260 L344 246 L358 242 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="362" y="312" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">rinse</text>
+    <text x="362" y="334" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">soap away</text>
+  </g>
+
+  <!-- Step 5: dry -->
+  <g>
+    <rect x="416" y="80" width="92" height="262" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="462" cy="112" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="462" y="119" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">5</text>
+    <path d="M462 168 L462 184 L448 192 L448 180 L440 184 L444 170 L458 166 Z" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="436" y="200" width="52" height="34" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="462" y="274" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">dry</text>
+    <text x="462" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">clean cloth</text>
+  </g>
+
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Save water: wet, set the jug down, lather, scrub, then rinse.</text>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ash can wash when there is no soap. A helper may wash hands you cannot reach yourself.</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Care is never a test — celebrate effort, not perfection.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Wash before eating, after the bathroom, after play, after coughing, and after animals.</text>
+</svg>

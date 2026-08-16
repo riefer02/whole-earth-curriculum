@@ -51,6 +51,11 @@ context_variants:
     note: Older learners act as recorders, writing each food under its group while younger learners sort the cards
   - context: level-grouped
     note: Group learners who are ready to explain their sorting in full sentences; others sort by pointing and simple words
+assets:
+  - path: assets/images/L.01.008.02-food-groups.svg
+    alt: Four equal food-group boxes — fruits, vegetables, grains, and proteins — each labeled and holding simple drawings of foods from many places, with no group ranked as best.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sort foods into four groups — fruits, vegetables, grains, and proteins —

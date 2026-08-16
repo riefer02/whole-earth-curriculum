@@ -55,6 +55,11 @@ context_variants:
     note: Older learners coach younger ones through buttons and zips, and help place the routine cards in order
   - context: level-grouped
     note: Group learners by which fastener they are working on (buttons vs zips vs ties), so each practices at their own next step
+assets:
+  - path: assets/images/L.01.008.06-dressing-daily-care.svg
+    alt: Five labeled cards showing a button, a zip, a snap, a tie, and a wrap with a sash, plus a daily care routine in order — wake, wash, brush, dress, eat — honoring all ways clothes fasten.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice dressing skills — buttons, zips, snaps, and ties — with growing

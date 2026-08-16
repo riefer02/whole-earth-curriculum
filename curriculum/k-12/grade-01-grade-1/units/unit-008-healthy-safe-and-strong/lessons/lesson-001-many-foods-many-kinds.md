@@ -51,6 +51,11 @@ context_variants:
     note: Older learners write each food name on the chart as younger learners name them, building one shared list
   - context: level-grouped
     note: Learners who can write add food names as words; learners still learning match pictures to real foods and say the names
+assets:
+  - path: assets/images/L.01.008.01-many-foods-many-kinds.svg
+    alt: Ten world foods — rice, beans, flatbread, maize, cassava, lentils, greens, mango, fish, and root vegetables — each drawn simply and labeled, all the same size with no food ranked above another.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that people around the world eat a wonderful variety of foods and

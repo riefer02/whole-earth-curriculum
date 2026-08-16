@@ -56,6 +56,11 @@ context_variants:
     note: Older learners model calm, clear "no/stop" words and help younger ones practice; an older peer may act as the trusted adult in role-play
   - context: level-grouped
     note: Some learners practice one consent phrase; others ready for more name who they would tell, linking toward the next lesson
+assets:
+  - path: assets/images/L.01.008.07-my-body-belongs-to-me.svg
+    alt: A smiling child wearing a hearing aid inside a soft dashed circle labeled my body, with a heart, an open stop hand, a yes-and-stop card, and a speech bubble saying tell a trusted adult — warm and empowering, with no anatomical detail.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover, gently and without fear, that their body belongs to them — that

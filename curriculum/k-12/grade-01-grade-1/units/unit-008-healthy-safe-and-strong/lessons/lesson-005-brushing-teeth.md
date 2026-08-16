@@ -54,6 +54,11 @@ context_variants:
     note: Older learners demonstrate the steps and help younger ones reach back teeth and rinse without swallowing
   - context: level-grouped
     note: Learners who can already brush on their own work at a station; others practice the motion with a finger first, then try with a brush
+assets:
+  - path: assets/images/L.01.008.05-brushing-teeth.svg
+    alt: A friendly tooth with a toothbrush and motion arcs, sun and moon labeled morning and night, plus a chewing stick and a clean finger as ways to clean teeth when there is no brush or paste.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice brushing their teeth with growing independence — morning and

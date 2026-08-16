@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Food gives me energy to grow, play, and learn</title>
+  <desc id="desc">A plate of food at the top sends three arrows down to three labeled panels: grow (a seed growing into a plant), play (a figure leaping), and learn (a head with a light bulb). Each panel is labeled in words, and arrows show that food is fuel for all three jobs. Prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Food Gives Me Energy</text>
+
+  <!-- Plate of food -->
+  <g>
+    <ellipse cx="256" cy="118" rx="90" ry="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="256" cy="110" rx="60" ry="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="228" cy="96" rx="16" ry="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="240" cy="94" rx="4" ry="3" fill="#2b3a42"/>
+    <ellipse cx="256" cy="98" rx="4" ry="3" fill="#2b3a42"/>
+    <circle cx="288" cy="96" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="252" cy="122" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="270" cy="124" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="160" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">food = fuel</text>
+  </g>
+
+  <!-- Arrows -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="#4f6d7a" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="96" y1="182" x2="96" y2="226"/>
+    <path d="M88 222 L96 234 L104 222 Z" fill="#4f6d7a" stroke="none"/>
+    <line x1="256" y1="182" x2="256" y2="226"/>
+    <path d="M248 222 L256 234 L264 222 Z" fill="#4f6d7a" stroke="none"/>
+    <line x1="416" y1="182" x2="416" y2="226"/>
+    <path d="M408 222 L416 234 L424 222 Z" fill="#4f6d7a" stroke="none"/>
+  </g>
+
+  <!-- Grow -->
+  <g>
+    <rect x="24" y="238" width="144" height="200" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="96" y="268" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">grow</text>
+    <!-- seed to plant -->
+    <ellipse cx="72" cy="378" rx="16" ry="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M72 374 q-14 -18 0 -40 q14 22 0 40 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M72 344 q-10 -10 0 -22 q10 12 0 22 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="360" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#4f6d7a">&#8594;</text>
+    <text x="120" y="390" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#4f6d7a">&#8594;</text>
+    <path d="M140 398 q-18 -20 0 -44 q18 24 0 44 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="140" y1="376" x2="140" y2="398" stroke="#2b3a42" stroke-width="2"/>
+    <text x="96" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">seed becomes plant</text>
+  </g>
+
+  <!-- Play -->
+  <g>
+    <rect x="184" y="238" width="144" height="200" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">play</text>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="256" cy="316" r="16" fill="#e6bb92"/>
+      <line x1="246" y1="330" x2="238" y2="354" stroke="#7a9e7e" stroke-width="12"/>
+      <line x1="266" y1="330" x2="274" y2="352" stroke="#7a9e7e" stroke-width="12"/>
+      <line x1="244" y1="366" x2="240" y2="394" stroke="#4f6d7a" stroke-width="12"/>
+      <line x1="268" y1="364" x2="276" y2="392" stroke="#4f6d7a" stroke-width="12"/>
+      <line x1="230" y1="344" x2="240" y2="346" stroke="#e6bb92" stroke-width="12"/>
+      <line x1="282" y1="342" x2="272" y2="344" stroke="#e6bb92" stroke-width="12"/>
+      <circle cx="250" cy="312" r="2.4" fill="#2b3a42"/>
+      <circle cx="262" cy="312" r="2.4" fill="#2b3a42"/>
+      <path d="M250 322 Q256 326 262 322" fill="none"/>
+    </g>
+    <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">run, jump, dance</text>
+  </g>
+
+  <!-- Learn -->
+  <g>
+    <rect x="344" y="238" width="144" height="200" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="416" y="268" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">learn</text>
+    <circle cx="416" cy="326" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="406" cy="322" r="3" fill="#2b3a42"/>
+    <circle cx="426" cy="322" r="3" fill="#2b3a42"/>
+    <path d="M408 338 Q416 344 424 338" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="416" cy="296" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="416" y1="308" x2="416" y2="314" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="406" y1="302" x2="410" y2="306" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="426" y1="302" x2="422" y2="306" stroke="#2b3a42" stroke-width="2"/>
+    <text x="416" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">think and know</text>
+  </g>
+
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Every food gives energy — foods just help in different ways.</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Food and rest both give your body the energy it needs.</text>
+</svg>

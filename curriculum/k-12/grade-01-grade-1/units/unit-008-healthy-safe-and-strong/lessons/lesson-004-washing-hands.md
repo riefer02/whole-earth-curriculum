@@ -52,6 +52,11 @@ context_variants:
     note: Older learners check that younger ones reach fingers, thumbs, and wrists, while each learner still does the washing themselves
   - context: level-grouped
     note: Learners who can already do the steps wash fully on their own; others practice the motions in the air with support before trying at the station
+assets:
+  - path: assets/images/L.01.008.04-washing-hands.svg
+    alt: Five numbered handwashing steps — wet, lather, scrub, rinse, dry — shown with a pour jug and basin so the method works where there is no tap, with a note that ash can wash when there is no soap.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners practice a complete handwashing routine on their own — wet, lather, scrub
@@ -139,7 +144,7 @@ practice.
    (or put the jug down), then lather and scrub — and only then rinse. Water is a
    treasure; use just enough.
 4. **Wash for real, on your own (15 min).** Go to the station and wash your hands by
-   yourself, doing all six parts. Sing a short song while you scrub — about 20 seconds
+   yourself, doing all five parts. Sing a short song while you scrub — about 20 seconds
    is enough. Then check your own hands: did I miss a spot?
 5. **When do we wash? (10 min).** Name the times hands need washing: before eating,
    after the bathroom, after playing outside, after coughing or sneezing, and after

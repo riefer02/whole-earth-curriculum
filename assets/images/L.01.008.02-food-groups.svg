@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Food groups: fruits, vegetables, grains, and proteins</title>
+  <desc id="desc">Four equal boxes, each with a bold label and simple drawings: fruits (mango, banana, apple), vegetables (greens, carrot, onion), grains (rice, flatbread, maize), and proteins (beans, egg, fish). Every box is the same size and each carries a written label, so the sorting idea reads clearly in grayscale without color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Food Groups</text>
+
+  <!-- Fruits -->
+  <g>
+    <rect x="16" y="76" width="232" height="176" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="16" y="76" width="232" height="40" rx="12" fill="#e0a458" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="16" y="98" width="232" height="18" fill="#e0a458"/>
+    <text x="132" y="102" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">fruits</text>
+    <ellipse cx="66" cy="188" rx="16" ry="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="66" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">mango</text>
+    <path d="M126 162 q26 -20 0 -40 q-26 20 0 40 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="132" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">banana</text>
+    <circle cx="200" cy="184" r="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="200" y1="164" x2="200" y2="156" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <text x="200" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">apple</text>
+  </g>
+
+  <!-- Vegetables -->
+  <g>
+    <rect x="264" y="76" width="232" height="176" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="264" y="76" width="232" height="40" rx="12" fill="#7a9e7e" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="264" y="98" width="232" height="18" fill="#7a9e7e"/>
+    <text x="380" y="102" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">vegetables</text>
+    <path d="M314 202 q-20 -16 0 -34 q20 18 0 34 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="314" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">greens</text>
+    <path d="M380 210 q-10 10 -16 2 q7 -6 3 -13 q9 -3 13 11 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="380" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">carrot</text>
+    <circle cx="446" cy="188" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M438 174 q-8 -6 -2 -12 q8 2 6 10 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="446" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">onion</text>
+  </g>
+
+  <!-- Grains -->
+  <g>
+    <rect x="16" y="268" width="232" height="176" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="16" y="268" width="232" height="40" rx="12" fill="#e0a458" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="16" y="290" width="232" height="18" fill="#e0a458"/>
+    <text x="132" y="294" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">grains</text>
+    <path d="M44 384 A20 20 0 0 0 84 384 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="66" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">rice</text>
+    <ellipse cx="132" cy="376" rx="20" ry="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="132" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">flatbread</text>
+    <rect x="184" y="360" width="22" height="34" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="190" y1="362" x2="190" y2="392" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="200" y1="362" x2="200" y2="392" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="200" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">maize</text>
+  </g>
+
+  <!-- Proteins -->
+  <g>
+    <rect x="264" y="268" width="232" height="176" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="264" y="268" width="232" height="40" rx="12" fill="#6b93b6" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="264" y="290" width="232" height="18" fill="#6b93b6"/>
+    <text x="380" y="294" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">proteins</text>
+    <ellipse cx="314" cy="378" rx="11" ry="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="326" cy="374" rx="11" ry="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="320" cy="386" rx="11" ry="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <text x="314" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">beans</text>
+    <ellipse cx="380" cy="380" rx="14" ry="19" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="380" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">egg</text>
+    <path d="M428 380 q16 -12 32 0 q-16 12 -32 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="434" cy="378" r="2.4" fill="#2b3a42"/>
+    <text x="446" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">fish</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">No group is best — bodies are helped by foods from every group.</text>
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Some foods, like beans, can fit more than one group — sorting is for noticing, not for being right.</text>
+</svg>
