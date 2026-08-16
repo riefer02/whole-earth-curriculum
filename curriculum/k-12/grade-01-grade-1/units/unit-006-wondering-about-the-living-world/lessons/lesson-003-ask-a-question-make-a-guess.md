@@ -49,6 +49,11 @@ context_variants:
     note: Find something outside to wonder about, ask a question aloud, and offer a guess you could check by watching
   - context: multi-age
     note: Older learners model the "I wonder… I think… I can check by…" chain, then coach younger ones through their own
+assets:
+  - path: assets/images/L.01.006.03-ask-a-question-make-a-guess.svg
+    alt: A wondering child in a wheelchair with a question-mark thought bubble, beside three steps joined by arrows — I wonder, I think, I can check by
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners turn a notice into a question, offer their own guess, and name one simple

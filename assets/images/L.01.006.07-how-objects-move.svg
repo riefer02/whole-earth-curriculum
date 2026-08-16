@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How objects move: push, pull, roll, slide</title>
+  <desc id="desc">Four labeled cards showing ways objects move. A hand pushes a block away, a hand pulls a rope toward, a ball rolls with a turning arrow, and a block slides flat with a straight arrow. Each card has a written word and motion arrows, so meaning is carried by words and shapes, not color alone, and it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">How Objects Move</text>
+
+  <!-- push -->
+  <g>
+    <rect x="18" y="72" width="230" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="133" y="100" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">push</text>
+    <!-- block -->
+    <rect x="120" y="150" width="58" height="58" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- hand -->
+    <path d="M70 178 a10 10 0 0 1 20 0 v18 h-20 z" fill="#d7b59a" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="90" y1="178" x2="118" y2="178" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- away arrow -->
+    <path d="M186 178 L212 178" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M206 172 L214 178 L206 184 Z" fill="#2b3a42"/>
+    <text x="133" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">moves it away</text>
+  </g>
+
+  <!-- pull -->
+  <g>
+    <rect x="264" y="72" width="230" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="379" y="100" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">pull</text>
+    <!-- block -->
+    <rect x="300" y="150" width="58" height="58" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- rope -->
+    <line x1="300" y1="178" x2="404" y2="178" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <!-- hand -->
+    <path d="M406 168 a10 10 0 0 1 20 0 v18 h-20 z" fill="#c68a5b" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- toward arrow -->
+    <path d="M288 136 L288 112" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M282 118 L288 110 L294 118 Z" fill="#2b3a42"/>
+    <text x="379" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">moves it toward you</text>
+  </g>
+
+  <!-- roll -->
+  <g>
+    <rect x="18" y="268" width="230" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="133" y="296" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">roll</text>
+    <circle cx="133" cy="360" r="38" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M133 360 m -38 0 a 38 38 0 0 1 76 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 8"/>
+    <!-- turning arrows -->
+    <path d="M188 330 Q206 348 200 372" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M194 368 L200 374 L206 366 Z" fill="#2b3a42"/>
+    <text x="133" y="428" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">turns over and over</text>
+  </g>
+
+  <!-- slide -->
+  <g>
+    <rect x="264" y="268" width="230" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="379" y="296" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">slide</text>
+    <rect x="344" y="330" width="70" height="44" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="304" y1="352" x2="340" y2="352" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M334 346 L342 352 L334 358 Z" fill="#2b3a42"/>
+    <path d="M418 352 L446 352" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M440 346 L448 352 L440 358 Z" fill="#2b3a42"/>
+    <text x="379" y="428" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">moves flat along the ground</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Push and pull start things; a hand, a wall, or the ground stops them.</text>
+</svg>

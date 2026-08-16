@@ -1502,12 +1502,22 @@ items:
     type: assets
     grade: 1
     domain: D06
-    status: ready
+    status: done
     priority: 48
     depends_on:
       - B-057
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.006 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (301 files). All 10 assets resolve to real files, non-empty alt, kind/source valid. 10 SVGs self-contained XML (viewBox, role=img, title/desc), grayscale-safe, color-not-only-signal. No geocentrism (L.08 Earth turns 'Sun only seems to rise/set'); no four-season default (L.09 wet/dry/warm-all-year/cold 'no correct season'); gentle living-things care. Objectives resolve to real grade-1 D06 standards (S1.01.01-S4.01.02). Connections concept-faithful.
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs role=img + aria-labelledby + title/desc. Color never sole signal (labels+shapes+arrows/leader-lines, grayscale-safe). Alt concept-complete. Non-visual/non-auditory: senses/observation L1-L3/L6 touch/smell/sound/describe-aloud + Deaf/HH vibration; day/night L8 skin-and-ears (warm/cool lamp-lit ball); weather L9 skin+ears; look-closely L2 describe-by-feel/sound/smell. Inclusive (wheelchair+hearing aid natural L.03). Low-tech all 10; no wealth/device assumption. No edits. validate passes (301 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No four-season/temperate default (L.09 wet/dry + warm-all-year + cold unranked, 'no correct season — only the one that is home'). No geocentrism (L.08 Earth turns, 'Sun only seems to rise/set', 'people everywhere have looked up and told stories' plural). No single-region/biome (L.04 fish-in-water/bird-in-nest/camel-in-desert). No pet-centrism (L.04 wild/farm/local/livestock + pets; needs SVG plant only). Living-things care without guilt. Representation diverse (L.03 brown-skinned wheelchair child + hearing aid; L.07 two hand tones). Non-blocking: shelter icon single gabled house. No edits. validate passes (301 files)."
   - id: B-089
     title: "Illustration pass: add SVG assets to lessons in U.01.007"
     agent: asset-designer

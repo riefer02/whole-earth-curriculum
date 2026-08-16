@@ -49,6 +49,11 @@ context_variants:
     note: Choose a plant, an animal (watched gently from a distance), and the sky; describe each with two details
   - context: level-grouped
     note: Learners new to describing use a picture card and one detail; learners who can describe compare two things and say how they differ
+assets:
+  - path: assets/images/L.01.006.02-look-closely-and-describe.svg
+    alt: A magnifying glass held over a leaf showing its veins, with labeled callouts naming what a scientist describes — color, shape, and veins
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sharpen their observing by looking closely at objects, plants, animals,

@@ -48,6 +48,11 @@ context_variants:
     note: Find a living thing outside (plant, bird, insect) and wonder what it needs right now — point to food, water, air, shelter nearby
   - context: level-grouped
     note: Learners who can compare talk about how two living things' shelters differ; learners still learning match just one living thing to its needs
+assets:
+  - path: assets/images/L.01.006.04-what-living-things-need.svg
+    alt: A plant with roots in soil in the center, surrounded by four labeled cards — food, water, air, and shelter — the four needs of every living thing
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that every living thing needs four things to stay alive and

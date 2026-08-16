@@ -51,6 +51,11 @@ context_variants:
     note: Gather a leaf, a stone, a stick, and a feather outside; sort them and explain each choice
   - context: level-grouped
     note: Learners still learning sort by one clue (it grows); learners who can explain sort by all three clues (grow, move, reproduce)
+assets:
+  - path: assets/images/L.01.006.05-living-and-nonliving.svg
+    alt: Two sorting mats — Living holds a sprouting seed, a bird, and a parent with a child (grow, move, reproduce); Nonliving holds a rock, a pencil, and a cup (stays the same)
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sort things into living and nonliving and learn three things living things

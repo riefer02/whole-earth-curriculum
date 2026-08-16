@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Looking closely at a leaf through a magnifier</title>
+  <desc id="desc">A big round magnifying glass held over a leaf. Inside the lens the leaf shows its details: a middle vein and small side veins. Three labeled callouts on the right point to what a scientist names — color, shape, and veins. Labels and shapes, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Look Closely and Describe</text>
+
+  <!-- Magnifier handle -->
+  <line x1="272" y1="312" x2="368" y2="408" stroke="#e0a458" stroke-width="22" stroke-linecap="round"/>
+  <line x1="272" y1="312" x2="368" y2="408" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Magnifier lens -->
+  <circle cx="196" cy="244" r="118" fill="#ffffff" stroke="#2b3a42" stroke-width="8"/>
+  <path d="M150 176 A118 118 0 0 1 270 150" fill="none" stroke="#6b93b6" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Leaf inside the lens -->
+  <g>
+    <path d="M120 244 Q196 170 272 244 Q196 318 120 244 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- midrib -->
+    <line x1="126" y1="244" x2="266" y2="244" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- side veins -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="160" y1="244" x2="150" y2="214"/>
+      <line x1="160" y1="244" x2="150" y2="274"/>
+      <line x1="200" y1="244" x2="190" y2="206"/>
+      <line x1="200" y1="244" x2="190" y2="282"/>
+      <line x1="236" y1="244" x2="228" y2="216"/>
+      <line x1="236" y1="244" x2="228" y2="272"/>
+    </g>
+    <!-- stem -->
+    <line x1="272" y1="244" x2="286" y2="244" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Callouts -->
+  <g stroke="#4f6d7a" stroke-width="1.5" fill="none" stroke-linecap="round">
+    <line x1="322" y1="150" x2="252" y2="186"/>
+    <line x1="322" y1="200" x2="258" y2="232"/>
+    <line x1="322" y1="250" x2="258" y2="250"/>
+  </g>
+  <g font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">
+    <text x="328" y="148" text-anchor="start">color</text>
+    <text x="328" y="198" text-anchor="start">shape</text>
+    <text x="328" y="248" text-anchor="start">veins</text>
+  </g>
+  <g font-family="sans-serif" font-size="15" fill="#4f6d7a">
+    <text x="328" y="168" text-anchor="start">"green"</text>
+    <text x="328" y="218" text-anchor="start">"pointed"</text>
+    <text x="328" y="268" text-anchor="start">"little roads"</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Looking slowly finds what a quick glance misses.</text>
+</svg>

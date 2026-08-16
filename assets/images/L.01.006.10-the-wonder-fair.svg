@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Wonder Fair: everything we wondered</title>
+  <desc id="desc">A celebration collage of the unit's ideas around a central card reading "I still wonder…". Eight labeled icons circle the theme: observe (an eye), look closely (a magnifier), ask (a question mark), guess (a lightbulb), living (a leaf), nonliving (a rock), move (a ball), and sky and weather (a sun beside a cloud). Words and shapes, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">The Wonder Fair</text>
+
+  <!-- Central wonder card -->
+  <rect x="176" y="58" width="160" height="88" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">I still wonder…</text>
+  <text x="256" y="128" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#6b93b6">?</text>
+
+  <!-- Row 1: observe, look closely, ask, guess -->
+  <g>
+    <!-- observe (eye) -->
+    <rect x="18" y="166" width="110" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M50 210 Q73 192 96 210 Q73 228 50 210 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="73" cy="210" r="8" fill="#2b3a42"/>
+    <text x="73" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">observe</text>
+
+    <!-- look closely (magnifier) -->
+    <rect x="140" y="166" width="110" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="182" cy="210" r="24" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="199" y1="227" x2="214" y2="242" stroke="#e0a458" stroke-width="9" stroke-linecap="round"/>
+    <line x1="199" y1="227" x2="214" y2="242" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="195" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">look closely</text>
+
+    <!-- ask (question mark) -->
+    <rect x="262" y="166" width="110" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="317" y="232" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#6b93b6">?</text>
+    <text x="317" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">ask</text>
+
+    <!-- guess (lightbulb) -->
+    <rect x="384" y="166" width="110" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="439" cy="202" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="434" y="220" width="10" height="10" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="439" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">guess</text>
+  </g>
+
+  <!-- Row 2: living, nonliving, move, sky and weather -->
+  <g>
+    <!-- living (leaf) -->
+    <rect x="18" y="288" width="110" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M50 342 Q73 310 96 342 Q73 374 50 342 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="52" y1="342" x2="94" y2="342" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="73" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">living</text>
+
+    <!-- nonliving (rock) -->
+    <rect x="140" y="288" width="110" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M168 338 Q178 320 196 322 Q210 324 212 338 Q214 352 202 356 Q184 360 170 354 Q166 348 168 338 Z" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="195" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">nonliving</text>
+
+    <!-- move (ball with arrow) -->
+    <rect x="262" y="288" width="110" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="304" cy="338" r="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M332 338 L352 338" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M346 332 L354 338 L346 344 Z" fill="#2b3a42"/>
+    <text x="317" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">move</text>
+
+    <!-- sky and weather (sun + cloud) -->
+    <rect x="384" y="288" width="110" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="424" cy="330" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M446 344 Q442 334 450 330 Q454 322 462 326 Q468 320 474 326 Q478 332 474 338 Q480 342 476 346 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="439" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">sky · weather</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Ask. Look. Guess. Check.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Science is wondering — and you are good at it.</text>
+</svg>

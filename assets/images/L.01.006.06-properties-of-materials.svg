@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Properties of materials: hard, soft, shiny, heavy, light</title>
+  <desc id="desc">Five labeled cards, each pairing a simple object with a property word. A stone is hard, a cloth is soft, a spoon is shiny, a big stone is heavy, and a feather is light. Each card is labeled in words and distinguished by shape — the heavy stone has downward arrows and the light feather has upward motion lines — so meaning is not carried by color alone and it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Properties of Materials</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">How does a thing feel and behave?</text>
+
+  <!-- hard -->
+  <g>
+    <rect x="18" y="90" width="88" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M34 176 Q44 160 62 158 Q80 156 90 170 Q94 184 82 192 Q64 200 46 194 Q32 188 34 176 Z" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="62" y="194" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">hard</text>
+  </g>
+
+  <!-- soft -->
+  <g>
+    <rect x="116" y="90" width="88" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M134 172 Q150 148 176 158 Q190 164 182 178 Q172 192 150 188 Q134 184 134 172 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M146 170 Q150 178 142 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="160" y="194" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">soft</text>
+  </g>
+
+  <!-- shiny -->
+  <g>
+    <rect x="214" y="90" width="88" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <ellipse cx="258" cy="168" rx="20" ry="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="258" y1="198" x2="258" y2="208" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="258" y1="208" x2="270" y2="196" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="228" y1="150" x2="222" y2="142"/>
+      <line x1="288" y1="158" x2="296" y2="152"/>
+    </g>
+    <text x="258" y="194" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">shiny</text>
+  </g>
+
+  <!-- heavy -->
+  <g>
+    <rect x="312" y="90" width="88" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M328 158 Q340 142 356 140 Q372 142 382 154 Q386 168 374 178 Q356 184 340 178 Q326 172 328 158 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="356" y1="188" x2="356" y2="196"/>
+      <path d="M352 193 L356 199 L360 193"/>
+    </g>
+    <text x="356" y="194" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">heavy</text>
+  </g>
+
+  <!-- light -->
+  <g>
+    <rect x="410" y="90" width="88" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="454" y1="172" x2="454" y2="134"/>
+      <path d="M454 150 Q448 142 446 132"/>
+      <path d="M454 146 Q460 138 462 128"/>
+      <path d="M454 150 Q448 158 444 166"/>
+      <path d="M454 146 Q460 154 464 162"/>
+    </g>
+    <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+      <line x1="430" y1="184" x2="422" y2="188"/>
+      <line x1="478" y1="184" x2="486" y2="188"/>
+    </g>
+    <text x="454" y="194" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">light</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">No material is better — only better for a job.</text>
+  <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A thing can be hard AND shiny at once.</text>
+
+  <!-- A second row: same object can hold two properties -->
+  <rect x="70" y="310" width="372" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">One thing can have two properties</text>
+  <g>
+    <ellipse cx="180" cy="392" rx="20" ry="28" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="180" y1="420" x2="180" y2="428" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <text x="180" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">shiny</text>
+    <text x="180" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">hard</text>
+    <path d="M244 386 L276 386" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M270 380 L277 386 L270 392 Z" fill="#2b3a42"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="316" y1="392" x2="356" y2="392"/>
+      <line x1="356" y1="392" x2="348" y2="382"/>
+      <line x1="356" y1="392" x2="348" y2="402"/>
+    </g>
+    <text x="336" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">spoon</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Our senses tell us a material's properties.</text>
+</svg>

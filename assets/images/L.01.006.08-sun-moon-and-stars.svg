@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Day and night: the Earth turns</title>
+  <desc id="desc">A diagram of the Earth as a ball with one side in light labeled day and the other in dark labeled night, while the Sun shines from the left. A curved arrow shows the Earth turning. Below, three cards show the Sun (seen in the day), the Moon (which changes shape), and stars (seen at night). Words and shapes, not color alone, carry the meaning, so it prints clearly in grayscale. The diagram shows the Earth turning, so the Sun only seems to rise and set.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Day and Night: the Earth Turns</text>
+
+  <!-- Sun -->
+  <g>
+    <circle cx="60" cy="150" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="60" y1="102" x2="60" y2="88"/>
+      <line x1="60" y1="198" x2="60" y2="212"/>
+      <line x1="12" y1="150" x2="-2" y2="150"/>
+      <line x1="108" y1="150" x2="122" y2="150"/>
+      <line x1="26" y1="116" x2="16" y2="106"/>
+      <line x1="94" y1="184" x2="104" y2="194"/>
+      <line x1="94" y1="116" x2="104" y2="106"/>
+      <line x1="26" y1="184" x2="16" y2="194"/>
+    </g>
+    <text x="60" y="236" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Sun</text>
+  </g>
+
+  <!-- Light rays toward Earth -->
+  <g stroke="#e0a458" stroke-width="3" stroke-linecap="round" opacity="0.8">
+    <line x1="96" y1="130" x2="150" y2="130"/>
+    <line x1="96" y1="150" x2="150" y2="150"/>
+    <line x1="96" y1="170" x2="150" y2="170"/>
+  </g>
+
+  <!-- Earth ball -->
+  <circle cx="246" cy="150" r="62" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- night half -->
+  <path d="M246 88 A62 62 0 0 1 246 212 Z" fill="#4f6d7a"/>
+  <!-- day / night labels -->
+  <text x="206" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">day</text>
+  <text x="292" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">night</text>
+
+  <!-- turning arrow around Earth -->
+  <path d="M190 84 Q160 74 154 96" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M150 90 L154 96 L161 92 Z" fill="#2b3a42"/>
+  <text x="150" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">turns</text>
+
+  <!-- Caption -->
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The Earth turns, so the Sun only seems to rise and set.</text>
+
+  <!-- Three sky cards -->
+  <g>
+    <rect x="18" y="280" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="93" cy="330" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="93" y1="290" x2="93" y2="278"/>
+      <line x1="93" y1="370" x2="93" y2="382"/>
+      <line x1="53" y1="330" x2="41" y2="330"/>
+      <line x1="133" y1="330" x2="145" y2="330"/>
+      <line x1="65" y1="302" x2="57" y2="294"/>
+      <line x1="121" y1="358" x2="129" y2="366"/>
+      <line x1="121" y1="302" x2="129" y2="294"/>
+      <line x1="65" y1="358" x2="57" y2="366"/>
+    </g>
+    <text x="93" y="402" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Sun — day</text>
+  </g>
+
+  <g>
+    <rect x="181" y="280" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <!-- full moon and crescent -->
+    <circle cx="226" cy="330" r="26" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="286" cy="330" r="26" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="278" cy="321" r="22" fill="#ffffff"/>
+    <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Moon — changes shape</text>
+  </g>
+
+  <g>
+    <rect x="344" y="280" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round">
+      <path d="M384 320 Q389 330 399 330 Q389 330 384 340 Q379 330 369 330 Q379 330 384 320 Z"/>
+      <path d="M424 350 Q427 357 434 357 Q427 357 424 364 Q421 357 414 357 Q421 357 424 350 Z"/>
+      <path d="M450 316 Q453 322 460 322 Q453 322 450 328 Q447 322 440 322 Q447 322 450 316 Z"/>
+    </g>
+    <g fill="#2b3a42">
+      <circle cx="412" cy="342" r="2.6"/>
+      <circle cx="436" cy="326" r="2.6"/>
+      <circle cx="396" cy="352" r="2.6"/>
+    </g>
+    <text x="419" y="402" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Stars — night</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">People everywhere have looked up and wondered — and told stories.</text>
+</svg>

@@ -49,6 +49,11 @@ context_variants:
     note: Find the Sun and your shadow outside; notice where the light comes from, and imagine the same spot at night
   - context: multi-age
     note: Older learners hold the lamp steady and turn the ball while younger ones say "day!" and "night!" as each side comes into the light
+assets:
+  - path: assets/images/L.01.006.08-sun-moon-and-stars.svg
+    alt: A diagram of the Earth with one side lit as day and the other dark as night, the Sun shining from one side, and a curved arrow showing the Earth turning, with cards for the Sun, Moon, and stars — the Earth turns, so the Sun only seems to rise and set
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners observe the patterns of the Sun, Moon, and stars and discover that day

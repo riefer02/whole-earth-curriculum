@@ -49,6 +49,11 @@ context_variants:
     note: Gather a stone, a stick, a leaf, and a feather; describe each and line them up from lightest to heaviest
   - context: level-grouped
     note: Learners new to properties name one (hard or soft); learners who can compare sort by two properties at once and explain
+assets:
+  - path: assets/images/L.01.006.06-properties-of-materials.svg
+    alt: Five labeled cards pairing an object with a property — a stone is hard, a cloth is soft, a spoon is shiny, a big stone is heavy, and a feather is light — with a note that one thing can hold two properties at once
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that things are made of materials, and that materials have

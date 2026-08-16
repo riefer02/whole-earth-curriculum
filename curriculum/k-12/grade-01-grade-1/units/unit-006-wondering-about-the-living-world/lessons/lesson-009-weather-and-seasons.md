@@ -52,6 +52,11 @@ context_variants:
     note: Stand outside and describe today's weather with all your senses; then wonder what it is like somewhere else right now
   - context: multi-age
     note: Older learners read or tell about weather in another region while younger ones act out what it would feel like
+assets:
+  - path: assets/images/L.01.006.09-weather-and-seasons.svg
+    alt: Three labeled cards of weather and seasons around the world — wet and dry, warm all year, and cold — with the note that there is no correct season, only the one that is home
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners observe and describe the weather where they live, discover that seasons

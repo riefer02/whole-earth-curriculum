@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Weather and seasons in different places</title>
+  <desc id="desc">Three labeled cards showing kinds of seasons and weather around the world, with no single correct one. The first shows wet and dry times (rain clouds beside a dry sun). The second shows warm-all-year (a sun over leafy plants). The third shows cold (snowflakes over a mountain). Each card is labeled in words and distinguished by shape — raindrops, sun, and snowflakes — so meaning is not carried by color alone and it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Weather and Seasons</text>
+
+  <!-- wet and dry -->
+  <g>
+    <rect x="18" y="68" width="150" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="93" y="94" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Wet and dry</text>
+    <!-- rain cloud -->
+    <path d="M56 150 Q52 132 72 126 Q76 110 94 116 Q102 102 116 112 Q130 108 130 128 Q140 130 138 144 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="72" y1="156" x2="68" y2="168"/>
+      <line x1="88" y1="158" x2="84" y2="170"/>
+      <line x1="104" y1="156" x2="100" y2="168"/>
+    </g>
+    <!-- dry sun -->
+    <circle cx="120" cy="200" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="120" y1="176" x2="120" y2="170"/>
+      <line x1="120" y1="224" x2="120" y2="230"/>
+      <line x1="96" y1="200" x2="90" y2="200"/>
+      <line x1="144" y1="200" x2="150" y2="200"/>
+    </g>
+    <!-- dry ground -->
+    <path d="M40 260 L148 260" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M56 272 L74 268 M90 276 L110 270 M126 274 L146 268" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="93" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rain, then dry times</text>
+  </g>
+
+  <!-- warm all year -->
+  <g>
+    <rect x="181" y="68" width="150" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="256" y="94" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Warm all year</text>
+    <circle cx="256" cy="140" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="256" y1="112" x2="256" y2="104"/>
+      <line x1="256" y1="168" x2="256" y2="176"/>
+      <line x1="228" y1="140" x2="220" y2="140"/>
+      <line x1="284" y1="140" x2="292" y2="140"/>
+      <line x1="236" y1="120" x2="230" y2="114"/>
+      <line x1="276" y1="160" x2="282" y2="166"/>
+      <line x1="276" y1="120" x2="282" y2="114"/>
+      <line x1="236" y1="160" x2="230" y2="166"/>
+    </g>
+    <!-- leafy plants -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none">
+      <line x1="222" y1="252" x2="222" y2="210"/>
+      <path d="M222 230 Q210 224 208 208"/>
+      <path d="M222 222 Q234 216 236 200"/>
+      <line x1="262" y1="252" x2="262" y2="200"/>
+      <path d="M262 226 Q250 220 248 204"/>
+      <path d="M262 214 Q274 208 276 192"/>
+      <line x1="296" y1="252" x2="296" y2="216"/>
+      <path d="M296 238 Q288 234 286 222"/>
+      <path d="M296 230 Q304 226 306 214"/>
+    </g>
+    <path d="M210 252 L304 252" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">warm every month</text>
+  </g>
+
+  <!-- cold -->
+  <g>
+    <rect x="344" y="68" width="150" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="419" y="94" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Cold</text>
+    <!-- snowflakes -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="396" y1="126" x2="396" y2="146"/>
+      <line x1="386" y1="136" x2="406" y2="136"/>
+      <line x1="389" y1="129" x2="403" y2="143"/>
+      <line x1="389" y1="143" x2="403" y2="129"/>
+      <line x1="442" y1="120" x2="442" y2="134"/>
+      <line x1="435" y1="127" x2="449" y2="127"/>
+      <line x1="437" y1="122" x2="447" y2="132"/>
+      <line x1="437" y1="132" x2="447" y2="122"/>
+    </g>
+    <!-- mountain -->
+    <path d="M370 252 L419 170 L468 252 Z" fill="#d7d1c3" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M419 170 L406 196 L419 188 L434 198 L419 170 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M370 252 L468 252" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="419" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">snow and ice</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">There is no correct season — only the one that is home.</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every place's weather is a real and good one.</text>
+</svg>

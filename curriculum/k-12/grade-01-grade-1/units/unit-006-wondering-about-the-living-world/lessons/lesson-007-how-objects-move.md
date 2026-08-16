@@ -49,6 +49,11 @@ context_variants:
     note: Use a round stone, a stick, and a flat leaf on the ground; push, pull, roll, and slide each, and notice what makes them stop
   - context: level-grouped
     note: Learners new to the words act out push and pull; learners who can explain say what force they used and what stopped the object
+assets:
+  - path: assets/images/L.01.006.07-how-objects-move.svg
+    alt: Four labeled cards showing ways objects move — push (away), pull (toward), roll (turns over and over), and slide (flat along the ground), each with motion arrows
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners explore how objects move — push, pull, roll, and slide — and discover that

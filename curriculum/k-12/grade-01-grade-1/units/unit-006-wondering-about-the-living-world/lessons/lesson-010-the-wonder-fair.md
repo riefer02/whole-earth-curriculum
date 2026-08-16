@@ -63,6 +63,11 @@ context_variants:
     note: Hold the fair outside as a "wonder walk" — each learner stops at a place and shares one thing they observed or wondered there
   - context: multi-age
     note: Older learners act as fair hosts, helping younger ones hang work and read labels aloud
+assets:
+  - path: assets/images/L.01.006.10-the-wonder-fair.svg
+    alt: A collage of the unit's ideas around a card reading "I still wonder…" — observe, look closely, ask, guess, living, nonliving, move, and sky and weather
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   A capstone celebration in which learners gather everything they observed, asked,

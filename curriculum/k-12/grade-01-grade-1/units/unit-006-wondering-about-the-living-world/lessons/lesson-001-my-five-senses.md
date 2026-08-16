@@ -51,6 +51,11 @@ context_variants:
     note: Older learners name the senses and pass objects to younger ones, asking "what does this tell you?"
   - context: level-grouped
     note: Learners still naming the senses work with one object and a partner; learners who can describe work with several objects and compare
+assets:
+  - path: assets/images/L.01.006.01-my-five-senses.svg
+    alt: A friendly body map with five labeled sense spots — see (eyes), hear (ears), smell (nose), taste (tongue), and touch (hands) — each ringed so a learner can point to where each sense happens
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners meet their five senses as the tools of science — see, hear, smell, taste,
