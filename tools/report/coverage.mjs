@@ -83,6 +83,52 @@ const totalLessons = [...enacted.values()].reduce((s, g) => s + g.lessons, 0);
 const coveredObjectives = new Set();
 for (const g of enacted.values()) for (const o of g.objectives) coveredObjectives.add(o);
 
+console.log('Curriculum status\n');
+function gradeStatus() {
+  const k12 = path.join(ROOT, 'curriculum', 'k-12');
+  const info = new Map();
+  for (const g of GRADES) info.set(g, { hasScope: false, units: 0, lessons: 0 });
+  if (fs.existsSync(k12)) {
+    for (const entry of fs.readdirSync(k12, { withFileTypes: true })) {
+      if (!entry.isDirectory() || !/^grade-(\d{2})-/.test(entry.name)) continue;
+      const g = parseInt(entry.name.slice(6, 8), 10);
+      const dir = path.join(k12, entry.name);
+      const rec = info.get(g) ?? { hasScope: false, units: 0, lessons: 0 };
+      rec.hasScope = fs.existsSync(path.join(dir, 'scope.md'));
+      for (const { data } of walk(dir, ['.md'])
+        .filter((f) => path.basename(f).toLowerCase() !== 'readme.md')
+        .map(readMd)) {
+        if (data?.kind === 'unit') rec.units += 1;
+        if (data?.kind === 'lesson') rec.lessons += 1;
+      }
+      info.set(g, rec);
+    }
+  }
+  return info;
+}
+const gs = gradeStatus();
+const assetCount = walk(path.join(ROOT, 'assets'), ['.svg']).length;
+const complete = [];
+const scopeOnly = [];
+const exemplar = [];
+const untouched = [];
+for (const g of GRADES) {
+  const r = gs.get(g);
+  const label = g === 0 ? 'K' : String(g);
+  if (r.hasScope && r.lessons > 0) complete.push(label);
+  else if (r.hasScope) scopeOnly.push(label);
+  else if (r.units > 0 || r.lessons > 0) exemplar.push(label);
+  else untouched.push(label);
+}
+const fmt = (arr) => (arr.length ? arr.join(', ') : '—');
+console.log(`  Grades complete (scope + lessons): ${fmt(complete)}`);
+console.log(`  Grades with scope, no lessons yet: ${fmt(scopeOnly)}`);
+console.log(`  Grades with exemplars only:        ${fmt(exemplar)}`);
+console.log(`  Grades untouched:                  ${fmt(untouched)}`);
+console.log(
+  `  Standards: ${totalStandards}  |  Units: ${totalUnits}  |  Lessons: ${totalLessons}  |  Assets: ${assetCount}\n`
+);
+
 console.log('Curriculum coverage\n');
 console.log(`Standards declared : ${totalStandards}`);
 console.log(`Units authored     : ${totalUnits}`);

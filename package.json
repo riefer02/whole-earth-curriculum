@@ -19,6 +19,7 @@
     "loop:pipeline": "node tools/loop/loop.mjs pipeline",
     "loop:stale": "node tools/loop/loop.mjs stale",
     "loop:coverage": "node tools/report/coverage.mjs",
+    "loop:status": "node tools/report/coverage.mjs",
     "loop:watch": "bash tools/loop/watchdog.sh",
     "loop:run": "bash tools/loop/run-loop.sh"
   },
