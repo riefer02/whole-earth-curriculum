@@ -58,6 +58,11 @@ context_variants:
     note: Hold the celebration outside; display work on a fence, cloth, or the ground, and end by caring for the shared outdoor space (clearing litter, watering plants)
   - context: multi-age
     note: Older learners help set up the display, run the sharing circle, and model caring for the shared space alongside the younger ones
+assets:
+  - path: assets/images/L.00.013.04-all-of-me-all-of-us-celebration-and-care.svg
+    alt: A celebration scene with a bunting garland, a board showing five children's artworks in one equal row, children celebrating around it including a wheelchair user, and three children caring for the shared space together, captioned that no one is first or best.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   The year's capstone: each child shares a piece of their portfolio, the class

@@ -47,6 +47,11 @@ context_variants:
     note: Mark a big circle on the ground and step inside for each group — family, class, community — naming who is in it with you
   - context: multi-age
     note: Older learners interview younger ones ("Who is in your family?") and help them draw each group circle
+assets:
+  - path: assets/images/L.00.013.02-the-groups-i-belong-to.svg
+    alt: Four nested circles labeled me, family, class, and community, with a child in the center and more people in each larger circle, including a person in a wheelchair, showing that every person belongs to more than one group.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name the groups they belong to — family, class, and community — and draw

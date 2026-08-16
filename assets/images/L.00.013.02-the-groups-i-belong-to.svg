@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The groups I belong to: me, family, class, community</title>
+  <desc id="desc">Four circles nested one inside another, from smallest to largest: me, family, class, and community. A small child figure sits in the center circle labeled "me." The family, class, and community circles are labeled at their top and hold simple people (round heads with faces) whose skin tones vary, with more people in each larger circle. One person in the community circle uses a wheelchair. The circles are drawn with solid and dashed outlines and word labels, not color alone, so the picture prints clearly in grayscale and teaches that every person belongs to more than one group.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">The Groups I Belong To</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">You belong to every circle.</text>
+
+  <!-- Rings (outermost first so inner rings draw on top) -->
+  <circle cx="256" cy="296" r="210" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+  <circle cx="256" cy="296" r="168" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-dasharray="10 8"/>
+  <circle cx="256" cy="296" r="112" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
+  <circle cx="256" cy="296" r="54" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- Ring labels -->
+  <g>
+    <rect x="210" y="74" width="92" height="22" rx="11" fill="#fdfbf7"/>
+    <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">community</text>
+  </g>
+  <g>
+    <rect x="226" y="110" width="60" height="22" rx="11" fill="#fdfbf7"/>
+    <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">class</text>
+  </g>
+  <g>
+    <rect x="220" y="168" width="72" height="22" rx="11" fill="#fdfbf7"/>
+    <text x="256" y="184" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">family</text>
+  </g>
+
+  <!-- Center: me -->
+  <g>
+    <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">me</text>
+    <circle cx="256" cy="282" r="11" fill="#d9a97f" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="253" cy="281" r="1.5" fill="#2b3a42"/>
+    <circle cx="259" cy="281" r="1.5" fill="#2b3a42"/>
+    <path d="M253 286 Q256 289 259 286" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="243" y="296" width="26" height="28" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M245 300 L238 308" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M267 300 L274 308" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Family ring people -->
+  <g>
+    <circle cx="173" cy="296" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="170" cy="294" r="1.3" fill="#2b3a42"/>
+    <circle cx="176" cy="294" r="1.3" fill="#2b3a42"/>
+    <path d="M170 300 Q173 302.5 176 300" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="339" cy="296" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="336" cy="294" r="1.3" fill="#2b3a42"/>
+    <circle cx="342" cy="294" r="1.3" fill="#2b3a42"/>
+    <path d="M336 300 Q339 302.5 342 300" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="198" cy="354" r="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="195" cy="352" r="1.3" fill="#2b3a42"/>
+    <circle cx="201" cy="352" r="1.3" fill="#2b3a42"/>
+    <path d="M195 358 Q198 360.5 201 358" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="256" cy="379" r="9" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="253" cy="377" r="1.3" fill="#2b3a42"/>
+    <circle cx="259" cy="377" r="1.3" fill="#2b3a42"/>
+    <path d="M253 383 Q256 385.5 259 383" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Class ring people -->
+  <g>
+    <circle cx="116" cy="296" r="9" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="113" cy="294" r="1.3" fill="#2b3a42"/>
+    <circle cx="119" cy="294" r="1.3" fill="#2b3a42"/>
+    <path d="M113 300 Q116 302.5 119 300" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="396" cy="296" r="9" fill="#d9a97f" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="393" cy="294" r="1.3" fill="#2b3a42"/>
+    <circle cx="399" cy="294" r="1.3" fill="#2b3a42"/>
+    <path d="M393 300 Q396 302.5 399 300" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="157" cy="395" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="154" cy="393" r="1.3" fill="#2b3a42"/>
+    <circle cx="160" cy="393" r="1.3" fill="#2b3a42"/>
+    <path d="M154 399 Q157 401.5 160 399" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="355" cy="395" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="352" cy="393" r="1.3" fill="#2b3a42"/>
+    <circle cx="358" cy="393" r="1.3" fill="#2b3a42"/>
+    <path d="M352 399 Q355 401.5 358 399" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="256" cy="436" r="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="253" cy="434" r="1.3" fill="#2b3a42"/>
+    <circle cx="259" cy="434" r="1.3" fill="#2b3a42"/>
+    <path d="M253 440 Q256 442.5 259 440" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Community ring people -->
+  <g>
+    <circle cx="60" cy="296" r="9" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="57" cy="294" r="1.3" fill="#2b3a42"/>
+    <circle cx="63" cy="294" r="1.3" fill="#2b3a42"/>
+    <path d="M57 300 Q60 302.5 63 300" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="452" cy="296" r="9" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="449" cy="294" r="1.3" fill="#2b3a42"/>
+    <circle cx="455" cy="294" r="1.3" fill="#2b3a42"/>
+    <path d="M449 300 Q452 302.5 455 300" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="256" cy="482" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="253" cy="480" r="1.3" fill="#2b3a42"/>
+    <circle cx="259" cy="480" r="1.3" fill="#2b3a42"/>
+    <path d="M253 486 Q256 488.5 259 486" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="395" cy="435" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="392" cy="433" r="1.3" fill="#2b3a42"/>
+    <circle cx="398" cy="433" r="1.3" fill="#2b3a42"/>
+    <path d="M392 439 Q395 441.5 398 439" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Community: a person in a wheelchair -->
+  <g>
+    <circle cx="122" cy="414" r="8" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="119" cy="413" r="1.2" fill="#2b3a42"/>
+    <circle cx="125" cy="413" r="1.2" fill="#2b3a42"/>
+    <path d="M119 418 Q122 420 125 418" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="114" y="422" width="16" height="15" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="106" y="437" width="32" height="6" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="114" cy="449" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="114" cy="449" r="2" fill="#2b3a42"/>
+    <circle cx="130" cy="449" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="130" cy="449" r="2" fill="#2b3a42"/>
+  </g>
+</svg>

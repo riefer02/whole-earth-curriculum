@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">All of me, all of us: a celebration with equal display and care</title>
+  <desc id="desc">A celebration scene. A display board in the middle holds five children's artworks in one equal row — all the same size and height, with a caption that everyone's work is shown equally. A bunting garland hangs above. Children stand around the board celebrating with raised arms; their skin tones and clothing vary and one child uses a wheelchair. Along the bottom, three children care for the shared space together: one sweeps, one picks up a piece of paper, and one waters a plant. A caption at the bottom says no one is first or best and that together we celebrate and care. The picture prints clearly in grayscale and teaches that a celebration honors everyone without ranking.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">All of Me, All of Us</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Celebration &amp; Care</text>
+
+  <!-- Bunting garland -->
+  <path d="M40 104 L472 104" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M48 104 L64 104 L56 126 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M96 104 L112 104 L104 126 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M144 104 L160 104 L152 126 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M192 104 L208 104 L200 126 Z" fill="#c99567" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M240 104 L256 104 L248 126 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M288 104 L304 104 L296 126 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M336 104 L352 104 L344 126 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M384 104 L400 104 L392 126 Z" fill="#c99567" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M432 104 L448 104 L440 126 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Display board with equal frames -->
+  <rect x="156" y="150" width="200" height="118" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="165" y="186" width="30" height="44" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="203" y="186" width="30" height="44" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="241" y="186" width="30" height="44" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="279" y="186" width="30" height="44" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="317" y="186" width="30" height="44" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <!-- marks inside frames (different shapes, equal size) -->
+  <circle cx="180" cy="208" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M180 199 L180 195 M180 217 L180 221 M171 208 L167 208 M189 208 L193 208 M174 202 L171 199 M186 202 L189 199 M174 214 L171 217 M186 214 L189 217" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="218" cy="208" r="6" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="216" cy="207" r="1" fill="#2b3a42"/>
+  <circle cx="220" cy="207" r="1" fill="#2b3a42"/>
+  <path d="M215 210 Q218 213 221 210" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M256 200 L258 206 L264 208 L258 210 L256 216 L254 210 L248 208 L254 206 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M288 204 L292 199 L295 205 L298 199 L301 205 L305 200" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M332 213 Q326 206 332 207 Q338 206 332 213 Z" fill="#c99567" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">everyone&#8217;s work, shown equally</text>
+
+  <!-- Left children -->
+  <g>
+    <circle cx="84" cy="196" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="81" cy="195" r="1.3" fill="#2b3a42"/>
+    <circle cx="87" cy="195" r="1.3" fill="#2b3a42"/>
+    <path d="M81 199 Q84 201 87 199" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="77" y="205" width="14" height="24" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M78 208 L70 194" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M90 208 L98 194" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M80 229 L80 240" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M88 229 L88 240" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="84" cy="296" r="9" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="81" cy="295" r="1.3" fill="#2b3a42"/>
+    <circle cx="87" cy="295" r="1.3" fill="#2b3a42"/>
+    <path d="M81 299 Q84 301 87 299" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="77" y="305" width="14" height="16" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M78 307 L70 293" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M90 307 L98 293" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="69" y="321" width="30" height="6" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="76" cy="333" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="76" cy="333" r="2" fill="#2b3a42"/>
+    <circle cx="92" cy="333" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="92" cy="333" r="2" fill="#2b3a42"/>
+  </g>
+
+  <!-- Right children -->
+  <g>
+    <circle cx="428" cy="196" r="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="425" cy="195" r="1.3" fill="#2b3a42"/>
+    <circle cx="431" cy="195" r="1.3" fill="#2b3a42"/>
+    <path d="M425 199 Q428 201 431 199" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="421" y="205" width="14" height="24" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M422 208 L414 194" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M434 208 L442 194" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M424 229 L424 240" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M432 229 L432 240" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="428" cy="296" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="425" cy="295" r="1.3" fill="#2b3a42"/>
+    <circle cx="431" cy="295" r="1.3" fill="#2b3a42"/>
+    <path d="M425 299 Q428 301 431 299" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="421" y="305" width="14" height="24" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M422 308 L414 294" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M434 308 L442 294" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M424 329 L424 340" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M432 329 L432 340" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Bottom care row -->
+  <path d="M150 408 L380 408" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- sweeping -->
+  <g>
+    <circle cx="176" cy="362" r="9" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="173" cy="361" r="1.3" fill="#2b3a42"/>
+    <circle cx="179" cy="361" r="1.3" fill="#2b3a42"/>
+    <path d="M173 365 Q176 367 179 365" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="169" y="371" width="14" height="24" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M172 395 L172 408" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M180 395 L180 408" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M170 375 L163 386" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M182 375 L188 386" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M188 386 L201 405" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M197 405 Q201 411 206 405" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M199 405 L199 412 M202 405 L202 412 M205 405 L205 412" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- picking up paper -->
+  <g>
+    <circle cx="256" cy="358" r="9" fill="#d9a97f" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="253" cy="357" r="1.3" fill="#2b3a42"/>
+    <circle cx="259" cy="357" r="1.3" fill="#2b3a42"/>
+    <path d="M253 361 Q256 363 259 361" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="249" y="367" width="14" height="20" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M252 387 L252 408" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M260 387 L260 408" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M250 372 L242 390" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M262 372 L268 386" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="246" y="396" width="12" height="8" rx="1" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- watering a plant -->
+  <g>
+    <circle cx="336" cy="362" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="333" cy="361" r="1.3" fill="#2b3a42"/>
+    <circle cx="339" cy="361" r="1.3" fill="#2b3a42"/>
+    <path d="M333 365 Q336 367 339 365" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="329" y="371" width="14" height="24" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M332 395 L332 408" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M340 395 L340 408" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M336 375 L344 384" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="350" y="382" width="13" height="11" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M350 386 L343 392" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M345 396 L345 400" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+    <path d="M343 398 L343 402" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+    <rect x="330" y="398" width="16" height="12" rx="2" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 398 L338 392" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M338 394 Q334 391 334 388" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M338 393 Q342 390 342 387" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Bottom caption -->
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Everyone&#8217;s work is shown equally.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">No one is first or best &#8212; together we celebrate and care.</text>
+</svg>

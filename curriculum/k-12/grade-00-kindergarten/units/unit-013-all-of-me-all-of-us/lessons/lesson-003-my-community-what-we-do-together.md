@@ -47,6 +47,11 @@ context_variants:
     note: Look around outside and name the community of the place — who lives and works here — and one thing people do together
   - context: multi-age
     note: Older learners share a story of their own community and help younger ones draw one shared activity
+assets:
+  - path: assets/images/L.00.013.03-community-what-we-do-together.svg
+    alt: Five labeled panels — planting, cooking, building, helping, and celebrating — each showing two people of varied skin tones doing that thing together, including a wheelchair user handing a basket to a neighbor.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name a community they belong to and one thing people do together in it,

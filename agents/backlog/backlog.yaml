@@ -1370,12 +1370,22 @@ items:
     type: assets
     grade: 0
     domain: D01
-    status: ready
+    status: done
     priority: 42
     depends_on:
       - B-051
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.00.013 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passed (301 files). All 4 assets resolve to real files, non-empty alt, kind/source valid. 4 SVGs valid self-contained XML (viewBox, role=img, title/desc), grayscale-safe (shape+labels), color-not-only-signal. Celebration-not-competition (L.04 equal display 'No one is first or best'), feelings never wrong (L.01 'Every feeling is welcome'), varied family/community shapes, wheelchair natural. Alt text matches content (7 faces/4 rings/5 panels/5 frames no count discrepancies). Objectives D01.S1.K.02/D01.S2.K.02/D02.S3.K.01/D02.S4.K.01 resolve to real K standards. UDL intact.
+      accessibility-editor:
+        verdict: passed
+        note: All 4 SVGs role=img + aria-labelledby + title/desc, valid XML. Color-not-only-signal (shape + word labels, grayscale-safe). Alt concept-complete. Celebration-not-competition (L.04 no awards/winners/ranking, equal display, 'sharing invited never forced, may hang piece = sharing'). Feelings never wrong (L.01 'no right or wrong feelings'). Non-visual paths word/drawing/gesture/point/describe-aloud. Inclusive (wheelchair SVG 2/3/4, glasses+hearing aid SVG 1). Low-tech all; devices only enriched. No edits. validate passes (301 files).
+      global-culture-editor:
+        verdict: passed
+        note: No single family/community model (SVG 02 neutral round-head figures, lesson-002 honors grandparents/single-parent/multi-generational/chosen-family 'never rank one better'). Skin-tone variety 6-7 tones, no darker-skin-to-negative-emotion mapping (SVG 03 wheelchair user is the helper handing basket). Feeling vocab universal basic emotions, lesson-001 'cultures express feelings differently'. Celebration universal ('something people do together, in every community everywhere'), not one holiday. Ability natural (hearing aid SVG 01, wheelchair SVG 02/03/04). Alt matches content. No edits. validate passes (301 files).
   - id: B-083
     title: "Illustration pass: add SVG assets to lessons in U.01.001"
     agent: asset-designer

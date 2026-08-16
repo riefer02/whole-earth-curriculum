@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What we do together: five ways people share a community</title>
+  <desc id="desc">Five small panels, each labeled with one thing people do together in a community: planting, cooking, building, helping, and celebrating. Each panel shows two simple people doing the thing together. Skin tones and clothing vary across all the people; one person uses a wheelchair while handing a basket to a neighbor. The panels are separated by labels and the activities are shown by their props and actions, not by color, so the picture prints clearly in grayscale and teaches that communities are built on people doing things together.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What We Do Together</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Communities are built on people doing things together.</text>
+
+  <!-- ===== Row 1 ===== -->
+
+  <!-- Panel 1: planting -->
+  <g>
+    <rect x="14" y="84" width="148" height="160" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M24 192 L152 192" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M44 192 Q56 184 68 192" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M56 190 L56 180" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M56 186 Q50 182 50 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M56 184 Q62 180 62 174" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- kneeling planter -->
+    <circle cx="48" cy="150" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="45" cy="149" r="1.2" fill="#2b3a42"/>
+    <circle cx="51" cy="149" r="1.2" fill="#2b3a42"/>
+    <path d="M45 153 Q48 155 51 153" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="41" y="158" width="14" height="18" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M45 168 L54 180" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- standing waterer -->
+    <circle cx="112" cy="146" r="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="109" cy="145" r="1.2" fill="#2b3a42"/>
+    <circle cx="115" cy="145" r="1.2" fill="#2b3a42"/>
+    <path d="M109 149 Q112 151 115 149" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="105" y="154" width="14" height="26" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M108 180 L108 192" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M116 180 L116 192" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M111 158 L102 168" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="92" y="166" width="16" height="12" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M92 170 L82 176" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M84 180 L84 185" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+    <path d="M81 182 L81 187" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+    <path d="M87 182 L87 187" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+    <text x="88" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">planting</text>
+  </g>
+
+  <!-- Panel 2: cooking -->
+  <g>
+    <rect x="182" y="84" width="148" height="160" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="216" y="176" width="44" height="24" rx="8" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M224 172 Q226 167 228 172" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M236 170 Q238 164 240 170" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M248 172 Q250 167 252 172" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <!-- cook left -->
+    <circle cx="204" cy="150" r="8" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="201" cy="149" r="1.2" fill="#2b3a42"/>
+    <circle cx="207" cy="149" r="1.2" fill="#2b3a42"/>
+    <path d="M201 153 Q204 155 207 153" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="197" y="158" width="14" height="26" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M200 184 L200 196" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M208 184 L208 196" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M206 162 L224 178" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="227" cy="180" rx="3.5" ry="5" fill="#2b3a42"/>
+    <!-- cook right -->
+    <circle cx="268" cy="150" r="8" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="265" cy="149" r="1.2" fill="#2b3a42"/>
+    <circle cx="271" cy="149" r="1.2" fill="#2b3a42"/>
+    <path d="M265 153 Q268 155 271 153" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="261" y="158" width="14" height="26" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M264 184 L264 196" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M272 184 L272 196" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M268 162 L258 176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">cooking</text>
+  </g>
+
+  <!-- Panel 3: building -->
+  <g>
+    <rect x="350" y="84" width="148" height="160" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M360 192 L488 192" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="368" y="168" width="36" height="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M368 176 L404 176" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M368 184 L404 184" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M386 168 L386 192" stroke="#2b3a42" stroke-width="2"/>
+    <!-- builder placing block -->
+    <circle cx="398" cy="138" r="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="395" cy="137" r="1.2" fill="#2b3a42"/>
+    <circle cx="401" cy="137" r="1.2" fill="#2b3a42"/>
+    <path d="M395 141 Q398 143 401 141" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="391" y="146" width="14" height="26" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M394 172 L394 192" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M402 172 L402 192" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="394" y="128" width="14" height="11" rx="2" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M398 146 L398 139" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- builder carrying beam -->
+    <circle cx="448" cy="148" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="445" cy="147" r="1.2" fill="#2b3a42"/>
+    <circle cx="451" cy="147" r="1.2" fill="#2b3a42"/>
+    <path d="M445 151 Q448 153 451 151" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="441" y="156" width="14" height="24" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M444 180 L444 192" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M452 180 L452 192" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M436 162 L462 162" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+    <text x="424" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">building</text>
+  </g>
+
+  <!-- ===== Row 2 ===== -->
+
+  <!-- Panel 4: helping -->
+  <g>
+    <rect x="99" y="272" width="148" height="160" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M109 402 L229 402" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- person in wheelchair handing basket -->
+    <circle cx="138" cy="358" r="8" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="135" cy="357" r="1.2" fill="#2b3a42"/>
+    <circle cx="141" cy="357" r="1.2" fill="#2b3a42"/>
+    <path d="M135 361 Q138 363 141 361" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="131" y="366" width="14" height="16" rx="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M145 370 L160 360" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="123" y="382" width="30" height="6" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="130" cy="394" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="130" cy="394" r="2" fill="#2b3a42"/>
+    <circle cx="146" cy="394" r="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="146" cy="394" r="2" fill="#2b3a42"/>
+    <!-- basket handed between them -->
+    <rect x="158" y="354" width="14" height="12" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M158 354 Q165 348 172 354" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <!-- standing neighbor -->
+    <circle cx="190" cy="350" r="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="187" cy="349" r="1.2" fill="#2b3a42"/>
+    <circle cx="193" cy="349" r="1.2" fill="#2b3a42"/>
+    <path d="M187 353 Q190 355 193 353" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="183" y="358" width="14" height="26" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M186 384 L186 402" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M194 384 L194 402" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M183 362 L172 360" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="173" y="430" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">helping</text>
+  </g>
+
+  <!-- Panel 5: celebrating -->
+  <g>
+    <rect x="265" y="272" width="148" height="160" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M275 402 L395 402" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- confetti -->
+    <circle cx="286" cy="322" r="3" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M308 314 L311 320 L317 322 L311 324 L308 330 L305 324 L299 322 L305 320 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M326 324 L330 329 L326 334 L322 329 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="338" cy="316" r="3" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M282 334 L286 339 L282 344 L278 339 Z" fill="#c99567" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- celebrator left -->
+    <circle cx="300" cy="344" r="8" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="297" cy="343" r="1.2" fill="#2b3a42"/>
+    <circle cx="303" cy="343" r="1.2" fill="#2b3a42"/>
+    <path d="M297 347 Q300 349 303 347" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="293" y="352" width="14" height="26" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M296 378 L296 402" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M304 378 L304 402" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M294 354 L286 340" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M306 354 L314 340" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- celebrator right -->
+    <circle cx="340" cy="344" r="8" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="337" cy="343" r="1.2" fill="#2b3a42"/>
+    <circle cx="343" cy="343" r="1.2" fill="#2b3a42"/>
+    <path d="M337 347 Q340 349 343 347" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="333" y="352" width="14" height="26" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M336 378 L336 402" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M344 378 L344 402" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M334 354 L326 340" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M346 354 L354 340" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="339" y="430" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">celebrating</text>
+  </g>
+</svg>

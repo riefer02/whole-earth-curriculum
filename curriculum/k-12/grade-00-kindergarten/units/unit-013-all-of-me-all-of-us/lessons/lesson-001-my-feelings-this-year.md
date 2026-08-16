@@ -50,6 +50,11 @@ context_variants:
     note: Find a sky, shadow, plant, or wind that matches a feeling from the year and show it with a word or movement
   - context: multi-age
     note: Older learners help younger ones label their feeling drawings and listen as each child tells their memory
+assets:
+  - path: assets/images/L.00.013.01-my-feelings-this-year.svg
+    alt: Seven labeled feeling faces — happy, sad, angry, scared, proud, lonely, and excited — each with a different mouth and eye shape, varied skin tones, one pair of glasses, and one hearing aid, captioned that every feeling is welcome and none is wrong.
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners look back over the year, remember feelings they felt, and describe one
