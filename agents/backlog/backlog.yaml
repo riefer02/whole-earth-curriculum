@@ -1676,13 +1676,20 @@ items:
     type: scope
     grade: 4
     domain: null
-    status: ready
+    status: done
     priority: 31
     depends_on: []
     required_reviews:
       - vision-architect
       - reviewer
     notes: Author curriculum/k-12/grade-04-*/scope.md + unit stubs, spiraling from prior grades and following the Grade 5/9 calibration exemplars.
+    reviews:
+      vision-architect:
+        verdict: passed
+        note: "Traceability verified: all 78 grade-04 objectives resolve to real Dxx.Sn.04.nn IDs and trace to declared strands; domain_weighting=100 with P3=51 largest, P1=16/P2=11/P4=22; D03 split clean (002=S1+S2, 008=S3+S4); days continuous 1-180. Minor non-blocking note: U.04.006 title borrows Grade 8 'controlled experiment' language; recommend retitle at revision."
+      reviewer:
+        verdict: passed
+        note: Validate passed (333 files). Scope frontmatter complete (kind/grade/year_title/total_school_days 180/units/domain_weighting/assessment_plan/status); all 12 units U.04.001-012 carry id/title/domain/pillar/start_day/end_day/lesson_count; days 1-180 continuous no gaps/overlaps; domain_weighting sums to 100 (7+9+11+17+17+10+7+8+8+6). Spot-checked objectives resolve to real grade-04 standards (D01.S1.04.01, D03.S3.04.01, D02.S4.04.02, D06.S2.04.01, D10.S4.04.02); domain->pillar matches taxonomy; global/non-Eurocentric framing, no high-stakes tests.
   - id: B-102
     title: Author Grade 5 scope (full 180-day plan)
     agent: scope-sequencer
