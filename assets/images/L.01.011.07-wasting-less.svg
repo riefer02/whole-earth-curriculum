@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Wasting less</title>
+  <desc id="desc">Four cards show four real ways to waste less. Turn off the tap shows a tap with a drop, captioned "saves water." Reuse a bag or basket shows a basket, captioned "use it again and again." Use both sides of paper shows a sheet with a folded corner, captioned "save trees." Take only what you need shows a cup of just-enough water, captioned "use just enough." Word labels carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that wasting less is using just enough — care and agency, not guilt — and that in places where water is scarce, every drop saved matters.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Wasting Less</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Using just enough — care, not guilt</text>
+
+  <!-- cards -->
+  <rect x="20" y="90" width="226" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="266" y="90" width="226" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="20" y="282" width="226" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="266" y="282" width="226" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <text x="133" y="114" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">turn off the tap</text>
+  <text x="379" y="114" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">reuse a bag or basket</text>
+  <text x="133" y="306" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">use both sides of paper</text>
+  <text x="379" y="306" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">take only what you need</text>
+
+  <!-- tap -->
+  <path d="M108 168 L158 168" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M120 168 L120 186 Q120 194 112 194 L108 194" fill="none" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="104" cy="196" r="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="133" y="236" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">saves water</text>
+
+  <!-- basket -->
+  <path d="M348 156 L410 156 L403 190 L355 190 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M348 156 Q379 138 410 156" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="355" y1="164" x2="403" y2="164" stroke="#8f5f3d" stroke-width="2"/>
+  <line x1="357" y1="174" x2="401" y2="174" stroke="#8f5f3d" stroke-width="2"/>
+  <text x="379" y="236" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">use it again and again</text>
+
+  <!-- paper both sides -->
+  <rect x="90" y="330" width="86" height="66" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="100" y1="342" x2="166" y2="342" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="100" y1="352" x2="166" y2="352" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="100" y1="362" x2="158" y2="362" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M176 330 L176 340 L186 340 L176 330 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="133" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">save trees</text>
+
+  <!-- cup of just enough -->
+  <path d="M352 356 L406 356 L398 398 L360 398 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="406" y1="360" x2="414" y2="372" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M360 366 L398 366 L398 376 L360 376 Z" fill="#fdfbf7" opacity="0.6"/>
+  <text x="379" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">use just enough</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">In places where water is scarce, every drop saved truly matters.</text>
+</svg>

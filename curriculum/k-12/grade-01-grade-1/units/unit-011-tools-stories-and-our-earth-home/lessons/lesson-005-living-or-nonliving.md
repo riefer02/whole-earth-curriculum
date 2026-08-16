@@ -52,6 +52,11 @@ context_variants:
     note: Find living things outside (a plant, a bug, a bird) and nonliving things (a stone, a stick, water in a puddle) and sort them as you walk
   - context: multi-age
     note: Older learners coach younger ones in giving the reason — "it grows" or "it needs water" — for each sort
+assets:
+  - path: assets/images/L.01.011.05-living-or-nonliving.svg
+    alt: "Two trays sort things into living and nonliving. The living tray holds a plant, a bird, and a fish; the nonliving tray holds a rock, a spoon, and a toy. Three clues are listed below: living things grow and change, need food or water, and breathe air. Word labels and the clues carry the meaning so it prints in grayscale, teaching that living things are to be cared for and respected."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners sort things into living and nonliving and learn the simple clues: living

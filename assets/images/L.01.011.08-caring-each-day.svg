@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Caring for a plant or animal each day</title>
+  <desc id="desc">A child with light skin and a hearing aid waters a windowsill plant from a small cup, while a wild bird drinks from a dish of water. The three daily needs are listed below in words: water each day, food each day, and a clean safe place each day. A row of three circles shows a daily care plan with one caring task for each day, labeled day 1 water, day 2 food, day 3 clean safe place. Word labels carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that steady everyday care — not one grand gesture — keeps a living thing well, and that a windowsill plant, a wild bird, or a street tree all count as caring.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Caring Each Day</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Steady care — not one grand gesture — keeps a living thing well</text>
+
+  <!-- windowsill and plant -->
+  <rect x="20" y="150" width="240" height="10" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="20" y1="160" x2="20" y2="230" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M70 150 L70 116" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M70 140 Q58 132 48 136 Q58 126 70 134 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M70 128 Q82 118 92 122 Q82 114 70 122 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M58 166 L82 166 L79 180 L61 180 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- child with hearing aid watering -->
+  <circle cx="140" cy="196" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M127 194 A13 13 0 0 1 153 194 Z" fill="#4f6d7a"/>
+  <!-- hearing aid -->
+  <path d="M150 192 Q158 190 156 200" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="156" cy="201" r="2.5" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="135" cy="196" r="1.7" fill="#2b3a42"/>
+  <circle cx="145" cy="196" r="1.7" fill="#2b3a42"/>
+  <path d="M135 202 Q140 207 145 202" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="130" y="210" width="20" height="34" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="134" y1="244" x2="132" y2="268" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="146" y1="244" x2="148" y2="268" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- arm reaching to pour -->
+  <line x1="130" y1="220" x2="104" y2="172" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- cup pouring -->
+  <path d="M92 162 L108 162 L104 176 L96 176 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="96" y1="180" x2="96" y2="188" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- wild bird with dish of water -->
+  <circle cx="420" cy="200" r="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="425" cy="197" r="1.8" fill="#2b3a42"/>
+  <path d="M428 198 L437 201 L428 204 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="410" y1="200" x2="400" y2="206" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+  <line x1="410" y1="204" x2="400" y2="212" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+  <line x1="418" y1="211" x2="418" y2="220" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- water dish -->
+  <ellipse cx="440" cy="228" rx="20" ry="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="440" y="252" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a wild bird counts too</text>
+
+  <!-- daily needs -->
+  <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">What it needs each day</text>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">water each day &#160;&#183;&#160; food each day &#160;&#183;&#160; a clean safe place each day</text>
+
+  <!-- daily care plan -->
+  <circle cx="160" cy="386" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="386" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="352" cy="386" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="160" y="382" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">day 1</text>
+  <text x="160" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">water</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">day 2</text>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">food</text>
+  <text x="352" y="382" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">day 3</text>
+  <text x="352" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">clean place</text>
+  <line x1="190" y1="386" x2="226" y2="386" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="286" y1="386" x2="322" y2="386" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A windowsill plant, a wild bird, or a street tree all count.</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">When you care, you are a helper in a living thing's life.</text>
+</svg>

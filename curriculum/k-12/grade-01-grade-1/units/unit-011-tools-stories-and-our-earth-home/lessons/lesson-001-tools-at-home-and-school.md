@@ -50,6 +50,11 @@ context_variants:
     note: Spot tools where you are — a bucket, a mat, a stick for writing in the dirt, a jug — and name each one's job and whether it is used at home, at school, or both
   - context: multi-age
     note: Older learners partner with younger ones to lead the tool hunt and help label each tool's drawing
+assets:
+  - path: assets/images/L.01.011.01-tools-at-home-and-school.svg
+    alt: "Two labeled trays sort tools into home and school. The home tray holds a spoon (scoops and eats), a broom (sweeps the floor), and a basket (carries things); the school tray holds scissors (cuts paper), a book (holds words to read), and a watering can (waters the plant). A note says a cup, a spoon, and a cloth live in both places. Word labels carry the meaning so it prints in grayscale, teaching that no place's tools are more important than another's."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners hunt for tools in the two places they know best — home and school — name

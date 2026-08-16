@@ -51,6 +51,11 @@ context_variants:
     note: Reuse a basket or cloth to carry gathered things instead of something new, or return a fallen leaf to the soil; name the waste-less choice and why it helps
   - context: multi-age
     note: Older learners demonstrate the waste-less actions and coach younger ones in saying the "why" for each
+assets:
+  - path: assets/images/L.01.011.07-wasting-less.svg
+    alt: "Four cards show four real ways to waste less: turn off the tap (saves water), reuse a bag or basket (use it again and again), use both sides of paper (save trees), and take only what you need (use just enough). Word labels carry the meaning so it prints in grayscale, teaching that wasting less is using just enough — care and agency, not guilt."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name ways to waste less — turning off water, reusing a bag, using both sides

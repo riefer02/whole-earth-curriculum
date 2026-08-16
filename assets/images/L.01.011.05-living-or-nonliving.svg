@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Living or nonliving</title>
+  <desc id="desc">Two labeled trays sort things into living and nonliving, with three clues listed between them. The living tray holds a plant, a bird, and a fish. The nonliving tray holds a rock, a spoon, and a toy. The three clue boxes read: living things grow and change, living things need food or water, living things breathe air — nonliving things do none of these. Word labels and the clues carry the meaning, not color, so the picture prints clearly in grayscale. A note reminds learners that a seed or a feather is a gentle wonder to ask about, teaching that living things are to be cared for and respected.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Living or Nonliving?</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Three clues: grows, needs, breathes</text>
+
+  <!-- panels -->
+  <rect x="20" y="88" width="226" height="260" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="266" y="88" width="226" height="260" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <text x="133" y="114" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">living</text>
+  <text x="379" y="114" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">nonliving</text>
+
+  <!-- ===== living ===== -->
+  <!-- plant -->
+  <path d="M60 210 L60 172" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M60 196 Q48 188 38 192 Q48 182 60 190 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M60 184 Q72 174 82 178 Q72 170 60 178 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M48 226 L72 226 L68 240 L52 240 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="60" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">plant</text>
+
+  <!-- bird -->
+  <circle cx="128" cy="186" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="134" cy="183" r="2" fill="#2b3a42"/>
+  <path d="M138 184 L148 187 L138 190 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="116" y1="186" x2="106" y2="192" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+  <line x1="116" y1="190" x2="106" y2="198" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+  <line x1="126" y1="198" x2="126" y2="210" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="128" y="230" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">bird</text>
+
+  <!-- fish -->
+  <ellipse cx="176" cy="186" rx="16" ry="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M192 186 L202 178 L202 194 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="166" cy="183" r="1.8" fill="#2b3a42"/>
+  <path d="M174 191 Q178 194 182 191" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="176" y="230" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">fish</text>
+
+  <text x="133" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">grows, needs, breathes</text>
+
+  <!-- ===== nonliving ===== -->
+  <!-- rock -->
+  <path d="M338 200 Q356 176 380 200 Q392 216 380 224 L342 224 Q330 214 338 200 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="356" y="246" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">rock</text>
+
+  <!-- spoon -->
+  <ellipse cx="426" cy="182" rx="9" ry="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="426" y1="194" x2="426" y2="216" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
+  <text x="426" y="236" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">spoon</text>
+
+  <!-- toy -->
+  <rect x="418" y="256" width="20" height="22" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="415" y="252" width="26" height="8" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="424" cy="265" r="1.8" fill="#2b3a42"/>
+  <circle cx="432" cy="265" r="1.8" fill="#2b3a42"/>
+  <path d="M424 271 Q428 274 432 271" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="428" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">toy</text>
+
+  <text x="379" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">does not grow, need, or breathe</text>
+
+  <!-- clues -->
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Three clues a thing is living</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">1. it grows and changes &#160;&#160; 2. it needs food or water &#160;&#160; 3. it breathes air</text>
+
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A seed or a feather is a gentle wonder to ask about.</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">When we know a thing is living, we treat it gently.</text>
+</svg>

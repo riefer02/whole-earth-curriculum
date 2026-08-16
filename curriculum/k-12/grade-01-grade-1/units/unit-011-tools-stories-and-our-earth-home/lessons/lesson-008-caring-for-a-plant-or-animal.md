@@ -54,6 +54,11 @@ context_variants:
     note: Care for a living thing outside — water a plant, refill a bird's water, or gently clear space around a seedling — and say what it needs each day
   - context: multi-age
     note: Older learners model the caring tasks and help younger ones make a daily care plan they can follow
+assets:
+  - path: assets/images/L.01.011.08-caring-each-day.svg
+    alt: "A child with light skin and a hearing aid waters a windowsill plant from a small cup while a wild bird drinks from a dish of water. The three daily needs are listed: water each day, food each day, and a clean safe place each day, followed by a three-day care plan (day 1 water, day 2 food, day 3 clean place). Word labels carry the meaning so it prints in grayscale, teaching that steady everyday care keeps a living thing well and that a windowsill plant, wild bird, or street tree all count as caring."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners choose a plant or animal to help care for, learn what it needs each day —

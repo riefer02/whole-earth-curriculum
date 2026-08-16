@@ -52,6 +52,11 @@ context_variants:
     note: Carry a handful of small stones by hand, then in a basket or folded cloth, and compare; or sweep a patch of ground with a hand and then with a branch-broom
   - context: level-grouped
     note: Pair learners who have mastered "easier/faster" with those still learning, so each pair takes turns being the one who tries and the one who watches and says why
+assets:
+  - path: assets/images/L.01.011.02-by-hand-or-with-a-tool.svg
+    alt: "Two panels compare carrying beans by hand versus in a basket. By hand, a child with medium skin tone cups only a few beans while two spill to the ground, labeled many trips, some spill. With a basket, a child with deep skin tone using a wheelchair carries a full basket on their lap, labeled one trip, nothing spills. Word labels and the spilling beans carry the meaning so it prints in grayscale, teaching that a basket is as real a tool as anything new."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners try a task two ways — by hand and with a tool — and describe how the tool

@@ -54,6 +54,11 @@ context_variants:
     note: Find a living plant and, if one is near, watch a bird or bug; name what each needs and point to the two needs they share — water and air
   - context: level-grouped
     note: Learners who have mastered "both need water and air" coach peers who are still sorting, taking turns placing cards in the overlap
+assets:
+  - path: assets/images/L.01.011.06-shared-needs.svg
+    alt: "A two-circle diagram shows the needs plants and animals share. The plants circle holds a plant and the word light; the animals circle holds a bird and the word food. The overlap between them, labeled both, holds the words water and air, because both plants and animals need water and air. Word labels and placement carry the meaning so it prints in grayscale."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners name what a plant needs and what an animal needs, then find the needs they

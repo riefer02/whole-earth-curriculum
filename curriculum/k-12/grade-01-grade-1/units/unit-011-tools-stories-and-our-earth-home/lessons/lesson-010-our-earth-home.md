@@ -66,6 +66,11 @@ context_variants:
     note: Mark a big Earth circle on the ground and place one found object in each part — a tool-like stick, a real leaf and a drawn leaf, a living plant and a nonliving stone, and a cup of water used carefully — then tell what each means
   - context: multi-age
     note: Older learners help younger ones label their four parts and run the closing celebration
+assets:
+  - path: assets/images/L.01.011.10-our-earth-home.svg
+    alt: "A big Earth circle divided into four labeled parts. Tools shows a spoon and a basket; Stories shows a camera and a crayon; Living shows a plant and a rock; Care shows a tap and a plant. The four words Tools, Stories, Living, and Care are printed inside each part, so the meaning does not depend on color and it prints in grayscale. The closing line teaches that tools, stories, living things, and care all belong to one shared home, cared for by many hands."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners bring the whole unit together by building a four-part "Earth home" picture:

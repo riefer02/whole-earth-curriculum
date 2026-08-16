@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Photo, drawing, or pretend story</title>
+  <desc id="desc">Three cards show how pictures and stories are made. The first card, labeled photo, shows a camera next to a real-looking cat with the caption "made by a camera of a real cat." The second card, labeled drawing, shows a hand holding a crayon next to a hand-drawn cat with a caption "made by hand — may show real or made-up." The third card, labeled pretend story, shows a generic smiling dragon with wings and a caption "made up in a mind — a treasure, not a lie." Word labels and the simple shapes carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that photos, drawings, and pretend stories are all treasures to love, each made in its own way.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Photo, Drawing, or Pretend Story?</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Each one is made in its own way — and all are treasures</text>
+
+  <!-- cards -->
+  <rect x="20" y="90" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="181" y="90" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="342" y="90" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <text x="95" y="114" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">photo</text>
+  <text x="256" y="114" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">drawing</text>
+  <text x="417" y="114" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">pretend story</text>
+
+  <!-- ===== photo card: camera + real cat ===== -->
+  <rect x="50" y="130" width="90" height="58" rx="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="95" cy="159" r="16" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="95" cy="159" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="58" y="124" width="22" height="8" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="95" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">camera</text>
+  <!-- real cat -->
+  <circle cx="70" cy="270" r="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M56 270 L48 258 M52 270 L48 262" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M84 270 L92 258 M88 270 L92 262" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="65" cy="267" r="1.8" fill="#2b3a42"/>
+  <circle cx="75" cy="267" r="1.8" fill="#2b3a42"/>
+  <path d="M66 274 L70 276 L74 274" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="95" y="304" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">made by a camera</text>
+  <text x="95" y="322" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">of a real cat</text>
+
+  <!-- ===== drawing card: hand + crayon + hand-drawn cat ===== -->
+  <g>
+    <line x1="256" y1="150" x2="256" y2="186" stroke="#c99567" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="256" cy="196" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="242" y1="154" x2="232" y2="176" stroke="#c99567" stroke-width="8" stroke-linecap="round"/>
+    <line x1="270" y1="154" x2="280" y2="176" stroke="#c99567" stroke-width="8" stroke-linecap="round"/>
+    <!-- crayon -->
+    <line x1="280" y1="176" x2="300" y2="196" stroke="#e0a458" stroke-width="7" stroke-linecap="round"/>
+    <line x1="300" y1="196" x2="305" y2="202" stroke="#7a9e7e" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <!-- hand-drawn cat with wings (make-believe) -->
+  <circle cx="248" cy="266" r="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M236 264 L230 254 M232 264 L230 258" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M260 264 L266 254 M264 264 L266 258" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="244" cy="263" r="1.6" fill="#2b3a42"/>
+  <circle cx="253" cy="263" r="1.6" fill="#2b3a42"/>
+  <path d="M244 270 L249 272 L254 270" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- wings -->
+  <path d="M236 262 Q226 250 236 240 Q244 250 236 262 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M262 262 Q272 250 262 240 Q254 250 262 262 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">made by hand — may show</text>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">real or made-up</text>
+
+  <!-- ===== pretend story card: generic dragon ===== -->
+  <circle cx="417" cy="172" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M430 172 L446 168 L430 178 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M408 176 Q404 186 412 192" fill="none" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="412" cy="169" r="1.8" fill="#2b3a42"/>
+  <circle cx="423" cy="169" r="1.8" fill="#2b3a42"/>
+  <path d="M412 178 Q417 183 423 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M406 176 Q396 184 406 192" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M428 176 Q438 184 428 192" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M410 190 L417 214 M424 190 L417 214" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <!-- wings -->
+  <path d="M392 176 Q378 162 388 150 Q400 162 392 176 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M442 176 Q456 162 446 150 Q434 162 442 176 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- breath puffs (pretend detail) -->
+  <circle cx="454" cy="170" r="3" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="462" cy="166" r="2" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="417" y="252" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">made up in a mind</text>
+  <text x="417" y="270" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">a treasure, not a lie</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">We notice how each is made — by a camera, by a hand,</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">or by an imagination — and we love them all.</text>
+</svg>

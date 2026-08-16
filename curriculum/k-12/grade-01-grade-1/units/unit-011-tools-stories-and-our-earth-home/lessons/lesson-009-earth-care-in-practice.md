@@ -51,6 +51,11 @@ context_variants:
     note: Turn off or use carefully a water source outside, then use a little of that water to water a plant or fill a bird's dish; say how the two acts are one care
   - context: multi-age
     note: Older learners lead the two acts and coach younger ones in saying the connection between wasting less and caring for living things
+assets:
+  - path: assets/images/L.01.011.09-one-care-two-acts.svg
+    alt: "Two acts of care are joined by an arrow to show they are one care. Act 1: a child turns off a running tap to waste less, captioned 'turning off the tap saves water.' Act 2: that saved water is poured from a cup onto a plant, captioned 'the saved water helps the plant grow.' An arrow between them reads 'the water you save is the water the plant drinks.' Word labels carry the meaning so it prints in grayscale, teaching that wasting less and caring for living things are one care for one home."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners put two kinds of care together: wasting less (turning off a tap, using just

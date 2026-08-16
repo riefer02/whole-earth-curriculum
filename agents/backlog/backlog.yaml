@@ -1612,12 +1612,22 @@ items:
     type: assets
     grade: 1
     domain: D10
-    status: ready
+    status: done
     priority: 53
     depends_on:
       - B-062
     required_reviews: *a2
     notes: "Author original SVG assets (per docs/art-style.md) for the lessons in U.01.011 that lack a graphic, and wire each into the lesson's assets: field with alt text."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Verified all 10 U.01.011 SVGs: well-formed XML (viewBox 512, role=img, aria-labelledby, title/desc), assets resolve with non-empty alt. Concept match e.g. lesson-006 Venn (plant=light, animal=food, overlap=water+air) maps to D10.S3.01.02; lesson-003 alt carries 'a treasure, not a lie'; lesson-009 'Saving water IS caring'. Objectives resolve to 8 grade-1 D10 standards; no talking-stick/stone."
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 SVGs + lesson assets: non-empty alt conveying teaching point, role=img + aria-labelledby + title/desc, word labels/shapes grayscale-safe (no color-only cues), varied skin tones + natural wheelchair (L.02)/hearing-aid (L.08), no eye-contact mandate, materials_low_tech touch/sound/voice alternatives (devices enriched only), no talking-stick/stone. validate passes."
+      global-culture-editor:
+        verdict: passed
+        note: "All 10 SVGs + alt: no Western/urban default (tool/water scenes region-neutral, in-graphic 'no place's tools more important'), 3 skin tones + natural wheelchair (SVG 02)/hearing-aid (SVG 08), only make-believe creature generic non-exoticized dragon 'a treasure not a lie', word labels grayscale-safe, no skin-tone good/bad mapping. No edits."
   - id: B-094
     title: "Illustration pass: add SVG assets to lessons in U.01.012"
     agent: asset-designer

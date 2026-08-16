@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">By hand or with a tool</title>
+  <desc id="desc">Two panels compare doing the same carrying job two ways. The first panel, labeled by hand, shows a child with medium skin tone cupping only a few beans in two hands while two beans fall to the ground, with the caption "many trips, some spill." The second panel, labeled with a basket, shows a child with deep skin tone using a wheelchair and carrying a full basket of beans on their lap with a smile, captioned "one trip, nothing spills." Word labels, the number of beans, and the spilling beans carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that a basket is just as real a tool as anything new: a tool helps by holding more and spilling less.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">By Hand or With a Tool?</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A tool helps by holding more and spilling less</text>
+
+  <!-- panels -->
+  <rect x="20" y="88" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="266" y="88" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <text x="133" y="114" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">by hand</text>
+  <text x="379" y="114" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">with a basket</text>
+
+  <!-- ===== by hand: child cupping a few beans, some falling ===== -->
+  <circle cx="133" cy="166" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M119 164 A14 14 0 0 1 147 164 Z" fill="#2b3a42"/>
+  <circle cx="128" cy="166" r="1.8" fill="#2b3a42"/>
+  <circle cx="138" cy="166" r="1.8" fill="#2b3a42"/>
+  <path d="M128 173 Q133 177 138 173" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="121" y="182" width="24" height="40" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="126" y1="222" x2="123" y2="252" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="140" y1="222" x2="143" y2="252" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- arms cupped in front -->
+  <path d="M121 194 Q113 212 118 226" fill="none" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <path d="M145 194 Q153 212 148 226" fill="none" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- cupped hands + beans -->
+  <path d="M118 226 Q133 234 148 226" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="128" cy="228" rx="4" ry="3" fill="#b57a4a" stroke="#2b3a42" stroke-width="1.5"/>
+  <ellipse cx="136" cy="229" rx="4" ry="3" fill="#b57a4a" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- two beans falling -->
+  <ellipse cx="122" cy="256" rx="4" ry="3" fill="#b57a4a" stroke="#2b3a42" stroke-width="1.5"/>
+  <ellipse cx="142" cy="262" rx="4" ry="3" fill="#b57a4a" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- spill streaks -->
+  <line x1="122" y1="236" x2="122" y2="252" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="2 3"/>
+  <line x1="142" y1="236" x2="142" y2="258" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="2 3"/>
+
+  <text x="133" y="322" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">many trips</text>
+  <text x="133" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">some beans spill</text>
+
+  <!-- ===== with a basket: wheelchair user carrying full basket ===== -->
+  <circle cx="373" cy="166" r="14" fill="#6b4226" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M359 164 A14 14 0 0 1 387 164 Z" fill="#2b3a42"/>
+  <circle cx="368" cy="166" r="1.8" fill="#fdfbf7"/>
+  <circle cx="378" cy="166" r="1.8" fill="#fdfbf7"/>
+  <path d="M368 173 Q373 178 378 173" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="361" y="182" width="24" height="34" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- basket on lap -->
+  <path d="M355 190 L391 190 L387 218 L359 218 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M355 190 Q373 178 391 190" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="366" cy="202" rx="4" ry="3" fill="#b57a4a" stroke="#2b3a42" stroke-width="1.5"/>
+  <ellipse cx="376" cy="204" rx="4" ry="3" fill="#b57a4a" stroke="#2b3a42" stroke-width="1.5"/>
+  <ellipse cx="382" cy="200" rx="4" ry="3" fill="#b57a4a" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- wheelchair seat and wheels -->
+  <rect x="357" y="222" width="32" height="5" rx="2" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="357" y1="227" x2="353" y2="240" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="373" cy="262" r="12" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="373" cy="262" r="3" fill="#2b3a42"/>
+  <circle cx="397" cy="272" r="5" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="379" y="322" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">one trip</text>
+  <text x="379" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">nothing spills</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">The tool holds more, spills less, and saves effort.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">A basket is as real a tool as anything new.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">People everywhere have made tools for exactly this reason.</text>
+</svg>

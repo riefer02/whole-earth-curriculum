@@ -52,6 +52,11 @@ context_variants:
     note: Find a sign, a marking, or a poster outdoors (a shop sign, a road sign, a drawn notice) and ask who made it and who it is for
   - context: multi-age
     note: Older learners read the author and illustrator names aloud and coach younger ones in saying who the book was made for
+assets:
+  - path: assets/images/L.01.011.04-maker-and-audience.svg
+    alt: "Two cards teach maker and audience. A wash-your-hands sign has a maker (a nurse who cares about health) and an audience (everyone who uses the sink). A picture book has a maker (the author who wrote the words and the illustrator who drew the pictures) and an audience (children who love stories). Word labels carry the meaning so it prints in grayscale, teaching that every message comes from a maker and goes to an audience."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners discover that every picture, poster, and story has a maker — an author or

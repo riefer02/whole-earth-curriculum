@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tools at home and at school</title>
+  <desc id="desc">Two labeled trays sort tools into home and school. The home tray holds a spoon (scoops and eats), a broom (sweeps the floor), and a basket (carries things). The school tray holds scissors (cuts paper), a book (holds words to read), and a watering can (waters the plant). Each tool is drawn simply and named with its job in words, so the meaning does not depend on color and the picture prints clearly in grayscale. A note between the trays says some tools — a cup, a spoon, a cloth — live in both places, teaching that tools belong to every place and no place's tools are more important than another's.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Tools at Home and School</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every place has tools — none is more important than another</text>
+
+  <!-- panels -->
+  <rect x="20" y="88" width="226" height="310" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="266" y="88" width="226" height="310" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <text x="133" y="114" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">home</text>
+  <text x="379" y="114" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">school</text>
+
+  <!-- ===== HOME tools ===== -->
+  <!-- spoon -->
+  <ellipse cx="52" cy="140" rx="14" ry="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="52" y1="156" x2="52" y2="180" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
+  <text x="80" y="146" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">spoon</text>
+  <text x="80" y="166" font-family="sans-serif" font-size="14" fill="#222222">scoops and eats</text>
+
+  <!-- broom -->
+  <line x1="52" y1="198" x2="52" y2="232" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <path d="M44 232 L60 232 L56 248 L48 248 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="80" y="216" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">broom</text>
+  <text x="80" y="236" font-family="sans-serif" font-size="14" fill="#222222">sweeps the floor</text>
+
+  <!-- basket -->
+  <path d="M38 286 L66 286 L61 310 L43 310 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M38 286 Q52 270 66 286" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="43" y1="290" x2="61" y2="290" stroke="#8f5f3d" stroke-width="2"/>
+  <line x1="43" y1="298" x2="61" y2="298" stroke="#8f5f3d" stroke-width="2"/>
+  <text x="80" y="286" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">basket</text>
+  <text x="80" y="306" font-family="sans-serif" font-size="14" fill="#222222">carries things</text>
+
+  <!-- ===== SCHOOL tools ===== -->
+  <!-- scissors -->
+  <ellipse cx="298" cy="140" rx="8" ry="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="298" cy="164" rx="8" ry="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="306" y1="136" x2="332" y2="150" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <line x1="306" y1="168" x2="332" y2="154" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="313" cy="152" r="2.5" fill="#2b3a42"/>
+  <text x="346" y="146" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">scissors</text>
+  <text x="346" y="166" font-family="sans-serif" font-size="14" fill="#222222">cuts paper</text>
+
+  <!-- book -->
+  <rect x="292" y="212" width="40" height="30" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="312" y1="212" x2="312" y2="242" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="297" y1="220" x2="307" y2="220" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="297" y1="234" x2="307" y2="234" stroke="#2b3a42" stroke-width="2"/>
+  <text x="346" y="226" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">book</text>
+  <text x="346" y="246" font-family="sans-serif" font-size="14" fill="#222222">holds words to read</text>
+
+  <!-- watering can -->
+  <rect x="286" y="284" width="34" height="24" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="320" y1="294" x2="338" y2="282" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M286 288 Q292 274 308 288" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="340" cy="281" r="2" fill="#4f6d7a"/>
+  <text x="346" y="296" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">watering can</text>
+  <text x="346" y="316" font-family="sans-serif" font-size="14" fill="#222222">waters the plant</text>
+
+  <!-- both pill -->
+  <rect x="120" y="414" width="272" height="56" rx="28" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">some tools live in BOTH places:</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">a cup &#183; a spoon &#183; a cloth</text>
+
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">No place's tools are more important than another's.</text>
+</svg>

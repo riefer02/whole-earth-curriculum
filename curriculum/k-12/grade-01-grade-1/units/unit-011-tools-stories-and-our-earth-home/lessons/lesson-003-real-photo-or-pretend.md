@@ -52,6 +52,11 @@ context_variants:
     note: Point to a real thing outside (a leaf, a tree, a bird) and then to a drawn picture of it; tell which is which and give one reason
   - context: multi-age
     note: Older learners read the pretend story aloud and coach younger ones in giving one reason for "photo" or "drawing"
+assets:
+  - path: assets/images/L.01.011.03-photo-drawing-or-pretend.svg
+    alt: "Three cards show how pictures and stories are made. A photo is made by a camera of a real cat. A drawing is made by a person's hand and may show something real or made-up (a cat with wings). A pretend story, shown with a friendly winged dragon, is made up in a mind — a treasure, not a lie. Word labels carry the meaning so it prints in grayscale, teaching that photos, drawings, and pretend stories are all treasures."
+    kind: image
+    source: original
 duration_minutes: 45
 summary: >-
   Learners compare a real photo with a drawing of the same thing and learn to tell

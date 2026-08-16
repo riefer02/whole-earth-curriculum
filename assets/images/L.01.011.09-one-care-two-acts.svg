@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One care, two acts</title>
+  <desc id="desc">Two acts of care are joined by an arrow to show they are one care. On the left, a child with medium skin turns off a running tap, captioned act 1: waste less — turning off the tap saves water. On the right, the same saved water is poured from a cup onto a plant, captioned act 2: care for a living thing — the saved water helps the plant grow. An arrow between them reads "the water you save is the water the plant drinks." Word labels and the arrow carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that wasting less and caring for living things are one care for one shared home.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">One Care, Two Acts</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Wasting less and caring for a living thing are one care</text>
+
+  <!-- panels -->
+  <rect x="20" y="90" width="206" height="290" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="286" y="90" width="206" height="290" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <text x="123" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">act 1: waste less</text>
+  <text x="389" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">act 2: care for a living thing</text>
+
+  <!-- act 1: turning off tap -->
+  <path d="M78 190 L168 190" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M90 190 L90 208 Q90 216 82 216 L78 216" fill="none" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M90 190 L90 208" fill="none" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="104" cy="226" r="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- child turning tap -->
+  <circle cx="123" cy="262" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M111 260 A12 12 0 0 1 135 260 Z" fill="#2b3a42"/>
+  <circle cx="119" cy="262" r="1.6" fill="#2b3a42"/>
+  <circle cx="127" cy="262" r="1.6" fill="#2b3a42"/>
+  <path d="M119 268 Q123 272 127 268" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="114" y="275" width="18" height="28" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="118" y1="303" x2="116" y2="324" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="128" y1="303" x2="130" y2="324" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="114" y1="284" x2="100" y2="216" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <text x="123" y="356" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">turning off the tap</text>
+  <text x="123" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">saves water</text>
+
+  <!-- arrow between -->
+  <line x1="230" y1="235" x2="282" y2="235" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M282 229 L290 235 L282 241 Z" fill="#4f6d7a"/>
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the water you</text>
+  <text x="256" y="232" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">save is the water</text>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the plant drinks</text>
+
+  <!-- act 2: watering plant -->
+  <path d="M340 300 L340 266" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M340 290 Q328 284 320 288 Q328 278 340 286 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M340 280 Q352 272 360 276 Q352 268 340 276 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M328 316 L352 316 L349 330 L331 330 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <!-- cup pouring water -->
+  <path d="M386 250 L404 250 L400 266 L390 266 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="390" y1="270" x2="390" y2="280" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="390" y1="270" x2="386" y2="280" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="390" y1="270" x2="394" y2="280" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+  <text x="389" y="356" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the saved water helps</text>
+  <text x="389" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the plant grow</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Saving water IS caring for the living things that need it.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Two faces of one act of care for our shared home.</text>
+</svg>
