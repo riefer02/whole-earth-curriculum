@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Wayfinding: reading the stars, waves, and sky</title>
+  <desc id="desc">A sailing canoe with a triangular sail moves across the ocean under a night sky. A crescent moon and many stars hang above, and wavy lines show the sea. Small arrows point from the stars, the moon, and the waves down to the canoe, showing that wayfinders read the stars, the sky, and the ocean swells to know where they are and which way to sail. A person sits in the canoe steering. The labels and the shapes — not color — carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Wayfinding: Reading Stars and Waves</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A knowledge and skill people developed</text>
+
+  <!-- sky -->
+  <rect x="28" y="92" width="456" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- stars -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="1.5">
+    <path d="M92 140 L96 150 L106 152 L96 154 L92 164 L88 154 L78 152 L88 150 Z"/>
+    <path d="M180 126 L183 133 L190 135 L183 137 L180 144 L177 137 L170 135 L177 133 Z"/>
+    <path d="M286 118 L289 125 L296 127 L289 129 L286 136 L283 129 L276 127 L283 125 Z"/>
+    <path d="M392 132 L395 139 L402 141 L395 143 L392 150 L389 143 L382 141 L389 139 Z"/>
+    <path d="M446 180 L448 185 L453 186 L448 188 L446 193 L444 188 L439 186 L444 185 Z"/>
+    <path d="M70 220 L72 225 L77 226 L72 228 L70 233 L68 228 L63 226 L68 225 Z"/>
+  </g>
+
+  <!-- crescent moon -->
+  <path d="M420 118 A26 26 0 1 1 444 152 A22 22 0 1 0 420 118 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- waves -->
+  <g stroke="#6b93b6" stroke-width="3" stroke-linecap="round" fill="none">
+    <path d="M40 320 Q60 306 80 320 Q100 334 120 320 Q140 306 160 320 Q180 334 200 320 Q220 306 240 320"/>
+    <path d="M250 340 Q270 326 290 340 Q310 354 330 340 Q350 326 370 340 Q390 354 410 340 Q430 326 450 340"/>
+  </g>
+
+  <!-- canoe -->
+  <g>
+    <path d="M150 356 Q256 396 362 356 L348 380 Q256 410 164 380 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- sail -->
+    <path d="M262 300 L262 210 L322 300 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="262" y1="300" x2="262" y2="210" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- person -->
+    <circle cx="210" cy="330" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M198 328 A12 12 0 0 1 222 328 Z" fill="#2b3a42"/>
+    <rect x="199" y="340" width="22" height="22" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- steering paddle -->
+    <line x1="232" y1="344" x2="250" y2="378" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- guidance arrows -->
+  <g stroke="#4f6d7a" stroke-width="2.5" fill="#4f6d7a">
+    <line x1="96" y1="166" x2="150" y2="240"/>
+    <path d="M150 240 L142 226 L158 224 Z"/>
+    <line x1="432" y1="156" x2="352" y2="230"/>
+    <path d="M352 230 L360 216 L344 214 Z"/>
+  </g>
+
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Stars &#183; waves &#183; clouds &#183; birds &#183; they show the way home</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Passed down hand to hand &#183; never &#8220;primitive&#8221;</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our people, places, and long ago story</title>
+  <desc id="desc">A story page divided into six labeled sections, like a foldable a learner fills in. The sections are: my timeline (an arrow), then and now (a candle and a bulb), a child's day (a bowl), a knowledge (a star), my place (a hill and water), and fair, unfair, and a helper (a hand and a small seedling). Each section has a simple icon and a clear label. The labels and shapes — not color — carry the meaning, so the picture prints clearly in grayscale and shows how all the pieces of the unit fit together into one story, and that every learner's story is different and every one belongs.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Our People, Places and Long Ago Story</text>
+
+  <!-- page -->
+  <rect x="26" y="62" width="460" height="398" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">My story page &#183; six pieces of one story</text>
+
+  <!-- section boxes -->
+  <rect x="42" y="104" width="140" height="140" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="190" y="104" width="140" height="140" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="338" y="104" width="140" height="140" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="42" y="254" width="140" height="140" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="190" y="254" width="140" height="140" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="338" y="254" width="140" height="140" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <!-- 1: my timeline -->
+  <g>
+    <line x1="62" y1="168" x2="162" y2="168" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M162 162 L172 168 L162 174 Z" fill="#2b3a42"/>
+    <circle cx="88" cy="168" r="6" fill="#4f6d7a"/>
+    <circle cx="120" cy="168" r="6" fill="#4f6d7a"/>
+    <circle cx="150" cy="168" r="6" fill="#4f6d7a"/>
+    <text x="112" y="234" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">my timeline</text>
+  </g>
+
+  <!-- 2: then and now -->
+  <g>
+    <rect x="236" y="132" width="14" height="40" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M243 126 C238 130 238 136 243 138 C248 136 248 130 243 126 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M286 132 A12 12 0 1 1 286 158 L286 164 L274 164 L274 158 A12 12 0 0 1 286 132 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="260" y="234" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">then and now</text>
+  </g>
+
+  <!-- 3: a child's day -->
+  <g>
+    <path d="M376 140 Q408 128 440 140 L434 176 L382 176 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="372" y1="134" x2="444" y2="134" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="408" y="234" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">a child&#8217;s day</text>
+  </g>
+
+  <!-- 4: a knowledge -->
+  <g>
+    <path d="M96 300 L100 310 L110 312 L100 314 L96 324 L92 314 L82 312 L92 310 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M122 316 Q128 308 134 316 Q140 308 146 316" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="112" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">a knowledge</text>
+  </g>
+
+  <!-- 5: my place -->
+  <g>
+    <path d="M214 344 L214 320 L234 320 L234 344 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M234 344 L234 330 L248 330 L248 344 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M210 344 L252 344" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M218 354 Q224 348 230 354" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="260" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">my place</text>
+  </g>
+
+  <!-- 6: fair, unfair, and a helper -->
+  <g>
+    <path d="M384 346 Q392 334 408 344 L416 356 Q422 364 414 368 L398 368 Q384 368 378 358 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="408" y1="370" x2="408" y2="378" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M408 378 C404 374 404 372 408 370 C412 372 412 374 408 378 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.6"/>
+    <text x="408" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">fair &#183; unfair &#183; a helper</text>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every learner&#8217;s story is different, and every one belongs</text>
+</svg>

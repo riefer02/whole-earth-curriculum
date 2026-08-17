@@ -482,3 +482,77 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in U.02.008 L07/L08 (trusted adults; telling a trusted adult keeps children safe). URL verified live (2026-08-16) — the Prevention of Violence (PVL) unit under WHO Social Determinants of Health; page emphasizes preventing violence against children, including via INSPIRE strategies and supportive adult relationships. On-topic as a general authority for the lesson's safety framing (a value/protective frame, not a claim-level citation). The lesson's safeguarding guidance (believe, don't promise secrecy, report) is standard child-protection practice and is not attributed to this page."
+
+  - id: S-052
+    title: Our World in Data — Light at Night
+    type: website
+    url: https://ourworldindata.org/light-at-night
+    organization: Global Change Data Lab (University of Oxford)
+    year: 2023
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.02.009 L02 (Light Then and Now). URL verified live (2026-08-16). By Max Roser, Hannah Ritchie, Pablo Arriagada, Bertha Rohenkohl (2023). States the history of light as transitions 'from candles to lamps to lightbulbs', that many countries moved candles → gas → kerosene → electricity, that the price of lighting fell >99.9% since 1300 (16,000-fold decline; Fouquet & Pearson data), and that many people still lack light at night (energy poverty). Supports every factual claim in the lesson, including the hedged 'hundreds of millions still light the dark with flame and lamp' and the no-ranking 'neither way is better' framing. CC-BY licensed."
+
+  - id: S-053
+    title: "Children Just Like Me (DK, in association with UNICEF)"
+    type: book
+    author: Barnabas Kindersley & Anabel Kindersley
+    organization: DK Publishing (Dorling Kindersley), in association with UNICEF
+    year: 1995
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.02.009 L03 (A Day in Another Child's Life) as an enriched picture book. Real, well-known book (DK, 1995; newer revised editions exist) profiling real children's daily lives — food, home, school, play — across many countries side by side. On-topic as an optional illustrated resource; the lesson does not attribute a specific factual claim to it (the Andean child-life example is separately sourced to CIP, S-054). No URL (print book)."
+
+  - id: S-054
+    title: International Potato Center (CIP) — Potato
+    type: website
+    url: https://cipotato.org/potato/
+    organization: International Potato Center (CIP), CGIAR
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.02.009 L03 and L04 (Andean child-life example; Andean farming/terracing example). URL verified live (2026-08-16). States verbatim the potato 'originated and was first domesticated in the Andes mountains of South America' and that there are 'more than 4,500 varieties of native potatoes, mostly found in the Andes' (and 'over 4,000 varieties of native potatoes grow in the Andean highlands of Peru, Bolivia, and Ecuador'). Supports the lesson's claim that the potato was first domesticated in the Andes and that thousands of native varieties are still farmed there. The Quechua/herding-llamas framing is consistent with Andean agropastoral life (a widely documented example, not overstated). CC-BY 4.0."
+
+  - id: S-055
+    title: Polynesian Voyaging Society (Hōkūleʻa)
+    type: website
+    url: https://hokulea.com/
+    organization: Polynesian Voyaging Society (PVS)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.02.009 L04 (wayfinding) and L06 (coast adaptation). URL verified live (2026-08-16). PVS is the real organization that owns and sails Hōkūleʻa; its mission is 'Perpetuating the legacy of traditional Polynesian voyaging', and its site documents the 1976 maiden voyage from Hawaiʻi to Tahiti (50th anniversary marked 2026) and traditional wayfinding (stars, swells, clouds, birds). The lesson's claim that the 1976 Hōkūleʻa voyage to Tahiti was guided without instruments by the Micronesian master navigator Mau Piailug is accurate and correctly attributed — the single highest-risk historical claim in the unit, and it is sound."
+
+  - id: S-056
+    title: UNESCO — Intangible Cultural Heritage
+    type: website
+    url: https://ich.unesco.org/
+    organization: UNESCO
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.02.009 L04 as a general frame for knowledge passed down hand to hand. URL verified live (2026-08-16). UNESCO's ICH site (2003 Convention) frames intangible cultural heritage as 'the practices, representations, expressions, knowledge, skills' that communities pass between generations, transmitted person to person — on-topic for the lesson's claim that knowledge/skill is passed down hand to hand. A general authority/frame, not a claim-level citation for any single fact."
+
+  - id: S-057
+    title: National Geographic Education — Desert
+    type: website
+    url: https://education.nationalgeographic.org/resource/desert/
+    organization: National Geographic Society
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.02.009 L05 (needs met differently by place) and L06 (adapting to a desert). URL verified live (2026-08-16). States 'People have adapted to life in the desert for thousands of years'; documents long, loose, light robes (thobe/abaya/djellaba/keffiyeh) that shield from sun, wind, and sand; tents that let cool air through; reliance on wells, springs, oases, and groundwater; and camels — supporting every desert-specific claim in both lessons, including 'hot in the day and cool at night'."
+
+  - id: S-058
+    title: Inuit Circumpolar Council (ICC)
+    type: website
+    url: https://www.inuitcircumpolar.com/
+    organization: Inuit Circumpolar Council (ICC)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.02.009 L06 (cold-region adaptation). URL verified live (2026-08-16). ICC is the real, authoritative pan-Arctic Indigenous organization — 'Representing approximately 180,000 Inuit across Alaska, Canada, Greenland (Kalaallit Nunaat), and Chukotka' — founded 1977, and documents Inuit knowledge and ways of living in the Arctic (hunting, Indigenous knowledge, environment). On-topic as an authority for the lesson's Inuit parkas/kayaks/winter shelters/hunting-fishing framing (the lesson correctly attributes these as Inuit and names the peoples)."
+
+  - id: S-059
+    title: Nobel Prize — Wangari Maathai, Facts
+    type: website
+    url: https://www.nobelprize.org/prizes/peace/2004/maathai/facts/
+    organization: Nobel Prize Outreach / Nobel Foundation
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.02.009 L08 (Someone Who Helped and Spoke Up). URL verified live (2026-08-16). States Wangari Maathai 'In 1977 she started a grass-roots movement' countering deforestation, that the Green Belt Movement 'spread to other African countries, and contributed to the planting of over thirty million trees', and that she received the Nobel Peace Prize 2004 'for her contribution to sustainable development, democracy and peace'. Confirms every factual claim in the lesson (Green Belt Movement 1977; over thirty million trees; Nobel Peace Prize 2004). The lesson correctly distinguishes these facts from the value that caring for the land and speaking up are good."

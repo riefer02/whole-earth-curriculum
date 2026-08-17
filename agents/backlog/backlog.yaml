@@ -2362,7 +2362,7 @@ items:
     type: lesson
     grade: 2
     domain: D08
-    status: ready
+    status: done
     priority: 58
     depends_on:
       - B-064
@@ -2374,6 +2374,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (535 files). IDs L.02.009.01-.10 sequential, sequence_in_unit 1-10, unit U.02.009, grade 2; all 10 carry Procedure/Assessment/Connection/Summary/Objectives; objectives resolve to the 8 real Grade-2 D08 standards — no invented IDs. unit.md Lessons table lists all 10; 10 SVGs match paths. Sources (L4 Polynesian Voyaging Society/Hokule'a 1976 Mau Piailug; L8 Wangari Maathai gently/hopefully, no atrocity). Connections concrete (L1 before/after via own waking→eating→playing). Non-blocking: L10 SVG alt says 'five sections' but lists six labels."
+      fact-checker:
+        verdict: passed
+        note: "Verified highest-risk claims: Hokule'a 1976 Hawaii→Tahiti guided by Micronesian master navigator Mau Piailug without instruments (Polynesian Voyaging Society S-055, accurate+attributed); Wangari Maathai founded Green Belt Movement 1977, 30M+ trees, 2004 Nobel Peace Prize (S-059, evidence vs 'caring is good' value separated); Andean potato domestication (CIP S-054); light history candles→gas→kerosene→electricity >99.9% price fall + energy poverty (OWID S-052); desert robes/tents/wells/oases (NatGeo S-057); Inuit (ICC S-058); UNESCO ICH (S-056); DK/UNICEF real book (S-053). Registered S-052-S-059 reviewed:true. Fixed L10 SVG alt 'five sections'→six. validate passes (535 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric or single-civilization default: L4 centers Polynesian/Micronesian wayfinding as 'real science not legend' (Mau Piailug, 1976 Hokule'a), forbids ranking below compass/GPS; Andean terracing/potato + weaving as living knowledge; L8 centers Wangari Maathai (Kenya); no Western 'great men' arc. Then/now not progress-as-supremacy (L2/L9 'never rank/neither better'; L3 mandates present tense for living ways 'not backward'; L6 forbids pitying 'hard to live in'). Representation spans South America/Oceania/Arctic (Inuit named)/Africa/desert/coastal. Non-blocking: no East/South/West Asian or European example (could add monsoon-rice/irrigation); L6 'snow house' hedged+paired acceptable. validate passes (535 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech all 10 (found objects/body/voice/told stories/ground lines; devices optional enriched only). Alt text all 10 assets (SVGs role=img/aria-labelledby/title/desc, grayscale-safe labels+shapes not color). Timeline/map lessons non-visual: L1/L9 tactile object-sequencing + walk-and-name body timelines; L4 tactile ripple-the-water + woven-sample feel. Motor-difference (partner places cards while learner points/signs/eye-gazes) + non-speaking (act/point/draw) in every lesson. Blind/low-vision/Deaf/HH/motor supports all 10. validate passes (535 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: D08.S1-S4 → D08 → P4 → vision; all objectives resolve to real standards. Lenses: ethics (L7 fair/unfair with reasoning; L8 splits fact 'she planted/won Nobel' from value 'caring for land is good'; L7 labels definition 'a values commitment'), egalitarianism (pervasive anti-ranking 'neither way better'/'do not rank'/'never pitying'), global (Polynesian wayfinding, Quechua/Andean potato, Pacific/Inuit life, Kenyan Green Belt), tech/env (L2 light history anti-progress 'never progress'; L5/6 adaptation; L8 stewardship). Evidence vs values sourced (OWID/CIP/UNESCO/Hokule'a/NatGeo/ICC/Nobel; pedagogy Kirschner/Dunlosky). No progress-as-supremacy/single-civilization; knowledge as living science 'never call it primitive'. validate passes (535 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: time concrete (personal/community before/after timelines; then/now of candle-vs-bulb, river-vs-well); no abstract historical analysis or nation-centric narrative. Emotional safety: no death/atrocity/frightening content; fairness L7 blame-free ('unfairness is in the rule never in a child') ends in repair; Wangari Maathai L8 gentle+hopeful ('peace prize not fighting'); 'long ago people died' fear absent; need stated neutrally never pitied, paired 'neither is better'. Physical fit: walking timelines, acting flames/bulbs, rippling water, sorting, planting seed; fine-motor simple. Not dumbed down (wayfinding 'careful observation not legend never primitive'; facts cited vs values). Open-ended ('pause and wonder'). validate passes (535 files)."
   - id: B-209
     title: Author lessons for Unit U.02.010 (Fairness and Our Shared Rules)
     agent: lesson-author

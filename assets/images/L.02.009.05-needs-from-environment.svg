@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What people need from their environment</title>
+  <desc id="desc">Four labeled cards show what people need from their environment. The first card shows a water drop, labeled water. The second card shows a bowl of food with a leaf, labeled food. The third card shows a small house, labeled shelter. The fourth card shows a pile of sticks and a stone, labeled materials. A curved arrow loops around the four cards from the environment to the needs. The labels and shapes — not color — carry the meaning, so the picture prints clearly in grayscale and teaches that every person everywhere needs water, food, shelter, and materials.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">What People Need From the Environment</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Four needs everyone shares &#183; many ways to meet them</text>
+
+  <!-- card frames -->
+  <rect x="26" y="112" width="100" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="146" y="112" width="100" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="266" y="112" width="100" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="386" y="112" width="100" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- water -->
+  <g>
+    <path d="M76 152 C60 170 60 184 76 184 C92 184 92 170 76 152 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M70 176 Q76 182 82 176" fill="none" stroke="#fdfbf7" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="76" y="260" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">water</text>
+  </g>
+
+  <!-- food -->
+  <g>
+    <path d="M166 170 Q196 158 226 170 L220 206 L172 206 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="162" y1="164" x2="230" y2="164" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M184 164 Q196 154 208 164" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="196" y="260" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">food</text>
+  </g>
+
+  <!-- shelter -->
+  <g>
+    <path d="M282 150 L316 122 L350 150 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="290" y="150" width="52" height="52" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="308" y="178" width="16" height="24" rx="2" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="316" y="260" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">shelter</text>
+  </g>
+
+  <!-- materials -->
+  <g>
+    <line x1="420" y1="196" x2="444" y2="150" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+    <line x1="412" y1="196" x2="400" y2="158" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="436" cy="196" rx="16" ry="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="410" cy="200" rx="12" ry="8" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="436" y="260" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">materials</text>
+  </g>
+
+  <!-- loop arrow -->
+  <path d="M60 330 Q60 372 256 382 Q452 372 452 330" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="8 8" stroke-linecap="round"/>
+  <path d="M452 330 L462 342 L440 342 Z" fill="#4f6d7a"/>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">The need is the same &#183; the way is shaped by place</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A river, a well, the rain &#183; a farm, the sea, a market</text>
+</svg>

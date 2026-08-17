@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Light then and now: what changed, what stayed</title>
+  <desc id="desc">Two columns compare how people light a home long ago and today. On the left, under the label "long ago", a candle stands with a small flame. On the right, under the label "today", an electric bulb glows inside a lamp. A center band reads "both give light" with the word "same", and two small labels read "flame" and "bulb" with the word "different". The labels and the shapes — not color — carry the meaning, so the picture prints clearly in grayscale and shows that the job stayed the same while the way changed, without calling either way better.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Light Then and Now</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The job stayed the same &#183; the way changed</text>
+
+  <!-- column headers -->
+  <rect x="54" y="104" width="150" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="308" y="104" width="150" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="129" y="132" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">long ago</text>
+  <text x="383" y="132" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">today</text>
+
+  <!-- candle (long ago) -->
+  <g>
+    <rect x="112" y="188" width="34" height="96" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="129" y1="178" x2="129" y2="168" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M129 150 C122 158 122 166 129 168 C136 166 136 158 129 150 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="129" cy="160" r="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round" fill="none">
+      <line x1="129" y1="178" x2="118" y2="186"/>
+      <line x1="129" y1="182" x2="140" y2="190"/>
+    </g>
+    <text x="129" y="304" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">flame</text>
+  </g>
+
+  <!-- bulb (today) -->
+  <g>
+    <path d="M383 208 A24 24 0 1 1 383 256 L383 268 L343 268 L343 256 A24 24 0 0 1 383 208 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="355" y="268" width="56" height="12" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="372" y="280" width="22" height="16" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M352 176 L366 168 L372 186 L352 176 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+      <line x1="342" y1="196" x2="330" y2="190"/>
+      <line x1="424" y1="196" x2="436" y2="190"/>
+    </g>
+    <text x="383" y="314" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">bulb</text>
+  </g>
+
+  <!-- same band -->
+  <rect x="168" y="356" width="176" height="52" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">same &#183; both give light</text>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">stayed the same</text>
+
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">different &#183; flame and bulb &#183; neither way is better</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Many homes still use a flame or a lamp today</text>
+</svg>

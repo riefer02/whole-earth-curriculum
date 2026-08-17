@@ -59,3 +59,13 @@ or spoke up. History is told from many perspectives, never a single nation's tri
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | A Timeline of Our Community | D08.S1.02.01 |
+| 2 | Light Then and Now — What Changed, What Stayed | D08.S1.02.02 |
+| 3 | A Day in Another Child's Life | D08.S2.02.01 |
+| 4 | A Knowledge and Skill People Developed | D08.S2.02.02 |
+| 5 | What People Need From Their Environment | D08.S3.02.01 |
+| 6 | Living in a Very Different Environment | D08.S3.02.02 |
+| 7 | Fair and Unfair Rules | D08.S4.02.01 |
+| 8 | Someone Who Helped and Spoke Up | D08.S4.02.02 |
+| 9 | Our Community Timeline — Then and Now | D08.S1.02.01, D08.S1.02.02 |
+| 10 | Our People, Places & Long Ago Story | D08.S1.02.01, D08.S1.02.02, D08.S2.02.01, D08.S2.02.02, D08.S3.02.01, D08.S3.02.02, D08.S4.02.01, D08.S4.02.02 |

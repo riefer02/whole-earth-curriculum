@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Someone who helped and spoke up</title>
+  <desc id="desc">Three panels tell a gentle, hopeful story. The first panel shows a hillside with a few tree stumps and a bare tree. The second panel shows a person kneeling to plant a small seedling while two others help, under a warm sun. The third panel shows the same hillside covered in tall green trees with birds flying. The labels — before, plant, and grow — and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and the story ends in growth and hope, not blame.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Someone Who Helped and Spoke Up</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Notice &#183; plant &#183; speak up &#183; grow hope</text>
+
+  <!-- panel 1: before -->
+  <rect x="26" y="96" width="146" height="230" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="99" y="122" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">before</text>
+  <path d="M40 286 Q99 240 158 286 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="40" y1="286" x2="158" y2="286" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="70" cy="284" rx="12" ry="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="128" cy="284" rx="12" ry="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="52" y1="256" x2="56" y2="232" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="58" y1="258" x2="66" y2="230" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <text x="99" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the trees were cut down</text>
+
+  <!-- panel 2: plant -->
+  <rect x="182" y="96" width="146" height="230" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="255" y="122" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">plant</text>
+  <circle cx="220" cy="146" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+    <line x1="220" y1="122" x2="220" y2="114"/>
+    <line x1="196" y1="130" x2="190" y2="126"/>
+    <line x1="244" y1="130" x2="250" y2="126"/>
+  </g>
+  <path d="M196 288 Q255 244 314 288 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <!-- person kneeling planting -->
+  <circle cx="250" cy="258" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M237 256 A13 13 0 0 1 263 256 Z" fill="#2b3a42"/>
+  <rect x="238" y="270" width="24" height="20" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- seedling -->
+  <line x1="250" y1="286" x2="250" y2="266" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+  <path d="M250 272 C244 268 244 262 250 258 C256 262 256 268 250 272 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.6"/>
+  <!-- two helpers -->
+  <circle cx="292" cy="252" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="212" cy="256" r="10" fill="#8d6e63" stroke="#2b3a42" stroke-width="2"/>
+  <text x="255" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">plant together, one tree then many</text>
+
+  <!-- panel 3: grow -->
+  <rect x="338" y="96" width="146" height="230" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="411" y="122" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">grow</text>
+  <path d="M352 288 Q411 238 470 288 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="382" cy="246" r="20"/>
+    <circle cx="416" cy="232" r="24"/>
+    <circle cx="448" cy="248" r="20"/>
+  </g>
+  <line x1="382" y1="266" x2="382" y2="286" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <line x1="448" y1="268" x2="448" y2="286" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <line x1="416" y1="256" x2="416" y2="286" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" fill="none">
+    <path d="M368 208 Q372 200 378 206 Q382 200 388 208"/>
+    <path d="M436 200 Q440 192 446 198 Q450 192 456 200"/>
+  </g>
+  <text x="411" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the trees grew, and so did hope</text>
+
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Anyone can help &#183; even with one seed, one kind word</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Planting and speaking up are ways to care for the land and its people</text>
+</svg>
