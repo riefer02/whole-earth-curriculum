@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Finding the missing number in a sharing story</title>
+  <desc id="desc">A sharing story shown in three parts: six seeds left, four seeds given away, and the missing starting number found to be ten, with the number sentence blank minus four equals six checked as ten minus four equals six.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Missing Number</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">"I had some seeds. I gave away 4. Now I have 6."</text>
+
+  <!-- Now: 6 seeds -->
+  <text x="80" y="116" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#7a9e7e">now: 6</text>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="46" cy="140" rx="14" ry="10"/>
+    <ellipse cx="84" cy="140" rx="14" ry="10"/>
+    <ellipse cx="122" cy="140" rx="14" ry="10"/>
+    <ellipse cx="46" cy="176" rx="14" ry="10"/>
+    <ellipse cx="84" cy="176" rx="14" ry="10"/>
+    <ellipse cx="122" cy="176" rx="14" ry="10"/>
+  </g>
+
+  <!-- Given away: 4 seeds -->
+  <text x="300" y="116" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#6b93b6">gave away: 4</text>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="266" cy="140" rx="14" ry="10"/>
+    <ellipse cx="304" cy="140" rx="14" ry="10"/>
+    <ellipse cx="342" cy="140" rx="14" ry="10"/>
+    <ellipse cx="380" cy="140" rx="14" ry="10"/>
+  </g>
+
+  <!-- Missing: ? -->
+  <text x="256" y="228" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#e0a458">started with: ?</text>
+
+  <!-- Sentence -->
+  <rect x="60" y="252" width="392" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">□ − 4 = 6</text>
+
+  <!-- Found answer -->
+  <rect x="60" y="340" width="392" height="64" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#e0a458">□ = 10</text>
+
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2b3a42">Check: 10 − 4 = 6 ✓</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">Put the 4 back: 6 + 4 = 10</text>
+</svg>

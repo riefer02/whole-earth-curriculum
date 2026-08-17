@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Picture graph and bar graph of the same data</title>
+  <desc id="desc">The same favorite-fruit data shown two ways. On the left, a picture graph with mango six, banana four, and apple three. On the right, a bar graph with the same counts, labeled most and fewest, with the question how many more chose mango than apple.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Same Data, Two Graphs</text>
+
+  <!-- Picture graph -->
+  <text x="120" y="76" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">Picture graph</text>
+  <g font-family="sans-serif" font-size="15" fill="#2b3a42">
+    <text x="24" y="104">mango</text>
+    <text x="24" y="168">banana</text>
+    <text x="24" y="232">apple</text>
+  </g>
+  <!-- mango 6 -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="96" cy="98" r="9"/><circle cx="118" cy="98" r="9"/><circle cx="140" cy="98" r="9"/>
+    <circle cx="162" cy="98" r="9"/><circle cx="184" cy="98" r="9"/><circle cx="206" cy="98" r="9"/>
+  </g>
+  <!-- banana 4 -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="96" cy="162" r="9"/><circle cx="118" cy="162" r="9"/><circle cx="140" cy="162" r="9"/><circle cx="162" cy="162" r="9"/>
+  </g>
+  <!-- apple 3 -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <circle cx="96" cy="226" r="9"/><circle cx="118" cy="226" r="9"/><circle cx="140" cy="226" r="9"/>
+  </g>
+
+  <!-- Bar graph -->
+  <text x="376" y="76" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">Bar graph</text>
+
+  <!-- axes -->
+  <line x1="270" y1="90" x2="270" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="270" y1="250" x2="470" y2="250" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- mango bar (6) -->
+  <rect x="292" y="142" width="40" height="108" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- banana bar (4) -->
+  <rect x="352" y="178" width="40" height="72" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- apple bar (3) -->
+  <rect x="412" y="196" width="40" height="54" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="312" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">mango</text>
+  <text x="372" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">banana</text>
+  <text x="432" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">apple</text>
+
+  <!-- most / fewest -->
+  <text x="312" y="132" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#c0504d">most</text>
+  <text x="432" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#c0504d">fewest</text>
+
+  <rect x="70" y="310" width="372" height="90" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">How many more chose mango than apple?</text>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#e0a458">6 − 3 = 3 more</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">One mark or bar for each answer — every voice counts once.</text>
+</svg>

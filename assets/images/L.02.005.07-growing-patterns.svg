@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A growing staircase pattern</title>
+  <desc id="desc">A staircase pattern of blocks growing by one each step, from one block to four blocks, with labels showing that each step adds one more block.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">A Growing Pattern</text>
+
+  <!-- Step 1 -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="60" y="240" width="56" height="56" rx="4"/>
+  </g>
+  <text x="88" y="324" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">1</text>
+
+  <!-- Step 2 -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="160" y="184" width="56" height="56" rx="4"/>
+    <rect x="160" y="240" width="56" height="56" rx="4"/>
+  </g>
+  <text x="188" y="324" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">2</text>
+
+  <!-- Step 3 -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="260" y="128" width="56" height="56" rx="4"/>
+    <rect x="260" y="184" width="56" height="56" rx="4"/>
+    <rect x="260" y="240" width="56" height="56" rx="4"/>
+  </g>
+  <text x="288" y="324" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">3</text>
+
+  <!-- Step 4 -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="360" y="72" width="56" height="56" rx="4"/>
+    <rect x="360" y="128" width="56" height="56" rx="4"/>
+    <rect x="360" y="184" width="56" height="56" rx="4"/>
+    <rect x="360" y="240" width="56" height="56" rx="4"/>
+  </g>
+  <text x="388" y="324" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">4</text>
+
+  <!-- arrows -->
+  <g stroke="#4f6d7a" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M122 268 L150 268"/>
+    <path d="M222 268 L250 268"/>
+    <path d="M322 268 L350 268"/>
+  </g>
+
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">Each step adds one more block.</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">It grows by 1 every time.</text>
+</svg>

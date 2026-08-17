@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Adding 34 and 25 by joining tens and ones</title>
+  <desc id="desc">Two groups joined: on the left, 34 shown as three bundles of ten and four ones; on the right, 25 shown as two bundles of ten and five ones. Below, the joined total of five tens and nine ones makes 59.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Joining Tens and Ones: 34 + 25</text>
+
+  <!-- 34 bundles -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="40" y="80" width="12" height="90" rx="3"/>
+    <rect x="56" y="80" width="12" height="90" rx="3"/>
+    <rect x="72" y="80" width="12" height="90" rx="3"/>
+    <rect x="88" y="80" width="12" height="90" rx="3"/>
+    <rect x="104" y="80" width="12" height="90" rx="3"/>
+    <rect x="45" y="100" width="66" height="11" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+    <rect x="136" y="80" width="12" height="90" rx="3"/>
+    <rect x="152" y="80" width="12" height="90" rx="3"/>
+    <rect x="168" y="80" width="12" height="90" rx="3"/>
+    <rect x="184" y="80" width="12" height="90" rx="3"/>
+    <rect x="200" y="80" width="12" height="90" rx="3"/>
+    <rect x="141" y="100" width="66" height="11" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+    <rect x="232" y="80" width="12" height="90" rx="3"/>
+    <rect x="248" y="80" width="12" height="90" rx="3"/>
+    <rect x="264" y="80" width="12" height="90" rx="3"/>
+    <rect x="280" y="80" width="12" height="90" rx="3"/>
+    <rect x="296" y="80" width="12" height="90" rx="3"/>
+    <rect x="237" y="100" width="66" height="11" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  </g>
+
+  <!-- 34 ones -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="40" y="196" width="12" height="60" rx="3"/>
+    <rect x="66" y="196" width="12" height="60" rx="3"/>
+    <rect x="92" y="196" width="12" height="60" rx="3"/>
+    <rect x="118" y="196" width="12" height="60" rx="3"/>
+  </g>
+
+  <text x="86" y="186" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">34</text>
+
+  <!-- plus sign -->
+  <text x="330" y="150" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#4f6d7a">+</text>
+
+  <!-- 25 bundles -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <rect x="356" y="80" width="12" height="90" rx="3"/>
+    <rect x="372" y="80" width="12" height="90" rx="3"/>
+    <rect x="388" y="80" width="12" height="90" rx="3"/>
+    <rect x="404" y="80" width="12" height="90" rx="3"/>
+    <rect x="420" y="80" width="12" height="90" rx="3"/>
+    <rect x="361" y="100" width="66" height="11" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+    <rect x="452" y="80" width="12" height="90" rx="3"/>
+    <rect x="468" y="80" width="12" height="90" rx="3"/>
+    <rect x="484" y="80" width="12" height="90" rx="3"/>
+    <rect x="500" y="80" width="12" height="90" rx="3"/>
+    <rect x="357" y="100" width="130" height="11" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  </g>
+
+  <!-- 25 ones -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <rect x="356" y="196" width="12" height="60" rx="3"/>
+    <rect x="382" y="196" width="12" height="60" rx="3"/>
+    <rect x="408" y="196" width="12" height="60" rx="3"/>
+    <rect x="434" y="196" width="12" height="60" rx="3"/>
+    <rect x="460" y="196" width="12" height="60" rx="3"/>
+  </g>
+
+  <text x="422" y="186" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">25</text>
+
+  <!-- equals and answer -->
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">3 tens + 2 tens = 5 tens</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">4 ones + 5 ones = 9 ones</text>
+
+  <rect x="160" y="400" width="192" height="70" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#e0a458">= 59</text>
+</svg>

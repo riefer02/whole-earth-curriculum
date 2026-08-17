@@ -60,3 +60,19 @@ sense-making with real things, drawn from many traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Tens and Ones | D05.S1.02.01 |
+| 02 | Reading and Writing Two-Digit Numbers | D05.S1.02.01 |
+| 03 | Comparing and Ordering Two-Digit Numbers | D05.S1.02.01 |
+| 04 | Adding Tens and Ones Within 100 | D05.S1.02.02 |
+| 05 | Subtracting Within 100 | D05.S1.02.02 |
+| 06 | Many Ways to Add and Subtract | D05.S1.02.02 |
+| 07 | Growing Patterns | D05.S2.02.01 |
+| 08 | Extending and Describing Growing Patterns | D05.S2.02.01 |
+| 09 | Finding the Missing Number | D05.S2.02.02 |
+| 10 | Shapes by Their Attributes | D05.S3.02.01 |
+| 11 | Drawing Shapes With Given Attributes | D05.S3.02.01 |
+| 12 | Sharing Into Halves, Thirds, and Fourths | D05.S3.02.02 |
+| 13 | Measuring With Standard Units | D05.S4.02.01 |
+| 14 | Choosing the Right Tool to Measure | D05.S4.02.01 |
+| 15 | Picture Graphs and Bar Graphs | D05.S4.02.02 |
+| 16 | Our Data Fair | D05.S4.02.02, D05.S1.02.02 |

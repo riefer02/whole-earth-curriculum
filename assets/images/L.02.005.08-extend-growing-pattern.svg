@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Extending a growing dot pattern</title>
+  <desc id="desc">A growing pattern of dots in four rows of two, four, six, and eight dots, with the next row of ten dots shown as the extension, and the rule that it grows by two each time.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Extend the Pattern</text>
+
+  <!-- Row 1: 2 dots -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="110" cy="96" r="14"/>
+    <circle cx="150" cy="96" r="14"/>
+  </g>
+  <text x="48" y="104" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">2</text>
+
+  <!-- Row 2: 4 dots -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="110" cy="148" r="14"/>
+    <circle cx="150" cy="148" r="14"/>
+    <circle cx="190" cy="148" r="14"/>
+    <circle cx="230" cy="148" r="14"/>
+  </g>
+  <text x="48" y="156" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">4</text>
+
+  <!-- Row 3: 6 dots -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <circle cx="110" cy="200" r="14"/>
+    <circle cx="150" cy="200" r="14"/>
+    <circle cx="190" cy="200" r="14"/>
+    <circle cx="230" cy="200" r="14"/>
+    <circle cx="270" cy="200" r="14"/>
+    <circle cx="310" cy="200" r="14"/>
+  </g>
+  <text x="48" y="208" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">6</text>
+
+  <!-- Row 4: 8 dots -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="110" cy="252" r="14"/>
+    <circle cx="150" cy="252" r="14"/>
+    <circle cx="190" cy="252" r="14"/>
+    <circle cx="230" cy="252" r="14"/>
+    <circle cx="270" cy="252" r="14"/>
+    <circle cx="310" cy="252" r="14"/>
+    <circle cx="350" cy="252" r="14"/>
+    <circle cx="390" cy="252" r="14"/>
+  </g>
+  <text x="48" y="260" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">8</text>
+
+  <!-- Row 5: next step, 10 dots -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 4">
+    <circle cx="110" cy="304" r="14"/>
+    <circle cx="150" cy="304" r="14"/>
+    <circle cx="190" cy="304" r="14"/>
+    <circle cx="230" cy="304" r="14"/>
+    <circle cx="270" cy="304" r="14"/>
+    <circle cx="310" cy="304" r="14"/>
+    <circle cx="350" cy="304" r="14"/>
+    <circle cx="390" cy="304" r="14"/>
+    <circle cx="430" cy="304" r="14"/>
+    <circle cx="470" cy="304" r="14"/>
+  </g>
+  <text x="48" y="312" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">10</text>
+  <text x="430" y="340" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">next</text>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#e0a458">Rule: grow by 2 each step</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2b3a42">What comes after 10?</text>
+</svg>

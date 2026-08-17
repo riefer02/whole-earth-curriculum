@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Subtracting 34 from 57</title>
+  <desc id="desc">The number 57 shown as five bundles of ten and seven ones. Three tens and four ones are crossed out as taken away, leaving two tens and three ones, or 23.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Taking Away Tens and Ones: 57 − 34</text>
+
+  <!-- Five tens -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="40" y="80" width="13" height="110" rx="3"/>
+    <rect x="57" y="80" width="13" height="110" rx="3"/>
+    <rect x="74" y="80" width="13" height="110" rx="3"/>
+    <rect x="91" y="80" width="13" height="110" rx="3"/>
+    <rect x="108" y="80" width="13" height="110" rx="3"/>
+    <rect x="45" y="104" width="70" height="12" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+    <rect x="138" y="80" width="13" height="110" rx="3"/>
+    <rect x="155" y="80" width="13" height="110" rx="3"/>
+    <rect x="172" y="80" width="13" height="110" rx="3"/>
+    <rect x="189" y="80" width="13" height="110" rx="3"/>
+    <rect x="206" y="80" width="13" height="110" rx="3"/>
+    <rect x="143" y="104" width="70" height="12" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+    <rect x="236" y="80" width="13" height="110" rx="3"/>
+    <rect x="253" y="80" width="13" height="110" rx="3"/>
+    <rect x="270" y="80" width="13" height="110" rx="3"/>
+    <rect x="287" y="80" width="13" height="110" rx="3"/>
+    <rect x="304" y="80" width="13" height="110" rx="3"/>
+    <rect x="241" y="104" width="70" height="12" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+    <rect x="334" y="80" width="13" height="110" rx="3"/>
+    <rect x="351" y="80" width="13" height="110" rx="3"/>
+    <rect x="368" y="80" width="13" height="110" rx="3"/>
+    <rect x="385" y="80" width="13" height="110" rx="3"/>
+    <rect x="402" y="80" width="13" height="110" rx="3"/>
+    <rect x="339" y="104" width="70" height="12" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+    <rect x="432" y="80" width="13" height="110" rx="3"/>
+    <rect x="449" y="80" width="13" height="110" rx="3"/>
+    <rect x="466" y="80" width="13" height="110" rx="3"/>
+    <rect x="483" y="80" width="13" height="110" rx="3"/>
+    <rect x="500" y="80" width="13" height="110" rx="3"/>
+    <rect x="437" y="104" width="70" height="12" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  </g>
+
+  <!-- Cross out 3 tens (taken away) -->
+  <g stroke="#c0504d" stroke-width="5" stroke-linecap="round">
+    <line x1="36" y1="76" x2="118" y2="194"/>
+    <line x1="118" y1="76" x2="36" y2="194"/>
+    <line x1="134" y1="76" x2="216" y2="194"/>
+    <line x1="216" y1="76" x2="134" y2="194"/>
+    <line x1="232" y1="76" x2="314" y2="194"/>
+    <line x1="314" y1="76" x2="232" y2="194"/>
+  </g>
+  <text x="70" y="228" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#c0504d">take away 3 tens</text>
+
+  <!-- Seven ones -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <rect x="40" y="270" width="14" height="70" rx="4"/>
+    <rect x="66" y="270" width="14" height="70" rx="4"/>
+    <rect x="92" y="270" width="14" height="70" rx="4"/>
+    <rect x="118" y="270" width="14" height="70" rx="4"/>
+    <rect x="144" y="270" width="14" height="70" rx="4"/>
+    <rect x="170" y="270" width="14" height="70" rx="4"/>
+    <rect x="196" y="270" width="14" height="70" rx="4"/>
+  </g>
+
+  <!-- Cross out 4 ones -->
+  <g stroke="#c0504d" stroke-width="5" stroke-linecap="round">
+    <line x1="36" y1="266" x2="58" y2="344"/>
+    <line x1="58" y1="266" x2="36" y2="344"/>
+    <line x1="62" y1="266" x2="84" y2="344"/>
+    <line x1="84" y1="266" x2="62" y2="344"/>
+    <line x1="88" y1="266" x2="110" y2="344"/>
+    <line x1="110" y1="266" x2="88" y2="344"/>
+    <line x1="114" y1="266" x2="136" y2="344"/>
+    <line x1="136" y1="266" x2="114" y2="344"/>
+  </g>
+  <text x="70" y="366" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#c0504d">take away 4 ones</text>
+
+  <!-- Answer -->
+  <text x="350" y="320" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">5 tens − 3 tens = 2 tens</text>
+  <text x="350" y="356" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">7 ones − 4 ones = 3 ones</text>
+
+  <rect x="300" y="390" width="180" height="70" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="390" y="436" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#e0a458">= 23</text>
+</svg>

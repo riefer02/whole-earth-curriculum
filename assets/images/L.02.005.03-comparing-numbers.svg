@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Comparing 42 and 37</title>
+  <desc id="desc">The number 42 built from four bundles of ten and two ones on the left, and 37 built from three bundles of ten and seven ones on the right. A greater-than sign between them shows 42 is greater than 37 because four tens is more than three tens.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Look at the Tens First</text>
+
+  <!-- 42 bundles (four tens) -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="40" y="80" width="14" height="120" rx="3"/>
+    <rect x="58" y="80" width="14" height="120" rx="3"/>
+    <rect x="76" y="80" width="14" height="120" rx="3"/>
+    <rect x="94" y="80" width="14" height="120" rx="3"/>
+    <rect x="112" y="80" width="14" height="120" rx="3"/>
+    <rect x="46" y="106" width="74" height="13" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+
+    <rect x="140" y="80" width="14" height="120" rx="3"/>
+    <rect x="158" y="80" width="14" height="120" rx="3"/>
+    <rect x="176" y="80" width="14" height="120" rx="3"/>
+    <rect x="194" y="80" width="14" height="120" rx="3"/>
+    <rect x="212" y="80" width="14" height="120" rx="3"/>
+    <rect x="146" y="106" width="74" height="13" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+
+    <rect x="40" y="216" width="14" height="120" rx="3"/>
+    <rect x="58" y="216" width="14" height="120" rx="3"/>
+    <rect x="76" y="216" width="14" height="120" rx="3"/>
+    <rect x="94" y="216" width="14" height="120" rx="3"/>
+    <rect x="112" y="216" width="14" height="120" rx="3"/>
+    <rect x="46" y="242" width="74" height="13" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+
+    <rect x="140" y="216" width="14" height="120" rx="3"/>
+    <rect x="158" y="216" width="14" height="120" rx="3"/>
+    <rect x="176" y="216" width="14" height="120" rx="3"/>
+    <rect x="194" y="216" width="14" height="120" rx="3"/>
+    <rect x="212" y="216" width="14" height="120" rx="3"/>
+    <rect x="146" y="242" width="74" height="13" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+  </g>
+
+  <!-- 42 ones (two) -->
+  <rect x="40" y="360" width="16" height="70" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="80" y="360" width="16" height="70" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="140" y="340" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">42</text>
+
+  <!-- Greater-than sign -->
+  <path d="M250 200 L292 260 L250 320" fill="none" stroke="#2b3a42" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 37 bundles (three tens) -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <rect x="340" y="80" width="14" height="120" rx="3"/>
+    <rect x="358" y="80" width="14" height="120" rx="3"/>
+    <rect x="376" y="80" width="14" height="120" rx="3"/>
+    <rect x="394" y="80" width="14" height="120" rx="3"/>
+    <rect x="412" y="80" width="14" height="120" rx="3"/>
+    <rect x="346" y="106" width="74" height="13" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+
+    <rect x="340" y="216" width="14" height="120" rx="3"/>
+    <rect x="358" y="216" width="14" height="120" rx="3"/>
+    <rect x="376" y="216" width="14" height="120" rx="3"/>
+    <rect x="394" y="216" width="14" height="120" rx="3"/>
+    <rect x="412" y="216" width="14" height="120" rx="3"/>
+    <rect x="346" y="242" width="74" height="13" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+
+    <rect x="340" y="352" width="14" height="120" rx="3"/>
+    <rect x="358" y="352" width="14" height="120" rx="3"/>
+    <rect x="376" y="352" width="14" height="120" rx="3"/>
+    <rect x="394" y="352" width="14" height="120" rx="3"/>
+    <rect x="412" y="352" width="14" height="120" rx="3"/>
+    <rect x="346" y="378" width="74" height="13" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+  </g>
+
+  <!-- 37 ones (seven) -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <rect x="340" y="360" width="16" height="70" rx="4"/>
+    <rect x="362" y="360" width="16" height="70" rx="4"/>
+    <rect x="384" y="360" width="16" height="70" rx="4"/>
+    <rect x="406" y="360" width="16" height="70" rx="4"/>
+    <rect x="428" y="360" width="16" height="70" rx="4"/>
+    <rect x="450" y="360" width="16" height="70" rx="4"/>
+    <rect x="472" y="360" width="16" height="70" rx="4"/>
+  </g>
+
+  <text x="428" y="340" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">37</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#e0a458">42 &gt; 37 because 4 tens &gt; 3 tens</text>
+</svg>

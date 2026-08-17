@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading and writing 47 three ways</title>
+  <desc id="desc">The number 47 shown as four bundles of ten sticks and seven single sticks, with three matching labels: four tens and seven ones, expanded form 40 plus 7, and the number name forty-seven.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">One Number, Three Ways</text>
+
+  <!-- Four bundles -->
+  <g>
+    <rect x="40" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="56" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="72" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="88" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="104" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="46" y="104" width="64" height="12" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+
+    <rect x="136" y="80" width="12" height="110" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="152" y="80" width="12" height="110" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="168" y="80" width="12" height="110" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="184" y="80" width="12" height="110" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="200" y="80" width="12" height="110" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="142" y="104" width="64" height="12" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+
+    <rect x="232" y="80" width="12" height="110" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="248" y="80" width="12" height="110" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="264" y="80" width="12" height="110" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="280" y="80" width="12" height="110" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="296" y="80" width="12" height="110" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="238" y="104" width="64" height="12" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+
+    <rect x="328" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="344" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="360" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="376" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="392" y="80" width="12" height="110" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="334" y="104" width="64" height="12" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+  </g>
+
+  <!-- Seven ones -->
+  <g>
+    <rect x="60" y="220" width="14" height="60" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="96" y="220" width="14" height="60" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="132" y="220" width="14" height="60" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="168" y="220" width="14" height="60" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="204" y="220" width="14" height="60" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="240" y="220" width="14" height="60" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="276" y="220" width="14" height="60" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Three labels -->
+  <rect x="40" y="310" width="432" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">four tens and seven ones</text>
+
+  <rect x="40" y="372" width="432" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#4f6d7a">40 + 7</text>
+
+  <rect x="40" y="434" width="432" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#e0a458">forty-seven = 47</text>
+</svg>

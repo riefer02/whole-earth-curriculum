@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three ways to solve 46 plus 23</title>
+  <desc id="desc">Three panels showing different strategies for 46 plus 23. Panel one models with bundles and ones. Panel two shows a number line jumping 20 then 3 from 46 to 69. Panel three breaks the numbers apart into tens and ones. All three reach 69.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">46 + 23 — Three Roads to 69</text>
+
+  <!-- Panel 1: model -->
+  <rect x="16" y="60" width="152" height="200" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="86" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">1. Model</text>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="26" y="100" width="10" height="70" rx="3"/>
+    <rect x="40" y="100" width="10" height="70" rx="3"/>
+    <rect x="54" y="100" width="10" height="70" rx="3"/>
+    <rect x="68" y="100" width="10" height="70" rx="3"/>
+    <rect x="82" y="100" width="10" height="70" rx="3"/>
+    <rect x="96" y="100" width="10" height="70" rx="3"/>
+    <rect x="110" y="100" width="10" height="70" rx="3"/>
+    <rect x="124" y="100" width="10" height="70" rx="3"/>
+    <rect x="138" y="100" width="10" height="70" rx="3"/>
+  </g>
+  <text x="92" y="196" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">4 tens + 2 tens = 6 tens</text>
+  <text x="92" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">6 + 3 = 9 ones</text>
+  <text x="92" y="240" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#e0a458">= 69</text>
+
+  <!-- Panel 2: number line -->
+  <rect x="180" y="60" width="152" height="200" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="86" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">2. Number line</text>
+  <line x1="190" y1="140" x2="322" y2="140" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="190" y1="134" x2="190" y2="146"/>
+    <line x1="256" y1="134" x2="256" y2="146"/>
+    <line x1="322" y1="134" x2="322" y2="146"/>
+  </g>
+  <text x="190" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">46</text>
+  <text x="256" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">66</text>
+  <text x="322" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">69</text>
+  <path d="M190 126 Q223 108 256 126" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="223" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e">+20</text>
+  <path d="M256 126 Q289 108 322 126" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="289" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6">+3</text>
+  <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">start 46, jump 20,</text>
+  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">then 3 more</text>
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#e0a458">= 69</text>
+
+  <!-- Panel 3: break apart -->
+  <rect x="344" y="60" width="152" height="200" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="86" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">3. Break apart</text>
+  <text x="420" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">40 + 20 = 60</text>
+  <text x="420" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">6 + 3 = 9</text>
+  <text x="420" y="166" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">60 + 9 = 69</text>
+  <text x="420" y="210" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">tens with tens,</text>
+  <text x="420" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">ones with ones</text>
+
+  <rect x="90" y="290" width="332" height="70" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#e0a458">All three roads reach 69</text>
+
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">Every honest road is a good road.</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">Can you explain yours?</text>
+</svg>

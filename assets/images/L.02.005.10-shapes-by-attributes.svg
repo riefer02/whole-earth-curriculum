@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Shapes named by their attributes</title>
+  <desc id="desc">Five shapes in a row — triangle, square, rectangle, pentagon, and hexagon — each labeled with its name and its number of sides and angles.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Shapes and Their Attributes</text>
+
+  <!-- Triangle -->
+  <polygon points="86,120 56,192 116,192" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="86" y="224" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">triangle</text>
+  <text x="86" y="246" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">3 sides, 3 angles</text>
+
+  <!-- Square -->
+  <rect x="160" y="120" width="72" height="72" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <text x="196" y="224" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">square</text>
+  <text x="196" y="246" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">4 equal sides</text>
+
+  <!-- Rectangle -->
+  <rect x="270" y="128" width="96" height="56" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <text x="318" y="224" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">rectangle</text>
+  <text x="318" y="246" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">4 sides, 4 angles</text>
+
+  <!-- Pentagon -->
+  <polygon points="432,130 452,162 442,196 422,196 412,162" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="432" y="224" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">pentagon</text>
+  <text x="432" y="246" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">5 sides, 5 angles</text>
+
+  <!-- Hexagon -->
+  <polygon points="86,320 116,302 146,320 146,352 116,370 86,352" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <text x="116" y="398" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">hexagon</text>
+  <text x="116" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">6 sides, 6 angles</text>
+
+  <!-- Hexagon (real life hint) -->
+  <polygon points="270,320 300,302 330,320 330,352 300,370 270,352" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="300" y="398" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">bees build these</text>
+
+  <rect x="352" y="300" width="130" height="120" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="417" y="330" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">The name comes</text>
+  <text x="417" y="352" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">from the sides</text>
+  <text x="417" y="374" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">and angles —</text>
+  <text x="417" y="396" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">not the color</text>
+  <text x="417" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">or size.</text>
+</svg>

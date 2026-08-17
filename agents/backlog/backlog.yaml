@@ -2214,7 +2214,7 @@ items:
     type: lesson
     grade: 2
     domain: D05
-    status: ready
+    status: done
     priority: 54
     depends_on:
       - B-064
@@ -2226,6 +2226,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passes (497 files). IDs L.02.005.01-.16 sequential, sequence_in_unit 1-16, unit U.02.005, grade 2; all 16 carry Procedure/Assessment/Connection; objectives resolve to real Grade-2 D05 standards only (S1.02.01/.02, S2.02.01/.02, S3.02.01/.02, S4.02.01/.02) — no invented IDs. unit.md Lessons table lists all 16. Math correct (L4 34+25=59; L12 folds equal halves/thirds/fourths with fairness Connection); factual claims sourced (Carpenter CGI, Clements & Sarama, NRC 2009).
+      fact-checker:
+        verdict: passed
+        note: Math correctness verified every worked example (L1 34=3 tens+4 ones; L2 47=40+7; L3 42>37; L4 34+25=59; L5 57-34=23; L6 46+23=69; L7-8 growing patterns +1/+2; L9 □-4=6→10; L12 more parts=smaller shares; L13 100cm=1m, 12in=1ft; graphs 'how many more/less'). Sources real+on-topic already reviewed:true (Clements & Sarama S-020, Carpenter CGI S-025, Van de Walle S-026, NRC S-027). Fixed mislabeled alt in L9 (said 9, actual 10). validate passes (497 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Contexts span farming (egg trays/mangoes/corn rows), fishing (bundling fish), weaving/geometry (kente cloth, Islamic star patterns, honeycomb), markets, tailoring, gardening, celebrations; no US-specific currency/coin/proper-name defaults. Metric-first (cm/m) with inches framed 'one more shared unit some places use'. Anti-gatekeeping consistent ('no one's speed measures smartness', no 'math person', 'never rank strategies', 'more is a fact not a worth'). Fix: L1 Connection revised to name other counting traditions (fives/twenties/tally/knots) instead of over-generalizing 'people group into tens'. validate passes (497 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech+enriched on all 16; alt on all 16 assets (SVGs role=img/title/desc, distinguish by text labels + symbol shapes not color). Non-visual counting: tactile routes (bundles into cups, raised ruler marks, tactile object-graphs L15/16) for blind/low-vision. Motor/scribe: 'partner moves objects while learner directs' + large objects in all 16. Non-speaking: pointing/signing/gesturing valid. Wealth: pebbles/seeds/beans/sticks/cloth/paper/slate with dirt/body fallbacks. validate passes (497 files). No barriers."
+      alignment-auditor:
+        verdict: passed
+        note: "Ethics (fractions via fair sharing 'fair is the way we live together'; 'greater than' as tool for fairness not contest), egalitarianism ('no math person', 'no one's speed measures smartness', 'never rank strategies or learners', 'success is collective not ranked'; every lesson has Deaf/HoH/blind/motor/non-speaking adaptations), global (base-five/twenty/tally/quipu; cross-linguistic number-word order; Islamic star patterns + kente cloth; flatbread/tortilla; standard units as cross-cultural agreement), tech/env light but age-appropriate. Evidence vs values (Clements & Sarama, Carpenter CGI, Van de Walle, NRC 2009). Traceability: D05.S1.02.x-S4.02.x → D05.S1-S4 → D05 → P3 → vision. validate passes (497 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: concrete-before-abstract throughout (bundling tens 'objects first symbols last', expanded form/break-apart derived from models not standalone algorithms, regrouping deliberately deferred; L9 missing-number scaffolded with acting-out/checking). Emotional safety: anti-speed/anti-ranking/anti-'math-person' language every lesson ('a slower strategy a learner understands is better'; 'more is not better just more'; 'no one's speed measures smartness'; 'no ranking ever'); highest-risk comparing/graphing reframed as fairness tool, capstone 'collective not ranked'; no timed tasks. Physical fit: manipulatives + motor-support (large objects/partner-traced/geoboards) + body movement (fists-for-tens, living bar graphs). Not dumbed down (unitizing, tens-first rule, equal partitions). Open-ended ('many strategies are right', learners author own patterns/stories/graphs). validate passes (497 files)."
   - id: B-205
     title: Author lessons for Unit U.02.006 (Wondering and Testing the Living World)
     agent: lesson-author
