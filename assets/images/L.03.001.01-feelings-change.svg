@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A feeling path: nervous changes to excited changes to proud</title>
+  <desc id="desc">A winding path drawn left to right with three stops. Stop 1 shows a nervous face with wavy eyebrows, labeled "nervous." Stop 2 shows an excited face with a big smile, labeled "excited." Stop 3 shows a proud face with a soft smile and a small sparkle, labeled "proud." An arrow along the path shows the feeling changing over time. Words and face shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">A Feeling Can Change</text>
+
+  <!-- Winding path -->
+  <path d="M30 300 Q 120 340 200 300 Q 280 260 320 240 Q 380 210 470 150" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M430 130 L470 150 L430 172" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Stop 1: nervous -->
+  <g>
+    <circle cx="70" cy="308" r="34" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M56 300 Q61 296 66 300" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M76 300 Q81 296 86 300" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="61" cy="308" r="3" fill="#2b3a42"/>
+    <circle cx="81" cy="308" r="3" fill="#2b3a42"/>
+    <path d="M60 322 Q70 314 80 322" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="70" y="368" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">nervous</text>
+  </g>
+
+  <!-- Stop 2: excited -->
+  <g>
+    <circle cx="200" cy="300" r="34" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="188" cy="298" r="3" fill="#2b3a42"/>
+    <circle cx="212" cy="298" r="3" fill="#2b3a42"/>
+    <path d="M184 292 Q189 288 194 292" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M206 292 Q211 288 216 292" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M186 310 Q200 324 214 310" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="200" y="368" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">excited</text>
+  </g>
+
+  <!-- Stop 3: proud -->
+  <g>
+    <circle cx="350" cy="228" r="34" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="338" cy="226" r="3" fill="#2b3a42"/>
+    <circle cx="362" cy="226" r="3" fill="#2b3a42"/>
+    <path d="M334 220 Q339 216 344 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M356 220 Q361 216 366 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M336 240 Q350 250 364 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="350" y="296" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">proud</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">First I felt one way, then it changed.</text>
+</svg>

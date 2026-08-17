@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Quiet signals for a strong feeling in a group</title>
+  <desc id="desc">Three cards in a row, each showing a quiet signal to use when a strong feeling rises in a group. Card 1 shows a hand on the chest labeled "I need a calm breath." Card 2 shows two fingers raised labeled "I need a turn." Card 3 shows a small figure stepping to the side labeled "I need some space." A note at the bottom says these are helpful tools, never a punishment. Words and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Quiet Signals for a Group</text>
+
+  <!-- Card 1: hand on chest -->
+  <g>
+    <rect x="14" y="84" width="148" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="88" cy="160" r="28" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M88 188 L88 224" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M88 224 L66 246" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M88 224 L110 246" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M68 200 Q58 214 68 228" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="84" cy="236" rx="10" ry="7" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="88" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I need a</text>
+    <text x="88" y="320" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">calm breath</text>
+  </g>
+
+  <!-- Card 2: two fingers raised -->
+  <g>
+    <rect x="182" y="84" width="148" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="256" cy="160" r="28" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 188 L256 224" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M256 224 L234 246" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M256 224 L278 246" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M236 200 Q226 214 236 228" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#2b3a42">
+      <rect x="250" y="180" width="7" height="42" rx="3.5"/>
+      <rect x="262" y="180" width="7" height="42" rx="3.5"/>
+    </g>
+    <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I need</text>
+    <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a turn</text>
+  </g>
+
+  <!-- Card 3: step to the side -->
+  <g>
+    <rect x="350" y="84" width="148" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="424" cy="170" r="26" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M424 196 L424 234" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M424 234 L404 254" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M424 234 L444 254" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M414 244 L394 244" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M434 244 L454 244" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M448 150 L464 138" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M466 136 L464 144" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="424" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I need</text>
+    <text x="424" y="320" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">some space</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A quiet signal is help, never a punishment.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">It keeps the group going and me too.</text>
+</svg>

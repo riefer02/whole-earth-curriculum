@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The people and places in my story</title>
+  <desc id="desc">A straight timeline with three stops, each holding two empty boxes. Above each stop is a box labeled "who was there" with a small person shape, and below is a box labeled "where I was" with a small house shape. The boxes are blank so a learner can draw or write their important people and places in the right order. Words and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">People and Places in My Story</text>
+
+  <!-- Timeline -->
+  <line x1="40" y1="330" x2="472" y2="330" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M452 322 L472 330 L452 338" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Three stops -->
+  <g>
+    <!-- Stop 1 -->
+    <line x1="90" y1="330" x2="90" y2="340" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <rect x="34" y="92" width="112" height="110" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="62" cy="122" r="7" fill="#2b3a42"/>
+    <path d="M90 122 L90 152" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="90" y="82" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">who was there</text>
+
+    <rect x="34" y="352" width="112" height="110" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <rect x="66" y="382" width="48" height="40" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M90 422 L64 440 M90 422 L116 440" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="90" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">where I was</text>
+
+    <!-- Stop 2 -->
+    <line x1="256" y1="330" x2="256" y2="340" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <rect x="200" y="92" width="112" height="110" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="228" cy="122" r="7" fill="#2b3a42"/>
+    <path d="M256 122 L256 152" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="256" y="82" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">who was there</text>
+
+    <rect x="200" y="352" width="112" height="110" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <rect x="232" y="382" width="48" height="40" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 422 L230 440 M256 422 L282 440" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">where I was</text>
+
+    <!-- Stop 3 -->
+    <line x1="422" y1="330" x2="422" y2="340" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <rect x="366" y="92" width="112" height="110" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="394" cy="122" r="7" fill="#2b3a42"/>
+    <path d="M422 122 L422 152" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="422" y="82" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">who was there</text>
+
+    <rect x="366" y="352" width="112" height="110" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <rect x="398" y="382" width="48" height="40" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M422 422 L396 440 M422 422 L448 440" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="422" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">where I was</text>
+  </g>
+</svg>

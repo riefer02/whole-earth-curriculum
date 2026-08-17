@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The groups I belong to</title>
+  <desc id="desc">A web diagram with a simple figure in the center labeled "me," and six empty circles around it connected by lines, ready to be filled in with the groups a learner belongs to. Small labels around the edge suggest ideas: family, class, community, a club or team, a faith or culture, a language. The circles are blank so the learner writes or draws their own. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Groups I Belong To</text>
+
+  <!-- Spokes -->
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round">
+    <line x1="256" y1="230" x2="110" y2="130"/>
+    <line x1="256" y1="230" x2="402" y2="130"/>
+    <line x1="256" y1="230" x2="90" y2="330"/>
+    <line x1="256" y1="230" x2="422" y2="330"/>
+    <line x1="256" y1="230" x2="150" y2="440"/>
+    <line x1="256" y1="230" x2="362" y2="440"/>
+  </g>
+
+  <!-- Empty group circles -->
+  <g fill="#ffffff" stroke="#2b3a42" stroke-width="2">
+    <circle cx="110" cy="130" r="44"/>
+    <circle cx="402" cy="130" r="44"/>
+    <circle cx="90" cy="330" r="44"/>
+    <circle cx="422" cy="330" r="44"/>
+    <circle cx="150" cy="440" r="44"/>
+    <circle cx="362" cy="440" r="44"/>
+  </g>
+
+  <!-- Center figure -->
+  <circle cx="256" cy="214" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="247" cy="208" r="2.6" fill="#2b3a42"/>
+  <circle cx="265" cy="208" r="2.6" fill="#2b3a42"/>
+  <path d="M246 220 Q256 230 266 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 244 L256 272" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M256 272 L236 292" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M256 272 L276 292" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">me</text>
+
+  <!-- Idea labels -->
+  <g fill="#4f6d7a" font-family="sans-serif" font-size="13" text-anchor="middle">
+    <text x="110" y="60">family</text>
+    <text x="402" y="60">class</text>
+    <text x="52" y="390">community</text>
+    <text x="460" y="390">a club or team</text>
+    <text x="150" y="500">a faith or culture</text>
+    <text x="362" y="500">a language</text>
+  </g>
+</svg>

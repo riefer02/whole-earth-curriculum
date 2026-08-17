@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Mixed feelings: happy and sad at the same time</title>
+  <desc id="desc">Two overlapping circles side by side. The left circle is labeled "happy" and holds a smiling face; the right circle is labeled "sad" and holds a frowning face with a tear. Where the circles overlap in the middle is a shaded space labeled "happy AND sad" with a small caption "both are true at once." Words and face shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Two Feelings at Once</text>
+
+  <!-- Left circle: happy -->
+  <circle cx="150" cy="250" r="120" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" fill-opacity="0.22"/>
+  <circle cx="150" cy="210" r="30" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="141" cy="204" r="2.6" fill="#2b3a42"/>
+  <circle cx="159" cy="204" r="2.6" fill="#2b3a42"/>
+  <path d="M132 198 Q137 194 142 198" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M158 198 Q163 194 168 198" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M138 218 Q150 230 162 218" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="150" y="410" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">happy</text>
+
+  <!-- Right circle: sad -->
+  <circle cx="362" cy="250" r="120" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" fill-opacity="0.22"/>
+  <circle cx="362" cy="210" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="353" cy="204" r="2.6" fill="#2b3a42"/>
+  <circle cx="371" cy="204" r="2.6" fill="#2b3a42"/>
+  <path d="M349 200 L355 204" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M369 204 L375 200" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M350 220 Q362 212 374 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="353" cy="210" rx="2.2" ry="3.4" fill="#6b93b6"/>
+  <text x="362" y="410" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">sad</text>
+
+  <!-- Overlap label -->
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">happy</text>
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">AND sad</text>
+
+  <!-- Bottom note -->
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Both are true at once.</text>
+</svg>

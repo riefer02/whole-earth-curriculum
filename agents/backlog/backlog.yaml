@@ -2510,7 +2510,7 @@ items:
     type: lesson
     grade: 3
     domain: D01
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2522,6 +2522,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (572 files). IDs L.03.001.01-.10 sequential, sequence_in_unit 1-10, unit U.03.001, grade 3, domain D01; all 10 carry Procedure/Assessment/Connection. Objectives resolve to real Grade-3 D01 standards only (L4 D01.S1.03.02; L10 D01.S3.03.02 + D01.S1.03.01) — no invented IDs. unit.md Lessons table lists all 10 (capstone noted). Example: L4 Connection 'Rain falls → disappointed/relieved/delighted' concrete+faithful to perspective-taking. CASEL cited. validate passes."
+      fact-checker:
+        verdict: passed
+        note: "Only citation CASEL Fundamentals of SEL (S-001, live, on-topic; five-competency labels accurate: self-awareness L1-3/5-6, social awareness L4, both L7-8, self-management L9, self-management+responsible decision L10). Values/skills unit, no scientific claims; evidence vs values distinguished (L4 'imagining why' vs fact; 'feelings temporary' hedged). No fabricated citations. validate passes (572 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Global not Western-default: examples span fishing village waiting out storm (L1), harvest festival (L3), rain = relieved farmers/disappointed players/delighted wheelchair child (L4), city apartment + grandmother's far village (L7), flat bread on fire (L8). Family/group shapes honored (L6 'two mothers, an aunt, a guardian, or no one'; L7-8 online/distant groups; 'a game' equal gift to 'a sacred song'). Goals skill/kindness-oriented (tie a knot, be kind, mend nets one knot) not wealth/status; 'no ranking of goals'. Only CASEL citations US-anchored (framework ref, not content). validate passes (572 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech all 10 (voice/body, stones, leaves, sand/chalk); alt text all 10 assets (SVGs role=img/aria-labelledby/title/desc, labels not color, system fonts grayscale-safe). Life-story/timeline/goal L5/L6/L9/L10 non-visual (tactile five-stones line, voice+body, gestured/quiet signals) + non-written (draw-or-write + oral/scribe/point-to-card). Fix: strengthened L10 capstone facilitator note for motor-difference expression (nod/point/glance/printed card/partner-voices) alongside movement-vs-stillness. validate passes (572 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: six Grade-3 objectives → D01.S1/S2/S3 → D01 → P1 → vision. Lenses: ethics ('no feeling wrong', 'no group ranked', signals as 'help never punishment'), egalitarianism (rejects ranking feelings/families/groups/goals; 'a game as much a gift as a sacred song'; disability-inclusive, multi-family), global (fishing village/harvest festival/flat bread/grandmother's village/apartment block), tech/env (rain/crops/places; online/far-away groups shaping identity — neither worship nor fear). Goals skill/kindness not wealth/status; evidence vs guessing (CASEL; 'we are imagining why'). Fix: added missing cross_cutting_lenses to unit.md. validate passes (572 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: abstractions concrete (mixed feelings via overlapping circles + 'both/and'; feelings-change walkable three-stop path + weather metaphor; life line sequencing; goal staircase with highlighted first step). Emotional safety: L1-2 change/mixed feelings reassuring ('feelings like weather they pass', 'you are not your feeling', 'holding two is a superpower'); L5-6 explicit pass ('if a stop is hard say I don't know yet'; choose what to share; share one stop); L9 goals learner's own 'small and doable', 'beginning of agency not a contract'; L10 'without disrupting others' help-not-punishment + motor alternatives + 'never shame'. Physical fit: movement + fine-motor. Open-ended ('no feeling wrong', 'no group ranked'). validate passes (572 files)."
   - id: B-301
     title: Author lessons for Unit U.03.002 (My Body, My Senses & Movement)
     agent: lesson-author

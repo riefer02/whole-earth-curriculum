@@ -24,6 +24,13 @@ essential_questions:
 big_ideas:
   - Feelings shift and mix, and understanding them — and that others feel differently — helps me understand myself and others.
   - I have a story, belong to several groups, and can set a goal and take a first step.
+cross_cutting_lenses:
+  - social-emotional
+  - global
+  - ethics
+  - egalitarianism
+  - environment
+  - technology
 duration_weeks: 3
 assessment_plan: >-
   Observation of feeling-naming, mixed-feeling noticing, and self-regulation in a
@@ -57,3 +64,13 @@ honored.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.03.001.01 | Feelings Change Over Time | D01.S1.03.01 |
+| L.03.001.02 | More Than One Feeling at Once | D01.S1.03.01 |
+| L.03.001.03 | My Feelings Are a Story | D01.S1.03.01 |
+| L.03.001.04 | The Same Moment, Different Feelings | D01.S1.03.02 |
+| L.03.001.05 | My Life Story, In Order | D01.S2.03.01 |
+| L.03.001.06 | The People and Places in My Story | D01.S2.03.01 |
+| L.03.001.07 | The Groups I Belong To | D01.S2.03.02 |
+| L.03.001.08 | How My Groups Shape Me | D01.S2.03.02 |
+| L.03.001.09 | My Goal and Its First Step | D01.S3.03.01 |
+| L.03.001.10 | Strong Feelings in a Group | D01.S3.03.02 (capstone: revisits D01.S1.03.01) |

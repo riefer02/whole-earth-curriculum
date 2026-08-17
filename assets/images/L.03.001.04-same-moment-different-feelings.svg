@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The same rain, three different feelings</title>
+  <desc id="desc">One scene of rain falling from a cloud, with three people beneath it. The first person looks disappointed and says "I wanted to play outside." The second looks relieved and says "My crops needed this rain." The third, a child in a wheelchair, looks delighted and says "Puddles!" The point is that the same situation makes different people feel differently, and no feeling is wrong. Words, face shapes, and labels, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Same Rain, Different Feelings</text>
+
+  <!-- Cloud -->
+  <path d="M176 96 Q186 78 204 80 Q222 66 240 80 Q258 66 274 80 Q294 78 302 96 Q312 104 306 114 Q316 124 308 132 L170 132 Q162 124 172 114 Q166 104 176 96 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" fill-opacity="0.4"/>
+
+  <!-- Rain lines -->
+  <g stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round">
+    <line x1="120" y1="140" x2="114" y2="156"/>
+    <line x1="170" y1="142" x2="164" y2="158"/>
+    <line x1="210" y1="140" x2="204" y2="156"/>
+    <line x1="250" y1="142" x2="244" y2="158"/>
+    <line x1="290" y1="140" x2="284" y2="156"/>
+    <line x1="330" y1="142" x2="324" y2="158"/>
+    <line x1="370" y1="140" x2="364" y2="156"/>
+  </g>
+
+  <!-- Person 1: disappointed -->
+  <g>
+    <circle cx="90" cy="230" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M78 226 L86 230" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M94 230 L102 226" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M80 242 Q90 234 100 242" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M90 256 L90 300" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M90 300 L64 322" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M90 300 L116 322" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="82" y="334" width="68" height="44" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="116" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">I wanted to</text>
+    <text x="116" y="371" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">play outside.</text>
+    <text x="90" y="410" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">disappointed</text>
+  </g>
+
+  <!-- Person 2: relieved farmer -->
+  <g>
+    <circle cx="256" cy="230" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M244 222 Q249 218 254 222" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M258 222 Q263 218 268 222" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="249" cy="230" r="2.4" fill="#2b3a42"/>
+    <circle cx="263" cy="230" r="2.4" fill="#2b3a42"/>
+    <path d="M246 238 Q256 246 266 238" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 256 L256 300" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M256 300 L230 322" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M256 300 L282 322" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="248" y="334" width="68" height="44" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="282" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">My crops needed</text>
+    <text x="282" y="371" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">this rain.</text>
+    <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">relieved</text>
+  </g>
+
+  <!-- Person 3: delighted child in wheelchair -->
+  <g>
+    <circle cx="420" cy="210" r="24" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M410 204 Q415 200 420 204" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M424 204 Q429 200 434 204" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="415" cy="210" r="2.2" fill="#2b3a42"/>
+    <circle cx="429" cy="210" r="2.2" fill="#2b3a42"/>
+    <path d="M412 218 Q422 228 432 218" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M420 234 L420 260" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="396" y="260" width="56" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="404" cy="306" r="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="440" cy="306" r="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="396" y="306" width="56" height="8" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="412" y="334" width="68" height="44" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="446" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Puddles!</text>
+    <text x="420" y="410" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">delighted</text>
+  </g>
+
+  <!-- Bottom note -->
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Same moment, different feelings — and no feeling is wrong.</text>
+</svg>
