@@ -58,3 +58,13 @@ what makes an apology real. Questions are held as questions, not answered as dog
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Right and Wrong, With a Reason | D09.S1.02.01 |
+| 2 | How Our Acts Reach Another's Feelings | D09.S1.02.02 |
+| 3 | Same Is Not Always Fair | D09.S2.02.01 |
+| 4 | The Rights Every Child Has | D09.S2.02.02 |
+| 5 | Deciding Fairly Together | D09.S3.02.01 |
+| 6 | Helping Hands in Our Community | D09.S3.02.02 |
+| 7 | A Conflict and a Peaceful Way | D09.S4.02.01 |
+| 8 | What Makes an Apology Real | D09.S4.02.02 |
+| 9 | Conflict to Repair: A Role-Play | D09.S4.02.01, D09.S4.02.02 |
+| 10 | Fairness & Our Shared Rules, All Together | D09.S1.02.01, D09.S1.02.02, D09.S2.02.01, D09.S2.02.02, D09.S3.02.01, D09.S3.02.02, D09.S4.02.01, D09.S4.02.02 |

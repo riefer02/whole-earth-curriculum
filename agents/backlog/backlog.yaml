@@ -2399,7 +2399,7 @@ items:
     type: lesson
     grade: 2
     domain: D09
-    status: ready
+    status: done
     priority: 59
     depends_on:
       - B-064
@@ -2411,6 +2411,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (545 files). IDs L.02.010.01-.10 sequential, sequence_in_unit 1-10, unit U.02.010, grade 2, domain D09, pillar P4; all 10 carry Procedure/Assessment + Connection. Objectives resolve to the 8 real Grade-2 D09 standards only (S1.02.01/.02, S2.02.01/.02, S3.02.01/.02, S4.02.01/.02); L9 maps S4.02.01+.02, L10 all 8. 'Name the act never the child'; questions as questions; no forced apologies. Sources: UNCRC→UNICEF (L4), IIRP restorative (L8-9), CASEL (L1-2). unit.md Lessons table lists all 10. Example: L9 D09.S4.02.02 matches domain verbatim, Connection chains conflict→peaceful solve→real apology."
+      fact-checker:
+        verdict: passed
+        note: "UNCRC child-rights claims (L4) verified vs OHCHR full text (Art 31 play/rest, 28-29 learn, 3/19 safe, 12 heard); framed as shared 'should' (value distinct from fact). CASEL competencies real (S-001); IIRP 'repair harm not only punish' accurate (S-022). Registered S-060 (UNICEF UNCRC child-friendly summary, reviewed:true). Non-blocking: L3 equality/equity fence image is soft attribution (concept in UN/UNICEF materials); L5 Pratham TaRL loose fit for peer/group decision (level-based grouping) — both framing refs not factual claims. validate passes (545 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default: UNCRC as universal ('everywhere on Earth not one nation's rule'); right/wrong + apology held as open questions (not one nation's law/etiquette); community/helping spans wells/harvests/shared gardens/carrying water/mutual aid ('helping is not one culture's idea'). Fix: added 'council of elders under a tree talking until all agree' to L5 so deciding-together represents consensus/council traditions alongside voting (not majority-rule default). validate passes (545 files)."
+      accessibility-editor:
+        verdict: passed
+        note: Non-speaking/non-verbal paths every lesson (point/sign/gesture/point-to-card/direct-partner/eye-gaze + 'may always pass'); discussion circles with turn marker/tokens/raised hand/step-into-circle/eye-gaze (L5/L10); role-play non-verbal roles (point to strip steps/direct partner/play helper L7-9); deaf/HoH + blind/low-vision + motor pathways named each lesson; materials_low_tech all 10 (voice/body/found objects/dirt drawing); no wealth assumption; alt text all 10 assets (color not carrier; SVGs role=img/title/desc). validate passes (545 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (right/wrong with reason; acts reaching feelings; apology-as-repair), egalitarianism ('same is not always fair' = equity not sameness/supremacy; rights for every child; 'every voice matters not just the loudest'), global (market/village/boat, council of elders, well-clearing, fishing-net-and-basket; UNCRC universal 'not one nation's rule'). Questions held as questions ('neither way is a dogma', 'fairness practiced not preached'); cooperation over hierarchy ('name the act never the child', 'deciding together not obeying'). Evidence vs values (rights as shared 'should' not fact; UNCRC/CASEL/IIRP sourced). Traceability: D09.S1-S4.02.xx → D09 → P4 → vision. Fix: added environment lens to L6 (stream cleanup/shared garden/clearing well). validate passes (545 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: fairness/equity concrete (wall-and-box same-vs-needs scene, act→feeling arrows, four-step apology strip); near-abstract vocab kept in facilitator notes. Emotional safety: 'right/wrong' = name the act never the child (no 'bad child'); role-play blame-free invented conflicts + optional helper + 'never confess real hurt'; apologies as repair not forced ritual ('never make a learner perform'); child-rights as shared hope not alarm with 'not every child gets this yet'→hope+agency. Physical fit: big-motor + outdoor variants every lesson. Open-ended (questions as questions, no moral dogma). Spiral builds on K/Gr1. Non-blocking: 'right' has two meanings (moral adj L1-2 vs entitlement noun L4) — could add one-line bridge. validate passes (545 files)."
   - id: B-210
     title: Author lessons for Unit U.02.011 (Tools, Media and Our Earth Home)
     agent: lesson-author

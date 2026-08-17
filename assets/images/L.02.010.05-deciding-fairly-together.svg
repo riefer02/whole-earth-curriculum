@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Deciding fairly together</title>
+  <desc id="desc">A decision circle shows how a group decides fairly. A circle of children sits together; one child in the center holds a soft turn marker and speaks while the others listen, with one child using a wheelchair and one with a hearing aid shown naturally. To the right, a decision chart shows two choices being counted with tokens: three tokens under one choice and two under the other, with a note to count the choices. Two labeled ways appear at the bottom: talk it through, and take a vote. A caption says every voice matters, not just the loudest. Labels, the turn marker, and the counting, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Deciding Fairly Together</text>
+
+  <!-- circle of children -->
+  <circle cx="140" cy="250" r="88" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- child in center holding turn marker -->
+  <circle cx="140" cy="250" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M125 248 A15 15 0 0 1 155 248 Z" fill="#2b3a42"/>
+  <circle cx="135" cy="250" r="1.8" fill="#2b3a42"/>
+  <circle cx="145" cy="250" r="1.8" fill="#2b3a42"/>
+  <path d="M135 256 Q140 261 145 256" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="130" y="266" width="20" height="34" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="130" cy="282" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="318" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">turn marker</text>
+
+  <!-- listening children around circle -->
+  <!-- child 1 (left) -->
+  <circle cx="66" cy="250" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M54 248 A12 12 0 0 1 78 248 Z" fill="#4f6d7a"/>
+  <circle cx="62" cy="250" r="1.5" fill="#2b3a42"/>
+  <circle cx="70" cy="250" r="1.5" fill="#2b3a42"/>
+  <rect x="58" y="262" width="16" height="26" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child 2 (top) -->
+  <circle cx="140" cy="172" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M128 170 A12 12 0 0 1 152 170 Z" fill="#2b3a42"/>
+  <circle cx="136" cy="172" r="1.5" fill="#2b3a42"/>
+  <circle cx="144" cy="172" r="1.5" fill="#2b3a42"/>
+  <rect x="132" y="184" width="16" height="26" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child 3 (right, wheelchair) -->
+  <circle cx="214" cy="250" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M202 248 A12 12 0 0 1 226 248 Z" fill="#4f6d7a"/>
+  <circle cx="210" cy="250" r="1.5" fill="#2b3a42"/>
+  <circle cx="218" cy="250" r="1.5" fill="#2b3a42"/>
+  <rect x="206" y="262" width="16" height="22" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="200" y="284" width="28" height="7" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="208" cy="291" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="220" cy="291" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child 4 (bottom, hearing aid) -->
+  <circle cx="140" cy="328" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M128 326 A12 12 0 0 1 152 326 Z" fill="#2b3a42"/>
+  <circle cx="136" cy="328" r="1.5" fill="#2b3a42"/>
+  <circle cx="144" cy="328" r="1.5" fill="#2b3a42"/>
+  <rect x="132" y="340" width="16" height="26" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M152 322 Q158 316 154 332" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- decision chart -->
+  <rect x="300" y="92" width="190" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="395" y="120" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">count the choices</text>
+
+  <text x="330" y="156" font-family="sans-serif" font-size="14" fill="#222222">choice A</text>
+  <rect x="322" y="168" width="60" height="18" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="344" cy="222" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="366" cy="222" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="388" cy="222" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="352" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3</text>
+
+  <text x="330" y="290" font-family="sans-serif" font-size="14" fill="#222222">choice B</text>
+  <rect x="322" y="302" width="60" height="18" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="344" cy="322" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="366" cy="322" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="352" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+
+  <!-- two ways -->
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">talk it through</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">hear everyone's idea and reason</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">take a vote</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">everyone shows a choice &#183; then count</text>
+
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">every voice matters &#8212; not just the loudest</text>
+</svg>

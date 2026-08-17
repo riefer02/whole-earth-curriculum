@@ -548,6 +548,15 @@ sources:
     reviewed: true
     notes: "Cited in U.02.009 L06 (cold-region adaptation). URL verified live (2026-08-16). ICC is the real, authoritative pan-Arctic Indigenous organization — 'Representing approximately 180,000 Inuit across Alaska, Canada, Greenland (Kalaallit Nunaat), and Chukotka' — founded 1977, and documents Inuit knowledge and ways of living in the Arctic (hunting, Indigenous knowledge, environment). On-topic as an authority for the lesson's Inuit parkas/kayaks/winter shelters/hunting-fishing framing (the lesson correctly attributes these as Inuit and names the peoples)."
 
+  - id: S-060
+    title: United Nations Convention on the Rights of the Child (UNICEF, child-friendly)
+    type: website
+    url: https://www.unicef.org/child-rights-convention
+    organization: UNICEF (United Nations Children's Fund)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.02.010 L04 (the rights every child has — play, learn, be safe, be heard, rest). The UNICEF CRC page (child-friendly summary) sits behind Cloudflare and returns HTTP 403 to non-browser clients (verified 2026-08-16), so the substantive claims were verified against the full treaty text on OHCHR (ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child). All five rights named in the lesson are genuine UNCRC articles: play and rest/leisure (Art. 31), learn/education (Arts. 28–29), be safe / protection from violence and abuse (Art. 19, and best-interests Art. 3), be heard / views given due weight (Art. 12). The lesson correctly frames these as a 'should' — a shared international agreement, not a claim that every child already has them honored — which keeps value/aspiration distinct from fact."
+
   - id: S-059
     title: Nobel Prize — Wangari Maathai, Facts
     type: website

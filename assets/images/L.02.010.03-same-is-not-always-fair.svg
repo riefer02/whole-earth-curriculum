@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Same is not always fair</title>
+  <desc id="desc">Two panels compare "same for all" and "what each one needs." The top panel is labeled "same": a tall child looks over a fence easily, while a shorter child and a child in a wheelchair each stand on the same small box and still cannot see over, with sad faces. The bottom panel is labeled "fair": the tall child stands on the ground, the shorter child stands on a taller box, and the child in a wheelchair uses a ramp, so all three can see over, with smiling faces. The heights of the supports and the labels, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Same Is Not Always Fair</text>
+
+  <!-- ===== Top panel: same ===== -->
+  <rect x="20" y="56" width="472" height="200" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="36" y="82" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">same</text>
+  <text x="256" y="82" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">everyone gets the same small box</text>
+
+  <!-- fence -->
+  <rect x="150" y="120" width="270" height="10" rx="3" fill="#2b3a42"/>
+
+  <!-- ground -->
+  <line x1="40" y1="246" x2="472" y2="246" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- tall child (no support needed, sees over, smiling) -->
+  <circle cx="120" cy="176" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M105 174 A15 15 0 0 1 135 174 Z" fill="#2b3a42"/>
+  <circle cx="115" cy="176" r="1.8" fill="#2b3a42"/>
+  <circle cx="125" cy="176" r="1.8" fill="#2b3a42"/>
+  <path d="M115 183 Q120 188 125 183" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="110" y="194" width="20" height="44" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="114" y1="238" x2="112" y2="246" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="126" y1="238" x2="128" y2="246" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <text x="120" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">tall &#8212; sees over</text>
+
+  <!-- short child on same small box, still cannot see -->
+  <circle cx="256" cy="196" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M242 194 A14 14 0 0 1 270 194 Z" fill="#4f6d7a"/>
+  <circle cx="251" cy="196" r="1.7" fill="#2b3a42"/>
+  <circle cx="261" cy="196" r="1.7" fill="#2b3a42"/>
+  <path d="M251 206 Q256 202 261 206" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="246" y="210" width="20" height="30" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- box -->
+  <rect x="240" y="238" width="32" height="10" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="250" y1="238" x2="248" y2="246" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="262" y1="238" x2="264" y2="246" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">short &#8212; still cannot see</text>
+
+  <!-- wheelchair child on same small box, cannot see -->
+  <circle cx="390" cy="200" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M376 198 A14 14 0 0 1 404 198 Z" fill="#2b3a42"/>
+  <circle cx="385" cy="200" r="1.7" fill="#2b3a42"/>
+  <circle cx="395" cy="200" r="1.7" fill="#2b3a42"/>
+  <path d="M385 210 Q390 206 395 210" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="2"/>
+  <rect x="380" y="214" width="20" height="28" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- wheelchair -->
+  <rect x="372" y="242" width="36" height="8" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="382" cy="250" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="398" cy="250" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="390" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">wheelchair &#8212; cannot see</text>
+
+  <!-- ===== Bottom panel: fair ===== -->
+  <rect x="20" y="268" width="472" height="200" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="36" y="294" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">fair</text>
+  <text x="256" y="294" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">everyone gets the support they need</text>
+
+  <!-- fence -->
+  <rect x="150" y="332" width="270" height="10" rx="3" fill="#2b3a42"/>
+
+  <!-- ground -->
+  <line x1="40" y1="458" x2="472" y2="458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- tall child on ground, sees over, smiling -->
+  <circle cx="120" cy="388" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M105 386 A15 15 0 0 1 135 386 Z" fill="#2b3a42"/>
+  <circle cx="115" cy="388" r="1.8" fill="#2b3a42"/>
+  <circle cx="125" cy="388" r="1.8" fill="#2b3a42"/>
+  <path d="M115 395 Q120 400 125 395" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="110" y="406" width="20" height="44" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="114" y1="450" x2="112" y2="458" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="126" y1="450" x2="128" y2="458" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <text x="120" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">no support needed</text>
+
+  <!-- short child on tall box, sees over -->
+  <circle cx="256" cy="376" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M242 374 A14 14 0 0 1 270 374 Z" fill="#4f6d7a"/>
+  <circle cx="251" cy="376" r="1.7" fill="#2b3a42"/>
+  <circle cx="261" cy="376" r="1.7" fill="#2b3a42"/>
+  <path d="M251 383 Q256 388 261 383" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="246" y="390" width="20" height="32" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- tall box -->
+  <rect x="238" y="420" width="36" height="38" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="250" y1="420" x2="248" y2="458" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="262" y1="420" x2="264" y2="458" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <text x="256" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">taller box</text>
+
+  <!-- wheelchair child on ramp, sees over -->
+  <circle cx="392" cy="376" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M378 374 A14 14 0 0 1 406 374 Z" fill="#2b3a42"/>
+  <circle cx="387" cy="376" r="1.7" fill="#2b3a42"/>
+  <circle cx="397" cy="376" r="1.7" fill="#2b3a42"/>
+  <path d="M387 383 Q392 388 397 383" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="382" y="390" width="20" height="30" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- ramp -->
+  <path d="M360 458 L404 420 L436 458 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- wheelchair -->
+  <rect x="378" y="418" width="30" height="8" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="386" cy="426" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="400" cy="426" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="390" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">ramp</text>
+
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Fair means everyone gets what they need to take part.</text>
+</svg>

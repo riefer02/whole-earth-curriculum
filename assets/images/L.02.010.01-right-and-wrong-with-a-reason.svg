@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Right and wrong choices, with a reason</title>
+  <desc id="desc">Two panels compare a wrong and a right choice, each with a "because" reason. The left panel is labeled "wrong to do": one child knocks a block tower over and turns away while the other child stands with blocks scattered and a sad face, and a speech bubble says "because I wanted to be first." A note below says a reason helps us understand but does not make a wrong choice right. The right panel is labeled "right to do": the same two children smile and rebuild the tower together, and a speech bubble says "because I care how they feel." Labels, faces, and the because-bubbles, not color, carry the meaning, so it prints clearly in grayscale and teaches that right and wrong name the choice, not the child.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Right and Wrong, With a Reason</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Same situation, two different choices &#8212; each with a reason</text>
+
+  <rect x="20" y="86" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="266" y="86" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <text x="133" y="112" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">wrong to do</text>
+  <text x="379" y="112" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">right to do</text>
+
+  <!-- Panel 1: knock tower over -->
+  <!-- blocks scattered -->
+  <rect x="60" y="300" width="30" height="30" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="96" y="286" width="30" height="30" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="132" y="312" width="30" height="30" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child A (left, turning away, deep skin) -->
+  <circle cx="88" cy="176" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M74 174 A14 14 0 0 1 102 174 Z" fill="#2b3a42"/>
+  <circle cx="83" cy="176" r="1.7" fill="#2b3a42"/>
+  <circle cx="93" cy="176" r="1.7" fill="#2b3a42"/>
+  <path d="M83 184 Q88 181 93 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="78" y="192" width="20" height="36" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="82" y1="228" x2="80" y2="260" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="94" y1="228" x2="96" y2="260" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- arm swinging away -->
+  <line x1="98" y1="200" x2="120" y2="222" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="78" y1="200" x2="64" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- child B (right, sad, light skin) -->
+  <circle cx="170" cy="210" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M156 208 A14 14 0 0 1 184 208 Z" fill="#4f6d7a"/>
+  <circle cx="165" cy="210" r="1.7" fill="#2b3a42"/>
+  <circle cx="175" cy="210" r="1.7" fill="#2b3a42"/>
+  <path d="M165 220 Q170 216 175 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="160" y="224" width="20" height="36" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="164" y1="260" x2="162" y2="292" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="176" y1="260" x2="178" y2="292" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="160" y1="236" x2="150" y2="256" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="180" y1="236" x2="190" y2="256" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- because bubble -->
+  <ellipse cx="128" cy="148" rx="72" ry="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M110 170 L104 186 L128 172 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="153" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">because I wanted to be first</text>
+
+  <text x="133" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a reason helps us understand &#8212;</text>
+  <text x="133" y="381" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">it does not make it right</text>
+
+  <!-- Panel 2: rebuild together -->
+  <!-- rebuilt blocks -->
+  <rect x="320" y="296" width="30" height="30" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="320" y="266" width="30" height="30" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="320" y="236" width="30" height="30" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="356" y="296" width="30" height="30" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child A (left, placing block, smiling, deep skin) -->
+  <circle cx="322" cy="190" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M308 188 A14 14 0 0 1 336 188 Z" fill="#2b3a42"/>
+  <circle cx="317" cy="190" r="1.7" fill="#2b3a42"/>
+  <circle cx="327" cy="190" r="1.7" fill="#2b3a42"/>
+  <path d="M317 197 Q322 202 327 197" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="312" y="206" width="20" height="36" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="316" y1="242" x2="314" y2="274" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="328" y1="242" x2="330" y2="274" stroke="#2b3a42" stroke-width="6" stroke-linecap="6"/>
+  <!-- arm reaching to place block -->
+  <line x1="332" y1="214" x2="344" y2="232" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- child B (right, holding block, smiling, light skin) -->
+  <circle cx="414" cy="212" r="14" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M400 210 A14 14 0 0 1 428 210 Z" fill="#4f6d7a"/>
+  <circle cx="409" cy="212" r="1.7" fill="#2b3a42"/>
+  <circle cx="419" cy="212" r="1.7" fill="#2b3a42"/>
+  <path d="M409 219 Q414 224 419 219" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="404" y="226" width="20" height="36" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="408" y1="262" x2="406" y2="294" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="420" y1="262" x2="422" y2="294" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- arm offering block -->
+  <line x1="404" y1="236" x2="386" y2="250" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <rect x="374" y="250" width="18" height="18" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- because bubble -->
+  <ellipse cx="390" cy="150" rx="72" ry="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M372 172 L366 188 L390 174 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="390" y="155" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">because I care how they feel</text>
+
+  <text x="379" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a right choice helps and is fair</text>
+  <text x="379" y="381" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">everyone can choose again</text>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">"Right" and "wrong" name the choice, never the child.</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">I can always say why: because&#8230;</text>
+</svg>

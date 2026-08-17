@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Helping hands in our community</title>
+  <desc id="desc">Four panels show ways people in a community help one another, with a child joining in each time. Top left, labeled food drive: a child places a can into a collection box. Top right, labeled cleanup: a child with gloved hands picks up litter. Bottom left, labeled read to a younger child: an older child reads a book to a younger child. Bottom right, labeled water the shared garden: a child pours water from a cup onto a plant. A caption at the bottom reads "you can join in." Labels and the actions, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Helping Hands in Our Community</text>
+
+  <!-- panel 1: food drive -->
+  <rect x="20" y="60" width="226" height="196" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="133" y="84" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">food drive</text>
+  <rect x="52" y="180" width="60" height="56" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="82" y="212" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">share</text>
+  <circle cx="150" cy="150" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M136 148 A14 14 0 0 1 164 148 Z" fill="#2b3a42"/>
+  <circle cx="145" cy="150" r="1.7" fill="#2b3a42"/>
+  <circle cx="155" cy="150" r="1.7" fill="#2b3a42"/>
+  <path d="M145 157 Q150 162 155 157" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="140" y="164" width="20" height="34" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="144" y1="198" x2="142" y2="232" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="156" y1="198" x2="158" y2="232" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="150" y1="174" x2="118" y2="196" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <rect x="104" y="188" width="18" height="18" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- panel 2: cleanup -->
+  <rect x="266" y="60" width="226" height="196" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="379" y="84" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">cleanup</text>
+  <circle cx="344" cy="150" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M330 148 A14 14 0 0 1 358 148 Z" fill="#4f6d7a"/>
+  <circle cx="339" cy="150" r="1.7" fill="#2b3a42"/>
+  <circle cx="349" cy="150" r="1.7" fill="#2b3a42"/>
+  <path d="M339 157 Q344 162 349 157" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="334" y="164" width="20" height="34" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="338" y1="198" x2="336" y2="232" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="350" y1="198" x2="352" y2="232" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="344" y1="174" x2="380" y2="210" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="386" cy="214" r="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M378 214 Q386 206 394 214" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- panel 3: read to younger -->
+  <rect x="20" y="272" width="226" height="196" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="133" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">read to a younger child</text>
+  <!-- older child -->
+  <circle cx="92" cy="360" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M78 358 A14 14 0 0 1 106 358 Z" fill="#2b3a42"/>
+  <circle cx="87" cy="360" r="1.7" fill="#2b3a42"/>
+  <circle cx="97" cy="360" r="1.7" fill="#2b3a42"/>
+  <path d="M87 367 Q92 372 97 367" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="82" y="374" width="20" height="36" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="70" y="386" width="30" height="22" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="85" y1="386" x2="85" y2="408" stroke="#2b3a42" stroke-width="2"/>
+  <text x="85" y="402" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">A</text>
+  <!-- younger child -->
+  <circle cx="152" cy="392" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M141 390 A11 11 0 0 1 163 390 Z" fill="#4f6d7a"/>
+  <circle cx="148" cy="392" r="1.4" fill="#2b3a42"/>
+  <circle cx="156" cy="392" r="1.4" fill="#2b3a42"/>
+  <path d="M148 397 Q152 401 156 397" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="143" y="404" width="16" height="24" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- panel 4: water shared garden -->
+  <rect x="266" y="272" width="226" height="196" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="379" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">water the shared garden</text>
+  <circle cx="344" cy="360" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M330 358 A14 14 0 0 1 358 358 Z" fill="#2b3a42"/>
+  <circle cx="339" cy="360" r="1.7" fill="#2b3a42"/>
+  <circle cx="349" cy="360" r="1.7" fill="#2b3a42"/>
+  <path d="M339 367 Q344 372 349 367" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="334" y="374" width="20" height="36" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="338" y1="410" x2="336" y2="444" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="350" y1="410" x2="352" y2="444" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="354" y1="382" x2="398" y2="402" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <path d="M392 392 Q400 404 408 400 L402 412 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- drops -->
+  <line x1="404" y1="404" x2="404" y2="412" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+  <!-- plant -->
+  <path d="M430 444 Q432 428 430 420 M438 444 Q440 426 438 418" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <ellipse cx="434" cy="418" rx="8" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">you can join in &#8212; even a small help counts</text>
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What makes an apology real</title>
+  <desc id="desc">Two panels and a four-step strip teach what makes an apology real. The left panel is labeled "not yet real": one child says "sorry" while turning away, but the block tower is still scattered and the other child is still sad. The right panel is labeled "real apology": the same two children rebuild the tower together and both smile. Below, a four-step strip reads: say what you did, say how they felt, mean it, and fix the harm. Labels, the broken-then-rebuilt blocks, and the steps, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">What Makes an Apology Real</text>
+
+  <!-- left panel: empty sorry -->
+  <rect x="20" y="58" width="226" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="133" y="84" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">not yet real</text>
+
+  <!-- blocks scattered -->
+  <rect x="60" y="250" width="26" height="26" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="92" y="238" width="26" height="26" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="124" y="256" width="26" height="26" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child A turning away -->
+  <circle cx="88" cy="170" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M74 168 A14 14 0 0 1 102 168 Z" fill="#2b3a42"/>
+  <circle cx="83" cy="170" r="1.7" fill="#2b3a42"/>
+  <circle cx="93" cy="170" r="1.7" fill="#2b3a42"/>
+  <path d="M83 178 Q88 174 93 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="78" y="186" width="20" height="36" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="82" y1="222" x2="80" y2="252" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="94" y1="222" x2="96" y2="252" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- turning away arms -->
+  <line x1="78" y1="196" x2="62" y2="210" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="98" y1="196" x2="112" y2="206" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- speech: sorry -->
+  <ellipse cx="150" cy="140" rx="40" ry="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M138 156 L132 168 L152 158 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="145" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">sorry&#8230;</text>
+
+  <!-- child B sad -->
+  <circle cx="178" cy="200" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M164 198 A14 14 0 0 1 192 198 Z" fill="#4f6d7a"/>
+  <circle cx="173" cy="200" r="1.7" fill="#2b3a42"/>
+  <circle cx="183" cy="200" r="1.7" fill="#2b3a42"/>
+  <path d="M173 210 Q178 206 183 210" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="168" y="214" width="20" height="36" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="172" y1="250" x2="170" y2="280" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="184" y1="250" x2="186" y2="280" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <text x="133" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">words, but nothing fixed</text>
+
+  <!-- right panel: real apology -->
+  <rect x="266" y="58" width="226" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="379" y="84" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">real apology</text>
+
+  <!-- rebuilt blocks -->
+  <rect x="330" y="246" width="26" height="26" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="330" y="220" width="26" height="26" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="330" y="194" width="26" height="26" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child A placing block -->
+  <circle cx="322" cy="166" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M308 164 A14 14 0 0 1 336 164 Z" fill="#2b3a42"/>
+  <circle cx="317" cy="166" r="1.7" fill="#2b3a42"/>
+  <circle cx="327" cy="166" r="1.7" fill="#2b3a42"/>
+  <path d="M317 173 Q322 178 327 173" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="312" y="180" width="20" height="36" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="316" y1="216" x2="314" y2="248" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="328" y1="216" x2="330" y2="248" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="332" y1="188" x2="342" y2="202" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- child B helping, smiling -->
+  <circle cx="422" cy="190" r="14" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M408 188 A14 14 0 0 1 436 188 Z" fill="#4f6d7a"/>
+  <circle cx="417" cy="190" r="1.7" fill="#2b3a42"/>
+  <circle cx="427" cy="190" r="1.7" fill="#2b3a42"/>
+  <path d="M417 197 Q422 202 427 197" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="412" y="204" width="20" height="36" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="416" y1="240" x2="414" y2="270" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="428" y1="240" x2="430" y2="270" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="412" y1="214" x2="396" y2="230" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="379" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">meaning it + fixing the harm</text>
+
+  <!-- four-step strip -->
+  <rect x="20" y="336" width="112" height="140" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="76" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1</text>
+  <text x="76" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">say what</text>
+  <text x="76" y="398" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">you did</text>
+
+  <rect x="146" y="336" width="112" height="140" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="202" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">2</text>
+  <text x="202" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">say how</text>
+  <text x="202" y="398" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">they felt</text>
+
+  <rect x="272" y="336" width="112" height="140" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="328" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">3</text>
+  <text x="328" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">mean it</text>
+
+  <rect x="398" y="336" width="112" height="140" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="454" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">4</text>
+  <text x="454" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">fix the</text>
+  <text x="454" y="398" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">harm</text>
+
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A real apology means it &#8212; and fixes the harm.</text>
+</svg>

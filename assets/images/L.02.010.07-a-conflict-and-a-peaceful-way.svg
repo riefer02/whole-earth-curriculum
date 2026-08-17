@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A conflict and a peaceful way</title>
+  <desc id="desc">Two panels compare a conflict and a peaceful way to solve it. The left panel is labeled "conflict": two children pull the same ball and frown, with a caption "we both want it." The right panel is labeled "peaceful ways" and shows three labeled ways to solve the conflict: talk it through, with two children facing each other; take turns, with one child passing the ball to the other; and get help, with an older person standing nearby. Labels, faces, and the actions, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Conflict and a Peaceful Way</text>
+
+  <!-- left panel: conflict -->
+  <rect x="20" y="60" width="210" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="125" y="86" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">conflict</text>
+
+  <!-- ball -->
+  <circle cx="125" cy="220" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M125 204 A16 16 0 0 1 141 220" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M125 204 A16 16 0 0 0 109 220" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child A (left, frowning, pulling) -->
+  <circle cx="86" cy="176" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M72 174 A14 14 0 0 1 100 174 Z" fill="#2b3a42"/>
+  <circle cx="81" cy="176" r="1.7" fill="#2b3a42"/>
+  <circle cx="91" cy="176" r="1.7" fill="#2b3a42"/>
+  <path d="M81 185 Q86 181 91 185" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="76" y="190" width="20" height="36" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="80" y1="226" x2="78" y2="258" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="92" y1="226" x2="94" y2="258" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="96" y1="200" x2="114" y2="216" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- child B (right, frowning, pulling) -->
+  <circle cx="164" cy="176" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 174 A14 14 0 0 1 178 174 Z" fill="#4f6d7a"/>
+  <circle cx="159" cy="176" r="1.7" fill="#2b3a42"/>
+  <circle cx="169" cy="176" r="1.7" fill="#2b3a42"/>
+  <path d="M159 185 Q164 181 169 185" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="154" y="190" width="20" height="36" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="158" y1="226" x2="156" y2="258" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="170" y1="226" x2="172" y2="258" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="154" y1="200" x2="136" y2="216" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <text x="125" y="312" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">we both want it</text>
+  <text x="125" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a disagreement &#8212; not solved yet</text>
+
+  <!-- right panel: peaceful ways -->
+  <rect x="250" y="60" width="242" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="371" y="86" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">peaceful ways</text>
+
+  <!-- way 1: talk -->
+  <text x="290" y="122" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">talk it through</text>
+  <circle cx="330" cy="150" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M318 148 A12 12 0 0 1 342 148 Z" fill="#2b3a42"/>
+  <circle cx="325" cy="150" r="1.5" fill="#2b3a42"/>
+  <circle cx="335" cy="150" r="1.5" fill="#2b3a42"/>
+  <path d="M325 156 Q330 160 335 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="322" y="162" width="16" height="24" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="400" cy="150" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M388 148 A12 12 0 0 1 412 148 Z" fill="#4f6d7a"/>
+  <circle cx="395" cy="150" r="1.5" fill="#2b3a42"/>
+  <circle cx="405" cy="150" r="1.5" fill="#2b3a42"/>
+  <path d="M395 156 Q400 160 405 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="392" y="162" width="16" height="24" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- speech dots -->
+  <circle cx="358" cy="140" r="3" fill="#4f6d7a"/>
+  <circle cx="366" cy="134" r="3" fill="#4f6d7a"/>
+  <circle cx="374" cy="140" r="3" fill="#4f6d7a"/>
+
+  <!-- way 2: take turns -->
+  <text x="290" y="214" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">take turns</text>
+  <circle cx="330" cy="246" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M318 244 A12 12 0 0 1 342 244 Z" fill="#2b3a42"/>
+  <circle cx="325" cy="246" r="1.5" fill="#2b3a42"/>
+  <circle cx="335" cy="246" r="1.5" fill="#2b3a42"/>
+  <path d="M325 252 Q330 256 335 252" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="322" y="258" width="16" height="24" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="400" cy="246" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M388 244 A12 12 0 0 1 412 244 Z" fill="#2b3a42"/>
+  <circle cx="395" cy="246" r="1.5" fill="#2b3a42"/>
+  <circle cx="405" cy="246" r="1.5" fill="#2b3a42"/>
+  <path d="M395 252 Q400 256 405 252" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="392" y="258" width="16" height="24" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- passing ball -->
+  <circle cx="366" cy="250" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- way 3: get help -->
+  <text x="290" y="304" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">get help</text>
+  <circle cx="330" cy="322" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M319 320 A11 11 0 0 1 341 320 Z" fill="#4f6d7a"/>
+  <circle cx="326" cy="322" r="1.4" fill="#2b3a42"/>
+  <circle cx="334" cy="322" r="1.4" fill="#2b3a42"/>
+  <rect x="323" y="333" width="14" height="20" rx="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- older person -->
+  <circle cx="400" cy="314" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M386 312 A14 14 0 0 1 414 312 Z" fill="#2b3a42"/>
+  <circle cx="395" cy="314" r="1.7" fill="#2b3a42"/>
+  <circle cx="405" cy="314" r="1.7" fill="#2b3a42"/>
+  <path d="M395 320 Q400 324 405 320" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="390" y="328" width="20" height="40" rx="9" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="400" y="372" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">grown-up</text>
+
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">A conflict is a disagreement &#8212; it can be solved peacefully,</text>
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">so no one has to be hurt.</text>
+</svg>

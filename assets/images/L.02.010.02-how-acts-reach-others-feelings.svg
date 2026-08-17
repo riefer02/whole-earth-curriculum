@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How acts reach another's feelings</title>
+  <desc id="desc">Two rows show how an act reaches a feeling, drawn as an arrow from act to feeling. The top row shows a kind act: one child offers a cracker to another, an arrow points right, and a glad smiling face appears, labeled "a kind act reaches a warm feeling." The bottom row shows an unkind act: one child grabs a toy away while the other's hands are empty, an arrow points right, and a sad face appears, labeled "an unkind act reaches a hurt feeling." The arrows, labels, and faces, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">How Acts Reach Feelings</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">act &#8594; feeling: my act reaches another person</text>
+
+  <!-- ===== Top row: kind act ===== -->
+  <rect x="20" y="92" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="95" y="116" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">kind act</text>
+
+  <!-- child A offers cracker -->
+  <circle cx="82" cy="164" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M68 162 A14 14 0 0 1 96 162 Z" fill="#2b3a42"/>
+  <circle cx="77" cy="164" r="1.7" fill="#2b3a42"/>
+  <circle cx="87" cy="164" r="1.7" fill="#2b3a42"/>
+  <path d="M77 171 Q82 176 87 171" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="72" y="180" width="20" height="34" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="76" y1="214" x2="74" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="88" y1="214" x2="90" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- arm offering cracker -->
+  <line x1="92" y1="190" x2="128" y2="180" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <rect x="124" y="170" width="16" height="16" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child B receives, smiling -->
+  <circle cx="150" cy="188" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M136 186 A14 14 0 0 1 164 186 Z" fill="#4f6d7a"/>
+  <circle cx="145" cy="188" r="1.7" fill="#2b3a42"/>
+  <circle cx="155" cy="188" r="1.7" fill="#2b3a42"/>
+  <path d="M145 195 Q150 200 155 195" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="140" y="202" width="20" height="34" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="144" y1="236" x2="142" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="156" y1="236" x2="158" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- arrow -->
+  <line x1="178" y1="170" x2="222" y2="170" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M222 164 L230 170 L222 176 Z" fill="#2b3a42"/>
+  <text x="200" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">reaches</text>
+
+  <!-- glad face -->
+  <circle cx="290" cy="170" r="48" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="274" cy="160" r="4" fill="#2b3a42"/>
+  <circle cx="306" cy="160" r="4" fill="#2b3a42"/>
+  <path d="M272 182 Q290 198 308 182" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="360" y="170" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">a kind act reaches</text>
+  <text x="360" y="192" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a warm feeling</text>
+
+  <!-- ===== Bottom row: unkind act ===== -->
+  <rect x="20" y="268" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="95" y="292" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">unkind act</text>
+
+  <!-- child A grabs toy -->
+  <circle cx="82" cy="340" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M68 338 A14 14 0 0 1 96 338 Z" fill="#2b3a42"/>
+  <circle cx="77" cy="340" r="1.7" fill="#2b3a42"/>
+  <circle cx="87" cy="340" r="1.7" fill="#2b3a42"/>
+  <path d="M77 347 Q82 342 87 347" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="72" y="356" width="20" height="34" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="76" y1="390" x2="74" y2="416" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="88" y1="390" x2="90" y2="416" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- arm grabbing toy -->
+  <line x1="92" y1="366" x2="122" y2="356" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="128" cy="352" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child B empty hands, sad -->
+  <circle cx="150" cy="364" r="14" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M136 362 A14 14 0 0 1 164 362 Z" fill="#4f6d7a"/>
+  <circle cx="145" cy="364" r="1.7" fill="#2b3a42"/>
+  <circle cx="155" cy="364" r="1.7" fill="#2b3a42"/>
+  <path d="M145 374 Q150 370 155 374" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="140" y="378" width="20" height="34" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="144" y1="412" x2="142" y2="416" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="156" y1="412" x2="158" y2="416" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- empty arms down -->
+  <line x1="140" y1="388" x2="132" y2="408" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="160" y1="388" x2="168" y2="408" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- arrow -->
+  <line x1="178" y1="346" x2="222" y2="346" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M222 340 L230 346 L222 352 Z" fill="#2b3a42"/>
+  <text x="200" y="334" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">reaches</text>
+
+  <!-- sad face -->
+  <circle cx="290" cy="346" r="48" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="274" cy="336" r="4" fill="#2b3a42"/>
+  <circle cx="306" cy="336" r="4" fill="#2b3a42"/>
+  <path d="M272 366 Q290 350 308 366" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="360" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">an unkind act reaches</text>
+  <text x="360" y="362" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a hurt feeling</text>
+
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Before I act, I can pause and ask: how will this reach them?</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The rights every child has</title>
+  <desc id="desc">A wheel shows four children's rights around a smiling child at the center. The child sits holding an open book, with a wheelchair beside them shown naturally. Four labeled spokes point outward to four icons: play, drawn as a ball; learn, drawn as an open book; safe, drawn as a house with a roof; and heard, drawn as an ear. A caption below reads "rights every child has," and a note says a right is something every child should be able to do or have, everywhere on Earth. Labels and icons, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Rights Every Child Has</text>
+
+  <!-- connecting spokes -->
+  <line x1="256" y1="230" x2="110" y2="130" stroke="#4f6d7a" stroke-width="3"/>
+  <line x1="256" y1="230" x2="402" y2="130" stroke="#4f6d7a" stroke-width="3"/>
+  <line x1="256" y1="230" x2="110" y2="330" stroke="#4f6d7a" stroke-width="3"/>
+  <line x1="256" y1="230" x2="402" y2="330" stroke="#4f6d7a" stroke-width="3"/>
+
+  <!-- center child with book -->
+  <circle cx="256" cy="230" r="52" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="256" cy="212" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M242 210 A14 14 0 0 1 270 210 Z" fill="#2b3a42"/>
+  <circle cx="251" cy="212" r="1.7" fill="#2b3a42"/>
+  <circle cx="261" cy="212" r="1.7" fill="#2b3a42"/>
+  <path d="M251 219 Q256 224 261 219" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="246" y="226" width="20" height="26" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">every child</text>
+
+  <!-- play icon -->
+  <circle cx="110" cy="122" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="110" cy="122" r="13" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M110 109 A13 13 0 0 1 123 122" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M110 109 A13 13 0 0 0 97 122" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="110" y="174" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">play</text>
+
+  <!-- learn icon -->
+  <circle cx="402" cy="122" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M378 110 L426 110 L426 134 L378 134 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="402" y1="110" x2="402" y2="134" stroke="#2b3a42" stroke-width="2"/>
+  <text x="402" y="174" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">learn</text>
+
+  <!-- safe icon -->
+  <circle cx="110" cy="338" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M96 340 L110 324 L124 340 L124 352 L96 352 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M88 342 L110 322 L132 342" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="110" y="390" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">safe</text>
+
+  <!-- heard icon -->
+  <circle cx="402" cy="338" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M396 318 Q384 324 386 340 Q387 352 398 358 L398 366 Q406 368 408 360 L410 344 Q412 324 402 318 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="402" y="390" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">heard</text>
+
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">A right is something every child should be able to do or have &#8212;</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">everywhere on Earth.</text>
+</svg>
