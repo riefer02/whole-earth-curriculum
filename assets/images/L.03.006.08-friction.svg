@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Friction slows things down</title>
+  <desc>Two drawings side by side. On the left a hand rubs a rough surface with wavy rub marks labeled friction. On the right a toy car slows on a rough surface labeled rough slows more, with a smooth surface labeled smooth slows less. A caption says friction is a force that slows things down when surfaces rub.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Friction slows things down</text>
+
+  <!-- Left: rubbing hands -->
+  <rect x="30" y="70" width="210" height="280" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="135" y="102" text-anchor="middle" font-size="20" fill="#2b3a42" font-weight="bold">Rub = friction</text>
+  <!-- two hands -->
+  <path d="M74 180 Q90 150 118 158 L126 172 Q98 168 90 190 Z" fill="#d9a05b"/>
+  <path d="M158 180 Q140 150 112 160 L104 174 Q132 170 142 192 Z" fill="#8a6b4a"/>
+  <!-- rub marks -->
+  <g stroke="#e0a458" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M100 200 q6 -8 14 0"/>
+    <path d="M116 210 q6 -8 14 0"/>
+    <path d="M132 220 q6 -8 14 0"/>
+  </g>
+  <text x="135" y="262" text-anchor="middle" font-size="16" fill="#222222">Surfaces rub —</text>
+  <text x="135" y="286" text-anchor="middle" font-size="16" fill="#222222">friction warms and</text>
+  <text x="135" y="310" text-anchor="middle" font-size="16" fill="#222222">slows them down</text>
+
+  <!-- Right: rough vs smooth -->
+  <rect x="272" y="70" width="210" height="280" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="377" y="102" text-anchor="middle" font-size="20" fill="#2b3a42" font-weight="bold">Rough vs smooth</text>
+  <!-- rough surface + car near -->
+  <g stroke="#e0a458" stroke-width="4" stroke-linecap="round">
+    <path d="M292 210 q6 -8 14 0 q6 8 14 0 q6 -8 14 0 q6 8 14 0 q6 -8 14 0 q6 8 14 0 q6 -8 14 0 q6 8 14 0"/>
+  </g>
+  <rect x="300" y="176" width="46" height="26" rx="6" fill="#6b93b6"/>
+  <circle cx="312" cy="206" r="8" fill="#2b3a42"/>
+  <circle cx="336" cy="206" r="8" fill="#2b3a42"/>
+  <!-- smooth surface + car far -->
+  <line x1="292" y1="300" x2="462" y2="300" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+  <rect x="410" y="266" width="46" height="26" rx="6" fill="#6b93b6"/>
+  <circle cx="422" cy="296" r="8" fill="#2b3a42"/>
+  <circle cx="446" cy="296" r="8" fill="#2b3a42"/>
+  <text x="377" y="238" text-anchor="middle" font-size="15" fill="#2b3a42">rough — slows more</text>
+  <text x="377" y="330" text-anchor="middle" font-size="15" fill="#2b3a42">smooth — slows less</text>
+
+  <!-- bottom note -->
+  <rect x="60" y="390" width="392" height="76" rx="12" fill="#e0a458" opacity="0.25" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="420" text-anchor="middle" font-size="18" fill="#222222">Friction is a force that slows things down</text>
+  <text x="256" y="448" text-anchor="middle" font-size="16" fill="#4f6d7a">when two surfaces rub together.</text>
+</svg>

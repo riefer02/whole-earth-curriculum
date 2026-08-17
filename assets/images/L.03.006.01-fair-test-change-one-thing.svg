@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>A fair test changes one thing</title>
+  <desc>Two ramps side by side. The first shows a car on a smooth floor labeled keep the same for the car, the ramp, and the release. The second shows the same car and ramp but a rough surface, labeled change one thing. A checkmark marks the one change.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">A fair test changes one thing</text>
+
+  <!-- Left ramp: keep the same -->
+  <rect x="30" y="70" width="210" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="135" y="100" text-anchor="middle" font-size="20" fill="#2b3a42" font-weight="bold">Keep the same</text>
+  <!-- ramp -->
+  <line x1="70" y1="180" x2="200" y2="120" stroke="#4f6d7a" stroke-width="8" stroke-linecap="round"/>
+  <line x1="70" y1="180" x2="200" y2="180" stroke="#4f6d7a" stroke-width="8" stroke-linecap="round"/>
+  <!-- car -->
+  <rect x="150" y="96" width="46" height="26" rx="6" fill="#6b93b6"/>
+  <circle cx="162" cy="126" r="8" fill="#2b3a42"/>
+  <circle cx="186" cy="126" r="8" fill="#2b3a42"/>
+  <!-- same labels -->
+  <text x="135" y="240" text-anchor="middle" font-size="17" fill="#222222">Same car</text>
+  <text x="135" y="268" text-anchor="middle" font-size="17" fill="#222222">Same ramp</text>
+  <text x="135" y="296" text-anchor="middle" font-size="17" fill="#222222">Same release</text>
+  <!-- smooth surface -->
+  <line x1="60" y1="330" x2="210" y2="330" stroke="#7a9e7e" stroke-width="6" stroke-linecap="round"/>
+  <text x="135" y="356" text-anchor="middle" font-size="17" fill="#4f6d7a">Smooth surface</text>
+
+  <!-- Right ramp: change one thing -->
+  <rect x="272" y="70" width="210" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="377" y="100" text-anchor="middle" font-size="20" fill="#2b3a42" font-weight="bold">Change one thing</text>
+  <line x1="312" y1="180" x2="442" y2="120" stroke="#4f6d7a" stroke-width="8" stroke-linecap="round"/>
+  <line x1="312" y1="180" x2="442" y2="180" stroke="#4f6d7a" stroke-width="8" stroke-linecap="round"/>
+  <rect x="392" y="96" width="46" height="26" rx="6" fill="#6b93b6"/>
+  <circle cx="404" cy="126" r="8" fill="#2b3a42"/>
+  <circle cx="428" cy="126" r="8" fill="#2b3a42"/>
+  <text x="377" y="240" text-anchor="middle" font-size="17" fill="#222222">Same car</text>
+  <text x="377" y="268" text-anchor="middle" font-size="17" fill="#222222">Same ramp</text>
+  <text x="377" y="296" text-anchor="middle" font-size="17" fill="#222222">Same release</text>
+  <!-- rough surface -->
+  <line x1="302" y1="330" x2="452" y2="330" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
+  <text x="377" y="356" text-anchor="middle" font-size="17" fill="#4f6d7a">Rough surface</text>
+
+  <!-- bottom note -->
+  <rect x="120" y="410" width="272" height="60" rx="12" fill="#e0a458" opacity="0.25" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="446" text-anchor="middle" font-size="18" fill="#222222">Only ONE thing changes.</text>
+  <text x="256" y="468" text-anchor="middle" font-size="15" fill="#4f6d7a">Everything else stays the same.</text>
+</svg>

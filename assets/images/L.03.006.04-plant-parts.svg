@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>A plant's helping parts</title>
+  <desc>A labeled plant: roots reach down into the soil, a stem stands up from the soil, and leaves reach toward the Sun. Three short labels explain each part's job.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">A plant's helping parts</text>
+
+  <!-- Sun -->
+  <circle cx="420" cy="86" r="24" fill="#e0a458"/>
+  <g stroke="#e0a458" stroke-width="5" stroke-linecap="round">
+    <line x1="420" y1="48" x2="420" y2="38"/>
+    <line x1="420" y1="124" x2="420" y2="134"/>
+    <line x1="382" y1="86" x2="372" y2="86"/>
+    <line x1="458" y1="86" x2="468" y2="86"/>
+    <line x1="393" y1="59" x2="386" y2="52"/>
+    <line x1="447" y1="59" x2="454" y2="52"/>
+  </g>
+  <text x="420" y="150" text-anchor="middle" font-size="15" fill="#4f6d7a">Sunlight</text>
+
+  <!-- stem -->
+  <rect x="246" y="180" width="20" height="200" rx="8" fill="#7a9e7e"/>
+  <!-- leaves -->
+  <ellipse cx="214" cy="250" rx="42" ry="18" fill="#7a9e7e" transform="rotate(-24 214 250)"/>
+  <ellipse cx="298" cy="300" rx="42" ry="18" fill="#7a9e7e" transform="rotate(20 298 300)"/>
+  <ellipse cx="204" cy="360" rx="40" ry="16" fill="#7a9e7e" transform="rotate(-18 204 360)"/>
+
+  <!-- soil -->
+  <path d="M110 390 L402 390 L402 470 Q256 452 110 470 Z" fill="#d9c7a3" stroke="#4f6d7a" stroke-width="3"/>
+  <!-- roots -->
+  <g stroke="#8a6b4a" stroke-width="7" stroke-linecap="round" fill="none">
+    <path d="M256 400 Q236 430 220 452"/>
+    <path d="M256 400 Q276 434 296 456"/>
+    <path d="M256 400 Q256 440 256 462"/>
+    <path d="M256 400 Q214 420 202 440"/>
+    <path d="M256 400 Q298 422 312 442"/>
+  </g>
+
+  <!-- labels -->
+  <text x="256" y="166" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">Leaves</text>
+  <text x="256" y="186" text-anchor="middle" font-size="13" fill="#4f6d7a">catch sunlight, make food</text>
+  <text x="196" y="200" text-anchor="middle" font-size="13" fill="#4f6d7a">.</text>
+
+  <text x="330" y="286" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">Stem</text>
+  <text x="330" y="306" text-anchor="middle" font-size="13" fill="#4f6d7a">carries water up</text>
+
+  <text x="256" y="492" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">Roots</text>
+  <text x="256" y="510" text-anchor="middle" font-size="13" fill="#4f6d7a">drink water, hold the plant</text>
+</svg>

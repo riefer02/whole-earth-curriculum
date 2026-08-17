@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Push and pull</title>
+  <desc>Two labeled drawings side by side. On the left a hand pushes a toy car away labeled push. On the right a hand pulls a small wagon toward itself labeled pull. A caption below says forces change motion: start, stop, speed up, slow down, turn.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Push and pull</text>
+
+  <!-- Push -->
+  <rect x="30" y="70" width="210" height="280" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="135" y="102" text-anchor="middle" font-size="21" fill="#2b3a42" font-weight="bold">Push</text>
+  <!-- hand -->
+  <path d="M88 176 L92 196 L104 198 L108 180 Z" fill="#d9a05b"/>
+  <circle cx="118" cy="176" r="16" fill="#d9a05b"/>
+  <line x1="134" y1="170" x2="150" y2="162" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="150,158 160,160 152,168" fill="#2b3a42"/>
+  <!-- car -->
+  <rect x="166" y="150" width="60" height="34" rx="8" fill="#6b93b6"/>
+  <circle cx="180" cy="188" r="9" fill="#2b3a42"/>
+  <circle cx="212" cy="188" r="9" fill="#2b3a42"/>
+  <text x="135" y="236" text-anchor="middle" font-size="17" fill="#222222">A push moves it away</text>
+  <text x="135" y="262" text-anchor="middle" font-size="15" fill="#4f6d7a">starts it, speeds it up</text>
+  <text x="135" y="288" text-anchor="middle" font-size="15" fill="#4f6d7a">or turns it</text>
+
+  <!-- Pull -->
+  <rect x="272" y="70" width="210" height="280" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="377" y="102" text-anchor="middle" font-size="21" fill="#2b3a42" font-weight="bold">Pull</text>
+  <!-- wagon -->
+  <rect x="296" y="140" width="64" height="40" rx="8" fill="#7a9e7e"/>
+  <circle cx="310" cy="184" r="9" fill="#2b3a42"/>
+  <circle cx="346" cy="184" r="9" fill="#2b3a42"/>
+  <line x1="360" y1="150" x2="392" y2="172" stroke="#2b3a42" stroke-width="4"/>
+  <!-- hand pulling -->
+  <path d="M392 176 L396 194 L408 196 L410 178 Z" fill="#8a6b4a"/>
+  <circle cx="420" cy="172" r="16" fill="#8a6b4a"/>
+  <line x1="434" y1="168" x2="448" y2="162" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <text x="377" y="236" text-anchor="middle" font-size="17" fill="#222222">A pull moves it toward you</text>
+  <text x="377" y="262" text-anchor="middle" font-size="15" fill="#4f6d7a">slows it down or</text>
+  <text x="377" y="288" text-anchor="middle" font-size="15" fill="#4f6d7a">stops it</text>
+
+  <!-- bottom note -->
+  <rect x="60" y="390" width="392" height="76" rx="12" fill="#6b93b6" opacity="0.18" stroke="#6b93b6" stroke-width="2"/>
+  <text x="256" y="420" text-anchor="middle" font-size="18" fill="#222222">A force is a push or a pull.</text>
+  <text x="256" y="448" text-anchor="middle" font-size="16" fill="#4f6d7a">It starts, stops, speeds up, slows down, or turns.</text>
+</svg>

@@ -2695,7 +2695,7 @@ items:
     type: lesson
     grade: 3
     domain: D06
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2707,6 +2707,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (633 files). IDs L.03.006.01-.10 sequential, sequence_in_unit 1-10, unit U.03.006, grade 3; all 10 carry Procedure/Assessment/Connection. Objectives resolve to the 8 real Grade-3 D06 standards only — no invented IDs. unit.md Lessons table lists all 10. Example: L9 corrects misconception 'not the Sun moving — you riding a spinning Earth' + 'tilt not distance makes seasons'; L1 Connection 'toy car smooth floor vs rough mat → change only surface'; sources BBC Bitesize/NASA Space Place. Science accurate (food chain, plant parts, states of matter, forces/friction, seasons); L8 links back to L1 fair test. validate passes."
+      fact-checker:
+        verdict: passed
+        note: Science verified accurate (food chains Sun→producer→consumer→decomposer; plant parts; states of matter; melt/freeze/evaporate/condense; push/pull; friction; rotation→day/night + tilt→seasons no geocentrism). NASA Space Place S-030 on-topic for L9. Fixed 3 broken 404 URLs (L1/2 z2mdtcw, L6 z9ckcqt, L10 z8v9pbk) + 4 mislabeled citations (L3 game not article; L4 KS1 mislabeled KS2; L7 KS3 mislabeled KS2; L8 KS3 topic). Registered S-070-S-079 reviewed:true. Corrected celery→'leaf stalks not true stems'. Evidence vs values + origins as story-not-creed. validate passes (633 files).
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric/single-civilization default: food chains name rice (Asia), seaweed/ocean, acacia+giraffe (Africa), maize+hen (Americas); plant parts use global staples (rice/maize/sugarcane/sweet potato/spinach); seasons lesson handles latitude (near-equator vs far north/south) not Northern-temperate default; low-tech variants remove urban/material default. §11 multiple-traditions in seasons/food-chain notes; fix: surfaced it to learner in L9 Close (scientific evidence + other knowledge traditions side by side in body, not only teacher note). validate passes (633 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech + enriched all 10; alt text all 10 assets (SVGs role=img/title/desc, all visual distinctions smooth/rough/day-night/solid-liquid-gas labeled in words not color-only). Non-visual observation (blind/low-vision touch/hear/partner-describe every experiment); non-speaking (pointing/acting/card-sorting). Fix: added explicit 'Support (motor): direct a partner while you name/point' to 7 active-experiment lessons (1,2,5,6,7,8,9) so none assumes able-bodied fieldwork. validate passes (633 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: D06.S1.03.01-S4.03.02 → D06.S1-S4 → D06 → P3 → vision; no invented IDs. Lenses: ethics (L1 'fair=honest not winning'; L2 data-as-honesty 'discovery not defeat'; L4 respect for living plant; L10 no winners/rankings), egalitarianism (L3 'no link more important'; L7 'include every body'; low-tech/non-speaking/blind/motor variants all 10), global (rice/seaweed/acacia/maize; global staple plants; latitude seasons), tech/env (L8 friction tools 'not to fear'; environment L2-10; land-shaping with hope+agency). Evidence vs values (BBC/NASA each lesson; 'names are tools'; 'science is one way of knowing not the only one'). §11 origins as stories alongside traditions, never creed; science as inquiry not dogma. validate passes (633 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: concrete-operational inquiry (ramp/car fair test, tally tables, card food chains, held states of matter, felt forces, ball+lamp day/night model); no premature particle abstraction (L5-6 macro shapes/flow, particles deferred); tilt-causes-seasons via physical model + 'still-learning' path. Emotional safety: changing world natural not eco-anxiety (L9 'no fear — steady reliable rhythm'; L10 erosion slow natural + child agency 'hope not fear'; death only as matter-of-fact decomposition kept warm; forces de-violenced). Physical fit: hands-on + fine-motor + whole-body; heat sources adult-handled; tug 'gentle and even'. Open-ended §11 (origins/season stories co-honored with evidence; 'I still wonder'). Spiral (builds Gr2 predict-and-test; spaces test-more-than-once/conservation to Gr4; Wonder Fair non-competitive). validate passes (633 files)."
   - id: B-306
     title: Author lessons for Unit U.03.007 (Making, Music & Movement)
     agent: lesson-author

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Record and read the data</title>
+  <desc>A simple data table with two columns labeled smooth and rough. The smooth column has three tally marks, the rough column has one. An arrow points to a sentence below that reads the data: the car rolled farther on smooth.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Record and read the data</text>
+
+  <!-- table -->
+  <g stroke="#2b3a42" stroke-width="3">
+    <rect x="120" y="80" width="272" height="220" rx="10" fill="#fdfbf7"/>
+    <line x1="256" y1="80" x2="256" y2="300"/>
+    <line x1="120" y1="140" x2="392" y2="140"/>
+  </g>
+  <text x="188" y="118" text-anchor="middle" font-size="22" fill="#2b3a42" font-weight="bold">Smooth</text>
+  <text x="324" y="118" text-anchor="middle" font-size="22" fill="#2b3a42" font-weight="bold">Rough</text>
+
+  <!-- tally marks smooth (3) -->
+  <g stroke="#7a9e7e" stroke-width="6" stroke-linecap="round">
+    <line x1="150" y1="170" x2="150" y2="280"/>
+    <line x1="178" y1="170" x2="178" y2="280"/>
+    <line x1="206" y1="170" x2="206" y2="280"/>
+    <line x1="150" y1="170" x2="206" y2="280"/>
+  </g>
+  <!-- tally marks rough (1) -->
+  <g stroke="#e0a458" stroke-width="6" stroke-linecap="round">
+    <line x1="300" y1="170" x2="300" y2="280"/>
+  </g>
+
+  <!-- arrow down -->
+  <line x1="256" y1="320" x2="256" y2="360" stroke="#4f6d7a" stroke-width="4"/>
+  <polygon points="248,356 256,372 264,356" fill="#4f6d7a"/>
+
+  <!-- description box -->
+  <rect x="90" y="378" width="332" height="72" rx="12" fill="#6b93b6" opacity="0.18" stroke="#6b93b6" stroke-width="2"/>
+  <text x="256" y="410" text-anchor="middle" font-size="18" fill="#222222">The data show:</text>
+  <text x="256" y="436" text-anchor="middle" font-size="16" fill="#2b3a42">the car rolled farther on the smooth floor.</text>
+</svg>

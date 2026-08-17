@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Three states of matter</title>
+  <desc>Three labeled examples: a stone labeled solid keeps its shape, water pouring from one cup to another labeled liquid takes the shape of its container, and air spreading out of a bag labeled gas fills the space.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Three states of matter</text>
+
+  <!-- Solid -->
+  <rect x="30" y="80" width="140" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="112" text-anchor="middle" font-size="21" fill="#2b3a42" font-weight="bold">Solid</text>
+  <path d="M70 220 Q70 170 100 170 Q130 170 130 220 Q130 260 100 260 Q70 260 70 220 Z" fill="#8a6b4a"/>
+  <text x="100" y="300" text-anchor="middle" font-size="16" fill="#222222">A stone</text>
+  <text x="100" y="326" text-anchor="middle" font-size="15" fill="#4f6d7a">keeps its shape</text>
+
+  <!-- Liquid -->
+  <rect x="196" y="80" width="140" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="266" y="112" text-anchor="middle" font-size="21" fill="#2b3a42" font-weight="bold">Liquid</text>
+  <!-- two cups -->
+  <path d="M220 150 L250 220 L270 150 Z" fill="#6b93b6"/>
+  <rect x="250" y="150" width="40" height="70" rx="6" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M256 150 Q262 168 258 176 Q252 168 256 150" fill="#6b93b6"/>
+  <text x="266" y="300" text-anchor="middle" font-size="16" fill="#222222">Water</text>
+  <text x="266" y="326" text-anchor="middle" font-size="15" fill="#4f6d7a">flows, takes the</text>
+  <text x="266" y="346" text-anchor="middle" font-size="15" fill="#4f6d7a">container's shape</text>
+
+  <!-- Gas -->
+  <rect x="362" y="80" width="140" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="432" y="112" text-anchor="middle" font-size="21" fill="#2b3a42" font-weight="bold">Gas</text>
+  <!-- bag with air -->
+  <path d="M396 170 L468 170 L468 210 Q432 220 396 210 Z" fill="#e0a458" opacity="0.5" stroke="#e0a458" stroke-width="3"/>
+  <!-- air dots -->
+  <g fill="#6b93b6">
+    <circle cx="414" cy="196" r="4"/><circle cx="430" cy="188" r="4"/><circle cx="446" cy="200" r="4"/>
+    <circle cx="422" cy="208" r="4"/><circle cx="440" cy="214" r="4"/>
+  </g>
+  <text x="432" y="300" text-anchor="middle" font-size="16" fill="#222222">Air</text>
+  <text x="432" y="326" text-anchor="middle" font-size="15" fill="#4f6d7a">spreads out to</text>
+  <text x="432" y="346" text-anchor="middle" font-size="15" fill="#4f6d7a">fill the space</text>
+
+  <!-- bottom note -->
+  <rect x="90" y="410" width="332" height="56" rx="12" fill="#6b93b6" opacity="0.18" stroke="#6b93b6" stroke-width="2"/>
+  <text x="256" y="444" text-anchor="middle" font-size="17" fill="#222222">Three states of the same stuff — all matter.</text>
+</svg>

@@ -62,3 +62,13 @@ evidence is distinguished from belief.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | A Fair Test: Change One Thing | D06.S1.03.01 |
+| 2 | Record and Read the Data | D06.S1.03.02, D06.S1.03.01 |
+| 3 | Who Eats What? A Food Chain | D06.S2.03.01 |
+| 4 | A Plant's Helping Parts | D06.S2.03.02 |
+| 5 | Solids, Liquids, and Gases | D06.S3.03.01 |
+| 6 | Heating and Cooling Change States | D06.S3.03.01 |
+| 7 | Push and Pull: Forces and Motion | D06.S3.03.02 |
+| 8 | Friction: The Slow-Down Force | D06.S3.03.02 |
+| 9 | Day, Night, and the Seasons | D06.S4.03.01 |
+| 10 | The Changing World Wonder Fair | D06.S4.03.02 (plus unit review) |

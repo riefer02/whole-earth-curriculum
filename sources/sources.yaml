@@ -647,3 +647,93 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in L.03.002.07 (Moving with Rhythm) and L.03.002.09 (Hand–Eye Coordination) for the claim that children need regular movement for healthy growth. URL verified live (2026-08-16); page dated 26 June 2024. States verbatim: 'In children and adolescents, physical activity promotes bone health, encourages healthy growth and development of muscle, and improves motor and cognitive development.' Supports the lessons' hedged general claim."
+
+  - id: S-070
+    title: BBC Bitesize (KS2) — What is a fair test?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zqkk7ty/articles/z69qwnb
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.03.006 L01 (A Fair Test — Change One Thing). URL verified live (2026-08-17) via the KS2 Science subjects index (topic zqkk7ty 'Working scientifically'): the article 'What is a fair test?' ('Learn how to make a test fair when working scientifically') supports the lesson's core method — change one variable, keep the rest the same. Replaces the broken topic URL z2mdtcw (404)."
+
+  - id: S-071
+    title: BBC Bitesize (KS2) — Recording and presenting scientific data
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zqkk7ty/articles/zdwttrd
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.03.006 L02 (Record and Read the Data). URL verified live (2026-08-17) via the KS2 'Working scientifically' topic zqkk7ty: article 'Recording and presenting scientific data' supports the lesson's table/tally/drawing recording and reading-back claim. Replaces the broken topic URL z2mdtcw (404)."
+
+  - id: S-072
+    title: BBC Bitesize (KS2) — What is a food chain?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zcyycdm/articles/zww9r2p
+    organization: BBC Bitesize
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.03.006 L03 (Who Eats What?). URL verified live (2026-08-17). States: plants make their own food and are producers; animals that eat them are consumers (primary/secondary); energy flows from the Sun along the chain (arrows point producer→consumer); chains join into food webs. Supports the producer/consumer/energy-flow claims. Does NOT name decomposers — that step is covered by the companion article S-073 ('What is a microorganism?'). Replaces zbnnb9q/articles/zsphrwx (a food-chain game, mislabeled as the article)."
+
+  - id: S-073
+    title: BBC Bitesize (KS2) — What is a microorganism?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zsgtrwx
+    organization: BBC Bitesize
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.03.006 L03 for the decomposer step. URL verified live (2026-08-17). States verbatim: 'Fungi take in dead matter and help turn it back into nutrients for the soil' and 'Bacteria are a microorganism which can break down plants to release nutrients into the soil'; calls the process decomposition and fungi 'a natural recycler.' Supports the lesson's claim that worms, fungi, and tiny living things break down dead matter and return nutrients to the soil."
+
+  - id: S-074
+    title: BBC Bitesize (KS2) — The structure of flowering plants
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zy66fg8/articles/z2d4g7h
+    organization: BBC Bitesize
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.03.006 L04 (A Plant's Helping Parts). URL verified live (2026-08-17). States: roots take up water and nutrients and keep the plant steady; the stem carries water and nutrients; leaves use light from the Sun (with water and carbon dioxide) to make food (photosynthesis). Supports each of the lesson's three-part claims. Replaces the KS1 topic zpxnyrd (mislabeled KS2) and its non-existent sub-article titles."
+
+  - id: S-075
+    title: BBC Bitesize (KS2) — Solids, liquids and gases
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zgwc96f/articles/zngfp4j
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.03.006 L05 (Solids, Liquids, and Gases). URL verified live (2026-08-17). States: solids keep their shape; liquids flow and change shape to fit their container; gases have no fixed shape and spread to fill the space. Supports each of the lesson's three state rules. Corrected from the stale topic ID zkgg87h to the canonical states-of-matter topic zgwc96f (same article ID)."
+
+  - id: S-076
+    title: BBC Bitesize (KS2) — Changing states
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zgwc96f/articles/zwj9r2p
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.03.006 L06 (Heating and Cooling Change States). URL verified live (2026-08-17). States: heating melts a solid to a liquid and boils/evaporates a liquid to a gas; cooling freezes a liquid to a solid and condenses a gas to a liquid; these changes are reversible. Supports every change-of-state claim in the lesson. Replaces the 404 URL zkgg87h/articles/z9ckcqt."
+
+  - id: S-077
+    title: BBC Bitesize (KS2, NI) — What is a force?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zvr3nrd/articles/zywcrdm
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.03.006 L07 (Push and Pull — Forces and Motion). URL verified live (2026-08-17) via the KS2 NI 'The World Around Us' Forces topic zvr3nrd: the article 'What is a force?' ('Find out how forces, like pushes and pulls, move objects') supports the lesson's claim that a force is a push or pull that changes motion. Replaces the KS3 topic z4brd2p (mislabeled KS2) whose cited article title did not exist."
+
+  - id: S-078
+    title: BBC Bitesize (KS2, NI) — What is friction?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zvr3nrd/articles/zxqrdxs
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.03.006 L08 (Friction — The Slow-Down Force). URL verified live (2026-08-17). States verbatim: 'Friction is a force between two surfaces... Friction always slows a moving object down'; 'The rougher the surface, the more friction is produced'; 'Friction also produces heat'; and that friction is useful (grip, brakes) but sometimes reduced (oil). Supports every friction claim in the lesson. Normalized from the KS3 topic ID z4brd2p to the canonical KS2 NI Forces topic zvr3nrd (same article ID)."
+
+  - id: S-079
+    title: "BBC Bitesize (Scotland, 2nd level) — Coastlines: erosion"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/articles/z7rwdp3
+    organization: BBC Bitesize
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.03.006 L10 (The Changing World Wonder Fair). URL verified live (2026-08-17). Defines erosion as 'the wearing away of pieces of rock, soil or other solid materials' and shows the sea wearing away the land (waves → cracks → caves → arches → stacks), i.e., how water shapes the land over time. Supports the lesson's core erosion claim (the water/waves/rivers case and the general 'wearing away over time' idea); the lesson's wind-dunes and ice-glaciers sub-claims are standard, accurate Earth science not detailed on this page. Replaces the 404 topic URL z8v9pbk ('How does weather change the landscape?' — no such article)."

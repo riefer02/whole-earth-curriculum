@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>The changing world wonder fair</title>
+  <desc>A wall of cards gathering the unit's ideas — fair test, data, food chain, plant parts, states of matter, forces, day and night, and the shaping land — arranged around a center card that reads I still wonder.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">The changing world wonder fair</text>
+
+  <!-- center card -->
+  <rect x="181" y="196" width="150" height="90" rx="12" fill="#e0a458" opacity="0.35" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="238" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">I still</text>
+  <text x="256" y="262" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">wonder…</text>
+
+  <!-- surrounding cards -->
+  <g font-size="15" fill="#222222" text-anchor="middle">
+    <rect x="36" y="80" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="96" y="108">fair test</text>
+    <text x="96" y="128">change one thing</text>
+
+    <rect x="176" y="80" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="236" y="108">data</text>
+    <text x="236" y="128">record and read</text>
+
+    <rect x="316" y="80" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="376" y="108">food chain</text>
+    <text x="376" y="128">Sun to soil</text>
+
+    <rect x="36" y="160" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="96" y="188">plant parts</text>
+    <text x="96" y="208">roots, stem, leaves</text>
+
+    <rect x="316" y="160" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="376" y="188">states of matter</text>
+    <text x="376" y="208">heat and cool</text>
+
+    <rect x="36" y="306" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="96" y="334">forces</text>
+    <text x="96" y="354">push, pull, friction</text>
+
+    <rect x="316" y="306" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="376" y="334">day and night</text>
+    <text x="376" y="354">Earth turns</text>
+
+    <rect x="176" y="306" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="236" y="334">the land</text>
+    <text x="236" y="354">wind, water, ice</text>
+  </g>
+
+  <text x="256" y="430" text-anchor="middle" font-size="16" fill="#4f6d7a">Everything you tested, drew, and found — and what you still wonder.</text>
+</svg>
