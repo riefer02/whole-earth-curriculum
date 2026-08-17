@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Building a balanced meal</title>
+  <desc id="desc">A round plate divided into three labeled sections — grains, vegetables and fruits, and protein — with a small glass of water beside it. Each section holds simple example foods: rice and flatbread for grains, greens and a mango for vegetables and fruits, and beans, egg, and fish for protein. The labels and shapes carry the idea so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Build a Balanced Meal</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Choose foods from several different groups.</text>
+
+  <!-- Plate -->
+  <circle cx="240" cy="300" r="170" fill="#ffffff" stroke="#4f6d7a" stroke-width="3"/>
+  <circle cx="240" cy="300" r="140" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="240" y1="300" x2="240" y2="160" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="240" y1="300" x2="119" y2="369" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="240" y1="300" x2="361" y2="369" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Grains section (top) -->
+  <text x="240" y="188" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">grains</text>
+  <path d="M196 232 A30 30 0 0 0 256 232 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="286" cy="224" rx="22" ry="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Vegetables & fruits section (lower left) -->
+  <text x="176" y="330" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">vegetables</text>
+  <text x="176" y="350" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">&amp; fruits</text>
+  <path d="M140 404 q-16 -12 0 -26 q16 14 0 26 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="196" cy="416" rx="14" ry="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Protein section (lower right) -->
+  <text x="308" y="330" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">protein</text>
+  <ellipse cx="288" cy="398" rx="10" ry="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+  <ellipse cx="300" cy="394" rx="10" ry="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+  <ellipse cx="294" cy="405" rx="10" ry="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M348 404 q12 -10 24 0 q-12 10 -24 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Water -->
+  <g>
+    <rect x="436" y="232" width="46" height="66" rx="6" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+    <path d="M442 288 q8 -14 16 -28 q8 14 16 28 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="459" y="324" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">water</text>
+  </g>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">A balanced meal = foods from several groups, plus water to drink.</text>
+</svg>

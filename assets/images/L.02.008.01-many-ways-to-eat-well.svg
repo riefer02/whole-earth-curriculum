@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Many ways to eat well</title>
+  <desc id="desc">Four equal plates, side by side, each showing a real meal from a different tradition — rice and beans with greens; flatbread and lentils with vegetables; fish and root vegetables; and maize porridge with fruit. Every plate is the same size and each carries a written label, so the idea that many ways of eating can all be well reads clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Many Ways to Eat Well</text>
+
+  <!-- Plate 1 -->
+  <g>
+    <circle cx="140" cy="190" r="92" fill="#ffffff" stroke="#4f6d7a" stroke-width="3"/>
+    <circle cx="140" cy="190" r="72" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M90 190 A50 50 0 0 0 190 190 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="118" cy="182" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="134" cy="178" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="150" cy="182" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="162" cy="186" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M104 206 q18 -14 36 0 q-18 14 -36 0 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M112 210 q14 -10 28 0 q-14 10 -28 0 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">rice &amp; beans</text>
+    <text x="140" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">with greens</text>
+  </g>
+
+  <!-- Plate 2 -->
+  <g>
+    <circle cx="396" cy="190" r="92" fill="#ffffff" stroke="#4f6d7a" stroke-width="3"/>
+    <circle cx="396" cy="190" r="72" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="396" cy="180" rx="52" ry="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="378" cy="200" rx="9" ry="6" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <ellipse cx="396" cy="204" rx="9" ry="6" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <ellipse cx="414" cy="200" rx="9" ry="6" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M366 214 q-14 -10 0 -20 q14 10 0 20 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="396" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">flatbread &amp; lentils</text>
+    <text x="396" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">with vegetables</text>
+  </g>
+
+  <!-- Plate 3 -->
+  <g>
+    <circle cx="140" cy="440" r="70" fill="#ffffff" stroke="#4f6d7a" stroke-width="3"/>
+    <path d="M96 440 q22 -22 44 0 q-22 22 -44 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="118" cy="437" r="2.4" fill="#2b3a42"/>
+    <path d="M112 452 q-16 -6 0 -14 q16 8 0 14 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="162" cy="452" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M172 452 q8 -6 4 -12 q-8 2 -4 12 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="520" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">fish &amp; roots</text>
+  </g>
+
+  <!-- Plate 4 -->
+  <g>
+    <circle cx="396" cy="440" r="70" fill="#ffffff" stroke="#4f6d7a" stroke-width="3"/>
+    <path d="M356 440 A40 40 0 0 0 436 440 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="372" cy="436" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="388" cy="432" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="404" cy="436" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M360 452 q20 -12 40 0 q-20 12 -40 0 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="416" cy="452" r="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="396" y="520" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">maize &amp; fruit</text>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" visibility="hidden">.</text>
+</svg>

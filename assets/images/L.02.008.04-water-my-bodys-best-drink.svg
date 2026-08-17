@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Water, my body's drink</title>
+  <desc id="desc">A child with varied features drinks from a cup; a large water drop, a glass, and a cup sit beside them. Labels read drink when thirsty, water every day, and clean water is not available to everyone. Sources of clean water — a tap, a well, and a boiled kettle — are drawn small and labeled, so the idea that water keeps the body well and that clean water is precious reads clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Water: My Body's Drink</text>
+
+  <!-- Child -->
+  <g>
+    <circle cx="150" cy="180" r="40" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 200 q32 -34 64 0 q-12 34 -32 34 q-20 0 -32 -34 Z" fill="#2b3a42"/>
+    <circle cx="138" cy="176" r="3.4" fill="#2b3a42"/>
+    <circle cx="162" cy="176" r="3.4" fill="#2b3a42"/>
+    <path d="M140 194 q10 7 20 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M110 150 q40 -30 80 0 l-6 20 q-34 -24 -68 0 Z" fill="#e0a458"/>
+    <path d="M150 240 q-30 60 -40 120 l12 8 q20 -50 30 -80 q10 30 30 80 l12 -8 q-10 -60 -40 -120 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="126" y="238" width="48" height="18" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M126 244 l24 12 l24 -12 l0 6 l-24 12 l-24 -12 Z" fill="#4f6d7a"/>
+  </g>
+
+  <!-- Cup in hand -->
+  <g>
+    <rect x="186" y="214" width="34" height="40" rx="5" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+    <path d="M192 250 q6 -9 12 -18 q6 9 12 18 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- Big drop -->
+  <g>
+    <path d="M352 150 q30 -44 60 0 q-30 44 -60 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="382" y="220" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">water every day</text>
+  </g>
+
+  <!-- Glass -->
+  <g>
+    <rect x="330" y="260" width="44" height="72" rx="6" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+    <path d="M336 326 q8 -16 16 -32 q8 16 16 32 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="352" y="352" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">drink when thirsty</text>
+
+  <!-- Sources of clean water -->
+  <g>
+    <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">Where clean water comes from:</text>
+    <rect x="52" y="428" width="110" height="56" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M74 476 q-4 -8 -2 -18 q14 -22 30 -22 q16 0 30 22 q2 10 -2 18 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="107" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">tap</text>
+    <rect x="180" y="428" width="110" height="56" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="235" cy="468" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M235 452 l0 4 m0 8 l0 4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="235" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">well</text>
+    <rect x="308" y="428" width="110" height="56" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M340 452 q-8 -10 -4 -20 q10 -6 16 0 q10 6 4 20 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M346 452 l6 18 l-6 6 l-6 -6 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="363" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">boiled</text>
+  </g>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" visibility="hidden">.</text>
+</svg>

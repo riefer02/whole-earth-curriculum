@@ -50,3 +50,11 @@ range of bodies and ways of eating is honored.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Many Ways to Eat Well | D03.S3.02.01 |
+| 2 | Building a Balanced Meal | D03.S3.02.01 |
+| 3 | Balanced Meals Around the World | D03.S3.02.01 |
+| 4 | Water, My Body's Drink | D03.S3.02.02 |
+| 5 | Why We Wash Our Hands | D03.S4.02.01 |
+| 6 | Why We Brush and Rest | D03.S4.02.01 |
+| 7 | My Trusted Adults at Home and School | D03.S4.02.02 |
+| 8 | Asking for Help When I Need It | D03.S4.02.02 |

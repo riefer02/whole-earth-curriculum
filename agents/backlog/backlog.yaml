@@ -2325,7 +2325,7 @@ items:
     type: lesson
     grade: 2
     domain: D03
-    status: ready
+    status: done
     priority: 57
     depends_on:
       - B-064
@@ -2337,6 +2337,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (525 files). IDs L.02.008.01-.08 sequential, sequence_in_unit 1-8, unit U.02.008, grade 2; all 8 carry Procedure/Assessment/Connection. Objectives resolve to real Grade-2 D03 standards only (S3.02.01 x3, S3.02.02 x1, S4.02.01 x2, S4.02.02 x2). unit.md Lessons table lists all 8. Example: L6 Connection faithful to D03.S4.02.01, health claims cite WHO oral health + AASM 9-12h sleep. No-shame stance (L1 'never tie food to body size')."
+      fact-checker:
+        verdict: passed
+        note: Nutrition (L1-3) accurate/hedged, WHO Healthy-diet S-038; no food moralizing. Water (L4) 'drink when thirsty' + clean-water-not-everyone; registered WHO Drinking-water S-049 (2.2B lack safely managed services). Hand hygiene (L5) soap/20-sec/ash, WHO S-016. Oral+sleep (L6) WHO S-017 + registered AASM Pediatric Sleep S-050 (9-12h ages 6-12). Trusted adults (L7-8) safeguarding as values; registered WHO Preventing violence S-051. Evidence vs values cleanly distinguished ('The health facts are from...'). validate passes (525 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Framing: food taxonomy hedged ('four groups are ONE way to sort, not the only right one') so no Western schema imposed; no mother/father default (trusted adults = caregiver/grandparent/aunt/uncle/neighbor/teacher/nurse/coach/community helper). Representation: rice/beans/greens, flatbread/lentils, maize/fish/fruit, millet, roots, mango (Africa/LatAm/South Asia/ME/East Asia/Indigenous Americas), dairy absent. Water/hygiene: 'a question of justice not personal failing'; tap/well/boiled/carried; ash-when-no-soap; chewing stick/clean finger. Foods tied to land never exoticized. Non-blocking: L6 AASM is authoritative (global pediatric consensus) but could add international society. validate passes (525 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Vision-free food sorting L1-3 (tactile/verbal); waterless hygiene L5 (bucket/pour-jug/ash), L6 (clean finger/chewing stick); non-speaking trusted-adult paths L7-8 (sign/point/draw/tap/picture); materials_low_tech all 8 (paper/crayons/dirt/found foods/voice+body); alt text all 8 assets (SVGs role=img/title/desc + grayscale note). Fixes: added blind/low-vision accommodations to L4 (water) and L7 (trusted adults) for uniform UDL coverage. validate passes (525 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (water as justice question, asking for help is strength, consent applies to all), egalitarianism (no food/body/family shaming, vegetarian honored, water scarcity fairness not personal failing), global (world meal traditions, ash/chewing-stick/finger, 'adults vary across families/cultures'), tech/env (water conservation, food-from-land, soap/ash). Evidence vs values (WHO diet/water/hand-hygiene/oral/violence-prevention + AASM; 'no meal ranked'/'never tie food to body size' as norms not facts). Consent/body-belonging as dignity + safeguarding guidance. Traceability: D03.S3.02.x/S4.02.x → D03.S3/S4 → D03 → P2 → vision. Non-blocking: tech sub-lens thin; L7-8 cross_cutting_lenses tags (community/social-emotional vs global/environment). validate passes (525 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive: health concepts concrete/embodied (sorting real food cards, feeling thirst, practicing handwash/brush, hand-tracing). Emotional safety: zero weight/appearance/body-size language; forbids food shaming + scarcity-as-shame; trusted-adult L7-8 reassuring + child-led (learner chooses whom to trust, 'asking for help is strength'), never forces disclosure, correct safeguarding (believe/don't press/report); safety at 'unsafe → tell a trusted adult' never graphic/frightening. Physical fit: big-motor + fine-motor with motor/non-speaking/blind/deaf accommodations. Open-ended ('one way to sort not the only right one'). Non-blocking polish: 'capstone' appears in L8 key_vocabulary (teacher-facing term, could drop). validate passes (525 files)."
   - id: B-208
     title: Author lessons for Unit U.02.009 (People, Places and Long Ago)
     agent: lesson-author

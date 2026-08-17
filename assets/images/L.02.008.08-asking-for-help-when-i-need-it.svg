@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Asking for help when I need it</title>
+  <desc id="desc">A child with a raised hand and a speech bubble saying I need help stands before a trusted adult who listens. Below, four labeled cards show different situations: feeling sick, feeling hurt, feeling lost, and feeling unsafe or uncomfortable. Each card shows a simple scene. Labels and shapes carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Asking for Help</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Different situations, one strong thing to do: tell a trusted adult.</text>
+
+  <!-- Child with raised hand -->
+  <g>
+    <circle cx="150" cy="150" r="34" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M122 168 q28 -28 56 0 q-4 26 -28 26 q-24 0 -28 -26 Z" fill="#2b3a42"/>
+    <circle cx="140" cy="146" r="3" fill="#2b3a42"/>
+    <circle cx="160" cy="146" r="3" fill="#2b3a42"/>
+    <path d="M142 160 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M186 130 l0 -34 l-12 8 m12 -8 l12 8" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M178 136 q-4 -18 -8 -34 q-4 18 -8 34" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="126" y="196" width="48" height="44" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M150 196 l0 44" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Speech bubble -->
+  <g>
+    <path d="M204 118 q0 -18 22 -18 l70 0 q22 0 22 18 l0 36 q0 18 -22 18 l-56 0 l-22 20 l6 -24 q-20 -4 -20 -14 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="261" y="140" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">I need help.</text>
+  </g>
+
+  <!-- Trusted adult -->
+  <g>
+    <circle cx="420" cy="150" r="36" fill="#8d6e63" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M388 178 q32 -34 64 0 q-4 28 -32 28 q-28 0 -32 -28 Z" fill="#2b3a42"/>
+    <path d="M420 170 l0 66" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
+    <rect x="392" y="236" width="56" height="52" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M420 178 q0 -8 10 -8" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">a trusted adult listens</text>
+  </g>
+
+  <!-- Situation cards -->
+  <g>
+    <rect x="28" y="356" width="106" height="132" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="81" cy="394" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M71 392 q10 -6 20 0 m-16 8 q6 -6 12 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="81" y="446" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">feeling sick</text>
+
+    <rect x="146" y="356" width="106" height="132" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M186 386 l0 22 m0 0 l-8 16 q-4 8 -10 8 q-8 0 -4 -8 l6 -12" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="199" y="446" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">feeling hurt</text>
+
+    <rect x="264" y="356" width="106" height="132" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="317" cy="396" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="317" y="401" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">?</text>
+    <text x="317" y="446" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">feeling lost</text>
+
+    <rect x="382" y="356" width="106" height="132" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M422 384 q0 -14 13 -14 q13 0 13 14 q0 10 -7 16 l-6 10 l-6 -10 q-7 -6 -7 -16 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M428 410 q2 4 7 4 q5 0 7 -4" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="435" y="446" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">feeling unsafe</text>
+  </g>
+
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">Keep telling until someone listens and helps. Telling is never wrong.</text>
+</svg>

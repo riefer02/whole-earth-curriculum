@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Why we wash our hands</title>
+  <desc id="desc">Two hands under running water with soap, while small round germs are carried away from the hands and swirl down a drain. Below, four labeled boxes show when to wash: before eating, after the bathroom, after coughing or sneezing, and after touching an animal. The labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Why We Wash Our Hands</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Soap and water carry germs away.</text>
+
+  <!-- Tap and water -->
+  <g>
+    <path d="M214 96 q0 -14 12 -14 q8 0 10 6 l14 34 l-28 0 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M226 126 l4 96" stroke="#6b93b6" stroke-width="10" stroke-linecap="round"/>
+    <path d="M218 150 q12 40 0 80 q-12 30 -10 50" fill="none" stroke="#6b93b6" stroke-width="8" stroke-linecap="round" opacity="0.85"/>
+    <path d="M234 150 q12 40 0 80" fill="none" stroke="#6b93b6" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  </g>
+
+  <!-- Hands -->
+  <g>
+    <path d="M150 214 q10 -26 40 -26 q28 0 40 24 q-14 16 -24 26 q-8 8 -16 8 q-8 0 -16 -8 q-10 -10 -24 -24 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M150 214 l-6 30 q-2 10 6 12 l10 2" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M230 214 l6 30 q2 10 -6 12 l-10 2" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M166 226 l22 16 m0 0 l24 -16" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Germs being carried away -->
+  <g>
+    <circle cx="300" cy="250" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="322" cy="270" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="344" cy="300" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="300" cy="330" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M292 360 q28 14 56 0" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <text x="320" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">germs</text>
+  </g>
+
+  <!-- When to wash -->
+  <g>
+    <rect x="28" y="392" width="106" height="96" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <ellipse cx="66" cy="430" rx="18" ry="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="90" y="426" width="18" height="6" rx="2" fill="#2b3a42"/>
+    <text x="81" y="468" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">before eating</text>
+
+    <rect x="146" y="392" width="106" height="96" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="199" cy="436" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M199 420 l0 10" stroke="#2b3a42" stroke-width="2"/>
+    <text x="199" y="468" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">after the bathroom</text>
+
+    <rect x="264" y="392" width="106" height="96" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M300 430 q0 -10 8 -10 l16 0 q8 0 8 10 l-4 6 q-4 4 -12 4 l-12 0 q-8 0 -12 -4 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="317" y="468" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">after coughing or sneezing</text>
+
+    <rect x="382" y="392" width="106" height="96" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="420" cy="436" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M431 430 l8 -6 m0 12 l-8 -6" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M409 436 l-6 4 m0 -8 l6 4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="435" y="468" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">after touching an animal</text>
+  </g>
+</svg>

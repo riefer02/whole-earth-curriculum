@@ -453,3 +453,32 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in U.02.006 L10 (capstone) as a family-facing index of the unit's science topics. URL verified live (2026-08-16): the Primary hub (ages 3–11) aggregates KS1/KS2 science games and guides. General index, not a claim-level citation."
+
+  - id: S-049
+    title: WHO — Drinking-water fact sheet
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/drinking-water
+    organization: World Health Organization
+    year: 2023
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.02.008 L04 (water: body's drink). URL verified live (2026-08-16); page dated 13 Sept 2023. States water is essential for the body and public health, and frames safe/readily-available water as important for health — supports the lesson's hedged claims that the body is mostly water, that water is the everyday drink, and (Key facts: 2.2 billion people lack safely managed drinking-water services) that clean water is not available to everyone. On-topic; the 'not available to everyone' claim is a documented global fact, held by the lesson as a justice/values framing, not a personal failing."
+
+  - id: S-050
+    title: AASM — Recommended Amount of Sleep for Pediatric Populations
+    type: article
+    url: https://aasm.org/resources/pdf/pediatricsleepdurationconsensus.pdf
+    organization: American Academy of Sleep Medicine
+    year: 2016
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.02.008 L06 (sleep: 9–12 hours for ages 6–12). Official AASM consensus statement (Paruthi et al., J Clin Sleep Med 2016;12(6):785–786). PDF URL verified live (2026-08-16) — resolves to the AASM-hosted consensus statement. Recommends school-aged children (6–12 years) get 9–12 hours of sleep per 24 hours, matching the lesson's 'about 9 to 12 hours' phrasing. US-centric source but the recommendation is the standard international benchmark for pediatric sleep duration; lesson treats it as a general guide and explicitly allows for family variation."
+
+  - id: S-051
+    title: WHO — Preventing violence against children
+    type: website
+    url: https://www.who.int/teams/social-determinants-of-health/violence-prevention
+    organization: World Health Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.02.008 L07/L08 (trusted adults; telling a trusted adult keeps children safe). URL verified live (2026-08-16) — the Prevention of Violence (PVL) unit under WHO Social Determinants of Health; page emphasizes preventing violence against children, including via INSPIRE strategies and supportive adult relationships. On-topic as a general authority for the lesson's safety framing (a value/protective frame, not a claim-level citation). The lesson's safeguarding guidance (believe, don't promise secrecy, report) is standard child-protection practice and is not attributed to this page."
