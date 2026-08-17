@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Same feeling, many ways to show it</title>
+  <desc id="desc">Three panels, each showing a different family expressing the same feeling of joy in its own way. Panel one shows a family in a loud group hug. Panel two shows a family with quiet smiles and a gentle nod. Panel three shows a family singing and dancing. A caption reads "Same feeling, many ways to show it — none better than another." The figures vary in skin tone and clothing, and shapes and labels, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Same Feeling: Joy — Three Families</text>
+
+  <!-- Panel 1: loud group hug -->
+  <rect x="18" y="76" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="93" y="104" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">a loud group hug</text>
+  <!-- three figures hugging, arms wide -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="66" cy="190" r="17" fill="#f5d6b6"/>
+    <circle cx="93" cy="184" r="17" fill="#8f5f3d"/>
+    <circle cx="120" cy="190" r="17" fill="#e6bb92"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66 207 L66 268" />
+    <path d="M93 201 L93 262" />
+    <path d="M120 207 L120 268" />
+    <path d="M66 220 L44 246" />
+    <path d="M120 220 L142 246" />
+    <path d="M66 220 L120 220" />
+    <path d="M44 246 L50 274" />
+    <path d="M142 246 L136 274" />
+  </g>
+  <!-- smiling mouths -->
+  <path d="M58 194 Q66 200 74 194" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M85 188 Q93 194 101 188" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M112 194 Q120 200 128 194" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- laugh lines / sound marks -->
+  <text x="44" y="150" font-family="sans-serif" font-size="16" fill="#e0a458">ha!</text>
+  <text x="128" y="152" font-family="sans-serif" font-size="16" fill="#e0a458">ha!</text>
+
+  <!-- Panel 2: quiet smiles and a nod -->
+  <rect x="181" y="76" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">quiet smiles, a nod</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="220" cy="200" r="17" fill="#ab7a4e"/>
+    <circle cx="292" cy="200" r="17" fill="#f5d6b6"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M220 217 L220 268" />
+    <path d="M292 217 L292 268" />
+    <path d="M220 240 L292 240" />
+  </g>
+  <!-- gentle smiles -->
+  <path d="M212 204 Q220 210 228 204" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M284 204 Q292 210 300 204" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- nod arrows (subtle head motion) -->
+  <path d="M238 176 L238 192" fill="none" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+  <path d="M234 184 L238 190 L242 184" fill="none" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a soft "mhmm"</text>
+
+  <!-- Panel 3: singing and dancing -->
+  <rect x="344" y="76" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="419" y="104" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">a song, a dance</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="398" cy="196" r="17" fill="#c99567"/>
+    <circle cx="440" cy="196" r="17" fill="#8f5f3d"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M398 213 L398 250 L380 272" />
+    <path d="M440 213 L440 250 L458 272" />
+    <path d="M398 226 L372 206" />
+    <path d="M440 226 L466 206" />
+  </g>
+  <!-- open singing mouths -->
+  <ellipse cx="398" cy="202" rx="5" ry="7" fill="#2b3a42"/>
+  <ellipse cx="440" cy="202" rx="5" ry="7" fill="#2b3a42"/>
+  <!-- music notes -->
+  <g fill="#e0a458" stroke="#e0a458" stroke-width="1">
+    <circle cx="416" cy="150" r="4"/>
+    <line x1="420" y1="150" x2="420" y2="132" stroke-width="2"/>
+    <path d="M420 132 Q428 130 428 140" fill="none" stroke="#e0a458" stroke-width="2"/>
+    <circle cx="452" cy="162" r="4"/>
+    <line x1="456" y1="162" x2="456" y2="144" stroke-width="2"/>
+    <path d="M456 144 Q464 142 464 152" fill="none" stroke="#e0a458" stroke-width="2"/>
+  </g>
+
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Same feeling, many ways to show it — none better than another.</text>
+</svg>

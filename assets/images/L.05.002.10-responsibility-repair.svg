@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Choice, effect, repair</title>
+  <desc id="desc">A three-step path drawn as stepping stones. Stone one is labeled "choice" and shows a child bumping a table so a bowl spills. Stone two is labeled "effect" and shows the spilled bowl and a sad friend. Stone three is labeled "repair" and shows the child handing back the bowl with a kind word and a speech bubble reading "I'm sorry, let me help." Arrows connect the stones, and a caption reads "Mistakes can be repaired." Labels and shapes, not color alone, carry the meaning so the path prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="29" font-weight="bold" fill="#2b3a42">Choice, Effect, Repair</text>
+
+  <!-- Stone 1: choice -->
+  <ellipse cx="92" cy="180" rx="82" ry="60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="150" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">choice</text>
+  <!-- child bumping table -->
+  <line x1="20" y1="208" x2="164" y2="208" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="70" y="182" width="44" height="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- bowl tipping -->
+  <path d="M120 180 Q132 168 140 182 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- child -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="58" cy="174" r="14" fill="#ab7a4e"/>
+    <path d="M58 188 L58 208"/>
+    <path d="M58 194 L42 202"/>
+    <path d="M58 194 L74 202"/>
+  </g>
+
+  <!-- arrow 1 -->
+  <path d="M178 180 L206 180" stroke="#4f6d7a" stroke-width="3" fill="none"/>
+  <path d="M200 174 L208 180 L200 186" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Stone 2: effect -->
+  <ellipse cx="256" cy="180" rx="82" ry="60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">effect</text>
+  <line x1="184" y1="208" x2="328" y2="208" stroke="#2b3a42" stroke-width="2"/>
+  <!-- spilled bowl on ground -->
+  <path d="M250 208 Q262 196 270 208 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M258 202 Q262 208 266 202" fill="none" stroke="#e0a458" stroke-width="2"/>
+  <!-- sad friend -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="286" cy="182" r="14" fill="#f5d6b6"/>
+    <path d="M286 196 L286 208"/>
+    <path d="M286 200 L274 206"/>
+  </g>
+  <path d="M280 186 Q286 182 292 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- tear -->
+  <ellipse cx="294" cy="178" rx="2" ry="3" fill="#6b93b6"/>
+
+  <!-- arrow 2 -->
+  <path d="M342 180 L370 180" stroke="#4f6d7a" stroke-width="3" fill="none"/>
+  <path d="M364 174 L372 180 L364 186" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Stone 3: repair -->
+  <ellipse cx="420" cy="180" rx="82" ry="60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="150" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">repair</text>
+  <line x1="348" y1="208" x2="492" y2="208" stroke="#2b3a42" stroke-width="2"/>
+  <!-- child handing bowl back -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="390" cy="174" r="14" fill="#ab7a4e"/>
+    <path d="M390 188 L390 208"/>
+    <path d="M390 194 L374 202"/>
+    <path d="M390 194 L406 202"/>
+    <path d="M406 190 L432 186"/>
+  </g>
+  <path d="M432 178 Q444 168 452 180 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- friend with small smile -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="458" cy="182" r="14" fill="#f5d6b6"/>
+    <path d="M458 196 L458 208"/>
+  </g>
+  <path d="M452 186 Q458 190 464 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- speech bubble -->
+  <rect x="356" y="250" width="156" height="34" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M402 284 L396 296 L418 284" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="434" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">I'm sorry, let me help.</text>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">Mistakes can be repaired — and a better next step follows.</text>
+
+  <!-- better next step strip -->
+  <rect x="96" y="388" width="320" height="46" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">next step: carry bowls with two hands, watch where I walk</text>
+</svg>

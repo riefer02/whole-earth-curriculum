@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What helps and hurts my focus</title>
+  <desc id="desc">A two-column chart titled "What helps and hurts my focus." The left column, marked with an upward arrow and labeled "helps," shows a quiet room, a water glass, and a written plan. The right column, marked with a dashed downward arrow and labeled "hurts," shows a ringing phone, a noisy crowd, and an empty stomach. Icons differ in shape and label, not color alone, so the chart prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Helps and Hurts My Focus</text>
+
+  <!-- Column 1: helps -->
+  <rect x="20" y="84" width="226" height="360" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="133" y="116" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#7a9e7e">helps</text>
+  <!-- up arrow -->
+  <path d="M133 132 L133 156" stroke="#7a9e7e" stroke-width="3" fill="none"/>
+  <path d="M125 150 L133 158 L141 150" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- quiet room -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="60" y="184" width="52" height="40" fill="#ffffff"/>
+    <path d="M54 184 L86 162 L118 184"/>
+  </g>
+  <text x="142" y="210" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a quiet spot</text>
+
+  <!-- water glass -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78 250 L82 286 L96 286 L100 250 Z" fill="#c9d6df"/>
+  </g>
+  <text x="142" y="274" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a glass of water</text>
+
+  <!-- written plan -->
+  <rect x="62" y="308" width="54" height="36" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="70" y1="320" x2="108" y2="320" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="70" y1="328" x2="108" y2="328" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="70" y1="336" x2="96" y2="336" stroke="#2b3a42" stroke-width="2"/>
+  <text x="142" y="332" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a clear plan</text>
+
+  <!-- Column 2: hurts -->
+  <rect x="266" y="84" width="226" height="360" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="379" y="116" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#4f6d7a">hurts</text>
+  <!-- dashed down arrow -->
+  <line x1="379" y1="132" x2="379" y2="156" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="4 4"/>
+  <path d="M371 150 L379 158 L387 150" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- ringing phone -->
+  <rect x="306" y="182" width="26" height="42" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="314" y1="216" x2="324" y2="216" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+    <path d="M300 176 Q298 168 304 164"/>
+    <path d="M336 176 Q338 168 332 164"/>
+  </g>
+  <text x="388" y="210" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a ringing phone</text>
+
+  <!-- noisy crowd -->
+  <g stroke="#2b3a42" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="316" cy="254" r="9" fill="#e6bb92"/>
+    <circle cx="338" cy="254" r="9" fill="#c99567"/>
+    <circle cx="328" cy="242" r="9" fill="#f5d6b6"/>
+  </g>
+  <text x="388" y="258" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a noisy crowd</text>
+
+  <!-- empty stomach -->
+  <path d="M310 320 Q322 302 334 320 Q334 334 322 334 Q310 334 310 320 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M314 324 Q322 330 330 324" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="388" y="328" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">an empty stomach</text>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Notice what helps and what hurts — then guide your lantern back.</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three values: fairness, honesty, kindness</title>
+  <desc id="desc">Three value cards side by side. The first card shows a balanced set of scales and the label "fairness." The second card shows an open honest hand with a small mirror and the label "honesty." The third card shows two hands passing a bowl of food to another and the label "kindness." Each card uses a distinct symbol plus a label so the meaning prints clearly in grayscale, independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Three Values</text>
+
+  <!-- Card 1: fairness (scales) -->
+  <rect x="18" y="84" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="93" y1="140" x2="93" y2="250"/>
+    <line x1="93" y1="150" x2="140" y2="150"/>
+    <line x1="60" y1="150" x2="46" y2="150"/>
+    <path d="M60 150 L60 190"/>
+    <path d="M126 150 L126 190"/>
+    <path d="M38 190 Q60 216 82 190" />
+    <path d="M104 190 Q126 216 148 190" />
+  </g>
+  <!-- equal-weight blocks in pans -->
+  <rect x="48" y="172" width="24" height="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="114" y="172" width="24" height="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="93" y="290" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">fairness</text>
+  <text x="93" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">everyone gets</text>
+  <text x="93" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a fair share</text>
+
+  <!-- Card 2: honesty (open hand + mirror) -->
+  <rect x="181" y="84" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- open hand, palm up -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 250 L256 300"/>
+    <path d="M256 260 L232 250"/>
+    <path d="M256 260 L246 240"/>
+    <path d="M256 260 L262 240"/>
+    <path d="M256 260 L276 252"/>
+  </g>
+  <circle cx="256" cy="254" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- mirror -->
+  <ellipse cx="256" cy="180" rx="24" ry="30" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M244 170 Q256 162 268 170" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">honesty</text>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">tell the truth,</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">be real</text>
+
+  <!-- Card 3: kindness (hands passing a bowl) -->
+  <rect x="344" y="84" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- bowl being passed -->
+  <path d="M394 200 Q419 224 444 200 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- two hands -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M382 208 L368 224"/>
+    <path d="M406 214 L400 230"/>
+    <path d="M456 208 L470 224"/>
+    <path d="M432 214 L438 230"/>
+  </g>
+  <!-- little heart above -->
+  <path d="M419 156 Q414 148 419 142 Q424 148 419 156 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="419" y="290" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">kindness</text>
+  <text x="419" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">care and help</text>
+  <text x="419" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">others</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Values guide what we do — your compass is your own.</text>
+</svg>

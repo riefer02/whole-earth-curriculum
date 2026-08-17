@@ -1455,3 +1455,31 @@ sources:
     domains: [D02, D09]
     reviewed: true
     notes: "Cited in U.04.012 L05 (Welcome In) for belonging and inclusion across cultures — one of the four pillars of learning from the Delors report (Learning: The Treasure Within, 1996). URL verified live (2026-08-17). Used as a value frame, not a factual claim."
+
+  - id: S-159
+    title: "Beck — Cognitive Therapy and the Emotional Disorders"
+    type: book
+    organization: International Universities Press
+    year: 1976
+    domains: [D01]
+    reviewed: true
+    notes: "Aaron T. Beck (1976). Cognitive Therapy and the Emotional Disorders. International Universities Press. Cited in U.05.002 L01 for the cognitive-appraisal claim (thoughts/interpretations shape emotion), the founding basis of cognitive-behavioral therapy. Real, foundational text. No URL (print book)."
+
+  - id: S-160
+    title: "Ekman & Friesen — The Repertoire of Nonverbal Behavior"
+    type: article
+    url: https://doi.org/10.1515/semi.1969.1.1.49
+    organization: Semiotica
+    year: 1969
+    domains: [D01]
+    reviewed: true
+    notes: "Ekman, P., & Friesen, W. V. (1969). The repertoire of nonverbal behavior: Categories, origins, usage, and coding. Semiotica, 1(1), 49–98. Cited in U.05.002 L03/L04 for 'display rules' — how the expression of feeling differs across families and cultures. Real, foundational emotion-research article."
+
+  - id: S-161
+    title: "Zehr — Changing Lenses (restorative justice)"
+    type: book
+    organization: Herald Press
+    year: 1990
+    domains: [D09]
+    reviewed: true
+    notes: "Howard Zehr (1990). Changing Lenses: A New Focus for Crime and Justice. Herald Press. Cited in U.05.002 L10 for the 'repair over punishment' restorative-justice framing. Real, seminal restorative-justice text; complements the IIRP frame (S-022). No URL (print book)."

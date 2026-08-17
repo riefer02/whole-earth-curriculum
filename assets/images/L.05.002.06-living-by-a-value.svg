@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Living by honesty: from choice to action</title>
+  <desc id="desc">A two-panel sequence titled "Living by honesty." Panel one shows a child finding a dropped coin purse on a path, labeled "choice." Panel two shows the same child handing the purse back to a relieved adult while a small speech bubble reads "This is yours," labeled "action." Labels and a connecting arrow show a value turned into a real deed. The figures vary in skin tone, and the sequence prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="29" font-weight="bold" fill="#2b3a42">Living by Honesty</text>
+
+  <!-- Panel 1: finding the purse -->
+  <rect x="20" y="86" width="222" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="131" y="116" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">choice</text>
+  <!-- ground -->
+  <line x1="30" y1="300" x2="232" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M30 300 Q80 292 131 300 Q180 308 232 300" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+  <!-- child figure looking down -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="90" cy="220" r="17" fill="#ab7a4e"/>
+    <path d="M90 237 L90 288"/>
+    <path d="M90 252 L72 274"/>
+    <path d="M90 252 L108 274"/>
+  </g>
+  <!-- purse on ground -->
+  <path d="M140 292 Q156 276 172 292 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M148 292 Q156 286 164 292" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- question mark -->
+  <text x="156" y="210" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#e0a458">?</text>
+
+  <!-- arrow between panels -->
+  <path d="M250 236 L262 236" stroke="#4f6d7a" stroke-width="3" fill="none"/>
+  <path d="M256 230 L264 236 L256 242" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Panel 2: returning the purse -->
+  <rect x="270" y="86" width="222" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="381" y="116" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">action</text>
+  <line x1="280" y1="300" x2="482" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <!-- adult (taller) -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="420" cy="206" r="18" fill="#8f5f3d"/>
+    <path d="M420 224 L420 290"/>
+    <path d="M420 244 L398 268"/>
+    <path d="M420 244 L442 268"/>
+  </g>
+  <path d="M412 210 Q420 216 428 210" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- child handing over -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="340" cy="220" r="17" fill="#ab7a4e"/>
+    <path d="M340 237 L340 288"/>
+    <path d="M340 252 L322 274"/>
+    <path d="M340 252 L358 274"/>
+    <path d="M340 244 L384 238"/>
+  </g>
+  <!-- purse in the handing hand -->
+  <path d="M384 232 Q396 222 404 232 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- speech bubble -->
+  <rect x="288" y="330" width="150" height="40" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M330 370 L324 384 L344 370" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="363" y="355" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">This is yours.</text>
+
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">A value is proven by what you do.</text>
+</svg>

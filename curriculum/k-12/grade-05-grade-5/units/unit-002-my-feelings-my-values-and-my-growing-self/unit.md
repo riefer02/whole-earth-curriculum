@@ -58,3 +58,13 @@ pace are honored.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.002.01 | Thoughts Shape My Feelings | D01.S1.05.01 |
+| L.05.002.02 | Memories and My Body Shape a Feeling | D01.S1.05.01 |
+| L.05.002.03 | How Different Families Show Feelings | D01.S1.05.02 |
+| L.05.002.04 | How Cultures and Situations Shape Feeling Expression | D01.S1.05.02 |
+| L.05.002.05 | The Values I Care About | D01.S2.05.01 |
+| L.05.002.06 | Living by a Value I Care About | D01.S2.05.01 |
+| L.05.002.07 | What Shapes Me: Family, Culture, Place, and History | D01.S2.05.02 |
+| L.05.002.08 | My Identity Map and Every Family's Shape | D01.S2.05.02 |
+| L.05.002.09 | Watching My Focus: What Helps and What Hurts | D01.S3.05.01 |
+| L.05.002.10 | Owning My Choices and Making It Right | D01.S3.05.02 (capstone: revisits D01.S1.05.01, D01.S2.05.01) |

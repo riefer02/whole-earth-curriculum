@@ -3398,7 +3398,7 @@ items:
     type: lesson
     grade: 5
     domain: D01
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3410,6 +3410,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (824). IDs L.05.002.01-.10 sequence_in_unit 1-10, grade 5, unit U.05.002; objectives resolve to real grade-5 D01 standards (D01.S1.05.01/.02, S2.05.01/.02, S3.05.01/.02); headings + cross_cutting_lenses/assets all 10; unit.md table maps correctly (L10 capstone lists S3.05.02 + revisits S1/S2); Connection L1 concrete (same rain -> two thoughts -> two feelings), L10 (own it -> notice effect -> repair 'never shame'); sources Beck/CASEL; age-appropriate guard against pushing reframing of painful events.
+      fact-checker:
+        verdict: passed
+        note: "Claims verified: Beck cognitive-appraisal (L1) accurate CBT basis; memory/body shaping feeling hedged ('can signal and shape'); Ekman & Friesen display-rules (L3/4) real concept + non-ranking felt-vs-shown; values uncontroversial + evidence-vs-values separated; Kirschner S-011; Erikson identity (S-155); focus metacognition hedged; Zehr/IIRP repair-over-punishment; CASEL S-001 all 10 with correct competencies. Registered 3: S-159 Beck 1976, S-160 Ekman & Friesen 1969, S-161 Zehr 1990. validate passes (824)."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Euro default (contexts span city/mountain farm/market/grandmother's kitchen/under a tree); L3/4 cross-cultural non-ranking ('no family's way better', guards 'too loud/quiet/weird', family 'people who care for you', greetings bow/handshake/hug/raised-hand/nod, 'let them be the authority'); L7/8 identity 4 shapers + Kofi example + honors two/one/grandparents/adoptive/foster/chosen/blended 'no map more complete'; L5/6 values non-ranked 'honor each learner's genuine values', 'inquiry not creed', names Amara/Jun/Priya. Non-blocking: CASEL/Beck Western citations are factual not value-superiority."
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier all 10 (dirt/sand drawing, spoken circles, stones/sticks, voice/body); SVG role=img+title+desc+non-empty alt all 10 grayscale-safe (solid vs dashed arrows, distinct icons); L2 body scan 'close eyes OR soften gaze' optional + draw/write/scribe/verbal memory-object; greeting-gesture + role-play paired/optional with written/drawn; focus-pause 'clap OR raised hand' dual-modality; non-vocal + non-visual paths for feeling/value/identity reflection; no wealth assumption.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L5 evidence-vs-values philosophy 5, L6 'value proven by deeds', L10 non-shaming repair); egalitarianism (non-ranking 'no family's way better', every family shape L3/7/8, values differ without one superior); global (greetings-around-world L4, cross-cultural display rules, Amara/Jun/Priya/Kofi, no Euro default); tech light (L9 devices as focus helpers vs hurts). No hierarchy. Traceability: Vision->P1->D01->S1/S2/S3->standards->U.05.002->10 lessons; all 6 objectives resolve to real grade-5 standards; L10 capstone revisits S1.05.01+S2.05.01; validate passes (824)."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band (10-11, 3-5 upper): cognitive concrete anchors (event->thought->feeling chain, sorting cards, four-petal/identity-map, worked examples; 'cognitive appraisal'/'display rules' only in facilitator Resources); emotional safety L1 forbids pushing reframing of painful events ('second thought another real way never correct', skill is noticing), L2 protects private memories; L10 responsibility non-shaming ('accountability plus repair never shame', name behavior not person, 'choice fixed not child'); L7/8 identity family 'people who care for you' + adoption/loss/moving ordinary not 'special cases', gallery celebrates never ranks; inquiry over creed + spiral from G4."
   - id: B-325
     title: Author lessons for Unit U.05.003 (My Body, My Movement & My Growth)
     agent: lesson-author

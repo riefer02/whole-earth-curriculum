@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My identity map: many parts, one whole self</title>
+  <desc id="desc">An identity map diagram. In the center is a circle labeled "me" with a friendly face. Around it are six connected bubbles labeled "my family," "my culture," "my place," "my history," "my language," and "my interests," each with a small icon: two figures, a bowl and music note, a house, an open book, a speech bubble, and a ball. Lines connect each bubble to the center. Below, a caption reads "Many parts, one whole self — every family's shape belongs." Labels and icons differ in shape, so the map prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Identity Map</text>
+
+  <!-- center me -->
+  <circle cx="256" cy="268" r="46" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="256" cy="262" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="252" cy="258" r="2" fill="#2b3a42"/>
+  <circle cx="260" cy="258" r="2" fill="#2b3a42"/>
+  <path d="M251 268 Q256 271 261 268" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">me</text>
+
+  <!-- connecting lines -->
+  <g stroke="#4f6d7a" stroke-width="2" fill="none">
+    <line x1="256" y1="222" x2="256" y2="170"/>
+    <line x1="302" y1="268" x2="352" y2="268"/>
+    <line x1="256" y1="314" x2="256" y2="362"/>
+    <line x1="210" y1="268" x2="160" y2="268"/>
+    <line x1="292" y1="236" x2="336" y2="200"/>
+    <line x1="220" y1="236" x2="176" y2="200"/>
+  </g>
+
+  <!-- bubble: my family (top) -->
+  <ellipse cx="256" cy="150" rx="70" ry="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="240" cy="144" r="7" fill="#8f5f3d"/>
+    <circle cx="272" cy="144" r="7" fill="#f5d6b6"/>
+    <path d="M240 151 L240 164"/>
+    <path d="M272 151 L272 164"/>
+    <path d="M240 158 L272 158"/>
+  </g>
+  <text x="256" y="132" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">my family</text>
+
+  <!-- bubble: my culture (right) -->
+  <ellipse cx="386" cy="268" rx="66" ry="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M372 272 Q386 284 400 272 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="406" cy="260" r="3" fill="#4f6d7a"/>
+  <text x="386" y="254" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">my culture</text>
+
+  <!-- bubble: my place (bottom) -->
+  <ellipse cx="256" cy="388" rx="70" ry="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M240 392 L246 384 L260 392" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linejoin="round"/>
+  <rect x="244" y="392" width="16" height="12" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">my place</text>
+
+  <!-- bubble: my history (left) -->
+  <ellipse cx="126" cy="268" rx="66" ry="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M112 256 Q126 250 140 256 L140 276 Q126 270 112 276 Z"/>
+    <path d="M140 256 Q154 250 168 256 L168 276 Q154 270 140 276 Z"/>
+  </g>
+  <text x="126" y="254" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">my history</text>
+
+  <!-- bubble: my language (upper right) -->
+  <ellipse cx="352" cy="176" rx="74" ry="28" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M336 182 L352 168 L368 182 L352 192 Z" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+  <text x="352" y="160" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">my language</text>
+
+  <!-- bubble: my interests (upper left) -->
+  <ellipse cx="160" cy="176" rx="74" ry="28" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="160" cy="184" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M160 184 Q162 176 160 170" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="160" y="160" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">my interests</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Many parts, one whole self — every family's shape belongs.</text>
+</svg>

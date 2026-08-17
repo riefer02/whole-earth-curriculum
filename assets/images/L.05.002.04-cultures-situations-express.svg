@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Same feeling, different situation</title>
+  <desc id="desc">A comparison chart titled "Same feeling, different situation." The left column shows a joyful celebration at a festival with a person dancing and arms raised, labeled "at a festival." The right column shows the same joy shown quietly at a solemn ceremony with bowed heads and folded hands, labeled "at a ceremony." Both columns carry the label "feeling: joy," showing that situation changes how a feeling is shown without changing the feeling itself. Labels and shapes, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Same Feeling: Joy — Different Situations</text>
+
+  <!-- Column 1: festival -->
+  <rect x="24" y="80" width="222" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="135" y="110" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">at a festival</text>
+  <!-- dancing figure, arms raised -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="135" cy="170" r="18" fill="#f5d6b6"/>
+    <path d="M135 188 L135 250 L112 300"/>
+    <path d="M135 250 L158 300"/>
+    <path d="M135 206 L108 172"/>
+    <path d="M135 206 L162 172"/>
+  </g>
+  <ellipse cx="135" cy="176" rx="5" ry="7" fill="#2b3a42"/>
+  <!-- motion marks -->
+  <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
+    <path d="M92 150 Q86 162 92 172"/>
+    <path d="M178 150 Q184 162 178 172"/>
+    <line x1="108" y1="150" x2="104" y2="142"/>
+    <line x1="162" y1="150" x2="166" y2="142"/>
+  </g>
+  <!-- bunting flags -->
+  <path d="M60 128 L210 128" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M70 128 L80 148 L90 128 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1"/>
+  <path d="M100 128 L110 148 L120 128 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/>
+  <path d="M130 128 L140 148 L150 128 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1"/>
+  <path d="M160 128 L170 148 L180 128 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1"/>
+  <path d="M190 128 L200 148 L210 128 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/>
+
+  <!-- Column 2: ceremony -->
+  <rect x="266" y="80" width="222" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="377" y="110" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">at a ceremony</text>
+  <!-- two figures, bowed heads, folded hands -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="330" cy="200" r="16" fill="#ab7a4e"/>
+    <circle cx="424" cy="200" r="16" fill="#e6bb92"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M330 216 L330 268"/>
+    <path d="M424 216 L424 268"/>
+    <path d="M330 236 L316 226"/>
+    <path d="M424 236 L438 226"/>
+    <path d="M316 226 L316 244"/>
+    <path d="M438 226 L438 244"/>
+  </g>
+  <!-- gentle smiles -->
+  <path d="M322 204 Q330 210 338 204" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M416 204 Q424 210 432 204" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- folded hands -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5">
+    <ellipse cx="330" cy="262" rx="8" ry="5"/>
+    <ellipse cx="424" cy="262" rx="8" ry="5"/>
+  </g>
+  <!-- candle -->
+  <rect x="372" y="150" width="10" height="26" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M377 140 Q377 130 372 130 Q367 130 367 140 Q367 146 377 150" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <ellipse cx="377" cy="130" rx="3" ry="5" fill="#e0a458"/>
+
+  <text x="135" y="388" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">feeling: joy</text>
+  <text x="377" y="388" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">feeling: joy</text>
+
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">The situation changes how it is shown — not the feeling itself.</text>
+</svg>
