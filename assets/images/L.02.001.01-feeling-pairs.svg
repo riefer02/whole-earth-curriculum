@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Feelings that look alike: two pairs</title>
+  <desc id="desc">A chart with two rows of look-alike feeling cards. Top row: "mad" (a face with tight angled brows and an open shouting mouth, hot cheeks) beside "frustrated" (a face scrunched with effort, wavy brow, tight mouth, a sweat drop), each with a one-line clue. Bottom row: "sad" (a face with a frown and a tear) beside "disappointed" (a face with a frown and a drooping balloon, hoping for something that did not happen). A note at the bottom says the two feelings are alike but not the same, and a clue question helps tell them apart. The faces and labels, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Feelings That Look Alike</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Alike, but not the same.</text>
+
+  <!-- ===== Row 1: mad vs frustrated ===== -->
+  <!-- mad card -->
+  <g>
+    <rect x="16" y="88" width="232" height="188" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="132" cy="148" r="30" fill="#d6b0a0" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M106 138 A26 26 0 0 1 158 138 Z" fill="#2b3a42"/>
+    <line x1="112" y1="130" x2="124" y2="140" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="152" y1="130" x2="140" y2="140" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="122" cy="152" r="2.6" fill="#2b3a42"/>
+    <circle cx="142" cy="152" r="2.6" fill="#2b3a42"/>
+    <path d="M122 162 Q132 156 142 162" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="110" cy="158" r="6" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="154" cy="158" r="6" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
+    <text x="132" y="200" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">mad</text>
+    <text x="132" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Something blocked me.</text>
+    <text x="132" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">I want it back now.</text>
+  </g>
+
+  <!-- frustrated card -->
+  <g>
+    <rect x="264" y="88" width="232" height="188" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="380" cy="148" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M354 138 A26 26 0 0 1 406 138 Z" fill="#2b3a42"/>
+    <path d="M360 132 L368 138 L376 132" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M384 132 L392 138 L400 132" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="370" cy="152" r="2.6" fill="#2b3a42"/>
+    <circle cx="390" cy="152" r="2.6" fill="#2b3a42"/>
+    <path d="M368 162 Q380 166 392 162" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M396 150 Q400 140 404 148" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="380" y="200" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">frustrated</text>
+    <text x="380" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">I tried and tried.</text>
+    <text x="380" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">It will not work.</text>
+  </g>
+
+  <!-- ===== Row 2: sad vs disappointed ===== -->
+  <!-- sad card -->
+  <g>
+    <rect x="16" y="294" width="232" height="188" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="132" cy="354" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M106 344 A26 26 0 0 1 158 344 Z" fill="#2b3a42"/>
+    <circle cx="122" cy="358" r="2.6" fill="#2b3a42"/>
+    <circle cx="142" cy="358" r="2.6" fill="#2b3a42"/>
+    <path d="M122 372 Q132 364 142 372" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M150 348 Q156 356 150 362 Q144 356 150 348 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="132" y="406" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">sad</text>
+    <text x="132" y="432" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">I lost something</text>
+    <text x="132" y="450" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">I love.</text>
+  </g>
+
+  <!-- disappointed card -->
+  <g>
+    <rect x="264" y="294" width="232" height="188" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="380" cy="354" r="30" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M354 344 A26 26 0 0 1 406 344 Z" fill="#2b3a42"/>
+    <circle cx="370" cy="358" r="2.6" fill="#2b3a42"/>
+    <circle cx="390" cy="358" r="2.6" fill="#2b3a42"/>
+    <path d="M370 372 Q380 364 390 372" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="428" y1="336" x2="428" y2="356" stroke="#4f6d7a" stroke-width="2"/>
+    <ellipse cx="428" cy="366" rx="10" ry="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="380" y="406" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">disappointed</text>
+    <text x="380" y="432" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">I hoped for it,</text>
+    <text x="380" y="450" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and it did not happen.</text>
+  </g>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A clue question helps you tell the pair apart.</text>
+</svg>

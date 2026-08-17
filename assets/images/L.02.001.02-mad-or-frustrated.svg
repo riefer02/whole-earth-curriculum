@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Mad or frustrated: a clue question</title>
+  <desc id="desc">A comparison card with two faces side by side. Left, "mad": tight angled brows, an open shouting mouth, and hot cheeks, with the clue "something blocked me — I want it back now." Right, "frustrated": scrunched brows, a tight mouth, and a sweat drop, with the clue "I tried and tried — it will not work." Between the two faces a large question mark sits above the clue question "Did something block me, or did my trying not work?" so a learner can use it to sort real moments. Faces and labels, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Mad or Frustrated?</text>
+
+  <!-- mad card -->
+  <g>
+    <rect x="24" y="80" width="204" height="250" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="126" cy="156" r="38" fill="#d6b0a0" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M96 144 A30 30 0 0 1 156 144 Z" fill="#2b3a42"/>
+    <line x1="102" y1="134" x2="118" y2="146" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round"/>
+    <line x1="150" y1="134" x2="134" y2="146" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="114" cy="160" r="3" fill="#2b3a42"/>
+    <circle cx="138" cy="160" r="3" fill="#2b3a42"/>
+    <ellipse cx="126" cy="176" rx="9" ry="12" fill="#2b3a42"/>
+    <circle cx="98" cy="166" r="7" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="154" cy="166" r="7" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
+    <text x="126" y="222" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">mad</text>
+    <text x="126" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Something blocked me.</text>
+    <text x="126" y="274" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">I want it back now.</text>
+  </g>
+
+  <!-- center clue -->
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="44" font-weight="bold" fill="#e0a458">?</text>
+  <rect x="242" y="200" width="28" height="2" fill="#2b3a42"/>
+  <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Did something block me,</text>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">or did my trying not work?</text>
+
+  <!-- frustrated card -->
+  <g>
+    <rect x="284" y="80" width="204" height="250" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="386" cy="156" r="38" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M356 144 A30 30 0 0 1 416 144 Z" fill="#2b3a42"/>
+    <path d="M362 132 L370 140 L378 132" fill="none" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M394 132 L402 140 L410 132" fill="none" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="374" cy="160" r="3" fill="#2b3a42"/>
+    <circle cx="398" cy="160" r="3" fill="#2b3a42"/>
+    <path d="M372 172 Q386 178 400 172" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M408 154 Q414 140 420 150" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="386" y="222" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">frustrated</text>
+    <text x="386" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">I tried and tried.</text>
+    <text x="386" y="274" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">It will not work.</text>
+  </g>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Both feel hot and tight — the clue question tells them apart.</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Pause before I act: three steps</title>
+  <desc id="desc">A three-step poster titled "Pause Before I Act." Step 1 is a raised open hand labeled "Pause — stop and breathe." Step 2 is a speech bubble labeled "Name — I feel ___." Step 3 is two arrows pointing in different directions labeled "Choose — my next step." The three steps are connected by arrows from left to right. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Pause Before I Act</text>
+
+  <!-- Step 1: Pause -->
+  <g>
+    <circle cx="96" cy="150" r="42" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M96 118 L100 140 L116 144 L100 148 L96 168 L92 148 L76 144 L92 140 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6"/>
+    <text x="96" y="224" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Pause</text>
+    <text x="96" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">stop and breathe</text>
+  </g>
+
+  <!-- arrow 1 -->
+  <line x1="142" y1="150" x2="184" y2="150" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M182 143 L196 150 L182 157 Z" fill="#2b3a42"/>
+
+  <!-- Step 2: Name -->
+  <g>
+    <circle cx="256" cy="150" r="42" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <ellipse cx="256" cy="140" rx="26" ry="17" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M240 152 L244 162 L268 162 L272 152 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="224" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Name</text>
+    <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">I feel ___</text>
+  </g>
+
+  <!-- arrow 2 -->
+  <line x1="302" y1="150" x2="344" y2="150" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M342 143 L356 150 L342 157 Z" fill="#2b3a42"/>
+
+  <!-- Step 3: Choose -->
+  <g>
+    <circle cx="416" cy="150" r="42" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M408 136 L424 122 M424 136 L408 122" stroke="#2b3a42" stroke-width="0"/>
+    <line x1="404" y1="128" x2="428" y2="128" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M428 128 L418 122 M428 128 L418 134" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <line x1="404" y1="162" x2="428" y2="162" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M404 162 L414 156 M404 162 L414 168" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <text x="416" y="224" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Choose</text>
+    <text x="416" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">my next step</text>
+  </g>
+
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">You can feel, name, and choose.</text>
+</svg>

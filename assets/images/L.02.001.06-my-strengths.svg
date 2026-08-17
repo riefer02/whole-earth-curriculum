@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My Strengths</title>
+  <desc id="desc">A page titled "My Strengths" with five large empty stars arranged in a loose row. Around the stars are small idea labels with tiny icons: helping a friend (two hands), drawing and making (a pencil and a box), running and moving (a running figure), listening (an ear), and being kind (a heart). The stars are blank so the learner fills in their own strengths. A note at the bottom says a strength is something you can do well, and no strength is better than another. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Strengths</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A strength is something you can do well.</text>
+
+  <!-- five empty stars -->
+  <g fill="none" stroke="#2b3a42" stroke-width="2.5">
+    <path d="M60 140 L69 160 L91 162 L74 176 L79 198 L60 186 L41 198 L46 176 L29 162 L51 160 Z"/>
+    <path d="M166 140 L175 160 L197 162 L180 176 L185 198 L166 186 L147 198 L152 176 L135 162 L157 160 Z"/>
+    <path d="M272 140 L281 160 L303 162 L286 176 L291 198 L272 186 L253 198 L258 176 L241 162 L263 160 Z"/>
+    <path d="M378 140 L387 160 L409 162 L392 176 L397 198 L378 186 L359 198 L364 176 L347 162 L369 160 Z"/>
+    <path d="M484 140 L493 160 L515 162 L498 176 L503 198 L484 186 L465 198 L470 176 L453 162 L475 160 Z"/>
+  </g>
+  <text x="60" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">write it</text>
+  <text x="166" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">or draw it</text>
+  <text x="272" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">in each star</text>
+  <text x="378" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">your own</text>
+  <text x="484" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">strength</text>
+
+  <!-- idea labels with icons -->
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <!-- helping -->
+    <circle cx="90" cy="290" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M83 290 L90 296 L98 284" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="90" y="326" text-anchor="middle">helping</text>
+    <!-- drawing -->
+    <circle cx="196" cy="290" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="190" y="286" width="12" height="8" fill="#2b3a42"/>
+    <text x="196" y="326" text-anchor="middle">making</text>
+    <!-- moving -->
+    <circle cx="302" cy="290" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M294 300 Q302 290 310 300" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="302" y="326" text-anchor="middle">moving</text>
+    <!-- listening -->
+    <circle cx="408" cy="290" r="16" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M400 292 Q408 284 416 292" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="408" y="326" text-anchor="middle">listening</text>
+    <!-- kind -->
+    <path d="M506 286 C502 280 495 280 495 285 C495 289 506 296 506 296 C506 296 517 289 517 285 C517 280 510 280 506 286 Z" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
+    <text x="506" y="326" text-anchor="middle">being kind</text>
+  </g>
+
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Everyone has strengths — and no strength is better than another.</text>
+</svg>

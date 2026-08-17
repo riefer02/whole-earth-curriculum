@@ -55,3 +55,13 @@ pausing before reacting. Every family's shape and every child's pace are honored
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.02.001.01 | Feelings That Look Alike | D01.S1.02.01 |
+| L.02.001.02 | Mad or Frustrated? | D01.S1.02.01 |
+| L.02.001.03 | Sad or Disappointed? | D01.S1.02.01 |
+| L.02.001.04 | Where Feelings Live in My Body | D01.S1.02.02 |
+| L.02.001.05 | My Body Gives Me Clues | D01.S1.02.02 |
+| L.02.001.06 | My Strengths | D01.S2.02.01 |
+| L.02.001.07 | What I'm Still Learning | D01.S2.02.01 |
+| L.02.001.08 | Alike and Different | D01.S2.02.02 |
+| L.02.001.09 | Two Ways to Calm Down | D01.S3.02.01 |
+| L.02.001.10 | Pause Before I Act | D01.S3.02.02 (capstone: revisits D01.S1.02.01, D01.S3.02.01, D01.S2.02.01) |

@@ -2066,7 +2066,7 @@ items:
     type: lesson
     grade: 2
     domain: D01
-    status: ready
+    status: done
     priority: 50
     depends_on:
       - B-064
@@ -2077,7 +2077,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by child-psychologist: Cognitive/physical fit pass; emotional safety mostly pass. BLOCKING: Lesson 6 'My Strengths' anonymous strength-note box has no even-distribution safeguard — a 7-8yo receiving few/no notes while a peer gets many experiences public ranking (its own facilitator note says 'never rank'). Fix: guarantee reciprocity (secret strength partner so each child writes AND receives exactly one note, or pass notes one-to-one in a circle) + add facilitator note 'ensure every learner receives at least one note'.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (446 files). Fix verified in lesson-006: facilitator note 'Ensure every learner receives at least one note: assign each child a secret strength partner...', Procedure step 4 reworked so each child writes+receives exactly one note, self-directed variant 'each writes one strength about the other and swaps'. IDs/headings/objectives unchanged (L.02.001.06, unit U.02.001, D01.S2, D01.S2.02.01). Spot-checked lesson-007/010 — no stray edits."
+      fact-checker:
+        verdict: passed
+        note: Fix is values-only, introduces no factual/medical claims. Sole citation remains CASEL (S-001, reviewed:true) identical across all 10 lessons; no source added/removed/altered. Body-response claims in L4-5 still hedged. validate passes (446 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Reciprocity fix preserves egalitarian framing: secret strength partner gives every child exactly one writer + one recipient ('every person gets exactly one note'; 'no strength is better than another' intact); self-directed variant mirrors give-and-receive symmetry. Spot-check L7 (no ranking ladder) and L8 (no-ranking across skin/language/home/food, 'use the wide word people'). Framing unchanged elsewhere. validate passes (446 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Fix accessible: L6 step 4 still offers 'write or draw' (non-written expression); self-directed variant keeps single-learner path ('fills their stars alone... journal') with swap conditional on partner; lone learner never stranded by secret-partner mechanic. materials_low_tech + alt text intact across all 10 lessons. validate passes (446 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Fix egalitarian (secret strength partner ⇒ each child writes+receives exactly one note; 'no strength is better than another'; 'never rank them' retained; no hierarchy/child left empty-handed) and preserves ethics lens ('Noticing strengths in others is a strength too'). Traceability unbroken: L.02.001.06 → D01.S2.02.01 → D01.S2 → D01 → P1 → vision. Fix values-only (no new claims; CASEL unchanged). validate passes (446 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Fix closes the ranking/shaming vector: note-giving now symmetric (secret strength partner + 'someone has you, too' give/receive cycle handles odd group sizes) so every 7-8yo writes exactly one and receives exactly one; self-directed variant mirrors symmetry; solo learner fills own stars (no comparative exchange). 'No strength is better than another' intact — capability not comparison. validate passes (446 files)."
   - id: B-201
     title: Author lessons for Unit U.02.002 (My Body, My Senses and Movement)
     agent: lesson-author

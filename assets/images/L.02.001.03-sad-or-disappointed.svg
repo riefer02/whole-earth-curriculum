@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sad or disappointed: a clue question</title>
+  <desc id="desc">A comparison card with two faces side by side. Left, "sad": a downturned mouth and a tear, labeled "I lost something I love." Right, "disappointed": a downturned mouth and a drooping balloon, labeled "I hoped for it, and it did not happen." Between them a large question mark sits above the clue question "Did I lose something, or did something I hoped for not happen?" so a learner can use it to sort real moments. Faces and labels, not color, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Sad or Disappointed?</text>
+
+  <!-- sad card -->
+  <g>
+    <rect x="24" y="80" width="204" height="250" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="126" cy="156" r="38" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M96 144 A30 30 0 0 1 156 144 Z" fill="#2b3a42"/>
+    <circle cx="114" cy="160" r="3" fill="#2b3a42"/>
+    <circle cx="138" cy="160" r="3" fill="#2b3a42"/>
+    <path d="M114 178 Q126 168 138 178" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M148 156 Q156 166 148 174 Q140 166 148 156 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="126" y="222" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">sad</text>
+    <text x="126" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">I lost something</text>
+    <text x="126" y="274" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">I love.</text>
+  </g>
+
+  <!-- center clue -->
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="44" font-weight="bold" fill="#e0a458">?</text>
+  <rect x="242" y="200" width="28" height="2" fill="#2b3a42"/>
+  <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Did I lose something,</text>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">or did something I hoped</text>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">for not happen?</text>
+
+  <!-- disappointed card -->
+  <g>
+    <rect x="284" y="80" width="204" height="250" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="386" cy="156" r="38" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M356 144 A30 30 0 0 1 416 144 Z" fill="#2b3a42"/>
+    <circle cx="374" cy="160" r="3" fill="#2b3a42"/>
+    <circle cx="398" cy="160" r="3" fill="#2b3a42"/>
+    <path d="M374 178 Q386 168 398 178" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="440" y1="140" x2="440" y2="164" stroke="#4f6d7a" stroke-width="2.5"/>
+    <ellipse cx="440" cy="176" rx="13" ry="15" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="386" y="222" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">disappointed</text>
+    <text x="386" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">I hoped for it,</text>
+    <text x="386" y="274" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">and it did not happen.</text>
+  </g>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Both feel heavy — the clue question tells them apart.</text>
+</svg>
