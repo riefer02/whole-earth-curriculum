@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Body signals</title>
+  <desc id="desc">Four signal cards in a grid. Card one shows a stomach with butterflies labeled "butterflies" and "excited or nervous." Card two shows heavy drooping eyes labeled "tiredness" and "rest." Card three shows a warm glowing chest labeled "warm chest" and "happy or safe." Card four shows quick breath lines labeled "quick breath" and "excited." Each card pairs a signal with a feeling and a helpful response. Labels, not color alone, carry the meaning, so the chart prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Signals the Body Sends</text>
+
+  <!-- Card 1: butterflies -->
+  <rect x="26" y="70" width="222" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="137" y="96" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">signal</text>
+  <ellipse cx="137" cy="140" rx="30" ry="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="1.5" fill="none" stroke-linecap="round">
+    <path d="M122 132 q-4 -6 -10 -6 q-6 0 -4 6 q2 6 8 6 z"/>
+    <path d="M152 132 q4 -6 10 -6 q6 0 4 6 q-2 6 -8 6 z"/>
+    <path d="M126 146 q-4 6 -10 6 q-6 0 -4 -6 q2 -6 8 -6 z"/>
+    <path d="M148 146 q4 6 10 6 q6 0 4 -6 q-2 -6 -8 -6 z"/>
+  </g>
+  <text x="137" y="180" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">butterflies</text>
+  <text x="137" y="200" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">excited or nervous</text>
+
+  <!-- Card 2: tiredness -->
+  <rect x="264" y="70" width="222" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="375" y="96" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">signal</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M352 132 Q375 126 398 132"/>
+    <path d="M352 152 Q375 146 398 152"/>
+  </g>
+  <circle cx="365" cy="142" r="3" fill="#2b3a42"/>
+  <circle cx="385" cy="142" r="3" fill="#2b3a42"/>
+  <text x="375" y="180" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">heavy eyes</text>
+  <text x="375" y="200" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tired → rest</text>
+
+  <!-- Card 3: warm chest -->
+  <rect x="26" y="238" width="222" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="137" y="264" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">signal</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="137" cy="298" r="16" fill="#f5d6b6"/>
+    <path d="M137 314 L137 344"/>
+    <path d="M137 322 L119 338"/>
+    <path d="M137 322 L155 338"/>
+  </g>
+  <circle cx="137" cy="318" r="14" fill="#e0a458" opacity="0.5" stroke="#e0a458" stroke-width="1.5"/>
+  <text x="137" y="366" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">warm chest</text>
+  <text x="137" y="386" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">happy or safe</text>
+
+  <!-- Card 4: quick breath -->
+  <rect x="264" y="238" width="222" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="375" y="264" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">signal</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M346 296 q6 -10 12 0"/>
+    <path d="M362 296 q6 -12 12 0"/>
+    <path d="M378 296 q6 -10 12 0"/>
+  </g>
+  <path d="M348 316 Q375 300 402 316" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="375" y="346" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">quick breath</text>
+  <text x="375" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">excited → move or breathe</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Signal → feeling → helpful response</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">The body speaks, and the mind can learn to listen.</text>
+</svg>

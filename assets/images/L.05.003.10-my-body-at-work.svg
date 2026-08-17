@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My body at work</title>
+  <desc id="desc">A four-section poster titled "my body at work." Section one shows a thought bubble and a body with a shaded stomach, labeled "mind and body are connected." Section two shows two children of different heights, labeled "growth at my pace." Section three shows a ball at a target, labeled "practice and feedback." Section four shows a heart and a smiling face, labeled "movement benefits." Labels, not color alone, carry the meaning, so the poster prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Body at Work</text>
+
+  <!-- Section 1 -->
+  <rect x="26" y="62" width="222" height="190" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="137" y="90" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">mind and body are connected</text>
+  <rect x="46" y="102" width="110" height="46" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="101" y="122" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a worry</text>
+  <text x="101" y="138" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(a thought)</text>
+  <g stroke="#2b3a42" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="180" cy="126" r="13" fill="#f5d6b6"/>
+    <path d="M180 139 L180 162"/>
+    <path d="M180 148 L168 158"/>
+    <path d="M180 148 L192 158"/>
+  </g>
+  <ellipse cx="180" cy="152" rx="10" ry="8" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="1.2"/>
+  <text x="137" y="228" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">shows up as a tight stomach</text>
+
+  <!-- Section 2 -->
+  <rect x="264" y="62" width="222" height="190" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="375" y="90" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">growth at my pace</text>
+  <g stroke="#2b3a42" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="350" cy="150" r="16" fill="#ab7a4e"/>
+    <path d="M350 166 L350 200"/>
+    <path d="M350 180 L336 196"/>
+    <path d="M350 180 L364 196"/>
+    <path d="M350 200 L340 224"/>
+    <path d="M350 200 L360 224"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="402" cy="138" r="16" fill="#f5d6b6"/>
+    <path d="M402 154 L402 200"/>
+    <path d="M402 166 L390 184"/>
+    <path d="M402 166 L414 184"/>
+    <path d="M402 200 L392 228"/>
+    <path d="M402 200 L412 228"/>
+  </g>
+  <text x="375" y="228" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">different heights, both normal</text>
+
+  <!-- Section 3 -->
+  <rect x="26" y="268" width="222" height="190" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="137" y="296" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">practice and feedback</text>
+  <circle cx="137" cy="370" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="137" cy="370" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="137" cy="370" r="5" fill="#2b3a42"/>
+  <circle cx="137" cy="370" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="137" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a skill refined by practice</text>
+  <text x="137" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">+ kind, specific feedback</text>
+
+  <!-- Section 4 -->
+  <rect x="264" y="268" width="222" height="190" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="375" y="296" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">movement benefits</text>
+  <path d="M375 318 C366 308 352 318 360 332 C366 340 375 344 375 344 C375 344 384 340 390 332 C398 318 384 308 375 318 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="340" cy="402" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="334" cy="398" r="2.4" fill="#222222"/>
+  <circle cx="346" cy="398" r="2.4" fill="#222222"/>
+  <path d="M332 406 Q340 412 348 406" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="375" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">heart, muscles, and mood</text>
+  <text x="375" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">all get stronger and lighter</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Four ideas, one body — at work, every day.</text>
+</svg>

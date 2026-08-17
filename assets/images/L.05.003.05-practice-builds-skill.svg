@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Practice builds skill</title>
+  <desc id="desc">Three panels showing a ball thrown at a target three times. Panel one shows the ball landing far from the target, panel two closer, and panel three a hit in the center. Beneath the panels, a tally of three tries and one hit with the label "practice builds skill." Labels and the changing distance of the ball from the target, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Practice Builds Skill</text>
+
+  <!-- Panel 1: far -->
+  <rect x="26" y="70" width="146" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="99" y="94" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">try 1</text>
+  <!-- target -->
+  <circle cx="99" cy="150" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="99" cy="150" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="99" cy="150" r="5" fill="#2b3a42"/>
+  <!-- ball far -->
+  <circle cx="60" cy="196" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Panel 2: closer -->
+  <rect x="184" y="70" width="146" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="257" y="94" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">try 2</text>
+  <circle cx="257" cy="150" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="257" cy="150" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="257" cy="150" r="5" fill="#2b3a42"/>
+  <circle cx="232" cy="172" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Panel 3: hit -->
+  <rect x="342" y="70" width="146" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="415" y="94" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">try 3</text>
+  <circle cx="415" cy="150" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="415" cy="150" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="415" cy="150" r="5" fill="#2b3a42"/>
+  <circle cx="415" cy="150" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="415" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">hit!</text>
+
+  <!-- Arrows between panels -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M174 145 L180 145"/>
+    <path d="M332 145 L338 145"/>
+  </g>
+
+  <!-- Tally -->
+  <rect x="120" y="260" width="272" height="70" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="290" font-family="sans-serif" font-size="17" fill="#222222">tries: | | |  (3)</text>
+  <text x="140" y="314" font-family="sans-serif" font-size="17" fill="#222222">hits: |  (1)</text>
+
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">Repetition refines the skill.</text>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Stand tall • eyes on target • arm back • step &amp; release • follow through</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Your first try and your last try will not look the same.</text>
+</svg>

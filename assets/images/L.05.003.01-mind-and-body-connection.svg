@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Mind and body are connected</title>
+  <desc id="desc">A diagram showing a thought bubble reading "I have a big test tomorrow" beside a worried face, with an arrow pointing to a simple body outline whose stomach is shaded and labeled "tight stomach." A caption reads "A worry in the mind can show up as a feeling in the body." Labels and arrows, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Mind and Body Are Connected</text>
+
+  <!-- Left: thought bubble -->
+  <rect x="30" y="110" width="180" height="120" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M96 230 L86 258 L124 230" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="120" y="150" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222">I have a big</text>
+  <text x="120" y="174" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222">test tomorrow.</text>
+  <text x="120" y="205" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">(a thought in the mind)</text>
+
+  <!-- Right: body outline -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="356" cy="150" r="26" fill="#f5d6b6"/>
+    <path d="M356 176 L356 260"/>
+    <path d="M356 196 L324 224"/>
+    <path d="M356 196 L388 224"/>
+    <path d="M356 260 L330 320"/>
+    <path d="M356 260 L382 320"/>
+  </g>
+
+  <!-- Worried face -->
+  <circle cx="346" cy="146" r="3" fill="#2b3a42"/>
+  <circle cx="366" cy="146" r="3" fill="#2b3a42"/>
+  <path d="M342 138 Q346 135 350 138" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M362 138 Q366 135 370 138" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M344 160 Q356 168 368 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Tight stomach -->
+  <ellipse cx="356" cy="234" rx="30" ry="22" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 228 Q356 222 372 230 Q360 242 344 236" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="356" y="278" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">tight stomach</text>
+  <text x="356" y="342" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">(a feeling in the body)</text>
+
+  <!-- Arrow from thought to body -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M214 170 L282 170"/>
+    <path d="M274 162 L284 170 L274 178"/>
+  </g>
+  <text x="249" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">mind</text>
+  <text x="249" y="192" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">body</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">A worry in the mind can show up as a feeling in the body.</text>
+</svg>

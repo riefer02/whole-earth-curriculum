@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My practice plan</title>
+  <desc id="desc">A three-day practice plan card. Day 1 is labeled "throw at a target," Day 2 "balance on a line," and Day 3 "heart-pumping walk," each with a small warm-up and cool-down note and a checkbox. A header reads "my practice plan." Labels, not color alone, carry the meaning, so the card prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Practice Plan</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">a small plan, kept, beats a big wish, forgotten</text>
+
+  <!-- Day 1 -->
+  <rect x="26" y="92" width="460" height="108" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="42" y="108" width="30" height="30" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="86" y="130" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">Day 1</text>
+  <text x="150" y="130" font-family="sans-serif" font-size="18" fill="#2b3a42">warm up: march in place</text>
+  <text x="150" y="156" font-family="sans-serif" font-size="18" fill="#222222">practice: throw at a target (ten tries)</text>
+  <text x="150" y="182" font-family="sans-serif" font-size="18" fill="#2b3a42">cool down: slow breathing</text>
+
+  <!-- Day 2 -->
+  <rect x="26" y="214" width="460" height="108" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="42" y="230" width="30" height="30" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="86" y="252" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">Day 2</text>
+  <text x="150" y="252" font-family="sans-serif" font-size="18" fill="#2b3a42">warm up: gentle stretches</text>
+  <text x="150" y="278" font-family="sans-serif" font-size="18" fill="#222222">practice: balance on a line (ten slow steps)</text>
+  <text x="150" y="304" font-family="sans-serif" font-size="18" fill="#2b3a42">cool down: shake it loose</text>
+
+  <!-- Day 3 -->
+  <rect x="26" y="336" width="460" height="108" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="42" y="352" width="30" height="30" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M50 366 L58 374 L66 360" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="86" y="374" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">Day 3</text>
+  <text x="150" y="374" font-family="sans-serif" font-size="18" fill="#2b3a42">warm up: march in place</text>
+  <text x="150" y="400" font-family="sans-serif" font-size="18" fill="#222222">heart-pumping walk or dance (two minutes)</text>
+  <text x="150" y="426" font-family="sans-serif" font-size="18" fill="#2b3a42">cool down: slow breathing</text>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Mix a practiced skill with heart-pumping movement — every day begins and ends with care.</text>
+</svg>

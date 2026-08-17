@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Every body belongs</title>
+  <desc id="desc">A group of children playing together joyfully. The group includes children of different heights and builds, one child using a wheelchair, one wearing a hearing aid, and one with a prosthetic leg. A banner above reads "every body belongs." Labels and the visible variety of bodies, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Banner -->
+  <rect x="96" y="40" width="320" height="52" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="74" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#ffffff">every body belongs</text>
+
+  <!-- Child 1: tall, dark skin, smiling, waving -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="120" cy="180" r="22" fill="#6b4a3a"/>
+    <path d="M120 202 L120 288"/>
+    <path d="M120 224 L98 252"/>
+    <path d="M120 224 L142 252"/>
+    <path d="M120 288 L104 344"/>
+    <path d="M120 288 L136 344"/>
+    <path d="M142 252 L156 236"/>
+  </g>
+  <circle cx="112" cy="176" r="2.8" fill="#222222"/>
+  <circle cx="128" cy="176" r="2.8" fill="#222222"/>
+  <path d="M110 190 Q120 196 130 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Child 2: shorter, using a wheelchair -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="250" cy="210" r="20" fill="#f5d6b6"/>
+    <path d="M250 230 L250 268"/>
+    <path d="M250 244 L230 266"/>
+    <path d="M250 244 L270 266"/>
+  </g>
+  <circle cx="243" cy="206" r="2.8" fill="#222222"/>
+  <circle cx="257" cy="206" r="2.8" fill="#222222"/>
+  <path d="M241 218 Q250 224 259 218" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- wheelchair -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="250" cy="286" r="20"/>
+    <path d="M230 286 L270 286"/>
+    <path d="M250 266 L250 286"/>
+    <path d="M270 286 L282 330"/>
+    <path d="M230 286 L222 330"/>
+    <path d="M250 244 L250 268"/>
+    <circle cx="222" cy="330" r="8"/>
+    <circle cx="282" cy="330" r="8"/>
+  </g>
+
+  <!-- Child 3: medium, with hearing aid -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="386" cy="176" r="22" fill="#e8b88a"/>
+    <path d="M386 198 L386 284"/>
+    <path d="M386 220 L366 248"/>
+    <path d="M386 220 L406 248"/>
+    <path d="M386 284 L370 340"/>
+    <path d="M386 284 L402 340"/>
+  </g>
+  <!-- hearing aid -->
+  <path d="M364 176 q-4 -12 2 -16 q4 -3 4 2 l-4 14" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="378" cy="176" r="2.8" fill="#222222"/>
+  <circle cx="394" cy="176" r="2.8" fill="#222222"/>
+  <path d="M376 190 Q386 196 396 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Child 4: with a prosthetic leg, sitting/in motion -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="200" cy="410" r="20" fill="#8a5a3a"/>
+    <path d="M200 430 L200 462"/>
+    <path d="M200 440 L184 456"/>
+    <path d="M200 440 L216 456"/>
+    <path d="M200 462 L190 494"/>
+    <path d="M200 462 L210 494"/>
+  </g>
+  <circle cx="193" cy="406" r="2.8" fill="#222222"/>
+  <circle cx="207" cy="406" r="2.8" fill="#222222"/>
+  <path d="M191 418 Q200 424 209 418" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- prosthetic leg -->
+  <path d="M210 494 L216 510 L222 510 L216 494" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Child 5: smallest, joyful -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="330" cy="396" r="18" fill="#f5d6b6"/>
+    <path d="M330 414 L330 456"/>
+    <path d="M330 428 L314 448"/>
+    <path d="M330 428 L346 448"/>
+    <path d="M330 456 L320 492"/>
+    <path d="M330 456 L340 492"/>
+  </g>
+  <circle cx="324" cy="392" r="2.6" fill="#222222"/>
+  <circle cx="336" cy="392" r="2.6" fill="#222222"/>
+  <path d="M322 406 Q330 412 338 406" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Different heights, different builds, different tools — all one joyful group.</text>
+</svg>

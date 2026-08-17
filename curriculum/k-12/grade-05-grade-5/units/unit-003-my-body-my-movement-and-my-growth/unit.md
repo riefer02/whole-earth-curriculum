@@ -53,3 +53,13 @@ with dignity and joy, never shame.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.003.01 | My Mind and My Body Are Connected | D03.S1.05.01 |
+| L.05.003.02 | More Mind–Body Signals | D03.S1.05.01 |
+| L.05.003.03 | Bodies Grow at Different Rates | D03.S1.05.02 |
+| L.05.003.04 | Every Pace Is Normal | D03.S1.05.02 |
+| L.05.003.05 | Practice Builds Skill | D03.S2.05.01 |
+| L.05.003.06 | Helpful Feedback to a Peer | D03.S2.05.01 |
+| L.05.003.07 | Movement Helps My Heart | D03.S2.05.02 |
+| L.05.003.08 | Movement Helps Muscles and Mood | D03.S2.05.02 |
+| L.05.003.09 | My Practice Plan | D03.S2.05.01, D03.S2.05.02 |
+| L.05.003.10 | My Body at Work | D03.S1.05.01, D03.S1.05.02, D03.S2.05.01, D03.S2.05.02 (capstone) |

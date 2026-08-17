@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Movement helps the heart</title>
+  <desc id="desc">A diagram with a heart symbol on the left and a running figure on the right. A pulse line runs between them, slow and steady at rest on the left, then quick and tall during movement on the right. A label reads "movement makes the heart pump; regular movement makes it stronger." Labels and the changing pulse line, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Movement Helps My Heart</text>
+
+  <!-- Heart -->
+  <path d="M140 150 C120 130 96 150 112 176 C124 194 140 200 140 200 C140 200 156 194 168 176 C184 150 160 130 140 150 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="140" y="230" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">heart</text>
+  <text x="140" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a muscle</text>
+
+  <!-- Running figure -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="376" cy="150" r="22" fill="#f5d6b6"/>
+    <path d="M376 172 L376 226"/>
+    <path d="M376 190 L352 212"/>
+    <path d="M376 190 L398 210"/>
+    <path d="M376 226 L356 258"/>
+    <path d="M376 226 L396 258"/>
+  </g>
+  <circle cx="368" cy="146" r="2.8" fill="#222222"/>
+  <circle cx="384" cy="146" r="2.8" fill="#222222"/>
+  <path d="M366 162 Q376 168 386 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="376" y="290" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">movement</text>
+  <text x="376" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">makes the heart work</text>
+
+  <!-- Pulse line: slow then fast -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 360 L140 360 L152 320 L164 388 L176 340 L188 360 L206 360 L220 340 L234 380 L248 344 L262 360 L300 360 L314 312 L330 396 L346 336 L360 360 L402 360"/>
+  </g>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">pulse at rest (slow and steady) → pulse during movement (fast and tall)</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Movement makes the heart pump; regular movement makes it stronger.</text>
+</svg>

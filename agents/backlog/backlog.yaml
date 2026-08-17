@@ -3435,7 +3435,7 @@ items:
     type: lesson
     grade: 5
     domain: D03
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3447,6 +3447,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (834). IDs L.05.003.01-.10 sequence_in_unit 1-10, grade 5, unit U.05.003; objectives resolve to real grade-5 D03 standards (S1.05.01/.02, S2.05.01/.02); required headings + Connection concrete (L.05.003.03 seed/heights example maps to S1.05.02); unit.md table lists all 10; all 10 assets resolve with non-empty alt; age-appropriate; sources WHO/CASEL/Hattie/Kirschner/UN CRPD.
+      fact-checker:
+        verdict: passed
+        note: Verified mind-body connection (Beck S-159, CASEL S-001); growth at different rates (WHO Child Growth Standards, live-fetched percentile curves); motor-skill refinement (Kirschner/Sweller/Clark S-011, WHO S-069); movement benefits heart/muscles/mood (WHO S-069 re-verified, endorphins, 60min/day 5-17). Fixed L.05.003.07 heart 'pumps blood and air' -> 'pumps blood carrying oxygen and fuel'. Registered S-162 (WHO Child Growth Standards); updated S-001 domains to include D03. Evidence vs values distinguished.
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Euro default: skills are throwing-at-target/balancing/walking/dancing/carrying-water, never named sports or a gym; Connection spans city/farm/mountain/well/market/festival + seated/moving + indoors/outdoors; L8 movement traditions open-ended invitations (harvest dance, ball game, martial art, long walk) with no culture stereotyped; bodies/abilities person-first non-ranking ('a child who uses a wheelchair', 'every pace is normal', 'seated or adapted movement exercises the heart too'); 'every body belongs' SVG shows diverse skin tones + assistive tools."
+      accessibility-editor:
+        verdict: passed
+        note: All 10 lessons carry real materials_low_tech tiers (voice/body, dirt/sand drawing, found-object/chalk, no-device movement); UDL multiple means of expression (draw/write/act/speak/point); movement lessons name seated/adapted options; plain learner-first language with word-bank/scribe support; low-cost materials with devices optional; all 10 assets non-empty alt + SVG role=img/title/desc/grayscale. Fixed L.05.003.05 standing-only procedure by adding seated/one-handed adaptations in procedure, facilitator note, and support differentiation.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L3 no pace better, L4 dignity/person-first, L6 kind-vs-hurtful feedback); egalitarianism (no body/ability/pace ranked; seated/adapted options); global (L8 worldwide movement traditions, L1/L7 city/farm/well/festival contexts); tech/environment (L9 fitness apps optional tools subordinate to body signals); evidence-vs-values (WHO/CASEL/Hattie/Kirschner/CRPD cited, facts vs norms distinguished). Traceability: Vision->P2->D03->S1/S2->U.05.003->lessons; all objectives resolve to real grade-5 D03 standards."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band (10-11, upper elementary): cognitive anchors concrete (tight stomach/butterflies, two-same-age children + seedling spurts 'staircase not slide', three-throw worked example with tallies, counting own pulse; endorphins/interleaving/social-model only in extension/facilitator context); emotional safety L3/L4 forbid ranking bodies as race + never measure publicly + person-first + never make disabled learner 'the example'; L6 feedback specific/kind/about-action-never-person with sentence starters; heart lesson reassures heartbeat anxiety; physical fit: every movement has seated/adapted equivalent; open-ended questions as questions; evidence vs values (WHO/CASEL/CRPD)."
   - id: B-326
     title: Author lessons for Unit U.05.004 (Teams, Empathy & Belonging)
     agent: lesson-author

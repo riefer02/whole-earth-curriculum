@@ -7,9 +7,9 @@ sources:
     type: website
     url: https://casel.org/fundamentals-of-sel/
     organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
-    domains: [D01, D02, D04, D09]
+    domains: [D01, D02, D03, D04, D09]
     reviewed: true
-    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency, and in U.03.010 L01/L05/L06/L07/L08/L10 (responsible decision-making, relationship skills, social awareness, and self-management — all five competencies are real CASEL competencies). URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it."
+    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency, and in U.03.010 L01/L05/L06/L07/L08/L10 (responsible decision-making, relationship skills, social awareness, and self-management — all five competencies are real CASEL competencies). Cited in U.05.003 L01/L02 (self-awareness) and L06 (relationship skills, giving/receiving feedback) — both are among CASEL's five core competencies. URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it."
 
   - id: S-002
     title: NASA — The Big Bang
@@ -1483,3 +1483,13 @@ sources:
     domains: [D09]
     reviewed: true
     notes: "Howard Zehr (1990). Changing Lenses: A New Focus for Crime and Justice. Herald Press. Cited in U.05.002 L10 for the 'repair over punishment' restorative-justice framing. Real, seminal restorative-justice text; complements the IIRP frame (S-022). No URL (print book)."
+
+  - id: S-162
+    title: "WHO — Child Growth Standards (toolkit)"
+    type: website
+    url: https://www.who.int/toolkits/child-growth-standards
+    organization: World Health Organization
+    year: 2006
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.05.003 L03 and L10 for the claim that human growth is measured against a range of normal, not a single number. URL verified live (2026-08-17): page presents the WHO Child Growth Standards developed from the WHO Multicentre Growth Reference Study (MGRS), with percentile growth curves (length/height-for-age, weight-for-age, BMI-for-age, etc.) and motor milestone windows of achievement, plus growth reference data for ages 5–19. The percentile-curve format directly supports the lesson's 'wide range of heights and weights are normal' framing, and the L03 claim that growth is shaped by genes, nutrition, and environment is standard. Supports the hedged general claim."

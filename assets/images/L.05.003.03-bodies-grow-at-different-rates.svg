@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Bodies grow at different rates</title>
+  <desc id="desc">Two children of the same age standing side by side, one shorter and one taller, both smiling. A dashed rising growth line is drawn beneath each child. A label above reads "same age" and a label below reads "different heights — both normal." Labels and the two different heights, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Bodies Grow at Different Rates</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">same age</text>
+
+  <!-- Shorter child -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="150" cy="150" r="24" fill="#ab7a4e"/>
+    <path d="M150 174 L150 258"/>
+    <path d="M150 196 L124 226"/>
+    <path d="M150 196 L176 226"/>
+    <path d="M150 258 L128 316"/>
+    <path d="M150 258 L172 316"/>
+  </g>
+  <circle cx="141" cy="146" r="3" fill="#222222"/>
+  <circle cx="159" cy="146" r="3" fill="#222222"/>
+  <path d="M136 160 Q150 168 164 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Taller child -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="362" cy="128" r="24" fill="#f5d6b6"/>
+    <path d="M362 152 L362 260"/>
+    <path d="M362 176 L336 208"/>
+    <path d="M362 176 L388 208"/>
+    <path d="M362 260 L340 332"/>
+    <path d="M362 260 L384 332"/>
+  </g>
+  <circle cx="353" cy="124" r="3" fill="#222222"/>
+  <circle cx="371" cy="124" r="3" fill="#222222"/>
+  <path d="M348 140 Q362 148 376 140" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Growth lines beneath -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 6">
+    <path d="M120 360 L138 340 L150 350 L162 332"/>
+  </g>
+  <path d="M118 360 L166 360" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <text x="142" y="382" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">grows at its own pace</text>
+
+  <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 6">
+    <path d="M332 360 L348 344 L358 352 L372 330"/>
+  </g>
+  <path d="M330 360 L378 360" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <text x="354" y="382" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">grows at its own pace</text>
+
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">Different heights — both normal.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Growth comes in spurts, not a steady straight line.</text>
+</svg>
