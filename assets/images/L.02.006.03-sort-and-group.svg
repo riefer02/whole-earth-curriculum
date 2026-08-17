@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Sorting the living world into groups</title>
+  <desc>Two sorting trays. The left tray groups leaves by shape into three circles; the right tray groups stones by color into two circles. Labels say group by shape and group by color.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Sort and group</text>
+
+  <!-- Left tray: leaves by shape -->
+  <rect x="40" y="90" width="200" height="250" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="140" y="122" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">Group by shape</text>
+
+  <circle cx="92" cy="180" r="36" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 4"/>
+  <path d="M78 180 q14 -16 28 0 q-14 14 -28 0 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M96 180 q14 -16 28 0 q-14 14 -28 0 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="190" cy="180" r="36" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 4"/>
+  <ellipse cx="190" cy="180" rx="20" ry="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="140" cy="270" r="36" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 4"/>
+  <path d="M132 270 l8 14 16 -20" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+
+  <text x="140" y="328" text-anchor="middle" font-size="15" fill="#4f6d7a">long, round, pointy leaves</text>
+
+  <!-- Right tray: stones by color (also labeled) -->
+  <rect x="272" y="90" width="200" height="250" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="372" y="122" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">Group by color</text>
+
+  <circle cx="324" cy="180" r="36" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 4"/>
+  <ellipse cx="324" cy="180" rx="16" ry="13" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="324" y="183" text-anchor="middle" font-size="11" fill="#fdfbf7">gray</text>
+
+  <circle cx="420" cy="180" r="36" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 4"/>
+  <ellipse cx="420" cy="180" rx="16" ry="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="183" text-anchor="middle" font-size="11" fill="#222222">brown</text>
+
+  <circle cx="372" cy="270" r="36" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 4"/>
+  <ellipse cx="372" cy="270" rx="16" ry="13" fill="#c9d5d9" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="273" text-anchor="middle" font-size="11" fill="#222222">white</text>
+
+  <text x="372" y="328" text-anchor="middle" font-size="15" fill="#4f6d7a">gray, brown, white stones</text>
+
+  <text x="256" y="396" text-anchor="middle" font-size="16" fill="#222222">I can group by one thing — and say how I did it.</text>
+  <text x="256" y="426" text-anchor="middle" font-size="14" fill="#4f6d7a">Shape, color, size, or where they live.</text>
+</svg>

@@ -58,3 +58,13 @@ are held as questions, and evidence is distinguished from belief.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Wonder Becomes a Prediction | D06.S1.02.01 |
+| 2 | Test It and See | D06.S1.02.01 |
+| 3 | Sort and Group | D06.S1.02.02 |
+| 4 | A Seed Grows | D06.S2.02.01 |
+| 5 | A Habitat Is a Home | D06.S2.02.02 |
+| 6 | Materials and Their Jobs | D06.S3.02.01 |
+| 7 | Sound, Light, and Heat | D06.S3.02.02 |
+| 8 | The Sun Warms the Earth | D06.S4.02.01 |
+| 9 | Rocks, Soil, and Water | D06.S4.02.02 |
+| 10 | The Living World Wonder Fair | D06.S1.02.01, D06.S1.02.02, D06.S2.02.01, D06.S2.02.02, D06.S3.02.01, D06.S3.02.02, D06.S4.02.01, D06.S4.02.02 |

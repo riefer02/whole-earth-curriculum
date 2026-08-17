@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>The predict-test-see chain</title>
+  <desc>Three labeled steps joined by arrows: a child wonders and asks a question, then makes a prediction, then tests and sees. A question mark, a thought bubble, and a magnifying glass mark each step.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Wonder becomes a prediction</text>
+
+  <!-- Step 1: I wonder -->
+  <rect x="30" y="80" width="140" height="180" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="118" text-anchor="middle" font-size="22" fill="#2b3a42" font-weight="bold">1. I wonder</text>
+  <text x="100" y="150" text-anchor="middle" font-size="60" fill="#e0a458" font-weight="bold">?</text>
+  <text x="100" y="200" text-anchor="middle" font-size="17" fill="#222222">"Will it float?"</text>
+  <text x="100" y="226" text-anchor="middle" font-size="17" fill="#222222">"Will it grow?"</text>
+
+  <!-- arrow -->
+  <line x1="176" y1="170" x2="206" y2="170" stroke="#4f6d7a" stroke-width="4"/>
+  <polygon points="206,162 220,170 206,178" fill="#4f6d7a"/>
+
+  <!-- Step 2: I predict -->
+  <rect x="226" y="80" width="140" height="180" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="296" y="118" text-anchor="middle" font-size="22" fill="#2b3a42" font-weight="bold">2. I predict</text>
+  <circle cx="296" cy="158" r="26" fill="#6b93b6"/>
+  <text x="296" y="166" text-anchor="middle" font-size="22" fill="#fdfbf7" font-weight="bold">I think</text>
+  <text x="296" y="204" text-anchor="middle" font-size="17" fill="#222222">"It will float</text>
+  <text x="296" y="226" text-anchor="middle" font-size="17" fill="#222222">because it is light."</text>
+
+  <!-- arrow -->
+  <line x1="372" y1="170" x2="402" y2="170" stroke="#4f6d7a" stroke-width="4"/>
+  <polygon points="402,162 416,170 402,178" fill="#4f6d7a"/>
+
+  <!-- Step 3: I test and see -->
+  <rect x="422" y="80" width="60" height="180" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="452" y="118" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">3.</text>
+  <text x="452" y="140" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">I test</text>
+  <text x="452" y="162" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">and</text>
+  <text x="452" y="184" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">see</text>
+  <!-- magnifying glass -->
+  <circle cx="452" cy="226" r="16" fill="none" stroke="#7a9e7e" stroke-width="4"/>
+  <line x1="464" y1="238" x2="472" y2="246" stroke="#7a9e7e" stroke-width="4"/>
+
+  <!-- bottom note -->
+  <rect x="120" y="310" width="272" height="60" rx="12" fill="#e0a458" opacity="0.25" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="348" text-anchor="middle" font-size="18" fill="#222222">A prediction is a guess</text>
+  <text x="256" y="370" text-anchor="middle" font-size="16" fill="#4f6d7a">you can test and check.</text>
+
+  <text x="256" y="420" text-anchor="middle" font-size="14" fill="#4f6d7a">It is fine to be wrong — then you find out!</text>
+</svg>

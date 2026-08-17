@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Sound, light, and heat are energy</title>
+  <desc>Three panels showing energy we can sense: a ringing bell for sound, a lamp and the Sun for light, and a warm fire for heat. Each is labeled with the sense we use.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Sound, light, and heat are energy</text>
+
+  <!-- Sound -->
+  <rect x="30" y="90" width="140" height="220" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="122" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">sound</text>
+  <path d="M84 180 q-6 -30 8 -40 q10 46 -8 40 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="92" y="176" width="20" height="10" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="112" cy="170" r="4" fill="#2b3a42"/>
+  <path d="M120 160 q10 -6 18 0" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M124 176 q12 -8 22 0" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <text x="100" y="224" text-anchor="middle" font-size="14" fill="#4f6d7a">I hear it</text>
+  <text x="100" y="252" text-anchor="middle" font-size="14" fill="#222222">a bell ringing</text>
+
+  <!-- Light -->
+  <rect x="186" y="90" width="140" height="220" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="122" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">light</text>
+  <circle cx="256" cy="176" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="148" x2="256" y2="138" stroke="#e0a458" stroke-width="3"/>
+  <line x1="284" y1="176" x2="294" y2="176" stroke="#e0a458" stroke-width="3"/>
+  <line x1="228" y1="176" x2="218" y2="176" stroke="#e0a458" stroke-width="3"/>
+  <line x1="276" y1="156" x2="283" y2="149" stroke="#e0a458" stroke-width="3"/>
+  <line x1="236" y1="156" x2="229" y2="149" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="224" text-anchor="middle" font-size="14" fill="#4f6d7a">I see it</text>
+  <text x="256" y="252" text-anchor="middle" font-size="14" fill="#222222">the Sun and lamps</text>
+
+  <!-- Heat -->
+  <rect x="342" y="90" width="140" height="220" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="412" y="122" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">heat</text>
+  <path d="M400 196 q8 -30 16 0 q8 -22 8 0 q6 -16 4 0" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <path d="M408 196 l-6 26 h12 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="402" y="224" width="20" height="6" rx="2" fill="#4f6d7a"/>
+  <rect x="400" y="232" width="24" height="6" rx="2" fill="#4f6d7a"/>
+  <text x="412" y="212" text-anchor="middle" font-size="14" fill="#4f6d7a">I feel it</text>
+  <text x="412" y="262" text-anchor="middle" font-size="14" fill="#222222">a warm fire</text>
+
+  <rect x="80" y="340" width="352" height="70" rx="12" fill="#7a9e7e" opacity="0.25" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="370" text-anchor="middle" font-size="18" fill="#222222">All three are forms of energy</text>
+  <text x="256" y="394" text-anchor="middle" font-size="15" fill="#4f6d7a">we can sense with our own bodies.</text>
+
+  <text x="256" y="450" text-anchor="middle" font-size="14" fill="#4f6d7a">Energy is the power to make things happen.</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>The Living World Wonder Fair</title>
+  <desc>A collage of the unit's ideas arranged like a wall of cards — predict, test, sort, life cycle, habitat, materials, energy, the Sun, and the land — around a center card reading I still wonder.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">The Living World Wonder Fair</text>
+
+  <!-- top row cards -->
+  <rect x="30" y="80" width="140" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="112" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">predict</text>
+  <text x="100" y="136" text-anchor="middle" font-size="13" fill="#4f6d7a">I guess, then check</text>
+
+  <rect x="186" y="80" width="140" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="112" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">test &amp; see</text>
+  <text x="256" y="136" text-anchor="middle" font-size="13" fill="#4f6d7a">did it match?</text>
+
+  <rect x="342" y="80" width="140" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="412" y="112" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">sort</text>
+  <text x="412" y="136" text-anchor="middle" font-size="13" fill="#4f6d7a">group and say how</text>
+
+  <!-- middle row -->
+  <rect x="30" y="180" width="140" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="212" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">life cycle</text>
+  <text x="100" y="236" text-anchor="middle" font-size="13" fill="#4f6d7a">seed to seed</text>
+
+  <rect x="186" y="180" width="140" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="212" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">habitat</text>
+  <text x="256" y="236" text-anchor="middle" font-size="13" fill="#4f6d7a">a living home</text>
+
+  <rect x="342" y="180" width="140" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="412" y="212" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">materials</text>
+  <text x="412" y="236" text-anchor="middle" font-size="13" fill="#4f6d7a">right job</text>
+
+  <!-- bottom row -->
+  <rect x="30" y="280" width="140" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="312" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">energy</text>
+  <text x="100" y="336" text-anchor="middle" font-size="13" fill="#4f6d7a">sound, light, heat</text>
+
+  <rect x="186" y="280" width="140" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="312" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">the Sun</text>
+  <text x="256" y="336" text-anchor="middle" font-size="13" fill="#4f6d7a">light + warmth</text>
+
+  <rect x="342" y="280" width="140" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="412" y="312" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">the land</text>
+  <text x="412" y="336" text-anchor="middle" font-size="13" fill="#4f6d7a">rock, soil, water</text>
+
+  <!-- center card -->
+  <rect x="146" y="392" width="220" height="86" rx="14" fill="#e0a458" opacity="0.25" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="430" text-anchor="middle" font-size="21" fill="#222222" font-weight="bold">I still wonder…</text>
+  <text x="256" y="458" text-anchor="middle" font-size="14" fill="#4f6d7a">what will I ask next?</text>
+</svg>

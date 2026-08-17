@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Materials and their jobs</title>
+  <desc>Four materials, each matched to a job by its properties: wood is hard for a chair, metal is strong for a spoon, cloth is soft for a blanket, and glass is clear for a cup.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Materials and their jobs</text>
+
+  <!-- Wood / chair -->
+  <rect x="40" y="100" width="200" height="160" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="140" y="132" text-anchor="middle" font-size="18" fill="#2b3a42" font-weight="bold">wood</text>
+  <text x="140" y="152" text-anchor="middle" font-size="14" fill="#4f6d7a">hard</text>
+  <rect x="108" y="166" width="64" height="10" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="108" y="178" width="64" height="34" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="118" y="212" width="8" height="22" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="154" y="212" width="8" height="22" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="140" y="246" text-anchor="middle" font-size="14" fill="#222222">a chair to sit on</text>
+
+  <!-- Metal / spoon -->
+  <rect x="272" y="100" width="200" height="160" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="372" y="132" text-anchor="middle" font-size="18" fill="#2b3a42" font-weight="bold">metal</text>
+  <text x="372" y="152" text-anchor="middle" font-size="14" fill="#4f6d7a">strong</text>
+  <ellipse cx="372" cy="184" rx="14" ry="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="372" y1="202" x2="372" y2="236" stroke="#6b93b6" stroke-width="4"/>
+  <text x="372" y="246" text-anchor="middle" font-size="14" fill="#222222">a spoon to stir</text>
+
+  <!-- Cloth / blanket -->
+  <rect x="40" y="300" width="200" height="160" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="140" y="332" text-anchor="middle" font-size="18" fill="#2b3a42" font-weight="bold">cloth</text>
+  <text x="140" y="352" text-anchor="middle" font-size="14" fill="#4f6d7a">soft</text>
+  <rect x="92" y="366" width="96" height="54" rx="10" fill="#c9d5d9" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M100 380 q10 8 20 0 M132 380 q10 8 20 0" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <text x="140" y="446" text-anchor="middle" font-size="14" fill="#222222">a blanket to keep warm</text>
+
+  <!-- Glass / cup -->
+  <rect x="272" y="300" width="200" height="160" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="372" y="332" text-anchor="middle" font-size="18" fill="#2b3a42" font-weight="bold">glass</text>
+  <text x="372" y="352" text-anchor="middle" font-size="14" fill="#4f6d7a">clear (see-through)</text>
+  <path d="M356 366 L358 414 L386 414 L388 366 Z" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="446" text-anchor="middle" font-size="14" fill="#222222">a cup to see through</text>
+
+  <text x="256" y="492" text-anchor="middle" font-size="15" fill="#4f6d7a">Properties (hard, strong, soft, clear) tell us the right job.</text>
+</svg>

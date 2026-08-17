@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>A float-and-sink test record</title>
+  <desc>A bowl of water with a leaf floating and a stone sunk. Beside it, a simple record card with two rows — matched and not matched — and a check mark in the matched box.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Test it and see</text>
+
+  <!-- Bowl of water -->
+  <ellipse cx="150" cy="240" rx="110" ry="34" fill="#6b93b6" opacity="0.55"/>
+  <path d="M40 240 Q150 150 260 240 L260 330 Q150 360 40 330 Z" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="3"/>
+  <ellipse cx="150" cy="330" rx="110" ry="30" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="3"/>
+  <!-- leaf floating -->
+  <path d="M120 210 q20 -18 40 0 q-20 16 -40 0 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- stone sunk -->
+  <ellipse cx="185" cy="322" rx="20" ry="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="375" text-anchor="middle" font-size="17" fill="#222222">leaf floats · stone sinks</text>
+
+  <!-- Record card -->
+  <rect x="300" y="120" width="180" height="230" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="390" y="152" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">My record</text>
+  <line x1="310" y1="166" x2="470" y2="166" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="390" y="192" text-anchor="middle" font-size="16" fill="#222222">My prediction: the leaf floats</text>
+
+  <rect x="316" y="212" width="148" height="42" rx="8" fill="#7a9e7e" opacity="0.3" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="330" y="238" text-anchor="middle" font-size="16" fill="#222222">✓ It matched</text>
+
+  <rect x="316" y="266" width="148" height="42" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="330" y="292" text-anchor="middle" font-size="16" fill="#222222">It did not match</text>
+
+  <text x="390" y="336" text-anchor="middle" font-size="14" fill="#4f6d7a">Did my guess come true?</text>
+
+  <text x="256" y="450" text-anchor="middle" font-size="15" fill="#4f6d7a">Do, watch, then tell: did it match or not?</text>
+</svg>

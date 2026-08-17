@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>A plant life cycle in order</title>
+  <desc>A circle of five stages joined by arrows, numbered one to five: seed, sprout, seedling, flower, and fruit with seeds again. Each stage is drawn and labeled.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">A plant life cycle, in order</text>
+
+  <!-- center label -->
+  <circle cx="256" cy="256" r="56" fill="#e0a458" opacity="0.25" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-size="16" fill="#222222">life</text>
+  <text x="256" y="272" text-anchor="middle" font-size="16" fill="#222222">cycle</text>
+
+  <!-- 1 seed (top) -->
+  <circle cx="256" cy="120" r="38" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="108" text-anchor="middle" font-size="15" fill="#2b3a42" font-weight="bold">1</text>
+  <ellipse cx="256" cy="130" rx="12" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="172" text-anchor="middle" font-size="15" fill="#222222">seed</text>
+
+  <!-- 2 sprout (top right) -->
+  <circle cx="392" cy="196" r="38" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="392" y="184" text-anchor="middle" font-size="15" fill="#2b3a42" font-weight="bold">2</text>
+  <path d="M386 208 q6 -14 12 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <line x1="392" y1="208" x2="392" y2="196" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="392" y="248" text-anchor="middle" font-size="15" fill="#222222">sprout</text>
+
+  <!-- 3 seedling (right) -->
+  <circle cx="392" cy="320" r="38" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="392" y="308" text-anchor="middle" font-size="15" fill="#2b3a42" font-weight="bold">3</text>
+  <line x1="392" y1="336" x2="392" y2="312" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M384 322 q8 -10 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <path d="M384 310 q8 -10 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="392" y="372" text-anchor="middle" font-size="15" fill="#222222">seedling</text>
+
+  <!-- 4 flower (bottom right) -->
+  <circle cx="256" cy="388" r="38" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="376" text-anchor="middle" font-size="15" fill="#2b3a42" font-weight="bold">4</text>
+  <circle cx="256" cy="392" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="248" cy="382" r="7" fill="#6b93b6" opacity="0.7" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="264" cy="382" r="7" fill="#6b93b6" opacity="0.7" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="248" cy="402" r="7" fill="#6b93b6" opacity="0.7" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="264" cy="402" r="7" fill="#6b93b6" opacity="0.7" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="256" y="440" text-anchor="middle" font-size="15" fill="#222222">flower</text>
+
+  <!-- 5 fruit with seeds (bottom left) -->
+  <circle cx="120" cy="320" r="38" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="120" y="308" text-anchor="middle" font-size="15" fill="#2b3a42" font-weight="bold">5</text>
+  <circle cx="120" cy="324" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="114" cy="320" r="3" fill="#2b3a42"/>
+  <circle cx="126" cy="326" r="3" fill="#2b3a42"/>
+  <circle cx="120" cy="330" r="3" fill="#2b3a42"/>
+  <text x="120" y="372" text-anchor="middle" font-size="15" fill="#222222">fruit + seeds</text>
+
+  <!-- 6? no. arrows between -->
+  <path d="M292 132 Q340 160 356 190" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="354,186 366,196 350,200" fill="#4f6d7a"/>
+  <path d="M392 236 Q392 272 392 278" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="388,280 392,292 396,280" fill="#4f6d7a"/>
+  <path d="M356 344 Q320 366 294 378" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="296,382 284,388 292,374" fill="#4f6d7a"/>
+  <path d="M220 372 Q180 356 158 332" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="158,332 156,344 148,330" fill="#4f6d7a"/>
+  <path d="M120 280 Q120 200 140 156 Q180 128 220 126" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="222,124 210,122 216,134" fill="#4f6d7a"/>
+
+  <text x="256" y="478" text-anchor="middle" font-size="15" fill="#4f6d7a">Around and around it goes — seeds make more seeds.</text>
+</svg>

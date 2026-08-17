@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>A pond habitat and its living things</title>
+  <desc>A pond scene labeled with living things — a frog, a fish, a plant, a bird — and the nonliving things they need: water, soil, rocks, and the Sun.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">A habitat is a home</text>
+
+  <!-- Sun -->
+  <circle cx="440" cy="92" r="24" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="440" y1="56" x2="440" y2="44" stroke="#e0a458" stroke-width="3"/>
+  <line x1="472" y1="92" x2="484" y2="92" stroke="#e0a458" stroke-width="3"/>
+  <line x1="408" y1="92" x2="396" y2="92" stroke="#e0a458" stroke-width="3"/>
+  <line x1="462" y1="70" x2="470" y2="62" stroke="#e0a458" stroke-width="3"/>
+  <line x1="418" y1="70" x2="410" y2="62" stroke="#e0a458" stroke-width="3"/>
+  <text x="440" y="40" text-anchor="middle" font-size="14" fill="#222222">sun</text>
+
+  <!-- ground / soil -->
+  <rect x="30" y="330" width="452" height="90" fill="#e0a458" opacity="0.35" stroke="#2b3a42" stroke-width="3"/>
+  <text x="120" y="372" font-size="15" fill="#4f6d7a">soil</text>
+
+  <!-- pond -->
+  <ellipse cx="250" cy="332" rx="120" ry="20" fill="#6b93b6" opacity="0.6"/>
+  <path d="M130 320 Q250 250 370 320 L370 332 Q250 360 130 332 Z" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="3"/>
+  <text x="250" y="300" text-anchor="middle" font-size="15" fill="#fdfbf7">water</text>
+
+  <!-- plant -->
+  <line x1="80" y1="320" x2="80" y2="270" stroke="#7a9e7e" stroke-width="4"/>
+  <path d="M72 300 q8 -14 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <path d="M72 286 q8 -14 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="64" y="250" text-anchor="middle" font-size="14" fill="#222222">plant</text>
+
+  <!-- fish -->
+  <ellipse cx="300" cy="306" rx="26" ry="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="326,306 336,298 336,314" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="286" cy="304" r="2.5" fill="#222222"/>
+  <text x="360" y="300" font-size="14" fill="#222222">fish</text>
+
+  <!-- frog -->
+  <ellipse cx="176" cy="318" rx="18" ry="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="164" cy="308" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="163" cy="307" r="1.6" fill="#222222"/>
+  <text x="150" y="296" text-anchor="middle" font-size="14" fill="#222222">frog</text>
+
+  <!-- bird -->
+  <path d="M330 170 q10 -8 20 0 q-10 6 -20 0 Z" fill="#c9d5d9" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="356" cy="168" r="5" fill="#c9d5d9" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="360,168 366,168 360,171" fill="#e0a458"/>
+  <text x="340" y="154" text-anchor="middle" font-size="14" fill="#222222">bird</text>
+
+  <!-- rocks -->
+  <ellipse cx="416" cy="322" rx="16" ry="11" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="424" y="360" text-anchor="middle" font-size="14" fill="#4f6d7a">rock</text>
+
+  <text x="256" y="470" text-anchor="middle" font-size="15" fill="#4f6d7a">Living things + the water, soil, rocks, and sun they need.</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Rocks, soil, and water make the land</title>
+  <desc>A cross-section of the land: a river of water on top, soil in the middle with a plant growing, and solid rock at the bottom. Each layer is labeled.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">Rocks, soil, and water make the land</text>
+
+  <!-- Water (river) top -->
+  <path d="M40 170 Q150 130 260 160 Q370 190 472 150 L472 210 Q370 250 260 200 Q150 170 40 210 Z" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="182" text-anchor="middle" font-size="16" fill="#fdfbf7">water</text>
+
+  <!-- Soil middle -->
+  <rect x="40" y="212" width="432" height="96" fill="#e0a458" opacity="0.35" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="252" font-size="16" fill="#4f6d7a">soil</text>
+  <!-- small stones in soil -->
+  <ellipse cx="180" cy="270" rx="10" ry="7" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="320" cy="240" rx="8" ry="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <!-- plant in soil -->
+  <line x1="400" y1="280" x2="400" y2="220" stroke="#7a9e7e" stroke-width="4"/>
+  <path d="M392 246 q8 -14 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <path d="M392 232 q8 -14 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="420" y="238" text-anchor="middle" font-size="13" fill="#222222">plants grow</text>
+
+  <!-- Rock bottom -->
+  <rect x="40" y="308" width="432" height="130" fill="#c9d5d9" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="348" font-size="16" fill="#222222">rock</text>
+  <ellipse cx="200" cy="370" rx="34" ry="20" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="300" cy="380" rx="40" ry="22" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="240" cy="400" rx="30" ry="16" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="478" text-anchor="middle" font-size="15" fill="#4f6d7a">Solid rock below, soft soil above, water flowing through.</text>
+</svg>

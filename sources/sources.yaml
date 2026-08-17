@@ -381,3 +381,75 @@ sources:
     domains: [D04]
     reviewed: true
     notes: "Cited in U.02.004 L05 (fluency via repeated/guided oral reading), L06–L09 (comprehension via question answering and question generation). Real, landmark US report. URL verified live (2026-08-16): NICHD hosts the panel page (marked 'Historical/For Reference Only'). NRP identified five components of reading — phonemic awareness, phonics, fluency, vocabulary, comprehension — and found guided repeated oral reading improves fluency and that question answering and question generation are among the comprehension strategies with a solid research base. On-topic for each lesson that cites it. US-centric source; treated as one widely used evidence base among others, not the only tradition."
+
+  - id: S-041
+    title: BBC Bitesize (KS1) — Working scientifically
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z8q9pbk
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.02.006 L01 (wonder→prediction) and L02 (test it and record the result). URL verified live (2026-08-16). KS1 'Working scientifically' topic lists three guides — 'Why do scientists ask questions?', 'What is science?' (test ideas and predict outcomes), and 'How do scientists record and represent their findings?' — on-topic for the unit's ask/predict/test/record skills at Grade 2. (Corrected from the earlier KS3 topic zsg6m39, which was mislabeled as KS2.)"
+
+  - id: S-042
+    title: BBC Bitesize (KS1) — Everyday materials
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zrssgk7
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.02.006 L03 (sort/group by features) and L06 (material properties → jobs). URL verified live (2026-08-16). KS1 'Everyday materials' topic contains 'Objects and materials' (choose the right material to make things) and 'Describing materials' (describe materials and their properties) — on-topic for both lessons' grouping-by-property and property-to-job claims. (Corrected from a 404 topic z9prd2p.)"
+
+  - id: S-043
+    title: BBC Bitesize (KS1) — What is the life cycle of a plant?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zpxnyrd/articles/z2vdjxs
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.02.006 L04 (seed→sprout→seedling→flower→fruit→seed). URL verified live (2026-08-16). States: seeds grow roots and shoots, then leaves above ground; many plants make flowers which turn into fruits; flowers and fruits make their own seeds — 'We call this a life cycle.' On-topic and consistent with the lesson's stage order."
+
+  - id: S-044
+    title: BBC Bitesize (KS1) — Living things and their habitats
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zx882hv
+    organization: BBC Bitesize
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.02.006 L05 (habitat = home: food, water, shelter). URL verified live (2026-08-16). KS1 'Living things and their habitats' topic includes 'What is a habitat?' plus woodland/coastal/desert/ocean/polar/pond/rainforest/urban habitats and food chains — on-topic for the lesson's many-biomes framing (pond, forest, desert, seashore, meadow)."
+
+  - id: S-045
+    title: BBC Bitesize (KS2) — Sound (How are sounds made?)
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zgffr82
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.02.006 L07 (sound comes from vibration). URL verified live (2026-08-16). KS2 'Sound' topic lists 'How are sounds made?' plus pitch, volume, and how sounds are detected — supports the lesson's core claim that sound is made when things vibrate and that we hear it with our ears. (Lesson title corrected to match the actual guide.)"
+
+  - id: S-046
+    title: BBC Bitesize (KS2) — Rocks (What is soil made from?)
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z9bbkqt
+    organization: BBC Bitesize
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.02.006 L09 (rocks, soil, and water make up the land; soil forms from worn rock + old living things). URL verified live (2026-08-16). KS2 'Rocks' topic lists 'What is soil made from?', 'Types of rock', and 'Fossils' — on-topic for the lesson's soil-from-rock-and-living-things claim. (Corrected from topic z9sfr82, which is KS2 Maths 'Weight and mass', not rocks/soil.)"
+
+  - id: S-047
+    title: NASA Space Place — All About the Sun
+    type: website
+    url: https://spaceplace.nasa.gov/all-about-the-sun/en/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.02.006 L08 (Sun is a star; gives light + warmth; ~150 million km away; never look directly at it). URL verified live (2026-08-16). States: the Sun is a star (a hot glowing ball of gas); it is ~93 million miles (~150 million km) from Earth; 'Heat from the Sun makes Earth warm enough to live on'; 'Without light from the Sun, there would be no plants or animals'; and 'you should never look directly at the Sun.' Supports every factual claim in the lesson. (Corrected from spaceplace.nasa.gov/sun/en/, which 404s.)"
+
+  - id: S-048
+    title: BBC Bitesize — Primary (home)
+    type: website
+    url: https://www.bbc.co.uk/bitesize/primary
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.02.006 L10 (capstone) as a family-facing index of the unit's science topics. URL verified live (2026-08-16): the Primary hub (ages 3–11) aggregates KS1/KS2 science games and guides. General index, not a claim-level citation."

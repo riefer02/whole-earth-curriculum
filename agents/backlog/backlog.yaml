@@ -2251,7 +2251,7 @@ items:
     type: lesson
     grade: 2
     domain: D06
-    status: ready
+    status: done
     priority: 55
     depends_on:
       - B-064
@@ -2263,6 +2263,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passes (507 files); SVGs well-formed, paths match. IDs L.02.006.01-.10 sequential, sequence_in_unit 1-10, unit U.02.006, grade 2; all 10 carry Connection/Procedure/Assessment. Objectives resolve to real Grade-2 D06 standards only (L4 D06.S2.02.01 life cycle; L10 spans all 8) — no invented IDs. Science accurate+age-appropriate (L4 seed→sprout→seedling→flower→fruit; L8 Sun-Earth ~150M km + 'never look at Sun'; L7 sound-from-vibration concrete, depth deferred). Origins held as stories (§11); evidence vs values distinguished (L7 'Sun warms skin' vs 'I like sunny days'). Sources BBC Bitesize/NASA Space Place. unit.md Lessons table lists all 10.
+      fact-checker:
+        verdict: passed
+        note: "Science accurate+age-appropriate (plant life cycle seed→sprout→seedling→flower→fruit→seed; habitat=food/water/shelter; materials properties→jobs; sound-from-vibration depth deferred; Sun star ~150M km; soil=worn rock+old living things). Evidence vs values explicit L7/L8; origins as stories §11. Fixed 4 broken/misattributed citations: NASA Sun spaceplace page→all-about-the-sun; BBC Sorting materials→Everyday materials zrssgk7; BBC 'Rocks and soil'→Rocks z9bbkqt (was KS2 Maths); 'Working scientifically'→KS1 z8q9pbk (was KS3). Added chrysalis to butterfly extension. Registered S-041-S-048 reviewed:true. validate passes (507 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default; origins lessons (L8 Sun, L9 land) hold scientific + cultural stories side by side per §11, none ranked. Fix: L5 biome spread broadened (was temperate/Western pond/forest/meadow) — added savanna/rainforest/tundra + zebra/monkey/polar bear to living-things cards, updated Connection + facilitator note so Lagos/Lima/Lahore learner recognizes their landscape. validate passes (507 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech on all 10; alt text on all 10 assets (sort-and-group labels color groups with words; materials SVG labels 'clear/see-through' in text). Non-speaking + blind/low-vision supports every lesson; Deaf/HH support L7; outdoor 'stand (or reach)' anticipates mobility. Fix: L7 (Sound/Light/Heat) lacked blind/low-vision path for visual 'light' — added support routing light via felt warmth + partner spoken description. validate passes (507 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: objectives resolve to all 8 real Grade-2 D06 standards; D06.S1-S4 → D06 → P3 → vision; L10 capstone re-declares all 8. Lenses: ethics as reasoning (L4 caring for a seed=caring for living thing; L9 'a value we share not a fact we prove'; reuse without blame), egalitarianism (L1 'never let a guess be mocked or ranked'; L3 'no one right way'; L10 'no winners no rankings success collective'), global (L5 Lagos/Lima/Lahore; L6 mud/wood/stone/ice + clay/glass/gourd/metal), tech/env (materials as 'quiet technology', reuse; environment spine habitat/land/Sun/seeds/soil). Evidence vs values sourced (BBC Bitesize, NASA Space Place; fact/norm split modeled L7-9). §11 origins as stories not creed (L8/L9 rank none above others). validate passes (507 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: inquiry concrete (float/sink, seed, ramp, sorting, life cycle as numbered circle, habitat as 'home', energy via body, Sun via sun-vs-shade, land via touch); vibration as wonder, molecules/EM waves deferred; correct spiral from Grade 1. Emotional safety: no death-fright/eco-anxiety ('information not failure', 'old broken-down living things' gentle, ethics 'without fear or blame', Sun safety gentle + 'hopeful note not fear'); wrong predictions welcomed never shamed/ranked. Physical fit: planting/touching rock-soil-water/sun-shade walks/acting out animals with safety notes (swap glass, no hot surfaces, no loud near ears, never look at Sun, clean hands). Open-ended: origins as stories 'none ranked', evidence vs values, 'some questions cannot test yet'. validate passes (507 files)."
   - id: B-206
     title: Author lessons for Unit U.02.007 (Making, Music and Movement)
     agent: lesson-author

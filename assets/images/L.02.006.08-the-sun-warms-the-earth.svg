@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>The Sun warms the Earth and gives light</title>
+  <desc>The Sun shines rays down on the Earth. A warm side of the Earth glows, and a plant grows in the light. Labels say the Sun gives light and warmth that living things need.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">The Sun warms the Earth</text>
+
+  <!-- Sun top left -->
+  <circle cx="120" cy="140" r="42" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="120" y1="82" x2="120" y2="60" stroke="#e0a458" stroke-width="4"/>
+  <line x1="178" y1="140" x2="200" y2="140" stroke="#e0a458" stroke-width="4"/>
+  <line x1="62" y1="140" x2="40" y2="140" stroke="#e0a458" stroke-width="4"/>
+  <line x1="161" y1="99" x2="177" y2="83" stroke="#e0a458" stroke-width="4"/>
+  <line x1="79" y1="99" x2="63" y2="83" stroke="#e0a458" stroke-width="4"/>
+  <line x1="161" y1="181" x2="177" y2="197" stroke="#e0a458" stroke-width="4"/>
+  <line x1="79" y1="181" x2="63" y2="197" stroke="#e0a458" stroke-width="4"/>
+  <text x="120" y="222" text-anchor="middle" font-size="16" fill="#222222">the Sun</text>
+
+  <!-- Rays -->
+  <line x1="170" y1="170" x2="300" y2="300" stroke="#e0a458" stroke-width="3"/>
+  <line x1="150" y1="185" x2="240" y2="330" stroke="#e0a458" stroke-width="3"/>
+  <line x1="130" y1="185" x2="180" y2="335" stroke="#e0a458" stroke-width="3"/>
+  <line x1="185" y1="155" x2="330" y2="250" stroke="#e0a458" stroke-width="3"/>
+
+  <!-- Earth -->
+  <circle cx="330" cy="330" r="70" fill="#6b93b6" opacity="0.55" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M290 300 q30 -20 60 0 q-10 30 -40 34 q-24 -6 -20 -34 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="330" y="330" text-anchor="middle" font-size="15" fill="#222222">Earth</text>
+  <text x="330" y="352" text-anchor="middle" font-size="13" fill="#4f6d7a">warm + light</text>
+
+  <!-- plant growing in light -->
+  <line x1="440" y1="380" x2="440" y2="330" stroke="#7a9e7e" stroke-width="4"/>
+  <path d="M432 356 q8 -14 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <path d="M432 342 q8 -14 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="440" y="320" text-anchor="middle" font-size="14" fill="#222222">plants grow</text>
+
+  <rect x="70" y="404" width="372" height="66" rx="12" fill="#e0a458" opacity="0.2" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="432" text-anchor="middle" font-size="17" fill="#222222">The Sun gives two gifts: light and warmth.</text>
+  <text x="256" y="456" text-anchor="middle" font-size="15" fill="#4f6d7a">Living things need both to grow and stay warm.</text>
+</svg>
