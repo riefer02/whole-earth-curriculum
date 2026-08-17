@@ -2732,7 +2732,7 @@ items:
     type: lesson
     grade: 3
     domain: D07
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2744,6 +2744,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (643 files). IDs L.03.007.01-.10 sequential, sequence_in_unit 1-10, unit U.03.007, grade 3, domain D07, pillar P3. Objectives resolve to the 8 real Grade-3 D07 standards only (S1.03.01/.02, S2.03.01/.02, S3.03.01/.02, S4.03.01/.02) — no invented IDs (L9 pairs S2.03.01+S3.03.01; L10 all 8). unit.md Lessons table lists all 10. All headings present. Example: L4 'lullaby slow soft vs celebration fast loud' faithful to D07.S2.03.02. Kirschner 2006 cited for explicit modeling. validate passes."
+      fact-checker:
+        verdict: passed
+        note: Kirschner/Sweller/Clark 2006 (S-011, DOI 10.1207/s15326985ep4102_1) real+on-topic, cited in L1-4/L6-9 solely for model-then-guided-practice; updated S-011 note. Skills-based arts unit, no high-risk factual claims; cultural-general statements (pattern-making shared human practice; houses/baskets from local mud/wood/stone/ice/cloth; tempo/dynamics/pitch) hedged+accurate. Evidence vs values separated ('every piece belongs', 'no wrong mood'). No fabricated citations. validate passes (643 files; all 10 SVGs present on disk).
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default (universal elements pattern/sound/speed/shape/imagine-plan-make, no Western canon); L4 tempo/dynamics/pitch in translation-ready plain concepts. Representation spans regions (woven cloth/painted borders/carved shells+beads; houses mud/wood/stone/ice/cloth/brick cold+warm; lullaby vs celebration, heartbeat/drum/bird-call); materials_enriched instructs gathering fabric/woven/artwork samples from more than one culture. Anti-appropriation: learners create their own forms, never imitate sacred/ceremonial; 'living heritage not museum piece' (unit overview + L10). Non-blocking: uses 'people everywhere' as globalizing device, no named non-Western tradition (sound for Gr3; future could add kente/ikat, djembe/gamelan). validate passes (643 files)."
+      accessibility-editor:
+        verdict: passed
+        note: materials_low_tech+enriched all 10 (found objects/body/sand, devices optional enriched); alt text all 10 assets (SVGs role=img/aria-labelledby/title/desc). Movement L5/6/9 seated/wheelchair 'direct-a-partner = full participation'; music L3/4/9 Deaf/HOH non-auditory (felt vibration, big/small gesture, point high/low) + blind/low-vision ear-and-touch; making L1/7/8 fine-motor (sponge stamp/stencil/direct partner) + non-speaking point/word-card. validate passes (643 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: vision→P3→D07→S1-S4→8 real Grade-3 D07 objectives (verbatim-matched, none invented/cross-grade)→unit→lessons; domain[D07]+pillar[P3] on all 10. Lenses: ethics ('every pattern/feeling belongs'; 'no best movement' L5; 'no best pieces every learner heard' L10; sharing choice never duty; never single out shy learner), egalitarianism (no ranking; every-body accommodations wheelchair/Deaf/blind/non-speaking/mobility), global (woven cloth/painted borders/carved shells; mud/wood/stone/ice/cloth/brick houses; living-heritage, learners create own forms never imitate sacred), tech/env (devices optional enriched non-worshipful; design-loop/materials-shape/natural patterns). Evidence vs values (Kirschner 2006 sole claim; 'every piece belongs' framed as value). No hierarchy/'best' ranking. validate passes (643 files); 10 SVGs present."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: concrete operations (pattern in cloth/leaves, mood point-to-clue, rhythm long/short sounds + vibration, feeling-change on one song, design loop on concrete need, materials on own two builds); process over product ('a pattern is a repeat not a perfect drawing'; 'improve comes from testing'); no premature technique. Emotional safety: L10 refuses contest ('no best pieces every piece has a story'); L5/6 'every body can dance'/'no wrong retelling' + seated/wheelchair + 'directing is retelling'; L2 'no wrong answer'. Shy-learner: L2/6 partner/group + non-speaking; L10 'sharing is a choice never a duty... never single out a shy learner'. Physical fit: seated/adapted + director alternatives + stamp/stencil. Open-ended: learners author own art, questions stay questions. validate passes (643 files)."
   - id: B-307
     title: Author lessons for Unit U.03.008 (Healthy, Safe & Strong)
     agent: lesson-author

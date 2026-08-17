@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Changing a song's feeling: tempo, dynamics, pitch</title>
+  <desc id="desc">Three sliders are shown one above another. The tempo slider goes from a label "slow" on the left to "fast" on the right, with a small knob. The dynamics slider goes from "soft" to "loud." The pitch slider goes from "low" to "high." Beside each slider is a feeling example — "calm / excited" for tempo, "gentle / strong" for dynamics, and "light / heavy" for pitch. Labels and slider positions carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Changing a Song's Feeling</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Turn the dials: tempo, dynamics, pitch.</text>
+
+  <!-- tempo slider -->
+  <text x="44" y="130" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">tempo</text>
+  <text x="120" y="130" font-family="sans-serif" font-size="14" fill="#4f6d7a">(speed)</text>
+  <g>
+    <rect x="44" y="150" width="360" height="8" rx="4" fill="#e8e2d6"/>
+    <rect x="44" y="150" width="120" height="8" rx="4" fill="#6b93b6"/>
+    <circle cx="164" cy="154" r="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+  <text x="44" y="188" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">slow</text>
+  <text x="376" y="188" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">fast</text>
+  <text x="256" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">calm → excited</text>
+
+  <!-- dynamics slider -->
+  <text x="44" y="250" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">dynamics</text>
+  <text x="128" y="250" font-family="sans-serif" font-size="14" fill="#4f6d7a">(loud / soft)</text>
+  <g>
+    <rect x="44" y="270" width="360" height="8" rx="4" fill="#e8e2d6"/>
+    <rect x="44" y="270" width="300" height="8" rx="4" fill="#7a9e7e"/>
+    <circle cx="344" cy="274" r="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+  <text x="44" y="308" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">soft</text>
+  <text x="376" y="308" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">loud</text>
+  <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">gentle → strong</text>
+
+  <!-- pitch slider -->
+  <text x="44" y="370" font-family="sans-serif" font-size="18" font-weight="bold" fill="#e0a458">pitch</text>
+  <text x="98" y="370" font-family="sans-serif" font-size="14" fill="#4f6d7a">(high / low)</text>
+  <g>
+    <rect x="44" y="390" width="360" height="8" rx="4" fill="#e8e2d6"/>
+    <rect x="44" y="390" width="180" height="8" rx="4" fill="#e0a458"/>
+    <circle cx="224" cy="394" r="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+  <text x="44" y="428" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">low</text>
+  <text x="376" y="428" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">high</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">heavy → light</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">change one dial — the same song feels different</text>
+</svg>

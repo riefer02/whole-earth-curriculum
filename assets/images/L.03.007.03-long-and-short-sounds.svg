@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Long and short sounds: a rhythm pattern</title>
+  <desc id="desc">A rhythm pattern is shown as a row of symbols: a long rectangle, a long rectangle, a small dot, a small dot, and a long rectangle, with the words "long long short short long" written beneath. A key above explains that a long rectangle means a held sound like "ahhh" and a small dot means a quick sound like "ta." Labels and symbol shapes carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Long and Short Sounds</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A long sound holds; a short sound pops.</text>
+
+  <!-- key -->
+  <g>
+    <rect x="52" y="96" width="80" height="28" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="92" y="115" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">long = "ahhh"</text>
+    <circle cx="360" cy="110" r="11" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="400" y="115" font-family="sans-serif" font-size="14" fill="#222222">short = "ta"</text>
+  </g>
+
+  <!-- the pattern row -->
+  <g>
+    <rect x="52" y="170" width="80" height="56" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="148" y="170" width="80" height="56" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="284" cy="198" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="352" cy="198" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="406" y="170" width="80" height="56" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+
+  <!-- labels under pattern -->
+  <g font-family="sans-serif" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222">
+    <text x="92" y="266">long</text>
+    <text x="188" y="266">long</text>
+    <text x="284" y="266">short</text>
+    <text x="352" y="266">short</text>
+    <text x="446" y="266">long</text>
+  </g>
+
+  <!-- repeat arrow -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M256 300 Q256 336 256 350"/>
+    <path d="M248 342 L256 354 L264 342"/>
+  </g>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">perform it again</text>
+
+  <!-- second row -->
+  <g>
+    <rect x="52" y="400" width="80" height="48" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="148" y="400" width="80" height="48" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="284" cy="424" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="352" cy="424" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="406" y="400" width="80" height="48" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">rhythm = long and short sounds in a row</text>
+</svg>

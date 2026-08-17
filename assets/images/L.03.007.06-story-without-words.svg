@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Telling a story without words: three gestures</title>
+  <desc id="desc">Three panels show a story retold with movement only. Panel one shows a figure raising arms in a circle, labeled "the sun rises." Panel two shows a figure with fingers wiggling downward, labeled "rain falls." Panel three shows a figure growing from a crouch to standing tall, labeled "a seed grows." Beneath each panel is a note about the gesture choice, such as "I move slowly because seeds grow slowly." Labels and figures carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Story Without Words</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Hands, face, and body tell the tale.</text>
+
+  <!-- panel 1: sun rises -->
+  <g>
+    <rect x="26" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="96" cy="150" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M96 168 L96 224" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M96 188 L72 148 M96 188 L120 148" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M96 224 L76 256 M96 224 L116 256" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <text x="96" y="256" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">the sun rises</text>
+    <text x="96" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">arms circle up high</text>
+  </g>
+
+  <!-- panel 2: rain falls -->
+  <g>
+    <rect x="186" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="256" cy="148" r="18" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M256 166 L256 210" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M256 176 L240 150 M256 176 L272 150" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M256 210 L244 248 M256 210 L268 248" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="230" y1="196" x2="230" y2="206"/>
+      <line x1="240" y1="202" x2="240" y2="212"/>
+      <line x1="272" y1="196" x2="272" y2="206"/>
+      <line x1="282" y1="202" x2="282" y2="212"/>
+    </g>
+    <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">rain falls</text>
+    <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fingers wiggle down</text>
+  </g>
+
+  <!-- panel 3: seed grows -->
+  <g>
+    <rect x="346" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="416" cy="180" r="18" fill="#c99567" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M416 198 L416 232" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M416 208 L394 172 M416 208 L438 172" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M416 232 L398 258 M416 232 L434 258" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M404 150 Q416 132 428 150" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <text x="416" y="256" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a seed grows</text>
+    <text x="416" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">crouch to tall, slow</text>
+  </g>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Explain your choices:</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">"I move slowly because seeds grow slowly."</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">"I reach high because the plant reaches for the sun."</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">no words — just movement and gesture</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Materials shape the making: same idea, two materials</title>
+  <desc id="desc">Two panels show the same idea — a container — made from two materials. The left panel shows a folded paper cup labeled "paper: folds and holds light things." The right panel shows a woven stick basket labeled "sticks: woven and strong." An arrow between them reads "same idea, different material." Labels and the two shapes carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Materials Shape the Making</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The material changes what you can make.</text>
+
+  <!-- paper cup -->
+  <g>
+    <rect x="26" y="96" width="210" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M96 210 L120 330 L152 330 L176 210 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M96 210 L176 210" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M120 330 L120 344 L152 344 L152 330" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="131" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">folds</text>
+    <text x="131" y="176" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">paper</text>
+    <text x="131" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">holds light things</text>
+  </g>
+
+  <!-- arrow -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M250 220 L300 220"/>
+    <path d="M292 212 L302 220 L292 228"/>
+  </g>
+  <text x="276" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">same idea</text>
+
+  <!-- stick basket -->
+  <g>
+    <rect x="316" y="96" width="170" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M356 300 Q401 336 446 300" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M356 300 Q401 262 446 300" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M370 284 L370 318 M386 272 L386 320 M401 268 L401 320 M416 272 L416 320 M432 284 L432 318" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="401" y="180" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">sticks</text>
+    <text x="401" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">woven and strong</text>
+  </g>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">paper folds, sticks weave, clay molds</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">people everywhere build with the materials near them</text>
+</svg>

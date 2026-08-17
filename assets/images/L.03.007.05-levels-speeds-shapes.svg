@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Levels, speeds, and shapes: every body can dance</title>
+  <desc id="desc">Three figures show movement at three levels. The left figure reaches high with both arms and is labeled "high level." The middle figure stands with arms at the sides and is labeled "middle level." The right figure is seated low and is labeled "low level." Small arrows labeled "fast" and "slow" show speed, and a round shape and an angular star shape show two body shapes. The figures vary in skin tone and one is seated, showing every body can move. Labels carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Levels, Speeds &amp; Shapes</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every body can dance.</text>
+
+  <!-- high level figure -->
+  <g>
+    <circle cx="96" cy="140" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M96 160 L96 232" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M96 180 L68 132 M96 180 L124 132" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M96 232 L72 288 M96 232 L120 288" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <text x="96" y="316" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">high level</text>
+  </g>
+
+  <!-- middle level figure -->
+  <g>
+    <circle cx="256" cy="160" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M256 180 L256 244" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M256 196 L232 214 M256 196 L280 214" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M256 244 L236 296 M256 244 L276 296" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">middle level</text>
+  </g>
+
+  <!-- low level seated figure -->
+  <g>
+    <circle cx="416" cy="196" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M416 216 L416 244" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M416 224 L388 250 L388 284 M388 284 L360 290" stroke="#2b3a42" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <path d="M416 244 L448 250 L448 284 M448 284 L476 290" stroke="#2b3a42" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <path d="M416 226 L390 236" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <text x="416" y="316" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">low level</text>
+  </g>
+
+  <!-- speed arrows -->
+  <g>
+    <text x="44" y="372" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">speed</text>
+    <path d="M120 368 L196 368" stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M188 360 L198 368 L188 376 Z" fill="#2b3a42"/>
+    <text x="120" y="360" font-family="sans-serif" font-size="14" fill="#4f6d7a">slow</text>
+    <text x="160" y="360" font-family="sans-serif" font-size="14" fill="#4f6d7a">fast</text>
+  </g>
+
+  <!-- shapes -->
+  <g>
+    <text x="280" y="372" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">shapes</text>
+    <circle cx="322" cy="368" r="16" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="322" y="356" font-family="sans-serif" font-size="13" fill="#4f6d7a">round</text>
+    <polygon points="392,344 400,360 418,362 405,374 408,392 392,382 376,392 379,374 366,362 384,360" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="392" y="406" font-family="sans-serif" font-size="13" fill="#4f6d7a">sharp</text>
+  </g>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">high, middle, low — fast, slow — round, sharp: a dance</text>
+</svg>

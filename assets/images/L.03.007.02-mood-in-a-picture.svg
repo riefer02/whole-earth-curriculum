@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Mood in a picture: calm and wild</title>
+  <desc id="desc">Two framed pictures side by side. The left picture is labeled "calm" and shows smooth, soft, curving lines like gentle hills and a soft sun. The right picture is labeled "wild" and shows sharp, dark, zigzag lines like a storm. Two arrows point from labels "smooth line" and "sharp line" to the features that create each mood. Labels and line quality carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Mood in a Picture</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The color, line, and shape make the feeling.</text>
+
+  <!-- calm frame -->
+  <rect x="26" y="96" width="210" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <g stroke="#2b3a42" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M40 300 Q90 250 150 296 Q210 252 222 296"/>
+    <path d="M40 322 Q90 282 150 318 Q210 284 222 318"/>
+  </g>
+  <circle cx="70" cy="150" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <line x1="70" y1="120" x2="70" y2="108"/>
+    <line x1="70" y1="180" x2="70" y2="192"/>
+    <line x1="40" y1="150" x2="28" y2="150"/>
+    <line x1="100" y1="150" x2="112" y2="150"/>
+    <line x1="49" y1="129" x2="40" y2="120"/>
+    <line x1="91" y1="129" x2="100" y2="120"/>
+    <line x1="49" y1="171" x2="40" y2="180"/>
+    <line x1="91" y1="171" x2="100" y2="180"/>
+  </g>
+  <text x="131" y="322" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">calm</text>
+
+  <!-- wild frame -->
+  <rect x="276" y="96" width="210" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <g stroke="#2b3a42" stroke-width="3.5" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M292 200 L332 150 L352 210 L392 140 L412 200"/>
+    <path d="M292 240 L330 190 L354 250 L390 180 L418 240"/>
+    <path d="M292 280 L326 230 L356 290 L396 220 L418 280"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2.5">
+    <line x1="300" y1="130" x2="308" y2="106"/>
+    <line x1="352" y1="130" x2="360" y2="106"/>
+    <line x1="404" y1="130" x2="412" y2="106"/>
+  </g>
+  <text x="381" y="322" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">wild</text>
+
+  <!-- clue arrows -->
+  <g stroke="#4f6d7a" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M70 396 Q70 370 90 352"/>
+    <path d="M106 396 L114 380 L96 380 Z"/>
+  </g>
+  <text x="30" y="416" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">smooth line</text>
+
+  <g stroke="#4f6d7a" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M360 396 Q360 370 342 352"/>
+    <path d="M346 396 L338 380 L356 380 Z"/>
+  </g>
+  <text x="330" y="416" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">sharp line</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">point to the line, color, or shape that makes the mood</text>
+</svg>

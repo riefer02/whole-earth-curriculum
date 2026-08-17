@@ -61,3 +61,13 @@ living heritage, not a museum piece.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Patterns in Art | D07.S1.03.01 |
+| 2 | Mood in a Picture | D07.S1.03.02 |
+| 3 | Long and Short Sounds | D07.S2.03.01 |
+| 4 | Changing a Song's Feeling | D07.S2.03.02 |
+| 5 | Levels, Speeds & Shapes | D07.S3.03.01 |
+| 6 | Telling a Story Without Words | D07.S3.03.02 |
+| 7 | Imagine, Plan, Make, Improve | D07.S4.03.01 |
+| 8 | Materials Shape the Making | D07.S4.03.02 |
+| 9 | Sound and Motion Together | D07.S2.03.01, D07.S3.03.01 |
+| 10 | The Gallery of Making | D07.S1.03.01, D07.S1.03.02, D07.S2.03.01, D07.S2.03.02, D07.S3.03.01, D07.S3.03.02, D07.S4.03.01, D07.S4.03.02 |

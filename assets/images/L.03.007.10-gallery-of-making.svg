@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The gallery of making: four ways to make</title>
+  <desc id="desc">Four panels laid out like a gallery show four ways to make. Panel one shows a repeating pattern of triangles and circles labeled "pattern." Panel two shows long rectangles and small dots labeled "rhythm." Panel three shows figures high and low labeled "movement." Panel four shows the design loop of imagine, plan, make, improve labeled "design." A banner beneath reads "pattern + rhythm + movement + design = making." Prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Gallery of Making</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Four ways to make, one voice.</text>
+
+  <!-- pattern panel -->
+  <g>
+    <rect x="26" y="92" width="216" height="160" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="134" y="118" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">pattern</text>
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <polygon points="60,176 82,140 104,176"/>
+      <circle cx="128" cy="158" r="18"/>
+      <polygon points="154,176 176,140 198,176"/>
+      <circle cx="222" cy="158" r="18"/>
+    </g>
+    <text x="134" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">shape, line, color again and again</text>
+  </g>
+
+  <!-- rhythm panel -->
+  <g>
+    <rect x="270" y="92" width="216" height="160" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="378" y="118" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">rhythm</text>
+    <g stroke="#2b3a42" stroke-width="2.5" fill="none">
+      <rect x="300" y="142" width="40" height="18" rx="4" fill="#6b93b6" stroke="#2b3a42"/>
+      <circle cx="362" cy="151" r="9" fill="#7a9e7e"/>
+      <circle cx="388" cy="151" r="9" fill="#7a9e7e"/>
+      <rect x="410" y="142" width="40" height="18" rx="4" fill="#6b93b6" stroke="#2b3a42"/>
+    </g>
+    <text x="378" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">long and short sounds</text>
+  </g>
+
+  <!-- movement panel -->
+  <g>
+    <rect x="26" y="272" width="216" height="160" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="134" y="298" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">movement</text>
+    <g stroke="#2b3a42" stroke-width="3" fill="none" stroke-linecap="round">
+      <circle cx="86" cy="340" r="12" fill="#e6bb92"/>
+      <path d="M86 352 L86 380 M86 360 L72 338 M86 360 L100 338"/>
+      <circle cx="182" cy="356" r="12" fill="#8f5f3d"/>
+      <path d="M182 368 L182 388 M182 376 L166 404 M182 376 L198 404"/>
+    </g>
+    <text x="134" y="412" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">high and low levels and shapes</text>
+  </g>
+
+  <!-- design panel -->
+  <g>
+    <rect x="270" y="272" width="216" height="160" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="378" y="298" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">design</text>
+    <g font-family="sans-serif" text-anchor="middle" font-size="11" fill="#2b3a42">
+      <rect x="292" y="312" width="80" height="28" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <text x="332" y="330">imagine</text>
+      <rect x="384" y="312" width="80" height="28" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <text x="424" y="330">plan</text>
+      <rect x="292" y="368" width="80" height="28" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <text x="332" y="386">make</text>
+      <rect x="384" y="368" width="80" height="28" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <text x="424" y="386">improve</text>
+    </g>
+    <text x="378" y="424" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the loop that makes things work</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">pattern + rhythm + movement + design = making</text>
+</svg>

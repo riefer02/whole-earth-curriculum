@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Imagine, plan, make, improve: the design loop</title>
+  <desc id="desc">A four-step design loop is shown as four boxes joined by curved arrows forming a circle. The boxes are: imagine (with a thought bubble holding a small cup), plan (with a small sketch on paper), make (with a hand and a built cup), and improve (with a test-and-fix arrow). Each box is labeled, and a center label reads "a loop, not a line." Labels and icons carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Imagine, Plan, Make, Improve</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The design loop.</text>
+
+  <!-- arrows circle -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M168 158 Q256 108 344 158"/>
+    <path d="M332 150 L344 160 L336 170"/>
+    <path d="M344 354 Q256 404 168 354"/>
+    <path d="M176 344 L168 354 L160 344"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M164 208 Q108 256 164 304"/>
+    <path d="M156 292 L164 304 L172 292"/>
+    <path d="M348 304 Q404 256 348 208"/>
+    <path d="M356 220 L348 208 L340 220"/>
+  </g>
+
+  <!-- imagine (top-left) -->
+  <g>
+    <rect x="36" y="116" width="118" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="95" y="142" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">imagine</text>
+    <path d="M60 168 Q74 150 96 164 Q118 150 132 168 Q132 186 108 190 L100 202 L94 190 Q60 190 60 168 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- plan (top-right) -->
+  <g>
+    <rect x="358" y="116" width="118" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="417" y="142" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">plan</text>
+    <rect x="380" y="156" width="74" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M388 176 L408 168 L420 182 L404 196" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- make (bottom-right) -->
+  <g>
+    <rect x="358" y="278" width="118" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="417" y="304" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">make</text>
+    <path d="M386 344 Q386 322 404 322 L430 322 Q448 322 448 344 L448 360 Q448 372 430 372 L404 372 Q386 372 386 360 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- improve (bottom-left) -->
+  <g>
+    <rect x="36" y="278" width="118" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="95" y="304" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">improve</text>
+    <path d="M66 356 L112 330" stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M100 328 L112 332 L106 344 Z" fill="#2b3a42"/>
+  </g>
+
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a loop, not a line</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">test it, fix it, test again — that is how good things get made</text>
+</svg>
