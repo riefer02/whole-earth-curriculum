@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Place value to one million: 463,215 broken into columns</title>
+  <desc id="desc">A place-value chart with columns for hundred-thousands, ten-thousands, thousands, hundreds, tens, and ones. The number 463,215 is shown with the digit 4 in hundred-thousands, 6 in ten-thousands, 3 in thousands, 2 in hundreds, 1 in tens, and 5 in ones. Beneath each column the value of that digit is written: 400,000; 60,000; 3,000; 200; 10; 5. The total is written in words as four hundred sixty-three thousand, two hundred fifteen.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Place Value to One Million</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Each place is worth ten times the place before it.</text>
+
+  <!-- Six columns -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <text x="86" y="106" font-size="12" fill="#4f6d7a">hundred-</text>
+    <text x="86" y="120" font-size="12" fill="#4f6d7a">thousands</text>
+    <text x="172" y="106" font-size="12" fill="#4f6d7a">ten-</text>
+    <text x="172" y="120" font-size="12" fill="#4f6d7a">thousands</text>
+    <text x="258" y="113" font-size="12" fill="#4f6d7a">thousands</text>
+    <text x="344" y="113" font-size="12" fill="#4f6d7a">hundreds</text>
+    <text x="428" y="113" font-size="12" fill="#4f6d7a">tens</text>
+    <text x="470" y="113" font-size="12" fill="#4f6d7a">ones</text>
+  </g>
+
+  <!-- Column boxes -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <rect x="32" y="130" width="108" height="70" rx="6"/>
+    <rect x="146" y="130" width="54" height="70" rx="6"/>
+    <rect x="206" y="130" width="104" height="70" rx="6"/>
+    <rect x="316" y="130" width="56" height="70" rx="6"/>
+    <rect x="378" y="130" width="56" height="70" rx="6"/>
+    <rect x="440" y="130" width="44" height="70" rx="6"/>
+  </g>
+
+  <!-- Digits (warm accent for the one million / largest place) -->
+  <g font-family="sans-serif" text-anchor="middle" font-size="46" font-weight="bold">
+    <text x="86" y="184" fill="#e0a458">4</text>
+    <text x="173" y="184" fill="#6b93b6">6</text>
+    <text x="258" y="184" fill="#7a9e7e">3</text>
+    <text x="344" y="184" fill="#2b3a42">2</text>
+    <text x="406" y="184" fill="#2b3a42">1</text>
+    <text x="462" y="184" fill="#2b3a42">5</text>
+  </g>
+
+  <!-- Values beneath -->
+  <g font-family="sans-serif" text-anchor="middle" font-size="13" fill="#2b3a42">
+    <text x="86" y="226">400,000</text>
+    <text x="173" y="226">60,000</text>
+    <text x="258" y="226">3,000</text>
+    <text x="344" y="226">200</text>
+    <text x="406" y="226">10</text>
+    <text x="462" y="226">5</text>
+  </g>
+
+  <!-- Expanded form box -->
+  <rect x="52" y="258" width="408" height="96" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">400,000 + 60,000 + 3,000 + 200 + 10 + 5</text>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">four hundred sixty-three thousand, two hundred fifteen</text>
+
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">The comma groups the thousands.</text>
+
+  <!-- Scale reminder -->
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">10 ones = 1 ten · 10 tens = 1 hundred · 10 hundreds = 1 thousand</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">10 thousands = 1 ten-thousand · 10 ten-thousands = 1 hundred-thousand</text>
+</svg>

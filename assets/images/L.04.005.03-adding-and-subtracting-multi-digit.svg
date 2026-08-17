@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Adding and subtracting multi-digit numbers with regrouping</title>
+  <desc id="desc">Two worked examples laid out in place-value columns. Addition: 47,268 plus 38,519, with a small arrow showing ten ones traded into the tens column, giving the sum 85,787. Subtraction: 47,268 minus 28,531, with borrows at the hundreds and thousands columns (12 minus 5 and 16 minus 8), giving the difference 18,737.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Adding &amp; Subtracting Multi-Digit Numbers</text>
+
+  <!-- Addition -->
+  <text x="140" y="82" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">Addition</text>
+  <g font-family="monospace" font-size="26" fill="#2b3a42">
+    <text x="46" y="118">4 7 , 2 6 8</text>
+    <text x="46" y="152">+ 3 8 , 5 1 9</text>
+    <line x1="46" y1="164" x2="230" y2="164" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- trade arrow: ones to tens -->
+  <path d="M196 118 C 210 124, 210 96, 196 92" fill="none" stroke="#e0a458" stroke-width="2"/>
+  <text x="252" y="108" font-family="sans-serif" font-size="13" fill="#e0a458">trade 10 ones → 1 ten</text>
+  <text x="40" y="196" font-family="monospace" font-size="26" font-weight="bold" fill="#e0a458">8 5 , 7 8 7</text>
+  <text x="46" y="226" font-family="sans-serif" font-size="14" fill="#4f6d7a">8 + 9 = 17 → 7 ones, carry 1 ten</text>
+
+  <!-- Subtraction -->
+  <text x="396" y="82" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">Subtraction</text>
+  <g font-family="monospace" font-size="26" fill="#2b3a42">
+    <text x="286" y="118">4 7 , 2 6 8</text>
+    <text x="286" y="152">− 2 8 , 5 3 1</text>
+    <line x1="286" y1="164" x2="470" y2="164" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- borrow arrows: hundreds and thousands -->
+  <path d="M336 120 C 322 126, 322 92, 336 88" fill="none" stroke="#6b93b6" stroke-width="2"/>
+  <text x="300" y="108" font-family="sans-serif" font-size="13" fill="#6b93b6">borrow from the next place</text>
+  <text x="278" y="196" font-family="monospace" font-size="26" font-weight="bold" fill="#6b93b6">1 8 , 7 3 7</text>
+  <text x="286" y="226" font-family="sans-serif" font-size="14" fill="#4f6d7a">12 − 5 = 7; 16 − 8 = 8 (borrow twice)</text>
+
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Work one place at a time.</text>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">When a column has ten or more (or needs more), trade with the next place.</text>
+
+  <!-- Trade reminder boxes -->
+  <rect x="60" y="330" width="180" height="90" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="150" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">Adding</text>
+  <text x="150" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">10 ones = 1 ten</text>
+  <text x="150" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">10 tens = 1 hundred</text>
+
+  <rect x="272" y="330" width="180" height="90" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+  <text x="362" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">Subtracting</text>
+  <text x="362" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">1 ten = 10 ones</text>
+  <text x="362" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">1 hundred = 10 tens</text>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Trading ten of one place for one of the next is called regrouping.</text>
+</svg>

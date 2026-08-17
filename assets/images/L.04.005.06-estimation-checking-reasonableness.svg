@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Estimation: check that an answer is reasonable</title>
+  <desc id="desc">Three steps shown left to right. Step 1: round 68 to 70 and 42 to 40. Step 2: estimate 70 times 40 equals about 2,800. Step 3: compare the exact answer 2,856 and judge it reasonable because it is close. A small note shows 28,560 is too big and 285 is too small.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Estimation: Does It Make Sense?</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Check 68 × 42 by estimating first</text>
+
+  <!-- Step 1 -->
+  <rect x="30" y="96" width="140" height="150" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+  <text x="100" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">Step 1 — Round</text>
+  <text x="100" y="152" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">68 → 70</text>
+  <text x="100" y="180" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">42 → 40</text>
+  <text x="100" y="218" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">friendly numbers</text>
+
+  <text x="186" y="178" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#e0a458">→</text>
+
+  <!-- Step 2 -->
+  <rect x="196" y="96" width="140" height="150" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="266" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">Step 2 — Estimate</text>
+  <text x="266" y="158" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">70 × 40</text>
+  <text x="266" y="192" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#7a9e7e">≈ 2,800</text>
+  <text x="266" y="218" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">about 2,800</text>
+
+  <text x="352" y="178" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#e0a458">→</text>
+
+  <!-- Step 3 -->
+  <rect x="362" y="96" width="120" height="150" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="422" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">Step 3 — Judge</text>
+  <text x="422" y="158" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">exact</text>
+  <text x="422" y="184" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">2,856</text>
+  <text x="422" y="218" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">close ✓</text>
+
+  <!-- too big / too small -->
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">Which answers are reasonable?</text>
+  <g font-family="sans-serif" text-anchor="middle" font-size="20">
+    <text x="120" y="322" fill="#c0392b">28,560</text>
+    <text x="256" y="322" fill="#2b3a42">2,856</text>
+    <text x="392" y="322" fill="#c0392b">285</text>
+  </g>
+  <g font-family="sans-serif" text-anchor="middle" font-size="15">
+    <text x="120" y="348" fill="#c0392b">too big ✗</text>
+    <text x="256" y="348" fill="#7a9e7e">reasonable ✓</text>
+    <text x="392" y="348" fill="#c0392b">too small ✗</text>
+  </g>
+
+  <rect x="90" y="378" width="332" height="74" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Estimate first, then judge.</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">"Does this make sense?" is the check that catches errors.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Estimation is not guessing — it is a careful, useful check.</text>
+</svg>

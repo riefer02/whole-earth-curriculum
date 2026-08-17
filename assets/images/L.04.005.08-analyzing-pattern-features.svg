@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Analyzing the features of two patterns</title>
+  <desc id="desc">Two patterns side by side. Left: a growing pattern 2, 5, 8, 11 with an arrow labeled "changes: the numbers" and another labeled "stays the same: step +3," showing it increases by 3. Right: a repeating pattern A, B, A, B, A with an arrow labeled "changes: the letter" and another labeled "stays the same: order A then B," showing it repeats every 2.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Analyzing Pattern Features</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">What stays the same? What changes?</text>
+
+  <!-- Growing pattern -->
+  <rect x="30" y="96" width="220" height="290" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+  <text x="140" y="122" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">Growing pattern</text>
+
+  <g font-family="sans-serif" text-anchor="middle" font-size="26" font-weight="bold" fill="#2b3a42">
+    <text x="66" y="168">2</text><text x="116" y="168">5</text><text x="166" y="168">8</text><text x="216" y="168">11</text>
+  </g>
+  <g font-family="sans-serif" text-anchor="middle" font-size="18" fill="#e0a458">
+    <text x="91" y="168">+3</text><text x="141" y="168">+3</text><text x="191" y="168">+3</text>
+  </g>
+  <text x="140" y="200" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">changes: the numbers</text>
+  <text x="140" y="226" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#7a9e7e">stays the same: the step, +3</text>
+  <text x="140" y="256" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">→ increases by 3 each time</text>
+  <text x="140" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Predict term 10:</text>
+  <text x="140" y="330" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#e0a458">2 + 9 × 3 = 29</text>
+  <text x="140" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">count on in threes, 9 more steps</text>
+
+  <!-- Repeating pattern -->
+  <rect x="262" y="96" width="220" height="290" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="372" y="122" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">Repeating pattern</text>
+
+  <g font-family="sans-serif" text-anchor="middle" font-size="26" font-weight="bold" fill="#2b3a42">
+    <text x="312" y="168">A</text><text x="356" y="168">B</text><text x="400" y="168">A</text><text x="444" y="168">B</text><text x="470" y="168">A</text>
+  </g>
+  <text x="372" y="200" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">changes: the letter</text>
+  <text x="372" y="226" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#7a9e7e">stays the same: the order, A then B</text>
+  <text x="372" y="256" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">→ repeats every 2</text>
+  <text x="372" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Predict the 11th shape:</text>
+  <text x="372" y="330" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#7a9e7e">A (odd places are A)</text>
+  <text x="372" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">1st, 3rd, 5th … are all A</text>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Every pattern has constant parts and changing parts.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Name them, and the pattern becomes predictable.</text>
+</svg>

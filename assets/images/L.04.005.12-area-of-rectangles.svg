@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Area of a 6 by 4 rectangle</title>
+  <desc id="desc">A rectangle 6 units wide and 4 units tall, tiled with 24 unit squares arranged in 4 rows of 6. The length 6 and width 4 are labeled. Beside it, the formula area equals length times width is shown as 6 times 4 equals 24 square units.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Area of a Rectangle</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">How many squares cover it?</text>
+
+  <!-- Tiled rectangle: 6 x 4 -->
+  <g stroke="#2b3a42" stroke-width="1.5" fill="#7a9e7e">
+    <rect x="70" y="120" width="40" height="40"/><rect x="110" y="120" width="40" height="40"/><rect x="150" y="120" width="40" height="40"/><rect x="190" y="120" width="40" height="40"/><rect x="230" y="120" width="40" height="40"/><rect x="270" y="120" width="40" height="40"/>
+    <rect x="70" y="160" width="40" height="40"/><rect x="110" y="160" width="40" height="40"/><rect x="150" y="160" width="40" height="40"/><rect x="190" y="160" width="40" height="40"/><rect x="230" y="160" width="40" height="40"/><rect x="270" y="160" width="40" height="40"/>
+    <rect x="70" y="200" width="40" height="40"/><rect x="110" y="200" width="40" height="40"/><rect x="150" y="200" width="40" height="40"/><rect x="190" y="200" width="40" height="40"/><rect x="230" y="200" width="40" height="40"/><rect x="270" y="200" width="40" height="40"/>
+    <rect x="70" y="240" width="40" height="40"/><rect x="110" y="240" width="40" height="40"/><rect x="150" y="240" width="40" height="40"/><rect x="190" y="240" width="40" height="40"/><rect x="230" y="240" width="40" height="40"/><rect x="270" y="240" width="40" height="40"/>
+  </g>
+
+  <!-- labels -->
+  <text x="170" y="104" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">length = 6</text>
+  <text x="50" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6" transform="rotate(-90 50 212)">width = 4</text>
+
+  <!-- formula -->
+  <rect x="360" y="120" width="130" height="160" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="425" y="152" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Area =</text>
+  <text x="425" y="182" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">length × width</text>
+  <text x="425" y="218" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#e0a458">6 × 4 = 24</text>
+  <text x="425" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">square units</text>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">4 rows of 6 = 24 squares</text>
+  <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">The formula is the count, made quick.</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Area = how many squares cover a surface.</text>
+</svg>

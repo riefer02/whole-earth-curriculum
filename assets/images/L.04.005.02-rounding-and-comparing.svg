@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rounding 463,215 to the nearest hundred-thousand, and comparing two numbers</title>
+  <desc id="desc">A number line from 400,000 to 500,000 with tick marks, and the midpoint 450,000 marked in the middle. A dot marks 463,215, which sits past the midpoint, so an arrow shows it rounding up to 500,000. Below, two six-digit numbers 463,215 and 463,150 are compared column by column, showing that 463,215 is greater because its hundreds digit 2 is greater than 1.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Rounding &amp; Comparing</text>
+
+  <!-- Number line -->
+  <line x1="40" y1="130" x2="472" y2="130" stroke="#2b3a42" stroke-width="2"/>
+  <!-- ticks -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="40" y1="122" x2="40" y2="138"/>
+    <line x1="256" y1="122" x2="256" y2="138"/>
+    <line x1="472" y1="122" x2="472" y2="138"/>
+  </g>
+  <text x="40" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">400,000</text>
+  <text x="256" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458">450,000 (midpoint)</text>
+  <text x="472" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">500,000</text>
+
+  <!-- 463,215 dot -->
+  <circle cx="310" cy="130" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="310" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">463,215</text>
+
+  <!-- arrow to 500,000 -->
+  <path d="M310 172 C 350 200, 410 200, 462 182" fill="none" stroke="#e0a458" stroke-width="3" marker-end="url(#arrow)"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#e0a458"/>
+    </marker>
+  </defs>
+  <text x="392" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458">rounds up to 500,000</text>
+
+  <!-- Comparison section -->
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">Comparing 463,215 and 463,150</text>
+
+  <g font-family="sans-serif" text-anchor="middle" font-size="22" font-weight="bold" fill="#2b3a42">
+    <text x="80" y="290">4</text><text x="120" y="290">6</text><text x="160" y="290">3</text><text x="200" y="290">2</text><text x="240" y="290">1</text><text x="280" y="290">5</text>
+    <text x="80" y="340">4</text><text x="120" y="340">6</text><text x="160" y="340">3</text><text x="200" y="340">1</text><text x="240" y="340">5</text><text x="280" y="340">0</text>
+  </g>
+  <!-- equal checks (hundred-thousands, ten-thousands, thousands) -->
+  <g font-family="sans-serif" text-anchor="middle" font-size="16" fill="#7a9e7e">
+    <text x="80" y="314">=</text><text x="120" y="314">=</text><text x="160" y="314">=</text>
+  </g>
+  <text x="200" y="314" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">2 &gt; 1</text>
+  <text x="200" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e0a458">hundreds decide</text>
+
+  <rect x="316" y="268" width="164" height="86" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="398" y="304" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">463,215 &gt; 463,150</text>
+  <text x="398" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">greater than</text>
+
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Round: find the two neighbors and the midpoint, then choose the nearer one.</text>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Compare: read the digits left to right, largest place first.</text>
+</svg>

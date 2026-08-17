@@ -3102,7 +3102,7 @@ items:
     type: lesson
     grade: 4
     domain: D05
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3113,7 +3113,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by fact-checker: Citations clean (all registered: Clements&Sarama S-020, Ifrah S-023, Zaslavsky S-024, Carpenter S-025, Van de Walle S-026, NRC S-027, Davies S-028). BUT two mathematically incorrect worked examples: (1) L.04.005.02 step 4 + SVG comparing 463,215 vs 463,150 says 'hundreds equal' (wrong: 2 vs 1) and 'both have 1 ten' (wrong: 463,150 has 5 tens) — comparison decided at hundreds not ones; (2) L.04.005.01 step 5 '405,070 — the zero says no tens here' wrong (405,070 has 7 tens). Fix both + the SVG.. Blocked by fact-checker: Two original fixes correct (405,070 zeros/7-in-tens; 463,215>463,150 hundreds 2>1; SVGs desc/marks). BUT two more asset math errors: (1) L.04.005.03 SVG subtraction annotation wrong for 47,268-28,531 ('trade 1 ten->10 ones', '16-9=7' — but 8-1=7 and 6-3=3 need no borrow; real borrows are 12-5=7 hundreds and 16-8=8 thousands); (2) L.04.005.16 SVG line plot shows 11 X marks but answers '10 objects' (desc omits X at 3). Fix both SVGs.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (749). L.04.005.03 SVG subtraction now correct column-by-column (8-1=7, 6-3=3, 12-5=7, 16-8=8, 3-2=1 -> 18,737; desc + annotation '12-5=7; 16-8=8 borrow twice'); L.04.005.16 line plot now 10 X marks (3.5:1, 4:3, 4.5:2, 5:1, 5.5:2, 6:1) matching '10 objects' + desc. Objectives resolve (L.03 -> D05.S1.04.02, L.16 -> D05.S4.04.02); headings intact.
+      fact-checker:
+        verdict: passed
+        note: "Final sweep of all 16 SVGs + worked examples clean: 47,268-28,531=18,737 correct borrows; 10 X marks match '10 objects'; 463,215>463,150 at hundreds; 23x45=1,035; 125/4=31 R1; 68x42=2,800(2,856); square numbers +3/+5/+7; n+3=7->n=4; area 6x4=24; perimeter 8x5=26; 2.5km=2,500m. All 7 citations registered reviewed:true (S-020/023/024/025/026/027/028); no misattributed sources. validate passes (749)."
+      global-culture-editor:
+        verdict: passed
+        note: "Global-framing substantiated: Ifrah cited (L1-4,9) for Indian-origin decimal system/zero + tallies/knots; Zaslavsky cited (L1,7,8,11,15) for African counting/weaving/beading/cowrie exchange; L14 metric as global default with customary units treated respectfully 'never ranked'; L15 home currency + cowrie/beads/salt pre-coin exchange; L6 non-Western currencies (pesos/rupees/shekels/shillings); Connections center market seller/farmer/weaver/beadworker/surveyor; geometry vocabulary 'many traditions not one'. No US/Euro default."
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier all 16 (paper/slate/stones/sticks/string/body/voice); UDL 3 tiers + 5 context_variants + Differentiation every lesson; blind (tactile charts/number lines, raised marks, braille counters, feel-by-touch), Deaf (sign each step), motor (partner places/directs), neurodivergent (mastery at own pace); SVG role=img+title+desc+non-empty alt all 16 grayscale-safe (color never sole signal on place-value/line-plot/estimation); 'count in home language', no wealth assumption (found objects as coins).
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: egalitarianism strongest ('sense-making for everyone', 'not a gatekeeping ritual', metric 'egalitarian in spirit', 'a number is a fact about a collection never about a person', rejects math-as-ranking); ethics (division as fair sharing L5 'oldest human acts', honest data as 'truth-telling not what you wished it said' L16); global (Hindu-Arabic numerals via Ifrah, African counting Zaslavsky, cowrie/salt/bead money Davies, weaving/beading patterns, home language, customary 'never ranked'); tech/env (calculator/apps 'neither worship nor fear', natural patterns ferns/shell spirals, rain-tracking). Evidence vs values (Clements&Sarama/Van de Walle/Carpenter/Ifrah/Zaslavsky/Davies/NRC). Traceability: Vision->P3->D05->S1-S4->standards->U.04.005->L.04.005.01-.16; all 8 objectives resolve; no hierarchy. Non-blocking: cross_cutting_lenses omits ethics/tech-env though body carries both."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (8-11, 3-5): cognitive manipulatives-first then symbols (counters/base-ten, area models, balance scales, string/body, worked-example-first); two abstract jumps (variable n L9, hierarchical classification L11) concrete + standard grade-4 content; emotional safety math anxiety handled (estimation 'reasonable not right/wrong', 'wrong answer never a verdict', remainders 'not a mistake real information', speed/pacing not worth); physical fit (bodies L10, walking perimeters/number lines, tapping minute, folding corner); rigor retained (1M, partial products, fractional line plots); inquiry (author own problems, multiple correct paths); spiral names G3 foundation; egalitarian/global lens carried."
   - id: B-317
     title: Author lessons for Unit U.04.006 (Controlled Experiments & the Living World)
     agent: lesson-author

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Point, line, segment, ray, and angle</title>
+  <desc id="desc">Five labeled figures arranged in a row. A point shown as a single dot. A line with arrowheads at both ends. A line segment with two endpoint dots. A ray with one endpoint dot and one arrowhead. An angle made of two rays meeting at a vertex, with a small arc marking the angle.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Point · Line · Segment · Ray · Angle</text>
+
+  <!-- Point -->
+  <text x="80" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">point</text>
+  <circle cx="80" cy="130" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="166" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a place, no size</text>
+
+  <!-- Line -->
+  <text x="196" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">line</text>
+  <line x1="140" y1="130" x2="252" y2="130" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="140,130 154,124 154,136" fill="#2b3a42"/>
+  <polygon points="252,130 238,124 238,136" fill="#2b3a42"/>
+  <text x="196" y="166" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">goes on forever</text>
+
+  <!-- Segment -->
+  <text x="316" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">segment</text>
+  <line x1="264" y1="130" x2="368" y2="130" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="264" cy="130" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="368" cy="130" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="316" y="166" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">two endpoints</text>
+
+  <!-- Ray -->
+  <text x="436" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">ray</text>
+  <line x1="392" y1="130" x2="472" y2="130" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="392" cy="130" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="472,130 458,124 458,136" fill="#2b3a42"/>
+  <text x="436" y="166" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">one endpoint</text>
+
+  <!-- Angle -->
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">angle — two rays meeting at a vertex</text>
+  <line x1="200" y1="320" x2="256" y2="300" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="256" y1="300" x2="316" y2="320" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="256" cy="300" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 306 A 22 22 0 0 1 266 288" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">vertex (where they meet)</text>
+
+  <!-- Three angles -->
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Three kinds of angle:</text>
+  <g>
+    <!-- right -->
+    <line x1="110" y1="452" x2="150" y2="452" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="150" y1="452" x2="150" y2="420" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="144" y="446" width="6" height="6" fill="#7a9e7e"/>
+    <text x="150" y="482" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#7a9e7e">right (square)</text>
+    <!-- acute -->
+    <line x1="246" y1="452" x2="276" y2="452" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="246" y1="452" x2="264" y2="418" stroke="#2b3a42" stroke-width="3"/>
+    <text x="262" y="482" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#6b93b6">acute (narrow)</text>
+    <!-- obtuse -->
+    <line x1="356" y1="452" x2="406" y2="452" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="356" y1="452" x2="332" y2="420" stroke="#2b3a42" stroke-width="3"/>
+    <text x="366" y="482" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458">obtuse (wide)</text>
+  </g>
+</svg>

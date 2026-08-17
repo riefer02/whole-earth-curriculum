@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Converting time, volume, and money</title>
+  <desc id="desc">Three cards side by side. Time card: a clock face with 60 seconds equals 1 minute and 60 minutes equals 1 hour. Volume card: a liter bottle with 1,000 milliliters equals 1 liter. Money card: coins and a bill with 100 small units equals 1 large unit. Each card shows how to convert within that system.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Converting Time, Volume &amp; Money</text>
+
+  <!-- Time card -->
+  <rect x="24" y="80" width="150" height="250" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+  <text x="99" y="110" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#6b93b6">Time</text>
+  <circle cx="99" cy="160" r="34" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="99" y1="160" x2="99" y2="136" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="99" y1="160" x2="116" y2="160" stroke="#2b3a42" stroke-width="3"/>
+  <text x="99" y="220" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">60 s = 1 min</text>
+  <text x="99" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">60 min = 1 h</text>
+  <text x="99" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rhythm: 60</text>
+
+  <!-- Volume card -->
+  <rect x="182" y="80" width="150" height="250" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="257" y="110" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#7a9e7e">Volume</text>
+  <rect x="225" y="132" width="64" height="80" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="232" y="152" width="50" height="52" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="225" y1="148" x2="289" y2="148" stroke="#2b3a42" stroke-width="2"/>
+  <text x="257" y="238" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">1,000 mL = 1 L</text>
+  <text x="257" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rhythm: 1,000</text>
+
+  <!-- Money card -->
+  <rect x="340" y="80" width="150" height="250" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="415" y="110" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#e0a458">Money</text>
+  <circle cx="392" cy="160" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="392" y="166" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1</text>
+  <circle cx="438" cy="160" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="438" y="166" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1</text>
+  <rect x="382" y="186" width="66" height="34" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="415" y="209" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">100</text>
+  <text x="415" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">100 small = 1 large</text>
+  <text x="415" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rhythm: 100</text>
+
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Each system has its own rhythm.</text>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Converting is counting within that rhythm.</text>
+
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Time counts in sixties, water in thousands, money in hundreds.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Know the rhythm, and count.</text>
+</svg>

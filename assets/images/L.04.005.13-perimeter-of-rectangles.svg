@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Perimeter of an 8 by 5 rectangle</title>
+  <desc id="desc">A rectangle with its top and bottom sides labeled 8 and its left and right sides labeled 5. The perimeter is shown as the sum of the four sides: 8 plus 5 plus 8 plus 5 equals 26, and also by the formula 2 times 8 plus 2 times 5 equals 26.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Perimeter of a Rectangle</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">How far around?</text>
+
+  <!-- Rectangle with thick border path -->
+  <rect x="130" y="130" width="200" height="150" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="4"/>
+
+  <!-- side labels -->
+  <text x="230" y="118" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">8</text>
+  <text x="230" y="302" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">8</text>
+  <text x="112" y="210" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">5</text>
+  <text x="348" y="210" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">5</text>
+
+  <!-- walking arrow around -->
+  <path d="M140 205 L 140 140 L 320 140 L 320 270 L 150 270" fill="none" stroke="#e0a458" stroke-width="4" marker-end="url(#parr)"/>
+  <defs>
+    <marker id="parr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#e0a458"/>
+    </marker>
+  </defs>
+  <text x="340" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458">walk all the way around</text>
+
+  <!-- formula -->
+  <rect x="90" y="340" width="332" height="120" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">8 + 5 + 8 + 5 = 26</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">perimeter = 2 × length + 2 × width</text>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#e0a458">2 × 8 + 2 × 5 = 26</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Perimeter = the distance around. Area = the squares that cover.</text>
+</svg>

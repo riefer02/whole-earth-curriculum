@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Converting metric lengths</title>
+  <desc id="desc">A metric conversion ladder showing four rungs: 10 millimeters equal 1 centimeter, 100 centimeters equal 1 meter, and 1,000 meters equal 1 kilometer. An example below shows 2.5 kilometers converted to 2,500 meters, and 150 centimeters converted to 1 meter 50 centimeters.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Converting Length &amp; Distance</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The metric ladder — each step is a count</text>
+
+  <!-- Ladder rungs -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <rect x="70" y="96" width="372" height="46" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="126" font-size="18" fill="#fdfbf7">1 kilometer (km) = 1,000 meters (m)</text>
+
+    <rect x="70" y="150" width="372" height="46" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="180" font-size="18" fill="#fdfbf7">1 meter (m) = 100 centimeters (cm)</text>
+
+    <rect x="70" y="204" width="372" height="46" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="234" font-size="18" fill="#2b3a42">1 centimeter (cm) = 10 millimeters (mm)</text>
+  </g>
+
+  <!-- Example conversions -->
+  <rect x="60" y="280" width="392" height="150" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">Convert by counting</text>
+  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">2.5 km = 2,500 m</text>
+  <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">150 cm = 1 m 50 cm</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">how many smaller units fit in the bigger one?</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Pick the unit that fits, and convert by counting.</text>
+</svg>

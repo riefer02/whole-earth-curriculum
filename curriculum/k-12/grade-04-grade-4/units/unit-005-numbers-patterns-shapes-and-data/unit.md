@@ -62,3 +62,19 @@ traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Place Value to One Million | D05.S1.04.01 |
+| 2 | Rounding & Comparing to One Million | D05.S1.04.01 |
+| 3 | Adding & Subtracting Multi-Digit Numbers | D05.S1.04.02 |
+| 4 | Multiplying Multi-Digit Numbers | D05.S1.04.02 |
+| 5 | Dividing Multi-Digit Numbers | D05.S1.04.02 |
+| 6 | Estimation: Does My Answer Make Sense? | D05.S1.04.02 |
+| 7 | Patterns That Follow a Rule | D05.S2.04.01 |
+| 8 | Analyzing Pattern Features | D05.S2.04.01 |
+| 9 | Unknown Numbers & Simple Equations | D05.S2.04.02 |
+| 10 | Points, Lines, Segments, Rays & Angles | D05.S3.04.01 |
+| 11 | Classifying Shapes by Lines & Angles | D05.S3.04.01 |
+| 12 | Area of Rectangles | D05.S3.04.02 |
+| 13 | Perimeter of Rectangles | D05.S3.04.02 |
+| 14 | Converting Length & Distance | D05.S4.04.01 |
+| 15 | Converting Time, Volume & Money | D05.S4.04.01 |
+| 16 | Line Plots with Fractional Data | D05.S4.04.02 |
