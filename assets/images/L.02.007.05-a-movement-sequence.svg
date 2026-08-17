@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A movement sequence: beginning, moves, and end</title>
+  <desc id="desc">Four figures in a row show a movement sequence. The first figure stands in a ready pose with arms down, labeled beginning. The second figure raises both arms, and the third figure twists to the side, both labeled move. The fourth figure is a person in a wheelchair with arms open wide and still, labeled end. Numbered arrows 1, 2, 3, 4 run between them. Labels, numbers, and arrows carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Movement Sequence</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Beginning, moves, and end — in order.</text>
+
+  <!-- figure 1: beginning -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#c99567">
+    <circle cx="90" cy="180" r="20"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="7" stroke-linecap="round">
+    <line x1="90" y1="200" x2="90" y2="262"/>
+    <line x1="90" y1="214" x2="68" y2="248"/>
+    <line x1="90" y1="214" x2="112" y2="248"/>
+    <line x1="90" y1="262" x2="74" y2="302"/>
+    <line x1="90" y1="262" x2="106" y2="302"/>
+  </g>
+  <circle cx="90" cy="168" r="4" fill="#2b3a42"/>
+  <text x="90" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">1 · beginning</text>
+
+  <!-- figure 2: move (arms up) -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#f5d6b6">
+    <circle cx="200" cy="180" r="20"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="7" stroke-linecap="round">
+    <line x1="200" y1="200" x2="200" y2="262"/>
+    <line x1="200" y1="214" x2="176" y2="180"/>
+    <line x1="200" y1="214" x2="224" y2="180"/>
+    <line x1="200" y1="262" x2="184" y2="302"/>
+    <line x1="200" y1="262" x2="216" y2="302"/>
+  </g>
+  <circle cx="200" cy="168" r="4" fill="#2b3a42"/>
+  <text x="200" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">2 · move</text>
+
+  <!-- figure 3: move (twist) -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#8f5f3d">
+    <circle cx="310" cy="180" r="20"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="7" stroke-linecap="round">
+    <line x1="310" y1="200" x2="310" y2="262"/>
+    <line x1="310" y1="214" x2="286" y2="238"/>
+    <line x1="310" y1="214" x2="336" y2="206"/>
+    <line x1="310" y1="262" x2="296" y2="302"/>
+    <line x1="310" y1="262" x2="324" y2="302"/>
+  </g>
+  <circle cx="310" cy="168" r="4" fill="#2b3a42"/>
+  <text x="310" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">3 · move</text>
+
+  <!-- figure 4: end (seated, arms wide) -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#c99567">
+    <circle cx="424" cy="176" r="20"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="7" stroke-linecap="round">
+    <line x1="424" y1="196" x2="424" y2="252"/>
+    <line x1="424" y1="212" x2="394" y2="212"/>
+    <line x1="424" y1="212" x2="454" y2="212"/>
+  </g>
+  <circle cx="424" cy="164" r="4" fill="#2b3a42"/>
+  <!-- wheelchair -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="406" cy="296" r="13"/>
+    <circle cx="442" cy="296" r="13"/>
+    <path d="M424 252 L424 296 M424 296 L412 296 M424 296 L436 296" stroke-linecap="round"/>
+    <path d="M398 268 L424 268 L438 258" stroke-linecap="round"/>
+    <path d="M398 268 L398 296" stroke-linecap="round"/>
+  </g>
+  <text x="424" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">4 · end</text>
+
+  <!-- arrows -->
+  <g stroke="#6b93b6" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M140 210 L150 210"/>
+    <path d="M143 205 L150 210 L143 215"/>
+    <path d="M250 210 L260 210"/>
+    <path d="M253 205 L260 210 L253 215"/>
+    <path d="M360 210 L370 210"/>
+    <path d="M363 205 L370 210 L363 215"/>
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Plan, make, and choose: one making flow</title>
+  <desc id="desc">A flow chart shows three boxes joined by arrows. The first box, plan, holds a list of materials and numbered steps. The second box, make, shows two little bridges made two ways. The third box, compare and choose, shows a check mark on the stronger bridge with a why speech bubble. The boxes are labeled plan, make, compare and choose, and a curved arrow at the bottom shows the flow can go around again. Labels and arrows carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Plan, Make, and Choose</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">One flow you can travel again and again.</text>
+
+  <!-- box 1 plan -->
+  <rect x="40" y="100" width="130" height="130" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="105" y="126" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">plan</text>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <text x="56" y="152">materials:</text>
+    <text x="62" y="170">sticks, string</text>
+    <text x="56" y="194">steps:</text>
+    <text x="62" y="212">1 gather</text>
+    <text x="62" y="228">2 join</text>
+  </g>
+
+  <!-- arrow -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M172 165 L202 165"/>
+    <path d="M194 159 L202 165 L194 171"/>
+  </g>
+
+  <!-- box 2 make -->
+  <rect x="206" y="100" width="130" height="130" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="271" y="126" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">make</text>
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M232 190 Q268 208 302 190"/>
+    <path d="M232 214 Q268 196 302 214"/>
+  </g>
+  <circle cx="267" cy="204" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <text x="271" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">two ways to build</text>
+
+  <!-- arrow -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M338 165 L368 165"/>
+    <path d="M360 159 L368 165 L360 171"/>
+  </g>
+
+  <!-- box 3 compare and choose -->
+  <rect x="372" y="100" width="100" height="130" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="422" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">compare</text>
+  <text x="422" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">+ choose</text>
+  <g stroke="#7a9e7e" stroke-width="5" stroke-linecap="round" fill="none">
+    <path d="M398 172 L414 186 L448 152"/>
+  </g>
+  <text x="422" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">why: it holds</text>
+
+  <!-- loop arrow -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M256 250 Q256 290 140 290 Q60 290 60 250 L60 244"/>
+    <path d="M54 252 L60 244 L66 252"/>
+  </g>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">go around again</text>
+
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">making is a flow, not one try</text>
+</svg>

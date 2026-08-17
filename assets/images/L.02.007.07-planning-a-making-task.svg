@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Planning a making task: what, materials, and steps</title>
+  <desc id="desc">A plan chart shows three labeled boxes joined by arrows. The first box, what I'll make, holds a small drawing of a boat. The second box, materials I choose, shows a stick, a leaf, and a piece of string. The third box, steps, lists three numbered steps: 1 gather, 2 join, 3 test. At the bottom is the finished little boat. Labels, numbers, and arrows carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Planning a Making Task</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Choose materials and say the steps before you start.</text>
+
+  <!-- box 1: what -->
+  <rect x="40" y="100" width="130" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="105" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">what I'll make</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="#e0a458">
+    <path d="M80 160 L130 160 L118 190 L92 190 Z" fill="#e0a458"/>
+    <line x1="105" y1="160" x2="105" y2="128" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M105 132 L94 142 L116 142 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <text x="105" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a little boat</text>
+
+  <!-- arrow -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M172 160 L196 160"/>
+    <path d="M188 154 L196 160 L188 166"/>
+  </g>
+
+  <!-- box 2: materials -->
+  <rect x="200" y="100" width="130" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="265" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">materials I choose</text>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="228" y1="180" x2="264" y2="146" stroke-linecap="round"/>
+    <path d="M244 160 Q240 172 232 178 Q246 184 250 172 Z" fill="#7a9e7e"/>
+    <path d="M276 148 Q288 140 296 150 Q286 158 276 148 Z" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="265" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">stick · leaf · string</text>
+
+  <!-- arrow -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M332 160 L356 160"/>
+    <path d="M348 154 L356 160 L348 166"/>
+  </g>
+
+  <!-- box 3: steps -->
+  <rect x="360" y="100" width="112" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="416" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">steps</text>
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <text x="376" y="154">1 gather</text>
+    <text x="376" y="178">2 join</text>
+    <text x="376" y="202">3 test</text>
+  </g>
+
+  <!-- arrow down to finished -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M256 236 L256 264"/>
+    <path d="M248 256 L256 266 L264 256"/>
+  </g>
+
+  <!-- finished boat -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <path d="M206 320 L306 320 L290 350 L222 350 Z" fill="#e0a458"/>
+    <line x1="256" y1="320" x2="256" y2="290" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M256 294 L242 306 L270 306 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">then make it</text>
+</svg>

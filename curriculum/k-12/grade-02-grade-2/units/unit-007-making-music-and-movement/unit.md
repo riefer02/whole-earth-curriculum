@@ -58,3 +58,13 @@ are treated as a living heritage.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.02.007.01 | Mixing Colors | D07.S1.02.01 |
+| L.02.007.02 | Comparing Two Artworks | D07.S1.02.02 |
+| L.02.007.03 | Rhythm and Melody Patterns | D07.S2.02.01 |
+| L.02.007.04 | Hearing Instruments and Mood | D07.S2.02.02 |
+| L.02.007.05 | A Movement Sequence | D07.S3.02.01 |
+| L.02.007.06 | Leading and Following a Scene | D07.S3.02.02 |
+| L.02.007.07 | Planning a Making Task | D07.S4.02.01 |
+| L.02.007.08 | Two Ways to Make | D07.S4.02.02 |
+| L.02.007.09 | Plan, Make, and Choose | D07.S4.02.01, D07.S4.02.02 |
+| L.02.007.10 | Making, Music & Movement | D07.S1.02.01–02, D07.S2.02.01–02, D07.S3.02.01–02, D07.S4.02.01–02 |

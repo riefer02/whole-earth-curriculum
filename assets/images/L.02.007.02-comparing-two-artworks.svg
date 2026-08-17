@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Comparing two artworks: alike and different</title>
+  <desc id="desc">Two artworks sit side by side. On the left, a woven cloth shows a repeating zig-zag pattern of triangles. On the right, a carved pot shows a row of the same zig-zag triangles around its middle. A dotted line connects the matching zig-zag on both and is labeled alike, while another dotted line points to the cloth's straight edge and the pot's round curve and is labeled different. At the bottom are two small cards labeled alike and different. Labels and shapes carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Comparing Two Artworks</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">One way alike, one way different.</text>
+
+  <!-- cloth -->
+  <g>
+    <rect x="60" y="120" width="150" height="150" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5" rx="4"/>
+    <g stroke="#2b3a42" stroke-width="2" fill="#e0a458">
+      <path d="M75 210 L110 165 L145 210 L180 165 L180 190 L145 235 L110 190 L75 235 Z" fill="#e0a458" opacity="0.85"/>
+      <path d="M75 235 L110 190 L145 235 L180 190 L180 215 L145 260 L110 215 L75 260 Z" fill="#7a9e7e" opacity="0.7"/>
+    </g>
+    <text x="135" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">woven cloth</text>
+  </g>
+
+  <!-- pot -->
+  <g>
+    <path d="M300 150 Q300 120 340 120 L360 120 Q400 120 400 150 L396 220 Q396 240 372 240 Q348 240 344 220 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2.5"/>
+    <g stroke="#2b3a42" stroke-width="2" fill="#7a9e7e">
+      <path d="M320 190 L336 172 L352 190 L368 172 L368 186 L352 204 L336 186 L320 204 Z" fill="#7a9e7e" opacity="0.8"/>
+    </g>
+    <text x="352" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">carved pot</text>
+  </g>
+
+  <!-- alike line -->
+  <g stroke="#4f6d7a" stroke-width="2" fill="none" stroke-dasharray="5 4">
+    <path d="M132 205 Q242 240 334 188"/>
+  </g>
+  <text x="236" y="262" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">alike: both have zig-zag</text>
+
+  <!-- different line -->
+  <g stroke="#6b93b6" stroke-width="2" fill="none" stroke-dasharray="5 4">
+    <path d="M66 130 Q200 96 398 126"/>
+  </g>
+  <text x="236" y="98" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">different: one is flat, one is round</text>
+
+  <!-- cards -->
+  <g font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">
+    <rect x="120" y="356" width="130" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="185" y="390">alike</text>
+    <rect x="262" y="356" width="130" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="327" y="390">different</text>
+  </g>
+</svg>

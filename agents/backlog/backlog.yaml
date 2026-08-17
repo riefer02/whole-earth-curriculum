@@ -2288,7 +2288,7 @@ items:
     type: lesson
     grade: 2
     domain: D07
-    status: ready
+    status: done
     priority: 56
     depends_on:
       - B-064
@@ -2300,6 +2300,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passes (517 files). IDs L.02.007.01-.10 sequential, sequence_in_unit 1-10, unit U.02.007, grade 2; all required headings in all 10. Objective set exactly the 8 real Grade-2 D07 standards (S1.02.01-.02, S2.02.01-.02, S3.02.01-.02, S4.02.01-.02) — no invented IDs; L10 reuses all 8. Connections concrete+faithful (L1 dyed cloth/ochre walls; L4 instruments from wood/skin/metal/gourd across cultures). Kirschner 2006 cited for explicit modeling. unit.md Lessons table lists all 10.
+      fact-checker:
+        verdict: passed
+        note: Color mixing correct under RYB model (red+yellow=orange, yellow+blue=green, blue+red=purple), hedged ('muddy brown is a real discovery'). Cultural-art claims accurate and un-attributed to any named culture (indigo cloth, ochre, call-and-response, 'every culture has its own instruments'). Only citation Kirschner/Sweller/Clark 2006 (S-011 reviewed:true, DOI 10.1207/s15326985ep4102_1) correctly supports model-then-guided-practice; updated S-011 note. Evidence vs values distinguished. validate passes (517 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Skill/process-based, anti-appropriation structure (learners invent their OWN patterns/sequences/scenes, never reproduce sacred/ceremonial forms). Explicit guardrails: L4 'not treat any instrument as exotic or sacred in a way that tokenizes it'; L6 'never co-opt sacred or ceremonial roles'; neutral turn marker; L2/L10 frame works as 'living peoples' work, not museum pieces'. Representation spans regions without flattening (indigo/ochre, instruments from multiple cultures, potters/weavers/boat-builders). No US/Eurocentric default. Non-blocking: L6 repeated 'carrying water' scene leans rural Global-South default (could add 'setting a table'/'walking to school'). validate passes (517 files)."
+      accessibility-editor:
+        verdict: passed
+        note: Movement lessons 5-6 have seated/wheelchair alternatives (SVG depicts wheelchair figure); music lessons 3-4 non-auditory (felt vibration, watching hands, mood as fast/slow-strong/gentle) + non-visual (lead/repeat by ear/touch, spoken counts, partner elbow); making lessons 7-9 motor-difference paths (larger tools, partner-assists); L1 bigger-brush/sponge/directed-brushwork. Alt text on all 10 assets; SVGs role=img/aria-labelledby/title/desc, grayscale-safe labels. materials_low_tech on all 10. validate passes (517 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: objectives resolve to all 8 real Grade-2 D07 standards; D07.S1-S4 → D07 → P3 → vision. Lenses: ethics (L6 leading as gift both roles equal; L10 every voice matters; honor both makers), egalitarianism (comprehensive differentiation blind/Deaf/non-speaking/fine-motor/wheelchair + all context variants; no group privileged), global (indigo/ochre/markets/carrying water/potters-weavers-boat-builders/instruments of many cultures; 'living heritage not museum pieces'), tech/env (L7-9 found/natural materials; tech light via enriched only). No hierarchy/supremacy; no 'best' art ranking (L2/L4/L6/L10); L8/L9 'works better' is engineering not aesthetic ranking. Evidence vs values (Kirschner 2006). validate passes (517 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: concrete hands-on (mixing paint, clapping/singing patterns, moving, comparing side-by-side, three-box planning); no premature technique ('accurately' = 'the same the second time'). Emotional safety: L2 comparing as 'careful looking never ranking' with 'no better artwork'; L6 'never push a shy learner to perform' + sharing optional; L5/L6/L10 seated/wheelchair/adapted + 'every body tells its own story' (no body shame). Physical fit: big-motor + fine-motor adapted, every movement has seated option. Not dumbed down (comparing/planning/choosing-with-reason). Open-ended: learners author own art, 'no wrong' answers named. validate passes (517 files)."
   - id: B-207
     title: Author lessons for Unit U.02.008 (Healthy, Safe and Strong)
     agent: lesson-author

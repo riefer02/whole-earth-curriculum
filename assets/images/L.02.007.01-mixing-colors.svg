@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Mixing colors: two colors make a new one</title>
+  <desc id="desc">A color-mixing chart shows three starting colors at the top — red, yellow, and blue — each drawn as a circle with its name. Three arrows run downward to three new colors: red plus yellow makes orange, yellow plus blue makes green, and blue plus red makes purple. At the bottom, a small picture uses the new colors — an orange sun, green leaves, and a purple flower — to show the new colors in a real picture. Every color is labeled with its name, and labels, positions, and plus signs carry all meaning, so the chart prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Mixing Colors</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Two colors make a new one.</text>
+
+  <!-- starting colors -->
+  <g font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222" text-anchor="middle">
+    <circle cx="92" cy="132" r="30" fill="#d4695a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="92" y="186">red</text>
+    <circle cx="256" cy="132" r="30" fill="#e3c25a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="186">yellow</text>
+    <circle cx="420" cy="132" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="186">blue</text>
+  </g>
+
+  <!-- plus signs -->
+  <g font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a" text-anchor="middle">
+    <text x="174" y="140">+</text>
+    <text x="338" y="140">+</text>
+  </g>
+
+  <!-- arrows down -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M174 210 L174 246"/>
+    <path d="M166 238 L174 248 L182 238"/>
+    <path d="M256 210 L256 246"/>
+    <path d="M248 238 L256 248 L264 238"/>
+    <path d="M338 210 L338 246"/>
+    <path d="M330 238 L338 248 L346 238"/>
+  </g>
+
+  <!-- new colors -->
+  <g font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222" text-anchor="middle">
+    <circle cx="174" cy="282" r="34" fill="#e08a45" stroke="#2b3a42" stroke-width="2"/>
+    <text x="174" y="276">orange</text>
+    <text x="174" y="344" font-size="14" fill="#4f6d7a">red + yellow</text>
+    <circle cx="256" cy="282" r="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="276">green</text>
+    <text x="256" y="344" font-size="14" fill="#4f6d7a">yellow + blue</text>
+    <circle cx="338" cy="282" r="34" fill="#9a7ab8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="338" y="276">purple</text>
+    <text x="338" y="344" font-size="14" fill="#4f6d7a">blue + red</text>
+  </g>
+
+  <!-- picture using new colors -->
+  <g>
+    <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Use your new color in a picture</text>
+    <circle cx="256" cy="434" r="22" fill="#e08a45" stroke="#2b3a42" stroke-width="2"/>
+    <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5">
+      <path d="M232 484 Q232 462 256 462 Q280 462 280 484 Z" fill="#7a9e7e"/>
+      <line x1="256" y1="462" x2="256" y2="452" stroke="#4f6d7a" stroke-width="2"/>
+    </g>
+    <g>
+      <circle cx="316" cy="452" r="6" fill="#9a7ab8" stroke="#2b3a42" stroke-width="1.5"/>
+      <circle cx="306" cy="466" r="6" fill="#9a7ab8" stroke="#2b3a42" stroke-width="1.5"/>
+      <circle cx="326" cy="466" r="6" fill="#9a7ab8" stroke="#2b3a42" stroke-width="1.5"/>
+      <circle cx="316" cy="452" r="6" fill="#9a7ab8" stroke="#2b3a42" stroke-width="1.5"/>
+      <line x1="316" y1="458" x2="316" y2="478" stroke="#4f6d7a" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

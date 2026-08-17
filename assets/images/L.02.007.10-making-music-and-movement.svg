@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Making, music, and movement: four ways to make</title>
+  <desc id="desc">Four panels laid out like a gallery show four ways to make. The first panel, mix, shows two paint blobs becoming a third color. The second panel, play, shows a clap symbol and a melody of notes. The third panel, move, shows four small figures in a start-to-end row. The fourth panel, plan, shows a plan chart with a finished boat. Below them, the words mix + play + move + plan = making join them together. Labels and shapes carry all meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Making, Music &amp; Movement</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Four ways to make, one story to share.</text>
+
+  <!-- panel 1 mix -->
+  <rect x="40" y="96" width="100" height="110" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="90" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">mix</text>
+  <circle cx="72" cy="148" r="14" fill="#d4695a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="108" cy="148" r="14" fill="#e3c25a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="153" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">+</text>
+  <circle cx="90" cy="184" r="14" fill="#e08a45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="188" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#222222">new</text>
+
+  <!-- panel 2 play -->
+  <rect x="156" y="96" width="100" height="110" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="206" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e">play</text>
+  <circle cx="190" cy="158" r="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="190" y="163" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">clap</text>
+  <g fill="#2b3a42">
+    <ellipse cx="220" cy="152" rx="6" ry="4"/>
+    <line x1="226" y1="152" x2="226" y2="134"/>
+    <ellipse cx="234" cy="166" rx="6" ry="4"/>
+    <line x1="240" y1="166" x2="240" y2="148"/>
+  </g>
+  <text x="206" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a pattern</text>
+
+  <!-- panel 3 move -->
+  <rect x="272" y="96" width="100" height="110" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="322" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">move</text>
+  <g stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round">
+    <line x1="288" y1="160" x2="288" y2="178"/>
+    <circle cx="288" cy="152" r="8" fill="#c99567"/>
+    <line x1="304" y1="150" x2="304" y2="178"/>
+    <circle cx="304" cy="142" r="8" fill="#f5d6b6"/>
+    <line x1="320" y1="160" x2="320" y2="178"/>
+    <circle cx="320" cy="152" r="8" fill="#8f5f3d"/>
+    <line x1="336" y1="158" x2="336" y2="178"/>
+    <circle cx="336" cy="150" r="8" fill="#c99567"/>
+  </g>
+  <text x="322" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a sequence</text>
+
+  <!-- panel 4 plan -->
+  <rect x="388" y="96" width="100" height="110" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="438" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e0a458">plan</text>
+  <rect x="402" y="132" width="72" height="22" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="438" y="148" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">steps</text>
+  <g stroke="#2b3a42" stroke-width="2">
+    <path d="M412 176 L462 176 L450 194 L424 194 Z" fill="#e0a458"/>
+  </g>
+  <text x="438" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a build</text>
+
+  <!-- join line -->
+  <text x="256" y="246" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">mix + play + move + plan = making</text>
+
+  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">every piece has a story worth hearing</text>
+
+  <!-- decorative gallery line -->
+  <line x1="40" y1="300" x2="472" y2="300" stroke="#e0a458" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
