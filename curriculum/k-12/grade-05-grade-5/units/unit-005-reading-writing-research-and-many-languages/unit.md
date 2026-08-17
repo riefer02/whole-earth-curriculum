@@ -64,3 +64,18 @@ first, and multilingualism is treated as wealth.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.005.01 | Paraphrase a Speaker's Points | D04.S1.05.01 |
+| L.05.005.02 | Asking Clarifying Questions | D04.S1.05.01 |
+| L.05.005.03 | A Presentation with One Main Idea | D04.S1.05.02 |
+| L.05.005.04 | Supporting Reasons and a Conclusion | D04.S1.05.02 |
+| L.05.005.05 | Author's Structure: Cause and Effect | D04.S2.05.01 |
+| L.05.005.06 | Author's Structure: Problem and Solution | D04.S2.05.01 |
+| L.05.005.07 | Fact or Opinion? | D04.S2.05.02 |
+| L.05.005.08 | Author's Purpose and Point of View | D04.S2.05.02 |
+| L.05.005.09 | Write for a Purpose and Audience | D04.S3.05.01 |
+| L.05.005.10 | One Idea, Two Forms | D04.S3.05.01 |
+| L.05.005.11 | Gathering Facts from Several Sources | D04.S3.05.02 |
+| L.05.005.12 | Writing My Report in My Own Words | D04.S3.05.02 |
+| L.05.005.13 | Many Writing Systems | D04.S4.05.01 |
+| L.05.005.14 | Language and Culture | D04.S4.05.02 |
+| L.05.005.15 | Present My Report | D04.S1.05.01, D04.S1.05.02, D04.S2.05.01, D04.S2.05.02, D04.S3.05.01, D04.S3.05.02, D04.S4.05.01, D04.S4.05.02 |

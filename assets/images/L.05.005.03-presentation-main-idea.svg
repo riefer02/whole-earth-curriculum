@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One clear main idea</title>
+  <desc id="desc">A speaker stands before a small audience holding up a large banner that reads "One main idea." Above the speaker, a thought bubble shows a tangle of many small words crossed out, and an arrow leads down to the single clear banner. The banner is labeled "main idea" and the crossed-out tangle is labeled "too many ideas." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Presentation with One Main Idea</text>
+
+  <!-- Tangled many ideas (top), crossed out -->
+  <rect x="64" y="64" width="384" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">weather • the game • a cousin's visit • food • the road</text>
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a story • a song • a joke • the weather again • ...</text>
+  <line x1="80" y1="72" x2="432" y2="140" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <text x="256" y="164" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">too many ideas</text>
+
+  <!-- Down arrow -->
+  <path d="M256 176 L256 226" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M246 216 L256 228 L266 216" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Speaker figure -->
+  <circle cx="200" cy="270" r="30" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="190" cy="264" r="3" fill="#2b3a42"/>
+  <circle cx="210" cy="264" r="3" fill="#2b3a42"/>
+  <path d="M186 280 Q200 286 214 280" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M200 300 L200 380 M200 320 L178 356 M200 320 L222 356 M200 380 L182 430 M200 380 L218 430" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Banner held up -->
+  <rect x="242" y="240" width="236" height="72" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="360" y="270" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">One main idea</text>
+  <text x="360" y="296" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">the one thing to remember</text>
+  <line x1="242" y1="312" x2="228" y2="330" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Audience -->
+  <circle cx="360" cy="470" r="22" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="354" cy="466" r="2.5" fill="#2b3a42"/>
+  <circle cx="366" cy="466" r="2.5" fill="#2b3a42"/>
+  <path d="M352 476 Q360 480 368 476" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <circle cx="428" cy="472" r="22" fill="#e8b98a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="422" cy="468" r="2.5" fill="#2b3a42"/>
+  <circle cx="434" cy="468" r="2.5" fill="#2b3a42"/>
+  <path d="M420 478 Q428 482 436 478" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <circle cx="494" cy="470" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="489" cy="467" r="2.5" fill="#2b3a42"/>
+  <circle cx="499" cy="467" r="2.5" fill="#2b3a42"/>
+  <path d="M487 477 Q494 481 501 477" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">State the one thing your audience should remember.</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One idea, two forms</title>
+  <desc id="desc">One central idea box labeled "one idea" with two arrows leading to two different documents. The left document is a friendly note with a smile and simple words, labeled "form 1: note to a friend." The right document is a formal letter with a heading and polite phrases, labeled "form 2: letter to a visitor." A circle highlights the changed words between the two. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">One Idea, Two Forms</text>
+
+  <!-- One idea box -->
+  <rect x="176" y="70" width="160" height="52" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="102" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">one idea</text>
+
+  <!-- Arrows -->
+  <path d="M216 122 L186 168" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M296 122 L326 168" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+
+  <!-- Form 1: note -->
+  <rect x="30" y="170" width="210" height="230" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="135" y="200" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">form 1: note to a friend</text>
+  <text x="135" y="232" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Hey!</text>
+  <text x="135" y="254" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">The game is at 3.</text>
+  <text x="135" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Wanna come?</text>
+  <text x="135" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">It'll be fun.</text>
+  <!-- smile -->
+  <circle cx="135" cy="330" r="18" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="129" cy="326" r="2.5" fill="#2b3a42"/>
+  <circle cx="141" cy="326" r="2.5" fill="#2b3a42"/>
+  <path d="M127 336 Q135 342 143 336" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="135" y="376" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">simple words, friendly</text>
+
+  <!-- Form 2: letter -->
+  <rect x="272" y="170" width="210" height="230" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="377" y="200" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">form 2: letter to a visitor</text>
+  <text x="377" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Dear visitor,</text>
+  <text x="377" y="254" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">You are warmly invited</text>
+  <text x="377" y="272" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">to join us at 3 o'clock</text>
+  <text x="377" y="290" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">for the match.</text>
+  <text x="377" y="310" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">We would be glad</text>
+  <text x="377" y="328" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">to welcome you.</text>
+  <text x="377" y="376" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">polite, formal greeting</text>
+
+  <!-- circle highlighting changed words -->
+  <ellipse cx="256" cy="440" rx="170" ry="34" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">the idea stays — the form bends</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Adapt one idea for many readers.</text>
+</svg>

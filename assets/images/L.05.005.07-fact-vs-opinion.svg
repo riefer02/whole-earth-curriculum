@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fact versus opinion</title>
+  <desc id="desc">A two-column chart. The left column is headed "fact — can be checked" and contains the sentence "This river floods every year" with a small check mark and the question "Can we check it? Yes." The right column is headed "opinion — what someone thinks" and contains the sentence "This river is the most beautiful in the world" with a small person icon and the question "Does someone believe it? Yes." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Fact or Opinion?</text>
+
+  <!-- Left column -->
+  <rect x="24" y="70" width="228" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="70" width="228" height="56" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="138" y="104" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">fact — can be checked</text>
+
+  <text x="138" y="150" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">"This river floods</text>
+  <text x="138" y="172" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">every year."</text>
+
+  <!-- check mark -->
+  <path d="M70 214 L82 226 L106 202" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="138" y="224" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Can we check it? Yes.</text>
+
+  <path d="M48 256 L228 256" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <text x="138" y="286" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">ask people</text>
+  <text x="138" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">look at records</text>
+  <text x="138" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">watch through a season</text>
+
+  <!-- Right column -->
+  <rect x="260" y="70" width="228" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="260" y="70" width="228" height="56" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="374" y="104" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">opinion — what someone thinks</text>
+
+  <text x="374" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">"This river is the most</text>
+  <text x="374" y="172" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">beautiful in the world."</text>
+
+  <!-- person icon -->
+  <circle cx="330" cy="210" r="12" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M312 236 Q330 226 348 236 L348 236 L344 250 L316 250 Z" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="374" y="222" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Does someone believe it? Yes.</text>
+
+  <path d="M284 256 L464 256" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <text x="374" y="286" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a matter of taste</text>
+  <text x="374" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a feeling</text>
+  <text x="374" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">another person may disagree</text>
+
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Two questions sort them: "Can I check it?" or "Does someone believe it?"</text>
+</svg>

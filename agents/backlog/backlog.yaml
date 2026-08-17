@@ -3509,7 +3509,7 @@ items:
     type: lesson
     grade: 5
     domain: D04
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3521,6 +3521,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (859). IDs L.05.005.01-.15 sequence_in_unit 1-15, grade 5, unit U.05.005; objectives resolve to real grade-5 D04 standards (all 8 covered, L15 capstone lists all 8); required headings present; unit.md table lists all 15; all 15 assets resolve with non-empty alt; L13 writing systems accurate (Latin alphabet, Arabic abjad RTL, Devanagari abugida, Chinese characters, Hangul block) cited Daniels & Bright/DeFrancis; L14 kinship/food/respect examples (Hindi chacha/mama, tea/chai, tu/usted) accurate cited Everett/WALS.
+      fact-checker:
+        verdict: passed
+        note: "Verified linguistic claims: L13 writing systems correct (Latin=alphabet, Arabic salam=abjad RTL, Devanagari namaste=abugida, Chinese shui=water logographic, Hangul=featural alphabet in blocks; glyphs accurate); L14 (Hindi chacha=father's younger brother vs mama=mother's brother; tea/chai per WALS ch.138 Dahl 2013; Spanish tu/usted); sources real (Daniels & Bright 1996, DeFrancis 1984, Everett 2012, Sapir/Whorf, WALS, IES practiceguides, Duke & Pearson, Marzano). Registered S-165..S-174 (10 sources). 'No language/script better' flagged as value not fact. validate passes (859)."
+      global-culture-editor:
+        verdict: passed
+        note: "Not English/Latin-default: 'home language honored first, multilingualism as wealth'; 7/15 lessons explicit home-language facilitator notes. L13 spans 5 scripts across 4 regions (Latin, Arabic, Devanagari, Chinese, Hangul) + extensions Cherokee syllabary, Ge'ez, Thai across 6+ language families; L14 inverts Eurocentric default (Hindi rich-kinship example, English the 'one word for both' contrast), word-wall/'my language' page make home languages primary data; scripts accurate (abjad RTL, abugida, morphemic Chinese, featural Hangul), 'no script more advanced' stated in lesson+SVG+facilitator note, never contradicted; Connection examples non-Western/urban-default (mango tree, well, tin roof, tamarind); oral traditions honored (elder/gardener/craftsperson as legitimate sources)."
+      accessibility-editor:
+        verdict: passed
+        note: "All 15 lessons real materials_low_tech (voice, oral retell, signaling games, found objects, 'a person'/observation as research sources); UDL say/draw/act/write/point/scribe/gesture; all 15 assets non-empty alt + SVG role=img/title/desc/grayscale. Fixed: presentation lessons L03/L04/L15 now offer non-speaking (point/sign/device) + non-standing (seated) options in Support tiers; L15 Connection no longer frames presenting as standing; L13 gained low-vision accommodation (large script cards + verbal description/tracing); plain language, home-language welcomed, enriched tools optional-only."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L12 plagiarism/credit as honesty+fairness to the author, respectful paraphrase L1/L12); egalitarianism ('no script/language better' stated + flagged as value, 'whose voice is missing?' L8, multilingualism as wealth, 5 scripts/4 regions, Hindi-rich kinship with English as contrast); global (no English/print/Euro default; oral tradition honored L11/L12); tech/environment (L5/L6 agency; digital optional paired with low-tech); evidence-vs-values (Kirschner/Hattie/Marzano/Graham & Perin/IES/Duke & Pearson/CASEL/Daniels & Bright/DeFrancis/Everett/Sapir-Whorf/WALS cited; 'no language better' a value). Traceability: Vision->P3->D04->S1-S4->8 standards->U.05.005->L.05.005.01-.15."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band: cognitive load concrete-operational (paraphrase via 'say it back' retell with sentence starters, fact-vs-opinion via 'can I check it?'/'does someone believe it?' sorting, author structure via boxes-and-arrows + sandwich metaphor, purpose via 3 doors, report via note cards + sentence frames + simple sources line; L13 writing-system typology grounded in script samples + hands-on sort + two-system scaffold); emotional safety low-stakes non-ranking ('clear/not yet clear' never good/bad, 'test is meaning not grammar', anonymous wonder box, 'seen and celebrated not ranked'); home-language honoring universal + voluntary ('where you can', 'invite', 'never rank or correct') so multilingual learners not singled out; research widened to person/place/object/observation with interview variants; non-speaking/non-standing options in all presentation lessons."
   - id: B-328
     title: Author lessons for Unit U.05.006 (Decimals, Fractions, Shapes & Data)
     agent: lesson-author

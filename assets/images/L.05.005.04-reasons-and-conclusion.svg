@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The presentation sandwich: main idea, reasons, conclusion</title>
+  <desc id="desc">A diagram in the shape of a sandwich. The top slice of bread is labeled "main idea." The middle layer holds three labeled blocks — "reason 1," "reason 2," "reason 3" — each pointing up to the main idea. The bottom slice is labeled "conclusion." A side arrow shows the flow from top to bottom. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Presentation Sandwich</text>
+
+  <!-- Top slice: main idea -->
+  <path d="M96 84 Q96 64 116 64 L396 64 Q416 64 416 84 L416 116 L96 116 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">main idea</text>
+
+  <!-- Middle: reasons -->
+  <rect x="96" y="128" width="320" height="150" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">supporting reasons (each stays on the idea)</text>
+
+  <rect x="120" y="164" width="86" height="48" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="163" y="194" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">reason 1</text>
+
+  <rect x="213" y="164" width="86" height="48" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="194" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">reason 2</text>
+
+  <rect x="306" y="164" width="86" height="48" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="349" y="194" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">reason 3</text>
+
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">each reason points back up to the main idea</text>
+
+  <!-- Up arrows from reasons -->
+  <path d="M163 162 L163 132" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M256 162 L256 132" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M349 162 L349 132" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+
+  <!-- Bottom slice: conclusion -->
+  <path d="M96 290 L96 258 Q96 238 116 238 L396 238 Q416 238 416 258 L416 290 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">conclusion</text>
+
+  <!-- Side flow arrow -->
+  <path d="M452 80 L452 320" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M444 310 L452 322 L460 310" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linejoin="round"/>
+  <text x="478" y="206" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a" transform="rotate(90 478 206)">flow</text>
+
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Main idea on top, reasons in the middle, conclusion at the bottom.</text>
+</svg>

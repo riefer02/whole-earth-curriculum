@@ -1513,3 +1513,103 @@ sources:
     reviewed: true
     notes: "Cited in U.05.004 L09 (Mutual Aid Across Cultures and Times) for four named communal-help traditions. Verified 2026-08-17: (1) harambee — Swahili 'all pull together'; a Kenyan (East African) tradition of community self-help/fundraising events and Kenya's official motto — the lesson's 'in Kenya, people pull together … to build a school or help a family' is accurate; (2) gotong royong — Indonesian ethos of 'joint bearing of burdens'/mutual assistance, used to build village facilities (irrigation, roads, houses of worship) and run communal events — the lesson's 'neighbors share the work of a village' is accurate; (3) mink'a/minka/minga — an Inca/Andean tradition of communal, largely unpaid collective labor for community or family benefit, incl. harvesting potatoes, still practiced across Peru, Bolivia, Ecuador, Colombia, Chile — the lesson's 'neighbors farm terraces together, in a minga' is accurate (minga is the Hispanicized form); (4) barn raising — a documented North American communal-building tradition (associated esp. with Amish/Mennonite and other rural communities) — the lesson's 'neighbors gather to raise a family's barn in a day, and the favor returns' is accurate. Each is presented as one named tradition in one place, not as a universal 'all people in X do Y'; the lesson's Resources note correctly adds 'verify local details with community members.' Used as documentation of the mutual-aid examples, not a claim-level citation for any single statistic."
 
+  - id: S-165
+    title: "Daniels & Bright (eds.) — The World's Writing Systems"
+    type: book
+    author: Peter T. Daniels & William Bright (eds.)
+    organization: Oxford University Press
+    year: 1996
+    domains: [D04]
+    reviewed: true
+    notes: "Peter T. Daniels & William Bright (eds.), The World's Writing Systems, Oxford University Press, 1996. The canonical scholarly reference for writing-system typology; the source of the 'alphabet / abjad / abugida / logographic (character)' classification used in U.05.005 L13 (Many Writing Systems). Daniels coined and standardized the terms 'abjad' and 'abugida.' No URL (print book). The lesson's four-type framing (alphabet, abjad, abugida, character script) is directly supported."
+
+  - id: S-166
+    title: "DeFrancis — The Chinese Language: Fact and Fantasy"
+    type: book
+    author: John DeFrancis
+    organization: University of Hawai'i Press
+    year: 1984
+    domains: [D04]
+    reviewed: true
+    notes: "John DeFrancis, The Chinese Language: Fact and Fantasy, University of Hawai'i Press, 1984. Argues Chinese writing is morphosyllabic — each character stands for a syllable plus a morpheme (meaning), not a pure 'picture of an idea' — and debunks the 'ideographic myth.' Cited in U.05.005 L13 for the claim that 'Chinese characters mostly stand for meanings (morphemes), not just sounds.' The lesson's facilitator note already hedges this correctly (characters = morphemes, not 'just a meaning'). No URL (print book)."
+
+  - id: S-167
+    title: "Everett — Language: The Cultural Tool"
+    type: book
+    author: Daniel L. Everett
+    organization: Pantheon Books
+    year: 2012
+    domains: [D04]
+    reviewed: true
+    notes: "Daniel L. Everett, Language: The Cultural Tool, Pantheon Books, 2012. Argues language is a tool shaped by culture and use, supporting U.05.005 L14's framing that 'words carry culture' and that the distinctions a language makes reflect what its speakers value. Everett is a real linguist/anthropologist (best known for the Pirahã work). No URL (print book)."
+
+  - id: S-168
+    title: "Sapir & Whorf — language and thought (linguistic relativity)"
+    type: book
+    author: Edward Sapir (1929); Benjamin Lee Whorf (1956)
+    organization: MIT Press (Whorf, Language, Thought, and Reality, ed. J. B. Carroll)
+    year: 1956
+    domains: [D04]
+    reviewed: true
+    notes: "Classic linguistic-relativity (Sapir–Whorf) tradition: Edward Sapir, 'The Status of Linguistics as a Science' (1929), and Benjamin Lee Whorf, Language, Thought, and Reality (MIT Press, 1956, ed. J. B. Carroll). Cited in U.05.005 L14 for the moderate idea that languages 'sort the world differently' and shape habitual thought. Note: the lesson uses only the moderate, well-supported form; the strong determinism form (language wholly determines thought) is largely rejected and is not claimed. No URL (print book)."
+
+  - id: S-169
+    title: "WALS — Östen Dahl, 'Tea' (chapter 138)"
+    type: website
+    author: Östen Dahl
+    url: https://wals.info/chapter/138
+    organization: World Atlas of Language Structures (WALS Online; Dryer & Haspelmath, eds.)
+    year: 2013
+    domains: [D04]
+    reviewed: true
+    notes: "Verified live 2026-08-17 (wals.info/chapter/138). Östen Dahl, 'Tea,' WALS Online ch. 138. Maps the sources of words for 'tea': 'Words derived from Sinitic cha' (110 languages — the overland route, giving chai in Eastern Europe/Asia) vs 'Words derived from Min Nan Chinese te' (84 languages — via Dutch sea trade out of Amoy/Xiamen, giving thee/tea in much of Europe and former Dutch colonies). Directly supports U.05.005 L14's claim that the same drink 'spread by sea as tea and by land as chai.' Correctly attributed (WALS is a structural atlas; the tea/chai isogloss is its ch. 138, so the citation is on-point, not a misattribution)."
+
+  - id: S-170
+    title: "IES — Improving Adolescent Literacy: Effective Classroom and Intervention Practices"
+    type: report
+    url: https://ies.ed.gov/ncee/wwc/practiceguide/8
+    organization: Institute of Education Sciences, What Works Clearinghouse (panel chair Michael Kamil)
+    year: 2008
+    domains: [D04]
+    reviewed: true
+    notes: "Verified live 2026-08-17 (ies.ed.gov/ncee/wwc/practiceguide/8). WWC practice guide (Aug 2008). Recommendation 2 is 'Provide direct and explicit comprehension strategy instruction' — which supports U.05.005 L05/L06 (text structure: cause/effect, problem/solution), L07 (fact vs opinion), L08 (author's purpose/point of view), and L11 (gathering/corroborating information) as comprehension-strategy and text-structure instruction. General authority, not a page-level citation for any single statistic."
+
+  - id: S-171
+    title: "IES — Teaching Secondary Students to Write Effectively"
+    type: report
+    url: https://ies.ed.gov/ncee/wwc/practiceguide/22
+    organization: Institute of Education Sciences, What Works Clearinghouse (panel chair Steve Graham)
+    year: 2016
+    domains: [D04]
+    reviewed: true
+    notes: "Verified live 2026-08-17 (ies.ed.gov/ncee/wwc/practiceguide/22; guide PDF at wwc_secondary_writing_110116.pdf returns HTTP 200). WWC practice guide (Nov 2016). Covers the writing process (plan/draft/revise/edit) and explicit strategy instruction, supporting U.05.005 L12 (writing a report in one's own words with citation). Note this is a *secondary* (grades 6–12) guide used here for a Grade-5 lesson as a general writing-pedagogy authority; the elementary counterpart is the 2012/2018 'Teaching Elementary School Students to Be Effective Writers' guide. General authority."
+
+  - id: S-172
+    title: "Duke & Pearson — Effective Practices for Developing Reading Comprehension"
+    type: article
+    author: Nell K. Duke & P. David Pearson
+    organization: International Reading Association (in What Research Has to Say About Reading Instruction, 3rd ed., Farstrup & Samuels, eds.)
+    year: 2002
+    domains: [D04]
+    reviewed: true
+    notes: "Duke, N. K., & Pearson, P. D. (2002). Effective Practices for Developing Reading Comprehension. In A. E. Farstrup & S. J. Samuels (eds.), What Research Has to Say About Reading Instruction (3rd ed., pp. 205–242). International Reading Association. Foundational synthesis of comprehension-strategy research (prediction, text-structure awareness, question generation, summarization, monitoring). Cited in U.05.005 L05/L06/L07/L08 for comprehension-strategy and text-structure instruction. Real, widely cited, on-topic. No URL (print chapter)."
+
+  - id: S-173
+    title: "Marzano, Pickering & Pollock — Classroom Instruction That Works"
+    type: book
+    author: Robert J. Marzano, Debra J. Pickering & Jane E. Pollock
+    organization: Association for Supervision and Curriculum Development (ASCD)
+    year: 2001
+    domains: [D04]
+    reviewed: true
+    notes: "Marzano, R. J., Pickering, D. J., & Pollock, J. E. (2001). Classroom Instruction That Works: Research-Based Strategies for Increasing Student Achievement. ASCD. 'Summarizing and note taking' is one of its nine research-based instructional strategies (high effect size). Cited in U.05.005 L04 (Supporting Reasons and a Conclusion) for the claim that clear organization and summarizing support recall. Real and on-topic as a general authority. No URL (print book)."
+
+  - id: S-174
+    title: "International Listening Association — Listening Skills resources"
+    type: website
+    url: https://listen.org/
+    organization: International Listening Association (ILA)
+    domains: [D04]
+    reviewed: true
+    notes: "Verified live 2026-08-17 (listen.org). The ILA is the real professional body for listening scholarship; its site has a 'Listening Skills' section ('The Importance of Listening,' a 'Listening Toolkit,' and a 'Listening Definition'). Cited in U.05.005 L01 (Paraphrase a Speaker's Points) as a classroom-friendly framing for paraphrasing/clarifying as active-listening skills, alongside CASEL (S-001). The lesson names an ILA 'Listening Skills' primer generically; the organization and its Listening Skills area exist, so the citation is real, though it is best read as a general authority rather than a specific page. Consider adding a direct link to the 'Listening Toolkit' page if a page-level citation is desired."
+

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Author's purpose and point of view</title>
+  <desc id="desc">A figure holding a pen stands beside three labeled doors. The first door reads "to inform" and shows a simple fact sheet. The second reads "to persuade" and shows a poster with a raised hand. The third reads "to entertain" and shows a small open book. Above, a question reads "Why did the author write this?" and below, a lens shape is labeled "whose point of view?" Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Author's Purpose and Point of View</text>
+
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">Why did the author write this?</text>
+
+  <!-- Author figure -->
+  <circle cx="66" cy="250" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="58" cy="245" r="3" fill="#2b3a42"/>
+  <circle cx="74" cy="245" r="3" fill="#2b3a42"/>
+  <path d="M54 260 Q66 265 78 260" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M66 276 L66 350 M66 296 L48 330 M66 296 L84 330 M66 350 L50 396 M66 350 L82 396" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M84 296 L104 290 L108 300 Z" fill="#2b3a42"/>
+
+  <!-- Door 1: inform -->
+  <rect x="150" y="120" width="100" height="150" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="160" y="150" width="80" height="54" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M168 164 L232 164 M168 174 L232 174 M168 184 L210 184 M168 194 L232 194" stroke="#4f6d7a" stroke-width="1.5"/>
+  <circle cx="186" cy="240" r="5" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="200" y="286" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">to inform</text>
+
+  <!-- Door 2: persuade -->
+  <rect x="262" y="120" width="100" height="150" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M272 150 L332 150 M272 150 L272 208 M332 150 L332 208" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M286 178 L318 178 L318 196 L306 196 L302 190 L298 196 L286 196 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="312" y="286" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">to persuade</text>
+
+  <!-- Door 3: entertain -->
+  <rect x="374" y="120" width="100" height="150" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M388 158 Q410 140 432 158 L432 208 L388 208 Z" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M410 158 L410 208" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="424" y="286" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">to entertain</text>
+
+  <!-- Lens for point of view -->
+  <ellipse cx="256" cy="420" rx="110" ry="46" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">whose point of view?</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">whose voice is missing?</text>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Every text has a purpose — and a set of eyes.</text>
+</svg>

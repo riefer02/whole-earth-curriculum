@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Present my report</title>
+  <desc id="desc">A learner stands before a small seated audience, holding a report page. A speech bubble shows the learner saying "My report, in my own words." Three labels mark the presentation's parts: "main idea," "facts from sources," and "conclusion." A listener in the audience has a question-mark bubble labeled "ask a clarifying question," and another has a bubble labeled "paraphrase it back." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Present My Report</text>
+
+  <!-- Presenter -->
+  <circle cx="128" cy="210" r="28" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="118" cy="204" r="3" fill="#2b3a42"/>
+  <circle cx="138" cy="204" r="3" fill="#2b3a42"/>
+  <path d="M114 220 Q128 226 142 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M128 238 L128 320 M128 258 L108 294 M128 258 L148 294 M128 320 L110 372 M128 320 L146 372" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Report page held -->
+  <rect x="150" y="240" width="60" height="80" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M158 258 L202 258 M158 270 L202 270 M158 282 L188 282 M158 294 L202 294" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <!-- Presenter speech bubble -->
+  <rect x="24" y="120" width="140" height="66" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M74 186 L66 202 L96 186" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="94" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">My report,</text>
+  <text x="94" y="170" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">in my own words.</text>
+
+  <!-- Presentation parts labels -->
+  <rect x="222" y="80" width="140" height="40" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="292" y="105" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">main idea</text>
+
+  <rect x="222" y="150" width="150" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="297" y="175" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">facts from sources</text>
+
+  <rect x="222" y="220" width="140" height="40" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="292" y="245" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">conclusion</text>
+
+  <!-- Audience -->
+  <circle cx="330" cy="330" r="24" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="322" cy="325" r="2.5" fill="#2b3a42"/>
+  <circle cx="338" cy="325" r="2.5" fill="#2b3a42"/>
+  <path d="M320 338 Q330 344 340 338" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <circle cx="400" cy="334" r="24" fill="#e8b98a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="392" cy="329" r="2.5" fill="#2b3a42"/>
+  <circle cx="408" cy="329" r="2.5" fill="#2b3a42"/>
+  <path d="M390 342 Q400 348 410 342" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <circle cx="470" cy="330" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="463" cy="326" r="2.5" fill="#2b3a42"/>
+  <circle cx="477" cy="326" r="2.5" fill="#2b3a42"/>
+  <path d="M461 339 Q470 344 479 339" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Listener bubbles -->
+  <rect x="300" y="360" width="120" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="360" y="378" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"So you mean…?"</text>
+  <text x="360" y="394" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">ask a clarifying question</text>
+
+  <rect x="392" y="416" width="100" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="442" y="434" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"You said…"</text>
+  <text x="442" y="450" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">paraphrase it back</text>
+
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Speak clearly — and listen as well as you talk.</text>
+</svg>

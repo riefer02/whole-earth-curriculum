@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Paraphrase: same meaning, my own words</title>
+  <desc id="desc">A two-person scene. On the left a speaker with an open hand says, "Walk to the mango tree, turn left at the blue gate." On the right a listener with a thoughtful face says back, "So I go to the mango tree, turn left at the blue gate, then the second door." An arrow between them is labeled "same meaning," and the listener's bubble is labeled "my own words." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Paraphrase: My Own Words</text>
+
+  <!-- Speaker (left) -->
+  <circle cx="118" cy="150" r="30" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="108" cy="144" r="3" fill="#2b3a42"/>
+  <circle cx="128" cy="144" r="3" fill="#2b3a42"/>
+  <path d="M104 160 Q118 166 132 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M118 180 L118 260 M118 200 L96 236 M118 200 L140 236 M118 260 L100 300 M118 260 L136 300" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="118" y="336" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">speaker</text>
+
+  <!-- Speaker speech bubble -->
+  <rect x="30" y="66" width="176" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M96 130 L88 146 L118 130" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="118" y="92" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">Walk to the mango tree,</text>
+  <text x="118" y="114" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">turn left at the blue gate.</text>
+
+  <!-- Listener (right) -->
+  <circle cx="394" cy="150" r="30" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="384" cy="144" r="3" fill="#2b3a42"/>
+  <circle cx="404" cy="144" r="3" fill="#2b3a42"/>
+  <path d="M380 160 Q394 166 408 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M394 180 L394 250 M394 200 L372 232 M394 200 L416 232 M394 250 L376 292 M394 250 L412 292" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="394" y="336" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">listener</text>
+
+  <!-- Listener speech bubble -->
+  <rect x="270" y="66" width="216" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M352 130 L344 146 L378 130" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="378" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">So I go to the mango tree,</text>
+  <text x="378" y="113" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">turn left at the blue gate,</text>
+  <text x="378" y="130" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">then the second door?</text>
+
+  <!-- Arrow between them -->
+  <path d="M208 150 L300 150" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M290 142 L302 150 L290 158" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Labels -->
+  <rect x="176" y="368" width="160" height="52" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">same meaning</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">my own words</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Same meaning — different words, my own words.</text>
+</svg>

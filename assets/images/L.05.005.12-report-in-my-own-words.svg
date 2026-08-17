@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Report in my own words</title>
+  <desc id="desc">A three-step flow. Step one shows a source card labeled "source" with the sentence "The tamarind tree can live over a hundred years." Step two shows a learner with a pencil writing "own words: tamarind trees can grow for more than a century," with the copied words crossed out. Step three shows a credit line "sources: the gardener, the tree book." An arrow links the three steps. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Report in My Own Words</text>
+
+  <!-- Step 1 -->
+  <rect x="30" y="80" width="140" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="108" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">source</text>
+  <text x="100" y="136" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"The tamarind tree</text>
+  <text x="100" y="154" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">can live over a</text>
+  <text x="100" y="172" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">hundred years."</text>
+  <text x="100" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">learn the fact</text>
+
+  <!-- Arrow 1 -->
+  <path d="M170 145 L206 145" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M196 138 L208 145 L196 152" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- Step 2 -->
+  <rect x="208" y="80" width="176" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- small learner -->
+  <circle cx="240" cy="104" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M236 128 L244 128 M240 128 L238 140 L240 138 L242 140 L242 128" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M252 100 L270 96 L274 104 Z" fill="#2b3a42"/>
+  <text x="296" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">own words:</text>
+  <text x="296" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"Tamarind trees can grow</text>
+  <text x="296" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">for more than a century."</text>
+  <text x="296" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">say it your way</text>
+  <!-- crossed-out copied words -->
+  <line x1="236" y1="92" x2="360" y2="182" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Arrow 2 -->
+  <path d="M384 145 L420 145" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M410 138 L422 145 L410 152" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- Step 3 -->
+  <rect x="422" y="80" width="70" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="457" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">credit</text>
+  <text x="457" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">sources:</text>
+  <text x="457" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the gardener,</text>
+  <text x="457" y="166" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the tree book</text>
+  <text x="457" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">name it</text>
+
+  <!-- Bottom rule -->
+  <rect x="30" y="250" width="462" height="0" fill="none"/>
+
+  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">learn the fact → say it your way → name your source</text>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222">Copying word-for-word without credit is plagiarism.</text>
+</svg>

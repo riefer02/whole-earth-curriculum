@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Gathering facts from several sources</title>
+  <desc id="desc">A researcher figure sits in the center holding a pencil. Around the figure, four labeled sources point inward with arrows: "a book," "a person," "a chart," and "a place I visited." From each source, a small arrow leads toward a note card labeled "source" and "key facts." The figure is writing on a note card. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Gathering Facts from Several Sources</text>
+
+  <!-- Source: book -->
+  <rect x="40" y="80" width="88" height="64" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M60 96 Q84 84 108 96" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M60 108 Q84 96 108 108" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="84" y="170" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a book</text>
+
+  <!-- Source: person -->
+  <circle cx="424" cy="106" r="20" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="418" cy="102" r="2.5" fill="#2b3a42"/>
+  <circle cx="430" cy="102" r="2.5" fill="#2b3a42"/>
+  <path d="M414 114 Q424 120 434 114" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="424" y="170" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a person</text>
+
+  <!-- Source: chart -->
+  <rect x="40" y="330" width="96" height="72" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="52" y="360" width="14" height="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="70" y="348" width="14" height="42" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="88" y="338" width="14" height="52" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="88" y="428" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a chart</text>
+
+  <!-- Source: place -->
+  <path d="M388 330 L444 330 L432 368 L400 368 Z" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M404 356 L420 356" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="416" y="428" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a place I visited</text>
+
+  <!-- Researcher in center -->
+  <circle cx="256" cy="224" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="248" cy="219" r="3" fill="#2b3a42"/>
+  <circle cx="264" cy="219" r="3" fill="#2b3a42"/>
+  <path d="M244 234 Q256 240 268 234" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 250 L256 316 M256 270 L240 300 M256 270 L272 300 M256 316 L242 360 M256 316 L270 360" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Note card in front of researcher -->
+  <rect x="216" y="332" width="80" height="64" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="354" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">source</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">key facts</text>
+  <path d="M228 340 L284 340" stroke="#4f6d7a" stroke-width="1"/>
+
+  <!-- Arrows from sources inward -->
+  <path d="M112 152 L196 216" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M404 152 L316 216" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M112 352 L206 340" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M388 352 L306 344" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Note each key fact — and name its source.</text>
+</svg>

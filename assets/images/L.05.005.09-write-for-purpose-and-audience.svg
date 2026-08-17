@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Same idea, different audience</title>
+  <desc id="desc">A two-row chart. The top shows one idea — "a community clean-up day" — and two arrows leading down. The left arrow leads to a poster labeled "poster to the whole village" with bold short words and a picture. The right arrow leads to a note labeled "note to a younger cousin" with simpler words and a friendly greeting. Below, labels read "purpose" and "audience" and "same idea, different style." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Write for a Purpose and Audience</text>
+
+  <!-- One idea box -->
+  <rect x="156" y="66" width="200" height="56" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">one idea</text>
+
+  <!-- Arrows down -->
+  <path d="M196 122 L168 160" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M316 122 L344 160" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+
+  <!-- Left: poster -->
+  <rect x="30" y="162" width="216" height="220" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="138" y="192" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">poster to the whole village</text>
+  <text x="138" y="222" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">CLEAN-UP DAY!</text>
+  <text x="138" y="246" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Saturday • bring a bag</text>
+  <text x="138" y="266" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">• all hands welcome</text>
+  <!-- small broom picture -->
+  <path d="M86 316 L98 356" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M94 356 L108 348 L104 362 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M110 286 L142 286 M110 296 L142 296 M110 306 L142 306" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="138" y="362" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">bold, short, cheering</text>
+
+  <!-- Right: note -->
+  <rect x="266" y="162" width="216" height="220" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="374" y="192" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">note to a younger cousin</text>
+  <text x="374" y="224" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">Hi Sami,</text>
+  <text x="374" y="248" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">We are going to pick up</text>
+  <text x="374" y="268" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">trash on Saturday.</text>
+  <text x="374" y="288" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Can you come? It will be</text>
+  <text x="374" y="308" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">fun. Bring a small bag.</text>
+  <text x="374" y="332" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Love, me</text>
+  <text x="374" y="362" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">simpler words, friendly</text>
+
+  <!-- Labels -->
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">purpose + audience shape the words, the order, and the form</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">same idea — different style</text>
+</svg>

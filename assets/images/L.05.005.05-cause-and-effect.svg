@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Cause and effect chain</title>
+  <desc id="desc">A horizontal chain of four boxes connected by arrows. Box one reads "heavy rain" and is labeled "cause." Box two reads "river rises" and is labeled "effect (and cause)." Box three reads "fields flood" and is labeled "effect (and cause)." Box four reads "crops are lost" and is labeled "effect." Signal words "because" and "so" appear above the arrows. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Author's Structure: Cause and Effect</text>
+
+  <!-- Box 1 -->
+  <rect x="28" y="180" width="96" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="76" y="224" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">heavy</text>
+  <text x="76" y="244" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">rain</text>
+  <text x="76" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">cause</text>
+
+  <!-- Arrow 1 -->
+  <text x="160" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" font-style="italic" fill="#4f6d7a">so</text>
+  <path d="M124 240 L196 240" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M186 232 L198 240 L186 248" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Box 2 -->
+  <rect x="198" y="180" width="112" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="254" y="224" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">river</text>
+  <text x="254" y="244" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">rises</text>
+  <text x="254" y="282" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">effect</text>
+  <text x="254" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">(and cause)</text>
+
+  <!-- Arrow 2 -->
+  <text x="346" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" font-style="italic" fill="#4f6d7a">so</text>
+  <path d="M310 240 L382 240" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M372 232 L384 240 L372 248" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Box 3 -->
+  <rect x="384" y="180" width="100" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="434" y="224" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">fields</text>
+  <text x="434" y="244" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">flood</text>
+  <text x="434" y="282" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">effect</text>
+  <text x="434" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">(and cause)</text>
+
+  <!-- Arrow 3 -->
+  <path d="M28 340 L210 340" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <path d="M200 332 L212 340 L200 348" fill="none" stroke="#e0a458" stroke-width="3" stroke-linejoin="round"/>
+  <text x="120" y="364" text-anchor="middle" font-family="sans-serif" font-size="15" font-style="italic" fill="#4f6d7a">because</text>
+
+  <!-- Box 4 -->
+  <rect x="226" y="316" width="130" height="64" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="291" y="342" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">crops</text>
+  <text x="291" y="362" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">are lost</text>
+  <text x="291" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">effect</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">One thing makes the next happen — a chain the author builds.</text>
+</svg>
