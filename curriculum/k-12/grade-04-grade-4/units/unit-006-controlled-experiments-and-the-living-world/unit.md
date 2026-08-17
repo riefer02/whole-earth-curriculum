@@ -62,3 +62,13 @@ evidence, never as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Measure Like a Scientist | D06.S1.04.01 |
+| 2 | Why Repeat? Repeated Trials | D06.S1.04.02 |
+| 3 | A Controlled Experiment | D06.S1.04.01, D06.S1.04.02 |
+| 4 | Survival Body Parts and Behaviors | D06.S2.04.01 |
+| 5 | Living and Nonliving: An Ecosystem Web | D06.S2.04.02 |
+| 6 | Our Ecosystem Diagram | D06.S2.04.01, D06.S2.04.02 |
+| 7 | Energy Moves: Heat, Sound, Light | D06.S3.04.01 |
+| 8 | A Simple Circuit: Conductors and Insulators | D06.S3.04.02 |
+| 9 | The Water Cycle | D06.S4.04.01 |
+| 10 | Fossils and Rock Layers: Earth's Long Story | D06.S4.04.02 |

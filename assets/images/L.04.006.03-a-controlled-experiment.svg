@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>A controlled experiment: change one thing</title>
+  <desc>Two identical cups of warm water side by side. The left cup is covered with a lid and the right cup is open. The cover is the one thing that changes. Labels note the same water, cups, place, and time. A small results table shows three repeated trials of temperature in degrees Celsius.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">A controlled experiment</text>
+  <text x="256" y="64" text-anchor="middle" font-size="16" fill="#4f6d7a">Which keeps water warmer: covered or open?</text>
+
+  <!-- Left cup: covered -->
+  <rect x="70" y="110" width="160" height="240" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="150" y="140" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">Covered</text>
+  <path d="M100 250 L120 180 L200 180 L220 250 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="104" y="160" width="112" height="10" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="280" text-anchor="middle" font-size="15" fill="#4f6d7a">lid on top</text>
+  <text x="150" y="300" text-anchor="middle" font-size="15" fill="#4f6d7a">(the ONE change)</text>
+
+  <!-- Right cup: open -->
+  <rect x="282" y="110" width="160" height="240" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="362" y="140" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">Open</text>
+  <path d="M312 250 L332 180 L412 180 L432 250 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <text x="362" y="280" text-anchor="middle" font-size="15" fill="#4f6d7a">no lid</text>
+  <text x="362" y="300" text-anchor="middle" font-size="15" fill="#4f6d7a">(the OTHER cup)</text>
+
+  <!-- Same things -->
+  <rect x="70" y="368" width="372" height="60" rx="12" fill="#7a9e7e" opacity="0.22" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="392" text-anchor="middle" font-size="17" fill="#222222">Keep the same: the water, the cups, the place, the time</text>
+  <text x="256" y="414" text-anchor="middle" font-size="15" fill="#4f6d7a">Change only one thing: the cover.</text>
+
+  <!-- Results table -->
+  <rect x="70" y="440" width="372" height="60" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="462" text-anchor="middle" font-size="16" fill="#2b3a42" font-weight="bold">Repeated trials (degrees C)</text>
+  <text x="256" y="484" text-anchor="middle" font-size="14" fill="#222222">Trial 1: 41 / 38    Trial 2: 41 / 37    Trial 3: 40 / 38</text>
+</svg>

@@ -3139,7 +3139,7 @@ items:
     type: lesson
     grade: 4
     domain: D06
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3150,7 +3150,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by fact-checker: Science accurate + evidence/values well separated, BUT 7 of 10 lessons cite broken 404 URLs (L2/L4/L5/L6/L7/L9/L10) and L6 mislabels a URL with a different title. Need: L2 real 'How do scientists use their findings' (zqkk7ty/articles/zbxsp4j); L4 live NatGeo animal-adaptations URL; L5/L6 real ecosystem article; L7/L9/L10 correct KS2 energy/water-cycle/rocks-fossils IDs. 9 of 10 URLs unregistered in sources.yaml.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (759). IDs L.04.006.01-.10 sequence_in_unit 1-10, titles match unit.md table; objectives resolve to real grade-4 D06 standards verbatim (L9 D06.S4.04.01, L8 D06.S3.04.02); headings + cross_cutting_lenses present; URL fixes confirmed (L1 natgeo S-113, L2/L4/L5/L6/L7/L9/L10 BBC S-105-S-111, L8 S-112, L3 fair-test already S-070); L6 title now 'How do ecosystems work?'.
+      fact-checker:
+        verdict: passed
+        note: All 10 URLs verified live (200) + on-topic with canonical titles (Measuring to bake pancakes / How do scientists use their findings? / fair test / What is adaptation? / How do ecosystems work? / What is light? + How are sounds made? / conductors and insulators / What is the water cycle? / What can fossils tell us?). S-105-S-113 + S-070 reviewed:true, no mismatched title-URL. validate passes (759).
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Euro default (metric 'shared worldwide' L1, 'many units across history/places'); biomes span desert/arctic/coral reef/rice paddy/oasis/mountain spring/city tap (L4-6,9) with 'use ecosystems from many places so no single landscape is default'; cross-cultural contexts (market stall rice, village well+soil, farmer rain seasons, city grid to solar panel); L10 fossil record 'story grounded in evidence alongside other traditions' honored without ranking per philosophy 11; no stereotyping. Minor non-blocking: Resources are Anglophone (BBC/NatGeo) — sourcing default not body framing."
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier all 10 (body-units before ruler L1, two cups+hand for thermometer L3, draw/act out circuit if no battery L8, puddle/wet cloth for water cycle L9); SVG role=img+title+desc+non-empty alt all 10 grayscale-safe (text labels not color alone); blind (tactile/raised-mark/talking-tool), Deaf (sound made tactile hand-on-throat + text/visual), non-speaking (point/gesture), motor (draw/sort/partner/act-out); no eye-closing/mandatory-physical prompts; no wealth assumption.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (outlier honesty L2 'wrong-looking result is information not mistake to hide', anti-ranking adaptations L4, interdependence 'worm and river as vital as lion' L5/6, stewardship L7/9); egalitarianism ('controlled experiment belongs to everyone not only labs' L3, 'none better only fitted to place' L4, 'science belongs to everyone city grid to solar panel' L8); global (metric L1, multi-biome rice paddy/coral reef/desert/mountain spring/city tap); tech/env central (energy provenance L7, conductors/insulators safety + solar L8, water shared loop L9, 'story still being written' L10). Evidence vs values (BBC/NatGeo cited; L10 origins 'evidence-grounded story not dogma' + honor other traditions philosophy 11). Traceability: Vision->P3->D06->S1-S4->standards->U.04.006->L.04.006.01-.10; all 8 objectives resolve; no hierarchy (only anti-ranking)."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (9-10, 3-5): cognitive worked-example-first on real objects (measurement tools, ramp trials, two-cup test, circuit, layer stacking); deep time concrete seriation (stacked-books 'bottom oldest top youngest'); emotional safety errors/outliers framed as information not failure ('no result is the winner', 'if bulb doesn't light treat as puzzle', 'not yet information never verdict'); decomposition L5 + Earth history L10 gentle non-graphic no extinction doom/climate despair; origins 'evidence-grounded story honoring other traditions without ranking' not dogma, 'billions of years' wonder-frame only; physical fit hands-on (string web/circuit/play-dough/act out); inquiry open + spiral from G3 fair test; conservation stated simply accurately."
   - id: B-318
     title: Author lessons for Unit U.04.007 (Making, Music & Movement)
     agent: lesson-author

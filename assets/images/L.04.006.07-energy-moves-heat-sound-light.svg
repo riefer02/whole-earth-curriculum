@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Energy moves: heat, sound, and light</title>
+  <desc>Three panels showing energy moving from a source to a receiver. First, a hand warms over a flame with an arrow labeled heat. Second, a drum sends sound waves to an ear labeled sound. Third, a lamp sends light rays to a book labeled light. Each panel names a source and a receiver.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">Energy moves — and is never destroyed</text>
+
+  <!-- Panel 1: heat -->
+  <rect x="30" y="70" width="140" height="240" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="98" text-anchor="middle" font-size="18" fill="#2b3a42" font-weight="bold">Heat</text>
+  <!-- flame -->
+  <path d="M100 220 Q84 190 100 160 Q116 190 100 220 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M100 210 Q92 194 100 178 Q108 194 100 210 Z" fill="#fdfbf7"/>
+  <!-- hand above -->
+  <path d="M72 150 Q72 128 100 128 Q128 128 128 150 L122 168 L78 168 Z" fill="#6b93b6" opacity="0.6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- arrow up -->
+  <line x1="100" y1="170" x2="100" y2="140" stroke="#e0a458" stroke-width="3"/>
+  <polygon points="100,138 94,146 106,146" fill="#e0a458"/>
+  <text x="100" y="286" text-anchor="middle" font-size="14" fill="#222222">flame → hand</text>
+  <text x="100" y="302" text-anchor="middle" font-size="13" fill="#4f6d7a">source → receiver</text>
+
+  <!-- Panel 2: sound -->
+  <rect x="186" y="70" width="140" height="240" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="98" text-anchor="middle" font-size="18" fill="#2b3a42" font-weight="bold">Sound</text>
+  <!-- drum -->
+  <ellipse cx="230" cy="200" rx="30" ry="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="204" y="182" width="52" height="20" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- ear -->
+  <path d="M296 176 Q326 190 320 218 Q316 236 296 232 Z" fill="#6b93b6" opacity="0.6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- sound waves -->
+  <g stroke="#e0a458" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M262 196 Q272 196 274 200"/>
+    <path d="M270 190 Q282 190 286 200"/>
+  </g>
+  <polygon points="286,200 280,194 278,206" fill="#e0a458"/>
+  <text x="256" y="286" text-anchor="middle" font-size="14" fill="#222222">drum → ear</text>
+  <text x="256" y="302" text-anchor="middle" font-size="13" fill="#4f6d7a">source → receiver</text>
+
+  <!-- Panel 3: light -->
+  <rect x="342" y="70" width="140" height="240" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="412" y="98" text-anchor="middle" font-size="18" fill="#2b3a42" font-weight="bold">Light</text>
+  <!-- lamp -->
+  <path d="M400 150 L424 150 L430 184 L394 184 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="396" y="184" width="32" height="10" rx="3" fill="#4f6d7a"/>
+  <!-- light rays -->
+  <g stroke="#e0a458" stroke-width="3" stroke-linecap="round">
+    <line x1="412" y1="194" x2="412" y2="224"/>
+    <line x1="400" y1="196" x2="392" y2="222"/>
+    <line x1="424" y1="196" x2="432" y2="222"/>
+  </g>
+  <!-- book -->
+  <rect x="382" y="226" width="60" height="30" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="412" y1="226" x2="412" y2="256" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="286" text-anchor="middle" font-size="14" fill="#222222">lamp → book</text>
+  <text x="412" y="302" text-anchor="middle" font-size="13" fill="#4f6d7a">source → receiver</text>
+
+  <rect x="40" y="340" width="432" height="76" rx="12" fill="#7a9e7e" opacity="0.22" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="368" text-anchor="middle" font-size="18" fill="#222222">Energy goes somewhere and does something.</text>
+  <text x="256" y="392" text-anchor="middle" font-size="16" fill="#4f6d7a">It is never destroyed — only moved or changed.</text>
+
+  <rect x="40" y="428" width="432" height="52" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="452" text-anchor="middle" font-size="16" fill="#222222">Find three transfers around you:</text>
+  <text x="256" y="472" text-anchor="middle" font-size="15" fill="#4f6d7a">source — what moves — receiver</text>
+</svg>

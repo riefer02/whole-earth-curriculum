@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Repeated trials cluster close together</title>
+  <desc>Three rolls of the same ball down the same ramp. The stopping distance of each roll is marked with a flag labeled Trial 1, Trial 2, and Trial 3. The three marks land close together, showing that repeated trials make a result more trustworthy.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Why repeat? Three trials, close together</text>
+
+  <!-- Ramp -->
+  <line x1="60" y1="150" x2="180" y2="90" stroke="#4f6d7a" stroke-width="10" stroke-linecap="round"/>
+  <line x1="60" y1="150" x2="180" y2="150" stroke="#4f6d7a" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Ball at top of ramp -->
+  <circle cx="172" cy="84" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Roll path -->
+  <line x1="180" y1="150" x2="440" y2="150" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- Trial marks -->
+  <g>
+    <line x1="360" y1="150" x2="360" y2="120" stroke="#7a9e7e" stroke-width="4"/>
+    <rect x="344" y="108" width="32" height="16" rx="3" fill="#7a9e7e"/>
+    <text x="360" y="120" text-anchor="middle" font-size="12" fill="#222222">T1</text>
+    <circle cx="360" cy="150" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="360" y="176" text-anchor="middle" font-size="15" fill="#4f6d7a">Trial 1</text>
+  </g>
+  <g>
+    <line x1="400" y1="150" x2="400" y2="120" stroke="#7a9e7e" stroke-width="4"/>
+    <rect x="384" y="108" width="32" height="16" rx="3" fill="#7a9e7e"/>
+    <text x="400" y="120" text-anchor="middle" font-size="12" fill="#222222">T2</text>
+    <circle cx="400" cy="150" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="400" y="176" text-anchor="middle" font-size="15" fill="#4f6d7a">Trial 2</text>
+  </g>
+  <g>
+    <line x1="380" y1="150" x2="380" y2="120" stroke="#7a9e7e" stroke-width="4"/>
+    <rect x="364" y="108" width="32" height="16" rx="3" fill="#7a9e7e"/>
+    <text x="380" y="120" text-anchor="middle" font-size="12" fill="#222222">T3</text>
+    <circle cx="380" cy="150" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="380" y="176" text-anchor="middle" font-size="15" fill="#4f6d7a">Trial 3</text>
+  </g>
+
+  <!-- Odd outlier -->
+  <g>
+    <circle cx="250" cy="150" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="250" y="176" text-anchor="middle" font-size="15" fill="#e0a458">odd try?</text>
+  </g>
+
+  <rect x="70" y="300" width="372" height="66" rx="12" fill="#e0a458" opacity="0.25" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="330" text-anchor="middle" font-size="19" fill="#222222">Three close results beat one guess.</text>
+  <text x="256" y="354" text-anchor="middle" font-size="16" fill="#4f6d7a">Repeating a test makes evidence trustworthy.</text>
+
+  <rect x="70" y="390" width="372" height="80" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="418" text-anchor="middle" font-size="17" fill="#2b3a42" font-weight="bold">My results (centimeters)</text>
+  <text x="256" y="444" text-anchor="middle" font-size="16" fill="#222222">Trial 1: 360 cm    Trial 2: 400 cm    Trial 3: 380 cm</text>
+  <text x="256" y="462" text-anchor="middle" font-size="15" fill="#4f6d7a">They are close together, so I can trust them.</text>
+</svg>

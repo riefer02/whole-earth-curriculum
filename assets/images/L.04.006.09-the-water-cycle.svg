@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>The water cycle</title>
+  <desc>A water-cycle loop. The sun shines over a lake and an ocean. An arrow rises from the water labeled evaporation. A cloud labeled condensation sits in the sky. Rain falls labeled precipitation. Arrows return the water to the lake and ocean labeled collection, forming a loop that reuses the water.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">The water cycle</text>
+
+  <!-- Sun -->
+  <circle cx="420" cy="110" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <g stroke="#e0a458" stroke-width="3" stroke-linecap="round">
+    <line x1="420" y1="66" x2="420" y2="52"/>
+    <line x1="420" y1="154" x2="420" y2="168"/>
+    <line x1="376" y1="110" x2="362" y2="110"/>
+    <line x1="464" y1="110" x2="478" y2="110"/>
+  </g>
+
+  <!-- Cloud -->
+  <g>
+    <ellipse cx="180" cy="140" rx="40" ry="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="222" cy="128" rx="34" ry="24" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="140" cy="130" rx="26" ry="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+  <text x="180" y="188" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">condensation</text>
+
+  <!-- Evaporation arrow -->
+  <line x1="140" y1="300" x2="160" y2="176" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="162,176 152,184 168,180" fill="#4f6d7a"/>
+  <text x="96" y="258" font-size="15" fill="#222222" font-weight="bold">evaporation</text>
+
+  <!-- Rain -->
+  <g stroke="#6b93b6" stroke-width="3" stroke-linecap="round">
+    <line x1="150" y1="196" x2="144" y2="214"/>
+    <line x1="180" y1="196" x2="174" y2="216"/>
+    <line x1="210" y1="192" x2="204" y2="212"/>
+    <line x1="232" y1="184" x2="228" y2="204"/>
+  </g>
+  <text x="240" y="238" font-size="15" fill="#222222" font-weight="bold">precipitation</text>
+
+  <!-- Ground / lake / ocean -->
+  <rect x="40" y="300" width="432" height="120" fill="#7a9e7e" opacity="0.35"/>
+  <path d="M60 300 Q90 288 120 300 T180 300 T240 300 T300 300 T360 300 T420 300 T470 300" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="360" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">collection</text>
+  <text x="350" y="360" text-anchor="middle" font-size="15" fill="#4f6d7a">lake &amp; ocean</text>
+
+  <!-- Return arrows -->
+  <path d="M90 330 Q60 390 90 410" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="92,412 82,408 90,402" fill="#4f6d7a"/>
+
+  <!-- Loop note -->
+  <rect x="60" y="430" width="392" height="56" rx="12" fill="#e0a458" opacity="0.22" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="456" text-anchor="middle" font-size="17" fill="#222222">Water is reused — over and over.</text>
+  <text x="256" y="476" text-anchor="middle" font-size="15" fill="#4f6d7a">evaporation → condensation → precipitation → collection</text>
+</svg>

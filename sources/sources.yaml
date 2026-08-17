@@ -969,3 +969,84 @@ sources:
     domains: [D04]
     reviewed: true
     notes: "Kohli, R., & Solórzano, D. G. (2012). Teachers, please learn our names!: racial microaggressions and the K-12 classroom. Race Ethnicity and Education, 15(4), 441–462. Cited in U.04.004 L15 for the importance of correctly learning/pronouncing a peer's name. Journal title is 'Race Ethnicity and Education' (no comma)."
+
+  - id: S-105
+    title: "BBC Bitesize (KS2) — How do scientists use their findings?"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zqkk7ty/articles/zbxsp4j
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.04.006 L02 (Why Repeat? Repeated Trials) for why scientists repeat tests to make evidence more reliable. URL verified live (2026-08-17), article 'How do scientists use their findings?' (KS2 'Working scientifically' topic zqkk7ty). Replaces broken article zmwcnk7 (404)."
+
+  - id: S-106
+    title: "BBC Bitesize (KS2) — What is adaptation?"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zvhhvcw/articles/zxdr3j6
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.04.006 L04 (Survival: Body Parts and Behaviors) for how animals' features help them survive. URL verified live (2026-08-17), article 'What is adaptation?' (KS2 'Evolution and inheritance' topic zvhhvcw). Replaces a broken National Geographic Kids animal-adaptations URL (404)."
+
+  - id: S-107
+    title: "BBC Bitesize (KS2) — How do ecosystems work?"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zbd4g7h
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.04.006 L05 (Living and Nonliving — the Ecosystem Web) and L06 (Our Ecosystem Diagram) for how living and nonliving things in an ecosystem depend on each other. URL verified live (2026-08-17), article 'How do ecosystems work?' (KS2 'Living things and their habitats' topic z6wwxnb). Replaces broken articles zcyycdm/z6vv92p (404)."
+
+  - id: S-108
+    title: "BBC Bitesize (KS2) — What is light?"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z3nnb9q/articles/zpnvf82
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.04.006 L07 (Energy Moves: Heat, Sound, Light) for light traveling from a source and carrying energy. URL verified live (2026-08-17), article 'What is light?' (KS2 'Light' topic z3nnb9q). Replaces the broken/nonexistent 'What is energy?' article zj44jxs/zvppvj6."
+
+  - id: S-109
+    title: "BBC Bitesize (KS2) — How are sounds made?"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zgffr82/articles/zh9bydm
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.04.006 L07 (Energy Moves: Heat, Sound, Light) for sound being made by vibrations and traveling as energy. URL verified live (2026-08-17), article 'How are sounds made?' (KS2 'Sound' topic zgffr82)."
+
+  - id: S-110
+    title: "BBC Bitesize (KS2) — What is the water cycle?"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z849q6f/articles/zj2nydm
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.04.006 L09 (The Water Cycle) for evaporation, condensation, precipitation, and collection, and how water is recycled. URL verified live (2026-08-17), article 'What is the water cycle?' (KS2 topic z849q6f). Replaces broken article zs7sydm (404)."
+
+  - id: S-111
+    title: "BBC Bitesize (KS2) — What can fossils tell us?"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zvhhvcw/articles/ztbshcw
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.04.006 L10 (Fossils and Rock Layers: Earth's Long Story) for how fossils give clues about Earth's long history and past life. URL verified live (2026-08-17), article 'What can fossils tell us?' (KS2 'Evolution and inheritance' topic zvhhvcw). Replaces broken article z9bbkqt/z22w9ty (404)."
+
+  - id: S-112
+    title: "BBC Bitesize (KS2) — What are conductors and insulators?"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zj44jxs/articles/zxv482p
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.04.006 L08 (A Simple Circuit: Conductors and Insulators). URL verified live (2026-08-17), article 'What are conductors and insulators?' (KS2 'Electricity' topic zj44jxs). Registered on the U.04.006 fact-check pass."
+
+  - id: S-113
+    title: "National Geographic Kids — Measuring to bake pancakes"
+    type: website
+    url: https://www.natgeokids.com/uk/discover/science/general-science/measuring/
+    organization: National Geographic Kids
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.04.006 L01 (Measure Like a Scientist) for how we measure amounts with units (such as cups and grams) and why measuring matters. URL verified live (2026-08-17): page title 'Measuring to bake pancakes' — an everyday measuring-and-units context that supports the lesson's measure-with-units claim."

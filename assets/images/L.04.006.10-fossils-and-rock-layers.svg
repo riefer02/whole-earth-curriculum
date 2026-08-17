@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" font-family="sans-serif">
+  <title>Fossils and rock layers</title>
+  <desc>A cross-section of stacked rock layers, each a different shade. A shell sits near the bottom layer, a leaf print in the middle, and a bone near the top. Labels mark the oldest layer at the bottom and the youngest at the top, showing that a deeper fossil is older.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">Fossils and rock layers</text>
+
+  <!-- Layers -->
+  <rect x="80" y="340" width="352" height="70" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="80" y="270" width="352" height="70" fill="#7a9e7e" opacity="0.55" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="80" y="200" width="352" height="70" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="80" y="130" width="352" height="70" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Youngest label -->
+  <text x="70" y="150" text-anchor="end" font-size="15" fill="#222222" font-weight="bold">youngest</text>
+  <!-- Oldest label -->
+  <text x="70" y="392" text-anchor="end" font-size="15" fill="#222222" font-weight="bold">oldest</text>
+
+  <!-- Top layer: bone -->
+  <text x="256" y="176" text-anchor="middle" font-size="15" fill="#222222">bone fossil (youngest)</text>
+  <g stroke="#222222" stroke-width="4" stroke-linecap="round">
+    <line x1="150" y1="162" x2="150" y2="182"/>
+    <line x1="140" y1="162" x2="160" y2="162"/>
+    <line x1="140" y1="182" x2="160" y2="182"/>
+  </g>
+
+  <!-- Middle layer: leaf -->
+  <text x="256" y="240" text-anchor="middle" font-size="15" fill="#222222">leaf print fossil</text>
+  <ellipse cx="360" cy="305" rx="22" ry="12" fill="#fdfbf7" stroke="#222222" stroke-width="3"/>
+  <line x1="360" y1="293" x2="360" y2="317" stroke="#222222" stroke-width="2"/>
+  <line x1="360" y1="305" x2="374" y2="300" stroke="#222222" stroke-width="2"/>
+  <line x1="360" y1="305" x2="346" y2="310" stroke="#222222" stroke-width="2"/>
+
+  <!-- Bottom layer: shell -->
+  <text x="256" y="330" text-anchor="middle" font-size="15" fill="#222222">shell fossil (oldest)</text>
+  <path d="M330 388 Q352 372 374 388" fill="#fdfbf7" stroke="#222222" stroke-width="3"/>
+  <g stroke="#222222" stroke-width="2">
+    <line x1="336" y1="382" x2="336" y2="376"/>
+    <line x1="346" y1="386" x2="346" y2="378"/>
+    <line x1="356" y1="386" x2="356" y2="378"/>
+    <line x1="366" y1="382" x2="366" y2="376"/>
+  </g>
+
+  <rect x="40" y="430" width="432" height="60" rx="12" fill="#e0a458" opacity="0.22" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="456" text-anchor="middle" font-size="17" fill="#222222">The deeper the layer, the older the fossil.</text>
+  <text x="256" y="478" text-anchor="middle" font-size="15" fill="#4f6d7a">Oldest at the bottom, youngest at the top.</text>
+</svg>
