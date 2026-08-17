@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Shared needs: food, safety, and learning</title>
+  <desc id="desc">A web diagram with a community at the center and three spokes leading to labeled circles — "food," "safety," and "learning." Under "food," small pictures show a market stall and a garden, labeled "who grows and sells it." Under "safety," a crossing guard and a helpful neighbor, labeled "who looks out." Under "learning," a school and an elder with a child, labeled "who teaches." A caption reads "Communities meet shared needs together." Labels and pictures, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Meeting Shared Needs</text>
+
+  <!-- center community -->
+  <circle cx="256" cy="220" r="56" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">community</text>
+  <text x="256" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">works together</text>
+
+  <!-- spokes -->
+  <line x1="256" y1="164" x2="256" y2="96" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="206" y1="248" x2="96" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="306" y1="248" x2="416" y2="300" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- FOOD -->
+  <circle cx="256" cy="70" r="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">food</text>
+  <!-- market stall -->
+  <rect x="150" y="100" width="80" height="44" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M154 100 L190 80 L226 100" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="166" cy="120" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="184" cy="120" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="202" cy="120" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="190" y="160" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">who grows and sells it</text>
+
+  <!-- SAFETY -->
+  <circle cx="96" cy="330" r="34" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="336" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">safety</text>
+  <!-- crossing guard -->
+  <circle cx="60" cy="392" r="10" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M50 412 q10 -10 20 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="60" y1="402" x2="60" y2="376" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="52" y1="382" x2="70" y2="382" stroke="#e0a458" stroke-width="3"/>
+  <text x="60" y="432" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">who looks out</text>
+
+  <!-- LEARNING -->
+  <circle cx="416" cy="330" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="416" y="336" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">learning</text>
+  <!-- school + elder -->
+  <rect x="396" y="360" width="40" height="28" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M392 360 L416 344 L440 360" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="452" cy="392" r="10" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M442 412 q10 -10 20 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="452" y="432" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">who teaches</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Communities meet shared needs together.</text>
+</svg>

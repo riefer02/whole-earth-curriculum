@@ -3472,7 +3472,7 @@ items:
     type: lesson
     grade: 5
     domain: D02
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3484,6 +3484,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (844). IDs L.05.004.01-.10 sequence_in_unit 1-10, grade 5, unit U.05.004; objectives resolve to real grade-5 D02 standards (all 8 covered; L10 capstone D02.S4.05.02 + revisits S1.05.01/S2.05.02 matching unit table); required headings present; Connection concrete (L10 fair-not-equal six-people-one-water-jug maps to S4.05.02); unit.md table lists all 10; all 10 assets resolve with non-empty alt; age-appropriate; sources cited (Hattie/Bloom/Slavin/Kirschner/CASEL/Search Institute/CIP/ICC/UNESCO/FAO/WHO).
+      fact-checker:
+        verdict: passed
+        note: Verified 6 mutual-aid/cultural examples in L.05.004.09 (harambee, gotong royong, Andean mink'a/minga, barn-raising, Inuit food-sharing, Green Belt Movement/Maathai 1977 'over thirty million trees' correct per S-059) — all real, hedged as one-named-tradition-never-universal; Kropotkin 'mutual aid universal' framed as thesis not fact; cross-referenced pedagogy/rights sources (Hattie S-012, Bloom S-007, Slavin S-147, Kirschner S-011, CASEL S-001, Search Institute S-156, Putnam S-157, UNESCO S-158, UN CRC S-060, CIP S-054, ICC S-058, NatGeo S-057, WHO S-049, PVS S-055). Registered S-163 (Kropotkin 1902) + S-164 (communal-work traditions). Evidence vs values separated (L10 'fair=equal or by need' is a commitment not a scientific claim).
+      global-culture-editor:
+        verdict: passed
+        note: "Global spread not one-region default: L09 six case cards span 6 regions (barn-raising N.America, harambee Kenya/E.Africa, gotong royong Indonesia, Inuit food-sharing Arctic, Andean minga, Green Belt Movement) all present-tense living practices, facilitator note bars quaint/exotic ranking; L05 four day-cards span 4 continents (Andes, desert oasis, Arctic coast, Pacific island) each names ONE child never 'a people', self-check 'did I slip into saying they all?'; anti-ranking (water-carried vs tap 'neither is better'); L06 check-don't-assume with group-slip flagged; L07 kente sourced not decorative."
+      accessibility-editor:
+        verdict: passed
+        note: All 10 lessons real materials_low_tech tier (voice/partner, chalk-or-stick in dirt, found objects, stones/shells, read-aloud, three-corners, walking investigation); every asset non-empty alt + SVG role=img/aria-labelledby/title/desc + not color-alone (grayscale-safe); UDL draw/write/act/speak/role-play/point choices + 5 context_variants + Support/Extension with scribing; non-verbal + seated options (thumbs-up, mime, point, pre-written word lists) — L3 asset models wheelchair-using teammate + varied skin tones; plain language, no wealth assumption.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (fairness L3/L10, feedback-as-care L1-2, reliability-as-care L4, check-instead-of-assume L6); egalitarianism (no culture ranked L5/L7/L9, 'everyone has enough' L10, assets depict wheelchair-using teammate); global (Andes/desert/Arctic/Pacific + harambee/gotong royong/Inuit/minga/Maathai, mutual aid as universal human habit not charity); tech/environment (optional enriched digital always paired with low-tech; Green Belt Movement + water shared need L8-9); evidence-vs-values (Hattie/Bloom/Kirschner/Slavin/Search Institute/CASEL/UNESCO/FAO-WHO/Kropotkin cited; L10 'fair=equal or by need' flagged as commitment not fact). Traceability: Vision->P1->D02->S1-S4->8 standards->U.05.004->lessons."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band (10-11): cognitive fit concrete (L05 day-in-life cards one child each, L10 role-play dividing tokens/pencils/blankets/water; only near-abstraction L07/L08 grounded in local examples first); emotional safety feedback/teamwork non-shaming non-ranking ('never about ranking', 'do not shame forgetfulness', no public criticism); L05/L06 anti-stereotyping guardrails ('one child not all people', 'never pressure to disclose'); scarcity held safely (L08 how communities meet needs 'never about a family's lack', L10 role-play characters not real families); physical fit with seated/adapted variants; open-ended questions as questions, values flagged as commitments."
   - id: B-327
     title: Author lessons for Unit U.05.005 (Reading, Writing, Research & Many Languages)
     agent: lesson-author

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Using feedback to improve shared work</title>
+  <desc id="desc">A before-and-after panel. The top panel, labeled "before," shows a hand-drawn sign reading "water plants" with no order and an arrow pointing away. The bottom panel, labeled "after feedback," shows the same sign improved: it now reads "1. Fill can. 2. Water each plant. 3. Put can away." with a check mark. A small speech bubble reads "Could you number the steps?" showing the feedback that prompted the change. Labels and the check, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Use Feedback to Improve</text>
+
+  <!-- Before -->
+  <rect x="22" y="64" width="468" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">before</text>
+  <rect x="60" y="104" width="240" height="90" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="180" y="150" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">water plants</text>
+  <text x="180" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(no order)</text>
+  <!-- arrow -->
+  <path d="M320 150 L360 150" stroke="#2b3a42" stroke-width="3" marker-end="none"/>
+  <path d="M352 142 L364 150 L352 158" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- After -->
+  <rect x="22" y="234" width="468" height="200" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">after feedback</text>
+  <circle cx="256" cy="284" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M248 284 L254 290 L265 277" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="60" y="312" width="240" height="104" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="76" y="340" font-family="sans-serif" font-size="15" fill="#222222">1. Fill can.</text>
+  <text x="76" y="362" font-family="sans-serif" font-size="15" fill="#222222">2. Water each plant.</text>
+  <text x="76" y="384" font-family="sans-serif" font-size="15" fill="#222222">3. Put can away.</text>
+  <!-- feedback speech bubble -->
+  <rect x="330" y="316" width="150" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M362 380 L356 394 L380 380" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="405" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Could you</text>
+  <text x="405" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">number the steps?</text>
+
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Hear the feedback &#8594; choose one change &#8594; make it.</text>
+</svg>

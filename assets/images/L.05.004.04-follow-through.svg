@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Following through on my part</title>
+  <desc id="desc">A three-step path drawn as three circles connected by arrows, labeled "make the promise," "do my part," and "check in." In the first circle a child points to a job list. In the second the same child is doing the job. In the third, two children give a high five, and a speech bubble reads "I finished my part — are you stuck? Can I help?" A caption reads "Reliable teammates keep their promises." Labels and arrows, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Follow Through on My Part</text>
+
+  <!-- Step 1 -->
+  <circle cx="96" cy="170" r="66" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="120" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1</text>
+  <text x="96" y="248" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">make the promise</text>
+  <!-- child pointing at list -->
+  <circle cx="86" cy="168" r="14" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M72 200 q14 -14 28 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="98" y1="182" x2="116" y2="164" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="118" y="146" width="34" height="40" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="124" y1="158" x2="146" y2="158" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="124" y1="168" x2="146" y2="168" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- arrow 1 -->
+  <path d="M166 170 L206 170" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M198 162 L210 170 L198 178" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Step 2 -->
+  <circle cx="256" cy="170" r="66" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="120" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">2</text>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">do my part</text>
+  <!-- child working -->
+  <circle cx="246" cy="168" r="14" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 200 q14 -14 28 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 178 q7 8 14 8 q6 0 11 -8" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- arrow 2 -->
+  <path d="M326 170 L366 170" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M358 162 L370 170 L358 178" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Step 3 -->
+  <circle cx="416" cy="170" r="66" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="416" y="120" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">3</text>
+  <text x="416" y="248" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">check in</text>
+  <!-- two children high five -->
+  <circle cx="402" cy="168" r="12" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M392 194 q10 -12 20 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="430" cy="168" r="12" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M420 194 q10 -12 20 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="410" y1="150" x2="422" y2="150" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- speech bubble -->
+  <rect x="150" y="300" width="212" height="74" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M220 374 L214 390 L238 374" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="256" y="328" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">I finished my part —</text>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">are you stuck? Can I help?</text>
+
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Reliable teammates keep their promises.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Promise &#8594; do my part &#8594; check in &#8594; help or ask for help.</text>
+</svg>

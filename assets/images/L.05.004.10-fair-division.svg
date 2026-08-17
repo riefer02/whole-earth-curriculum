@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fair division</title>
+  <desc id="desc">A division diagram with two panels. The left panel, "equal shares," shows four circles each with three dots, all the same, labeled "same for each." The right panel, "need-based shares," shows four circles with different numbers of dots — one circle with more dots is labeled "greater need." A caption reads "the goal: everyone has enough." Below, a caption reads "Fair can mean equal, or it can mean each gets what they need." Labels, counts, and sizes, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Fair Division</text>
+
+  <!-- Left: equal shares -->
+  <rect x="22" y="66" width="228" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">equal shares</text>
+  <text x="136" y="118" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">same for each</text>
+
+  <circle cx="82" cy="160" r="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="82" cy="150" r="4" fill="#2b3a42"/><circle cx="94" cy="158" r="4" fill="#2b3a42"/><circle cx="74" cy="168" r="4" fill="#2b3a42"/>
+
+  <circle cx="190" cy="160" r="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="190" cy="150" r="4" fill="#2b3a42"/><circle cx="202" cy="158" r="4" fill="#2b3a42"/><circle cx="182" cy="168" r="4" fill="#2b3a42"/>
+
+  <circle cx="82" cy="260" r="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="82" cy="250" r="4" fill="#2b3a42"/><circle cx="94" cy="258" r="4" fill="#2b3a42"/><circle cx="74" cy="268" r="4" fill="#2b3a42"/>
+
+  <circle cx="190" cy="260" r="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="190" cy="250" r="4" fill="#2b3a42"/><circle cx="202" cy="258" r="4" fill="#2b3a42"/><circle cx="182" cy="268" r="4" fill="#2b3a42"/>
+
+  <text x="136" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">everyone gets the same number</text>
+
+  <!-- Right: need-based -->
+  <rect x="262" y="66" width="228" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">need-based shares</text>
+  <text x="376" y="118" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">more for greater need</text>
+
+  <circle cx="322" cy="160" r="46" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="314" cy="146" r="4" fill="#2b3a42"/><circle cx="330" cy="150" r="4" fill="#2b3a42"/><circle cx="312" cy="162" r="4" fill="#2b3a42"/><circle cx="330" cy="168" r="4" fill="#2b3a42"/><circle cx="322" cy="178" r="4" fill="#2b3a42"/>
+  <text x="322" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#7a9e7e">greater need</text>
+
+  <circle cx="430" cy="160" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="422" cy="152" r="3.5" fill="#2b3a42"/><circle cx="438" cy="162" r="3.5" fill="#2b3a42"/>
+
+  <circle cx="322" cy="286" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="314" cy="278" r="3.5" fill="#2b3a42"/><circle cx="330" cy="288" r="3.5" fill="#2b3a42"/>
+
+  <circle cx="430" cy="286" r="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="422" cy="276" r="4" fill="#2b3a42"/><circle cx="440" cy="284" r="4" fill="#2b3a42"/><circle cx="426" cy="296" r="4" fill="#2b3a42"/>
+
+  <text x="376" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">the goal: everyone has enough</text>
+
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Fair can mean equal — or each gets what they need.</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The measure is the same: everyone has enough.</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Kind feedback</title>
+  <desc id="desc">Two speech bubbles side by side. The left bubble, marked with a check, reads "This part is clear — the second step could be labeled" and is labeled "kind and about the work." The right bubble, marked with an X, reads "that's sloppy" and is labeled "hurtful, about the person." Below, a person with a gentle, open face holds a paper, and a speech bubble reads "Thank you — I'll think about that," labeled "receiving with openness." Check and X marks, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Kind Feedback vs. Hurtful</text>
+
+  <!-- Left: kind -->
+  <rect x="22" y="66" width="228" height="196" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="96" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#7a9e7e">kind</text>
+  <circle cx="136" cy="128" r="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M127 128 L134 135 L146 120" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="40" y="160" width="192" height="84" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M78 244 L72 262 L96 244" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="136" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">This part is clear —</text>
+  <text x="136" y="208" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the second step</text>
+  <text x="136" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">could be labeled.</text>
+  <text x="136" y="246" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">specific • about the work</text>
+
+  <!-- Right: hurtful -->
+  <rect x="262" y="66" width="228" height="196" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="96" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">hurtful</text>
+  <circle cx="376" cy="128" r="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M366 118 L386 138" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M386 118 L366 138" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <rect x="280" y="160" width="192" height="84" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M324 244 L330 262 L308 244" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="376" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">That's sloppy.</text>
+  <text x="376" y="246" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">about the person • hurts</text>
+
+  <!-- Receiving -->
+  <rect x="22" y="286" width="468" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#6b93b6">receiving with openness</text>
+  <!-- person -->
+  <circle cx="120" cy="386" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M90 434 q30 -26 60 0" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="92" y="340" width="52" height="8" rx="4" fill="#2b3a42"/>
+  <rect x="96" y="336" width="44" height="8" rx="4" fill="#2b3a42"/>
+  <!-- paper -->
+  <rect x="150" y="372" width="70" height="56" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="160" y1="386" x2="210" y2="386" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="160" y1="398" x2="210" y2="398" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="160" y1="410" x2="196" y2="410" stroke="#4f6d7a" stroke-width="2"/>
+  <!-- speech bubble -->
+  <rect x="240" y="360" width="220" height="52" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M288 412 L282 428 L306 412" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="350" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Thank you — I'll</text>
+  <text x="350" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">think about that.</text>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Name the work, not the person — and receive with thanks.</text>
+</svg>

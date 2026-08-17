@@ -61,3 +61,13 @@ dividing resources so everyone has enough, in a role-play or real task.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.004.01 | Kind Feedback: Giving and Receiving | D02.S1.05.01 |
+| L.05.004.02 | Using Feedback to Improve Shared Work | D02.S1.05.01 |
+| L.05.004.03 | Dividing Tasks Fairly in a Team | D02.S1.05.02 |
+| L.05.004.04 | Following Through on My Part | D02.S1.05.02 |
+| L.05.004.05 | A Day in Someone Else's Life | D02.S2.05.01 |
+| L.05.004.06 | Checking My Guess About Feelings | D02.S2.05.02 |
+| L.05.004.07 | Shared Work, Symbols, and Stories Build Community | D02.S3.05.01 |
+| L.05.004.08 | Meeting Shared Needs: Food, Safety, and Learning | D02.S3.05.02 |
+| L.05.004.09 | Mutual Aid Across Cultures and Times | D02.S4.05.01 |
+| L.05.004.10 | Sharing Fairly So Everyone Has Enough | D02.S4.05.02 (capstone: revisits D02.S1.05.01, D02.S2.05.02) |

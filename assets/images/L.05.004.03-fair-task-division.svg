@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fair task division</title>
+  <desc id="desc">A team job chart with four rows. Each row shows a job name, a small stick-figure person, and a check mark. Jobs are "draw the title," "cut the pieces," "write the steps," and "check the work." A caption reads "Every job has a name beside it, and every person has a real part." The four figures have different skin tones, and one uses a wheelchair, showing a diverse team. Labels and checks, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Dividing Tasks Fairly</text>
+
+  <!-- header row -->
+  <rect x="22" y="66" width="320" height="36" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="90" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">job</text>
+  <rect x="342" y="66" width="148" height="36" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="416" y="90" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">who does it</text>
+
+  <!-- row 1 -->
+  <rect x="22" y="106" width="320" height="74" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="150" font-family="sans-serif" font-size="16" fill="#222222">draw the title</text>
+  <rect x="342" y="106" width="148" height="74" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="380" cy="143" r="15" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M362 172 q18 -16 36 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M406 132 L418 143 L408 154" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- row 2 -->
+  <rect x="22" y="184" width="320" height="74" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="228" font-family="sans-serif" font-size="16" fill="#222222">cut the pieces</text>
+  <rect x="342" y="184" width="148" height="74" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="380" cy="221" r="15" fill="#f0c8a0" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M362 250 q18 -16 36 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M406 210 L418 221 L408 232" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- row 3 -->
+  <rect x="22" y="262" width="320" height="74" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="306" font-family="sans-serif" font-size="16" fill="#222222">write the steps</text>
+  <rect x="342" y="262" width="148" height="74" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="380" cy="299" r="15" fill="#6b4a2b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M362 328 q18 -16 36 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M406 288 L418 299 L408 310" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- row 4 -->
+  <rect x="22" y="340" width="320" height="74" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="384" font-family="sans-serif" font-size="16" fill="#222222">check the work</text>
+  <rect x="342" y="340" width="148" height="74" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- wheelchair figure -->
+  <circle cx="378" cy="363" r="13" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M364 388 q14 -14 28 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="402" cy="384" r="13" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="402" cy="384" r="3" fill="#2b3a42"/>
+  <line x1="392" y1="376" x2="372" y2="376" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M406 318 L418 329 L408 340" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Every job has a name — every person has a real part.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Nobody left out, nobody overloaded.</text>
+</svg>

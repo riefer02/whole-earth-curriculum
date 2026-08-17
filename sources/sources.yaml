@@ -1493,3 +1493,23 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in U.05.003 L03 and L10 for the claim that human growth is measured against a range of normal, not a single number. URL verified live (2026-08-17): page presents the WHO Child Growth Standards developed from the WHO Multicentre Growth Reference Study (MGRS), with percentile growth curves (length/height-for-age, weight-for-age, BMI-for-age, etc.) and motor milestone windows of achievement, plus growth reference data for ages 5–19. The percentile-curve format directly supports the lesson's 'wide range of heights and weights are normal' framing, and the L03 claim that growth is shaped by genes, nutrition, and environment is standard. Supports the hedged general claim."
+
+  - id: S-163
+    title: "Kropotkin (1902) — Mutual Aid: A Factor of Evolution"
+    type: book
+    author: Peter Kropotkin
+    organization: McClure Phillips & Co. (first English ed., 1902); Heinemann
+    year: 1902
+    domains: [D02]
+    reviewed: true
+    notes: "Cited in U.05.004 L09 (Mutual Aid Across Cultures and Times) for the framing that mutual aid — cooperation and reciprocity, not for pay but from belonging — is a widespread human practice. Real, foundational 1902 book: Peter Kropotkin's collection of anthropological essays (first serialized in The Nineteenth Century 1890–1896) arguing that mutual aid/cooperation, alongside competition, is a factor of evolution in animal and human societies past and present. The lesson's Resources note states the concept is 'named in' Kropotkin's book — accurate: Kropotkin is the canonical source who popularized 'mutual aid' as a term/theory. The lesson appropriately holds 'helping one another is good' as a value distinct from the factual claim that mutual-aid traditions are widespread and documented. No URL (print book; full text is public domain on Wikisource/Project Gutenberg)."
+
+  - id: S-164
+    title: "Communal-work (mutual-aid) traditions — harambee, gotong royong, mink'a/minga, barn-raising"
+    type: website
+    url: https://en.wikipedia.org/wiki/Communal_work
+    organization: Wikipedia ("Communal work") — cross-checked against BBC Travel (harambee) and Britannica (barn raising)
+    domains: [D02, D08]
+    reviewed: true
+    notes: "Cited in U.05.004 L09 (Mutual Aid Across Cultures and Times) for four named communal-help traditions. Verified 2026-08-17: (1) harambee — Swahili 'all pull together'; a Kenyan (East African) tradition of community self-help/fundraising events and Kenya's official motto — the lesson's 'in Kenya, people pull together … to build a school or help a family' is accurate; (2) gotong royong — Indonesian ethos of 'joint bearing of burdens'/mutual assistance, used to build village facilities (irrigation, roads, houses of worship) and run communal events — the lesson's 'neighbors share the work of a village' is accurate; (3) mink'a/minka/minga — an Inca/Andean tradition of communal, largely unpaid collective labor for community or family benefit, incl. harvesting potatoes, still practiced across Peru, Bolivia, Ecuador, Colombia, Chile — the lesson's 'neighbors farm terraces together, in a minga' is accurate (minga is the Hispanicized form); (4) barn raising — a documented North American communal-building tradition (associated esp. with Amish/Mennonite and other rural communities) — the lesson's 'neighbors gather to raise a family's barn in a day, and the favor returns' is accurate. Each is presented as one named tradition in one place, not as a universal 'all people in X do Y'; the lesson's Resources note correctly adds 'verify local details with community members.' Used as documentation of the mutual-aid examples, not a claim-level citation for any single statistic."
+

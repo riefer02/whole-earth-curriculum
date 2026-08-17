@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Check my guess about feelings</title>
+  <desc id="desc">A two-part panel. On the left, a child's face is drawn with a frown and crossed arms, but a thought bubble above reads "I didn't sleep and my head hurts" — labeled "what I see" above the face and "what might be true inside" inside the bubble. On the right, the same two children are talking, and a speech bubble reads "I thought you might be angry, but I want to check — how are you really doing?" labeled "check with them." Labels, arrows, and the thought bubble, not color alone, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Check My Guess About Feelings</text>
+
+  <!-- Left panel -->
+  <rect x="22" y="64" width="228" height="250" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">what I see</text>
+
+  <!-- face with frown -->
+  <circle cx="136" cy="150" r="40" fill="#f0c8a0" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="122" cy="142" r="4" fill="#2b3a42"/>
+  <circle cx="150" cy="142" r="4" fill="#2b3a42"/>
+  <path d="M122 166 q14 -10 28 0" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- crossed arms -->
+  <path d="M110 200 l26 20" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M162 200 l-26 20" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- thought bubble -->
+  <ellipse cx="136" cy="250" rx="60" ry="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="120" cy="282" r="4" fill="#2b3a42"/>
+  <circle cx="132" cy="290" r="2.5" fill="#2b3a42"/>
+  <text x="136" y="246" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I didn't sleep</text>
+  <text x="136" y="260" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and my head hurts.</text>
+  <text x="136" y="316" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">what might be true inside</text>
+
+  <!-- Right panel -->
+  <rect x="262" y="64" width="228" height="250" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">check with them</text>
+
+  <!-- two children talking -->
+  <circle cx="340" cy="150" r="18" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M326 182 q14 -12 28 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="412" cy="150" r="18" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M398 182 q14 -12 28 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- speech bubble -->
+  <rect x="288" y="206" width="176" height="82" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M330 288 L324 302 L348 288" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="376" y="232" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">I thought you might be</text>
+  <text x="376" y="250" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">angry, but I want to check —</text>
+  <text x="376" y="268" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">how are you really doing?</text>
+
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">The outside is a clue, not the whole truth.</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Notice the clues &#8594; then check with the person.</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">"How are you really doing?" turns a guess into understanding.</text>
+</svg>
