@@ -904,3 +904,39 @@ sources:
     domains: [D01]
     reviewed: true
     notes: "Real paper: Duckworth, A. L., Gendler, T. S., & Gross, J. J. (2016). Situational strategies for self-control. Perspectives on Psychological Science, 11(1), 35–55. Cited in U.04.001 L10 (Staying With It When It Is Hard or Tempting to Quit) for if-then planning/situational self-control strategies. Lesson correctly hedges the claim (willpower is not infinite; evidence for 'building' it like a muscle is mixed), matching the paper's situational-strategy framing."
+
+  - id: S-098
+    title: "Nemours KidsHealth — heart, lungs, sweat, and muscles (for kids)"
+    type: website
+    url: https://kidshealth.org/en/kids/heart.html
+    organization: Nemours KidsHealth
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.002 L01/L02/L05 (heart/pulse/heartbeat speeding with activity: 'When you run around a lot, your body needs a lot more oxygen-filled blood. Your heart pumps faster'), L03 (lungs: oxygen in, carbon dioxide out), L04 (sweat: 'As the sweat evaporates off your skin, you cool down'), L10 (muscles move the body and using them keeps them strong). URLs verified live (2026-08-17): /kids/heart.html, /kids/lungs.html, /kids/sweat.html, /kids/muscles.html all return 200. The formerly cited /kids/exercise.html returned 404 and was replaced with /kids/muscles.html."
+
+  - id: S-099
+    title: "WHO — Assistive Technology fact sheet"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/assistive-technology
+    organization: World Health Organization (WHO)
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.002 L06 (Many Ways to Sense and Move) for the range of assistive technology — wheelchairs, glasses, prosthetic limbs, white canes, hearing aids. URL verified live (2026-08-17). Supports the claim that aids are common, ordinary tools used worldwide."
+
+  - id: S-100
+    title: "UN Convention on the Rights of Persons with Disabilities (CRPD), Article 30"
+    type: website
+    url: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html
+    organization: United Nations
+    domains: [D03, D09]
+    reviewed: true
+    notes: "Cited in U.04.002 L06/L07 for the right to take part in play, recreation, and sport (Article 30 — Participation in cultural life, recreation, leisure and sport). Genuine UN page (verified live 2026-08-17 by fact-checker; un.org may return 403 to automated clients but serves browsers normally). Used as a value/rights frame, not a factual claim."
+
+  - id: S-101
+    title: "SHAPE America — Society of Health and Physical Educators"
+    type: website
+    url: https://www.shapeamerica.org/
+    organization: SHAPE America
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.002 L08/L09 for cooperative-game rules and fair play in physical education. Real professional authority for PE standards; URL verified live (2026-08-17). Used as a general authority for fair-play and inclusive-game framing."

@@ -2991,7 +2991,7 @@ items:
     type: lesson
     grade: 4
     domain: D03
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3002,7 +3002,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by fact-checker: Physiological claims accurate (heartbeat/pulse/breathing/warmth via Nemours KidsHealth; aids via WHO assistive-tech; inclusive sports sitting volleyball/boccia/goalball + UN CRPD Art.30; SHAPE America for movement). BUT: (1) L10 cites https://kidshealth.org/en/kids/exercise.html which 404s — needs live URL; (2) four sources unregistered in sources.yaml: Nemours KidsHealth, WHO assistive-technology fact sheet, UN CRPD Art.30, SHAPE America — must be added + reviewed:true.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (708). All 10 frontmatter correct (IDs L.04.002.01-.10, grade 4, unit U.04.002, domain D03, pillar P2); objectives resolve to real grade-4 D03 standards; required headings + context_variants + SVG all present. Fixes confirmed: L10 URL now /kids/muscles.html (no 404), L07 strand includes D03.S2, sources.yaml registers S-098..S-101 reviewed:true. Connection L10 concrete (surfer/drummer + seated/wheeled adaptations)."
+      fact-checker:
+        verdict: passed
+        note: "Fixes verified: L10 now cites kidshealth /kids/muscles.html (200, on-topic for muscle movement/strength); no file references dead exercise.html. Four sources registered reviewed:true (S-098 KidsHealth heart/lungs/sweat/muscles all 200; S-099 WHO assistive-tech 200; S-100 UN CRPD Art.30 genuine; S-101 SHAPE America 200). All citations resolve to registered entries; sitting volleyball/boccia/goalball correct. validate passes (708)."
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro default; multi-region examples (L2 mountain village/city street/field; L4 goat-herding/swimming/dancing; L8 favela/Kenyan schoolyard/family mat; L9 Lagos pitch/Moscow cafe/Hanoi street; L10 surfer/footballer/drummer). Disability representation person-first ('person who uses a wheelchair', never 'wheelchair-bound'), aids as tools that extend ability not 'less than', real inclusive sports (sitting volleyball/boccia/goalball/wheelchair basketball/dance/seated yoga), global aid diversity (wooden stick to hearing aid) with equal dignity, 'adapt the game not the child' non-pitying. SHAPE America cited alongside WHO not as default.
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier all 10 (chalk/stick/stone/leaf/body, no wealth/device dependence; enriched optional); SVG a11y role=img+title+desc+non-empty alt all 10; no mandatory eye-closing/breathing-only/physical-only prompts; all movement has seated/wheelchair/supported versions (L2/3/4/7/10); Deaf (hand signal L7), blind (chest pulse, verbal slow/fast, tactile), non-speaking (write/draw/point/gesture), motor (seated stations), neurodivergent ('no correct number-not a test'). UDL multiple means + context_variants every lesson.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (dignity/person-first L6 'an aid is a tool the person is whole', 'change the game not the person' L7, rules as fair agreements L8, fair-play honesty/turn/encouragement L9); egalitarianism central (no ranking/no body judged, seated/adapted equal never lesser, explicit rejection of able-bodied default); global (multi-region examples, real inclusive sports, no Euro default); tech/env light (stethoscope/monitor 'a tool not a replacement for noticing'; warm-sun/cool-shade L4). Evidence vs values: physiological claims cited (KidsHealth/WHO), facts vs norms separated. Traceability: Vision->P2->D03->S1/S2->standards->U.04.002->L.04.002.01-.10; objectives resolve to real standards; no hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (9-10, 3-5): cognitive cause-effect on real felt phenomena (own heartbeat/breath/warmth), 'why' anchored in felt experience, 'body dashboard' concrete not abstract; emotional safety de-arousing ('no correct number', 'fast heartbeat healthy not scary', 'no body praised/shamed', sweat framed healthy 'never embarrassing') no illness content; disability dignity-first (aids are 'tools not deficits', person-first, share only if want, 'change the game not the person', no elimination/ranking/losers); physical fit matches 3-5 motor dev with seated versions as equal; inquiry-over-creed (fairness as doable acts, unfair acts judged never the child); spiral retrieves Grade 3; learners author their own records/routines."
   - id: B-314
     title: Author lessons for Unit U.04.003 (Listening, Perspective & Belonging)
     agent: lesson-author

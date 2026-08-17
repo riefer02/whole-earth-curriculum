@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Heartbeat at rest and at work</title>
+  <desc id="desc">Two hearts side by side. The left heart is labeled "rest" with four slow, evenly spaced beat dots. The right heart is labeled "work" with seven faster, closer beat dots, showing the heartbeat speeds up with activity.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Heartbeat at Work</text>
+
+  <!-- Rest heart -->
+  <g transform="translate(76, 92) scale(3.0)">
+    <path d="M23.6,0c-3.4,0-6.3,2.7-7.6,5.6C14.7,2.7,11.8,0,8.4,0C3.8,0,0,3.8,0,8.4c0,9.4,9.5,11.9,16,21.2c6.1-9.3,16-12.1,16-21.2C32,3.8,28.2,0,23.6,0z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.4" stroke-linejoin="round"/>
+  </g>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="76" cy="260" r="9"/>
+    <circle cx="116" cy="260" r="9"/>
+    <circle cx="156" cy="260" r="9"/>
+    <circle cx="196" cy="260" r="9"/>
+  </g>
+  <text x="136" y="300" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">rest</text>
+
+  <!-- Work heart -->
+  <g transform="translate(332, 92) scale(3.0)">
+    <path d="M23.6,0c-3.4,0-6.3,2.7-7.6,5.6C14.7,2.7,11.8,0,8.4,0C3.8,0,0,3.8,0,8.4c0,9.4,9.5,11.9,16,21.2c6.1-9.3,16-12.1,16-21.2C32,3.8,28.2,0,23.6,0z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.4" stroke-linejoin="round"/>
+  </g>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="332" cy="260" r="9"/>
+    <circle cx="362" cy="260" r="9"/>
+    <circle cx="392" cy="260" r="9"/>
+    <circle cx="422" cy="260" r="9"/>
+    <circle cx="452" cy="260" r="9"/>
+    <circle cx="482" cy="260" r="9"/>
+    <circle cx="512" cy="260" r="9"/>
+  </g>
+  <text x="392" y="300" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">work</text>
+
+  <!-- Arrow from rest to work -->
+  <path d="M228 180 L300 180" stroke="#2b3a42" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">when I work, my heart works too</text>
+</svg>

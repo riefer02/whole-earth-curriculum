@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Playing fair, all together</title>
+  <desc id="desc">Two panels showing fair play. The left panel shows a child cheering a teammate with a raised hand and a smile, labeled "encourage." The right panel shows a child honestly handing a ball to another with a speech bubble reading "your turn," labeled "take turns."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Playing Fair, All Together</text>
+
+  <!-- Panel 1: encourage -->
+  <g>
+    <rect x="16" y="88" width="230" height="200" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="120" cy="180" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="110" cy="172" r="3" fill="#2b3a42"/><circle cx="130" cy="172" r="3" fill="#2b3a42"/>
+    <path d="M114 190 Q120 198 126 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M120 210 L120 250 M120 224 L102 244" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M120 250 L94 258" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <!-- raised arm cheering -->
+    <path d="M120 224 L146 196" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <text x="131" y="214" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#e0a458">✦</text>
+    <text x="131" y="270" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">encourage</text>
+  </g>
+
+  <!-- Panel 2: take turns -->
+  <g>
+    <rect x="266" y="88" width="230" height="200" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="340" cy="190" r="28" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="330" cy="184" r="3" fill="#2b3a42"/><circle cx="350" cy="184" r="3" fill="#2b3a42"/>
+    <path d="M334 200 Q340 206 346 200" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M340 218 L340 252 M340 232 L324 250" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M340 252 L316 258" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <!-- handing ball -->
+    <circle cx="404" cy="206" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M358 210 L388 210" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 4"/>
+    <!-- speech bubble -->
+    <rect x="404" y="150" width="76" height="40" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="442" y="176" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">your turn</text>
+    <text x="381" y="270" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">take turns</text>
+  </g>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">fair play means everyone can play</text>
+</svg>

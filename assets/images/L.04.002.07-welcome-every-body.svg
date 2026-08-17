@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Welcome every body</title>
+  <desc id="desc">A circle of six diverse children playing a passing game together around a soft ball at the center. One child is in a wheelchair, one wears a hearing aid, one is seated on the ground, and skin tones vary. All reach toward the ball, showing a game everyone can join.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Welcome Every Body</text>
+
+  <!-- Ball at center -->
+  <circle cx="256" cy="240" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M234 218 Q256 206 278 218 M234 262 Q256 274 278 262" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- Child 1 top: seated, reaches down -->
+  <g>
+    <circle cx="256" cy="118" r="24" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="247" cy="112" r="3" fill="#2b3a42"/><circle cx="265" cy="112" r="3" fill="#2b3a42"/>
+    <path d="M250 126 Q256 132 262 126" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 142 L256 170 M256 156 L240 180" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M256 170 L232 190" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Child 2 top-right: standing -->
+  <g>
+    <circle cx="344" cy="150" r="24" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="336" cy="144" r="3" fill="#2b3a42"/><circle cx="352" cy="144" r="3" fill="#2b3a42"/>
+    <path d="M338 158 Q344 164 350 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M344 174 L344 210 M344 186 L326 210" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M344 210 L330 230" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Child 3 right: wheelchair -->
+  <g>
+    <circle cx="392" cy="248" r="24" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="384" cy="242" r="3" fill="#2b3a42"/><circle cx="400" cy="242" r="3" fill="#2b3a42"/>
+    <path d="M386 256 Q392 262 398 256" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M392 272 L392 296 M392 282 L378 300" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <rect x="368" y="296" width="48" height="10" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="378" cy="332" r="17" fill="none" stroke="#2b3a42" stroke-width="4"/>
+    <circle cx="406" cy="332" r="17" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  </g>
+
+  <!-- Child 4 bottom-right: seated on ground -->
+  <g>
+    <circle cx="300" cy="360" r="24" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="292" cy="354" r="3" fill="#2b3a42"/><circle cx="308" cy="354" r="3" fill="#2b3a42"/>
+    <path d="M294 368 Q300 374 306 368" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M300 384 L300 400 M300 392 L286 408" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M300 400 L288 418" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Child 5 bottom-left: hearing aid -->
+  <g>
+    <circle cx="196" cy="356" r="24" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="188" cy="350" r="3" fill="#2b3a42"/><circle cx="204" cy="350" r="3" fill="#2b3a42"/>
+    <path d="M190 364 Q196 370 202 364" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M212 352 A 7 7 0 0 1 222 352" fill="none" stroke="#e0a458" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M196 380 L196 400 M196 388 L184 404" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Child 6 left: standing -->
+  <g>
+    <circle cx="128" cy="252" r="24" fill="#8a5a34" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="120" cy="246" r="3" fill="#2b3a42"/><circle cx="136" cy="246" r="3" fill="#2b3a42"/>
+    <path d="M122 260 Q128 266 134 260" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M128 276 L128 310 M128 288 L114 306" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M128 310 L116 328" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">when a game leaves someone out, we change the game</text>
+</svg>

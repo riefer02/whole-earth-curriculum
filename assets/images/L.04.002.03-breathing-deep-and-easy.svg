@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Breathing at rest and at work</title>
+  <desc id="desc">Two pairs of soft lung shapes. The left pair is labeled "rest" with small, slow arrows showing gentle air moving in and out. The right pair is labeled "work" with larger, faster arrows, showing breathing speeds up with activity.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Breathing Deep and Easy</text>
+
+  <!-- Rest lungs -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round">
+    <path d="M96 140 Q70 210 96 300 Q122 330 140 300 Q166 210 140 140 Z"/>
+    <path d="M172 140 Q146 210 172 300 Q198 330 216 300 Q242 210 216 140 Z"/>
+  </g>
+  <path d="M118 150 L118 96" stroke="#7a9e7e" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M118 96 L108 106 M118 96 L128 106" stroke="#7a9e7e" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M194 152 L194 100" stroke="#7a9e7e" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M194 100 L184 110 M194 100 L204 110" stroke="#7a9e7e" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="156" y="360" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">rest</text>
+
+  <!-- Work lungs -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round">
+    <path d="M324 140 Q298 210 324 300 Q350 330 368 300 Q394 210 368 140 Z"/>
+    <path d="M400 140 Q374 210 400 300 Q426 330 444 300 Q470 210 444 140 Z"/>
+  </g>
+  <path d="M346 150 L346 86" stroke="#e0a458" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M346 86 L330 100 M346 86 L362 100" stroke="#e0a458" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M422 152 L422 88" stroke="#e0a458" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M422 88 L406 102 M422 88 L438 102" stroke="#e0a458" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <text x="384" y="360" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">work</text>
+
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">oxygen in, carbon dioxide out</text>
+</svg>

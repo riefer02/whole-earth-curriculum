@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My body dashboard</title>
+  <desc id="desc">A three-dial dashboard with rows labeled "heart," "breath," and "warmth." Each row has a semicircular dial with a needle that points near the left side at "rest" and near the right side at "work," showing the three signals rise with activity and fall with rest.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">My Body Dashboard</text>
+
+  <!-- Row helper: one dial per signal -->
+  <!-- Dial arc background -->
+  <g>
+    <path d="M120 320 A 90 90 0 0 1 300 320" fill="none" stroke="#4f6d7a" stroke-width="10" stroke-linecap="round"/>
+    <path d="M120 320 A 90 90 0 0 1 300 320" fill="none" stroke="#d9d2c5" stroke-width="10" stroke-linecap="round" stroke-dasharray="0 1000"/>
+  </g>
+
+  <!-- Heart dial -->
+  <g>
+    <text x="210" y="128" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">heart</text>
+    <path d="M128 308 A 82 82 0 0 1 292 308" fill="none" stroke="#d9d2c5" stroke-width="10" stroke-linecap="round"/>
+    <path d="M128 308 A 82 82 0 0 1 210 226" fill="none" stroke="#e0a458" stroke-width="10" stroke-linecap="round"/>
+    <line x1="210" y1="308" x2="238" y2="252" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="210" cy="308" r="7" fill="#2b3a42"/>
+    <text x="128" y="344" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">rest</text>
+    <text x="292" y="344" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">work</text>
+  </g>
+
+  <!-- Breath dial -->
+  <g>
+    <text x="210" y="210" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">breath</text>
+    <path d="M128 390 A 82 82 0 0 1 292 390" fill="none" stroke="#d9d2c5" stroke-width="10" stroke-linecap="round"/>
+    <path d="M128 390 A 82 82 0 0 1 210 308" fill="none" stroke="#6b93b6" stroke-width="10" stroke-linecap="round"/>
+    <line x1="210" y1="390" x2="238" y2="334" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="210" cy="390" r="7" fill="#2b3a42"/>
+    <text x="128" y="426" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">rest</text>
+    <text x="292" y="426" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">work</text>
+  </g>
+
+  <!-- Warmth dial -->
+  <g>
+    <text x="210" y="292" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">warmth</text>
+    <path d="M128 472 A 82 82 0 0 1 292 472" fill="none" stroke="#d9d2c5" stroke-width="10" stroke-linecap="round"/>
+    <path d="M128 472 A 82 82 0 0 1 210 390" fill="none" stroke="#7a9e7e" stroke-width="10" stroke-linecap="round"/>
+    <line x1="210" y1="472" x2="238" y2="416" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="210" cy="472" r="7" fill="#2b3a42"/>
+    <text x="128" y="508" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">rest</text>
+    <text x="292" y="508" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">work</text>
+  </g>
+</svg>

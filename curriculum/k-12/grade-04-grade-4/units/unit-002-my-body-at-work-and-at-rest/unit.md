@@ -53,3 +53,13 @@ abilities is honored with dignity and joy.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | My Body's Quiet Engine | D03.S1.04.01 |
+| 2 | Heartbeat at Work | D03.S1.04.01 |
+| 3 | Breathing Deep and Easy | D03.S1.04.01 |
+| 4 | Warm Work, Cool Rest | D03.S1.04.01 |
+| 5 | My Body Dashboard | D03.S1.04.01 |
+| 6 | Many Ways to Sense and Move | D03.S1.04.02 |
+| 7 | Welcome Every Body | D03.S1.04.02, D03.S2.04.02 |
+| 8 | Rules of the Game | D03.S2.04.01 |
+| 9 | Playing Fair, All Together | D03.S2.04.01 |
+| 10 | Balance, Agility, Coordination | D03.S2.04.02 |

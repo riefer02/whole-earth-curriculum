@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My body's quiet engine — the resting heartbeat</title>
+  <desc id="desc">A large heart with four slow, evenly spaced beat dots underneath, labeled "rest." Beside it, two small circles show a wrist and the side of a neck, each with a finger marked to show where to feel a pulse.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">My Body's Quiet Engine</text>
+
+  <!-- Heart -->
+  <g transform="translate(176, 92) scale(3.2)">
+    <path d="M23.6,0c-3.4,0-6.3,2.7-7.6,5.6C14.7,2.7,11.8,0,8.4,0C3.8,0,0,3.8,0,8.4c0,9.4,9.5,11.9,16,21.2c6.1-9.3,16-12.1,16-21.2C32,3.8,28.2,0,23.6,0z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.4" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Beat dots at rest -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="156" cy="280" r="10"/>
+    <circle cx="206" cy="280" r="10"/>
+    <circle cx="256" cy="280" r="10"/>
+    <circle cx="306" cy="280" r="10"/>
+  </g>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">rest</text>
+
+  <!-- Wrist pulse -->
+  <g>
+    <circle cx="120" cy="392" r="58" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="88" y="360" width="66" height="34" rx="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M96 388 L118 388" stroke="#6b93b6" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="132" cy="382" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="466" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222">wrist</text>
+  </g>
+
+  <!-- Neck pulse -->
+  <g>
+    <circle cx="392" cy="392" r="58" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="360" y="352" width="66" height="50" rx="18" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M370 386 L384 386" stroke="#6b93b6" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="408" cy="380" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="392" y="466" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222">neck</text>
+  </g>
+</svg>
