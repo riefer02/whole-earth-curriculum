@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Caring When Someone Hurts: notice, ask, stay, include</title>
+  <desc id="desc">Three panels show caring in three moments. First panel: a child crying while a friend sits close and says in a speech bubble, "Are you okay?" Second panel: two children playing a ball game while a third stands alone, and one player turns and says, "Come join us." Third panel: a child with a scraped knee while a friend offers a bandage and reaches out a hand. A strip below reads "notice, ask, stay, include." The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Caring When Someone Hurts</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Small things anyone can do</text>
+
+  <!-- Panel 1: sad -->
+  <g>
+    <rect x="16" y="86" width="152" height="210" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="92" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">sad</text>
+    <circle cx="70" cy="170" r="16" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M58 168 A14 14 0 0 1 82 168" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="63" cy="170" r="2" fill="#2b3a42"/>
+    <circle cx="77" cy="170" r="2" fill="#2b3a42"/>
+    <path d="M62 180 Q70 176 78 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M70 186 L70 196" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="70" cy="200" r="3" fill="#6b93b6"/>
+    <line x1="70" y1="186" x2="66" y2="216" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="70" y1="186" x2="74" y2="216" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="120" cy="170" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M108 170 A16 16 0 0 1 132 170 Z" fill="#2b3a42"/>
+    <circle cx="114" cy="170" r="2" fill="#2b3a42"/>
+    <circle cx="126" cy="170" r="2" fill="#2b3a42"/>
+    <path d="M114 180 Q120 184 126 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="120" y1="186" x2="116" y2="216" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="120" y1="186" x2="124" y2="216" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <rect x="40" y="236" width="112" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="96" y="264" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Are you okay?</text>
+  </g>
+
+  <!-- Panel 2: left out -->
+  <g>
+    <rect x="180" y="86" width="152" height="210" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">left out</text>
+    <circle cx="232" cy="150" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="272" cy="150" r="14" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="176" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="232" y1="164" x2="228" y2="190" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="272" y1="164" x2="276" y2="190" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="256" cy="150" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2" opacity="0.6"/>
+    <path d="M244 148 A12 12 0 0 1 268 148" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="256" y1="164" x2="252" y2="188" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <rect x="196" y="230" width="118" height="50" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="255" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Come join us!</text>
+    <text x="255" y="270" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">make room, invite in</text>
+  </g>
+
+  <!-- Panel 3: hurt -->
+  <g>
+    <rect x="344" y="86" width="152" height="210" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">hurt</text>
+    <circle cx="396" cy="168" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M384 166 A13 13 0 0 1 408 166" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="390" cy="168" r="2" fill="#2b3a42"/>
+    <circle cx="402" cy="168" r="2" fill="#2b3a42"/>
+    <path d="M390 178 Q396 174 402 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="396" y1="183" x2="390" y2="216" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="396" y1="183" x2="404" y2="216" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="388" cy="222" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="448" cy="150" r="14" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M436 150 A14 14 0 0 1 460 150 Z" fill="#2b3a42"/>
+    <circle cx="442" cy="150" r="2" fill="#2b3a42"/>
+    <circle cx="454" cy="150" r="2" fill="#2b3a42"/>
+    <path d="M442 158 Q448 162 454 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="448" y1="164" x2="444" y2="190" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="448" y1="164" x2="452" y2="190" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="434" y1="178" x2="410" y2="196" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <rect x="360" y="236" width="120" height="40" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="261" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Here, let me help</text>
+  </g>
+
+  <!-- Bottom strip -->
+  <rect x="60" y="316" width="392" height="52" rx="12" fill="#2b3a42"/>
+  <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#fdfbf7">notice · ask · stay · include</text>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Caring is small and doable. You can do all four.</text>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two Feelings, Same Moment: the same rain, two feelings</title>
+  <desc id="desc">One scene shows rain falling over a playground and a garden. On the left, a child stands under an umbrella with a frown and says in a speech bubble, "I'm sad." On the right, another child jumps in a puddle with a smile and says, "I'm glad." A label across the middle reads "same rain, two feelings, both true." The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Two Feelings, Same Moment</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Different is not wrong</text>
+
+  <!-- Sky band -->
+  <rect x="0" y="88" width="512" height="150" fill="#dce6ec" stroke="#2b3a42" stroke-width="2"/>
+  <!-- Cloud -->
+  <path d="M120 108 Q140 92 168 96 Q188 82 212 92 Q234 84 248 102 Q260 112 248 122 L120 122 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Rain drops -->
+  <g stroke="#6b93b6" stroke-width="3" stroke-linecap="round">
+    <line x1="120" y1="140" x2="116" y2="158"/>
+    <line x1="160" y1="136" x2="156" y2="154"/>
+    <line x1="200" y1="142" x2="196" y2="160"/>
+    <line x1="250" y1="138" x2="246" y2="156"/>
+    <line x1="300" y1="144" x2="296" y2="162"/>
+    <line x1="340" y1="138" x2="336" y2="156"/>
+    <line x1="380" y1="142" x2="376" y2="160"/>
+    <line x1="420" y1="136" x2="416" y2="154"/>
+    <line x1="460" y1="140" x2="456" y2="158"/>
+  </g>
+
+  <!-- Ground -->
+  <rect x="0" y="238" width="512" height="160" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Puddle -->
+  <ellipse cx="380" cy="300" rx="60" ry="18" fill="#9fc3d4" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Left child: sad under umbrella -->
+  <g>
+    <path d="M150 170 A110 110 0 0 1 210 200 L198 200 L198 300 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="180" y1="300" x2="180" y2="322" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="172" cy="232" r="18" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M158 230 A16 16 0 0 1 186 230" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="166" cy="232" r="2" fill="#2b3a42"/>
+    <circle cx="180" cy="232" r="2" fill="#2b3a42"/>
+    <path d="M164 242 Q172 238 180 242" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="172" y1="250" x2="168" y2="282" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="172" y1="250" x2="176" y2="282" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Left speech bubble -->
+  <rect x="48" y="320" width="150" height="44" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 364 L170 364 L160 378 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="123" y="349" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">I'm sad</text>
+
+  <!-- Right child: glad, jumping in puddle -->
+  <g>
+    <circle cx="380" cy="230" r="18" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M366 232 A18 18 0 0 1 394 232 Z" fill="#2b3a42"/>
+    <circle cx="372" cy="230" r="2" fill="#2b3a42"/>
+    <circle cx="388" cy="230" r="2" fill="#2b3a42"/>
+    <path d="M372 240 Q380 248 388 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="380" y1="248" x2="372" y2="286" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="380" y1="248" x2="392" y2="286" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="360" y1="262" x2="340" y2="252" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="400" y1="262" x2="420" y2="252" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Right speech bubble -->
+  <rect x="314" y="320" width="150" height="44" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M362 364 L382 364 L372 378 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="389" y="349" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">I'm glad</text>
+
+  <!-- Central band -->
+  <rect x="96" y="418" width="320" height="44" rx="12" fill="#2b3a42"/>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#fdfbf7">same rain · two feelings · both true</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ask "how do you feel?" before you guess.</text>
+</svg>

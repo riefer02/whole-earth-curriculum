@@ -58,3 +58,13 @@ mutual aid, not rules to obey.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Words That Encourage | D02.S1.02.01 |
+| 2 | Solving It with Words | D02.S1.02.02 |
+| 3 | Two Feelings, Same Moment | D02.S2.02.01 |
+| 4 | Caring When Someone Hurts | D02.S2.02.02 |
+| 5 | A Welcoming Group | D02.S3.02.01 |
+| 6 | Our Traditions | D02.S3.02.02 |
+| 7 | Together We Can | D02.S4.02.01 |
+| 8 | Helping Helps Everyone | D02.S4.02.02 |
+| 9 | Teamwork Rehearsal | D02.S1.02.01, D02.S4.02.01 |
+| 10 | Caring and Working Together | D02.S1.02.01, D02.S1.02.02, D02.S2.02.01, D02.S2.02.02, D02.S3.02.01, D02.S3.02.02, D02.S4.02.01, D02.S4.02.02 |

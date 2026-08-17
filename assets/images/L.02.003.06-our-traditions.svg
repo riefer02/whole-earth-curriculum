@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our Traditions: share, remember, belong</title>
+  <desc id="desc">One celebration scene gathers many traditions side by side: a table of food with people eating together, two children dancing, a candle being lit on a stand, drums with musical notes and a song, and a harvest of fruits and vegetables in a basket. Three labels across the top explain what traditions give a group: "we share", "we remember", "we belong." The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Our Traditions</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Special times we share again and again</text>
+
+  <!-- Three gifts -->
+  <g font-family="sans-serif">
+    <rect x="36" y="88" width="120" height="34" rx="9" fill="#2b3a42"/>
+    <text x="96" y="111" text-anchor="middle" font-size="16" font-weight="bold" fill="#fdfbf7">we share</text>
+    <rect x="196" y="88" width="130" height="34" rx="9" fill="#2b3a42"/>
+    <text x="261" y="111" text-anchor="middle" font-size="16" font-weight="bold" fill="#fdfbf7">we remember</text>
+    <rect x="366" y="88" width="120" height="34" rx="9" fill="#2b3a42"/>
+    <text x="426" y="111" text-anchor="middle" font-size="16" font-weight="bold" fill="#fdfbf7">we belong</text>
+  </g>
+
+  <!-- Table of food -->
+  <rect x="36" y="140" width="180" height="120" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="126" cy="180" rx="48" ry="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="96" cy="170" rx="14" ry="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="156" cy="170" rx="16" ry="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="126" cy="216" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- two people at table -->
+  <circle cx="80" cy="136" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="172" cy="136" r="14" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="80" y1="150" x2="76" y2="162" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="172" y1="150" x2="176" y2="162" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Candle -->
+  <line x1="286" y1="170" x2="286" y2="236" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="286" cy="242" rx="24" ry="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M282 168 Q286 150 290 168" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="286" y1="158" x2="286" y2="148" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Dancing children -->
+  <g>
+    <circle cx="352" cy="160" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M340 160 A13 13 0 0 1 364 160 Z" fill="#2b3a42"/>
+    <line x1="352" y1="173" x2="348" y2="200" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="352" y1="173" x2="356" y2="200" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="339" y1="182" x2="326" y2="176" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="365" y1="182" x2="378" y2="176" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="402" cy="160" r="13" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M390 160 A13 13 0 0 1 414 160 Z" fill="#2b3a42"/>
+    <line x1="402" y1="173" x2="398" y2="200" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="402" y1="173" x2="406" y2="200" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="389" y1="182" x2="376" y2="176" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="415" y1="182" x2="428" y2="176" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Drums and music -->
+  <g>
+    <ellipse cx="96" cy="320" rx="34" ry="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="62" y="320" width="68" height="46" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 350 Q140 340 160 350 Q180 360 200 346" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="330" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#fdfbf7">♪</text>
+    <text x="180" y="322" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">♫</text>
+    <circle cx="52" cy="344" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M52 330 L56 320 L48 326 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="66" y1="344" x2="60" y2="372" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="52" y1="358" x2="44" y2="386" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Harvest basket -->
+  <g>
+    <path d="M300 300 L430 300 L414 380 L316 380 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M300 300 Q365 290 430 300" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="330" cy="286" r="13" fill="#e05a3b" stroke="#2b3a42" stroke-width="2" opacity="0.9"/>
+    <circle cx="368" cy="282" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="402" cy="288" r="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="356" cy="316" rx="12" ry="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="392" cy="330" rx="13" ry="8" fill="#e05a3b" stroke="#2b3a42" stroke-width="2" opacity="0.9"/>
+    <ellipse cx="330" cy="346" rx="14" ry="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M330 286 Q330 274 342 282" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Different as they look, traditions give every group the same gifts.</text>
+</svg>

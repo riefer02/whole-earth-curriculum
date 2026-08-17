@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Helping Helps Everyone: the helping web</title>
+  <desc id="desc">Five children stand around a circle, each holding one point of a yarn web that connects them all, with arrows flowing both ways to show that help is given and received. In the center, a small plant grows and is watered by many hands reaching in. A label below reads "when I help, it comes back to everyone — including me." The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Helping Helps Everyone</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The helping web</text>
+
+  <!-- Web circle -->
+  <circle cx="256" cy="230" r="140" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+  <!-- Web lines between children -->
+  <g stroke="#4f6d7a" stroke-width="2">
+    <line x1="256" y1="90" x2="140" y2="330"/>
+    <line x1="256" y1="90" x2="372" y2="330"/>
+    <line x1="256" y1="90" x2="392" y2="200"/>
+    <line x1="256" y1="90" x2="120" y2="200"/>
+    <line x1="120" y1="200" x2="392" y2="200"/>
+    <line x1="120" y1="200" x2="372" y2="330"/>
+    <line x1="392" y1="200" x2="140" y2="330"/>
+    <line x1="140" y1="330" x2="372" y2="330"/>
+  </g>
+
+  <!-- Center plant being watered -->
+  <g>
+    <line x1="256" y1="262" x2="256" y2="218" stroke="#2b3a42" stroke-width="4"/>
+    <path d="M256 238 Q244 224 240 210" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M256 246 Q268 232 272 218" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M256 222 Q256 208 250 196" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="240" cy="206" rx="10" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-30 240 206)"/>
+    <ellipse cx="272" cy="214" rx="10" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(30 272 214)"/>
+    <ellipse cx="250" cy="192" rx="9" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 196 L256 182" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="256" cy="179" r="3" fill="#6b93b6"/>
+  </g>
+
+  <!-- Five children around the circle -->
+  <g>
+    <circle cx="256" cy="90" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M240 90 A16 16 0 0 1 272 90 Z" fill="#2b3a42"/>
+    <circle cx="249" cy="90" r="2" fill="#2b3a42"/>
+    <circle cx="263" cy="90" r="2" fill="#2b3a42"/>
+    <path d="M249 99 Q256 103 263 99" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="256" y1="106" x2="252" y2="130" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="256" y1="106" x2="260" y2="130" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="392" cy="200" r="16" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M376 200 A16 16 0 0 1 408 200 Z" fill="#2b3a42"/>
+    <circle cx="385" cy="200" r="2" fill="#2b3a42"/>
+    <circle cx="399" cy="200" r="2" fill="#2b3a42"/>
+    <path d="M385 209 Q392 213 399 209" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="392" y1="216" x2="388" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="392" y1="216" x2="396" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="372" cy="330" r="16" fill="#6b5b3e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M356 330 A16 16 0 0 1 388 330 Z" fill="#2b3a42"/>
+    <circle cx="365" cy="330" r="2" fill="#2b3a42"/>
+    <circle cx="379" cy="330" r="2" fill="#2b3a42"/>
+    <path d="M365 339 Q372 343 379 339" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="372" y1="346" x2="368" y2="370" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="372" y1="346" x2="376" y2="370" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="140" cy="330" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M124 330 A16 16 0 0 1 156 330 Z" fill="#2b3a42"/>
+    <circle cx="133" cy="330" r="2" fill="#2b3a42"/>
+    <circle cx="147" cy="330" r="2" fill="#2b3a42"/>
+    <path d="M133 339 Q140 343 147 339" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="140" y1="346" x2="136" y2="370" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="140" y1="346" x2="144" y2="370" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="120" cy="200" r="16" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M104 200 A16 16 0 0 1 136 200 Z" fill="#2b3a42"/>
+    <circle cx="113" cy="200" r="2" fill="#2b3a42"/>
+    <circle cx="127" cy="200" r="2" fill="#2b3a42"/>
+    <path d="M113 209 Q120 213 127 209" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="120" y1="216" x2="116" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="120" y1="216" x2="124" y2="240" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Arrows both ways (give and receive) -->
+  <g stroke="#e0a458" stroke-width="3" fill="#e0a458">
+    <path d="M256 240 Q300 200 320 210" fill="none" stroke="#e0a458" stroke-width="3"/>
+    <path d="M320 210 L308 214 L314 224 Z"/>
+    <path d="M256 250 Q200 260 190 240" fill="none" stroke="#e0a458" stroke-width="3"/>
+    <path d="M190 240 L202 244 L196 254 Z"/>
+  </g>
+
+  <!-- Bottom band -->
+  <rect x="44" y="404" width="424" height="48" rx="12" fill="#2b3a42"/>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#fdfbf7">when I help, it comes back to everyone — including me</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">In a helping web, everyone is held — and everyone is helped.</text>
+</svg>

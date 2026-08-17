@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A Welcoming Group: everyone belongs</title>
+  <desc id="desc">A circle of five diverse children — different skin tones and hair, one in a wheelchair, one wearing a hearing aid — opens to let a new child in, with arms open and smiles. Around the circle, four labels name what welcome looks like: "say hi", "learn my name", "make room", "invite me in." The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">A Welcoming Group</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A group where everyone belongs</text>
+
+  <!-- Big welcoming circle -->
+  <circle cx="256" cy="240" r="150" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-dasharray="2 10"/>
+
+  <!-- Child figures around the circle -->
+  <!-- top-left -->
+  <g>
+    <circle cx="150" cy="140" r="17" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M134 140 A17 17 0 0 1 166 140 Z" fill="#2b3a42"/>
+    <circle cx="143" cy="140" r="2" fill="#2b3a42"/>
+    <circle cx="157" cy="140" r="2" fill="#2b3a42"/>
+    <path d="M143 150 Q150 154 157 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="150" y1="157" x2="146" y2="188" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="150" y1="157" x2="154" y2="188" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="133" y1="168" x2="110" y2="158" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="167" y1="168" x2="188" y2="158" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- top-right with hearing aid -->
+  <g>
+    <circle cx="362" cy="140" r="17" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M346 140 A17 17 0 0 1 378 140 Z" fill="#2b3a42"/>
+    <circle cx="355" cy="140" r="2" fill="#2b3a42"/>
+    <circle cx="369" cy="140" r="2" fill="#2b3a42"/>
+    <path d="M355 150 Q362 154 369 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="378" cy="140" r="5" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M378 140 Q392 134 396 148" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="362" y1="157" x2="358" y2="188" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="362" y1="157" x2="366" y2="188" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="345" y1="168" x2="324" y2="158" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="379" y1="168" x2="400" y2="158" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- right in wheelchair -->
+  <g>
+    <circle cx="392" cy="280" r="15" fill="#6b5b3e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M378 280 A15 15 0 0 1 406 280 Z" fill="#2b3a42"/>
+    <circle cx="386" cy="280" r="2" fill="#2b3a42"/>
+    <circle cx="398" cy="280" r="2" fill="#2b3a42"/>
+    <path d="M386 288 Q392 292 398 288" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="378" y="295" width="28" height="26" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="382" cy="326" r="7" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="402" cy="326" r="7" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="378" y1="308" x2="360" y2="300" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- bottom -->
+  <g>
+    <circle cx="250" cy="330" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M235 330 A16 16 0 0 1 265 330 Z" fill="#2b3a42"/>
+    <circle cx="244" cy="330" r="2" fill="#2b3a42"/>
+    <circle cx="258" cy="330" r="2" fill="#2b3a42"/>
+    <path d="M244 340 Q250 344 256 340" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="250" y1="346" x2="246" y2="372" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="250" y1="346" x2="254" y2="372" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="234" y1="356" x2="216" y2="348" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="266" y1="356" x2="284" y2="348" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- new child entering center -->
+  <g>
+    <circle cx="256" cy="200" r="16" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M241 200 A16 16 0 0 1 271 200 Z" fill="#2b3a42"/>
+    <circle cx="250" cy="200" r="2" fill="#2b3a42"/>
+    <circle cx="264" cy="200" r="2" fill="#2b3a42"/>
+    <path d="M250 210 Q256 214 262 210" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="256" y1="216" x2="252" y2="242" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="256" y1="216" x2="260" y2="242" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="240" y1="226" x2="222" y2="218" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="272" y1="226" x2="290" y2="218" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Welcome labels -->
+  <g font-family="sans-serif">
+    <rect x="20" y="88" width="118" height="34" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="79" y="110" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">say hi</text>
+    <rect x="374" y="88" width="128" height="34" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="438" y="110" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">learn my name</text>
+    <rect x="20" y="360" width="118" height="34" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="79" y="382" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">make room</text>
+    <rect x="374" y="360" width="128" height="34" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="438" y="382" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">invite me in</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every group, everywhere, welcomes newcomers in its own way.</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Words That Encourage: cheer someone on</title>
+  <desc id="desc">Two children side by side. On the left, a child with a worried face climbs a small green hill. On the right, a cheering friend holds a fist in the air and sends two speech bubbles: "You can do it!" and "Nice try!" A small heart floats between them. Two smaller bubbles at the bottom hold the same cheer in other languages, "¡Sí puedes!" and "Unaweza!", each labeled with its language, teaching that every language has its own way to cheer someone on. The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Words That Encourage</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Your words can help a friend keep going</text>
+
+  <!-- Hill -->
+  <path d="M60 400 Q256 300 452 400 L452 470 L60 470 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Child climbing (left), worried -->
+  <g>
+    <circle cx="150" cy="250" r="24" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M128 246 A22 22 0 0 1 172 246" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="141" cy="250" r="2.2" fill="#2b3a42"/>
+    <circle cx="159" cy="250" r="2.2" fill="#2b3a42"/>
+    <path d="M142 262 Q150 258 158 262" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M126 276 L120 340" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <path d="M174 276 L180 340" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <rect x="122" y="276" width="56" height="44" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M126 300 L112 292" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <path d="M174 300 L188 292" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- Cheering child (right), fist raised -->
+  <g>
+    <circle cx="360" cy="230" r="24" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 230 A24 24 0 0 1 382 230 Z" fill="#2b3a42"/>
+    <circle cx="350" cy="230" r="2.2" fill="#2b3a42"/>
+    <circle cx="370" cy="230" r="2.2" fill="#2b3a42"/>
+    <path d="M350 242 Q360 250 370 242" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M336 256 L332 316" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <path d="M384 256 L388 316" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <rect x="332" y="256" width="56" height="44" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="336" y1="280" x2="322" y2="272" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="384" y1="280" x2="398" y2="262" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="398" cy="258" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Heart between them -->
+  <path d="M250 200 Q244 192 238 200 Q232 208 250 218 Q268 208 262 200 Q256 192 250 200 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Speech bubble: You can do it! -->
+  <rect x="268" y="96" width="200" height="46" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M300 142 L322 142 L308 158 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="368" y="127" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">You can do it!</text>
+
+  <!-- Speech bubble: Nice try! -->
+  <rect x="44" y="96" width="170" height="46" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M108 142 L128 142 L118 158 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="129" y="127" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">Nice try!</text>
+
+  <!-- Language bubbles at bottom -->
+  <rect x="60" y="342" width="180" height="44" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="361" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">¡Sí puedes!</text>
+  <text x="150" y="380" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Español</text>
+
+  <rect x="272" y="342" width="180" height="44" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="362" y="361" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Unaweza!</text>
+  <text x="362" y="380" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Kiswahili</text>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every language has its own cheer — and yours does too.</text>
+</svg>
