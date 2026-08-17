@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Feelings that look alike</title>
+  <desc id="desc">Four feeling faces in a two-by-two grid. The top pair shows two feelings that look alike — mad (hot, tight, wants to push) and frustrated (stuck and blocked, trying again). The bottom pair shows sad (a loss, slow and heavy) and disappointed (a hope that did not come true, let down). Each face has a different brow and mouth shape, and each is labeled with a word plus a body-sense hint, so the difference reads in grayscale, not by color. Skin tones and hair vary across the four faces; one wears glasses. A small "same?" and "different" label sits between each pair, teaching that telling two alike feelings apart takes a closer look.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Feelings That Look Alike</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">two cousin feelings — take a closer look</text>
+
+  <!-- ===== Top pair: mad vs frustrated ===== -->
+  <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">mad and frustrated</text>
+
+  <!-- mad -->
+  <g>
+    <rect x="16" y="110" width="220" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="98" cy="182" r="34" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M64 182 A34 34 0 0 1 132 182 L132 168 A34 34 0 0 0 64 168 Z" fill="#4f6d7a"/>
+    <line x1="78" y1="172" x2="100" y2="166" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="118" y1="166" x2="140" y2="172" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="84" cy="182" r="2.6" fill="#2b3a42"/>
+    <circle cx="112" cy="182" r="2.6" fill="#2b3a42"/>
+    <path d="M84 198 Q98 190 112 198" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="126" y="246" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">mad</text>
+    <text x="126" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">hot and tight, wants to push</text>
+  </g>
+
+  <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458">same look? → different feeling</text>
+
+  <!-- frustrated -->
+  <g>
+    <rect x="276" y="110" width="220" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="358" cy="182" r="34" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M324 182 A34 34 0 0 1 392 182 L392 168 A34 34 0 0 0 324 168 Z" fill="#c99567"/>
+    <path d="M340 172 Q346 178 352 172" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M364 172 Q370 178 376 172" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="344" cy="183" r="2.6" fill="#2b3a42"/>
+    <circle cx="372" cy="183" r="2.6" fill="#2b3a42"/>
+    <line x1="344" y1="199" x2="372" y2="199" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M350 176 L346 170" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M366 176 L370 170" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="386" y="246" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">frustrated</text>
+    <text x="386" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">stuck and blocked, trying again</text>
+  </g>
+
+  <!-- ===== Bottom pair: sad vs disappointed ===== -->
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">sad and disappointed</text>
+
+  <!-- sad -->
+  <g>
+    <rect x="16" y="318" width="220" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="98" cy="390" r="34" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M64 390 A34 34 0 0 1 132 390 L132 376 A34 34 0 0 0 64 376 Z" fill="#2b3a42"/>
+    <circle cx="84" cy="388" r="2.6" fill="#2b3a42"/>
+    <circle cx="112" cy="388" r="2.6" fill="#2b3a42"/>
+    <path d="M84 383 Q88 386 92 384" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M104 384 Q108 386 112 383" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M84 408 Q98 400 112 408" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M112 386 L116 392 L114 396" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="126" y="454" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">sad</text>
+    <text x="126" y="476" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a loss, slow and heavy</text>
+  </g>
+
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458">same look? → different feeling</text>
+
+  <!-- disappointed -->
+  <g>
+    <rect x="276" y="318" width="220" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <circle cx="358" cy="390" r="34" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M324 390 A34 34 0 0 1 392 390 L392 376 A34 34 0 0 0 324 376 Z" fill="#ab7a4e"/>
+    <circle cx="344" cy="388" r="2.6" fill="#2b3a42"/>
+    <circle cx="372" cy="388" r="2.6" fill="#2b3a42"/>
+    <path d="M344 384 Q348 386 352 385" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M364 385 Q368 386 372 384" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M344 408 Q358 402 372 408" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="386" y="454" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">disappointed</text>
+    <text x="386" y="476" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a hope that did not come true</text>
+  </g>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Look closer: the body gives the clue that tells two alike feelings apart.</text>
+</svg>

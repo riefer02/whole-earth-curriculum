@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our care, our celebration</title>
+  <desc id="desc">A year-end celebration of care and belonging. In the middle, a child holds up a portfolio page with a star and a plant, while friends stand nearby clapping. On the left, two helping hands pass a cup of water to a smaller hand, labeled "a remembered act of care." On the right, a large arrow points forward to the words "Grade 3," with a small sprout growing beside it. Children vary in skin tone, hair, and dress, and one uses a wheelchair. The closing line teaches that helping others helps everyone, including me. Labels carry the meaning, so the picture prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Our Care, Our Celebration</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">looking back with care, looking ahead with hope</text>
+
+  <!-- remembered act of care: passing a cup -->
+  <g>
+    <text x="110" y="110" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">a remembered act of care</text>
+    <line x1="70" y1="140" x2="92" y2="180" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+    <line x1="150" y1="140" x2="128" y2="180" stroke="#ab7a4e" stroke-width="6" stroke-linecap="round"/>
+    <path d="M94 184 L150 184 L146 206 L98 206 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <line x1="96" y1="176" x2="118" y2="196" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="110" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">helping someone else</text>
+    <text x="110" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">helps everyone —</text>
+    <text x="110" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">even me</text>
+  </g>
+
+  <!-- child holding portfolio page -->
+  <g>
+    <circle cx="256" cy="210" r="26" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M230 210 A26 26 0 0 1 282 210 L282 200 A26 26 0 0 0 230 200 Z" fill="#2b3a42"/>
+    <circle cx="248" cy="204" r="2.2" fill="#2b3a42"/>
+    <circle cx="264" cy="204" r="2.2" fill="#2b3a42"/>
+    <path d="M244 220 Q256 228 268 220" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="238" y="236" width="36" height="54" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- portfolio page -->
+    <rect x="216" y="150" width="80" height="66" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <polygon points="240,170 245,183 259,184 248,192 251,205 240,197 229,205 232,192 221,184 235,183" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="222" y1="168" x2="226" y2="172" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="222" y1="172" x2="228" y2="168" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="288" y1="236" x2="270" y2="182" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+    <line x1="224" y1="236" x2="206" y2="182" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- friends clapping -->
+  <g>
+    <circle cx="360" cy="250" r="20" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M340 250 A20 20 0 0 1 380 250 L380 243 A20 20 0 0 0 340 243 Z" fill="#c99567"/>
+    <rect x="344" y="270" width="30" height="40" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="348" y1="238" x2="352" y2="258" stroke="#ab7a4e" stroke-width="6" stroke-linecap="round"/>
+    <line x1="372" y1="238" x2="368" y2="258" stroke="#ab7a4e" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="150" cy="340" r="20" fill="#6f4a2e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M130 340 A20 20 0 0 1 170 340 L170 333 A20 20 0 0 0 130 333 Z" fill="#8f5f3d"/>
+    <rect x="134" y="360" width="30" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="138" y1="328" x2="142" y2="348" stroke="#6f4a2e" stroke-width="6" stroke-linecap="round"/>
+    <line x1="162" y1="328" x2="158" y2="348" stroke="#6f4a2e" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- forward arrow to Grade 3 -->
+  <g>
+    <text x="400" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">on to</text>
+    <line x1="360" y1="180" x2="452" y2="180" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M444 172 L456 180 L444 188" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="408" y="220" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Grade 3</text>
+    <line x1="408" y1="240" x2="408" y2="270" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M408 258 Q401 254 397 257 Q401 251 408 256 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M408 252 Q415 248 419 251 Q415 245 408 250 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  </g>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">We grew together, and we did it by caring for each other.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Every page shown. Every child belongs. A celebration, never a contest.</text>
+</svg>

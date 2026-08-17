@@ -60,3 +60,10 @@ into Grade 3.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Feelings That Look Alike | D01.S1.02.01 |
+| 2 | My Strengths, My Growing | D01.S2.02.01 |
+| 3 | Alike and Different — and Why Both Matter | D01.S2.02.02 |
+| 4 | My Two Calm Tools | D01.S3.02.01 |
+| 5 | A Circle Where Everyone Belongs | D02.S3.02.01 |
+| 6 | Many Hands, One Big Job | D02.S4.02.01 |
+| 7 | Our Care, Our Celebration | D01.S2.02.01, D02.S3.02.01, D02.S4.02.02 |

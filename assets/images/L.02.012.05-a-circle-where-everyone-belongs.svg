@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A circle where everyone belongs</title>
+  <desc id="desc">A circle of children holding hands around an open middle. The circle has a gap, and a child standing outside is being invited in — one child in the circle reaches a hand toward them with the word "welcome." Around the circle, three small labels name what makes a group welcoming: "a smile," "a space," and "your name." The children vary in skin tone, hair, and dress; one uses a wheelchair, and one has a hearing aid. The closing line teaches that a welcoming group is one where everyone is included and everyone belongs. Labels carry the meaning, so the picture prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">A Circle Where Everyone Belongs</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a smile · a space · your name</text>
+
+  <!-- circle of children -->
+  <!-- child 1 (top-left) -->
+  <g>
+    <circle cx="150" cy="180" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M128 180 A22 22 0 0 1 172 180 L172 172 A22 22 0 0 0 128 172 Z" fill="#2b3a42"/>
+    <circle cx="144" cy="176" r="2" fill="#2b3a42"/>
+    <circle cx="156" cy="176" r="2" fill="#2b3a42"/>
+    <path d="M142 188 Q150 194 158 188" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="134" y="202" width="32" height="46" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- child 2 (top-right, glasses) -->
+  <g>
+    <circle cx="362" cy="180" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M340 180 A22 22 0 0 1 384 180 L384 172 A22 22 0 0 0 340 172 Z" fill="#4f6d7a"/>
+    <circle cx="356" cy="175" r="5" fill="none" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="368" cy="175" r="5" fill="none" stroke="#2b3a42" stroke-width="1.8"/>
+    <line x1="361" y1="175" x2="363" y2="175" stroke="#2b3a42" stroke-width="1.8"/>
+    <path d="M354 190 Q362 196 370 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="346" y="202" width="32" height="46" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- child 3 (bottom-left, wheelchair) -->
+  <g>
+    <circle cx="150" cy="300" r="22" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M128 300 A22 22 0 0 1 172 300 L172 292 A22 22 0 0 0 128 292 Z" fill="#2b3a42"/>
+    <circle cx="144" cy="296" r="2" fill="#2b3a42"/>
+    <circle cx="156" cy="296" r="2" fill="#2b3a42"/>
+    <path d="M142 308 Q150 314 158 308" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="134" y="322" width="32" height="36" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="126" y="358" width="48" height="8" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="136" cy="384" r="14" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="136" cy="384" r="3" fill="#2b3a42"/>
+    <circle cx="166" cy="386" r="6" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- child 4 (bottom-right, hearing aid) -->
+  <g>
+    <circle cx="362" cy="300" r="22" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M340 300 A22 22 0 0 1 384 300 L384 292 A22 22 0 0 0 340 292 Z" fill="#c99567"/>
+    <circle cx="356" cy="296" r="2" fill="#2b3a42"/>
+    <circle cx="368" cy="296" r="2" fill="#2b3a42"/>
+    <path d="M354 308 Q362 314 370 308" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M370 292 L384 300 L378 306" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.6"/>
+    <rect x="346" y="322" width="32" height="46" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- gap + invited child (bottom) -->
+  <g>
+    <circle cx="256" cy="396" r="22" fill="#6f4a2e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M234 396 A22 22 0 0 1 278 396 L278 388 A22 22 0 0 0 234 388 Z" fill="#8f5f3d"/>
+    <circle cx="250" cy="392" r="2" fill="#2b3a42"/>
+    <circle cx="262" cy="392" r="2" fill="#2b3a42"/>
+    <path d="M248 404 Q256 410 264 404" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="240" y="418" width="32" height="40" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- reaching hands toward invited child -->
+  <line x1="168" y1="340" x2="230" y2="392" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+  <line x1="344" y1="340" x2="282" y2="392" stroke="#8f5f3d" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- labels -->
+  <rect x="88" y="452" width="74" height="26" rx="13" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="125" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">welcome</text>
+  <rect x="186" y="452" width="74" height="26" rx="13" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="223" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">include</text>
+  <rect x="284" y="452" width="74" height="26" rx="13" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="321" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">belong</text>
+
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A welcoming group is one where everyone is included — and everyone belongs.</text>
+</svg>

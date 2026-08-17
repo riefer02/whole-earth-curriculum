@@ -2473,7 +2473,7 @@ items:
     type: lesson
     grade: 2
     domain: D01
-    status: ready
+    status: done
     priority: 61
     depends_on:
       - B-064
@@ -2485,6 +2485,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (562 files). IDs L.02.012.01-.07 sequential, sequence_in_unit 1-7, unit U.02.012, grade 2; all 7 carry Procedure/Assessment/Connection/Objectives. Objectives resolve to real Grade-2 D01/D02 standards (L3 D01.S2.02.02 matches domain-01; L6 D02.S4.02.01 matches domain-02) — no invented IDs. unit.md Lessons table lists all 7; 7 SVGs exist. Connections concrete+faithful (L1 mad/frustrated 'tower falls down', sad/disappointed 'friend cannot come'). CASEL cited. Non-blocking: L7 declares strand D01.S2 + domain D01 but objective is D02.S4.02.02 (consistent with table, doesn't break validation)."
+      fact-checker:
+        verdict: passed
+        note: Only citation CASEL Fundamentals of SEL (re-fetched live, real, on-topic, five competencies map to per-lesson labels self-awareness L2/self-management L4/social-awareness+relationship L3/L5-L7); S-001 reviewed:true. Objectives resolve to real D01/D02 standards verbatim. Content values/skills framed as commitments ('a feeling is never wrong', 'difference is never a ranking', 'no winners') not empirical claims. No fabricated citations. validate passes (562 files).
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default: Connections span regions/ways of life (rice/wheat farmers, city/mountain children; pray/sing/walk calm traditions side-by-side; harvest/season/graduation celebrations not Western party default; grain-basket/boat/house/harvest cooperative work; home-language feeling words). Belonging-circle welcomes universal (bowl of food, held door, name said right). Fix: L7 'share celebration with your family' defaulted to single family shape — broadened to honor all care circles (parents/one parent/grandparents/kin/guardians/foster/group care/trusted adult) in Home connection + Facilitator note. validate passes (562 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech all 7; alt text all 7 assets (SVGs role=img/aria-labelledby/title/desc, grayscale-safe). Circle/movement: L5 keeps circle wide for wheelchair/walker + 'pat the space beside you' non-standing welcome; non-speaking (point/sign/draw/partner-voices) + non-visual (body-sense descriptions, tactile pages) in every Differentiation; L6 non-lifting roles (direct/count/clear/cheer) as real parts. validate passes (562 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses now visible across all 7: ethics added where reasoning present but untagged (L1 careful guess is kind; L2 no strength outranks; L3 difference never a ranking; L5 no one left outside; L6 every part matters; L7 care helps everyone), global added (L2 every person on Earth; L4 everyone every place; L6 all over world). Egalitarianism carried; tech/env not salient in P1 self/community unit (consistent with K/G1). Traceability: D01.S1/S2/S3 → D01 and D02.S3/S4 → D02 → P1 → vision; L7 declared strands now backed by objectives (D01.S2.02.01, D02.S3.02.01, D02.S4.02.02) matching G1 capstone. No hierarchy/supremacy; celebration-not-competition + every family shape explicit. validate passes (562 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: reflection anchored in tangible objects/bodies (feeling cards, two-sided Strengths/Growing page, Two True Things detective work, calm card, held circle, real lift task, portfolio gallery); 'why both matter'/'why helping helps everyone' held open and felt not tested — at 7-8 ceiling. Emotional safety: 'a feeling is never wrong'; 'no one's strength outranks another' + 'naming growing edge is itself strength'; 'difference is never a ranking' + true-kind facts guide; 'no tool better'; tender not-welcome→agency; 'not because you are not strong'; 'no winners, pass is a full share', every family shape honored. No frightening content; no child singled out. Physical fit: big+fine motor with adaptations (wheelchair-wide circle, non-lifting roles, breath/count/shake). Not dumbed down (growth-mindset 'not yet', 'difference is richness'). Non-blocking: L1 step 4 could add 'or pass'; L5 'step outside' role could rotate. validate passes (562 files)."
   - id: B-300
     title: Author lessons for Unit U.03.001 (Mixed Feelings, My Story & My Goals)
     agent: lesson-author

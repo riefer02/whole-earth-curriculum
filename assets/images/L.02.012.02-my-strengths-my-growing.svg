@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My strengths, my growing</title>
+  <desc id="desc">A two-sided page about one whole person. The left half, "I am good at," holds a shining star and three empty lines, ready for a child to write or draw a strength. The right half, "I am still learning," holds a small green sprout in soil and three empty lines, with a small badge that reads "not yet." A dotted line runs down the middle, and the word "yet" floats beside the sprout. The closing line teaches that a thing I cannot do yet is not a failure — it is where I grow next. The page is labeled, not color-coded, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">My Strengths, My Growing</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">one whole person, both sides</text>
+
+  <!-- divider -->
+  <line x1="256" y1="88" x2="256" y2="452" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- left: strengths -->
+  <g>
+    <rect x="16" y="88" width="228" height="364" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="130" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">I am good at</text>
+    <polygon points="130,150 140,176 168,178 146,196 154,224 130,209 106,224 114,196 92,178 120,176" fill="#e0a458" stroke="#2b3a42" stroke-width="1.8" stroke-linejoin="round"/>
+    <line x1="52" y1="252" x2="208" y2="252" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="52" y1="290" x2="208" y2="290" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="52" y1="328" x2="208" y2="328" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="130" y="376" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a thing I can do well,</text>
+    <text x="130" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">and a kind thing I do</text>
+  </g>
+
+  <!-- right: still learning -->
+  <g>
+    <rect x="268" y="88" width="228" height="364" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="382" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">I am still learning</text>
+    <rect x="330" y="156" width="52" height="24" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="356" y="173" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">yet</text>
+    <line x1="356" y1="192" x2="356" y2="240" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M356 224 Q348 218 342 222 Q348 214 356 220 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M356 214 Q364 208 370 212 Q364 204 356 210 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M342 244 Q356 232 370 244" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M342 244 Q348 258 356 244 Q364 258 370 244" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="304" y1="276" x2="460" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="304" y1="314" x2="460" y2="314" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="304" y1="352" x2="460" y2="352" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="382" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a thing I cannot do yet —</text>
+    <text x="382" y="418" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">it is where I grow next</text>
+  </g>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"Not yet" is not a failure. It is the place where I am growing.</text>
+</svg>
