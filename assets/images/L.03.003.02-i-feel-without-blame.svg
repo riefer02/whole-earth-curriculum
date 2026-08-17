@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">I feel, without blame</title>
+  <desc id="desc">Two children face each other over one shared ball. One speech bubble, marked with a check, reads "I feel upset when the ball is taken before my turn, and I need a turn next." A second bubble, crossed out with an X, reads "You always grab it!" The four-step frame is printed below: I feel… when… because… I need…. The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">I Feel, Without Blame</text>
+
+  <!-- Shared ball between them -->
+  <circle cx="256" cy="300" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M240 292 Q256 282 272 292" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M240 308 Q256 318 272 308" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Child 1 (left, speaking the I statement) -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#c99567">
+    <circle cx="120" cy="230" r="28"/>
+  </g>
+  <g fill="#2b3a42">
+    <circle cx="112" cy="226" r="2.6"/><circle cx="128" cy="226" r="2.6"/>
+  </g>
+  <path d="M112 240 Q120 248 128 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M120 258 L120 300" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 300 L96 320" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 300 L144 320" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Child 2 (right) -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#8f5f3d">
+    <circle cx="392" cy="230" r="28"/>
+  </g>
+  <g fill="#2b3a42">
+    <circle cx="384" cy="226" r="2.6"/><circle cx="400" cy="226" r="2.6"/>
+  </g>
+  <path d="M384 240 Q392 248 400 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M392 258 L392 300" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M392 300 L368 320" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M392 300 L416 320" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Checked I-statement bubble -->
+  <rect x="130" y="90" width="220" height="66" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="152" y="110" font-family="sans-serif" font-size="14" fill="#7a9e7e">✓</text>
+  <text x="240" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">I feel upset when the ball is</text>
+  <text x="240" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">taken before my turn, and I</text>
+  <text x="240" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">need a turn next.</text>
+
+  <!-- Crossed-out blame bubble -->
+  <rect x="30" y="180" width="160" height="52" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <text x="110" y="202" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">You always grab it!</text>
+  <text x="110" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8f5f3d">✗</text>
+  <g stroke="#8f5f3d" stroke-width="3" stroke-linecap="round">
+    <line x1="44" y1="192" x2="176" y2="222"/>
+  </g>
+
+  <!-- Frame at bottom -->
+  <rect x="60" y="380" width="392" height="74" rx="12" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">I feel ___ when ___ because ___</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">I need ___</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">says what is true for me — never "you."</text>
+</svg>

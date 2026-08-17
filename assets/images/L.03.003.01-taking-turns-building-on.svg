@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Taking turns and building on</title>
+  <desc id="desc">A circle of five children passing a soft ball as a turn marker. Around them, speech bubbles build one on another like the blocks of a tower, reading "I like what Amara said, and I think…" and "That makes me think…". The words "wait, look, then build on" appear beneath. The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Taking Turns, Building On</text>
+
+  <!-- Circle of children -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#f5d6b6">
+    <circle cx="128" cy="230" r="26"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="#c99567">
+    <circle cx="256" cy="190" r="26"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="#8f5f3d">
+    <circle cx="384" cy="230" r="26"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="#6b4f3a">
+    <circle cx="340" cy="330" r="26"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="#f5d6b6">
+    <circle cx="172" cy="330" r="26"/>
+  </g>
+
+  <!-- Simple faces: eyes and smiles -->
+  <g fill="#2b3a42">
+    <circle cx="120" cy="226" r="2.5"/><circle cx="136" cy="226" r="2.5"/>
+    <circle cx="248" cy="186" r="2.5"/><circle cx="264" cy="186" r="2.5"/>
+    <circle cx="376" cy="226" r="2.5"/><circle cx="392" cy="226" r="2.5"/>
+    <circle cx="332" cy="326" r="2.5"/><circle cx="348" cy="326" r="2.5"/>
+    <circle cx="164" cy="326" r="2.5"/><circle cx="180" cy="326" r="2.5"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M120 236 Q128 242 136 236"/>
+    <path d="M248 196 Q256 202 264 196"/>
+    <path d="M376 236 Q384 242 392 236"/>
+    <path d="M332 336 Q340 342 348 336"/>
+    <path d="M164 336 Q172 342 180 336"/>
+  </g>
+
+  <!-- Turn marker ball -->
+  <circle cx="128" cy="300" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="304" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">turn</text>
+
+  <!-- Building blocks of ideas (bubbles) -->
+  <rect x="300" y="70" width="180" height="46" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="390" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">I like what Amara</text>
+  <text x="390" y="105" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">said, and I think…</text>
+
+  <rect x="40" y="70" width="180" height="46" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="130" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">That makes me</text>
+  <text x="130" y="105" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">think…</text>
+
+  <!-- Tower blocks connecting bubbles -->
+  <g stroke="#7a9e7e" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M130 116 L130 150 L216 174"/>
+    <path d="M390 116 L390 150 L296 174"/>
+  </g>
+  <rect x="204" y="150" width="104" height="28" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="169" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">ideas grow</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">wait · look · then build on</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Everyone gets a turn; every idea adds a block.</text>
+</svg>

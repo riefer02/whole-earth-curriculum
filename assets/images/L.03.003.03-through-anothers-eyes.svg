@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Through another's eyes</title>
+  <desc id="desc">The same moment shown twice, side by side. In the left panel a lion looks down at a tiny mouse caught in a trap, thinking "I am strong; this little one cannot help me." In the right panel the mouse, from low on the ground, looks up at the huge lion, thinking "He is so big — but I can help him." The words "same story, two points of view" sit beneath. The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Same Story, Two Points of View</text>
+
+  <!-- Left panel: lion's view -->
+  <rect x="20" y="70" width="226" height="300" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="133" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">The Lion's View</text>
+
+  <!-- Lion -->
+  <circle cx="133" cy="170" r="44" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M90 150 Q70 138 84 128 Q88 138 90 150" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M176 150 Q196 138 182 128 Q178 138 176 150" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="118" cy="160" r="3" fill="#2b3a42"/>
+  <circle cx="148" cy="160" r="3" fill="#2b3a42"/>
+  <path d="M133 168 L133 176" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M120 186 Q133 192 146 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M133 214 L133 250" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M133 250 L103 280" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M133 250 L163 280" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Mouse (tiny, low) in trap -->
+  <ellipse cx="133" cy="336" rx="16" ry="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="122" cy="328" r="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="120" cy="327" r="1.2" fill="#2b3a42"/>
+  <path d="M133 344 L130 356" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="120" y="346" width="26" height="10" fill="none" stroke="#8f5f3d" stroke-width="2"/>
+
+  <rect x="40" y="330" width="60" height="36" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="70" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"I am strong;</text>
+  <text x="70" y="364" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">this little one</text>
+  <text x="70" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">can't help me."</text>
+
+  <!-- Right panel: mouse's view -->
+  <rect x="266" y="70" width="226" height="300" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="379" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">The Mouse's View</text>
+
+  <!-- Huge lion (from mouse's low view, drawn bigger) -->
+  <circle cx="379" cy="120" r="60" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M322 100 Q300 84 316 72 Q322 84 322 100" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M436 100 Q458 84 442 72 Q436 84 436 100" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="360" cy="108" r="4" fill="#2b3a42"/>
+  <circle cx="398" cy="108" r="4" fill="#2b3a42"/>
+  <path d="M379 120 L379 130" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M362 142 Q379 150 396 142" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M379 180 L379 216" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Mouse in foreground, bigger, looking up -->
+  <ellipse cx="379" cy="330" rx="24" ry="15" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="360" cy="318" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="357" cy="316" r="1.8" fill="#2b3a42"/>
+  <path d="M380 344 L376 356" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <rect x="316" y="300" width="100" height="36" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="366" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"He is so big —</text>
+  <text x="366" y="334" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">but I can help him."</text>
+
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Same story, two points of view — and both are true.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A tale told in many lands, about a lion and a mouse.</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Perspective rehearsal</title>
+  <desc id="desc">A circle of children passing a turn marker. Above the circle, two reminder banners float: "take turns and build on" and "see through their eyes." A dotted path connects one child's head to another child's speech bubble, showing a thought being retold from the other's point of view. The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Perspective Rehearsal</text>
+
+  <!-- Two reminder banners -->
+  <rect x="40" y="70" width="200" height="44" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="97" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">take turns &amp; build on</text>
+
+  <rect x="272" y="70" width="200" height="44" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="97" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">see through their eyes</text>
+
+  <!-- Circle of children -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <circle cx="256" cy="230" r="28" fill="#f5d6b6"/>
+    <circle cx="160" cy="290" r="26" fill="#c99567"/>
+    <circle cx="352" cy="290" r="26" fill="#8f5f3d"/>
+    <circle cx="120" cy="220" r="24" fill="#6b4f3a"/>
+    <circle cx="392" cy="220" r="24" fill="#f5d6b6"/>
+  </g>
+  <g fill="#2b3a42">
+    <circle cx="248" cy="226" r="2.6"/><circle cx="264" cy="226" r="2.6"/>
+    <circle cx="152" cy="286" r="2.6"/><circle cx="168" cy="286" r="2.6"/>
+    <circle cx="344" cy="286" r="2.6"/><circle cx="360" cy="286" r="2.6"/>
+    <circle cx="112" cy="216" r="2.4"/><circle cx="128" cy="216" r="2.4"/>
+    <circle cx="384" cy="216" r="2.4"/><circle cx="400" cy="216" r="2.4"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M248 236 Q256 242 264 236"/>
+    <path d="M152 296 Q160 302 168 296"/>
+    <path d="M344 296 Q352 302 360 296"/>
+    <path d="M112 226 Q120 232 128 226"/>
+    <path d="M384 226 Q392 232 400 226"/>
+  </g>
+
+  <!-- Turn marker -->
+  <circle cx="256" cy="330" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="334" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">turn</text>
+
+  <!-- Dotted path: thought retold -->
+  <path d="M256 258 Q340 200 372 240" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <rect x="340" y="150" width="120" height="42" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="400" y="168" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"As you saw it…"</text>
+  <text x="400" y="184" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(their point of view)</text>
+
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Listen · take turns · build on · see through their eyes.</text>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">That, all at once, is caring talk.</text>
+</svg>

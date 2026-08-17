@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My community and one far away</title>
+  <desc id="desc">Two panels side by side. The left panel shows a river village with houses on stilts, a boat, and people fishing and carrying water. The right panel shows a mountain town with stone houses, terraced fields, and people carrying firewood and tending animals. Beneath, a chart lists what is alike — both need food, water, shelter, care, and play — and what is different — river versus mountain, boat versus path, fish versus grain. The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Community and One Far Away</text>
+
+  <!-- Left: river village -->
+  <rect x="20" y="64" width="226" height="240" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="133" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">A River Village</text>
+
+  <!-- Water -->
+  <path d="M20 250 Q70 240 133 250 Q196 260 246 250 L246 304 L20 304 Z" fill="#6b93b6" fill-opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Stilt houses -->
+  <rect x="40" y="150" width="52" height="46" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M36 150 L66 126 L96 150" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="48" y1="196" x2="48" y2="236" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="84" y1="196" x2="84" y2="236" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <rect x="150" y="160" width="52" height="44" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M146 160 L176 138 L206 160" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="158" y1="204" x2="158" y2="240" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="194" y1="204" x2="194" y2="240" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- Boat with fisher -->
+  <path d="M70 272 L130 272 L118 292 L82 292 Z" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="100" cy="262" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="100" y1="272" x2="100" y2="292" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="100" y1="272" x2="120" y2="282" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Person carrying water -->
+  <circle cx="196" cy="230" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M196 240 L196 262" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="186" cy="270" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="206" cy="270" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="133" y="290" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">fish · boat · water from the river</text>
+
+  <!-- Right: mountain town -->
+  <rect x="266" y="64" width="226" height="240" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="379" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">A Mountain Town</text>
+
+  <!-- Mountain -->
+  <path d="M266 240 L320 180 L356 240" fill="#7a9e7e" fill-opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 240 L392 168 L440 240" fill="#7a9e7e" fill-opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Stone houses -->
+  <rect x="300" y="200" width="54" height="42" fill="#c9c2b8" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M296 200 L327 178 L358 200" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="382" y="206" width="50" height="38" fill="#c9c2b8" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M378 206 L407 186 L436 206" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Terraced fields -->
+  <path d="M266 258 L310 258 L310 272 L266 272 Z" fill="#7a9e7e" fill-opacity="0.6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M400 254 L492 254 L492 268 L400 268 Z" fill="#7a9e7e" fill-opacity="0.6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="288" y1="258" x2="288" y2="272" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="420" y1="254" x2="420" y2="268" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- Person carrying firewood -->
+  <circle cx="356" cy="230" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M356 240 L356 262" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="340" y="216" width="40" height="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Animal -->
+  <ellipse cx="452" cy="262" rx="14" ry="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="440" cy="256" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="379" y="290" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">grain · path · firewood from the forest</text>
+
+  <!-- Comparison chart -->
+  <rect x="20" y="320" width="472" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Alike and Different — different, not better or worse</text>
+  <text x="138" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#7a9e7e">ALIKE</text>
+  <text x="374" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">DIFFERENT</text>
+  <text x="138" y="390" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">both need food, water, shelter,</text>
+  <text x="138" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">care, and play</text>
+  <text x="374" y="390" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">river vs. mountain · boat vs. path</text>
+  <text x="374" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">fish vs. grain</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">every community meets the same needs — in its own way</text>
+</svg>

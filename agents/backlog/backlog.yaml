@@ -2584,7 +2584,7 @@ items:
     type: lesson
     grade: 3
     domain: D02
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2596,6 +2596,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (592 files). IDs L.03.003.01-.10 sequential, sequence_in_unit 1-10, unit U.03.003, grade 3; all required headings in all 10. Objectives resolve to the 8 real Grade-3 D02 standards only (S1.03.01/.02, S2.03.01/.02, S3.03.01/.02, S4.03.01/.02) — no invented IDs. unit.md Lessons table lists all 10 (incl L9 two-standard, L10 eight). Example: L1 'building on' tower-of-blocks faithful to D02.S1.03.01. L5 comparison-without-ranking, guards against 'backward'. CASEL cited; Kirschner 2006 sourced. validate passes."
+      fact-checker:
+        verdict: passed
+        note: CASEL (S-001) live on-topic; competency mapping correct (turn-taking→relationship skills; I-statements→relationship+self-management; perspective/community/mutual aid→social awareness; rules/fairness→responsible decision). Kirschner/Sweller/Clark 2006 (S-011) DOI confirmed via Crossref (Educational Psychologist 41(2):75-86), used on-topic for model-then-guided-practice. No fabricated citations; values vs evidence cleanly separated. validate passes (592 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Universal/anti-ranking: L5 community comparison 'no way of living better or worse, only different', guards against 'simple'/'backward', 'busy city' among far-away options; names span regions (Amara West African, Jae Korean); L3 Lion and Mouse framed as told across Africa/Asia/Europe; L4 represents disability/Deaf/age/new-language without pity; L8 honors 'every kind of family/community shape'. Fix: L2 Connection universalized 'Everywhere people live this is how arguments get gentler' (flattened NVC-derived I-statement) → softened to hold multiple traditions side by side (elder who helps listen, repairing circle, quiet apology) + I-statement 'one honest tool among many'. validate passes (592 files)."
+      accessibility-editor:
+        verdict: passed
+        note: materials_low_tech all 10 (voices/bodies + found objects pebble/leaf/seed/stick/stone); alt text all 10 assets (SVGs role=img/aria-labelledby/title/desc, word labels grayscale-safe). Non-speaking paths explicit every lesson (sign/gesture/picture card/written note; draw/point/gesture; 'voice, sign, drawing, acting, or written line — all count fully' L10). Non-visual via 'read aloud' every facilitator note, stories told aloud. Motor differences (L7 'every way of helping counts fully'; L4 wheelchair/Deaf/new-language cards). Multilingual anticipated (L3 'tell in home language'). validate passes (592 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L3 lion not wrong/mouse not right; L6 fairness not obedience; L9 retelling never ranks), egalitarianism (L1 one turn per voice; L6 protects smallest+quietest; L7 no one does everything/nothing; L8 mutual aid vs charity — no hierarchy), global (L3 tale across Africa/Asia/Europe; L5 comparison-without-ranking 'describe from within'; multiple traditions side by side), tech/env (L5 place+tools; L10 camera/tablet reflection). Evidence vs values (CASEL + Kirschner 2006 as evidence; 'no way better or worse' as commitment). Traceability: D02.S1.03.x-S4.03.x → D02.S1-S4 → D02 → P1 → vision. validate passes (592 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: perspective-taking emerging/concrete (L3 Lion & Mouse 'What did I see/feel' cards; L4 grounded in known place classroom/market/playground, no free-floating metacognition; L9 scaffolded dual-perspective as retrieval not mastery gate). Emotional safety: L2 honors anger 'saying it without blame not hiding it', small/fictional conflicts, re-steers 'I feel you are mean'; L4 bans pity ('wheelchair user not sad', 'new student not behind'), barriers as place's to change; L8 scaffolds hardship→hope; no forced disclosure ('friendly and small'). Physical fit: circle pass, building/cleaning, drawing, found objects. Not dumbed down (mutual aid, comparison-without-ranking, fairness-not-obedience concrete). Non-blocking: L9 dual-perspective is spiral peak — accept one retold line. validate passes (592 files)."
   - id: B-303
     title: Author lessons for Unit U.03.004 (Reading, Writing & Many Languages)
     agent: lesson-author

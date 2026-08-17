@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rules that help us all</title>
+  <desc id="desc">Two panels. The left panel shows a jumbled crowd around one water pump — many hands, elbows, and upset faces, with no order. The right panel shows the same pump with a neat line where each person waits for one turn, and a small sign reading "one turn each." Beneath reads "a fair rule gives everyone a turn — not just the biggest or loudest." The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Rules That Help Us All</text>
+
+  <!-- Left panel: no rule -->
+  <rect x="20" y="70" width="226" height="300" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="133" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#8f5f3d">No Rule</text>
+
+  <!-- Water pump -->
+  <rect x="96" y="150" width="74" height="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="124" y="170" width="18" height="60" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="108" y="230" width="50" height="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M133 170 Q120 190 128 206" fill="none" stroke="#6b93b6" stroke-width="3"/>
+
+  <!-- Jumbled crowd -->
+  <circle cx="70" cy="220" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="196" cy="216" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="60" cy="260" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="210" cy="258" r="14" fill="#6b4f3a" stroke="#2b3a42" stroke-width="2"/>
+  <!-- upset mouths -->
+  <path d="M66 228 Q72 222 78 228" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M192 224 Q198 218 204 224" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- raised arms/elbows -->
+  <line x1="84" y1="210" x2="96" y2="190" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="182" y1="206" x2="170" y2="186" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="70" y1="250" x2="82" y2="236" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="133" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8f5f3d">biggest and loudest first;</text>
+  <text x="133" y="348" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8f5f3d">smallest wait and wait.</text>
+
+  <!-- Right panel: fair rule -->
+  <rect x="266" y="70" width="226" height="300" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="379" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e">One Turn Each</text>
+
+  <!-- Water pump -->
+  <rect x="342" y="150" width="74" height="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="370" y="170" width="18" height="60" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="354" y="230" width="50" height="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Sign -->
+  <rect x="300" y="140" width="90" height="24" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="345" y="156" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">one turn each</text>
+
+  <!-- Neat line -->
+  <circle cx="320" cy="258" r="15" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="358" cy="258" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="396" cy="258" r="15" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="434" cy="258" r="15" fill="#6b4f3a" stroke="#2b3a42" stroke-width="2"/>
+  <!-- smiles -->
+  <path d="M314 264 Q320 270 326 264" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M352 264 Q358 270 364 264" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M390 264 Q396 270 402 264" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M428 264 Q434 270 440 264" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- one holding a small cup -->
+  <circle cx="320" cy="292" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="379" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e">everyone gets water,</text>
+  <text x="379" y="348" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e">no matter their size.</text>
+
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">A fair rule gives everyone a turn — not just the biggest or loudest.</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Rules are a promise the whole community makes: everyone matters.</text>
+</svg>

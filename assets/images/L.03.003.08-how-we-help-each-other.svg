@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How we help each other</title>
+  <desc id="desc">Many hands — big and small, of different skin tones — lift together to raise the roof beam of one family's house while neighbors pass food and hold a ladder. Around the scene, small labeled examples float: "harvesting together," "sharing food," "watching each other's children," "rebuilding after a storm." Beneath reads "helping one another is how communities survive." The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">How We Help Each Other</text>
+
+  <!-- Roof beam being raised -->
+  <rect x="150" y="210" width="212" height="18" rx="4" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M138 210 L256 150 L374 210" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Ladder -->
+  <line x1="330" y1="150" x2="330" y2="300" stroke="#4f6d7a" stroke-width="4"/>
+  <line x1="354" y1="150" x2="354" y2="300" stroke="#4f6d7a" stroke-width="4"/>
+  <line x1="330" y1="180" x2="354" y2="180" stroke="#4f6d7a" stroke-width="3"/>
+  <line x1="330" y1="216" x2="354" y2="216" stroke="#4f6d7a" stroke-width="3"/>
+  <line x1="330" y1="252" x2="354" y2="252" stroke="#4f6d7a" stroke-width="3"/>
+
+  <!-- Many hands lifting the beam -->
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <line x1="150" y1="228" x2="150" y2="262"/>
+    <line x1="186" y1="228" x2="186" y2="270"/>
+    <line x1="222" y1="228" x2="222" y2="264"/>
+    <line x1="258" y1="228" x2="258" y2="272"/>
+    <line x1="294" y1="228" x2="294" y2="260"/>
+  </g>
+  <!-- Hand shapes at the top of arms -->
+  <g fill="#f5d6b6" stroke="#2b3a42" stroke-width="2">
+    <circle cx="150" cy="224" r="7"/>
+    <circle cx="222" cy="224" r="7"/>
+    <circle cx="294" cy="224" r="7"/>
+  </g>
+  <g fill="#c99567" stroke="#2b3a42" stroke-width="2">
+    <circle cx="186" cy="224" r="7"/>
+  </g>
+  <g fill="#8f5f3d" stroke="#2b3a42" stroke-width="2">
+    <circle cx="258" cy="224" r="7"/>
+  </g>
+
+  <!-- Person passing food -->
+  <circle cx="90" cy="300" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="84" cy="296" r="2"/><circle cx="96" cy="296" r="2" fill="#2b3a42"/>
+  <path d="M84 306 Q90 312 96 306" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="116" cy="316" r="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="90" y1="312" x2="106" y2="314" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- Child holding a basket -->
+  <circle cx="430" cy="300" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="424" cy="296" r="2"/><circle cx="436" cy="296" r="2" fill="#2b3a42"/>
+  <path d="M424 306 Q430 312 436 306" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="414" y="318" width="34" height="20" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Labeled examples -->
+  <g font-family="sans-serif" font-size="13" fill="#4f6d7a">
+    <text x="40" y="120">harvesting together</text>
+    <text x="40" y="140">sharing food</text>
+    <text x="350" y="120">watching each</text>
+    <text x="350" y="138">other's children</text>
+  </g>
+
+  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Helping one another is how communities survive.</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Mutual aid: neighbors helping neighbors — as equals.</text>
+</svg>

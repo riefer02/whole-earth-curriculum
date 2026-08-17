@@ -61,3 +61,13 @@ aid, not competition.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.03.003.01 | Taking Turns, Building On | D02.S1.03.01 |
+| L.03.003.02 | I Feel, Without Blame | D02.S1.03.02 |
+| L.03.003.03 | Through Another's Eyes | D02.S2.03.01 |
+| L.03.003.04 | A Day in Someone Else's Shoes | D02.S2.03.02 |
+| L.03.003.05 | My Community and One Far Away | D02.S3.03.01 |
+| L.03.003.06 | Rules That Help Us All | D02.S3.03.02 |
+| L.03.003.07 | Fair Share, Group Goal | D02.S4.03.01 |
+| L.03.003.08 | How We Help Each Other | D02.S4.03.02 |
+| L.03.003.09 | Perspective Rehearsal | D02.S1.03.01, D02.S2.03.01 |
+| L.03.003.10 | Caring, Perspective & Belonging | D02.S1.03.01, D02.S1.03.02, D02.S2.03.01, D02.S2.03.02, D02.S3.03.01, D02.S3.03.02, D02.S4.03.01, D02.S4.03.02 |

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A day in someone else's shoes</title>
+  <desc id="desc">One classroom shown twice. The left view is from a standing child's height — a shelf with a ball on top, a door, and a window. The right view is the same room from a child in a wheelchair at a lower height — the ball on the shelf now out of reach, the door handle high, and a step in the way. Beneath reads "the same place feels different to different people." The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A Day in Someone Else's Shoes</text>
+
+  <!-- Left panel: standing view -->
+  <rect x="20" y="70" width="226" height="300" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="133" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">Standing View</text>
+
+  <!-- Shelf with ball reachable -->
+  <rect x="50" y="140" width="80" height="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="50" y="150" width="80" height="70" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="90" cy="128" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="132" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">ball</text>
+
+  <!-- Door -->
+  <rect x="160" y="150" width="56" height="90" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="204" cy="196" r="3" fill="#2b3a42"/>
+  <text x="188" y="258" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">door</text>
+
+  <!-- Window -->
+  <rect x="50" y="300" width="80" height="56" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" fill-opacity="0.35"/>
+
+  <!-- Standing child -->
+  <circle cx="120" cy="180" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="113" cy="176" r="2"/><circle cx="127" cy="176" r="2" fill="#2b3a42"/>
+  <path d="M113 186 Q120 192 127 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M120 202 L120 244" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 244 L104 268" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 244 L136 268" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Right panel: wheelchair view -->
+  <rect x="266" y="70" width="226" height="300" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="379" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">Wheelchair View</text>
+
+  <!-- Same shelf, ball out of reach (higher, above a step) -->
+  <rect x="296" y="120" width="80" height="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="296" y="130" width="80" height="70" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="336" cy="108" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="336" y="112" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">ball</text>
+  <text x="336" y="218" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#8f5f3d">out of reach</text>
+
+  <!-- Step in the way -->
+  <rect x="290" y="258" width="90" height="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="335" y="286" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#8f5f3d">a step</text>
+
+  <!-- Door with high handle -->
+  <rect x="406" y="150" width="56" height="90" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="450" cy="206" r="3" fill="#2b3a42"/>
+  <text x="434" y="258" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">high handle</text>
+
+  <!-- Child in wheelchair -->
+  <circle cx="330" cy="228" r="18" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="324" cy="224" r="2"/><circle cx="336" cy="224" r="2" fill="#2b3a42"/>
+  <path d="M324 234 Q330 238 336 234" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M330 246 L330 268" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <rect x="306" y="268" width="52" height="34" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="316" cy="306" r="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="348" cy="306" r="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">The same place feels different to different people.</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Seeing that is how we make a place kinder — and fairer.</text>
+</svg>
