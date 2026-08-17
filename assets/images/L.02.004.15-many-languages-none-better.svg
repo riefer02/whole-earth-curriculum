@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Many languages, none better</title>
+  <desc id="desc">A circle of five children each hold up a card with a greeting in a different language and script — hello in Latin letters, a greeting in Arabic script, in Devanagari, in Chinese characters, and a waving hand for a signed greeting. All five cards are the same size and held at the same height, none above another, with the caption "many languages, none better." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that every language is equal.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Many Languages, None Better</text>
+
+  <!-- children holding greeting cards, all same height -->
+  <g>
+    <!-- child 1 -->
+    <circle cx="96" cy="150" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M68 210 Q66 172 96 172 Q126 172 124 210 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="48" y="222" width="96" height="60" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="96" y="262" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">hello</text>
+
+    <!-- child 2 -->
+    <circle cx="198" cy="150" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M170 210 Q168 172 198 172 Q228 172 226 210 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="150" y="222" width="96" height="60" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="198" y="262" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">مرحبا</text>
+
+    <!-- child 3 -->
+    <circle cx="300" cy="150" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M272 210 Q270 172 300 172 Q330 172 328 210 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="252" y="222" width="96" height="60" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="300" y="262" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">नमस्ते</text>
+
+    <!-- child 4 -->
+    <circle cx="402" cy="150" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M374 210 Q372 172 402 172 Q432 172 430 210 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="354" y="222" width="96" height="60" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="402" y="262" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">你好</text>
+
+    <!-- child 5, signed greeting -->
+    <circle cx="160" cy="356" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M132 416 Q130 378 160 378 Q190 378 188 416 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- waving hand -->
+    <rect x="196" y="340" width="46" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M210 364 L224 352 M210 372 L226 360 M210 380 L226 372" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <text x="246" y="396" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">signed</text>
+  </g>
+
+  <!-- equal sign -->
+  <g>
+    <line x1="300" y1="360" x2="360" y2="360" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="300" y1="372" x2="360" y2="372" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">many languages, none better</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My home language and culture</title>
+  <desc id="desc">A child shares a song with a small group of three listeners, with musical notes floating above. Beside them, a memory card holds a family word and a drawing of a house and a heart, showing a treasure from home. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to share one treasure from their home language and culture with pride.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Home Language and Culture</text>
+
+  <!-- sharing child (center, singing) -->
+  <circle cx="150" cy="190" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M116 260 Q112 212 150 212 Q188 212 184 260 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- musical notes -->
+  <path d="M178 168 Q188 158 196 164 M182 182 Q192 172 200 178" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="196" cy="162" r="4" fill="#4f6d7a"/>
+  <circle cx="200" cy="176" r="4" fill="#4f6d7a"/>
+
+  <!-- three listeners -->
+  <circle cx="300" cy="168" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M274 222 Q272 186 300 186 Q328 186 326 222 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="356" cy="230" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M330 284 Q328 248 356 248 Q384 248 382 284 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="254" cy="258" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M228 312 Q226 276 254 276 Q282 276 280 312 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- memory card -->
+  <rect x="44" y="316" width="200" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="144" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">my treasure</text>
+  <!-- house -->
+  <path d="M96 402 L96 374 L144 374 L144 402 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M88 374 L120 356 L152 374 Z" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="114" y="384" width="12" height="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- heart -->
+  <path d="M168 372 Q162 364 168 358 Q174 364 168 372 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- word line -->
+  <line x1="84" y1="418" x2="204" y2="418" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A song, a rhyme, a family word — shared with pride.</text>
+</svg>

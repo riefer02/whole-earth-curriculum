@@ -2177,7 +2177,7 @@ items:
     type: lesson
     grade: 2
     domain: D04
-    status: ready
+    status: done
     priority: 53
     depends_on:
       - B-064
@@ -2189,6 +2189,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (481 files). IDs L.02.004.01-.15 sequential, sequence_in_unit 1-15, unit U.02.004, grade 2, kind lesson; all 15 carry required headings (Procedure/Assessment/Connection + rest). Objectives resolve to real Grade-2 D04 standards only (S1.02.01/.02, S2.02.01/.02, S3.02.01/.02, S4.02.01/.02). unit.md Lessons table lists all 15. Example: L1 Connection 'roof before walls' faithful to retelling-in-order; literacy claims sourced (NRP 2000, Kirschner, CASEL, UNESCO); L15 honors sign language + passing as rights."
+      fact-checker:
+        verdict: passed
+        note: "Corrections: 4 UNESCO citations repointed from dead /en/multilingual-education URL to live International Mother Language Day page (S-019, states '40 per cent... not have access to education in a language they speak or understand'); registered NRP 2000 as new S-040 (reviewed:true, NICHD URL live) supporting fluency+comprehension claims. Kirschner/Sweller/Clark 2006 DOI verified (Educational Psychologist 41(2):75-86) used correctly. CASEL S-001 for SEL. Linguistic claims hedged (never assume alphabet; sign language equal); 'no language better' framed as egalitarian value not empirical. validate passes (481 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Explicitly script-agnostic: centers 'home writing system', 'never assume the Latin alphabet or English' (L3/L11), 'never assume an alphabet' (L4); rejects correct-accent framing throughout. Representation spans sign languages as equal languages, non-speaking (sign/point/draw/AAC), braille/large-print, dictation-to-scribe; home language as 'treasure/wealth' never deficit; oral traditions honored. Life contexts (mango trees/markets/farms/wells/goat-feeding) not Western/urban default. No stereotyping. validate passes (481 files). L4 'sounding out' handled by facilitator note re non-alphabetic scripts."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech on all 15 (stones/seeds/sand/voice/memory); alt text on all 15 assets; SVGs role=img/aria-labelledby, grayscale-safe. Barriers: low vision/blindness (braille/large-print L3-4; comprehension L6-9 told-aloud alternatives, no silent print requirement), Deaf/HOH (sign fluency L5, sign-to-mouth L4, signed turns/retell L1-2, no phonemic-auditory-only demand), non-speaking (sign/point/draw/AAC accepted as answer every lesson; dictation-to-scribe L11-13), motor (scribe/device/draw), dyslexia (multi-sensory tapping/tracing; 'grow against your own yesterday' no speed-shaming), plain/multilingual language. validate passes (481 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses: ethics (opinion-with-reason + kind disagreement L12; equality/right-to-pass L14-15), egalitarianism (no ranking/'best' greeting/'correct accent'; 'grow against your own yesterday never against a peer'; multilingualism-as-wealth, home language first), global (script-agnostic 'never assume Latin alphabet or English'; sign languages equal; mango/market/farm/well/goat contexts), tech/env (tech as equalizing tool 'the tool only writes; the learner is the author'; low-tech default; outdoor variants). Evidence vs values (NRP 2000, Kirschner, CASEL, UNESCO; 'no language better' as value). Traceability: vision→P3→D04→S1-S4→grade-2 objectives→U.02.004→15 lessons. No hierarchy/supremacy. validate passes (481 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: emergent literacy (sight words, sounding-out, fluency, who/what/where/when/why) concrete, no formal grammar/linguistics; abstractions anchored in tangible metaphors (path/beads/ball). Emotional safety: no speed-shaming/ranking/pressure on emerging or non-speaking readers; 'grow against their own yesterday never against a peer' (L5), 'beat own score' (L3), 'celebrate attempt not errors as failure' (L11), passing as right + 'celebration never a contest' (L14-15); sign/AAC/braille/scribe honored. Physical fit: draw-or-write boxes, sentence frames, sand writing, scribe/AAC, embedded movement. Not dumbed down (evidence-hunting, opinion+reason). Open-ended ('I wonder too' fine answer; disagreement welcome). Non-blocking: L3/L5 timed elements self-referential anti-racing, keep optional/private (already directed). validate passes (481 files)."
   - id: B-204
     title: Author lessons for Unit U.02.005 (Numbers, Shapes, Patterns and Data)
     agent: lesson-author

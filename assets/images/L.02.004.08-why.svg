@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Why</title>
+  <desc id="desc">A child reads a page with a large question mark above it. Beside the page, two linked boxes show a cause and its effect: the first box shows a cloud with falling rain, and an arrow labeled "because" points to the second box, which shows a child holding an umbrella. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to find the reason something happened in a text.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Why</text>
+
+  <!-- page of text with question mark -->
+  <rect x="60" y="120" width="150" height="200" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="84" y1="150" x2="190" y2="150" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="170" x2="170" y2="170" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="190" x2="190" y2="190" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="210" x2="160" y2="210" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- question mark above -->
+  <text x="135" y="96" text-anchor="middle" font-family="sans-serif" font-size="56" font-weight="bold" fill="#e0a458">?</text>
+
+  <!-- why card -->
+  <rect x="60" y="352" width="150" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="135" y="396" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">why</text>
+
+  <!-- cause box -->
+  <g>
+    <rect x="256" y="120" width="180" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M300 176 Q292 156 308 150 Q306 138 322 138 Q342 138 338 152 Q356 156 348 172 Q342 180 300 176 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M296 184 L292 200 M312 184 L312 200 M328 184 L332 200" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <text x="346" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">it rains</text>
+  </g>
+
+  <!-- effect box -->
+  <g>
+    <rect x="256" y="300" width="180" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="316" cy="350" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M296 392 Q294 362 316 362 Q338 362 336 392 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M336 344 L368 324 Q372 322 372 328 L372 352 Q372 358 368 356 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="368" y1="356" x2="368" y2="384" stroke="#8f5f3d" stroke-width="3" stroke-linecap="round"/>
+    <text x="400" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">I open my umbrella</text>
+  </g>
+
+  <!-- because arrow -->
+  <path d="M346 232 L346 296" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M340 288 L346 300 L352 288 Z" fill="#2b3a42"/>
+  <text x="386" y="268" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">because</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Find the reason — why did it happen?</text>
+</svg>

@@ -370,3 +370,14 @@ sources:
     domains: []
     reviewed: true
     notes: "Cited in U.01.009 L10 (unit capstone described as a retrieval-practice/spacing 'science-of-learning payoff'). Real, well-known consensus review (14(1), 4–58). DOI verified live (2026-08-15). Identifies practice testing (retrieval practice) and distributed practice (spacing) as the two highest-utility learning techniques — supports the lesson's claim that recalling the unit's ideas across the unit (spaced retrieval) is evidence-backed."
+
+  - id: S-040
+    title: "National Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment"
+    type: report
+    author: National Reading Panel (NICHD)
+    organization: National Institute of Child Health and Human Development (NICHD), National Institutes of Health
+    year: 2000
+    url: https://www.nichd.nih.gov/research/supported/nrp
+    domains: [D04]
+    reviewed: true
+    notes: "Cited in U.02.004 L05 (fluency via repeated/guided oral reading), L06–L09 (comprehension via question answering and question generation). Real, landmark US report. URL verified live (2026-08-16): NICHD hosts the panel page (marked 'Historical/For Reference Only'). NRP identified five components of reading — phonemic awareness, phonics, fluency, vocabulary, comprehension — and found guided repeated oral reading improves fluency and that question answering and question generation are among the comprehension strategies with a solid research base. On-topic for each lesson that cites it. US-centric source; treated as one widely used evidence base among others, not the only tradition."

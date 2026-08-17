@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Asking all five questions</title>
+  <desc id="desc">A hand with five labeled fingers — who, what, where, when, and why — rises beside a page of text, and five dotted lines run from the page to each fingertip, showing that each question finds its answer in the text. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to use all five questions together to understand a whole text.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Asking All Five Questions</text>
+
+  <!-- page of text -->
+  <rect x="60" y="120" width="170" height="240" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="84" y1="150" x2="206" y2="150" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="170" x2="186" y2="170" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="190" x2="206" y2="190" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="210" x2="170" y2="210" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="230" x2="206" y2="230" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="250" x2="160" y2="250" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- hand with five labeled fingers -->
+  <g>
+    <!-- palm -->
+    <path d="M312 300 Q300 220 340 200 Q368 188 372 224 L380 300 Q382 340 348 348 Q316 352 312 300 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2.5"/>
+    <!-- fingers -->
+    <rect x="318" y="118" width="20" height="86" rx="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="344" y="104" width="20" height="96" rx="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="370" y="112" width="20" height="90" rx="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="394" y="140" width="20" height="64" rx="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="398" y="208" width="40" height="20" rx="10" fill="#c99567" stroke="#2b3a42" stroke-width="2" transform="rotate(-24 418 218)"/>
+  </g>
+
+  <!-- labels on fingertips -->
+  <text x="328" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">who</text>
+  <text x="354" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">what</text>
+  <text x="380" y="112" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">where</text>
+  <text x="404" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">when</text>
+  <text x="416" y="202" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">why</text>
+
+  <!-- dotted lines from page to fingers -->
+  <line x1="230" y1="140" x2="316" y2="122" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="230" y1="180" x2="342" y2="112" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="230" y1="220" x2="368" y2="120" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="230" y1="260" x2="394" y2="148" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="230" y1="300" x2="410" y2="206" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Five questions, one understanding.</text>
+</svg>

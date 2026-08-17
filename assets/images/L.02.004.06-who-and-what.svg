@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Who and what</title>
+  <desc id="desc">A child reads a short text on a page, and beside the page sit two cards. The first card shows a simple person figure and the word "who"; the second shows an arrow in motion and the word "what." Two dotted lines run from the page to each card, showing that both answers are found in the text. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to find who a text is about and what happened.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Who and What</text>
+
+  <!-- page of text -->
+  <rect x="60" y="120" width="180" height="240" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="84" y1="150" x2="216" y2="150" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="170" x2="196" y2="170" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="190" x2="216" y2="190" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="210" x2="180" y2="210" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="230" x2="216" y2="230" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="250" x2="160" y2="250" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- small picture in text -->
+  <rect x="150" y="280" width="60" height="52" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="180" cy="300" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- who card -->
+  <g>
+    <rect x="300" y="110" width="150" height="100" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="344" cy="150" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M328 190 Q326 158 344 158 Q362 158 360 190 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="398" y="164" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">who</text>
+  </g>
+
+  <!-- what card -->
+  <g>
+    <rect x="300" y="240" width="150" height="100" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M322 286 L360 270 L360 302 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M378 286 Q394 286 394 296 Q394 306 378 306" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M378 306 l8 8 M378 306 l-2 12" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+    <text x="398" y="324" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">what</text>
+  </g>
+
+  <!-- dotted lines from page to cards -->
+  <line x1="240" y1="170" x2="300" y2="150" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="240" y1="240" x2="300" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Who is it about? What happened?</text>
+</svg>

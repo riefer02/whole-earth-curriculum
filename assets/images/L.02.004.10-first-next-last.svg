@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">First, next, last</title>
+  <desc id="desc">Three boxes in a row hold a simple three-step plan: the first box shows a seed being planted in the ground, the next shows the seed being watered, and the last shows a sprout growing leaves. The boxes are labeled first, next, and last, with arrows between them. The labels and pictures carry the meaning, so the picture prints clearly in grayscale and teaches learners to plan a story in order with first, next, and last.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">First, Next, Last</text>
+
+  <!-- box 1 -->
+  <rect x="16" y="110" width="144" height="200" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="138" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">first</text>
+  <!-- seed being planted -->
+  <path d="M72 260 L104 260 L104 290 L72 290 Z" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="88" cy="248" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- arrow 1-2 -->
+  <path d="M172 210 L184 210" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M178 204 L188 210 L178 216 Z" fill="#2b3a42"/>
+
+  <!-- box 2 -->
+  <rect x="184" y="110" width="144" height="200" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="138" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">next</text>
+  <!-- watering can -->
+  <path d="M224 250 L288 250 L288 276 L224 276 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M224 262 L204 244" stroke="#6b93b6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M248 280 L246 292 M262 280 L262 292 M276 280 L278 292" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- arrow 2-3 -->
+  <path d="M340 210 L352 210" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M346 204 L356 210 L346 216 Z" fill="#2b3a42"/>
+
+  <!-- box 3 -->
+  <rect x="352" y="110" width="144" height="200" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="424" y="138" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">last</text>
+  <!-- sprout -->
+  <path d="M424 290 Q424 250 424 236" fill="none" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+  <path d="M424 260 Q408 250 404 236" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M424 276 Q440 268 446 254" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M408 290 L440 290" stroke="#8f5f3d" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">a plan in order</text>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">First… next… last. The order keeps the story whole.</text>
+</svg>

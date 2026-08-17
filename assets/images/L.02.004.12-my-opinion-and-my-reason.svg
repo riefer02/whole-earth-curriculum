@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My opinion and my reason</title>
+  <desc id="desc">A child writes on two lines of a page. The first line holds the words "I think…" and the second holds "because…," with a small thought bubble above the page containing a heart. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to state an opinion and then give a reason for it.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Opinion and My Reason</text>
+
+  <!-- thought bubble -->
+  <path d="M120 120 Q120 84 160 84 L300 84 Q340 84 340 120 L340 150 Q340 178 308 178 L176 178 Q156 178 156 162 L148 186 Q144 196 152 188 L168 178 Q120 178 120 150 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M196 118 Q206 106 216 116 Q206 128 196 118 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M236 116 L244 104 L248 118 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="230" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what I think</text>
+
+  <!-- writing page -->
+  <rect x="70" y="230" width="372" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- line 1: I think -->
+  <text x="96" y="270" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">I think…</text>
+  <line x1="200" y1="266" x2="410" y2="266" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- line 2: because -->
+  <text x="96" y="322" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">because…</text>
+  <line x1="216" y1="318" x2="410" y2="318" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- pen -->
+  <line x1="300" y1="388" x2="330" y2="350" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">An opinion with a reason is thinking you can share.</text>
+</svg>

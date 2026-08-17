@@ -58,3 +58,18 @@ another. The home language is honored first and multilingualism is treated as we
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Listening and Retelling in Order | D04.S1.02.01 |
+| 2 | Taking Turns in a Conversation | D04.S1.02.02 |
+| 3 | Sight Words Everywhere | D04.S2.02.01 |
+| 4 | Words I Can Read Myself | D04.S2.02.01 |
+| 5 | Reading with a Smooth Voice | D04.S2.02.01 |
+| 6 | Who and What | D04.S2.02.02 |
+| 7 | Where and When | D04.S2.02.02 |
+| 8 | Why | D04.S2.02.02 |
+| 9 | Asking All Five Questions | D04.S2.02.02 |
+| 10 | First, Next, Last | D04.S3.02.01 |
+| 11 | My Story in Order | D04.S3.02.01 |
+| 12 | My Opinion and My Reason | D04.S3.02.02 |
+| 13 | An Explanation with a Reason | D04.S3.02.02 |
+| 14 | My Home Language and Culture | D04.S4.02.01 |
+| 15 | Many Languages, None Better | D04.S1.02.01, D04.S1.02.02, D04.S2.02.01, D04.S2.02.02, D04.S3.02.01, D04.S3.02.02, D04.S4.02.01, D04.S4.02.02 |

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Where and when</title>
+  <desc id="desc">A child reads a short text, and beside the page sit two cards. The first card shows a map pin for "where," and the second shows a sun over a clock for "when." Dotted lines run from the page to each card, showing that both answers are found in the text. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to find where a text's happening took place and when.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Where and When</text>
+
+  <!-- page of text -->
+  <rect x="60" y="120" width="180" height="240" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="84" y1="150" x2="216" y2="150" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="170" x2="196" y2="170" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="190" x2="216" y2="190" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="210" x2="180" y2="210" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="84" y1="230" x2="216" y2="230" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- small picture of a tree -->
+  <rect x="150" y="280" width="60" height="52" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="180" cy="300" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="176" y="308" width="8" height="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- where card -->
+  <g>
+    <rect x="300" y="110" width="150" height="100" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M344 138 Q344 124 356 124 Q368 124 368 138 Q368 148 356 156 Q344 148 344 138 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="356" cy="138" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="398" y="168" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">where</text>
+  </g>
+
+  <!-- when card -->
+  <g>
+    <rect x="300" y="240" width="150" height="100" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="338" cy="278" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M330 276 L338 268 M346 276 L338 268 M338 268 L338 288 M330 288 L346 288" stroke="#e0a458" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="398" y="326" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">when</text>
+  </g>
+
+  <!-- dotted lines -->
+  <line x1="240" y1="170" x2="300" y2="150" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="240" y1="240" x2="300" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Where did it happen? When?</text>
+</svg>

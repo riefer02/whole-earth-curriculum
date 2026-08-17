@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Words I can read myself</title>
+  <desc id="desc">A child points to a word written in Devanagari script above a row of empty sound boxes, while three counters sit under the first three boxes and a fourth counter waits to be moved. The counters show one sound being tapped at a time, and a curved arrow below blends them back into the word. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to break a word into its sounds and blend them back together to read it on their own.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Words I Can Read Myself</text>
+
+  <!-- the word in Devanagari -->
+  <rect x="120" y="80" width="272" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="124" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="36" font-weight="bold" fill="#2b3a42">कमल</text>
+
+  <!-- pointing finger -->
+  <path d="M368 160 Q396 120 384 88" fill="none" stroke="#c99567" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="384" cy="84" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- sound boxes -->
+  <g>
+    <rect x="120" y="196" width="64" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="190" y="196" width="64" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="260" y="196" width="64" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="330" y="196" width="64" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- counters under first three boxes -->
+  <circle cx="152" cy="292" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="222" cy="292" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="292" cy="292" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- blend arrow -->
+  <path d="M120 340 Q256 396 392 340" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 0"/>
+  <path d="M384 350 L392 338 L378 340 Z" fill="#2b3a42"/>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">blend</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">One sound at a time, then blend them into the word.</text>
+</svg>
