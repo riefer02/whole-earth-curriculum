@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Perimeter of a rectangle: the distance around</title>
+  <desc id="desc">A rectangle with a dashed string line around its outside edge, side lengths labeled seven and three. Labels show perimeter equals seven plus three plus seven plus three equals twenty units, and a note says perimeter is the fence, the distance around, not the space inside.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Perimeter: The Distance Around</text>
+
+  <!-- Rectangle -->
+  <rect x="80" y="90" width="280" height="120" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="3"/>
+  <!-- dashed string around -->
+  <rect x="64" y="74" width="312" height="152" fill="none" stroke="#e0a458" stroke-width="4" stroke-dasharray="10,7"/>
+
+  <!-- side labels -->
+  <text x="220" y="84" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">7</text>
+  <text x="364" y="158" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">3</text>
+  <text x="220" y="238" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">7</text>
+  <text x="76" y="158" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">3</text>
+
+  <text x="220" y="160" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">space inside = area</text>
+  <text x="220" y="70" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e0a458">fence = perimeter</text>
+
+  <!-- Answer box -->
+  <rect x="90" y="300" width="332" height="130" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Add the sides:</text>
+  <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">7 + 3 + 7 + 3 = 20</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#e0a458">Perimeter = 20 units</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">Perimeter is the fence; area is the field.</text>
+</svg>

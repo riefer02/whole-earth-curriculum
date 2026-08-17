@@ -257,7 +257,7 @@ sources:
     year: 2009
     domains: [D05]
     reviewed: true
-    notes: "Cited in U.01.005 L12, L13 (non-standard measurement / unit iteration; early data collection and representation with picture graphs). Authoritative NRC consensus report on early math learning trajectories; both cited topics appear in its recommendations for grades PreK–2."
+    notes: "Cited in U.01.005 L12, L13 (non-standard measurement / unit iteration; early data collection and representation with picture graphs) and U.03.005 L16 (scaled picture/bar graphs). Authoritative NRC consensus report on early math learning trajectories; both measurement topics appear in its recommendations for grades PreK–2. Data representation (collecting, organizing, and representing data with picture and bar graphs) is covered in the report's data-analysis trajectory. Note: the report's stated focus is early childhood (ages 3–8, PreK–2); the Grade-3 'scaling' skill (one symbol = two, five, or ten) is an extension that builds on — rather than appears page-for-page in — the report's data-representation trajectory, so the U.03.005 L16 citation is a general authority for the data trajectory, not a claim-level citation for the scale itself."
 
   - id: S-028
     title: "Davies (2002) — A History of Money: From Ancient Times to the Present Day"

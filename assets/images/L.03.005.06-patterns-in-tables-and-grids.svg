@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Patterns in a number grid and a multiplication table</title>
+  <desc id="desc">A one-hundred number grid with the tens column colored green and the fives colored amber, each labeled with its rule. Beside it, a small multiplication table with the fives row highlighted and its rule stated as add five each time.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Patterns in the Grid &amp; Table</text>
+
+  <!-- 100 grid (10x10) -->
+  <text x="120" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">100s grid</text>
+  <g font-family="sans-serif" font-size="11" text-anchor="middle">
+    <!-- rows -->
+    <g fill="#2b3a42">
+      <text x="30" y="86">1</text><text x="48" y="86">2</text><text x="66" y="86">3</text><text x="84" y="86">4</text><text x="102" y="86">5</text><text x="120" y="86">6</text><text x="138" y="86">7</text><text x="156" y="86">8</text><text x="174" y="86">9</text><text x="194" y="86" fill="#7a9e7e" font-weight="bold">10</text>
+      <text x="30" y="104">11</text><text x="48" y="104">12</text><text x="66" y="104">13</text><text x="84" y="104">14</text><text x="102" y="104" fill="#e0a458" font-weight="bold">15</text><text x="120" y="104">16</text><text x="138" y="104">17</text><text x="156" y="104">18</text><text x="174" y="104">19</text><text x="194" y="104" fill="#7a9e7e" font-weight="bold">20</text>
+      <text x="30" y="122">21</text><text x="48" y="122">22</text><text x="66" y="122">23</text><text x="84" y="122">24</text><text x="102" y="122" fill="#e0a458" font-weight="bold">25</text><text x="120" y="122">26</text><text x="138" y="122">27</text><text x="156" y="122">28</text><text x="174" y="122">29</text><text x="194" y="122" fill="#7a9e7e" font-weight="bold">30</text>
+      <text x="30" y="140">31</text><text x="48" y="140">32</text><text x="66" y="140">33</text><text x="84" y="140">34</text><text x="102" y="140" fill="#e0a458" font-weight="bold">35</text><text x="120" y="140">36</text><text x="138" y="140">37</text><text x="156" y="140">38</text><text x="174" y="140">39</text><text x="194" y="140" fill="#7a9e7e" font-weight="bold">40</text>
+      <text x="30" y="158">41</text><text x="48" y="158">42</text><text x="66" y="158">43</text><text x="84" y="158">44</text><text x="102" y="158" fill="#e0a458" font-weight="bold">45</text><text x="120" y="158">46</text><text x="138" y="158">47</text><text x="156" y="158">48</text><text x="174" y="158">49</text><text x="194" y="158" fill="#7a9e7e" font-weight="bold">50</text>
+      <text x="30" y="176">51</text><text x="48" y="176">52</text><text x="66" y="176">53</text><text x="84" y="176">54</text><text x="102" y="176" fill="#e0a458" font-weight="bold">55</text><text x="120" y="176">56</text><text x="138" y="176">57</text><text x="156" y="176">58</text><text x="174" y="176">59</text><text x="194" y="176" fill="#7a9e7e" font-weight="bold">60</text>
+      <text x="30" y="194">61</text><text x="48" y="194">62</text><text x="66" y="194">63</text><text x="84" y="194">64</text><text x="102" y="194" fill="#e0a458" font-weight="bold">65</text><text x="120" y="194">66</text><text x="138" y="194">67</text><text x="156" y="194">68</text><text x="174" y="194">69</text><text x="194" y="194" fill="#7a9e7e" font-weight="bold">70</text>
+      <text x="30" y="212">71</text><text x="48" y="212">72</text><text x="66" y="212">73</text><text x="84" y="212">74</text><text x="102" y="212" fill="#e0a458" font-weight="bold">75</text><text x="120" y="212">76</text><text x="138" y="212">77</text><text x="156" y="212">78</text><text x="174" y="212">79</text><text x="194" y="212" fill="#7a9e7e" font-weight="bold">80</text>
+      <text x="30" y="230">81</text><text x="48" y="230">82</text><text x="66" y="230">83</text><text x="84" y="230">84</text><text x="102" y="230" fill="#e0a458" font-weight="bold">85</text><text x="120" y="230">86</text><text x="138" y="230">87</text><text x="156" y="230">88</text><text x="174" y="230">89</text><text x="194" y="230" fill="#7a9e7e" font-weight="bold">90</text>
+      <text x="30" y="248">91</text><text x="48" y="248">92</text><text x="66" y="248">93</text><text x="84" y="248">94</text><text x="102" y="248" fill="#e0a458" font-weight="bold">95</text><text x="120" y="248">96</text><text x="138" y="248">97</text><text x="156" y="248">98</text><text x="174" y="248">99</text><text x="194" y="248" fill="#7a9e7e" font-weight="bold">100</text>
+    </g>
+  </g>
+
+  <!-- Rule labels -->
+  <rect x="24" y="270" width="196" height="70" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="122" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Tens column:</text>
+  <text x="122" y="320" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">add 10 each time</text>
+
+  <rect x="24" y="352" width="196" height="70" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="122" y="378" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Fives:</text>
+  <text x="122" y="402" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">add 5 each time</text>
+
+  <!-- Multiplication table -->
+  <text x="384" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">× table (5s row)</text>
+  <g font-family="sans-serif" font-size="14" text-anchor="middle">
+    <text x="300" y="92" fill="#2b3a42">×</text><text x="330" y="92" fill="#2b3a42">1</text><text x="360" y="92" fill="#2b3a42">2</text><text x="390" y="92" fill="#2b3a42">3</text><text x="420" y="92" fill="#2b3a42">4</text><text x="450" y="92" fill="#2b3a42">5</text>
+    <text x="300" y="122" fill="#4f6d7a">1</text><text x="330" y="122" fill="#4f6d7a">1</text><text x="360" y="122" fill="#4f6d7a">2</text><text x="390" y="122" fill="#4f6d7a">3</text><text x="420" y="122" fill="#4f6d7a">4</text><text x="450" y="122" fill="#4f6d7a">5</text>
+    <text x="300" y="152" fill="#4f6d7a">2</text><text x="330" y="152" fill="#4f6d7a">2</text><text x="360" y="152" fill="#4f6d7a">4</text><text x="390" y="152" fill="#4f6d7a">6</text><text x="420" y="152" fill="#4f6d7a">8</text><text x="450" y="152" fill="#4f6d7a">10</text>
+    <text x="300" y="182" fill="#4f6d7a">3</text><text x="330" y="182" fill="#4f6d7a">3</text><text x="360" y="182" fill="#4f6d7a">6</text><text x="390" y="182" fill="#4f6d7a">9</text><text x="420" y="182" fill="#4f6d7a">12</text><text x="450" y="182" fill="#e0a458" font-weight="bold">15</text>
+    <text x="300" y="212" fill="#4f6d7a">4</text><text x="330" y="212" fill="#4f6d7a">4</text><text x="360" y="212" fill="#4f6d7a">8</text><text x="390" y="212" fill="#4f6d7a">12</text><text x="420" y="212" fill="#4f6d7a">16</text><text x="450" y="212" fill="#e0a458" font-weight="bold">20</text>
+    <text x="300" y="242" fill="#e0a458" font-weight="bold">5</text><text x="330" y="242" fill="#e0a458" font-weight="bold">5</text><text x="360" y="242" fill="#e0a458" font-weight="bold">10</text><text x="390" y="242" fill="#e0a458" font-weight="bold">15</text><text x="420" y="242" fill="#e0a458" font-weight="bold">20</text><text x="450" y="242" fill="#e0a458" font-weight="bold">25</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">A table is a map of rules you can see.</text>
+</svg>

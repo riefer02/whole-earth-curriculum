@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Properties explain patterns: turn it, split it, same total</title>
+  <desc id="desc">Three arrays of twelve. The first is three rows of four. The second is the same array turned one quarter turn to four rows of three, labeled the order does not change the product. The third shows seven rows of six split into five rows of six and two rows of six, labeled split a fact into two easy facts.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Properties Explain Patterns</text>
+
+  <!-- Turn it -->
+  <text x="120" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">Turn it</text>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <rect x="52" y="86" width="24" height="24" rx="4"/><rect x="84" y="86" width="24" height="24" rx="4"/><rect x="116" y="86" width="24" height="24" rx="4"/><rect x="148" y="86" width="24" height="24" rx="4"/>
+    <rect x="52" y="118" width="24" height="24" rx="4"/><rect x="84" y="118" width="24" height="24" rx="4"/><rect x="116" y="118" width="24" height="24" rx="4"/><rect x="148" y="118" width="24" height="24" rx="4"/>
+    <rect x="52" y="150" width="24" height="24" rx="4"/><rect x="84" y="150" width="24" height="24" rx="4"/><rect x="116" y="150" width="24" height="24" rx="4"/><rect x="148" y="150" width="24" height="24" rx="4"/>
+  </g>
+  <text x="112" y="200" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">3 × 4 = 12</text>
+
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <rect x="220" y="86" width="24" height="24" rx="4"/><rect x="252" y="86" width="24" height="24" rx="4"/><rect x="284" y="86" width="24" height="24" rx="4"/>
+    <rect x="220" y="118" width="24" height="24" rx="4"/><rect x="252" y="118" width="24" height="24" rx="4"/><rect x="284" y="118" width="24" height="24" rx="4"/>
+    <rect x="220" y="150" width="24" height="24" rx="4"/><rect x="252" y="150" width="24" height="24" rx="4"/><rect x="284" y="150" width="24" height="24" rx="4"/>
+    <rect x="220" y="182" width="24" height="24" rx="4"/><rect x="252" y="182" width="24" height="24" rx="4"/><rect x="284" y="182" width="24" height="24" rx="4"/>
+  </g>
+  <text x="264" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">4 × 3 = 12</text>
+  <text x="372" y="120" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">↔ order changed,</text>
+  <text x="372" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">same total</text>
+
+  <!-- Split it -->
+  <text x="120" y="286" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">Split it</text>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="52" y="300" width="22" height="22" rx="4"/><rect x="80" y="300" width="22" height="22" rx="4"/><rect x="108" y="300" width="22" height="22" rx="4"/><rect x="136" y="300" width="22" height="22" rx="4"/><rect x="164" y="300" width="22" height="22" rx="4"/><rect x="192" y="300" width="22" height="22" rx="4"/>
+    <rect x="52" y="328" width="22" height="22" rx="4"/><rect x="80" y="328" width="22" height="22" rx="4"/><rect x="108" y="328" width="22" height="22" rx="4"/><rect x="136" y="328" width="22" height="22" rx="4"/><rect x="164" y="328" width="22" height="22" rx="4"/><rect x="192" y="328" width="22" height="22" rx="4"/>
+    <rect x="52" y="356" width="22" height="22" rx="4"/><rect x="80" y="356" width="22" height="22" rx="4"/><rect x="108" y="356" width="22" height="22" rx="4"/><rect x="136" y="356" width="22" height="22" rx="4"/><rect x="164" y="356" width="22" height="22" rx="4"/><rect x="192" y="356" width="22" height="22" rx="4"/>
+    <rect x="52" y="384" width="22" height="22" rx="4"/><rect x="80" y="384" width="22" height="22" rx="4"/><rect x="108" y="384" width="22" height="22" rx="4"/><rect x="136" y="384" width="22" height="22" rx="4"/><rect x="164" y="384" width="22" height="22" rx="4"/><rect x="192" y="384" width="22" height="22" rx="4"/>
+    <rect x="52" y="412" width="22" height="22" rx="4"/><rect x="80" y="412" width="22" height="22" rx="4"/><rect x="108" y="412" width="22" height="22" rx="4"/><rect x="136" y="412" width="22" height="22" rx="4"/><rect x="164" y="412" width="22" height="22" rx="4"/><rect x="192" y="412" width="22" height="22" rx="4"/>
+  </g>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <rect x="222" y="300" width="22" height="22" rx="4"/><rect x="250" y="300" width="22" height="22" rx="4"/><rect x="278" y="300" width="22" height="22" rx="4"/><rect x="306" y="300" width="22" height="22" rx="4"/><rect x="334" y="300" width="22" height="22" rx="4"/><rect x="362" y="300" width="22" height="22" rx="4"/>
+    <rect x="222" y="328" width="22" height="22" rx="4"/><rect x="250" y="328" width="22" height="22" rx="4"/><rect x="278" y="328" width="22" height="22" rx="4"/><rect x="306" y="328" width="22" height="22" rx="4"/><rect x="334" y="328" width="22" height="22" rx="4"/><rect x="362" y="328" width="22" height="22" rx="4"/>
+  </g>
+  <text x="122" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">5 × 6 = 30</text>
+  <text x="292" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">2 × 6 = 12</text>
+
+  <rect x="300" y="272" width="190" height="60" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="395" y="296" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">7 × 6 = 42</text>
+  <text x="395" y="318" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">30 + 12 = 42</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">A property is the reason behind the pattern.</text>
+</svg>

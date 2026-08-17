@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Multiplication as equal groups: three groups of four is twelve</title>
+  <desc id="desc">Three plates each holding four seeds, and the same twelve seeds drawn as a three-by-four array of dots. Labels read three groups of four, the repeated addition four plus four plus four equals twelve, and the multiplication sentence three times four equals twelve.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Multiplication: Equal Groups</text>
+
+  <!-- Three plates of four -->
+  <text x="120" y="84" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">3 groups of 4</text>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="120" cy="130" rx="34" ry="16" fill="#ffffff"/>
+    <circle cx="104" cy="126" r="5"/><circle cx="120" cy="126" r="5"/><circle cx="136" cy="126" r="5"/>
+    <ellipse cx="120" cy="170" rx="34" ry="16" fill="#ffffff"/>
+    <circle cx="104" cy="166" r="5"/><circle cx="120" cy="166" r="5"/><circle cx="136" cy="166" r="5"/>
+    <ellipse cx="120" cy="210" rx="34" ry="16" fill="#ffffff"/>
+    <circle cx="104" cy="206" r="5"/><circle cx="120" cy="206" r="5"/><circle cx="136" cy="206" r="5"/>
+  </g>
+
+  <!-- Array -->
+  <text x="384" y="84" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">3 rows of 4 (array)</text>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <rect x="300" y="104" width="28" height="28" rx="5"/>
+    <rect x="336" y="104" width="28" height="28" rx="5"/>
+    <rect x="372" y="104" width="28" height="28" rx="5"/>
+    <rect x="408" y="104" width="28" height="28" rx="5"/>
+    <rect x="300" y="140" width="28" height="28" rx="5"/>
+    <rect x="336" y="140" width="28" height="28" rx="5"/>
+    <rect x="372" y="140" width="28" height="28" rx="5"/>
+    <rect x="408" y="140" width="28" height="28" rx="5"/>
+    <rect x="300" y="176" width="28" height="28" rx="5"/>
+    <rect x="336" y="176" width="28" height="28" rx="5"/>
+    <rect x="372" y="176" width="28" height="28" rx="5"/>
+    <rect x="408" y="176" width="28" height="28" rx="5"/>
+  </g>
+
+  <!-- Equations -->
+  <rect x="96" y="258" width="320" height="180" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Repeated addition</text>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2b3a42">4 + 4 + 4 = 12</text>
+  <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Multiplication</text>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#e0a458">3 × 4 = 12</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">Counting equal groups fast is multiplication.</text>
+</svg>

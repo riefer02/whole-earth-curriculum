@@ -63,3 +63,19 @@ drawn from many traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Hundreds, Tens & Ones | D05.S1.03.01 |
+| 2 | Rounding & Comparing to 1,000 | D05.S1.03.01 |
+| 3 | Multiplication as Equal Groups | D05.S1.03.02 |
+| 4 | Division as Sharing & Grouping | D05.S1.03.02 |
+| 5 | Multiplying & Dividing within 100 | D05.S1.03.02 |
+| 6 | Patterns in Tables & Number Grids | D05.S2.03.01 |
+| 7 | Properties Explain Patterns | D05.S2.03.01 |
+| 8 | Two-Step Word Problems | D05.S2.03.02 |
+| 9 | Related Operations | D05.S2.03.02 |
+| 10 | Area of Rectangles | D05.S3.03.01 |
+| 11 | Perimeter of Rectangles | D05.S3.03.01 |
+| 12 | Sorting Shapes by Their Attributes | D05.S3.03.02 |
+| 13 | Shapes That Share Properties | D05.S3.03.02 |
+| 14 | Measuring & Estimating Liquid Volume | D05.S4.03.01 |
+| 15 | Measuring & Estimating Mass | D05.S4.03.01 |
+| 16 | Scaled Graphs & Our Data Celebration | D05.S4.03.02, D05.S2.03.02 |

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Area of a rectangle: four rows of six is twenty-four square units</title>
+  <desc id="desc">A rectangle tiled into four rows of six unit squares, totaling twenty-four squares. Labels show count the squares equals twenty-four, and rows times columns, four times six equals twenty-four, with the note area is how much surface is covered.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Area of a Rectangle</text>
+
+  <!-- Tiled rectangle 4x6 -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <rect x="60" y="76" width="52" height="52"/><rect x="116" y="76" width="52" height="52"/><rect x="172" y="76" width="52" height="52"/><rect x="228" y="76" width="52" height="52"/><rect x="284" y="76" width="52" height="52"/><rect x="340" y="76" width="52" height="52"/>
+    <rect x="60" y="132" width="52" height="52"/><rect x="116" y="132" width="52" height="52"/><rect x="172" y="132" width="52" height="52"/><rect x="228" y="132" width="52" height="52"/><rect x="284" y="132" width="52" height="52"/><rect x="340" y="132" width="52" height="52"/>
+    <rect x="60" y="188" width="52" height="52"/><rect x="116" y="188" width="52" height="52"/><rect x="172" y="188" width="52" height="52"/><rect x="228" y="188" width="52" height="52"/><rect x="284" y="188" width="52" height="52"/><rect x="340" y="188" width="52" height="52"/>
+    <rect x="60" y="244" width="52" height="52"/><rect x="116" y="244" width="52" height="52"/><rect x="172" y="244" width="52" height="52"/><rect x="228" y="244" width="52" height="52"/><rect x="284" y="244" width="52" height="52"/><rect x="340" y="244" width="52" height="52"/>
+  </g>
+
+  <text x="54" y="72" font-family="sans-serif" font-size="14" fill="#4f6d7a">6 per row</text>
+  <text x="34" y="120" font-family="sans-serif" font-size="14" fill="#4f6d7a">4 rows</text>
+  <line x1="34" y1="134" x2="34" y2="288" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5,4"/>
+
+  <!-- Answer box -->
+  <rect x="90" y="330" width="332" height="130" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Count the squares:  24</text>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Rows × columns:  4 × 6 = 24</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#e0a458">Area = 24 square units</text>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">Area is how much surface is covered.</text>
+</svg>

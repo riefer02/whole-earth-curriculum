@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Division as sharing: twelve shared into three groups is four</title>
+  <desc id="desc">Twelve seeds dealt one at a time into three circles, ending with four seeds in each. Curved arrows show the round-and-round dealing. Labels read twelve divided by three equals four, and a note says each share is equal and fair.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Division: Fair Sharing</text>
+
+  <!-- Three share circles -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <ellipse cx="120" cy="150" rx="60" ry="70" fill="#ffffff"/>
+    <circle cx="100" cy="112" r="6"/><circle cx="140" cy="112" r="6"/>
+    <circle cx="100" cy="150" r="6"/><circle cx="140" cy="150" r="6"/>
+    <ellipse cx="280" cy="150" rx="60" ry="70" fill="#ffffff"/>
+    <circle cx="260" cy="112" r="6"/><circle cx="300" cy="112" r="6"/>
+    <circle cx="260" cy="150" r="6"/><circle cx="300" cy="150" r="6"/>
+    <ellipse cx="440" cy="150" rx="60" ry="70" fill="#ffffff"/>
+    <circle cx="420" cy="112" r="6"/><circle cx="460" cy="112" r="6"/>
+    <circle cx="420" cy="150" r="6"/><circle cx="460" cy="150" r="6"/>
+  </g>
+
+  <!-- Dealing arrows -->
+  <g stroke="#4f6d7a" stroke-width="2" fill="none">
+    <path d="M 180 150 Q 230 90 260 150"/>
+    <path d="M 340 150 Q 390 90 420 150"/>
+  </g>
+  <text x="228" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">deal one at a time</text>
+  <text x="390" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">round and round</text>
+
+  <!-- Equation box -->
+  <rect x="96" y="252" width="320" height="150" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">12 shared into 3 groups</text>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#e0a458">12 ÷ 3 = 4</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">4 in each — equal and fair</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">Division is the opposite of multiplication.</text>
+</svg>

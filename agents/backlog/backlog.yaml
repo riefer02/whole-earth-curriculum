@@ -2658,7 +2658,7 @@ items:
     type: lesson
     grade: 3
     domain: D05
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2670,6 +2670,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passes (623 files). IDs L.03.005.01-.16 sequential, sequence_in_unit 1-16, unit U.03.005, grade 3; all 16 carry Connection/Procedure/Assessment. Objectives resolve to the 8 real Grade-3 D05 standards only (S1.03.01/.02, S2.03.01/.02, S3.03.01/.02, S4.03.01/.02) — no invented IDs. unit.md Lessons table lists all 16 (L16 carries S4.03.02+S2.03.02). Math correct (L10 area 4x6=24; L11 perimeter 7+3+7+3=20 'fence vs field'; L15 1kg=1000g, apple≈100g). Connection concrete non-dogmatic (L1 counting by tens/fives/knots/tally all real). Sources Clements & Sarama/Ifrah/Zaslavsky/Van de Walle. validate passes.
+      fact-checker:
+        verdict: passed
+        note: "Math correct: place value (432=4h+3t+2o), rounding (347→350/300), fact families + doubling/halving + distributive (7x6=5x6+2x6=42; 9x7=10x7-1x7=63), two-step (45-18=27, 27+12=39), inverse (12÷?=4→3), area 4x6=24, perimeter 20 fence-vs-field, quadrilateral nesting, 1L=1000mL, 1kg=1000g (apple≈100g), scaled graphs. Six sources real+reviewed:true (Clements & Sarama S-020, Ifrah S-023, Zaslavsky S-024, Carpenter CGI S-025, Van de Walle S-026, NRC 2009 S-027). Corrected S-027 note (NRC PreK-2, Gr3 scaling extends). validate passes (623 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default: math as 'sense-making from many traditions for everyone'; contexts span markets/farms/weaving/beading/fishing/sea/festivals/villages/water jars/mangoes-rice-spices. Multiple traditions side by side (Indian decimal via Arabic scholars, East Asian bamboo counting rods, African counting/tally via Zaslavsky Africa Counts, knotted cords, base-5/base-20) as 'a real way to keep track' not primitive. SI units as 'one among several... the one most of the world agrees on (medicine/trade safer)' — avoids US-customary default + metric-imperialism. Anti-gatekeeping ('no one's speed measures smartness', 'no ranking, no timed tests', 'every graph honored', 'count in home language'); low-cost materials. validate passes (623 files)."
+      accessibility-editor:
+        verdict: passed
+        note: materials_low_tech all 16 (found-object/ground/voice+body). Non-visual/tactile math every lesson (tactile string number line with knots, cups counted by touch, finger-marked pour line, balance tip); Deaf/HoH (sign/taps). Motor (partner/scribe/direct + larger-grip). No silent/timed demand (rejects timed tests + speed-as-smartness; oral/sign/drawn/acted expression). Alt text all 16 assets (SVGs role=img/aria-labelledby/title/desc, no color-only meaning — every cue paired with text label/key). validate passes (623 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: D05.S1.03.x-S4.03.x → D05.S1-S4 → D05 → P3 → vision. Lenses: egalitarianism (no speed=smartness/timed tests/ranking; 'no person worth more than another'; 'every answer counts exactly once'; interest-based grouping), ethics (division as fairness; 'fair measure=honest measure'; standardized units make medicine/trade safer), global (Ifrah/Zaslavsky cited; decimal from India via Arabic scholars; multiple counting traditions; SI units), evidence vs values (every lesson cited Resources + separates facts from norms), tech/env (counting tools as human inventions; measurement technology). No hierarchy/supremacy/gatekeeping. validate passes (623 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: concrete-before-abstract (bundling before digits, arrays/equal groups before ×, tiling before rows×columns, string-steps before perimeter sum); hardest topics (distributive L7, quadrilateral nesting L13) softened with 'say turn it/split it' + 'do not rush it'. Emotional safety: all 16 anti-ranking/anti-speed ('no one's speed measures smartness', 'no ranking, no timed tests', 'not yet is information never a verdict'); multiple valid strategies equal; capstone 'celebration not competition'; no 'math person'; division tied to fairness. Physical fit: manipulatives + motor differentiation (partner-directed, larger grips) + whole-body (walking number line, standing arrays, living bar graphs). Open-ended + spiral (builds Gr2 tens-and-ones). validate passes (623 files)."
   - id: B-305
     title: Author lessons for Unit U.03.006 (Fair Tests & the Changing World)
     agent: lesson-author

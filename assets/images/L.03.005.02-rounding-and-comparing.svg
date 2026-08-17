@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rounding and comparing 347 on a number line</title>
+  <desc id="desc">A number line from 300 to 400 with marks every ten. The number 347 is marked near the middle. Arrows show 347 rounds to 350 for the nearest ten and to 300 for the nearest hundred. Two comparison sentences read 347 is greater than 300 and 347 is less than 400.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Rounding &amp; Comparing</text>
+
+  <!-- Number line 300-400 -->
+  <line x1="48" y1="180" x2="464" y2="180" stroke="#2b3a42" stroke-width="3"/>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="48" y1="168" x2="48" y2="192"/>
+    <line x1="151.6" y1="172" x2="151.6" y2="188"/>
+    <line x1="255.2" y1="172" x2="255.2" y2="188"/>
+    <line x1="358.8" y1="172" x2="358.8" y2="188"/>
+    <line x1="464" y1="168" x2="464" y2="192"/>
+  </g>
+  <g font-family="sans-serif" font-size="16" fill="#2b3a42">
+    <text x="48" y="214" text-anchor="middle">300</text>
+    <text x="151.6" y="214" text-anchor="middle">325</text>
+    <text x="255.2" y="214" text-anchor="middle">350</text>
+    <text x="358.8" y="214" text-anchor="middle">375</text>
+    <text x="464" y="214" text-anchor="middle">400</text>
+  </g>
+
+  <!-- 347 mark -->
+  <circle cx="300" cy="180" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="300" y="156" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#c0504d">347</text>
+
+  <!-- Round to nearest ten -->
+  <line x1="300" y1="150" x2="255.2" y2="150" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5,4"/>
+  <text x="278" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">nearest ten</text>
+  <text x="255.2" y="246" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#7a9e7e">350</text>
+
+  <!-- Round to nearest hundred -->
+  <line x1="300" y1="210" x2="48" y2="210" stroke="#6b93b6" stroke-width="2" stroke-dasharray="5,4"/>
+  <text x="170" y="238" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#6b93b6">nearest hundred</text>
+  <text x="48" y="268" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#7a9e7e">300</text>
+
+  <!-- Comparison box -->
+  <rect x="96" y="300" width="320" height="150" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Compare</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">347 &gt; 300</text>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">347 &lt; 400</text>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">Round = which mark is nearer.</text>
+</svg>

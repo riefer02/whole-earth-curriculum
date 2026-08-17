@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A two-step word problem solved in two steps</title>
+  <desc id="desc">A fruit seller story with a bar diagram. The bar shows 45 mangoes, a cut-away section of 18 sold, leaving 27, then an added section of 12 more, reaching 39. Below, the two number sentences are written as step one, forty-five minus eighteen equals twenty-seven, and step two, twenty-seven plus twelve equals thirty-nine.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Two-Step Word Problem</text>
+
+  <text x="256" y="74" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">A seller has 45 mangoes. She sells 18, then gets 12 more.</text>
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">How many does she have now?</text>
+
+  <!-- Bar diagram -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <!-- original 45 -->
+    <rect x="48" y="130" width="300" height="44" fill="#7a9e7e"/>
+    <!-- sold 18 -->
+    <rect x="48" y="130" width="120" height="44" fill="#c0504d"/>
+    <line x1="168" y1="124" x2="168" y2="180" stroke="#2b3a42" stroke-width="3" stroke-dasharray="6,4"/>
+    <!-- remaining 27 -->
+    <rect x="48" y="196" width="180" height="44" fill="#6b93b6"/>
+    <!-- added 12 -->
+    <rect x="228" y="196" width="80" height="44" fill="#e0a458"/>
+    <!-- final 39 -->
+    <rect x="48" y="262" width="260" height="44" fill="#7a9e7e"/>
+  </g>
+
+  <g font-family="sans-serif" font-size="15" fill="#2b3a42">
+    <text x="48" y="120">45</text>
+    <text x="108" y="166" fill="#ffffff">sold 18</text>
+    <text x="48" y="188">27</text>
+    <text x="132" y="224">left</text>
+    <text x="260" y="224">+12</text>
+    <text x="48" y="254">39</text>
+    <text x="168" y="290">in all</text>
+  </g>
+
+  <!-- Steps -->
+  <rect x="96" y="330" width="320" height="120" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Step 1 (subtract):  45 − 18 = 27</text>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Step 2 (add):  27 + 12 = 39</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">She has 39 mangoes now.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">Two steps, one at a time.</text>
+</svg>

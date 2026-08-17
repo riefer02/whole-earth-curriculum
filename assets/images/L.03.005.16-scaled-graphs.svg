@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Scaled picture graph and bar graph of the same data</title>
+  <desc id="desc">The same how-children-get-to-school data shown two ways with a scale of one symbol for two children. On the left a scaled picture graph with walking four symbols, riding two symbols, and bus three symbols. On the right a scaled bar graph with the same counts. A key reads one symbol equals two children, and a finding card reads four more children walk than ride, from two symbols more times two equals four.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Scaled Graphs (1 symbol = 2 children)</text>
+
+  <!-- Picture graph -->
+  <text x="130" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">Picture graph</text>
+  <g font-family="sans-serif" font-size="14" fill="#2b3a42">
+    <text x="26" y="100">walk</text>
+    <text x="26" y="164">ride</text>
+    <text x="26" y="228">bus</text>
+  </g>
+  <!-- walk: 4 symbols -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="88" cy="94" r="10"/><circle cx="118" cy="94" r="10"/><circle cx="148" cy="94" r="10"/><circle cx="178" cy="94" r="10"/>
+  </g>
+  <!-- ride: 2 symbols -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="88" cy="158" r="10"/><circle cx="118" cy="158" r="10"/>
+  </g>
+  <!-- bus: 3 symbols -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <circle cx="88" cy="222" r="10"/><circle cx="118" cy="222" r="10"/><circle cx="148" cy="222" r="10"/>
+  </g>
+
+  <!-- Bar graph -->
+  <text x="390" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">Bar graph</text>
+  <line x1="280" y1="88" x2="280" y2="240" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="280" y1="240" x2="470" y2="240" stroke="#2b3a42" stroke-width="2"/>
+  <!-- walk 8 -->
+  <rect x="300" y="168" width="40" height="72" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- ride 4 -->
+  <rect x="360" y="204" width="40" height="36" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- bus 6 -->
+  <rect x="420" y="186" width="40" height="54" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="320" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">walk</text>
+  <text x="380" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">ride</text>
+  <text x="440" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">bus</text>
+  <text x="318" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#c0504d">8</text>
+  <text x="378" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#c0504d">4</text>
+  <text x="438" y="178" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#c0504d">6</text>
+
+  <!-- Key -->
+  <rect x="70" y="292" width="150" height="70" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <circle cx="94" cy="318" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="116" y="324" font-family="sans-serif" font-size="15" fill="#2b3a42">= 2 children</text>
+  <text x="92" y="352" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">Key</text>
+
+  <!-- Finding -->
+  <rect x="250" y="292" width="220" height="90" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="360" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">2 more symbols walk than ride.</text>
+  <text x="360" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">2 × 2 = 4</text>
+  <text x="360" y="370" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">4 more children walk.</text>
+
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">A scale turns many marks into a clear picture.</text>
+</svg>
