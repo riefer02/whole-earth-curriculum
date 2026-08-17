@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Welcome In: a circle opens for a newcomer</title>
+  <desc id="desc">A circle of children opens to welcome a newcomer. The newcomer stands at the edge holding a small bag and looking hopeful. Two children reach out a hand, one offers a seat, and a speech bubble says "welcome." The circle is labeled "belonging," and the open gap is labeled "the door opens for everyone." People vary in skin tone and dress, and one child uses a wheelchair.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Welcome In</text>
+
+  <!-- circle of children (open at bottom-right) -->
+  <!-- child 1 (top) -->
+  <g>
+    <circle cx="256" cy="120" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="250" cy="116" r="2.5" fill="#2b3a42"/>
+    <circle cx="262" cy="116" r="2.5" fill="#2b3a42"/>
+    <path d="M248 126 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- child 2 (left) -->
+  <g>
+    <circle cx="140" cy="180" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="134" cy="176" r="2.5" fill="#2b3a42"/>
+    <circle cx="146" cy="176" r="2.5" fill="#2b3a42"/>
+    <path d="M132 186 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- child 3 (left, wheelchair) -->
+  <g>
+    <circle cx="120" cy="280" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 300 v20" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="98" y="320" width="44" height="34" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="108" cy="360" r="9" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="132" cy="360" r="9" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- child 4 (right) -->
+  <g>
+    <circle cx="360" cy="180" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="354" cy="176" r="2.5" fill="#2b3a42"/>
+    <circle cx="366" cy="176" r="2.5" fill="#2b3a42"/>
+    <path d="M352 186 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M378 186 l14 6 M378 186 l14 -2" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <!-- child 5 (right, reaching out) -->
+  <g>
+    <circle cx="380" cy="280" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M380 300 v16" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M364 292 l16 16" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- newcomer (bottom) -->
+  <g>
+    <circle cx="250" cy="360" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="244" cy="356" r="2.5" fill="#2b3a42"/>
+    <circle cx="256" cy="356" r="2.5" fill="#2b3a42"/>
+    <path d="M242 366 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M250 380 v20" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="258" y="380" width="20" height="24" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M258 380 q0 -6 10 -6" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- reaching hand toward newcomer -->
+  <path d="M330 300 q-10 40 -60 52" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- speech bubble -->
+  <g>
+    <path d="M356 120 q0 -26 56 -26 h20 q26 0 26 26 v18 q0 26 -26 26 h-40 l-14 16 l4 -16 h-26 q-26 0 -26 -26 z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="400" y="146" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">welcome</text>
+  </g>
+
+  <!-- labels -->
+  <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">belonging</text>
+  <text x="430" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">the door opens</text>
+  <text x="430" y="438" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">for everyone</text>
+</svg>

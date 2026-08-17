@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A Small Act of Care: caring for shared spaces</title>
+  <desc id="desc">A small act of care in action. One child sweeps a shared classroom floor while another wipes a table. A third waters a potted plant, and a fourth helps an older neighbor carry a basket. A planning card in the corner shows the words "what, where, who, when." The scene is labeled "care for our shared spaces." People vary in skin tone and dress, and one child wears a hearing aid.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A Small Act of Care</text>
+
+  <!-- sweeper -->
+  <g>
+    <circle cx="100" cy="150" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="93" cy="145" r="2.5" fill="#2b3a42"/>
+    <circle cx="107" cy="145" r="2.5" fill="#2b3a42"/>
+    <path d="M92 158 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M100 172 v28" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M100 186 l10 8 M100 186 l-10 8" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M82 200 l38 -14" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M112 182 l10 16" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <rect x="70" y="212" width="60" height="8" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- table wiper -->
+  <g>
+    <circle cx="260" cy="150" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="253" cy="145" r="2.5" fill="#2b3a42"/>
+    <circle cx="267" cy="145" r="2.5" fill="#2b3a42"/>
+    <path d="M252 158 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M260 172 v20" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M260 180 l10 8 M260 180 l-10 8" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="222" y="196" width="76" height="12" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="238" y="206" width="44" height="6" rx="2" fill="#4f6d7a" opacity="0.6"/>
+    <rect x="230" y="192" width="16" height="8" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- plant waterer -->
+  <g>
+    <circle cx="400" cy="140" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="393" cy="135" r="2.5" fill="#2b3a42"/>
+    <circle cx="407" cy="135" r="2.5" fill="#2b3a42"/>
+    <path d="M392 148 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M400 162 v22" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M400 172 l10 8 M400 172 l-10 8" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M418 166 l14 12" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M428 170 q-3 -8 -10 -10" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M404 196 l10 -8 l0 18 z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="392" y="212" width="28" height="16" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- neighbor helper -->
+  <g>
+    <circle cx="140" cy="320" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M140 340 v24" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M140 352 l12 10 M140 352 l-12 10" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="152" y="330" width="20" height="26" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="216" cy="320" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M216 340 v24" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M216 352 l12 10 M216 352 l-12 10" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M206 346 l14 24" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- planning card -->
+  <rect x="330" y="300" width="160" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="410" y="326" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">plan:</text>
+  <text x="346" y="350" font-family="sans-serif" font-size="14" fill="#222222">what · where</text>
+  <text x="346" y="372" font-family="sans-serif" font-size="14" fill="#222222">who · when</text>
+  <rect x="346" y="388" width="120" height="20" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 3"/>
+
+  <!-- label -->
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">care for our shared spaces</text>
+</svg>

@@ -3361,7 +3361,7 @@ items:
     type: lesson
     grade: 4
     domain: D01
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3372,7 +3372,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by fact-checker: Content factually sound (CASEL/UNESCO ICH/Dweck/Kirschner all registered + accurate; Erikson identity framing defensible; evidence-vs-values clean). BUT: (1) L06 misattributed author 'Putman' -> should be Putnam (Robert D. Putnam, Bowling Alone 2000); (2) four sources unregistered: Erikson 1950 Childhood and Society, Search Institute 40 Developmental Assets, Putnam 2000 Bowling Alone, UNESCO Learning to Live Together (L05 points at generic unesco.org homepage).."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (814). Fixes confirmed: L6 'Putnam' corrected, L5 UNESCO URL en.unesco.org/themes/learning-live-together, S-155-S-158 registered; IDs L.04.012.01-.07 resolve to real D01/D02 standards (D01.S2.04.01/.02, D01.S3.04.01, D02.S3.04.01/.02, D02.S4.04.01); headings all 7."
+      fact-checker:
+        verdict: passed
+        note: Putnam spelling corrected everywhere (no 'Putman' remains); 4 sources registered reviewed:true (S-155 Erikson, S-156 Search Institute, S-157 Putnam, S-158 UNESCO LTLT); L05 UNESCO URL real theme page framed as value not fact. Fixed S-156 cross-ref typo (U.04.012 not U.04.004). validate passes (814).
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro default. L2 traditions open-ended (food/song/greeting/remembrance) + mosque/church/temple/market imagery, family shapes (parents/one/grandparents/kin/guardians/foster/chosen/blended) + adoption/loss/mobility gentle ('tradition I carry in my heart' full answer); L5 welcome cross-cultural (bow/handshake/cup of tea/song) + extension compares two cultures; L7 celebration class-created (song/clap/movement) globally framed (harvest/season/graduation/year's work) no single holiday; L6 diverse names (Amara/Jo/Mei); disability representation (wheelchair/hearing aid/cane).
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier all 7 (voice/memory/found objects/hands), no wealth assumption ('no role should require money' L4, acts 'real free safe' L6, cameras optional); SVG role=img+title+desc+non-empty alt all 7 grayscale-safe (labels+outlines); UDL multiple means + Differentiation + context_variants; blind (map in words/tactual, describe aloud/tactile), Deaf (visual clap/sign/flag wave), non-speaking (point/sign/draw), motor (checker/caller, 'part that fits each body'), 'pass is a full share'; no eye-closing/physical-only.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L5 'welcome as value' vs 'welcome as fact', L2/L7 respect traditions without ranking, L6 care for common good not self-advantage); egalitarianism ('no tradition better or more real' L2, 'every role equal worth' L4, 'celebration never a contest no winners no ranking' L7, ability adaptations every lesson); global (welcomes across cultures bow/handshake/cup of tea, UNESCO ICH, mosque/church/temple imagery, non-Euro); tech/env light but present (L6 'caring shared space is caring living world', optional enriched tech). Evidence vs values (CASEL/Erikson/Dweck/Kirschner/UNESCO/Putnam/Search Institute, L5 value-vs-fact). Traceability: Vision->P1->D01+D02->strands->6 standards->U.04.012->L.04.012.01-.07; all objectives resolve; no hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (9-10, 3-5): cognitive concrete-anchored (me map, tradition web, plan-try-adjust page, role card, welcome/care plans; 'sense of self'/'belonging' unpacked with spoken models + warmth/safety metaphor); emotional safety identity descriptive never ranked ('no best interests/abilities'), loss/mobility/adoption scaffolded ('tradition I carry in my heart' full answer, 'still learning to say it', every family shape), sharing optional throughout ('share only what you choose', 'pass is a full share', 'never demand arrival story'), no forced disclosure; physical hands-on + safety explicit (gloves L6); open-ended (L5 welcome-as-value vs fact, non-Euro); spiral from G3 goal-setting/celebration."
   - id: B-324
     title: Author lessons for Unit U.05.002 (My Feelings, My Values & My Growing Self)
     agent: lesson-author

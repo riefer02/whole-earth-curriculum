@@ -58,3 +58,10 @@ road toward Grade 5.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | The Me I'm Becoming | D01.S2.04.01 |
+| 2 | My Tradition, My Community | D01.S2.04.02 |
+| 3 | Plan It, Try It, Adjust It | D01.S3.04.01 |
+| 4 | A Role I Can Play | D02.S3.04.01 |
+| 5 | Welcome In | D02.S3.04.02 |
+| 6 | A Small Act of Care | D02.S4.04.01 |
+| 7 | All of Me, All of Us: Our Celebration | D01.S2.04.01, D01.S2.04.02, D01.S3.04.01, D02.S3.04.01, D02.S3.04.02, D02.S4.04.01 |

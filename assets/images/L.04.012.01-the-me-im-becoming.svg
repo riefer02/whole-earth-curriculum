@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Me I'm Becoming: a map of the self</title>
+  <desc id="desc">A map of the self. A child in a wheelchair sits at the center. Three labeled branches reach toward the child: "what I love doing" shows a book and a ball; "what I can do" shows a watering can and a helping hand; "what I have lived" shows a winding path and a small family group. The three branches meet at the word "me," and an arrow points ahead to "the me I'm becoming." People vary in skin tone, dress, and ability.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Me I'm Becoming</text>
+
+  <!-- branch connectors -->
+  <path d="M120 160 Q170 220 250 250" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="6 6"/>
+  <path d="M392 150 Q330 215 266 252" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="6 6"/>
+  <path d="M140 400 Q200 340 258 282" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="6 6"/>
+
+  <!-- Branch 1: interests -->
+  <g>
+    <rect x="24" y="96" width="150" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="99" y="120" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">what I</text>
+    <text x="99" y="140" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">love doing</text>
+    <rect x="38" y="152" width="34" height="26" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="116" cy="165" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M116 154 A14 14 0 0 1 116 176" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Branch 2: abilities -->
+  <g>
+    <rect x="338" y="86" width="150" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="413" y="110" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">what I</text>
+    <text x="413" y="130" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">can do</text>
+    <path d="M360 168 l10 -6 0 14 z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M376 176 q-3 -12 -10 -14" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M430 168 q8 0 8 8 v8 q0 8 -8 8 h-8" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Branch 3: experiences -->
+  <g>
+    <rect x="40" y="340" width="150" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="115" y="364" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">what I</text>
+    <text x="115" y="384" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">have lived</text>
+    <path d="M52 432 q20 -14 40 0 q20 14 40 0" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="56" cy="420" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="96" cy="420" r="7" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="76" cy="410" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Center: child in wheelchair -->
+  <g>
+    <circle cx="256" cy="256" r="56" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="238" cy="246" r="3.5" fill="#2b3a42"/>
+    <circle cx="274" cy="246" r="3.5" fill="#2b3a42"/>
+    <path d="M244 268 q12 10 24 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="222" y="312" width="68" height="46" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="238" cy="372" r="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="274" cy="372" r="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">me</text>
+  </g>
+
+  <!-- Arrow to the future -->
+  <path d="M430 300 L468 300" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M468 300 L458 292 M468 300 L458 308" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <text x="472" y="286" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">the me I'm</text>
+  <text x="472" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">becoming</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Plan It, Try It, Adjust It: a goal loop</title>
+  <desc id="desc">A three-part plan-try-adjust loop. On the left, a child writes numbered steps up a short staircase labeled "my plan," with a goal flag at the top. In the middle, the child tries the first step and a small wobble is marked "what happened." On the right, a curved arrow labeled "adjust" loops back to the staircase where one step is redrawn, showing that when a step does not work you change it and try again.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Plan It, Try It, Adjust It</text>
+
+  <!-- staircase (plan) -->
+  <g>
+    <rect x="60" y="240" width="80" height="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="60" y="190" width="80" height="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="60" y="140" width="80" height="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="30" y="240" font-family="sans-serif" font-size="15" fill="#222222">3.</text>
+    <text x="30" y="190" font-family="sans-serif" font-size="15" fill="#222222">2.</text>
+    <text x="30" y="140" font-family="sans-serif" font-size="15" fill="#222222">1.</text>
+    <!-- redrawn step (adjustment) -->
+    <rect x="60" y="90" width="80" height="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 4"/>
+    <text x="60" y="100" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1. changed!</text>
+    <!-- goal flag -->
+    <path d="M104 50 L104 84" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M104 52 L150 62 L104 72 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="196" y="66" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my plan</text>
+  </g>
+
+  <!-- child trying -->
+  <g>
+    <circle cx="280" cy="210" r="26" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="270" cy="204" r="2.5" fill="#2b3a42"/>
+    <circle cx="290" cy="204" r="2.5" fill="#2b3a42"/>
+    <path d="M272 218 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M280 236 v30" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M280 252 l16 10 M280 252 l-16 10" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M296 240 l18 30" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <text x="280" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">what happened</text>
+    <!-- wobble marks -->
+    <path d="M320 250 q4 -6 8 0" fill="none" stroke="#e0a458" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M330 256 q4 -6 8 0" fill="none" stroke="#e0a458" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- adjust arrow looping back -->
+  <path d="M370 300 Q470 300 420 180 Q360 60 190 70" fill="none" stroke="#6b93b6" stroke-width="3" stroke-dasharray="7 5"/>
+  <path d="M190 70 L182 60 M190 70 L196 62" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+  <text x="430" y="300" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">adjust</text>
+  <text x="450" y="322" font-family="sans-serif" font-size="13" fill="#222222">and try</text>
+  <text x="450" y="340" font-family="sans-serif" font-size="13" fill="#222222">again</text>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">All of Me, All of Us: Our Celebration</title>
+  <desc id="desc">A year-end celebration. In the middle, a child holds up a portfolio page with a star and a sprout while friends clap. Around the circle, six labeled pages are displayed equally: "me," "my tradition," "my goal," "my role," "welcome," and "my care act." An arrow points ahead to a flag labeled "Grade 5." People vary in skin tone and dress; one child uses a wheelchair and one wears a hearing aid.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">All of Me, All of Us</text>
+
+  <!-- six pages around the circle -->
+  <g>
+    <rect x="40" y="90" width="76" height="96" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="78" y="132" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">me</text>
+    <circle cx="78" cy="150" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+
+    <rect x="396" y="90" width="76" height="96" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="434" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">my</text>
+    <text x="434" y="140" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">tradition</text>
+    <rect x="418" y="152" width="12" height="12" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+
+    <rect x="40" y="320" width="76" height="96" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="78" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">my goal</text>
+    <path d="M58 392 h40 M58 380 h40 M58 368 h40" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+
+    <rect x="396" y="320" width="76" height="96" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="434" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">my role</text>
+    <rect x="420" y="366" width="28" height="20" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+
+    <rect x="140" y="64" width="76" height="60" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="178" y="100" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">welcome</text>
+
+    <rect x="296" y="64" width="76" height="60" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="334" y="96" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">my care</text>
+    <text x="334" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">act</text>
+  </g>
+
+  <!-- center child holding up a page -->
+  <g>
+    <circle cx="256" cy="250" r="30" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="245" cy="244" r="3" fill="#2b3a42"/>
+    <circle cx="267" cy="244" r="3" fill="#2b3a42"/>
+    <path d="M247 262 q9 7 18 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 280 v26" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M256 294 l12 10 M256 294 l-12 10" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M240 286 l14 18" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M272 286 l-14 18" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <rect x="228" y="238" width="34" height="26" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M234 248 l4 3 l7 -8" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- clapping friends (left and right) -->
+  <g>
+    <circle cx="170" cy="260" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="163" cy="255" r="2.5" fill="#2b3a42"/>
+    <circle cx="177" cy="255" r="2.5" fill="#2b3a42"/>
+    <path d="M162 268 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M148 258 l-8 -10 M148 258 l-8 10" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M192 258 l8 -10 M192 258 l8 10" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+    <circle cx="342" cy="260" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="335" cy="255" r="2.5" fill="#2b3a42"/>
+    <circle cx="349" cy="255" r="2.5" fill="#2b3a42"/>
+    <path d="M334 268 q8 6 16 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M320 258 l-8 -10 M320 258 l-8 10" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M364 258 l8 -10 M364 258 l8 10" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- hearing aid on one clapping friend -->
+  <path d="M352 252 a6 6 0 0 1 9 0" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- arrow to Grade 5 -->
+  <path d="M256 330 L256 396" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M256 396 L248 386 M256 396 L264 386" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M230 420 L282 420 L282 456 L230 456 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">Grade 5</text>
+</svg>

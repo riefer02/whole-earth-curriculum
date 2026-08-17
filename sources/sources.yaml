@@ -1419,3 +1419,39 @@ sources:
     domains: [D10]
     reviewed: true
     notes: "Cited in U.04.011 L07/L10 for the reduce-reuse-recycle waste hierarchy (reduce first, then reuse, then recycle). URL verified live (2026-08-17). US-centric source; treated as one authoritative waste-hierarchy reference, not the only tradition."
+
+  - id: S-155
+    title: "Erikson — Childhood and Society"
+    type: book
+    organization: W. W. Norton
+    year: 1950
+    domains: [D01]
+    reviewed: true
+    notes: "Erik H. Erikson (1950). Childhood and Society. W. W. Norton. Cited in U.04.012 L01/L07 for identity as a developing, lifelong process and the school-age 'industry vs. inferiority' stage (~ages 9-10). Real, foundational developmental-psychology text; the lesson's framing (identity as ongoing process) is accurate. No URL (print book)."
+
+  - id: S-156
+    title: "Search Institute — 40 Developmental Assets"
+    type: website
+    url: https://searchinstitute.org/resources-hub/developmental-assets-framework/
+    organization: Search Institute
+    domains: [D01, D02]
+    reviewed: true
+    notes: "Cited in U.04.012 L04 (A Role I Can Play) for contribution and responsibility as developmental/protective factors (external assets: empowerment/service; internal assets: positive values incl. caring and responsibility). Real framework; URL verified live (2026-08-17)."
+
+  - id: S-157
+    title: "Putnam — Bowling Alone"
+    type: book
+    organization: Simon & Schuster
+    year: 2000
+    domains: [D02]
+    reviewed: true
+    notes: "Robert D. Putnam (2000). Bowling Alone: The Collapse and Revival of American Community. Simon & Schuster. Cited in U.04.012 L06 (A Small Act of Care) for shared spaces and community/social trust. Real, seminal book on social capital. Note: author is 'Putnam' (corrected from a misspelled 'Putman' in the lesson). No URL (print book)."
+
+  - id: S-158
+    title: "UNESCO — Learning to Live Together"
+    type: website
+    url: https://en.unesco.org/themes/learning-live-together
+    organization: UNESCO
+    domains: [D02, D09]
+    reviewed: true
+    notes: "Cited in U.04.012 L05 (Welcome In) for belonging and inclusion across cultures — one of the four pillars of learning from the Delors report (Learning: The Treasure Within, 1996). URL verified live (2026-08-17). Used as a value frame, not a factual claim."
