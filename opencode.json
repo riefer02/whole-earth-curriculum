@@ -5,7 +5,7 @@
     "curriculum": {
       "description": "Curriculum loop orchestrator: drives the NWO-EDU agent loop to completion.",
       "mode": "primary",
-      "steps": 400,
+      "steps": 2000,
       "prompt": "{file:./agents/prompts/loop-orchestrator.md}",
       "permission": { "edit": "allow", "bash": "allow", "task": "allow" }
     },
