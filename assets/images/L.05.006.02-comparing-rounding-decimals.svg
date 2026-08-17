@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Comparing and rounding decimals</title>
+  <desc id="desc">A number line from 0 to 1 marked in tenths with smaller hundredths ticks. The point 0.5 is highlighted with a filled dot and labeled with its fraction equivalents: 1/2, 5/10, and 50/100. A second panel below shows rounding: 0.46 is marked on a small number line, and an arrow points from 0.46 to 0.5, labeled "round 0.46 to the nearest tenth gives 0.5." Labels, tick marks, and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Comparing and Rounding Decimals</text>
+
+  <!-- Number line 0 to 1 -->
+  <line x1="60" y1="110" x2="460" y2="110" stroke="#2b3a42" stroke-width="3"/>
+  <!-- tenths ticks -->
+  <line x1="60" y1="100" x2="60" y2="120" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="140" y1="100" x2="140" y2="120" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="220" y1="100" x2="220" y2="120" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="300" y1="100" x2="300" y2="120" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="380" y1="100" x2="380" y2="120" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="460" y1="100" x2="460" y2="120" stroke="#2b3a42" stroke-width="3"/>
+  <!-- hundredths ticks (smaller) -->
+  <line x1="100" y1="104" x2="100" y2="116" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="180" y1="104" x2="180" y2="116" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="260" y1="104" x2="260" y2="116" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="340" y1="104" x2="340" y2="116" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="420" y1="104" x2="420" y2="116" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <text x="60" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">0</text>
+  <text x="140" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">0.2</text>
+  <text x="220" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">0.4</text>
+  <text x="300" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">0.6</text>
+  <text x="380" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">0.8</text>
+  <text x="460" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">1</text>
+
+  <!-- highlight 0.5 at x=260 -->
+  <circle cx="260" cy="110" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="260" y="90" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">0.5</text>
+
+  <!-- equivalence callout -->
+  <rect x="52" y="168" width="416" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="260" y="196" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">One point, four names</text>
+  <text x="260" y="226" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">0.5 = 5/10 = 50/100 = 1/2</text>
+  <text x="260" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">all at the same place on the line</text>
+
+  <!-- Rounding panel -->
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Rounding 0.46 to the nearest tenth</text>
+  <line x1="60" y1="330" x2="460" y2="330" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="60" y1="322" x2="60" y2="338" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="260" y1="322" x2="260" y2="338" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="460" y1="322" x2="460" y2="338" stroke="#2b3a42" stroke-width="3"/>
+  <text x="60" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0.4</text>
+  <text x="260" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0.5</text>
+  <text x="460" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0.6</text>
+
+  <!-- 0.46 mark between 0.4 and 0.5 -->
+  <circle cx="236" cy="330" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="236" y="318" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0.46</text>
+  <!-- arrow to 0.5 -->
+  <line x1="246" y1="348" x2="256" y2="348" stroke="#e0a458" stroke-width="3"/>
+  <path d="M 254 343 L 260 348 L 254 353 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">0.46 rounds to 0.5</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">look at the hundredths (6): 5 or more, round up</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">0.5 = 0.50 — same amount, two ways to write it</text>
+</svg>

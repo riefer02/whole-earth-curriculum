@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Adding and subtracting decimals with money</title>
+  <desc id="desc">A market-themed decimal addition diagram. Two price tags read 2.50 and 1.75. A bar model shows 2.50 plus 1.75 combining into a total bar of 4.25. Below, a change problem shows a vertical equation 5.00 minus 4.25 equals 0.75, with the decimal points lined up. Labels, digits, and bar lengths, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Money: Add and Subtract Decimals</text>
+
+  <!-- Price tags -->
+  <g>
+    <rect x="40" y="66" width="120" height="70" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="64" cy="80" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="64" y1="80" x2="64" y2="120" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="100" y="112" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">2.50</text>
+    <text x="100" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">rice</text>
+  </g>
+
+  <g>
+    <rect x="196" y="66" width="120" height="70" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="220" cy="80" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="220" y1="80" x2="220" y2="120" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">1.75</text>
+    <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">fruit</text>
+  </g>
+
+  <text x="180" y="105" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#2b3a42">+</text>
+
+  <!-- Bar model -->
+  <text x="256" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">Bar model</text>
+  <rect x="60" y="206" width="150" height="46" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="135" y="235" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">2.50</text>
+  <rect x="210" y="206" width="106" height="46" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="263" y="235" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">1.75</text>
+
+  <rect x="60" y="272" width="256" height="50" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="188" y="304" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#ffffff">total 4.25</text>
+
+  <!-- Change problem -->
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">Give change from 5.00</text>
+
+  <text x="330" y="392" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">5.00</text>
+  <text x="330" y="418" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">− 4.25</text>
+  <line x1="300" y1="426" x2="360" y2="426" stroke="#2b3a42" stroke-width="2"/>
+  <text x="330" y="450" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">0.75</text>
+
+  <!-- dotted line showing decimal alignment -->
+  <line x1="320" y1="386" x2="320" y2="446" stroke="#e0a458" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="120" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">line up the</text>
+  <text x="120" y="458" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">decimal points</text>
+
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">ten hundredths make a tenth; ten tenths make a one</text>
+</svg>

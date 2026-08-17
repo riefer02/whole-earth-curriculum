@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Using conversions to solve problems</title>
+  <desc id="desc">A real-problem conversion diagram. Top left shows two bottles labeled 500 mL and 250 mL, with a note that together they make 750 mL, which is 0.75 L. Top right shows a walking route labeled 1.5 km, converted to 1500 m. Bottom shows a grain bag labeled 1 kg and a smaller 250 g bag, noting the large bag is 4 times the small one, since 1000 g divided by 250 g equals 4. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Using Conversions to Solve Problems</text>
+
+  <!-- Combine liquids -->
+  <text x="120" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">Combine liquids</text>
+  <rect x="40" y="86" width="60" height="80" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="70" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">500</text>
+  <text x="70" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#ffffff">mL</text>
+
+  <rect x="130" y="106" width="48" height="60" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="154" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">250</text>
+  <text x="154" y="156" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#ffffff">mL</text>
+
+  <text x="120" y="200" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">500 + 250 = 750 mL</text>
+  <text x="120" y="222" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">= 0.75 L</text>
+
+  <!-- Compare distances -->
+  <text x="392" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">Compare distances</text>
+  <line x1="260" y1="120" x2="500" y2="120" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="260" y1="112" x2="260" y2="128" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="500" y1="112" x2="500" y2="128" stroke="#2b3a42" stroke-width="3"/>
+  <text x="380" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">1.5 km = 1500 m</text>
+  <text x="260" y="144" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">morning</text>
+  <text x="500" y="144" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">afternoon</text>
+
+  <line x1="300" y1="168" x2="380" y2="168" stroke="#7a9e7e" stroke-width="5"/>
+  <text x="340" y="190" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">800 m</text>
+  <text x="392" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1500 > 800</text>
+
+  <!-- Compare masses -->
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">Compare masses</text>
+  <ellipse cx="150" cy="360" rx="70" ry="60" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">1 kg</text>
+  <text x="150" y="386" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">= 1000 g</text>
+
+  <ellipse cx="360" cy="380" rx="40" ry="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="360" y="378" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">250 g</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">1000 g ÷ 250 g = 4</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the large bag is 4 times the small one</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">convert first so units match, then solve, then check</text>
+</svg>

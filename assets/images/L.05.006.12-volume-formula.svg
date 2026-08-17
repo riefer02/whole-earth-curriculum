@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The volume formula</title>
+  <desc id="desc">A labeled rectangular prism with length 4, width 2, and height 3 marked on its edges. Below, the volume formula V equals length times width times height is shown with the values substituted: V equals 4 times 2 times 3 equals 24 cubic units. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">The Volume Formula</text>
+
+  <!-- 3D box: front face + top face + side face -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <!-- front face (width x height) -->
+    <rect x="120" y="150" width="160" height="120" fill="#7a9e7e" opacity="0.35"/>
+    <!-- top face (length x width) -->
+    <path d="M 120 150 L 200 110 L 360 110 L 280 150 Z" fill="#6b93b6" opacity="0.35"/>
+    <!-- side face (length x height) -->
+    <path d="M 280 150 L 360 110 L 360 230 L 280 270 Z" fill="#e0a458" opacity="0.35"/>
+  </g>
+
+  <!-- edge labels -->
+  <text x="200" y="288" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">width = 2</text>
+  <text x="96" y="216" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42" transform="rotate(-90 96 216)">height = 3</text>
+  <text x="240" y="98" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">length = 4</text>
+
+  <!-- formula -->
+  <rect x="90" y="316" width="332" height="74" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#6b93b6">V = length × width × height</text>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">length × width = one layer · × height = the layers</text>
+
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">V = 4 × 2 × 3</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">= 24 cubic units</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">volume measures the space inside a box</text>
+</svg>

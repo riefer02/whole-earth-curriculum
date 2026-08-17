@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Coordinates, perimeter, and paths</title>
+  <desc id="desc">A first-quadrant coordinate grid showing a rectangle with corners at (1,1), (5,1), (5,4), and (1,4). The side lengths are labeled: width 4 units across and height 3 units up. Below the grid, the perimeter is computed as 4 plus 3 plus 4 plus 3 equals 14 units. A dashed path from (1,1) to (5,4) along grid lines is also shown and labeled 4 plus 3 equals 7 units. Labels and counts, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Coordinates: Perimeter and Paths</text>
+
+  <g transform="translate(60, 60)">
+    <line x1="0" y1="0" x2="0" y2="260" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="0" y1="260" x2="300" y2="260" stroke="#2b3a42" stroke-width="3"/>
+    <g stroke="#d7d1c8" stroke-width="1">
+      <line x1="60" y1="0" x2="60" y2="260"/><line x1="120" y1="0" x2="120" y2="260"/>
+      <line x1="180" y1="0" x2="180" y2="260"/><line x1="240" y1="0" x2="240" y2="260"/><line x1="300" y1="0" x2="300" y2="260"/>
+      <line x1="0" y1="195" x2="300" y2="195"/><line x1="0" y1="130" x2="300" y2="130"/>
+      <line x1="0" y1="65" x2="300" y2="65"/>
+    </g>
+    <text x="0" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">0</text>
+    <text x="60" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">1</text>
+    <text x="120" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2</text>
+    <text x="180" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">3</text>
+    <text x="240" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">4</text>
+    <text x="300" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">5</text>
+    <text x="-14" y="260" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">0</text>
+    <text x="-14" y="195" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">1</text>
+    <text x="-14" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2</text>
+    <text x="-14" y="65" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">3</text>
+    <text x="-14" y="0" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">4</text>
+
+    <!-- rectangle -->
+    <rect x="60" y="65" width="240" height="195" fill="none" stroke="#7a9e7e" stroke-width="5"/>
+    <circle cx="60" cy="260" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="300" cy="260" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="300" cy="65" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="60" cy="65" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="60" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(1,1)</text>
+    <text x="300" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(5,1)</text>
+    <text x="300" y="56" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(5,4)</text>
+    <text x="60" y="56" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(1,4)</text>
+
+    <text x="180" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#7a9e7e">width = 4</text>
+    <text x="-28" y="162" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#7a9e7e" transform="rotate(-90 -28 162)">height = 3</text>
+
+    <!-- dashed path (1,1) to (5,4) -->
+    <path d="M 60 260 L 300 260 L 300 65" fill="none" stroke="#e0a458" stroke-width="3" stroke-dasharray="8 6"/>
+  </g>
+
+  <rect x="60" y="372" width="392" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">Perimeter (all the way around)</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">4 + 3 + 4 + 3 = 14 units</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">dashed path (1,1)→(5,4) along grid lines: 4 + 3 = 7 units</text>
+</svg>

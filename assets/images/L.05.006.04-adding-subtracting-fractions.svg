@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Adding and subtracting fractions</title>
+  <desc id="desc">Fraction bar diagrams for adding and subtracting fractions. The top row shows 1/2 plus 1/4: a bar of two equal parts with one shaded labeled 1/2, plus a bar of four equal parts with one shaded labeled 1/4, then a combined bar of four equal parts with three shaded labeled 3/4, with the note that 1/2 equals 2/4. The bottom row shows 3/4 minus 1/4 equals 2/4, or 1/2. Labels, shading, and part counts, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Adding and Subtracting Fractions</text>
+
+  <!-- Top row: 1/2 + 1/4 = 3/4 -->
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">1/2 + 1/4</text>
+
+  <!-- 1/2 bar -->
+  <rect x="40" y="86" width="120" height="48" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="100" y1="86" x2="100" y2="134" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="40" y="86" width="60" height="48" fill="#7a9e7e" stroke="none"/>
+  <text x="100" y="158" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">1/2</text>
+
+  <text x="176" y="116" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">+</text>
+
+  <!-- 1/4 bar -->
+  <rect x="196" y="86" width="120" height="48" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="226" y1="86" x2="226" y2="134" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="86" x2="256" y2="134" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="286" y1="86" x2="286" y2="134" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="196" y="86" width="30" height="48" fill="#e0a458" stroke="none"/>
+  <text x="256" y="158" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">1/4</text>
+
+  <text x="332" y="116" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">=</text>
+
+  <!-- 3/4 bar -->
+  <rect x="352" y="86" width="120" height="48" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="382" y1="86" x2="382" y2="134" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="412" y1="86" x2="412" y2="134" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="442" y1="86" x2="442" y2="134" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="352" y="86" width="90" height="48" fill="#7a9e7e" stroke="none"/>
+  <text x="412" y="158" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">3/4</text>
+
+  <text x="256" y="186" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rename: 1/2 = 2/4, then 2/4 + 1/4 = 3/4</text>
+
+  <!-- Bottom row: 3/4 - 1/4 = 2/4 -->
+  <text x="256" y="232" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">3/4 − 1/4</text>
+
+  <!-- 3/4 bar -->
+  <rect x="40" y="248" width="160" height="48" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="80" y1="248" x2="80" y2="296" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="120" y1="248" x2="120" y2="296" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="160" y1="248" x2="160" y2="296" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="40" y="248" width="120" height="48" fill="#7a9e7e" stroke="none"/>
+  <text x="120" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">3/4</text>
+
+  <text x="216" y="278" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">−</text>
+
+  <!-- 1/4 bar -->
+  <rect x="236" y="248" width="160" height="48" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="276" y1="248" x2="276" y2="296" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="316" y1="248" x2="316" y2="296" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="356" y1="248" x2="356" y2="296" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="236" y="248" width="40" height="48" fill="#e0a458" stroke="none"/>
+  <text x="316" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">1/4</text>
+
+  <text x="412" y="278" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">=</text>
+
+  <!-- 2/4 bar -->
+  <rect x="432" y="248" width="80" height="48" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="452" y1="248" x2="452" y2="296" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="472" y1="248" x2="472" y2="296" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="432" y="248" width="40" height="48" fill="#7a9e7e" stroke="none"/>
+  <text x="472" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">2/4</text>
+
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">2/4 is the same as 1/2</text>
+
+  <rect x="120" y="382" width="272" height="52" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">keep the pieces the same size</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">add or subtract the tops, keep the bottoms</text>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">sharing and cooking, one fair piece at a time</text>
+</svg>

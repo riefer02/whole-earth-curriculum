@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Line-plot data problems</title>
+  <desc id="desc">A line plot of weekly rainwater collected, marked in eighths of a unit, with X marks stacked above 1/2, 5/8, 3/4, and 1. Beside the plot, a panel lists the questions it answers: the total of all weeks by adding fractions, the range as largest minus smallest, the most common amount, and a conversion note that 8 eighths make 1 whole unit. Labels and marks, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Line-Plot Data Problems: The Rainwater Story</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">centimeters of rain each week, in eighths</text>
+
+  <!-- number line -->
+  <line x1="40" y1="230" x2="300" y2="230" stroke="#2b3a42" stroke-width="3"/>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="40" y1="222" x2="40" y2="238"/>
+    <line x1="105" y1="226" x2="105" y2="234"/>
+    <line x1="170" y1="222" x2="170" y2="238"/>
+    <line x1="235" y1="226" x2="235" y2="234"/>
+    <line x1="300" y1="222" x2="300" y2="238"/>
+  </g>
+  <g font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">
+    <text x="40" y="258">0</text>
+    <text x="105" y="258">1/4</text>
+    <text x="170" y="258">1/2</text>
+    <text x="235" y="258">3/4</text>
+    <text x="300" y="258">1</text>
+  </g>
+
+  <!-- X stacks -->
+  <!-- 1/2 = 170 -->
+  <g fill="#7a9e7e" font-family="sans-serif" font-size="17" font-weight="bold" text-anchor="middle">
+    <text x="170" y="214">X</text>
+    <text x="170" y="198">X</text>
+    <text x="170" y="182">X</text>
+  </g>
+  <!-- 5/8 between 1/2 and 3/4 = 202.5 -->
+  <g fill="#6b93b6" font-family="sans-serif" font-size="17" font-weight="bold" text-anchor="middle">
+    <text x="202" y="214">X</text>
+    <text x="202" y="198">X</text>
+  </g>
+  <!-- 3/4 = 235 -->
+  <g fill="#e0a458" font-family="sans-serif" font-size="17" font-weight="bold" text-anchor="middle">
+    <text x="235" y="214">X</text>
+    <text x="235" y="198">X</text>
+    <text x="235" y="182">X</text>
+    <text x="235" y="166">X</text>
+  </g>
+  <!-- 1 = 300 -->
+  <g fill="#2b3a42" font-family="sans-serif" font-size="17" font-weight="bold" text-anchor="middle">
+    <text x="300" y="214">X</text>
+  </g>
+
+  <!-- questions panel -->
+  <rect x="40" y="282" width="432" height="210" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="312" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">Questions the plot can answer</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">total: add all the fractions (write as fraction and decimal)</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">range: 1 − 1/2 = 1/2 (largest minus smallest)</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">most common: 3/4 (four Xs)</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">convert: 8 eighths = 1 whole unit</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tank: 2 × 3 × 2 = 12 cubic units — enough?</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">plot week vs. rain on a grid and describe the pattern</text>
+
+  <text x="256" y="504" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">one data story, every tool from the unit</text>
+</svg>

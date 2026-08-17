@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Writing and evaluating expressions</title>
+  <desc id="desc">An expression diagram for 3n + 2. Three circles each labeled n, plus two loose dots, equal a box labeled 3n + 2. Below, an evaluation shows substituting n = 5: 3 times 5 plus 2 equals 17. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Writing and Evaluating Expressions</text>
+
+  <text x="256" y="74" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">"3 boxes of n mangoes, plus 2 loose" → 3n + 2</text>
+
+  <!-- three n boxes -->
+  <g>
+    <rect x="50" y="96" width="90" height="90" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="150" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#222222">n</text>
+
+    <rect x="160" y="96" width="90" height="90" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="205" y="150" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#222222">n</text>
+
+    <rect x="270" y="96" width="90" height="90" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="315" y="150" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#222222">n</text>
+  </g>
+
+  <text x="376" y="150" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#2b3a42">+</text>
+
+  <!-- two loose dots -->
+  <circle cx="414" cy="128" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="446" cy="152" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">=</text>
+
+  <rect x="150" y="228" width="212" height="60" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff">3n + 2</text>
+
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">"3n" means 3 × n, then add 2</text>
+
+  <line x1="60" y1="338" x2="452" y2="338" stroke="#e0a458" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Evaluate -->
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">Evaluate when n = 5</text>
+
+  <rect x="60" y="384" width="392" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">3n + 2 = 3 × 5 + 2</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">= 15 + 2</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">= 17 mangoes</text>
+</svg>

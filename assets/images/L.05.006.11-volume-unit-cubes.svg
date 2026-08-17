@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Volume by counting unit cubes</title>
+  <desc id="desc">A rectangular prism built from unit cubes, drawn as a stack with a base layer of 4 by 2 cubes and 3 layers tall. The base layer of 8 cubes is highlighted and labeled "1 layer = 4 × 2 = 8 cubes." Below, the total is labeled "3 layers × 8 = 24 cubic units." Labels and cube counts, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Volume by Counting Unit Cubes</text>
+
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">A box 4 cubes long, 2 cubes wide, 3 cubes tall</text>
+
+  <!-- Prism: isometric-ish orthographic stack. Draw 3 layers, base 4x2. -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <!-- Layer 1 (bottom) 4 x 2 -->
+    <rect x="120" y="300" width="272" height="72" fill="#7a9e7e" opacity="0.5"/>
+    <line x1="120" y1="336" x2="392" y2="336"/>
+    <line x1="188" y1="300" x2="188" y2="372"/>
+    <line x1="256" y1="300" x2="256" y2="372"/>
+    <line x1="324" y1="300" x2="324" y2="372"/>
+
+    <!-- Layer 2 (middle) -->
+    <rect x="120" y="228" width="272" height="72" fill="#7a9e7e" opacity="0.65"/>
+    <line x1="120" y1="264" x2="392" y2="264"/>
+    <line x1="188" y1="228" x2="188" y2="300"/>
+    <line x1="256" y1="228" x2="256" y2="300"/>
+    <line x1="324" y1="228" x2="324" y2="300"/>
+
+    <!-- Layer 3 (top) -->
+    <rect x="120" y="156" width="272" height="72" fill="#7a9e7e" opacity="0.8"/>
+    <line x1="120" y1="192" x2="392" y2="192"/>
+    <line x1="188" y1="156" x2="188" y2="228"/>
+    <line x1="256" y1="156" x2="256" y2="228"/>
+    <line x1="324" y1="156" x2="324" y2="228"/>
+  </g>
+
+  <!-- labels -->
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">1 layer = 4 × 2 = 8 cubes</text>
+  <text x="416" y="264" text-anchor="start" font-family="sans-serif" font-size="15" fill="#2b3a42">3 layers tall</text>
+
+  <line x1="60" y1="416" x2="452" y2="416" stroke="#e0a458" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <rect x="120" y="432" width="272" height="62" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">Volume</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">3 × 8 = 24 cubic units</text>
+</svg>

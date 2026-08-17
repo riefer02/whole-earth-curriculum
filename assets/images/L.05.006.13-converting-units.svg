@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Converting measurement units</title>
+  <desc id="desc">A unit conversion chart with four rows. Row one shows 1 meter equals 100 centimeters. Row two shows 1 kilometer equals 1000 meters. Row three shows 1 kilogram equals 1000 grams. Row four shows 1 liter equals 1000 milliliters. A note reads "larger to smaller: multiply · smaller to larger: divide." Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Converting Measurement Units</text>
+
+  <!-- chart rows -->
+  <g font-family="sans-serif">
+    <rect x="60" y="66" width="392" height="58" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="102" text-anchor="middle" font-size="22" fill="#222222">1 meter = 100 centimeters</text>
+
+    <rect x="60" y="128" width="392" height="58" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="164" text-anchor="middle" font-size="22" fill="#222222">1 kilometer = 1000 meters</text>
+
+    <rect x="60" y="190" width="392" height="58" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="226" text-anchor="middle" font-size="22" fill="#222222">1 kilogram = 1000 grams</text>
+
+    <rect x="60" y="252" width="392" height="58" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="288" text-anchor="middle" font-size="22" fill="#222222">1 liter = 1000 milliliters</text>
+  </g>
+
+  <!-- category labels on the side -->
+  <text x="40" y="102" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e" transform="rotate(-90 40 102)">length</text>
+  <text x="40" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e" transform="rotate(-90 40 164)">length</text>
+  <text x="40" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6" transform="rotate(-90 40 226)">mass</text>
+  <text x="40" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458" transform="rotate(-90 40 288)">capacity</text>
+
+  <!-- rule -->
+  <rect x="60" y="330" width="392" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#6b93b6">The rule</text>
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">larger → smaller: MULTIPLY</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">smaller → larger: DIVIDE</text>
+
+  <!-- examples -->
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">3 m = 300 cm · 2500 g = 2.5 kg · 1.5 L = 1500 mL</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">multiply or divide by 10, 100, or 1000 — the decimal point moves</text>
+</svg>

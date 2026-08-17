@@ -62,3 +62,19 @@ things, drawn from many traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.006.01 | Reading and Writing Decimals to Thousandths | D05.S1.05.01 |
+| L.05.006.02 | Comparing, Rounding, and Connecting Decimals to Fractions | D05.S1.05.01 |
+| L.05.006.03 | Adding and Subtracting Decimals with Money | D05.S1.05.02 |
+| L.05.006.04 | Adding and Subtracting Fractions in Sharing and Cooking | D05.S1.05.02 |
+| L.05.006.05 | Multiplying Fractions and Decimals in Real Life | D05.S1.05.02 |
+| L.05.006.06 | Dividing Fractions and Decimals in Real Life | D05.S1.05.02 |
+| L.05.006.07 | Plotting Points and Relationships on a Grid | D05.S2.05.01 |
+| L.05.006.08 | Writing and Evaluating Simple Expressions | D05.S2.05.02 |
+| L.05.006.09 | Graphing Points to Solve Location and Distance Problems | D05.S3.05.01 |
+| L.05.006.10 | More Location and Distance with Coordinates | D05.S3.05.01 |
+| L.05.006.11 | Finding Volume by Counting Unit Cubes | D05.S3.05.02 |
+| L.05.006.12 | The Volume Formula and What Volume Measures | D05.S3.05.02 |
+| L.05.006.13 | Converting Measurement Units | D05.S4.05.01 |
+| L.05.006.14 | Using Conversions to Solve Real Problems | D05.S4.05.01 |
+| L.05.006.15 | Line Plots with Fractions | D05.S4.05.02 |
+| L.05.006.16 | Using Line-Plot Data to Solve Problems | D05.S4.05.02 (revisits all) |

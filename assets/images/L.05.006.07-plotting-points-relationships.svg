@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Plotting points and relationships</title>
+  <desc id="desc">A first-quadrant coordinate grid numbered 0 to 6 on the x-axis and y-axis. Points (1,2), (2,4), and (3,6) are plotted as filled dots and connected by a dashed line, each point labeled. A caption reads "as x goes up by 1, y goes up by 2 — the relationship y = 2x," showing a doubling pattern. The axes are labeled x-axis and y-axis and the origin is marked 0. Labels and coordinates, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Plotting Points and Relationships</text>
+
+  <!-- grid area -->
+  <g transform="translate(60, 60)">
+    <!-- axes -->
+    <line x1="0" y1="0" x2="0" y2="300" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="0" y1="300" x2="360" y2="300" stroke="#2b3a42" stroke-width="3"/>
+    <!-- gridlines -->
+    <g stroke="#d7d1c8" stroke-width="1">
+      <line x1="60" y1="0" x2="60" y2="300"/><line x1="120" y1="0" x2="120" y2="300"/>
+      <line x1="180" y1="0" x2="180" y2="300"/><line x1="240" y1="0" x2="240" y2="300"/>
+      <line x1="300" y1="0" x2="300" y2="300"/><line x1="360" y1="0" x2="360" y2="300"/>
+      <line x1="0" y1="240" x2="360" y2="240"/><line x1="0" y1="180" x2="360" y2="180"/>
+      <line x1="0" y1="120" x2="360" y2="120"/><line x1="0" y1="60" x2="360" y2="60"/>
+    </g>
+    <!-- axis labels -->
+    <text x="0" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0</text>
+    <text x="60" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
+    <text x="120" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+    <text x="180" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3</text>
+    <text x="240" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">4</text>
+    <text x="300" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">5</text>
+    <text x="360" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">6</text>
+    <text x="-16" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0</text>
+    <text x="-16" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+    <text x="-16" y="180" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">4</text>
+    <text x="-16" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">6</text>
+    <text x="-16" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">8</text>
+
+    <!-- axis titles -->
+    <text x="180" y="352" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">x-axis (across →)</text>
+    <text x="-60" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6" transform="rotate(-90 -60 150)">y-axis (up ↑)</text>
+
+    <!-- dashed line through points y = 2x -->
+    <line x1="60" y1="240" x2="180" y2="120" stroke="#e0a458" stroke-width="3" stroke-dasharray="7 5"/>
+
+    <!-- points -->
+    <circle cx="60" cy="240" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="120" cy="180" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="180" cy="120" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+    <text x="60" y="228" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(1,2)</text>
+    <text x="120" y="168" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(2,4)</text>
+    <text x="180" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(3,6)</text>
+
+    <!-- origin marker -->
+    <text x="-8" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">origin</text>
+  </g>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">as x goes up by 1, y goes up by 2 — the relationship y = 2x</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"along the corridor, up the stairs" — across first, then up</text>
+</svg>

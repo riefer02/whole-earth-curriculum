@@ -3546,7 +3546,7 @@ items:
     type: lesson
     grade: 5
     domain: D05
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3558,6 +3558,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (875). IDs L.05.006.01-.16 sequence_in_unit 1-16, grade 5, unit U.05.006; objectives resolve to real grade-5 D05 standards (all 8 covered); required headings present; unit.md table lists all 16; all 16 assets resolve with non-empty alt; math spot-check correct (2.50+1.75=4.25, 1/2x1/3=1/6, 4x2x3=24 volume, 3m=300cm, line plot range 7/8-1/2=3/8); fixed two stray quote typos (L.06 '3 ×' and L.13 'multiply').
+      fact-checker:
+        verdict: passed
+        note: "Spot-checked math (place value 3.456, 0.5=5/10=50/100, 2.50+1.75=4.25, 1/2x1/3=1/6, 2÷1/4=8, (1,2)(2,4)(3,6)->y=2x, 3n+2 n=5->17, 4x2x3=24, 1m=100cm/1L=1000mL, line plot mode 3/4 range 3/8) all correct. Fixed 3 errors: L.01 '0 in 0.205 holds tenths'->hundredths; L.02 '0.44/0.45 both round to 0.4'->0.43/0.44; L.01 ISO 80000-2->ISO 80000-1 for comma/point decimal sign. Sources Kirschner S-011 + Van de Walle S-026 real; registered S-175 (ISO 80000-1:2022). Evidence vs values distinguished."
+      global-culture-editor:
+        verdict: passed
+        note: Metric-first throughout (L13-14 m/cm/km, g/kg, L/mL) with L13 noting 'a few use inches/feet/pounds/ounces — different conventions, none better'; money contexts (L3/L6) generic amounts no currency symbol, L3 directs real local currency + avoid one-currency default; contexts span regions (Lagos/Lima/Bangkok markets, Cairo/Andes farm/soup kitchen, chapati/flatbread, rain-gauge village, grain/water tanks, runners/farmers); decimal comma-vs-point note accurate (ISO 80000-1) framed as 'convention not correctness'; L7 Cartesian note names two-distance location 'far older, mapmaking traditions worldwide' without exoticizing.
+      accessibility-editor:
+        verdict: passed
+        note: All 16 lessons real materials_low_tech (dirt/sand place-value charts, string number lines, pebbles/seeds/stones, paper folding, folded-paper unit cubes, cups-and-counters, body-coordinates, chalk grids); UDL draw/manipulate/act/say/write + manipulatives; coordinate/line-plot lessons offer enlarged/tactile grids + verbal/finger/pebble placement; fine-motor support (pre-cut bars, pre-drawn models, large tactile cubes); plain precise number language (place-value reasoning not 'bigger'); all 16 assets non-empty alt + SVG role=img/title/desc grayscale, shape/label carries meaning; no wealth assumption (paper coins, paper folding).
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (fair division L4/L6, honest measurement L10-12/L14, honest data display L15-16); egalitarianism (math as sense-making 'for everyone', no math-genius myth, generic currency); global (chapati, decimal-comma ISO 80000-1, Lagos/Lima/Bangkok/Cairo/Andes, two-distance location predates Descartes, metric-vs-imperial 'none better'); tech/environment (calculators as checking tools after hand-computing; rain gauge/water tank/community garden); evidence-vs-values (Van de Walle, Kirschner, ISO 80000-1; arithmetic=evidence, fairness=commitment). Traceability: Vision->P3->D05->S1-S4->8 standards->U.05.006->L.05.006.01-.16."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band: cognitive fit concrete-anchor-before-procedure (decimals via chapatis/place-value chart, fraction x fraction via area models/paper folding, coordinate grid as walking grid before (x,y), volume by unit cubes then derived formula, variables as cups/counters single-variable 3n+2 — no algebra/proof); emotional safety no ranking/timed public drills, low-stakes pair/chorus recall, money context neutral generic currency + facilitator note against currency default (no low-income shaming); physical fit manipulatives + low-tech/tactile alternatives; rigor grade-appropriate; questions as questions, evidence vs values distinguished."
   - id: B-329
     title: Author lessons for Unit U.05.007 (Food Webs, Forces, Earth & Sky)
     agent: lesson-author

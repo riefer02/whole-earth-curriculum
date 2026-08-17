@@ -1613,3 +1613,14 @@ sources:
     reviewed: true
     notes: "Verified live 2026-08-17 (listen.org). The ILA is the real professional body for listening scholarship; its site has a 'Listening Skills' section ('The Importance of Listening,' a 'Listening Toolkit,' and a 'Listening Definition'). Cited in U.05.005 L01 (Paraphrase a Speaker's Points) as a classroom-friendly framing for paraphrasing/clarifying as active-listening skills, alongside CASEL (S-001). The lesson names an ILA 'Listening Skills' primer generically; the organization and its Listening Skills area exist, so the citation is real, though it is best read as a general authority rather than a specific page. Consider adding a direct link to the 'Listening Toolkit' page if a page-level citation is desired."
 
+  - id: S-175
+    title: "ISO 80000-1 — Quantities and units, Part 1: General (decimal sign)"
+    type: other
+    url: https://www.iso.org/standard/76921.html
+    organization: International Organization for Standardization (ISO)
+    year: 2022
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.05.006 L01 for the claim that a comma serves as the decimal separator in many countries. ISO 80000-1:2022 stipulates 'The decimal sign is either a comma or a point on the line' (with an ISO/IEC-directives note that all ISO standards use the comma). This is the correct part (Part 1: General) for the decimal-sign rule — the lesson originally cited ISO 80000-2 (Part 2: Mathematics, which covers mathematical signs and symbols), corrected to ISO 80000-1 during fact-check. The same convention is affirmed by CGPM Resolution 10 (2003). On-topic and authoritative for the lesson's 'comma vs point' convention note."
+
+
