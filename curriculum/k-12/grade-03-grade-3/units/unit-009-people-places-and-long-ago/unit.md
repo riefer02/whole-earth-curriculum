@@ -61,3 +61,13 @@ honoring the voices too often left out.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Placing Our Local Landmarks on a Timeline | D08.S1.03.01 |
+| 2 | How Our Place Changed Over Time | D08.S1.03.02 |
+| 3 | Two Peoples, Two Ways to Meet Needs | D08.S2.03.01 |
+| 4 | Stories, Songs, and Art That Show What People Value | D08.S2.03.02 |
+| 5 | Why People Move | D08.S3.03.01 |
+| 6 | Rivers, Mountains, and Where People Settle | D08.S3.03.02 |
+| 7 | Working Together to Change Something Unfair | D08.S4.03.01 |
+| 8 | Having a Say — Power and Being Left Out | D08.S4.03.02 |
+| 9 | Two Peoples, Two Places — A Comparison | D08.S2.03.01, D08.S3.03.02 |
+| 10 | Our People, Places & Long Ago Story | D08.S1.03.01–D08.S4.03.02 (all) |

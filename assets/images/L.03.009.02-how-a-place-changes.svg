@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How a place changes over time</title>
+  <desc id="desc">Three panels show the same riverside market at three times. The first panel, "long ago," shows a small market of a few stalls beside a river. The middle panel, "in between," shows a bridge being built across the river. The last panel, "now," shows a large busy market with many stalls, the bridge, and boats. An arrow points from the bridge to the busy market, labeled "the bridge let more people cross, so the market grew." Labels and shapes, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">How Our Place Changed Over Time</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Long ago &#8594; in between &#8594; now, and what caused the change.</text>
+
+  <!-- panel 1: long ago -->
+  <rect x="30" y="96" width="140" height="150" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="100" y="120" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">long ago</text>
+  <path d="M30 214 q35 16 70 0 q35 -16 70 0" fill="none" stroke="#6b93b6" stroke-width="4"/>
+  <rect x="66" y="184" width="30" height="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="104" y="184" width="30" height="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a few stalls</text>
+
+  <!-- arrow between -->
+  <path d="M176 170 L208 170" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <path d="M202 163 l10 7 l-10 7 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- panel 2: in between -->
+  <rect x="186" y="96" width="140" height="150" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="120" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">in between</text>
+  <path d="M186 214 q35 16 70 0 q35 -16 70 0" fill="none" stroke="#6b93b6" stroke-width="4"/>
+  <path d="M216 214 q20 -30 40 0" fill="none" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <text x="256" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a bridge is built</text>
+
+  <!-- arrow between -->
+  <path d="M332 170 L364 170" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <path d="M358 163 l10 7 l-10 7 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- panel 3: now -->
+  <rect x="342" y="96" width="140" height="150" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="412" y="120" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">now</text>
+  <path d="M342 214 q35 16 70 0 q35 -16 70 0" fill="none" stroke="#6b93b6" stroke-width="4"/>
+  <path d="M372 214 q20 -30 40 0" fill="none" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <rect x="356" y="180" width="26" height="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="390" y="180" width="26" height="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="424" y="180" width="26" height="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M420 204 l0 10 l12 -4 l-6 6" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="412" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a big busy market</text>
+
+  <!-- cause explanation -->
+  <rect x="70" y="276" width="372" height="70" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">What caused the change?</text>
+  <text x="256" y="328" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">The bridge let more people cross the river, so more people</text>
+  <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">came to trade — and the little market grew into a big one.</text>
+
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Places change for reasons. Finding one reason</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">is how historians explain the past.</text>
+</svg>

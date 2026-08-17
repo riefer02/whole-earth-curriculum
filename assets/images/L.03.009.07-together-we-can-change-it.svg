@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Working together to change something unfair</title>
+  <desc id="desc">Three panels tell a gentle, hopeful story of people working together to change something unfair. The first panel shows a person noticing an unfair rule, with a question mark, labeled "notice." The second panel shows a long line of people walking peacefully together toward the sea, labeled "work together, peacefully." The third panel shows people at the shore gathering salt while a sun shines, with a check mark, labeled "change it — and it changes." Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Working Together to Change Something Unfair</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Notice &#8594; work together &#8594; change it — and hope grows.</text>
+
+  <!-- panel 1 -->
+  <rect x="30" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="100" cy="150" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M100 166 l0 30 M92 176 l8 8 l8 -8" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M84 128 q-6 -18 16 -18 q22 0 16 18 q-2 8 -10 8 l-12 0 q-8 0 -10 -8 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="128" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">?</text>
+  <text x="100" y="236" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">notice</text>
+  <text x="100" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"this rule is unfair"</text>
+
+  <!-- arrow -->
+  <path d="M176 186 L206 186" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <path d="M200 179 l10 7 l-10 7 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- panel 2 -->
+  <rect x="186" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="218" cy="180" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M218 192 l0 24 M210 202 l8 8 l8 -8" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="244" cy="168" r="12" fill="#8d5a3a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M244 180 l0 24 M236 190 l8 8 l8 -8" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="272" cy="180" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M272 192 l0 24 M264 202 l8 8 l8 -8" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="296" cy="168" r="12" fill="#8d5a3a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M296 180 l0 24 M288 190 l8 8 l8 -8" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="236" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">work together</text>
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">walking, peacefully,</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">all together</text>
+
+  <!-- arrow -->
+  <path d="M332 186 L362 186" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <path d="M356 179 l10 7 l-10 7 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- panel 3 -->
+  <rect x="342" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M342 210 q35 20 70 0 q35 -20 70 0" fill="none" stroke="#6b93b6" stroke-width="5"/>
+  <circle cx="372" cy="178" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M372 189 l0 18" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="442" cy="178" r="11" fill="#8d5a3a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M442 189 l0 18" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M400 158 q0 -10 8 -10 q8 0 8 10 l0 10 l-16 0 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M412 236 l18 0 M421 226 l0 20" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <text x="412" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">change it</text>
+  <text x="412" y="270" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the unfair rule changes</text>
+
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">When people notice something unfair and work together,</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">peacefully, they can change it — and hope grows.</text>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Anyone can help. Change starts with noticing</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">and speaking up, together.</text>
+</svg>

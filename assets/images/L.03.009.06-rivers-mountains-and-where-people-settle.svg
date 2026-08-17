@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rivers, mountains, and where people settle</title>
+  <desc id="desc">Three panels show how the land shapes where people choose to live. The first panel shows a village beside a river with fields, labeled "rivers — water, travel, and good soil for growing." The second panel shows fields cut in steps on a mountainside, labeled "mountains — terraces on the slopes to grow food." The third panel shows homes beside a desert oasis with palm trees, labeled "climate — people settle near water where it is dry." Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Rivers, Mountains &amp; Where People Settle</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The shape of the land helps people choose where to live.</text>
+
+  <!-- rivers -->
+  <rect x="30" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M40 200 q30 -24 60 0 q30 24 60 0" fill="none" stroke="#6b93b6" stroke-width="8" stroke-linecap="round"/>
+  <rect x="52" y="150" width="26" height="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M46 154 L65 138 L84 154 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="120" y="150" width="26" height="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M114 154 L133 138 L152 154 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">rivers</text>
+  <text x="100" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">water, travel,</text>
+  <text x="100" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">good soil to grow</text>
+
+  <!-- mountains -->
+  <rect x="186" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M196 220 L238 150 L268 220 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M226 190 L238 170 L252 192" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 200 L238 190 L246 202" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+  <path d="M262 220 L288 168 L316 220 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M286 196 L288 186 L300 194" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">mountains</text>
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">terraces cut in steps</text>
+  <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">to grow on the slopes</text>
+
+  <!-- climate / oasis -->
+  <rect x="342" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <ellipse cx="412" cy="190" rx="56" ry="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M372 190 l0 22 M388 190 l0 26 M404 190 l0 26 M420 190 l0 22" stroke="#7a9e7e" stroke-width="3"/>
+  <rect x="392" y="160" width="40" height="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M388 164 L412 148 L436 164 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">climate</text>
+  <text x="412" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">where it is dry, people</text>
+  <text x="412" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">settle near an oasis</text>
+
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">People choose places that give them what they need —</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">water, food, shelter, and a way to travel and trade.</text>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The land shapes where we live,</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">and people shape the land with care and knowledge.</text>
+</svg>

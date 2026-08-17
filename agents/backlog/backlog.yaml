@@ -2806,7 +2806,7 @@ items:
     type: lesson
     grade: 3
     domain: D08
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2818,6 +2818,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passes (661 files). IDs L.03.009.01-.10 sequential, sequence_in_unit 1-10, unit U.03.009, grade 3, domain D08, pillar P4; Procedure/Assessment/Connection all 10. Objectives resolve to the 8 real Grade-3 D08 standards only (S1/S2/S3/S4.03.01-.02) — no invented IDs. L7 Salt March gentle nonviolent no atrocity + Britannica source; L1 Connection 'day has order wake-eat-play-rest' faithful to D08.S1.03.01. 10 SVGs valid. unit.md Lessons table lists all 10.
+      fact-checker:
+        verdict: passed
+        note: "Verified: Salt March 1930 (Britannica, ~240mi/385km Sabarmati→Dandi, Apr 6 1930 made salt in peaceful defiance) accurate+attributed+hedged; UNCRC Art 12 (OHCHR S-091) correct; Inuit/Bedouin needs (ICC + Britannica Bedouin S-083: tents/loose clothing/camel+goat milk); kente Akan Ghana/Cote d'Ivoire meanings (S-084); Aboriginal Dreaming/dot painting knowledge-law-story 'caring for Country' hedged (S-085); CIP Andean terraces, NatGeo River floodplain, OWID Urbanization, IOM migration. Registered S-083-S-091 reviewed:true. Fixed 2 broken citations (NatGeo 'Landmark'→Britannica Dictionary S-090; 'Valley' 404→River only). validate passes (661 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Anti-primitive/no progress-supremacy (L2 forbids 'backward'; L3 Inuit/Bedouin 'clever and fitting, never primitive never ranked'; L6 forbids ranking terraced farms below plains). Representation spans Arctic/desert/Akan kente/Aboriginal Australia/India Salt March ('thousands of ordinary people' not great-man)/Kenya Maathai/Andean terraces. §11 multiple time-traditions (L1 'many calendars — timeline one tool among many'; L4 hedge 'many Aboriginal nations each with own stories and art'). Non-blocking: L4 summary could sharpen 'dot painting of Central/Western Desert Aboriginal peoples' (facilitator note already hedges). validate passes (661 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech all 10 (paper/found objects/body+voice, devices optional enriched). Alt text all 10 assets (SVGs role=img/aria-labelledby/title/desc, 'labels and shapes not color' grayscale/colorblind-safe). UDL: timeline/map/history non-visual (touch-sequenced objects, walked timeline), motor-difference (large stable cards + partner-placement/eye-gaze), non-speaking (point/act/sign) every Differentiation; plain learner-addressed language. validate passes (661 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L7 Salt March nonviolent change; L8 shared power vs left out; L4 what cultures value — hope/agency not blame), egalitarianism ('never rank' L3/L6/L9; power as 'voice that helps decide' not domination; 'no child is the problem'), global (Inuit/Bedouin/Akan kente/Aboriginal Dreaming/Salt March/Maathai; no Euro default; L1 many calendars; knowledge living present-tense rejecting 'primitive'; no progress-as-supremacy/single-civilization), tech/env (bridge settlement growth, terraces adaptation — neither worship nor fear). Evidence vs values (Britannica/IOM/AIATSIS/Smithsonian/ICC/NatGeo/CIP/UNCRC; facts vs held values). Traceability: P4→D08→S1-S4→8 Grade-3 objectives→lessons. validate passes (661 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive: timelines concrete (photo/memory/dated plaque); cause-effect anchored (bridge/road/terraces); 'power' translated to concrete ('ability to help decide', 'voice that is heard') + classroom-decision scenes; no abstract historical analysis. Emotional safety: migration L5 dignified blame-free ('moving never a failure', safety kept to flood/fire no detail); Salt March nonviolent no punishment detail; 'left out' L8 ends in noticing-and-inviting; heavy topics→hope/agency; no forced disclosure. Physical: acting/walking timelines/marches/drawing. Not dumbed down (real sources, evidence-vs-values, extensions). Open-ended ('question I still wonder'); spiral builds Gr2. validate passes (661 files)."
   - id: B-309
     title: Author lessons for Unit U.03.010 (Fairness & Our Shared Rules)
     agent: lesson-author

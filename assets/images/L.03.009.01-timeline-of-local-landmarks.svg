@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A timeline of local landmarks</title>
+  <desc id="desc">A long arrow points from a "long ago" end on the left to a "now" end on the right. Three landmark spots sit in order along the line: a young tree that was planted, a bridge, and a school. Above each landmark is a small clue card showing how we know the order: a photo, an elder's memory, and a dated plaque. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Timeline of Local Landmarks</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ordering landmarks from long ago to now — and how we know.</text>
+
+  <!-- timeline arrow -->
+  <path d="M60 210 L452 210" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M444 202 l16 8 l-16 8 Z" fill="#2b3a42"/>
+  <text x="48" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">long ago</text>
+  <text x="464" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">now</text>
+
+  <!-- clue cards above -->
+  <rect x="92" y="70" width="100" height="64" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="96" y="78" width="40" height="30" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="104" cy="86" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M98 94 l12 0 M98 100 l12 0" stroke="#2b3a42" stroke-width="2"/>
+  <text x="142" y="98" font-family="sans-serif" font-size="13" fill="#222222">an old</text>
+  <text x="142" y="114" font-family="sans-serif" font-size="13" fill="#222222">photo</text>
+
+  <rect x="226" y="70" width="100" height="64" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="250" cy="92" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M250 101 l0 12 M243 108 l7 6 l7 -6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="288" y="96" font-family="sans-serif" font-size="13" fill="#222222">an elder's</text>
+  <text x="288" y="112" font-family="sans-serif" font-size="13" fill="#222222">memory</text>
+
+  <rect x="360" y="70" width="100" height="64" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="368" y="80" width="56" height="36" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="396" y="98" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1987</text>
+  <text x="410" y="130" font-family="sans-serif" font-size="13" fill="#222222">a dated</text>
+  <text x="410" y="146" font-family="sans-serif" font-size="13" fill="#222222">plaque</text>
+
+  <!-- landmark 1: young tree -->
+  <g>
+    <path d="M120 210 l0 -46" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="120" cy="150" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">tree planted</text>
+  </g>
+
+  <!-- landmark 2: bridge -->
+  <g>
+    <path d="M232 210 q20 -34 40 0" fill="none" stroke="#6b93b6" stroke-width="7" stroke-linecap="round"/>
+    <path d="M240 210 l0 -12 M264 210 l0 -12" stroke="#2b3a42" stroke-width="4"/>
+    <text x="252" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">bridge built</text>
+  </g>
+
+  <!-- landmark 3: school -->
+  <g>
+    <rect x="352" y="172" width="72" height="38" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M346 176 L388 152 L430 176 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="382" y="188" width="14" height="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="388" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">school opened</text>
+  </g>
+
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">How do we know the order? We look for clues —</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">a photo, a memory, a date — and check which came first.</text>
+
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A timeline is a story of time told in order,</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">with evidence for every step.</text>
+</svg>

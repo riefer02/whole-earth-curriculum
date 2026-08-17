@@ -765,3 +765,84 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in U.03.008 L07 (First Aid for Minor Hurts) for the steps for minor cuts, scrapes, and bruises. The ifrc.org first-aid programme page sits behind bot protection (returns HTTP 403 to non-browser clients, verified 2026-08-17), so the substantive first-aid guidance was verified against IFRC's Global First Aid Reference Centre (globalfirstaidcentre.org), the federation's centre of excellence that publishes the International First Aid, Resuscitation and Education Guidelines. Those guidelines direct: rinse/clean a minor wound with clean water and cover it with a clean dressing, and apply something cold to a bruise/contusion — matching the lesson's 'tell an adult, wash with clean water, cover, cool, rest' steps. The lesson is appropriately hedged (minor hurts only; an adult always decides when a deeper/bigger/bleeding wound needs professional help), so no medical misinformation."
+
+  - id: S-083
+    title: Encyclopaedia Britannica — Bedouin
+    type: website
+    url: https://www.britannica.com/topic/Bedouin
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.03.009 L03 (Two Peoples, Two Ways to Meet Needs) for the Bedouin food/shelter/clothing comparison. URL verified live (2026-08-17): Britannica's 'Bedouin' article describes Bedouin as 'nomadic groups inhabiting Middle Eastern deserts, including North Africa, the Arabian Peninsula, Egypt, Israel, Iraq, Syria, and Jordan' — animal herders (camel, sheep, and goat nomads) who use 'tents made of woven camel hair or goat skins,' and whose 'clothing is loose-fitting for both sexes, protecting against heat, dust, and sunshine.' Camels 'provide milk' (and meat/hair). Supports the lesson's claims of desert tent dwelling, light loose clothing, and milk from herded animals; the 'dates' food item is a standard, accurate staple of desert/oasis life, not overstated."
+
+  - id: S-084
+    title: Smithsonian National Museum of African Art — Kente cloth
+    type: website
+    url: https://africa.si.edu/
+    organization: Smithsonian Institution (National Museum of African Art)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.03.009 L04 (Stories, Songs, and Art That Show What People Value) as the authority for kente cloth of the Akan peoples of Ghana and Côte d'Ivoire, whose patterns and colors carry meanings and which is worn on important occasions. The cited URL (africa.si.edu) is the museum's institutional homepage and sits behind Cloudflare bot protection (returns HTTP 403 to non-browser clients, verified 2026-08-17), so it functions as an authority-of-record rather than a page-level citation. The underlying facts are standard and accurate: kente is a woven strip cloth of the Akan (Asante/Ashanti and Ewe) peoples of Ghana, also woven in Côte d'Ivoire; its named patterns and colors encode proverbs, concepts, and values (wisdom, unity, honor); and it is worn at important ceremonies/occasions. The lesson correctly names 'the Akan peoples' and does not overstate."
+
+  - id: S-085
+    title: AIATSIS — Australian Institute of Aboriginal and Torres Strait Islander Studies
+    type: website
+    url: https://aiatsis.gov.au/
+    organization: AIATSIS (Australian Government)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.03.009 L04 (Stories, Songs, and Art That Show What People Value) for the claim that Aboriginal and Torres Strait Islander art carries knowledge, law, and stories (including the value of caring for Country) and that there are many distinct nations, each with its own traditions. aiatsis.gov.au is the authoritative Australian institute's homepage; it sits behind Cloudflare bot protection (HTTP 403 to non-browser clients, verified 2026-08-17). The facts are standard and accurate: Aboriginal and Torres Strait Islander art and oral tradition encode customary knowledge, law, and ancestral ('Dreaming') stories; 'caring for Country' is a foundational value; and there are hundreds of distinct First Nations language/Country groups. The lesson hedges correctly ('Aboriginal peoples of Australia'; 'many Aboriginal nations, each with its own stories and art') and does not reduce dot painting to a single pan-Aboriginal practice."
+
+  - id: S-086
+    title: International Organization for Migration (IOM) — Who is a migrant?
+    type: website
+    url: https://www.iom.int/who-migrant-0
+    organization: International Organization for Migration (UN Migration)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.03.009 L05 (Why People Move) for the claim that people move for reasons including family, work, safety, and the environment, and that migration has been part of human life throughout history. URL verified live (2026-08-17): https://www.iom.int/who-migrant-0 redirects to IOM's 'Fundamentals of Migration' page, which defines migration and links to IOM's World Migration Report 2024 chapters (including 'Why do people migrate?'). IOM documentation confirms migration is longstanding human behavior and that drivers include economic/work, family reunification, safety/security, and environmental factors. On-topic for the lesson's four-reason framing; the lesson correctly holds 'moving is worthy of respect' as a value distinct from the factual claim that people move for these reasons."
+
+  - id: S-087
+    title: Encyclopaedia Britannica — Salt March
+    type: website
+    url: https://www.britannica.com/event/Salt-March
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.03.009 L07 (Working Together to Change Something Unfair) for the 1930 Salt March. URL verified live (2026-08-17): Britannica's 'Salt March' article confirms a nonviolent protest led by Mahatma Gandhi in March–April 1930 against the British salt monopoly — a ~240-mile (385-km) march from Sabarmati Ashram to Dandi (Gujarat), where on April 6 Gandhi and followers picked up handfuls of salt from the shore, 'technically producing salt and breaking the law,' as civil disobedience within the Indian independence movement. Matches the lesson's '240-mile (about 385-km) march to Dandi,' 'peacefully made their own salt,' 'part of the larger movement for India's independence' framing, and its age-appropriate 'over time the unfair rule was changed' summary."
+
+  - id: S-088
+    title: National Geographic Education — River
+    type: website
+    url: https://education.nationalgeographic.org/resource/river/
+    organization: National Geographic Society
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.03.009 L06 (Rivers, Mountains, and Where People Settle) for the claim that rivers provide water, food, and transport and that fertile floodplains/valleys attract settlement. URL verified live (2026-08-17): the 'River' encyclopedic entry states 'Humans use rivers for irrigation in agriculture, for drinking water, for transportation, to produce electricity,' and that 'deltas and floodplains are highly fertile agricultural zones that offer tremendous value to the surrounding people' (e.g., the Nile and its delta 'helped give rise to the Egyptian empire'). Supports the lesson's river and floodplain-settlement claims. NOTE: the lesson originally cited a non-existent 'Valley' entry (education.nationalgeographic.org/resource/valley/ returns 404) — corrected to cite only the working 'River' page, which itself covers floodplains."
+
+  - id: S-089
+    title: Our World in Data — Urbanization
+    type: website
+    url: https://ourworldindata.org/urbanization
+    organization: Our World in Data (Global Change Data Lab, University of Oxford)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.03.009 L02 (How Our Place Changed Over Time) for the long, global growth of towns and cities, many of which began and grew at river crossings, ports, and trade routes. URL verified live (2026-08-17): the 'Urbanization' topic page (Ortiz-Ospina et al., 2024) documents urbanization as a global, multi-century shift — 'Urbanization is the migration from rural areas into towns and cities. Over the past century, billions of people have made this move.' It supports the lesson's general 'many great cities grew at crossings and ports' pattern (a standard historical-geography claim); the page itself does not enumerate river crossings, so the lesson's specific river/port claim is a supported generalization rather than a verbatim figure."
+
+  - id: S-090
+    title: Britannica Dictionary — Landmark
+    type: website
+    url: https://www.britannica.com/dictionary/landmark
+    organization: Encyclopaedia Britannica (Britannica Dictionary)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.03.009 L01 (Placing Our Local Landmarks on a Timeline) for the definition of a landmark. URL verified live (2026-08-17): the Britannica Dictionary defines 'landmark' (noun) as 'an object or structure on land that is easy to see and recognize' and, secondarily, 'a building or place that was important in history.' Supports the lesson's use of 'local landmarks as markers in a place's story.' NOTE: the lesson originally cited a non-existent National Geographic Education 'Landmark' entry (education.nationalgeographic.org/resource/landmark/ returns 404) — replaced with this working, on-topic dictionary definition."
+
+  - id: S-091
+    title: United Nations Convention on the Rights of the Child — Article 12 (OHCHR full treaty text)
+    type: website
+    url: https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child
+    organization: UN Office of the High Commissioner for Human Rights (OHCHR)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.03.009 L08 (Having a Say — Power and Being Left Out) for the right of children to say what they think and be listened to. The OHCHR URL is the canonical location of the full CRC treaty text (it returns HTTP 403 to non-browser clients, verified 2026-08-17, as previously documented in S-060). Article 12 states that States Parties shall assure the child who is capable of forming views the right to express those views freely in all matters affecting the child, the views being given due weight in accordance with the child's age and maturity. The lesson's paraphrase ('children have the right to say what they think and to have their views taken into account') is accurate; the lesson correctly frames this as a right to be realized, not an already-universal fact."
