@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 440" role="img" font-family="sans-serif">
+  <title>Where trash goes, and reduce, reuse, recycle</title>
+  <desc>A two-part drawing. The top shows where trash goes: a wrapper thrown in a bin goes to a landfill, or littered it washes down a drain to a river and the sea. The bottom shows three steps in order with arrows: first Reduce, second Reuse, third Recycle, with a label saying reduce is best to do first.</desc>
+  <rect width="820" height="440" fill="#fdfbf7"/>
+  <text x="410" y="32" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">Where trash goes — and the smart order</text>
+
+  <!-- Top: trash path -->
+  <rect x="30" y="50" width="760" height="180" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <!-- wrapper -->
+  <rect x="60" y="96" width="44" height="30" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="82" y="116" text-anchor="middle" font-size="12" fill="#222222">wrapper</text>
+  <!-- bin -->
+  <g>
+    <rect x="150" y="88" width="54" height="54" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+    <text x="177" y="120" text-anchor="middle" font-size="12" fill="#222222">bin</text>
+  </g>
+  <!-- landfill -->
+  <g>
+    <path d="M330 190 q0 -50 60 -50 l0 50 z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+    <text x="360" y="150" text-anchor="middle" font-size="13" fill="#222222">landfill</text>
+  </g>
+  <text x="255" y="112" text-anchor="middle" font-size="13" fill="#4f6d7a">→ thrown in a bin →</text>
+  <text x="360" y="220" text-anchor="middle" font-size="13" fill="#222222">it sits there a very long time</text>
+
+  <!-- littered path -->
+  <text x="180" y="160" text-anchor="middle" font-size="13" fill="#4f6d7a">or littered…</text>
+  <!-- drain -->
+  <rect x="470" y="170" width="60" height="26" rx="8" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <text x="500" y="188" text-anchor="middle" font-size="12" fill="#fdfbf7">drain</text>
+  <!-- river -->
+  <path d="M560 130 q60 40 0 80 q-60 40 0 60" fill="none" stroke="#6b93b6" stroke-width="22" stroke-linecap="round"/>
+  <!-- sea -->
+  <path d="M660 190 q70 20 110 -10 l0 60 q-70 20 -110 -10 z" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <text x="610" y="110" text-anchor="middle" font-size="13" fill="#222222">river</text>
+  <text x="710" y="208" text-anchor="middle" font-size="13" fill="#222222">sea</text>
+  <text x="560" y="90" text-anchor="middle" font-size="13" fill="#4f6d7a">→ rain washes it down a drain →</text>
+
+  <!-- Bottom: 3 Rs -->
+  <text x="410" y="270" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">Best to do first: reduce, then reuse, then recycle</text>
+
+  <g>
+    <rect x="40" y="290" width="220" height="120" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+    <text x="150" y="322" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">1. Reduce</text>
+    <text x="150" y="348" text-anchor="middle" font-size="14" fill="#222222">Don't take or make</text>
+    <text x="150" y="368" text-anchor="middle" font-size="14" fill="#222222">what you don't need.</text>
+    <text x="150" y="392" text-anchor="middle" font-size="13" fill="#222222">Best first — less waste.</text>
+  </g>
+  <g>
+    <rect x="300" y="290" width="220" height="120" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+    <text x="410" y="322" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">2. Reuse</text>
+    <text x="410" y="348" text-anchor="middle" font-size="14" fill="#222222">Use it again or</text>
+    <text x="410" y="368" text-anchor="middle" font-size="14" fill="#222222">pass it on.</text>
+    <text x="410" y="392" text-anchor="middle" font-size="13" fill="#222222">Keeps its value.</text>
+  </g>
+  <g>
+    <rect x="560" y="290" width="220" height="120" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+    <text x="670" y="322" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">3. Recycle</text>
+    <text x="670" y="348" text-anchor="middle" font-size="14" fill="#222222">Turn it into</text>
+    <text x="670" y="368" text-anchor="middle" font-size="14" fill="#222222">something new.</text>
+    <text x="670" y="392" text-anchor="middle" font-size="13" fill="#222222">Good, but uses energy.</text>
+  </g>
+
+  <!-- order arrows -->
+  <g stroke="#2b3a42" stroke-width="4" fill="#2b3a42">
+    <line x1="260" y1="350" x2="296" y2="350"/>
+    <polygon points="296,344 310,350 296,356"/>
+    <line x1="520" y1="350" x2="556" y2="350"/>
+    <polygon points="556,344 570,350 556,356"/>
+  </g>
+</svg>

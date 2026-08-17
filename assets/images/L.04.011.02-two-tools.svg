@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" font-family="sans-serif">
+  <title>Two tools for one job: carrying water</title>
+  <desc>Two tools for carrying water are drawn side by side. On the left, a wide-mouth clay pot; on the right, a narrow-neck bottle with a lid. A label says the job is carrying water. Under each tool a short line says who it works better for.</desc>
+  <rect width="760" height="360" fill="#fdfbf7"/>
+  <text x="380" y="40" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">The job: carrying water</text>
+
+  <!-- Left tool: wide-mouth pot -->
+  <g>
+    <text x="190" y="86" text-anchor="middle" font-size="18" fill="#4f6d7a" font-weight="bold">A wide-mouth pot</text>
+    <path d="M140 250 q-40 -70 0 -140 q40 -70 100 -70 q60 0 100 70 q40 70 0 140 z" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="240" cy="180" rx="100" ry="16" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="240" cy="180" rx="62" ry="9" fill="#6b93b6"/>
+    <text x="190" y="300" text-anchor="middle" font-size="14" fill="#222222">Best for scooping from a well</text>
+    <text x="190" y="320" text-anchor="middle" font-size="14" fill="#222222">and pouring at home.</text>
+  </g>
+
+  <!-- Right tool: narrow-neck bottle -->
+  <g>
+    <text x="570" y="86" text-anchor="middle" font-size="18" fill="#4f6d7a" font-weight="bold">A narrow-neck bottle</text>
+    <path d="M530 250 q-20 -20 -20 -46 l0 -10 q0 -18 14 -18 q14 0 14 18 l0 26 q0 6 6 6 l52 0 q6 0 6 -6 l0 -26 q0 -18 14 -18 q14 0 14 18 l0 10 q0 26 -20 46 q-20 30 -80 30 q-60 0 -80 -30 z" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="556" y="166" width="28" height="16" rx="4" fill="#2b3a42"/>
+    <text x="570" y="300" text-anchor="middle" font-size="14" fill="#222222">Best for carrying a long way</text>
+    <text x="570" y="320" text-anchor="middle" font-size="14" fill="#222222">without spilling.</text>
+  </g>
+
+  <text x="380" y="352" text-anchor="middle" font-size="16" fill="#4f6d7a">Which is better depends on the person and the situation.</text>
+</svg>

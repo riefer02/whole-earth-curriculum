@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" role="img" font-family="sans-serif">
+  <title>Producers, consumers, and decomposers</title>
+  <desc>A cycle diagram with three labeled boxes and arrows. Producers — a grass plant — make food from sunlight. Consumers — a rabbit — eat plants. Decomposers — a mushroom and an earthworm — break dead things down back into the soil, which feeds the plant again.</desc>
+  <rect width="820" height="400" fill="#fdfbf7"/>
+  <text x="410" y="40" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">Three jobs in an ecosystem — a circle with no waste</text>
+
+  <!-- Box: Producer -->
+  <rect x="40" y="120" width="220" height="200" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <text x="150" y="152" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">PRODUCER</text>
+  <circle cx="120" cy="200" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <g stroke="#2b3a42" stroke-width="3">
+    <line x1="150" y1="210" x2="150" y2="250"/>
+    <line x1="130" y1="222" x2="118" y2="236"/>
+    <line x1="170" y1="222" x2="182" y2="236"/>
+  </g>
+  <text x="150" y="282" text-anchor="middle" font-size="14" fill="#222222">Job: makes food</text>
+  <text x="150" y="300" text-anchor="middle" font-size="14" fill="#222222">from sunlight.</text>
+  <text x="150" y="318" text-anchor="middle" font-size="14" fill="#222222">Example: grass, a tree.</text>
+
+  <!-- Box: Consumer -->
+  <rect x="300" y="120" width="220" height="200" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="410" y="152" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">CONSUMER</text>
+  <ellipse cx="410" cy="210" rx="34" ry="24" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="436" cy="200" r="4" fill="#2b3a42"/>
+  <ellipse cx="376" cy="176" rx="7" ry="14" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <ellipse cx="396" cy="172" rx="7" ry="14" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="410" y="282" text-anchor="middle" font-size="14" fill="#222222">Job: eats other</text>
+  <text x="410" y="300" text-anchor="middle" font-size="14" fill="#222222">living things.</text>
+  <text x="410" y="318" text-anchor="middle" font-size="14" fill="#222222">Example: a rabbit, a bird.</text>
+
+  <!-- Box: Decomposer -->
+  <rect x="560" y="120" width="220" height="200" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="670" y="152" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">DECOMPOSER</text>
+  <g>
+    <rect x="655" y="196" width="10" height="20" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M650 196 q10 -16 20 0 z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+  <path d="M700 214 q8 -8 16 0 q8 8 16 0" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <text x="670" y="282" text-anchor="middle" font-size="14" fill="#222222">Job: breaks dead</text>
+  <text x="670" y="300" text-anchor="middle" font-size="14" fill="#222222">things into soil.</text>
+  <text x="670" y="318" text-anchor="middle" font-size="14" fill="#222222">Example: a mushroom,</text>
+  <text x="670" y="336" text-anchor="middle" font-size="14" fill="#222222">an earthworm.</text>
+
+  <!-- Arrows: producer -> consumer -> decomposer -> soil -> producer -->
+  <g stroke="#4f6d7a" stroke-width="4" fill="#4f6d7a">
+    <line x1="260" y1="220" x2="296" y2="220"/>
+    <polygon points="296,214 310,220 296,226"/>
+    <line x1="520" y1="220" x2="556" y2="220"/>
+    <polygon points="556,214 570,220 556,226"/>
+  </g>
+  <path d="M650 340 q-90 60 -300 60 q-170 0 -200 -30" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+  <polygon points="146,362 142,372 152,370" fill="#4f6d7a"/>
+  <text x="360" y="392" text-anchor="middle" font-size="14" fill="#4f6d7a">decomposers return nutrients to the soil, which feeds the producer again</text>
+</svg>

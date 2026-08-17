@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 430" role="img" font-family="sans-serif">
+  <title>Our Earth Home: four corners of the unit</title>
+  <desc>A circle divided into four labeled quarters around a center that reads Our Earth Home. The four quarters are: Design (tools that meet a need), Media (author, purpose, audience, and checking with a second source), Living systems (ecosystems and producers, consumers, decomposers), and Care (reduce, reuse, recycle, and helping actions). Each quarter has a small simple picture.</desc>
+  <rect width="780" height="430" fill="#fdfbf7"/>
+
+  <!-- Four quarters -->
+  <circle cx="390" cy="210" r="170" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="390" y1="40" x2="390" y2="380" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="220" y1="210" x2="560" y2="210" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Center -->
+  <circle cx="390" cy="210" r="60" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="390" y="203" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Our</text>
+  <text x="390" y="223" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Earth</text>
+  <text x="390" y="243" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Home</text>
+
+  <!-- Quarter 1: Design (top-left) -->
+  <text x="305" y="76" text-anchor="middle" font-size="19" fill="#222222" font-weight="bold">DESIGN</text>
+  <g>
+    <rect x="286" y="92" width="14" height="26" rx="3" fill="#4f6d7a"/>
+    <path d="M276 92 q7 -12 14 -12 q7 0 14 12 z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="305" y="152" text-anchor="middle" font-size="13" fill="#222222">Tools that meet a need,</text>
+  <text x="305" y="170" text-anchor="middle" font-size="13" fill="#222222">and comparing two tools.</text>
+
+  <!-- Quarter 2: Media (top-right) -->
+  <text x="475" y="76" text-anchor="middle" font-size="19" fill="#222222" font-weight="bold">MEDIA</text>
+  <rect x="448" y="92" width="54" height="36" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="458" y1="104" x2="492" y2="104" stroke="#222222" stroke-width="3"/>
+  <line x1="458" y1="116" x2="484" y2="116" stroke="#222222" stroke-width="3"/>
+  <text x="475" y="152" text-anchor="middle" font-size="13" fill="#222222">Author, purpose, audience,</text>
+  <text x="475" y="170" text-anchor="middle" font-size="13" fill="#222222">and checking with a second source.</text>
+
+  <!-- Quarter 3: Living systems (bottom-left) -->
+  <text x="305" y="270" text-anchor="middle" font-size="19" fill="#222222" font-weight="bold">LIVING SYSTEMS</text>
+  <circle cx="288" cy="292" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <ellipse cx="330" cy="300" rx="14" ry="9" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="305" y="344" text-anchor="middle" font-size="13" fill="#222222">Ecosystems, and producers,</text>
+  <text x="305" y="362" text-anchor="middle" font-size="13" fill="#222222">consumers, decomposers.</text>
+
+  <!-- Quarter 4: Care (bottom-right) -->
+  <text x="475" y="270" text-anchor="middle" font-size="19" fill="#222222" font-weight="bold">CARE</text>
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <path d="M448 330 a10 10 0 0 1 20 0" stroke-linecap="round"/>
+    <path d="M458 330 a10 10 0 0 1 20 0" stroke-linecap="round"/>
+    <path d="M468 330 a10 10 0 0 1 20 0" stroke-linecap="round"/>
+  </g>
+  <text x="475" y="344" text-anchor="middle" font-size="13" fill="#222222">Reduce, reuse, recycle,</text>
+  <text x="475" y="362" text-anchor="middle" font-size="13" fill="#222222">and helping actions.</text>
+
+  <text x="390" y="414" text-anchor="middle" font-size="15" fill="#4f6d7a">Clear eyes and a caring hand.</text>
+</svg>

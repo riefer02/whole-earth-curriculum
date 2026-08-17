@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" font-family="sans-serif">
+  <title>The steps of designing a tool</title>
+  <desc>Five rounded boxes in a row with arrows between them show the steps of designing a tool: Need, Imagine, Make, Test, Improve. Each box has a small simple picture and a one-line example about a grain scoop.</desc>
+  <rect width="900" height="260" fill="#fdfbf7"/>
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <!-- Box 1: Need -->
+    <rect x="10" y="50" width="150" height="150" rx="14" fill="#fdfbf7"/>
+    <text x="85" y="28" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">1. Need</text>
+    <circle cx="60" cy="95" r="12" fill="#e0a458"/>
+    <text x="60" y="100" text-anchor="middle" font-size="16" fill="#222222">!</text>
+    <text x="85" y="140" text-anchor="middle" font-size="13" fill="#222222">Find a problem:</text>
+    <text x="85" y="158" text-anchor="middle" font-size="13" fill="#222222">lifting grain by</text>
+    <text x="85" y="176" text-anchor="middle" font-size="13" fill="#222222">hand is slow</text>
+
+    <!-- arrow 1 -->
+    <line x1="160" y1="125" x2="192" y2="125" stroke-width="3"/>
+    <polygon points="192,120 204,125 192,130" fill="#2b3a42"/>
+
+    <!-- Box 2: Imagine -->
+    <rect x="204" y="50" width="150" height="150" rx="14" fill="#fdfbf7"/>
+    <text x="279" y="28" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">2. Imagine</text>
+    <path d="M244 105 q10 -20 24 -20 q14 0 24 20 q-24 16 -48 0" fill="#6b93b6"/>
+    <text x="279" y="140" text-anchor="middle" font-size="13" fill="#222222">Think of ideas:</text>
+    <text x="279" y="158" text-anchor="middle" font-size="13" fill="#222222">a curved cup</text>
+    <text x="279" y="176" text-anchor="middle" font-size="13" fill="#222222">on a handle</text>
+
+    <!-- arrow 2 -->
+    <line x1="354" y1="125" x2="386" y2="125" stroke-width="3"/>
+    <polygon points="386,120 398,125 386,130" fill="#2b3a42"/>
+
+    <!-- Box 3: Make -->
+    <rect x="398" y="50" width="150" height="150" rx="14" fill="#fdfbf7"/>
+    <text x="473" y="28" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">3. Make</text>
+    <rect x="443" y="92" width="28" height="36" rx="6" fill="#7a9e7e"/>
+    <line x1="471" y1="110" x2="495" y2="110" stroke-width="5" stroke="#2b3a42"/>
+    <text x="473" y="140" text-anchor="middle" font-size="13" fill="#222222">Choose and build</text>
+    <text x="473" y="158" text-anchor="middle" font-size="13" fill="#222222">one idea into</text>
+    <text x="473" y="176" text-anchor="middle" font-size="13" fill="#222222">a real thing</text>
+
+    <!-- arrow 3 -->
+    <line x1="548" y1="125" x2="580" y2="125" stroke-width="3"/>
+    <polygon points="580,120 592,125 580,130" fill="#2b3a42"/>
+
+    <!-- Box 4: Test -->
+    <rect x="592" y="50" width="150" height="150" rx="14" fill="#fdfbf7"/>
+    <text x="667" y="28" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">4. Test</text>
+    <path d="M628 106 l14 14 l28 -30" fill="none" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
+    <text x="667" y="140" text-anchor="middle" font-size="13" fill="#222222">Try it out:</text>
+    <text x="667" y="158" text-anchor="middle" font-size="13" fill="#222222">does it hold</text>
+    <text x="667" y="176" text-anchor="middle" font-size="13" fill="#222222">the grain?</text>
+
+    <!-- arrow 4 -->
+    <line x1="742" y1="125" x2="774" y2="125" stroke-width="3"/>
+    <polygon points="774,120 786,125 774,130" fill="#2b3a42"/>
+
+    <!-- Box 5: Improve -->
+    <rect x="786" y="50" width="110" height="150" rx="14" fill="#fdfbf7"/>
+    <text x="841" y="28" text-anchor="middle" font-size="20" fill="#222222" font-weight="bold">5. Improve</text>
+    <path d="M806 106 q10 -16 22 -16 q12 0 22 16 l-22 12 -22 -12" fill="#e0a458"/>
+    <text x="841" y="140" text-anchor="middle" font-size="13" fill="#222222">Fix it:</text>
+    <text x="841" y="158" text-anchor="middle" font-size="13" fill="#222222">make the</text>
+    <text x="841" y="176" text-anchor="middle" font-size="13" fill="#222222">cup deeper</text>
+  </g>
+  <text x="450" y="236" text-anchor="middle" font-size="15" fill="#4f6d7a">Designing is a loop — you try, test, and improve.</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" font-family="sans-serif">
+  <title>Three messages: author, purpose, and audience</title>
+  <desc>Three message cards, each labeled with its author, purpose, and audience. A health poster by a health worker informs families; a toy ad by a toy company persuades children; a road-safety sign by a town or city warns walkers and drivers. Under each, one line explains how the author and audience shape the message.</desc>
+  <rect width="900" height="360" fill="#fdfbf7"/>
+
+  <!-- Card 1: health poster -->
+  <g>
+    <rect x="20" y="30" width="270" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="40" y="52" width="230" height="80" rx="8" fill="#7a9e7e"/>
+    <text x="155" y="82" text-anchor="middle" font-size="17" fill="#222222" font-weight="bold">Wash your hands</text>
+    <text x="155" y="106" text-anchor="middle" font-size="14" fill="#222222">to stay well</text>
+    <text x="155" y="152" text-anchor="middle" font-size="14" fill="#4f6d7a" font-weight="bold">Author: a health worker</text>
+    <text x="155" y="172" text-anchor="middle" font-size="14" fill="#4f6d7a" font-weight="bold">Purpose: to inform</text>
+    <text x="155" y="192" text-anchor="middle" font-size="14" fill="#4f6d7a" font-weight="bold">Audience: families</text>
+    <text x="155" y="222" text-anchor="middle" font-size="13" fill="#222222">Shaped by audience:</text>
+    <text x="155" y="240" text-anchor="middle" font-size="13" fill="#222222">plain words and</text>
+    <text x="155" y="258" text-anchor="middle" font-size="13" fill="#222222">pictures everyone</text>
+    <text x="155" y="276" text-anchor="middle" font-size="13" fill="#222222">can understand.</text>
+  </g>
+
+  <!-- Card 2: toy ad -->
+  <g>
+    <rect x="315" y="30" width="270" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="450" cy="86" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+    <text x="450" y="92" text-anchor="middle" font-size="18" fill="#222222" font-weight="bold">TOY!</text>
+    <text x="450" y="146" text-anchor="middle" font-size="14" fill="#4f6d7a" font-weight="bold">Author: a toy company</text>
+    <text x="450" y="166" text-anchor="middle" font-size="14" fill="#4f6d7a" font-weight="bold">Purpose: to persuade</text>
+    <text x="450" y="186" text-anchor="middle" font-size="14" fill="#4f6d7a" font-weight="bold">Audience: children</text>
+    <text x="450" y="216" text-anchor="middle" font-size="13" fill="#222222">Shaped by audience:</text>
+    <text x="450" y="234" text-anchor="middle" font-size="13" fill="#222222">bright colors and</text>
+    <text x="450" y="252" text-anchor="middle" font-size="13" fill="#222222">exciting words to</text>
+    <text x="450" y="270" text-anchor="middle" font-size="13" fill="#222222">make children want it.</text>
+  </g>
+
+  <!-- Card 3: road sign -->
+  <g>
+    <rect x="610" y="30" width="270" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <polygon points="745,52 785,72 785,112 745,132 705,112 705,72" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+    <text x="745" y="100" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">STOP</text>
+    <text x="745" y="162" text-anchor="middle" font-size="14" fill="#4f6d7a" font-weight="bold">Author: a town or city</text>
+    <text x="745" y="182" text-anchor="middle" font-size="14" fill="#4f6d7a" font-weight="bold">Purpose: to warn</text>
+    <text x="745" y="202" text-anchor="middle" font-size="14" fill="#4f6d7a" font-weight="bold">Audience: walkers, drivers</text>
+    <text x="745" y="232" text-anchor="middle" font-size="13" fill="#222222">Shaped by audience:</text>
+    <text x="745" y="250" text-anchor="middle" font-size="13" fill="#222222">big, bold, and easy</text>
+    <text x="745" y="268" text-anchor="middle" font-size="13" fill="#222222">to see from far away</text>
+    <text x="745" y="286" text-anchor="middle" font-size="13" fill="#222222">while moving.</text>
+  </g>
+</svg>

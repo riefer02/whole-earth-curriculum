@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 420" role="img" font-family="sans-serif">
+  <title>An ecosystem's living and nonliving parts</title>
+  <desc>A pond-and-garden ecosystem drawing with labeled parts. Nonliving parts — sun, water, soil, rock — are on one side; living parts — a tree, a bird, a fish, a worm — are on the other. Arrows show dependence, and a key labels which parts are living and which are nonliving.</desc>
+  <rect width="820" height="420" fill="#fdfbf7"/>
+  <text x="410" y="36" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">One ecosystem: a pond and its garden bank</text>
+
+  <!-- Scene -->
+  <rect x="30" y="70" width="560" height="250" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Sun -->
+  <circle cx="90" cy="105" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <g stroke="#2b3a42" stroke-width="3">
+    <line x1="90" y1="72" x2="90" y2="62"/>
+    <line x1="90" y1="138" x2="90" y2="148"/>
+    <line x1="57" y1="105" x2="47" y2="105"/>
+    <line x1="123" y1="105" x2="133" y2="105"/>
+  </g>
+  <text x="90" y="165" text-anchor="middle" font-size="13" fill="#222222">sun (nonliving)</text>
+
+  <!-- Soil / ground -->
+  <rect x="30" y="240" width="560" height="80" fill="#7a9e7e" opacity="0.55"/>
+  <path d="M30 240 L590 240" stroke="#2b3a42" stroke-width="3"/>
+  <text x="500" y="280" text-anchor="middle" font-size="13" fill="#222222">soil (nonliving)</text>
+
+  <!-- Rock -->
+  <ellipse cx="520" cy="292" rx="26" ry="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <text x="520" y="318" text-anchor="middle" font-size="13" fill="#222222">rock (nonliving)</text>
+
+  <!-- Water / pond -->
+  <ellipse cx="330" cy="252" rx="120" ry="34" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <text x="330" y="316" text-anchor="middle" font-size="13" fill="#222222">water (nonliving)</text>
+
+  <!-- Fish -->
+  <path d="M360 250 q24 -12 44 0 q-14 10 -30 6 l-6 4 q-4 3 -8 0 z" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="415" y="246" font-size="13" fill="#222222">fish (living)</text>
+
+  <!-- Tree -->
+  <rect x="150" y="170" width="14" height="70" fill="#4f6d7a"/>
+  <circle cx="157" cy="150" r="40" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <text x="157" y="120" text-anchor="middle" font-size="13" fill="#222222">tree (living)</text>
+
+  <!-- Bird -->
+  <g>
+    <ellipse cx="240" cy="120" rx="16" ry="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="252" cy="114" r="5" fill="#2b3a42"/>
+    <polygon points="262,118 272,116 262,122" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="240" y="150" text-anchor="middle" font-size="13" fill="#222222">bird (living)</text>
+
+  <!-- Worm -->
+  <path d="M150 270 q8 -10 16 0 q8 10 16 0" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <text x="205" y="276" font-size="13" fill="#222222">worm (living)</text>
+
+  <!-- Dependence arrows -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="#4f6d7a">
+    <line x1="112" y1="120" x2="128" y2="150"/>
+    <polygon points="128,145 124,156 132,148"/>
+    <line x1="157" y1="190" x2="157" y2="238"/>
+    <polygon points="152,238 157,250 162,238"/>
+    <line x1="262" y1="130" x2="200" y2="152"/>
+    <polygon points="202,144 198,155 206,150"/>
+  </g>
+
+  <!-- Key -->
+  <rect x="620" y="70" width="180" height="160" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="710" y="96" text-anchor="middle" font-size="16" fill="#222222" font-weight="bold">Key</text>
+  <rect x="640" y="112" width="20" height="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="670" y="127" font-size="14" fill="#222222">Living parts</text>
+  <rect x="640" y="146" width="20" height="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="670" y="161" font-size="14" fill="#222222">Nonliving parts</text>
+  <text x="710" y="200" text-anchor="middle" font-size="13" fill="#4f6d7a">Arrows show</text>
+  <text x="710" y="218" text-anchor="middle" font-size="13" fill="#4f6d7a">who depends</text>
+  <text x="710" y="236" text-anchor="middle" font-size="13" fill="#4f6d7a">on whom.</text>
+
+  <text x="410" y="382" text-anchor="middle" font-size="16" fill="#4f6d7a">Living and nonliving parts depend on each other.</text>
+</svg>

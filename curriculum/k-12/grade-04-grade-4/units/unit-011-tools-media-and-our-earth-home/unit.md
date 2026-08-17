@@ -63,3 +63,13 @@ worship nor fear.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.04.011.01 | Designing a Tool to Meet a Need | D10.S1.04.01 |
+| L.04.011.02 | Two Tools for One Job | D10.S1.04.02 |
+| L.04.011.03 | Author, Purpose, and Audience | D10.S2.04.01 |
+| L.04.011.04 | Check It With a Second Source | D10.S2.04.02 |
+| L.04.011.05 | An Ecosystem's Living and Nonliving Parts | D10.S3.04.01 |
+| L.04.011.06 | Producers, Consumers, and Decomposers | D10.S3.04.02 |
+| L.04.011.07 | Where Trash Goes — Reduce, Reuse, Recycle | D10.S4.04.01 |
+| L.04.011.08 | One Action — Help or Harm | D10.S4.04.02 |
+| L.04.011.09 | Our Care Message — Author, Purpose, Audience, Checked Facts | D10.S2.04.01, D10.S2.04.02, D10.S4.04.02 |
+| L.04.011.10 | Our Earth Home — Design, Media, Living Systems, and Care | D10.S1.04.01, D10.S1.04.02, D10.S2.04.01, D10.S2.04.02, D10.S3.04.01, D10.S3.04.02, D10.S4.04.01, D10.S4.04.02 |

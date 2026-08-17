@@ -1374,3 +1374,48 @@ sources:
     domains: [D09]
     reviewed: true
     notes: "Cited in U.04.010 L03 (Dignity: Being a Person of Worth) for the shared value that every person is born with dignity and worth (Article 1). Real UN document (1948); URL verified live (2026-08-17)."
+
+  - id: S-150
+    title: "TeachEngineering — Engineering Design Process"
+    type: website
+    url: https://www.teachengineering.org/populartopics/designprocess
+    organization: TeachEngineering (NSF-funded, CU Boulder)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.04.011 L01/L02 (design a tool / compare two tools) for the engineering design process (Ask-Imagine-Plan-Create-Test-Improve). Real, NSF-funded curriculum resource; URL verified live (2026-08-17)."
+
+  - id: S-151
+    title: "NAMLE — Key Questions to Ask When Analyzing Media Messages"
+    type: website
+    url: https://namle.org/resources/key-questions/
+    organization: National Association for Media Literacy Education
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.04.011 L03/L04/L09 (author/purpose/audience; two-source checking) for the key questions of media analysis. Real NAMLE resource; URL verified live (2026-08-17)."
+
+  - id: S-152
+    title: "National Geographic Education — Ecosystem"
+    type: website
+    url: https://education.nationalgeographic.org/resource/ecosystem/
+    organization: National Geographic Society
+    domains: [D10, D06]
+    reviewed: true
+    notes: "Cited in U.04.011 L05/L08 for ecosystem = living + nonliving parts that depend on each other (biotic/abiotic). URL verified live (2026-08-17)."
+
+  - id: S-153
+    title: "National Geographic Education — Decomposers"
+    type: website
+    url: https://education.nationalgeographic.org/resource/decomposers/
+    organization: National Geographic Society
+    domains: [D10, D06]
+    reviewed: true
+    notes: "Cited in U.04.011 L06 for the decomposer role (mushroom/earthworm examples). URL verified live (2026-08-17). Note: listed as Grades 5-8; content (decomposers break down dead matter) is appropriate and on-topic for the grade-4 lesson's producer/consumer/decomposer objective."
+
+  - id: S-154
+    title: "U.S. EPA — Reduce, Reuse, Recycle"
+    type: website
+    url: https://www.epa.gov/recycle
+    organization: U.S. Environmental Protection Agency
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.04.011 L07/L10 for the reduce-reuse-recycle waste hierarchy (reduce first, then reuse, then recycle). URL verified live (2026-08-17). US-centric source; treated as one authoritative waste-hierarchy reference, not the only tradition."

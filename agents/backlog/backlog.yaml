@@ -3324,7 +3324,7 @@ items:
     type: lesson
     grade: 4
     domain: D10
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3336,6 +3336,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (807). IDs L.04.011.01-.10 sequence_in_unit 1-10, grade 4, unit U.04.011, domain D10/pillar P4; strand matches objectives (L3->D10.S2, L9->D10.S2+D10.S4); all 8 objectives resolve verbatim to real grade-4 D10 standards; headings all 10; unit.md Lessons table matches; Connection L5 concrete (ecosystem tree-sun/water/soil, bird-tree, worm-soil observation not definition dump); 10 SVGs exist.
+      fact-checker:
+        verdict: passed
+        note: "Highest-risk claims verified: octopus three hearts (true), camel humps store fat not water (correctly 'partly false' + disagreeing-source example); ecosystem living+nonliving matches NatGeo verbatim; producer/consumer/decomposer mushroom+earthworm; reduce-reuse-recycle EPA hierarchy; evidence-vs-values clean ('reduce is kindest' value vs factual hierarchy, 'checking is care for truth'). Registered 5 new sources: S-150 TeachEngineering, S-151 NAMLE, S-152 NatGeo Ecosystem, S-153 NatGeo Decomposers, S-154 EPA. validate passes (807)."
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro default (facilitator 'keep it global and egalitarian'); tool examples multi-region (grain scoop, clay pot, jerrycan, basket, broom vs brush); media examples genre-based culturally neutral (health poster/toy ad/road sign/market notice/song/menu/spoken announcement); L4 honors oral knowledge ('grandparent's account is a real source' philosophy 11); L9 oral media (spoken/sung/chalk/fire/home language); environment L7/8/10 reduce-reuse-recycle universal no-cost ('mending, reusable bag, feeding scraps, passing on — not buying eco products'), 'some places have no curbside recycling, not a failing', steward plans 'cost nothing work anywhere'. EPA citation factual + 'stewardship not a product to buy'.
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier all 10 (voice/body/found objects/spoken sources, devices optional enriched); SVG role=img+title+desc+non-empty alt all 10 grayscale-safe (labels not color); blind (tactile found objects + 'feel which is easier' L2, read-aloud media L3/4, verbal + tactile ecosystem L5/6); Deaf/non-speaking (point/picture-labeled drawing); motor ('direct a partner's hands'); no eye-closing/physical-only; no wealth/device (L7-9, multilingual homes L9 'any language home').
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics ('who does this help and who is left out' L1, 'checking is not distrust it is care for truth' L4, stewardship-vs-doom L7/8, 'everything is food for something else' L6); egalitarianism ('no single wealthy modern home is default', 'world's most careful stewards are people with the least', 'caring needs no money', 'stewardship not a product to buy'); global (tools/needs/messages/ecosystems from many biomes, oral knowledge + any home language honored, no Euro default); tech/env central (neither worship nor fear, stewardship L5-10). Evidence vs values (TeachEngineering/Common Sense/NAMLE/NatGeo/EPA; octopus/camel as checkable claims modeling the distinction). Traceability: Vision->P4->D10->S1-S4->8 standards->U.04.011->10 lessons; no hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (9-10, 3-5): cognitive concrete worked-example-first (real objects grain scoop/pot vs bottle/stream bank, sortable cards, no abstract systems above band); media literacy 'checking is care for truth not distrust', benign checkable claims (octopus/camel/banana), 'need a third source' fine honest outcome, toy ad 'both honest once you see them' not manipulation-bait; environment stewardship-framed agency not doom/guilt ('never doom or guilt' L7, 'not to shame anyone for litter' L8, trash path resolved with 'we can do this' + doable action, steward plan one small free action, decomposer 'quiet helpers' no gore); no eco-anxiety; fairness/'who is left out' woven; inquiry over creed; full-body/ability differentiation."
   - id: B-323
     title: Author lessons for Unit U.04.012 (All of Me, All of Us)
     agent: lesson-author

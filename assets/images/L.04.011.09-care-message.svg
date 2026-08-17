@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 430" role="img" font-family="sans-serif">
+  <title>A care message with its parts labeled</title>
+  <desc>A model care poster labeled with its parts. The message says: Keep our stream clean — litter can wash into the water and harm fish. Labels point to the author (a learner), the purpose (to persuade people to care), the audience (people who visit the stream), and the checked fact, with a note that the fact was checked in two sources that agreed.</desc>
+  <rect width="780" height="430" fill="#fdfbf7"/>
+  <text x="390" y="36" text-anchor="middle" font-size="22" fill="#222222" font-weight="bold">An honest care message — clear and true</text>
+
+  <!-- Poster -->
+  <rect x="40" y="60" width="460" height="340" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <text x="270" y="110" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Keep our stream clean</text>
+  <!-- stream -->
+  <path d="M60 200 q90 -26 180 0 q90 26 180 0" fill="none" stroke="#6b93b6" stroke-width="30" stroke-linecap="round"/>
+  <!-- fish -->
+  <path d="M200 192 q18 -10 32 0 q-10 8 -22 5 l-5 4 q-2 2 -5 0 z" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="270" y="280" text-anchor="middle" font-size="18" fill="#222222">Litter can wash into the water</text>
+  <text x="270" y="306" text-anchor="middle" font-size="18" fill="#222222">and harm the fish.</text>
+  <text x="270" y="360" text-anchor="middle" font-size="15" fill="#222222">— a checked fact: two sources agreed —</text>
+
+  <!-- Labels -->
+  <g font-size="15" fill="#222222">
+    <!-- Author -->
+    <line x1="500" y1="96" x2="544" y2="84" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="546" y="62" width="224" height="44" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="658" y="80" text-anchor="middle" font-size="13" fill="#4f6d7a" font-weight="bold">AUTHOR</text>
+    <text x="658" y="98" text-anchor="middle" font-size="13" fill="#222222">a learner (or a group)</text>
+
+    <!-- Purpose -->
+    <line x1="500" y1="150" x2="544" y2="140" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="546" y="118" width="224" height="44" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="658" y="136" text-anchor="middle" font-size="13" fill="#4f6d7a" font-weight="bold">PURPOSE</text>
+    <text x="658" y="154" text-anchor="middle" font-size="13" fill="#222222">to persuade people to care</text>
+
+    <!-- Audience -->
+    <line x1="500" y1="204" x2="544" y2="194" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="546" y="172" width="224" height="44" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="658" y="190" text-anchor="middle" font-size="13" fill="#4f6d7a" font-weight="bold">AUDIENCE</text>
+    <text x="658" y="208" text-anchor="middle" font-size="13" fill="#222222">people who visit the stream</text>
+
+    <!-- Checked fact -->
+    <line x1="500" y1="258" x2="544" y2="248" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="546" y="226" width="224" height="58" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="658" y="244" text-anchor="middle" font-size="13" fill="#4f6d7a" font-weight="bold">CHECKED FACT</text>
+    <text x="658" y="262" text-anchor="middle" font-size="13" fill="#222222">checked in two sources</text>
+    <text x="658" y="278" text-anchor="middle" font-size="13" fill="#222222">that agreed</text>
+  </g>
+
+  <text x="390" y="418" text-anchor="middle" font-size="15" fill="#4f6d7a">Checked facts are stronger than loud ones.</text>
+</svg>
