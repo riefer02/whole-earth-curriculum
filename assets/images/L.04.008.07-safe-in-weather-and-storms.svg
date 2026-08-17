@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Safe in weather and storms</title>
+  <desc id="desc">Three panels for weather safety. The first shows a storm cloud with lightning and a child moving inside a shelter away from windows, labeled go inside. The second shows a hot sun with a child drinking water in the shade, labeled drink and rest. The third shows snow with a child in layered clothes, labeled layer up and stay dry. The rules are carried by words and bold shapes, so they print clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Safe in Weather and Storms</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Be ready for any sky</text>
+
+  <!-- Panel 1: storm -->
+  <g>
+    <rect x="20" y="92" width="148" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M44 128 q14 -18 30 0 q16 -18 30 0 q18 -20 34 0 q14 -16 30 0" fill="#9aa5ab" stroke="#2b3a42" stroke-width="2"/>
+    <polygon points="120,140 116,158 128,158 124,176 140,158 128,158 132,140" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- shelter house -->
+    <path d="M40 220 L94 176 L148 220" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M40 220 L40 264 M148 220 L148 264" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="40" y="264" width="108" height="24" fill="#e8e2d6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="84" y="236" width="24" height="52" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- child inside -->
+    <circle cx="62" cy="236" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="54" y="245" width="16" height="16" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="94" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">go inside</text>
+  </g>
+
+  <!-- Panel 2: heat -->
+  <g>
+    <rect x="182" y="92" width="148" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="256" cy="150" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 108 l0 -14 M256 192 l0 14 M218 150 l-14 0 M294 150 l14 0 M230 124 l-10 -10 M282 176 l10 10 M282 124 l-10 10 M230 176 l10 10" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <!-- child in shade drinking -->
+    <path d="M200 300 L200 216 L312 216 L312 300 Z" fill="none" stroke="#7a9e7e" stroke-width="0"/>
+    <rect x="196" y="208" width="120" height="16" rx="6" fill="#7a9e7e" opacity="0.55"/>
+    <circle cx="256" cy="238" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="243" y="250" width="26" height="24" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M252 250 l0 -12 M260 250 l0 -12" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- cup -->
+    <path d="M258 262 l0 12 l14 0 q0 8 -7 8 l-6 0 q-7 0 -7 -8 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">drink and rest</text>
+  </g>
+
+  <!-- Panel 3: cold -->
+  <g>
+    <rect x="344" y="92" width="148" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <!-- snowflakes -->
+    <g stroke="#6b93b6" stroke-width="3" stroke-linecap="round">
+      <path d="M376 130 l0 14 M370 137 l12 0 M371 132 l10 10 M381 132 l-10 10"/>
+      <path d="M452 160 l0 12 M447 166 l10 0 M448 162 l8 8 M456 162 l-8 8"/>
+      <path d="M392 178 l0 10 M387 183 l10 0 M388 180 l8 8 M396 180 l-8 8"/>
+    </g>
+    <!-- child in layers -->
+    <circle cx="418" cy="238" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M400 268 q18 18 36 0 l0 26 q-18 14 -36 0 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="404" y="252" width="28" height="16" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M418 248 q0 8 10 8 q10 0 10 -8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M406 296 l-4 12 M430 296 l4 12" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <text x="418" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">layer up, stay dry</text>
+  </g>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">When thunder roars, go indoors. Stay out of flood water.</text>
+</svg>

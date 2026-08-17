@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Respect every way of eating</title>
+  <desc id="desc">Five equal reason cards in a row, all the same size so no reason for eating differently ranks above another. The cards are labeled culture, religion, health or allergy, preference, and access, each with a small simple picture. The cards use words and shapes, not color alone, so they print clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Respect Every Way of Eating</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Five reasons people eat differently — all deserve respect</text>
+
+  <!-- Card 1: culture -->
+  <g>
+    <rect x="20" y="100" width="88" height="270" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="64" cy="158" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M64 132 q0 14 14 14 q14 0 14 -14 q0 -8 -14 -8 q-14 0 -14 8 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M44 192 q-10 20 0 36 q-6 12 0 24 q-10 18 0 32" fill="none" stroke="#7a9e7e" stroke-width="6" stroke-linecap="round"/>
+    <path d="M84 192 q10 20 0 36 q6 12 0 24 q10 18 0 32" fill="none" stroke="#7a9e7e" stroke-width="6" stroke-linecap="round"/>
+    <rect x="32" y="316" width="64" height="34" rx="6" fill="#6b93b6"/>
+    <text x="64" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">culture</text>
+  </g>
+
+  <!-- Card 2: religion -->
+  <g>
+    <rect x="120" y="100" width="88" height="270" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M144 300 L150 300 L150 232 L144 232 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M164 300 L158 300 L158 232 L164 232 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="140" y="300" width="28" height="10" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="164" cy="196" r="30" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M164 160 q8 20 0 40 q-8 20 0 40" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M144 176 l10 20 l-10 20" fill="none" stroke="#6b93b6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="132" y="316" width="64" height="34" rx="6" fill="#6b93b6"/>
+    <text x="164" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">religion</text>
+  </g>
+
+  <!-- Card 3: health or allergy -->
+  <g>
+    <rect x="220" y="100" width="88" height="270" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="244" y="152" width="40" height="56" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="248" y="158" width="32" height="18" rx="3" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="254" cy="190" r="6" fill="#e0a458"/>
+    <circle cx="274" cy="190" r="6" fill="#6b93b6"/>
+    <path d="M262 150 L266 150 L266 142 L262 142 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="248" y="230" width="32" height="26" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="232" y="316" width="64" height="34" rx="6" fill="#6b93b6"/>
+    <text x="264" y="332" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff">health or</text>
+    <text x="264" y="345" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff">allergy</text>
+  </g>
+
+  <!-- Card 4: preference -->
+  <g>
+    <rect x="320" y="100" width="88" height="270" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="364" cy="170" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M352 160 q4 6 8 0 M368 160 q4 6 8 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M350 184 q14 12 28 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M350 232 q6 -14 14 -14 q8 0 14 14 l-14 16 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="332" y="316" width="64" height="34" rx="6" fill="#6b93b6"/>
+    <text x="364" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">preference</text>
+  </g>
+
+  <!-- Card 5: access -->
+  <g>
+    <rect x="420" y="100" width="88" height="270" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M444 160 l0 60 M444 160 q16 0 16 -16 l0 0 q0 -16 -16 -16 l-16 0 q-16 0 -16 16 l0 8 q0 16 16 16 l16 0 q16 0 16 16 l0 8 q0 16 -16 16 l-16 0" fill="none" stroke="#7a9e7e" stroke-width="6" stroke-linecap="round"/>
+    <rect x="452" y="244" width="48" height="30" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="432" y="316" width="64" height="34" rx="6" fill="#6b93b6"/>
+    <text x="464" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">access</text>
+  </g>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Every reason deserves respect.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">I treat every table with kindness.</text>
+</svg>

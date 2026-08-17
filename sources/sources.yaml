@@ -1077,3 +1077,111 @@ sources:
     domains: [D07]
     reviewed: true
     notes: "Cited in U.04.007 L06 (a dance from another culture) for the tinikling — a Philippine folk dance in which dancers step between bamboo poles imitating the tikling bird. Real Philippine government arts authority; live (2026-08-17; may return 403 to automated clients). Supports accurate, respectful representation of Philippine dance as living heritage."
+
+  - id: S-117
+    title: "FAO — Food labelling"
+    type: website
+    url: https://www.fao.org/food-labelling/en
+    organization: Food and Agriculture Organization of the United Nations
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L01 (Reading a Food Label) for what food-package information shows and why it helps people choose. URL verified live (2026-08-17)."
+
+  - id: S-118
+    title: "FAO — Food-based dietary guidelines"
+    type: website
+    url: https://www.fao.org/nutrition/education/food-dietary-guidelines/en/
+    organization: Food and Agriculture Organization of the United Nations
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L03 (Many Healthy Tables) for the claim that healthy traditional dietary patterns exist in every region (100+ countries adapt guidelines to their culinary cultures). URL verified live (2026-08-17)."
+
+  - id: S-119
+    title: "FAO — Hunger and food security"
+    type: website
+    url: https://www.fao.org/hunger/en/
+    organization: Food and Agriculture Organization of the United Nations
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L04 (Respect Every Way of Eating) for the claim that access shapes what families eat (food scarcity/justice framing). URL verified live (2026-08-17)."
+
+  - id: S-120
+    title: "WHO — Nutrition topic"
+    type: website
+    url: https://www.who.int/health-topics/nutrition
+    organization: World Health Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L04 for the claim that diets vary by need and culture. URL verified live (2026-08-17)."
+
+  - id: S-121
+    title: "WHO — Burns fact sheet"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/burns
+    organization: World Health Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L05 (Safe at Home and Around Fire) for fire and burn-injury prevention (supports stop-drop-roll / crawl-low / two-ways-out safety rules). URL verified live (2026-08-17)."
+
+  - id: S-122
+    title: "WHO — Drowning fact sheet"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/drowning
+    organization: World Health Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L06 (Safe on the Road and in the Water) for supervision and reach-or-throw-don't-go-in safe-rescue guidance. URL verified live (2026-08-17)."
+
+  - id: S-123
+    title: "WHO — Road traffic injuries fact sheet"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries
+    organization: World Health Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L06 for pedestrian safety (pedestrians as vulnerable road users; look-and-listen before crossing). URL verified live (2026-08-17)."
+
+  - id: S-124
+    title: "WHO — Climate change and health topic"
+    type: website
+    url: https://www.who.int/health-topics/climate-change
+    organization: World Health Organization
+    domains: [D03, D10]
+    reviewed: true
+    notes: "Cited in U.04.008 L07 (Safe in Weather and Storms) for heat and cold health guidance (hydration, shade, layering). URL verified live (2026-08-17); covers heat-related health guidance generally; cold/layering is standard, loosely covered."
+
+  - id: S-125
+    title: "WMO — Weather theme"
+    type: website
+    url: https://wmo.int/themes/weather
+    organization: World Meteorological Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L07 for storm and severe-weather early warnings and safety. URL verified live (2026-08-17); replaces the broken /topics/severe-weather (404) after WMO restructured topics→themes. Note: the 'when thunder roars, go indoors' safety phrase used in the lesson body originates with the US National Weather Service (NOAA/NWS), not WMO; it is used as a common mnemonic, not attributed to WMO."
+
+  - id: S-126
+    title: "IFRC — Community health and first aid"
+    type: website
+    url: https://www.ifrc.org/our-work/health-and-care/community-health
+    organization: International Federation of Red Cross and Red Crescent Societies
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L05 (Safe at Home and Around Fire) for everyday community safety and first-aid skills. Retitled to match the URL (the page is a community-health program page, not a fire-safety resource); the fire/burn specifics are covered by the companion WHO Burns fact sheet (S-121). ifrc.org may return 403 to automated clients but serves browsers."
+
+  - id: S-127
+    title: "UNICEF — Keeping children safe online"
+    type: website
+    url: https://www.unicef.org/protection/violence-against-children-online
+    organization: UNICEF
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L08 (Safe and Kind Online) for keeping personal information private and telling a trusted adult. URL verified live (2026-08-17); redirects to the 'Keeping children safe online' page."
+
+  - id: S-128
+    title: "ITU — Child Online Protection (COP)"
+    type: website
+    url: https://www.itu.int/en/ITU-D/Cybersecurity/Pages/COP.aspx
+    organization: International Telecommunication Union
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.04.008 L08 for children's online-safety guidance. URL verified live (2026-08-17); redirects to the COP landing page."

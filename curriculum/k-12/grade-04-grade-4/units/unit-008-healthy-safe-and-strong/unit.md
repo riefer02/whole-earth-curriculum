@@ -54,3 +54,11 @@ families, and ways of eating is honored.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Reading a Food Label | D03.S3.04.01 |
+| 2 | Choosing a Healthier Option | D03.S3.04.01 |
+| 3 | Many Healthy Tables | D03.S3.04.02 |
+| 4 | Respect Every Way of Eating | D03.S3.04.02 |
+| 5 | Safe at Home and Around Fire | D03.S4.04.01 |
+| 6 | Safe on the Road and in the Water | D03.S4.04.01 |
+| 7 | Safe in Weather and Storms | D03.S4.04.01 |
+| 8 | Safe and Kind Online | D03.S4.04.02 |

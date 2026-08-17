@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Safe on the road and in the water</title>
+  <desc id="desc">Two panels. The first shows a child at the edge of a road looking left, right, and left before crossing, with a zebra crossing, labeled stop and look left-right-left. The second shows a child standing back from the water's edge and throwing a rope to a person in the water, labeled reach or throw, never go in. The rules are carried by words and bold shapes, so they print clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Safe on the Road and in the Water</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Look before you cross, and never swim alone</text>
+
+  <!-- Panel 1: road crossing -->
+  <g>
+    <rect x="20" y="92" width="230" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <!-- road -->
+    <rect x="20" y="220" width="230" height="72" fill="#e8e2d6"/>
+    <line x1="20" y1="256" x2="250" y2="256" stroke="#9aa5ab" stroke-width="3" stroke-dasharray="14 10"/>
+    <!-- zebra crossing -->
+    <g>
+      <rect x="70" y="220" width="16" height="72" fill="#2b3a42"/>
+      <rect x="102" y="220" width="16" height="72" fill="#2b3a42"/>
+      <rect x="134" y="220" width="16" height="72" fill="#2b3a42"/>
+      <rect x="166" y="220" width="16" height="72" fill="#2b3a42"/>
+      <rect x="198" y="220" width="16" height="72" fill="#2b3a42"/>
+    </g>
+    <!-- child at edge -->
+    <circle cx="90" cy="182" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="76" y="196" width="28" height="26" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M76 222 l0 -10 M104 222 l0 -10" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- look arrows -->
+    <path d="M60 160 q-16 0 -16 12" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+    <path d="M60 172 L46 172 L52 166" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M120 160 q16 0 16 12" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+    <path d="M120 172 L134 172 L128 166" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="135" y="150" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">look left-right-left</text>
+    <text x="135" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">stop and look, then cross</text>
+  </g>
+
+  <!-- Panel 2: water safety -->
+  <g>
+    <rect x="262" y="92" width="230" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <!-- water -->
+    <path d="M262 240 q40 -18 80 0 q40 18 80 0 q40 18 70 0 l0 40 l-230 0 Z" fill="#6b93b6"/>
+    <!-- child on shore -->
+    <circle cx="318" cy="196" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="304" y="209" width="28" height="26" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M304 235 l0 -10 M332 235 l0 -10" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- person in water -->
+    <circle cx="452" cy="286" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M440 298 q12 8 24 0" fill="none" stroke="#6b93b6" stroke-width="5" stroke-linecap="round"/>
+    <!-- rope being thrown -->
+    <path d="M330 208 q40 24 100 44" fill="none" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="438" cy="258" r="8" fill="none" stroke="#e0a458" stroke-width="5"/>
+    <text x="380" y="372" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">reach or throw</text>
+    <text x="380" y="390" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">never go in — call an adult</text>
+  </g>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Swim only with an adult or lifeguard, and never alone.</text>
+</svg>

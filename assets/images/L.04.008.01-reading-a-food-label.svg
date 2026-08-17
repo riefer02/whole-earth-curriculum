@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading a food label</title>
+  <desc id="desc">A simplified nutrition label on a food package, showing five parts — serving size, energy, sugar, salt, and fiber — each circled with a different shape (oval, rectangle, diamond, star, and hexagon) and labeled with a word, so the parts are told apart by shape and word, not color, and print clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Reading a Food Label</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A label is a map of what is inside</text>
+
+  <!-- Package box -->
+  <rect x="120" y="92" width="272" height="370" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Label header -->
+  <rect x="140" y="110" width="232" height="44" rx="6" fill="#4f6d7a"/>
+  <text x="256" y="138" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Nutrition Label</text>
+
+  <!-- Serving size row: oval -->
+  <ellipse cx="256" cy="196" rx="104" ry="30" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Serving size</text>
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">how much the label means</text>
+
+  <!-- Energy row: rectangle -->
+  <rect x="152" y="240" width="208" height="42" rx="6" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="257" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Energy</text>
+  <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">how much fuel</text>
+
+  <!-- Sugar row: diamond -->
+  <polygon points="256,300 360,322 256,344 152,322" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="319" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Sugar</text>
+  <text x="256" y="334" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">sweet carbohydrate</text>
+
+  <!-- Salt row: star -->
+  <polygon points="256,364 268,382 288,386 275,400 278,421 256,410 234,421 237,400 224,386 244,382" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Salt</text>
+
+  <!-- Fiber row: hexagon -->
+  <polygon points="256,434 300,452 300,478 256,496 212,478 212,452" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Fiber</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">helps digestion</text>
+
+  <text x="256" y="510" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Each shape and word tells me one thing about the food.</text>
+</svg>

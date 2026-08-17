@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Safe and kind online</title>
+  <desc id="desc">A device screen split into two areas. A locked box labeled private holds a full name, home address, school name, and password, each with a padlock shape. An open area labeled okay to share holds a favorite game and a favorite color. Below, a listening trusted adult stands with the words stop and tell a trusted adult. The ideas are carried by words and shapes, so they print clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Safe and Kind Online</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Keep private things private, and be kind</text>
+
+  <!-- Screen frame -->
+  <rect x="96" y="92" width="320" height="250" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Private box -->
+  <rect x="112" y="108" width="140" height="218" rx="10" fill="#eef3f1" stroke="#2b3a42" stroke-width="2"/>
+  <text x="182" y="132" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">private</text>
+  <g>
+    <rect x="124" y="144" width="12" height="10" rx="2" fill="#e0a458"/>
+    <path d="M127 144 q0 -7 4 -7 q4 0 4 7 l0 6 q0 3 -4 3 q-4 0 -4 -3 Z" fill="none" stroke="#e0a458" stroke-width="2"/>
+    <text x="144" y="153" font-family="sans-serif" font-size="13" fill="#222222">full name</text>
+  </g>
+  <g>
+    <rect x="124" y="166" width="12" height="10" rx="2" fill="#e0a458"/>
+    <path d="M127 166 q0 -7 4 -7 q4 0 4 7 l0 6 q0 3 -4 3 q-4 0 -4 -3 Z" fill="none" stroke="#e0a458" stroke-width="2"/>
+    <text x="144" y="175" font-family="sans-serif" font-size="13" fill="#222222">home address</text>
+  </g>
+  <g>
+    <rect x="124" y="188" width="12" height="10" rx="2" fill="#e0a458"/>
+    <path d="M127 188 q0 -7 4 -7 q4 0 4 7 l0 6 q0 3 -4 3 q-4 0 -4 -3 Z" fill="none" stroke="#e0a458" stroke-width="2"/>
+    <text x="144" y="197" font-family="sans-serif" font-size="13" fill="#222222">school name</text>
+  </g>
+  <g>
+    <rect x="124" y="210" width="12" height="10" rx="2" fill="#e0a458"/>
+    <path d="M127 210 q0 -7 4 -7 q4 0 4 7 l0 6 q0 3 -4 3 q-4 0 -4 -3 Z" fill="none" stroke="#e0a458" stroke-width="2"/>
+    <text x="144" y="219" font-family="sans-serif" font-size="13" fill="#222222">password</text>
+  </g>
+  <text x="182" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">locked away</text>
+  <text x="182" y="268" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">never shared</text>
+
+  <!-- Okay to share area -->
+  <text x="300" y="132" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">okay to share</text>
+  <g>
+    <circle cx="286" cy="158" r="9" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+    <path d="M286 154 q4 4 8 0" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
+    <text x="302" y="163" font-family="sans-serif" font-size="13" fill="#222222">favorite game</text>
+  </g>
+  <g>
+    <circle cx="286" cy="190" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="302" y="195" font-family="sans-serif" font-size="13" fill="#222222">favorite color</text>
+  </g>
+  <g>
+    <circle cx="286" cy="222" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="302" y="227" font-family="sans-serif" font-size="13" fill="#222222">favorite book</text>
+  </g>
+
+  <!-- Trusted adult below -->
+  <circle cx="256" cy="398" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 374 q0 12 12 12 q12 0 12 -12 q0 -8 -12 -8 q-12 0 -12 8 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M228 452 q28 20 56 0 l0 30 q-28 18 -56 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- listening ear -->
+  <circle cx="234" cy="396" r="5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Stop and tell a trusted adult.</text>
+</svg>

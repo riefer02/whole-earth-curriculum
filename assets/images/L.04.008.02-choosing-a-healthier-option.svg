@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Choosing a healthier option</title>
+  <desc id="desc">Two simplified nutrition labels side by side for the same kind of food. Each label lists fiber, sugar, and salt with simple numbers. Label A has more fiber and less sugar and salt, so a green check mark points to it as the healthier choice. The choice is shown by comparing the numbers, with words and shapes, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Choosing a Healthier Option</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Compare the numbers, then choose</text>
+
+  <!-- Label A -->
+  <g>
+    <rect x="24" y="96" width="216" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="36" y="108" width="192" height="40" rx="6" fill="#4f6d7a"/>
+    <text x="132" y="134" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#ffffff">Yogurt A</text>
+
+    <rect x="48" y="164" width="168" height="44" rx="6" fill="#eef3f1" stroke="#2b3a42" stroke-width="2"/>
+    <text x="60" y="192" font-family="sans-serif" font-size="15" fill="#222222">Fiber</text>
+    <text x="196" y="192" text-anchor="end" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">4 g</text>
+
+    <rect x="48" y="220" width="168" height="44" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="60" y="248" font-family="sans-serif" font-size="15" fill="#222222">Sugar</text>
+    <text x="196" y="248" text-anchor="end" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">6 g</text>
+
+    <rect x="48" y="276" width="168" height="44" rx="6" fill="#eef3f1" stroke="#2b3a42" stroke-width="2"/>
+    <text x="60" y="304" font-family="sans-serif" font-size="15" fill="#222222">Salt</text>
+    <text x="196" y="304" text-anchor="end" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">0.1 g</text>
+
+    <!-- Check mark -->
+    <circle cx="132" cy="356" r="24" fill="#7a9e7e"/>
+    <path d="M118 356 L129 367 L149 343" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="132" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">more fiber, less sugar and salt</text>
+  </g>
+
+  <!-- Label B -->
+  <g>
+    <rect x="272" y="96" width="216" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="284" y="108" width="192" height="40" rx="6" fill="#4f6d7a"/>
+    <text x="380" y="134" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#ffffff">Yogurt B</text>
+
+    <rect x="296" y="164" width="168" height="44" rx="6" fill="#eef3f1" stroke="#2b3a42" stroke-width="2"/>
+    <text x="308" y="192" font-family="sans-serif" font-size="15" fill="#222222">Fiber</text>
+    <text x="444" y="192" text-anchor="end" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">1 g</text>
+
+    <rect x="296" y="220" width="168" height="44" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="308" y="248" font-family="sans-serif" font-size="15" fill="#222222">Sugar</text>
+    <text x="444" y="248" text-anchor="end" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">14 g</text>
+
+    <rect x="296" y="276" width="168" height="44" rx="6" fill="#eef3f1" stroke="#2b3a42" stroke-width="2"/>
+    <text x="308" y="304" font-family="sans-serif" font-size="15" fill="#222222">Salt</text>
+    <text x="444" y="304" text-anchor="end" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">0.4 g</text>
+
+    <text x="380" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">less fiber, more sugar and salt</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">I read, I compare, I choose what helps my body. No food is bad, and no body is judged.</text>
+</svg>
