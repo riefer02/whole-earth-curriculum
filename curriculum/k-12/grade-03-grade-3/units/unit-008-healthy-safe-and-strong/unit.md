@@ -53,3 +53,11 @@ ways of eating is honored.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | What My Body Needs | D03.S3.03.01 |
+| 2 | Food — Energy to Grow, Play, and Learn | D03.S3.03.01 |
+| 3 | Water — My Body's Everyday Drink | D03.S3.03.01 |
+| 4 | Sleep and Movement — Rest and Motion | D03.S3.03.01 |
+| 5 | Where My Food Comes From | D03.S3.03.02 |
+| 6 | From Farm and Garden to My Table | D03.S3.03.02 |
+| 7 | First Aid for Minor Hurts | D03.S4.03.01 |
+| 8 | My Body Belongs to Me | D03.S4.03.02 |

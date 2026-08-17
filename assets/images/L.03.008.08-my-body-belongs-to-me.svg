@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My body belongs to me</title>
+  <desc id="desc">On the left, a child stands with a hand raised in a stop sign and a speech bubble saying no. In the middle, a body drawing shows the swimsuit-covered parts shaded and labeled private. On the right, a listening trusted adult kneels with an open hand. The words my body belongs to me appear at the bottom. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">My Body Belongs to Me</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">I can say no, and I can tell a trusted adult.</text>
+
+  <!-- Child saying no -->
+  <g>
+    <circle cx="120" cy="150" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 170 l0 60" stroke="#2b3a42" stroke-width="4"/>
+    <path d="M120 188 l-20 16 M120 188 l20 16" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M120 230 l-12 44 M120 230 l12 44" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M100 196 l-24 20" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M140 196 l30 -4 l-10 20 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="174" y="186" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">no</text>
+  </g>
+
+  <!-- Body with private parts shaded -->
+  <g>
+    <circle cx="256" cy="150" r="18" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 168 l0 64" stroke="#2b3a42" stroke-width="4"/>
+    <path d="M256 186 l-20 16 M256 186 l20 16" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M256 232 l-14 44 M256 232 l14 44" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M256 200 l0 30 M256 200 l-8 0 q0 30 8 30 q8 0 8 -30 l-8 0" fill="#e0a458" stroke="#2b3a42" stroke-width="2" opacity="0.85"/>
+    <path d="M242 196 l12 -12 M270 196 l-12 -12" stroke="#2b3a42" stroke-width="2" opacity="0.6"/>
+    <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">private parts</text>
+    <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the parts a swimsuit covers</text>
+  </g>
+
+  <!-- Trusted adult -->
+  <g>
+    <circle cx="392" cy="150" r="18" fill="#b0804f" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M392 168 l0 40" stroke="#2b3a42" stroke-width="4"/>
+    <path d="M392 182 l-18 14 M392 182 l18 14" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M374 208 l-10 30 M374 208 l10 30" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M410 182 l22 -2" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="434" cy="180" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <text x="392" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">tell a trusted adult</text>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Telling is never wrong, and you are never in trouble for telling.</text>
+</svg>

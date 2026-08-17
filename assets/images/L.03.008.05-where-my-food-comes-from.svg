@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Where my food comes from</title>
+  <desc id="desc">Four labeled panels — a plant with roots, a mango, and a rice plant; an animal panel with a hen, a fish, and a bee by a honey jar; a farm field with a barn; and a garden bed with vegetables. An arrow from each origin points to a plate of food at the center. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Where My Food Comes From</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Plants, animals, farms, and gardens</text>
+
+  <!-- Plate at center -->
+  <g>
+    <ellipse cx="256" cy="256" rx="56" ry="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="256" cy="250" rx="40" ry="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="244" cy="248" r="5" fill="#7a9e7e"/>
+    <circle cx="256" cy="244" r="5" fill="#7a9e7e"/>
+    <circle cx="268" cy="248" r="5" fill="#7a9e7e"/>
+    <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my plate</text>
+  </g>
+
+  <!-- Plant panel -->
+  <g>
+    <rect x="20" y="92" width="112" height="130" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M76 200 l0 -44" stroke="#7a9e7e" stroke-width="3"/>
+    <path d="M76 180 q-14 -10 -16 -26 q14 -2 20 10 q8 -12 22 -8 q-2 14 -12 20 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M76 200 q-8 8 0 14 M76 200 q8 8 0 14" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="70" cy="128" rx="10" ry="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="76" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">plants</text>
+    <path d="M76 244 L130 250" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Animal panel -->
+  <g>
+    <rect x="380" y="92" width="112" height="130" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="416" cy="150" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M416 162 l0 10 M410 160 l12 0 M410 172 l12 0" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="452" cy="168" rx="14" ry="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M452 177 l0 8 M452 168 l0 -8 M452 168 q8 -4 8 -12" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="444" cy="150" r="4" fill="#e0a458"/>
+    <circle cx="460" cy="150" r="4" fill="#e0a458"/>
+    <text x="436" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">animals</text>
+    <path d="M404 244 L256 250" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Farm panel -->
+  <g>
+    <rect x="20" y="282" width="112" height="130" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M40 396 l36 -24 l36 24 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M76 372 l0 24" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M34 396 h84" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="76" y="432" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">farms</text>
+    <path d="M76 306 L256 250" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Garden panel -->
+  <g>
+    <rect x="380" y="282" width="112" height="130" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M400 396 h72" stroke="#7a9e7e" stroke-width="3"/>
+    <circle cx="416" cy="380" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M416 380 l0 -14" stroke="#7a9e7e" stroke-width="3"/>
+    <path d="M434 386 q0 -8 4 -12 l4 12 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M452 384 q0 -8 4 -12 l4 12 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="436" y="432" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">gardens</text>
+    <path d="M404 306 L256 250" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Every food begins in the living world.</text>
+</svg>

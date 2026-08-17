@@ -737,3 +737,31 @@ sources:
     domains: [D06, D10]
     reviewed: true
     notes: "Cited in U.03.006 L10 (The Changing World Wonder Fair). URL verified live (2026-08-17). Defines erosion as 'the wearing away of pieces of rock, soil or other solid materials' and shows the sea wearing away the land (waves → cracks → caves → arches → stacks), i.e., how water shapes the land over time. Supports the lesson's core erosion claim (the water/waves/rivers case and the general 'wearing away over time' idea); the lesson's wind-dunes and ice-glaciers sub-claims are standard, accurate Earth science not detailed on this page. Replaces the 404 topic URL z8v9pbk ('How does weather change the landscape?' — no such article)."
+
+  - id: S-080
+    title: FAO — The State of Food and Agriculture (SOFA)
+    type: website
+    url: https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-and-agriculture/en
+    organization: Food and Agriculture Organization of the United Nations (FAO)
+    year: 2025
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.03.008 L05 (Where My Food Comes From) for the general frame that food originates from plants and animals raised by people. URL verified live (2026-08-17); the original cited URL fao.org/state-of-food-agriculture/en/ returned 404, so the citation was corrected to the live SOFA flagship landing page, which resolves to fao.org/publications/fao-flagship-publications/the-state-of-food-and-agriculture/en. SOFA is FAO's annual flagship report on agrifood systems — a general authority for the lesson's low-risk claim that food comes from plants and animals raised by people, not a claim-level citation for any specific statistic."
+
+  - id: S-081
+    title: FAO — Sustainable Food Value Chains Knowledge Platform
+    type: website
+    url: https://www.fao.org/sustainable-food-value-chains/en/
+    organization: Food and Agriculture Organization of the United Nations (FAO)
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.03.008 L06 (From Farm and Garden to My Table) for how food moves from farm to table through plant, grow, harvest, transport, sell, and cook. URL verified live (2026-08-17); the original citation paired the title 'Food loss and food value chains' with the generic FAO homepage (fao.org/home/en/), which was a mislabel, so it was corrected to this FAO knowledge platform on food value chains. The platform frames food value chains as the path food travels from production through processing, transport, and market to consumers — on-topic for the lesson's farm-to-table journey and its 'many hands' framing."
+
+  - id: S-082
+    title: IFRC — First aid (International First Aid, Resuscitation and Education Guidelines)
+    type: website
+    url: https://www.ifrc.org/our-work/health-and-care/first-aid
+    organization: International Federation of Red Cross and Red Crescent Societies (IFRC)
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.03.008 L07 (First Aid for Minor Hurts) for the steps for minor cuts, scrapes, and bruises. The ifrc.org first-aid programme page sits behind bot protection (returns HTTP 403 to non-browser clients, verified 2026-08-17), so the substantive first-aid guidance was verified against IFRC's Global First Aid Reference Centre (globalfirstaidcentre.org), the federation's centre of excellence that publishes the International First Aid, Resuscitation and Education Guidelines. Those guidelines direct: rinse/clean a minor wound with clean water and cover it with a clean dressing, and apply something cold to a bruise/contusion — matching the lesson's 'tell an adult, wash with clean water, cover, cool, rest' steps. The lesson is appropriately hedged (minor hurts only; an adult always decides when a deeper/bigger/bleeding wound needs professional help), so no medical misinformation."

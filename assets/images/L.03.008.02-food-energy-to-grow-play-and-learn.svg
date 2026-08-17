@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Food is energy</title>
+  <desc id="desc">A bowl of rice and beans with greens on the left, and on the right three small scenes of a child growing taller, playing with a ball, and reading a book. An arrow goes from the bowl to the child, labeled food gives energy to grow, play, and learn. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Food Is Energy</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Food gives energy to grow, play, and learn.</text>
+
+  <!-- Bowl of food -->
+  <g>
+    <path d="M96 250 q0 -40 44 -40 q44 0 44 40 q0 20 -14 20 l-60 0 q-14 0 -14 -20 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="140" cy="208" rx="34" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="126" cy="206" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="140" cy="202" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="154" cy="206" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="133" cy="212" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="148" cy="210" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="308" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">food = fuel</text>
+  </g>
+
+  <!-- Arrow -->
+  <path d="M210 200 L320 200" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
+  <path d="M312 192 l16 8 l-16 8 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Three scenes -->
+  <g>
+    <!-- grow -->
+    <rect x="330" y="90" width="162" height="90" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M384 128 q0 -14 14 -14 q14 0 14 14 l0 8 l-28 0 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M384 140 l0 26" stroke="#2b3a42" stroke-width="4"/>
+    <text x="411" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">grow taller</text>
+
+    <!-- play -->
+    <rect x="330" y="196" width="162" height="90" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="396" cy="238" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="430" cy="252" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <text x="411" y="268" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">play with friends</text>
+
+    <!-- learn -->
+    <rect x="330" y="302" width="162" height="90" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <rect x="372" y="326" width="60" height="42" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M378 336 l14 0 M378 344 l14 0 M378 352 l14 0" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="411" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">learn and think</text>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Every family has its own fuel — many ways to eat well.</text>
+</svg>

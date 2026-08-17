@@ -2769,7 +2769,7 @@ items:
     type: lesson
     grade: 3
     domain: D03
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2781,6 +2781,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (651 files). IDs L.03.008.01-.08 sequential, sequence_in_unit 1-8, unit U.03.008, grade 3; objectives trace to the 4 real Grade-3 D03 standards only (S3.03.01/.02, S4.03.01/.02) — no invented IDs. All required headings. unit.md Lessons table lists all 8. Example: L8 Connection 'your body is yours... right to say no/stop/tell a trusted adult' faithful to D03.S4.03.02; Facilitator note uses respectful anatomy names + doll/puppet practice + safeguarding. No food-moralizing/body-shame (L2 'no good/bad food... only food that powers a body'). Sources WHO/AASM/FAO/IFRC."
+      fact-checker:
+        verdict: passed
+        note: Health claims verified + hedged (food-as-energy WHO Healthy diet S-038; water WHO S-049; movement WHO Physical activity S-069; sleep 9-12h AASM S-050). First aid steps match IFRC/GFARC (tell adult→clean with water→cover; cool+rest bruise; adult for deep/bleeding). Safe/unsafe-touch, correct names, say-no/tell-adult, safeguarding = accurate non-misinformation. Fixed 3 broken citations (AASM factsheet 404→consensus PDF; FAO SOFA 404→flagship; L6 FAO→Sustainable Food Value Chains). Registered S-080/S-081/S-082 reviewed:true. validate passes (651 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Fix: food-source L5-6 defaulted to crop-agriculture narrative — broadened to honor gathering (wild fruits/greens/honey), fishing (rivers/lakes/seas), herding/pastoralism alongside farming/gardening; L6 names alternative starts (fish caught, milk milked, wild fruit gathered). Spot-checks clean: L2 global staples (rice/maize/millet/wheat/beans/lentils/roots/fish/eggs/fruits/greens) no moralizing; L3 clean-water scarcity as justice across access (tap/well/boiled/walking far) not 'poverty=dirty'; L7 'soap if there is any' no shaming; L8 'trusted adult/caregiver' no nuclear-family default. validate passes (651 files)."
+      accessibility-editor:
+        verdict: passed
+        note: materials_low_tech+enriched all 8 (voice/body/clean cloth+water); alt text all 8 assets (SVGs role=img/title/desc + text labels, grayscale). Food sorting not vision-only (L2/L5 tactile feel real/textured foods + verbal recall). Hygiene without running water (L7 clean water 'soap if there is any', clean cloth; L3 scarcity as justice). First-aid/body-safety non-speaking (order cards/point/sign/picture 'no') + blind/low-vision (hand-over-hand/words aloud); every lesson blind/Deaf/non-speaking support + motor lines L3/L4. No wealth/able-bodied assumption (dolls optional; wheels/aids/help counted as movement L4). validate passes (651 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: L1-4 D03.S3.03.01, L5-6 S3.03.02, L7 S4.03.01, L8 S4.03.02 → D03.S3/S4 → D03 → P2 → vision; no invented/cross-grade IDs. Lenses: ethics (water scarcity as justice; every meal many hands; body-belonging as rights), egalitarianism (no ranking needs/foods/origins/bodies; disability accommodations all 8), global (global staples; gathering/fishing/herding alongside farming; tap/well/boiled/carried; no nuclear-family default), tech/env (water conservation; tools/irrigation/mills/trucks/refrigeration honestly L6). Evidence vs values (WHO/AASM/FAO/IFRC; 'my body belongs to me' as value). No body shame/food moralizing; consent as dignity ('private not because bad but because they belong to you' + safeguarding). validate passes (651 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: concrete (food-as-fuel fire/wood + car/petrol; cause-effect on body sensations; farm-to-table sorting; swimsuit-covers tangible boundary); abstract load (justice/technology) held lightly deferred. Emotional safety: no food/body shame (L1-4 forbid ranking needs/'good-bad' foods/body size/fixed amounts/pace shaming); food/water insecurity as 'what every body deserves' + agency/justice not personal failing. Body safety L8: calm matter-of-fact correct names as protection, family words honored; safe/unsafe body-based non-graphic; 'no/stop always count' empowering; dolls/in-air 'never on real bodies'; no forced disclosure; full safeguarding protocol (believe/no secrecy/no leading questions/tell lead/keep-telling). First aid L7 everyday minor hurts 'tell adult first' reassuring. Physical fit: adapted every body, drawing/sorting. Open-ended: 'noticing not being right', multiple food origins. validate passes (651 files)."
   - id: B-308
     title: Author lessons for Unit U.03.009 (People, Places & Long Ago)
     agent: lesson-author
