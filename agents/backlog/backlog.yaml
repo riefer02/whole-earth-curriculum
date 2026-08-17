@@ -2436,7 +2436,7 @@ items:
     type: lesson
     grade: 2
     domain: D10
-    status: ready
+    status: done
     priority: 60
     depends_on:
       - B-064
@@ -2448,6 +2448,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (555 files). IDs L.02.011.01-.10 sequential, sequence_in_unit 1-10, unit U.02.011, grade 2; all 10 carry Procedure/Assessment (+rest). Objectives resolve to the 8 real Grade-2 D10 standards (L1 D10.S1.02.01, L5 D10.S3.02.01 etc.) — no invented IDs. 10 assets match paths. unit.md Lessons table lists all 10. Example: L8 'Where Does Litter Go?' D10.S4.02.02 matches domain text, Connection sweet-wrapper→gutter→river→sea vs bin→reuse/recycle/compost; plastic-pollution sourced NatGeo Kids. Non-blocking: L9 strand lists D10.S4 but objectives only S2.02.01/.02 (matches unit.md, doesn't break traceability)."
+      fact-checker:
+        verdict: passed
+        note: "Plastic-pollution/litter (L8) real at NatGeo Kids 'Plastic Pollution' (animals mistake plastic for food; hundreds of years; rivers/lakes/ocean). Water stat (L7) '1 in 4 / 2.1B people lack safely managed drinking water' matches WHO/UNICEF JMP washdata.org. Food chain (L6) + habitat (L5) accurate/hedged. Fixed 4 dead URLs: Britannica Kids Tool 400184→400194; BBC Bitesize food-chain slug; Smithsonian sewing-machine→Britannica Sewing Machine (Howe 1846, 110k by 1860); Common Sense Media→live education subdomain. Evidence vs values distinguished L2/L4/L7/L8/L9; environmental framing agency-based. Registered S-061-S-066 reviewed:true. validate passes (555 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Tools framed through non-ranked pairs (mortar-pestle vs grinder, water jug vs hand pump, needle vs sewing machine) + 'no one home is the default'; water access as care/agency never shaming, WHO/UNICEF 1-in-4 as fairness act; media literacy treats grandmother's spoken word equal to book/screen, currency-neutral no-wealth examples (market stall, rice/soap labels); habitats/food chains span biomes (pond/desert/forest/seashore/savanna); non-electric never 'backward' ('new is not better; old tools still work'). Fix: L4 selling example US currency default ''/'five dollars' → 'Only five coins!'. validate passes (555 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech + enriched all 10; outdoor-only is variant never requirement. Differentiation all 10: non-visual (feel tool/hear fact/touch card edge), Deaf/HH (sign/printed messages/clue-chart pointing), non-speaking (point/gesture/place-card), motor-difference (direct partner's hands; adapted long-handled tap). Tool/media non-visual paths L1-4/L9 (verbal/tactile, spoken descriptions). Environment L5-8/L10 outdoor optional with card/drawing/felt-object indoor equivalents. Plain learner-first language. Alt text all 10 assets (SVGs role=img/aria-labelledby/title/desc, labels not color). Non-blocking: SVG '' tag vs alt 'coins' (global-culture nit). validate passes (555 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: D10.S1-S4 → D10 → P4 → vision; all 8 objectives resolve to real standards. Lenses: ethics (care-vs-guilt agency framing L7-8 'not the Earth is ruined'; 'selling is not bad — noticing it is powerful'; 'ask is a treasure never rude'), egalitarianism ('new is not better', 'never rank one people's tools', 'no one home default', no-wealth examples, 'never frame any family as wasteful', water-saving as fairness to 1-in-4), global (tools from many places, multi-biome, 'Lagos/Lima/Lahore', grandmother's spoken word equal to screen, non-electric never 'backward'), tech/env (tech 'neither worship nor fear' explicit; environment interdependence/stewardship not doom). Evidence vs values (Britannica/Common Sense Media/BBC/WHO-JMP/NatGeo). No hierarchy/supremacy. validate passes (555 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: abstractions anchored in tangible objects/body (tools held, habitats matched as cards, media sorted by concrete clues, food chain as 'story of energy moving' with photosynthesis deferred to Gr3). Emotional safety: environment L5-8 care+agency not fear/doom (L7 'saving is care and agency not guilt'; L8 'not the Earth is ruined', litter path gentle 'fish might mistake it for food' no gore); media L3-4 empowering not cynical ('asking is a treasure not suspicion', 'selling is not bad — noticing it is power'); Earth as 'home not storehouse', learners 'helpers not saviors'; no eco-anxiety. Physical fit: big-motor + fine-motor. Open-ended (questions stay questions, wonder box). Non-blocking watch: L7 '1 in 4 lack safe water' is heaviest moment — keep facilitator voice warm/matter-of-fact, never statistical doom. validate passes (555 files)."
   - id: B-211
     title: Author lessons for Unit U.02.012 (All of Me, All of Us)
     agent: lesson-author

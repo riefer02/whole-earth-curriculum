@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Where information comes from, and asking a question about it</title>
+  <desc id="d">Three sources of information — a book, a grown-up, and a screen — point to a child who asks a question. Each source is labeled: book, grown-up, screen. A speech bubble from the child says "Where did I learn this? Who made it? How do they know?" Word labels carry the meaning so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Where did I learn this?</text>
+
+  <!-- Book -->
+  <rect x="40" y="70" width="90" height="110" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="85" y1="70" x2="85" y2="180" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="52" y1="96" x2="78" y2="96" stroke="#fdfbf7" stroke-width="3"/>
+  <line x1="92" y1="96" x2="118" y2="96" stroke="#fdfbf7" stroke-width="3"/>
+  <line x1="52" y1="114" x2="78" y2="114" stroke="#fdfbf7" stroke-width="3"/>
+  <line x1="92" y1="114" x2="118" y2="114" stroke="#fdfbf7" stroke-width="3"/>
+  <line x1="52" y1="132" x2="78" y2="132" stroke="#fdfbf7" stroke-width="3"/>
+  <line x1="92" y1="132" x2="118" y2="132" stroke="#fdfbf7" stroke-width="3"/>
+  <text x="85" y="206" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">book</text>
+
+  <!-- Grown-up -->
+  <circle cx="235" cy="120" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M205 200 Q235 160 265 200 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="4"/>
+  <text x="235" y="226" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">grown-up</text>
+
+  <!-- Screen -->
+  <rect x="330" y="70" width="120" height="84" rx="8" fill="#4f6d7a" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="342" y="82" width="96" height="60" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="360" cy="100" r="6" fill="#6b93b6"/>
+  <line x1="356" y1="122" x2="392" y2="122" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="356" y1="132" x2="380" y2="132" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="378" y="154" width="24" height="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <text x="390" y="200" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">screen</text>
+
+  <!-- Arrows to child -->
+  <line x1="85" y1="230" x2="230" y2="330" stroke="#4f6d7a" stroke-width="4"/>
+  <line x1="235" y1="230" x2="250" y2="330" stroke="#4f6d7a" stroke-width="4"/>
+  <line x1="390" y1="230" x2="275" y2="330" stroke="#4f6d7a" stroke-width="4"/>
+
+  <!-- Child -->
+  <circle cx="256" cy="360" r="24" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M230 420 Q256 386 282 420 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="4"/>
+
+  <!-- Question bubble -->
+  <rect x="150" y="446" width="240" height="52" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <text x="270" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Who made it? How do they know?</text>
+  <text x="270" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Is it new or old?</text>
+</svg>

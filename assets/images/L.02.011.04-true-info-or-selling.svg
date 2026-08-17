@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">True information or selling: two message cards</title>
+  <desc id="d">Two message cards are compared. The left card, labeled TRUE INFORMATION, says brushing your teeth twice a day helps keep them clean, with no price and no buy. The right card, labeled SELLING, says buy Sparkle Paste, the best ever, only five dollars, buy now, with a price tag. Clues are listed: true information tells facts and asks for nothing; selling asks you to buy and shows a price. Word labels carry the meaning so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">True information — or selling?</text>
+
+  <!-- Left card -->
+  <rect x="24" y="60" width="220" height="230" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="24" y="60" width="220" height="44" rx="12" fill="#7a9e7e"/>
+  <text x="134" y="88" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">TRUE INFORMATION</text>
+  <text x="134" y="130" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Brushing your teeth</text>
+  <text x="134" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">twice a day helps</text>
+  <text x="134" y="170" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">keep them clean.</text>
+  <text x="134" y="206" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Tells a fact.</text>
+  <text x="134" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Asks for nothing.</text>
+  <text x="134" y="246" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">No price.</text>
+
+  <!-- Right card -->
+  <rect x="268" y="60" width="220" height="230" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="268" y="60" width="220" height="44" rx="12" fill="#e0a458"/>
+  <text x="378" y="88" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">SELLING</text>
+  <text x="378" y="128" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">BUY SPARKLE PASTE!</text>
+  <text x="378" y="148" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">The BEST ever!</text>
+  <!-- price tag -->
+  <rect x="330" y="164" width="96" height="40" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="4"/>
+  <text x="378" y="190" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">$5</text>
+  <text x="378" y="224" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Buy now!</text>
+  <text x="378" y="246" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Wants your money.</text>
+
+  <!-- Clues -->
+  <rect x="24" y="310" width="464" height="170" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Clues that something is SELLING</text>
+  <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">• It asks you to buy.</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">• It shows a price.</text>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">• It says "best ever!" or "buy now!"</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">True information tells facts and asks for nothing.</text>
+</svg>

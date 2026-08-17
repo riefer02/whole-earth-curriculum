@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Using water and energy, and saving some of it</title>
+  <desc id="d">Two columns compare using and saving. The left column, USING, shows a tap pouring water into a cup and a lit light bulb. The right column, SAVING, shows the same tap turned off and the light bulb off. Labels say: using water for a drink, using energy for light, saving water by turning the tap off, saving energy by turning the light off. Word labels carry the meaning so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Use some — and save some</text>
+
+  <!-- USING column -->
+  <rect x="20" y="60" width="220" height="420" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <text x="130" y="92" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">USING</text>
+
+  <!-- tap + cup -->
+  <rect x="60" y="110" width="20" height="40" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="60" y1="126" x2="40" y2="126" stroke="#2b3a42" stroke-width="5"/>
+  <path d="M40 126 q0 -16 18 -16 q18 0 18 16" fill="none" stroke="#6b93b6" stroke-width="4"/>
+  <rect x="90" y="150" width="40" height="40" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="4"/>
+  <text x="130" y="212" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">water for a drink</text>
+
+  <!-- light on -->
+  <circle cx="130" cy="290" r="24" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="130" y1="266" x2="130" y2="250" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="154" y1="266" x2="166" y2="250" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="106" y1="266" x2="94" y2="250" stroke="#2b3a42" stroke-width="3"/>
+  <text x="130" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">energy for light</text>
+
+  <!-- SAVING column -->
+  <rect x="272" y="60" width="220" height="420" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <text x="382" y="92" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">SAVING</text>
+
+  <!-- tap off -->
+  <rect x="312" y="110" width="20" height="40" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="312" y1="126" x2="292" y2="126" stroke="#2b3a42" stroke-width="5"/>
+  <path d="M292 126 q0 -16 18 -16 q18 0 18 16" fill="none" stroke="#6b93b6" stroke-width="4"/>
+  <line x1="304" y1="150" x2="340" y2="150" stroke="#2b3a42" stroke-width="4"/>
+  <text x="382" y="212" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">turn the tap off</text>
+
+  <!-- light off -->
+  <circle cx="382" cy="290" r="24" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="382" y1="266" x2="382" y2="250" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="406" y1="266" x2="418" y2="250" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="358" y1="266" x2="346" y2="250" stroke="#2b3a42" stroke-width="3"/>
+  <text x="382" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">turn the light off</text>
+
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">We all use water and energy. We can all save some, too.</text>
+</svg>

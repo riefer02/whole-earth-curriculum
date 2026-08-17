@@ -565,3 +565,57 @@ sources:
     domains: [D08]
     reviewed: true
     notes: "Cited in U.02.009 L08 (Someone Who Helped and Spoke Up). URL verified live (2026-08-16). States Wangari Maathai 'In 1977 she started a grass-roots movement' countering deforestation, that the Green Belt Movement 'spread to other African countries, and contributed to the planting of over thirty million trees', and that she received the Nobel Peace Prize 2004 'for her contribution to sustainable development, democracy and peace'. Confirms every factual claim in the lesson (Green Belt Movement 1977; over thirty million trees; Nobel Peace Prize 2004). The lesson correctly distinguishes these facts from the value that caring for the land and speaking up are good."
+
+  - id: S-061
+    title: Britannica Kids — Tool
+    type: website
+    url: https://kids.britannica.com/kids/article/tool/400194
+    organization: Encyclopaedia Britannica
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.02.011 L01 (Tools Are Made to Solve Problems). URL verified live (2026-08-16): the Britannica Kids 'tool' article states a tool 'is anything that is used to make a change to something else or to help do a job.' Supports the lesson's core idea that a tool is a thing people make/use to solve a problem. (Corrected from an earlier citation with the wrong article ID 400184, which 404s; the live article ID is 400194.)"
+
+  - id: S-062
+    title: Encyclopaedia Britannica — Sewing Machine
+    type: website
+    url: https://www.britannica.com/technology/sewing-machine
+    organization: Encyclopaedia Britannica
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.02.011 L02 (Old Tool, New Tool) for the claim that the 1800s sewing machine let people sew faster than by hand. URL verified live (2026-08-16): article documents Thimonnier's 1830 patent, Walter Hunt (c. 1832-34), Elias Howe's 1846 patent, and that 'In 1860 more than 110,000 sewing machines were produced in the United States alone' — i.e., a machine that mechanized and greatly sped up hand-sewing. Replaces a broken Smithsonian NMAH URL (americanhistory.si.edu/collections/object-groups/sewing-machines, now 404 after the museum's site redesign); the claim itself is accurate against Britannica."
+
+  - id: S-063
+    title: Common Sense Education — News & Media Literacy
+    type: website
+    url: https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
+    organization: Common Sense Media (Common Sense Education)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.02.011 L03/L04/L09 (source-of-information; true info vs selling; making an honest message). URL verified live (2026-08-16): the 'News & Media Literacy' topic page frames 'Seek, Evaluate, and Contextualize' and, for Grades K-2, that students 'learn to wonder about where information comes from' and 'develop the habit of asking questions rather than accepting everything at face value.' Supports each lesson's claim that asking where information comes from and distinguishing information from persuasion are core media-literacy skills. (Corrected from commonsensemedia.org/news-and-media-literacy, which 404s; the live hub is on the education subdomain.)"
+
+  - id: S-064
+    title: BBC Bitesize (KS1) — What is a food chain?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zx882hv/articles/zwxwkty
+    organization: BBC Bitesize
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.02.011 L06 (Energy from Eating). URL verified live (2026-08-16) via the KS1 'Living things and their habitats' topic index (zx882hv), which lists 'What is a food chain?' at articles/zwxwkty: 'Every animal and plant needs food to live... each living organism is part of a food chain, from producers to prey.' Supports the lesson's claim that animals get energy from eating plants or other animals. (Corrected from articles/zwkxsbk, which 404s.)"
+
+  - id: S-065
+    title: WHO/UNICEF JMP — WASH (Washdata)
+    type: website
+    url: https://washdata.org/
+    organization: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.02.011 L07 (Water and Energy — Use and Save) for the claim that many people still lack safely managed drinking water. URL verified live (2026-08-16): the JMP homepage states '1 in 4 – or 2.1 billion people globally – still lack access to safely managed drinking water, including 106 million who drink directly from untreated surface sources' (2025 household report). Confirms the lesson's 'about 1 in 4 people still lack safely managed drinking water'; the lesson frames saving water as an act of fairness (a value), clearly separated from the factual statistic."
+
+  - id: S-066
+    title: National Geographic Kids — Plastic Pollution
+    type: website
+    url: https://kids.nationalgeographic.com/science/article/plastic-pollution
+    organization: National Geographic Society (National Geographic Kids)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.02.011 L08 (Where Does Litter Go?) for the dropped-path account. URL verified live (2026-08-16): the article states 'some animals mistake plastic for food,' that plastic bottles 'take many hundreds of years to disintegrate' ('over 450 years to break down in a landfill'), and that plastic ends up 'as trash on the land and in rivers, lakes, and the ocean.' Supports the lesson's hedged claims that plastic litter can take hundreds of years to break down and can wash into rivers and the ocean where animals may mistake it for food. Reviewer had flagged this source; verified real and on-topic."

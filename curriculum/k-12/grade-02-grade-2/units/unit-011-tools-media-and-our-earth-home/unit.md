@@ -59,3 +59,13 @@ with critical judgment, and ecology as the ground we stand on.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Tools Are Made to Solve Problems | D10.S1.02.01 |
+| 2 | Old Tool, New Tool | D10.S1.02.02 |
+| 3 | Where Did That Information Come From? | D10.S2.02.01 |
+| 4 | True Information or Selling? | D10.S2.02.02 |
+| 5 | A Habitat Is a Home for Living Things | D10.S3.02.01 |
+| 6 | Energy from Eating | D10.S3.02.02 |
+| 7 | Water and Energy — Use and Save | D10.S4.02.01 |
+| 8 | Where Does Litter Go? | D10.S4.02.02 |
+| 9 | Our True-Info Care Card | D10.S2.02.01, D10.S2.02.02 |
+| 10 | Our Earth Home: Tools, Media, and Care | D10.S1.02.01, D10.S1.02.02, D10.S2.02.01, D10.S2.02.02, D10.S3.02.01, D10.S3.02.02, D10.S4.02.01, D10.S4.02.02 |
