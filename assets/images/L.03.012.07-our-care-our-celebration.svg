@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our care, our celebration</title>
+  <desc id="desc">A year-end celebration of care and belonging. In the middle, a child holds up a portfolio page with a star and a sprout while friends around them clap. On the left, two helping hands pass a cup of water to a smaller hand, labeled "how we help one another," with the note "helping fills a need and warms the helper too." On the right, an arrow points forward to a flag labeled "Grade 4" beside a small sprout and the words "one goal ahead." Portfolio pages are shown on a line behind everyone, each page equal. Children vary in skin tone, hair, and dress; one uses a wheelchair. The closing line teaches that we grew together by caring for each other, and every child belongs.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Our Care, Our Celebration</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">we grew together by helping one another</text>
+
+  <!-- portfolio line -->
+  <line x1="20" y1="110" x2="492" y2="110" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.5"/>
+  <g stroke="#2b3a42" stroke-width="1.5" fill="#ffffff">
+    <rect x="40" y="92" width="30" height="36" rx="3"/>
+    <rect x="90" y="92" width="30" height="36" rx="3"/>
+    <rect x="140" y="92" width="30" height="36" rx="3"/>
+    <rect x="250" y="92" width="30" height="36" rx="3"/>
+    <rect x="300" y="92" width="30" height="36" rx="3"/>
+    <rect x="350" y="92" width="30" height="36" rx="3"/>
+    <rect x="410" y="92" width="30" height="36" rx="3"/>
+  </g>
+  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">every page shown — every child belongs</text>
+
+  <!-- left: helping hands -->
+  <g>
+    <text x="120" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#3a6b4a">how we help</text>
+    <text x="120" y="176" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#3a6b4a">one another</text>
+
+    <!-- larger hand -->
+    <path d="M60 210 Q70 196 92 202 L100 214 Q82 224 64 222 Z" fill="#d9a06b" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- smaller hand -->
+    <path d="M150 236 Q140 226 122 232 L118 244 Q134 252 152 246 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- cup passed -->
+    <rect x="98" y="218" width="20" height="18" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="270" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">helping fills a need</text>
+    <text x="120" y="284" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">and warms the helper too</text>
+  </g>
+
+  <!-- center: child holding portfolio, friends clapping -->
+  <g>
+    <!-- left clapper -->
+    <circle cx="196" cy="330" r="15" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M184 330 A11 11 0 0 1 206 330 L206 324 A11 11 0 0 0 184 324 Z" fill="#4f6d7a"/>
+    <circle cx="191" cy="329" r="1.8" fill="#2b3a42"/>
+    <circle cx="201" cy="329" r="1.8" fill="#2b3a42"/>
+    <path d="M190 335 Q195 338 200 335" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M180 322 L172 318 M212 322 L220 318" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- central child -->
+    <circle cx="256" cy="320" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M240 320 A16 16 0 0 1 272 320 L272 308 A16 16 0 0 0 240 308 Z" fill="#2b3a42"/>
+    <circle cx="249" cy="319" r="2.2" fill="#2b3a42"/>
+    <circle cx="263" cy="319" r="2.2" fill="#2b3a42"/>
+    <path d="M248 328 Q256 332 264 328" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 340 L256 368" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <!-- holding a portfolio page up -->
+    <rect x="232" y="292" width="48" height="40" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M244 306 L250 298 L256 306 L260 300 L266 310" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M248 318 L256 310 L264 318" fill="none" stroke="#e0a458" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- right clapper in wheelchair -->
+    <circle cx="330" cy="330" r="15" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M318 330 A11 11 0 0 1 340 330 L340 324 A11 11 0 0 0 318 324 Z" fill="#e0a458"/>
+    <circle cx="325" cy="329" r="1.8" fill="#2b3a42"/>
+    <circle cx="335" cy="329" r="1.8" fill="#2b3a42"/>
+    <path d="M324 335 Q330 338 336 335" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <rect x="316" y="345" width="28" height="32" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="320" cy="377" r="5" fill="#2b3a42"/>
+    <circle cx="340" cy="377" r="5" fill="#2b3a42"/>
+    <path d="M318 322 L310 318 M344 322 L352 318" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- right: goal ahead -->
+  <g>
+    <text x="410" y="230" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#3a6b4a">one goal ahead</text>
+    <line x1="410" y1="250" x2="410" y2="320" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 5"/>
+    <path d="M410 320 L410 360" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M410 320 L376 332 L410 344 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="442" y="330" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Grade 4</text>
+    <!-- sprout -->
+    <path d="M398 372 L398 388 M398 388 L392 382 M398 388 L404 382" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
+    <rect x="390" y="388" width="16" height="10" rx="2" fill="#c9a06b" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">We grew together by caring for each other — and we look ahead, one goal at a time.</text>
+</svg>

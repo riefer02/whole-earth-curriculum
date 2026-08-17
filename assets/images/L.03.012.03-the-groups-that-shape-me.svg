@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The groups that shape me</title>
+  <desc id="desc">A child stands at the center, and rings spread outward around them. Each ring is labeled with a group the child belongs to — family, my class, my neighborhood, my team or club, my language, my place — and each ring has a short note about how that group shapes who they are. A small arrow points to the center with the words "each group shapes me." Skin tones and dress vary; the child uses no assistive device but stands plainly. Everything reads in grayscale because each ring is also labeled with text, not color alone.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Groups That Shape Me</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">many groups — each one shapes a part of who I am</text>
+
+  <!-- rings -->
+  <circle cx="256" cy="300" r="205" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="256" cy="300" r="160" fill="none" stroke="#6b93b6" stroke-width="2" stroke-opacity="0.5"/>
+  <circle cx="256" cy="300" r="118" fill="none" stroke="#e0a458" stroke-width="2" stroke-opacity="0.6"/>
+  <circle cx="256" cy="300" r="80" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- central child -->
+  <circle cx="256" cy="278" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M238 278 A18 18 0 0 1 274 278 L274 264 A18 18 0 0 0 238 264 Z" fill="#2b3a42"/>
+  <circle cx="250" cy="277" r="2.4" fill="#2b3a42"/>
+  <circle cx="262" cy="277" r="2.4" fill="#2b3a42"/>
+  <path d="M250 287 Q256 291 262 287" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 300 L256 326" stroke="#2b3a42" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M244 322 L268 322" stroke="#2b3a42" stroke-width="2.2" stroke-linecap="round"/>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">me</text>
+
+  <!-- group labels -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <text x="256" y="182" font-size="16" font-weight="bold" fill="#222222">family</text>
+    <text x="256" y="200" font-size="12" fill="#4f6d7a">teaches me love and my story</text>
+
+    <text x="256" y="228" font-size="16" font-weight="bold" fill="#222222">my class</text>
+    <text x="256" y="244" font-size="12" fill="#4f6d7a">where I learn and work with others</text>
+
+    <text x="146" y="288" font-size="15" font-weight="bold" fill="#222222">my team</text>
+    <text x="146" y="304" font-size="11" fill="#4f6d7a">shows me how</text>
+    <text x="146" y="318" font-size="11" fill="#4f6d7a">to cooperate</text>
+
+    <text x="366" y="288" font-size="15" font-weight="bold" fill="#222222">my language</text>
+    <text x="366" y="304" font-size="11" fill="#4f6d7a">the words I</text>
+    <text x="366" y="318" font-size="11" fill="#4f6d7a">think and sing</text>
+
+    <text x="176" y="430" font-size="15" font-weight="bold" fill="#222222">my neighborhood</text>
+    <text x="176" y="446" font-size="11" fill="#4f6d7a">the place I live</text>
+
+    <text x="336" y="430" font-size="15" font-weight="bold" fill="#222222">my place</text>
+    <text x="336" y="446" font-size="11" fill="#4f6d7a">the land and sky</text>
+    <text x="336" y="460" font-size="11" fill="#4f6d7a">around me</text>
+  </g>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Each group I belong to shapes a part of who I am.</text>
+</svg>

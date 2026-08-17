@@ -60,3 +60,10 @@ opening and sends the learner forward into Grade 4.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Feelings That Change and Mix | D01.S1.03.01 |
+| 2 | The Story of My Life So Far | D01.S2.03.01 |
+| 3 | The Groups That Shape Me | D01.S2.03.02 |
+| 4 | My Goal and My First Step | D01.S3.03.01 |
+| 5 | Rules and Routines That Work for Everyone | D02.S3.03.02 |
+| 6 | Contributing Fairly to a Group Goal | D02.S4.03.01 |
+| 7 | Our Care, Our Celebration | D02.S4.03.02, D01.S2.03.01, D01.S2.03.02, D01.S3.03.01 |

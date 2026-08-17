@@ -2917,7 +2917,7 @@ items:
     type: lesson
     grade: 3
     domain: D01
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2928,7 +2928,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by accessibility-editor: L2 'The Story of My Life So Far' Procedure step 1 has mandatory 'Close your eyes and think back' with no alternative — barrier for Deaf (cuts signed/visual input) and trauma/neurodivergent learners. Fix: make eye-closing optional + offer alternative (lower gaze / look down / think quietly). Everything else passes (low_tech present, alt text + role=img/title/desc on all 7 SVGs, blind/Deaf/non-speaking/motor paths, enriched optional).."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (688 files). Only change is L.03.012.02 step 1 (eye-closing now optional 'or lower your gaze...'); id L.03.012.02 intact, headings present, objective D01.S2.03.01 resolves to real grade-3 standard. All 7 IDs + objectives intact.
+      fact-checker:
+        verdict: passed
+        note: Re-confirmed sole source CASEL S-001 correctly attributed with accurate competency labels; changed line adds only accessibility options (lower gaze) with no new factual claim/citation. validate passes.
+      global-culture-editor:
+        verdict: passed
+        note: Changed line is culturally neutral accessibility alternative; global representation intact (multi-region home-words abuela/ba/bibi/auntie, fire/song/letter life-stories, market/field/sea contexts, many family shapes), no US/Euro default.
+      accessibility-editor:
+        verdict: passed
+        note: L2 barrier resolved (eye-closing optional + gaze alternatives, facilitator note offers voice/touch/non-speaking). Low-tech tier all 7 (found-object/voice/body); alt text + role=img/title/desc on all 7 SVGs; no remaining mandatory eye-closing/breathing-only/physical-only prompts (L1 'calm breath' is one of 3 descriptors with alternatives).
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses verified: ethics (rules 'not bossy orders but how community makes things fair' L5; fair share sized to person not identical L6; celebration-not-contest L7); egalitarianism (includes easy-to-miss learners L5/6, rejects ranking 'no group outranks another'); global (home-words abuela/ba/bibi/auntie, multi-form kin, cross-cultural routines, no Euro default); tech/env light as expected (optional recording neutral, outdoor/ecological grounding). Evidence vs values: no uncited claims, CASEL attributed every lesson. Traceability intact: Vision->P1->D01/D02->strands->U.03.012->L.03.012.01-.07; all 7 objectives resolve to real standards; no hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-3 band (8-9, 3-5): cognitive load concrete-operational (faces/body-sense L1, sequencing first/next/then/now L2, concentric-rings identity L3, goal staircase with real first step L4, before/after fairness scenes L5-6); 'fair share sized to person' matched to hotly-debated fairness stage with reachable examples; emotional safety scaffolded (adoption/loss/move 'invite never demand', mixed feelings 'one truth', pass counts as full share, no graphic content); physical fit via movement/clapping/signing with mobility differentiation; inquiry-over-creed (goals learner's own not adult's, celebration never a contest); spiral names G2-up and sends to G4. No developmental defects."
   - id: B-312
     title: Author lessons for Unit U.04.001 (Feelings in Full Color & My Growing Self)
     agent: lesson-author

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The story of my life so far</title>
+  <desc id="desc">A winding path that tells a life story in order, from left to right. Four stops along the path show: a baby wrapped in a blanket labeled "I was born"; a small child reaching up labeled "I learned to walk and talk"; a school-age child with a backpack labeled "I started school"; and a taller child waving labeled "me today." Small icons mark important people and places along the path — a house, a school, a grandparent, and a friend. The path runs from "then" to "now," and the closing line teaches that a life story has an order, and the important people and places are part of it. Skin tones, hair, and dress vary. Everything reads in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Story of My Life So Far</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">in order — with the important people and places</text>
+
+  <!-- winding path -->
+  <path d="M40 300 Q120 200 190 280 T340 240 T470 300" fill="none" stroke="#7a9e7e" stroke-width="6" stroke-linecap="round" stroke-opacity="0.5"/>
+  <text x="40" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">then</text>
+  <text x="470" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">now</text>
+
+  <!-- stop 1: born -->
+  <g>
+    <circle cx="70" cy="300" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M46 290 Q70 272 94 290 L94 304 Q70 322 46 304 Z" fill="#e6bb92"/>
+    <circle cx="70" cy="282" r="14" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="66" cy="281" r="1.8" fill="#2b3a42"/>
+    <circle cx="74" cy="281" r="1.8" fill="#2b3a42"/>
+    <path d="M66 288 Q70 291 74 288" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <text x="70" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I was born</text>
+  </g>
+
+  <!-- stop 2: walk and talk -->
+  <g>
+    <circle cx="190" cy="280" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="190" cy="266" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M176 266 A14 14 0 0 1 204 266 L204 258 A14 14 0 0 0 176 258 Z" fill="#4f6d7a"/>
+    <circle cx="185" cy="265" r="1.8" fill="#2b3a42"/>
+    <circle cx="195" cy="265" r="1.8" fill="#2b3a42"/>
+    <path d="M185 272 Q190 275 195 272" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M190 282 L190 300 M186 300 L194 300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M178 248 L184 244" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M202 248 L196 244" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="190" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I learned to walk</text>
+    <text x="190" y="352" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">and talk</text>
+  </g>
+
+  <!-- stop 3: started school -->
+  <g>
+    <circle cx="340" cy="240" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="340" cy="226" r="16" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M326 226 A14 14 0 0 1 354 226 L354 218 A14 14 0 0 0 326 218 Z" fill="#e0a458"/>
+    <circle cx="335" cy="225" r="1.8" fill="#2b3a42"/>
+    <circle cx="345" cy="225" r="1.8" fill="#2b3a42"/>
+    <path d="M335 232 Q340 235 345 232" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M340 242 L340 258" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M326 250 L354 250" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="322" y="248" width="36" height="16" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="340" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I started school</text>
+  </g>
+
+  <!-- stop 4: me today -->
+  <g>
+    <circle cx="440" cy="300" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="440" cy="284" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M426 284 A14 14 0 0 1 454 284 L454 276 A14 14 0 0 0 426 276 Z" fill="#2b3a42"/>
+    <circle cx="435" cy="283" r="1.8" fill="#2b3a42"/>
+    <circle cx="445" cy="283" r="1.8" fill="#2b3a42"/>
+    <path d="M435 291 Q440 295 445 291" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M440 300 L440 316" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M428 292 L418 282" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M428 284 L422 278" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M432 282 L428 276" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <text x="440" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">me today</text>
+  </g>
+
+  <!-- people and places icons -->
+  <g font-family="sans-serif" font-size="11" fill="#4f6d7a">
+    <rect x="110" y="180" width="44" height="30" rx="4" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+    <path d="M118 210 L118 194 L138 194 L138 210 Z" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+    <path d="M124 202 L128 190 L132 202 Z" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="132" y="176" text-anchor="middle" font-size="11">home</text>
+
+    <rect x="250" y="160" width="44" height="30" rx="4" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="272" y="180" text-anchor="middle" font-size="16" fill="#4f6d7a">SCH</text>
+    <text x="272" y="156" text-anchor="middle" font-size="11">school</text>
+
+    <circle cx="150" cy="368" r="16" fill="#e6bb92" stroke="#4f6d7a" stroke-width="1.5"/>
+    <path d="M138 368 A12 12 0 0 1 162 368 L162 362 A12 12 0 0 0 138 362 Z" fill="#4f6d7a"/>
+    <text x="150" y="396" text-anchor="middle" font-size="11">grandparent</text>
+
+    <circle cx="390" cy="368" r="16" fill="#c99567" stroke="#4f6d7a" stroke-width="1.5"/>
+    <path d="M378 368 A12 12 0 0 1 402 368 L402 362 A12 12 0 0 0 378 362 Z" fill="#2b3a42"/>
+    <text x="390" y="396" text-anchor="middle" font-size="11">a friend</text>
+  </g>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">My life story has an order — and the people and places in it are part of who I am.</text>
+</svg>

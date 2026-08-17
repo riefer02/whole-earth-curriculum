@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Contributing fairly to a group goal</title>
+  <desc id="desc">A community garden being made by four children who each do a fair, different part — one digs, one plants, one waters, one carries a basket of seedlings. A banner above reads "our group goal: a garden." A small inset at the bottom right shows one child doing everything alone, labeled "not fair," next to the main scene labeled "a fair share." The closing line teaches that contributing fairly means everyone gives a real part, and no one does it all or nothing. Children vary in skin tone, hair, and dress; one wears a hearing aid. Everything reads in grayscale and by label, not color alone.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Contributing Fairly to a Group Goal</text>
+
+  <!-- banner -->
+  <rect x="120" y="58" width="272" height="34" rx="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">our group goal: a garden</text>
+
+  <!-- soil bed -->
+  <rect x="60" y="300" width="330" height="56" rx="8" fill="#c9a06b" stroke="#2b3a42" stroke-width="2"/>
+  <!-- rows -->
+  <line x1="80" y1="320" x2="370" y2="320" stroke="#8f6a3d" stroke-width="1.5" stroke-opacity="0.6"/>
+  <line x1="80" y1="340" x2="370" y2="340" stroke="#8f6a3d" stroke-width="1.5" stroke-opacity="0.6"/>
+
+  <!-- sprouts -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5">
+    <path d="M100 320 L100 300 M100 300 L94 306 M100 300 L106 306" fill="none"/>
+    <path d="M140 320 L140 298 M140 298 L134 304 M140 298 L146 304" fill="none"/>
+    <path d="M180 320 L180 302 M180 302 L174 308 M180 302 L186 308" fill="none"/>
+    <path d="M220 320 L220 296 M220 296 L214 302 M220 296 L226 302" fill="none"/>
+    <path d="M260 320 L260 300 M260 300 L254 306 M260 300 L266 306" fill="none"/>
+  </g>
+
+  <!-- child 1: digging -->
+  <g>
+    <circle cx="90" cy="240" r="16" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M78 240 A12 12 0 0 1 102 240 L102 232 A12 12 0 0 0 78 232 Z" fill="#2b3a42"/>
+    <circle cx="85" cy="239" r="2" fill="#2b3a42"/>
+    <circle cx="95" cy="239" r="2" fill="#2b3a42"/>
+    <path d="M84 246 Q90 249 96 246" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <line x1="90" y1="256" x2="100" y2="290" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="100" y1="290" x2="112" y2="304" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M112 300 L118 296" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="90" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">I dig</text>
+  </g>
+
+  <!-- child 2: planting -->
+  <g>
+    <circle cx="170" cy="240" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M158 240 A12 12 0 0 1 182 240 L182 232 A12 12 0 0 0 158 232 Z" fill="#e0a458"/>
+    <circle cx="165" cy="239" r="2" fill="#2b3a42"/>
+    <circle cx="175" cy="239" r="2" fill="#2b3a42"/>
+    <path d="M164 246 Q170 249 176 246" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M170 256 L170 296" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M162 292 L178 292" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="170" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">I plant</text>
+  </g>
+
+  <!-- child 3: watering -->
+  <g>
+    <circle cx="250" cy="240" r="16" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M238 240 A12 12 0 0 1 262 240 L262 232 A12 12 0 0 0 238 232 Z" fill="#4f6d7a"/>
+    <circle cx="245" cy="239" r="2" fill="#2b3a42"/>
+    <circle cx="255" cy="239" r="2" fill="#2b3a42"/>
+    <path d="M244 246 Q250 249 256 246" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <!-- watering can -->
+    <path d="M250 256 L250 280" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="240" y="256" width="20" height="20" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M260 262 L272 258" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M272 258 L270 266" stroke="#2b3a42" stroke-width="1.4"/>
+    <!-- drops -->
+    <circle cx="266" cy="284" r="1.6" fill="#6b93b6"/>
+    <circle cx="270" cy="290" r="1.6" fill="#6b93b6"/>
+    <text x="250" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">I water</text>
+  </g>
+
+  <!-- child 4: carrying seedlings -->
+  <g>
+    <circle cx="350" cy="250" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 250 A12 12 0 0 1 362 250 L362 242 A12 12 0 0 0 338 242 Z" fill="#7a9e7e"/>
+    <circle cx="345" cy="249" r="2" fill="#2b3a42"/>
+    <circle cx="355" cy="249" r="2" fill="#2b3a42"/>
+    <path d="M344 256 Q350 259 356 256" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M350 266 L350 296" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- basket -->
+    <path d="M332 292 Q350 304 368 292 L366 276 Q350 288 334 276 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="350" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">I carry</text>
+  </g>
+
+  <!-- inset: not fair -->
+  <g>
+    <rect x="382" y="366" width="114" height="70" rx="8" fill="#ffffff" stroke="#8a4b3a" stroke-width="2"/>
+    <text x="439" y="386" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#8a4b3a">not fair</text>
+    <circle cx="420" cy="406" r="11" fill="#d9a06b" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M411 406 A8 8 0 0 1 429 406 L429 400 A8 8 0 0 0 411 400 Z" fill="#2b3a42"/>
+    <path d="M412 414 Q420 408 428 414" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="451" y="404" font-family="sans-serif" font-size="11" fill="#4f6d7a">one does</text>
+    <text x="451" y="418" font-family="sans-serif" font-size="11" fill="#4f6d7a">it all</text>
+  </g>
+
+  <text x="150" y="400" font-family="sans-serif" font-size="14" font-weight="bold" fill="#3a6b4a">a fair share</text>
+  <text x="150" y="418" font-family="sans-serif" font-size="13" fill="#4f6d7a">everyone gives a real part</text>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Contributing fairly means everyone gives a real part — no one does it all or nothing.</text>
+</svg>
