@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rules that keep us safe and fair</title>
+  <desc id="desc">A two-column chart matches rules to their reasons. The left column, labeled "rule," lists: wait your turn, wash hands before eating, walk inside, share the tools, one voice at a time. The right column, labeled "why," pairs each with a reason: so everyone gets a turn, so germs don't spread, so no one gets bumped, so everyone can work, so every voice is heard. Arrows connect each rule to its reason. Labels and the arrows, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Rules and Their Reasons</text>
+
+  <!-- column headers -->
+  <rect x="40" y="62" width="180" height="34" rx="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="84" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#fdfbf7">rule</text>
+  <rect x="292" y="62" width="180" height="34" rx="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="84" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#fdfbf7">why (so that…)</text>
+
+  <!-- rows -->
+  <rect x="40" y="104" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="129" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">wait your turn</text>
+  <line x1="224" y1="124" x2="288" y2="124" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M282 119 L290 124 L282 129 Z" fill="#2b3a42"/>
+  <rect x="292" y="104" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="129" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">everyone gets a turn</text>
+
+  <rect x="40" y="152" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="177" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">wash hands before eating</text>
+  <line x1="224" y1="172" x2="288" y2="172" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M282 167 L290 172 L282 177 Z" fill="#2b3a42"/>
+  <rect x="292" y="152" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="177" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">germs don't spread</text>
+
+  <rect x="40" y="200" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="225" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">walk inside</text>
+  <line x1="224" y1="220" x2="288" y2="220" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M282 215 L290 220 L282 225 Z" fill="#2b3a42"/>
+  <rect x="292" y="200" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="225" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">no one gets bumped</text>
+
+  <rect x="40" y="248" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="273" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">share the tools</text>
+  <line x1="224" y1="268" x2="288" y2="268" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M282 263 L290 268 L282 273 Z" fill="#2b3a42"/>
+  <rect x="292" y="248" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="273" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">everyone can work</text>
+
+  <rect x="40" y="296" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="321" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">one voice at a time</text>
+  <line x1="224" y1="316" x2="288" y2="316" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M282 311 L290 316 L282 321 Z" fill="#2b3a42"/>
+  <rect x="292" y="296" width="180" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="321" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">every voice is heard</text>
+
+  <!-- footer -->
+  <rect x="76" y="372" width="360" height="64" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">A fair rule is a reason we can explain —</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">one that protects everyone, not just the loud or strong.</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Every rule has a "so that…" — find the reason behind it.</text>
+</svg>

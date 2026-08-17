@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Repairing harm, not only punishing</title>
+  <desc id="desc">One harm branches into two paths. At the top, a child has knocked over another child's block tower. The left path, labeled "only punish," shows the child sent away while the tower stays broken and the other child stays sad. The right path, labeled "repair," shows the same child helping rebuild the tower while both children smile, with a caption "listen, take responsibility, make it right." Labels, the broken-then-rebuilt tower, and the two paths, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">One Harm, Two Paths</text>
+
+  <!-- ===== top: the harm ===== -->
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">the harm: a block tower knocked over</text>
+
+  <!-- child who knocked it -->
+  <circle cx="150" cy="140" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M135 138 A15 15 0 0 1 165 138 Z" fill="#2b3a42"/>
+  <circle cx="145" cy="140" r="1.8" fill="#2b3a42"/>
+  <circle cx="155" cy="140" r="1.8" fill="#2b3a42"/>
+  <rect x="138" y="158" width="24" height="38" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- scattered blocks -->
+  <rect x="180" y="150" width="22" height="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2" transform="rotate(20 191 159)"/>
+  <rect x="210" y="158" width="22" height="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-15 221 167)"/>
+  <rect x="196" y="176" width="22" height="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" transform="rotate(10 207 185)"/>
+
+  <!-- sad child whose tower fell -->
+  <circle cx="290" cy="150" r="15" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M275 148 A15 15 0 0 1 305 148 Z" fill="#2b3a42"/>
+  <circle cx="285" cy="150" r="1.8" fill="#2b3a42"/>
+  <circle cx="295" cy="150" r="1.8" fill="#2b3a42"/>
+  <path d="M285 160 Q290 156 295 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="278" y="168" width="24" height="34" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- branch lines -->
+  <line x1="256" y1="208" x2="128" y2="244" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="256" y1="208" x2="384" y2="244" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- ===== left: only punish ===== -->
+  <rect x="20" y="252" width="216" height="216" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="278" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">only punish</text>
+
+  <!-- child sent away -->
+  <circle cx="72" cy="350" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M58 348 A14 14 0 0 1 86 348 Z" fill="#2b3a42"/>
+  <rect x="62" y="364" width="20" height="30" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- arrow moving away -->
+  <path d="M96 350 L124 350" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M118 344 L126 350 L118 356 Z" fill="#2b3a42"/>
+
+  <!-- still broken blocks -->
+  <rect x="150" y="340" width="20" height="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2" transform="rotate(25 160 348)"/>
+  <rect x="176" y="348" width="20" height="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-12 186 356)"/>
+
+  <!-- still sad child -->
+  <circle cx="170" cy="410" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M156 408 A14 14 0 0 1 184 408 Z" fill="#2b3a42"/>
+  <circle cx="165" cy="410" r="1.6" fill="#2b3a42"/>
+  <circle cx="175" cy="410" r="1.6" fill="#2b3a42"/>
+  <path d="M165 418 Q170 414 175 418" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="160" y="424" width="20" height="28" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="128" y="318" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">the tower is still broken</text>
+  <text x="128" y="334" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">and the hurt is still there</text>
+
+  <!-- ===== right: repair ===== -->
+  <rect x="276" y="252" width="216" height="216" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="384" y="278" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">repair</text>
+
+  <!-- both children rebuilding together -->
+  <circle cx="330" cy="360" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M316 358 A14 14 0 0 1 344 358 Z" fill="#2b3a42"/>
+  <circle cx="325" cy="360" r="1.6" fill="#2b3a42"/>
+  <circle cx="335" cy="360" r="1.6" fill="#2b3a42"/>
+  <path d="M325 367 Q330 372 335 367" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="320" y="374" width="20" height="28" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- rebuilt tower -->
+  <rect x="364" y="352" width="26" height="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="364" y="330" width="26" height="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="364" y="308" width="26" height="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- happy child -->
+  <circle cx="438" cy="360" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M424 358 A14 14 0 0 1 452 358 Z" fill="#2b3a42"/>
+  <circle cx="433" cy="360" r="1.6" fill="#2b3a42"/>
+  <circle cx="443" cy="360" r="1.6" fill="#2b3a42"/>
+  <path d="M433 367 Q438 372 443 367" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="428" y="374" width="20" height="28" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="384" y="418" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#4f6d7a">listen · take responsibility</text>
+  <text x="384" y="434" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#4f6d7a">· make it right</text>
+  <text x="384" y="452" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#222222">the harm is fixed; both feel better</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Punishment alone stops. Repair heals.</text>
+</svg>

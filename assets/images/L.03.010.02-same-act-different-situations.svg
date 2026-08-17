@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The same act, different situations</title>
+  <desc id="desc">Two rows show the same act in two situations. The act is shouting. In the top row, labeled "good here," a child shouts "Watch out!" to warn a friend about a falling branch; a checkmark and a caption say it protects someone. In the bottom row, labeled "not good here," a child shouts at another child who looks sad and small; an X and a caption say it hurts someone. The same act appears in both, but the situation and the effect, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Same Act: Shouting</text>
+
+  <!-- ===== Top row: good here ===== -->
+  <rect x="20" y="56" width="472" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="36" y="82" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">good here</text>
+  <text x="256" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">to warn a friend</text>
+
+  <!-- falling branch -->
+  <rect x="330" y="120" width="70" height="14" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(18 365 127)"/>
+
+  <!-- shouter (warns) -->
+  <circle cx="230" cy="160" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M214 158 A16 16 0 0 1 246 158 Z" fill="#2b3a42"/>
+  <circle cx="225" cy="160" r="1.8" fill="#2b3a42"/>
+  <circle cx="235" cy="160" r="1.8" fill="#2b3a42"/>
+  <path d="M225 166 Q230 172 235 166" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="218" y="178" width="24" height="40" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- speech -->
+  <path d="M258 150 q14 -12 34 -8 l0 18 q-16 4 -30 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="280" y="150" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Watch out!</text>
+
+  <!-- friend -->
+  <circle cx="320" cy="196" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M306 194 A14 14 0 0 1 334 194 Z" fill="#4f6d7a"/>
+  <circle cx="315" cy="196" r="1.6" fill="#2b3a42"/>
+  <circle cx="325" cy="196" r="1.6" fill="#2b3a42"/>
+  <path d="M315 203 Q320 208 325 203" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="310" y="210" width="20" height="30" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- check -->
+  <path d="M70 120 l10 10 l20 -20" fill="none" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round"/>
+  <text x="70" y="150" font-family="sans-serif" font-size="13" fill="#222222">it protects someone</text>
+
+  <!-- ===== Bottom row: not good here ===== -->
+  <rect x="20" y="258" width="472" height="190" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="36" y="284" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">not good here</text>
+  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">to scare a friend</text>
+
+  <!-- shouter (scares) -->
+  <circle cx="230" cy="362" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M214 360 A16 16 0 0 1 246 360 Z" fill="#2b3a42"/>
+  <circle cx="225" cy="362" r="1.8" fill="#2b3a42"/>
+  <circle cx="235" cy="362" r="1.8" fill="#2b3a42"/>
+  <path d="M225 368 Q230 374 235 368" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="218" y="380" width="24" height="40" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- angry speech -->
+  <path d="M258 352 q14 -12 34 -8 l0 18 q-16 4 -30 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="282" y="352" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Go away!</text>
+
+  <!-- sad friend -->
+  <circle cx="320" cy="398" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M306 396 A14 14 0 0 1 334 396 Z" fill="#2b3a42"/>
+  <circle cx="315" cy="398" r="1.6" fill="#2b3a42"/>
+  <circle cx="325" cy="398" r="1.6" fill="#2b3a42"/>
+  <path d="M315 406 Q320 402 325 406" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="310" y="412" width="20" height="30" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- X -->
+  <line x1="66" y1="118" x2="92" y2="144" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="92" y1="118" x2="66" y2="144" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <text x="70" y="162" font-family="sans-serif" font-size="13" fill="#222222">it hurts someone</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The act is the same. The situation changed what it means.</text>
+</svg>

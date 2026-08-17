@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Needs and wants</title>
+  <desc id="desc">A two-circle sort separates needs from wants. The left circle, labeled "need — everyone must have enough," holds icons for food, water, shelter, safety, health, learning, and rest. The right circle, labeled "want — nice but not needed to live," holds icons for a toy, sweets, and a fancy gadget. A banner at the bottom reads "fair means everyone's needs are met first." Icons and labels, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Needs and Wants</text>
+
+  <!-- left circle: needs -->
+  <circle cx="150" cy="230" r="150" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="150" y="88" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">need</text>
+  <text x="150" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">everyone must have enough</text>
+
+  <!-- food (bowl) -->
+  <path d="M118 150 a22 14 0 0 1 44 0 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="118" y1="150" x2="162" y2="150" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="182" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">food</text>
+
+  <!-- water (drop) -->
+  <path d="M196 138 q0 20 14 20 q14 0 14 -20 q-7 -12 -14 -20 q-7 8 -14 20 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="210" y="182" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">water</text>
+
+  <!-- shelter (house) -->
+  <path d="M90 210 l22 -22 22 22 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="96" y="210" width="32" height="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="112" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">shelter</text>
+
+  <!-- safety (shield) -->
+  <path d="M160 210 q14 -20 28 0 q0 24 -14 34 q-14 -10 -14 -34 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="174" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">safety</text>
+
+  <!-- health (heart) -->
+  <path d="M226 210 q0 -16 15 -16 q13 0 15 16 q-2 12 -15 22 q-13 -10 -15 -22 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="248" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">health</text>
+
+  <!-- learning (book) -->
+  <path d="M90 280 q22 -8 44 0 q22 -8 44 0 l0 26 q-22 -8 -44 0 q-22 -8 -44 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">learning</text>
+
+  <!-- rest (moon) -->
+  <path d="M200 288 a16 16 0 1 0 22 20 a13 13 0 0 1 -22 -20 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="222" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">rest</text>
+
+  <!-- right circle: wants -->
+  <circle cx="362" cy="230" r="130" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="362" y="112" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">want</text>
+  <text x="362" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">nice, but not needed to live</text>
+
+  <!-- toy (ball) -->
+  <circle cx="330" cy="190" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M308 190 q22 -12 44 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="330" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a toy</text>
+
+  <!-- sweets (candy) -->
+  <ellipse cx="392" cy="182" rx="20" ry="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M380 170 l-6 -8 l12 0 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M404 170 l-6 -8 l12 0 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="392" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">sweets</text>
+
+  <!-- gadget (device) -->
+  <rect x="346" y="266" width="40" height="26" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="352" y="272" width="28" height="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="366" y="312" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a gadget</text>
+
+  <!-- banner -->
+  <rect x="76" y="400" width="360" height="52" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="425" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Fair means everyone's needs are met first.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Then, if there is extra, wants can be shared.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Needs keep people alive and able to take part — so they come first.</text>
+</svg>

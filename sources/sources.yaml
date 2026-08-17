@@ -9,7 +9,7 @@ sources:
     organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
     domains: [D01, D02, D04, D09]
     reviewed: true
-    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency. URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it."
+    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency, and in U.03.010 L01/L05/L06/L07/L08/L10 (responsible decision-making, relationship skills, social awareness, and self-management — all five competencies are real CASEL competencies). URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it."
 
   - id: S-002
     title: NASA — The Big Bang
@@ -207,7 +207,7 @@ sources:
     organization: IIRP Graduate School (International Institute for Restorative Practices)
     domains: [D09]
     reviewed: true
-    notes: "Cited in U.00.011 L07 (solving a small disagreement / making it right) and U.01.010 L09 (making things right — repair, not punishment). IIRP Graduate School, Bethlehem, PA — the field's graduate school for restorative practices; frames responding to harm by repairing it and restoring relationships rather than only punishing. URL re-verified live (2026-08-15)."
+    notes: "Cited in U.00.011 L07 (solving a small disagreement / making it right), U.01.010 L09 (making things right — repair, not punishment), and U.03.010 L09 (repairing harm, not only punishing — listen, take responsibility, make it right). IIRP Graduate School, Bethlehem, PA — the field's graduate school for restorative practices; frames responding to harm by repairing it and restoring relationships rather than only punishing. URL re-verified live (2026-08-15)."
 
   - id: S-023
     title: "Ifrah (2000) — The Universal History of Numbers"
@@ -555,7 +555,7 @@ sources:
     organization: UNICEF (United Nations Children's Fund)
     domains: [D09]
     reviewed: true
-    notes: "Cited in U.02.010 L04 (the rights every child has — play, learn, be safe, be heard, rest). The UNICEF CRC page (child-friendly summary) sits behind Cloudflare and returns HTTP 403 to non-browser clients (verified 2026-08-16), so the substantive claims were verified against the full treaty text on OHCHR (ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child). All five rights named in the lesson are genuine UNCRC articles: play and rest/leisure (Art. 31), learn/education (Arts. 28–29), be safe / protection from violence and abuse (Art. 19, and best-interests Art. 3), be heard / views given due weight (Art. 12). The lesson correctly frames these as a 'should' — a shared international agreement, not a claim that every child already has them honored — which keeps value/aspiration distinct from fact."
+    notes: "Cited in U.02.010 L04 (the rights every child has — play, learn, be safe, be heard, rest) and U.03.010 L03 (rights to food, water, health, education — UNCRC Arts 24, 27, 28) and L10 (child-friendly summary). The UNICEF CRC page (child-friendly summary) sits behind Cloudflare and returns HTTP 403 to non-browser clients (verified 2026-08-16), so the substantive claims were verified against the full treaty text on OHCHR (ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child). All five rights named in the lesson are genuine UNCRC articles: play and rest/leisure (Art. 31), learn/education (Arts. 28–29), be safe / protection from violence and abuse (Art. 19, and best-interests Art. 3), be heard / views given due weight (Art. 12). The lesson correctly frames these as a 'should' — a shared international agreement, not a claim that every child already has them honored — which keeps value/aspiration distinct from fact."
 
   - id: S-059
     title: Nobel Prize — Wangari Maathai, Facts
@@ -846,3 +846,33 @@ sources:
     domains: [D08]
     reviewed: true
     notes: "Cited in U.03.009 L08 (Having a Say — Power and Being Left Out) for the right of children to say what they think and be listened to. The OHCHR URL is the canonical location of the full CRC treaty text (it returns HTTP 403 to non-browser clients, verified 2026-08-17, as previously documented in S-060). Article 12 states that States Parties shall assure the child who is capable of forming views the right to express those views freely in all matters affecting the child, the views being given due weight in accordance with the child's age and maturity. The lesson's paraphrase ('children have the right to say what they think and to have their views taken into account') is accurate; the lesson correctly frames this as a right to be realized, not an already-universal fact."
+
+  - id: S-092
+    title: UNICEF — Inclusive education
+    type: website
+    url: https://www.unicef.org/education/inclusive-education
+    organization: UNICEF (United Nations Children's Fund)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.03.010 L04 (Left Out: Making It More Fair) for 'removing barriers so every child can take part.' URL verified live via browser (2026-08-17; returns HTTP 403 to non-browser clients like other UNICEF pages — see S-060). Page title 'Inclusive education | UNICEF'. States: 'Inclusive education is the most effective way to give all children a fair chance to go to school, learn and develop the skills they need to thrive' and 'Inclusive education means all children in the same classrooms, in the same schools… real learning opportunities for groups who have traditionally been excluded.' On-topic for the lesson's inclusion/removing-barriers framing (a value frame, not a claim-level citation)."
+
+  - id: S-093
+    title: Maslow (1943) — A Theory of Human Motivation
+    type: article
+    author: Abraham H. Maslow
+    organization: Psychological Review
+    year: 1943
+    url: https://doi.org/10.1037/h0054346
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.03.010 L03 (Needs, Wants, and Fair Sharing) as 'the idea that basic needs like food, water, and safety come first,' simplified for children. Real, foundational article (Psychological Review 50(4), 370–396; DOI 10.1037/h0054346 verified live 2026-08-17) introducing the hierarchy of needs, with physiological needs (food, water) and safety at the base. The lesson correctly frames it as a theory ('the idea that'), not an established fact, and uses it only as a child-friendly scaffold for the need-before-want ordering — distinct from the UNCRC rights citation (S-060)."
+
+  - id: S-094
+    title: Lipman (1974) — Harry Stottlemeier's Discovery
+    type: book
+    author: Matthew Lipman
+    organization: Institute for the Advancement of Philosophy for Children (IAPC)
+    year: 1974
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.03.010 L02 (The Same Act, Different Situations) for the 'context matters' idea in the philosophy-for-children tradition. Real book: the founding novel of the Philosophy for Children movement (Matthew Lipman, IAPC/Montclair State University, first published 1974), which invites young learners to reason about meaning and context. On-topic as a tradition/frame reference, not a claim-level citation. No URL (print book)."

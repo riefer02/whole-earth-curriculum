@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reasons for and against</title>
+  <desc id="desc">A balance scale with two pans weighs a choice. The left pan, labeled "for," holds two labeled reasons: "they are hungry" and "sharing feels kind." The right pan, labeled "against," holds one labeled reason: "I wanted it first." The "for" side sits lower, so a banner reads "the reasons for win — I will share." A second small panel below shows the same choice sorted into a two-column chart with "for" and "against" lists. Labels, the two pans, and the reasons, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Weighing Reasons For and Against</text>
+
+  <!-- scale post -->
+  <rect x="248" y="70" width="16" height="180" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="150" y="244" width="212" height="12" rx="4" fill="#2b3a42"/>
+
+  <!-- beam (tilted: left lower) -->
+  <line x1="140" y1="118" x2="372" y2="96" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <!-- strings -->
+  <line x1="140" y1="118" x2="120" y2="160" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="140" y1="118" x2="160" y2="160" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="372" y1="96" x2="352" y2="160" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="372" y1="96" x2="392" y2="160" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- left pan (for) lower -->
+  <path d="M90 160 A40 40 0 0 0 190 160 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="186" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">for</text>
+
+  <!-- reasons in left pan -->
+  <rect x="98" y="122" width="84" height="20" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="136" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">they are hungry</text>
+  <rect x="98" y="146" width="84" height="20" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="160" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">sharing is kind</text>
+
+  <!-- right pan (against) higher -->
+  <path d="M322 128 A40 40 0 0 0 422 128 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="154" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">against</text>
+
+  <!-- reasons in right pan -->
+  <rect x="330" y="90" width="84" height="20" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="104" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">I wanted it first</text>
+
+  <!-- banner -->
+  <rect x="96" y="268" width="320" height="40" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="293" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">The reasons for win — I will share.</text>
+
+  <!-- two-column chart -->
+  <rect x="60" y="330" width="180" height="130" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="354" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">for</text>
+  <line x1="72" y1="362" x2="228" y2="362" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">they are hungry</text>
+  <text x="150" y="402" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">sharing feels kind</text>
+  <text x="150" y="440" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">more reasons</text>
+
+  <rect x="272" y="330" width="180" height="130" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="362" y="354" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">against</text>
+  <line x1="284" y1="362" x2="440" y2="362" stroke="#2b3a42" stroke-width="2"/>
+  <text x="362" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I wanted it first</text>
+  <text x="362" y="440" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">fewer reasons</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Weigh both sides, then decide — and say why.</text>
+</svg>

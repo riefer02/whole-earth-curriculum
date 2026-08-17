@@ -2843,7 +2843,7 @@ items:
     type: lesson
     grade: 3
     domain: D09
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2855,6 +2855,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (671 files). IDs L.03.010.01-.10 sequential, sequence_in_unit 1-10, unit U.03.010, grade 3; objectives resolve to the 8 real Grade-3 D09 standards only — no invented IDs. All 10 carry Connection/Procedure/Assessment. unit.md Lessons table lists all 10. Example: L4 Connection 'notice then change' (invite fourth child, sign in more than one language, lower table/add ramp) operationalizes D09.S2.03.02. Sources UNCRC/UNICEF, CASEL, IIRP. Fairness held as question not dogma. validate passes."
+      fact-checker:
+        verdict: passed
+        note: UNCRC rights-as-needs (Arts 24/27/28) accurate (S-060 updated). UNICEF Inclusive Education S-092 verified live (title matches, 'removing barriers so every child can take part'). CASEL five competencies real (S-001 updated). IIRP 'repair harm not only punish' (S-022 updated). Registered Maslow 1943 S-093 (DOI 10.1037/h0054346, framed 'the idea that' theory not fact) + Lipman 1974 S-094. No fabricated citations; values vs evidence distinguished. validate passes (671 files).
+      global-culture-editor:
+        verdict: passed
+        note: Connections span regions/ways of life (last bowl of rice, fishers cast net, village shares well, ship fresh water, fishing crew haul, market stalls, council talking stick, village widens path, torn net mended). Deciding/talking covers councils/water queues/field-watering/mutual aid/talking-through. Talking-stick held respectfully attributed to 'multiple Nations' as Indigenous/community practice 'used respectfully as shared human practice' + shell/stone alternatives + safety caveat. Child rights universal (UNCRC/UNICEF). Low-tech (dirt drawing, stones/seeds, cloth). validate passes (671 files).
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech all 10; alt text all 10 assets (SVGs role=img/aria-labelledby/title/desc, labels not color grayscale). Non-speaking paths every lesson (point/sign/gesture/draw/direct-partner/wonder-box slip); role-play non-verbal (L2/8/9 point to step or direct partner); deaf/HH + blind/low-vision + motor paths with 'may always pass'. Fix: L8 'stop and breathe' now offers non-breath grounding (press feet to floor, hold calm anchor, count slowly) for breathing/sensory/trauma difficulty. validate passes (671 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (weighing reasons, act-in-context, needs-vs-wants, repair-not-only-punish; questions open), egalitarianism (rules 'protect everyone not just powerful'; needs-before-wants; 'notice then change' = equity not supremacy; quieter voices; cooperation over ranking), global (village well/fishing crew/market/talking stick respectfully attributed + alternatives + safety caveat; no Euro default), tech/env (shared-resource stewardship water/food/land/garden/net; surfaced environment lens L3/L5/L9). Traceability: D09.S1-S4.03.01/.02 → D09 → P4 → vision. Evidence vs values (UNCRC/CASEL/IIRP/Maslow 'the idea that'). Tech effects sequenced to U.03.011/D10. validate passes (671 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: abstractions anchored (balance-scale L1, act-vs-situation pairs L2, needs/wants sort L3, notice-then-change cards L4, rule→reason L5-6, turn-marker/wonder-box L7); equity-vs-sameness concrete. Emotional safety: 'left out' L4 third-person blame-free + agency/hope ('we can change this') + pass-rights; conflict/repair L8-9 invented harms 'I feel... I need...' + forbids forced apology ('name the act never the child'); rights content reassurance not fear. Physical fit: movement/drawing/puppetry/stone-sorting. Open-ended: 'hold it as a question', 'fairness practiced not preached'. validate passes (671 files)."
   - id: B-310
     title: Author lessons for Unit U.03.011 (Tools, Media & Our Earth Home)
     agent: lesson-author

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Left out, then made more fair</title>
+  <desc id="desc">Two panels show noticing and then changing. On the left, labeled "left out," three children play a ball game while a fourth child sits apart looking down, with a caption "not invited." On the right, labeled "more fair," the same four children now play together in a circle, all smiling, with a caption "everyone is included." A small arrow between the panels is labeled "notice, then change." Faces, the two scenes, and labels, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Notice, Then Change</text>
+
+  <!-- ===== Left panel: left out ===== -->
+  <rect x="20" y="60" width="216" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="88" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">left out</text>
+
+  <!-- three children playing ball -->
+  <circle cx="86" cy="180" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M72 178 A14 14 0 0 1 100 178 Z" fill="#2b3a42"/>
+  <rect x="76" y="194" width="20" height="30" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="170" cy="180" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M156 178 A14 14 0 0 1 184 178 Z" fill="#4f6d7a"/>
+  <rect x="160" y="194" width="20" height="30" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="128" cy="226" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M114 224 A14 14 0 0 1 142 224 Z" fill="#2b3a42"/>
+  <rect x="118" y="240" width="20" height="30" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ball -->
+  <circle cx="128" cy="150" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- left-out child -->
+  <circle cx="180" cy="316" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M166 314 A14 14 0 0 1 194 314 Z" fill="#2b3a42"/>
+  <circle cx="175" cy="316" r="1.6" fill="#2b3a42"/>
+  <circle cx="185" cy="316" r="1.6" fill="#2b3a42"/>
+  <path d="M175 324 Q180 320 185 324" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="170" y="330" width="20" height="26" rx="9" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="128" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#222222">"not invited"</text>
+
+  <!-- arrow between -->
+  <path d="M250 210 L272 210" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M266 202 L274 210 L266 218 Z" fill="#2b3a42"/>
+  <text x="264" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">notice, then change</text>
+
+  <!-- ===== Right panel: more fair ===== -->
+  <rect x="286" y="60" width="206" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="389" y="88" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">more fair</text>
+
+  <!-- four children in a circle, smiling -->
+  <circle cx="346" cy="180" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M332 178 A14 14 0 0 1 360 178 Z" fill="#2b3a42"/>
+  <circle cx="341" cy="180" r="1.6" fill="#2b3a42"/>
+  <circle cx="351" cy="180" r="1.6" fill="#2b3a42"/>
+  <path d="M341 187 Q346 192 351 187" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="336" y="194" width="20" height="28" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="432" cy="180" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M418 178 A14 14 0 0 1 446 178 Z" fill="#4f6d7a"/>
+  <circle cx="427" cy="180" r="1.6" fill="#2b3a42"/>
+  <circle cx="437" cy="180" r="1.6" fill="#2b3a42"/>
+  <path d="M427 187 Q432 192 437 187" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="422" y="194" width="20" height="28" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="346" cy="276" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M332 274 A14 14 0 0 1 360 274 Z" fill="#2b3a42"/>
+  <circle cx="341" cy="276" r="1.6" fill="#2b3a42"/>
+  <circle cx="351" cy="276" r="1.6" fill="#2b3a42"/>
+  <path d="M341 283 Q346 288 351 283" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="336" y="290" width="20" height="28" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="432" cy="276" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M418 274 A14 14 0 0 1 446 274 Z" fill="#2b3a42"/>
+  <circle cx="427" cy="276" r="1.6" fill="#2b3a42"/>
+  <circle cx="437" cy="276" r="1.6" fill="#2b3a42"/>
+  <path d="M427 283 Q432 288 437 283" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="422" y="290" width="20" height="28" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ball in middle -->
+  <circle cx="389" cy="230" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="389" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#222222">"everyone is included"</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">First notice who is left out. Then change it so everyone can take part.</text>
+</svg>

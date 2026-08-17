@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Proposing a rule with a reason</title>
+  <desc id="desc">A "propose a rule" page has three labeled boxes. Box 1, "my shared space," shows a playground. Box 2, "my rule," reads "wait your turn at the swing." Box 3, "my reason," reads "so that everyone gets a turn, not just the fastest." A dashed draw-or-write area sits under each label. A small banner reads "a fair rule is one whose reason everyone can hear." Labels and the three boxes, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Propose a Rule With a Reason</text>
+
+  <!-- Box 1 -->
+  <rect x="30" y="64" width="452" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="50" y="90" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1 · my shared space</text>
+  <!-- playground swing -->
+  <line x1="70" y1="150" x2="110" y2="150" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="70" y1="150" x2="90" y2="96" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="110" y1="150" x2="90" y2="96" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="90" y1="100" x2="90" y2="122" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="82" y="122" width="16" height="8" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- dashed draw area -->
+  <rect x="180" y="84" width="288" height="84" rx="6" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <text x="324" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">draw or write your shared space</text>
+
+  <!-- Box 2 -->
+  <rect x="30" y="196" width="452" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="50" y="222" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">2 · my rule</text>
+  <rect x="50" y="238" width="280" height="44" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="190" y="265" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">wait your turn at the swing</text>
+  <rect x="344" y="238" width="122" height="44" rx="6" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <text x="405" y="264" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">your rule</text>
+
+  <!-- Box 3 -->
+  <rect x="30" y="312" width="452" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="50" y="338" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">3 · my reason</text>
+  <rect x="50" y="354" width="340" height="44" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="220" y="376" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">so that everyone gets a turn, not just the fastest</text>
+  <text x="220" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">a "so that…" reason</text>
+  <rect x="400" y="354" width="66" height="44" rx="6" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+  <text x="433" y="380" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">your reason</text>
+
+  <!-- banner -->
+  <rect x="76" y="436" width="360" height="42" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">A fair rule is one whose reason everyone can hear.</text>
+</svg>

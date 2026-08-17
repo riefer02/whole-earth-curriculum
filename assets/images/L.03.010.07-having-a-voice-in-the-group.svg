@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Having a voice in the group</title>
+  <desc id="desc">Two panels compare a voice heard and a voice not heard. On the left, labeled "voice heard," a circle of children passes a turn marker; one child speaks while others lean in and listen, with a caption "every voice gets a turn." On the right, labeled "voice not heard," a child raises a hand while others talk over them and a decision is made without them, with a caption "a voice was missed." A note below reads "when a voice is missed, good ideas are lost and someone feels left out." Labels and the two scenes, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A Voice Heard, and a Voice Missed</text>
+
+  <!-- ===== Left panel: voice heard ===== -->
+  <rect x="20" y="60" width="216" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="88" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">voice heard</text>
+
+  <!-- circle of children with turn marker -->
+  <circle cx="96" cy="180" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M82 178 A14 14 0 0 1 110 178 Z" fill="#2b3a42"/>
+  <rect x="86" y="194" width="20" height="28" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="160" cy="180" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M146 178 A14 14 0 0 1 174 178 Z" fill="#4f6d7a"/>
+  <rect x="150" y="194" width="20" height="28" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- speaking child holds turn marker -->
+  <circle cx="128" cy="236" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M114 234 A14 14 0 0 1 142 234 Z" fill="#2b3a42"/>
+  <circle cx="123" cy="236" r="1.6" fill="#2b3a42"/>
+  <circle cx="133" cy="236" r="1.6" fill="#2b3a42"/>
+  <path d="M123 243 Q128 248 133 243" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="118" y="250" width="20" height="26" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- turn marker in hand -->
+  <circle cx="142" cy="240" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- speech -->
+  <path d="M150 214 q12 -10 26 -6 l0 14 q-12 3 -24 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- listening ears -->
+  <path d="M88 160 q-8 -6 -16 0 q-3 4 0 8 q6 3 14 1 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M168 160 q8 -6 16 0 q3 4 0 8 q-6 3 -14 1 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="128" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#222222">"every voice gets a turn"</text>
+
+  <!-- ===== Right panel: voice not heard ===== -->
+  <rect x="276" y="60" width="216" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="384" y="88" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">voice not heard</text>
+
+  <!-- children talking over -->
+  <circle cx="330" cy="170" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M316 168 A14 14 0 0 1 344 168 Z" fill="#2b3a42"/>
+  <rect x="320" y="184" width="20" height="26" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M342 156 q12 -8 24 -4 l0 12 q-10 2 -20 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="438" cy="170" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M424 168 A14 14 0 0 1 452 168 Z" fill="#4f6d7a"/>
+  <rect x="428" y="184" width="20" height="26" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M426 156 q-12 -8 -24 -4 l0 12 q10 2 20 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child with raised hand, ignored -->
+  <circle cx="384" cy="252" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M370 250 A14 14 0 0 1 398 250 Z" fill="#2b3a42"/>
+  <circle cx="379" cy="252" r="1.6" fill="#2b3a42"/>
+  <circle cx="389" cy="252" r="1.6" fill="#2b3a42"/>
+  <path d="M379 262 Q384 258 389 262" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="374" y="266" width="20" height="26" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- raised arm -->
+  <line x1="398" y1="256" x2="412" y2="228" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="384" y="312" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#222222">"a voice was missed"</text>
+
+  <!-- note -->
+  <rect x="76" y="380" width="360" height="64" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">When a voice is missed, good ideas are lost</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">and someone feels left out.</text>
+
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A fair group hears every voice — not only the loudest.</text>
+</svg>

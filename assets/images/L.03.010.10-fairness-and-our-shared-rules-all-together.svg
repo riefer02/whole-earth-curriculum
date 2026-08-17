@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fairness and our shared rules, all together</title>
+  <desc id="desc">A six-part page gathers the whole unit. The boxes are: reasons for and against (a balance scale with "for" and "against"), the same act in different situations (a shout-to-warn and a shout-to-scare), needs and wants (a water drop and a toy), left out made more fair (a circle adding a fourth child), my rule and its reason (a rule card with "so that"), and calm down, talk it through, repair (a breath, an ear, and a mended heart). Each box has a dashed draw-or-write area, and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Fairness &amp; Our Shared Rules</text>
+
+  <!-- Box 1 -->
+  <rect x="20" y="58" width="228" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="34" y="80" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">reasons for and against</text>
+  <!-- small balance -->
+  <rect x="118" y="108" width="6" height="34" rx="2" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="92" y1="96" x2="150" y2="88" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M80 112 A18 18 0 0 0 116 112 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="98" y="122" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="bold" fill="#2b3a42">for</text>
+  <path d="M134 106 A18 18 0 0 0 170 106 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="152" y="116" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="bold" fill="#2b3a42">against</text>
+  <text x="134" y="156" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">weigh, then decide — and say why</text>
+  <rect x="34" y="164" width="200" height="16" rx="4" fill="none" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <!-- Box 2 -->
+  <rect x="264" y="58" width="228" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="278" y="80" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">same act, different situations</text>
+  <!-- two speech bubbles -->
+  <path d="M296 118 q10 -10 22 -6 l0 12 q-10 3 -20 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="308" y="116" font-family="sans-serif" font-size="9" fill="#222222">Watch out!</text>
+  <path d="M368 118 q10 -10 22 -6 l0 12 q-10 3 -20 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="380" y="116" font-family="sans-serif" font-size="9" fill="#222222">Go away!</text>
+  <!-- check and x -->
+  <path d="M300 152 l8 8 l14 -14" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <line x1="370" y1="152" x2="386" y2="168" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <line x1="386" y1="152" x2="370" y2="168" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <text x="378" y="140" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">the situation changed it</text>
+  <rect x="278" y="164" width="200" height="16" rx="4" fill="none" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <!-- Box 3 -->
+  <rect x="20" y="198" width="228" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="34" y="220" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">needs and wants</text>
+  <!-- water drop -->
+  <path d="M70 244 q0 20 13 20 q13 0 13 -20 q-6 -12 -13 -20 q-7 8 -13 20 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="83" y="284" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">need</text>
+  <!-- toy ball -->
+  <circle cx="150" cy="256" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M134 256 q16 -9 32 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="284" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">want</text>
+  <text x="134" y="308" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">needs come first</text>
+  <rect x="34" y="314" width="200" height="12" rx="4" fill="none" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <!-- Box 4 -->
+  <rect x="264" y="198" width="228" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="278" y="220" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">left out, made more fair</text>
+  <!-- three then four dots in circle -->
+  <circle cx="356" cy="272" r="24" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle cx="344" cy="264" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="368" cy="264" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="356" cy="286" r="7" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="356" cy="272" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="356" y="308" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">notice, then change</text>
+  <rect x="278" y="314" width="200" height="12" rx="4" fill="none" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <!-- Box 5 -->
+  <rect x="20" y="338" width="228" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="34" y="360" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">my rule and its reason</text>
+  <rect x="52" y="376" width="150" height="26" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="127" y="393" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">wait your turn</text>
+  <text x="127" y="418" text-anchor="middle" font-family="sans-serif" font-size="10" font-style="italic" fill="#4f6d7a">so that everyone gets a turn</text>
+  <rect x="34" y="434" width="200" height="14" rx="4" fill="none" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <!-- Box 6 -->
+  <rect x="264" y="338" width="228" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="278" y="360" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">calm, talk it through, repair</text>
+  <!-- breath lines -->
+  <path d="M300 404 q6 -4 12 0 q-6 4 -12 0" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M300 396 q8 -5 16 0 q-8 5 -16 0" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <!-- ear -->
+  <path d="M344 394 q0 14 9 14 q11 0 11 -14 q0 -9 -5 -11 q-3 5 -6 5 q-1 0 -1 3 q-1 0 -3 0 q-3 0 -4 3 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- mended heart -->
+  <path d="M392 400 q0 -10 9 -10 q8 0 9 10 q-1 7 -9 14 q-8 -7 -9 -14 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="401" y1="394" x2="401" y2="414" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="393" y1="400" x2="409" y2="400" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="434" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">breathe · listen · make it right</text>
+  <rect x="278" y="442" width="200" height="14" rx="4" fill="none" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Fairness is many small things you can do every day.</text>
+</svg>

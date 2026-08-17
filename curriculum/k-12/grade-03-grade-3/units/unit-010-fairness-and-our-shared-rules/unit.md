@@ -62,3 +62,13 @@ rather than only punish. Questions are held as questions, not answered as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Reasons For and Against | D09.S1.03.01 |
+| 2 | The Same Act, Different Situations | D09.S1.03.02 |
+| 3 | Needs, Wants, and Fair Sharing | D09.S2.03.01 |
+| 4 | Left Out: Making It More Fair | D09.S2.03.02 |
+| 5 | Rules That Keep Us Safe and Fair | D09.S3.03.01 |
+| 6 | Proposing a Rule With a Reason | D09.S3.03.01 |
+| 7 | Having a Voice in the Group | D09.S3.03.02 |
+| 8 | Calm Down and Talk It Through | D09.S4.03.01 |
+| 9 | Repairing Harm, Not Only Punishing | D09.S4.03.02 |
+| 10 | Fairness & Our Shared Rules, All Together | D09.S1.03.01, D09.S1.03.02, D09.S2.03.01, D09.S2.03.02, D09.S3.03.01, D09.S3.03.02, D09.S4.03.01, D09.S4.03.02 |
