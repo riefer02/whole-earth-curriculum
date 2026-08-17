@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Many ways of knowing</title>
+  <desc id="desc">Three labeled panels show three knowledge traditions side by side. The first shows a healing plant labeled herbal medicine. The second shows a star chart above a canoe labeled star navigation. The third shows a storyteller with listeners labeled oral history. Under each is the word "knowledge, kept and passed on." Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Many Ways of Knowing</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Three knowledge traditions, each deep and real.</text>
+
+  <!-- herbal medicine -->
+  <rect x="30" y="88" width="140" height="290" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="100" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">herbal</text>
+  <text x="100" y="134" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">medicine</text>
+  <line x1="100" y1="160" x2="100" y2="230" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="78" cy="196" rx="16" ry="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="124" cy="196" rx="16" ry="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">which plants</text>
+  <text x="100" y="278" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">heal</text>
+  <text x="100" y="308" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">knowledge, kept</text>
+  <text x="100" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">and passed on</text>
+
+  <!-- star navigation -->
+  <rect x="186" y="88" width="140" height="290" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">star</text>
+  <text x="256" y="134" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">navigation</text>
+  <circle cx="234" cy="178" r="3" fill="#2b3a42"/>
+  <circle cx="252" cy="170" r="3" fill="#2b3a42"/>
+  <circle cx="270" cy="178" r="3" fill="#2b3a42"/>
+  <circle cx="244" cy="192" r="3" fill="#2b3a42"/>
+  <circle cx="264" cy="192" r="3" fill="#2b3a42"/>
+  <line x1="234" y1="178" x2="252" y2="170" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="252" y1="170" x2="270" y2="178" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="234" y1="178" x2="244" y2="192" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="270" y1="178" x2="264" y2="192" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M216 252 q12 -10 24 0 l-4 12 l-8 -4 l-8 4 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="240" y1="252" x2="240" y2="274" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">read the sky</text>
+  <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">to cross the sea</text>
+  <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">knowledge, kept</text>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">and passed on</text>
+
+  <!-- oral history -->
+  <rect x="342" y="88" width="140" height="290" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="412" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">oral</text>
+  <text x="412" y="134" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">history</text>
+  <circle cx="388" cy="196" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="434" cy="210" r="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="444" cy="230" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M388 182 q0 -10 6 -12" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <text x="412" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">keep a people&#8217;s</text>
+  <text x="412" y="278" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">story by telling it</text>
+  <text x="412" y="308" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">knowledge, kept</text>
+  <text x="412" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">and passed on</text>
+
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Each is a people&#8217;s careful answer, built over generations.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Many ways of knowing, held side by side with respect.</text>
+</svg>

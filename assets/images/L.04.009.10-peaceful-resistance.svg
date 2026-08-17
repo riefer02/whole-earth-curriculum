@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Peaceful resistance</title>
+  <desc id="desc">Three panels show three peaceful movements. The first shows people welcoming soldiers with bread, labeled "Parihaka, Aotearoa New Zealand." The second shows people walking to the sea to make salt, labeled "the Salt March, India." The third shows people calmly refusing a pass, labeled "the Defiance Campaign, South Africa." Under all three a caption reads "three peoples, three places, one choice — to resist without hurting." Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Peaceful Resistance</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Three peoples, three places — one brave choice to resist without hurting.</text>
+
+  <!-- Parihaka -->
+  <rect x="30" y="84" width="140" height="270" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="100" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Parihaka</text>
+  <text x="100" y="128" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">Aotearoa New Zealand</text>
+  <!-- bread loaf -->
+  <ellipse cx="100" cy="168" rx="22" ry="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="84" y1="168" x2="116" y2="168" stroke="#2b3a42" stroke-width="2"/>
+  <!-- welcoming figures -->
+  <circle cx="82" cy="206" r="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="118" cy="206" r="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="238" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">welcomed</text>
+  <text x="100" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">soldiers with</text>
+  <text x="100" y="266" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">bread and songs</text>
+
+  <!-- Salt March -->
+  <rect x="186" y="84" width="140" height="270" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Salt March</text>
+  <text x="256" y="128" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">India</text>
+  <!-- walking figures toward sea -->
+  <circle cx="220" cy="182" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="250" cy="176" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="282" cy="182" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="220" y1="192" x2="216" y2="206" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="250" y1="186" x2="248" y2="206" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="282" y1="192" x2="286" y2="206" stroke="#2b3a42" stroke-width="2"/>
+  <!-- sea + salt -->
+  <path d="M196 232 q30 -10 60 0 q30 -10 60 0" stroke="#6b93b6" stroke-width="3" fill="none"/>
+  <rect x="238" y="218" width="8" height="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="250" y="214" width="8" height="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="262" y="218" width="8" height="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">walked to the sea</text>
+  <text x="256" y="276" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">to make salt</text>
+
+  <!-- Defiance Campaign -->
+  <rect x="342" y="84" width="140" height="270" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="412" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Defiance</text>
+  <text x="412" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Campaign</text>
+  <text x="412" y="142" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">South Africa</text>
+  <!-- pass card refused -->
+  <rect x="382" y="168" width="60" height="40" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="386" y1="178" x2="438" y2="178" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="386" y1="186" x2="438" y2="186" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="200" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">a "pass"</text>
+  <circle cx="398" cy="240" r="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="426" cy="240" r="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="276" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">calmly refused</text>
+  <text x="412" y="290" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">the pass law</text>
+
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Three peoples, three places, one choice — to resist without hurting.</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">They believed in not harming others, and nonviolence wins supporters.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Peaceful resistance is a real and powerful path — still walked today.</text>
+</svg>

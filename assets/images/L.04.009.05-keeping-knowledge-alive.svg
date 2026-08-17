@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Keeping knowledge alive</title>
+  <desc id="desc">A four-step chain of boxes shows how knowledge passes on: watch, practice, remember, teach. Below it, a small scene shows a navigator in a double-hulled canoe under stars teaching an apprentice who points at the sky. Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Keeping Knowledge Alive</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Watch, practice, remember, teach &#8212; knowledge passes hand to hand.</text>
+
+  <!-- four boxes -->
+  <rect x="36" y="96" width="96" height="74" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="84" y="140" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">watch</text>
+
+  <rect x="152" y="96" width="96" height="74" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="200" y="140" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">practice</text>
+
+  <rect x="268" y="96" width="96" height="74" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="316" y="140" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">remember</text>
+
+  <rect x="384" y="96" width="96" height="74" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="432" y="140" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">teach</text>
+
+  <!-- arrows between boxes -->
+  <polygon points="136,133 148,133 142,127" fill="#2b3a42"/>
+  <polygon points="252,133 264,133 258,127" fill="#2b3a42"/>
+  <polygon points="368,133 380,133 374,127" fill="#2b3a42"/>
+
+  <!-- navigator scene -->
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">The story of H&#333;k&#363;le&#699;a (1976):</text>
+
+  <!-- stars -->
+  <circle cx="150" cy="252" r="3" fill="#2b3a42"/>
+  <circle cx="180" cy="240" r="3" fill="#2b3a42"/>
+  <circle cx="210" cy="252" r="3" fill="#2b3a42"/>
+  <circle cx="240" cy="240" r="3" fill="#2b3a42"/>
+  <circle cx="270" cy="252" r="3" fill="#2b3a42"/>
+  <circle cx="300" cy="240" r="3" fill="#2b3a42"/>
+  <line x1="150" y1="252" x2="180" y2="240" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="180" y1="240" x2="210" y2="252" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="210" y1="252" x2="240" y2="240" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="240" y1="240" x2="270" y2="252" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="270" y1="252" x2="300" y2="240" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- canoe hull -->
+  <path d="M120 320 q30 -26 60 0 q30 -26 60 0 l0 22 q-30 22 -60 0 q-30 22 -60 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- navigator -->
+  <circle cx="170" cy="296" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="170" y1="308" x2="170" y2="322" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="170" y1="312" x2="188" y2="300" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- apprentice -->
+  <circle cx="250" cy="296" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="250" y1="308" x2="250" y2="322" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="250" y1="312" x2="272" y2="286" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="210" y="356" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a master navigator and an apprentice, reading the sky together</text>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Knowledge stays alive only when people pass it on.</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Every teacher was once a learner.</text>
+</svg>

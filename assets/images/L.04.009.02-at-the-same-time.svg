@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">At the same time</title>
+  <desc id="desc">A dated timeline runs left to right, and one band around 250 to 200 BCE is highlighted. On that band, three cards sit side by side: a stone pillar labeled India, a long wall labeled China, and a building of scrolls labeled Egypt. Above them the words "at the same time, in three places" appear. Labels and dates, not color, carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">At the Same Time</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">One band of years, three places acting at once.</text>
+
+  <!-- timeline -->
+  <line x1="40" y1="120" x2="472" y2="120" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="472,116 486,120 472,124" fill="#2b3a42"/>
+  <text x="40" y="100" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">300 BCE</text>
+  <text x="472" y="100" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">100 BCE</text>
+
+  <!-- highlighted band -->
+  <rect x="110" y="108" width="210" height="24" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="215" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">around 250&#8211;200 BCE</text>
+
+  <!-- connectors from band to cards -->
+  <line x1="150" y1="132" x2="150" y2="170" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="215" y1="132" x2="215" y2="170" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="280" y1="132" x2="280" y2="170" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- card: India pillar -->
+  <rect x="70" y="170" width="160" height="210" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="150" y="198" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">India</text>
+  <rect x="128" y="210" width="16" height="60" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M118 210 q16 -14 32 0 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Ashoka&#8217;s</text>
+  <text x="150" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">kindness</text>
+  <text x="150" y="332" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">pillars</text>
+  <text x="150" y="358" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">c. 250 BCE</text>
+
+  <!-- card: China wall -->
+  <rect x="250" y="170" width="160" height="210" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="330" y="198" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">China</text>
+  <path d="M270 214 L390 214 L390 232 L270 232 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M280 232 L280 246 L296 246 M320 232 L320 246 L336 246 M360 232 L360 246 L376 246" stroke="#2b3a42" stroke-width="2"/>
+  <text x="330" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the Great</text>
+  <text x="330" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Wall</text>
+  <text x="330" y="332" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">joined</text>
+  <text x="330" y="358" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">c. 220 BCE</text>
+
+  <!-- card: Egypt scrolls -->
+  <rect x="430" y="170" width="66" height="210" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="463" y="198" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Egypt</text>
+  <text x="463" y="240" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">scrolls</text>
+  <text x="463" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">at the</text>
+  <text x="463" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Library</text>
+  <text x="463" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">of</text>
+  <text x="463" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Alexandria</text>
+  <text x="463" y="358" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">c. 250 BCE</text>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">At the same time, in three places&#8230;</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">no place waited for another &#8212; many peoples acted at once.</text>
+</svg>

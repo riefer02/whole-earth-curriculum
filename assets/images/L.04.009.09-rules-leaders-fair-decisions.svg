@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rules, leaders, and fair decisions</title>
+  <desc id="desc">A flow chart shows how a group decides: propose, then discuss, then decide. From "decide," two paths split — "fair" leads to "everyone can live with it," and "unfair" leads to three actions: speak up, gather others, propose a better rule. Small circle figures of many skin tones sit around a table at the top. Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Rules, Leaders, and Fair Decisions</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Propose, discuss, decide — and if it is unfair, act.</text>
+
+  <!-- people around table -->
+  <circle cx="190" cy="118" r="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="106" r="13" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="322" cy="118" r="13" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="176" y="130" width="160" height="12" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="190" y1="131" x2="190" y2="142" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="119" x2="256" y2="142" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="322" y1="131" x2="322" y2="142" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- three step boxes -->
+  <rect x="40" y="168" width="120" height="58" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="204" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">propose</text>
+
+  <rect x="196" y="168" width="120" height="58" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="204" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">discuss</text>
+
+  <rect x="352" y="168" width="120" height="58" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="204" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">decide</text>
+
+  <polygon points="164,197 192,197 186,191" fill="#2b3a42"/>
+  <polygon points="320,197 348,197 342,191" fill="#2b3a42"/>
+
+  <!-- branches -->
+  <line x1="412" y1="226" x2="412" y2="258" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="412" y1="258" x2="300" y2="258" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="412" y1="258" x2="412" y2="286" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- fair -->
+  <rect x="180" y="272" width="120" height="52" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="240" y="294" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">fair</text>
+  <text x="240" y="312" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">everyone can live with it</text>
+  <polygon points="306,290 176,290" stroke="none"/>
+
+  <!-- unfair -->
+  <rect x="352" y="300" width="120" height="52" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="412" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">unfair</text>
+  <text x="412" y="340" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">some are left out</text>
+
+  <!-- three actions -->
+  <rect x="60" y="384" width="120" height="58" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="120" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">speak up</text>
+  <text x="120" y="426" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">say it is unfair</text>
+
+  <rect x="196" y="384" width="120" height="58" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">gather others</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">who also see it</text>
+
+  <rect x="332" y="384" width="140" height="58" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="402" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">propose better</text>
+  <text x="402" y="426" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">a fairer rule</text>
+
+  <line x1="412" y1="352" x2="412" y2="384" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="352" y1="413" x2="260" y2="413" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="196" y1="413" x2="184" y2="413" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Fair groups decide with many voices — unfair decisions can be changed.</text>
+</svg>

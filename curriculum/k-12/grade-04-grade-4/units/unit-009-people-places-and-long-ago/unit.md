@@ -64,3 +64,13 @@ perspectives, never one people's triumph.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | One Timeline, Many Places | D08.S1.04.01 |
+| 2 | At the Same Time | D08.S1.04.01 |
+| 3 | A Day Long Ago, A Day Today | D08.S1.04.02 |
+| 4 | Many Ways of Knowing | D08.S2.04.01 |
+| 5 | Keeping Knowledge Alive | D08.S2.04.01 |
+| 6 | Two Stories for the Sun | D08.S2.04.02 |
+| 7 | Land, Water, and Where People Settled | D08.S3.04.01 |
+| 8 | The Environment Gives, People Change It | D08.S3.04.02 |
+| 9 | Rules, Leaders, and Fair Decisions | D08.S4.04.01 |
+| 10 | Peaceful Resistance | D08.S4.04.02 |

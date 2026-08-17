@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Land, water, and settlement</title>
+  <desc id="desc">A schematic map shows four landforms and a body of water: mountains at one edge, a desert, a river flowing through a valley, and a coast along an ocean. Dots mark where people settled, each with a reason label — by the river for fresh water and farm soil, by the coast for fish and trade, on the mountain slopes for terraces, and at a desert oasis for water. Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Land, Water, and Where People Settled</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">People settle where the land and water give what they need.</text>
+
+  <!-- land background -->
+  <rect x="30" y="90" width="452" height="330" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ocean -->
+  <path d="M30 330 L482 330 L482 420 L30 420 Z" fill="#ffffff" stroke="none"/>
+  <text x="460" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">ocean</text>
+  <line x1="34" y1="344" x2="478" y2="344" stroke="#6b93b6" stroke-width="2"/>
+  <line x1="34" y1="360" x2="478" y2="360" stroke="#6b93b6" stroke-width="2"/>
+  <line x1="34" y1="376" x2="478" y2="376" stroke="#6b93b6" stroke-width="2"/>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">coast</text>
+
+  <!-- mountains -->
+  <path d="M70 250 L96 180 L122 250 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M110 250 L138 170 L166 250 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 250 L178 190 L206 250 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="138" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">mountains</text>
+
+  <!-- desert -->
+  <path d="M340 110 q50 20 90 10 q20 40 -10 70 q-50 20 -90 0 Z" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="400" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">desert</text>
+
+  <!-- river -->
+  <path d="M256 320 C300 300 320 260 340 240 C360 220 380 200 430 190 C450 184 470 176 482 170" stroke="#6b93b6" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <text x="238" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#6b93b6">river</text>
+  <text x="360" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">valley</text>
+
+  <!-- oasis -->
+  <circle cx="392" cy="180" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- settlement dots -->
+  <circle cx="256" cy="308" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">by the river:</text>
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">water + farm soil</text>
+
+  <circle cx="138" cy="246" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="138" y="232" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">mountain slopes:</text>
+  <text x="138" y="246" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">terraces</text>
+
+  <circle cx="392" cy="180" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="430" y="176" font-family="sans-serif" font-size="11" fill="#222222">oasis: water</text>
+
+  <circle cx="470" cy="332" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="404" y="332" text-anchor="end" font-family="sans-serif" font-size="11" fill="#222222">coast: fish + trade</text>
+
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Rivers, coasts, mountains, and oases all shaped the human story.</text>
+</svg>

@@ -3250,7 +3250,7 @@ items:
     type: lesson
     grade: 4
     domain: D08
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3261,7 +3261,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by fact-checker: History accurate (timeline dates Great Pyramid ~2560 BCE/Mohenjo-Daro ~2500 BCE/Olmec ~1200 BCE/Ashoka ~250 BCE/Tenochtitlan 1325 CE/Inca ~1450 CE, Great Wall ~220 BCE + Library Alexandria ~250 BCE concurrence, Hokule'a 1976 + Mau Piailug, Amaterasu & Ra, Haudenosaunee Great Law, Parihaka 1881/Salt March 1930/Defiance 1952 all correct + evidence-vs-values). BUT 3 broken/misattributed citations: (1) L8 NatGeo 'Terracing' 404; (2) L9 Britannica Kids Iroquois -> 'iron' article, correct is Haudenosaunee/353303; (3) L10 Britannica 'Defiance Campaign' 404 (covered under ANC or SA History Online). Plus ~many new valid Britannica/NatGeo/NZHistory URLs need registering.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (787). IDs L.04.009.01-.10 unit U.04.009, objectives resolve to real D08 standards (L8->S3.04.02, L9->S4.04.01, L10->S4.04.02); required headings all 10. Fixes confirmed: L8 FAO soil conservation (replacing 404 NatGeo terracing), L9 Haudenosaunee/353303, L10 SA History Online defiance-campaign-1952; S-129-S-146 registered reviewed:true with replacement notes; age-appropriate non-ranking peaceful resistance."
+      fact-checker:
+        verdict: passed
+        note: "All 3 fixes verified: L8 FAO soil conservation 200 on-topic (terracing); L9 Haudenosaunee/353303 correct confederacy article (Great Law of Peace, Grand Council, clan mothers); L10 SA History Online 200 (1952 non-violent campaign, 8,000+ jailed). S-129-S-146 registered reviewed:true; NatGeo map/irrigation on-topic; no other broken/misattributed URLs. validate passes (787)."
+      global-culture-editor:
+        verdict: passed
+        note: No Euro default ('global story many perspectives never one people's triumph'); BCE/CE 'one calendar among many' (Islamic/Hebrew/Chinese named); L2 anti-single-civilization 'what else was happening?'; regions span Egypt/Indus/Olmec/Mexica/Inca/China/Japan/Polynesia/Satawal/Aboriginal Australia/West Africa/Aotearoa/South Africa/Haudenosaunee; origin stories L6 Amaterasu/Ra no myth-vs-science ranking (philosophy 11); knowledge traditions L4-5 never 'lesser'; L10 peaceful resistance 3 regions (Parihaka/Salt March/Defiance) 'three peoples' choice for dignity'; respectful names (Te Whiti/Tohu/Mau Piailug/Hokule'a/griots/songlines/chinampas/qanats/Great Law clan mothers); rejects 'primitive/advanced' framing.
+      accessibility-editor:
+        verdict: passed
+        note: SVG role=img+title+desc+non-empty alt all 10 grayscale-safe (fair/unfair text-distinguished L9, river/ocean/desert labeled L7); low-tech tier all 10 (found objects/body/voice/ground maps/talking stick, devices optional enriched); timeline/map tactile/verbal for blind (stone + bowl-water river, partner-reads-labels); story/movement non-visual/non-motor (hear aloud, tactile seed/salt/folded pass/warm lamp+mirror, act OR point, signing, eye-gaze); blind/Deaf/non-speaking/motor support all 10 + context_variants; no eye-closing/physical-only; no wealth assumption.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (respect knowledge traditions L4/6, non-ranking story-vs-observation, fairness L9, why peaceful resistance chosen L10); egalitarianism (refusals of ranking 'never one people's triumph', 'never advanced vs backward', 'no single place is the story'); global central (Egypt/Indus/Mesoamerica/Andes/China/Japan/Polynesia-Maori/India/South Africa/Haudenosaunee, zero Euro default); tech/env (terracing/irrigation/wells/chinampas two-way people-place, never 'primitive'). Evidence vs values (Britannica/UNESCO/WHO/FAO/CIP/NatGeo/NZHistory/SAHO/UNCRC cited; L6 no myth-vs-science ranking philosophy 11; L10 fact 'what happened' vs value 'peaceful resistance is good' + ahimsa/Parihaka). Traceability: Vision->P4->D08->S1-S4->standards->U.04.009->10 lessons; all 8 objectives resolve; no hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (9-10, 3-5): cognitive BCE/CE as ordering skill 'bigger=earlier' concrete strip not abstract deep time, dates 'about' + 'about 2,250 years ago' bridge, G3->4 spiral; knowledge traditions/environment grounded in touchable examples worked-example-first; emotional safety origin stories L6 Amaterasu/Ra gentle ('world went dark' immediately resolved, no myth-vs-science ranking philosophy 11); peaceful resistance L10 real injustice no graphic detail + agency/hope (courage/dignity/'resist without hurting', learner action home connection, 'do not dump adult despair'); fairness L9-10 through child's own classroom/garden; physical hands-on with access paths; learners as authors; non-ranking global framing."
   - id: B-321
     title: Author lessons for Unit U.04.010 (Rights, Fairness & Our Shared Rules)
     agent: lesson-author

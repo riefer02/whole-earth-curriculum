@@ -1185,3 +1185,165 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in U.04.008 L08 for children's online-safety guidance. URL verified live (2026-08-17); redirects to the COP landing page."
+
+  - id: S-129
+    title: "National Geographic Education — Map"
+    type: website
+    url: https://education.nationalgeographic.org/resource/map/
+    organization: National Geographic Society
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L07 (Maps, Landforms and Where People Lived) for what maps are and how they locate landforms and bodies of water. URL verified live (2026-08-17)."
+
+  - id: S-130
+    title: "National Geographic Education — Irrigation"
+    type: website
+    url: https://education.nationalgeographic.org/resource/irrigation/
+    organization: National Geographic Society
+    domains: [D08, D10]
+    reviewed: true
+    notes: "Cited in U.04.009 L08 (Environment Gives, People Change) for carrying water to crops through canals, from the Nile and Tigris-Euphrates to today. URL verified live (2026-08-17)."
+
+  - id: S-131
+    title: "Britannica — Ashoka"
+    type: website
+    url: https://www.britannica.com/biography/Ashoka
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 timeline work for the Mauryan emperor Ashoka (~250 BCE) as a dated event on a two-place timeline. Real Britannica biography (serves browsers; 403 to automated clients)."
+
+  - id: S-132
+    title: "Britannica — Mohenjo-daro"
+    type: website
+    url: https://www.britannica.com/place/Mohenjo-daro
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L02 (Daily Life Long Ago) and timeline work for the Indus civilization city of Mohenjo-daro (~2500 BCE) and its daily-life details. Real Britannica place article."
+
+  - id: S-133
+    title: "Britannica — Amaterasu"
+    type: website
+    url: https://www.britannica.com/topic/Amaterasu
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L06 (Two Stories for the Same Sun) for the Japanese sun-goddess Amaterasu as one culture's story of the Sun, compared respectfully with the Egyptian Ra. Real Britannica topic."
+
+  - id: S-134
+    title: "Britannica — Great Wall of China"
+    type: website
+    url: https://www.britannica.com/topic/Great-Wall-of-China
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 timeline work for the Great Wall (~220 BCE) as a dated event concurrent with the Library of Alexandria (~250 BCE). Real Britannica topic."
+
+  - id: S-135
+    title: "Britannica — Indus civilization"
+    type: website
+    url: https://www.britannica.com/topic/Indus-civilization
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L01 (A Timeline of Two Places) for the Indus civilization and its dating. Real Britannica topic."
+
+  - id: S-136
+    title: "Britannica — Library of Alexandria"
+    type: website
+    url: https://www.britannica.com/topic/Library-of-Alexandria
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L01 for the Library of Alexandria (~250 BCE) as a dated event concurrent with the Great Wall (~220 BCE). Real Britannica topic."
+
+  - id: S-137
+    title: "Britannica — Re (Egyptian sun god)"
+    type: website
+    url: https://www.britannica.com/topic/Re
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L06 (Two Stories for the Same Sun) for the Egyptian sun-god Re/Ra as one culture's story of the Sun, compared respectfully with the Japanese Amaterasu. Real Britannica topic."
+
+  - id: S-138
+    title: "Britannica — Pyramids of Giza"
+    type: website
+    url: https://www.britannica.com/topic/Pyramids-of-Giza
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L01 (A Timeline of Two Places) for the Great Pyramid (~2560 BCE) as a dated event. Real Britannica topic."
+
+  - id: S-139
+    title: "Britannica — Olmec"
+    type: website
+    url: https://www.britannica.com/topic/Olmec
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L01 (A Timeline of Two Places) for the Olmec civilization (~1200 BCE) as a dated event. Real Britannica topic."
+
+  - id: S-140
+    title: "Britannica — Tenochtitlan"
+    type: website
+    url: https://www.britannica.com/place/Tenochtitlan
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L01 (A Timeline of Two Places) for Tenochtitlan (1325 CE) as a dated event. Real Britannica place article."
+
+  - id: S-141
+    title: "Britannica — Inca"
+    type: website
+    url: https://www.britannica.com/topic/Inca
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 timeline work for Inca roads (~1450 CE) as a dated event. Real Britannica topic."
+
+  - id: S-142
+    title: "Britannica Kids — Haudenosaunee (Iroquois)"
+    type: website
+    url: https://kids.britannica.com/kids/article/Haudenosaunee/353303
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L09 (Rules, Leaders and Fair Decisions) for the Haudenosaunee confederacy and its Great Law of Peace. Correct article ID (353303); the previously cited /Iroquois/353301 resolved to the 'iron' article. Real Britannica Kids article."
+
+  - id: S-143
+    title: "FAO — Soil conservation"
+    type: website
+    url: https://www.fao.org/soils-portal/soil-management/soil-conservation/en/
+    organization: Food and Agriculture Organization of the United Nations
+    domains: [D08, D10]
+    reviewed: true
+    notes: "Cited in U.04.009 L08 (Environment Gives, People Change) for terracing and other ways people shape slopes to farm them, from the Andes to Asia. URL verified live (2026-08-17). Replaces a broken National Geographic Education 'terracing' URL (404)."
+
+  - id: S-144
+    title: "NZHistory — Parihaka"
+    type: website
+    url: https://nzhistory.govt.nz/politics/parihaka
+    organization: New Zealand Ministry for Culture and Heritage
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L10 (Peaceful Resistance) for the peaceful resistance of the village of Parihaka under Te Whiti-o-Rongomai and Tohu Kākahi in 1881. Canonical NZHistory page (behind Cloudflare but real; verified 2026-08-17)."
+
+  - id: S-145
+    title: "WHO — Traditional, complementary and integrative medicine"
+    type: website
+    url: https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine
+    organization: World Health Organization
+    domains: [D08, D03]
+    reviewed: true
+    notes: "Cited in U.04.009 L05 (A Knowledge Tradition) for the standing and persistence of traditional medicine (e.g., herbal medicine) as a real, valued knowledge tradition. URL verified live (2026-08-17)."
+
+  - id: S-146
+    title: "South African History Online — Defiance Campaign 1952"
+    type: website
+    url: https://www.sahistory.org.za/article/defiance-campaign-1952
+    organization: South African History Online
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.04.009 L10 (Peaceful Resistance) for the 1952 Defiance Campaign in South Africa against unjust pass laws. URL verified live (2026-08-17). Replaces a broken Britannica 'Defiance Campaign' URL (404; Britannica has no article at that path)."

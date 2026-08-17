@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two stories for the Sun</title>
+  <desc id="desc">Two panels each tell one people's story of the Sun. The left panel shows a radiant figure emerging from a cave as others celebrate, labeled "Japan — Amaterasu, the Sun returning." The right panel shows a figure in a boat crossing a sky with a horizon, labeled "Egypt — Ra, the Sun crossing the sky." Between them a caption reads "the same Sun, two peoples' stories, and both watched it closely." Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Two Stories for the Sun</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same Sun &#8212; two peoples&#8217; stories, and both watched it closely.</text>
+
+  <!-- left: Amaterasu -->
+  <rect x="30" y="88" width="216" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="138" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Japan &#8212; Amaterasu</text>
+  <text x="138" y="134" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the Sun returning</text>
+
+  <!-- cave -->
+  <path d="M66 300 q36 -84 72 0 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <!-- radiant figure emerging -->
+  <circle cx="102" cy="252" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="102" y1="266" x2="102" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="102" y1="272" x2="86" y2="288" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="102" y1="272" x2="118" y2="288" stroke="#2b3a42" stroke-width="2"/>
+  <!-- rays -->
+  <line x1="102" y1="228" x2="102" y2="214" stroke="#e0a458" stroke-width="3"/>
+  <line x1="86" y1="236" x2="76" y2="226" stroke="#e0a458" stroke-width="3"/>
+  <line x1="118" y1="236" x2="128" y2="226" stroke="#e0a458" stroke-width="3"/>
+  <!-- celebrating figures -->
+  <circle cx="180" cy="286" r="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="180" y1="297" x2="180" y2="316" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="180" y1="302" x2="196" y2="292" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="210" cy="300" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="138" y="346" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the Sun goddess</text>
+  <text x="138" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">comes out of the cave</text>
+  <text x="138" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and light returns</text>
+
+  <!-- right: Ra -->
+  <rect x="266" y="88" width="216" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="374" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Egypt &#8212; Ra</text>
+  <text x="374" y="134" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the Sun crossing the sky</text>
+
+  <!-- sun disk -->
+  <circle cx="330" cy="200" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="330" y1="176" x2="330" y2="166" stroke="#e0a458" stroke-width="3"/>
+  <line x1="314" y1="186" x2="306" y2="178" stroke="#e0a458" stroke-width="3"/>
+  <line x1="346" y1="186" x2="354" y2="178" stroke="#e0a458" stroke-width="3"/>
+  <line x1="330" y1="224" x2="330" y2="234" stroke="#e0a458" stroke-width="3"/>
+  <line x1="314" y1="214" x2="306" y2="222" stroke="#e0a458" stroke-width="3"/>
+  <line x1="346" y1="214" x2="354" y2="222" stroke="#e0a458" stroke-width="3"/>
+
+  <!-- boat -->
+  <path d="M300 280 q36 -22 72 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- figure in boat -->
+  <circle cx="336" cy="262" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="336" y1="272" x2="336" y2="282" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- horizon -->
+  <line x1="284" y1="320" x2="464" y2="320" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="374" y="346" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the Sun god sails</text>
+  <text x="374" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">across the sky by day,</text>
+  <text x="374" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">to rise again at dawn</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Story and observation are both ways of knowing the world.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Both deserve respect.</text>
+</svg>
