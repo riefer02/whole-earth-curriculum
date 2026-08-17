@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Asking questions to understand</title>
+  <desc id="desc">A child raises a hand beside a large speech bubble with a question mark, and five smaller bubbles around it hold the five question words — who, what, where, when, why — each written in a plain, clear font. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that asking and answering questions is how we understand what a speaker means.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Asking Questions to Understand</text>
+
+  <!-- child raising hand -->
+  <circle cx="150" cy="200" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M110 292 Q106 238 150 238 Q194 238 190 292 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- raised arm -->
+  <path d="M186 254 L210 210 Q214 202 220 206 L214 214" fill="none" stroke="#8f5f3d" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- central speech bubble with question mark -->
+  <path d="M236 150 Q236 120 300 120 L364 120 Q404 120 404 150 L404 190 Q404 220 364 220 L300 220 Q280 220 272 232 L268 220 L300 220 Q336 220 336 190 L336 150 Q336 136 312 136 L288 136 Q256 136 256 150 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="322" y="196" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#2b3a42">?</text>
+
+  <!-- five question word bubbles -->
+  <g font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">
+    <rect x="60" y="332" width="78" height="38" rx="19" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="99" y="357" text-anchor="middle">who</text>
+
+    <rect x="150" y="332" width="92" height="38" rx="19" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="196" y="357" text-anchor="middle">what</text>
+
+    <rect x="254" y="332" width="104" height="38" rx="19" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="306" y="357" text-anchor="middle">where</text>
+
+    <rect x="370" y="332" width="82" height="38" rx="19" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="411" y="357" text-anchor="middle">when</text>
+
+    <rect x="150" y="386" width="70" height="38" rx="19" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="185" y="411" text-anchor="middle">why</text>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Ask a question, listen for the answer, and meaning grows clear.</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading, writing and many languages</title>
+  <desc id="desc">Three emblems stand in a row around a globe: an open book for reading, a pencil writing on paper for writing, and two speech bubbles for many languages, all joined by a gentle ribbon. The caption reads "reading, writing, and many languages — my treasures." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that reading, writing, and many languages are all parts of one connected whole in their lives.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Reading, Writing &amp; Many Languages</text>
+
+  <!-- open book -->
+  <path d="M70 190 Q110 170 150 190 L150 240 Q110 220 70 240 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M230 190 Q190 170 150 190 L150 240 Q190 220 230 240 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">reading</text>
+
+  <!-- pencil writing -->
+  <rect x="316" y="176" width="90" height="64" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round">
+    <line x1="330" y1="200" x2="390" y2="200"/>
+    <line x1="330" y1="216" x2="372" y2="216"/>
+  </g>
+  <line x1="330" y1="234" x2="360" y2="250" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <text x="361" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">writing</text>
+
+  <!-- two speech bubbles -->
+  <rect x="60" y="330" width="120" height="60" rx="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="120" y="367" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">hola</text>
+  <rect x="200" y="330" width="120" height="60" rx="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="260" y="370" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">नमस्ते</text>
+  <text x="260" y="416" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">many languages</text>
+
+  <!-- globe -->
+  <circle cx="420" cy="360" r="44" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="420" cy="360" rx="18" ry="44" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="376" y1="360" x2="464" y2="360" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">reading, writing, and many languages — my treasures</text>
+</svg>

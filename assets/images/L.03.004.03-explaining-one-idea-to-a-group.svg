@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Explaining one idea to a group</title>
+  <desc id="desc">A small circle of four children faces one child who stands holding up a single glowing idea, shown as a light bulb inside a speech bubble labeled "one idea." The four listeners lean in with open, attentive faces, and a short order of steps — first, next, last — runs beneath the speaker. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that explaining one idea in order helps a small group understand.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Explaining One Idea to a Group</text>
+
+  <!-- speaker in center -->
+  <circle cx="256" cy="180" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M216 274 Q212 218 256 218 Q300 218 296 274 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- speech bubble with one idea -->
+  <rect x="206" y="118" width="100" height="60" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- light bulb -->
+  <circle cx="256" cy="142" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="251" y="154" width="10" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">one idea</text>
+
+  <!-- four listeners -->
+  <g>
+    <circle cx="104" cy="250" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M76 322 Q74 286 104 286 Q134 286 132 322 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+    <circle cx="176" cy="290" r="22" fill="#5b3a29" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M148 362 Q146 326 176 326 Q206 326 204 362 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+    <circle cx="336" cy="290" r="22" fill="#d9a05b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M308 362 Q306 326 336 326 Q366 326 364 362 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+    <circle cx="408" cy="250" r="22" fill="#f1c49b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M380 322 Q378 286 408 286 Q438 286 436 322 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- order steps -->
+  <g font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">
+    <rect x="70" y="400" width="86" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="113" y="425" text-anchor="middle">first</text>
+    <rect x="213" y="400" width="86" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="425" text-anchor="middle">next</text>
+    <rect x="356" y="400" width="86" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="399" y="425" text-anchor="middle">last</text>
+  </g>
+
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">One idea, told in order, so everyone can follow.</text>
+</svg>

@@ -62,3 +62,18 @@ treated as wealth, not deficit.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.03.004.01 | Listening and Retelling in Sequence | D04.S1.03.01 |
+| L.03.004.02 | Asking Questions to Understand | D04.S1.03.02 |
+| L.03.004.03 | Explaining One Idea to a Group | D04.S1.03.02 |
+| L.03.004.04 | Reading with Accuracy | D04.S2.03.01 |
+| L.03.004.05 | Reading with Fluency | D04.S2.03.01 |
+| L.03.004.06 | Self-Correcting When Meaning Breaks Down | D04.S2.03.01 |
+| L.03.004.07 | Finding the Main Idea | D04.S2.03.02 |
+| L.03.004.08 | Supporting Details | D04.S2.03.02 |
+| L.03.004.09 | Writing a Topic Sentence | D04.S3.03.01 |
+| L.03.004.10 | Building a Paragraph with Details and a Closing | D04.S3.03.01 |
+| L.03.004.11 | Revising for Clarity | D04.S3.03.02 |
+| L.03.004.12 | Editing for Spelling and Punctuation | D04.S3.03.02 |
+| L.03.004.13 | Everyday Phrases in Another Language | D04.S4.03.01 |
+| L.03.004.14 | One Idea, Many Languages | D04.S4.03.02 |
+| L.03.004.15 | Reading, Writing & Many Languages | D04.S1.03.01–D04.S4.03.02 (capstone) |

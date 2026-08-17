@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading with accuracy</title>
+  <desc id="desc">A child reads a line of text in their own writing system while a magnifying glass hovers over one word, and three small checks mark the steps — say the sounds, blend the word, check it makes sense. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that reading accurately means sounding out each word and checking that it fits the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Reading with Accuracy</text>
+
+  <!-- child reading -->
+  <circle cx="180" cy="150" r="28" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M144 228 Q140 178 180 178 Q220 178 216 228 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- open book with a line of text -->
+  <path d="M96 268 Q138 250 180 268 L180 296 Q138 278 96 296 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M264 268 Q222 250 180 268 L180 296 Q222 278 264 296 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- text line (script-agnostic scribble marks) -->
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round">
+    <line x1="106" y1="282" x2="128" y2="282"/>
+    <line x1="134" y1="282" x2="156" y2="282"/>
+    <line x1="162" y1="282" x2="184" y2="282"/>
+    <line x1="190" y1="282" x2="212" y2="282"/>
+    <line x1="218" y1="282" x2="240" y2="282"/>
+  </g>
+
+  <!-- magnifying glass over one word -->
+  <circle cx="300" cy="230" r="46" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="334" y1="264" x2="358" y2="288" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <!-- a single word inside the glass -->
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round">
+    <line x1="286" y1="228" x2="300" y2="228"/>
+    <line x1="306" y1="228" x2="318" y2="228"/>
+  </g>
+
+  <!-- three steps -->
+  <g font-family="sans-serif" font-size="14" fill="#2b3a42">
+    <rect x="40" y="336" width="136" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="108" y="360" text-anchor="middle" font-weight="bold">1. say the sounds</text>
+    <text x="108" y="380" text-anchor="middle" fill="#4f6d7a">in my writing system</text>
+
+    <rect x="188" y="336" width="136" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="360" text-anchor="middle" font-weight="bold">2. blend the word</text>
+    <text x="256" y="380" text-anchor="middle" fill="#4f6d7a">say it together</text>
+
+    <rect x="336" y="336" width="136" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="404" y="360" text-anchor="middle" font-weight="bold">3. check it</text>
+    <text x="404" y="380" text-anchor="middle" fill="#4f6d7a">does it make sense?</text>
+  </g>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Accurate reading reads what is really written — every sound, every mark.</text>
+</svg>

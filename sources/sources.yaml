@@ -179,7 +179,7 @@ sources:
     organization: UNESCO
     domains: [D04]
     reviewed: true
-    notes: "Cited in U.00.005 L12/L13 (home-language greetings; 'many languages are treasures'). Page states verbatim: 'Globally 40 per cent of the population does not have access to an education in a language they speak or understand.' Supports the 40% claim and the value of every learner's home language."
+    notes: "Cited in U.00.005 L12/L13 (home-language greetings; 'many languages are treasures') and U.03.004 L13–L15 (multilingualism as wealth; every language a bearer of dignity; no spoken or signed language above another). Page states verbatim: 'Globally 40 per cent of the population does not have access to an education in a language they speak or understand.' Supports the 40% claim and the value of every learner's home language; the U.03.004 lessons cite it for the mother-tongue/multilingual-education value, held as a value/commitment, not a factual statistic."
 
   - id: S-020
     title: "Clements & Sarama — Learning and Teaching Early Math: The Learning Trajectories Approach"
@@ -380,7 +380,7 @@ sources:
     url: https://www.nichd.nih.gov/research/supported/nrp
     domains: [D04]
     reviewed: true
-    notes: "Cited in U.02.004 L05 (fluency via repeated/guided oral reading), L06–L09 (comprehension via question answering and question generation). Real, landmark US report. URL verified live (2026-08-16): NICHD hosts the panel page (marked 'Historical/For Reference Only'). NRP identified five components of reading — phonemic awareness, phonics, fluency, vocabulary, comprehension — and found guided repeated oral reading improves fluency and that question answering and question generation are among the comprehension strategies with a solid research base. On-topic for each lesson that cites it. US-centric source; treated as one widely used evidence base among others, not the only tradition."
+    notes: "Cited in U.02.004 L05 (fluency via repeated/guided oral reading), L06–L09 (comprehension via question answering and question generation); and U.03.004 L04 (accuracy via systematic/explicit sound–symbol instruction), L05 (fluency via re-reading/guided oral reading), L06 (comprehension monitoring/self-correction), L07–L08 (main idea and supporting details). Real, landmark US report. URL verified live (2026-08-16): NICHD hosts the panel page (marked 'Historical/For Reference Only'). NRP identified five components of reading — phonemic awareness, phonics, fluency, vocabulary, comprehension — and found guided repeated oral reading improves fluency and that question answering, question generation, comprehension monitoring, and summarization (which includes identifying main ideas and supporting details) are among the comprehension strategies with a solid research base. On-topic for each lesson that cites it. US-centric source; treated as one widely used evidence base among others, not the only tradition."
 
   - id: S-041
     title: BBC Bitesize (KS1) — Working scientifically

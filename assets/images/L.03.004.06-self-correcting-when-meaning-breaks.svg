@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Self-correcting when meaning breaks down</title>
+  <desc id="desc">A loop of three arrows circles around three labeled steps — read, stop when meaning breaks, and fix and go on. In the center a child pauses with a thoughtful face and a question mark above the head, then a small check mark shows the meaning restored. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to monitor their reading and self-correct when the meaning stops making sense.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Self-Correcting When Meaning Breaks Down</text>
+
+  <!-- loop arrows -->
+  <path d="M150 200 A120 120 0 1 1 90 300" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="6 6" stroke-linecap="round"/>
+  <path d="M84 288 L94 306 L104 288" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M300 150 A120 120 0 1 0 360 260" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="6 6" stroke-linecap="round"/>
+
+  <!-- child pausing with question mark -->
+  <circle cx="256" cy="230" r="34" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M210 332 Q204 268 256 268 Q308 268 302 332 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="176" text-anchor="middle" font-family="sans-serif" font-size="44" font-weight="bold" fill="#e0a458">?</text>
+
+  <!-- three steps around the loop -->
+  <g font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">
+    <rect x="60" y="132" width="120" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="153" text-anchor="middle">read</text>
+    <text x="120" y="173" text-anchor="middle" font-size="12" fill="#4f6d7a" font-weight="normal">and listen for meaning</text>
+
+    <rect x="336" y="132" width="128" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="400" y="153" text-anchor="middle">stop</text>
+    <text x="400" y="173" text-anchor="middle" font-size="12" fill="#4f6d7a" font-weight="normal">meaning broke down</text>
+
+    <rect x="340" y="352" width="132" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="406" y="373" text-anchor="middle">fix and go on</text>
+    <text x="406" y="393" text-anchor="middle" font-size="12" fill="#4f6d7a" font-weight="normal">re-read, then continue</text>
+  </g>
+
+  <!-- check mark -->
+  <circle cx="140" cy="360" r="26" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+  <path d="M128 360 L138 370 L154 350" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="140" y="404" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#7a9e7e">meaning restored</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Good readers notice when it stops making sense — and fix it themselves.</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Editing for spelling and punctuation</title>
+  <desc id="desc">A sentence sits on a writing line with a period being added at its end and a small caret marking a misspelled word, while a checklist below shows two items — check spelling and check punctuation — each with a check mark. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that editing fixes spelling and punctuation so the writing is correct and ready to share.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Editing for Spelling and Punctuation</text>
+
+  <!-- sentence line -->
+  <line x1="90" y1="180" x2="422" y2="180" stroke="#4f6d7a" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <line x1="110" y1="172" x2="134" y2="172"/>
+    <line x1="142" y1="172" x2="166" y2="172"/>
+    <line x1="174" y1="172" x2="198" y2="172"/>
+    <line x1="206" y1="172" x2="230" y2="172"/>
+    <line x1="238" y1="172" x2="262" y2="172"/>
+    <line x1="270" y1="172" x2="294" y2="172"/>
+  </g>
+
+  <!-- caret marking a misspelled word -->
+  <text x="160" y="140" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#e0a458">^</text>
+  <text x="160" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458">fix spelling</text>
+
+  <!-- period being added -->
+  <circle cx="306" cy="180" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="306" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458">add period</text>
+
+  <!-- checklist -->
+  <rect x="130" y="250" width="252" height="130" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my editing checklist</text>
+
+  <g font-family="sans-serif" font-size="15" fill="#2b3a42">
+    <rect x="150" y="296" width="22" height="22" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M154 307 L159 312 L169 302" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="184" y="313">check spelling</text>
+
+    <rect x="150" y="332" width="22" height="22" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M154 343 L159 348 L169 338" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="184" y="349">check punctuation  . ? !</text>
+  </g>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Editing fixes the small things — spelling and punctuation — so the writing is ready to share.</text>
+</svg>

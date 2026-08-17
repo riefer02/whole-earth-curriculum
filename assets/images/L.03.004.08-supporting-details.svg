@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Supporting details</title>
+  <desc id="desc">A wide banner labeled "main idea" rests on top of three tall pillar blocks, each labeled a supporting detail, showing that details hold up the main idea like pillars hold up a roof. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that supporting details are the facts and examples that back up the main idea.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Supporting Details</text>
+
+  <!-- main idea banner (roof) -->
+  <rect x="86" y="120" width="340" height="66" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="160" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">main idea</text>
+
+  <!-- three pillars (supporting details) -->
+  <g font-family="sans-serif" font-size="15" fill="#2b3a42">
+    <rect x="110" y="210" width="80" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="250" text-anchor="middle" font-weight="bold">detail</text>
+    <text x="150" y="270" text-anchor="middle" font-size="12" fill="#4f6d7a">a fact or</text>
+    <text x="150" y="286" text-anchor="middle" font-size="12" fill="#4f6d7a">example</text>
+
+    <rect x="216" y="210" width="80" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="250" text-anchor="middle" font-weight="bold">detail</text>
+    <text x="256" y="270" text-anchor="middle" font-size="12" fill="#4f6d7a">a fact or</text>
+    <text x="256" y="286" text-anchor="middle" font-size="12" fill="#4f6d7a">example</text>
+
+    <rect x="322" y="210" width="80" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="362" y="250" text-anchor="middle" font-weight="bold">detail</text>
+    <text x="362" y="270" text-anchor="middle" font-size="12" fill="#4f6d7a">a fact or</text>
+    <text x="362" y="286" text-anchor="middle" font-size="12" fill="#4f6d7a">example</text>
+  </g>
+
+  <!-- ground -->
+  <line x1="80" y1="362" x2="432" y2="362" stroke="#2b3a42" stroke-width="3"/>
+
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Details hold up the main idea, the way pillars hold up a roof.</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Ask: which facts and examples tell me more about the big idea?</text>
+</svg>

@@ -2621,7 +2621,7 @@ items:
     type: lesson
     grade: 3
     domain: D04
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2633,6 +2633,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (607 files). IDs L.03.004.01-.15 sequential, sequence_in_unit 1-15, unit U.03.004, grade 3; required headings all 15. Objectives resolve to the 8 real Grade-3 D04 standards only (S1.03.01-S4.03.02, grep returns exactly those 8) — no invented/cross-grade IDs. unit.md Lessons table lists all 15. Example: L5 'Reading with Fluency' D04.S2.03.01, Connection 'path/read until it flows like talking', script-agnostic non-racing, sources NRP 2000 + CASEL. validate passes."
+      fact-checker:
+        verdict: passed
+        note: "Four sources verified (all reviewed:true): CASEL S-001 competency mappings on-target; NRP 2000 S-040 (L4 sound-symbol→accuracy, L5 re-reading→fluency, L6 self-correction, L7-8 main idea/summarization); Kirschner/Sweller/Clark S-011 model-then-guided-practice; UNESCO S-019 held as value/commitment not overstated statistic. Linguistic claims accurate+hedged (alphabetic/syllabic/character taxonomy; 'some scripts no capitals'; L13-15 script-agnostic zero fabricated translations). Evidence vs values separated. Updated S-040/S-019 notes. validate passes (607 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Script-agnostic throughout (never Latin alphabet/English default; 'read in home writing system'); home + signed languages as equal wealth (UNESCO mother-tongue; 'a sign language version stands exactly as high as any spoken one'); forbids 'correct accent'. Fix: L4 facilitator note previously claimed 'say the sounds, blend' works identically in ALL scripts (wrong for character-based, named no real systems) — now distinguishes sound/syllable-based (Hangul/Devanagari/Ethiopic/Arabic) from character-based (Chinese) non-tokenistically. validate passes (607 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech all 15; alt text all 15 assets (SVGs role=img/aria-labelledby/title/desc). UDL non-speaking + Deaf/HOH variants throughout; no speed-shaming ('competing only with oneself'; self-correct bans timer-reading); dictation/scribe/device/sign/pointing. Fix: blindness/low-vision never named — added braille/large-print/read-aloud alternatives to L4-8 (reading) + L9-12 (writing) facilitator notes + Differentiation. validate passes (607 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics ('accuracy is honesty' L4, 'asking is caring' L2, no-shaming), egalitarianism (multilingualism-as-wealth, 'no language better', 'competing only with oneself', no ranking), global (script-agnostic, home language first, oral traditions, UNESCO mother-tongue), tech/env. Evidence vs values (NRP/CASEL/Kirschner as evidence; UNESCO as value; 'cited as widely used evidence base' hedging). Traceability: D04.S1.03.01-S4.03.02 → D04.S1-S4 → D04 → P3 → vision. No 'correct accent/language' supremacy. Fix: added technology lens + 'tool is a helper never a judge/replacement' note to L5 (fluency timer/recording), L12 (spell-check), L14 (translation tool). validate passes (607 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: accuracy 'say-blend-check', fluency 're-read until flows like talking', main idea umbrella, details roof/pillars, paragraph sandwich — tangible anchors, no formal grammar; self-monitoring as concrete 'does it make sense? stop-and-fix' not abstract metacognition. Emotional safety: no-competition across all 15 ('competing only with oneself', no ranking/'best' paragraph/timer-tested read-aloud/'correct' accent); passing always allowed; multilingualism as wealth, home language first. Physical fit: one-paragraph writing + dictation/scribe/braille/device/sand; movement embedded. Not dumbed down (multilingualism-as-wealth, accuracy-as-honesty, 'tool is helper never judge'). Open-ended ('no single correct paragraph'). validate passes (607 files)."
   - id: B-304
     title: Author lessons for Unit U.03.005 (Numbers, Shapes, Patterns & Data)
     agent: lesson-author

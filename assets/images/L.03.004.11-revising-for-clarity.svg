@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Revising for clarity</title>
+  <desc id="desc">Two writing papers sit side by side. The first, labeled "before," holds a wobbly, tangled line of scribbles. The second, labeled "after," holds a short, straight, clear line with a check mark. An arrow points from the first to the second, and a pencil with the words add, remove, and rearrange hovers between them. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that revising means changing words to make the meaning clearer.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Revising for Clarity</text>
+
+  <!-- before paper -->
+  <rect x="60" y="110" width="150" height="180" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="135" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">before</text>
+  <!-- tangled scribble -->
+  <path d="M84 180 Q110 150 104 200 Q98 250 140 210 Q150 180 120 240 Q112 270 150 250" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- after paper -->
+  <rect x="302" y="110" width="150" height="180" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="377" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">after</text>
+  <!-- clear lines -->
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <line x1="326" y1="180" x2="430" y2="180"/>
+    <line x1="326" y1="206" x2="408" y2="206"/>
+    <line x1="326" y1="232" x2="424" y2="232"/>
+  </g>
+  <!-- check mark -->
+  <circle cx="438" cy="260" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M431 260 L436 265 L445 254" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- arrow from before to after -->
+  <path d="M216 200 L296 200" stroke="#2b3a42" stroke-width="4" stroke-linecap="round" marker-end="none"/>
+  <path d="M288 192 L298 200 L288 208" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- pencil with revise words -->
+  <g transform="rotate(-45 256 330)">
+    <rect x="240" y="318" width="36" height="100" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M240 318 L276 318 L258 300 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="250" y="402" width="16" height="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <g font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">
+    <rect x="60" y="350" width="96" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="108" y="375" text-anchor="middle">add</text>
+    <rect x="168" y="350" width="120" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="228" y="375" text-anchor="middle">remove</text>
+    <rect x="300" y="350" width="152" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="375" text-anchor="middle">rearrange</text>
+  </g>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Revising means changing the words so the meaning comes through clearer.</text>
+</svg>
