@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Reading rhythm notation</title>
+  <desc id="d">Two rows of rhythm symbols. The top row shows four quarter notes, each with a filled oval head and a stem, labeled "ta" under each. The bottom row shows two eighth notes joined by a beam labeled "ti-ti," then a quarter note labeled "ta," then a quarter rest shaped like a squiggle labeled "rest." Labels carry all meaning so the graphic prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">Reading Rhythm Notation</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">one beat each, read left to right</text>
+
+  <!-- Row 1: four quarter notes -->
+  <text x="60" y="120" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">ta &#160; ta &#160; ta &#160; ta</text>
+  <g fill="#2b3a42">
+    <ellipse cx="90" cy="180" rx="13" ry="10"/>
+    <line x1="103" y1="180" x2="103" y2="120" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="190" cy="180" rx="13" ry="10"/>
+    <line x1="203" y1="180" x2="203" y2="120" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="290" cy="180" rx="13" ry="10"/>
+    <line x1="303" y1="180" x2="303" y2="120" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="390" cy="180" rx="13" ry="10"/>
+    <line x1="403" y1="180" x2="403" y2="120" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+  <text x="90" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">ta</text>
+  <text x="190" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">ta</text>
+  <text x="290" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">ta</text>
+  <text x="390" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">ta</text>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">four quarter notes = four steady beats</text>
+
+  <line x1="40" y1="290" x2="472" y2="290" stroke="#c9d4d8" stroke-width="2"/>
+
+  <!-- Row 2: ti-ti, ta, rest -->
+  <g fill="#2b3a42">
+    <ellipse cx="90" cy="360" rx="13" ry="10"/>
+    <ellipse cx="140" cy="360" rx="13" ry="10"/>
+    <line x1="103" y1="360" x2="103" y2="300" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="153" y1="360" x2="153" y2="300" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="103" y1="300" x2="153" y2="300" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="260" cy="360" rx="13" ry="10"/>
+    <line x1="273" y1="360" x2="273" y2="300" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M 360 352 q 4 -20 12 -24 q 12 -6 6 10 q -6 16 -18 18" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="115" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">ti-ti</text>
+  <text x="260" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">ta</text>
+  <text x="378" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">rest</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">ti-ti = two quick sounds in one beat; rest = one silent beat</text>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Clap each symbol once and keep the beat steady.</text>
+</svg>

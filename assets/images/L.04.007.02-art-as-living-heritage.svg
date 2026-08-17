@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Look closely and ask respectfully</title>
+  <desc id="d">A four-part frame for looking at art from another culture. Three boxes are labeled "subject: what it shows," "materials: what it is made of," and "purpose: what it is for." Below them a speech bubble is labeled "one respectful question." The frame prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">Look Closely, Ask Respectfully</text>
+
+  <!-- Subject box -->
+  <rect x="28" y="70" width="456" height="92" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="44" y="86" width="150" height="34" rx="6" fill="#6b93b6" fill-opacity="0.6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="119" y="109" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Subject</text>
+  <text x="212" y="109" font-family="sans-serif" font-size="16" fill="#222222">what does it show?</text>
+
+  <!-- Materials box -->
+  <rect x="28" y="180" width="456" height="92" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="44" y="196" width="150" height="34" rx="6" fill="#7a9e7e" fill-opacity="0.6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="119" y="219" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Materials</text>
+  <text x="212" y="219" font-family="sans-serif" font-size="16" fill="#222222">what is it made of?</text>
+
+  <!-- Purpose box -->
+  <rect x="28" y="290" width="456" height="92" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="44" y="306" width="150" height="34" rx="6" fill="#e0a458" fill-opacity="0.6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="119" y="329" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Purpose</text>
+  <text x="212" y="329" font-family="sans-serif" font-size="16" fill="#222222">what is it for?</text>
+
+  <!-- Respectful question speech bubble -->
+  <path d="M 28 420 L 484 420 L 484 452 C 484 466 472 478 458 478 L 76 478 C 62 478 50 466 50 452 L 50 420 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 88 478 L 78 500 L 108 478 Z" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">one respectful question</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"Who made this, and what does it mean to them?"</text>
+</svg>

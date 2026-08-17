@@ -62,3 +62,13 @@ cultures are honored as living heritage, not museum pieces.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Depth in Art | D07.S1.04.01 |
+| 2 | Looking with Respect — Art as Living Heritage | D07.S1.04.02 |
+| 3 | Reading Rhythm Notation | D07.S2.04.01 |
+| 4 | Reading and Playing a Melody | D07.S2.04.01 |
+| 5 | Music of Another Culture | D07.S2.04.02 |
+| 6 | A Dance from Another Culture | D07.S3.04.01 |
+| 7 | Creating a Character | D07.S3.04.02 |
+| 8 | Design for a User | D07.S4.04.01 |
+| 9 | An Object's Story | D07.S4.04.02 |
+| 10 | The Living Arts Celebration | D07.S1.04.01, D07.S1.04.02, D07.S2.04.01, D07.S2.04.02, D07.S3.04.01, D07.S3.04.02, D07.S4.04.01, D07.S4.04.02 |

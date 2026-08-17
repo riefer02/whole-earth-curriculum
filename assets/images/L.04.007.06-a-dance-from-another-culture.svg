@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A simple dance step between bamboo poles</title>
+  <desc id="d">A bird's-eye view of two horizontal bamboo poles held by two people, with a dancer stepping between them. A dashed footprint pattern shows the stepping path between the poles. A label reads "Tinikling (Philippines): stepping between bamboo poles." The picture prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">A Dance from the Philippines</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Tinikling — stepping between bamboo poles</text>
+
+  <!-- two bamboo poles -->
+  <rect x="90" y="180" width="332" height="22" rx="11" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="90" y="290" width="332" height="22" rx="11" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="60" y="197" font-family="sans-serif" font-size="13" fill="#4f6d7a">pole</text>
+  <text x="60" y="307" font-family="sans-serif" font-size="13" fill="#4f6d7a">pole</text>
+
+  <!-- two pole holders -->
+  <g fill="#2b3a42">
+    <circle cx="120" cy="240" r="16"/>
+    <circle cx="392" cy="240" r="16"/>
+  </g>
+  <g fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <line x1="120" y1="256" x2="120" y2="300"/>
+    <line x1="392" y1="256" x2="392" y2="300"/>
+  </g>
+  <text x="120" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">clapper</text>
+  <text x="392" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">clapper</text>
+
+  <!-- dancer -->
+  <g fill="#e0a458" fill-opacity="0.7" stroke="#2b3a42" stroke-width="2.5">
+    <circle cx="256" cy="150" r="17"/>
+    <ellipse cx="256" cy="196" rx="22" ry="28"/>
+  </g>
+  <g fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <line x1="240" y1="212" x2="226" y2="246"/>
+    <line x1="272" y1="212" x2="286" y2="246"/>
+  </g>
+  <text x="256" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">dancer</text>
+
+  <!-- footprint pattern between poles -->
+  <g fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 6">
+    <ellipse cx="180" cy="246" rx="12" ry="7"/>
+    <ellipse cx="256" cy="246" rx="12" ry="7"/>
+    <ellipse cx="332" cy="246" rx="12" ry="7"/>
+  </g>
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">step in &#8212; step out, to the clap of the poles</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">A festive dance for celebrations &#8212; best learned from the community that dances it.</text>
+</svg>

@@ -1050,3 +1050,30 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in U.04.006 L01 (Measure Like a Scientist) for how we measure amounts with units (such as cups and grams) and why measuring matters. URL verified live (2026-08-17): page title 'Measuring to bake pancakes' — an everyday measuring-and-units context that supports the lesson's measure-with-units claim."
+
+  - id: S-114
+    title: "Metropolitan Museum of Art — Heilbrunn Timeline of Art History"
+    type: website
+    url: https://www.metmuseum.org/toah/
+    organization: The Metropolitan Museum of Art
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.04.007 L01 (perspective/landscape), L02 (art as living heritage), L05 (instruments), L09 (an object's story) as a general authority for art history and world art. Real, reputable museum resource; the /toah/ index is live (2026-08-17; metmuseum.org may return 403 to automated clients but serves browsers). Used as a broad art-history frame, not a page-level claim citation."
+
+  - id: S-115
+    title: "Te Papa Tongarewa (Museum of New Zealand) — Māori arts"
+    type: website
+    url: https://www.tepapa.govt.nz/
+    organization: Te Papa Tongarewa
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.04.007 L02 (art as living heritage) and L09 (an object's story) for Māori arts including kōwhaiwhai painted rafter patterns and kete (harakeke/flax) baskets. Real national museum of Aotearoa New Zealand; live (2026-08-17). Supports respectful, accurate Māori arts representation as living heritage."
+
+  - id: S-116
+    title: "NCCA Philippines — National Commission for Culture and the Arts"
+    type: website
+    url: https://ncca.gov.ph/
+    organization: National Commission for Culture and the Arts (Philippines)
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.04.007 L06 (a dance from another culture) for the tinikling — a Philippine folk dance in which dancers step between bamboo poles imitating the tikling bird. Real Philippine government arts authority; live (2026-08-17; may return 403 to automated clients). Supports accurate, respectful representation of Philippine dance as living heritage."

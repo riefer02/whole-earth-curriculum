@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Three tools for creating a character</title>
+  <desc id="d">A simple figure standing beside three labeled tools: a speech bubble labeled "voice," an arrow to the body labeled "body," and a scarf prop labeled "prop." Labels carry all meaning, so the graphic prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">Three Tools for a Character</text>
+
+  <!-- figure -->
+  <g fill="#6b93b6" fill-opacity="0.6" stroke="#2b3a42" stroke-width="2.5">
+    <circle cx="180" cy="140" r="26"/>
+    <ellipse cx="180" cy="215" rx="36" ry="52"/>
+  </g>
+  <g fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <line x1="160" y1="245" x2="140" y2="320"/>
+    <line x1="200" y1="245" x2="220" y2="320"/>
+    <line x1="152" y1="180" x2="110" y2="230"/>
+    <line x1="208" y1="180" x2="250" y2="230"/>
+  </g>
+  <!-- scarf prop -->
+  <path d="M 160 172 q 20 -18 44 0 l -6 26 q -16 -10 -34 0 Z" fill="#e0a458" fill-opacity="0.7" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- voice -->
+  <path d="M 300 120 q 8 -44 70 -44 q 56 0 60 40 q 0 26 -18 36 l 12 24 l -30 -14 q -50 2 -76 -20 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="368" y="150" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">voice</text>
+  <text x="368" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">pitch, volume,</text>
+  <text x="368" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">speed, tone</text>
+
+  <!-- body -->
+  <rect x="288" y="230" width="176" height="60" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="376" y="257" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">body</text>
+  <text x="376" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">posture, gesture,</text>
+  <text x="376" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">movement</text>
+
+  <!-- prop -->
+  <rect x="288" y="320" width="176" height="60" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="376" y="347" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">prop</text>
+  <text x="376" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">one simple object</text>
+  <text x="376" y="384" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the character holds</text>
+
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Choose all three to show who your character is &#8212; then explain your choices.</text>
+</svg>

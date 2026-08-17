@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The design cycle: ask, imagine, make, try, improve</title>
+  <desc id="d">Five boxes connected by arrows in a cycle. The boxes read: ask (who needs it?), imagine, make, try with the user, and improve. A small figure with a thought bubble stands beside the "ask" box. Labels carry all meaning, so the graphic prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">Design for a User</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">make something for a real person and a real need</text>
+
+  <!-- cycle of five boxes -->
+  <g font-family="sans-serif" font-size="16" fill="#222222" text-anchor="middle">
+    <rect x="168" y="120" width="176" height="54" rx="10" fill="#6b93b6" fill-opacity="0.5" stroke="#2b3a42" stroke-width="3"/>
+    <text x="256" y="152">1. ask</text>
+
+    <rect x="168" y="220" width="176" height="54" rx="10" fill="#7a9e7e" fill-opacity="0.5" stroke="#2b3a42" stroke-width="3"/>
+    <text x="256" y="252">2. imagine</text>
+
+    <rect x="168" y="320" width="176" height="54" rx="10" fill="#e0a458" fill-opacity="0.5" stroke="#2b3a42" stroke-width="3"/>
+    <text x="256" y="352">3. make</text>
+  </g>
+  <g font-family="sans-serif" font-size="15" fill="#222222" text-anchor="middle">
+    <text x="104" y="150">who needs it,</text>
+    <text x="104" y="170">and what do they need?</text>
+    <text x="104" y="252">think of ideas</text>
+    <text x="104" y="352">build a first try</text>
+  </g>
+  <!-- arrows down -->
+  <g fill="none" stroke="#2b3a42" stroke-width="3">
+    <line x1="256" y1="174" x2="256" y2="214"/>
+    <path d="M 248 208 L 256 220 L 264 208" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+    <line x1="256" y1="274" x2="256" y2="314"/>
+    <path d="M 248 308 L 256 320 L 264 308" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+
+  <!-- bottom two boxes -->
+  <g font-family="sans-serif" font-size="16" fill="#222222" text-anchor="middle">
+    <rect x="72" y="416" width="176" height="54" rx="10" fill="#c9d4d8" stroke="#2b3a42" stroke-width="3"/>
+    <text x="160" y="449">4. try with the user</text>
+    <rect x="280" y="416" width="176" height="54" rx="10" fill="#c9d4d8" stroke="#2b3a42" stroke-width="3"/>
+    <text x="368" y="449">5. improve</text>
+  </g>
+  <g fill="none" stroke="#2b3a42" stroke-width="3">
+    <line x1="216" y1="374" x2="176" y2="412"/>
+    <line x1="296" y1="374" x2="340" y2="412"/>
+    <path d="M 248 430 L 268 430" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M 262 424 L 268 430 L 262 436" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+  <!-- loop back arrow -->
+  <path d="M 120 444 C 60 444 40 300 150 150" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="7 7"/>
+  <path d="M 158 158 L 150 146 L 140 156" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linejoin="round"/>
+  <text x="52" y="340" font-family="sans-serif" font-size="13" fill="#4f6d7a" transform="rotate(-72 52 340)">then ask again</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The user's feedback is the most important part.</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Instruments, scales, and rhythms of three music traditions</title>
+  <desc id="d">Three labeled panels. Panel one shows a goblet-shaped drum labeled "djembe (West Africa)." Panel two shows a long-necked string instrument and a pair of drums labeled "sitar and tabla (India)." Panel three shows a circle of hanging gongs labeled "gamelan gongs (Indonesia)." Each panel notes one musical feature. Labels carry all meaning, so the graphic prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">Three Music Traditions</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">each has its own instruments, scales, and rhythms</text>
+
+  <line x1="172" y1="92" x2="172" y2="480" stroke="#c9d4d8" stroke-width="2"/>
+  <line x1="340" y1="92" x2="340" y2="480" stroke="#c9d4d8" stroke-width="2"/>
+
+  <!-- Panel 1: djembe -->
+  <text x="94" y="112" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Djembe</text>
+  <path d="M 60 250 C 60 210 70 190 94 190 C 118 190 128 210 128 250 L 128 300 L 60 300 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <ellipse cx="94" cy="190" rx="34" ry="12" fill="#e0a458" fill-opacity="0.5" stroke="#2b3a42" stroke-width="3"/>
+  <text x="94" y="332" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">West Africa</text>
+  <text x="94" y="354" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">interlocking</text>
+  <text x="94" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">rhythms</text>
+
+  <!-- Panel 2: sitar + tabla -->
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Sitar &amp; Tabla</text>
+  <line x1="222" y1="150" x2="246" y2="285" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="250" cy="290" r="22" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <ellipse cx="206" cy="168" rx="20" ry="14" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="268" y1="296" x2="300" y2="296" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="300" y="284" width="36" height="24" rx="4" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="282" y="308" width="28" height="22" rx="4" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">India</text>
+  <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">raga and tala</text>
+
+  <!-- Panel 3: gamelan gongs -->
+  <text x="422" y="112" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Gamelan</text>
+  <line x1="386" y1="132" x2="458" y2="132" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="396" y1="132" x2="396" y2="200" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="448" y1="132" x2="448" y2="200" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="396" cy="216" r="24" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="396" cy="216" r="8" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="448" cy="232" r="30" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="448" cy="232" r="10" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="422" y="352" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Indonesia</text>
+  <text x="422" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">bronze gongs,</text>
+  <text x="422" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">slendro &amp; pelog</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Listen for instruments, scales, and rhythms — then ask a respectful question.</text>
+</svg>

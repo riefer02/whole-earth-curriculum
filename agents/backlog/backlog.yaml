@@ -3176,7 +3176,7 @@ items:
     type: lesson
     grade: 4
     domain: D07
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3187,7 +3187,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by accessibility-editor: L3 'Reading Rhythm Notation' lacks non-visual alternative for blind/low-vision to read/write symbols (unlike L4's tactile chime bars). Fix: add tactile notation (raised note cards / different-shaped objects for quarter/eighth/rest) or explicit aural echo path for the read/write-symbols objective. Everything else passes (grayscale-safe SVGs role/title/desc/alt, low-tech all 10, seated/clapper dance L6, non-vocal character L7, no eye-closing/wealth).."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (769). L3 fix confirmed (blind/low-vision tactile notation round stone=quarter, two linked stones=eighths, empty space=rest + clap-back aural echo); IDs L.04.007.01-.10 sequence/unit/grade correct, objectives resolve to real D07.Sx.04.xx (L3->D07.S2.04.01, L10 all 8); Procedure/Assessment/Connection present.
+      fact-checker:
+        verdict: passed
+        note: Changed L3 line is pedagogical adaptation consistent with notation (quarter/paired-eighths/rest, Kodaly ta/ti-ti); all citations registered reviewed:true (S-114 Met, S-115 Te Papa, S-116 NCCA + UNESCO/Smithsonian), no misattribution (NCCA=Tinikling, Te Papa=Maori, Met=broad frame). validate passes (769).
+      global-culture-editor:
+        verdict: passed
+        note: Changed L3 line is culturally neutral (stones universal low-tech material, Kodaly ta/ti-ti neutral pedagogy, no attribution/stereotype); cross-cultural framing intact (L5 West African/Indian/gamelan side by side 'none is better' anti-exotic; L6 tinikling living tradition with credit/occasion). validate passes.
+      accessibility-editor:
+        verdict: passed
+        note: "L3 barrier resolved (tactile notation round stone/linked stones/empty space + clap-back aural echo). Sweep: materials_low_tech all 10 (voice/body, sticks/stones, dirt, found objects); all 10 assets alt + SVG real-text scalable; blind (L1/3/4), Deaf (L3/4/5), fine motor (L1/8), mobility (L6/7), non-speaking (L2/7/9/10); no wealth/device/able-bodied requirement, enriched optional."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (respectful-vs-judging questions L2, guard against 'exotic'/sacred boundaries L2/5/9, 'not a costume/caricature' L6, characters never stereotypes of real people/accents/disabilities L7); egalitarianism (design serves many 'curb-cut effect' 'who is left out' L8, 'every body joins' rhythm role 'full not lesser' L6, non-competitive L10); global central (Akan adinkra, Maori kowhaiwhai/kete, Andean, West African drumming, Indian raga/tala, gamelan, tinikling, folklórico, céilí, Japanese lantern); tech/env (design cycle optional 3D tools L8, 'object is an answer to a place' L9). Evidence vs values (observe-vs-ask L2/5, skills self-check L3/4/7). Traceability: Vision->P3->D07->S1-S4->8 real standards->U.04.007->10 lessons; no cultural hierarchy ('none better' L5, 'not primitive/clever-for-them' L9, living tradition-bearers authoritative)."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (9-10, 3-5): cognitive concrete worked-example-first (depth 3 tangible tricks L1, ta/ti-ti/rest modeled-echo L3, staff hand-ladder L4, design loop real-user example L8); rich terms (raga/tala/slendro/pelog) at descriptive-listening depth matching 'describe' not 'explain'; spiral builds on G3. Emotional safety no forced solo (partner/small group, capstone shy option via partner or written label, 'never a contest or ranking'); character L7 boundary against imitating real people/accents/disabilities/stereotypes. Cross-cultural anti-exoticizing ('living heritage not museum pieces', 'none is better', bans weird/strange/primitive, sacred boundaries 'sometimes not to look', dance credited by name/occasion). Physical fine+big motor with seated/clapper/mobility 'every body joins full not lesser'."
   - id: B-319
     title: Author lessons for Unit U.04.008 (Healthy, Safe & Strong)
     agent: lesson-author
