@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Matching situations to complex feelings</title>
+  <desc id="desc">Three situation boxes on the left and three feeling labels on the right. The first situation shows a star prize with the text "A friend wins a prize" connected by a dotted line to the label "jealousy." The second shows a broken heart with "I broke a promise" connected to "guilt." The third shows a finished drawing with "I learned a new skill" connected to "pride." Dotted lines and labels, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Which Feeling Goes With Which Situation?</text>
+
+  <!-- Situation boxes -->
+  <g>
+    <rect x="24" y="108" width="220" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M60 150 l5 12 13 1 -10 8 3 13 -11 -7 -11 7 3 -13 -10 -8 13 -1 z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="98" y="152" font-family="sans-serif" font-size="19" fill="#222222">A friend</text>
+    <text x="98" y="176" font-family="sans-serif" font-size="19" fill="#222222">wins a prize</text>
+  </g>
+  <g>
+    <rect x="24" y="224" width="220" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M60 286 c-8 -11 -22 -3 -15 8 l15 15 15 -15 c7 -11 -7 -19 -15 -8 z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="64" y1="292" x2="52" y2="288" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="56" y1="294" x2="46" y2="300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="98" y="268" font-family="sans-serif" font-size="19" fill="#222222">I broke</text>
+    <text x="98" y="292" font-family="sans-serif" font-size="19" fill="#222222">a promise</text>
+  </g>
+  <g>
+    <rect x="24" y="340" width="220" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="48" y="372" width="40" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M52 386 l8 10 12 -16" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="98" y="384" font-family="sans-serif" font-size="19" fill="#222222">I learned</text>
+    <text x="98" y="408" font-family="sans-serif" font-size="19" fill="#222222">a new skill</text>
+  </g>
+
+  <!-- Feeling labels -->
+  <g>
+    <rect x="352" y="128" width="136" height="56" rx="28" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="162" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">jealousy</text>
+  </g>
+  <g>
+    <rect x="352" y="244" width="136" height="56" rx="28" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="278" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">guilt</text>
+  </g>
+  <g>
+    <rect x="352" y="360" width="136" height="56" rx="28" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="394" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">pride</text>
+  </g>
+
+  <!-- Dotted connector lines -->
+  <line x1="244" y1="156" x2="352" y2="156" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 6"/>
+  <line x1="244" y1="272" x2="352" y2="272" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 6"/>
+  <line x1="244" y1="388" x2="352" y2="388" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">Match each situation to its feeling.</text>
+</svg>

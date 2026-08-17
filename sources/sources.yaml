@@ -885,3 +885,22 @@ sources:
     domains: [D10]
     reviewed: true
     notes: "Cited in U.03.011 L07 (Runs Out or Comes Back) for the nonrenewable ('runs out') vs renewable ('comes back') resource distinction. URLs verified live (2026-08-17): the 'Renewable' page states 'Renewable energy is energy from sources that are naturally replenishing but flow-limited; renewable resources are virtually inexhaustible' and lists fossil fuels (coal, petroleum, natural gas) as the contrast; the companion 'Coal' page (https://www.eia.gov/kids/energy-sources/coal/) states 'Coal is classified as a nonrenewable energy source because it takes millions of years to form. Coal contains the energy stored by plants that lived hundreds of millions of years ago.' Directly supports the lesson's claims that coal/oil are made over millions of years and can be used up, while sunlight/wind/water keep coming back. Metal (a mineral resource) is grouped with these in the standard elementary 'nonrenewable' framing (mineral ores form over geological time and are not replenished in a human lifetime). US-centric source; treated as one authoritative, age-appropriate reference, not the only tradition."
+
+  - id: S-096
+    title: "Dweck — Mindset: The New Psychology of Success"
+    type: book
+    organization: Ballantine Books
+    year: 2006
+    domains: [D01]
+    reviewed: true
+    notes: "Real book (Carol Dweck, first published 2006 by Random House/Ballantine). Cited in U.04.001 L06 (The Map of My Growing Self) for the growth-mindset/'not yet' frame. Lesson correctly hedges the claim (effects are modest and not produced by praise alone), consistent with the research literature's replication cautions. No URL (print book)."
+
+  - id: S-097
+    title: "Duckworth, Gendler & Gross — Situational Strategies for Self-Control"
+    type: article
+    url: https://doi.org/10.1177/1745691615623247
+    organization: Perspectives on Psychological Science
+    year: 2016
+    domains: [D01]
+    reviewed: true
+    notes: "Real paper: Duckworth, A. L., Gendler, T. S., & Gross, J. J. (2016). Situational strategies for self-control. Perspectives on Psychological Science, 11(1), 35–55. Cited in U.04.001 L10 (Staying With It When It Is Hard or Tempting to Quit) for if-then planning/situational self-control strategies. Lesson correctly hedges the claim (willpower is not infinite; evidence for 'building' it like a muscle is mixed), matching the paper's situational-strategy framing."

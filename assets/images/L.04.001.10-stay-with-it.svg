@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Staying with it when it gets hard</title>
+  <desc id="desc">A figure climbs a hill toward a flag at the top. On the left a sign reads "quit?" On the right a thought bubble reads "breathe, break it small, keep going." Labels and shape, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Staying With It</text>
+
+  <!-- Hill -->
+  <path d="M40 420 Q150 220 256 190 Q362 220 472 420" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="40" y1="420" x2="472" y2="420" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Flag at top -->
+  <line x1="256" y1="190" x2="256" y2="96" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M256 96 L320 114 L256 132 z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Climbing figure -->
+  <g>
+    <circle cx="176" cy="300" r="24" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="168" cy="296" r="3" fill="#2b3a42"/>
+    <circle cx="184" cy="296" r="3" fill="#2b3a42"/>
+    <path d="M170 308 Q176 313 182 308" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M158 354 Q176 320 196 352" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="158" y1="352" x2="146" y2="398" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="196" y1="352" x2="206" y2="396" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="196" y1="344" x2="214" y2="360" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Quit sign (left) -->
+  <line x1="92" y1="360" x2="92" y2="300" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <rect x="54" y="266" width="76" height="34" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="289" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">quit?</text>
+
+  <!-- Thought bubble (right) -->
+  <g>
+    <ellipse cx="344" cy="228" rx="86" ry="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="344" y="212" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">breathe</text>
+    <text x="344" y="234" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">break it small</text>
+    <text x="344" y="256" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">keep going</text>
+    <circle cx="300" cy="288" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="290" cy="300" r="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">I can stay with it when it gets hard.</text>
+</svg>

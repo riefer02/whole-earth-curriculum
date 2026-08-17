@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three complex feelings: jealousy, guilt, pride</title>
+  <desc id="desc">Three labeled cards in a row. The first, "jealousy," shows a face with down-turned brows looking sideways at a star someone else holds, with the caption "I want what someone else has." The second, "guilt," shows a face with a frown and a heavy heart below, captioned "I wish I hadn't done that." The third, "pride," shows a face with a soft smile and a sparkle above, captioned "I did something hard." Shape and labels, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Three Complex Feelings</text>
+
+  <!-- Card 1: jealousy -->
+  <g>
+    <rect x="20" y="90" width="144" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="92" y="126" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#222222">jealousy</text>
+    <circle cx="76" cy="196" r="30" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="66" cy="188" r="3.5" fill="#2b3a42"/>
+    <circle cx="86" cy="188" r="3.5" fill="#2b3a42"/>
+    <path d="M62 182 L70 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M82 186 L90 182" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M66 208 Q76 202 86 208" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- star someone else holds -->
+    <path d="M120 180 l5 12 13 1 -10 8 3 13 -11 -7 -11 7 3 -13 -10 -8 13 -1 z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="92" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">I want what</text>
+    <text x="92" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">someone else has.</text>
+  </g>
+
+  <!-- Card 2: guilt -->
+  <g>
+    <rect x="184" y="90" width="144" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#222222">guilt</text>
+    <circle cx="240" cy="196" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="230" cy="188" r="3.5" fill="#2b3a42"/>
+    <circle cx="250" cy="188" r="3.5" fill="#2b3a42"/>
+    <path d="M226 186 L234 182" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M246 182 L254 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M228 210 Q240 200 252 210" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- heavy heart below -->
+    <path d="M240 254 c-6 -8 -18 -2 -12 7 l12 12 12 -12 c6 -9 -6 -15 -12 -7 z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">I wish I hadn't</text>
+    <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">done that.</text>
+  </g>
+
+  <!-- Card 3: pride -->
+  <g>
+    <rect x="348" y="90" width="144" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="126" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#222222">pride</text>
+    <circle cx="404" cy="196" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="394" cy="188" r="3.5" fill="#2b3a42"/>
+    <circle cx="414" cy="188" r="3.5" fill="#2b3a42"/>
+    <path d="M390 184 Q394 180 398 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M410 184 Q414 180 418 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M392 208 Q404 220 416 208" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- sparkle above -->
+    <path d="M404 150 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="420" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">I did something</text>
+    <text x="420" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">hard.</text>
+  </g>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">Complex feelings point to what I care about.</text>
+</svg>

@@ -2954,7 +2954,7 @@ items:
     type: lesson
     grade: 4
     domain: D01
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -2966,6 +2966,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (698 files). IDs L.04.001.01-.10 sequence_in_unit 1-10, grade 4, unit U.04.001; objectives resolve only to real grade-4 D01 standards (S1.04.01/.02, S2.04.01/.02, S3.04.01/.02); Procedure/Assessment/Connection present all 10; unit.md Lessons table lists all 10. Connection concrete (L3 jealousy/guilt/pride 'signals that tell what matters to you', L10 breathe/break-it-small/if-then self-control).
+      fact-checker:
+        verdict: passed
+        note: "Sources: CASEL S-001 (all 10), Bloom S-007 (L9 mastery/feedback), Dweck 2006 Mindset (L6, hedged 'modest effects not praise alone'), Duckworth/Gendler/Gross 2016 (L10, hedged 'willpower not infinite'). Interoception/complex-feelings/self-control claims accurate + value-framed; evidence-vs-values clean. Registered Dweck as S-096 and Duckworth et al. as S-097 in sources registry. validate passes (698)."
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro default; Connections open multi-region (mountain village/river, child by sea, city/village/desert/mountaintop, market/rice field/harbor, goat-herding/swimming, desert well/port-city, fisher blessing boats). Tradition lessons L7/8 hold cultures side by side with explicit no-ranking/no-exoticizing ('do not treat as exotic', 'no tradition bigger'), gentle handling of loss/migration traditions. Unnamed characters, globally varied non-decorative settings.
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier all 10 (sand/ground/stones/body/voice, no devices core path); SVG a11y role=img+title+desc+non-empty alt all 10; intensity verbal 'a little/some/a lot'+body signals not color-dependent (grayscale-safe); blind/Deaf/non-speaking/motor paths (point/stand/arrange, scribing, draw-or-write-or-tell); eye-closing and body-scan explicitly optional, breathe is 1 of 3 strategies; no wealth assumption (enriched optional). No barriers.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses verified: ethics (complex feelings as signals not verdicts L3/4, guilt->make right, pride->celebrate 'without putting anyone down', never label the person); egalitarianism (anti-ranking 'no petal better', 'no tradition bigger', 'not a boast/competition'); global (mountain village/rice field/harbor/fisher blessing/desert town, non-exotic); tech/env light as expected (L10 screen-distraction honest neither worship nor fear). Evidence vs values: CASEL/Dweck/Bloom/Duckworth cited with honest caveats. Traceability: Vision->P1->D01->S1/S2/S3->U.04.001->L.04.001.01-.10; all 6 objectives resolve to real standards; no hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (9-10, 3-5): cognitive anchors concrete (feeling thermometer, body-signal chart, three-petal flower, self-map, concentric circles, plan-try-adjust loop, climb-hill chart); complex feelings mapped to 'signal->what it points to' (jealousy->want, guilt->did, pride->worked-for) matching concrete-operational reasoning. Emotional safety: jealousy/guilt/pride/self-control reframed as 'signals not verdicts', non-shaming ('talk about the feeling not the person', guilt->make it right, 'not yet' not 'bad at', willpower finite); traditions held gently (no ranking/exoticizing, loss/migration accommodated). Physical: body-scan optional/eyes-open allowed. Inquiry over creed; evidence vs values with caveated sources; spiral builds on Grade 3."
   - id: B-313
     title: Author lessons for Unit U.04.002 (My Body at Work & at Rest)
     agent: lesson-author

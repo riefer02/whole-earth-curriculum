@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Body signals at three feeling strengths</title>
+  <desc id="desc">Three simple person figures side by side, each labeled with a feeling strength. The "a little" figure shows a small spiral flutter near the stomach. The "some" figure, who wears a hearing aid, shows a heart at the chest and motion lines for a faster heartbeat. The "a lot" figure shows zigzag shaking lines at the shoulders and hands. Labels and shape, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">What Each Level Feels Like</text>
+
+  <!-- Figure 1: a little -->
+  <g>
+    <circle cx="100" cy="150" r="30" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="90" cy="144" r="3.5" fill="#2b3a42"/>
+    <circle cx="110" cy="144" r="3.5" fill="#2b3a42"/>
+    <path d="M94 160 Q100 166 106 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M70 250 Q100 200 130 250" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="70" y1="250" x2="58" y2="330" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="130" y1="250" x2="142" y2="330" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- small flutter at stomach -->
+    <path d="M92 224 q6 -8 12 0 q6 8 12 0" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="100" y="366" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">a little</text>
+    <text x="100" y="392" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">flutter</text>
+  </g>
+
+  <!-- Figure 2: some (with hearing aid) -->
+  <g>
+    <circle cx="256" cy="150" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- hearing aid -->
+    <path d="M280 144 A8 8 0 0 1 295 144" fill="none" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <path d="M287 145 L292 152" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="292" cy="152" r="2.6" fill="#e0a458"/>
+    <circle cx="246" cy="144" r="3.5" fill="#2b3a42"/>
+    <circle cx="266" cy="144" r="3.5" fill="#2b3a42"/>
+    <path d="M250 160 Q256 166 262 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M226 250 Q256 200 286 250" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="226" y1="250" x2="214" y2="330" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="286" y1="250" x2="298" y2="330" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- heart at chest + motion lines -->
+    <path d="M256 228 c-6 -8 -18 -2 -12 7 l12 12 12 -12 c6 -9 -6 -15 -12 -7 z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="236" y1="222" x2="230" y2="216" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="276" y1="222" x2="282" y2="216" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">some</text>
+    <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">warm, faster</text>
+  </g>
+
+  <!-- Figure 3: a lot -->
+  <g>
+    <circle cx="412" cy="150" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="402" cy="144" r="3.5" fill="#2b3a42"/>
+    <circle cx="422" cy="144" r="3.5" fill="#2b3a42"/>
+    <path d="M406 162 L418 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M382 250 Q412 200 442 250" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="382" y1="250" x2="370" y2="330" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="442" y1="250" x2="454" y2="330" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- shaking shoulders and hands -->
+    <path d="M384 218 l8 -6 -8 6 8 6" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M428 218 l8 -6 -8 6 8 6" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M366 330 l8 -6 -8 6 8 6" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M450 330 l8 -6 -8 6 8 6" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="412" y="366" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">a lot</text>
+    <text x="412" y="392" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">hot, tight, shaky</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">My body tells me how strong my feeling is.</text>
+</svg>

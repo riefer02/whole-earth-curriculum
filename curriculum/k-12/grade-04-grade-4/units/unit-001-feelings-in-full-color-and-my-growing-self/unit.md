@@ -57,3 +57,13 @@ to quit. Every family's shape and every child's pace are honored.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.04.001.01 | Feelings Have Strength | D01.S1.04.01 |
+| L.04.001.02 | What Each Level Feels Like in My Body | D01.S1.04.01 |
+| L.04.001.03 | Three Big-Grown Feelings: Jealousy, Guilt, and Pride | D01.S1.04.02 |
+| L.04.001.04 | Complex Feelings in Real Situations | D01.S1.04.02 |
+| L.04.001.05 | My Interests, Abilities, and Experiences Make Me, Me | D01.S2.04.01 |
+| L.04.001.06 | The Map of My Growing Self | D01.S2.04.01 |
+| L.04.001.07 | A Family or Cultural Tradition of Mine | D01.S2.04.02 |
+| L.04.001.08 | My Tradition Connects Me to a Larger Community | D01.S2.04.02 |
+| L.04.001.09 | Plan the Steps, Try It, and Adjust | D01.S3.04.01 |
+| L.04.001.10 | Staying With It When It Is Hard or Tempting to Quit | D01.S3.04.02 (capstone: revisits D01.S1.04.01, D01.S2.04.01) |

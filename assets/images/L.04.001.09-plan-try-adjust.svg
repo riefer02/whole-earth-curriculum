@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The plan, try, check, adjust loop</title>
+  <desc id="desc">A circular loop with four stops connected by arrows — plan, try, check, and adjust — with the arrow from adjust looping back to try. Beside it, three step boxes numbered 1, 2, 3 sit under a flag labeled "my goal." A caption reads "If a step does not work, adjust it and try again."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Plan, Try, Check, Adjust</text>
+
+  <!-- Loop circle -->
+  <circle cx="150" cy="262" r="92" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+  <!-- Stop labels -->
+  <g>
+    <circle cx="150" cy="170" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="177" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#ffffff">plan</text>
+  </g>
+  <g>
+    <circle cx="242" cy="262" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="242" y="269" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#ffffff">try</text>
+  </g>
+  <g>
+    <circle cx="150" cy="354" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="361" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">check</text>
+  </g>
+  <g>
+    <circle cx="58" cy="262" r="30" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+    <text x="58" y="269" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">adjust</text>
+  </g>
+
+  <!-- Arrows between stops (clockwise) -->
+  <path d="M178 184 Q215 210 224 232" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M231 228 L240 240 L224 240" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M224 292 Q215 314 178 340" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M175 356 L184 346 L168 346" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M122 354 Q92 340 86 314" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 306 L80 296 L64 296" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M86 210 Q92 184 122 170" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M126 156 L118 166 L134 166" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Flag and goal -->
+  <line x1="392" y1="196" x2="392" y2="120" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M392 120 L452 136 L392 152 z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="392" y="216" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">my goal</text>
+
+  <!-- Step boxes -->
+  <g>
+    <rect x="330" y="240" width="126" height="46" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="352" y="268" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">1</text>
+    <text x="376" y="268" font-family="sans-serif" font-size="18" fill="#222222">first step</text>
+  </g>
+  <g>
+    <rect x="330" y="300" width="126" height="46" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="352" y="328" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">2</text>
+    <text x="376" y="328" font-family="sans-serif" font-size="18" fill="#222222">next step</text>
+  </g>
+  <g>
+    <rect x="330" y="360" width="126" height="46" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="352" y="388" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">3</text>
+    <text x="376" y="388" font-family="sans-serif" font-size="18" fill="#222222">last step</text>
+  </g>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">If a step does not work, adjust it and try again.</text>
+</svg>
