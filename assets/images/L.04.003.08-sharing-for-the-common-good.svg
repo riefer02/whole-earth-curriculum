@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sharing for the common good</title>
+  <desc id="desc">Two scenes compared side by side. On the left, cups are handed out so every child has one, labeled "sharing for the common good — everyone has enough". On the right, one child grabs a large pile while another is left with none, labeled "more than my share — someone is left out". The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Sharing for the Common Good</text>
+
+  <!-- Left scene: fair share -->
+  <rect x="30" y="90" width="216" height="240" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="138" y="116" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">sharing for the common good</text>
+  <!-- three children each with a cup -->
+  <g>
+    <circle cx="80" cy="180" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="74" cy="176" r="2" fill="#2b3a42"/><circle cx="86" cy="176" r="2" fill="#2b3a42"/>
+    <path d="M74 184 Q80 189 86 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="70" y="204" width="20" height="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <g>
+    <circle cx="138" cy="170" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="132" cy="166" r="2" fill="#2b3a42"/><circle cx="144" cy="166" r="2" fill="#2b3a42"/>
+    <path d="M132 174 Q138 179 144 174" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="128" y="194" width="20" height="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <g>
+    <circle cx="196" cy="180" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="190" cy="176" r="2" fill="#2b3a42"/><circle cx="202" cy="176" r="2" fill="#2b3a42"/>
+    <path d="M190 184 Q196 189 202 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="186" y="204" width="20" height="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <rect x="54" y="268" width="168" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="138" y="293" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">everyone has enough</text>
+
+  <!-- Right scene: more than my share -->
+  <rect x="266" y="90" width="216" height="240" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="374" y="116" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">more than my share</text>
+  <!-- child grabbing big pile -->
+  <g>
+    <circle cx="334" cy="170" r="22" fill="#6b4f3a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="328" cy="166" r="2" fill="#2b3a42"/><circle cx="340" cy="166" r="2" fill="#2b3a42"/>
+    <path d="M328 174 Q334 179 340 174" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="334" cy="200" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- child left out -->
+  <g>
+    <circle cx="418" cy="190" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="412" cy="186" r="2" fill="#2b3a42"/><circle cx="424" cy="186" r="2" fill="#2b3a42"/>
+    <path d="M412 200 Q418 205 424 200" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <rect x="290" y="268" width="168" height="40" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="374" y="293" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">someone is left out</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Fair share is enough for all — not more for me.</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ask: does everyone have enough, or is someone left out?</text>
+</svg>

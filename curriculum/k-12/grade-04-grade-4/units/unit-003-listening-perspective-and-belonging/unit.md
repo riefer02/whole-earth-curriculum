@@ -60,3 +60,13 @@ the common good and taking more than one's share.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.04.003.01 | Listen and Say It Back | D02.S1.04.01 |
+| L.04.003.02 | Negotiating a Fair Fix | D02.S1.04.02 |
+| L.04.003.03 | Clues to Feelings | D02.S2.04.01 |
+| L.04.003.04 | Two Views, One Event | D02.S2.04.02 |
+| L.04.003.05 | My Role in My Community | D02.S3.04.01 |
+| L.04.003.06 | Welcoming Newcomers | D02.S3.04.02 |
+| L.04.003.07 | A Small Act of Care | D02.S4.04.01 |
+| L.04.003.08 | Sharing for the Common Good | D02.S4.04.02 |
+| L.04.003.09 | Listen and Fair Fix, Rehearsal | D02.S1.04.01, D02.S1.04.02 |
+| L.04.003.10 | Listening, Perspective & Belonging | D02.S1.04.01, D02.S1.04.02, D02.S2.04.01, D02.S2.04.02, D02.S3.04.01, D02.S3.04.02, D02.S4.04.01, D02.S4.04.02 |

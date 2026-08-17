@@ -3028,7 +3028,7 @@ items:
     type: lesson
     grade: 4
     domain: D02
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3040,6 +3040,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (718). IDs L.04.003.01-.10 sequence_in_unit 1-10, grade 4, unit U.04.003; objectives resolve only to real grade-4 D02 standards (all 8: S1.04.01/.02, S2.04.01/.02, S3.04.01/.02, S4.04.01/.02); headings present all 10; 10 SVGs resolve; unit.md Lessons table aligns. Connection concrete (L10 'care is not one big heroic act... eight small real skills', L6 global welcome customs shared meal/bow/handshake/cup of tea)."
+      fact-checker:
+        verdict: passed
+        note: "Active listening/paraphrase + negotiation = CASEL relationship skills & responsible decision-making (S-001, live); emotion-inference/perspective = social awareness, hedged as 'clues never a guarantee, feelings private'; belonging/common good/acts of care framed as values; Kirschner/Sweller/Clark S-011 correctly used for worked-example-before-practice. Both citations registered reviewed:true; no fabricated citations. Non-blocking: L9 cross-ref to docs/contexts.md re retrieval/spacing should point to S-039."
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro default; examples span fishing villages/market stalls/apartment buildings/village paths/shared wells/farmers; sole named character Amara regionally neutral; welcome customs (bow/handshake/wave/cup of tea/shared meal) generic + respectful, held side by side 'none is the right one'; L3 honors cross-cultural emotional expression variation ('some faces quieter, some voices louder'). Every Connection spans 2-3 ways of life.
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier all 10 (voices/bodies + stones/leaves/sticks, enriched optional); SVG role=img+title+desc+non-empty alt all 10 grayscale-safe; non-speaking paths for paraphrase/speak/negotiate (point to starters/cards, sign, write, draw); Deaf honored ('a learner who signs is doing active listening fully', written paraphrase variant); motor (lighter but no less vital role L5, plan/count/fetch/hold L7); no mandatory eye-closing/physical-only; UDL multiple means throughout.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (fairness/common good 'enough for all vs some left with none' L8, care not for praise L7); egalitarianism (every voice/sign/gesture counts L1, 'no role more important' L5, 'two views can both be true' L4, taking more = leaving someone out L8); global (fishing village/market/harvest/well, welcome customs 'none right' L6); tech/env light (camera/tablet 'cannot replace seat offered or name spoken', nature as beneficiary of care). Evidence vs values (CASEL + Kirschner cited, 'guess about feelings is a question not a fact'). Traceability: Vision->P1->D02->S1-S4->standards->U.04.003->L.04.003.01-.10; all 8 objectives resolve to real grade-04 standards; no hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (8-11, 3-5): cognitive anchored concrete (paraphrase starters, scenario/stone trays, clue charts, two-views charts, fair-share tray); perspective-taking classic level-2 Piagetian matched to beginning perspective-taking; fairness dilemmas on-band (negotiation/common good = 'rules reasons fairness dilemmas', 'fair != identical piles' as hands-on discovery); emotional safety small friendly scenarios (last swing/crayons/lost cat), 'taking more' framed as choice never shamed child, 'clues are a guess not a verdict'; inquiry-over-creed ('Did I get it right?', two views both true); spiral builds on G2/3 prerequisites; 'minimal adult help' balances independence with adult safety."
   - id: B-315
     title: Author lessons for Unit U.04.004 (Reading, Writing & Many Languages)
     agent: lesson-author

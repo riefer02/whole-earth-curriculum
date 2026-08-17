@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Negotiating a fair fix</title>
+  <desc id="desc">Two children sit across a small table working out a disagreement. Between them a balance scale has two level pans labeled "what I need" and "what you need". Speech bubbles read "Let's find a fix we both like" and "Both of us win something". A caption lists the steps "name it, needs, options, choose, check". The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Negotiating a Fair Fix</text>
+
+  <!-- Table -->
+  <rect x="156" y="250" width="200" height="16" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M180 266 L180 330 M332 266 L332 330" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Left child -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#f5d6b6">
+    <circle cx="110" cy="200" r="28"/>
+  </g>
+  <g fill="#2b3a42">
+    <circle cx="101" cy="196" r="2.5"/><circle cx="119" cy="196" r="2.5"/>
+  </g>
+  <path d="M101 208 Q110 214 119 208" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M110 228 L110 250" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Right child (with a hearing aid detail) -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#8f5f3d">
+    <circle cx="402" cy="200" r="28"/>
+  </g>
+  <g fill="#2b3a42">
+    <circle cx="393" cy="196" r="2.5"/><circle cx="411" cy="196" r="2.5"/>
+  </g>
+  <path d="M393 208 Q402 214 411 208" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M402 228 L402 250" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="412" cy="184" r="5" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- Balance scale -->
+  <path d="M256 170 L256 250" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M216 172 L296 172" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M216 172 L206 208 M296 172 L306 208" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M196 208 Q206 196 216 208 Z" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M296 208 Q306 196 316 208 Z" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="206" y="204" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">I need</text>
+  <text x="306" y="204" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">you need</text>
+
+  <!-- Speech bubbles -->
+  <rect x="60" y="90" width="150" height="52" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="135" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"Let's find a fix</text>
+  <text x="135" y="127" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">we both like."</text>
+  <rect x="302" y="90" width="150" height="52" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="377" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"Both of us win</text>
+  <text x="377" y="127" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">something."</text>
+
+  <!-- Steps caption -->
+  <rect x="106" y="352" width="300" height="44" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">name it · needs · options · choose · check</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">A fair fix gives both sides something.</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Fair is not one person winning — it is nobody left out.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Clues to feelings</title>
+  <desc id="desc">A clue detective chart. Three labeled cards — "what happened", "face and body", and "voice and words" — point along an arrow to a feeling card reading "so they might feel… because…". A magnifier labeled "clues" sits above. The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Clues to Feelings</text>
+
+  <!-- Magnifier -->
+  <circle cx="256" cy="110" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M280 134 L310 164" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <text x="256" y="116" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">clues</text>
+
+  <!-- Three clue cards -->
+  <rect x="40" y="200" width="130" height="72" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="105" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">what happened</text>
+  <text x="105" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the event</text>
+
+  <rect x="191" y="200" width="130" height="72" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">face and body</text>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what you see</text>
+
+  <rect x="342" y="200" width="130" height="72" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="407" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">voice and words</text>
+  <text x="407" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what you hear</text>
+
+  <!-- Arrows from cards to feeling -->
+  <g stroke="#7a9e7e" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M105 272 L105 318 L226 330"/>
+    <path d="M256 272 L256 340"/>
+    <path d="M407 272 L407 318 L286 330"/>
+  </g>
+
+  <!-- Feeling card -->
+  <rect x="126" y="336" width="260" height="56" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">so they might feel… because…</text>
+  <text x="256" y="381" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">a guess to check, not a fact</text>
+
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Read the clues, then check your guess.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Feelings belong to the person — "Did I read that right?"</text>
+</svg>

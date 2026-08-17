@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My role in my community</title>
+  <desc id="desc">A community scene with four labeled role badges — "water the plants", "read to a younger friend", "tidy the books", and "help carry" — each held by a different child, with the words "a role for me" beneath. The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Role in My Community</text>
+
+  <!-- Four children, each with a role badge -->
+  <g>
+    <circle cx="106" cy="170" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="98" cy="166" r="2.5" fill="#2b3a42"/><circle cx="114" cy="166" r="2.5" fill="#2b3a42"/>
+    <path d="M98 176 Q106 182 114 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M106 196 L106 226" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="46" y="228" width="120" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="106" y="253" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">water the plants</text>
+  </g>
+
+  <g>
+    <circle cx="256" cy="150" r="26" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="248" cy="146" r="2.5" fill="#2b3a42"/><circle cx="264" cy="146" r="2.5" fill="#2b3a42"/>
+    <path d="M248 156 Q256 162 264 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 176 L256 206" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="196" y="208" width="120" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="233" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">read to a younger friend</text>
+  </g>
+
+  <g>
+    <circle cx="406" cy="170" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="398" cy="166" r="2.5" fill="#2b3a42"/><circle cx="414" cy="166" r="2.5" fill="#2b3a42"/>
+    <path d="M398 176 Q406 182 414 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M406 196 L406 226" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="346" y="228" width="120" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="406" y="253" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">tidy the books</text>
+  </g>
+
+  <g>
+    <circle cx="256" cy="300" r="26" fill="#6b4f3a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="248" cy="296" r="2.5" fill="#2b3a42"/><circle cx="264" cy="296" r="2.5" fill="#2b3a42"/>
+    <path d="M248 306 Q256 312 264 306" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 326 L256 352" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="196" y="354" width="120" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="379" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">help carry</text>
+  </g>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">A role for me — a need plus a strength.</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Many small roles carry a whole community.</text>
+</svg>

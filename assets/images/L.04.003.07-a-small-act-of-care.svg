@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A small act of care</title>
+  <desc id="desc">A planner page for a small act of care. A shared space is being cared for — one child sweeps, one waters a plant, one helps a neighbor carry — with the labels "what we care for", "why it matters", and "the steps". The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A Small Act of Care</text>
+
+  <!-- Sweeping child -->
+  <g>
+    <circle cx="110" cy="150" r="24" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="103" cy="146" r="2.5" fill="#2b3a42"/><circle cx="117" cy="146" r="2.5" fill="#2b3a42"/>
+    <path d="M103 156 Q110 162 117 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M110 174 L110 200" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M110 200 L84 236" stroke="#4f6d7a" stroke-width="3"/>
+    <rect x="76" y="234" width="20" height="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="100" y="268" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">sweep</text>
+
+  <!-- Watering child -->
+  <g>
+    <circle cx="256" cy="140" r="24" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="249" cy="136" r="2.5" fill="#2b3a42"/><circle cx="263" cy="136" r="2.5" fill="#2b3a42"/>
+    <path d="M249 146 Q256 152 263 146" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 164 L256 192" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 164 L286 158" stroke="#6b93b6" stroke-width="3"/>
+    <path d="M286 158 L286 170" stroke="#6b93b6" stroke-width="2"/>
+  </g>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">water</text>
+
+  <!-- Helping carry child -->
+  <g>
+    <circle cx="402" cy="150" r="24" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="395" cy="146" r="2.5" fill="#2b3a42"/><circle cx="409" cy="146" r="2.5" fill="#2b3a42"/>
+    <path d="M395 156 Q402 162 409 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M402 174 L402 200" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M402 200 L392 230" stroke="#4f6d7a" stroke-width="3"/>
+    <path d="M402 200 L412 230" stroke="#4f6d7a" stroke-width="3"/>
+  </g>
+  <text x="402" y="268" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">help carry</text>
+
+  <!-- Planner labels -->
+  <rect x="56" y="300" width="180" height="44" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="146" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">what we care for</text>
+  <text x="146" y="335" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a shared space or a neighbor</text>
+
+  <rect x="256" y="300" width="180" height="44" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="346" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">why it matters</text>
+  <text x="346" y="335" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">who does it help?</text>
+
+  <rect x="156" y="356" width="200" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the steps · who · what we need</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Plan it, do it, notice the change.</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Small acts, done by many, care for the whole world.</text>
+</svg>

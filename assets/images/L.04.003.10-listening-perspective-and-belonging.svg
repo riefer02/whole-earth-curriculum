@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Listening, perspective, and belonging</title>
+  <desc id="desc">A celebration collage of eight labeled frames — say it back, negotiate a fair fix, clues to feelings, two views one event, my role, welcoming newcomers, a small act of care, and sharing for the common good — gathered around three big words in the center — listening, perspective, belonging. The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Listening, Perspective &amp; Belonging</text>
+
+  <!-- Eight frames in two rows of four -->
+  <g font-family="sans-serif" font-size="11" fill="#222222" text-anchor="middle">
+    <rect x="30" y="70" width="106" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="83" y="96">say it back</text>
+    <text x="83" y="112" fill="#4f6d7a">listen &amp; check</text>
+
+    <rect x="146" y="70" width="106" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="199" y="96">negotiate</text>
+    <text x="199" y="112" fill="#4f6d7a">a fair fix</text>
+
+    <rect x="262" y="70" width="106" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="315" y="96">clues to</text>
+    <text x="315" y="112" fill="#4f6d7a">feelings</text>
+
+    <rect x="378" y="70" width="106" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="431" y="96">two views,</text>
+    <text x="431" y="112" fill="#4f6d7a">one event</text>
+
+    <rect x="30" y="380" width="106" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="83" y="406">my role</text>
+    <text x="83" y="422" fill="#4f6d7a">in community</text>
+
+    <rect x="146" y="380" width="106" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="199" y="406">welcome</text>
+    <text x="199" y="422" fill="#4f6d7a">newcomers</text>
+
+    <rect x="262" y="380" width="106" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="315" y="406">a small</text>
+    <text x="315" y="422" fill="#4f6d7a">act of care</text>
+
+    <rect x="378" y="380" width="106" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="431" y="406">share for the</text>
+    <text x="431" y="422" fill="#4f6d7a">common good</text>
+  </g>
+
+  <!-- Center circle with three big words -->
+  <circle cx="256" cy="248" r="92" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="232" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">listening</text>
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">perspective</text>
+  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">belonging</text>
+
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Eight skills, one caring community.</text>
+</svg>
