@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading my body's signals — a body-signal map</title>
+  <desc id="desc">A full-body outline with four labeled signal spots and a response box beside each. A rumbling tummy is labeled hunger and fullness with the response eat and stop. A dry mouth is labeled thirst with the response drink water. Heavy eyelids are labeled tiredness with the response rest. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Body-Signal Map</text>
+
+  <!-- ===== Body outline ===== -->
+  <g>
+    <!-- head -->
+    <circle cx="180" cy="110" r="40" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <!-- heavy eyelids -->
+    <ellipse cx="168" cy="108" rx="7" ry="4.5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="168" cy="109" r="2.5" fill="#2b3a42"/>
+    <ellipse cx="192" cy="108" rx="7" ry="4.5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="192" cy="109" r="2.5" fill="#2b3a42"/>
+    <line x1="160" y1="104" x2="176" y2="106" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="184" y1="106" x2="200" y2="104" stroke="#2b3a42" stroke-width="2"/>
+    <!-- dry mouth -->
+    <path d="M166 122 Q180 130 194 122" fill="none" stroke="#2b3a42" stroke-width="2.2" stroke-linecap="round"/>
+    <!-- torso -->
+    <path d="M156 150 Q180 162 204 150 L210 260 Q180 276 150 260 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- arms -->
+    <path d="M156 158 Q132 180 124 216" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M204 158 Q228 180 236 216" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- legs -->
+    <path d="M166 272 L158 360" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M194 272 L202 360" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- rumbling tummy (hunger/fullness) -->
+    <ellipse cx="180" cy="216" rx="26" ry="20" fill="#e0a458" opacity="0.55" stroke="#e0a458" stroke-width="2"/>
+    <path d="M170 214 Q174 206 180 214 Q186 222 190 214" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="180" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">tummy</text>
+  </g>
+
+  <!-- ===== Connector lines to response boxes ===== -->
+  <line x1="210" y1="112" x2="286" y2="96" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 4"/>
+  <line x1="204" y1="126" x2="286" y2="160" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 4"/>
+  <line x1="210" y1="216" x2="286" y2="300" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- ===== Response boxes ===== -->
+  <g font-family="sans-serif">
+    <!-- tiredness -->
+    <rect x="286" y="64" width="200" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="296" y="84" font-size="14" font-weight="bold" fill="#2b3a42">tiredness</text>
+    <text x="296" y="104" font-size="13" fill="#4f6d7a">heavy eyelids, slow body</text>
+    <text x="296" y="120" font-size="13" font-weight="bold" fill="#222222">&#8594; rest</text>
+
+    <!-- thirst -->
+    <rect x="286" y="132" width="200" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="296" y="152" font-size="14" font-weight="bold" fill="#2b3a42">thirst</text>
+    <text x="296" y="172" font-size="13" fill="#4f6d7a">dry mouth, dry lips</text>
+    <text x="296" y="188" font-size="13" font-weight="bold" fill="#222222">&#8594; drink water</text>
+
+    <!-- hunger + fullness -->
+    <rect x="286" y="268" width="200" height="76" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="296" y="288" font-size="14" font-weight="bold" fill="#2b3a42">hunger + fullness</text>
+    <text x="296" y="308" font-size="13" fill="#4f6d7a">rumbling empty tummy</text>
+    <text x="296" y="324" font-size="13" font-weight="bold" fill="#222222">&#8594; eat / stop</text>
+  </g>
+
+  <!-- legend -->
+  <g font-family="sans-serif" font-size="13" fill="#4f6d7a">
+    <text x="180" y="390" text-anchor="middle">Four signals, four kind answers.</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Your body talks — this map helps you listen.</text>
+</svg>

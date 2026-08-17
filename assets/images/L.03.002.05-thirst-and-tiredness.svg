@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Thirst and tiredness signals</title>
+  <desc id="desc">Two body diagrams. On the left, a body with a dry mouth and tongue labeled thirst, with an arrow to the response drink water. On the right, a body with heavy eyelids and a yawn labeled tiredness, with an arrow to the response rest. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Thirst and Tiredness</text>
+
+  <!-- ===== Left body: thirst ===== -->
+  <g>
+    <text x="128" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Thirst</text>
+    <!-- head -->
+    <circle cx="128" cy="150" r="34" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M108 136 A34 34 0 0 1 148 136 L148 126 Q128 110 108 126 Z" fill="#2b3a42"/>
+    <!-- eyes -->
+    <ellipse cx="118" cy="150" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="118" cy="150" r="2" fill="#2b3a42"/>
+    <ellipse cx="138" cy="150" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="138" cy="150" r="2" fill="#2b3a42"/>
+    <!-- dry mouth, tongue out -->
+    <path d="M116 166 Q128 176 140 166" fill="none" stroke="#2b3a42" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M120 170 Q128 184 136 170 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.8" stroke-linejoin="round"/>
+    <!-- dry crack lines -->
+    <path d="M126 162 Q128 158 130 162" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+    <!-- torso -->
+    <path d="M110 182 Q128 192 146 182 L150 250 Q128 262 106 250 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- water drop -->
+    <path d="M128 214 Q122 226 128 236 Q134 226 128 214 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.8"/>
+    <text x="128" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">dry mouth, dry lips</text>
+    <!-- arrow to response -->
+    <line x1="128" y1="300" x2="128" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown)"/>
+    <rect x="48" y="336" width="160" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="128" y="361" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">drink water</text>
+  </g>
+
+  <!-- ===== Right body: tiredness ===== -->
+  <g>
+    <text x="384" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Tiredness</text>
+    <!-- head -->
+    <circle cx="384" cy="150" r="34" fill="#e6c8a0" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M364 136 A34 34 0 0 1 404 136 L404 126 Q384 110 364 126 Z" fill="#2b3a42"/>
+    <!-- heavy eyelids (half closed) -->
+    <ellipse cx="374" cy="150" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="374" cy="151" r="2" fill="#2b3a42"/>
+    <ellipse cx="394" cy="150" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="394" cy="151" r="2" fill="#2b3a42"/>
+    <line x1="368" y1="146" x2="380" y2="148" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="388" y1="148" x2="400" y2="146" stroke="#2b3a42" stroke-width="2"/>
+    <!-- yawning mouth -->
+    <ellipse cx="384" cy="166" rx="10" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="384" y="171" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#222222">yawn</text>
+    <!-- torso -->
+    <path d="M366 182 Q384 192 402 182 L406 250 Q384 262 362 250 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Zzz -->
+    <text x="412" y="210" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="424" y="198" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="434" y="188" font-family="sans-serif" font-size="11" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="384" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">heavy eyelids, slow body</text>
+    <!-- arrow to response -->
+    <line x1="384" y1="300" x2="384" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown)"/>
+    <rect x="304" y="336" width="160" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="384" y="361" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">rest or sleep</text>
+  </g>
+
+  <defs>
+    <marker id="arrDown" markerWidth="10" markerHeight="10" refX="3" refY="8" orient="auto">
+      <path d="M0 0 L6 0 L3 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Thirst says drink water, and tiredness says rest.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Rest is a need, never a reward to be earned.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Notice the signal, and answer it kindly.</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Hunger and fullness signals</title>
+  <desc id="desc">A body diagram with two states. On the left, a body with an empty, rumbling tummy labeled hunger, with an arrow to the response eat a meal or snack. On the right, a body with a comfortable, satisfied tummy labeled fullness, with an arrow to the response stop when satisfied. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Hunger and Fullness</text>
+
+  <!-- ===== Left body: hunger ===== -->
+  <g>
+    <text x="128" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Hunger</text>
+    <!-- head -->
+    <circle cx="128" cy="150" r="34" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M108 136 A34 34 0 0 1 148 136 L148 126 Q128 110 108 126 Z" fill="#2b3a42"/>
+    <!-- eyes (a little droopy) -->
+    <ellipse cx="118" cy="150" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="118" cy="151" r="2" fill="#2b3a42"/>
+    <ellipse cx="138" cy="150" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="138" cy="151" r="2" fill="#2b3a42"/>
+    <!-- mouth flat -->
+    <path d="M116 164 Q128 170 140 164" fill="none" stroke="#2b3a42" stroke-width="2.2" stroke-linecap="round"/>
+    <!-- torso -->
+    <path d="M110 182 Q128 192 146 182 L150 250 Q128 262 106 250 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- empty rumbling tummy -->
+    <ellipse cx="128" cy="222" rx="22" ry="18" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 3"/>
+    <path d="M120 220 Q124 214 128 220 Q132 226 136 220" fill="none" stroke="#4f6d7a" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="128" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">empty, rumbling</text>
+    <!-- arrow to response -->
+    <line x1="128" y1="300" x2="128" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown)"/>
+    <rect x="48" y="336" width="160" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="128" y="361" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">eat a meal or snack</text>
+  </g>
+
+  <!-- ===== Right body: fullness ===== -->
+  <g>
+    <text x="384" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Fullness</text>
+    <!-- head -->
+    <circle cx="384" cy="150" r="34" fill="#e6c8a0" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M364 136 A34 34 0 0 1 404 136 L404 126 Q384 110 364 126 Z" fill="#2b3a42"/>
+    <!-- eyes (calm) -->
+    <ellipse cx="374" cy="150" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="374" cy="150" r="2" fill="#2b3a42"/>
+    <ellipse cx="394" cy="150" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="394" cy="150" r="2" fill="#2b3a42"/>
+    <!-- gentle smile -->
+    <path d="M372 162 Q384 170 396 162" fill="none" stroke="#2b3a42" stroke-width="2.2" stroke-linecap="round"/>
+    <!-- torso -->
+    <path d="M366 182 Q384 192 402 182 L406 250 Q384 262 362 250 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- comfortable full tummy -->
+    <ellipse cx="384" cy="222" rx="24" ry="19" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M374 222 Q384 232 394 222" fill="none" stroke="#4f6d7a" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="384" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">comfortable, satisfied</text>
+    <!-- arrow to response -->
+    <line x1="384" y1="300" x2="384" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown)"/>
+    <rect x="304" y="336" width="160" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="384" y="361" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">stop when satisfied</text>
+  </g>
+
+  <defs>
+    <marker id="arrDown" markerWidth="10" markerHeight="10" refX="3" refY="8" orient="auto">
+      <path d="M0 0 L6 0 L3 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your body signals what it needs — hunger says eat, fullness says stop.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Bodies differ, and every pattern is to be respected.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Notice the signal, and answer it kindly.</text>
+</svg>

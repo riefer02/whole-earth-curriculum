@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Moving with rhythm</title>
+  <desc id="desc">Four beat dots in a row show a steady rhythm. Below them, a child moves through a four-move sequence — stomp, stomp, clap, turn — each move drawn under one beat dot, showing how a body moves in time with a beat. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Moving with Rhythm</text>
+
+  <!-- ===== Beat dots ===== -->
+  <g>
+    <circle cx="88" cy="96" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="200" cy="96" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="312" cy="96" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="424" cy="96" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">steady beat</text>
+    <text x="88" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">1</text>
+    <text x="200" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">2</text>
+    <text x="312" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">3</text>
+    <text x="424" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">4</text>
+  </g>
+
+  <!-- ===== Move 1: stomp ===== -->
+  <g>
+    <circle cx="88" cy="270" r="34" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M64 258 A34 34 0 0 1 112 258 L112 246 Q88 228 64 246 Z" fill="#2b3a42"/>
+    <ellipse cx="78" cy="272" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="78" cy="272" r="2" fill="#2b3a42"/>
+    <ellipse cx="98" cy="272" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="98" cy="272" r="2" fill="#2b3a42"/>
+    <path d="M76 286 Q88 294 100 286" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- body + stomping leg -->
+    <path d="M76 302 L100 302 L104 352 Q88 362 72 352 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M88 360 L80 396" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M88 360 L100 396" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- stomp marks -->
+    <path d="M74 410 L96 410 M70 418 L98 418" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="88" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">stomp</text>
+  </g>
+
+  <!-- ===== Move 2: stomp ===== -->
+  <g>
+    <circle cx="200" cy="270" r="34" fill="#e6c8a0" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M176 258 A34 34 0 0 1 224 258 L224 246 Q200 228 176 246 Z" fill="#2b3a42"/>
+    <ellipse cx="190" cy="272" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="190" cy="272" r="2" fill="#2b3a42"/>
+    <ellipse cx="210" cy="272" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="210" cy="272" r="2" fill="#2b3a42"/>
+    <path d="M188 286 Q200 294 212 286" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M188 302 L212 302 L216 352 Q200 362 184 352 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M200 360 L192 396" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M200 360 L212 396" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M186 410 L208 410 M182 418 L210 418" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="200" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">stomp</text>
+  </g>
+
+  <!-- ===== Move 3: clap ===== -->
+  <g>
+    <circle cx="312" cy="270" r="34" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M288 258 A34 34 0 0 1 336 258 L336 246 Q312 228 288 246 Z" fill="#2b3a42"/>
+    <ellipse cx="302" cy="272" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="302" cy="272" r="2" fill="#2b3a42"/>
+    <ellipse cx="322" cy="272" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="322" cy="272" r="2" fill="#2b3a42"/>
+    <path d="M300 286 Q312 294 324 286" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- clapping hands -->
+    <path d="M296 306 Q312 320 328 306" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M304 312 Q312 322 320 312" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- clap marks -->
+    <path d="M292 342 Q312 330 332 342 M294 352 Q312 340 330 352" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="312" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">clap</text>
+  </g>
+
+  <!-- ===== Move 4: turn ===== -->
+  <g>
+    <circle cx="424" cy="270" r="34" fill="#e6c8a0" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M400 258 A34 34 0 0 1 448 258 L448 246 Q424 228 400 246 Z" fill="#2b3a42"/>
+    <ellipse cx="414" cy="272" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="414" cy="272" r="2" fill="#2b3a42"/>
+    <ellipse cx="434" cy="272" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="434" cy="272" r="2" fill="#2b3a42"/>
+    <path d="M412 286 Q424 294 436 286" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- arms out for turning -->
+    <path d="M408 304 L392 336" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M440 304 L456 336" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- turn arrow -->
+    <path d="M424 360 Q396 372 404 392 Q414 408 436 400" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M432 398 L436 402 L428 406" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="424" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">turn</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Stomp, stomp, clap, turn — a body moving in rhythm.</text>
+</svg>

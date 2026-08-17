@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Hand-eye coordination</title>
+  <desc id="desc">A child aims a beanbag at a bucket. A dotted line runs from the child's eye to the hand and then to the target, showing how eyes guide the hands. Two small panels below show tossing a ball up and catching it, and two friends tossing a ball to each other. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Hand&#8211;Eye Coordination</text>
+
+  <!-- ===== Main: child aiming at bucket ===== -->
+  <g>
+    <!-- head -->
+    <circle cx="128" cy="120" r="32" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M108 106 A32 32 0 0 1 148 106 L148 96 Q128 82 108 96 Z" fill="#2b3a42"/>
+    <!-- eyes (looking toward target) -->
+    <ellipse cx="120" cy="120" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="122" cy="120" r="2" fill="#2b3a42"/>
+    <ellipse cx="138" cy="120" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="140" cy="120" r="2" fill="#2b3a42"/>
+    <!-- mouth -->
+    <path d="M120 136 Q128 142 136 136" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- torso -->
+    <path d="M112 150 Q128 160 144 150 L146 220 Q128 232 110 220 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- throwing arm -->
+    <path d="M140 160 L168 128" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- beanbag in hand -->
+    <circle cx="174" cy="122" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- legs -->
+    <path d="M120 230 L116 268" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M136 230 L140 268" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- throwing line -->
+    <line x1="108" y1="276" x2="196" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="152" y="294" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">line</text>
+
+    <!-- bucket target -->
+    <path d="M332 246 L360 246 L356 300 Q346 306 336 300 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <ellipse cx="346" cy="246" rx="14" ry="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="346" y="326" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">target</text>
+
+    <!-- dotted path eye -> hand -> target -->
+    <path d="M128 118 Q160 96 174 120" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="5 5"/>
+    <path d="M182 122 Q260 180 338 246" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+    <text x="240" y="150" font-family="sans-serif" font-size="12" fill="#4f6d7a">eyes guide the hands</text>
+  </g>
+
+  <!-- ===== Panel A: toss and catch ===== -->
+  <g>
+    <rect x="28" y="340" width="218" height="150" rx="12" fill="#f4f0e6" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="137" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Toss and catch</text>
+    <circle cx="96" cy="430" r="20" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.2"/>
+    <path d="M82 422 A20 20 0 0 1 110 422 L110 416 Q96 408 82 416 Z" fill="#2b3a42"/>
+    <ellipse cx="90" cy="430" rx="3" ry="2.2" fill="#ffffff" stroke="#2b3a42" stroke-width="1.4"/>
+    <circle cx="90" cy="430" r="1.4" fill="#2b3a42"/>
+    <ellipse cx="102" cy="430" rx="3" ry="2.2" fill="#ffffff" stroke="#2b3a42" stroke-width="1.4"/>
+    <circle cx="102" cy="430" r="1.4" fill="#2b3a42"/>
+    <path d="M90 440 Q96 445 102 440" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
+    <!-- hands up to catch -->
+    <path d="M88 452 Q96 466 104 452" fill="none" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <!-- ball up in air -->
+    <circle cx="176" cy="420" r="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M160 418 Q168 400 176 418 M168 414 Q176 402 184 414" fill="none" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="3 3"/>
+  </g>
+
+  <!-- ===== Panel B: toss to a friend ===== -->
+  <g>
+    <rect x="266" y="340" width="218" height="150" rx="12" fill="#f4f0e6" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="375" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Toss to a friend</text>
+    <!-- child 1 -->
+    <circle cx="300" cy="430" r="20" fill="#e6c8a0" stroke="#2b3a42" stroke-width="2.2"/>
+    <path d="M286 422 A20 20 0 0 1 314 422 L314 416 Q300 408 286 416 Z" fill="#2b3a42"/>
+    <ellipse cx="294" cy="430" rx="3" ry="2.2" fill="#ffffff" stroke="#2b3a42" stroke-width="1.4"/>
+    <circle cx="294" cy="430" r="1.4" fill="#2b3a42"/>
+    <ellipse cx="306" cy="430" rx="3" ry="2.2" fill="#ffffff" stroke="#2b3a42" stroke-width="1.4"/>
+    <circle cx="306" cy="430" r="1.4" fill="#2b3a42"/>
+    <path d="M300 440 L300 450" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- arm throwing -->
+    <path d="M312 444 L336 428" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <!-- child 2 -->
+    <circle cx="430" cy="430" r="20" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.2"/>
+    <path d="M416 422 A20 20 0 0 1 444 422 L444 416 Q430 408 416 416 Z" fill="#2b3a42"/>
+    <ellipse cx="424" cy="430" rx="3" ry="2.2" fill="#ffffff" stroke="#2b3a42" stroke-width="1.4"/>
+    <circle cx="424" cy="430" r="1.4" fill="#2b3a42"/>
+    <ellipse cx="436" cy="430" rx="3" ry="2.2" fill="#ffffff" stroke="#2b3a42" stroke-width="1.4"/>
+    <circle cx="436" cy="430" r="1.4" fill="#2b3a42"/>
+    <!-- catching hands -->
+    <path d="M420 446 Q430 458 440 446" fill="none" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <!-- ball between -->
+    <circle cx="376" cy="424" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M344 424 Q360 410 372 422" fill="none" stroke="#4f6d7a" stroke-width="1.6" stroke-dasharray="3 3"/>
+    <path d="M382 422 Q392 412 404 424" fill="none" stroke="#4f6d7a" stroke-width="1.6" stroke-dasharray="3 3"/>
+  </g>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Eyes guide the hands, and practice makes the team stronger.</text>
+</svg>

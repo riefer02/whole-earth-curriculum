@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Moving with balance</title>
+  <desc id="desc">A child walks a straight line like a tightrope with arms wide for balance. Beside it are three balance poses: standing on one foot, arms wide, and slow heel-toe steps. A note reminds us that the inner ear and muscles work together to keep us steady. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Moving with Balance</text>
+
+  <!-- ===== Tightrope walker ===== -->
+  <g>
+    <!-- rope line -->
+    <line x1="60" y1="400" x2="452" y2="400" stroke="#2b3a42" stroke-width="3"/>
+    <!-- posts -->
+    <rect x="52" y="392" width="8" height="24" rx="2" fill="#4f6d7a"/>
+    <rect x="452" y="392" width="8" height="24" rx="2" fill="#4f6d7a"/>
+
+    <!-- head -->
+    <circle cx="256" cy="252" r="34" fill="#e6c8a0" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M232 240 A34 34 0 0 1 280 240 L280 228 Q256 210 232 228 Z" fill="#2b3a42"/>
+    <!-- eyes (looking ahead) -->
+    <ellipse cx="246" cy="252" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="248" cy="252" r="2" fill="#2b3a42"/>
+    <ellipse cx="266" cy="252" rx="5" ry="3.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.8"/>
+    <circle cx="268" cy="252" r="2" fill="#2b3a42"/>
+    <!-- nose + mouth -->
+    <path d="M254 260 L250 266 L260 266 Z" fill="#c9bdb0" stroke="#2b3a42" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M244 272 Q256 280 268 272" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- torso -->
+    <path d="M238 284 Q256 296 274 284 L278 352 Q256 366 234 352 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- arms wide -->
+    <path d="M238 290 L196 304" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M274 290 L316 304" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- legs on the rope -->
+    <path d="M244 366 L250 396" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M268 366 L262 396" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">walk the line, arms wide</text>
+  </g>
+
+  <!-- ===== Pose 1: one foot ===== -->
+  <g>
+    <circle cx="86" cy="160" r="24" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.2"/>
+    <path d="M70 150 A24 24 0 0 1 102 150 L102 142 Q86 130 70 142 Z" fill="#2b3a42"/>
+    <ellipse cx="80" cy="160" rx="3.5" ry="2.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="80" cy="160" r="1.5" fill="#2b3a42"/>
+    <ellipse cx="92" cy="160" rx="3.5" ry="2.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="92" cy="160" r="1.5" fill="#2b3a42"/>
+    <path d="M80 170 Q86 176 92 170" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M78 180 L94 180 L96 224 Q86 234 76 224 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.2" stroke-linejoin="round"/>
+    <!-- one foot down, one leg lifted -->
+    <path d="M86 232 L82 258" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M86 232 L96 246 L104 240" fill="none" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- arms out -->
+    <path d="M78 186 L62 196" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M94 186 L110 196" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <text x="86" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">one foot</text>
+  </g>
+
+  <!-- ===== Pose 2: arms wide ===== -->
+  <g>
+    <circle cx="256" cy="160" r="24" fill="#e6c8a0" stroke="#2b3a42" stroke-width="2.2"/>
+    <path d="M240 150 A24 24 0 0 1 272 150 L272 142 Q256 130 240 142 Z" fill="#2b3a42"/>
+    <ellipse cx="250" cy="160" rx="3.5" ry="2.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="250" cy="160" r="1.5" fill="#2b3a42"/>
+    <ellipse cx="262" cy="160" rx="3.5" ry="2.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="262" cy="160" r="1.5" fill="#2b3a42"/>
+    <path d="M250 170 Q256 176 262 170" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M248 180 L264 180 L266 224 Q256 234 246 224 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.2" stroke-linejoin="round"/>
+    <path d="M256 232 L252 258" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M256 232 L260 258" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <!-- arms wide -->
+    <path d="M248 186 L226 198" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M264 186 L286 198" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">arms wide</text>
+  </g>
+
+  <!-- ===== Pose 3: heel-toe ===== -->
+  <g>
+    <circle cx="426" cy="160" r="24" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.2"/>
+    <path d="M410 150 A24 24 0 0 1 442 150 L442 142 Q426 130 410 142 Z" fill="#2b3a42"/>
+    <ellipse cx="420" cy="160" rx="3.5" ry="2.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="420" cy="160" r="1.5" fill="#2b3a42"/>
+    <ellipse cx="432" cy="160" rx="3.5" ry="2.5" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="432" cy="160" r="1.5" fill="#2b3a42"/>
+    <path d="M420 170 Q426 176 432 170" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M418 180 L434 180 L436 224 Q426 234 416 224 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.2" stroke-linejoin="round"/>
+    <!-- heel-toe feet on a small line -->
+    <path d="M426 232 L422 256" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M426 232 L430 256" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <line x1="418" y1="260" x2="434" y2="260" stroke="#2b3a42" stroke-width="2"/>
+    <!-- arms out -->
+    <path d="M418 186 L400 198" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="M434 186 L452 198" stroke="#2b3a42" stroke-width="2.6" stroke-linecap="round"/>
+    <text x="426" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">heel-toe</text>
+  </g>
+
+  <text x="256" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Balance uses a hidden sense in the ear, plus your muscles and eyes.</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Wobbling is how balance grows — it is never a failure.</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Stay steady, in your own body's way.</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A fuller picture — senses working together chart</title>
+  <desc id="desc">A chart with a mango in the center and five clue bubbles around it. The bubbles read: looks orange, smells sweet, feels smooth, tastes juicy, and sounds soft when tapped. Each bubble connects to the mango with a line, showing how every sense adds one clue to one fuller picture. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Senses Working Together</text>
+
+  <!-- ===== Mango in center ===== -->
+  <g>
+    <ellipse cx="256" cy="250" rx="66" ry="44" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M256 206 Q240 196 232 200" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M266 250 L258 264 M256 250 L268 262" fill="none" stroke="#c9bdb0" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+    <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">mango</text>
+  </g>
+
+  <!-- ===== Clue bubbles ===== -->
+  <!-- top: sight -->
+  <g>
+    <rect x="170" y="92" width="172" height="44" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <ellipse cx="186" cy="114" rx="9" ry="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="186" cy="114" r="3" fill="#2b3a42"/>
+    <text x="206" y="119" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">looks orange</text>
+    <line x1="256" y1="136" x2="256" y2="206" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- left: smell -->
+  <g>
+    <rect x="28" y="180" width="168" height="44" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M44 196 Q38 206 46 216" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="66" y="207" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">smells sweet</text>
+    <line x1="196" y1="202" x2="224" y2="240" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- right: touch -->
+  <g>
+    <rect x="318" y="180" width="168" height="44" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="336" cy="202" r="9" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="356" y="207" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">feels smooth</text>
+    <line x1="318" y1="202" x2="290" y2="240" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- bottom-left: taste -->
+  <g>
+    <rect x="66" y="336" width="168" height="44" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M82 352 Q92 362 102 352" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="114" y="363" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">tastes juicy</text>
+    <line x1="150" y1="336" x2="228" y2="292" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- bottom-right: sound -->
+  <g>
+    <rect x="278" y="336" width="168" height="44" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M294 350 Q298 344 304 352 M300 350 Q304 344 310 352" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="322" y="363" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">soft when tapped</text>
+    <line x1="362" y1="336" x2="288" y2="292" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Each sense adds one clue — together they make the whole mango.</text>
+
+  <!-- legend of senses -->
+  <g font-family="sans-serif" font-size="13" fill="#4f6d7a">
+    <text x="256" y="452" text-anchor="middle">sight &#183; smell &#183; touch &#183; taste &#183; sound</text>
+  </g>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">More senses = a fuller picture.</text>
+</svg>

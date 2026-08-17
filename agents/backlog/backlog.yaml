@@ -2547,7 +2547,7 @@ items:
     type: lesson
     grade: 3
     domain: D03
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2559,6 +2559,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (582 files). IDs L.03.002.01-.10 sequential, sequence_in_unit 1-10, grade 3, unit U.03.002; all 10 carry Procedure/Assessment/Connection. Objectives resolve to real Grade-3 D03 standards only (S1.03.01/.02, S2.03.01/.02) — no invented IDs. unit.md Lessons table lists all 10. Example: L1 taste+smell partners → flavor, NIDCD source; body-signal L4-6 'never comment on how much a learner eats, never praise or shame a body'; L8 inner-ear balance NIDCD Balance Disorders. Honor-every-body."
+      fact-checker:
+        verdict: passed
+        note: "Verified: flavor=smell+taste (L1, NIDCD Taste and Smell S-067); inner-ear balance sensor with muscles+eyes (L8, NIDCD Balance Disorders S-068, verbatim 'eyes, ears, muscles and touch sensors'); movement for healthy growth (L7/L9, WHO physical activity S-069, 26 Jun 2024). Hunger/fullness/thirst/tiredness L4-6 descriptive+hedged (WHO S-003). Evidence vs values ('no body praised or shamed', 'rest is not reward'). No fabricated citations. validate passes (582 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Foods/flavors span regions (mango/banana/orange/bread/apple + 'a food your family already eats'); honor-every-body notes cover deaf/HoH/low-vision/wheelchair/no-smell/taste learners, no able-bodied default; hunger/thirst avoid 'poverty=dirty' ('some learners may not have enough food at home; frame hunger as body signal'). Fix: concretized movement Connections with named traditions — djembe (West Africa)/taiko (Japan)/bhangra (Punjab) rhythm; tightrope Japan→India→Europe balance; bocce (Italy)/pétanque (France)/hoop-and-stick+stone games (Africa/Americas/Asia) aiming. validate passes (582 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech all 10; alt text all 10 assets (SVGs role=img/aria-labelledby/title/desc, word labels not color, grayscale-safe). Senses L1-3 non-visual touch/smell/taste + 'never require tasting' + 'I notice nothing different is welcome' + non-auditory paths; body-signal L4-6 spoken/point/tactile stones-in-sand + partner-scribe; movement L7-9 seated/wheelchair/rolling/blinking/tapping + larger-soft-ball/scoop; L10 'with wheels, seated, or with support'. Fix: L2 'See only' step added tactile path for blind/low-vision + no-hearing-aid-covering note. validate passes (582 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (care ethics on hunger/fullness/rest 'never praise or shame a body or amount'; food insecurity gentle), egalitarianism (honor-every-body deaf/HoH/low-vision/wheelchair/no-smell/taste/seated/rolling; no ranking/competition), global (djembe/taiko/bhangra/bocce/pétanque/tightrope/stone games; no Euro default), tech/env (tools-vs-body framing for camera/tablet/player). Evidence sourced (NIDCD taste-smell, NIDCD balance, WHO physical activity) vs values. Traceability: D03.S1/S2 → D03 → P2 → vision. Fix: added tech/env lens to unit.md + L2/L7/L10. validate passes (582 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive: abstractions (flavor=taste+smell, fuller picture, inner-ear balance) anchored in hands-on predict/test/observe — concrete operations. Emotional safety: L4-6 body-signal framing never weight/diet ('fullness is a good gentle feeling not a rule'; 'never praise or shame a body or amount'); food-insecurity + differing sleep/home realities held with care. Physical/no-shame: movement L7-9 non-competitive ('no best rhythm', 'the skill not the score', 'wobbling never failure') with adapted versions (seated/wheels/support/larger balls/scoops) as real choices. Open-ended ('every answer is true for them'); genuine sensory science sourced (WHO, NIDCD). Spiral honored (names Gr1/2 foundations). validate passes (582 files)."
   - id: B-302
     title: Author lessons for Unit U.03.003 (Caring, Perspective & Belonging)
     agent: lesson-author

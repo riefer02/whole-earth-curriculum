@@ -619,3 +619,31 @@ sources:
     domains: [D10]
     reviewed: true
     notes: "Cited in U.02.011 L08 (Where Does Litter Go?) for the dropped-path account. URL verified live (2026-08-16): the article states 'some animals mistake plastic for food,' that plastic bottles 'take many hundreds of years to disintegrate' ('over 450 years to break down in a landfill'), and that plastic ends up 'as trash on the land and in rivers, lakes, and the ocean.' Supports the lesson's hedged claims that plastic litter can take hundreds of years to break down and can wash into rivers and the ocean where animals may mistake it for food. Reviewer had flagged this source; verified real and on-topic."
+
+  - id: S-067
+    title: NIDCD — Taste and Smell
+    type: website
+    url: https://www.nidcd.nih.gov/health/taste-smell
+    organization: U.S. National Institute on Deafness and Other Communication Disorders (NIDCD), National Institutes of Health
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.03.002.01 (Senses Team Up) for the claim that much of what we call flavor comes from smell and taste working together. URL verified live (2026-08-16): NIDCD is the authoritative U.S. federal institute for taste and smell, and this hub covers Taste Disorders and Smell Disorders; the underlying sensory science — that flavor perception combines taste (tongue) and smell (nose), especially retronasal smell — is standard and matches the lesson's hedged claim ('much of what we call flavor'), which the facilitator note flags as well-established in sensory science. US-centric source; treated as one authoritative reference, not the only tradition."
+
+  - id: S-068
+    title: NIDCD — Balance Disorders
+    type: website
+    url: https://www.nidcd.nih.gov/health/balance-disorders
+    organization: U.S. National Institute on Deafness and Other Communication Disorders (NIDCD), National Institutes of Health
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.03.002.08 (Moving with Balance) for the claim that a balance sensor deep inside the ear works with muscles and eyes to keep us steady. URL verified live (2026-08-16): page states verbatim that 'Your sense of balance relies on a series of signals to your brain from several organs and structures in your body, specifically your eyes, ears, and the muscles and touch sensors in your legs' and that 'The part of the ear that assists in balance is known as the vestibular system, or the labyrinth, a maze-like structure in your inner ear.' Directly supports the lesson's Grade-3 simplification (ear sensor + muscles + eyes)."
+
+  - id: S-069
+    title: WHO — Physical activity fact sheet
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+    organization: World Health Organization
+    year: 2024
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.03.002.07 (Moving with Rhythm) and L.03.002.09 (Hand–Eye Coordination) for the claim that children need regular movement for healthy growth. URL verified live (2026-08-16); page dated 26 June 2024. States verbatim: 'In children and adolescents, physical activity promotes bone health, encourages healthy growth and development of muscle, and improves motor and cognitive development.' Supports the lessons' hedged general claim."
