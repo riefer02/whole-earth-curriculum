@@ -51,3 +51,13 @@ welcomed.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Five Senses, Five Doors | D03.S1.02.01 |
+| 2 | What Each Sense Tells Me | D03.S1.02.01 |
+| 3 | Feelings in My Body | D03.S1.02.02 |
+| 4 | My Body's Feeling Map | D03.S1.02.02 |
+| 5 | Combining Movements | D03.S2.02.01 |
+| 6 | A Movement Sequence of My Own | D03.S2.02.01 |
+| 7 | Throwing and Catching with Both Hands | D03.S2.02.02 |
+| 8 | Kicking with Both Feet | D03.S2.02.02 |
+| 9 | Throw, Catch, and Kick Together | D03.S2.02.02 |
+| 10 | My Body, My Senses & Movement | D03.S1.02.01, D03.S1.02.02, D03.S2.02.01, D03.S2.02.02 |

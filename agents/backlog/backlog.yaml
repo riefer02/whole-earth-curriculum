@@ -2103,7 +2103,7 @@ items:
     type: lesson
     grade: 2
     domain: D03
-    status: ready
+    status: done
     priority: 51
     depends_on:
       - B-064
@@ -2115,6 +2115,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per its unit.md and the Grade 2 scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (456 files). IDs L.02.002.01-.10 sequential, sequence_in_unit 1-10, unit U.02.002, grade 2; all 4 required headings in all 10; objectives resolve to real Grade-2 D03 standards only (S1.02.01 L1-2, S1.02.02 L3-4, S2.02.01 L5-6, S2.02.02 L7-9, capstone L10 all four) — no invented IDs. unit.md Lessons table lists all 10; 10 SVGs present+well-formed. Health/somatic claims sourced (WHO, BBC Bitesize, CASEL). Non-blocking: movement lessons 5-9,10 omit Resources but no factual claims needing citation."
+      fact-checker:
+        verdict: passed
+        note: "Five senses mapping verified vs BBC Bitesize (S-031, reviewed:true, 'five main senses: Hearing/Sight/Smell/Taste/Touch'); correctly hedged (L1 Extension invites sixth sense). Body-feeling claims hedged not universal ('where a feeling shows up differs for every person'); WHO S-003 + CASEL S-001 verified live on-topic. Movement skills sound; 'play all over world' is value/global framing not citable. No new sources. validate passes (456 files). Non-blocking: L4 'mirrors and mirrors' duplicated word."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default: movement lessons anchor 'all over the world/every continent'; senses lessons region-neutral multi-life contexts (markets, kitchens, spices, dirt roads, courtyards, beaches); low-tech materials (stones, sand, rolled cloth) + outdoor variants include non-urban low-resource; differentiation honors wheelchair/seated/hearing-aid/low-vision/communication devices. Fix made: L1 Facilitator note acknowledges 'five senses' is one shared map not the only one (other traditions name balance/movement/warm-cold) per philosophy §11. validate passes (456 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech on all 10; alt text on all 10 assets (SVGs role=img/aria-labelledby/title/desc). UDL/mobility: movement lessons 5-10 name wheelchair/seated/partner alternatives; senses lessons non-visual paths. Fixes: L2 non-auditory path (feel bell/drum vibrate); L3 deaf/HOH card/visual cue; corrected 'mirrors and mirrors' typo in L4. validate passes (456 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: L.02.002.01-.10 objectives → D03.S1.02.x/D03.S2.02.x → D03 Body & Wellness → P2 → vision. Lenses: ethics (dignity 'no correct body', privacy, non-judgment, fairness), egalitarianism ('honor every body', adaptations as 'real choices never second', no ranking, cooperation over competition), global (L1 'five is one useful map not the only one'; market/courtyard/field/beach/dirt-road contexts), tech/env (tech neutral optional tool, outdoor variants). Evidence vs values (BBC Bitesize/WHO/CASEL cited, hedged). No hierarchy/supremacy. validate passes (456 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: concrete here-and-now (sense-to-part matching, real sense basket, first-then-last ordering, body/feeling maps). Emotional safety: no body comparison/ranking/appearance focus; feelings neutral signals; 'share only if you want'; 'every body different'. Physical fit: play-based non-competitive big-motor (hop/turn/run/catch, throw/catch/kick) with adapted moves (seated/wheelchair/scoop/larger-ball/roll) as real choices. Open-ended: questions held as questions; 'five senses one useful map'. Non-blocking refinement: add sensory-overload opt-out scaffolding in L2/L3 (step away, cover ears, gentle bells/scents)."
   - id: B-202
     title: Author lessons for Unit U.02.003 (Caring and Working Together)
     agent: lesson-author

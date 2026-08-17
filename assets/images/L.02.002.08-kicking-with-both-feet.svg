@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Kicking with both feet</title>
+  <desc id="desc">Two panels. Kick with the left foot: a child kicks a ball toward a goal with the left foot. Kick with the right foot: the same child kicks with the right foot, and a seated child in a wheelchair pushes the ball with a wheel or foot. Arrows show the ball's path. Each panel is labeled with words, so it prints clearly in grayscale and the meaning does not depend on color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Kicking with Both Feet</text>
+
+  <!-- ===== Left foot panel ===== -->
+  <g>
+    <rect x="20" y="66" width="230" height="200" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="135" y="94" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">kick &#8212; left foot</text>
+
+    <circle cx="80" cy="164" r="19" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="64" y="184" width="32" height="42" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="66" y1="192" x2="52" y2="206" stroke="#c99567" stroke-width="9" stroke-linecap="round"/>
+    <line x1="94" y1="192" x2="108" y2="206" stroke="#c99567" stroke-width="9" stroke-linecap="round"/>
+    <line x1="72" y1="226" x2="66" y2="248" stroke="#4f6d7a" stroke-width="9" stroke-linecap="round"/>
+    <line x1="84" y1="226" x2="94" y2="240" stroke="#4f6d7a" stroke-width="9" stroke-linecap="round"/>
+    <ellipse cx="64" cy="252" rx="10" ry="5" fill="#2b3a42"/>
+    <ellipse cx="96" cy="244" rx="10" ry="5" fill="#2b3a42"/>
+
+    <!-- ball -->
+    <circle cx="140" cy="238" r="15" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M140 226 Q144 238 140 250 M132 234 Q140 238 148 234" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+
+    <!-- ball path + goal -->
+    <path d="M156 238 L196 238" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="5 4"/>
+    <path d="M190 232 L196 238 L190 244" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="135" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">plant one foot, kick with the other</text>
+  </g>
+
+  <!-- ===== Right foot panel ===== -->
+  <g>
+    <rect x="262" y="66" width="230" height="200" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="377" y="94" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">kick &#8212; right foot</text>
+
+    <circle cx="320" cy="164" r="19" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="304" y="184" width="32" height="42" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="306" y1="192" x2="292" y2="206" stroke="#8f5f3d" stroke-width="9" stroke-linecap="round"/>
+    <line x1="334" y1="192" x2="348" y2="206" stroke="#8f5f3d" stroke-width="9" stroke-linecap="round"/>
+    <line x1="312" y1="226" x2="306" y2="248" stroke="#4f6d7a" stroke-width="9" stroke-linecap="round"/>
+    <line x1="324" y1="226" x2="334" y2="240" stroke="#4f6d7a" stroke-width="9" stroke-linecap="round"/>
+    <ellipse cx="304" cy="252" rx="10" ry="5" fill="#2b3a42"/>
+    <ellipse cx="336" cy="244" rx="10" ry="5" fill="#2b3a42"/>
+
+    <!-- ball -->
+    <circle cx="380" cy="238" r="15" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M380 226 Q384 238 380 250 M372 234 Q380 238 388 234" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+
+    <!-- ball path -->
+    <path d="M396 238 L432 238" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="5 4"/>
+    <path d="M426 232 L432 238 L426 244" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- seated child pushing ball -->
+    <circle cx="430" cy="284" r="15" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="416" y="298" width="28" height="28" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="410" y="328" width="40" height="8" rx="4" fill="#4f6d7a"/>
+    <circle cx="418" cy="342" r="7" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="444" cy="342" r="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="377" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">try both feet — each one learns</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Both feet can kick — every body finds its own way.</text>
+</svg>

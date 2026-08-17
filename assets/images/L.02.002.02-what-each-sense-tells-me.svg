@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What each sense tells me</title>
+  <desc id="desc">Five panels, each showing a body part and one thing its sense tells us: eyes (I see a color and shape), ears (I hear a sound), nose (I smell a scent), tongue (I taste a flavor), and skin (I feel soft or rough). Each panel is labeled with words, so the meaning does not depend on color and it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">What Each Sense Tells Me</text>
+
+  <!-- ===== Eye ===== -->
+  <g>
+    <rect x="20" y="60" width="150" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <ellipse cx="95" cy="120" rx="40" ry="22" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="95" cy="120" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="95" cy="120" r="4" fill="#2b3a42"/>
+    <text x="95" y="176" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">eyes &#8212; I see</text>
+    <text x="95" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a color, a shape</text>
+  </g>
+
+  <!-- ===== Ear ===== -->
+  <g>
+    <rect x="181" y="60" width="150" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M224 108 Q206 118 222 142" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M236 108 Q218 118 234 142" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <text x="256" y="176" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">ears &#8212; I hear</text>
+    <text x="256" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a sound</text>
+  </g>
+
+  <!-- ===== Nose ===== -->
+  <g>
+    <rect x="342" y="60" width="150" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M402 108 Q417 120 402 132 L432 132 Q417 120 432 108 Z" fill="#c9bdb0" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="410" cy="130" r="3" fill="#2b3a42"/>
+    <circle cx="424" cy="130" r="3" fill="#2b3a42"/>
+    <text x="417" y="176" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">nose &#8212; I smell</text>
+    <text x="417" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a scent</text>
+  </g>
+
+  <!-- ===== Tongue ===== -->
+  <g>
+    <rect x="20" y="250" width="150" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M48 320 Q95 342 142 320" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M70 326 Q95 348 120 326 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="95" y="372" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">tongue &#8212; I taste</text>
+    <text x="95" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a flavor</text>
+  </g>
+
+  <!-- ===== Skin/hand ===== -->
+  <g>
+    <rect x="181" y="250" width="150" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M236 296 Q224 306 224 318 Q224 326 232 330 Q236 332 240 328 L240 320 Q243 326 248 328 Q254 328 254 322 L254 314 Q257 320 262 322 Q267 322 267 316 L267 310 L272 310 Q280 310 280 302 Q280 298 275 296 Q270 294 265 296 Q259 294 248 294 Q240 294 236 296 Z" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">skin &#8212; I feel</text>
+    <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">soft, rough, warm, cold</text>
+  </g>
+
+  <!-- ===== Summary ===== -->
+  <g>
+    <rect x="342" y="250" width="150" height="170" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="417" y="300" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Together my</text>
+    <text x="417" y="326" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">senses tell me</text>
+    <text x="417" y="352" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">about the world</text>
+    <text x="417" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">sight, hearing, smell,</text>
+    <text x="417" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">taste, touch</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Each sense tells me one part of the story.</text>
+</svg>

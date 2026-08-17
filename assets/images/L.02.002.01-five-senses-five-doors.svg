@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Five senses, five doors</title>
+  <desc id="desc">A simple child face with five labeled sense doors: two eyes for sight, two ears for hearing, a nose for smell, a tongue and mouth for taste, and a hand for touch. A list on the right matches each sense to its body part. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Five Senses, Five Doors</text>
+
+  <!-- ===== Face ===== -->
+  <g>
+    <!-- head -->
+    <circle cx="150" cy="230" r="86" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.5"/>
+    <!-- hair -->
+    <path d="M96 200 A86 86 0 0 1 204 200 L204 184 Q150 150 96 184 Z" fill="#2b3a42"/>
+    <!-- eyes -->
+    <ellipse cx="120" cy="238" rx="15" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="120" cy="238" r="5" fill="#2b3a42"/>
+    <ellipse cx="180" cy="238" rx="15" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="180" cy="238" r="5" fill="#2b3a42"/>
+    <!-- nose -->
+    <path d="M148 268 Q150 282 138 286 L160 286 Q148 282 152 268 Z" fill="#c9bdb0" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- mouth + tongue -->
+    <path d="M126 302 Q150 318 174 302" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M140 308 Q150 320 160 308 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- ears -->
+    <path d="M64 214 Q48 226 62 246" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M236 214 Q252 226 238 246" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- hand (touch) -->
+  <g>
+    <path d="M112 360 Q96 372 96 386 Q96 396 106 400 Q112 402 118 398 L118 388 Q122 396 128 398 Q136 398 136 390 L136 382 Q140 390 146 392 Q152 392 152 384 L152 376 L158 376 Q168 376 168 366 Q168 360 162 358 Q156 356 150 358 Q142 356 128 358 Q116 358 112 360 Z" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="150" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">skin</text>
+    <text x="150" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(touch)</text>
+  </g>
+
+  <!-- ===== Legend list ===== -->
+  <g font-family="sans-serif">
+    <ellipse cx="286" cy="112" rx="14" ry="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="286" cy="112" r="4" fill="#2b3a42"/>
+    <text x="316" y="118" font-size="18" font-weight="bold" fill="#222222">eyes &#8594; sight</text>
+
+    <path d="M268 162 Q258 170 266 182" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="316" y="178" font-size="18" font-weight="bold" fill="#222222">ears &#8594; hearing</text>
+
+    <path d="M286 236 L290 248 L276 250 L286 236" fill="#c9bdb0" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="316" y="252" font-size="18" font-weight="bold" fill="#222222">nose &#8594; smell</text>
+
+    <path d="M272 306 Q286 320 300 306" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M278 310 Q286 318 294 310 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="316" y="318" font-size="18" font-weight="bold" fill="#222222">tongue &#8594; taste</text>
+
+    <circle cx="286" cy="376" r="12" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="316" y="382" font-size="18" font-weight="bold" fill="#222222">skin &#8594; touch</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every sense has its own door — and every body is good.</text>
+</svg>
