@@ -1347,3 +1347,30 @@ sources:
     domains: [D08]
     reviewed: true
     notes: "Cited in U.04.009 L10 (Peaceful Resistance) for the 1952 Defiance Campaign in South Africa against unjust pass laws. URL verified live (2026-08-17). Replaces a broken Britannica 'Defiance Campaign' URL (404; Britannica has no article at that path)."
+
+  - id: S-147
+    title: "Slavin — Cooperative Learning"
+    type: book
+    organization: Allyn & Bacon
+    year: 1995
+    domains: [D09]
+    reviewed: true
+    notes: "Robert E. Slavin, Cooperative Learning: Theory, Research, and Practice (2nd ed., Allyn & Bacon, 1995). Cited in U.04.010 L06/L07 (Plan/Do Our Shared Project) as the research base for cooperative-learning structures that divide work fairly. Real, seminal work in cooperative learning. No URL (print book)."
+
+  - id: S-148
+    title: "Rosenberg — Nonviolent Communication"
+    type: book
+    organization: PuddleDancer Press
+    year: 2003
+    domains: [D09]
+    reviewed: true
+    notes: "Marshall B. Rosenberg, Nonviolent Communication: A Language of Life (2nd ed., PuddleDancer Press, 2003). Cited in U.04.010 L08 (Active Listening and 'I' Statements) as the origin of the 'I'-statement / needs-based conflict-resolution framing. Real, widely used conflict-resolution framework. No URL (print book)."
+
+  - id: S-149
+    title: "UN — Universal Declaration of Human Rights"
+    type: website
+    url: https://www.un.org/en/about-us/universal-declaration-of-human-rights
+    organization: United Nations
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.04.010 L03 (Dignity: Being a Person of Worth) for the shared value that every person is born with dignity and worth (Article 1). Real UN document (1948); URL verified live (2026-08-17)."

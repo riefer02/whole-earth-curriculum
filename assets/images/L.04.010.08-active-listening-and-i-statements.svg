@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Active listening and "I" statements</title>
+  <desc id="desc">Two children sit facing each other to solve a disagreement. The speaker's speech bubble reads "I feel sad when I am interrupted, because my idea never gets finished. I need a turn to finish." The listener's bubble reads "I hear that you feel sad — can you tell me more?" and the listener's body leans in with eyes toward the speaker and hands open. A calm-body caption below reads "face each other, listen, reflect, then take your turn." Labels, the two bubbles, and the open vs. leaned-in bodies, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Active Listening and "I" Statements</text>
+
+  <!-- speaker (left) -->
+  <circle cx="150" cy="210" r="18" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M132 208 A18 18 0 0 1 168 208 Z" fill="#2b3a42"/>
+  <circle cx="145" cy="210" r="2" fill="#2b3a42"/><circle cx="156" cy="210" r="2" fill="#2b3a42"/>
+  <path d="M145 219 Q150 223 156 219" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="140" y="228" width="22" height="44" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- speaker hands toward self -->
+  <path d="M150 250 L170 258" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- listener (right) -->
+  <circle cx="362" cy="210" r="18" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M344 208 A18 18 0 0 1 380 208 Z" fill="#2b3a42"/>
+  <circle cx="357" cy="210" r="2" fill="#2b3a42"/><circle cx="368" cy="210" r="2" fill="#2b3a42"/>
+  <path d="M357 219 Q362 223 368 219" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="352" y="228" width="22" height="44" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- listener leaning in, open hand -->
+  <path d="M362 250 L342 258" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- speaker bubble -->
+  <rect x="28" y="300" width="250" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M140 300 L150 282 L160 300 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="153" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">I feel sad when I am interrupted,</text>
+  <text x="153" y="340" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">because my idea never gets finished.</text>
+  <text x="153" y="360" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">I need a turn to finish.</text>
+
+  <!-- listener bubble -->
+  <rect x="234" y="300" width="250" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M372 300 L362 282 L352 300 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="359" y="324" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">I hear that you feel sad —</text>
+  <text x="359" y="344" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">can you tell me more?</text>
+
+  <!-- calm body caption -->
+  <rect x="90" y="418" width="332" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">face each other · listen · reflect back</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">then take your turn — "I" instead of "you"</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">Labels and the two speech bubbles, not color, carry the meaning.</text>
+</svg>

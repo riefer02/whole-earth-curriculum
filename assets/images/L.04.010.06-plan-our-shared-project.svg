@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Plan our shared project</title>
+  <desc id="desc">A project-plan sheet for a small shared project. At the top, a title line reads "project: our classroom kindness wall." Below, a list of tasks runs down the left — "draw the banner," "write kind words," "hang the cards," "check with the group" — and beside each, a small figure marks who chose that task. A checklist at the bottom reads "did every person get a voice? is the load shared fairly? does each person want their task?" Labels, the task list, and the checklist, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Plan Our Shared Project</text>
+
+  <!-- plan sheet -->
+  <rect x="28" y="52" width="456" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#4f6d7a">PROJECT PLAN</text>
+  <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">project: our classroom kindness wall</text>
+
+  <!-- task rows -->
+  <text x="44" y="128" text-anchor="start" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">task</text>
+  <text x="270" y="128" text-anchor="start" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">who does it</text>
+  <line x1="28" y1="136" x2="484" y2="136" stroke="#2b3a42" stroke-width="1"/>
+
+  <text x="44" y="160" text-anchor="start" font-family="sans-serif" font-size="12" fill="#222222">1. draw the banner</text>
+  <circle cx="330" cy="154" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="322" cy="154" r="1.4" fill="#2b3a42"/><circle cx="338" cy="154" r="1.4" fill="#2b3a42"/>
+
+  <text x="44" y="190" text-anchor="start" font-family="sans-serif" font-size="12" fill="#222222">2. write kind words</text>
+  <circle cx="330" cy="184" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="322" cy="184" r="1.4" fill="#2b3a42"/><circle cx="338" cy="184" r="1.4" fill="#2b3a42"/>
+
+  <text x="44" y="220" text-anchor="start" font-family="sans-serif" font-size="12" fill="#222222">3. hang the cards</text>
+  <circle cx="330" cy="214" r="10" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="322" cy="214" r="1.4" fill="#2b3a42"/><circle cx="338" cy="214" r="1.4" fill="#2b3a42"/>
+
+  <text x="44" y="250" text-anchor="start" font-family="sans-serif" font-size="12" fill="#222222">4. check with the group</text>
+  <circle cx="330" cy="244" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="322" cy="244" r="1.4" fill="#2b3a42"/><circle cx="338" cy="244" r="1.4" fill="#2b3a42"/>
+
+  <!-- talking stone -->
+  <ellipse cx="428" cy="154" rx="14" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="428" y="244" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">talking</text>
+  <text x="428" y="256" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">stone</text>
+
+  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">pass the stone so each person is heard before tasks are chosen</text>
+
+  <!-- checklist -->
+  <rect x="28" y="302" width="456" height="42" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">☐ did every person get a voice?   ☐ is the load shared fairly?   ☐ does each person want their task?</text>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">change it until everyone says yes</text>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A fair plan hears every voice and shares the load.</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">Labels and the task list, not color, carry the meaning.</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Restorative practice: repair, not only punish</title>
+  <desc id="desc">A circle shows the three steps of restorative practice around a small harm — a child's knocked-over block tower. The three steps, in a ring, are labeled: "listen — hear the person who was hurt," "take responsibility — own what happened," and "repair the harm — fix it and make it right." In the center, the same child who knocked the tower is shown helping rebuild it, while the other child's face turns from sad to glad. A note reads "accountability plus repair — not punishment alone." Labels, the three steps, and the rebuilt tower, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Restorative Practice: Repair, Not Only Punish</text>
+
+  <!-- three step boxes in a ring -->
+  <rect x="24" y="64" width="140" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="94" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1. listen</text>
+  <text x="94" y="112" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">hear the person</text>
+  <text x="94" y="126" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">who was hurt</text>
+
+  <rect x="348" y="64" width="140" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="418" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">2. take responsibility</text>
+  <text x="418" y="112" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">own what happened,</text>
+  <text x="418" y="126" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">without shame</text>
+
+  <rect x="186" y="172" width="140" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">3. repair the harm</text>
+  <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">fix it and</text>
+  <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">make it right</text>
+
+  <!-- arrows linking steps -->
+  <path d="M164 130 L348 100" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M164 107 L418 172" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M326 172 L186 236" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- center: the repair scene -->
+  <circle cx="256" cy="340" r="52" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- child who knocked, now rebuilding -->
+  <circle cx="216" cy="348" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M202 346 A14 14 0 0 1 230 346 Z" fill="#2b3a42"/>
+  <circle cx="211" cy="348" r="1.6" fill="#2b3a42"/><circle cx="221" cy="348" r="1.6" fill="#2b3a42"/>
+  <path d="M211 354 Q216 359 221 354" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="206" y="362" width="20" height="28" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- rebuilt tower -->
+  <rect x="252" y="344" width="24" height="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="252" y="326" width="24" height="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- happy child -->
+  <circle cx="296" cy="348" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M282 346 A14 14 0 0 1 310 346 Z" fill="#2b3a42"/>
+  <circle cx="291" cy="348" r="1.6" fill="#2b3a42"/><circle cx="301" cy="348" r="1.6" fill="#2b3a42"/>
+  <path d="M291 354 Q296 359 301 354" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="286" y="362" width="20" height="28" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- note -->
+  <rect x="96" y="424" width="320" height="54" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Accountability plus repair — not punishment alone.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">Punishment alone stops. Restoration heals and makes things right.</text>
+
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">Labels, the three steps, and the rebuilt tower, not color, carry the meaning.</text>
+</svg>

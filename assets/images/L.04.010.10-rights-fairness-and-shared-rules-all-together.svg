@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rights, fairness &amp; our shared rules, all together</title>
+  <desc id="desc">An eight-part page gathers the whole unit. The boxes are: stronger reason (a balance scale with two reasons), my value (a heart), dignity honored or denied (a turned-toward vs. turned-away scene), a rule on trial (a rule card with a fairness check), here and there (two columns), our shared project (a task list with who does what), I statements and listening (two speech bubbles), and restorative practice (a three-step circle). Each box has a dashed draw-or-write area, and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Rights, Fairness &amp; Our Shared Rules — All Together</text>
+
+  <!-- helper: 8 boxes in 4 columns x 2 rows -->
+  <!-- row 1 -->
+  <rect x="14" y="48" width="118" height="128" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="73" y="66" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">stronger reason</text>
+  <line x1="36" y1="72" x2="110" y2="72" stroke="#2b3a42" stroke-width="1"/>
+  <path d="M52 100 L94 100" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M60 96 L60 104 L86 104 L86 96 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="73" cy="100" r="3" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="73" y="120" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#4f6d7a">which is stronger, why?</text>
+  <rect x="28" y="128" width="90" height="38" rx="5" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  <rect x="140" y="48" width="118" height="128" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="199" y="66" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">my value</text>
+  <line x1="162" y1="72" x2="236" y2="72" stroke="#2b3a42" stroke-width="1"/>
+  <path d="M199 108 Q199 92 212 92 Q225 92 225 100 Q225 92 199 92" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="199" y="126" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#4f6d7a">something I care about</text>
+  <rect x="154" y="128" width="90" height="38" rx="5" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  <rect x="266" y="48" width="118" height="128" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="325" y="66" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">dignity</text>
+  <line x1="288" y1="72" x2="362" y2="72" stroke="#2b3a42" stroke-width="1"/>
+  <circle cx="306" cy="104" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="342" cy="104" r="8" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M314 100 L334 100" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="325" y="126" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#4f6d7a">honored or denied</text>
+  <rect x="280" y="128" width="90" height="38" rx="5" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  <rect x="392" y="48" width="118" height="128" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="451" y="66" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">a rule on trial</text>
+  <line x1="414" y1="72" x2="488" y2="72" stroke="#2b3a42" stroke-width="1"/>
+  <rect x="414" y="86" width="74" height="30" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="451" y="104" text-anchor="middle" font-family="sans-serif" font-size="8" fill="#222222">rule card</text>
+  <text x="451" y="126" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#4f6d7a">fair to everyone?</text>
+  <rect x="406" y="128" width="90" height="38" rx="5" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  <!-- row 2 -->
+  <rect x="14" y="188" width="118" height="128" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="73" y="206" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">here and there</text>
+  <line x1="36" y1="212" x2="110" y2="212" stroke="#2b3a42" stroke-width="1"/>
+  <rect x="26" y="224" width="42" height="40" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="76" y="224" width="42" height="40" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="73" y="278" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#4f6d7a">two ways to decide</text>
+  <rect x="28" y="128" width="90" height="38" rx="5" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  <rect x="140" y="188" width="118" height="128" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="199" y="206" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">our shared project</text>
+  <line x1="162" y1="212" x2="236" y2="212" stroke="#2b3a42" stroke-width="1"/>
+  <text x="154" y="234" text-anchor="start" font-family="sans-serif" font-size="9" fill="#222222">· draw</text>
+  <text x="154" y="248" text-anchor="start" font-family="sans-serif" font-size="9" fill="#222222">· write</text>
+  <text x="154" y="262" text-anchor="start" font-family="sans-serif" font-size="9" fill="#222222">· check in</text>
+  <text x="199" y="278" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#4f6d7a">tasks divided fairly</text>
+  <rect x="154" y="128" width="90" height="38" rx="5" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  <rect x="266" y="188" width="118" height="128" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="325" y="206" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">I statements</text>
+  <line x1="288" y1="212" x2="362" y2="212" stroke="#2b3a42" stroke-width="1"/>
+  <rect x="284" y="224" width="40" height="26" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="326" y="224" width="40" height="26" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="325" y="278" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#4f6d7a">"I feel..." then listen</text>
+  <rect x="280" y="128" width="90" height="38" rx="5" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  <rect x="392" y="188" width="118" height="128" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="451" y="206" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">restorative practice</text>
+  <line x1="414" y1="212" x2="488" y2="212" stroke="#2b3a42" stroke-width="1"/>
+  <circle cx="451" cy="244" r="18" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="4 4"/>
+  <text x="451" y="240" text-anchor="middle" font-family="sans-serif" font-size="7" fill="#222222">listen</text>
+  <text x="451" y="250" text-anchor="middle" font-family="sans-serif" font-size="7" fill="#222222">own</text>
+  <text x="451" y="260" text-anchor="middle" font-family="sans-serif" font-size="7" fill="#222222">repair</text>
+  <text x="451" y="278" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#4f6d7a">repair, not only punish</text>
+  <rect x="406" y="128" width="90" height="38" rx="5" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="3 3"/>
+
+  <!-- bottom banner -->
+  <rect x="60" y="344" width="392" height="84" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Fairness is many small things you can do every day.</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Weigh reasons · name values · honor dignity · test rules ·</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">compare ways · share work · listen · repair.</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">Practiced, not preached.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="10" font-style="italic" fill="#4f6d7a">Labels carry the meaning — the picture prints in grayscale.</text>
+</svg>

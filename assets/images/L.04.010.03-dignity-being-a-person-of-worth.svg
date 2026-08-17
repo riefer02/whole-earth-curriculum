@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Dignity: being a person of worth</title>
+  <desc id="desc">Two panels show the same scene treated two ways. In the left panel, labeled "dignity honored," a new child is greeted by name, given a seat, and listened to — the group's faces and open bodies turn toward them. In the right panel, labeled "dignity denied," the same child stands to the side, ignored and talked over, while the group turns away. A banner reads "dignity: being treated as a person of worth." Labels, the turned-toward vs. turned-away bodies, and the seated vs. standing figure, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Dignity: Being Treated as a Person of Worth</text>
+
+  <!-- ===== left panel: honored ===== -->
+  <rect x="16" y="60" width="234" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="133" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">dignity honored</text>
+
+  <!-- three group members facing the new child -->
+  <circle cx="76" cy="150" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M62 148 A14 14 0 0 1 90 148 Z" fill="#2b3a42"/>
+  <circle cx="71" cy="150" r="1.6" fill="#2b3a42"/>
+  <circle cx="81" cy="150" r="1.6" fill="#2b3a42"/>
+  <path d="M71 156 Q76 161 81 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="66" y="164" width="20" height="34" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="120" cy="150" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M106 148 A14 14 0 0 1 134 148 Z" fill="#2b3a42"/>
+  <circle cx="115" cy="150" r="1.6" fill="#2b3a42"/>
+  <circle cx="125" cy="150" r="1.6" fill="#2b3a42"/>
+  <path d="M115 156 Q120 161 125 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="110" y="164" width="20" height="34" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- new child, seated, greeted -->
+  <circle cx="172" cy="170" r="14" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M158 168 A14 14 0 0 1 186 168 Z" fill="#2b3a42"/>
+  <circle cx="167" cy="170" r="1.6" fill="#2b3a42"/>
+  <circle cx="177" cy="170" r="1.6" fill="#2b3a42"/>
+  <path d="M167 176 Q172 181 177 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="160" y="184" width="24" height="30" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- seat -->
+  <rect x="152" y="214" width="40" height="10" rx="4" fill="#2b3a42"/>
+
+  <!-- greeting speech bubble -->
+  <rect x="36" y="220" width="150" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="111" y="242" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">"Hello, Amara —</text>
+  <text x="111" y="258" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">come sit with us."</text>
+
+  <text x="133" y="298" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">greeted by name</text>
+  <text x="133" y="314" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">listened to · given a seat</text>
+
+  <!-- ===== right panel: denied ===== -->
+  <rect x="262" y="60" width="234" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="379" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">dignity denied</text>
+
+  <!-- three group members turned away -->
+  <circle cx="320" cy="150" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M306 148 A14 14 0 0 1 334 148 Z" fill="#2b3a42"/>
+  <rect x="310" y="164" width="20" height="34" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="362" cy="150" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M348 148 A14 14 0 0 1 376 148 Z" fill="#2b3a42"/>
+  <rect x="352" y="164" width="20" height="34" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="404" cy="150" r="14" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M390 148 A14 14 0 0 1 418 148 Z" fill="#2b3a42"/>
+  <rect x="394" y="164" width="20" height="34" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- new child standing apart, looking down -->
+  <circle cx="468" cy="200" r="14" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M454 198 A14 14 0 0 1 482 198 Z" fill="#2b3a42"/>
+  <circle cx="463" cy="200" r="1.6" fill="#2b3a42"/>
+  <circle cx="473" cy="200" r="1.6" fill="#2b3a42"/>
+  <path d="M463 208 Q468 204 473 208" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="458" y="214" width="22" height="36" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- "no room" bubble -->
+  <rect x="296" y="220" width="170" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="381" y="242" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">"You can stand there."</text>
+  <text x="381" y="258" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">(talking over them)</text>
+
+  <text x="379" y="298" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">ignored · talked over</text>
+  <text x="379" y="314" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">left standing outside</text>
+
+  <!-- banner -->
+  <rect x="46" y="388" width="420" height="66" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Dignity is being treated as a person of worth.</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Every person is born with it. It cannot be taken — only denied.</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">Labels, bodies turned toward or away, and seat vs. standing carry the meaning.</text>
+</svg>

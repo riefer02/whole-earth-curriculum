@@ -62,3 +62,13 @@ as questions, not answered as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Which Reason Is Stronger? | D09.S1.04.01 |
+| 2 | What Is a Value? Naming One of Mine | D09.S1.04.02 |
+| 3 | Dignity: Being a Person of Worth | D09.S2.04.01 |
+| 4 | Is This Rule Fair to Everyone? | D09.S2.04.02 |
+| 5 | Decisions and Leaders: Here and There | D09.S3.04.01 |
+| 6 | Plan Our Shared Project | D09.S3.04.02 |
+| 7 | Do Our Shared Project | D09.S3.04.02 |
+| 8 | Active Listening and "I" Statements | D09.S4.04.01 |
+| 9 | Restorative Practice: Repair, Not Only Punish | D09.S4.04.02 |
+| 10 | Rights, Fairness & Our Shared Rules, All Together | D09.S1.04.01, D09.S1.04.02, D09.S2.04.01, D09.S2.04.02, D09.S3.04.01, D09.S3.04.02, D09.S4.04.01, D09.S4.04.02 |

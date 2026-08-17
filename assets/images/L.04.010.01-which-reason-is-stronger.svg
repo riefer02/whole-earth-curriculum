@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Which reason is stronger?</title>
+  <desc id="desc">A balance scale weighs two single reasons for one choice. The left pan holds a card reading "I promised to help carry water home." The right pan holds a card reading "I want to keep playing." The left pan sits lower, showing it is the stronger reason. A line beneath asks "which reason is stronger, and why?" and a filled banner answers "stronger because it keeps my word to someone who needs help." Labels, the two pans, the reasons, and the why line, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Two Reasons, One Choice</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#4f6d7a">the choice: keep playing, or help carry water home</text>
+
+  <!-- scale stand -->
+  <rect x="248" y="300" width="16" height="150" fill="#2b3a42"/>
+  <rect x="196" y="446" width="120" height="12" rx="6" fill="#2b3a42"/>
+  <!-- beam -->
+  <line x1="96" y1="196" x2="416" y2="196" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- pivot -->
+  <circle cx="256" cy="196" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="196" x2="256" y2="300" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- left hanger + pan (lower / stronger) -->
+  <line x1="128" y1="196" x2="128" y2="258" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M72 258 L184 258 L164 292 L92 292 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- right hanger + pan (higher / weaker) -->
+  <line x1="384" y1="196" x2="384" y2="238" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M328 238 L440 238 L420 272 L348 272 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- reason cards -->
+  <rect x="84" y="228" width="88" height="52" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="248" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#222222">I promised</text>
+  <text x="128" y="260" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#222222">to help carry</text>
+  <text x="128" y="272" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#222222">water home</text>
+
+  <rect x="340" y="206" width="88" height="46" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="384" y="224" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#222222">I want to</text>
+  <text x="384" y="236" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#222222">keep playing</text>
+
+  <!-- down arrow under stronger pan -->
+  <path d="M128 300 L128 326" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M120 320 L128 330 L136 320 Z" fill="#2b3a42"/>
+  <text x="150" y="324" text-anchor="start" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">stronger</text>
+
+  <!-- why banner -->
+  <rect x="56" y="360" width="400" height="66" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Which reason is stronger, and why?</text>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Stronger because it keeps my word</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">to someone who needs help.</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Ask "because of what?" The reason that holds up is stronger.</text>
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">Labels, not color, carry the meaning.</text>
+</svg>

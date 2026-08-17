@@ -3287,7 +3287,7 @@ items:
     type: lesson
     grade: 4
     domain: D09
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3299,6 +3299,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (797). IDs L.04.010.01-.10 sequence_in_unit 1-10, grade 4, unit U.04.010; objectives resolve only to real grade-4 D09 standards (all 8); unit.md Lessons table aligns; 10 SVGs exist; Procedure/Assessment/Connection all 10. Connection L4 concrete (fairness 'rule on trial' 3-question check, top-shelf book rule affecting tall/shorter/wheelchair users, village water tap/bus step) + CASEL/UNICEF cited.
+      fact-checker:
+        verdict: passed
+        note: "L5 Haudenosaunee claims verified live against Britannica Kids (clan mothers choose/remove chiefs, consensus under Great Law of Peace, influence on confederation); L9 restorative 3-step matches IIRP S-022, 'can work better than punishment alone' held as question + accountability retained; UNCRC/CASEL mappings correct; Kirschner/Lipman/Escuela Nueva real. Registered 3 follow-up sources: S-147 Slavin cooperative learning, S-148 Rosenberg NVC, S-149 UDHR. validate passes (797)."
+      global-culture-editor:
+        verdict: passed
+        note: L5 presents consensus/majority/elders-council/drawing-lots 'many fair ways' with explicit 'never rank one political system above another', welcomes monarchies/republics/councils descriptively; fair test 'does every voice count' not 'which system'; Haudenosaunee accurate (clan mothers, consensus, Great Law); no democracy-as-default. Representation spans herders/fishers/farmers/boat crews/village water tap/shopkeeper/council/Andean circle/elected mayor (no Western default); L2 values 'never a ranking'; L3 dignity 'shared value across many traditions' + UDHR; restorative/talking-stone generic function-described not appropriating; capstone 'practiced not preached'.
+      accessibility-editor:
+        verdict: passed
+        note: "SVG role=img+title+desc+non-empty alt all 10 grayscale-safe (labels/posture not color, 'tall reaches easily'/'wheelchair cannot reach'); low-tech tier all 10 (voice/body/found objects/dirt charts); non-speaking (point/sign), Deaf (sign+captions), blind (hear + read-back), motor (direct partner/scribe/checker); discussion/talking-stone/listening-circle/I-statement/restorative all non-vocal + non-visual + 'may always pass'; no eye-closing/physical-only; dignity/restorative forbid forced confession or performed apology. Minor non-blocking: L10 SVG row-2 draw rects copy-pasted y=128 (labels/desc/alt carry meaning)."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics central as open reasoning questions-not-dogma (L1 weigh reasons, L2 values, L3 dignity, L4 fairness on trial, L9 restorative, 'no single correct answer'); egalitarianism ('compare reasons never people' L1, 'no value better' L2, dignity 'not earned' L3, 'change rule not person' L4, 'never rank one political system above another' L5, 'every voice matters not just loudest' L10); global non-ranking comparative (L5 Haudenosaunee/Andean/elected mayor 'many fair ways none only right', cross-cultural herder/fisher/water-tap); tech/env light but present (low-tech/enriched tiers, fisher returns small fish, trampled-plant repair L9). Evidence vs values (CASEL/UNICEF/UNCRC/UDHR/Britannica/IIRP/Slavin/Escuela Nueva/Lipman/Kirschner cited, dignity/fairness 'practiced not preached'). Traceability: Vision->P4->D09->S1-S4->8 standards->U.04.010->10 lessons; all objectives resolve; no hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (9-10, 3-5): cognitive concrete-anchored moral reasoning (balance scale, cards, puppets, stones — reason/value/dignity/fairness/restorative all tangible); emotional safety dignity L3 denied examples invented gentle + 'never as shame' + no confession + ends agency ('can only be denied never taken'); restorative L9 both/and not forced ritual, 'never make learner confess real harm or perform scripted apology', invented harms + 'always may pass'; conflict role-plays L8 invented blame-free, forbids live class conflict, 'I' statements name feelings not blame; L5 no system ranked + private-sharing safety valve; open-ended ('no single correct answer', 'compare reasons never people'); spiral from G3."
   - id: B-322
     title: Author lessons for Unit U.04.011 (Tools, Media & Our Earth Home)
     agent: lesson-author

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Decisions and leaders: here and there</title>
+  <desc id="desc">A two-column comparison of ways to make decisions. The left column, labeled "here: my community," shows a group sitting in a circle talking and, beside it, a show of hands, with the caption "we talk, and sometimes vote." The right column, labeled "one other place: the Haudenosaunee council," shows a circle of leaders reaching agreement by talking until all consent, with the caption "leaders chosen by clan mothers; decisions by consensus." A bottom note reads "many places, many fair ways — none is the only right one." Labels, the two columns, and the captions, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Decisions and Leaders: Here and There</text>
+
+  <!-- ===== left column: here ===== -->
+  <rect x="16" y="56" width="234" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="133" y="82" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">here: my community</text>
+
+  <!-- circle of talking people -->
+  <circle cx="76" cy="150" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="133" cy="130" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="186" cy="150" r="12" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="120" cy="196" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="168" cy="196" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- speech lines between them -->
+  <line x1="86" y1="156" x2="124" y2="140" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="142" y1="136" x2="178" y2="148" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- show of hands -->
+  <text x="120" y="250" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">...or a show of hands</text>
+  <circle cx="96" cy="286" r="11" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="96" y1="278" x2="96" y2="262" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="134" cy="286" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="134" y1="278" x2="134" y2="262" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="172" cy="286" r="11" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="172" y1="278" x2="172" y2="262" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="133" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">we talk, and sometimes vote</text>
+  <text x="133" y="352" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">(your own way may differ —</text>
+  <text x="133" y="368" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">write or draw it here)</text>
+
+  <!-- ===== right column: one other place ===== -->
+  <rect x="262" y="56" width="234" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="379" y="82" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">one other place:</text>
+  <text x="379" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">the Haudenosaunee council</text>
+
+  <!-- council circle -->
+  <circle cx="322" cy="150" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="379" cy="130" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="432" cy="150" r="12" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="366" cy="196" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="414" cy="196" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- consensus ring -->
+  <circle cx="379" cy="162" r="44" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- clan mother figure -->
+  <circle cx="256" cy="196" r="11" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="300" y="300" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">leaders chosen by</text>
+  <text x="300" y="316" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">clan mothers</text>
+
+  <text x="379" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">talk until all agree</text>
+  <text x="379" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">decisions by consensus</text>
+  <text x="379" y="352" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">under the Great Law of Peace</text>
+
+  <!-- bottom note -->
+  <rect x="46" y="404" width="420" height="58" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Many places, many fair ways.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">No single way is the only right one — the test is whether every voice counts.</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">Labels and captions, not color, carry the meaning.</text>
+</svg>
