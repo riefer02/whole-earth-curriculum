@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Finding roots in words: one root grows into many words</title>
+  <desc id="desc">A tree has a trunk labeled "port = carry." Its branches hold the words portable, transport, import, and export. This shows how one root carries its meaning into a family of words. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Word Tree</text>
+
+  <!-- Trunk -->
+  <rect x="216" y="300" width="80" height="120" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">port</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">= carry</text>
+
+  <!-- Ground -->
+  <line x1="60" y1="420" x2="452" y2="420" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Branches -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <path d="M256 300 Q256 240 130 240 L130 210"/>
+    <path d="M256 300 Q256 240 256 210"/>
+    <path d="M256 300 Q256 240 382 240 L382 210"/>
+  </g>
+
+  <!-- Branch leaves -->
+  <g font-family="sans-serif" font-size="20" fill="#222222" text-anchor="middle">
+    <rect x="58" y="168" width="150" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="196">portable</text>
+    <text x="133" y="150" font-size="16" fill="#4f6d7a">easy to carry</text>
+
+    <rect x="184" y="168" width="150" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="259" y="196">transport</text>
+    <text x="259" y="150" font-size="16" fill="#4f6d7a">carry across</text>
+
+    <rect x="310" y="168" width="150" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="385" y="196">import</text>
+    <text x="385" y="150" font-size="16" fill="#4f6d7a">carry in</text>
+  </g>
+
+  <!-- Extra branch: export -->
+  <g>
+    <path d="M256 300 Q256 250 420 250 L420 300" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="348" y="300" width="150" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="423" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">export</text>
+    <text x="423" y="282" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">carry out</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">One root, a whole family of words.</text>
+</svg>

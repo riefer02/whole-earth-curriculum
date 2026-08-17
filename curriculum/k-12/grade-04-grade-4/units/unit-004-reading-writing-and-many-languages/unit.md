@@ -62,3 +62,18 @@ multilingualism is treated as wealth.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.04.004.01 | Summarizing an Oral Presentation | D04.S1.04.01 |
+| L.04.004.02 | Key Details of a Read-Aloud | D04.S1.04.01 |
+| L.04.004.03 | Presenting with Clear Volume and Pace | D04.S1.04.02 |
+| L.04.004.04 | Using Context Clues | D04.S2.04.01 |
+| L.04.004.05 | Finding Roots in Words | D04.S2.04.01 |
+| L.04.004.06 | Prefixes and Suffixes | D04.S2.04.01 |
+| L.04.004.07 | Compare and Contrast Within a Text | D04.S2.04.02 |
+| L.04.004.08 | Compare and Contrast Across Two Texts | D04.S2.04.02 |
+| L.04.004.09 | Organizing Ideas into Paragraphs | D04.S3.04.01 |
+| L.04.004.10 | Choosing a Piece and Planning | D04.S3.04.01, D04.S3.04.02 |
+| L.04.004.11 | Drafting into Paragraphs | D04.S3.04.02 |
+| L.04.004.12 | Revising for Clear Ideas | D04.S3.04.02 |
+| L.04.004.13 | Editing and Publishing | D04.S3.04.02 |
+| L.04.004.14 | Language Families and Shared Roots | D04.S4.04.01 |
+| L.04.004.15 | Respecting a Peer's Language and Name | D04.S4.04.02 |

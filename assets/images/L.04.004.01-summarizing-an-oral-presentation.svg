@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Summarizing an oral presentation: one main idea held up by key details</title>
+  <desc id="desc">A speaker stands on the left facing a listener on the right. In the middle, a large box labeled "main idea" sits above three smaller boxes labeled "key detail." The image shows that a summary is one big idea supported by a few key details, drawn in simple shapes and grayscale-printable colors.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Summary</text>
+
+  <!-- Speaker -->
+  <g>
+    <circle cx="92" cy="200" r="30" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M60 250 Q92 240 124 250 L124 292 L60 292 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M60 292 L56 320 M124 292 L128 320" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M78 240 L70 216 M106 240 L114 216" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- speaking lines -->
+    <path d="M128 196 Q150 190 158 184 M128 208 Q152 206 160 204" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+    <text x="92" y="340" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">speaker</text>
+  </g>
+
+  <!-- Listener -->
+  <g>
+    <circle cx="420" cy="200" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M388 250 Q420 240 452 250 L452 292 L388 292 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M388 292 L384 320 M452 292 L456 320" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M406 240 L398 216 M434 240 L442 216" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="420" y="340" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">listener</text>
+  </g>
+
+  <!-- Main idea box -->
+  <rect x="176" y="120" width="160" height="58" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="156" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">main idea</text>
+
+  <!-- Key detail boxes -->
+  <rect x="176" y="196" width="160" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="224" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">key detail</text>
+  <rect x="176" y="252" width="160" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">key detail</text>
+  <rect x="176" y="308" width="160" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">key detail</text>
+
+  <!-- Connecting lines -->
+  <line x1="256" y1="178" x2="256" y2="196" stroke="#4f6d7a" stroke-width="2"/>
+</svg>

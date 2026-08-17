@@ -3065,7 +3065,7 @@ items:
     type: lesson
     grade: 4
     domain: D04
-    status: ready
+    status: done
     priority: 90
     depends_on:
       - B-101
@@ -3077,6 +3077,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (733). IDs L.04.004.01-.15 sequence_in_unit 1-15, grade 4, unit U.04.004; objectives resolve only to real grade-4 D04 standards (all 8); unit.md Lessons table all 15 align; Connection L14 concrete (mother/madre/mere/Mutter/mata) with sources (Fortson 2010 + UNESCO) and evidence-vs-reconstruction distinction; 15 SVGs well-formed.
+      fact-checker:
+        verdict: passed
+        note: "Verified PIE *meh2ter 'mother' cognates (mother/madre/mere/Mutter/mata via Sanskrit matar), night/Nacht/nuit, Bantu *-ntu (muntu/motho); Latin roots port/struct/spect + affixes un-/re-/-ful/-less; context-clue taxonomy; Fortson 2010 real + correct; evidence-vs-reconstruction framing (PIE 'offered as scientific story'). 4 sources already registered (S-011/S-040/S-001/S-019); registered 3 new: S-102 Graham&Perin Writing Next, S-103 Fortson 2010, S-104 Kohli&Solorzano 2012. validate passes (733)."
+      global-culture-editor:
+        verdict: passed
+        note: No language framed as superior ('every language equal in worth' UNESCO, 'no language better than another', isolate honored 'not less'); non-IE family represented substantively (Bantu/Niger-Congo muntu/motho 'person' shared root) alongside non-Western-inclusive IE example (madre/mere/Mutter/mata Hindi); L15 name/language respect universal, signed languages 'exactly as high as spoken', accents 'natural variation never error', multilingual wall 'all equal size none above'; L3 rejects standard-voice ideology; L9-13 honor home language/braille/non-Latin scripts. No US/Euro default.
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier all 15 (voice/memory/fingers/sand/chalk/stones, no device; enriched optional); SVG role=img+title+desc+non-empty alt all 15; blind (read-aloud/braille/large-print L1-2/4-8), Deaf/non-speaking (signed presentations + devices, signing pace/size = spoken volume/pace, L1/3/14/15), motor (dictation/scribing/drawing/AT L9-13), name-respect incl sign names ('a signed name is a name', pronounce-or-produce L15); no eye-closing/physical-only mandates; UDL multiple means + 5 context_variants every lesson.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (peer feedback cooperative not competitive L12, PIE reconstruction honesty L14, name/pronunciation respect + 'no one forced to teach their language' L15); egalitarianism (explicit anti-language-hierarchy 'no language better', 'signed exactly as high as spoken', 'accents natural variation never error', multilingualism=wealth, home language first); global (IE meh2ter + Bantu muntu/motho, paired texts two cultures L8, Kohli&Solorzano); tech/env (translation/recording 'helpers not replacements', outdoor + low-tech sand/chalk variants). Evidence vs values: sources (Kirschner/NRP/Graham&Perin/Fortson/UNESCO/CASEL), reconstruction 'scientific story not revealed truth'. Traceability: Vision->P3->D04->S1-S4->standards->U.04.004->L.04.004.01-.15; all 8 objectives resolve to real standards; no hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-4 band (9-10, 3-5): cognitive worked-example-first on concrete anchors (summary frames, word trees, card sorts, Venn diagrams); PIE reconstruction kept as teacher background + learner task is concrete sound-noticing (mother/madre/mere/Mutter/mata); emotional safety presenting anxiety-scaffolded (trusted partner->small group->whole group, feedback as observations never scores), publishing non-oral alternative, name/language gift can be declined; identity safety anti-ranking ('every language equal', isolate 'not less'), no one forced to display, accents 'natural variation never error', signed honored equally; physical fine-motor + outdoor movement; spiral builds on G3; inquiry questions held open, evidence vs values."
   - id: B-316
     title: Author lessons for Unit U.04.005 (Numbers, Patterns, Shapes & Data)
     agent: lesson-author

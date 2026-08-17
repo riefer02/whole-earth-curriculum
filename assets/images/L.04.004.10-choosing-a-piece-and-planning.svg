@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Choosing a kind and planning a piece</title>
+  <desc id="desc">A planning web has a center circle labeled "my topic" and branches leading to idea bubbles labeled "detail." Below are three cards labeled narrative, informative, and opinion. This shows choosing a kind and planning before drafting. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Plan Before You Draft</text>
+
+  <!-- Center -->
+  <circle cx="256" cy="170" r="52" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="166" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">my topic</text>
+
+  <!-- Branches and bubbles -->
+  <g stroke="#4f6d7a" stroke-width="2.5">
+    <line x1="212" y1="132" x2="130" y2="92"/>
+    <line x1="206" y1="208" x2="110" y2="250"/>
+    <line x1="300" y1="132" x2="382" y2="92"/>
+    <line x1="306" y1="208" x2="402" y2="250"/>
+  </g>
+  <g font-family="sans-serif" font-size="20" fill="#222222">
+    <rect x="58" y="56" width="110" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="113" y="84" text-anchor="middle">detail</text>
+
+    <rect x="38" y="252" width="110" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="93" y="280" text-anchor="middle">detail</text>
+
+    <rect x="344" y="56" width="110" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="399" y="84" text-anchor="middle">detail</text>
+
+    <rect x="364" y="252" width="110" height="44" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="419" y="280" text-anchor="middle">detail</text>
+  </g>
+
+  <!-- Genre cards -->
+  <g font-family="sans-serif" font-size="18" fill="#222222" text-anchor="middle">
+    <rect x="36" y="356" width="136" height="96" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="104" y="392" font-weight="bold">narrative</text>
+    <text x="104" y="414" font-size="15">a story</text>
+
+    <rect x="188" y="356" width="136" height="96" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="392" font-weight="bold">informative</text>
+    <text x="256" y="414" font-size="15">facts</text>
+
+    <rect x="340" y="356" width="136" height="96" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="408" y="392" font-weight="bold">opinion</text>
+    <text x="408" y="414" font-size="15">what I think</text>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Choose a kind, gather your ideas.</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Compare and contrast within a text: same and different</title>
+  <desc id="desc">Two figures stand beside a two-column chart. The left column is headed "same" and the right "different," with check marks sorted under each. This teaches comparing and contrasting two things within one text. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Compare and Contrast</text>
+
+  <!-- Two figures -->
+  <g>
+    <circle cx="96" cy="140" r="28" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M66 186 Q96 176 126 186 L126 224 L66 224 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="96" y="256" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">thing 1</text>
+
+    <circle cx="184" cy="140" r="28" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M154 186 Q184 176 214 186 L214 224 L154 224 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="184" y="256" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">thing 2</text>
+  </g>
+
+  <!-- Chart -->
+  <rect x="252" y="92" width="112" height="160" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="308" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">same</text>
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <path d="M276 150 L288 160 L300 144"/>
+    <path d="M276 178 L288 188 L300 172"/>
+    <path d="M276 206 L288 216 L300 200"/>
+  </g>
+
+  <rect x="372" y="92" width="112" height="160" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="428" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">different</text>
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <path d="M396 150 L408 160 L420 144"/>
+    <path d="M396 178 L408 188 L420 172"/>
+    <path d="M396 206 L408 216 L420 200"/>
+  </g>
+
+  <text x="256" y="312" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">How are they alike? How are they different?</text>
+
+  <rect x="96" y="360" width="320" height="64" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">give a reason from the text</text>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">"I say they are alike because…"</text>
+</svg>

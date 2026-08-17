@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Compare and contrast across two texts</title>
+  <desc id="desc">Two open books sit side by side, each labeled with a theme. Between them a chart shows a "same" column and a "different" column. This teaches comparing and contrasting themes or characters across two texts. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Across Two Texts</text>
+
+  <!-- Book 1 -->
+  <g>
+    <path d="M60 120 Q120 96 180 120 L180 260 Q120 236 60 260 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="120" y1="98" x2="120" y2="238" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="80" y1="140" x2="106" y2="140" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <line x1="80" y1="160" x2="106" y2="160" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <line x1="134" y1="140" x2="162" y2="140" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <line x1="134" y1="160" x2="162" y2="160" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <text x="120" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">text 1</text>
+    <text x="120" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">its theme</text>
+  </g>
+
+  <!-- Book 2 -->
+  <g>
+    <path d="M320 120 Q380 96 440 120 L440 260 Q380 236 320 260 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="380" y1="98" x2="380" y2="238" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="340" y1="140" x2="366" y2="140" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <line x1="340" y1="160" x2="366" y2="160" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <line x1="394" y1="140" x2="422" y2="140" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <line x1="394" y1="160" x2="422" y2="160" stroke="#4f6d7a" stroke-width="3" stroke-linecap="300"/>
+    <text x="380" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">text 2</text>
+    <text x="380" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">its theme</text>
+  </g>
+
+  <!-- Chart -->
+  <rect x="196" y="352" width="120" height="120" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">same</text>
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <path d="M218 406 L230 416 L246 400"/>
+    <path d="M218 434 L230 444 L246 428"/>
+  </g>
+
+  <rect x="196" y="480" width="0" height="0" fill="none"/>
+  <rect x="328" y="352" width="120" height="120" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="388" y="382" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">different</text>
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <path d="M350 406 L362 416 L378 400"/>
+    <path d="M350 434 L362 444 L378 428"/>
+  </g>
+
+  <text x="256" y="132" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">both texts</text>
+</svg>

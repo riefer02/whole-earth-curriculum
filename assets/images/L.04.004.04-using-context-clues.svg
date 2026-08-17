@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Using context clues to figure out an unfamiliar word</title>
+  <desc id="desc">A sentence in a box contains one circled unfamiliar word. Three arrows point from surrounding words to the circled word, each labeled "clue." This shows that nearby words reveal what an unfamiliar word means. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Context Clues</text>
+
+  <!-- Sentence box -->
+  <rect x="40" y="90" width="432" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">The morning breeze, a soft</text>
+  <circle cx="256" cy="196" r="34" fill="none" stroke="#e0a458" stroke-width="3.5"/>
+  <text x="256" y="202" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">zephyr,</text>
+  <text x="256" y="246" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">cooled our faces.</text>
+
+  <!-- Clue arrows -->
+  <g stroke="#4f6d7a" stroke-width="2.5" fill="none">
+    <path d="M120 196 L190 196" marker-end="none"/>
+    <path d="M392 196 L322 196"/>
+  </g>
+  <g fill="#4f6d7a" font-family="sans-serif" font-size="18">
+    <text x="104" y="128" text-anchor="middle">clue</text>
+    <text x="408" y="128" text-anchor="middle">clue</text>
+  </g>
+
+  <!-- Label -->
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">The words around a word are clues to its meaning.</text>
+
+  <!-- Guessed meaning -->
+  <rect x="96" y="356" width="320" height="64" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">guess: a gentle wind</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">then check by re-reading</text>
+</svg>

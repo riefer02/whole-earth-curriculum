@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Revising for clear ideas: add, remove, reorder</title>
+  <desc id="desc">A draft page shows three revision moves: a word added above a line, an extra word crossed out, and an arrow moving a sentence earlier. Labels read "add," "remove," and "reorder." This teaches the three moves of revision. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Revising: Add, Remove, Reorder</text>
+
+  <!-- Page -->
+  <rect x="70" y="84" width="372" height="300" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Line 1 with add -->
+  <line x1="100" y1="140" x2="410" y2="140" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <text x="150" y="112" font-family="sans-serif" font-size="18" fill="#6b93b6">added word</text>
+  <text x="220" y="176" font-family="sans-serif" font-size="16" fill="#6b93b6">add</text>
+
+  <!-- Line 2 with remove -->
+  <line x1="100" y1="220" x2="410" y2="220" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <text x="230" y="214" font-family="sans-serif" font-size="18" fill="#4f6d7a">extra word</text>
+  <line x1="216" y1="206" x2="308" y2="232" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <text x="360" y="256" font-family="sans-serif" font-size="16" fill="#e0a458">remove</text>
+
+  <!-- Line 3 with reorder arrow -->
+  <line x1="100" y1="300" x2="410" y2="300" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M150 318 Q150 344 250 344 Q350 344 350 318" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <path d="M342 318 L350 306 L358 318" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="250" y="368" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#7a9e7e">reorder</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Make the idea clearer for the reader.</text>
+</svg>

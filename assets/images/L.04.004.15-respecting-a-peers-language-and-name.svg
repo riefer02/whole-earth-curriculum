@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Respecting a peer's language and name</title>
+  <desc id="desc">Two learners face each other. One asks in a speech bubble "How do you say your name?" The other replies with their name and a greeting in their language. Below, a check reads "did I say it right?" This teaches that learning a name and words is an act of respect. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Learning a Name, Showing Respect</text>
+
+  <!-- Left learner -->
+  <g>
+    <circle cx="140" cy="260" r="34" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M100 316 Q140 304 180 316 L180 372 L100 372 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M100 372 L94 408 M180 372 L186 408" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M120 300 L110 274 M160 300 L170 274" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Right learner -->
+  <g>
+    <circle cx="372" cy="260" r="34" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M332 316 Q372 304 412 316 L412 372 L332 372 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M332 372 L326 408 M412 372 L418 408" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M352 300 L342 274 M392 300 L402 274" stroke="#2b3a42" stroke-width="2" stroke-linecap="200"/>
+  </g>
+
+  <!-- Speech bubbles -->
+  <g>
+    <rect x="40" y="120" width="200" height="84" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 204 L132 236 L150 206" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="140" y="158" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">How do you say</text>
+    <text x="140" y="182" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">your name?</text>
+
+    <rect x="272" y="120" width="200" height="84" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M392 204 L380 236 L362 206" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="372" y="156" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">[my name]</text>
+    <text x="372" y="182" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">[greeting in my language]</text>
+  </g>
+
+  <!-- Check -->
+  <rect x="156" y="424" width="200" height="54" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">did I say it right?</text>
+</svg>

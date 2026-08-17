@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Language families and shared roots</title>
+  <desc id="desc">A family tree has one shared root at the base and branches labeled with the word for mother in several related languages: mother, madre, mère, and Mutter. This shows that languages belong to families that share roots. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Language Family</text>
+
+  <!-- Root -->
+  <rect x="196" y="380" width="120" height="66" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">one old root</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">"mother"</text>
+
+  <!-- Trunk -->
+  <rect x="240" y="300" width="32" height="80" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Branches -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <path d="M256 300 Q256 260 100 260 L100 210"/>
+    <path d="M256 300 Q256 260 256 210"/>
+    <path d="M256 300 Q256 260 412 260 L412 210"/>
+  </g>
+
+  <!-- Leaves: mother words -->
+  <g font-family="sans-serif" font-size="22" fill="#222222" text-anchor="middle">
+    <rect x="40" y="150" width="120" height="60" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="100" y="188">mother</text>
+    <text x="100" y="128" font-size="15" fill="#4f6d7a">English</text>
+
+    <rect x="196" y="150" width="120" height="60" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="188">madre</text>
+    <text x="256" y="128" font-size="15" fill="#4f6d7a">Spanish</text>
+
+    <rect x="352" y="150" width="120" height="60" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="412" y="188">mère</text>
+    <text x="412" y="128" font-size="15" fill="#4f6d7a">French</text>
+  </g>
+
+  <!-- Fourth branch -->
+  <path d="M256 300 Q256 250 40 250 L40 220" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="20" y="40" width="120" height="60" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="78" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">Mutter</text>
+  <text x="80" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">German</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Cousin languages, one shared root.</text>
+</svg>

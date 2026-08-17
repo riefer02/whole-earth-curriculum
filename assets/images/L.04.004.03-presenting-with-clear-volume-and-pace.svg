@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Presenting with clear volume and pace</title>
+  <desc id="desc">A speaker stands before three listeners. Above the speaker, a volume dial and a pace arrow show "loud enough, not too fast." One listener gives a thumbs-up. This teaches the two checks for a clear talk: can the audience hear it and follow it. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Clear Talk</text>
+
+  <!-- Speaker -->
+  <g>
+    <circle cx="256" cy="170" r="34" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M216 226 Q256 214 296 226 L296 280 L216 280 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M216 280 L210 314 M296 280 L302 314" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M236 212 L226 184 M276 212 L286 184" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- speaking waves -->
+    <path d="M300 168 Q320 160 328 150 M302 184 Q324 180 334 172" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Volume dial -->
+  <g>
+    <circle cx="96" cy="120" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M96 120 L116 98" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+    <text x="96" y="176" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">volume</text>
+  </g>
+
+  <!-- Pace arrow -->
+  <g>
+    <rect x="352" y="86" width="112" height="48" rx="24" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="408" y="116" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">pace</text>
+    <path d="M352 150 L352 132 L372 132 M464 132 L444 132 L444 150" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Listeners -->
+  <g>
+    <circle cx="150" cy="360" r="26" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M124 398 Q150 388 176 398 L176 430 L124 430 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="458" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">listener</text>
+
+    <circle cx="262" cy="360" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M236 398 Q262 388 288 398 L288 430 L236 430 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- thumbs up -->
+    <path d="M300 402 L312 392 M312 392 L320 392 L320 408 L312 408 Z" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="262" y="458" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">I could follow</text>
+
+    <circle cx="374" cy="360" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M348 398 Q374 388 400 398 L400 430 L348 430 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="374" y="458" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">I could hear</text>
+  </g>
+</svg>

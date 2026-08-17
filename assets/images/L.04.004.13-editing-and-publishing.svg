@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Editing and publishing: the final copy</title>
+  <desc id="desc">A page labeled "final copy" sits under a pencil and a checklist with checks for spelling, capitals, and end marks. A small "published" stamp sits in the corner. This teaches the last step of the writing process. Simple shapes, grayscale-printable.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Edit and Publish</text>
+
+  <!-- Final copy page -->
+  <rect x="60" y="96" width="250" height="280" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="185" y="128" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">final copy</text>
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round">
+    <line x1="84" y1="158" x2="286" y2="158"/>
+    <line x1="84" y1="184" x2="286" y2="184"/>
+    <line x1="84" y1="210" x2="260" y2="210"/>
+    <line x1="84" y1="244" x2="286" y2="244"/>
+    <line x1="84" y1="270" x2="286" y2="270"/>
+    <line x1="84" y1="296" x2="250" y2="296"/>
+  </g>
+
+  <!-- Published stamp -->
+  <g transform="rotate(-14 260 340)">
+    <rect x="208" y="316" width="104" height="40" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="260" y="342" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#7a9e7e">published</text>
+  </g>
+
+  <!-- Checklist -->
+  <rect x="340" y="96" width="132" height="200" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="406" y="124" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">check</text>
+  <g font-family="sans-serif" font-size="17" fill="#222222">
+    <rect x="356" y="146" width="18" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 155 L364 160 L372 149" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <text x="382" y="161">spelling</text>
+
+    <rect x="356" y="186" width="18" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 195 L364 200 L372 189" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <text x="382" y="201">capitals</text>
+
+    <rect x="356" y="226" width="18" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 235 L364 240 L372 229" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <text x="382" y="241">end marks</text>
+  </g>
+
+  <!-- Pencil -->
+  <g>
+    <rect x="352" y="316" width="10" height="60" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M352 316 L357 296 L362 316 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Plan, draft, revise, edit, publish — done.</text>
+</svg>

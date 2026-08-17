@@ -940,3 +940,32 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in U.04.002 L08/L09 for cooperative-game rules and fair play in physical education. Real professional authority for PE standards; URL verified live (2026-08-17). Used as a general authority for fair-play and inclusive-game framing."
+
+  - id: S-102
+    title: "Graham & Perin — Writing Next"
+    type: report
+    url: https://all4ed.org/reports-factsheets/writing-next/
+    organization: Alliance for Excellent Education / Carnegie Corporation of New York
+    year: 2007
+    domains: [D04]
+    reviewed: true
+    notes: "Graham, S., & Perin, D. (2007). Writing Next: Effective Strategies to Improve Writing of Adolescents in Middle and High Schools. Real report to Carnegie Corporation of New York (Alliance for Excellent Education). Cited in U.04.004 L09–L13 for the writing-process (plan/draft/revise/edit/publish) claims and explicit strategy instruction. Used as a general authority for effective writing pedagogy."
+
+  - id: S-103
+    title: "Fortson — Indo-European Language and Culture (2nd ed.)"
+    type: book
+    organization: Wiley-Blackwell
+    year: 2010
+    domains: [D04]
+    reviewed: true
+    notes: "Fortson, B. W. (2010). Indo-European Language and Culture: An Introduction (2nd ed.). Wiley-Blackwell. ISBN 978-1-405-18896-8. Cited in U.04.004 L14 for the Proto-Indo-European *méh₂tēr 'mother' root and its reflexes (English mother, Spanish madre, French mère, German Mutter, Hindi mātā via Sanskrit mātár-). Reconstruction correctly framed as an inferred scientific story, not a revealed truth. No URL (print book)."
+
+  - id: S-104
+    title: "Kohli & Solórzano — Teachers, please learn our names!"
+    type: article
+    url: https://doi.org/10.1080/13613324.2012.674026
+    organization: Race Ethnicity and Education
+    year: 2012
+    domains: [D04]
+    reviewed: true
+    notes: "Kohli, R., & Solórzano, D. G. (2012). Teachers, please learn our names!: racial microaggressions and the K-12 classroom. Race Ethnicity and Education, 15(4), 441–462. Cited in U.04.004 L15 for the importance of correctly learning/pronouncing a peer's name. Journal title is 'Race Ethnicity and Education' (no comma)."
