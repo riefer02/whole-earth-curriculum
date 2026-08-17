@@ -2880,7 +2880,7 @@ items:
     type: lesson
     grade: 3
     domain: D10
-    status: ready
+    status: done
     priority: 80
     depends_on:
       - B-100
@@ -2892,6 +2892,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: Validate passes (681 files). IDs L.03.011.01-.10 sequential, sequence_in_unit 1-10, unit U.03.011, grade 3; all 10 Procedure/Assessment + Connection. Objectives resolve to the 8 real Grade-3 D10 standards only (L5 D10.S3.03.01 matches domain verbatim) — no invented IDs. unit.md Lessons table lists all 10. Sources Britannica Kids/BBC/NASA/WHO/UNESCO/Common Sense Education; evidence vs values separated; Connections concrete (L7 'comes back' anchored to sunlight). Energy as 'story of energy moving, not scary story of eating'; multi-biome no wealth/blame. validate passes.
+      fact-checker:
+        verdict: passed
+        note: "Verified: food-chain energy direction sun→plant→consumer (BBC KS2 S-072); photosynthesis sunlight+water+air (BBC S-074 + NASA S-047); renewable/nonrenewable (coal/oil millions of years vs sun/wind/water); simple machines/sewing-machine/media claims (Britannica Kids S-061, Britannica S-062, Common Sense S-063). Evidence vs values explicit every note; environmental hedged ('stewardship not doom', 'agency not guilt'). Fix: L7 'coal/oil runs out' loosely cited to Britannica Kids Tool → registered EIA Energy Kids S-095 (Renewable/Coal live) and re-pointed. validate passes (681 files)."
+      global-culture-editor:
+        verdict: passed
+        note: No US/Eurocentric default (markets/rivers/wells/villages/city flats; shadoof/hand pumps/hand carts beside lorries as equal tools). L2 counters 'non-electric=backward' ('new is not better, old is not worse'); wealth assumption neutralized ('a family with little water already saves carefully', 'any scrap of paper enough'); media 'coins' not specific currency + spoken story/song as legitimate message; environmental care stewardship not fear ('home not storehouse', 'helpers not saviors'); food chains span savanna/sea/forest/rice-field. validate passes (681 files).
+      accessibility-editor:
+        verdict: passed
+        note: materials_low_tech all 10 (found objects + voice/body); alt text all 10 assets (SVGs role=img/aria-labelledby/title/desc, word labels grayscale/colorblind-safe). Tool/media non-visual (L1-2 tactile lever/wheel/ramp; L3-4 media read aloud/spoken); Differentiation covers blind/Deaf/non-speaking/motor with 'say, draw, point, sign, or act'; environment L5-10 indoor with outdoor-only as variant not requirement (no outdoor-mobility assumption); no wealth assumption (devices optional enriched); no breathing/eye-closing/mandatory-physical prompts. validate passes (681 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses verified: ethics (stewardship 'what runs out needs care', ad/media fact-vs-value separation L3); egalitarianism ('honor every tool/people equally', 'new is not better just different', no wealth assumption L8-9); global (shadoof/village wells/rice fields/sea plants, WHO/UNESCO/BBC/Britannica/NASA sources, no Euro default); tech/env (neither worship nor fear; food chains + stewardship L5-10). Evidence vs values explicit L2/3/7/8/9. Traceability intact: Vision→P4→D10→S1-S4→U.03.011→lessons; all 8 objectives resolve to real standards. validate passes."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-3 band (8-9, concrete operations): cognitive load kept concrete-operational (real levers/wheels/ramps, food-chain cards, 'plants make own food' without demanding 'photosynthesis', modeled-then-guided); emotional safety scaffolded with agency + hopeful-not-frightening tone (stewardship not doom, food chain 'story of energy moving not scary eating'); physical fit via hands-on building/movement with blind/Deaf/non-speaking/motor differentiation every lesson; inquiry-over-creed (evidence vs value separated, questions open). No developmental defects."
   - id: B-311
     title: Author lessons for Unit U.03.012 (All of Me, All of Us)
     agent: lesson-author

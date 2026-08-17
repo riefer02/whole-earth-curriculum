@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Our Earth home in four parts</title>
+  <desc id="d">A big Earth circle divided into four labeled parts. Tools shows a lever, a wheel, and a ramp; Media shows an ad and an information message with purpose and audience; Living shows a food chain with arrows — sun, plant, rabbit, fox; Care shows a tap turned off and a resource used less. The four words Tools, Media, Living, and Care are printed inside each part, so the meaning does not depend on color and it prints in grayscale. The closing line teaches that tools, media, living things, and care all belong to one shared home.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Our Earth home</text>
+
+  <!-- Circle and dividing lines -->
+  <circle cx="256" cy="260" r="200" fill="none" stroke="#2b3a42" stroke-width="5"/>
+  <line x1="256" y1="60" x2="256" y2="460" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="56" y1="260" x2="456" y2="260" stroke="#2b3a42" stroke-width="4"/>
+
+  <!-- Tools (top-left) -->
+  <text x="156" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">Tools</text>
+  <line x1="120" y1="170" x2="196" y2="164" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="158" cy="150" r="9" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="128" cy="206" r="14" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="128" cy="206" r="3" fill="#2b3a42"/>
+  <polygon points="182,200 200,200 200,182" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Media (top-right) -->
+  <text x="356" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">Media</text>
+  <rect x="300" y="128" width="52" height="44" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="326" y="140" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">info</text>
+  <text x="326" y="154" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">a fact</text>
+  <rect x="360" y="128" width="52" height="44" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="386" y="140" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">ad</text>
+  <text x="386" y="154" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">buy now</text>
+  <text x="356" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">purpose · audience</text>
+
+  <!-- Living (bottom-left) -->
+  <text x="156" y="320" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">Living</text>
+  <circle cx="128" cy="340" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="148" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">→</text>
+  <line x1="162" y1="368" x2="162" y2="350" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M162 350 q7 -5 7 -10" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="186" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">→</text>
+  <ellipse cx="200" cy="344" rx="13" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="156" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">sun → plant → rabbit → fox</text>
+
+  <!-- Care (bottom-right) -->
+  <text x="356" y="320" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">Care</text>
+  <rect x="316" y="334" width="12" height="34" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="326" y="334" width="22" height="9" rx="2" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M336 343 q4 20 0 30" stroke="#6b93b6" stroke-width="4" fill="none"/>
+  <text x="356" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">turn off · use less</text>
+
+  <rect x="16" y="476" width="480" height="30" rx="8" fill="#fdfbf7"/>
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Tools, media, living things, and care — all in one shared home.</text>
+</svg>

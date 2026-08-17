@@ -63,3 +63,13 @@ judgment, neither worship nor fear.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.03.011.01 | Simple Machines — Lever, Wheel, and Ramp | D10.S1.03.01 |
+| L.03.011.02 | One Job, Then and Now | D10.S1.03.02 |
+| L.03.011.03 | Advertisement or Information? | D10.S2.03.01 |
+| L.03.011.04 | Every Message Has a Purpose and an Audience | D10.S2.03.02 |
+| L.03.011.05 | A Food Chain — Where Energy Moves | D10.S3.03.01 |
+| L.03.011.06 | Plants Make Their Own Food | D10.S3.03.02 |
+| L.03.011.07 | Runs Out or Comes Back | D10.S4.03.01 |
+| L.03.011.08 | One Resource — Where It Comes From, and Using Less | D10.S4.03.02 |
+| L.03.011.09 | Our Care Message — Purpose, Audience, and Help | D10.S2.03.02, D10.S4.03.02 |
+| L.03.011.10 | Our Earth Home: Tools, Media, Living Things, and Care | D10.S1.03.01, D10.S1.03.02, D10.S2.03.01, D10.S2.03.02, D10.S3.03.01, D10.S3.03.02, D10.S4.03.01, D10.S4.03.02 |

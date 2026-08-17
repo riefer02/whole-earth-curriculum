@@ -876,3 +876,12 @@ sources:
     domains: [D09]
     reviewed: true
     notes: "Cited in U.03.010 L02 (The Same Act, Different Situations) for the 'context matters' idea in the philosophy-for-children tradition. Real book: the founding novel of the Philosophy for Children movement (Matthew Lipman, IAPC/Montclair State University, first published 1974), which invites young learners to reason about meaning and context. On-topic as a tradition/frame reference, not a claim-level citation. No URL (print book)."
+
+  - id: S-095
+    title: EIA Energy Kids — Renewable and Nonrenewable Energy Sources
+    type: website
+    url: https://www.eia.gov/kids/energy-sources/renewable/
+    organization: U.S. Energy Information Administration (EIA)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.03.011 L07 (Runs Out or Comes Back) for the nonrenewable ('runs out') vs renewable ('comes back') resource distinction. URLs verified live (2026-08-17): the 'Renewable' page states 'Renewable energy is energy from sources that are naturally replenishing but flow-limited; renewable resources are virtually inexhaustible' and lists fossil fuels (coal, petroleum, natural gas) as the contrast; the companion 'Coal' page (https://www.eia.gov/kids/energy-sources/coal/) states 'Coal is classified as a nonrenewable energy source because it takes millions of years to form. Coal contains the energy stored by plants that lived hundreds of millions of years ago.' Directly supports the lesson's claims that coal/oil are made over millions of years and can be used up, while sunlight/wind/water keep coming back. Metal (a mineral resource) is grouped with these in the standard elementary 'nonrenewable' framing (mineral ores form over geological time and are not replenished in a human lifetime). US-centric source; treated as one authoritative, age-appropriate reference, not the only tradition."

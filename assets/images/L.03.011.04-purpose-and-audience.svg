@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Every message has a purpose and an audience</title>
+  <desc id="d">Four message cards each show a message with its purpose and audience labeled. A lunch menu informs students; a toy ad persuades children to want a toy; a cross carefully sign warns walkers; a storybook entertains children. Under each, the purpose word and the audience are printed, so the meaning does not depend on color and it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">Every message has a purpose and an audience</text>
+
+  <!-- Menu -->
+  <rect x="16" y="54" width="228" height="150" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="16" y="54" width="228" height="34" rx="12" fill="#7a9e7e"/>
+  <text x="130" y="77" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Lunch menu</text>
+  <text x="130" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Rice and beans</text>
+  <text x="130" y="132" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Fruit and water</text>
+  <text x="130" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">purpose: inform</text>
+  <text x="130" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">audience: students</text>
+
+  <!-- Toy ad -->
+  <rect x="268" y="54" width="228" height="150" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="268" y="54" width="228" height="34" rx="12" fill="#e0a458"/>
+  <text x="382" y="77" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Toy ad</text>
+  <text x="382" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">BUY the best toy ever!</text>
+  <circle cx="382" cy="148" r="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <text x="382" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">purpose: persuade</text>
+  <text x="382" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">audience: children</text>
+
+  <!-- Sign -->
+  <rect x="16" y="224" width="228" height="150" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="16" y="224" width="228" height="34" rx="12" fill="#e0a458"/>
+  <text x="130" y="247" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Road sign</text>
+  <polygon points="130,280 152,268 174,280 174,318 130,318" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="152" y="305" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">CROSS</text>
+  <text x="130" y="332" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">purpose: warn</text>
+  <text x="130" y="354" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">audience: walkers</text>
+
+  <!-- Storybook -->
+  <rect x="268" y="224" width="228" height="150" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="268" y="224" width="228" height="34" rx="12" fill="#6b93b6"/>
+  <text x="382" y="247" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Storybook</text>
+  <rect x="348" y="268" width="68" height="50" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="382" y1="268" x2="382" y2="318" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="332" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">purpose: entertain</text>
+  <text x="382" y="354" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">audience: children</text>
+
+  <rect x="16" y="392" width="480" height="104" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">purpose = what the message is for</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">audience = who the message is for</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">inform · persuade · entertain · warn</text>
+</svg>

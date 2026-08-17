@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A care-message card template</title>
+  <desc id="d">A care-message card template. It holds one resource — water — where it comes from — rain, rivers, and wells — one way to use less — turn off the tap — the purpose — persuade — and the audience — my family. A water drop decorates it. Word labels carry the meaning so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">A message that cares</text>
+
+  <!-- Card -->
+  <rect x="56" y="54" width="400" height="360" rx="16" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <!-- water drop -->
+  <path d="M256 78 q-26 0 -26 34 q0 20 26 40 q26 -20 26 -40 q0 -34 -26 -34 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+
+  <text x="256" y="176" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Resource: water</text>
+
+  <text x="120" y="212" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Where it comes from:</text>
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">rain, rivers, and wells</text>
+
+  <text x="120" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">One way to use less:</text>
+  <text x="256" y="302" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">turn off the tap</text>
+
+  <text x="120" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Purpose:</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">persuade (help)</text>
+
+  <text x="120" y="372" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Audience:</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">my family</text>
+
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">A message that cares tells the truth</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">and asks people to help, not to buy.</text>
+</svg>

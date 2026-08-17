@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Advertisement or information?</title>
+  <desc id="d">Two message cards are compared. The left card, labeled information, says brushing your teeth twice a day helps keep them clean, with no price and no buy. The right card, labeled advertisement, says buy Sparkle Paste, the best ever, only five coins, buy now, with a price tag. Clues are listed: an ad asks you to buy and shows a price; information tells facts and asks for nothing. Word labels carry the meaning so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Is it an advertisement, or information?</text>
+
+  <!-- Information card -->
+  <rect x="16" y="56" width="228" height="210" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="16" y="56" width="228" height="40" rx="12" fill="#7a9e7e"/>
+  <text x="130" y="82" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">INFORMATION</text>
+  <text x="130" y="130" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Brushing your teeth twice</text>
+  <text x="130" y="152" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a day helps keep them clean.</text>
+  <text x="130" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a fact · no price</text>
+  <text x="130" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">asks for nothing</text>
+
+  <!-- Advertisement card -->
+  <rect x="268" y="56" width="228" height="210" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="268" y="56" width="228" height="40" rx="12" fill="#e0a458"/>
+  <text x="382" y="82" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">ADVERTISEMENT</text>
+  <text x="382" y="130" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">BUY Sparkle Paste —</text>
+  <text x="382" y="152" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">the BEST ever! Buy now!</text>
+  <circle cx="382" cy="190" r="16" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="382" y="195" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">5¢</text>
+  <text x="382" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">asks you to buy · shows a price</text>
+  <text x="382" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"best ever!" · "buy now!"</text>
+
+  <rect x="16" y="286" width="480" height="200" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Clues that something is an ad</text>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">· asks you to buy   · shows a price</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">· says "best ever!" or "buy now!"</text>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">· exciting words and pictures that make you want it</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Information tells a fact and asks for nothing.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">An ad is not bad — but noticing it is a power.</text>
+</svg>

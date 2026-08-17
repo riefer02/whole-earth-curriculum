@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">One resource — water — where it comes from and using less</title>
+  <desc id="d">One resource — water — is traced from where it comes from to how to use less. Rain falls, gathers in a river or well, and reaches a tap; a person turns the tap off when done. A note says water comes from rain, rivers, and wells, and one way to use less is to turn off the tap. Word labels carry the meaning so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">Water: where it comes from, and using less</text>
+
+  <!-- Rain cloud -->
+  <path d="M70 96 q-14 -6 -24 -20 q-2 -16 14 -22 q16 -6 24 6 q8 -10 20 -8 q16 2 16 18 q0 12 -12 16 q-2 10 -14 10 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="66" y1="112" x2="62" y2="124" stroke="#6b93b6" stroke-width="3"/>
+  <line x1="82" y1="112" x2="78" y2="124" stroke="#6b93b6" stroke-width="3"/>
+  <line x1="98" y1="112" x2="94" y2="124" stroke="#6b93b6" stroke-width="3"/>
+  <text x="82" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">rain</text>
+
+  <text x="132" y="118" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#4f6d7a">→</text>
+
+  <!-- River / well -->
+  <path d="M150 130 q40 -14 80 0 t80 0" fill="none" stroke="#6b93b6" stroke-width="6"/>
+  <text x="230" y="116" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">river or well</text>
+
+  <text x="330" y="118" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#4f6d7a">→</text>
+
+  <!-- Tap -->
+  <rect x="356" y="84" width="16" height="56" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="368" y="84" width="34" height="12" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M382 96 q6 52 2 84" stroke="#6b93b6" stroke-width="6" fill="none"/>
+  <circle cx="382" cy="186" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <text x="382" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">tap</text>
+
+  <!-- Person turning tap off -->
+  <circle cx="452" cy="120" r="15" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="452" y1="135" x2="452" y2="196" stroke="#2b3a42" stroke-width="5"/>
+  <line x1="452" y1="145" x2="428" y2="172" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="452" y1="196" x2="434" y2="250" stroke="#2b3a42" stroke-width="5"/>
+  <line x1="452" y1="196" x2="470" y2="250" stroke="#2b3a42" stroke-width="5"/>
+  <text x="452" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">turn off</text>
+
+  <rect x="16" y="278" width="480" height="130" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Water comes from rain, rivers, and wells.</text>
+  <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">It reaches us through a tap.</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">One way to use less is to turn off the tap.</text>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Knowing where a resource comes from helps us use it with care.</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">You are a steward of the resources you use.</text>
+</svg>
