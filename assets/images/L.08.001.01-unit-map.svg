@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The unit map: three movements for the year ahead</title>
+  <desc id="desc">Three rounded boxes in a row, connected by arrows. Left: Analyze my reactions. Middle: Know my whole self. Right: Steer my choices. A top banner reads "Grade 7 named it. Grade 8 analyzes it." The boxes use outline and label only, so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Grade 7 named it. Grade 8 analyzes it.</text>
+
+  <!-- Box 1 -->
+  <rect x="20" y="150" width="140" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="90" y="210" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Analyze</text>
+  <text x="90" y="236" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">my reactions</text>
+  <text x="90" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">event, thought, feeling</text>
+
+  <!-- Arrow 1 -->
+  <line x1="166" y1="225" x2="186" y2="225" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M182 220 L192 225 L182 230 Z" fill="#e0a458"/>
+
+  <!-- Box 2 -->
+  <rect x="196" y="150" width="140" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="266" y="210" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Know my</text>
+  <text x="266" y="236" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">whole self</text>
+  <text x="266" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">many identities, one me</text>
+
+  <!-- Arrow 2 -->
+  <line x1="342" y1="225" x2="362" y2="225" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M358 220 L368 225 L358 230 Z" fill="#e0a458"/>
+
+  <!-- Box 3 -->
+  <rect x="372" y="150" width="120" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="432" y="210" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Steer</text>
+  <text x="432" y="236" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">my choices</text>
+  <text x="432" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">respond, not react</text>
+
+  <!-- Recall banner -->
+  <rect x="20" y="340" width="472" height="120" rx="14" fill="#f2efe6" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">First, recall Grade 7</text>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">mixed feelings with precise words &#8226; which feelings each culture shows</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">my changing story &#8226; labels that narrow me &#8226; learning from a decision</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a routine that serves my goals</text>
+</svg>

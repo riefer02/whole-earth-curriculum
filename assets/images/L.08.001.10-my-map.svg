@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My map: feelings, identity, and purpose together</title>
+  <desc id="desc">A compass rose at the center, with three connected cards around it. Top: analyze my reactions (event, thought, feeling). Lower left: know my whole self (many identities, one me). Lower right: steer my choices (respond, not react; weigh now and later). Lines link the three cards through the center compass labeled "me". Outline and label only, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My map of the year</text>
+
+  <!-- Connecting lines -->
+  <line x1="256" y1="172" x2="256" y2="238" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="256" y1="286" x2="150" y2="360" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="256" y1="286" x2="362" y2="360" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Compass center -->
+  <circle cx="256" cy="260" r="44" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M256 224 L264 260 L256 296 L248 260 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 224 L256 260 L248 260 Z" fill="#2b3a42"/>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">me</text>
+
+  <!-- Top card -->
+  <rect x="96" y="74" width="320" height="98" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Analyze my reactions</text>
+  <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">event, thought, feeling &#8212; listen and check</text>
+
+  <!-- Lower left card -->
+  <rect x="30" y="368" width="216" height="104" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="138" y="404" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Know my whole self</text>
+  <text x="138" y="432" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">many identities, one me</text>
+  <text x="138" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">inner worth, not only approval</text>
+
+  <!-- Lower right card -->
+  <rect x="266" y="368" width="216" height="104" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="374" y="404" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Steer my choices</text>
+  <text x="374" y="432" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">respond, not react</text>
+  <text x="374" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">weigh now and later</text>
+
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">I am the author of my own story</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Emotion as information: what a feeling can tell me</title>
+  <desc id="desc">A compass rose at the center with four labeled signal cards around it. The cards read: fear means careful; anger means a line was crossed; unease means something is off; joy means this matters. Each card is outlined and labeled, not color-coded, so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A feeling is a signal, not a command</text>
+
+  <!-- Compass center -->
+  <circle cx="256" cy="264" r="64" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M256 208 L266 254 L256 320 L246 254 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 208 L256 254 L246 254 Z" fill="#2b3a42"/>
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">signal</text>
+
+  <!-- Fear -->
+  <rect x="30" y="86" width="196" height="72" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="48" y="114" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">fear</text>
+  <text x="48" y="140" font-family="sans-serif" font-size="16" fill="#4f6d7a">&#8594; be careful</text>
+
+  <!-- Anger -->
+  <rect x="286" y="86" width="196" height="72" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="304" y="114" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">anger</text>
+  <text x="304" y="140" font-family="sans-serif" font-size="16" fill="#4f6d7a">&#8594; a line was crossed</text>
+
+  <!-- Unease -->
+  <rect x="30" y="360" width="196" height="72" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="48" y="388" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">unease</text>
+  <text x="48" y="414" font-family="sans-serif" font-size="16" fill="#4f6d7a">&#8594; something is off</text>
+
+  <!-- Joy -->
+  <rect x="286" y="360" width="196" height="72" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="304" y="388" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">joy</text>
+  <text x="304" y="414" font-family="sans-serif" font-size="16" fill="#4f6d7a">&#8594; this matters</text>
+
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">listen to the signal &#8212; then decide, don&#8217;t obey blindly</text>
+</svg>

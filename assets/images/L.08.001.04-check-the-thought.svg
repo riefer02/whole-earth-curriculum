@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Check the thought: when a feeling misleads</title>
+  <desc id="desc">A large magnifying glass held over a thought bubble. Inside the bubble, a question: "Is this thought true and fair?" Three small labels sit beneath, each naming a thought error: "catastrophizing" (the worst will happen), "mind-reading" (I know what they think), "all-or-nothing" (perfect or ruined). Outline and label only, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">When a feeling misleads, check the thought</text>
+
+  <!-- Magnifying glass -->
+  <circle cx="300" cy="172" r="74" fill="none" stroke="#e0a458" stroke-width="7"/>
+  <line x1="356" y1="228" x2="414" y2="286" stroke="#e0a458" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Thought bubble -->
+  <ellipse cx="180" cy="150" rx="108" ry="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="110" cy="200" r="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="130" cy="214" r="7" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="146" cy="222" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="180" y="144" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Is this thought</text>
+  <text x="180" y="166" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">true and fair?</text>
+
+  <!-- Three error labels -->
+  <rect x="30" y="300" width="452" height="52" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="48" y="332" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">catastrophizing</text>
+  <text x="204" y="332" font-family="sans-serif" font-size="15" fill="#4f6d7a">&#8220;the worst will happen&#8221;</text>
+
+  <rect x="30" y="364" width="452" height="52" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="48" y="396" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">mind-reading</text>
+  <text x="204" y="396" font-family="sans-serif" font-size="15" fill="#4f6d7a">&#8220;I know what they think of me&#8221;</text>
+
+  <rect x="30" y="428" width="452" height="52" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="48" y="460" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">all-or-nothing</text>
+  <text x="204" y="460" font-family="sans-serif" font-size="15" fill="#4f6d7a">&#8220;perfect or ruined&#8221;</text>
+</svg>

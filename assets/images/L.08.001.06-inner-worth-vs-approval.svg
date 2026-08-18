@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Inner worth and outside approval: two sources of self-esteem</title>
+  <desc id="desc">Two panels side by side. Left: a steady stone pillar labeled "inner worth", with the words "built on values, effort, kindness — steady". Right: a tilting weather vane labeled "outside approval", with the words "built on likes, grades, popularity — changes with the wind". The contrast shows one source standing firm while the other spins. Outline and label only, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Where does self-esteem come from?</text>
+
+  <!-- Left: pillar -->
+  <rect x="28" y="92" width="220" height="360" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="138" y="128" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Inner worth</text>
+
+  <rect x="70" y="210" width="46" height="190" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="52" y="190" width="82" height="22" rx="4" fill="#2b3a42"/>
+  <rect x="52" y="400" width="82" height="22" rx="4" fill="#2b3a42"/>
+  <text x="138" y="168" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">built on values,</text>
+  <text x="138" y="186" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">effort, kindness</text>
+  <text x="138" y="438" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">steady</text>
+
+  <!-- Right: weather vane -->
+  <rect x="264" y="92" width="220" height="360" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="374" y="128" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Outside approval</text>
+
+  <line x1="374" y1="212" x2="374" y2="360" stroke="#2b3a42" stroke-width="4"/>
+  <circle cx="374" cy="366" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 224 L408 224 L388 238 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 224 L374 150 L408 224 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="374" y="168" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">built on likes,</text>
+  <text x="374" y="186" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">grades, popularity</text>
+  <text x="374" y="438" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">changes with the wind</text>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">both are real &#8212; one is steadier than the other</text>
+</svg>

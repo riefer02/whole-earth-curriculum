@@ -35,7 +35,7 @@ assessment_plan: >-
   portfolio artifacts.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # Unit 1 — Feelings, Identity & Purpose
@@ -64,3 +64,13 @@ as a whole made of many intersecting parts, never a single label.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Steering, Not Sailing Blind: Recalling Grade 7, Previewing Grade 8 | D01.S1.08.01 |
+| 2 | Event, Thought, Feeling: Taking a Reaction Apart | D01.S1.08.01 |
+| 3 | What the Feeling Tells Me: Emotion as Information | D01.S1.08.02 |
+| 4 | When the Feeling Misleads: Checking the Thought | D01.S1.08.02 |
+| 5 | Many Parts, One Me: Intersecting Identities | D01.S2.08.01 |
+| 6 | Inner Worth and Outside Approval: Where Self-Esteem Comes From | D01.S2.08.02 |
+| 7 | Pause Before You Pounce: Managing the Impulse | D01.S3.08.01 |
+| 8 | Now and Later: Short-Term and Long-Term Consequences | D01.S3.08.02 |
+| 9 | Weighing It: A Decision in Two Time Scales | D01.S3.08.02 |
+| 10 | Capstone: My Map of Feelings, Identity & Purpose | D01.S1.08.01, D01.S1.08.02, D01.S2.08.01, D01.S2.08.02, D01.S3.08.01, D01.S3.08.02 |

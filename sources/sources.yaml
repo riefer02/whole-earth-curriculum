@@ -3076,3 +3076,67 @@ sources:
     domains: [D10]
     reviewed: true
     notes: "Cited in U.07.011 L07 (Partners in Life: Pollination and Symbiosis) for the claim that symbiosis is a close relationship between two different species, and that mutualism is the kind in which both partners benefit (contrasted with parasitism, where one benefits and the other is harmed). URL verified live (2026-08-18): Britannica's 'symbiosis' article opens 'symbiosis, any of several living arrangements between members of two different species, including mutualism, commensalism, and parasitism. Both positive (beneficial) and negative (unfavourable to harmful) associations are therefore included', and adds 'Any association between two species populations that live together is symbiotic, whether the species benefit, harm, or have no effect on one another.' Directly supports the lesson's mutualism/parasitism contrast; the lesson's 'close relationship between two different species' is a faithful, appropriately simplified rendering for grade 7."
+
+  - id: S-332
+    title: Albert Ellis Institute — Rational Emotive Behavior Therapy (the ABC model)
+    type: website
+    url: https://albertellis.org/rebt-cbt-therapy/
+    organization: Albert Ellis Institute
+    domains: [D01]
+    reviewed: true
+    notes: "The ABC model (Activating event, Beliefs, Consequences) at the core of Rational Emotive Behavior Therapy (REBT), developed by psychologist Albert Ellis. URL verified live (2026-08-18): albertellis.org/rebt-cbt-therapy/ is the Albert Ellis Institute's REBT page — 'REBT is the pioneering form of cognitive behavior therapy developed by Dr. Albert Ellis in 1955' and 'it is largely our thinking about events that leads to emotional and behavioral upset' (the belief-mediated, A-B-C view of emotional consequences). On-topic for the Grade-8 lesson L.08.001.02, which adapts the ABC frame descriptively (event, thought, feeling) to teach that a thought/belief sits between an event and its emotional consequence — used as a self-awareness tool, not as therapy, and explicitly framed as such."
+
+  - id: S-333
+    title: "Lerner, Li, Valdesolo & Kassam (2015) — Emotion and Decision Making"
+    type: article
+    url: https://doi.org/10.1146/annurev-psych-010213-115043
+    author: Jennifer S. Lerner, Ye Li, Piercarlo Valdesolo, Karim S. Kassam
+    organization: Annual Review of Psychology
+    year: 2015
+    domains: [D01]
+    reviewed: true
+    notes: "Annual Review of Psychology 66:799-823. DOI 10.1146/annurev-psych-010213-115043 verified via Crossref (2026-08-18): title 'Emotion and Decision Making', authors Lerner/Li/Valdesolo/Kassam, Annual Review of Psychology 66, 799-823 (2015) — all correct. The review's thesis is that emotion is integral to — not the opposite of — judgment and decision-making: emotion can improve decision quality (the 'informing' half) and can also bias or degrade it (the 'distorting' half). Supports both halves of the Grade-8 objective D01.S1.08.02 in L.08.001.03 and L.08.001.04."
+
+  - id: S-334
+    title: "Crenshaw (1989) — Demarginalizing the Intersection of Race and Sex"
+    type: article
+    url: https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8
+    author: Kimberlé Crenshaw
+    organization: University of Chicago Legal Forum
+    year: 1989
+    domains: [D01]
+    reviewed: true
+    notes: "University of Chicago Legal Forum 1989(1):139-167. URL verified live (2026-08-18): chicagounbound.uchicago.edu/uclf/vol1989/iss1/8 hosts the full text — 'Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics', Kimberle Crenshaw, University of Chicago Legal Forum Vol. 1989, Article 8 (ISSN 0892-5593). The foundational statement of intersectionality — that overlapping identities (such as race and sex) shape a person's experience together, not separately, and that analyzing them in isolation misses how they interact. The Grade-8 lesson L.08.001.05 uses the concept descriptively and age-appropriately to teach that multiple and intersecting identities (culture, gender, ability, language) shape a whole self (D01.S2.08.01)."
+
+  - id: S-335
+    title: "Crocker & Wolfe (2001) — Contingencies of Self-Worth"
+    type: article
+    url: https://doi.org/10.1037/0033-295X.108.3.593
+    author: Jennifer Crocker, Connie T. Wolfe
+    organization: Psychological Review
+    year: 2001
+    domains: [D01]
+    reviewed: true
+    notes: "Psychological Review 108(3):593-623. DOI 10.1037/0033-295X.108.3.593 verified via Crossref (2026-08-18): title 'Contingencies of self-worth.', authors Crocker/Wolfe, Psychological Review 108(3), 593-623 (2001) — all correct. Argues that self-worth that depends (is 'contingent') on meeting external standards — approval, appearance, performance — is more fragile and more costly than self-worth that is less contingent. Supports the Grade-8 lesson L.08.001.06 on distinguishing inner worth from outside approval (D01.S2.08.02)."
+
+  - id: S-336
+    title: "Mischel, Shoda & Rodriguez (1989) — Delay of Gratification in Children"
+    type: article
+    url: https://doi.org/10.1126/science.2658056
+    author: Walter Mischel, Yuichi Shoda, Monica L. Rodriguez
+    organization: Science
+    year: 1989
+    domains: [D01]
+    reviewed: true
+    notes: "Science 244(4907):933-938. DOI 10.1126/science.2658056 verified via Crossref (2026-08-18): title 'Delay of Gratification in Children', authors Mischel/Shoda/Rodriguez, Science 244(4907), 933-938 (1989) — all correct. The classic 'marshmallow test' paper (the 'cool' vs 'hot' cognitive transformations that enable or undermine delay). The Grade-8 lesson L.08.001.07 teaches the pause skill and the hot/cool framing, while explicitly noting the replication caveat: later, more careful studies (Watts, Duncan & Quan 2018, 'Revisiting the Marshmallow Test: A Conceptual Replication…', Psychological Science, DOI 10.1177/0956797618761661, verified via Crossref 2026-08-18) found much weaker long-term predictions once background and sample differences are controlled. We teach the learnable pause, not a claim that one childhood test predicts a life."
+
+  - id: S-337
+    title: "Kahneman (2011) — Thinking, Fast and Slow"
+    type: book
+    url: https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+    author: Daniel Kahneman
+    organization: Farrar, Straus and Giroux
+    year: 2011
+    domains: [D01]
+    reviewed: true
+    notes: "Kahneman's System 1 (fast, automatic, emotional) versus System 2 (slow, deliberate, effortful) distinction, and related findings on present bias and time discounting (valuing a smaller immediate reward over a larger delayed one). Real, well-known book (Farrar, Straus and Giroux, 2011); URL (Wikipedia) verified live (2026-08-18). Supports L.08.001.04 (a slower check corrects vivid but wrong first reactions), L.08.001.08 (present bias / why the brain favors 'now'), and their framing in L.08.001.09."

@@ -4693,7 +4693,7 @@ items:
     type: lesson
     grade: 8
     domain: D01
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -4705,6 +4705,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Verified all 10 IDs L.08.001.01-.10 match sequence_in_unit 1-10; every objectives: resolves exclusively to the six grade-8 D01 standards (D01.S1.08.01/.02, D01.S2.08.01/.02, D01.S3.08.01/.02 — confirmed only grade-8 D01 IDs in domain-01, grep shows no K/other-grade IDs); required Procedure/Assessment/Connection headings present in all; 10 SVGs present; unit.md Lessons table matches. Example: L4 Connection uses magnifying-glass/colored-lens metaphor and objectives maps to D01.S1.08.02 matching table row 4."
+      fact-checker:
+        verdict: passed
+        note: Verified Ellis ABC/REBT (S-332 albertellis.org live), Lerner et al. 2015 (S-333), Crenshaw 1989 (S-334 live UChicago Legal Forum full text), Crocker & Wolfe 2001 (S-335), Mischel 1989 + Watts/Duncan/Quan 2018 replication caveat (S-336), Kahneman 2011 System 1/2 (S-337) — all six marked reviewed:true with DOIs confirmed via Crossref; remaining cited sources (S-001/011/015/039) already registered; evidence/value distinctions explicitly flagged.
+      global-culture-editor:
+        verdict: passed
+        note: "Verified every lesson carries global lens explicitly; emotional-expression norms acknowledged as varying across cultures (no single norm). Fixed 3 gaps: intersectionality no longer solely-Western (Crenshaw's term named alongside older cross-cultural recognition); L6 inner-worth framing now holds relational/collectivist traditions (ubuntu, Confucian kinship) side by side instead of ranking individualist worth above; L7 names South/East Asian contemplative traditions alongside Western psychological account of the pause — all per §11."
+      accessibility-editor:
+        verdict: passed
+        note: "Verified all 10 lessons declare materials_low_tech (paper/found-objects/voice/body alternatives + outdoor-only dust-and-chalk variants); every assets: entry has non-empty alt text with resolving paths (L.08.001.*.svg all exist); all 10 SVGs provide non-visual access via role=img, title, desc, aria-labelledby, real text nodes grayscale-printable not color-coded; no wealth-assuming materials. validate green (1183 files)."
+      alignment-auditor:
+        verdict: passed
+        note: Verified all four lenses (ethics as moral reasoning; egalitarianism with explicit rejection of ranking and 'no identity above another'; global/anthropological naming ubuntu/Confucian kinship/South-East Asian contemplative traditions alongside Western accounts; tech/environment in L4-L9 on feeds-likes-notifications + commons/fishery/forest now-vs-later); chain traces Vision → P1 → D01 → S1/S2/S3 → six grade-8 standards → U.08.001 → L.08.001.01-.10; evidence-vs-values distinguished, all claims cited. validate green (1183 files).
+      child-psychologist:
+        verdict: passed
+        note: "Verified against 6-8 band (emerging formal operations, intense identity/peer sensitivity, movement/autonomy needs): event-thought-feeling analysis, intersecting-identities self-map, impulse/now-later weighing correctly grounded in worked examples, gradual release, sentence starters, differentiation (not too advanced); identity/self-worth content holds change and worth gently without shaming or forced disclosure (repeated 'share only what you choose' rails, approval as 'real information not a verdict', every identity equal in worth); physical fit via pair work + outdoor/movement variants; essential questions held as questions, evidence-vs-values named. validate green (1183 files), all six standards resolve."
   - id: B-360
     title: Author lessons for Unit U.08.002 (My Body, Movement & Wellness)
     agent: lesson-author

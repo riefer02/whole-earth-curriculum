@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Now and later: two time scales of consequence</title>
+  <desc id="desc">Two columns. Left, "short-term: what happens now" — the taste of the snack, the laugh at the joke. Right, "long-term: what happens later" — my health, the friend's trust. A caption reads "weigh both before you decide". Outline and label only, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Two time scales</text>
+
+  <!-- Left column -->
+  <rect x="28" y="80" width="220" height="330" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="138" y="116" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Short-term</text>
+  <text x="138" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">what happens now</text>
+  <line x1="58" y1="156" x2="218" y2="156" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="138" y="196" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">the sweet taste of the snack</text>
+  <text x="138" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">the laugh at the mean joke</text>
+  <text x="138" y="268" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">the relief of skipping the chore</text>
+  <text x="138" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">the thrill of the last-minute choice</text>
+
+  <!-- Right column -->
+  <rect x="264" y="80" width="220" height="330" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="374" y="116" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Long-term</text>
+  <text x="374" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">what happens later</text>
+  <line x1="294" y1="156" x2="454" y2="156" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="374" y="196" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">my body&#8217;s health over years</text>
+  <text x="374" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">the friend&#8217;s lost trust</text>
+  <text x="374" y="268" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a habit of following through</text>
+  <text x="374" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">the finished project I&#8217;m proud of</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Weigh both before you decide</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the now is loud; the later is quiet but often bigger</text>
+</svg>

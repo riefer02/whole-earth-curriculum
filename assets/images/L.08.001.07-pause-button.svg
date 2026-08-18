@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Pause before you pounce: the respond-not-react path</title>
+  <desc id="desc">A four-step path from left to right. Step 1: a charged moment. Step 2: a pause symbol (two bars) labeled "pause". Step 3: a small menu of three tools: breathe, name the feeling, count to ten. Step 4: "choose my response". Arrows connect the steps. Outline and label only, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Respond, don&#8217;t react</text>
+
+  <!-- Step 1 -->
+  <rect x="24" y="120" width="100" height="120" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="74" y="176" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">charged</text>
+  <text x="74" y="198" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">moment</text>
+
+  <line x1="130" y1="180" x2="150" y2="180" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M146 175 L156 180 L146 185 Z" fill="#e0a458"/>
+
+  <!-- Step 2: pause -->
+  <rect x="160" y="120" width="100" height="120" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <rect x="192" y="150" width="12" height="60" rx="3" fill="#e0a458"/>
+  <rect x="214" y="150" width="12" height="60" rx="3" fill="#e0a458"/>
+  <text x="210" y="228" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">pause</text>
+
+  <line x1="266" y1="180" x2="286" y2="180" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M282 175 L292 180 L282 185 Z" fill="#e0a458"/>
+
+  <!-- Step 3: tools -->
+  <rect x="296" y="120" width="100" height="120" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="346" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">breathe</text>
+  <text x="346" y="174" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">name the feeling</text>
+  <text x="346" y="198" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">count to ten</text>
+  <text x="346" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(pick one)</text>
+
+  <line x1="402" y1="180" x2="422" y2="180" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M418 175 L428 180 L418 185 Z" fill="#e0a458"/>
+
+  <!-- Step 4 -->
+  <rect x="432" y="120" width="100" height="120" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="482" y="172" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">choose my</text>
+  <text x="482" y="194" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">response</text>
+
+  <!-- Loop back -->
+  <path d="M482 240 L482 300 Q482 318 464 318 L74 318 Q56 318 56 300 L56 246" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-dasharray="6 6"/>
+  <path d="M50 250 L56 240 L62 250 Z" fill="#7a9e7e"/>
+  <text x="270" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">practice makes the pause come faster</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the impulse says &#8220;now&#8221; &#8212; the pause gives you the choice back</text>
+</svg>
