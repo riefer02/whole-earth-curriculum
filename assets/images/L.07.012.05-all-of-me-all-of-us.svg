@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">All of me, all of us</title>
+  <desc id="desc">A central circle labeled "all of us" surrounded by three parts — "mutual aid: everyone gives and receives," "motives: care, duty, recognition," and an arrow into "Grade 8." A caption reads "We are each a whole person, and together a caring whole."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">All of me, all of us</text>
+
+  <!-- central circle -->
+  <circle cx="256" cy="250" r="78" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">all</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">of us</text>
+
+  <!-- mutual aid -->
+  <rect x="40" y="110" width="200" height="86" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="140" y="140" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">mutual aid</text>
+  <text x="140" y="166" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">everyone gives</text>
+  <text x="140" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and receives</text>
+  <line x1="240" y1="153" x2="178" y2="220" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- motives -->
+  <rect x="272" y="110" width="200" height="86" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="372" y="140" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">motives</text>
+  <text x="372" y="166" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">care · duty</text>
+  <text x="372" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">recognition</text>
+  <line x1="272" y1="153" x2="334" y2="220" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- arrow into grade 8 -->
+  <line x1="256" y1="328" x2="256" y2="378" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar)"/>
+  <rect x="170" y="384" width="172" height="58" rx="10" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">carry into</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Grade 8</text>
+
+  <defs>
+    <marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">We are each a whole person, and together a caring whole.</text>
+</svg>

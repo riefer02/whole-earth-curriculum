@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My identity: then, now, next</title>
+  <desc id="desc">Three panels in a row labeled "me then", "me now", and "me next", joined by forward arrows. A caption reads "I am a story still being written — and I can predict its next page."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">My identity: then, now, next</text>
+
+  <!-- three panels -->
+  <g font-family="sans-serif" font-size="17" fill="#222222">
+    <rect x="26" y="120" width="132" height="190" rx="12" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="92" y="158" text-anchor="middle" font-weight="bold">me</text>
+    <text x="92" y="182" text-anchor="middle" font-weight="bold">then</text>
+    <text x="92" y="220" text-anchor="middle" font-size="13">interests</text>
+    <text x="92" y="244" text-anchor="middle" font-size="13">abilities</text>
+    <text x="92" y="268" text-anchor="middle" font-size="13">values</text>
+    <text x="92" y="292" text-anchor="middle" font-size="13">relationships</text>
+
+    <rect x="190" y="120" width="132" height="190" rx="12" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="158" text-anchor="middle" font-weight="bold">me</text>
+    <text x="256" y="182" text-anchor="middle" font-weight="bold">now</text>
+    <text x="256" y="220" text-anchor="middle" font-size="13">interests</text>
+    <text x="256" y="244" text-anchor="middle" font-size="13">abilities</text>
+    <text x="256" y="268" text-anchor="middle" font-size="13">values</text>
+    <text x="256" y="292" text-anchor="middle" font-size="13">relationships</text>
+
+    <rect x="354" y="120" width="132" height="190" rx="12" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="420" y="158" text-anchor="middle" font-weight="bold">me</text>
+    <text x="420" y="182" text-anchor="middle" font-weight="bold">next</text>
+    <text x="420" y="220" text-anchor="middle" font-size="13">interests</text>
+    <text x="420" y="244" text-anchor="middle" font-size="13">abilities</text>
+    <text x="420" y="268" text-anchor="middle" font-size="13">values</text>
+    <text x="420" y="292" text-anchor="middle" font-size="13">relationships</text>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="#2b3a42">
+    <line x1="158" y1="215" x2="188" y2="215" marker-end="url(#ar)"/>
+    <line x1="322" y1="215" x2="352" y2="215" marker-end="url(#ar)"/>
+  </g>
+
+  <defs>
+    <marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- continuity line -->
+  <line x1="92" y1="360" x2="420" y2="360" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what stays the same, all the way through</text>
+
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">I am a story still being written — and I can predict its next page.</text>
+</svg>

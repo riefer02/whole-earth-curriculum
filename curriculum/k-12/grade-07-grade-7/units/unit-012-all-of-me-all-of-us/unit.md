@@ -33,7 +33,7 @@ assessment_plan: >-
   reflection as closing artifacts.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # Unit 12 — All of Me, All of Us
@@ -61,3 +61,8 @@ will carry the same questions further.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | My Identity: Then, Now, Next | D01.S2.07.01 |
+| 2 | Looking Back on My Decisions to Choose Better | D01.S3.07.01 |
+| 3 | The Routine I'll Carry Forward | D01.S3.07.02 |
+| 4 | When Our Community Changes — Hard and Good, and What We Carry | D02.S3.07.02 |
+| 5 | Capstone: All of Me, All of Us — Mutual Aid, Motives, and Celebration | D02.S4.07.01, D02.S4.07.02 |

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The routine I'll carry forward</title>
+  <desc id="desc">A 24-hour wheel divided into four labeled segments — SLEEP, STUDY, MOVEMENT, and MEALS &amp; REST — with a forward arrow leaving the wheel into a gate labeled "Grade 8 — next year." A caption reads "A routine is how my goals become my days."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">The routine I'll carry forward</text>
+
+  <!-- wheel -->
+  <g stroke="#2b3a42" stroke-width="2.5">
+    <circle cx="210" cy="252" r="120" fill="#fdfbf7"/>
+    <line x1="210" y1="132" x2="210" y2="372"/>
+    <line x1="90" y1="252" x2="330" y2="252"/>
+  </g>
+
+  <g font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">
+    <rect x="210" y="132" width="120" height="120" fill="#7a9e7e" opacity="0.35"/>
+    <text x="270" y="186" font-weight="bold">SLEEP</text>
+    <text x="270" y="206" font-size="12">about 8–10</text>
+    <text x="270" y="224" font-size="12">hours</text>
+
+    <rect x="210" y="252" width="120" height="120" fill="#6b93b6" opacity="0.3"/>
+    <text x="270" y="300" font-weight="bold">STUDY</text>
+    <text x="270" y="320" font-size="12">with breaks</text>
+
+    <rect x="90" y="252" width="120" height="120" fill="#e0a458" opacity="0.4"/>
+    <text x="150" y="300" font-weight="bold">MOVEMENT</text>
+    <text x="150" y="320" font-size="12">daily</text>
+
+    <rect x="90" y="132" width="120" height="120" fill="#7a9e7e" opacity="0.25"/>
+    <text x="150" y="186" font-weight="bold">MEALS</text>
+    <text x="150" y="206" font-size="12">&amp; REST</text>
+  </g>
+
+  <!-- arrow into next year -->
+  <line x1="330" y1="252" x2="406" y2="252" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar)"/>
+  <rect x="412" y="222" width="86" height="60" rx="10" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="455" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Grade 8 —</text>
+  <text x="455" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">next year</text>
+
+  <defs>
+    <marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">A routine is how my goals become my days.</text>
+</svg>

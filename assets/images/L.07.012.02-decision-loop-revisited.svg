@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The decision loop, revisited across a year</title>
+  <desc id="desc">A four-step circular loop labeled DECISION, CONSEQUENCE, REFLECTION, and BETTER NEXT CHOICE, surrounded by an outer ring labeled "across the year, one choice at a time." A caption reads "Look for the pattern, not just the one mistake."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">The decision loop, across the year</text>
+
+  <!-- outer ring -->
+  <circle cx="256" cy="258" r="168" fill="none" stroke="#7a9e7e" stroke-width="3" opacity="0.7"/>
+  <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">across the year, one choice at a time</text>
+
+  <!-- four steps -->
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <rect x="176" y="120" width="160" height="52" rx="10" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="151" text-anchor="middle" font-weight="bold">DECISION</text>
+
+    <rect x="316" y="232" width="152" height="52" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="392" y="263" text-anchor="middle" font-weight="bold">CONSEQUENCE</text>
+
+    <rect x="176" y="344" width="160" height="52" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="375" text-anchor="middle" font-weight="bold">REFLECTION</text>
+
+    <rect x="44" y="232" width="152" height="52" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="120" y="258" text-anchor="middle" font-weight="bold">BETTER NEXT</text>
+    <text x="120" y="278" text-anchor="middle" font-weight="bold">CHOICE</text>
+  </g>
+
+  <!-- loop arrows -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none">
+    <path d="M256 172 L256 226" marker-end="url(#ar)"/>
+    <path d="M316 258 L196 258" marker-end="url(#ar)"/>
+    <path d="M256 344 L256 290" marker-end="url(#ar)"/>
+    <path d="M196 258 L256 172" stroke-dasharray="6 6" marker-end="url(#ar)"/>
+  </g>
+
+  <defs>
+    <marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Look for the pattern, not just the one mistake.</text>
+</svg>

@@ -4656,7 +4656,7 @@ items:
     type: lesson
     grade: 7
     domain: D01
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4668,6 +4668,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Verified L.07.012.01-.05 sequential with matching sequence_in_unit 1-5 and unit U.07.012; objectives resolve only to the six grade-7 standards (D01.S2.07.01, D01.S3.07.01/.02, D02.S3.07.02, D02.S4.07.01/.02 — zero K-level or other-grade IDs); required headings present in all five; validate clean (1173 files, 0 warnings); unit.md Lessons table matches; all 12 cited sources exist in registry; 5 SVGs exist with viewBox 512x512, role=img, title+desc, non-empty alt. Example: L.07.012.05 capstone declares D02.S4.07.01+.02 with Connection grounding mutual-aid traditions (harambee/gotong royong/mink'a/barn raising S-164, Kropotkin S-163)."
+      fact-checker:
+        verdict: passed
+        note: Verified mutual-aid traditions (harambee/gotong royong/mink'a-minga/barn raising S-163/164 vs live Communal work entry), Erikson identity-as-lifelong-process (S-155), sleep/routine guidance (AASM 8-10h S-050; WHO adolescent S-311/S-069); all 12 cited sources real/on-topic/registered. Fixed misattribution in L3 (if-then planning cited S-096 Dweck → corrected to S-097 Duckworth/Gendler/Gross) and added missing S-069 ID to WHO physical-activity citation.
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro default; mutual-aid traditions accurate and non-exoticized (harambee Kenya, gotong royong Indonesia, mink'a/minga Andes, barn raising rural North America — four regions held side by side as living practices per §11); Connections span urban/rural and multiple life contexts. Made two precision fixes ('old practice'→'long-standing practice' for mink'a; 'Across North America'→'In rural North America') so no tradition reads more ancient than others. validate green (1173 files).
+      accessibility-editor:
+        verdict: passed
+        note: Checked low-tech tier (voice/found-object/circle alternatives in all 5), non-empty alt on all 5 diagram SVGs with verbal non-visual equivalents (then/now/next, decision loop, routine wheel, me-and-we circles, all-of-us map), UDL differentiation + context variants, no wealth-assuming materials; added explicit limited-mobility accommodation to L3 routine so 'movement' no longer assumes able-bodiedness. validate green.
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics (moral reasoning), egalitarianism (no ranking, solidarity-among-equals), global/anthropological (mutual-aid traditions side-by-side, no Western default), and technology+environment across all five lessons; traceability intact — all six objectives resolve to real grade-7 standards in domain-01/02 (text-matching), strands → D01/D02 → P1 → vision; scope.md registers U.07.012 (days 174-180, 5 lessons); evidence vs values distinguished in every facilitator note; all 12 sources resolve to reviewed entries. validate green (1173 files).
+      child-psychologist:
+        verdict: passed
+        note: "For 6-8 band checked: cognitive fit (identity prediction + decision-pattern reflection at right edge of emerging formal operations, scaffolded with worked examples/sentence starters, never too abstract); emotional safety (every lesson names 'never require disclosure' + small/safe/made-up options; identity change held as continuity-plus-growth; grief/mixed motives non-judged; celebration never ranked); physical fit (movement as routine block with limited-mobility + non-clock-day adaptations); open-endedness (questions held as questions, evidence vs values distinguished). validate green."
   - id: B-359
     title: Author lessons for Unit U.08.001 (Feelings, Identity & Purpose)
     agent: lesson-author

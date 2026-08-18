@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The self and the community change together</title>
+  <desc id="desc">A smaller circle labeled "me" sits inside a larger circle labeled "we", with a forward arrow passing through both and labels "what was lost" and "what was gained." A caption reads "The self and the community change together — hard and good."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">The self and the community change together</text>
+
+  <!-- we circle -->
+  <circle cx="256" cy="240" r="150" fill="#7a9e7e" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="130" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">we</text>
+
+  <!-- me circle -->
+  <circle cx="256" cy="240" r="70" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">me</text>
+
+  <!-- change arrow through both -->
+  <line x1="96" y1="352" x2="416" y2="352" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar)"/>
+  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">change moves through both</text>
+
+  <!-- loss and gain -->
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <rect x="40" y="392" width="200" height="52" rx="10" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="140" y="423" text-anchor="middle" font-weight="bold">what was lost</text>
+
+    <rect x="272" y="392" width="200" height="52" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="372" y="423" text-anchor="middle" font-weight="bold">what was gained</text>
+  </g>
+
+  <defs>
+    <marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Hard and good — and I keep belonging through it.</text>
+</svg>
