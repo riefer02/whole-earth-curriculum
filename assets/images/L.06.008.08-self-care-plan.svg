@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My self-care plan</title>
+  <desc id="desc">A one-page plan diagram titled "my self-care plan." Three boxes: "my trusted person — someone I can talk to" (two figures, one listening); "my self-care action — what I do when I notice stress" (a glass of water, slow breaths, and a figure stretching); and "what I know now" (small icons for the unit's ideas — a growing figure, a plate of food, a road, a phone). A caption reads "A plan I can carry forward." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Self-Care Plan</text>
+
+  <!-- Box 1: trusted person -->
+  <rect x="24" y="58" width="464" height="130" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="84" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">① my trusted person</text>
+  <!-- two figures -->
+  <circle cx="80" cy="140" r="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="66" y="154" width="28" height="28" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="140" cy="140" r="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="126" y="154" width="28" height="28" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 146 Q162 150 174 146" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <text x="200" y="126" font-family="sans-serif" font-size="15" fill="#222222">someone I can talk to when</text>
+  <text x="200" y="146" font-family="sans-serif" font-size="15" fill="#222222">something feels big or wrong.</text>
+  <text x="200" y="166" font-family="sans-serif" font-size="14" fill="#4f6d7a">telling is strength, not weakness</text>
+
+  <!-- Box 2: self-care action -->
+  <rect x="24" y="200" width="464" height="130" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="226" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">② my self-care action</text>
+  <path d="M80 268 L80 312 L120 312 L120 268 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M92 252 L98 268 L110 268 L116 252 Z" fill="#6b93b6" opacity="0.6"/>
+  <path d="M92 252 L98 268 L110 268 L116 252 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 296 Q166 282 182 296 Q166 308 150 296 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="216" y="280" font-family="sans-serif" font-size="15" fill="#222222">what I do when I notice stress —</text>
+  <text x="216" y="300" font-family="sans-serif" font-size="15" fill="#222222">breathe slowly, drink water,</text>
+  <text x="216" y="320" font-family="sans-serif" font-size="15" fill="#222222">move, rest, or talk to someone</text>
+
+  <!-- Box 3: what I know now -->
+  <rect x="24" y="342" width="464" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="368" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">③ what I know now</text>
+  <!-- icons -->
+  <circle cx="72" cy="406" r="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="62" y="418" width="20" height="22" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="128" cy="406" r="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="128" y1="392" x2="128" y2="384" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="184" y1="424" x2="184" y2="404" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="172" y="404" width="24" height="20" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="232" y="400" width="34" height="24" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="300" y="404" font-family="sans-serif" font-size="14" fill="#222222">puberty + every pace normal</text>
+  <text x="300" y="422" font-family="sans-serif" font-size="14" fill="#222222">fuel · food journey · safer choices</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">A plan I can carry forward.</text>
+</svg>

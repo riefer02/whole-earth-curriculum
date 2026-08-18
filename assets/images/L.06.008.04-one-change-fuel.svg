@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One small change to fuel my body</title>
+  <desc id="desc">A choose-one diagram titled "one small change to fuel my body." Four option cards are shown — drink more water, add a fruit or vegetable, choose a whole grain, and eat a fuller breakfast — each with a simple drawing (a cup, an apple, a bowl of grain, a plate). A bottom line reads "Add or swap, never restrict. Choose one that fits your life." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">One Small Change to Fuel My Body</text>
+
+  <!-- Card 1 -->
+  <rect x="24" y="60" width="224" height="160" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M100 116 L100 168 L168 168 L168 116 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M112 100 L118 116 L150 116 L156 100 Z" fill="#6b93b6" opacity="0.6"/>
+  <path d="M112 100 L118 116 L150 116 L156 100 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="190" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">drink more water</text>
+
+  <!-- Card 2 -->
+  <rect x="264" y="60" width="224" height="160" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="340" cy="132" r="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="340" y1="106" x2="340" y2="94" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 94 Q326 80 314 88" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="400" cy="136" r="20" fill="#7a9e7e" opacity="0.6"/>
+  <line x1="400" y1="116" x2="400" y2="106" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="190" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">add a fruit or vegetable</text>
+
+  <!-- Card 3 -->
+  <rect x="24" y="240" width="224" height="160" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M72 300 A52 52 0 0 1 176 300 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="124" cy="300" rx="52" ry="11" fill="#e0a458" opacity="0.7"/>
+  <circle cx="104" cy="302" r="2.5" fill="#2b3a42"/>
+  <circle cx="124" cy="306" r="2.5" fill="#2b3a42"/>
+  <circle cx="142" cy="302" r="2.5" fill="#2b3a42"/>
+  <text x="124" y="370" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">choose a whole grain</text>
+
+  <!-- Card 4 -->
+  <rect x="264" y="240" width="224" height="160" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="340" cy="314" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M320 314 Q340 296 360 314" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="328" cy="306" r="4" fill="#7a9e7e" opacity="0.7"/>
+  <circle cx="352" cy="308" r="4" fill="#e0a458" opacity="0.7"/>
+  <circle cx="340" cy="326" r="4" fill="#6b93b6" opacity="0.7"/>
+  <text x="376" y="370" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">eat a fuller breakfast</text>
+
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Add or swap, never restrict.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Choose one that fits your life.</text>
+</svg>

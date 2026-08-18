@@ -56,3 +56,11 @@ is honored; the body is taught with dignity and joy, never shame.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.008.01 | Puberty Basics: My Body Is Growing and Changing | D03.S1.06.01 |
+| L.06.008.02 | Every Pace Is Normal: Different Times for Different People | D03.S1.06.01 |
+| L.06.008.03 | A Day of Food and Drink: Let's Look | D03.S3.06.01 |
+| L.06.008.04 | One Change to Better Fuel My Body | D03.S3.06.01 |
+| L.06.008.05 | From Farm to Table: How Food Is Produced and Transported | D03.S3.06.02 |
+| L.06.008.06 | Everyday Risks: Play, Travel, and Online Life | D03.S4.06.01 |
+| L.06.008.07 | Signs of Stress and One Self-Care Action | D03.S4.06.02 |
+| L.06.008.08 | My Self-Care Plan and My Person to Talk To (Capstone) | D03.S4.06.02, D03.S1.06.01, D03.S3.06.01, D03.S3.06.02, D03.S4.06.01 |

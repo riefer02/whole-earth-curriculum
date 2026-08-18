@@ -4064,7 +4064,7 @@ items:
     type: lesson
     grade: 6
     domain: D03
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -4076,6 +4076,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (1017). IDs L.06.008.01-.08 sequence_in_unit 1-8, grade 6, unit U.06.008; objectives resolve to real grade-6 D03 standards (all 5 covered, L8 capstone lists all 5); required headings present learner-first; unit.md table lists all 8; all 8 assets resolve non-empty alt; sensitivity: puberty L1-2 'bodies with uterus/ovaries' vs 'bodies with testes' + 'do not sort by sex never compare/rank bodies' basic factual no graphic/sexual; food L3-5 additions-and-swaps-never-restrictions + 'never tell learner to cut out food/restrict/shrink body'; risk L6 'a chance not a monster' + online privacy + agency; stress L7-8 non-stigmatizing 'never label learner stressed/anxious/depressed' + trusted adult; sources WHO/FAO/CASEL/UNICEF/ITU/OHCHR Art.19/Dunlosky."
+      fact-checker:
+        verdict: passed
+        note: Puberty accurate standard adolescent biology (growth spurt/body hair/oilier skin/voice/menstruation/erections-wet-dreams) inclusive non-shaming + 'begins 8-15 different times' hedged; nutrition non-dieting additions/swaps per WHO Healthy-diet S-038 + FAO FBDG S-118; food systems grow-harvest-transport-eat + people/environment per FAO value chains S-081/SOFA S-080; online safety UNICEF S-127/ITU COP S-128 + OHCHR CRC Art.19 S-060/S-091; stress signs + universal self-care non-stigmatizing CASEL S-001/Dunlosky S-039; 'every pace normal'/'no restriction' as fact AND value. Registered S-261 (WHO Adolescent health).
+      global-culture-editor:
+        verdict: passed
+        note: Food examples span regions (rice & beans/maize/cassava/plantain Latin America-Africa-Caribbean; flatbread/lentils/chickpeas/tea S.Asia-M.East; rice/tofu/fish E/SE Asia); healthy=additions/swaps-never-restriction never expensive/imported/Western; no wealth assumption ('add water when you can' valid); puberty inclusive body-based language + 'adapt respectfully' where norms differ no single culture's modesty assumed; trusted adults broad (parent/grandparent/aunt/uncle/teacher/coach/health worker/neighbor); SVG neutral no skin-tone default; 'every body every pace every family's way of eating honored' holds.
+      accessibility-editor:
+        verdict: passed
+        note: All 8 lessons real materials_low_tech (voice/drawn dirt charts/role-play/found objects); UDL write/draw/say/act/point/circle + non-verbal participation (wonder box, pointing, picture menus, raised hand); plain non-alarming language; no wealth assumption (self-care 'free universal'); all 8 assets non-empty alt + SVG role=img/aria-labelledby/title/desc grayscale label-meaning. Fixed L6 low-tech role-play/ground game to permit pointing/hand-raising/eye movement for non-speaking + seated learners.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (bodily dignity 'never shame/rank bodies', food neutrality 'no shame only information', worker dignity + stewardship 'gratitude not guilt', 'telling is not tattling never their fault', 'signs are information never weakness'); egalitarianism (every pace normal, inclusive uterus/testes language, multi-region food, self-care 'simple free universal never luxuries', trusted adult broadly framed); global (WHO/FAO/UNICEF/ITU/UN CRC + rice/maize/cassava/plantain/lentils/tofu/flatbread/tea); tech/environment (food systems L5, online privacy L6 agency-not-fear); evidence-vs-values (WHO/FAO/CASEL/Dunlosky cited; 'fact and a value' distinction). Traceability: Vision->P2->D03->S1/S3/S4->5 standards->U.06.008->L.06.008.01-.08."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-6 band (11-14, formal ops emerging, self-consciousness spiking): cognitive fit puberty concrete factual 'what changes' capped no-graphic/no-sexual; food real day-of-food + one addition/swap not dietetics; risk 'a chance not certainty'; stress concrete body signs. Emotional safety: puberty body-positive non-shaming (every body honored, never compare/rank, inclusive uterus/testes language, private wonder box); food danger-zone handled (no good/bad foods, add-or-swap never restrict, never 'eat less/get thinner', honoring low-control/low-resource tables); risk agency-not-fear 'risk not a monster' + online basics 'telling not tattling never their fault'; stress empowering non-stigmatizing 'signs information never weakness' + trusted adult as strength; no dieting/body-shame/fright; physical fit seated/pointing/voice alternatives; open-ended."
   - id: B-343
     title: Author lessons for Unit U.06.009 (People, Power & the Human Story)
     agent: lesson-author

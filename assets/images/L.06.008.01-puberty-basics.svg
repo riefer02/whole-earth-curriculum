@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The basic changes of puberty</title>
+  <desc id="desc">A diagram titled "the basic changes of puberty." A simple standing body figure is surrounded by labeled arrows for growth spurt, body hair, oilier skin, and a deepening voice, with two smaller boxes below for reproductive changes: menstruation for bodies with a uterus, and erections with wet dreams for bodies with testes. A caption reads "These changes happen gradually, over several years — not all at once." Labels and arrows, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Basic Changes of Puberty</text>
+
+  <!-- Central body figure -->
+  <circle cx="200" cy="110" r="24" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="192" cy="104" r="2.5" fill="#2b3a42"/>
+  <circle cx="208" cy="104" r="2.5" fill="#2b3a42"/>
+  <path d="M194 118 Q200 123 206 118" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="170" y="136" width="60" height="120" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="170" y1="152" x2="138" y2="192" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="230" y1="152" x2="262" y2="192" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="180" y1="256" x2="178" y2="300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="220" y1="256" x2="222" y2="300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Growth spurt arrow (up) -->
+  <path d="M200 96 L200 56" stroke="#4f6d7a" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M194 64 L200 54 L206 64" stroke="#4f6d7a" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="212" y="66" font-family="sans-serif" font-size="14" fill="#222222">growth spurt — I grow</text>
+  <text x="212" y="82" font-family="sans-serif" font-size="14" fill="#222222">taller and heavier</text>
+
+  <!-- Body hair arrow -->
+  <line x1="262" y1="180" x2="360" y2="180" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="364" y="176" font-family="sans-serif" font-size="14" fill="#222222">body hair grows —</text>
+  <text x="364" y="192" font-family="sans-serif" font-size="14" fill="#222222">under arms, legs,</text>
+  <text x="364" y="208" font-family="sans-serif" font-size="14" fill="#222222">pubic area</text>
+
+  <!-- Skin arrow -->
+  <line x1="170" y1="220" x2="60" y2="220" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="24" y="216" font-family="sans-serif" font-size="14" fill="#222222">skin gets oilier</text>
+  <text x="24" y="232" font-family="sans-serif" font-size="14" fill="#222222">and sweats more —</text>
+  <text x="24" y="248" font-family="sans-serif" font-size="14" fill="#222222">pimples can appear</text>
+
+  <!-- Voice arrow -->
+  <line x1="208" y1="136" x2="300" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="302" y="116" font-family="sans-serif" font-size="14" fill="#222222">the voice</text>
+  <text x="302" y="132" font-family="sans-serif" font-size="14" fill="#222222">may deepen</text>
+
+  <!-- Reproductive change boxes -->
+  <rect x="24" y="316" width="220" height="66" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">for bodies with a uterus:</text>
+  <text x="134" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">menstruation (a monthly</text>
+  <text x="134" y="374" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">period) begins</text>
+
+  <rect x="268" y="316" width="220" height="66" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">for bodies with testes:</text>
+  <text x="378" y="358" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">erections happen,</text>
+  <text x="378" y="374" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">sometimes wet dreams</text>
+
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Changes are driven by hormones and happen gradually —</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">over several years, not all at once.</text>
+</svg>

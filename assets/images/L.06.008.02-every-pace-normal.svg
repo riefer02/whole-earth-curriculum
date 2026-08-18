@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Same age, different pace</title>
+  <desc id="desc">A diagram titled "same age, different pace." A row of four standing figures of the same age are drawn at different heights and stages — one shorter with no body hair, one taller, one with a note about a deepening voice, one with a note about skin changes — each with a small clock showing a different time. A caption reads "Every pace is normal. Do not compare or rank bodies." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Same Age, Different Pace</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">four people, all the same age — each on their own schedule</text>
+
+  <!-- Figure 1 (shortest) -->
+  <circle cx="82" cy="150" r="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="76" cy="146" r="2" fill="#2b3a42"/>
+  <circle cx="88" cy="146" r="2" fill="#2b3a42"/>
+  <path d="M77 158 Q82 162 87 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="62" y="172" width="40" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="68" y1="244" x2="66" y2="276" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="96" y1="244" x2="98" y2="276" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="82" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">not started yet</text>
+
+  <!-- Figure 2 (taller) -->
+  <circle cx="196" cy="128" r="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="190" cy="124" r="2" fill="#2b3a42"/>
+  <circle cx="202" cy="124" r="2" fill="#2b3a42"/>
+  <path d="M191 136 Q196 140 201 136" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="176" y="150" width="40" height="92" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="176" y1="164" x2="150" y2="194" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="216" y1="164" x2="242" y2="194" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="184" y1="242" x2="182" y2="282" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="208" y1="242" x2="210" y2="282" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="196" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">growth spurt</text>
+
+  <!-- Figure 3 (voice) -->
+  <circle cx="310" cy="132" r="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="304" cy="128" r="2" fill="#2b3a42"/>
+  <circle cx="316" cy="128" r="2" fill="#2b3a42"/>
+  <path d="M305 140 Q310 144 315 140" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="290" y="154" width="40" height="88" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="298" y1="242" x2="296" y2="280" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="322" y1="242" x2="324" y2="280" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M338 168 Q352 156 366 166" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <text x="310" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">voice deepening</text>
+
+  <!-- Figure 4 (skin) -->
+  <circle cx="424" cy="142" r="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="418" cy="138" r="2" fill="#2b3a42"/>
+  <circle cx="430" cy="138" r="2" fill="#2b3a42"/>
+  <path d="M419 150 Q424 154 429 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="404" y="164" width="40" height="78" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="404" y1="178" x2="380" y2="206" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="444" y1="178" x2="468" y2="206" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="412" y1="242" x2="410" y2="276" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="436" y1="242" x2="438" y2="276" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="424" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">skin changing</text>
+
+  <!-- Clocks -->
+  <g fill="#ffffff" stroke="#2b3a42" stroke-width="2">
+    <circle cx="82" cy="336" r="16"/>
+    <circle cx="196" cy="336" r="16"/>
+    <circle cx="310" cy="336" r="16"/>
+    <circle cx="424" cy="336" r="16"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="82" y1="336" x2="82" y2="326"/>
+    <line x1="82" y1="336" x2="90" y2="338"/>
+    <line x1="196" y1="336" x2="196" y2="325"/>
+    <line x1="196" y1="336" x2="204" y2="341"/>
+    <line x1="310" y1="336" x2="310" y2="324"/>
+    <line x1="310" y1="336" x2="317" y2="340"/>
+    <line x1="424" y1="336" x2="424" y2="327"/>
+    <line x1="424" y1="336" x2="431" y2="338"/>
+  </g>
+
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Every pace is normal.</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Do not compare or rank bodies.</text>
+</svg>

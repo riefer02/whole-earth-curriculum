@@ -2411,5 +2411,14 @@ sources:
     reviewed: true
     notes: "Cited in U.06.007 L05 (Tell a Story with Movement, Voice, and One More Element) as a classroom-friendly framing of devised performance. IDEA is a real international non-governmental organization for drama/theatre education, founded 1992, with consultative status with UNESCO, and it holds a triennial World Congress; its presidents have included Dan Baron Cohen (2004–2010) and Patrice Baldwin (2010–2013), and John O'Toole was a founder-member in 1992 (verified against independent sources, 2026-08-18). The domain www.idea-org.net resolves (DNS: 91.198.137.135) but the site was not reachable via HTTP from the review environment (connection/transport error), so it is registered as a general authority for devised-performance pedagogy rather than a claim-level citation for any specific fact; the lesson's substantive claim (movement + voice + one extra element as a standard elementary drama method) is standard and accurate on its own."
 
+  - id: S-261
+    title: WHO — Adolescent health (health topic)
+    type: website
+    url: https://www.who.int/health-topics/adolescent-health
+    organization: World Health Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.06.008 L01 (Puberty Basics) and L02 (Every Pace Is Normal) as the authority for the basic, standard biology of puberty and adolescent development. URL verified live (2026-08-18): the WHO 'Adolescent health' health-topic page is real and on-topic. It states 'Adolescence is the phase of life between childhood and adulthood, from ages 10 to 19' and that 'Adolescents experience rapid physical, cognitive and psychosocial growth,' and links to WHO's sexual-and-reproductive-health and comprehensive-sexuality-education resources — on-topic as a general authority for the lessons' basic puberty changes (growth spurt, body hair, oilier skin, voice change, and reproductive changes) and their claim that puberty unfolds gradually and begins at different times for different people. The page does not enumerate a specific onset-age range, so the lessons' 'between about 8 and 15' phrasing is the standard, appropriately hedged pediatric consensus (girls typically 8–13, boys typically 9–14), not a verbatim figure from this page; the citation is used as a general authority for adolescent biology, not a claim-level citation for the age figure itself. General authority, non-Western-aligned (WHO, global)."
+
 
 

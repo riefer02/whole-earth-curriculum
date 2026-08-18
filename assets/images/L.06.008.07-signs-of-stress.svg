@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Signs of stress in me</title>
+  <desc id="desc">A diagram titled "signs of stress in me." A simple body figure has labeled callouts — tired, tight shoulders, racing heart, worried thoughts, trouble sleeping, irritable — and beside it a "self-care menu" lists drink water, breathe slowly, move, rest, talk to someone, step away. A caption reads "Signs are information, never weakness. Choose one action that helps." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Signs of Stress in Me</text>
+
+  <!-- Body figure -->
+  <circle cx="150" cy="120" r="24" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="142" cy="114" r="2.5" fill="#2b3a42"/>
+  <circle cx="158" cy="114" r="2.5" fill="#2b3a42"/>
+  <path d="M144 128 Q150 133 156 128" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="122" y="146" width="56" height="120" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="122" y1="162" x2="92" y2="200" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="178" y1="162" x2="208" y2="200" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="132" y1="266" x2="130" y2="306" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="168" y1="266" x2="170" y2="306" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Shoulder shading -->
+  <ellipse cx="130" cy="156" rx="11" ry="8" fill="#e0a458" opacity="0.8"/>
+  <ellipse cx="170" cy="156" rx="11" ry="8" fill="#e0a458" opacity="0.8"/>
+  <!-- Heart -->
+  <path d="M150 196 C142 188 132 196 150 210 C168 196 158 188 150 196 Z" fill="#e0a458" opacity="0.8" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- Callouts -->
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <line x1="178" y1="150" x2="250" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="252" y="118">tired</text>
+
+    <line x1="172" y1="158" x2="260" y2="150" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="262" y="154">tight shoulders</text>
+
+    <line x1="150" y1="200" x2="240" y2="200" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="242" y="196">racing heart</text>
+
+    <line x1="92" y1="190" x2="40" y2="180" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="24" y="176">worried thoughts</text>
+
+    <line x1="130" y1="276" x2="70" y2="286" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="24" y="290">trouble sleeping</text>
+
+    <line x1="168" y1="250" x2="240" y2="250" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="242" y="246">irritable</text>
+  </g>
+
+  <!-- Self-care menu -->
+  <rect x="300" y="58" width="188" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="394" y="84" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">self-care menu</text>
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <text x="316" y="114">✓ drink water</text>
+    <text x="316" y="140">✓ breathe slowly</text>
+    <text x="316" y="166">✓ move your body</text>
+    <text x="316" y="192">✓ rest</text>
+    <text x="316" y="218">✓ talk to someone</text>
+    <text x="316" y="244">✓ step away a moment</text>
+  </g>
+  <text x="394" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">simple, free, almost anywhere</text>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Signs are information, never weakness.</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Choose one action that helps.</text>
+</svg>
