@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Alone and together</title>
+  <desc id="desc">Two columns with a bridge between them. The left column, labeled "I can, alone", lists walking, wasting less, and planting a tree. The right column, labeled "We can, together", lists cleaning a river, making a rule, and planting a forest. A bridge connects the two, showing that individual and collective actions support each other.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Alone and together</text>
+
+  <!-- left column -->
+  <rect x="24" y="72" width="200" height="340" rx="12" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="124" y="106" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">I can, alone</text>
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <text x="124" y="150">walk or ride</text>
+    <text x="124" y="176">use less, waste less</text>
+    <text x="124" y="202">plant a tree</text>
+    <text x="124" y="228">speak up</text>
+  </g>
+  <text x="124" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">small, every day,</text>
+  <text x="124" y="320" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">in my own hands</text>
+
+  <!-- right column -->
+  <rect x="288" y="72" width="200" height="340" rx="12" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="388" y="106" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">We can, together</text>
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <text x="388" y="150">clean a river</text>
+    <text x="388" y="176">make a rule</text>
+    <text x="388" y="202">plant a forest</text>
+    <text x="388" y="228">build a system</text>
+  </g>
+  <text x="388" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">bigger, lasting,</text>
+  <text x="388" y="320" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">needs many hands</text>
+
+  <!-- bridge -->
+  <path d="M224 180 C256 160 256 160 288 180" stroke="#e0a458" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">each</text>
+  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">feeds</text>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">the other</text>
+
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Both matter — they strengthen each other.</text>
+</svg>

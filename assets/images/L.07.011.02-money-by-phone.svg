@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How mobile money spread</title>
+  <desc id="desc">A phone icon on the left with three labeled regions to its right — "2007: Kenya" then "East Africa" then "across 90+ countries" — connected by arrows, showing a technology spreading outward from one place.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">How mobile money spread</text>
+
+  <!-- phone icon -->
+  <rect x="52" y="186" width="86" height="140" rx="14" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="72" y="206" width="46" height="70" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="95" cy="298" r="8" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="95" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">send money</text>
+  <text x="95" y="378" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">by phone</text>
+
+  <!-- region boxes -->
+  <rect x="176" y="196" width="120" height="60" rx="10" fill="#e0a458" opacity="0.7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="236" y="222" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">2007</text>
+  <text x="236" y="244" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Kenya</text>
+
+  <rect x="322" y="196" width="130" height="60" rx="10" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="387" y="222" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">East</text>
+  <text x="387" y="244" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Africa</text>
+
+  <rect x="230" y="316" width="252" height="60" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="356" y="342" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">across 90+ countries</text>
+  <text x="356" y="364" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">(and still growing)</text>
+
+  <!-- arrows -->
+  <line x1="138" y1="226" x2="176" y2="226" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar2)"/>
+  <line x1="296" y1="226" x2="322" y2="226" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar2)"/>
+  <line x1="387" y1="256" x2="387" y2="316" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar2)"/>
+
+  <defs>
+    <marker id="ar2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A technology travels; each place adapts it to its own life.</text>
+</svg>

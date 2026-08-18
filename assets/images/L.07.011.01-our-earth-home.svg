@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our Earth Home — a unit map</title>
+  <desc id="desc">A central circle labeled "Our Earth Home" with four labeled boxes around it: "Technology & Society", "Media & Information", "Ecology & Earth Systems", and "Stewardship & Action". Arrows connect the circle to each box, showing the four strands of the unit.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Our Earth Home</text>
+
+  <!-- central earth circle -->
+  <circle cx="256" cy="256" r="76" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">One home</text>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">for everyone</text>
+
+  <!-- top box: technology -->
+  <rect x="146" y="70" width="220" height="56" rx="10" fill="#e0a458" opacity="0.6" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="103" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Technology &amp; Society</text>
+  <line x1="256" y1="180" x2="256" y2="126" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- left box: media -->
+  <rect x="18" y="222" width="190" height="68" rx="10" fill="#6b93b6" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="113" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Media &amp;</text>
+  <text x="113" y="272" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Information</text>
+  <line x1="208" y1="256" x2="180" y2="256" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- right box: ecology -->
+  <rect x="304" y="222" width="190" height="68" rx="10" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="399" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Ecology &amp;</text>
+  <text x="399" y="272" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Earth Systems</text>
+  <line x1="304" y1="256" x2="332" y2="256" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- bottom box: stewardship -->
+  <rect x="146" y="386" width="220" height="56" rx="10" fill="#e0a458" opacity="0.6" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="419" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Stewardship &amp; Action</text>
+  <line x1="256" y1="386" x2="256" y2="332" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Four strands, one shared home.</text>
+</svg>

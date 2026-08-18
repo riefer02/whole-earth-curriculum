@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Pollination: a partnership between a bee and a flower</title>
+  <desc id="desc">A bee on the left and a flower on the right, with two arrows between them. The top arrow points from the flower to the bee, labeled "bee gets nectar and pollen (food)". The bottom arrow points from the bee to the flower, labeled "flower gets pollen moved (to make seeds)". This shows both organisms benefit.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Pollination: a partnership</text>
+
+  <!-- bee -->
+  <g>
+    <ellipse cx="120" cy="216" rx="46" ry="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="120" y1="186" x2="120" y2="246" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="96" y1="210" x2="144" y2="210" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="90" cy="206" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M70 200 q-6 -14 6 -12 q10 -2 4 14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M70 214 q-8 8 4 14 q8 8 16 -2" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="292" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">bee</text>
+  </g>
+
+  <!-- flower -->
+  <g>
+    <rect x="368" y="250" width="12" height="70" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <ellipse cx="316" cy="236" rx="20" ry="26" fill="#7a9e7e" opacity="0.7" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="374" cy="214" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="374" cy="214" r="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="374" y="282" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">flower</text>
+  </g>
+
+  <!-- arrows -->
+  <line x1="168" y1="196" x2="330" y2="206" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar7)"/>
+  <text x="250" y="172" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">bee gets nectar + pollen (food)</text>
+
+  <line x1="330" y1="224" x2="168" y2="232" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar7)"/>
+  <text x="250" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">flower gets pollen moved (to make seeds)</text>
+
+  <defs>
+    <marker id="ar7" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Both benefit — that is the partnership.</text>
+</svg>

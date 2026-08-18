@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our Earth home, our choices</title>
+  <desc id="desc">A central circle labeled "Our Earth Home" surrounded by four labeled lenses: "Ethics — what is right?", "Egalitarianism — who benefits?", "Global — how do others see it?", and "Technology & Environment — what is the effect?". Arrows point from each lens into the center, showing the four lenses meet in one place: our choices.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Our Earth home, our choices</text>
+
+  <!-- central -->
+  <circle cx="256" cy="256" r="66" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">our</text>
+  <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">choices</text>
+
+  <!-- four lenses -->
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <rect x="150" y="72" width="212" height="50" rx="10" fill="#7a9e7e" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="102" text-anchor="middle" font-weight="bold">Ethics — what is right?</text>
+
+    <rect x="24" y="200" width="180" height="66" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="114" y="228" text-anchor="middle" font-weight="bold">Egalitarianism —</text>
+    <text x="114" y="250" text-anchor="middle" font-weight="bold">who benefits?</text>
+
+    <rect x="308" y="200" width="180" height="66" rx="10" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="398" y="228" text-anchor="middle" font-weight="bold">Global — how do</text>
+    <text x="398" y="250" text-anchor="middle" font-weight="bold">others see it?</text>
+
+    <rect x="120" y="390" width="272" height="50" rx="10" fill="#7a9e7e" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="420" text-anchor="middle" font-weight="bold">Technology &amp; Environment — the effect?</text>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#2b3a42" stroke-width="2.5">
+    <line x1="256" y1="122" x2="256" y2="190" marker-end="url(#ar10)"/>
+    <line x1="204" y1="233" x2="190" y2="242" marker-end="url(#ar10)"/>
+    <line x1="308" y1="233" x2="322" y2="242" marker-end="url(#ar10)"/>
+    <line x1="256" y1="390" x2="256" y2="322" marker-end="url(#ar10)"/>
+  </g>
+
+  <defs>
+    <marker id="ar10" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Four lenses, one place to act.</text>
+</svg>

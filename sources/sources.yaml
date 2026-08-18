@@ -3058,3 +3058,21 @@ sources:
     domains: [D09]
     reviewed: true
     notes: "Cited in U.07.010 L08 (Civil Society) for the Red Cross/Red Crescent movement as an example of neutral, voluntary humanitarian aid. URL verified live (2026-08-18): the IFRC homepage describes the IFRC as 'the world's largest humanitarian network', supporting local Red Cross and Red Crescent action in more than 191 countries with more than 18 million volunteers — on-topic for the lesson's one-line claim that the movement 'gives neutral humanitarian aid in crises'. General authority, not a claim-level citation for a specific statistic."
+
+  - id: S-330
+    title: Encyclopaedia Britannica — Pollination
+    type: website
+    url: https://www.britannica.com/science/pollination
+    organization: Encyclopaedia Britannica
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.07.011 L07 (Partners in Life: Pollination and Symbiosis) for the claim that pollination is the transfer of pollen that enables plants to make seeds, and that pollinators (bees and others) receive nectar and pollen (food) while the plant gains reproduction — a mutualism in which both benefit. URL verified live (2026-08-18): Britannica's 'pollination' article opens 'pollination, transfer of pollen grains from the stamens (the flower parts that produce them) to the ovule-bearing organs or to the ovules (seed precursors) themselves', states 'pollination is essential to the perpetuation of the vast majority of the world's wild plants as well as to the production of most fruit and seed crops', and documents bees as pollinators that feed on nectar and pollen, with nectar attracting pollinators to the stamens. Directly supports the lesson's mutualism framing (bee gets food; plant gets pollen moved so it can make seeds)."
+
+  - id: S-331
+    title: Encyclopaedia Britannica — Symbiosis
+    type: website
+    url: https://www.britannica.com/science/symbiosis
+    organization: Encyclopaedia Britannica
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.07.011 L07 (Partners in Life: Pollination and Symbiosis) for the claim that symbiosis is a close relationship between two different species, and that mutualism is the kind in which both partners benefit (contrasted with parasitism, where one benefits and the other is harmed). URL verified live (2026-08-18): Britannica's 'symbiosis' article opens 'symbiosis, any of several living arrangements between members of two different species, including mutualism, commensalism, and parasitism. Both positive (beneficial) and negative (unfavourable to harmful) associations are therefore included', and adds 'Any association between two species populations that live together is symbiotic, whether the species benefit, harm, or have no effect on one another.' Directly supports the lesson's mutualism/parasitism contrast; the lesson's 'close relationship between two different species' is a faithful, appropriately simplified rendering for grade 7."

@@ -4619,7 +4619,7 @@ items:
     type: lesson
     grade: 7
     domain: D10
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4631,6 +4631,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1168 files); all 10 IDs L.07.011.01-.10 sequential with matching sequence_in_unit 1-10; unit.md Lessons table titles match authored files; every objectives: resolves only to the 8 real D10 grade-7 standards (D10.S1/S2/S3/S4.07.01/.02 verbatim in domain-10 lines 148-164, no K-level or cross-grade IDs); all four required headings present; 10 SVG assets exist; Connection concrete/faithful (L3 plastic-bag intended/unintended, L2 M-Pesa/paper journey); example objective L8 verbatim. Note for fact-checker: S-330/S-331 still reviewed:false."
+      fact-checker:
+        verdict: passed
+        note: "Verified M-Pesa history (Kenya 2007, grew where bank branches scarce: S-210/211), greenhouse-gas/climate-change + carbon-cycle science (IPCC S-005, NOAA S-309, Nat Geo S-253), misinformation-vs-disinformation intent distinction (UNESCO MIL S-217), pollination/symbiosis mutualism (Britannica S-330/331 — URLs checked live, now reviewed:true); all cited sources real/registered/on-topic; evidence vs values distinguished."
+      global-culture-editor:
+        verdict: passed
+        note: "Audited all 10 lessons + unit.md: framing already global (no US/Euro default; M-Pesa Kenya 2007 as primary case with paper/China second; stewardship via Wangari Maathai Green Belt Movement). Closed §11 gap: added Indigenous/traditional ecological knowledge side by side with Western science in ecology/climate/stewardship lessons (Aboriginal & Torres Strait Islander cultural burning S-320/321, Māori kaitiakitanga in L9, observation traditions in L6/L8); validate green (1168 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Verified all 10 lessons declare no-device/no-electricity materials_low_tech tier (voice + shared board, found objects, body enactment, blanket, leaves/soil) so media/tech content never silently requires devices/wealth; every assets: entry has non-empty descriptive alt text resolving to real files; all SVGs (incl. carbon-cycle + greenhouse-effect diagrams) have role=img + aria-labelledby + title/desc + in-lesson non-visual/body-based alternatives; color never sole channel (all diagram parts text-labeled); UDL differentiation + context_variants throughout. validate green (1168 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Audited all 10 lessons + unit.md: four lenses carried (ethics as 'what do we owe', egalitarianism as 'who benefits/who is left out', global/anthropological via non-Western cases M-Pesa + Indigenous stewardship alongside science per §11, tech+environment as unit spine); traceability unbroken — every objective resolves verbatim to the eight real D10 grade-7 standards, lesson → D10.S1-S4 → D10 → P4 → vision; validate green (1168 files)."
+      child-psychologist:
+        verdict: passed
+        note: For 6-8 band verified cognitive fit (abstract systems like carbon cycle/greenhouse effect grounded in worked examples, concrete analogies, hands-on sorting); emotional safety (climate change scaffolded natural-then-human-amplified, sequenced into agency action lesson + hope-centered capstone; misinformation via low-stakes debunked examples not fear); physical fit (partner/group sorting, body role-play, gallery walk); open-endedness (questions held as questions, evidence vs values distinguished, Indigenous knowledge side-by-side per §11); spiral continuity via Grade 6 retrieval.
   - id: B-358
     title: Author lessons for Unit U.07.012 (All of Me, All of Us)
     agent: lesson-author

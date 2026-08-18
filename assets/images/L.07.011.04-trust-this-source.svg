@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Five questions to check a source</title>
+  <desc id="desc">A vertical checklist of five questions: "Who made it?", "Why was it made?", "What evidence does it give?", "When was it made?", and "Does another source agree?". Each question sits in a labeled row with a check mark.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Can I trust this source?</text>
+
+  <!-- five rows -->
+  <g font-family="sans-serif" font-size="17" fill="#222222">
+    <rect x="56" y="70" width="344" height="56" rx="10" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="88" y="104" font-weight="bold">1. Who made it?</text>
+
+    <rect x="56" y="142" width="344" height="56" rx="10" fill="#7a9e7e" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="88" y="176" font-weight="bold">2. Why was it made?</text>
+
+    <rect x="56" y="214" width="344" height="56" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="88" y="248" font-weight="bold">3. What evidence does it give?</text>
+
+    <rect x="56" y="286" width="344" height="56" rx="10" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="88" y="320" font-weight="bold">4. When was it made?</text>
+
+    <rect x="56" y="358" width="344" height="56" rx="10" fill="#7a9e7e" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="88" y="392" font-weight="bold">5. Does another source agree?</text>
+  </g>
+
+  <!-- check marks -->
+  <g stroke="#2b3a42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M418 92 l14 14 l22 -26"/>
+    <path d="M418 164 l14 14 l22 -26"/>
+    <path d="M418 236 l14 14 l22 -26"/>
+    <path d="M418 308 l14 14 l22 -26"/>
+    <path d="M418 380 l14 14 l22 -26"/>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ask all five — not just the one that is easiest.</text>
+</svg>

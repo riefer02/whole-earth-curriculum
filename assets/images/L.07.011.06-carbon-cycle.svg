@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The carbon cycle in a forest</title>
+  <desc id="desc">A loop diagram of the carbon cycle in a forest: a tree takes in carbon dioxide (photosynthesis), an animal breathes out carbon dioxide (respiration), dead leaves and wood decay on the ground (decomposition), and carbon returns to the air and soil. Arrows connect the parts in a cycle, with the note "carbon is reused, not created new".</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Carbon in a forest</text>
+
+  <!-- tree -->
+  <rect x="240" y="176" width="22" height="96" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="251" cy="160" r="52" fill="#7a9e7e" opacity="0.6" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="251" y="134" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">tree</text>
+  <text x="251" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">takes in CO₂</text>
+
+  <!-- animal -->
+  <g>
+    <ellipse cx="360" cy="150" rx="30" ry="18" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="360" cy="118" r="16" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="360" y="100" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">animal</text>
+    <text x="360" y="180" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">breathes out CO₂</text>
+  </g>
+
+  <!-- decomposers / ground -->
+  <g>
+    <ellipse cx="150" cy="330" rx="80" ry="30" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="150" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">dead leaves &amp; wood</text>
+    <text x="150" y="342" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">decay into soil</text>
+  </g>
+
+  <!-- arrows forming the loop -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none">
+    <path d="M296 176 C330 176 330 150 354 150" marker-end="url(#ar6)"/>
+    <path d="M360 168 C360 260 300 300 240 320" marker-end="url(#ar6)"/>
+    <path d="M120 300 C90 240 150 190 205 176" marker-end="url(#ar6)"/>
+  </g>
+
+  <!-- atmosphere label -->
+  <text x="70" y="70" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">air (CO₂)</text>
+  <path d="M118 82 C150 60 200 50 246 108" stroke="#4f6d7a" stroke-width="2" fill="none" stroke-dasharray="5 4"/>
+
+  <defs>
+    <marker id="ar6" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The same atoms go round and round — reused, never made new.</text>
+</svg>

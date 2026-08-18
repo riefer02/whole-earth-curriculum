@@ -37,7 +37,7 @@ assessment_plan: >-
   portfolio artifacts.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # Unit 11 — Media, Technology & Our Earth Home
@@ -68,3 +68,13 @@ and collective actions for caring for the environment, explaining why both matte
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Our Earth Home: Where We've Been, Where We're Going | D10.S1.07.01, D10.S1.07.02, D10.S2.07.01, D10.S2.07.02, D10.S3.07.01, D10.S3.07.02, D10.S4.07.01, D10.S4.07.02 (overview) |
+| 02 | How a Technology Spreads: Money by Phone | D10.S1.07.01 |
+| 03 | Intended and Unintended: Two Kinds of Effect | D10.S1.07.02 |
+| 04 | Can I Trust This Source? | D10.S2.07.01 |
+| 05 | False by Mistake, False on Purpose | D10.S2.07.02 |
+| 06 | The Carbon Cycle: Matter That Never Leaves | D10.S3.07.01 |
+| 07 | Partners in Life: Pollination and Symbiosis | D10.S3.07.02 |
+| 08 | Why Is the Earth Warming? | D10.S4.07.01 |
+| 09 | Alone and Together: Individual and Collective Action | D10.S4.07.02 |
+| 10 | Capstone: Our Earth Home, Our Choices | D10.S1.07.01, D10.S1.07.02, D10.S2.07.01, D10.S2.07.02, D10.S3.07.01, D10.S3.07.02, D10.S4.07.01, D10.S4.07.02 (synthesis) |
