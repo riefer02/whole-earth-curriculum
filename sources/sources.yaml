@@ -562,9 +562,9 @@ sources:
     type: website
     url: https://www.nobelprize.org/prizes/peace/2004/maathai/facts/
     organization: Nobel Prize Outreach / Nobel Foundation
-    domains: [D08]
+    domains: [D08, D09]
     reviewed: true
-    notes: "Cited in U.02.009 L08 (Someone Who Helped and Spoke Up). URL verified live (2026-08-16). States Wangari Maathai 'In 1977 she started a grass-roots movement' countering deforestation, that the Green Belt Movement 'spread to other African countries, and contributed to the planting of over thirty million trees', and that she received the Nobel Peace Prize 2004 'for her contribution to sustainable development, democracy and peace'. Confirms every factual claim in the lesson (Green Belt Movement 1977; over thirty million trees; Nobel Peace Prize 2004). The lesson correctly distinguishes these facts from the value that caring for the land and speaking up are good."
+    notes: "Cited in U.02.009 L08 (Someone Who Helped and Spoke Up). URL verified live (2026-08-16). States Wangari Maathai 'In 1977 she started a grass-roots movement' countering deforestation, that the Green Belt Movement 'spread to other African countries, and contributed to the planting of over thirty million trees', and that she received the Nobel Peace Prize 2004 'for her contribution to sustainable development, democracy and peace'. Confirms every factual claim in the lesson (Green Belt Movement 1977; over thirty million trees; Nobel Peace Prize 2004). The lesson correctly distinguishes these facts from the value that caring for the land and speaking up are good. Also cited in U.06.010 L07 (Ordinary People, Changing What Was Unfair) for the same Green Belt Movement facts (founded 1977 by Wangari Maathai; spread to other African countries; over thirty million trees; Nobel Peace Prize 2004). Re-verified live (2026-08-18)."
 
   - id: S-061
     title: Britannica Kids — Tool
@@ -1308,9 +1308,9 @@ sources:
     type: website
     url: https://kids.britannica.com/kids/article/Haudenosaunee/353303
     organization: Encyclopaedia Britannica
-    domains: [D08]
+    domains: [D08, D09]
     reviewed: true
-    notes: "Cited in U.04.009 L09 (Rules, Leaders and Fair Decisions) for the Haudenosaunee confederacy and its Great Law of Peace. Correct article ID (353303); the previously cited /Iroquois/353301 resolved to the 'iron' article. Real Britannica Kids article."
+    notes: "Cited in U.04.009 L09 (Rules, Leaders and Fair Decisions) for the Haudenosaunee confederacy and its Great Law of Peace. Correct article ID (353303); the previously cited /Iroquois/353301 resolved to the 'iron' article. Real Britannica Kids article. Also cited in U.06.010 L06 (Democracy, Autocracy & Other Ways of Deciding) for consensus-based councils as a living way of deciding. Re-verified live (2026-08-18): the article states the Grand Council 'makes decisions based on the Great Law of Peace' and that 'All decisions made by the Grand Council have to be agreed upon by all members' (consensus), that a clan mother 'is the head of each clan' and 'in charge of choosing the clan's hoyaneh' (chiefs), and that the Haudenosaunee are 'the oldest living participatory democracy in the world' — supporting the lesson's 'deliberate until agreement' and 'living tradition, not a museum piece' claims."
 
   - id: S-143
     title: "FAO — Soil conservation"
@@ -1873,9 +1873,9 @@ sources:
     type: website
     url: https://americanindian.si.edu/
     organization: Smithsonian Institution (National Museum of the American Indian)
-    domains: [D08]
+    domains: [D08, D09]
     reviewed: true
-    notes: "Cited in U.05.010 L04 for the Haudenosaunee account of Sky Woman and Turtle Island, and in U.06.009 L09/L10 for the Haudenosaunee (Iroquois) Confederacy, its Great Law of Peace, its consensus-based councils, and the role of clan mothers. NMAI is the authoritative Smithsonian museum for Native American/Indigenous histories, and its educational materials (including the Native Knowledge 360° project) document Haudenosaunee creation traditions, including Sky Woman and the land grown on Turtle's back. Site returns 403 to automated clients but is real and canonical (verified 2026-08-17). The lesson correctly presents the story as a living tradition of the Haudenosaunee Confederacy."
+    notes: "Cited in U.05.010 L04 for the Haudenosaunee account of Sky Woman and Turtle Island, and in U.06.009 L09/L10 for the Haudenosaunee (Iroquois) Confederacy, its Great Law of Peace, its consensus-based councils, and the role of clan mothers. NMAI is the authoritative Smithsonian museum for Native American/Indigenous histories, and its educational materials (including the Native Knowledge 360° project) document Haudenosaunee creation traditions, including Sky Woman and the land grown on Turtle's back. Site returns 403 to automated clients but is real and canonical (verified 2026-08-17). The lesson correctly presents the story as a living tradition of the Haudenosaunee Confederacy. Also cited in U.06.010 L06 (Democracy, Autocracy & Other Ways of Deciding) alongside S-142 for the Haudenosaunee Confederacy's consensus-based councils as a living way of deciding."
 
   - id: S-204
     title: Smithsonian Institution — writing systems, the wheel, and Maya astronomy

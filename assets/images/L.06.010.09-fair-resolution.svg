@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Proposing a fair resolution</title>
+  <desc id="desc">A bridge diagram for a fair resolution. On the left bank stands a figure labeled "side 1: needs water for the garden." On the right bank stands a figure labeled "side 2: needs water for cooking and washing." A bridge spans between them, labeled "fair resolution: a shared schedule — garden water in the cool morning, household water at midday." Two steps are labeled below: "name both needs" and "choose what both accept." Labels, shapes, and the bridge carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Proposing a Fair Resolution</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a bridge both sides can walk across</text>
+
+  <!-- water between banks -->
+  <path d="M60 320 Q160 296 256 320 Q352 344 452 320 L452 360 Q352 384 256 360 Q160 336 60 360 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- left bank figure -->
+  <circle cx="96" cy="286" r="16" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="80" y="302" width="32" height="36" rx="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="120" width="150" height="64" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="99" y="144" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">side 1: needs water</text>
+  <text x="99" y="162" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">for the garden</text>
+
+  <!-- right bank figure -->
+  <circle cx="416" cy="286" r="16" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="400" y="302" width="32" height="36" rx="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="338" y="120" width="150" height="64" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="413" y="144" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">side 2: needs water for</text>
+  <text x="413" y="162" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">cooking and washing</text>
+
+  <!-- bridge -->
+  <path d="M80 320 Q256 240 432 320" fill="none" stroke="#2b3a42" stroke-width="6"/>
+  <line x1="80" y1="320" x2="80" y2="340" stroke="#2b3a42" stroke-width="6"/>
+  <line x1="432" y1="320" x2="432" y2="340" stroke="#2b3a42" stroke-width="6"/>
+  <rect x="136" y="208" width="240" height="54" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">fair resolution: a shared schedule</text>
+  <text x="256" y="246" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">garden water in the cool morning,</text>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">household water at midday</text>
+
+  <!-- steps -->
+  <rect x="56" y="392" width="190" height="56" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="151" y="414" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">step 1: name both needs</text>
+  <text x="151" y="434" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(brainstorm, then test for fairness)</text>
+  <rect x="266" y="392" width="190" height="56" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="361" y="414" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">step 2: choose what</text>
+  <text x="361" y="434" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">both sides accept</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">A resolution only one side accepts is not a fair resolution.</text>
+</svg>

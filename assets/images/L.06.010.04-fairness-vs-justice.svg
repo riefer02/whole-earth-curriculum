@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fairness vs. justice</title>
+  <desc id="desc">A two-column comparison. The left column, labeled "fairness — what people deserve," shows three children each holding one equal bowl with the note "each gets a fair share." The right column, labeled "justice — correcting wrongs and protecting rights," shows a stolen bowl being returned to its owner while the person who took it helps repair the harm, with the note "a wrong is made right." Labels, shapes, and counts carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Fairness vs. Justice</text>
+
+  <!-- Left column: fairness -->
+  <rect x="20" y="70" width="228" height="410" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="100" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">fairness</text>
+  <text x="134" y="122" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what people deserve</text>
+
+  <!-- three children, equal bowls -->
+  <!-- child 1 -->
+  <circle cx="70" cy="180" r="16" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="54" y="196" width="32" height="34" rx="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M54 230 Q70 250 86 230 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- child 2 -->
+  <circle cx="134" cy="180" r="16" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="118" y="196" width="32" height="34" rx="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M118 230 Q134 250 150 230 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- child 3 -->
+  <circle cx="198" cy="180" r="16" fill="#d9a05b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="182" y="196" width="32" height="34" rx="7" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M182 230 Q198 250 214 230 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <rect x="42" y="300" width="184" height="70" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="134" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">each gets a</text>
+  <text x="134" y="350" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">fair share</text>
+
+  <!-- Right column: justice -->
+  <rect x="264" y="70" width="228" height="410" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="100" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">justice</text>
+  <text x="378" y="122" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">correcting wrongs &#38; protecting rights</text>
+
+  <!-- owner receiving bowl back, other person repairing -->
+  <!-- owner -->
+  <circle cx="330" cy="180" r="16" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="314" y="196" width="32" height="34" rx="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- helper handing the bowl back -->
+  <circle cx="420" cy="180" r="16" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="404" y="196" width="32" height="34" rx="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="352" y1="206" x2="398" y2="206" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M346 200 Q358 216 372 200 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <rect x="286" y="300" width="184" height="70" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="378" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">a wrong is</text>
+  <text x="378" y="350" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">made right</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Fairness asks &#8220;is the share right?&#8221; &#8212; Justice asks &#8220;was a wrong done, and how is it made right?&#8221;</text>
+</svg>

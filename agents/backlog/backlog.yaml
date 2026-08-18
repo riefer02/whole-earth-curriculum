@@ -4138,7 +4138,7 @@ items:
     type: lesson
     grade: 6
     domain: D09
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -4150,6 +4150,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (1039). IDs L.06.010.01-.10 sequence_in_unit 1-10, grade 6, unit U.06.010; objectives resolve to all 8 real grade-6 D09 standards; required headings present learner-first; unit.md table lists all 10; all 10 assets resolve non-empty alt; L06 accurately distinguishes democracy/autocracy/consensus grounded in Haudenosaunee Confederacy Great Law of Peace 'a living tradition not a museum piece' (Britannica Kids/NMAI); L05 systemic examples (staircase-only entrance, one-language sign, meeting time clashing with work/prayer, single-format test) harm without intent; sources Green Belt Movement Nobel 2004/30M trees, IIRP+Zehr 1990, Dunlosky 2013, Kirschner; safety boundaries for serious-harm cases.
+      fact-checker:
+        verdict: passed
+        note: "Green Belt Movement (Maathai 1977, 30M+ trees, Nobel 2004, 'name the many not one name' no hero-worship) confirmed live; Haudenosaunee consensus + clan mothers confirmed (Britannica Kids S-142: Grand Council, all decisions agreed by all, clan mother chooses hoyaneh, oldest participatory democracy); restorative justice aims repair-harm/meet-needs/take-responsibility + limits time/willingness, Zehr 1990 + IIRP real; fact/belief/value, fairness-vs-justice, systemic unfairness, decision-models distinctions accurate not over-claimed; all 10 sources already registered + updated domains to D09 for S-059/S-142/S-203; 'questions held as questions' as value."
+      global-culture-editor:
+        verdict: passed
+        note: L06 holds democracy/autocracy/consensus each with strengths AND limits 'none assumed superior'/'never good one vs bad one'; consensus grounded in Haudenosaunee Great Law of Peace as 'living tradition not museum piece' not exoticized; L07 Green Belt Movement (Kenya Maathai founded with other women) + local/global examples + 'name the many not one name'; L10 restorative justice functional (repair harm/meet needs/take responsibility) no Western-origin attribution, non-shaming vs punishment with aims/limits both; Connection spans shared water tap/harvest share/taken goat/broken water jar/hillside deforestation; 'questions held as questions never dogma' echoed L2/L3/L6/L10; no governance tradition ranked.
+      accessibility-editor:
+        verdict: passed
+        note: All 10 lessons real materials_low_tech (spoken circles, drawn-in-dirt charts, role-play, stones/sticks talking objects, hand-raising/pointing); UDL say/draw/act/sort/write + non-verbal (sorting cards, pointing, raising hands, written records); fixed L2/L8/L9 to add seated/silent non-speaking alternatives (pointing round, thumbs-and-pointing round, point-to-choice round); terms scaffolded in key_vocabulary + defined in-body; no wealth assumption; all 10 assets non-empty alt + SVG role=img/title/desc grayscale.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (fact/belief/value, dilemma weighing, justice vs fairness, restorative repair, open questions not dogma); egalitarianism (L3 'who else is affected', L5 systemic unfairness structural not personal blame, L8-9 every side incl quieter named, resolution requires both sides' acceptance); global (Haudenosaunee Great Law L6, Green Belt Movement L7, cross-cultural harvest/well/tap examples); tech/environment (L5 built/digital inclusion, L7 deforestation/re-greening); evidence-vs-values (CASEL/Kirschner/UNICEF CRC/Nobel/IIRP/Zehr/Dunlosky). Traceability: Vision->P4->D09->S1-S4->8 standards->U.06.010->lessons."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-6 band (11-12): cognitive fit concrete (fact/belief/value 3-column sort, dilemmas 2-branch scenarios, fairness-vs-justice harvest-share vs returned-goat, democracy/autocracy/consensus 'who decides' scenes, restorative broken-jar repair-vs-lose-a-turn; worked example before paired practice); emotional safety L5 non-shaming 'no one meant harm' + fix/hope; L10 repair-vs-punishment aims/limits never good-vs-bad + 'serious harm needs adults'; L8-9 carry B-333 safety boundary (trusted adult, peer never resolves serious harm alone) + low-stakes cards; L2-3 'tell a trusted adult' as legitimate choice defusing moral distress; physical fit seated/silent alternatives; not dumbed-down; open-ended 'questions as questions never dogma'."
   - id: B-345
     title: Author lessons for Unit U.06.011 (Tools, Media & Our Earth Home)
     agent: lesson-author

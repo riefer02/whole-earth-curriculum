@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A moral dilemma: two right-seeming choices</title>
+  <desc id="desc">A dilemma diagram. A box at the top reads "your friend's secret could hurt someone." Two branches split downward. The left branch reads "Choice A: keep the secret" with a note "right-seeming: loyalty to a friend." The right branch reads "Choice B: tell a trusted adult" with a note "right-seeming: protect someone from harm." A caption reads "a moral dilemma is two right-seeming choices in conflict." Labels, arrows, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Moral Dilemma</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">two right-seeming choices in conflict</text>
+
+  <!-- situation box -->
+  <rect x="96" y="96" width="320" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">your friend&#8217;s secret</text>
+  <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">could hurt someone</text>
+
+  <!-- fork arms -->
+  <path d="M200 160 Q160 220 130 270" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M312 160 Q352 220 382 270" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- Choice A -->
+  <rect x="36" y="274" width="190" height="150" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="131" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Choice A</text>
+  <text x="131" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">keep the secret</text>
+  <rect x="52" y="342" width="158" height="64" rx="8" fill="#eef3f6" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="131" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#4f6d7a">right-seeming:</text>
+  <text x="131" y="386" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#4f6d7a">loyalty to a friend</text>
+
+  <!-- Choice B -->
+  <rect x="286" y="274" width="190" height="150" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="381" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Choice B</text>
+  <text x="381" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">tell a trusted adult</text>
+  <rect x="302" y="342" width="158" height="64" rx="8" fill="#eef3f6" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="381" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#4f6d7a">right-seeming:</text>
+  <text x="381" y="386" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#4f6d7a">protect someone from harm</text>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Not &#8220;good vs. bad&#8221; &#8212; &#8220;good vs. good,&#8221; pulling opposite ways.</text>
+</svg>

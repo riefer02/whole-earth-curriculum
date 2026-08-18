@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A system leaves people out without anyone meaning to</title>
+  <desc id="desc">A flow diagram of a rule leaving people out without intent. At the top, a sign reads "the only way in is up these stairs." A first arrow leads to "step 1: a person using a wheelchair arrives." A second arrow leads to "step 2: there is no ramp or lift." A third arrow leads to an outcome box reading "that person is left out." A caption reads "no one meant harm — but the system still excludes." A small "fix" box reads "add a ramp or a ground-level door." Arrows, labels, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">When a System Leaves People Out</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">without anyone meaning to</text>
+
+  <!-- sign -->
+  <rect x="146" y="84" width="220" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the only way in is</text>
+  <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">up these stairs</text>
+  <line x1="256" y1="136" x2="256" y2="160" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M248 160 L256 152 L264 160" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- step 1 -->
+  <rect x="96" y="168" width="320" height="54" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">step 1: a person using a wheelchair</text>
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">arrives at the door</text>
+  <path d="M248 222 L256 230 L264 222" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- step 2 -->
+  <rect x="96" y="238" width="320" height="54" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">step 2: there is no ramp,</text>
+  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and no lift</text>
+  <path d="M248 292 L256 300 L264 292" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- outcome -->
+  <rect x="96" y="308" width="320" height="54" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">outcome: that person is left out</text>
+  <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">no one meant harm &#8212; but the system still excludes</text>
+
+  <!-- fix box -->
+  <rect x="96" y="392" width="320" height="54" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">fix: add a ramp, or a ground-level door</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a small change can include the people the steps left out</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Ask: who is left out? at which step? did anyone intend it?</text>
+</svg>

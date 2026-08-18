@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fact, belief, or value: three kinds of claim</title>
+  <desc id="desc">A three-column sorting chart labeled "fact," "belief," and "value." Under fact, a magnifier icon and the statement "a river floods every year" with the note "can be checked with evidence." Under belief, a thought-bubble icon and the statement "there is life on other worlds" with the note "held, but not provable now." Under value, a heart icon and the statement "people should be kind" with the note "about what ought to be." Icons, labels, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Fact, Belief, or Value?</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">three kinds of claim &#183; how do I tell?</text>
+
+  <!-- Column 1: fact -->
+  <rect x="16" y="92" width="152" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">fact</text>
+  <!-- magnifier icon -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="92" cy="160" r="22" fill="#6b93b6"/>
+    <line x1="108" y1="176" x2="126" y2="194"/>
+  </g>
+  <rect x="30" y="212" width="124" height="72" rx="8" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="92" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">&#8220;the river floods</text>
+  <text x="92" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">every year&#8221;</text>
+  <text x="92" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">can be checked</text>
+  <text x="92" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">with evidence</text>
+
+  <!-- Column 2: belief -->
+  <rect x="180" y="92" width="152" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">belief</text>
+  <!-- thought bubble icon -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="256" cy="172" r="8"/>
+    <circle cx="244" cy="162" r="5"/>
+    <circle cx="268" cy="162" r="5"/>
+    <path d="M246 178 Q242 190 252 190"/>
+  </g>
+  <rect x="194" y="212" width="124" height="72" rx="8" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">&#8220;there is life</text>
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">on other worlds&#8221;</text>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">held, but not</text>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">provable now</text>
+
+  <!-- Column 3: value -->
+  <rect x="344" y="92" width="152" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">value</text>
+  <!-- heart icon -->
+  <path d="M420 152 Q412 140 420 130 Q428 140 420 152 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="358" y="212" width="124" height="72" rx="8" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="420" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">&#8220;people should</text>
+  <text x="420" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">be kind&#8221;</text>
+  <text x="420" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">about what</text>
+  <text x="420" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">ought to be</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Ask: can I check it? &#8212; do I hold it? &#8212; is it a &#8220;should&#8221;?</text>
+</svg>

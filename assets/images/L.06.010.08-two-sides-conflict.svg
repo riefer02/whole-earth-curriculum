@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Seeing both sides of a conflict</title>
+  <desc id="desc">A two-sides conflict diagram. In the center, a box reads "two neighbors, one shared water tap." Two panels flank it. The left panel, labeled "side 1," shows one figure with a thought bubble "feeling: worried" and a speech label "need: water for my garden." The right panel, labeled "side 2," shows another figure with a thought bubble "feeling: frustrated" and a speech label "need: water for my family's cooking and washing." A caption reads "analyze the conflict: each side has feelings and needs." Labels, shapes, and speech bubbles carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Seeing Both Sides of a Conflict</text>
+
+  <!-- center situation -->
+  <rect x="146" y="66" width="220" height="56" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">two neighbors, one shared</text>
+  <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">water tap</text>
+
+  <!-- Side 1 -->
+  <rect x="20" y="146" width="228" height="330" rx="14" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="134" y="176" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">side 1</text>
+  <!-- figure -->
+  <circle cx="134" cy="214" r="17" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="116" y="231" width="36" height="40" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- thought bubble -->
+  <g fill="#ffffff" stroke="#2b3a42" stroke-width="2">
+    <circle cx="60" cy="220" r="8"/>
+    <circle cx="76" cy="208" r="6"/>
+    <circle cx="92" cy="220" r="6"/>
+    <path d="M84 224 Q86 236 96 234" fill="#ffffff"/>
+  </g>
+  <text x="70" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">feeling:</text>
+  <text x="70" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">worried</text>
+  <!-- need label -->
+  <rect x="36" y="296" width="196" height="120" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="134" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">need: water</text>
+  <text x="134" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">for my garden</text>
+  <text x="134" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">feelings are the surface;</text>
+  <text x="134" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">needs are underneath</text>
+
+  <!-- Side 2 -->
+  <rect x="264" y="146" width="228" height="330" rx="14" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="378" y="176" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">side 2</text>
+  <!-- figure -->
+  <circle cx="378" cy="214" r="17" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="360" y="231" width="36" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- thought bubble -->
+  <g fill="#ffffff" stroke="#2b3a42" stroke-width="2">
+    <circle cx="420" cy="220" r="8"/>
+    <circle cx="436" cy="208" r="6"/>
+    <circle cx="452" cy="220" r="6"/>
+    <path d="M428 224 Q426 236 416 234" fill="#ffffff"/>
+  </g>
+  <text x="444" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">feeling:</text>
+  <text x="444" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">frustrated</text>
+  <!-- need label -->
+  <rect x="280" y="296" width="196" height="120" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="378" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">need: water for cooking</text>
+  <text x="378" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and washing</text>
+  <text x="378" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">both needs are real &#8212;</text>
+  <text x="378" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">that is what makes it a conflict</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Analyze: name each side&#8217;s feeling and need &#8212; both of them.</text>
+</svg>

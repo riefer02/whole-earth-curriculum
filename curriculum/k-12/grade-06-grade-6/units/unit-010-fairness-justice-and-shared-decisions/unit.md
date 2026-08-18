@@ -64,3 +64,13 @@ questions, never answered as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.010.01 | Fact, Belief, or Value? | D09.S1.06.01 |
+| L.06.010.02 | A Moral Dilemma: Two Right-Seeming Choices | D09.S1.06.02 |
+| L.06.010.03 | Weighing the Consequences of Each Choice | D09.S1.06.02 |
+| L.06.010.04 | Fairness vs. Justice | D09.S2.06.01 |
+| L.06.010.05 | When Systems Leave People Out — Without Anyone Meaning To | D09.S2.06.02 |
+| L.06.010.06 | Democracy, Autocracy & Other Ways of Deciding | D09.S3.06.01 |
+| L.06.010.07 | Ordinary People, Changing What Was Unfair | D09.S3.06.02 |
+| L.06.010.08 | Seeing Both Sides of a Conflict | D09.S4.06.01 |
+| L.06.010.09 | Proposing a Fair Resolution | D09.S4.06.01 |
+| L.06.010.10 | Restorative Justice vs. Punishment | D09.S4.06.02 |
