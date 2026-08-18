@@ -58,3 +58,11 @@ eating is honored; the body is taught with dignity, never shame.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.07.008.01 | Media Images & Body Image: What Are We Really Seeing? | D03.S1.07.02 |
+| L.07.008.02 | A Healthy Response: Reading Media Without Losing Myself | D03.S1.07.02 |
+| L.07.008.03 | Food Marketing: Claims vs. Evidence | D03.S3.07.02 |
+| L.07.008.04 | Evaluating Food Ads: Spotting the Claim, Asking for Evidence | D03.S3.07.02 |
+| L.07.008.05 | First Aid Basics: Bleeding & Burns | D03.S4.07.01 |
+| L.07.008.06 | First Aid: Choking & Getting Adult Help | D03.S4.07.01 |
+| L.07.008.07 | Social Media & Mental Health: What It Does to How We Feel | D03.S4.07.02 |
+| L.07.008.08 | My Social Media Boundaries: A Plan for Healthy Use | D03.S4.07.02 |

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The pause-and-question response to a media image</title>
+  <desc id="desc">A three-step flowchart. Step one is an eye icon with the label "See an image." Step two is a pause symbol with three question bubbles: Is this edited? Who chose this? What is it selling? Step three is a heart with the label "My response: my body is more than an image." Arrows connect the three steps downward.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A healthy response: pause and ask</text>
+
+  <!-- Step 1 -->
+  <rect x="146" y="70" width="220" height="76" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <g>
+    <path d="M216 108 Q256 84 296 108 Q286 130 256 130 Q226 130 216 108 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="108" r="7" fill="#2b3a42"/>
+  </g>
+  <text x="256" y="162" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">See an image</text>
+
+  <line x1="256" y1="146" x2="256" y2="176" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M248 172 L256 186 L264 172 Z" fill="#2b3a42"/>
+
+  <!-- Step 2 -->
+  <rect x="66" y="188" width="380" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <g>
+    <rect x="236" y="200" width="40" height="52" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="244" y="210" width="7" height="32" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="261" y="210" width="7" height="32" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Pause and ask</text>
+
+  <g>
+    <ellipse cx="118" cy="300" rx="48" ry="20" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="118" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">Is this edited?</text>
+    <ellipse cx="256" cy="300" rx="48" ry="20" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">Who chose this?</text>
+    <ellipse cx="394" cy="300" rx="50" ry="20" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="394" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">What is it selling?</text>
+  </g>
+
+  <line x1="256" y1="338" x2="256" y2="366" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M248 362 L256 376 L264 362 Z" fill="#2b3a42"/>
+
+  <!-- Step 3 -->
+  <rect x="146" y="378" width="220" height="92" rx="14" fill="#7a9e7e" fill-opacity="0.2" stroke="#7a9e7e" stroke-width="2.5"/>
+  <g>
+    <path d="M256 400 C236 388 212 402 212 420 C212 436 256 452 256 452 C256 452 300 436 300 420 C300 402 276 388 256 400 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">My body is more than an image</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">A pause is a healthy response — it puts you back in charge.</text>
+</svg>

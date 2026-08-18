@@ -4508,7 +4508,7 @@ items:
     type: lesson
     grade: 7
     domain: D03
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4520,6 +4520,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1136 files. Verified all 8 lessons L.07.008.01-.08, sequence 1-8, grade 7, U.07.008; 4 objectives resolve to real grade-7 D03 standards (D03.S1.07.02, S3.07.02, S4.07.01, S4.07.02); unit.md table matches 8 lessons; first-aid lessons emphasize 'get adult help' and ban peer-to-peer thrust practice; health claims sourced (WHO, UNESCO, IFRC); dignity-focused, no body/food shaming, no calorie/diet talk.
+      fact-checker:
+        verdict: passed
+        note: Verified first-aid steps (bleeding direct pressure + clean cloth; burns cool running water not ice, no blister-popping; choking universal sign/call for help/back blows+thrusts only if trained) against IFRC Global First Aid Reference Centre (S-313) + WHO burns fact sheet (S-121); verified food-marketing and social-media/mental-health claims against WHO marketing-to-children recommendations (S-312) + adolescent mental health fact sheet (S-311); registered S-311/S-312/S-313 reviewed:true; fixed L01 unsourced body-dissatisfaction claim.
+      global-culture-editor:
+        verdict: passed
+        note: Checked food/health framing (no single 'healthy diet' default — 'every family's way of eating is honored', no good/bad food labeling, no calorie/diet talk) and emergency-help framing (112/999/911 + 'teach the correct one for the region', Red Cross/Red Crescent); examples and life contexts span multiple regions and resource settings.
+      accessibility-editor:
+        verdict: passed
+        note: Checked low-tech tier (all 8 lessons declare materials_low_tech with voice/drawn/mime alternatives, no core device/internet), non-color-only diagrams with title/desc/aria labeling, non-physical/verbal first-aid alternatives for motor/sensory differences, and non-empty alt text resolving to real files on every assets entry — all pass.
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics (moral reasoning on media honesty, food-claim evaluation, care for self/others in first aid), egalitarianism (no body/food/wealth shaming, global examples), global/anthropological (WHO/UNESCO/IFRC sourcing, region-specific emergency numbers, no Eurocentric default), technology (media/advertising/social-media effects), evidence-vs-values (cited claims, body neutrality held as value); objectives trace through D03.Sx.07.x -> D03 -> P2 to the vision.
+      child-psychologist:
+        verdict: passed
+        note: "Grade-7 band (high-sensitivity): cognitive load (claim-vs-evidence, fact-vs-value, design-mechanism analysis) matches emerging formal operations; emotional safety protected via non-shaming body/food framing with body-neutrality option and zero calorie/diet talk; help-seeking framed as strength; social media as self-care not fear, no forced disclosure; movement matches motor development."
   - id: B-355
     title: Author lessons for Unit U.07.009 (Civilizations, Knowledge Systems & the Human Story)
     agent: lesson-author

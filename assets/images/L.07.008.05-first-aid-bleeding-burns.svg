@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Basic first aid for bleeding and burns</title>
+  <desc id="desc">Two panels of first-aid steps. The left panel, Bleeding, shows three numbered steps with icons: cover the cut with a clean cloth, press firmly and keep pressing, and get adult or medical help if bleeding is heavy or will not stop. The right panel, Burns, shows three numbered steps: cool under cool running water not ice, remove tight items like rings, and get adult or medical help for large deep burns or burns to the face, hands, or feet. The final step of each panel is emphasized in a green box.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Basic first aid</text>
+
+  <!-- LEFT PANEL: BLEEDING -->
+  <rect x="14" y="62" width="238" height="434" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="133" y="92" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#6b93b6">Bleeding</text>
+
+  <!-- step 1 -->
+  <g>
+    <circle cx="50" cy="132" r="14" fill="#6b93b6"/>
+    <text x="50" y="138" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff">1</text>
+    <!-- cloth over cut hand -->
+    <path d="M96 116 Q112 106 136 112 L144 132 Q120 138 104 132 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="120" y="104" width="26" height="18" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="120" y1="113" x2="146" y2="113" stroke="#e0a458" stroke-width="3"/>
+    <text x="182" y="132" font-family="sans-serif" font-size="13" fill="#2b3a42">Cover with a</text>
+    <text x="182" y="148" font-family="sans-serif" font-size="13" fill="#2b3a42">clean cloth</text>
+  </g>
+
+  <!-- step 2 -->
+  <g>
+    <circle cx="50" cy="210" r="14" fill="#6b93b6"/>
+    <text x="50" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff">2</text>
+    <path d="M96 194 Q112 184 136 190 L144 210 Q120 216 104 210 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="118" y="182" width="30" height="22" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M124 192 L140 192" stroke="#e0a458" stroke-width="4"/>
+    <path d="M124 198 L140 198" stroke="#e0a458" stroke-width="4"/>
+    <text x="182" y="204" font-family="sans-serif" font-size="13" fill="#2b3a42">Press firmly</text>
+    <text x="182" y="220" font-family="sans-serif" font-size="13" fill="#2b3a42">and keep pressing</text>
+  </g>
+
+  <!-- step 3 emphasized -->
+  <g>
+    <circle cx="50" cy="288" r="14" fill="#7a9e7e"/>
+    <text x="50" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff">3</text>
+    <rect x="80" y="264" width="152" height="56" rx="8" fill="#7a9e7e" fill-opacity="0.2" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="156" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Get adult/medical help</text>
+    <text x="156" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">if heavy or won't stop</text>
+  </g>
+
+  <text x="133" y="468" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">Wash hands after, if you can</text>
+
+  <!-- RIGHT PANEL: BURNS -->
+  <rect x="260" y="62" width="238" height="434" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="379" y="92" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">Burns</text>
+
+  <!-- step 1 -->
+  <g>
+    <circle cx="296" cy="132" r="14" fill="#e0a458"/>
+    <text x="296" y="138" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff">1</text>
+    <!-- faucet and water -->
+    <rect x="330" y="106" width="34" height="12" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 118 L338 130" stroke="#6b93b6" stroke-width="5" stroke-linecap="round"/>
+    <path d="M330 134 Q334 146 330 158 Q338 150 346 158 Q342 146 346 134" fill="none" stroke="#6b93b6" stroke-width="3"/>
+    <!-- hand under water -->
+    <path d="M330 164 Q346 158 364 166 L372 186 Q352 192 336 186 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <text x="398" y="132" font-family="sans-serif" font-size="13" fill="#2b3a42">Cool under cool</text>
+    <text x="398" y="148" font-family="sans-serif" font-size="13" fill="#2b3a42">running water</text>
+    <text x="398" y="164" font-family="sans-serif" font-size="11" fill="#4f6d7a">(not ice)</text>
+  </g>
+
+  <!-- step 2 -->
+  <g>
+    <circle cx="296" cy="222" r="14" fill="#e0a458"/>
+    <text x="296" y="228" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff">2</text>
+    <path d="M334 210 Q350 200 368 206 L376 226 Q356 232 340 226 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="352" cy="216" r="7" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="398" y="220" font-family="sans-serif" font-size="13" fill="#2b3a42">Remove tight items</text>
+    <text x="398" y="236" font-family="sans-serif" font-size="13" fill="#2b3a42">(rings, bracelets)</text>
+  </g>
+
+  <!-- step 3 emphasized -->
+  <g>
+    <circle cx="296" cy="296" r="14" fill="#7a9e7e"/>
+    <text x="296" y="302" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff">3</text>
+    <rect x="326" y="272" width="154" height="56" rx="8" fill="#7a9e7e" fill-opacity="0.2" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="403" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Get adult/medical help</text>
+    <text x="403" y="312" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">if large, deep, or on face/hands/feet</text>
+  </g>
+
+  <text x="379" y="468" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">Never pop a blister</text>
+
+  <!-- bottom caption -->
+  <rect x="60" y="462" width="0" height="0" fill="none"/>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">When unsure, always get an adult or medical help.</text>
+</svg>

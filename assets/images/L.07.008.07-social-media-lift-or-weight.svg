@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How social media can lift us up or weigh us down</title>
+  <desc id="desc">Two columns about social media. The green left column, labeled Can lift, lists connection with others, learning and new ideas, and creativity and self-expression. The blue right column, labeled Can weigh down, lists comparing ourselves to others, endless scrolling, and lost sleep and missed rest. A caption reads "How it affects you depends on how you use it — and you can choose."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Social media: lift or weight?</text>
+
+  <!-- LEFT COLUMN -->
+  <rect x="18" y="70" width="230" height="330" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="133" y="102" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">Can lift</text>
+
+  <g font-family="sans-serif" font-size="14" fill="#2b3a42">
+    <g>
+      <circle cx="52" cy="142" r="12" fill="#7a9e7e" fill-opacity="0.3" stroke="#7a9e7e" stroke-width="2"/>
+      <text x="52" y="147" text-anchor="middle" font-size="14">+</text>
+      <text x="74" y="147">Connection with others</text>
+    </g>
+    <g>
+      <circle cx="52" cy="196" r="12" fill="#7a9e7e" fill-opacity="0.3" stroke="#7a9e7e" stroke-width="2"/>
+      <text x="52" y="201" text-anchor="middle" font-size="14">+</text>
+      <text x="74" y="201">Learning and new ideas</text>
+    </g>
+    <g>
+      <circle cx="52" cy="250" r="12" fill="#7a9e7e" fill-opacity="0.3" stroke="#7a9e7e" stroke-width="2"/>
+      <text x="52" y="255" text-anchor="middle" font-size="14">+</text>
+      <text x="74" y="255">Creativity and</text>
+      <text x="74" y="271">self-expression</text>
+    </g>
+  </g>
+
+  <path d="M90 320 L176 320" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+  <path d="M126 296 L140 340" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+  <text x="133" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">good when it supports you</text>
+
+  <!-- RIGHT COLUMN -->
+  <rect x="264" y="70" width="230" height="330" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="379" y="102" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">Can weigh down</text>
+
+  <g font-family="sans-serif" font-size="14" fill="#2b3a42">
+    <g>
+      <circle cx="298" cy="142" r="12" fill="#6b93b6" fill-opacity="0.3" stroke="#6b93b6" stroke-width="2"/>
+      <text x="298" y="147" text-anchor="middle" font-size="14">−</text>
+      <text x="320" y="147">Comparing ourselves</text>
+      <text x="320" y="163">to others</text>
+    </g>
+    <g>
+      <circle cx="298" cy="208" r="12" fill="#6b93b6" fill-opacity="0.3" stroke="#6b93b6" stroke-width="2"/>
+      <text x="298" y="213" text-anchor="middle" font-size="14">−</text>
+      <text x="320" y="213">Endless scrolling</text>
+    </g>
+    <g>
+      <circle cx="298" cy="262" r="12" fill="#6b93b6" fill-opacity="0.3" stroke="#6b93b6" stroke-width="2"/>
+      <text x="298" y="267" text-anchor="middle" font-size="14">−</text>
+      <text x="320" y="267">Lost sleep and</text>
+      <text x="320" y="283">missed rest</text>
+    </g>
+  </g>
+
+  <path d="M336 320 L422 320" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M372 296 L386 340" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+  <text x="379" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">heavy when it takes over</text>
+
+  <!-- caption -->
+  <rect x="44" y="420" width="424" height="56" rx="10" fill="#e0a458" fill-opacity="0.2" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">How it affects you depends on how you use it —</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">and you can choose.</text>
+</svg>
