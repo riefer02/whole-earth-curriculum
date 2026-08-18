@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Respect others' boundaries</title>
+  <desc id="desc">A three-step diagram titled "respect others' boundaries." Step 1, "ask first," shows one child speaking to another with a question mark. Step 2, "listen to words and body cues," shows an ear and an eye. Step 3, "respect the answer," shows the second child saying "no, thank you" and the first replying "okay!" with a smile. A bottom caption reads "A 'no' is a full answer." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Respect Others' Boundaries</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">ask · listen · respect</text>
+
+  <!-- Step 1: ask first -->
+  <rect x="24" y="96" width="140" height="150" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="64" cy="146" r="16" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M64 162 L64 196 M64 176 L52 190 M64 176 L76 190 M64 196 L58 222 M64 196 L70 222" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="120" cy="146" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M120 162 L120 196 M120 176 L108 190 M120 176 L132 190 M120 196 L114 222 M120 196 L126 222" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="150" y="128" font-family="sans-serif" font-size="26" fill="#2b3a42">?</text>
+  <text x="94" y="266" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1 · ask first</text>
+
+  <!-- Arrow -->
+  <path d="M170 172 L190 172" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M186 166 L190 172 L186 178" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- Step 2: listen -->
+  <rect x="194" y="96" width="124" height="150" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M236 132 Q248 118 260 132 Q268 142 258 152 Q250 160 240 152 Q232 142 236 132 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M244 140 Q256 134 266 140" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="256" cy="196" r="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="196" r="5" fill="#222222"/>
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">2 · listen to words</text>
+  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and body cues</text>
+
+  <!-- Arrow -->
+  <path d="M322 172 L342 172" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M338 166 L342 172 L338 178" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- Step 3: respect -->
+  <rect x="346" y="96" width="142" height="150" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="378" cy="146" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M378 162 L378 196 M378 176 L366 190 M378 176 L390 190 M378 196 L372 222 M378 196 L384 222" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="452" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">"no, thank you"</text>
+  <circle cx="440" cy="188" r="16" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M428 186 Q440 194 452 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="440" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">"okay!"</text>
+  <text x="417" y="266" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">3 · respect the answer</text>
+
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">A "no" is a full answer.</text>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">You say "Okay!" — and truly stop. No arguing, no pushing, no pouting.</text>
+
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Respecting boundaries honors the dignity of every person.</text>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Just as your body is yours, everyone else's body is theirs.</text>
+</svg>

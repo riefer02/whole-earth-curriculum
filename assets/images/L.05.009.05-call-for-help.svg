@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">In an emergency: call for help</title>
+  <desc id="desc">A four-step flow diagram titled "in an emergency." Step 1, "recognize," shows a calm child noticing a situation. Step 2, "get safe," shows the child stepping away. Step 3, "tell a trusted adult," shows the child with an adult. Step 4, "call the local emergency number," shows a phone with a number box labeled "your local emergency number." An arrow connects the steps. A caption reads "Stay calm. Get help fast." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">In an Emergency</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">four calm steps</text>
+
+  <!-- Step 1 -->
+  <rect x="24" y="86" width="104" height="150" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="76" cy="124" r="13" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M76 137 L76 168 M76 150 L64 162 M76 150 L88 162 M76 168 L68 196 M76 168 L84 196" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="71" cy="121" r="2" fill="#222222"/>
+  <circle cx="81" cy="121" r="2" fill="#222222"/>
+  <text x="76" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">1 · recognize</text>
+
+  <!-- Arrow -->
+  <path d="M132 160 L152 160" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M148 154 L152 160 L148 166" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- Step 2 -->
+  <rect x="156" y="86" width="104" height="150" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M208 196 L198 196 M208 188 L196 188 M208 180 L196 180" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="212" cy="130" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M212 143 L212 172 M212 154 L200 166 M212 154 L224 166 M212 172 L204 198 M212 172 L220 198" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="208" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">2 · get safe</text>
+
+  <!-- Arrow -->
+  <path d="M264 160 L284 160" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M280 154 L284 160 L280 166" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- Step 3 -->
+  <rect x="288" y="86" width="104" height="150" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="316" cy="124" r="13" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M316 137 L316 168 M316 150 L304 162 M316 150 L328 162 M316 168 L308 196 M316 168 L324 196" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="360" cy="124" r="15" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M360 139 L360 168 M360 152 L348 164 M360 152 L372 164 M360 168 L352 196 M360 168 L368 196" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <text x="340" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">3 · tell a trusted adult</text>
+
+  <!-- Arrow -->
+  <path d="M396 160 L416 160" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M412 154 L416 160 L412 166" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- Step 4 -->
+  <rect x="420" y="86" width="70" height="150" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="440" y="112" width="30" height="46" rx="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="455" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">☎</text>
+  <text x="455" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">4 · call the number</text>
+
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Recognize · get safe · get help · call the number</text>
+
+  <rect x="156" y="322" width="200" height="52" rx="8" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">your local emergency number:</text>
+  <text x="256" y="364" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">— — — (fill in your number) — — —</text>
+
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">Stay calm. Get help fast.</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Emergency numbers differ around the world — learn yours by heart.</text>
+</svg>

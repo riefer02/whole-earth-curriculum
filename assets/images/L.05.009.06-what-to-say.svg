@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What to say in an emergency</title>
+  <desc id="desc">A diagram titled "when you call for help, tell three things." Three labeled boxes sit beside a calm child holding a phone. Box 1, "your name," shows a name tag. Box 2, "your location," shows a map pin and a house. Box 3, "what happened," shows a first-aid cross and a small flame. A bottom line reads "Then stay on the line and answer the helper's questions." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">When You Call for Help</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">tell three things</text>
+
+  <!-- Child with phone -->
+  <circle cx="120" cy="150" r="22" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="112" cy="146" r="3" fill="#222222"/>
+  <circle cx="128" cy="146" r="3" fill="#222222"/>
+  <path d="M108 160 Q120 168 132 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M120 172 L120 250 M120 196 L96 226 M120 196 L144 226 M120 250 L104 314 M120 250 L136 314" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <rect x="132" y="180" width="20" height="34" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M136 176 L148 176" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="120" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a calm helper</text>
+
+  <!-- Box 1: name -->
+  <rect x="200" y="96" width="288" height="66" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="216" y="114" width="52" height="30" rx="4" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
+  <text x="242" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">name</text>
+  <text x="300" y="122" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1 · your name</text>
+  <text x="300" y="144" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">say it slowly and clearly</text>
+
+  <!-- Box 2: location -->
+  <rect x="200" y="178" width="288" height="66" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M238 206 L234 230 Q232 238 240 238 Q248 238 246 230 L242 206 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="240" cy="210" r="3" fill="#222222"/>
+  <rect x="224" y="196" width="16" height="18" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="300" y="202" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">2 · your location</text>
+  <text x="300" y="224" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">address, or a landmark you can see</text>
+
+  <!-- Box 3: what happened -->
+  <rect x="200" y="260" width="288" height="66" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="218" y="280" width="22" height="22" rx="3" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+  <path d="M229 285 L229 297 M223 291 L235 291" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
+  <path d="M252 296 Q256 282 262 296 Q268 282 272 296 Q276 282 280 296" stroke="#e0a458" stroke-width="2" fill="none" stroke-linejoin="round"/>
+  <text x="300" y="284" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">3 · what happened</text>
+  <text x="300" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a few calm words, nothing more</text>
+
+  <rect x="200" y="346" width="288" height="56" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="344" y="370" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Then stay on the line</text>
+  <text x="344" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">and answer the helper's questions.</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Name · location · what happened</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Three small pieces of information can bring help to the right place.</text>
+</svg>

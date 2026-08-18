@@ -3657,7 +3657,7 @@ items:
     type: lesson
     grade: 5
     domain: D03
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3669,6 +3669,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (903). IDs L.05.009.01-.08 sequence_in_unit 1-8, grade 5, unit U.05.009; objectives resolve to real grade-5 D03 standards (all 4 covered); required headings present learner-first; unit.md table lists all 8; all 8 assets resolve with non-empty alt; sensitivity correct: consent L7-8 everyday touch/personal space no sexual content guardrails, emergency L5-6 country-specific numbers (112/999/000/911/119/110/10111) no universal default non-dialing practice, nutrition L1-4 anchor too-little/too-much in body systems never size/shape; sources WHO/FAO/UNICEF/UN CRC Art.19."
+      fact-checker:
+        verdict: passed
+        note: Nutrition accurate + hedged (carbs=energy, protein=building blocks, fats=cell/energy per WHO Healthy-diet; too-little iron->anaemia fatigue, calcium/vitD->bones, dehydration->thirst/headache; too-much sugar->decay, salt->BP, saturated fat->vessel build-up per WHO limits <10% energy sugars/<5g salt/<10% sat fat); framed inside-body 'over time/a pattern' never size/shape, sorted by job not good/bad; 'never judge any body' = value. Emergency numbers correct (112 EU, 999 UK, 000 AU, 911 US, 119/110/10111) + name/location/what-happened dispatch practice non-dialing. Consent bodily-autonomy/ask-first/stop-means-stop/trusted-adult consistent with UN CRC Art.19. Registered S-193 (WHO micronutrients), S-194 (WHO anaemia), S-195 (ITU E.161.1), S-196 (UNICEF violence against children); extended S-038/S-060.
+      global-culture-editor:
+        verdict: passed
+        note: Nutrition global (rice/maize/cassava/plantain/bread; beans/lentils/chickpeas; mango/guava/citrus/leafy greens/sweet potato; fish/eggs/tofu/dairy-or-plant; nuts/seeds/avocado/olive/palm/coconut oils), 'sort by job never healthy-vs-unhealthy', no Western diet default; names (Amina) + non-wealth landmarks (water pump, shop by mango tree, well, cook fire, village river); L3 food shortage as fairness/systems issue never family failing; 'never judge any body' carried through L4; emergency numbers country-specific + L5 SVG 'fill in your number' no default.
+      accessibility-editor:
+        verdict: passed
+        note: "All 8 lessons real materials_low_tech (chalk circles, voice sort, act-it-out, wilting-plant/salt demos, corner-sort, chant, hand-phone role-play, personal-space walk); UDL draw/say/act/sort/write/move; all 8 SVGs role=img/title/desc/non-empty alt grayscale label-meaning. Fixed: emergency + consent role-plays now offer non-speaking/seated alternatives (raised 'stop' hand, head shake, card, sign, AAC device as valid no/yes; pointing/writing the 3 emergency facts; seated gestures for chant and bubble); no wealth assumption."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (consent/bodily autonomy as ethical practice 'no means no/stop means stop/always okay to say no/never your fault', food shortage as fairness/systems issue, 'no body judged' as non-negotiable); egalitarianism (no body/way-of-eating privileged, sort 'by job never healthy vs unhealthy', 'no bad nutrient', bodies of all sizes healthy); global (emergency numbers country-specific 112/999/000/911/119/110/10111 'do not assume one universal number', neutral location examples the well/mango tree/Amina); tech/environment (emergency communication + food-access systems); evidence-vs-values (WHO/FAO/ITU/Red Cross/UNICEF/UN CRC Art.19 cited; 'never a judgment about any body'). Traceability: Vision->P2->D03->S3/S4->4 standards->U.05.009->L.05.009.01-.08."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band: cognitive fit concrete anchors (nutrients via fuel/bricks/shield/river + wilting-plant metaphor, 'over time' via salt-in-water demo, emergencies via 4-step flow + 3-info script; real nutrient names by job not biochemistry); emotional safety nutrition inside-body systems + repeated 'never about size or shape' + 'no body judged' + scarcity as fairness/systems issue never family failing, no dieting/weight/shame; emergencies calm agency-focused ('you can be a helper', get safe + get adult), non-dialing practice; consent everyday touch/personal space, no sexual content, empowering 'always okay to say no/a no is a full answer/never your fault' + disclosure safeguarding note; physical fit seated/non-speaking options; questions as questions."
   - id: B-332
     title: Author lessons for Unit U.05.010 (People, Cultures & Long Ago)
     agent: lesson-author

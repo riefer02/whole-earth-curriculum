@@ -54,3 +54,11 @@ wide range of bodies, families, and ways of eating is honored.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.009.01 | Fuel and Build: Carbohydrates, Proteins, and Fats | D03.S3.05.01 |
+| L.05.009.02 | Protect and Regulate: Vitamins, Minerals, and Water | D03.S3.05.01 |
+| L.05.009.03 | Too Little Over Time: What the Body Needs | D03.S3.05.02 |
+| L.05.009.04 | Too Much Over Time: Inside the Body, Never Judged | D03.S3.05.02 |
+| L.05.009.05 | In an Emergency: Call for Help | D03.S4.05.01 |
+| L.05.009.06 | What to Say in an Emergency | D03.S4.05.01 |
+| L.05.009.07 | My Body, My Consent | D03.S4.05.02 |
+| L.05.009.08 | Respecting Others' Boundaries (Capstone) | D03.S4.05.02, D03.S3.05.01 |

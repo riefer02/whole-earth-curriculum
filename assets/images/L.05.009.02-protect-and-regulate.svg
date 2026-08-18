@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Protect and regulate: vitamins, minerals, and water</title>
+  <desc id="desc">A three-part diagram. A shield labeled "vitamins — protect and heal" with small drawings of citrus, a mango, and leafy greens. A strong bone and a blood cell labeled "minerals — build bones and carry oxygen" with sesame, beans, and fish. A water drop labeled "water — carries everything and keeps you cool" with a river flowing through a body outline. Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Protect and Regulate</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">vitamins, minerals, and water</text>
+
+  <!-- Vitamins shield -->
+  <g>
+    <path d="M120 130 L150 104 L180 130 L180 172 Q150 196 120 172 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="150" y="158" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">shield</text>
+    <text x="150" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">vitamins</text>
+    <text x="150" y="248" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">protect and heal</text>
+    <circle cx="120" cy="280" r="9" fill="#e0a458"/>
+    <ellipse cx="140" cy="290" rx="11" ry="8" fill="#e0a458"/>
+    <path d="M162 286 q0 -8 8 -8 q0 8 -8 8" fill="#7a9e7e"/>
+    <text x="150" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">citrus, mango, leafy greens</text>
+  </g>
+
+  <!-- Minerals bone and blood cell -->
+  <g>
+    <path d="M256 108 L296 108 L316 140 L316 196 Q306 212 286 212 L272 212 L272 236 L244 236 L244 212 L226 212 Q206 212 196 196 L196 140 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="240" cy="290" rx="13" ry="9" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">minerals</text>
+    <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">build bones, carry oxygen</text>
+    <circle cx="224" cy="346" r="6" fill="#7a9e7e"/>
+    <circle cx="240" cy="352" r="6" fill="#7a9e7e"/>
+    <path d="M262 340 q6 -6 12 0 q-6 6 -12 0" fill="#7a9e7e"/>
+    <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">sesame, beans, fish</text>
+  </g>
+
+  <!-- Water drop -->
+  <g>
+    <path d="M390 110 Q362 150 362 188 Q362 214 388 214 Q414 214 414 188 Q414 150 390 110 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="390" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">water</text>
+    <text x="390" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">carries everything,</text>
+    <text x="390" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">keeps you cool</text>
+    <path d="M370 320 Q380 312 390 320 Q400 328 410 320" stroke="#6b93b6" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <text x="390" y="356" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a river through your body</text>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">Protect, build, carry — all three keep you well.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Different foods supply different helpers.</text>
+</svg>

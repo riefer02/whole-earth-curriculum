@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fuel and build: carbohydrates, proteins, and fats</title>
+  <desc id="desc">A body diagram with three labeled arrows. A carbohydrate arrow labeled "fuel — energy" points to the arms and legs, with small drawings of rice, maize, and bread. A protein arrow labeled "build and repair" points to the muscles, with beans, fish, and an egg. A fat arrow labeled "store energy and build cells" points to the brain and whole body, with nuts, avocado, and a bottle of oil. Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Fuel and Build</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">three nutrients, three jobs</text>
+
+  <!-- Body figure in the center -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="150" r="26" fill="#d9a066"/>
+    <path d="M256 176 L256 300"/>
+    <path d="M256 210 L222 252"/>
+    <path d="M256 210 L290 252"/>
+    <path d="M256 300 L228 372"/>
+    <path d="M256 300 L284 372"/>
+  </g>
+  <circle cx="247" cy="145" r="3" fill="#222222"/>
+  <circle cx="265" cy="145" r="3" fill="#222222"/>
+  <path d="M242 160 Q256 168 270 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Carbohydrate arrow (left) -->
+  <g>
+    <path d="M96 120 L200 176" stroke="#6b93b6" stroke-width="4" fill="none" marker-end="none"/>
+    <text x="92" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">carbohydrates</text>
+    <text x="92" y="114" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">fuel — energy</text>
+    <circle cx="60" cy="150" r="10" fill="#7a9e7e"/>
+    <circle cx="78" cy="138" r="10" fill="#7a9e7e"/>
+    <circle cx="82" cy="162" r="9" fill="#7a9e7e"/>
+    <text x="72" y="200" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">rice, maize, bread</text>
+  </g>
+
+  <!-- Protein arrow (right, top) -->
+  <g>
+    <path d="M420 150 L316 196" stroke="#7a9e7e" stroke-width="4" fill="none"/>
+    <text x="430" y="126" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">proteins</text>
+    <text x="430" y="144" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">build and repair</text>
+    <ellipse cx="452" cy="176" rx="11" ry="8" fill="#d9a066"/>
+    <path d="M440 200 Q452 190 464 200" stroke="#2b3a42" stroke-width="2" fill="none"/>
+    <text x="452" y="228" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">beans, fish, eggs</text>
+  </g>
+
+  <!-- Fat arrow (right, bottom) -->
+  <g>
+    <path d="M420 320 L316 288" stroke="#e0a458" stroke-width="4" fill="none"/>
+    <text x="430" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">fats</text>
+    <text x="430" y="314" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">store energy, build cells</text>
+    <circle cx="452" cy="340" r="9" fill="#7a9e7e"/>
+    <ellipse cx="468" cy="354" rx="9" ry="12" fill="#7a9e7e"/>
+    <rect x="442" y="364" width="14" height="18" rx="3" fill="#e0a458"/>
+    <text x="456" y="408" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">nuts, avocado, oil</text>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">All three are needed — no nutrient is "bad."</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every way of eating is honored.</text>
+</svg>

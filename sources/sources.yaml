@@ -358,7 +358,7 @@ sources:
     year: 2026
     domains: [D03]
     reviewed: true
-    notes: "Cited in U.01.008 L03 (food gives the body energy to grow, play, and learn). URL verified live (2026-08-15); page updated 26 Jan 2026. States 'Carbohydrates provide the primary energy source for the body' and frames protein as the building blocks for body structure/growth — supports the lesson's basic-biology claim that food gives the body energy to grow, play, and learn. Also supports the global/variety framing (diversity across food groups as one of four core principles)."
+    notes: "Cited in U.01.008 L03 (food gives the body energy to grow, play, and learn), and in U.05.009 L01/L04/L08 (carbohydrates as primary energy; proteins as building blocks; advice to limit free sugars, salt/sodium, and saturated fat). URL verified live (2026-08-15 and 2026-08-17); page updated 26 Jan 2026. States 'Carbohydrates provide the primary energy source for the body' and frames protein as the building blocks for body structure/growth — supports the lesson's basic-biology claim that food gives the body energy to grow, play, and learn. Also supports the global/variety framing (diversity across food groups as one of four core principles). Explicitly advises limiting free sugars to <10% of energy, salt to <5 g/day, and saturated fat to <10% of energy — directly supporting U.05.009 L04's 'too much over time' claims (added sugar → tooth decay/energy, salt → blood pressure, saturated fat → vessel build-up)."
 
   - id: S-039
     title: "Dunlosky, Rawson, Marsh, Nathan & Willingham (2013) — Improving Students' Learning With Effective Learning Techniques"
@@ -555,7 +555,7 @@ sources:
     organization: UNICEF (United Nations Children's Fund)
     domains: [D09]
     reviewed: true
-    notes: "Cited in U.02.010 L04 (the rights every child has — play, learn, be safe, be heard, rest) and U.03.010 L03 (rights to food, water, health, education — UNCRC Arts 24, 27, 28) and L10 (child-friendly summary). The UNICEF CRC page (child-friendly summary) sits behind Cloudflare and returns HTTP 403 to non-browser clients (verified 2026-08-16), so the substantive claims were verified against the full treaty text on OHCHR (ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child). All five rights named in the lesson are genuine UNCRC articles: play and rest/leisure (Art. 31), learn/education (Arts. 28–29), be safe / protection from violence and abuse (Art. 19, and best-interests Art. 3), be heard / views given due weight (Art. 12). The lesson correctly frames these as a 'should' — a shared international agreement, not a claim that every child already has them honored — which keeps value/aspiration distinct from fact."
+    notes: "Cited in U.02.010 L04 (the rights every child has — play, learn, be safe, be heard, rest) and U.03.010 L03 (rights to food, water, health, education — UNCRC Arts 24, 27, 28) and L10 (child-friendly summary), and in U.05.009 L07/L08 (body autonomy/consent and protection from harm — UN CRC Art. 19). The UNICEF CRC page (child-friendly summary) sits behind Cloudflare and returns HTTP 403 to non-browser clients (verified 2026-08-16), so the substantive claims were verified against the full treaty text on OHCHR (ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child; Art. 19 text re-verified 2026-08-17). All five rights named in the lesson are genuine UNCRC articles: play and rest/leisure (Art. 31), learn/education (Arts. 28–29), be safe / protection from violence and abuse (Art. 19, and best-interests Art. 3), be heard / views given due weight (Art. 12). Article 19 verbatim obliges protection 'from all forms of physical or mental violence, injury or abuse, neglect or negligent treatment, maltreatment or exploitation, including sexual abuse' — supporting the consent lessons' 'tell a trusted adult' safety framing. The lesson correctly frames these as a 'should' — a shared international agreement, not a claim that every child already has them honored — which keeps value/aspiration distinct from fact."
 
   - id: S-059
     title: Nobel Prize — Wangari Maathai, Facts
@@ -1775,5 +1775,43 @@ sources:
     domains: [D07]
     reviewed: true
     notes: "Cited in U.05.008 L01/L02 (plan and complete an artwork) as a kid-friendly art resource for seeing how artists plan and make work. Real Met Museum online feature for children (metmuseum.org/art/online-features/metkids/); the page is a JS-driven interactive and serves browsers, though automated clients receive a minimal shell (verified 2026-08-17). Used as a general, age-appropriate engagement resource, not a claim-level citation; the lessons make no factual claims that depend on it."
+
+  - id: S-193
+    title: WHO — Micronutrients (health topic)
+    type: website
+    url: https://www.who.int/health-topics/micronutrients
+    organization: World Health Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.05.009 L02 (vitamins/minerals/water as protectors and regulators) and L08 (unit review). URL verified live (2026-08-17): states 'Micronutrients are vitamins and minerals needed by the body in very small amounts'; 'A lack of iron, folate and vitamins B12 and A can lead to anaemia'; anaemia is 'causing fatigue'; and 'Vitamin A deficiency is the leading cause of preventable blindness in children.' Supports the lessons' claims that vitamins protect/heal and minerals build/regulate, and that too little iron causes tiredness. On-topic and authoritative."
+
+  - id: S-194
+    title: WHO — Anaemia fact sheet
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/anaemia
+    organization: World Health Organization
+    year: 2025
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.05.009 L03 (too little iron over time → tiredness). URL verified live (2026-08-17); page dated 10 Feb 2025. States 'Anaemia occurs when there isn't enough haemoglobin in the body to carry oxygen to the organs and tissues'; 'Anaemia causes symptoms such as fatigue'; common symptoms include 'tiredness'; and 'Iron deficiency... is considered the most common nutritional deficiency leading to anaemia.' Directly supports the lesson's claim that too little iron over time leads to iron-deficiency anaemia whose main symptom is fatigue."
+
+  - id: S-195
+    title: ITU — Recommendation E.161.1 (emergency number guidelines)
+    type: other
+    url: https://www.itu.int/rec/T-REC-E.161.1
+    organization: International Telecommunication Union (ITU)
+    year: 2008
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.05.009 L05 (emergency numbers are country-specific). URL verified live (2026-08-17): ITU-T Recommendation E.161.1 'Guidelines to select Emergency Number for public telecommunications networks' is the ITU instrument for emergency-number selection and standardization. Supports the lesson's general claim that emergency numbers are set per country (no single universal number) and its hedged, correctly attributed examples: 112 (much of Europe / EU-wide), 999 (United Kingdom), 000 (Australia), 911 (United States and Canada), and 119/110/10111 elsewhere — all accurate."
+
+  - id: S-196
+    title: UNICEF — Violence against children (child protection)
+    type: website
+    url: https://www.unicef.org/protection/violence-against-children
+    organization: UNICEF (United Nations Children's Fund)
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.05.009 L07/L08 (body autonomy/consent; telling a trusted adult; a child's right to protection). URL verified live (2026-08-17): UNICEF's child-protection program page on violence against children. States violence against children 'happens in every country and any setting' and is grounded in the Convention on the Rights of the Child; frames protective adult relationships and disclosure to a trusted adult as central to child safety. On-topic as a general authority for the lessons' consent/safety framing (a protective value frame consistent with UN CRC Art. 19, not a claim-level citation)."
 
 
