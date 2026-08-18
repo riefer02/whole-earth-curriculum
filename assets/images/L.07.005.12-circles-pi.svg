@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Circles and the number π</title>
+  <desc id="desc">A diagram of circumference and π. A circle is labeled with its diameter d across the middle and its circumference C around the edge. A string drawn as the diameter is shown wrapped around the circle about three and a bit times, labeled "C ≈ 3.14 × d." The formulas C = πd and C = 2πr are shown. A table lists π approximations across cultures: Egypt 256/81 ≈ 3.16, Archimedes 22/7 ≈ 3.14, China (Zu Chongzhi) 355/113 ≈ 3.14159. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Circles: Circumference and π</text>
+
+  <!-- circle with diameter -->
+  <circle cx="140" cy="150" r="80" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="60" y1="150" x2="220" y2="150" stroke="#2b3a42" stroke-width="3"/>
+  <text x="140" y="145" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">d</text>
+  <circle cx="140" cy="150" r="4" fill="#222222"/>
+  <text x="140" y="262" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">diameter d (across)</text>
+
+  <!-- circumference arrow -->
+  <text x="84" y="120" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">C</text>
+  <path d="M 200 80 A 80 80 0 0 1 200 220" fill="none" stroke="#e0a458" stroke-width="3"/>
+
+  <!-- string: 3 diameters laid out -->
+  <text x="300" y="80" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">the diameter wraps ≈ 3.14 times</text>
+  <g>
+    <line x1="300" y1="100" x2="380" y2="100" stroke="#6b93b6" stroke-width="6" stroke-linecap="round"/>
+    <line x1="380" y1="100" x2="460" y2="100" stroke="#6b93b6" stroke-width="6" stroke-linecap="round"/>
+    <line x1="300" y1="120" x2="380" y2="120" stroke="#6b93b6" stroke-width="6" stroke-linecap="round"/>
+    <line x1="380" y1="120" x2="404" y2="120" stroke="#6b93b6" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="300" y="150" font-family="sans-serif" font-size="14" fill="#4f6d7a">three diameters and a bit = C</text>
+
+  <!-- formulas -->
+  <rect x="300" y="166" width="190" height="80" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="395" y="192" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">C = π × d</text>
+  <text x="395" y="218" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">C = 2 × π × r</text>
+  <text x="395" y="240" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">π ≈ 3.14</text>
+
+  <!-- approximations across cultures -->
+  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">π across cultures</text>
+  <rect x="40" y="306" width="432" height="96" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="40" y1="338" x2="472" y2="338" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="40" y1="370" x2="472" y2="370" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="184" y1="306" x2="184" y2="402" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="328" y1="306" x2="328" y2="402" stroke="#2b3a42" stroke-width="2"/>
+  <text x="112" y="326" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">culture</text>
+  <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">fraction</text>
+  <text x="400" y="326" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">value</text>
+  <text x="112" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Egypt</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">256 / 81</text>
+  <text x="400" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">≈ 3.16</text>
+  <text x="112" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Archimedes (Greece)</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">22 / 7</text>
+  <text x="400" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">≈ 3.14</text>
+
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">China (Zu Chongzhi): 355 / 113 ≈ 3.14159 — six decimals, 5th century</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">every circle keeps C ÷ d the same — π is the constant of proportionality</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">one string and one ruler are enough for anyone to find π</text>
+</svg>

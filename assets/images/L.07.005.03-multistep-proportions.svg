@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Multi-step proportion problems</title>
+  <desc id="desc">A multi-step proportion diagram. A double number line shows a recipe scaled from "4 people : 2 cups rice" to "10 people : 5 cups rice" with matching arrows, and a second step shows a 10% reduction shaded on a bar, ending at "4.5 cups." A caption reads "scale first, then apply the percent — each step keeps the proportion." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Multi-Step Proportions: Scale, Then Reduce</text>
+
+  <!-- Double number line: people -->
+  <text x="40" y="72" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">people</text>
+  <line x1="40" y1="84" x2="470" y2="84" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="40" cy="84" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="470" cy="84" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="104" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">4</text>
+  <text x="470" y="104" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">10</text>
+  <text x="255" y="104" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">× 2.5</text>
+
+  <!-- Double number line: cups -->
+  <text x="40" y="140" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">cups rice</text>
+  <line x1="40" y1="152" x2="470" y2="152" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="40" cy="152" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="470" cy="152" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="172" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+  <text x="470" y="172" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">5</text>
+  <text x="255" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">× 2.5</text>
+
+  <!-- connecting arrows -->
+  <line x1="60" y1="120" x2="60" y2="145" stroke="#e0a458" stroke-width="2"/>
+  <line x1="450" y1="120" x2="450" y2="145" stroke="#e0a458" stroke-width="2"/>
+  <text x="255" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">scale both quantities by the same factor (2.5)</text>
+
+  <!-- Step 2: 10% reduction bar -->
+  <text x="40" y="238" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">step 2: reduce 5 cups by 10%</text>
+  <rect x="40" y="252" width="300" height="26" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="40" y="252" width="270" height="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1"/>
+  <rect x="40" y="252" width="30" height="26" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/>
+  <text x="190" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">4.5 cups kept</text>
+  <text x="360" y="270" font-family="sans-serif" font-size="13" fill="#222222">0.5</text>
+
+  <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">10% of 5 = 0.10 × 5 = 0.5 cups</text>
+  <text x="256" y="334" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">5 − 0.5 = 4.5 cups to cook</text>
+
+  <!-- summary rule -->
+  <rect x="64" y="360" width="384" height="70" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">scale first, then apply the percent</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">order matters: 10% of 5 (scaled) ≠ 10% of 2 (unscaled)</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a multi-step proportion problem is a chain of "if this much, then that much"</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">name each step, keep the ratio constant, check the order</text>
+</svg>

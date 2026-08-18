@@ -68,3 +68,17 @@ real things, drawn from many traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.07.005.01 | Unit Rates in Real Life | D05.S1.07.01 |
+| L.07.005.02 | Percentages: Discounts, Tax, and Tips | D05.S1.07.01 |
+| L.07.005.03 | Multi-Step Proportion Problems | D05.S1.07.01 |
+| L.07.005.04 | Operating with Fractions and Decimals | D05.S1.07.02 |
+| L.07.005.05 | Operating with Integers | D05.S1.07.02 |
+| L.07.005.06 | Writing and Solving Two-Step Equations | D05.S2.07.01 |
+| L.07.005.07 | Two-Step Inequalities | D05.S2.07.01 |
+| L.07.005.08 | Proportional Relationships in Tables and Graphs | D05.S2.07.02 |
+| L.07.005.09 | Proportional Relationships as y = kx | D05.S2.07.02 |
+| L.07.005.10 | Building Triangles: Possible and Impossible | D05.S3.07.01 |
+| L.07.005.11 | Scale Drawings | D05.S3.07.02 |
+| L.07.005.12 | Circles and the Number π | D05.S3.07.02 |
+| L.07.005.13 | Random Sampling and Bias | D05.S4.07.01 |
+| L.07.005.14 | Probability of Simple and Compound Events | D05.S4.07.02 |

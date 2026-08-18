@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Random sampling and bias</title>
+  <desc id="desc">A random sampling and bias diagram. A large grid of 100 dots (the population) has 30 dark dots and 70 light dots. A dashed circle (random sample) encloses a scattered mix that roughly matches the 30/70 split, labeled "random sample: representative." A second solid outline (biased sample) encloses only a corner full of dark dots, labeled "biased sample: misleading." A caption reads "a random sample reflects the whole; a biased one does not." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="28" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Random Sampling and Bias</text>
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the population: 30 dark dots and 70 light dots (100 in all)</text>
+
+  <!-- population grid 10x10 -->
+  <g>
+    <!-- dark dots (30) in scattered positions -->
+    <g fill="#4f6d7a" stroke="#2b3a42" stroke-width="1">
+      <circle cx="60" cy="80" r="5"/><circle cx="100" cy="200" r="5"/><circle cx="140" cy="100" r="5"/>
+      <circle cx="180" cy="260" r="5"/><circle cx="220" cy="120" r="5"/><circle cx="260" cy="300" r="5"/>
+      <circle cx="300" cy="90" r="5"/><circle cx="340" cy="220" r="5"/><circle cx="380" cy="140" r="5"/>
+      <circle cx="420" cy="280" r="5"/><circle cx="80" cy="320" r="5"/><circle cx="120" cy="360" r="5"/>
+      <circle cx="160" cy="340" r="5"/><circle cx="200" cy="380" r="5"/><circle cx="320" cy="380" r="5"/>
+      <circle cx="360" cy="340" r="5"/><circle cx="400" cy="360" r="5"/><circle cx="440" cy="120" r="5"/>
+      <circle cx="60" cy="400" r="5"/><circle cx="240" cy="400" r="5"/><circle cx="280" cy="140" r="5"/>
+      <circle cx="440" cy="340" r="5"/><circle cx="200" cy="160" r="5"/><circle cx="340" cy="160" r="5"/>
+      <circle cx="120" cy="260" r="5"/><circle cx="280" cy="240" r="5"/><circle cx="380" cy="240" r="5"/>
+      <circle cx="440" cy="200" r="5"/><circle cx="160" cy="120" r="5"/><circle cx="100" cy="360" r="5"/>
+    </g>
+    <!-- light dots (70) filling the rest on a loose grid -->
+    <g fill="#e0a458" stroke="#2b3a42" stroke-width="1">
+      <circle cx="80" cy="100" r="5"/><circle cx="120" cy="120" r="5"/><circle cx="160" cy="140" r="5"/>
+      <circle cx="200" cy="100" r="5"/><circle cx="240" cy="140" r="5"/><circle cx="280" cy="100" r="5"/>
+      <circle cx="320" cy="120" r="5"/><circle cx="360" cy="100" r="5"/><circle cx="400" cy="120" r="5"/>
+      <circle cx="440" cy="140" r="5"/><circle cx="80" cy="160" r="5"/><circle cx="120" cy="180" r="5"/>
+      <circle cx="160" cy="200" r="5"/><circle cx="200" cy="220" r="5"/><circle cx="240" cy="180" r="5"/>
+      <circle cx="280" cy="200" r="5"/><circle cx="320" cy="180" r="5"/><circle cx="360" cy="200" r="5"/>
+      <circle cx="400" cy="180" r="5"/><circle cx="440" cy="220" r="5"/><circle cx="80" cy="240" r="5"/>
+      <circle cx="120" cy="220" r="5"/><circle cx="160" cy="240" r="5"/><circle cx="200" cy="240" r="5"/>
+      <circle cx="240" cy="220" r="5"/><circle cx="280" cy="260" r="5"/><circle cx="320" cy="240" r="5"/>
+      <circle cx="360" cy="260" r="5"/><circle cx="400" cy="240" r="5"/><circle cx="440" cy="260" r="5"/>
+      <circle cx="80" cy="280" r="5"/><circle cx="120" cy="300" r="5"/><circle cx="160" cy="280" r="5"/>
+      <circle cx="200" cy="300" r="5"/><circle cx="240" cy="280" r="5"/><circle cx="280" cy="320" r="5"/>
+      <circle cx="320" cy="300" r="5"/><circle cx="360" cy="300" r="5"/><circle cx="400" cy="300" r="5"/>
+      <circle cx="440" cy="300" r="5"/><circle cx="80" cy="340" r="5"/><circle cx="140" cy="360" r="5"/>
+      <circle cx="180" cy="360" r="5"/><circle cx="220" cy="360" r="5"/><circle cx="260" cy="360" r="5"/>
+      <circle cx="300" cy="360" r="5"/><circle cx="340" cy="360" r="5"/><circle cx="380" cy="380" r="5"/>
+      <circle cx="420" cy="380" r="5"/><circle cx="140" cy="400" r="5"/><circle cx="180" cy="400" r="5"/>
+      <circle cx="220" cy="400" r="5"/><circle cx="280" cy="400" r="5"/><circle cx="320" cy="400" r="5"/>
+      <circle cx="360" cy="400" r="5"/><circle cx="400" cy="400" r="5"/><circle cx="440" cy="400" r="5"/>
+    </g>
+  </g>
+
+  <!-- random sample circle (scattered, mixed) -->
+  <ellipse cx="240" cy="220" rx="120" ry="90" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-dasharray="8 6"/>
+  <text x="240" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#7a9e7e">random sample: representative</text>
+
+  <!-- biased sample outline (top-left corner, mostly dark) -->
+  <rect x="48" y="70" width="120" height="90" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="108" y="62" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#e0a458">biased sample</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">a random sample reflects the whole; a biased one does not</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">every member has an equal chance in a random sample</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">before trusting a conclusion, ask: who was left out?</text>
+</svg>

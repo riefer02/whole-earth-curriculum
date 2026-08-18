@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Probability of simple and compound events</title>
+  <desc id="desc">A probability diagram. A tree diagram for flipping two coins shows the four outcomes: HH, HT, TH, TT. The probability of the simple event "heads on one coin" is labeled 1/2, and the compound event "both heads" is labeled 1/2 × 1/2 = 1/4, with the four outcomes each shaded as one quarter. A note reads "probability = favourable outcomes ÷ total outcomes." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="28" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Probability: Simple and Compound Events</text>
+
+  <!-- tree diagram -->
+  <text x="60" y="64" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">tree diagram — two coins</text>
+  <!-- root -->
+  <circle cx="60" cy="96" r="5" fill="#222222"/>
+  <!-- first coin branches -->
+  <line x1="60" y1="96" x2="140" y2="70" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="60" y1="96" x2="140" y2="150" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="62" font-family="sans-serif" font-size="13" fill="#6b93b6">H (1/2)</text>
+  <text x="100" y="172" font-family="sans-serif" font-size="13" fill="#6b93b6">T (1/2)</text>
+  <circle cx="140" cy="70" r="4" fill="#6b93b6"/>
+  <circle cx="140" cy="150" r="4" fill="#6b93b6"/>
+  <!-- second coin branches from H -->
+  <line x1="140" y1="70" x2="210" y2="56" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="140" y1="70" x2="210" y2="90" stroke="#2b3a42" stroke-width="2"/>
+  <!-- second coin branches from T -->
+  <line x1="140" y1="150" x2="210" y2="126" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="140" y1="150" x2="210" y2="176" stroke="#2b3a42" stroke-width="2"/>
+  <!-- outcomes -->
+  <text x="226" y="52" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">HH</text>
+  <text x="226" y="94" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">HT</text>
+  <text x="226" y="132" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">TH</text>
+  <text x="226" y="182" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">TT</text>
+  <text x="140" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">4 outcomes in the sample space</text>
+
+  <!-- probability formulas -->
+  <rect x="300" y="64" width="192" height="150" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="396" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">probability =</text>
+  <text x="396" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">favourable ÷ total</text>
+  <line x1="300" y1="124" x2="492" y2="124" stroke="#2b3a42" stroke-width="1"/>
+  <text x="316" y="148" font-family="sans-serif" font-size="14" fill="#222222">simple: P(H) = 1/2</text>
+  <text x="316" y="174" font-family="sans-serif" font-size="14" fill="#222222">compound:</text>
+  <text x="316" y="196" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">1/2 × 1/2 = 1/4</text>
+
+  <!-- four equal quarter panels -->
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">the four outcomes share the whole (each = 1/4)</text>
+  <rect x="40" y="276" width="105" height="60" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="145" y="276" width="105" height="60" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="250" y="276" width="105" height="60" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="355" y="276" width="105" height="60" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">HH 1/4</text>
+  <text x="197" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">HT 1/4</text>
+  <text x="302" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">TH 1/4</text>
+  <text x="407" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">TT 1/4</text>
+  <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"both heads" = HH = one of four = 1/4</text>
+
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">list the sample space · multiply the parts for a compound event</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">probability is always between 0 (never) and 1 (certain)</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">trials approach the theory only over the long run</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">dice: ancient India, Egypt, Mesopotamia · Pascal and Fermat, 17th century</text>
+</svg>

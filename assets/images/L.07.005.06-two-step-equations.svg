@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two-step equations</title>
+  <desc id="desc">A balance-scale diagram for the two-step equation 2x + 3 = 11. The left pan holds two boxes labeled x and three dots; the right pan holds eleven dots. Below, two undoing steps are shown: "subtract 3 from both sides: 2x = 8" then "divide both sides by 2: x = 4." A final check reads "2 × 4 + 3 = 11." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Two-Step Equations: 2x + 3 = 11</text>
+
+  <!-- balance -->
+  <g>
+    <line x1="256" y1="70" x2="256" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="196" y="64" width="120" height="12" fill="#4f6d7a" rx="4"/>
+    <!-- left pan -->
+    <line x1="120" y1="76" x2="160" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="240" y1="76" x2="200" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="120" y1="120" x2="240" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <!-- right pan -->
+    <line x1="272" y1="76" x2="312" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="392" y1="76" x2="352" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="272" y1="120" x2="392" y2="120" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- left pan: 2 boxes + 3 dots -->
+  <g>
+    <rect x="130" y="96" width="26" height="26" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="143" y="114" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">x</text>
+    <rect x="160" y="96" width="26" height="26" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="173" y="114" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">x</text>
+    <circle cx="206" cy="110" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="224" cy="110" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="242" cy="110" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- right pan: 11 dots -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="282" cy="98" r="8"/>
+    <circle cx="300" cy="98" r="8"/>
+    <circle cx="318" cy="98" r="8"/>
+    <circle cx="336" cy="98" r="8"/>
+    <circle cx="354" cy="98" r="8"/>
+    <circle cx="372" cy="98" r="8"/>
+    <circle cx="291" cy="116" r="8"/>
+    <circle cx="309" cy="116" r="8"/>
+    <circle cx="327" cy="116" r="8"/>
+    <circle cx="345" cy="116" r="8"/>
+    <circle cx="363" cy="116" r="8"/>
+  </g>
+  <text x="256" y="156" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">left side = right side</text>
+
+  <!-- steps -->
+  <rect x="24" y="180" width="464" height="210" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="206" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">undo in reverse order</text>
+
+  <text x="40" y="234" font-family="sans-serif" font-size="15" fill="#222222">Step 1 — undo "+ 3": subtract 3 from both sides</text>
+  <text x="60" y="258" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">2x + 3 − 3 = 11 − 3</text>
+  <text x="60" y="282" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">2x = 8</text>
+
+  <text x="40" y="316" font-family="sans-serif" font-size="15" fill="#222222">Step 2 — undo "× 2": divide both sides by 2</text>
+  <text x="60" y="340" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">2x ÷ 2 = 8 ÷ 2</text>
+  <text x="60" y="364" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">x = 4</text>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">check: 2 × 4 + 3 = 8 + 3 = 11 ✓</text>
+
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">undo add/subtract first, then multiply/divide</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">do every step to both sides so the balance holds</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"algebra" from al-jabr — al-Khwarizmi, 9th century</text>
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">checking by substitution is honest reasoning, not a guess</text>
+</svg>

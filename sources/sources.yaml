@@ -2672,3 +2672,129 @@ sources:
 
 
 
+
+  - id: S-288
+    title: "MacTutor — Mathematics in Egyptian Papyri (Rhind Papyrus)"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/HistTopics/Egyptian_papyri/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L01/L03/L09 (Rhind Papyrus 'per one' division and bread/beer proportional problems) and L12 (Egyptian π = 256/81). URL verified live (2026-08-18). Page documents the Rhind Papyrus (scribe Ahmes): division by doubling, unit fractions, the 2/n table, Problems 21/24 (false position), and Problem 50 (round field, diameter 9 khet → area 64 setat), noting the result 'is equivalent to taking π = 4(8/9)² = 3.1605' — i.e., 256/81 ≈ 3.16. Supports the lessons' hedged claims that the Rhind Papyrus contains division/'per one' reckoning and the 256/81 value of π. (Bread-and-beer problems appear elsewhere in the Rhind Papyrus, Problems 5 and 72–76, a standard fact consistent with the page's description of the papyrus as a practical handbook of division of loaves and beer.)"
+
+  - id: S-289
+    title: "MacTutor — Nine Chapters on the Mathematical Art"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/HistTopics/Nine_chapters/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L05 (negative numbers in the Chinese Nine Chapters, c. 200 BCE) and L10 (the gou-gu / Pythagorean right-triangle rule in China). URL verified live (2026-08-18). Page states the text 'originated around 200 BC' (most historians), that Chapter 8 (Calculation by Square Tables / systems of linear equations) 'uses negative numbers ... and the chapter includes rules to compute with them', and that Chapter 9 uses 'Pythagoras's theorem, which the Chinese knew as the Gougu rule', with Pythagorean triples. Supports the lessons' hedged dating ('c. 200 BCE') and the negative-numbers claim. Note: the red/black counting-rod convention (red positive, black negative) is a documented detail of Chinese rod numerals (Liu Hui's commentary and the Suan shu shu) — accurate but not stated verbatim on this page; the page confirms the negative-numbers-and-rules core."
+
+  - id: S-290
+    title: "MacTutor — Brahmagupta"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L05 (Brahmagupta's 7th-century rules for negative numbers). URL verified live (2026-08-18). Brahmagupta (598–670) wrote the Brahmasphutasiddhanta in 628; the page quotes his arithmetic rules 'in terms of fortunes (positive numbers) and debts (negative numbers)', including 'The product or quotient of two debts is one fortune' (negative × negative = positive) and 'The product or quotient of a debt and a fortune is a debt' — directly supporting the lesson's claim that Brahmagupta wrote rules for negative numbers in the 7th century."
+
+  - id: S-291
+    title: "MacTutor — A history of Pi"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/HistTopics/Pi_through_the_ages/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L12 (π approximations across cultures: Egypt, Archimedes, Zu Chongzhi). URL verified live (2026-08-18). Page states: in the Rhind Papyrus 'dated about 1650 BC, there is good evidence for 4×(8/9)² = 3.16 as a value for π'; Archimedes obtained 223/71 < π < 22/7 (i.e., between 3 10/71 and 3 1/7); and lists 'Zu Chongzhi (430-501 AD) 355/113' among later improvements. Supports every π claim in the lesson, including 'accurate to six decimal places' (355/113 = 3.1415929...)."
+
+  - id: S-292
+    title: "MacTutor — The Indian Sulbasutras"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/HistTopics/Indian_sulbasutras/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L03 (Baudhayana Sulba Sutra: proportional rules for scaling altars) and L10 (3-4-5-type rope triangle / Pythagorean triples in India). URL verified live (2026-08-18). Page states the Sulbasutras 'give rules for constructing altars' to precise measurements, names the 'Baudhayana Sulbasutra written about 800 BC' among the most important, and notes the results are stated 'in terms of ropes' ('sutras came to mean a rope for measuring an altar'), with many Pythagorean triples listed. Supports the lessons' claims about Baudhayana altar-scaling rules and the rope-based right-triangle construction in India. The Egyptian 'rope-stretcher' and Chinese cases are standard documented history; the Egyptian knotted-rope surveying (harpedonaptai) is attested in Greek accounts and the Chinese 3-4-5 (gou-gu) is covered by S-289."
+
+  - id: S-293
+    title: "MacTutor — Al-Khwarizmi"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L06 (the word 'algebra' from al-jabr in al-Khwarizmi's 9th-century work). URL verified live (2026-08-18). Al-Khwarizmi (c. 780–850); the page states his algebra treatise 'Hisab al-jabr w'al-muqabala gives us the word algebra and can be considered as the first book to be written on algebra', and explains that al-jabr ('completion') removes negative terms while al-muqabala ('balancing') reduces like terms. Directly supports the lesson's claim."
+
+  - id: S-294
+    title: "MacTutor — Simon Stevin"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/Biographies/Stevin/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L04 (Simon Stevin's De Thiende, 1585, popularized decimal fractions in Europe). URL verified live (2026-08-18). Page states Stevin 'presented the first elementary and thorough account of decimal fractions', that 'In 1585 he published La Thiende' (a 29-page booklet on decimal fractions), and — crucially for the lesson's shared-invention framing — that 'Although he did not invent decimals (they had been used by the Arabs and the Chinese long before Stevin's time) he did introduce their use in mathematics in Europe.' Directly supports the lesson's claims, including the hedged 'popularized in Europe, but the idea is a shared human invention.'"
+
+  - id: S-295
+    title: "MacTutor — Indian numerals"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/HistTopics/Indian_numerals/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L04 (decimal place-value notation developed in India, transmitted through the Arab world to Europe). URL verified live (2026-08-18). Page quotes Laplace — 'The ingenious method of expressing every possible number using a set of ten symbols (each symbol having a place value and an absolute value) emerged in India' — and documents the base-10 place-value system's development: Nagari/Devanagari numerals evolved 'beginning around the 7th century AD' and were 'transmitted into the Arab world' before reaching Europe. Supports the lesson's hedged claim ('by the 7th century CE ... transmitted through the Arab world')."
+
+  - id: S-296
+    title: "MacTutor — Omar Khayyam"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/Biographies/Khayyam/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L08 (the Persian scholar Omar Khayyam's geometric methods for equations). URL verified live (2026-08-18). Omar Khayyam (1048–1131, Persia); the page's summary states he 'discovered a geometrical method of solving cubic equations by intersecting a parabola with a circle', and the biography details his 'Treatise on Demonstration of Problems of Algebra' with geometric solutions via intersecting conic sections. Supports the lesson's claim that he 'used geometric methods for equations'."
+
+  - id: S-297
+    title: "Encyclopaedia Britannica — Zakat (Islamic tax)"
+    type: website
+    url: https://www.britannica.com/topic/zakat-Islamic-tax
+    organization: Encyclopaedia Britannica
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L02 (Islamic zakat as a fixed share of wealth). URL verified live (2026-08-18). Britannica defines zakat as 'an obligatory tax required of Muslims, one of the five Pillars of Islam', levied on categories including 'gold and silver' and 'movable goods', payable yearly. The 2.5% figure (one-fortieth) is the standard documented rate for zakat on monetary wealth/gold/silver (not stated verbatim on this page but the standard rate in all reference works); the lesson's 'fixed share (2.5%) of one's wealth, a percentage used for care, not profit' is accurate."
+
+  - id: S-298
+    title: "Encyclopaedia Britannica — Muhammad al-Idrisi"
+    type: website
+    url: https://www.britannica.com/biography/Muhammad-al-Idrisi
+    organization: Encyclopaedia Britannica
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L11 (al-Idrisi's celebrated 12th-century world map for the court in Sicily). URL verified live (2026-08-18); the biography 'Muhammad al-Idrisi | Geographer, Maps, & Biography' (also known as al-Sharif al-Idrisi) covers the Arab geographer whose world map (Tabula Rogeriana, 1154) was produced for King Roger II of Sicily. Supports the lesson's claim. (Original URL /biography/al-Sharif-al-Idrisi redirects to /biography/Muhammad-al-Idrisi.)"
+
+  - id: S-299
+    title: "Encyclopaedia Britannica — Ptolemy"
+    type: website
+    url: https://www.britannica.com/biography/Ptolemy
+    organization: Encyclopaedia Britannica
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L11 (Ptolemy's coordinates set places in proportion / his Geography). URL verified live (2026-08-18). The Britannica biography of Claudius Ptolemy (2nd century CE) has a 'Geographer' section on his Geography, which assigned latitude/longitude coordinates to places — the coordinate framework the lesson attributes to him. Supports the lesson's claim that Ptolemy's coordinates set places in proportion."
+
+  - id: S-300
+    title: "Encyclopaedia Britannica — Dice"
+    type: website
+    url: https://www.britannica.com/topic/dice
+    organization: Encyclopaedia Britannica
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L14 (dice found in ancient India, Egypt, and Mesopotamia). URL verified live (2026-08-18). The Britannica 'dice' article (History section) states dice 'are ancient implements, used by many cultures', that six-sided dice were found in 'Egyptian tombs dating from 2000 bce', and that dice were used in 'India more than 2,000 years ago', with knucklebones (astragals) used in 'Egypt and the Orient'. Supports Egypt and India explicitly; Mesopotamia (cubical dice in the Royal Game of Ur, c. 2600 BCE) is the standard third example and is accurately included in the lesson's hedged claim. The lesson's phrasing 'dice are found in ancient India, Egypt, and Mesopotamia' is accurate."
+
+  - id: S-301
+    title: "Encyclopaedia Britannica — Probability and statistics"
+    type: website
+    url: https://www.britannica.com/science/probability
+    organization: Encyclopaedia Britannica
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.07.005 L14 (the careful study of chance began with gamblers' questions in 17th-century Europe, answered by Pascal and Fermat). URL verified live (2026-08-18). The Britannica 'probability and statistics' article includes an 'Early probability' and 'Games of chance' section covering the 17th-century Pascal–Fermat correspondence (1654) on the problem of points as the origin of the mathematical theory of probability. Supports the lesson's claim."

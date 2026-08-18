@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit rates in real life</title>
+  <desc id="desc">A unit-rate comparison diagram. Two boxes show "Offer A — 3 kg for $12" with three weight symbols and twelve coin symbols, and "Offer B — 5 kg for $18" with five weight symbols and eighteen coin symbols. Below each, a unit-rate bar shows the per-one price: $4 per kg for Offer A and $3.60 per kg for Offer B. A caption reads "the unit rate tells the price for one — Offer B is cheaper per kg." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Unit Rates: Comparing Offers</text>
+
+  <!-- Offer A box -->
+  <rect x="24" y="52" width="220" height="150" fill="none" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="134" y="78" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Offer A</text>
+  <text x="134" y="100" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">3 kg for $12</text>
+  <!-- 3 weights -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <rect x="40" y="112" width="22" height="22" rx="3"/>
+    <rect x="70" y="112" width="22" height="22" rx="3"/>
+    <rect x="100" y="112" width="22" height="22" rx="3"/>
+  </g>
+  <text x="134" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3 kg</text>
+  <!-- 12 coins -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="160" cy="118" r="9"/>
+    <circle cx="182" cy="118" r="9"/>
+    <circle cx="204" cy="118" r="9"/>
+    <circle cx="160" cy="140" r="9"/>
+    <circle cx="182" cy="140" r="9"/>
+    <circle cx="204" cy="140" r="9"/>
+  </g>
+  <text x="182" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">$12</text>
+  <text x="134" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">12 ÷ 3 = $4 per kg</text>
+
+  <!-- Offer B box -->
+  <rect x="268" y="52" width="220" height="150" fill="none" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="378" y="78" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Offer B</text>
+  <text x="378" y="100" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">5 kg for $18</text>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <rect x="284" y="112" width="22" height="22" rx="3"/>
+    <rect x="314" y="112" width="22" height="22" rx="3"/>
+    <rect x="344" y="112" width="22" height="22" rx="3"/>
+  </g>
+  <text x="378" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">5 kg</text>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="404" cy="118" r="9"/>
+    <circle cx="426" cy="118" r="9"/>
+    <circle cx="448" cy="118" r="9"/>
+    <circle cx="404" cy="140" r="9"/>
+    <circle cx="426" cy="140" r="9"/>
+    <circle cx="448" cy="140" r="9"/>
+  </g>
+  <text x="426" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">$18</text>
+  <text x="378" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">18 ÷ 5 = $3.60 per kg</text>
+
+  <!-- Comparison bars -->
+  <text x="24" y="240" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">price per 1 kg</text>
+  <!-- A bar -->
+  <text x="24" y="268" font-family="sans-serif" font-size="14" fill="#4f6d7a">Offer A</text>
+  <rect x="90" y="256" width="160" height="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="258" y="270" font-family="sans-serif" font-size="14" fill="#222222">$4.00</text>
+  <!-- B bar -->
+  <text x="24" y="302" font-family="sans-serif" font-size="14" fill="#4f6d7a">Offer B</text>
+  <rect x="90" y="290" width="144" height="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="242" y="304" font-family="sans-serif" font-size="14" fill="#222222">$3.60</text>
+
+  <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Offer B has the shorter bar, so its unit rate is smaller</text>
+  <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">and it is the cheaper deal per kilogram.</text>
+
+  <!-- rule -->
+  <rect x="64" y="398" width="384" height="62" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">unit rate = total ÷ amount</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"how much for one" lets you compare fairly</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">per kg · per hour · per person — "per one" thinking is everywhere</text>
+</svg>

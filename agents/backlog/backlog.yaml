@@ -4397,7 +4397,7 @@ items:
     type: lesson
     grade: 7
     domain: D05
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4409,6 +4409,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1108 files. Verified all 14 lessons L.07.005.01-.14, sequence 1-14, grade 7, U.07.005, required headings present; objectives resolve to the 8 real grade-7 D05 standards; unit.md table matches 14 lessons; math spot-checks correct (e.g. L1 /3kg=/kg vs /5kg=.60/kg, L6 2x+3=11 -> x=4, L12 355/113 ~= 3.14159); historical claims sourced (Rhind Papyrus, al-Khwarizmi, pi approximations); all 14 SVGs present on disk.
+      fact-checker:
+        verdict: passed
+        note: Verified mathematical correctness of all computations and historical claims (Rhind Papyrus pi=256/81 and per-one division, zakat 2.5%, al-Khwarizmi al-jabr, Indian decimal place-value + Stevin De Thiende, Nine Chapters/Brahmagupta negative numbers, al-Idrisi/Ptolemy maps, pi across Egypt-Greece-China, dice/Pascal-Fermat), sourced to live MacTutor History of Mathematics + Britannica pages (S-288..S-301 registered reviewed); also corrected one garbled equality chain in L01.
+      global-culture-editor:
+        verdict: passed
+        note: "Verified non-Western-default framing and multi-region representation across all 14 lessons: pi presented as parallel approximations (Egypt 256/81, Archimedes' bounds, Zu Chongzhi's 355/113) and decimal numerals as India->Arab world->Stevin rather than a European lineage; life contexts span village markets, feasts, maps, 3-4-5 rope triangle from Egypt/India/China; no single civilization centered."
+      accessibility-editor:
+        verdict: passed
+        note: Verified low-tech tier (materials_low_tech in all 14 lessons with found-object/voice/body alternatives plus outdoor-only/self-directed variants), alt text on every assets entry resolving to real files, grayscale-printable SVGs with role/title/desc; UDL met via manipulatives/diagrams/verbal/written and aloud differentiation for low-vision learners; no required devices or wealth assumptions (calculators only as optional enrichment).
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics (sampling-bias-as-honesty L13), egalitarianism (no 'math person', tools for everyone), global/anthropological (Egyptian/Indian/Chinese/Islamic sources), technology/environment (calculators/spreadsheets/simulations), evidence-vs-values (MacTutor/Britannica/Van de Walle cited, facts vs values distinguished); all objectives resolve to real D05.Sx.07.x anchoring to P3 -> vision.
+      child-psychologist:
+        verdict: passed
+        note: "Grade-7 band: verified proportional reasoning, rational-number operations, two-step equations, y=kx, compound probability each anchored in concrete manipulatives before abstraction (appropriate challenge, not overload); math anxiety preempted with mastery-not-ranking formative checks and explicit 'no math person / not yet shown the steps' language, no shaming; sampling/bias framed as fairness-with-agency not fear; movement/manipulatives match motor development; essential questions stay questions."
   - id: B-352
     title: "Author lessons for Unit U.07.006 (Science: Systems, Evidence & Deep Time)"
     agent: lesson-author

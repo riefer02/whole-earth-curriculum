@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two-step inequalities</title>
+  <desc id="desc">A two-step inequality diagram for 2x + 3 ≤ 11. The solving steps are shown: subtract 3 → 2x ≤ 8, divide by 2 → x ≤ 4. Below, a number line from 0 to 8 has a closed (filled) circle at 4 and shading to the left, labeled "x ≤ 4." A note reads "a closed circle means 4 is included; the shaded side is the whole solution set." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Two-Step Inequalities: 2x + 3 ≤ 11</text>
+
+  <!-- solving steps -->
+  <rect x="24" y="48" width="464" height="150" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="74" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">solve like an equation — undo in reverse</text>
+  <text x="40" y="104" font-family="sans-serif" font-size="15" fill="#222222">Step 1 — subtract 3 from both sides:</text>
+  <text x="60" y="128" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">2x ≤ 8</text>
+  <text x="40" y="158" font-family="sans-serif" font-size="15" fill="#222222">Step 2 — divide both sides by 2:</text>
+  <text x="60" y="182" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">x ≤ 4</text>
+
+  <!-- number line -->
+  <text x="40" y="230" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">graph of x ≤ 4</text>
+  <line x1="60" y1="260" x2="470" y2="260" stroke="#2b3a42" stroke-width="2"/>
+  <!-- shading to left -->
+  <line x1="60" y1="260" x2="300" y2="260" stroke="#7a9e7e" stroke-width="8" stroke-linecap="round"/>
+  <!-- ticks 0..8 -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="60" y1="252" x2="60" y2="268"/>
+    <line x1="120" y1="252" x2="120" y2="268"/>
+    <line x1="180" y1="252" x2="180" y2="268"/>
+    <line x1="240" y1="252" x2="240" y2="268"/>
+    <line x1="300" y1="252" x2="300" y2="268"/>
+    <line x1="360" y1="252" x2="360" y2="268"/>
+    <line x1="420" y1="252" x2="420" y2="268"/>
+    <line x1="470" y1="252" x2="470" y2="268"/>
+  </g>
+  <g font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">
+    <text x="60" y="288">0</text>
+    <text x="120" y="288">1</text>
+    <text x="180" y="288">2</text>
+    <text x="240" y="288">3</text>
+    <text x="300" y="288">4</text>
+    <text x="360" y="288">5</text>
+    <text x="420" y="288">6</text>
+    <text x="470" y="288">7</text>
+  </g>
+  <!-- closed circle at 4 -->
+  <circle cx="300" cy="260" r="8" fill="#222222"/>
+  <text x="300" y="230" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">closed: 4 included</text>
+
+  <!-- note -->
+  <rect x="40" y="320" width="432" height="70" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a closed circle means the boundary is included (≤ or ≥)</text>
+  <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">an open circle means it is not (＜ or ＞)</text>
+
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">the answer is a whole range, not one number</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">flip the sign when you divide both sides by a negative</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"at most" → ≤ · "at least" → ≥</text>
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">check one boundary value and one inside value</text>
+</svg>
