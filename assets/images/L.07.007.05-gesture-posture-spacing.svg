@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Gesture, posture, and spacing speak without words</title>
+  <desc id="desc">A chart of five simple figures, each in a different pose with a label, showing how body language communicates without words. From left to right: open palms up with a slight lean forward labeled "welcome, offering"; arms crossed leaning away labeled "closed, unsure"; leaning forward with a lifted face labeled "interested, listening"; standing tall with chin up labeled "confident, proud"; and slouched with head down labeled "tired, low." A sixth figure uses a wheelchair. Below, two more figures stand close together labeled "close = together, intimate" and a second pair stand far apart labeled "far = distant, formal." Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Bodies speak without words</text>
+
+  <!-- Figure 1: welcome -->
+  <g>
+    <circle cx="60" cy="96" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="55" cy="92" r="2" fill="#2b3a42"/>
+    <circle cx="65" cy="92" r="2" fill="#2b3a42"/>
+    <path d="M55 103 Q60 108 65 103" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="60" y1="112" x2="60" y2="150" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M60 124 L48 112 M60 124 L72 112" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="60" y1="150" x2="48" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="60" y1="150" x2="72" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="60" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">welcome,</text>
+    <text x="60" y="211" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">offering</text>
+  </g>
+
+  <!-- Figure 2: closed -->
+  <g>
+    <circle cx="165" cy="96" r="16" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="160" cy="92" r="2" fill="#2b3a42"/>
+    <circle cx="170" cy="92" r="2" fill="#2b3a42"/>
+    <path d="M160 104 L170 104" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="165" y1="112" x2="158" y2="150" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M158 126 L142 132 M158 126 L142 144" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="158" y1="150" x2="148" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="158" y1="150" x2="170" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="165" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">closed,</text>
+    <text x="165" y="211" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">unsure</text>
+  </g>
+
+  <!-- Figure 3: interested -->
+  <g>
+    <circle cx="270" cy="96" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="265" cy="92" r="2" fill="#2b3a42"/>
+    <circle cx="275" cy="92" r="2" fill="#2b3a42"/>
+    <path d="M265 104 Q270 109 275 104" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="270" y1="112" x2="276" y2="150" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M276 128 L290 124" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="276" y1="150" x2="268" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="276" y1="150" x2="286" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="270" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">interested,</text>
+    <text x="270" y="211" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">listening</text>
+  </g>
+
+  <!-- Figure 4: confident -->
+  <g>
+    <circle cx="375" cy="96" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="370" cy="92" r="2" fill="#2b3a42"/>
+    <circle cx="380" cy="92" r="2" fill="#2b3a42"/>
+    <path d="M370 102 Q375 107 380 102" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="375" y1="112" x2="375" y2="150" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M375 124 L363 114 M375 124 L387 114" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="375" y1="150" x2="366" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="375" y1="150" x2="384" y2="176" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="375" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">confident,</text>
+    <text x="375" y="211" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">proud</text>
+  </g>
+
+  <!-- Figure 5: tired (wheelchair) -->
+  <g>
+    <circle cx="470" cy="88" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="465" cy="84" r="2" fill="#2b3a42"/>
+    <circle cx="475" cy="84" r="2" fill="#2b3a42"/>
+    <path d="M463 96 Q470 100 477 96" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="470" y1="104" x2="468" y2="136" stroke="#2b3a42" stroke-width="3"/>
+    <!-- wheelchair -->
+    <circle cx="470" cy="150" r="13" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="470" cy="150" r="3" fill="#2b3a42"/>
+    <line x1="457" y1="150" x2="483" y2="150" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M468 136 L470 150" stroke="#2b3a42" stroke-width="3"/>
+    <text x="470" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">tired,</text>
+    <text x="470" y="201" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">low</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="20" y1="234" x2="492" y2="234" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
+
+  <!-- Spacing strip -->
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Spacing — how near or far</text>
+
+  <!-- close pair -->
+  <g>
+    <circle cx="120" cy="340" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="120" y1="354" x2="120" y2="392" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="156" cy="340" r="14" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="156" y1="354" x2="156" y2="392" stroke="#2b3a42" stroke-width="3"/>
+    <text x="138" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">close = together,</text>
+    <text x="138" y="436" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">intimate</text>
+  </g>
+
+  <!-- far pair -->
+  <g>
+    <circle cx="340" cy="340" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="340" y1="354" x2="340" y2="392" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="432" cy="340" r="14" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="432" y1="354" x2="432" y2="392" stroke="#2b3a42" stroke-width="3"/>
+    <text x="386" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">far = distant,</text>
+    <text x="386" y="436" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">formal</text>
+  </g>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The same idea can be said by a body in any culture — and read differently, too.</text>
+</svg>

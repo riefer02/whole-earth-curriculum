@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One picture, three sounds, three meanings</title>
+  <desc id="desc">A chart showing how sound changes the meaning of one image. At the top, a single drawing of a hallway with a half-open door is labeled "The same picture." Below it, three rows each pair a sound with a mood: soft, slow music makes it calm and safe; a sudden loud sting makes it fearful and alarming; a cheerful, bouncy rhythm makes it playful and funny. Each sound is shown as a simple line — gentle waves, a sharp spike, and bouncy dots — with word labels so the meaning survives grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">One picture, three sounds</text>
+
+  <!-- The single image: hallway with half-open door -->
+  <rect x="20" y="58" width="472" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="82" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">The same picture</text>
+  <!-- floor and wall lines -->
+  <line x1="40" y1="186" x2="472" y2="186" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="40" y1="150" x2="472" y2="150" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.5"/>
+  <!-- door frame and door -->
+  <rect x="210" y="104" width="70" height="82" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M280 186 L280 130 Q250 116 210 126 L210 186" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="274" cy="150" r="3" fill="#2b3a42"/>
+
+  <!-- Row 1: calm -->
+  <rect x="20" y="218" width="472" height="82" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="250" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Soft, slow music</text>
+  <path d="M40 286 Q56 266 72 286 T104 286 T136 286" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+  <text x="200" y="250" font-family="sans-serif" font-size="15" fill="#222222">gentle waves, no surprise</text>
+  <text x="200" y="278" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">calm, safe</text>
+
+  <!-- Row 2: fear -->
+  <rect x="20" y="310" width="472" height="82" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="342" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Sudden loud sting</text>
+  <path d="M40 378 L60 346 L66 378 L86 352 L92 378 L112 348" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="342" font-family="sans-serif" font-size="15" fill="#222222">a sharp spike out of quiet</text>
+  <text x="200" y="370" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">fear, alarm</text>
+
+  <!-- Row 3: playful -->
+  <rect x="20" y="402" width="472" height="82" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="434" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Cheerful bouncy rhythm</text>
+  <circle cx="46" cy="462" r="4" fill="#7a9e7e"/>
+  <circle cx="66" cy="452" r="4" fill="#7a9e7e"/>
+  <circle cx="86" cy="464" r="4" fill="#7a9e7e"/>
+  <circle cx="106" cy="452" r="4" fill="#7a9e7e"/>
+  <circle cx="126" cy="462" r="4" fill="#7a9e7e"/>
+  <text x="200" y="434" font-family="sans-serif" font-size="15" fill="#222222">a skipping, dancing beat</text>
+  <text x="200" y="462" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">playful, funny</text>
+</svg>

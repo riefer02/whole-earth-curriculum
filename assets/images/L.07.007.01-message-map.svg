@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Message map: from a personal message to a visual plan</title>
+  <desc id="desc">A two-step planning diagram. On the left, a box labeled "1. My message" contains the sentence "I care for living things." An arrow points right to a box labeled "2. How I will show it," which lists three choices: symbol (two hands holding a seedling), color (greens and browns for life and earth), and composition (centered, held up high). Below the boxes a small sketch shows two hands cupping a seedling. Shapes and labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Message Map</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Plan how an artwork will carry a message</text>
+
+  <!-- Left box: message -->
+  <rect x="26" y="96" width="210" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="131" y="126" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">1. My message</text>
+  <text x="131" y="156" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">What I want others</text>
+  <text x="131" y="178" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">to understand:</text>
+  <text x="131" y="216" text-anchor="middle" font-family="sans-serif" font-size="17" font-style="italic" fill="#2b3a42">"I care for</text>
+  <text x="131" y="238" text-anchor="middle" font-family="sans-serif" font-size="17" font-style="italic" fill="#2b3a42">living things."</text>
+
+  <!-- Arrow -->
+  <path d="M242 171 L276 171" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M268 164 L276 171 L268 178" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Right box: how to show it -->
+  <rect x="284" y="96" width="202" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="385" y="126" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">2. How I will show it</text>
+  <text x="298" y="154" font-family="sans-serif" font-size="15" fill="#222222">Symbol: hands + seedling</text>
+  <text x="298" y="180" font-family="sans-serif" font-size="15" fill="#222222">Color: greens, browns</text>
+  <text x="298" y="206" font-family="sans-serif" font-size="15" fill="#222222">Composition: centered,</text>
+  <text x="298" y="228" font-family="sans-serif" font-size="15" fill="#222222">held up high</text>
+
+  <!-- Sketch: two hands cupping a seedling -->
+  <g>
+    <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Sketch</text>
+    <!-- seedling stem and leaves -->
+    <path d="M256 392 L256 332" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M256 352 Q238 340 236 322" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <path d="M256 342 Q274 330 276 312" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <!-- soil -->
+    <ellipse cx="256" cy="396" rx="52" ry="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- cupped hands -->
+    <path d="M204 392 Q196 376 210 366 Q226 358 244 362 L256 372" fill="#f5d6b6" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M308 392 Q316 376 302 366 Q286 358 268 362 L256 372" fill="#e6bb92" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Message first, then choose symbol, color, and composition.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Same message could be shown a hundred different ways — the choice is yours.</text>
+</svg>

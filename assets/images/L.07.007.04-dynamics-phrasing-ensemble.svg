@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Dynamics, phrasing, and ensemble</title>
+  <desc id="desc">A three-part reference for performers. The first part, "Dynamics," shows a line growing from a small dot labeled "p — soft" to a large dot labeled "f — loud." The second part, "Phrasing," shows a row of notes under a curved breath mark, labeled "one musical sentence, shaped like a breath." The third part, "Ensemble," shows two rows of notes, each a different part, aligned above a shared beat line, labeled "many parts, one shared beat." Labels and shapes carry the meaning so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Three tools of a performer</text>
+
+  <!-- Dynamics -->
+  <rect x="20" y="66" width="472" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="94" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Dynamics — how loud or soft</text>
+  <circle cx="80" cy="150" r="7" fill="#6b93b6"/>
+  <circle cx="150" cy="150" r="11" fill="#6b93b6"/>
+  <circle cx="230" cy="150" r="16" fill="#6b93b6"/>
+  <circle cx="320" cy="150" r="22" fill="#2b3a42"/>
+  <circle cx="410" cy="150" r="28" fill="#2b3a42"/>
+  <text x="80" y="182" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">p — soft</text>
+  <text x="410" y="182" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">f — loud</text>
+  <text x="256" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">soft → building → loud</text>
+
+  <!-- Phrasing -->
+  <rect x="20" y="210" width="472" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Phrasing — one musical sentence</text>
+  <path d="M60 300 Q160 240 260 300 Q360 240 452 300" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="80" cy="296" rx="9" ry="7" fill="#2b3a42" transform="rotate(-20 80 296)"/>
+  <ellipse cx="140" cy="288" rx="9" ry="7" fill="#2b3a42" transform="rotate(-20 140 288)"/>
+  <ellipse cx="200" cy="284" rx="9" ry="7" fill="#2b3a42" transform="rotate(-20 200 284)"/>
+  <ellipse cx="312" cy="284" rx="9" ry="7" fill="#2b3a42" transform="rotate(20 312 284)"/>
+  <ellipse cx="372" cy="288" rx="9" ry="7" fill="#2b3a42" transform="rotate(20 372 288)"/>
+  <ellipse cx="432" cy="296" rx="9" ry="7" fill="#2b3a42" transform="rotate(20 432 296)"/>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">notes shaped like a breath — rise, peak, and settle</text>
+
+  <!-- Ensemble -->
+  <rect x="20" y="354" width="472" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Ensemble — many parts, one shared beat</text>
+  <!-- beat line -->
+  <line x1="60" y1="460" x2="452" y2="460" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="8 6"/>
+  <!-- part 1 -->
+  <ellipse cx="90" cy="414" rx="8" ry="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 90 414)"/>
+  <ellipse cx="170" cy="420" rx="8" ry="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 170 420)"/>
+  <ellipse cx="250" cy="416" rx="8" ry="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 250 416)"/>
+  <ellipse cx="330" cy="420" rx="8" ry="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 330 420)"/>
+  <ellipse cx="410" cy="414" rx="8" ry="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 410 414)"/>
+  <!-- part 2 -->
+  <ellipse cx="130" cy="444" rx="8" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 130 444)"/>
+  <ellipse cx="210" cy="438" rx="8" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 210 438)"/>
+  <ellipse cx="290" cy="442" rx="8" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 290 442)"/>
+  <ellipse cx="370" cy="438" rx="8" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 370 438)"/>
+  <ellipse cx="450" cy="444" rx="8" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 450 444)"/>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">two parts (blue and green rows) move on the same dashed beat</text>
+</svg>

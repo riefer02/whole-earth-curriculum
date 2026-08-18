@@ -67,3 +67,11 @@ traditions to honor with respectful questions, never as specimens.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Art with a Message: Finding My Personal Voice | D07.S1.07.01 |
+| 2 | Perspective, Framing, Emphasis — and Revising After Feedback | D07.S1.07.02, D07.S1.07.01 |
+| 3 | Sound in Media: How Film, Games, and Ads Shape Mood and Meaning | D07.S2.07.02 |
+| 4 | Performing with Dynamics, Phrasing, and Ensemble — and Revising by Recording | D07.S2.07.01 |
+| 5 | Gesture, Posture, Spacing: Speaking Without Words | D07.S3.07.02 |
+| 6 | Performing a Scene or Dance: Timing, Expression, Ensemble — and Revising by Feedback | D07.S3.07.01 |
+| 7 | Designing for Everyone: Accessibility and Testing for Barriers | D07.S4.07.01 |
+| 8 | The Trade-Offs: Cost, Materials, Function, and Environmental Impact | D07.S4.07.02 |

@@ -4471,7 +4471,7 @@ items:
     type: lesson
     grade: 7
     domain: D07
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4483,6 +4483,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1128 files. Verified all 8 lessons L.07.007.01-.08, sequence 1-8, grade 7, U.07.007, all 8 grade-7 D07 standards covered, unit.md table matches 8 lessons; required headings present and concrete (L1 Connection grounds artwork in living adinkra-cloth tradition); factual/historical claims sourced (adinkra -> Smithsonian NMAfA, nonverbal -> Ekman & Friesen 1969, accessibility -> WCAG + UN CRPD); all 8 SVGs confirmed present on disk at assets/images/.
+      fact-checker:
+        verdict: passed
+        note: Verified adinkra symbolism (Akan proverbs, Smithsonian NMAfA S-084 / Met Heilbrunn S-114), Ekman & Friesen 1969 nonverbal-behavior (S-160), WCAG POUR principles (S-280) + CRPD Article 30 (S-100), UNEP/SSEC environmental-cost framing (S-282/S-190) — all accurate/real/correctly attributed; fixed one idiom gloss to 'wisdom'; evidence vs values distinguished.
+      global-culture-editor:
+        verdict: passed
+        note: Verified framing/representation across all 8 lessons — no U.S./Eurocentric default — with living traditions named accurately and held side-by-side (adinkra/Akan Ghana+Cote d'Ivoire, Bharatanatyam mudras South India, Andean siku, West African drumming, Nollywood/Bollywood/Ghibli, sign languages, non-urban material cultures) framed as living traditions to honor never specimens; made precision fix in L5 (Lengua de Senas Mexicana + Nicaraguan Sign Language instead of generic term).
+      accessibility-editor:
+        verdict: passed
+        note: "Checked low-tech tier and alt text across all 8 lessons: every lesson declares materials_low_tech with paper/found-object/voice-and-body alternatives (no device/wealth required), all 8 assets entries carry non-empty alt resolving to real SVGs, and performance/music/dance lessons (3-6) explicitly offer deaf/hard-of-hearing, signed, seated, movement, and written alternatives so no lesson assumes an able body or spoken voice."
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics (media manipulation, accessibility, cultural respect, non-blaming trade-offs), egalitarianism (design-for-everyone, every-body performance, no privileged group), global/anthropological (Akan adinkra, Nollywood/Bollywood/Ghibli, Andean/West African traditions, Bharatanatyam mudras, multiple sign languages), technology/environment (media sound, recording revision, WCAG, materials life-cycle); evidence-vs-values cited and distinguished; all 8 objectives trace through real D07.Sx.07.x -> D07 -> P3 -> vision.
+      child-psychologist:
+        verdict: passed
+        note: "Grade-7 band: confirmed cognitive fit (perspective/framing/emphasis, sound-mood analysis, design trade-offs match emerging formal operations with worked examples), emotional safety (performance as 'not a test - a mirror/first draft' with kind learner-chosen feedback, personal-message art private/optional, media-manipulation as 'who benefits' awareness not cynicism), physical fit (every-body seated/signed/gestural/written channels for early-puberty self-conscious body), open-ended inquiry."
   - id: B-354
     title: "Author lessons for Unit U.07.008 (Healthy, Safe & Strong: Puberty & Self-Care)"
     agent: lesson-author

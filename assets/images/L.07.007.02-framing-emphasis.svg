@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Perspective, framing, and emphasis change what a viewer notices</title>
+  <desc id="desc">Three panels showing the same simple scene — a person walking toward a distant mountain — drawn three ways, each with a label. The first, labeled "Wide frame," shows the whole landscape so the person looks small. The second, labeled "Close frame," zooms in on the person so they look important. The third, labeled "Emphasis," shows the person drawn dark and bold against a light background so the eye goes straight to them. Labels and line weight, not color, carry the meaning so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Same scene, three choices</text>
+
+  <!-- Panel A: wide frame -->
+  <rect x="20" y="66" width="150" height="190" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="95" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Wide frame</text>
+  <!-- sky + mountain -->
+  <path d="M40 214 L88 148 L120 214 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="142" cy="120" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="20" y1="214" x2="170" y2="214" stroke="#2b3a42" stroke-width="2"/>
+  <!-- small person -->
+  <circle cx="62" cy="196" r="4" fill="#2b3a42"/>
+  <line x1="62" y1="200" x2="62" y2="212" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="62" y1="204" x2="57" y2="210" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="62" y1="204" x2="67" y2="210" stroke="#2b3a42" stroke-width="2"/>
+  <text x="95" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">whole landscape;</text>
+  <text x="95" y="253" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the person</text>
+  <text x="95" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">looks small</text>
+
+  <!-- Panel B: close frame -->
+  <rect x="181" y="66" width="150" height="190" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Close frame</text>
+  <!-- zoomed-in person -->
+  <circle cx="256" cy="160" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="246" cy="154" r="3" fill="#2b3a42"/>
+  <circle cx="266" cy="154" r="3" fill="#2b3a42"/>
+  <path d="M246 172 Q256 180 266 172" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="256" y1="186" x2="256" y2="226" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="256" y1="196" x2="236" y2="212" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="256" y1="196" x2="276" y2="212" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="236" y1="230" x2="276" y2="230" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">only the person;</text>
+  <text x="256" y="263" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">they look</text>
+  <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">important</text>
+
+  <!-- Panel C: emphasis -->
+  <rect x="342" y="66" width="150" height="190" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="417" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Emphasis</text>
+  <!-- light background, dark bold figure -->
+  <line x1="342" y1="150" x2="492" y2="150" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M362 150 L410 96 L434 150 Z" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.6" stroke-linejoin="round"/>
+  <circle cx="392" cy="170" r="14" fill="#2b3a42"/>
+  <line x1="392" y1="184" x2="392" y2="208" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="392" y1="190" x2="380" y2="200" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="392" y1="190" x2="404" y2="200" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="380" y1="212" x2="404" y2="212" stroke="#2b3a42" stroke-width="3"/>
+  <text x="417" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">one dark, bold</text>
+  <text x="417" y="263" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">figure against</text>
+  <text x="417" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a light field</text>
+
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Each choice changes what a viewer notices and feels.</text>
+
+  <!-- Bottom: three perspective notes -->
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Perspective — where the viewer stands</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Low angle (looking up) = the subject looks powerful.</text>
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">High angle (looking down) = the subject looks small.</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Eye level = the subject looks like an equal.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Makers choose framing and emphasis on purpose — so can you.</text>
+</svg>
