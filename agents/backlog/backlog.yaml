@@ -4101,7 +4101,7 @@ items:
     type: lesson
     grade: 6
     domain: D08
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -4113,6 +4113,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (1029). IDs L.06.009.01-.12 sequence_in_unit 1-12, grade 6, unit U.06.009; objectives resolve to all 8 real grade-6 D08 standards; required headings present learner-first; unit.md table lists all 12; all 12 assets resolve non-empty alt; historical accuracy: Krakatoa 1883, Zheng He 1405-1433 + Ma Huan Yingya Shenglan, Mansa Musa 1324 pilgrimage, Great Zimbabwe UNESCO 364, Songhai/Timbuktu 1464-1591 (Sunni Ali to 1591 Moroccan conquest), griots Niane, Timbuktu manuscripts UNESCO 119, paper China ~105 CE Cai Lun via Silk Roads->Baghdad->Europe 1100s, zero/decimal India Joseph, Maori ~1300 + whakapapa, Edo 1603-1868, Ming 1368-1644, Andes terraces + potato/quinoa/llama, Columbian Exchange 1492 Crosby, Salt March 1930/1947, Ghana 1957 Nkrumah CPP, Haudenosaunee Confederacy/Great Law/clan mothers; difficult topics held with age-appropriate care + dignity."
+      fact-checker:
+        verdict: passed
+        note: "Historical claims verified: primary/secondary (Krakatoa Aug 1883); Songhai/Timbuktu 1464-1591 change-continuity (UNESCO 119 live); knowledge transmission (songlines/Timbuktu manuscripts/Japanese apprenticeship); paper spread (Cai Lun ~105 CE -> Silk Roads -> Baghdad -> Europe 1100s; fixed internal 100->105 CE inconsistency); Andes terraces/canals/potato-quinoa-llama (no pre-contact cattle); Columbian Exchange 1492 Crosby honest (colonization/slavery harm named + Indigenous/African agency); Indian independence Salt March 1930/1947, Ghana 1957 CPP Nkrumah Positive Action, Haudenosaunee Great Law/clan mothers. Registered S-262..S-276 (15 sources); fixed 2 retired en.unesco.org URLs."
+      global-culture-editor:
+        verdict: passed
+        note: Global non-triumphalist posture ('never one people's triumph' overview + L12 capstone; no superiority language except guarding against it 'none better than another'/'written is not more advanced than oral'); examples span Africa (Songhai/Timbuktu/Great Zimbabwe/Mansa Musa/Ghana independence), Asia (Zheng He/Edo/Ming/paper/zero/Indian independence/1857), Oceania (Maori whakapapa/Aboriginal songlines), Americas (Andes/Haudenosaunee Great Law/Columbian Exchange), West Asia (Baghdad); freedom movements India+Ghana told as mass agency-centered never victimhood; knowledge traditions side-by-side non-ranked L5/L9; colonization/slavery named honestly centering dignity/knowledge/agency; Connection anchors to learner's own life.
+      accessibility-editor:
+        verdict: passed
+        note: All 12 lessons real materials_low_tech (oral read-aloud/retell, hand-drawn two-column charts + timelines in notebook/dirt, sort-card voice circles, found-object made-at-time/made-later sorts); UDL sort/draw/tell/act/write + physical manipulables; reading-heavy lessons oral/listening path + scribe; no core activity silently requires fluent reading or able-bodiedness (standing/walking only in optional outdoor-only with seated/voice alternatives); historical names scaffolded (Krakatoa 'Southeast Asia between Java/Sumatra', Aotearoa '(New Zealand)', whakapapa '(genealogy)'); no wealth assumption; all 12 assets non-empty alt + SVG role=img/aria-labelledby/title/desc grayscale label-shape.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L9 'power over/power with', L10 three-question fairness test + fair-as-value, L11 dignity/agency in rights movements, L8 colonization/slavery harm honest + Indigenous/African dignity never victimhood); egalitarianism (non-European examples as equals, L5 no knowledge tradition outranks another, L11 freedom won by 'millions of ordinary people' not one hero); global (oral/songlines + written/manuscripts + apprenticeship side by side; technology origins begin outside Europe paper-China zero-India); tech/environment (L6/L7/L8); evidence-vs-values (UNESCO/Smithsonian/British Library/AIATSIS cited + dates approximations). Fixed L12 strand to list S1-S4. Traceability: Vision->P4->D08->S1-S4->8 standards->U.06.009->L.06.009.01-.12."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-6 band (11-12): cognitive fit concrete anchors (sources 'made at time vs later' sort, change/continuity before/after, knowledge transmission 3 concrete cases songlines/manuscripts/apprenticeship, power 'who decides what' + power-over/with via learner's own life, rights movements concrete narrative Salt March/boycott/spinning cloth); emotional safety hard topics at right depth (L8 colonization/slavery named briefly 'stole millions'/'devastated many' no graphic detail then pivots to dignity/agency 'kept knowledge/languages/ways' + right to pause; L10 mild scenarios; L11 ordinary people as authors of freedom never victims, lands on hope; no despair/guilt induction); physical fit card sorting/gallery walk/circle + seated/voice-only options; not dumbed-down; open-ended (fairness test 'a tool for judgment not a rule', L5 refuses to rank traditions)."
   - id: B-344
     title: Author lessons for Unit U.06.010 (Fairness, Justice & Shared Decisions)
     agent: lesson-author

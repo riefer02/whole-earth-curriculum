@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Describing one past event with two sources: Zheng He's voyages</title>
+  <desc id="desc">A two-column graphic about one past event, the voyages of Zheng He (1405–1433). The left column, labeled "PRIMARY SOURCE," shows an open scroll titled "Ma Huan's account (he sailed with the fleet)" with handwriting lines. The right column, labeled "SECONDARY SOURCE," shows a closed book titled "The Treasure Fleets (a book written later)." Beneath, a shared box reads "Both describe the same event: Zheng He's voyages across the Indian Ocean." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">One Event, Two Sources</text>
+
+  <!-- Left: primary scroll -->
+  <g>
+    <rect x="22" y="78" width="222" height="340" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="34" y="92" width="198" height="40" rx="6" fill="#e0a458" opacity="0.35"/>
+    <text x="133" y="109" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">PRIMARY SOURCE</text>
+    <text x="133" y="127" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">made at the time</text>
+
+    <g transform="translate(133,245)">
+      <rect x="-66" y="-62" width="132" height="26" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <text x="0" y="-44" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Ma Huan's account</text>
+      <rect x="-66" y="-28" width="132" height="108" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <text x="0" y="-10" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(he sailed with the fleet)</text>
+      <line x1="-48" y1="6" x2="48" y2="6" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="-48" y1="22" x2="48" y2="22" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="-48" y1="38" x2="48" y2="38" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="-48" y1="54" x2="48" y2="54" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <text x="133" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">written by an eyewitness, early 1400s</text>
+  </g>
+
+  <!-- Right: secondary book -->
+  <g>
+    <rect x="268" y="78" width="222" height="340" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="280" y="92" width="198" height="40" rx="6" fill="#6b93b6" opacity="0.35"/>
+    <text x="379" y="109" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">SECONDARY SOURCE</text>
+    <text x="379" y="127" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">made later</text>
+
+    <g transform="translate(379,245)">
+      <rect x="-66" y="-30" width="132" height="96" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="0" y1="-30" x2="0" y2="66" stroke="#2b3a42" stroke-width="2"/>
+      <text x="0" y="-8" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">The Treasure</text>
+      <text x="0" y="10" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Fleets</text>
+      <text x="0" y="32" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">(a book written</text>
+      <text x="0" y="46" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">much later)</text>
+    </g>
+    <text x="379" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">written by a historian, centuries later</text>
+  </g>
+
+  <rect x="22" y="430" width="468" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Both describe the same event:</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Zheng He's voyages across the Indian Ocean</text>
+</svg>

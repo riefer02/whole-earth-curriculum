@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Change and continuity note: one society, one change, one continuity</title>
+  <desc id="desc">A worksheet-style frame titled "Change and continuity in one society." At the top is a line for "My society:" and a line for "the hundred years:". Two boxes follow. The left box, labeled "ONE CHANGE — what became different," is empty for the learner to fill. The right box, labeled "ONE CONTINUITY — what stayed the same," is empty for the learner to fill. A bottom line reads "Change and continuity happen together." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Change and Continuity Note</text>
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">one society, about a hundred years</text>
+
+  <text x="40" y="118" font-family="sans-serif" font-size="16" fill="#2b3a42">My society:</text>
+  <line x1="180" y1="114" x2="472" y2="114" stroke="#2b3a42" stroke-width="2"/>
+  <text x="40" y="150" font-family="sans-serif" font-size="16" fill="#2b3a42">The hundred years:</text>
+  <line x1="220" y1="146" x2="472" y2="146" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Left: change box -->
+  <rect x="22" y="178" width="222" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="34" y="192" width="198" height="36" rx="6" fill="#e0a458" opacity="0.35"/>
+  <text x="133" y="216" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">ONE CHANGE</text>
+  <text x="133" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">what became different</text>
+  <line x1="48" y1="278" x2="218" y2="278" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="48" y1="304" x2="218" y2="304" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="48" y1="330" x2="218" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="48" y1="356" x2="218" y2="356" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Right: continuity box -->
+  <rect x="268" y="178" width="222" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="280" y="192" width="198" height="36" rx="6" fill="#7a9e7e" opacity="0.45"/>
+  <text x="379" y="216" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">ONE CONTINUITY</text>
+  <text x="379" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">what stayed the same</text>
+  <line x1="294" y1="278" x2="464" y2="278" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="294" y1="304" x2="464" y2="304" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="294" y1="330" x2="464" y2="330" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="294" y1="356" x2="464" y2="356" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="22" y="440" width="468" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Change and continuity happen together.</text>
+</svg>

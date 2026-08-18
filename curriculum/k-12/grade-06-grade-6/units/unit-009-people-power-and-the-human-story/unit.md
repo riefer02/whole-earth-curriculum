@@ -67,3 +67,15 @@ story from many perspectives, never one people's triumph.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.009.01 | Primary and Secondary Sources: Two Ways to See the Past | D08.S1.06.01 |
+| L.06.009.02 | Using Each Kind: Describe One Past Event | D08.S1.06.01 |
+| L.06.009.03 | Change and Continuity Over a Hundred Years | D08.S1.06.02 |
+| L.06.009.04 | Finding Change and Continuity in Another Society | D08.S1.06.02 |
+| L.06.009.05 | Knowledge Across Generations: Oral, Written, Apprenticeship | D08.S2.06.01 |
+| L.06.009.06 | How a Technology Spread and Changed: The Journey of Paper | D08.S2.06.02 |
+| L.06.009.07 | People Shape the Land, the Land Shapes People | D08.S3.06.01 |
+| L.06.009.08 | Plants, Animals, and People on the Move | D08.S3.06.02 |
+| L.06.009.09 | What Is Power, and Who Holds It? | D08.S4.06.01 |
+| L.06.009.10 | Power Used Fairly or Unfairly | D08.S4.06.01 |
+| L.06.009.11 | A Movement for Freedom: The People of India | D08.S4.06.02 |
+| L.06.009.12 | The Human Story, and Our Part in It | D08.S4.06.02 (revisits D08.S1.06.01, D08.S1.06.02, D08.S2.06.01, D08.S2.06.02, D08.S3.06.01, D08.S3.06.02, D08.S4.06.01) |

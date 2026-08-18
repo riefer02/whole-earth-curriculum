@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Columbian Exchange: plants, animals, and people moved between regions</title>
+  <desc id="desc">A two-way diagram titled "The Columbian Exchange." On the left, a box labeled "AMERICAS" lists things that went out: maize, potato, tomato, cacao, chili. On the right, a box labeled "AFRICA AND EURASIA" lists things that came in: wheat, rice, horses, cattle, and — with care — enslaved people. Between them, a double-headed arrow reads "plants, animals, and people moved both ways (from 1492)." A lower note reads "This exchange changed diets and landscapes everywhere — and it was entangled with colonization, which harmed many peoples." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Columbian Exchange</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">plants, animals, and people moved between world regions, from 1492</text>
+
+  <!-- Left box: Americas -->
+  <g>
+    <rect x="22" y="96" width="196" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="34" y="110" width="172" height="32" rx="6" fill="#7a9e7e" opacity="0.45"/>
+    <text x="120" y="132" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">AMERICAS</text>
+    <text x="120" y="156" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what went out</text>
+    <text x="120" y="186" font-family="sans-serif" font-size="14" fill="#222222">• maize</text>
+    <text x="120" y="210" font-family="sans-serif" font-size="14" fill="#222222">• potato</text>
+    <text x="120" y="234" font-family="sans-serif" font-size="14" fill="#222222">• tomato</text>
+    <text x="120" y="258" font-family="sans-serif" font-size="14" fill="#222222">• cacao</text>
+    <text x="120" y="282" font-family="sans-serif" font-size="14" fill="#222222">• chili</text>
+  </g>
+
+  <!-- Right box: Africa and Eurasia -->
+  <g>
+    <rect x="294" y="96" width="196" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="306" y="110" width="172" height="32" rx="6" fill="#e0a458" opacity="0.35"/>
+    <text x="392" y="132" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">AFRICA &amp; EURASIA</text>
+    <text x="392" y="156" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what came in</text>
+    <text x="392" y="186" font-family="sans-serif" font-size="14" fill="#222222">• wheat, rice</text>
+    <text x="392" y="210" font-family="sans-serif" font-size="14" fill="#222222">• horses, cattle</text>
+    <text x="392" y="234" font-family="sans-serif" font-size="14" fill="#222222">• sheep, pigs</text>
+    <text x="392" y="258" font-family="sans-serif" font-size="14" fill="#222222">• diseases</text>
+    <text x="392" y="282" font-family="sans-serif" font-size="14" fill="#222222">• people (many enslaved)</text>
+  </g>
+
+  <!-- Double arrow -->
+  <g>
+    <line x1="224" y1="216" x2="288" y2="216" stroke="#2b3a42" stroke-width="3"/>
+    <polygon points="288,210 300,216 288,222" fill="#2b3a42"/>
+    <polygon points="224,210 212,216 224,222" fill="#2b3a42"/>
+    <text x="256" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">both ways</text>
+  </g>
+
+  <rect x="22" y="352" width="468" height="132" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">This exchange changed diets and landscapes everywhere —</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">potatoes reached Ireland and the Andes kept growing them,</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">tomatoes reached Italy and South Asia, horses changed life on the plains.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">It also rode on colonization and slavery, which harmed many peoples.</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Power used fairly and unfairly</title>
+  <desc id="desc">A two-panel diagram about how power is used. The left panel, labeled "FAIR USE," shows four equal figures in a circle labeled "decisions made with everyone — all voices heard, serving all." The right panel, labeled "UNFAIR USE," shows one figure standing above three smaller figures labeled "one decides for others — some voices silenced, serving the few." A bottom box lists a simple fairness test: "Does it serve everyone or only the powerful? Who gets to speak? Can decisions be challenged?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">How Is Power Used?</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">fairly or unfairly — and how can we tell?</text>
+
+  <!-- Fair use -->
+  <g>
+    <rect x="22" y="92" width="222" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="34" y="106" width="198" height="32" rx="6" fill="#7a9e7e" opacity="0.45"/>
+    <text x="133" y="128" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">FAIR USE</text>
+    <circle cx="106" cy="210" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="160" cy="210" r="13" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="106" cy="264" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="160" cy="264" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="106" y1="210" x2="160" y2="210" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="106" y1="264" x2="160" y2="264" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="106" y1="210" x2="106" y2="264" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="160" y1="210" x2="160" y2="264" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">decisions made with everyone</text>
+    <text x="133" y="318" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">all voices heard, serving all</text>
+  </g>
+
+  <!-- Unfair use -->
+  <g>
+    <rect x="268" y="92" width="222" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="280" y="106" width="198" height="32" rx="6" fill="#e0a458" opacity="0.35"/>
+    <text x="379" y="128" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">UNFAIR USE</text>
+    <circle cx="379" cy="182" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M379 198 L379 240" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M363 276 L379 240 L395 276" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="340" cy="270" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="379" cy="282" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="418" cy="270" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one decides for others</text>
+    <text x="379" y="318" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">some voices silenced, serving the few</text>
+  </g>
+
+  <rect x="22" y="356" width="468" height="128" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">A simple fairness test</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">• Does it serve everyone, or only the powerful?</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">• Who gets to speak, and who is left out?</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">• Can a decision be questioned, or must it be obeyed?</text>
+</svg>

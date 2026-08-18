@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Primary and secondary sources: two ways to see the past</title>
+  <desc id="desc">Two side-by-side panels. The left panel, labeled "PRIMARY SOURCE — made at the time," shows an open captain's logbook with handwriting lines and the date "August 1883." The right panel, labeled "SECONDARY SOURCE — made later," shows a closed book titled "Volcanoes: A History (2018)." A caption reads "Both tell about the same event: the Krakatoa eruption, 1883." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Two Ways to See the Past</text>
+
+  <!-- Left panel: primary -->
+  <g>
+    <rect x="22" y="78" width="222" height="320" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="34" y="94" width="198" height="34" rx="6" fill="#e0a458" opacity="0.35"/>
+    <text x="133" y="116" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">PRIMARY SOURCE</text>
+    <text x="133" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">made at the time</text>
+
+    <!-- open logbook -->
+    <g transform="translate(133,240)">
+      <path d="M-70 0 Q0 -8 70 0" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M-70 0 Q0 -8 70 0 L70 86 Q0 94 -70 86 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="0" y1="-7" x2="0" y2="90" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="-52" y1="22" x2="-10" y2="22" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="-52" y1="38" x2="-10" y2="38" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="-52" y1="54" x2="-10" y2="54" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="10" y1="22" x2="52" y2="22" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="10" y1="38" x2="52" y2="38" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="10" y1="54" x2="52" y2="54" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <text x="133" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a captain's log, August 1883</text>
+  </g>
+
+  <!-- Right panel: secondary -->
+  <g>
+    <rect x="268" y="78" width="222" height="320" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="280" y="94" width="198" height="34" rx="6" fill="#6b93b6" opacity="0.35"/>
+    <text x="379" y="116" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">SECONDARY SOURCE</text>
+    <text x="379" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">made later</text>
+
+    <!-- closed book -->
+    <g transform="translate(379,240)">
+      <rect x="-58" y="-26" width="116" height="78" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="0" y1="-26" x2="0" y2="52" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="-44" y1="-6" x2="-12" y2="-6" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="-44" y1="10" x2="-12" y2="10" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="12" y1="-6" x2="44" y2="-6" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+      <line x1="12" y1="10" x2="44" y2="10" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <text x="379" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a book written much later (2018)</text>
+  </g>
+
+  <rect x="22" y="414" width="468" height="72" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="443" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Both tell us about the same event:</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">the Krakatoa eruption, 1883</text>
+</svg>

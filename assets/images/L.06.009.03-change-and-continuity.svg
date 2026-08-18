@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Change and continuity: Timbuktu and the Songhai, about 1464–1591</title>
+  <desc id="desc">A two-part diagram about one society across about a hundred years. The top part, labeled "CHANGE — what became different," shows a rising city skyline labeled "the Songhai empire grew; Timbuktu became a great center of learning." The bottom part, labeled "CONTINUITY — what stayed the same," shows a winding river with a boat, a field, and a figure labeled "the Niger River still shaped farming and trade; griots still passed history by word." A center note reads "about a hundred years, 1464–1591." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Change and Continuity</text>
+  <text x="256" y="74" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Timbuktu and the Songhai, about a hundred years (1464–1591)</text>
+
+  <!-- Change panel -->
+  <g>
+    <rect x="22" y="94" width="468" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="34" y="108" width="210" height="34" rx="6" fill="#e0a458" opacity="0.35"/>
+    <text x="139" y="131" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">CHANGE</text>
+    <text x="330" y="131" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what became different</text>
+
+    <!-- rising city skyline -->
+    <g>
+      <rect x="60" y="190" width="34" height="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <rect x="100" y="172" width="30" height="74" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <rect x="136" y="156" width="36" height="90" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <polygon points="136,156 154,138 172,156" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <rect x="140" y="204" width="28" height="42" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <text x="132" y="138" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">growing city</text>
+      <path d="M40 246 L200 246" stroke="#2b3a42" stroke-width="2"/>
+    </g>
+    <text x="290" y="188" font-family="sans-serif" font-size="14" fill="#222222">The Songhai empire grew strong;</text>
+    <text x="290" y="210" font-family="sans-serif" font-size="14" fill="#222222">Timbuktu became a great</text>
+    <text x="290" y="232" font-family="sans-serif" font-size="14" fill="#222222">center of learning and books.</text>
+  </g>
+
+  <!-- Continuity panel -->
+  <g>
+    <rect x="22" y="280" width="468" height="170" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="34" y="294" width="248" height="34" rx="6" fill="#7a9e7e" opacity="0.45"/>
+    <text x="158" y="317" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">CONTINUITY</text>
+    <text x="330" y="317" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what stayed the same</text>
+
+    <!-- winding river, boat, field -->
+    <g>
+      <path d="M40 380 Q80 360 110 380 Q150 400 200 380" fill="none" stroke="#6b93b6" stroke-width="6" stroke-linecap="round"/>
+      <path d="M86 372 L108 372 L100 386 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <line x1="96" y1="372" x2="96" y2="352" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M72 352 L120 352 L112 344 L80 344 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M130 396 L170 396" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+      <path d="M136 392 L138 396 L142 392" stroke="#7a9e7e" stroke-width="2" fill="none"/>
+      <path d="M154 392 L156 396 L160 392" stroke="#7a9e7e" stroke-width="2" fill="none"/>
+      <circle cx="112" cy="350" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+      <circle cx="112" cy="336" r="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+      <text x="120" y="340" font-family="sans-serif" font-size="11" fill="#2b3a42">griot</text>
+    </g>
+    <text x="290" y="360" font-family="sans-serif" font-size="14" fill="#222222">The Niger River still shaped</text>
+    <text x="290" y="382" font-family="sans-serif" font-size="14" fill="#222222">farming and trade; griots still</text>
+    <text x="290" y="404" font-family="sans-serif" font-size="14" fill="#222222">passed history on by word.</text>
+  </g>
+</svg>

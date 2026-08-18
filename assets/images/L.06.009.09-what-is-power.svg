@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What power is, and who holds it</title>
+  <desc id="desc">A diagram about power. The top shows a definition: "Power is the ability to influence or decide — for yourself and others." Two panels follow. The left panel, labeled "POWER OVER," shows one figure standing above and three smaller figures below, labeled "one person or group decides for others." The right panel, labeled "POWER WITH," shows four equal figures in a circle holding hands, labeled "people deciding together." A bottom line asks "Who holds power in a community?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">What Is Power?</text>
+  <rect x="22" y="66" width="468" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Power is the ability to influence or decide — for yourself and others.</text>
+  <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">It can be held by one person, a few, or many — and it can be shared.</text>
+
+  <!-- Power over -->
+  <g>
+    <rect x="22" y="140" width="222" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="34" y="154" width="198" height="32" rx="6" fill="#e0a458" opacity="0.35"/>
+    <text x="133" y="176" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">POWER OVER</text>
+    <!-- one above -->
+    <circle cx="133" cy="220" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M133 236 L133 280" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M117 320 L133 280 L149 320" stroke="#2b3a42" stroke-width="2"/>
+    <!-- three below -->
+    <circle cx="90" cy="318" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="133" cy="330" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="176" cy="318" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M90 329 L90 356" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M133 341 L133 356" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M176 329 L176 356" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="372" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one person or group</text>
+    <text x="133" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">decides for others</text>
+  </g>
+
+  <!-- Power with -->
+  <g>
+    <rect x="268" y="140" width="222" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="280" y="154" width="198" height="32" rx="6" fill="#7a9e7e" opacity="0.45"/>
+    <text x="379" y="176" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">POWER WITH</text>
+    <!-- equal circle of four -->
+    <circle cx="350" cy="252" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="410" cy="252" r="13" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="350" cy="312" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="410" cy="312" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="350" y1="252" x2="410" y2="252" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="350" y1="312" x2="410" y2="312" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="350" y1="252" x2="350" y2="312" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="410" y1="252" x2="410" y2="312" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="372" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">people deciding</text>
+    <text x="379" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">together, as equals</text>
+  </g>
+
+  <rect x="22" y="398" width="468" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Who holds power in a community?</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">A ruler? A council of elders? A village assembly? Everyone together?</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Different societies answer this differently.</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Knowledge across generations: oral, written, apprenticeship</title>
+  <desc id="desc">Three panels showing three ways knowledge passes between generations, held side by side. The left panel, labeled "ORAL TRADITION," shows an elder and a child sitting together, with song lines above them, labeled "songlines — Australia." The middle panel, labeled "WRITTEN RECORDS," shows an open manuscript page with writing lines, labeled "Timbuktu manuscripts — Mali." The right panel, labeled "APPRENTICESHIP," shows a craftsperson teaching a young person at a workbench, labeled "master and apprentice — Japan." A caption reads "Three different ways to keep knowledge — none better than another." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Knowledge Across Generations</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">three ways — held side by side, none better than another</text>
+
+  <!-- Panel 1: oral -->
+  <g>
+    <rect x="20" y="92" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="28" y="104" width="134" height="32" rx="6" fill="#e0a458" opacity="0.35"/>
+    <text x="95" y="125" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">ORAL TRADITION</text>
+    <!-- song lines -->
+    <path d="M36 170 Q52 156 66 170 Q80 184 96 170 Q112 156 128 170 Q144 184 154 172" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M40 190 Q56 176 70 190 Q84 204 100 190 Q116 176 132 190" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <!-- elder and child -->
+    <circle cx="70" cy="250" r="13" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M70 263 L70 300" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M58 340 L70 300 L82 340" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="118" cy="260" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 270 L118 300" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M108 336 L118 300 L128 336" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="364" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">songlines — Australia</text>
+    <text x="95" y="382" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">land and law carried in song</text>
+  </g>
+
+  <!-- Panel 2: written -->
+  <g>
+    <rect x="182" y="92" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="190" y="104" width="134" height="32" rx="6" fill="#6b93b6" opacity="0.35"/>
+    <text x="257" y="125" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">WRITTEN RECORDS</text>
+    <!-- manuscript page -->
+    <rect x="210" y="152" width="94" height="130" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="222" y1="172" x2="292" y2="172" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="222" y1="188" x2="292" y2="188" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="222" y1="204" x2="292" y2="204" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="222" y1="220" x2="292" y2="220" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="222" y1="236" x2="292" y2="236" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="222" y1="252" x2="276" y2="252" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="257" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Timbuktu manuscripts</text>
+    <text x="257" y="324" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">— Mali</text>
+    <text x="257" y="364" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">law, astronomy, medicine</text>
+    <text x="257" y="382" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">kept on the page</text>
+  </g>
+
+  <!-- Panel 3: apprenticeship -->
+  <g>
+    <rect x="344" y="92" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="352" y="104" width="134" height="32" rx="6" fill="#7a9e7e" opacity="0.45"/>
+    <text x="419" y="125" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">APPRENTICESHIP</text>
+    <!-- workbench -->
+    <rect x="366" y="236" width="106" height="12" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="372" y1="248" x2="372" y2="286" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="466" y1="248" x2="466" y2="286" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="384" y="242" width="20" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- master -->
+    <circle cx="404" cy="212" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M404 224 L404 242" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M392 214 L376 224" stroke="#2b3a42" stroke-width="2"/>
+    <!-- apprentice -->
+    <circle cx="438" cy="218" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M438 228 L438 242" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M438 226 L454 240" stroke="#2b3a42" stroke-width="2"/>
+    <text x="419" y="312" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">master and apprentice</text>
+    <text x="419" y="330" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">— Japan</text>
+    <text x="419" y="364" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">learning by doing,</text>
+    <text x="419" y="382" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">hand to hand</text>
+  </g>
+
+  <rect x="20" y="408" width="474" height="78" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="257" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Three different ways to keep knowledge alive.</text>
+  <text x="257" y="466" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Each is a real knowledge tradition — held side by side.</text>
+</svg>
