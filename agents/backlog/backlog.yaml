@@ -3953,7 +3953,7 @@ items:
     type: lesson
     grade: 6
     domain: D05
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -3964,7 +3964,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by reviewer: Wrong mean in L.06.005.14: data set 1,1,2,2,2,3,3,3,3,4,4,5,20 sums to 53 over 13 values, so mean = 53/13 ≈ 4.08, NOT ≈ 4.5 (4.5×13=58.5). The 'mean ≈ 4.5' error appears in 5 locations: Connection, Preparation, Procedure (x2), the assets alt text, and the SVG on-canvas 'mean ≈ 4.5' text label. Median (3), mode (3), range (19) are correct. Fix mean to ≈ 4.08 in all 5 locations (outlier-vs-median point still holds).."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Re-review: mean fix verified (53/13 ≈ 4.08 now correct in Connection/Preparation/Procedure/alt/SVG text+desc; repo grep confirms no stale 4.5). validate passes (989). IDs L.06.005.01-.14 grade 6 unit U.06.005 sequence 1-14; objectives resolve to all 8 grade-6 D05 standards; required headings; unit.md lists all 14; all 14 assets resolve non-empty alt. Re-verified math: ratio 2:3->4:6->6:9->10:15, x+3=8->x=5, 5x=20->x=4, area 12/volume 24 all correct."
+      fact-checker:
+        verdict: passed
+        note: "Re-review: mean fix confirmed (53/13 ≈ 4.08, median 3, mode 3, range 19); remaining math correct (ratios, unit prices, integer ordering -4<-1<0<3, equations, area/volume/surface area 52, coordinate side lengths); historical claims accurate (Brahmagupta 7th c, al-Khwarizmi/al-jabr 9th c, Chinese red/black rods, Baudhayana Sulba Sutra per MacTutor); Van de Walle S-026 + Kirschner S-011 real; registered S-240 (MacTutor)."
+      global-culture-editor:
+        verdict: passed
+        note: "Re-review framing holds: currency/metric neutral (zero currency symbols, neutral 'coins'/kg/cups with explicit note L2); multi-region contexts (Accra/Manila/Lima markets, Cairo stall, Marrakesh courtyard, Mekong rice field, Lagos house/Andes terrace/Netherlands canal, Dead Sea -430m + +5895m peak with +/-degC); math-as-cross-cultural not tokenized (Brahmagupta/Chinese rods/al-Khwarizmi al-jabr/Baudhayana Sulba Sutra with 'human discovery not one culture's property' framing + sourced); no math-genius myth, no wealth assumption (unit-price 'matters most to people with least to spend')."
+      accessibility-editor:
+        verdict: passed
+        note: "Re-review: mean corrected to 4.08 in all 5 locations; corrected SVG keeps role=img/aria-labelledby/non-empty title/desc + grayscale (position+text+dash-style not color); all 14 lessons real materials_low_tech (found objects, chalk/dirt/rope grids, body grids, voice chants, role-play); non-empty asset alt; low-vision/tactile support + UDL say/draw/manipulate/write."
+      alignment-auditor:
+        verdict: passed
+        note: "Re-review: mean fix confirmed all 5 locations (53/13 ≈ 4.08); validate passes (989). Traceability Vision->P3->D05->S1-S4->8 standards->U.06.005->14 lessons. Lenses in body: ethics (honest measurement 'let data answer not make data say', unit-price 'honest way to shop'); egalitarianism (unit-price 'matters most to people with least to spend', median-vs-mean fairness vs wealthy outlier); global (Accra/Manila/Lima, Dead Sea -430m/+5895m, Brahmagupta + Chinese rods 'human discovery not one culture's property'); evidence-vs-values distinguished; tech/environment elevation/temperature for farming/travel."
+      child-psychologist:
+        verdict: passed
+        note: "Re-review: mean fix correct (53/13 ≈ 4.08 in all locations); developmental fit holds (ratios via fair-share counters/recipes, negatives via temperature/elevation number lines, one-step equations via balance-scale model, mean/median via shared counters + dot plots; emerging formal reasoning layered not abstract algebra/statistics theory); emotional safety no timed public drills/ranking (single 'race' is self-paced enrichment), math anxiety defused (cooperative checking, worked-examples-first Kirschner, support-path, self-check); physical fit manipulatives + seated/voice alternatives; not dumbed-down; questions as questions."
   - id: B-340
     title: Author lessons for Unit U.06.006 (Science as Systems & Evidence)
     agent: lesson-author

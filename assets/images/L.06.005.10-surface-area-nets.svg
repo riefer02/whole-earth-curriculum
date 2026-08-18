@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Surface area and nets</title>
+  <desc id="desc">A net of a rectangular prism shown as six unfolded faces: a top and bottom pair, a front and back pair, and a left and right pair, each face labeled with its dimensions (length 4, width 2, height 3). A small folded box sits to the right. A caption reads "surface area = sum of the 6 faces = 2(lw) + 2(lh) + 2(wh)." Labels, numbers, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Surface Area and Nets</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a net is the box unfolded flat — six faces you can count</text>
+
+  <!-- net: cross arrangement -->
+  <g transform="translate(30, 90)">
+    <!-- top row: top face -->
+    <rect x="60" y="0" width="160" height="80" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="40" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">top</text>
+    <text x="140" y="58" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">l × w (4 × 2)</text>
+
+    <!-- middle row: left, front, right, back -->
+    <rect x="0" y="90" width="60" height="80" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="30" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">left</text>
+    <text x="30" y="148" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">w×h</text>
+
+    <rect x="60" y="90" width="160" height="80" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="130" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">front</text>
+    <text x="140" y="148" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">l × h (4 × 3)</text>
+
+    <rect x="220" y="90" width="60" height="80" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="250" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">right</text>
+    <text x="250" y="148" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">w×h</text>
+
+    <rect x="280" y="90" width="160" height="80" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="360" y="130" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">back</text>
+    <text x="360" y="148" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">l × h (4 × 3)</text>
+
+    <!-- bottom row: bottom face -->
+    <rect x="60" y="180" width="160" height="80" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="220" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">bottom</text>
+    <text x="140" y="238" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">l × w (4 × 2)</text>
+
+    <text x="220" y="292" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">cut along the edges and unfold a box → a net</text>
+  </g>
+
+  <!-- folded box -->
+  <g transform="translate(400, 120)">
+    <polygon points="0,40 30,15 95,15 65,40" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <polygon points="0,40 0,110 30,135 30,65" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <polygon points="65,40 65,110 30,135 30,65" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="30" y1="15" x2="30" y2="65" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="95" y1="15" x2="65" y2="40" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="95" y1="85" x2="65" y2="110" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="95" y1="15" x2="95" y2="85" stroke="#2b3a42" stroke-width="2"/>
+    <text x="48" y="165" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">fold it back up</text>
+  </g>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">surface area = sum of the 6 faces = 2(lw) + 2(lh) + 2(wh)</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">= 2(4×2) + 2(4×3) + 2(2×3) = 16 + 24 + 12 = 52 square units</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">knowing the surface area tells you how much wrapping, paint, or cloth a box needs</text>
+</svg>

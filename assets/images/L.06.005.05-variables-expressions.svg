@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Variables and expressions</title>
+  <desc id="desc">An expression diagram for the cost of cups of tea. Four cup shapes are each labeled "4 coins", plus a pot labeled "3 coins", which equals the expression "4t + 3" where t stands for the number of cups. Below, an evaluation shows substituting t = 5: 4 times 5 plus 3 equals 23 coins. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Variables and Expressions</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a variable is a letter that stands for a number you do not know yet</text>
+
+  <!-- cups -->
+  <g>
+    <path d="M40 150 L60 118 L140 118 L160 150 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="100" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">cup</text>
+    <text x="100" y="180" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">4 coins each</text>
+
+    <path d="M190 150 L210 118 L290 118 L310 150 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="250" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">cup</text>
+    <text x="250" y="180" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">4 coins each</text>
+
+    <path d="M340 150 L360 118 L440 118 L460 150 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="400" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">cup</text>
+    <text x="400" y="180" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">4 coins each</text>
+
+    <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">t cups, each 4 coins  →  4t</text>
+
+    <!-- pot -->
+    <rect x="176" y="240" width="160" height="70" rx="10" fill="#f0e9dd" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">the pot</text>
+    <text x="256" y="294" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">3 coins, always</text>
+  </g>
+
+  <!-- expression box -->
+  <rect x="120" y="340" width="272" height="56" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">total = 4t + 3</text>
+
+  <!-- evaluate -->
+  <rect x="120" y="412" width="272" height="56" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">t = 5 → 4 × 5 + 3</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">= 20 + 3 = 23 coins</text>
+
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">substitute the number for the variable, then do the operations in order</text>
+</svg>

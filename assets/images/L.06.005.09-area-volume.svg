@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Area and volume</title>
+  <desc id="desc">Two diagrams side by side. Left: a rectangle 4 by 3 drawn as a grid of 12 unit squares, labeled area equals length times width equals 4 times 3 equals 12 square units. Right: a rectangular prism 4 by 3 by 2 drawn with visible unit cubes, labeled volume equals length times width times height equals 4 times 3 times 2 equals 24 cubic units. Labels, numbers, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Area and Volume</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">area covers a flat surface; volume fills a solid space</text>
+
+  <!-- rectangle 4x3 -->
+  <g transform="translate(40, 90)">
+    <rect x="0" y="0" width="200" height="150" fill="#f0e9dd" stroke="#2b3a42" stroke-width="3"/>
+    <g stroke="#d7d1c8" stroke-width="1">
+      <line x1="50" y1="0" x2="50" y2="150"/><line x1="100" y1="0" x2="100" y2="150"/><line x1="150" y1="0" x2="150" y2="150"/>
+      <line x1="0" y1="50" x2="200" y2="50"/><line x1="0" y1="100" x2="200" y2="100"/>
+    </g>
+    <text x="100" y="-12" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">4 units wide</text>
+    <text x="-54" y="80" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222" transform="rotate(-90 -54 80)">3 units tall</text>
+    <text x="100" y="186" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">area = length × width</text>
+    <text x="100" y="210" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">= 4 × 3 = 12 square units</text>
+  </g>
+
+  <!-- prism 4x3x2 -->
+  <g transform="translate(300, 90)">
+    <polygon points="0,60 40,30 160,30 120,60" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <polygon points="0,60 0,160 40,190 40,90" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <polygon points="120,60 120,160 40,190 40,90" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="40" y1="30" x2="40" y2="90" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="160" y1="30" x2="120" y2="60" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="160" y1="130" x2="120" y2="160" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="160" y1="30" x2="160" y2="130" stroke="#2b3a42" stroke-width="2"/>
+    <text x="80" y="20" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2 deep</text>
+    <text x="166" y="95" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">4 wide</text>
+    <text x="20" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">3 tall</text>
+    <text x="80" y="224" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">volume = length × width × height</text>
+    <text x="80" y="248" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">= 4 × 3 × 2 = 24 cubic units</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">area is measured in square units; volume in cubic units</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">farmers, builders, and potters everywhere use these same two ideas</text>
+</svg>

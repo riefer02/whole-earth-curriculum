@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Polygons on the coordinate plane: length</title>
+  <desc id="desc">A four-quadrant coordinate plane with a rectangle whose vertices are (minus 3, 2), (1, 2), (1, minus 1), and (minus 3, minus 1). The horizontal side length is shown as 1 minus (minus 3) equals 4 units, and the vertical side length is shown as 2 minus (minus 1) equals 3 units. The side lengths are labeled along the rectangle. Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Polygons on the Coordinate Plane: Length</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">find a side's length by subtracting its two coordinates</text>
+
+  <g transform="translate(80, 70)">
+    <line x1="0" y1="0" x2="0" y2="340" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="0" y1="170" x2="340" y2="170" stroke="#2b3a42" stroke-width="3"/>
+    <g stroke="#d7d1c8" stroke-width="1">
+      <line x1="50" y1="0" x2="50" y2="340"/><line x1="100" y1="0" x2="100" y2="340"/>
+      <line x1="150" y1="0" x2="150" y2="340"/><line x1="200" y1="0" x2="200" y2="340"/>
+      <line x1="250" y1="0" x2="250" y2="340"/><line x1="300" y1="0" x2="300" y2="340"/>
+      <line x1="0" y1="50" x2="340" y2="50"/><line x1="0" y1="100" x2="340" y2="100"/>
+      <line x1="0" y1="220" x2="340" y2="220"/><line x1="0" y1="270" x2="340" y2="270"/><line x1="0" y1="320" x2="340" y2="320"/>
+    </g>
+    <text x="0" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">0</text>
+    <text x="100" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1</text>
+    <text x="200" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">2</text>
+    <text x="50" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-1</text>
+    <text x="150" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-2</text>
+    <text x="250" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-3</text>
+    <text x="300" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-4</text>
+    <text x="-14" y="120" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">2</text>
+    <text x="-14" y="170" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">1</text>
+    <text x="-14" y="220" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">-1</text>
+    <text x="330" y="194" text-anchor="end" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">x</text>
+    <text x="10" y="12" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">y</text>
+
+    <!-- rectangle: (-3,2),(1,2),(1,-1),(-3,-1) -->
+    <!-- grid: x=-3 -> 200px? map: each unit 50px, x=0 at 200, so x=-3 at 200-150=50 -->
+    <polygon points="50,70 250,70 250,220 50,220" fill="#e0a458" fill-opacity="0.35" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="50" cy="70" r="6" fill="#2b3a42"/>
+    <circle cx="250" cy="70" r="6" fill="#2b3a42"/>
+    <circle cx="250" cy="220" r="6" fill="#2b3a42"/>
+    <circle cx="50" cy="220" r="6" fill="#2b3a42"/>
+
+    <text x="50" y="58" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(-3, 2)</text>
+    <text x="250" y="58" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(1, 2)</text>
+    <text x="258" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(1, -1)</text>
+    <text x="44" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(-3, -1)</text>
+
+    <!-- side labels -->
+    <text x="150" y="152" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">horizontal: 4 units</text>
+    <text x="120" y="145" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1 - (-3) = 4</text>
+    <text x="150" y="60" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">count across: 1 - (-3)</text>
+
+    <text x="96" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222" transform="rotate(-90 96 168)">vertical: 3 units</text>
+    <text x="116" y="168" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" transform="rotate(-90 116 168)">2 - (-1) = 3</text>
+  </g>
+
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">a side that runs left-right: subtract the x-values</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">a side that runs up-down: subtract the y-values</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">length is always positive — distance has no direction</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ratios in fair shares</title>
+  <desc id="desc">A ratio diagram for 2 oranges to 3 apples. The top row shows two orange circles and three apple circles with the label "2 : 3". The middle row shows the same share doubled: four oranges and six apples, labeled "4 : 6". A ratio table on the right lists oranges 2, 4, 6 and apples 3, 6, 9. A caption reads "a ratio stays fair when you multiply both parts by the same number." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Ratios in Fair Shares</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">for every 2 oranges, there are 3 apples — the ratio is 2 : 3</text>
+
+  <!-- Row 1: 2 oranges, 3 apples -->
+  <g>
+    <text x="24" y="110" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">share</text>
+    <circle cx="48" cy="130" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="48" y="134" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">O</text>
+    <circle cx="82" cy="130" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="82" y="134" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">O</text>
+
+    <circle cx="130" cy="130" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="130" y="134" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">A</text>
+    <circle cx="164" cy="130" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="164" y="134" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">A</text>
+    <circle cx="198" cy="130" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="198" y="134" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">A</text>
+
+    <text x="240" y="136" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">2 : 3</text>
+    <text x="24" y="162" font-family="sans-serif" font-size="12" fill="#4f6d7a">oranges : apples</text>
+  </g>
+
+  <!-- Row 2: doubled -->
+  <g>
+    <text x="24" y="206" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">double it</text>
+    <circle cx="48" cy="226" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="80" cy="226" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="112" cy="226" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="144" cy="226" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+    <circle cx="184" cy="226" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="216" cy="226" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="248" cy="226" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="280" cy="226" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="312" cy="226" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="344" cy="226" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+    <text x="392" y="232" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">4 : 6</text>
+    <text x="24" y="258" font-family="sans-serif" font-size="12" fill="#4f6d7a">4 oranges : 6 apples — same fairness</text>
+  </g>
+
+  <!-- ratio table -->
+  <g transform="translate(300, 96)">
+    <rect x="0" y="0" width="190" height="150" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="0" y1="40" x2="190" y2="40" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="95" y1="0" x2="95" y2="150" stroke="#2b3a42" stroke-width="2"/>
+    <text x="47" y="26" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">oranges</text>
+    <text x="142" y="26" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">apples</text>
+    <text x="47" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">2</text>
+    <text x="142" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">3</text>
+    <text x="47" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">4</text>
+    <text x="142" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">6</text>
+    <text x="47" y="138" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">6</text>
+    <text x="142" y="138" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">9</text>
+  </g>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">a ratio stays fair when you multiply both parts by the same number</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">2 : 3  =  4 : 6  =  6 : 9  — each share is equal</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">fairness means everyone gets the same size of share</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ordering integers on a number line</title>
+  <desc id="desc">A horizontal number line from minus 5 to plus 5 with tick marks and labels. Dots are placed at minus 4, minus 1, 0, and 3. A caption reads "minus 4 is less than minus 1 is less than 0 is less than 3 — farther left is smaller." The left side is labeled "negative" and the right side "positive." Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Ordering Integers on a Number Line</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">farther left is smaller; farther right is bigger</text>
+
+  <g transform="translate(36, 200)">
+    <line x1="0" y1="0" x2="440" y2="0" stroke="#2b3a42" stroke-width="3"/>
+
+    <!-- ticks -->
+    <line x1="40" y1="-14" x2="40" y2="14" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="80" y1="-14" x2="80" y2="14" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="120" y1="-14" x2="120" y2="14" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="160" y1="-14" x2="160" y2="14" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="200" y1="-14" x2="200" y2="14" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="240" y1="-18" x2="240" y2="18" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="280" y1="-14" x2="280" y2="14" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="320" y1="-14" x2="320" y2="14" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="360" y1="-14" x2="360" y2="14" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="400" y1="-14" x2="400" y2="14" stroke="#2b3a42" stroke-width="2"/>
+
+    <text x="40" y="40" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">-5</text>
+    <text x="80" y="40" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">-4</text>
+    <text x="120" y="40" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">-3</text>
+    <text x="160" y="40" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">-2</text>
+    <text x="200" y="40" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">-1</text>
+    <text x="240" y="44" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">0</text>
+    <text x="280" y="40" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">1</text>
+    <text x="320" y="40" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">2</text>
+    <text x="360" y="40" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">3</text>
+    <text x="400" y="40" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">4</text>
+
+    <!-- dots -->
+    <circle cx="80" cy="0" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="200" cy="0" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="240" cy="0" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="360" cy="0" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+    <text x="80" y="-30" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">-4</text>
+    <text x="200" y="-30" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">-1</text>
+    <text x="360" y="-30" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">3</text>
+
+    <text x="20" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">negative (left of 0)</text>
+    <text x="420" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e">positive (right of 0)</text>
+  </g>
+
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">-4 &lt; -1 &lt; 0 &lt; 3</text>
+  <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">-4 is smallest (leftmost) and 3 is largest (rightmost)</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">negative numbers appear in many traditions — merchants in China used</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">red and black counting rods for owing and having over 2,000 years ago</text>
+</svg>

@@ -2222,4 +2222,13 @@ sources:
     reviewed: true
     notes: "Pooja K. Agarwal & Patrice M. Bain, Powerful Teaching: Unleash the Science of Learning (Jossey-Bass, 2019). Practitioner synthesis of retrieval practice, spacing, and other learning-science techniques. Cited in U.06.004 L02 (Details and Examples) alongside Kirschner et al. for the retrieval-practice basis of the lesson's recall activities. Real, correctly attributed; used as a general authority for retrieval practice. No URL (print book)."
 
+  - id: S-240
+    title: MacTutor History of Mathematics Archive (University of St Andrews)
+    type: website
+    organization: School of Mathematics and Statistics, University of St Andrews (Scotland)
+    url: https://mathshistory.st-andrews.ac.uk/
+    domains: [D05]
+    reviewed: true
+    notes: "General authority for the history-of-mathematics notes across U.06.005. Verified live (2026-08-17) via three pages: (1) the Brahmagupta biography (mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/) — born 598, died 670, wrote the Brahmasphutasiddhanta in 628, and 'gives arithmetical rules in terms of fortunes (positive numbers) and debts (negative numbers)', i.e., the first systematic rules for arithmetic with negative numbers (7th century CE), matching L03/L04's claim that negative numbers were given rules by Brahmagupta in India. (2) The Al-Khwarizmi biography (mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/) — 'His algebra treatise Hisab al-jabr w'al-muqabala gives us the word algebra and can be considered as the first book to be written on algebra' (9th century), matching L05/L06's claim that 'algebra' derives from al-jabr in al-Khwarizmi's 9th-century work. (3) 'An overview of Indian mathematics' (mathshistory.st-andrews.ac.uk/HistTopics/Indian_mathematics/) — 'The main Sulbasutras were composed by Baudhayana (about 800 BC)…' as 'rules for constructing altars', matching L01's Baudhayana-Sulba-Sutra scaling-altars note. The remaining history notes are standard and accurate without a page-level citation: Chinese counting rods used red for positive and black for negative in the Nine Chapters on the Mathematical Art (Jiuzhang Suanshu, Han dynasty) (L03); coordinate grids trace to Descartes (La Geometrie, 1637) while locating by two distances (latitude/longitude, grid squares) is far older (L07/L11); area/volume formulas appear in ancient Egyptian (Rhind/Moscow papyri), Mesopotamian, Chinese (Nine Chapters), and Indian (Sulbasutras) records (L09); averages/middle values appear in Babylonian and Indian record-keeping (L14). All these lessons hold the 'all traditions are worthy of study' framing as a value (docs/philosophy.md), clearly separated from the factual history."
+
 

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Positive and negative numbers in real life</title>
+  <desc id="desc">A vertical number line with zero in the middle. Above zero, positive numbers show warm temperature (plus 30 degrees Celsius, a hot day) and high elevation (plus 5,895 meters, a mountain peak). Below zero, negative numbers show cold temperature (minus 10 degrees Celsius) and low elevation (minus 430 meters, the Dead Sea below sea level). The word "above zero / above sea level" sits above zero and "below zero / below sea level" sits below zero. Labels, numbers, and position on the line, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Positive and Negative Numbers</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the same idea — above and below — works for temperature and elevation</text>
+
+  <!-- vertical number line -->
+  <g>
+    <line x1="150" y1="70" x2="150" y2="470" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="145" y1="270" x2="430" y2="270" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 4"/>
+
+    <!-- tick marks + labels -->
+    <line x1="138" y1="270" x2="162" y2="270" stroke="#2b3a42" stroke-width="3"/>
+    <text x="122" y="276" text-anchor="end" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">0</text>
+    <text x="430" y="276" text-anchor="end" font-family="sans-serif" font-size="14" fill="#4f6d7a">zero (sea level, freezing point)</text>
+
+    <line x1="138" y1="170" x2="162" y2="170" stroke="#2b3a42" stroke-width="2"/>
+    <text x="122" y="176" text-anchor="end" font-family="sans-serif" font-size="16" fill="#222222">+30</text>
+    <text x="172" y="176" font-family="sans-serif" font-size="15" fill="#e0a458" font-weight="bold">+30°C hot day  ·  +5,895 m mountain peak</text>
+
+    <line x1="138" y1="220" x2="162" y2="220" stroke="#2b3a42" stroke-width="2"/>
+    <text x="122" y="226" text-anchor="end" font-family="sans-serif" font-size="16" fill="#222222">+10</text>
+
+    <line x1="138" y1="330" x2="162" y2="330" stroke="#2b3a42" stroke-width="2"/>
+    <text x="122" y="336" text-anchor="end" font-family="sans-serif" font-size="16" fill="#222222">-10</text>
+    <text x="172" y="336" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">-10°C cold day</text>
+
+    <line x1="138" y1="400" x2="162" y2="400" stroke="#2b3a42" stroke-width="2"/>
+    <text x="122" y="406" text-anchor="end" font-family="sans-serif" font-size="16" fill="#222222">-430</text>
+    <text x="172" y="406" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">-430 m: the Dead Sea, below sea level</text>
+
+    <!-- up arrow -->
+    <text x="60" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e" transform="rotate(-90 60 150)">ABOVE</text>
+    <text x="60" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a" transform="rotate(-90 60 390)">BELOW</text>
+  </g>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">positive = above zero or sea level · negative = below zero or sea level</text>
+</svg>

@@ -65,3 +65,17 @@ everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.005.01 | Ratios in Fair Shares | D05.S1.06.01 |
+| L.06.005.02 | Rates: Recipes and Unit Prices | D05.S1.06.01 |
+| L.06.005.03 | Positive and Negative Numbers in Real Life | D05.S1.06.02 |
+| L.06.005.04 | Locating and Ordering Integers on a Number Line | D05.S1.06.02 |
+| L.06.005.05 | Variables and Expressions for Real Situations | D05.S2.06.01 |
+| L.06.005.06 | Writing and Solving One-Step Equations | D05.S2.06.01 |
+| L.06.005.07 | Tables and Graphs of Two Quantities | D05.S2.06.02 |
+| L.06.005.08 | Which Quantity Depends on the Other | D05.S2.06.02 |
+| L.06.005.09 | Area and Volume of Common Figures | D05.S3.06.01 |
+| L.06.005.10 | Surface Area and Nets of 3-D Shapes | D05.S3.06.01 |
+| L.06.005.11 | Polygons on the Coordinate Plane: Position | D05.S3.06.02 |
+| L.06.005.12 | Polygons on the Coordinate Plane: Length | D05.S3.06.02 |
+| L.06.005.13 | Statistical Variability: Center, Spread, and Shape | D05.S4.06.01 |
+| L.06.005.14 | Mean, Median, Mode, and Range: Choosing the Best Measure | D05.S4.06.02, D05.S4.06.01 |

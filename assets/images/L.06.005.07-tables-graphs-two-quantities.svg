@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Table and graph of two quantities</title>
+  <desc id="desc">A table and a graph of two quantities: number of buckets and liters of water carried. The table lists buckets 1, 2, 3, 4 with liters 3, 6, 9, 12. The graph plots the points (1,3), (2,6), (3,9), and (4,12) on a first-quadrant grid and connects them with a dashed line. A caption reads "liters = 3 × buckets — each bucket holds 3 liters." Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Table and Graph of Two Quantities</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a table lists the pairs; a graph shows them as points</text>
+
+  <!-- table -->
+  <g transform="translate(20, 80)">
+    <rect x="0" y="0" width="180" height="150" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="0" y1="40" x2="180" y2="40" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="90" y1="0" x2="90" y2="150" stroke="#2b3a42" stroke-width="2"/>
+    <text x="45" y="26" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">buckets</text>
+    <text x="135" y="26" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">liters</text>
+    <text x="45" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">1</text>
+    <text x="135" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">3</text>
+    <text x="45" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">2</text>
+    <text x="135" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">6</text>
+    <text x="45" y="136" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">3</text>
+    <text x="135" y="136" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">9</text>
+    <text x="45" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">4</text>
+    <text x="135" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">12</text>
+    <text x="90" y="198" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">each bucket holds 3 liters</text>
+  </g>
+
+  <!-- graph -->
+  <g transform="translate(240, 80)">
+    <line x1="0" y1="0" x2="0" y2="300" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="0" y1="300" x2="260" y2="300" stroke="#2b3a42" stroke-width="3"/>
+    <g stroke="#d7d1c8" stroke-width="1">
+      <line x1="50" y1="0" x2="50" y2="300"/><line x1="100" y1="0" x2="100" y2="300"/>
+      <line x1="150" y1="0" x2="150" y2="300"/><line x1="200" y1="0" x2="200" y2="300"/>
+      <line x1="250" y1="0" x2="250" y2="300"/>
+      <line x1="0" y1="225" x2="250" y2="225"/><line x1="0" y1="150" x2="250" y2="150"/>
+      <line x1="0" y1="75" x2="250" y2="75"/>
+    </g>
+    <text x="0" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0</text>
+    <text x="50" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
+    <text x="100" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+    <text x="150" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3</text>
+    <text x="200" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">4</text>
+    <text x="-14" y="305" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0</text>
+    <text x="-14" y="230" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3</text>
+    <text x="-14" y="155" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">6</text>
+    <text x="-14" y="80" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">9</text>
+    <text x="125" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">buckets (x)</text>
+    <text x="-60" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6" transform="rotate(-90 -60 150)">liters (y)</text>
+
+    <line x1="50" y1="225" x2="200" y2="0" stroke="#e0a458" stroke-width="3" stroke-dasharray="7 5"/>
+    <circle cx="50" cy="225" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="100" cy="150" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="150" cy="75" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="200" cy="0" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="50" y="213" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(1,3)</text>
+    <text x="100" y="138" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(2,6)</text>
+    <text x="150" y="63" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(3,9)</text>
+    <text x="200" y="-12" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(4,12)</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">liters = 3 × buckets</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the points make a straight line — one quantity grows steadily with the other</text>
+</svg>

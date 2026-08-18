@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rates: unit prices</title>
+  <desc id="desc">A unit-price comparison of two bags of rice. Bag A is 2 kilograms for 8 coins, which is 4 coins per 1 kilogram. Bag B is 3 kilograms for 9 coins, which is 3 coins per 1 kilogram. Arrows point from each bag to its "per 1 kg" rate, and a caption reads "Bag B is the better buy: 3 coins per kg." A small recipe line reads "3 cups of flour for every 2 cups of water." Labels, numbers, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Rates: Unit Prices</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a rate compares two different kinds of quantity — amount and cost</text>
+
+  <!-- Bag A -->
+  <g>
+    <rect x="40" y="90" width="120" height="120" rx="8" fill="#f0e9dd" stroke="#2b3a42" stroke-width="2"/>
+    <text x="100" y="140" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Bag A</text>
+    <text x="100" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">2 kg</text>
+    <text x="100" y="190" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">8 coins</text>
+
+    <line x1="160" y1="150" x2="252" y2="150" stroke="#2b3a42" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="206" y="136" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">8 ÷ 2</text>
+
+    <rect x="256" y="120" width="130" height="60" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="321" y="146" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">4 coins</text>
+    <text x="321" y="168" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">per 1 kg</text>
+  </g>
+
+  <!-- Bag B -->
+  <g>
+    <rect x="40" y="250" width="120" height="120" rx="8" fill="#f0e9dd" stroke="#2b3a42" stroke-width="2"/>
+    <text x="100" y="300" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Bag B</text>
+    <text x="100" y="328" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">3 kg</text>
+    <text x="100" y="350" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">9 coins</text>
+
+    <line x1="160" y1="310" x2="252" y2="310" stroke="#2b3a42" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="206" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">9 ÷ 3</text>
+
+    <rect x="256" y="280" width="130" height="60" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="321" y="306" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">3 coins</text>
+    <text x="321" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">per 1 kg</text>
+  </g>
+
+  <!-- recipe rate -->
+  <g>
+    <rect x="40" y="400" width="400" height="52" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="240" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">recipe rate: 3 cups of flour for every 2 cups of water</text>
+    <text x="240" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">3 : 2 — a rate with two different units (cups of flour, cups of water)</text>
+  </g>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">Bag B is the better buy — 3 coins per kg is less than 4 coins per kg</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+</svg>

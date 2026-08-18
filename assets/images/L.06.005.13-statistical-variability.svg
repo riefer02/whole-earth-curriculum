@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Statistical variability: center, spread, and shape</title>
+  <desc id="desc">A dot plot of daily rainfall in millimeters across fourteen days. Dots are stacked at values 0, 1, 2, 3, 4, 5, and 6 millimeters. A vertical line marks the center near 3, a double-headed bracket shows the spread from 0 to 6, and a label notes the shape is roughly symmetric with one peak. Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Statistical Variability: Center, Spread, and Shape</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">data varies — we describe it by its center, its spread, and its shape</text>
+
+  <g transform="translate(40, 90)">
+    <!-- axis -->
+    <line x1="0" y1="0" x2="0" y2="230" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="0" y1="230" x2="440" y2="230" stroke="#2b3a42" stroke-width="3"/>
+
+    <!-- values -->
+    <text x="0" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0</text>
+    <text x="60" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
+    <text x="120" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+    <text x="180" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3</text>
+    <text x="240" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">4</text>
+    <text x="300" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">5</text>
+    <text x="360" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">6</text>
+    <text x="420" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">7</text>
+    <text x="220" y="282" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">rainfall (mm per day)</text>
+
+    <!-- dots -->
+    <g fill="#2b3a42">
+      <circle cx="0" cy="220" r="6"/>
+      <circle cx="60" cy="220" r="6"/><circle cx="60" cy="204" r="6"/>
+      <circle cx="120" cy="220" r="6"/><circle cx="120" cy="204" r="6"/><circle cx="120" cy="188" r="6"/>
+      <circle cx="180" cy="220" r="6"/><circle cx="180" cy="204" r="6"/><circle cx="180" cy="188" r="6"/><circle cx="180" cy="172" r="6"/>
+      <circle cx="240" cy="220" r="6"/><circle cx="240" cy="204" r="6"/><circle cx="240" cy="188" r="6"/>
+      <circle cx="300" cy="220" r="6"/><circle cx="300" cy="204" r="6"/>
+      <circle cx="360" cy="220" r="6"/>
+    </g>
+
+    <!-- center -->
+    <line x1="180" y1="160" x2="180" y2="228" stroke="#e0a458" stroke-width="3" stroke-dasharray="6 4"/>
+    <text x="180" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e0a458">center ≈ 3</text>
+
+    <!-- spread -->
+    <path d="M0 150 L0 140 L360 140 L360 150" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+    <line x1="0" y1="140" x2="0" y2="120" stroke="#7a9e7e" stroke-width="2"/>
+    <line x1="360" y1="140" x2="360" y2="120" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="180" y="130" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e">spread (range): 0 to 6</text>
+  </g>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">shape: one peak, roughly symmetric</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">center: where the data piles up · spread: how far it stretches · shape: how it looks</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">different places get very different rainfall — that difference is variability</text>
+</svg>
