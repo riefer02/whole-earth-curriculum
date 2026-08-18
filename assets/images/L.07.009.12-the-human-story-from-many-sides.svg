@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Many threads woven into one human story</title>
+  <desc id="desc">Seven threads come from the left — time, calendars, achievement, knowledge, migration, geography, resistance — and braid into a single strand on the right. The caption says history is many perspectives woven together, never one people's triumph.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">The human story, from many sides</text>
+
+  <!-- Seven threads -->
+  <g stroke-width="7" stroke-linecap="round" fill="none">
+    <path d="M40 120 Q200 130 360 260" stroke="#6b93b6"/>
+    <path d="M40 170 Q200 175 360 260" stroke="#7a9e7e"/>
+    <path d="M40 220 Q200 220 360 260" stroke="#e0a458"/>
+    <path d="M40 270 Q200 265 360 260" stroke="#4f6d7a"/>
+    <path d="M40 320 Q200 310 360 260" stroke="#7a9e7e"/>
+    <path d="M40 370 Q200 355 360 260" stroke="#e0a458"/>
+    <path d="M40 420 Q200 400 360 260" stroke="#6b93b6"/>
+  </g>
+
+  <!-- Labels -->
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <text x="56" y="112">time &amp; periods</text>
+    <text x="56" y="162">calendars</text>
+    <text x="56" y="212">achievement</text>
+    <text x="56" y="262">knowledge</text>
+    <text x="56" y="312">migration</text>
+    <text x="56" y="362">geography</text>
+    <text x="56" y="412">resistance</text>
+  </g>
+
+  <!-- Braid -->
+  <text x="430" y="256" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">one</text>
+  <text x="430" y="278" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">story</text>
+
+  <rect x="60" y="372" width="392" height="96" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">History is a story told from many perspectives —</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">each people holds part of the thread,</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">and none is the whole of it.</text>
+</svg>

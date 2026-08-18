@@ -2914,3 +2914,120 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in U.07.008 L05 (First Aid: Bleeding & Burns) and L06 (First Aid: Choking & Getting Help) as the page-level authority for the first-aid steps. URL verified live (2026-08-18): GFARC is the IFRC 'centre of excellence' (managed by the French Red Cross) that publishes the International First Aid, Resuscitation and Education Guidelines (2020, updated 2025). The lessons' steps all match those guidelines: bleeding — direct pressure with a clean cloth, get medical help if heavy/spurting/won't stop; burns — cool under cool running water (never ice) about 20 minutes if possible, remove tight items such as rings, do not pop blisters, get help for large/deep burns or burns to the face, hands, feet, or joints; choking — recognize the universal sign (hands at the throat), call the emergency number and get an adult, give back blows and abdominal thrusts only if trained. The lessons are appropriately hedged and safety-first (help-seeking framed as part of first aid; thrusts learned from a certified instructor and never practiced on a peer; emergency numbers taught as region-specific 112/999/911/local). Companion general authority: S-082 (ifrc.org first-aid programme page)."
+
+  - id: S-314
+    title: Encyclopaedia Britannica — Historiography (periodization)
+    type: website
+    url: https://www.britannica.com/topic/historiography
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L01 (Why Historians Divide Time into Periods) for the claim that periodization is a human convention, not a fact of nature. URL verified live (2026-08-18): Britannica's 'historiography' article (sections 'Methodology of historiography' and 'The presentation of history') treats the dividing of history into periods/eras as a choice historians make and revise, not a feature written in nature. Supports the lesson's core claim that dividing lines are human choices drawn differently by different peoples. (Note: Britannica has no standalone 'periodization' entry — the lesson originally named a non-existent 'periodization' article; corrected to 'historiography' during fact-check.)"
+
+  - id: S-315
+    title: Encyclopaedia Britannica — Calendar / Gregorian calendar / Islamic calendar
+    type: website
+    url: https://www.britannica.com/science/calendar
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L02 (Calendars: Many Ways to Count the Years) for the solar vs lunar year lengths (≈365.24 vs ≈354 days), the Gregorian reform of 1582, and the Islamic Hijri calendar's start in 622 CE. URL verified live (2026-08-18): Britannica's 'calendar' article has sections 'The Muslim calendar,' 'The Gregorian calendar,' 'The Mayan calendar,' 'The Jewish calendar,' 'The Chinese calendar,' and 'The Hindu calendar,' directly supporting the claim that many calendar systems coexist and that the Gregorian calendar is solar while the Islamic calendar is lunar (twelve synodic months, ~354 days). The 622 CE Hijra epoch and 1582 Gregorian reform are standard, stated in the companion 'Islamic calendar' and 'Gregorian calendar' entries. The lesson's claim that a calendar's 'year one' is a choice is a values/egalitarian framing, not a factual claim."
+
+  - id: S-316
+    title: Stanford History Education Group (SHEG) — historical thinking (sourcing, causality)
+    type: website
+    url: https://sheg.stanford.edu/
+    organization: Stanford History Education Group
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L03 (Many Causes, Many Consequences) for the claim that multiple causation and intended/unintended consequences are core, teachable historical-thinking skills (sourcing and causality). SHEG is a real, long-established research-and-curriculum group (Stanford University) whose 'Reading Like a Historian' framework treats sourcing, contextualization, corroboration, and causal analysis as teachable skills. The site returned a transient 503 to the fact-checker's environment on 2026-08-18, but the group and its framework are real and well established; cited as a general pedagogical authority, not a claim-level citation for any specific fact."
+
+  - id: S-317
+    title: Encyclopaedia Britannica — Paper / Papermaking
+    type: website
+    url: https://www.britannica.com/technology/papermaking
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L04 (The Spread of Paper) for the invention of paper in China (2nd century BCE fragments; Cai Lun c. 105 CE) and its westward spread via Central Asia and Baghdad to Europe. URL verified live (2026-08-18): Britannica's 'papermaking' article has a 'Historical development' section documenting paper's Chinese origin, the traditional attribution to Cai Lun (c. 105 CE), and the craft's transmission westward (Samarkand, Baghdad, then Europe by the 12th–15th centuries). The Battle of Talas (751 CE) papermaker tradition and Bi Sheng's movable type (c. 1040s) are standard; the lesson correctly states the Talas account as tradition, not certainty. Companion authority: S-264 (British Library, history of paper)."
+
+  - id: S-318
+    title: Encyclopaedia Britannica — Zero / Hindu-Arabic numerals
+    type: website
+    url: https://www.britannica.com/topic/zero-mathematics
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L05 (Zero: A Number That Changed the World) for the Indian origin of the decimal place-value system with zero and the ten glyphs 0–9, Brahmagupta's 7th-century rules, and the system's spread via al-Khwarizmi (c. 820 CE) and Fibonacci's Liber Abaci (1202). URL verified live (2026-08-18): Britannica's 'zero' article has sections 'The Indian invention' and 'From India to the world,' documenting the Indian origin of zero as both placeholder and number, Brahmagupta's rules, and transmission through Arabic-speaking scholars to Europe (hence 'Hindu-Arabic numerals'). The companion 'Hindu-Arabic numerals' entry is likewise real. Companion authority: S-023 (Ifrah), S-272 (Joseph), S-240 (MacTutor)."
+
+  - id: S-319
+    title: Encyclopaedia Britannica — Avicenna / The Canon of Medicine / al-Razi
+    type: website
+    url: https://www.britannica.com/biography/Avicenna
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L06 (The Canon of Medicine and the First Hospitals) for Ibn Sina (Avicenna, 980–1037, Persian), the Canon of Medicine (c. 1025 CE, five-volume encyclopedia), its centuries-long use in the Islamic world and European universities, and al-Razi's distinction of smallpox from measles. URL verified live (2026-08-18): Britannica's 'Avicenna' biography documents Ibn Sina's dates (980–1037), his Persian origin, and the Canon of Medicine's encyclopedic scope and long use; the companion 'The Canon of Medicine' entry documents the five-book structure and its status as a standard medical text into the early modern period; 'al-Razi' documents his smallpox/measles distinction. The bimaristan (hospital with care, teaching, pharmacy) is standard in the history of medicine. The lesson's 'first hospitals' title is a mild shorthand — the body correctly says bimaristans were 'advanced for their time,' not literally the first hospitals in history."
+
+  - id: S-320
+    title: CSIRO — Indigenous Cultural Burning education resources
+    type: website
+    url: https://www.csiro.au/en/education/Resource-Library/Indigenous-STEM-Education-Resources/Cultural-Burning-Resources
+    organization: CSIRO (Commonwealth Scientific and Industrial Research Organisation)
+    domains: [D08, D10]
+    reviewed: true
+    notes: "Cited in U.07.009 L07 (Two Knowledge Systems: Fire and the Forest) for Aboriginal and Torres Strait Islander cultural burning as a long-standing, living fire-management practice. URL verified live (2026-08-18): CSIRO (Australia's national science agency) states 'For thousands of years, Aboriginal and/or Torres Strait Islander Peoples have cared for Country using the traditional fire management practice of Cultural Burning,' describes cool/low fires that 'promote plant growth, maintain habitats,' and reduce fuel, and describes the practice as one 'recognised and applied today.' Directly supports the lesson's claims about cultural burning's long history, cool-burn technique, land-health benefits, and living (not merely 'ancient') status. The lesson's claim that cultural burning and formal fire science are equal knowledge systems is a values/egalitarian framing (philosophy §4), not a CSIRO factual claim."
+
+  - id: S-321
+    title: Firesticks Alliance (now Living Knowledge Network) — Indigenous fire and cultural burning
+    type: website
+    url: https://www.firesticks.org.au/
+    organization: Firesticks Alliance / Living Knowledge Network
+    domains: [D08, D10]
+    reviewed: true
+    notes: "Cited in U.07.009 L07 as an Indigenous fire organization describing cultural burning's long history and benefits. URL verified live (2026-08-18): firesticks.org.au resolves to 'Living Knowledge Network — The next chapter of Firesticks,' a community-led Indigenous network (founded by Tagalaka man Victor Steffensen) 'Born from Cultural Fire practices,' which describes cultural burning as knowledge of 'the oldest living cultures on Earth' for healing Country. Real, on-topic Indigenous-led authority. (Note: the organization has rebranded from 'Firesticks Alliance' to 'Living Knowledge Network'; the domain still resolves and the content is on-topic.)"
+
+  - id: S-322
+    title: Trans-Atlantic Slave Trade Database (SlaveVoyages)
+    type: website
+    url: https://www.slavevoyages.org/
+    organization: SlaveVoyages (Emory University and collaborators)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L08 (Choosing to Move, Forced to Move) for the scale of the transatlantic slave trade ('at least 12 million Africans forcibly transported'). URL verified live (2026-08-18): slavevoyages.org is the authoritative quantitative database of the transatlantic slave trade (Emory University consortium); its consensus figure is that roughly 12.5 million captives were embarked, of whom ~10.7 million disembarked. The lesson's conservative 'at least 12 million' is accurate and not overstated. Companion authority: S-274 (UNESCO Routes of Enslaved Peoples). The lesson names the figure briefly and non-graphically, deferring fuller study to Grade 8 (per facilitation.md)."
+
+  - id: S-323
+    title: Encyclopaedia Britannica — Silk Road / Indian Ocean trade
+    type: website
+    url: https://www.britannica.com/topic/Silk-Road-trade-route
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L09 (Rivers, Oceans, Deserts, Mountains) for the Silk Roads as overland routes across deserts and mountains carrying silk, spices, paper, and ideas (Buddhism, numerals) between East Asia and the Mediterranean, and for monsoon-driven Indian Ocean trade linking East Africa, Arabia, India, and Southeast Asia. URL verified live (2026-08-18): Britannica's 'Silk Road' article documents the network of overland routes, its goods, and its role in transmitting ideas and religions. The Indian Ocean monsoon-sailing network is standard (companion 'Indian Ocean trade' entry and S-207, UNESCO Indian Ocean). The claim that rivers (Nile, Niger, Ganges, Indus) fed early civilizations and that the Inka built a road system across the Andes is likewise standard and documented in the relevant Britannica entries (S-141, S-088)."
+
+  - id: S-324
+    title: Encyclopaedia Britannica — Montgomery bus boycott
+    type: website
+    url: https://www.britannica.com/event/Montgomery-bus-boycott
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L10 (Ways People Resist) for the Montgomery bus boycott (USA, 1955–56) as an example of boycott as a form of resistance. URL verified live (2026-08-18): Britannica's 'Montgomery bus boycott' article documents the December 1955–December 1956 boycott of segregated buses (sparked by Rosa Parks' arrest, led in part by Martin Luther King Jr.), lasting over a year and ending with the Browder v. Gayle Supreme Court ruling. Matches the lesson's 'people stopped riding segregated buses for over a year' claim. Companion authorities: S-087 (Britannica Salt March, for the 1930 protest example)."
+
+  - id: S-325
+    title: Encyclopaedia Britannica — Capoeira
+    type: website
+    url: https://www.britannica.com/sports/capoeira
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L10 for capoeira (Brazil) as an art of movement and song created by enslaved Africans, carrying strength and identity. URL verified live (2026-08-18): Britannica's 'capoeira' article documents capoeira as an Afro-Brazilian martial-art/dance form that developed among enslaved Africans in Brazil. The UNESCO inscription of the 'capoeira circle' (2014) is registered as S-056. The lesson's framing of capoeira as a form of resistance art and identity is a standard, well-documented interpretation, not overstated."
+
+  - id: S-326
+    title: Encyclopaedia Britannica — Western colonialism
+    type: website
+    url: https://www.britannica.com/topic/colonialism
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.07.009 L11 (What Colonization Took) for the global reach of European colonization from the late 1400s and its effects (dispossession, suppression of languages and practices, imposition of foreign rule). URL verified live (2026-08-18): Britannica's 'Western colonialism' article documents European overseas expansion from the late 15th century across the Americas, Africa, Asia, and Oceania, and its effects on colonized peoples. The residential/boarding-school practice of punishing Indigenous children's languages is documented by national truth-and-reconciliation commissions (e.g., Canada) and UNESCO's language-loss/revitalization work; the lesson states this without graphic detail. The lesson's pairing of loss with continuity is a values-and-accuracy commitment (philosophy §4), not a historical claim."

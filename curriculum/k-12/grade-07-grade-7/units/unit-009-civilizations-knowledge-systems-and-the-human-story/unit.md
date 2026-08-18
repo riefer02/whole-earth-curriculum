@@ -71,3 +71,15 @@ perspectives, never one people's triumph.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Why Historians Divide Time into Periods | D08.S1.07.01 |
+| 2 | Calendars: Many Ways to Count the Years | D08.S1.07.01 |
+| 3 | Many Causes, Many Consequences | D08.S1.07.02 |
+| 4 | The Spread of Paper | D08.S1.07.02 |
+| 5 | Zero: A Number That Changed the World | D08.S2.07.01 |
+| 6 | The Canon of Medicine and the Bimaristans | D08.S2.07.01 |
+| 7 | Two Knowledge Systems: Fire and the Forest | D08.S2.07.02 |
+| 8 | Choosing to Move, Forced to Move | D08.S3.07.01 |
+| 9 | Rivers, Oceans, Deserts, Mountains | D08.S3.07.02 |
+| 10 | Ways People Resist | D08.S4.07.01 |
+| 11 | What Colonization Took | D08.S4.07.02 |
+| 12 | The Human Story, from Many Sides | D08.S1.07.01, D08.S2.07.02, D08.S3.07.01, D08.S4.07.01, D08.S4.07.02 |

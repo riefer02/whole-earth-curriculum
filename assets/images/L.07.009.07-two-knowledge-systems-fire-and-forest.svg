@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two knowledge systems: cultural burning and fire science</title>
+  <desc id="desc">Two side-by-side panels. The left panel shows low, careful fire moving through a forest with the words "cultural burning — care passed down for generations." The right panel shows a scientist measuring and recording with the words "fire science — measuring and testing." Between them is an equals sign, and the caption says neither is better: they are two ways of knowing and caring for the same land.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Two ways of knowing and caring for land</text>
+
+  <!-- Left panel: cultural burning -->
+  <g>
+    <rect x="24" y="84" width="200" height="252" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="124" y="116" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Cultural burning</text>
+    <!-- trees -->
+    <path d="M54 220 L70 160 L86 220 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="68" y="220" width="8" height="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M150 220 L166 150 L182 220 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="164" y="220" width="8" height="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.5"/>
+    <!-- low fire -->
+    <path d="M40 260 Q60 250 80 260 Q100 270 120 260 Q140 250 160 260 Q180 270 200 260" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+    <text x="124" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">low, careful fire that</text>
+    <text x="124" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">renews the land</text>
+  </g>
+
+  <!-- Equals sign -->
+  <g>
+    <rect x="232" y="178" width="48" height="12" rx="3" fill="#2b3a42"/>
+    <rect x="232" y="206" width="48" height="12" rx="3" fill="#2b3a42"/>
+  </g>
+
+  <!-- Right panel: fire science -->
+  <g>
+    <rect x="288" y="84" width="200" height="252" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="388" y="116" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Fire science</text>
+    <!-- clipboard + chart -->
+    <rect x="330" y="150" width="70" height="90" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="342" y1="172" x2="388" y2="172" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="342" y1="188" x2="388" y2="188" stroke="#4f6d7a" stroke-width="2"/>
+    <line x1="342" y1="204" x2="374" y2="204" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M344 228 L360 214 L374 224 L388 208" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+    <text x="388" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">measuring, testing,</text>
+    <text x="388" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and recording</text>
+  </g>
+
+  <!-- Caption -->
+  <rect x="60" y="364" width="392" height="108" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Neither is "better" — they are different</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Each understands fire and land in its own way.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Held side by side, they can teach each other —</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and both care for the same living world.</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two calendars side by side: solar and lunar</title>
+  <desc id="desc">Two panels. The left panel shows a solar year: a circle marked "one year = 365 days," divided into twelve labeled months, with a sun. The right panel shows a lunar year: twelve moons around a circle marked "one year = about 354 days," with a crescent moon. A note at the bottom says the same day can be a different number in each calendar.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">The same year, counted two ways</text>
+
+  <!-- Solar panel -->
+  <g>
+    <rect x="24" y="88" width="224" height="252" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Solar year</text>
+    <circle cx="136" cy="176" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="136" cy="176" r="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="238" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">12 months follow the Sun</text>
+    <text x="136" y="262" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">= 365 days</text>
+    <text x="136" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(leap years add one day)</text>
+    <text x="136" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">example: Gregorian calendar</text>
+  </g>
+
+  <!-- Lunar panel -->
+  <g>
+    <rect x="264" y="88" width="224" height="252" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="122" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Lunar year</text>
+    <path d="M376 150 A26 26 0 1 1 350 176 A20 20 0 1 0 376 150" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="238" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">12 months follow the Moon</text>
+    <text x="376" y="262" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">= about 354 days</text>
+    <text x="376" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(about 11 days shorter)</text>
+    <text x="376" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">example: Islamic Hijri calendar</text>
+  </g>
+
+  <!-- Note -->
+  <rect x="60" y="372" width="392" height="104" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Same sky, different numbers</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Because the two years are different lengths, the same day</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">is a different date in each calendar.</text>
+</svg>

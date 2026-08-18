@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Time divided into periods, like chapters in a book</title>
+  <desc id="desc">A horizontal arrow representing time flows left to right. Vertical lines divide it into four labeled sections, like chapters: "deep past," "ancient," "middle," and "recent." A small note reminds us the dividing lines are choices people make, not marks already in nature.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">One long story, divided into chapters</text>
+
+  <!-- Time arrow -->
+  <line x1="36" y1="150" x2="476" y2="150" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M476 150 L458 140 L458 160 Z" fill="#2b3a42"/>
+  <text x="476" y="128" text-anchor="end" font-family="sans-serif" font-size="18" fill="#4f6d7a">time</text>
+
+  <!-- Chapter 1 -->
+  <g>
+    <rect x="36" y="180" width="110" height="86" rx="10" fill="#7a9e7e" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+    <text x="91" y="212" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">deep past</text>
+    <text x="91" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">first humans,</text>
+    <text x="91" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">stone tools</text>
+  </g>
+  <line x1="146" y1="138" x2="146" y2="162" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Chapter 2 -->
+  <g>
+    <rect x="146" y="180" width="110" height="86" rx="10" fill="#6b93b6" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+    <text x="201" y="212" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">ancient</text>
+    <text x="201" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">cities, writing,</text>
+    <text x="201" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">early empires</text>
+  </g>
+  <line x1="256" y1="138" x2="256" y2="162" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Chapter 3 -->
+  <g>
+    <rect x="256" y="180" width="110" height="86" rx="10" fill="#e0a458" opacity="0.32" stroke="#2b3a42" stroke-width="2"/>
+    <text x="311" y="212" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">middle</text>
+    <text x="311" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">long-distance</text>
+    <text x="311" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">trade, empires</text>
+  </g>
+  <line x1="366" y1="138" x2="366" y2="162" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Chapter 4 -->
+  <g>
+    <rect x="366" y="180" width="110" height="86" rx="10" fill="#7a9e7e" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+    <text x="421" y="212" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">recent</text>
+    <text x="421" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">machines,</text>
+    <text x="421" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">global links</text>
+  </g>
+
+  <!-- Note -->
+  <rect x="60" y="320" width="392" height="120" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">The lines are choices, not facts</text>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">People draw the dividing lines to make the story easier</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">to hold and compare. Different peoples draw them</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">in different places — and that is worth noticing.</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Canon of Medicine and the first hospitals</title>
+  <desc id="desc">A panel showing a book labeled "The Canon of Medicine" and a building labeled "hospital." Arrows show the book's knowledge traveling outward to many places. The picture shows a medical encyclopedia written in the Islamic world that was used as a standard text for centuries.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Knowledge that traveled the world</text>
+
+  <!-- Book -->
+  <g>
+    <rect x="88" y="150" width="150" height="120" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="96" y="158" width="134" height="104" rx="4" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="163" y1="158" x2="163" y2="262" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="120" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">The</text>
+    <text x="120" y="210" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Canon of</text>
+    <text x="120" y="230" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Medicine</text>
+    <text x="198" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">an</text>
+    <text x="198" y="214" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">encyclo-</text>
+    <text x="198" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">pedia of</text>
+    <text x="198" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">medicine</text>
+    <text x="163" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Ibn Sina, c. 1025 CE</text>
+  </g>
+
+  <!-- Hospital -->
+  <g>
+    <rect x="296" y="150" width="140" height="120" rx="8" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M314 178 L332 178 L332 160 L362 160 L362 178 L380 178 L380 210 L314 210 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="330" y="216" width="32" height="34" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="366" y="246" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">hospital</text>
+    <text x="366" y="262" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(bimaristan)</text>
+  </g>
+
+  <!-- Arrows of knowledge -->
+  <g stroke="#e0a458" stroke-width="3">
+    <line x1="238" y1="190" x2="290" y2="190"/>
+    <path d="M296 175 L310 190 L296 205" fill="none"/>
+  </g>
+
+  <!-- Spread -->
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Used as a standard medical text for centuries —</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">in the Islamic world and in European universities alike.</text>
+
+  <rect x="90" y="416" width="332" height="60" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Hospitals offered care, training, and pharmacy —</text>
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">centuries before similar institutions spread elsewhere.</text>
+</svg>

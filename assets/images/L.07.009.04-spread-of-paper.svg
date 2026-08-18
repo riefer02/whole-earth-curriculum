@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How paper spread from China across the world</title>
+  <desc id="desc">A left-to-right sequence of four labeled stops showing paper's journey: China, then Central Asia, then Baghdad, then Europe. Arrows connect the stops, and each stop has an approximate time. The idea traveled with the knowledge of how to make it.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Paper travels west</text>
+
+  <!-- Route line -->
+  <line x1="56" y1="200" x2="456" y2="200" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="8 8"/>
+
+  <!-- Stop 1 China -->
+  <g>
+    <circle cx="86" cy="200" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="66" y="238" width="40" height="20" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="86" y="284" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">China</text>
+    <text x="86" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">paper invented</text>
+    <text x="86" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(2nd c. BCE)</text>
+  </g>
+
+  <!-- Arrow -->
+  <path d="M120 200 L150 200" stroke="#2b3a42" stroke-width="2.5" fill="none" marker-end="url(#a)"/>
+
+  <!-- Stop 2 Central Asia -->
+  <g>
+    <circle cx="196" cy="200" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="176" y="238" width="40" height="20" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="196" y="284" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Central Asia</text>
+    <text x="196" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Samarkand,</text>
+    <text x="196" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">8th c. CE</text>
+  </g>
+
+  <!-- Arrow -->
+  <path d="M230 200 L260 200" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+
+  <!-- Stop 3 Baghdad -->
+  <g>
+    <circle cx="306" cy="200" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="286" y="238" width="40" height="20" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="306" y="284" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Baghdad</text>
+    <text x="306" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">paper mills,</text>
+    <text x="306" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">books flourish</text>
+  </g>
+
+  <!-- Arrow -->
+  <path d="M340 200 L370 200" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+
+  <!-- Stop 4 Europe -->
+  <g>
+    <circle cx="416" cy="200" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="396" y="238" width="40" height="20" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="416" y="284" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Europe</text>
+    <text x="416" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">mills spread,</text>
+    <text x="416" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">12th–15th c.</text>
+  </g>
+
+  <!-- Note -->
+  <rect x="70" y="372" width="372" height="96" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">What traveled was the knowledge</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Paper itself is light, but the skill of making it —</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">carried by people — is what spread the idea.</text>
+
+  <defs>
+    <marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0 0 L6 3 L0 6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+</svg>

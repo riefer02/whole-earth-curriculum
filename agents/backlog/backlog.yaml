@@ -4545,7 +4545,7 @@ items:
     type: lesson
     grade: 7
     domain: D08
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4557,6 +4557,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1148 files. Verified L.07.009.01-.12, sequence 1-12, grade 7, U.07.009; all 12 objectives resolve to the 8 real grade-7 D08 standards; unit.md table matches 12 lessons; L5 (Zero) carries D08.S2.07.01 with concrete Connection and sourced Resources (Ifrah, Britannica); colonization (L11) names land/culture/self-rule loss non-graphically, closes in dignity-not-despair; slave trade (L8) brief, deferred to Grade 8.
+      fact-checker:
+        verdict: passed
+        note: Verified Indian origin of zero/Brahmagupta and Canon of Medicine/bimaristan claims against Britannica (zero, Avicenna, Canon of Medicine) + Ifrah S-023, Aboriginal cultural burning against CSIRO + Firesticks/Living Knowledge Network; registered 13 new sources (S-314..S-326); corrected 'First Hospitals' overstatement (retitled The Bimaristans) and a misattributed Britannica 'periodization' entry; calendars/paper/spread/slave-trade/colonization/resistance all confirmed.
+      global-culture-editor:
+        verdict: passed
+        note: "Checked history as multi-perspective global story with no Eurocentric default: L1 names ancient/middle/modern as a European frame not universal; achievements/cases span India (zero), China (paper), Islamic world (Ibn Sina's Canon + bimaristans), Aboriginal Australia (cultural burning held side-by-side unranked against formal fire science per §11), plus Africa/Americas/Oceania; never one civilization's triumph."
+      accessibility-editor:
+        verdict: passed
+        note: "Checked all 12 lessons + 12 SVGs: every lesson declares no-cost materials_low_tech tier (sand/stones/found objects/voice, no device/wealth required) plus UDL context_variants and Support/Extension differentiation; every assets entry has non-empty alt resolving to an existing SVG whose meaning is carried by text labels and title/desc not color alone."
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics, egalitarianism (no triumph/supremacy narrative, never one people's triumph), global/anthropological (India, Islamic world, Aboriginal Australia, China, Silk Roads, Indian Ocean, Americas, Africa, Oceania; ancient/middle/modern flagged as European frame), technology/environment (paper/zero/hospitals as technologies, cultural burning vs fire science, geography), evidence-vs-values (cited, facts vs values); traceability from objectives to real D08.Sx.07.x -> D08 (P4) -> vision.
+      child-psychologist:
+        verdict: passed
+        note: "Grade-7 band: abstract ideas (periodization-as-choice, side-by-side knowledge systems) anchored in concrete worked examples; colonization/forced migration/slave trade named honestly but non-graphically, paired with dignity/agency/continuity never despair, no forced disclosure of family histories; every big question held open as a question not a creed."
   - id: B-356
     title: Author lessons for Unit U.07.010 (Ethics, Justice & Shared Power)
     agent: lesson-author

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Voluntary and forced migration compared</title>
+  <desc id="desc">Two panels. The left panel, labeled "voluntary," shows a person walking freely with a small bag toward a new place, with the words "chosen, for hope." The right panel, labeled "forced," shows a person in chains being moved against their will, with the words "not chosen." A caption notes both change the people who move and the places involved, but only one is a choice.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Two kinds of moving</text>
+
+  <!-- Voluntary -->
+  <g>
+    <rect x="24" y="88" width="224" height="248" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="122" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Voluntary</text>
+    <!-- person walking -->
+    <circle cx="120" cy="200" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="108" y="216" width="24" height="36" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="114" y1="252" x2="104" y2="282" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="126" y1="252" x2="136" y2="282" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="144" y="232" width="26" height="20" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">chosen, for hope:</text>
+    <text x="136" y="334" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">work, family, freedom</text>
+  </g>
+
+  <!-- Forced -->
+  <g>
+    <rect x="264" y="88" width="224" height="248" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="122" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Forced</text>
+    <!-- person with chain -->
+    <circle cx="364" cy="200" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="352" y="216" width="24" height="36" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="358" y1="252" x2="348" y2="282" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <line x1="370" y1="252" x2="380" y2="282" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <!-- chain on wrists -->
+    <ellipse cx="360" cy="240" rx="14" ry="7" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="372" cy="240" rx="14" ry="7" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <text x="376" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">not chosen:</text>
+    <text x="376" y="334" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">taken by force</text>
+  </g>
+
+  <rect x="60" y="368" width="392" height="100" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Both change the people who move and the places they go —</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">but only one is a choice.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">That difference changes everything about the journey.</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How rivers, oceans, deserts, and mountains connect and separate people</title>
+  <desc id="desc">A simple map-like diagram. Four labeled features — a winding river, an ocean with a boat, a desert band with a camel caravan, and a mountain range with a pass — each show two sides: they can block the way, and they can be crossed. Arrows show ideas and goods moving along the routes.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Barriers and bridges</text>
+
+  <!-- River -->
+  <g>
+    <text x="70" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">river</text>
+    <path d="M34 150 Q60 140 84 150 Q108 162 128 150" fill="none" stroke="#6b93b6" stroke-width="10" stroke-linecap="round"/>
+    <path d="M20 210 Q60 190 120 210" fill="none" stroke="#e0a458" stroke-width="3" stroke-dasharray="6 6"/>
+    <text x="70" y="240" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">water + travel</text>
+  </g>
+
+  <!-- Ocean -->
+  <g>
+    <text x="256" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">ocean</text>
+    <path d="M196 150 Q220 166 244 150 Q268 134 292 150 Q316 166 340 150" fill="none" stroke="#6b93b6" stroke-width="10" stroke-linecap="round"/>
+    <path d="M240 180 L262 170 L284 180 L262 190 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">winds + boats</text>
+  </g>
+
+  <!-- Desert -->
+  <g>
+    <text x="442" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">desert</text>
+    <path d="M386 150 Q410 166 434 150 Q458 134 482 150" fill="none" stroke="#e0a458" stroke-width="10" stroke-linecap="round"/>
+    <ellipse cx="420" cy="196" rx="16" ry="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <text x="442" y="240" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">caravans + oases</text>
+  </g>
+
+  <!-- Mountains -->
+  <g>
+    <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">mountains</text>
+    <path d="M120 360 L180 290 L240 360 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M240 360 L300 280 L360 360 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M250 330 L266 312 L282 330" fill="none" stroke="#fdfbf7" stroke-width="4"/>
+    <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">passes + paths</text>
+  </g>
+
+  <rect x="60" y="424" width="392" height="64" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Every barrier can also be a bridge —</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">geography both separates and connects.</text>
+</svg>
