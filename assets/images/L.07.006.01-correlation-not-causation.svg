@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Correlation is not causation</title>
+  <desc id="desc">A diagram explaining that correlation is not causation. The top half shows two rising lines together — "ice cream sales" and "drownings" — that both rise in summer, labeled "they move together." The bottom half shows a third-variable model: a box labeled "Hot summer weather" with arrows down to "Ice cream sales rise" and "Drownings rise," and a dashed line between those two labeled "correlation, not causation." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Correlation Is Not Causation</text>
+
+  <!-- Top: two lines moving together -->
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">They move together (correlation)…</text>
+
+  <line x1="40" y1="150" x2="40" y2="128" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="40" y1="150" x2="472" y2="150" stroke="#2b3a42" stroke-width="2"/>
+  <text x="28" y="176" font-family="sans-serif" font-size="13" fill="#4f6d7a">amount</text>
+  <text x="256" y="176" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">month of the year →</text>
+
+  <path d="M40 150 L150 120 L300 96 L440 84" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M40 150 L160 118 L310 94 L440 82" fill="none" stroke="#6b93b6" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 5"/>
+
+  <text x="470" y="80" text-anchor="end" font-family="sans-serif" font-size="14" fill="#e0a458">ice cream sales</text>
+  <text x="470" y="98" text-anchor="end" font-family="sans-serif" font-size="14" fill="#6b93b6">drownings</text>
+
+  <!-- Bottom: third-variable model -->
+  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">…but a third thing may cause BOTH.</text>
+
+  <rect x="176" y="232" width="160" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Hot summer weather</text>
+  <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(the third variable)</text>
+
+  <!-- arrows down-left and down-right -->
+  <path d="M210 288 L96 340" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M302 288 L416 340" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0 0 L8 3 L0 6 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <rect x="34" y="342" width="160" height="66" rx="8" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="114" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Ice cream sales rise</text>
+  <text x="114" y="386" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(an effect)</text>
+
+  <rect x="318" y="342" width="160" height="66" rx="8" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
+  <text x="398" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Drownings rise</text>
+  <text x="398" y="386" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(an effect)</text>
+
+  <!-- dashed line between the two effects -->
+  <line x1="194" y1="375" x2="318" y2="375" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">correlation, not causation</text>
+
+  <!-- rule -->
+  <rect x="64" y="450" width="384" height="48" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">"They move together" ≠ "one causes the other"</text>
+</svg>

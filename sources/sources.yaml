@@ -44,8 +44,8 @@ sources:
     url: https://www.ipcc.ch/
     organization: IPCC
     domains: [D06, D10]
-    reviewed: false
-    notes: Authoritative climate science for Environment content.
+    reviewed: true
+    notes: "Authoritative climate science for Environment content. Cited in U.07.006 L11 (the climate system — Sun + atmosphere + ocean + land — and the greenhouse effect) and L12 (ice-core records of past atmosphere, e.g., Vostok and Greenland cores). The IPCC is the authoritative intergovernmental body summarizing climate-system science and paleoclimate reconstructions from ice cores; on-topic for both lessons. Global and intergovernmental by design. URL verified live (2026-08-18)."
 
   - id: S-006
     title: Our World in Data
@@ -2798,3 +2798,90 @@ sources:
     domains: [D05]
     reviewed: true
     notes: "Cited in U.07.005 L14 (the careful study of chance began with gamblers' questions in 17th-century Europe, answered by Pascal and Fermat). URL verified live (2026-08-18). The Britannica 'probability and statistics' article includes an 'Early probability' and 'Games of chance' section covering the 17th-century Pascal–Fermat correspondence (1654) on the problem of points as the origin of the mathematical theory of probability. Supports the lesson's claim."
+
+  - id: S-302
+    title: "Newton — Philosophiæ Naturalis Principia Mathematica (1687)"
+    type: book
+    author: Isaac Newton
+    organization: Royal Society (London)
+    year: 1687
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.07.006 L07 (force = mass × acceleration, Newton's second law) and L08 (balanced/unbalanced forces — Newton's first and second laws; gravity and friction). Real, foundational physics text. Newton's second law (change of motion proportional to the impressed force) is the source of the modern F = ma (constant-mass form) the lesson teaches; the first law (a body persists in rest or uniform motion unless acted on by a net force) grounds L08's balanced/unbalanced distinction. The lessons' age-appropriate renderings (more force → more acceleration; more mass → less acceleration for the same force; balanced forces → no change in motion) are correct. No URL (print book)."
+
+  - id: S-303
+    title: "Darwin — On the Origin of Species (1859)"
+    type: book
+    author: Charles Darwin
+    organization: John Murray (London)
+    year: 1859
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.07.006 L04 (heritable variation as the raw material of evolution) and L05 (natural selection — variation + inheritance + differential survival/reproduction over generations). Real, foundational text. The lessons' four-step rendering (variation → environment selects → survivors reproduce → population shifts) is the standard, accurate summary of Darwin's mechanism, and they correctly avoid teleology ('the environment selects without choosing on purpose'; 'nothing decided this'). No URL (print book; public domain)."
+
+  - id: S-304
+    title: "Kettlewell (1955) — Selection experiments on industrial melanism (peppered moth, Biston betularia)"
+    type: article
+    author: H. B. D. Kettlewell
+    organization: Heredity
+    year: 1955
+    domains: [D06]
+    reviewed: true
+    notes: "Kettlewell, H. B. D. (1955). Selection experiments on industrial melanism in the Lepidoptera. Heredity 9(3), 323–342. Cited in U.07.006 L05 for the peppered-moth case. The lesson's account is accurate and appropriately hedged: the dark 'carbonaria' form became much more common in sooty industrial England, then declined as air was cleaned. Kettlewell's classic mid-20th-century experiments were later criticized for methodological weaknesses (Majerus 1998) and re-run with a stronger design (Cook, Grant, Saccheri & Mallet 2012, Biology Letters — direct evidence of selective bird predation); the lesson correctly writes 'Kettlewell's classic experiments, later refined; the pattern of change is well established.' No URL (print article)."
+
+  - id: S-305
+    title: "Grant & Grant — Darwin's finches (Geospiza fortis) on Daphne Major"
+    type: article
+    author: Peter R. Grant & B. Rosemary Grant
+    organization: "Princeton University (Boag & Grant 1981, Science 214:82–85; Grant & Grant 2002, Science 296:707–711; Grant & Grant 2014, 40 Years of Evolution, Princeton Univ. Press)"
+    year: 1981
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.07.006 L05 for 'measured beak-size shifts across drought years.' Accurate: the Grants' multi-decade field study of the medium ground finch on Daphne Major documented that the 1977 drought (and later droughts) caused a measurable shift in average beak size as large-beaked birds survived on the harder seeds that remained. The lesson's one-line claim is correct and not overstated. No URL (print sources; Boag & Grant 1981 DOI 10.1126/science.214.4516.82)."
+
+  - id: S-306
+    title: "Bradford Hill (1965) — The Environment and Disease: Association or Causation?"
+    type: article
+    author: Austin Bradford Hill
+    organization: Proceedings of the Royal Society of Medicine
+    year: 1965
+    domains: [D06]
+    reviewed: true
+    notes: "Hill, A. B. (1965). The environment and disease: association or causation? Proceedings of the Royal Society of Medicine, 58(5), 295–300. Cited in U.07.006 L02 as the classic statement of the criteria for moving from correlation to causation. The lesson names strength, consistency, plausible mechanism, and temporality — all genuine Hill criteria — and simplifies them into a learner-friendly four-step checklist (pattern → third variable → mechanism → fair test). Real, foundational epidemiology paper; the simplification is faithful. No URL (print article)."
+
+  - id: S-307
+    title: "Tyler Vigen — Spurious Correlations"
+    type: website
+    url: https://www.spuriouscorrelations.com/
+    organization: Tyler Vigen
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.07.006 L01 (spurious-correlation gallery; the 'correlation is not causation' idea). URL verified live (2026-08-18): the site's header reads 'spurious correlations — correlation is not causation'; it is a real, well-known collection of real datasets that happen to correlate (data dredging), with the author explicitly explaining the lack of causal connection, confounding variables, and the limits of p-values. CC BY 4.0. On-topic for the lesson's third-variable/spurious-correlation practice. The lesson's ice-cream-and-drowning worked example is the standard common-cause illustration, not taken from this site."
+
+  - id: S-308
+    title: "USGS — Geologic Time: Age of the Earth"
+    type: website
+    url: https://pubs.usgs.gov/gip/geotime/age.html
+    organization: U.S. Geological Survey (U.S. Department of the Interior)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.07.006 L12 for the principle of superposition (deeper undisturbed rock layers are older) and the age of Earth (~4.6 billion years). URL verified live (2026-08-18): the page states the best age for the Earth/Solar System is 4.54 billion years (lead-isotope dating of the Canyon Diablo meteorite, <1% uncertainty) and that the oldest Earth rocks/crystals are 4.0–4.3 billion years old. The lesson's 'about 4.6 billion years' is the standard, correct rounding of 4.54 Ga. Superposition is a standard USGS-geologic-time concept (see the USGS geologic-time graphic linked from this page). US-centric agency, but the age of Earth and superposition are universal geology. Complements S-212 (USGS Water Science School)."
+
+  - id: S-309
+    title: "NOAA — Climate (climate.gov / NOAA.gov/climate)"
+    type: website
+    url: https://www.climate.gov/
+    organization: National Oceanic and Atmospheric Administration (NOAA)
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.07.006 L11 (the climate system — Sun + atmosphere + ocean + land — and the greenhouse effect) as the NOAA authority alongside the IPCC. URL verified live (2026-08-18): climate.gov currently redirects to NOAA.gov/climate ('NOAA experts provide data, tools and information to help people understand, prepare for and adapt to our changing climate'), with Drought.gov/Heat.gov and climate-data quick links. NOAA is the authoritative U.S. climate/ocean/atmosphere agency and documents the greenhouse effect and ocean heat transport the lesson describes. US-centric source; used alongside the IPCC (global) as one authority, not the only tradition."
+
+  - id: S-310
+    title: "Ripple & Beschta (2012) — Trophic cascades in Yellowstone (wolves, elk, aspen)"
+    type: article
+    author: William J. Ripple & Robert L. Beschta
+    organization: Biological Conservation
+    year: 2012
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Ripple, W. J., & Beschta, R. L. (2012). Trophic cascades in Yellowstone: The first 15 years after wolf reintroduction. Biological Conservation 145(1), 205–213 (see also Beschta & Ripple 2009, Biological Conservation 142:2401–2414). Cited in U.07.006 L06 for the wolf–Yellowstone trophic cascade. ACCURACY NOTE: the lesson originally wrote that returning wolves 'changed rivers and forests,' echoing the popular 'How Wolves Change Rivers' simplification. Fact-check corrected this to the accurate, hedged form: wolves were extirpated from Yellowstone by ~1930 and reintroduced 1995–1996; their return reduced elk numbers and browsing, and some willow/aspen recovery followed — but the ecosystem's response has been complex, spatially variable, and contested, and recent work (Brice et al. 2025, Ecological Monographs; Hobbs et al. 2024, Ecological Monographs) cautions against treating Yellowstone as a straightforward 'wolves changed the rivers' cascade. The lesson now states the documented reduction in elk browsing and partial plant recovery without overstating the rivers claim. No URL (print article)."

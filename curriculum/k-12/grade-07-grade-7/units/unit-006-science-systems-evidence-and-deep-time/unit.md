@@ -67,3 +67,15 @@ alongside other ways of knowing, never as creed.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Correlation Is Not Causation | D06.S1.07.01 |
+| 2 | Why a Pattern Alone Does Not Prove a Cause | D06.S1.07.01 |
+| 3 | Is the Claim Supported by Evidence? | D06.S1.07.02 |
+| 4 | Variation and Inheritance | D06.S2.07.01 |
+| 5 | Natural Selection Shapes Populations | D06.S2.07.01 |
+| 6 | Species in Relationship | D06.S2.07.02 |
+| 7 | Force, Mass, and Acceleration | D06.S3.07.01 |
+| 8 | Forces in Everyday Motion | D06.S3.07.01 |
+| 9 | Waves Carry Energy | D06.S3.07.02 |
+| 10 | Wave Properties and What We Observe | D06.S3.07.02 |
+| 11 | Atmosphere, Oceans, and Land Shape Climate | D06.S4.07.01 |
+| 12 | Reading Deep Time | D06.S4.07.02 |

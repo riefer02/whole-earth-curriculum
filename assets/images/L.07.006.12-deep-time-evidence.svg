@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading deep time</title>
+  <desc id="desc">A diagram of the evidence for deep time. Left: a stack of rock layers, each labeled from "youngest" at top to "oldest" at bottom, with a fossil in the lowest layer. Middle: an ice core drawn as a vertical column with horizontal bands, labeled "each band = one year of snowfall." Right: a horizontal geologic time bar from "Earth forms (4.6 billion years ago)" on the left to "today" on the right, with ticks for first life, first fish, and first dinosaurs. A caption reads "older is deeper — and much, much older than a human lifetime." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Reading Deep Time</text>
+
+  <!-- Rock layers -->
+  <text x="110" y="62" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Rock layers</text>
+  <rect x="70" y="72" width="80" height="28" fill="#e8dcc4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="110" y="91" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">youngest</text>
+  <rect x="70" y="100" width="80" height="28" fill="#ddd0b8" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="70" y="128" width="80" height="28" fill="#cfc2aa" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="70" y="156" width="80" height="28" fill="#c2b59c" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="70" y="184" width="80" height="28" fill="#b0a48e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="110" y="203" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">oldest</text>
+  <!-- fossil in oldest layer -->
+  <path d="M96 212 q0 -10 10 -10 q4 0 6 3 q2 -3 6 -3 q10 0 10 10 q0 6 -8 6 l-24 0 q-8 0 -8 -6 z" fill="#2b3a42" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="110" y="232" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">fossils in deep layers</text>
+  <text x="110" y="246" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">are the oldest</text>
+
+  <!-- Ice core -->
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Ice core</text>
+  <rect x="226" y="72" width="60" height="140" fill="#dbe7f0" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="226" y1="92" x2="286" y2="92" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="226" y1="112" x2="286" y2="112" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="226" y1="132" x2="286" y2="132" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="226" y1="152" x2="286" y2="152" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="226" y1="172" x2="286" y2="172" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="226" y1="192" x2="286" y2="192" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="256" y="228" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">each band = one year</text>
+  <text x="256" y="242" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">of snowfall — a frozen</text>
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">record of past air</text>
+
+  <!-- Geologic time bar -->
+  <text x="416" y="62" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Geologic time</text>
+  <rect x="300" y="78" width="212" height="18" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="300" y1="76" x2="300" y2="100" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="512" y1="76" x2="512" y2="100" stroke="#2b3a42" stroke-width="2"/>
+  <text x="300" y="118" font-family="sans-serif" font-size="11" fill="#4f6d7a">Earth forms</text>
+  <text x="512" y="118" text-anchor="end" font-family="sans-serif" font-size="11" fill="#4f6d7a">today</text>
+  <text x="406" y="138" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">4.6 billion years</text>
+
+  <!-- ticks -->
+  <line x1="330" y1="96" x2="330" y2="108" stroke="#2b3a42" stroke-width="2"/>
+  <text x="330" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">first life</text>
+  <line x1="404" y1="96" x2="404" y2="108" stroke="#2b3a42" stroke-width="2"/>
+  <text x="404" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">first fish</text>
+  <line x1="452" y1="96" x2="452" y2="108" stroke="#2b3a42" stroke-width="2"/>
+  <text x="452" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">dinosaurs</text>
+
+  <!-- rule -->
+  <rect x="40" y="290" width="432" height="96" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Older is deeper — and much older than a lifetime.</text>
+  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Fossils, rock layers, and ice cores are three ways we read</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the deep past — the story of past life and a changing Earth.</text>
+
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">These are models with evidence, held alongside other ways of knowing.</text>
+</svg>

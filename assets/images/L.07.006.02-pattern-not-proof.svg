@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Why a pattern alone does not prove a cause</title>
+  <desc id="desc">A four-step flow diagram for deciding whether a pattern proves a cause. Step 1: "Observe a pattern (correlation)." Step 2: "Ask: could a third thing cause both?" Step 3: "Ask: is there a mechanism, and can a fair test show it?" Step 4: "Only then: cautiously call it a cause — and stay open to new evidence." Downward arrows connect the steps. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Does a Pattern Prove a Cause?</text>
+
+  <!-- Step 1 -->
+  <rect x="86" y="58" width="340" height="62" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">1. Observe a pattern</text>
+  <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Two things change together (correlation)</text>
+
+  <path d="M256 120 L256 142" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr2)"/>
+
+  <!-- Step 2 -->
+  <rect x="86" y="146" width="340" height="62" rx="8" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">2. Ask: a third thing?</text>
+  <text x="256" y="194" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Could a hidden variable cause both?</text>
+
+  <path d="M256 208 L256 230" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr2)"/>
+
+  <!-- Step 3 -->
+  <rect x="86" y="234" width="340" height="62" rx="8" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">3. Ask: mechanism + test?</text>
+  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Is there a "how," and does a fair test show it?</text>
+
+  <path d="M256 296 L256 318" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr2)"/>
+
+  <!-- Step 4 -->
+  <rect x="86" y="322" width="340" height="62" rx="8" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">4. Only then: a cause</text>
+  <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Cautiously — and stay open to new evidence</text>
+
+  <defs>
+    <marker id="arr2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0 0 L8 3 L0 6 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- bottom rule -->
+  <rect x="40" y="410" width="432" height="72" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">A pattern is a starting point, not a proof.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A cause needs a mechanism and a test —</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and even then, we stay open to better evidence.</text>
+</svg>

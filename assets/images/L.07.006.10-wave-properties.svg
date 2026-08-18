@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Wave properties and what we observe</title>
+  <desc id="desc">Three panels connecting wave properties to what we observe. Panel 1 "Sound — pitch": a high-frequency wave (many close crests) labeled "high pitch" next to a low-frequency wave (few spread crests) labeled "low pitch." Panel 2 "Sound — loudness": a tall wave labeled "loud" next to a short wave labeled "quiet." Panel 3 "Light — color": a spectrum bar of different wavelengths labeled "long wavelength → short wavelength" with arrows marking red on one end and blue on the other. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Wave Properties → What We Observe</text>
+
+  <!-- Pitch -->
+  <rect x="24" y="52" width="150" height="180" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="99" y="76" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Sound — pitch</text>
+  <text x="99" y="96" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">frequency (how fast waves repeat)</text>
+  <path d="M34 140 q14 -22 28 0 t28 0 t28 0 t28 0" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="99" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458">high pitch (fast)</text>
+  <path d="M34 200 q28 -22 56 0" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="99" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">low pitch (slow)</text>
+
+  <!-- Loudness -->
+  <rect x="186" y="52" width="150" height="180" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="261" y="76" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Sound — loudness</text>
+  <text x="261" y="96" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">amplitude (height)</text>
+  <path d="M196 130 q14 -26 28 0 t28 0 t28 0 t28 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="261" y="164" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#7a9e7e">loud (tall)</text>
+  <path d="M196 200 q14 -10 28 0 t28 0 t28 0 t28 0" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="261" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">quiet (short)</text>
+
+  <!-- Color -->
+  <rect x="348" y="52" width="140" height="180" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="418" y="76" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Light — color</text>
+  <text x="418" y="96" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">wavelength</text>
+  <!-- spectrum bar -->
+  <rect x="364" y="112" width="108" height="16" fill="#b0b0b0" stroke="#2b3a42" stroke-width="2"/>
+  <text x="364" y="146" font-family="sans-serif" font-size="11" fill="#222222">long λ</text>
+  <text x="462" y="146" text-anchor="end" font-family="sans-serif" font-size="11" fill="#222222">short λ</text>
+  <text x="418" y="168" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">red…orange…blue</text>
+  <text x="418" y="188" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(longer waves → redder)</text>
+  <text x="418" y="204" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(shorter waves → bluer)</text>
+  <text x="418" y="224" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">λ = wavelength</text>
+
+  <!-- rule -->
+  <rect x="40" y="258" width="432" height="104" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">What you see and hear is the wave's properties</text>
+  <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">pitch = frequency · loudness = amplitude · color = wavelength</text>
+  <text x="256" y="334" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The same wave idea explains a whisper, a shout, a low drum,</text>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and the red of a sunset.</text>
+
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(Sound needs a medium to travel; light can cross empty space.)</text>
+</svg>

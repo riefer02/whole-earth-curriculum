@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Species in relationship</title>
+  <desc id="desc">A community diagram showing three kinds of species relationships. Predation: a solid arrow labeled "eats" from a rabbit to a fox, and from grass to a rabbit. Competition: a dashed double-headed line labeled "compete for food" between a rabbit and a deer, both eating grass. Symbiosis: a two-headed arrow labeled "mutual benefit" between a flower and a bee. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Species in Relationship</text>
+
+  <!-- Predation (left) -->
+  <rect x="24" y="52" width="140" height="250" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="94" y="76" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Predation</text>
+
+  <!-- grass -->
+  <path d="M70 220 q0 -16 8 -16 M70 220 q4 -20 12 -16 M70 220 q-4 -18 -6 -12" stroke="#7a9e7e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M118 220 q0 -16 8 -16 M118 220 q4 -20 12 -16 M118 220 q-4 -18 -6 -12" stroke="#7a9e7e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <text x="94" y="238" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">grass</text>
+
+  <!-- rabbit -->
+  <g>
+    <ellipse cx="94" cy="150" rx="20" ry="14" fill="#e0b48a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="94" cy="134" r="10" fill="#e0b48a" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="82" cy="126" rx="4" ry="10" fill="#e0b48a" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="106" cy="126" rx="4" ry="10" fill="#e0b48a" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="94" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rabbit</text>
+
+  <!-- fox -->
+  <g>
+    <circle cx="94" cy="92" r="12" fill="#c96f3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M82 92 L70 80 L84 88 M106 92 L118 80 L104 88" stroke="#2b3a42" stroke-width="2" fill="#c96f3b"/>
+  </g>
+  <text x="94" y="70" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fox</text>
+
+  <!-- arrows -->
+  <path d="M94 118 L94 116" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M94 170 L94 176" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="120" y="100" font-family="sans-serif" font-size="12" fill="#4f6d7a">eats</text>
+  <text x="120" y="176" font-family="sans-serif" font-size="12" fill="#4f6d7a">eats</text>
+
+  <!-- Competition (middle) -->
+  <rect x="186" y="52" width="140" height="250" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Competition</text>
+
+  <!-- grass -->
+  <path d="M236 220 q0 -16 8 -16 M236 220 q4 -20 12 -16 M236 220 q-4 -18 -6 -12" stroke="#7a9e7e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M276 220 q0 -16 8 -16 M276 220 q4 -20 12 -16 M276 220 q-4 -18 -6 -12" stroke="#7a9e7e" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">grass (shared food)</text>
+
+  <!-- rabbit -->
+  <g>
+    <ellipse cx="210" cy="160" rx="18" ry="13" fill="#e0b48a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="210" cy="145" r="9" fill="#e0b48a" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="200" cy="138" rx="3.5" ry="9" fill="#e0b48a" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="220" cy="138" rx="3.5" ry="9" fill="#e0b48a" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="210" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rabbit</text>
+
+  <!-- deer -->
+  <g>
+    <ellipse cx="302" cy="160" rx="20" ry="14" fill="#b8956e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M290 146 L282 118 M298 146 L290 114 M306 146 L310 118" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  </g>
+  <text x="302" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">deer</text>
+
+  <!-- dashed competition line -->
+  <line x1="228" y1="160" x2="282" y2="160" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">compete for food</text>
+
+  <!-- Symbiosis (right) -->
+  <rect x="348" y="52" width="140" height="250" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="418" y="76" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Symbiosis</text>
+
+  <!-- flower -->
+  <g>
+    <line x1="388" y1="180" x2="388" y2="130" stroke="#7a9e7e" stroke-width="2.5"/>
+    <circle cx="388" cy="124" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="388" cy="124" r="4" fill="#6b5a4a" stroke="#2b3a42" stroke-width="1.5"/>
+    <ellipse cx="388" cy="196" rx="14" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="418" y="116" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">flower</text>
+
+  <!-- bee -->
+  <g>
+    <ellipse cx="446" cy="150" rx="12" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="446" y1="144" x2="446" y2="156" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="434" cy="142" rx="5" ry="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <text x="448" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">bee</text>
+
+  <!-- mutual arrow -->
+  <line x1="398" y1="150" x2="428" y2="150" stroke="#2b3a42" stroke-width="2" marker-start="url(#arr6)" marker-end="url(#arr6)"/>
+  <text x="418" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">mutual benefit</text>
+
+  <defs>
+    <marker id="arr6" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0 0 L8 3 L0 6 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- rule -->
+  <rect x="40" y="330" width="432" height="90" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">These relationships shape the whole community</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">predation · competition · symbiosis</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">together they decide who lives, who eats, and who thrives —</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a change to one relationship ripples through the others.</text>
+</svg>

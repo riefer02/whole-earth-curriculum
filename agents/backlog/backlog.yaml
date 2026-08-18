@@ -4434,7 +4434,7 @@ items:
     type: lesson
     grade: 7
     domain: D06
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4446,6 +4446,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1120 files. Verified L.07.006.01-.12, sequence 1-12, grade 7, U.07.006, all 8 D06 grade-7 standards covered, unit.md table matches 12 lessons; science spot-checks correct (F=ma a=F/m, ice-cream/drowning third-variable, peppered moths + Grant & Grant finches); origins framed as models-with-evidence never creed; concrete Connections and sources.
+      fact-checker:
+        verdict: passed
+        note: Verified correlation-vs-causation (Bradford Hill 1965, Tyler Vigen), natural selection (Darwin 1859; Kettlewell 1955 peppered moth with 'later refined' hedge; Grant & Grant finch beak shifts), F=ma (Newton Principia 1687), waves (pitch/loudness/color/Rayleigh scattering), climate (IPCC/NOAA), deep time (USGS 4.54 Ga, superposition/ice cores); corrected wolf-Yellowstone overstatement to documented elk-reduction cascade; registered S-302..S-310 + IPCC S-005 reviewed.
+      global-culture-editor:
+        verdict: passed
+        note: "Verified not Western-science-by-default: Newton/Darwin/peppered-moth/Galapagos explicitly de-centered (long before Newton named the law; maize in the Americas to rice in Asia), climate/ecosystem examples span monsoons/coral reefs/rice paddies/deserts/savannas, deep time holds origins as models-with-evidence side-by-side with other ways of knowing never ranked; added missing global lens to Lesson 3 and a note that weighing an herbal-tea anecdote is not a dismissal of Indigenous/traditional healing traditions."
+      accessibility-editor:
+        verdict: passed
+        note: Checked low-tech tier (all 12 lessons declare materials_low_tech with voice/body/found-object alternatives, devices only as optional materials_enriched) and alt text (all 12 assets entries have non-empty descriptive alt resolving to real SVGs using labels/shapes not color-only, with spoken and tactile alternatives for graphs/diagrams) — no barriers found.
+      alignment-auditor:
+        verdict: passed
+        note: Verified all four lenses (ethics via correlation-misuse/evidence-honesty reasoning, egalitarianism 'science for everyone', global/anthropological non-Western examples, strong environment lens across climate/deep-time/ecosystem + technology effects); every objective resolves through D06.Sx.07.x -> D06 -> P3 to the vision; no hierarchy/supremacy content.
+      child-psychologist:
+        verdict: passed
+        note: "Grade-7 band: checked cognitive fit (correlation/causation, natural selection, F=ma, waves, deep time anchored in concrete worked examples and hands-on activity, human-caused warming deferred to Grade 9), emotional safety (origins as models-with-evidence held alongside other ways of knowing not creed, climate framed with agency not despair), physical fit (card sorts, seed hunts, string webs, rope/stadium waves, layer stacks), open-endedness."
   - id: B-353
     title: Author lessons for Unit U.07.007 (Making, Performing & Designing)
     agent: lesson-author

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Is the claim supported by evidence?</title>
+  <desc id="desc">A three-column evaluation diagram. Left column: a box labeled "The claim" containing "Eating breakfast improves memory." Middle column: a box labeled "Evidence given" containing "one small study of 20 students for one week." Right column: a box labeled "Further evidence that would help" containing "a larger sample, a control group, repetition, and an explanation of how." A caption reads "supported, weak, or not enough to say yet?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Is the Claim Supported by Evidence?</text>
+
+  <!-- Claim column -->
+  <rect x="24" y="60" width="144" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">The claim</text>
+  <text x="96" y="116" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Eating</text>
+  <text x="96" y="136" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">breakfast</text>
+  <text x="96" y="156" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">improves</text>
+  <text x="96" y="176" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">memory.</text>
+
+  <!-- Evidence column -->
+  <rect x="184" y="60" width="144" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">Evidence given</text>
+  <text x="256" y="114" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">one small study,</text>
+  <text x="256" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">20 students,</text>
+  <text x="256" y="154" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">one week,</text>
+  <text x="256" y="174" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">no comparison group</text>
+
+  <!-- Further evidence column -->
+  <rect x="344" y="60" width="144" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="416" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">Further evidence</text>
+  <text x="416" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">larger sample</text>
+  <text x="416" y="132" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">control group</text>
+  <text x="416" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">repetition</text>
+  <text x="416" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a "how" (mechanism)</text>
+
+  <!-- Question caption -->
+  <rect x="96" y="250" width="320" height="60" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="276" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Supported? Weak? Not enough to say yet?</text>
+  <text x="256" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Weigh the evidence against the claim — then say what is missing.</text>
+
+  <!-- rule -->
+  <rect x="64" y="352" width="384" height="96" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">How to check a claim</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">1. What exactly is claimed?</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">2. What evidence is offered, and how strong is it?</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">3. What further evidence would settle it?</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"Not enough evidence" is a fair, precise answer — not a failure.</text>
+</svg>

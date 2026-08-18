@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Force, mass, and acceleration</title>
+  <desc id="desc">A diagram of Newton's second law. The same force arrow pushes a light cart and a heavy cart. The light cart accelerates a lot (long acceleration arrow), the heavy cart accelerates a little (short arrow). The formula "force = mass × acceleration" appears in a box, with "so acceleration = force ÷ mass." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Force, Mass, and Acceleration</text>
+
+  <!-- Light cart -->
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Same push (force) on two carts…</text>
+
+  <!-- light cart body -->
+  <rect x="120" y="120" width="110" height="44" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="175" y="147" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">light mass</text>
+  <circle cx="140" cy="168" r="9" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="210" cy="168" r="9" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- force arrow -->
+  <line x1="230" y1="142" x2="300" y2="142" stroke="#e0a458" stroke-width="5" marker-end="url(#arr7f)"/>
+  <text x="265" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458">force F</text>
+  <!-- acceleration arrow -->
+  <line x1="320" y1="142" x2="440" y2="142" stroke="#6b93b6" stroke-width="5" marker-end="url(#arr7a)"/>
+  <text x="380" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6">big acceleration</text>
+
+  <!-- Heavy cart -->
+  <rect x="120" y="210" width="110" height="44" rx="6" fill="#9a7650" stroke="#2b3a42" stroke-width="2"/>
+  <text x="175" y="237" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#ffffff">heavy mass</text>
+  <circle cx="140" cy="258" r="9" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="210" cy="258" r="9" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="230" y1="232" x2="300" y2="232" stroke="#e0a458" stroke-width="5" marker-end="url(#arr7f)"/>
+  <text x="265" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458">force F</text>
+  <line x1="320" y1="232" x2="380" y2="232" stroke="#6b93b6" stroke-width="5" marker-end="url(#arr7a)"/>
+  <text x="360" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6">small</text>
+  <text x="360" y="204" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6">acceleration</text>
+
+  <defs>
+    <marker id="arr7f" markerWidth="12" markerHeight="12" refX="10" refY="4" orient="auto">
+      <path d="M0 0 L10 4 L0 8 z" fill="#e0a458"/>
+    </marker>
+    <marker id="arr7a" markerWidth="12" markerHeight="12" refX="10" refY="4" orient="auto">
+      <path d="M0 0 L10 4 L0 8 z" fill="#6b93b6"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The same force moves the light cart more than the heavy one.</text>
+
+  <!-- Formula box -->
+  <rect x="96" y="320" width="320" height="104" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">force = mass × acceleration</text>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">so  acceleration = force ÷ mass</text>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">more force → more acceleration · more mass → less acceleration</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a force is a push or a pull; acceleration is how quickly motion changes</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Natural selection shapes populations</title>
+  <desc id="desc">A four-step cycle showing natural selection. Step 1 "Variation exists" shows varied beetles. Step 2 "The environment selects" shows a bird eating the beetles that stand out on dark bark while the darker ones blend in. Step 3 "Survivors reproduce" shows the darker beetles leaving offspring. Step 4 "The population shifts" shows a row of mostly dark beetles. An arrow loops from step 4 back to step 1, labeled "over many generations." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Natural Selection, Step by Step</text>
+
+  <!-- Step 1 -->
+  <rect x="24" y="52" width="220" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="76" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">1. Variation exists</text>
+  <ellipse cx="80" cy="122" rx="20" ry="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="134" cy="122" rx="20" ry="14" fill="#9a7650" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="188" cy="122" rx="20" ry="14" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="158" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">beetles in many shades</text>
+
+  <!-- Step 2 -->
+  <rect x="268" y="52" width="220" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="76" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">2. Environment selects</text>
+  <!-- dark bark background -->
+  <rect x="286" y="88" width="184" height="40" rx="4" fill="#6b5a4a" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="330" cy="108" rx="14" ry="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="360" cy="108" rx="14" ry="9" fill="#9a7650" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="420" cy="108" rx="14" ry="9" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <!-- bird eating light beetle -->
+  <path d="M318 96 q-6 -10 -14 -6 l-4 -4 z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="158" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">light beetles stand out — eaten first</text>
+
+  <!-- arrow down -->
+  <path d="M134 172 L134 196" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr5)"/>
+  <path d="M378 172 L378 196" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr5)"/>
+
+  <defs>
+    <marker id="arr5" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0 0 L8 3 L0 6 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- Step 3 -->
+  <rect x="24" y="200" width="220" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="224" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">3. Survivors reproduce</text>
+  <ellipse cx="104" cy="270" rx="20" ry="14" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="164" cy="270" rx="20" ry="14" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="104" cy="300" rx="12" ry="8" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="134" cy="300" rx="12" ry="8" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="164" cy="300" rx="12" ry="8" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">their traits pass on</text>
+
+  <!-- Step 4 -->
+  <rect x="268" y="200" width="220" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="224" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">4. Population shifts</text>
+  <ellipse cx="300" cy="268" rx="18" ry="12" fill="#9a7650" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="346" cy="268" rx="18" ry="12" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="392" cy="268" rx="18" ry="12" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="438" cy="268" rx="18" ry="12" fill="#4c4237" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">now mostly dark — better hidden</text>
+
+  <!-- loop back -->
+  <path d="M256 320 C256 360 40 360 40 320 L40 172" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arr5)"/>
+  <text x="52" y="352" font-family="sans-serif" font-size="13" fill="#7a9e7e">over many generations</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">The environment does not choose on purpose —</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">it simply makes some traits more likely to survive and reproduce.</text>
+
+  <rect x="96" y="462" width="320" height="40" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">variation + inheritance + selection → change over time</text>
+</svg>
