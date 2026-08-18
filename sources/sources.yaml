@@ -2231,4 +2231,175 @@ sources:
     reviewed: true
     notes: "General authority for the history-of-mathematics notes across U.06.005. Verified live (2026-08-17) via three pages: (1) the Brahmagupta biography (mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/) — born 598, died 670, wrote the Brahmasphutasiddhanta in 628, and 'gives arithmetical rules in terms of fortunes (positive numbers) and debts (negative numbers)', i.e., the first systematic rules for arithmetic with negative numbers (7th century CE), matching L03/L04's claim that negative numbers were given rules by Brahmagupta in India. (2) The Al-Khwarizmi biography (mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/) — 'His algebra treatise Hisab al-jabr w'al-muqabala gives us the word algebra and can be considered as the first book to be written on algebra' (9th century), matching L05/L06's claim that 'algebra' derives from al-jabr in al-Khwarizmi's 9th-century work. (3) 'An overview of Indian mathematics' (mathshistory.st-andrews.ac.uk/HistTopics/Indian_mathematics/) — 'The main Sulbasutras were composed by Baudhayana (about 800 BC)…' as 'rules for constructing altars', matching L01's Baudhayana-Sulba-Sutra scaling-altars note. The remaining history notes are standard and accurate without a page-level citation: Chinese counting rods used red for positive and black for negative in the Nine Chapters on the Mathematical Art (Jiuzhang Suanshu, Han dynasty) (L03); coordinate grids trace to Descartes (La Geometrie, 1637) while locating by two distances (latitude/longitude, grid squares) is far older (L07/L11); area/volume formulas appear in ancient Egyptian (Rhind/Moscow papyri), Mesopotamian, Chinese (Nine Chapters), and Indian (Sulbasutras) records (L09); averages/middle values appear in Babylonian and Indian record-keeping (L14). All these lessons hold the 'all traditions are worthy of study' framing as a value (docs/philosophy.md), clearly separated from the factual history."
 
+  - id: S-241
+    title: "Khan Academy — 6th grade data & statistics and physics (forces)"
+    type: website
+    url: https://www.khanacademy.org/
+    organization: Khan Academy
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L01 (Reading tables), L02 (Creating bar graphs), and L09 (Balanced and unbalanced forces) as a general, age-appropriate practice reference for data organization and Newton's-first-law force concepts. Khan Academy is a real, reputable open education resource; the specific lesson/unit paths cited (cc-sixth-grade-math/cc-6th-data-statistics and physics/forces-newtons-laws/balanced-unbalanced-forces) are standard Khan Academy course locations. khanacademy.org returned a bot-challenge (HTTP 403-style 'Client Challenge') to the fact-checker's environment on 2026-08-17, so it is registered as a general authority rather than a page-level claim citation. The underlying skills (tables, bar graphs, balanced vs unbalanced forces) are standard and independently supported by the BBC Bitesize entries S-242, S-246, S-247 below."
+
+  - id: S-242
+    title: "BBC Bitesize (KS3) — Working scientifically: different types of data, graphs and charts, observation and measurement, bias in science"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zsg6m39
+    organization: BBC Bitesize (KS3 Science)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L01 (Different types of data, articles/zxkh6g8), L02 (Graphs and charts, articles/zhmbvwx), L03 (Observation and measurement skills, articles/zm37jsg), and L04 (Bias in science, articles/zybm7yc). URLs verified live (2026-08-17) via the KS3 'Working scientifically' topic (zsg6m39; the same article set also appears under the Physics topic zrwvf82 and Chemistry topic zb8fn9q). Content spot-checked live: 'Different types of data' covers recording/reading data in tables (continuous/discrete); 'Graphs and charts' covers bar charts, axes, and scale; 'Observation and measurement skills' covers measuring, repeating readings, and error; 'Bias in science' covers bias and how sampling/random selection reduce it. These directly support the unit's tables→graphs→error→bias inquiry progression. Replaces the retired KS3 'guides/…/revision/N' URLs (guides/zy4rng8 and guides/zg96kqt), which now 404 after BBC Bitesize restructured guides→topics/articles."
+
+  - id: S-243
+    title: "BBC Bitesize (KS3) — Living organisms: plant and animal cells; unicellular organisms"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/znyycdm
+    organization: BBC Bitesize (KS3 Biology)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L05 (What are plant and animal cells?, articles/zkm7wnb; Unicellular organisms, articles/z4f26yc). URLs verified live (2026-08-17) via the KS3 'Living organisms' topic (znyycdm). Spot-checked live: 'What are plant and animal cells?' states cells have a nucleus, cytoplasm, cell membrane (animal), plus a cell wall and chloroplasts (plant) — directly supporting the lesson's cell-parts and plant-vs-animal claims; 'Unicellular organisms' names amoeba, bacteria, and yeast as single-celled — supporting the lesson's single-celled-organism claim. Replaces (a) the previously cited articles/zfj3rwx, which resolves to 'Specialised animal cells' (only animal-cell parts, no plant wall/chloroplasts or single-celled content), and (b) the broken National Geographic 'cells' article URL."
+
+  - id: S-244
+    title: "BBC Bitesize (KS3) — Ecosystems and habitats: food chains and webs"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zxhhvcw/articles/zjh4r2p
+    organization: BBC Bitesize (KS3 Biology)
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.06.006 L06 for energy transfer through an ecosystem. URL verified live (2026-08-17) via the KS3 'Ecosystems and habitats' topic (zxhhvcw). Spot-checked live: covers food chains/webs, producers, consumers, decomposers, and energy transfer along the chain — directly supporting the lesson's energy-flow claim. Replaces the retired guides/z99kkqt/revision/1 URL, which now resolves to an unrelated Higher-Physics 'Interference' page."
+
+  - id: S-245
+    title: "BBC Bitesize (KS3) — Energy: energy stores"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zc3g87h/articles/zg2sn9q
+    organization: BBC Bitesize (KS3 Physics)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L07 and L08 for the forms of energy and energy transfers. URL verified live (2026-08-17) via the KS3 'Energy' topic (zc3g87h). Spot-checked live: covers kinetic, potential (gravitational/elastic), thermal, and chemical energy stores and energy transfers — directly supporting the lesson's five-forms and transformation-chain claims. Replaces the retired guides/z6g2pv4/revision/1 and /revision/3 URLs (both 404)."
+
+  - id: S-246
+    title: "BBC Bitesize (KS3) — Forces and movement: force diagrams and resultant forces"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z4brd2p/articles/zhnfp4j
+    organization: BBC Bitesize (KS3 Physics)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L09 for balanced and unbalanced forces. URL verified live (2026-08-17) via the KS3 'Forces and movement' topic (z4brd2p). Spot-checked live: covers drawing/interpreting force diagrams and resultant forces — i.e., balanced (zero resultant) vs unbalanced (non-zero resultant) forces and their effect on motion — directly supporting the lesson's Newton's-first-law claim. Replaces the retired guides/z9bqxsg/revision/1 URL (404)."
+
+  - id: S-247
+    title: "BBC Bitesize (KS3) — The Earth and atmosphere: the rock cycle"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z3fv4wx/articles/z2xx6g8
+    organization: BBC Bitesize (KS3 Chemistry)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L11 for the rock cycle. URL verified live (2026-08-17) via the KS3 'The Earth and atmosphere' topic (z3fv4wx). Spot-checked live: covers igneous, sedimentary, and metamorphic rock and the rock cycle — directly supporting the lesson's three-rock-types and recycling claims. Replaces the retired guides/zwd2mp3/revision/1 URL (404)."
+
+  - id: S-248
+    title: "BBC Bitesize (KS2) — What is soil made from?"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/z9bbkqt/articles/zgqkcmn
+    organization: BBC Bitesize (KS2 Science)
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.06.006 L12 for what soil is made of. URL verified live (2026-08-17): the KS2 'Rocks' topic (z9bbkqt) article 'What is soil made from?' (articles/zgqkcmn) explains soil as formed from broken-down rock (minerals) and decayed living things — directly supporting the lesson's 'soil = minerals + humus' claim. Replaces the retired topics/z9f2pv4/articles/z2vrcmn URL (404). Complements the already-registered KS2 Rocks topic entry S-046."
+
+  - id: S-249
+    title: "NIST — Uncertainty of Measurement Results"
+    type: website
+    url: https://physics.nist.gov/cuu/Uncertainty/index.html
+    organization: National Institute of Standards and Technology (NIST), Physical Measurement Laboratory
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L03 for why every measurement carries some uncertainty. URL verified live (2026-08-17): the NIST 'Uncertainty of Measurement Results' reference (the CODATA/PMI uncertainty hub) has an 'Essentials of expressing measurement uncertainty' section covering basic definitions, evaluating/combining uncertainty components, and expanded uncertainty — directly supporting the lesson's 'measurements differ; name the source and reduce it' framing at a general-authority level (the statistical treatment is deferred to later grades). Replaces the 404 URL nist.gov/pml/owm/measurement-uncertainty (NIST restructured OWM pages). US-centric source; treated as one authoritative reference."
+
+  - id: S-250
+    title: "Understanding Science (UC Berkeley) — What is science? / bias"
+    type: website
+    url: https://undsci.berkeley.edu/understanding-science-101/what-is-science/
+    organization: University of California Museum of Paleontology / Understanding Science (UC Berkeley)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L04 for how science guards against bias. URL verified live (2026-08-17): the 'Understanding Science 101 → What is science?' page is live and its 'The social side of science' section includes 'Human endeavor, human biases' — the specific content on bias and how scientists guard against it. The cited URL is the 101 hub that links to that content, so it functions as a general authority for the bias-vs-error distinction and the guardrails (random sampling, blind measurement) rather than a page-level citation. The lesson's specific bias definitions (selection bias, observer bias) are standard and independently supported by BBC Bitesize 'Bias in science' (S-242)."
+
+  - id: S-251
+    title: "National Geographic Education — Cell Theory"
+    type: website
+    url: https://education.nationalgeographic.org/resource/cell-theory/
+    organization: National Geographic Society
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L05 for cells as the basic unit of life. URL verified live (2026-08-17). States the classical cell theory — 'all organisms are made of cells', 'cells are the basic units of life', 'cells come from preexisting cells' — and the modern addition that 'cells are the basic structural, functional, and organizational units of both single-celled and multicellular organisms.' Directly supports every claim in the lesson. Replaces the broken nationalgeographic.com/science/article/cells URL (404)."
+
+  - id: S-252
+    title: "National Geographic Education — Food Chain"
+    type: website
+    url: https://education.nationalgeographic.org/resource/food-chain/
+    organization: National Geographic Society
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.06.006 L06 for energy flowing through an ecosystem. URL verified live (2026-08-17). States 'Each food chain is a possible pathway that energy and nutrients can follow through the ecosystem,' describes producers→consumers→decomposers, and that decomposers 'complete the cycle of life, returning nutrients to the soil' — directly supporting the lesson's 'energy flows one way, matter cycles' framing. Replaces the 404 URL education.nationalgeographic.org/resource/energy-flow-ecosystem/."
+
+  - id: S-253
+    title: "National Geographic Education — The Carbon Cycle"
+    type: website
+    url: https://education.nationalgeographic.org/resource/carbon-cycle/
+    organization: National Geographic Society
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.06.006 L06 for the carbon cycle. URL verified live (2026-08-17). States carbon moves between reservoirs via photosynthesis, respiration, decomposition, and burning fossil fuels, and 'Because Earth is a closed system, the amount of carbon on the planet never changes' — directly supporting the lesson's 'carbon cycles, reused again and again' claim."
+
+  - id: S-254
+    title: "National Geographic Education — The Rock Cycle"
+    type: website
+    url: https://education.nationalgeographic.org/resource/rock-cycle/
+    organization: National Geographic Society
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L11 for the rock cycle. URL verified live (2026-08-17). States there are 'three main types of rocks: sedimentary, igneous, and metamorphic', formed by 'melting, cooling, eroding, compacting, or deforming'; igneous = molten material that cools and solidifies; sedimentary = weathered/eroded fragments compacted into layers; metamorphic = changed by 'immense heat or pressure.' Directly supports every claim in the lesson."
+
+  - id: S-255
+    title: "EIA Energy Kids — Forms of Energy"
+    type: website
+    url: https://www.eia.gov/kids/what-is-energy/forms-of-energy.php
+    organization: U.S. Energy Information Administration (EIA)
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.06.006 L07 for the forms of energy. URL verified live (2026-08-17). States 'energy is either potential energy or kinetic energy'; lists potential (chemical, stored mechanical/tension, gravitational) and kinetic (radiant/light, thermal/heat, motion, sound, electrical) forms, and gives conversions (e.g., 'chemical energy is converted to thermal energy when people burn wood'). Directly supports the lesson's five-forms (kinetic, potential, thermal, chemical, electrical) framing — a standard elementary grouping of EIA's finer sub-forms. US-centric source; treated as one authoritative, age-appropriate reference."
+
+  - id: S-256
+    title: "EIA Energy Kids — Laws of Energy"
+    type: website
+    url: https://www.eia.gov/kids/what-is-energy/laws-of-energy.php
+    organization: U.S. Energy Information Administration (EIA)
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.06.006 L08 for energy changing form and being conserved. URL verified live (2026-08-17, HTTP 200). Covers the law of conservation of energy (energy is neither created nor destroyed, only changes form) and energy transfers/conversions with waste heat — directly supporting the lesson's 'energy changes form; some always escapes as heat; none disappears' framing, which the lesson correctly hedges (the quantitative law is deferred to Grade 9). Replaces the 404 URL eia.gov/kids/what-is-energy/transformations.php. US-centric source; treated as one authoritative, age-appropriate reference."
+
+  - id: S-257
+    title: "NASA Space Place — Solar System"
+    type: website
+    url: https://spaceplace.nasa.gov/menu/solar-system/
+    organization: NASA (NASA Space Place / NASA Science for Kids)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L10 for the planets, the Sun, and Earth's place. URL verified live (2026-08-17): the 'Solar System' hub (spaceplace.nasa.gov/menu/solar-system/) lists 'All About the Planets' and individual planet/moon pages, including Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and the Sun. Replaces the 404 URL spaceplace.nasa.gov/solar-system/en/ (no such page)."
+
+  - id: S-258
+    title: "NASA Science — Solar System Exploration"
+    type: website
+    url: https://science.nasa.gov/solar-system/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.06.006 L10 for planet order and the Sun's scale. URL verified live (2026-08-17). States 'Our solar system has eight planets, and five dwarf planets', 'Our solar system includes the Sun, eight planets… hundreds of moons…', and has 'About the Planets — Learn about the inner planets, the outer planets' — directly supporting the lesson's eight-planet order, Earth-is-third, inner-vs-outer, and Sun-is-a-star claims. The lesson's 'about 100 times wider' Sun-vs-Earth figure is a correct one-significant-figure rounding of the ~109× ratio."
+
+  - id: S-259
+    title: "FAO Soils Portal — Key definitions (what is soil)"
+    type: website
+    url: https://www.fao.org/soils-portal/about/all-definitions/en/
+    organization: Food and Agriculture Organization of the United Nations (FAO)
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.06.006 L12 for what soil is made of. URL verified live (2026-08-17): the FAO Soils Portal 'All definitions' page defines soil as 'the natural medium for the growth of plants' composed of 'weathered mineral materials, organic material, air and water' and states 'Soil sustains most living organisms, being the ultimate source of their mineral nutrients.' Directly supports the lesson's 'soil = minerals from broken rock + humus from decayed life' claim. Note: the lesson's earlier label 'Soils: where food begins' is FAO's World Soil Day slogan, not this page's title — the citation is corrected to the page's actual title ('All definitions')."
+
 

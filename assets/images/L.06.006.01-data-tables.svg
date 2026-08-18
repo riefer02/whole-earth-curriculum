@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">From messy observations to an organized table</title>
+  <desc id="desc">A diagram showing how scattered observations become an organized data table. On the left, a messy pile of tally marks and scribbled notes is labeled "messy observations." An arrow points right to a neat table with three columns. The header row reads "cloth type," "drops absorbed," and "tally," and four rows list wool, cotton, paper, and plastic with their drop counts and tally marks. A caption below reads: a table lines up every observation under a clear header, so the pattern is easy to read. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">From Messy Observations to a Table</text>
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">every column needs a header; every observation gets a row</text>
+
+  <!-- messy pile -->
+  <g transform="translate(40, 120)">
+    <rect x="0" y="0" width="170" height="170" rx="10" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="85" y="30" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">messy observations</text>
+    <g stroke="#2b3a42" stroke-width="2">
+      <line x1="30" y1="60" x2="46" y2="60"/><line x1="30" y1="60" x2="30" y2="76"/><line x1="38" y1="68" x2="46" y2="60"/>
+      <line x1="60" y1="60" x2="76" y2="60"/><line x1="60" y1="60" x2="60" y2="76"/><line x1="68" y1="68" x2="76" y2="60"/>
+      <line x1="90" y1="60" x2="106" y2="60"/><line x1="90" y1="60" x2="90" y2="76"/><line x1="98" y1="68" x2="106" y2="60"/>
+      <line x1="120" y1="60" x2="136" y2="60"/><line x1="120" y1="60" x2="120" y2="76"/><line x1="128" y1="68" x2="136" y2="60"/>
+      <line x1="30" y1="100" x2="46" y2="100"/><line x1="30" y1="100" x2="30" y2="116"/><line x1="38" y1="108" x2="46" y2="100"/>
+      <line x1="60" y1="100" x2="76" y2="100"/><line x1="60" y1="100" x2="60" y2="116"/><line x1="68" y1="108" x2="76" y2="100"/>
+      <line x1="90" y1="100" x2="106" y2="100"/><line x1="90" y1="100" x2="90" y2="116"/><line x1="98" y1="108" x2="106" y2="100"/>
+    </g>
+    <text x="85" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">cotton 14? wool…</text>
+  </g>
+
+  <!-- arrow -->
+  <line x1="216" y1="205" x2="276" y2="205" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="276,199 286,205 276,211" fill="#2b3a42"/>
+
+  <!-- table -->
+  <g transform="translate(300, 84)">
+    <rect x="0" y="0" width="190" height="240" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="0" y1="44" x2="190" y2="44" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="0" y1="44" x2="190" y2="44" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="95" y1="44" x2="95" y2="240" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="140" y1="44" x2="140" y2="240" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="0" y1="92" x2="190" y2="92" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="0" y1="140" x2="190" y2="140" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="0" y1="188" x2="190" y2="188" stroke="#2b3a42" stroke-width="2"/>
+    <text x="48" y="28" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">cloth type</text>
+    <text x="118" y="28" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">drops</text>
+    <text x="165" y="28" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">tally</text>
+    <text x="48" y="72" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">wool</text>
+    <text x="118" y="72" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">14</text>
+    <text x="165" y="72" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">IIII</text>
+    <text x="48" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">cotton</text>
+    <text x="118" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">18</text>
+    <text x="165" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">IIII</text>
+    <text x="48" y="168" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">paper</text>
+    <text x="118" y="168" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">9</text>
+    <text x="165" y="168" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">IIII</text>
+    <text x="48" y="216" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">plastic</text>
+    <text x="118" y="216" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+    <text x="165" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">II</text>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">a table lines up every observation under a clear header</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">so the pattern is easy to read</text>
+</svg>

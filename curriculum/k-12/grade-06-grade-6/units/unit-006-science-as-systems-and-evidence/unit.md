@@ -63,3 +63,15 @@ first time, always with a concrete anchor and open inquiry rather than dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.006.01 | Collect and Organize Data in Tables | D06.S1.06.01 |
+| L.06.006.02 | Graphs Support or Revise a Claim | D06.S1.06.01 |
+| L.06.006.03 | Sources of Error in an Investigation | D06.S1.06.02 |
+| L.06.006.04 | Bias: How It Creeps In and How to Reduce It | D06.S1.06.02 |
+| L.06.006.05 | Cells: The Basic Unit of Life | D06.S2.06.01 |
+| L.06.006.06 | Energy Flows, Matter Cycles Through an Ecosystem | D06.S2.06.02 |
+| L.06.006.07 | Forms of Energy and How Energy Changes | D06.S3.06.01 |
+| L.06.006.08 | Energy Transformations in Action | D06.S3.06.01 |
+| L.06.006.09 | Balanced and Unbalanced Forces | D06.S3.06.02 |
+| L.06.006.10 | Earth's Place in the Solar System | D06.S4.06.01 |
+| L.06.006.11 | The Rock Cycle Recycles Earth's Materials | D06.S4.06.02 |
+| L.06.006.12 | Soil Supports Life | D06.S4.06.02 (revisits S1, S2, S3, S4) |

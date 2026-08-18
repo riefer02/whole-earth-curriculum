@@ -3990,7 +3990,7 @@ items:
     type: lesson
     grade: 6
     domain: D06
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -4001,7 +4001,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by global-culture-editor: Fails docs/philosophy.md §11 (multiple knowledge traditions side by side): no indigenous/ancestral knowledge held beside the scientific account on topics where required — soil (L12 capstone), sky/seasons (L10), ecosystems (L6). Fix: add a respectful side-by-side sentence in L12 Connection naming soil-keepers who read soil by color/feel/smell across generations (Andean terracing, Sahelian fields, Amazonian forest-garden dark earth) framed as 'a science of observation in its own right, held beside, not beneath, the soil science you learn today'. Optionally name a star-knowledge tradition in L10 (Polynesian wayfinding, Aboriginal star-lore encoding seasons) instead of generic 'naming them in many languages'.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Re-review: validate passes (1001). Two added sentences present + accurate (L10 Polynesian wayfinders read stars + Aboriginal star-lore encodes seasons/food; L12 soil-keepers color/feel/smell Andean terraces/Sahel/Amazon dark earth, 'held beside not beneath'). IDs L.06.006.01-.12 grade 6 unit U.06.006; objectives resolve all 8 D06 standards; required headings; unit.md lists all 12; all 12 assets resolve non-empty alt; science still correct (cells/energy/matter/forces/rock cycle/Sun ~100x)."
+      fact-checker:
+        verdict: passed
+        note: "Re-review: two new references accurate (Polynesian wayfinding star navigation PVS S-516; Aboriginal star-lore Emu-in-the-Sky seasons/food AIATSIS S-088; Amazonian dark earth terra preta; Andean terracing FAO S-132 + UNESCO Machu Picchu; Sahelian soil-keeping). Framed as values 'held beside not beneath' separated from evidence; no other factual claims. validate passes (1001)."
+      global-culture-editor:
+        verdict: passed
+        note: "Re-review: both §11 fixes present + correctly framed (L12 soil-keepers color/feel/smell Andes/Sahel/Amazon 'science in its own right held beside never beneath'; L10 Polynesian wayfinding + Aboriginal star-lore 'held beside not beneath'). No US/Euro default; examples span global occupations/regions; L4 bias lesson egalitarian frame 'whose needs get counted'; cultures named respectfully not decoration."
+      accessibility-editor:
+        verdict: passed
+        note: "Re-review: added sentences narrative-only no new barrier (L12 'feel and smell' alongside 'color' inclusive); earlier findings hold (all 12 lessons real materials_low_tech + manipulative/kinesthetic UDL alternative per diagram; non-empty alt; SVG role=img/aria-labelledby/title/desc grayscale 'labels/shapes/order not color')."
+      alignment-auditor:
+        verdict: passed
+        note: "Re-review: added sentences strengthen global lens (multiple knowledge traditions side by side, anti-hierarchical, no US/Euro default). Lenses hold (ethics 'caring for soil is caring for people'; egalitarianism 'whose needs get counted'/'healthy soil feeds everyone'; global all 12; tech-environment L1/L3/L5-12; evidence-vs-values in L10/L12 facilitator notes). Traceability Vision->P3->D06->S1-S4->8 standards->U.06.006->L.06.006.01-.12."
+      child-psychologist:
+        verdict: passed
+        note: "Re-review: added sentences developmentally appropriate (concrete sensory anchors 'read the stars', 'know a field by color/feel/smell', 'held beside not beneath' a perspective-taking move within emerging formal operations; affirming non-distressing). Earlier findings hold (cognitive fit concrete anchors: counters-in-a-bag bias, token-passing flow-vs-cycle, beach-ball-vs-marble scale, magnifier-on-soil; emotional safety 'agency not despair'; physical fit stones/string/chalk/body; evidence-vs-inference-vs-value separated)."
   - id: B-341
     title: Author lessons for Unit U.06.007 (Making, Composing & Designing)
     agent: lesson-author

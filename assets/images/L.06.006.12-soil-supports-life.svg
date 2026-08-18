@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Soil supports life</title>
+  <desc id="desc">A cross-section diagram of soil supporting life. At the top, a plant grows with roots reaching down, labeled plants grow in soil. A small animal and a worm are shown in the soil, labeled soil is home to many living things. The soil is drawn in layers: the dark top layer is labeled humus — decayed remains of living things, and the lighter lower layer is labeled minerals — broken-down rock. Small arrows loop between the plant, the worm, and the soil, labeled nutrients cycle. A caption reads: soil is rock and life, working together to feed everything above. Labels, layers, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Soil Supports Life</text>
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rock and life, working together to feed everything above</text>
+
+  <!-- sky -->
+  <rect x="20" y="80" width="472" height="60" fill="#f4efe4" stroke="none"/>
+  <circle cx="60" cy="104" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="132" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">sunlight</text>
+
+  <!-- plant -->
+  <g transform="translate(150, 80)">
+    <line x1="60" y1="60" x2="60" y2="100" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M60,50 Q30,30 20,60 Q45,52 60,60 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M60,60 Q90,40 100,70 Q75,62 60,70 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <!-- roots -->
+    <g stroke="#2b3a42" stroke-width="2">
+      <line x1="60" y1="100" x2="40" y2="130"/>
+      <line x1="60" y1="100" x2="70" y2="135"/>
+      <line x1="60" y1="100" x2="88" y2="120"/>
+    </g>
+    <text x="60" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">plants grow in soil</text>
+  </g>
+
+  <!-- soil layers -->
+  <rect x="20" y="190" width="472" height="110" fill="#7a9e7e" fill-opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="20" y="250" width="472" height="50" fill="#e0a458" fill-opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="20" y1="250" x2="492" y2="250" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- worm -->
+  <g transform="translate(300, 210)">
+    <path d="M0,10 Q10,-6 20,10 Q30,26 40,10" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+    <text x="20" y="42" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">worm</text>
+  </g>
+
+  <!-- small animal -->
+  <g transform="translate(400, 216)">
+    <circle cx="0" cy="0" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="0" cy="12" r="13" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="0" y="42" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">tiny living things</text>
+  </g>
+
+  <!-- labels -->
+  <text x="256" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">humus — decayed remains of living things</text>
+  <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">minerals — broken-down rock</text>
+
+  <!-- nutrient loop arrows -->
+  <defs>
+    <marker id="sa" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+  <g fill="none" stroke="#4f6d7a" stroke-width="2">
+    <path d="M240,196 C200,150 320,140 300,206" marker-end="url(#sa)"/>
+    <path d="M330,260 C360,300 400,280 380,250" marker-end="url(#sa)"/>
+  </g>
+  <text x="250" y="180" font-family="sans-serif" font-size="11" fill="#4f6d7a">nutrients cycle</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">soil is rock and life together</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the quiet engine under every meal you will ever have</text>
+</svg>

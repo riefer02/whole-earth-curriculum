@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
+  <title id="title">Bias and how to reduce it</title>
+  <desc id="desc">A diagram contrasting biased and fair sampling. On the left, a garden bed holds many plants, and a dashed circle encloses only the plants nearest the path, labeled selection bias — only the sunniest, easiest plants were measured. On the right, the same garden shows several small circles scattered at random spots across the whole bed, labeled random sample — spots chosen without a pattern, so no corner is favored. Below, a panel shows a person reading a ruler while peeking at a label, labeled observer bias — the reader leans toward the answer they expect. A crossed-out version beside it is labeled blind measurement — the reader does not know which sample is which. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="560" fill="#fdfbf7"/>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Bias: A Steady Lean, and How to Straighten It</text>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a fair sample lets an unexpected answer show up</text>
+
+  <!-- left garden: biased -->
+  <g transform="translate(20, 80)">
+    <rect x="0" y="0" width="220" height="180" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="110" y="22" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">selection bias</text>
+    <!-- plants -->
+    <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+      <circle cx="40" cy="60" r="10"/><circle cx="70" cy="50" r="10"/><circle cx="100" cy="60" r="10"/>
+      <circle cx="130" cy="50" r="10"/><circle cx="160" cy="60" r="10"/><circle cx="190" cy="50" r="10"/>
+      <circle cx="40" cy="100" r="10"/><circle cx="70" cy="110" r="10"/><circle cx="100" cy="100" r="10"/>
+      <circle cx="130" cy="110" r="10"/><circle cx="160" cy="100" r="10"/><circle cx="190" cy="110" r="10"/>
+      <circle cx="40" cy="150" r="10"/><circle cx="70" cy="160" r="10"/><circle cx="100" cy="150" r="10"/>
+      <circle cx="130" cy="160" r="10"/><circle cx="160" cy="150" r="10"/><circle cx="190" cy="160" r="10"/>
+    </g>
+    <!-- bias circle -->
+    <ellipse cx="60" cy="100" rx="70" ry="85" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="7 5"/>
+    <text x="110" y="176" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">only the plants nearest the path were measured</text>
+  </g>
+
+  <!-- right garden: random -->
+  <g transform="translate(272, 80)">
+    <rect x="0" y="0" width="220" height="180" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="110" y="22" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">random sample</text>
+    <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+      <circle cx="40" cy="60" r="10"/><circle cx="70" cy="50" r="10"/><circle cx="100" cy="60" r="10"/>
+      <circle cx="130" cy="50" r="10"/><circle cx="160" cy="60" r="10"/><circle cx="190" cy="50" r="10"/>
+      <circle cx="40" cy="100" r="10"/><circle cx="70" cy="110" r="10"/><circle cx="100" cy="100" r="10"/>
+      <circle cx="130" cy="110" r="10"/><circle cx="160" cy="100" r="10"/><circle cx="190" cy="110" r="10"/>
+      <circle cx="40" cy="150" r="10"/><circle cx="70" cy="160" r="10"/><circle cx="100" cy="150" r="10"/>
+      <circle cx="130" cy="160" r="10"/><circle cx="160" cy="150" r="10"/><circle cx="190" cy="160" r="10"/>
+    </g>
+    <!-- scattered sample circles -->
+    <g fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="7 5">
+      <circle cx="70" cy="90" r="28"/><circle cx="150" cy="130" r="28"/><circle cx="120" cy="60" r="28"/><circle cx="180" cy="80" r="28"/>
+    </g>
+    <text x="110" y="176" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">spots chosen without a pattern — no corner favored</text>
+  </g>
+
+  <!-- observer bias -->
+  <g transform="translate(20, 290)">
+    <rect x="0" y="0" width="230" height="190" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="115" y="24" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">observer bias</text>
+    <!-- person peeking -->
+    <circle cx="70" cy="70" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="70" y1="86" x2="70" y2="140" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="70" y1="100" x2="40" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="70" y1="100" x2="100" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <!-- ruler being read -->
+    <rect x="120" y="120" width="90" height="14" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="70" y1="70" x2="135" y2="127" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="115" y="165" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">the reader leans toward the answer they expect</text>
+  </g>
+
+  <!-- blind measurement -->
+  <g transform="translate(262, 290)">
+    <rect x="0" y="0" width="230" height="190" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="115" y="24" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">blind measurement</text>
+    <circle cx="70" cy="70" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="70" y1="86" x2="70" y2="140" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="70" y1="100" x2="40" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="70" y1="100" x2="100" y2="120" stroke="#2b3a42" stroke-width="2"/>
+    <!-- blindfold -->
+    <rect x="54" y="62" width="32" height="10" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="120" y="120" width="90" height="14" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="115" y="165" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">the reader does not know which sample is which</text>
+  </g>
+
+  <text x="256" y="516" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">random sampling, blind measurement, record before judging</text>
+  <text x="256" y="540" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">fair methods make answers everyone can trust</text>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Earth's place in the solar system</title>
+  <desc id="desc">A diagram of the solar system. The Sun is drawn large on the left, labeled Sun — a star. Eight planets are drawn in order to the right, labeled Mercury, Venus, Earth (with a small moon), Mars, Jupiter, Saturn (with rings), Uranus, and Neptune. An arrow along the bottom reads: distance from the Sun increases. Below, a size inset shows the Sun as a large circle and Earth as a tiny dot beside it, labeled not to scale — the Sun is about 100 times wider than Earth. A caption reads: Earth is the third planet from the Sun, one world among many. Labels, order, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Earth's Place in the Solar System</text>
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the third planet from the Sun, one world among eight</text>
+
+  <!-- Sun -->
+  <circle cx="50" cy="150" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="50" y1="106" x2="50" y2="96"/><line x1="50" y1="194" x2="50" y2="204"/>
+    <line x1="6" y1="150" x2="-4" y2="150"/><line x1="94" y1="150" x2="104" y2="150"/>
+  </g>
+  <text x="50" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Sun — a star</text>
+
+  <!-- planets in order -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <circle cx="120" cy="150" r="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="174" font-size="10" fill="#222222">Mercury</text>
+
+    <circle cx="160" cy="150" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="160" y="174" font-size="10" fill="#222222">Venus</text>
+
+    <circle cx="200" cy="150" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="213" cy="143" r="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="200" y="174" font-size="10" fill="#222222">Earth</text>
+
+    <circle cx="240" cy="150" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="240" y="174" font-size="10" fill="#222222">Mars</text>
+
+    <circle cx="290" cy="150" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="290" y="174" font-size="10" fill="#222222">Jupiter</text>
+
+    <circle cx="340" cy="150" r="17" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="340" cy="150" rx="26" ry="8" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="340" y="174" font-size="10" fill="#222222">Saturn</text>
+
+    <circle cx="395" cy="150" r="13" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="395" y="174" font-size="10" fill="#222222">Uranus</text>
+
+    <circle cx="440" cy="150" r="13" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="440" y="174" font-size="10" fill="#222222">Neptune</text>
+  </g>
+
+  <!-- distance arrow -->
+  <line x1="40" y1="252" x2="470" y2="252" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="470,246 480,252 470,258" fill="#2b3a42"/>
+  <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">distance from the Sun increases →</text>
+
+  <!-- size inset -->
+  <g transform="translate(30, 300)">
+    <text x="0" y="0" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">size, not to scale</text>
+    <circle cx="90" cy="60" r="46" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="90" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the Sun</text>
+    <circle cx="200" cy="66" r="3.5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="200" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Earth</text>
+    <text x="140" y="160" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the Sun is about 100 times wider than Earth</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Earth is one world among eight, circling one star among billions</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">no single drawing can show size and distance to true scale at once</text>
+</svg>

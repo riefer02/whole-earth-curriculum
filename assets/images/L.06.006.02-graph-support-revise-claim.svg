@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A bar graph that revises a claim</title>
+  <desc id="desc">A bar graph showing how much water four cloth types absorb. The horizontal axis lists thin cotton, wool, paper, and plastic. The vertical axis is labeled drops absorbed with a scale from 0 to 20. Four bars rise to different heights: thin cotton reaches 18, wool reaches 14, paper reaches 9, and plastic reaches 2. Above the graph, a claim box reads: claim — the thickest cloth absorbs the most. Below, a verdict box reads: the graph revises this claim — the thin cotton, not the thickest cloth, absorbed the most. Labels, numbers, and bar heights, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A Bar Graph That Revises a Claim</text>
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">let the data answer the question</text>
+
+  <!-- claim box -->
+  <rect x="56" y="74" width="400" height="40" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="99" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">claim: "the thickest cloth absorbs the most water"</text>
+
+  <!-- axes -->
+  <g transform="translate(90, 150)">
+    <line x1="0" y1="0" x2="0" y2="250" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="0" y1="250" x2="340" y2="250" stroke="#2b3a42" stroke-width="3"/>
+    <!-- gridlines -->
+    <g stroke="#d7d1c8" stroke-width="1">
+      <line x1="0" y1="50" x2="330" y2="50"/><line x1="0" y1="100" x2="330" y2="100"/>
+      <line x1="0" y1="150" x2="330" y2="150"/><line x1="0" y1="200" x2="330" y2="200"/>
+    </g>
+    <text x="-10" y="255" text-anchor="end" font-family="sans-serif" font-size="14" fill="#222222">0</text>
+    <text x="-10" y="205" text-anchor="end" font-family="sans-serif" font-size="14" fill="#222222">5</text>
+    <text x="-10" y="155" text-anchor="end" font-family="sans-serif" font-size="14" fill="#222222">10</text>
+    <text x="-10" y="105" text-anchor="end" font-family="sans-serif" font-size="14" fill="#222222">15</text>
+    <text x="-10" y="55" text-anchor="end" font-family="sans-serif" font-size="14" fill="#222222">20</text>
+
+    <!-- bars: 25px per drop -> 18=450? too tall. Use scale: 10 px per drop -->
+    <!-- thin cotton 18 -> 180 -->
+    <rect x="20" y="70" width="55" height="180" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="47" y="62" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">18</text>
+    <!-- wool 14 -> 140 -->
+    <rect x="100" y="110" width="55" height="140" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="127" y="102" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">14</text>
+    <!-- paper 9 -> 90 -->
+    <rect x="180" y="160" width="55" height="90" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="207" y="152" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">9</text>
+    <!-- plastic 2 -> 20 -->
+    <rect x="260" y="230" width="55" height="20" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="287" y="222" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+
+    <text x="47" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">thin cotton</text>
+    <text x="127" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">wool</text>
+    <text x="207" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">paper</text>
+    <text x="287" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">plastic</text>
+
+    <text x="-60" y="120" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6" transform="rotate(-90 -60 120)">drops absorbed</text>
+  </g>
+
+  <!-- verdict box -->
+  <rect x="56" y="430" width="400" height="56" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">the graph revises this claim</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the thin cotton, not the thickest cloth, absorbed the most</text>
+</svg>

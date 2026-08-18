@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Balanced and unbalanced forces</title>
+  <desc id="desc">A diagram of balanced and unbalanced forces. At the top, a book rests on a table with two equal-length arrows, one pushing down labeled gravity pulls down and one pushing up labeled table pushes up, with a caption: balanced forces — equal and opposite, so the book does not move. In the middle, a ball on the ground has a long arrow to the right labeled kick and a short arrow to the left labeled friction, with a caption: unbalanced forces — the kick is stronger, so the ball speeds up. At the bottom, a cart has two equal opposite arrows labeled balanced — steady speed, no change. Labels, arrow lengths, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Balanced and Unbalanced Forces</text>
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">equal forces mean no change; unequal forces mean change</text>
+
+  <defs>
+    <marker id="ba" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- book on table (balanced) -->
+  <g transform="translate(20, 90)">
+    <line x1="0" y1="110" x2="180" y2="110" stroke="#2b3a42" stroke-width="4"/>
+    <rect x="60" y="66" width="70" height="44" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="94" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">book</text>
+    <!-- down arrow -->
+    <line x1="95" y1="52" x2="95" y2="64" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba)"/>
+    <text x="150" y="52" font-family="sans-serif" font-size="11" fill="#222222">gravity pulls down</text>
+    <!-- up arrow -->
+    <line x1="95" y1="118" x2="95" y2="130" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba)"/>
+    <text x="150" y="128" font-family="sans-serif" font-size="11" fill="#222222">table pushes up</text>
+    <text x="95" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">balanced — no move</text>
+  </g>
+
+  <!-- kicked ball (unbalanced) -->
+  <g transform="translate(230, 90)">
+    <line x1="0" y1="140" x2="180" y2="140" stroke="#2b3a42" stroke-width="4"/>
+    <circle cx="60" cy="118" r="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- kick arrow (long, right) -->
+    <line x1="86" y1="118" x2="150" y2="118" stroke="#2b3a42" stroke-width="4" marker-end="url(#ba)"/>
+    <text x="150" y="108" font-family="sans-serif" font-size="11" fill="#222222">kick</text>
+    <!-- friction arrow (short, left) -->
+    <line x1="34" y1="118" x2="10" y2="118" stroke="#4f6d7a" stroke-width="3" marker-end="url(#ba)"/>
+    <text x="10" y="106" font-family="sans-serif" font-size="11" fill="#4f6d7a">friction</text>
+    <text x="60" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">unbalanced — it speeds up</text>
+  </g>
+
+  <!-- cart (balanced steady) -->
+  <g transform="translate(40, 290)">
+    <line x1="0" y1="90" x2="200" y2="90" stroke="#2b3a42" stroke-width="4"/>
+    <!-- cart -->
+    <rect x="70" y="50" width="70" height="40" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="84" cy="94" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="126" cy="94" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <!-- left push -->
+    <line x1="60" y1="70" x2="24" y2="70" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba)"/>
+    <text x="24" y="60" font-family="sans-serif" font-size="11" fill="#222222">push</text>
+    <!-- right push equal -->
+    <line x1="150" y1="70" x2="186" y2="70" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba)"/>
+    <text x="186" y="60" text-anchor="end" font-family="sans-serif" font-size="11" fill="#222222">push</text>
+    <text x="105" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">balanced — steady speed, no change</text>
+  </g>
+
+  <!-- summary -->
+  <rect x="250" y="290" width="240" height="120" rx="10" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="370" y="318" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">read the arrows</text>
+  <text x="370" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">equal opposite arrows = balanced</text>
+  <text x="370" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">unequal arrows = unbalanced</text>
+  <text x="370" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">motion changes toward the longer arrow</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">motion is a tug-of-war</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">when the pulls are even, nothing changes; when one wins, things move</text>
+</svg>

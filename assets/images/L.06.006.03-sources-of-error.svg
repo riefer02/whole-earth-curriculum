@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
+  <title id="title">Sources of error in a measurement</title>
+  <desc id="desc">A diagram of the same pencil measured five times, each time with a slightly different reading. A pencil is drawn at the top, and beneath it five rulers each show a reading: trial 1 reads 12.1, trial 2 reads 12.0, trial 3 reads 12.2, trial 4 reads 11.9, and trial 5 reads 12.1 centimetres. An average box reads: average is about 12.1 cm. Below, three panels name three sources of error: tool limits (the ruler marks are coarse), human reading (the eye sits at a slight angle), and conditions (the object shifted). A caption reads: careful measurements still differ a little; naming the source lets us reduce it. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="560" fill="#fdfbf7"/>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Same Object, Measured Five Times</text>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">careful measurements still differ a little</text>
+
+  <!-- pencil -->
+  <g transform="translate(60, 70)">
+    <rect x="0" y="18" width="150" height="20" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <polygon points="150,20 166,28 150,36" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="0" y="14" width="16" height="28" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="250" y="32" font-family="sans-serif" font-size="13" fill="#222222">a pencil</text>
+  </g>
+
+  <!-- five rulers -->
+  <g font-family="sans-serif">
+    <g transform="translate(60, 120)">
+      <rect x="0" y="0" width="160" height="22" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+      <g stroke="#2b3a42" stroke-width="1"><line x1="20" y1="0" x2="20" y2="10"/><line x1="50" y1="0" x2="50" y2="10"/><line x1="80" y1="0" x2="80" y2="10"/><line x1="110" y1="0" x2="110" y2="10"/><line x1="140" y1="0" x2="140" y2="10"/></g>
+      <text x="8" y="16" font-size="10" fill="#222222">12.1</text>
+      <text x="168" y="16" font-size="13" fill="#222222">trial 1</text>
+    </g>
+    <g transform="translate(60, 152)">
+      <rect x="0" y="0" width="160" height="22" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+      <g stroke="#2b3a42" stroke-width="1"><line x1="20" y1="0" x2="20" y2="10"/><line x1="50" y1="0" x2="50" y2="10"/><line x1="80" y1="0" x2="80" y2="10"/><line x1="110" y1="0" x2="110" y2="10"/><line x1="140" y1="0" x2="140" y2="10"/></g>
+      <text x="8" y="16" font-size="10" fill="#222222">12.0</text>
+      <text x="168" y="16" font-size="13" fill="#222222">trial 2</text>
+    </g>
+    <g transform="translate(60, 184)">
+      <rect x="0" y="0" width="160" height="22" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+      <g stroke="#2b3a42" stroke-width="1"><line x1="20" y1="0" x2="20" y2="10"/><line x1="50" y1="0" x2="50" y2="10"/><line x1="80" y1="0" x2="80" y2="10"/><line x1="110" y1="0" x2="110" y2="10"/><line x1="140" y1="0" x2="140" y2="10"/></g>
+      <text x="8" y="16" font-size="10" fill="#222222">12.2</text>
+      <text x="168" y="16" font-size="13" fill="#222222">trial 3</text>
+    </g>
+    <g transform="translate(60, 216)">
+      <rect x="0" y="0" width="160" height="22" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+      <g stroke="#2b3a42" stroke-width="1"><line x1="20" y1="0" x2="20" y2="10"/><line x1="50" y1="0" x2="50" y2="10"/><line x1="80" y1="0" x2="80" y2="10"/><line x1="110" y1="0" x2="110" y2="10"/><line x1="140" y1="0" x2="140" y2="10"/></g>
+      <text x="8" y="16" font-size="10" fill="#222222">11.9</text>
+      <text x="168" y="16" font-size="13" fill="#222222">trial 4</text>
+    </g>
+    <g transform="translate(60, 248)">
+      <rect x="0" y="0" width="160" height="22" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+      <g stroke="#2b3a42" stroke-width="1"><line x1="20" y1="0" x2="20" y2="10"/><line x1="50" y1="0" x2="50" y2="10"/><line x1="80" y1="0" x2="80" y2="10"/><line x1="110" y1="0" x2="110" y2="10"/><line x1="140" y1="0" x2="140" y2="10"/></g>
+      <text x="8" y="16" font-size="10" fill="#222222">12.1</text>
+      <text x="168" y="16" font-size="13" fill="#222222">trial 5</text>
+    </g>
+  </g>
+
+  <!-- average box -->
+  <rect x="280" y="120" width="200" height="60" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="380" y="146" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">average</text>
+  <text x="380" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">≈ 12.1 cm</text>
+
+  <!-- three sources -->
+  <g font-family="sans-serif">
+    <rect x="20" y="300" width="150" height="120" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="326" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">tool limits</text>
+    <text x="95" y="350" text-anchor="middle" font-size="12" fill="#222222">the ruler's marks</text>
+    <text x="95" y="368" text-anchor="middle" font-size="12" fill="#222222">are coarse</text>
+    <text x="95" y="400" text-anchor="middle" font-size="11" fill="#4f6d7a">use finer marks</text>
+
+    <rect x="182" y="300" width="150" height="120" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="257" y="326" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">human reading</text>
+    <text x="257" y="350" text-anchor="middle" font-size="12" fill="#222222">the eye sits at</text>
+    <text x="257" y="368" text-anchor="middle" font-size="12" fill="#222222">a slight angle</text>
+    <text x="257" y="400" text-anchor="middle" font-size="11" fill="#4f6d7a">read straight on</text>
+
+    <rect x="344" y="300" width="150" height="120" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="419" y="326" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">conditions</text>
+    <text x="419" y="350" text-anchor="middle" font-size="12" fill="#222222">the object</text>
+    <text x="419" y="368" text-anchor="middle" font-size="12" fill="#222222">shifted</text>
+    <text x="419" y="400" text-anchor="middle" font-size="11" fill="#4f6d7a">hold it steady</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">naming the source lets us reduce it</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">repeat, average, and standardize — error is information, not a mistake</text>
+</svg>
