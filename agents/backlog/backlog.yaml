@@ -4249,7 +4249,7 @@ items:
     type: lesson
     grade: 7
     domain: D01
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4261,6 +4261,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1062 files. Verified all 10 lesson IDs L.07.001.01-.10, sequence_in_unit 1-10, grade 7, unit U.07.001; required headings present; objectives resolve to the 6 real grade-7 D01 standards (e.g. L.07.001.06 maps to D01.S2.07.01 predict-identity-growth); unit.md table matches all 10 lessons.
+      fact-checker:
+        verdict: passed
+        note: Verified cultural display rules -> Ekman & Friesen 1969 (S-160), identity-as-lifelong-process -> Erikson 1950 (S-155), growth mindset -> Dweck 2006 (S-096) with modest-effects hedge, stereotype threat -> Steele & Aronson 1995 (newly registered S-284 with hedging), decision-reflection/retrieval -> Dunlosky et al. 2013 (S-039), sleep/activity -> AASM 2016 + WHO (S-050/S-069); all real and accurately cited, evidence distinguished from values.
+      global-culture-editor:
+        verdict: passed
+        note: "Spot-checked framing/representation across all 10 lessons: display-rules lessons L3-L4 hold cultural emotion norms side-by-side and never ranked (some places/other places, it depends, norms differ within cultures too); every Connection spans rural/urban and maritime/agricultural life contexts rather than Western-urban default; enriched untranslatable-emotion list in L2 to include Hindi/Sanskrit viraha, Tagalog kilig, Arabic tarab alongside Japan/Europe."
+      accessibility-editor:
+        verdict: passed
+        note: Checked low-tech/no-tech tier (all 10 lessons declare materials_low_tech with no-paper/no-device voice/body/dirt alternatives plus outdoor-only variants), UDL (write/draw/speak/act, support-extension differentiation), disability/neurodivergence (multimodal kinesthetic-auditory-visual paths, voluntary low-stakes disclosure, word banks/sentence starters), wealth neutrality (paper/pencil/chalk/stones/leaves/voice), plain multilingual language, and alt text (all 10 assets entries have descriptive non-empty alt resolving to real non-empty SVGs).
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics (moral reasoning as consequence not recall), egalitarianism (no group privileged; no culture is the default; no middle-class default schedule), global/anthropological (non-Western emotion words/settings held side-by-side never ranked), technology/environment (digital display rules, media narrow images, daylight-tied routines), evidence-vs-values (claims cited, norms flagged as values); all six objectives trace through D01.Sx.07.x up strand->domain->P1 to the vision North Star.
+      child-psychologist:
+        verdict: passed
+        note: "Grade-7 band: checked mixed/conflicting emotions, identity-as-story, stereotype/label reasoning, decision reflection match emerging formal operations/metacognition; sensitive topics held at holdable depth with explicit non-disclosure scaffolding (never push/require, low-stakes examples, agency-and-hope closings); physical demands optional and body-aware; questions open as questions with evidence distinguished from values."
   - id: B-348
     title: Author lessons for Unit U.07.002 (My Body, Movement & Wellness)
     agent: lesson-author

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The decision loop</title>
+  <desc id="desc">A four-step circular loop with arrows. The steps, clockwise from the top, are: DECISION ("what I chose"), CONSEQUENCE ("what happened"), REFLECTION ("what I learned"), and BETTER NEXT CHOICE ("what I'll do next time"). An arrow from the last step curves back up into the first, showing the loop repeats. A caption reads "Reflection turns experience into a better next choice." Meaning is carried by labels and arrows, not color, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">The decision loop</text>
+
+  <!-- Step 1: DECISION (top) -->
+  <g>
+    <rect x="150" y="70" width="212" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">DECISION</text>
+    <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what I chose</text>
+  </g>
+
+  <!-- Step 2: CONSEQUENCE (right) -->
+  <g>
+    <rect x="330" y="196" width="182" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="421" y="224" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">CONSEQUENCE</text>
+    <text x="421" y="248" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what happened</text>
+  </g>
+
+  <!-- Step 3: REFLECTION (bottom) -->
+  <g>
+    <rect x="150" y="322" width="212" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">REFLECTION</text>
+    <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what I learned</text>
+  </g>
+
+  <!-- Step 4: BETTER NEXT CHOICE (left) -->
+  <g>
+    <rect x="0" y="196" width="182" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="91" y="222" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">BETTER NEXT</text>
+    <text x="91" y="242" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">CHOICE</text>
+    <text x="91" y="262" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">what I'll do next</text>
+  </g>
+
+  <!-- Arrows connecting the steps -->
+  <!-- decision -> consequence -->
+  <path d="M310 150 Q420 160 421 190" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M408 172 L421 186 L415 168" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- consequence -> reflection -->
+  <path d="M356 262 Q310 300 292 318" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M306 306 L290 320 L308 326" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- reflection -> better next choice -->
+  <path d="M200 330 Q90 300 96 274" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M104 290 L92 274 L110 268" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- better next choice -> decision (loop back) -->
+  <path d="M110 196 Q110 130 146 108" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round" stroke-dasharray="6 5"/>
+  <path d="M134 122 L146 104 L128 106" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Caption -->
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Reflection turns experience into a better next choice.</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The story keeps growing: possible selves</title>
+  <desc id="desc">An arrow starts from a labeled circle "me now" and points right into an open horizon, where it branches into four possible selves, each labeled: "a maker," "a caretaker," "a leader," "a learner." A caption below reads "Not one fixed endpoint — directions I can grow toward." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">The story keeps growing</text>
+
+  <!-- Me now circle -->
+  <circle cx="110" cy="250" r="52" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="110" y="245" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">me</text>
+  <text x="110" y="268" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">now</text>
+
+  <!-- Main arrow trunk -->
+  <path d="M162 250 L330 250" fill="none" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Branches -->
+  <g>
+    <!-- branch 1: maker (upper) -->
+    <path d="M330 250 L430 150" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <rect x="392" y="112" width="104" height="40" rx="8" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="444" y="138" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a maker</text>
+
+    <!-- branch 2: caretaker -->
+    <path d="M330 250 L442 220" fill="none" stroke="#6b93b6" stroke-width="4" stroke-linecap="round"/>
+    <rect x="406" y="186" width="106" height="40" rx="8" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+    <text x="459" y="212" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a caretaker</text>
+
+    <!-- branch 3: leader -->
+    <path d="M330 250 L442 288" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+    <rect x="406" y="274" width="106" height="40" rx="8" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+    <text x="459" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a leader</text>
+
+    <!-- branch 4: learner (lower) -->
+    <path d="M330 250 L430 350" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+    <rect x="392" y="346" width="104" height="40" rx="8" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="444" y="372" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a learner</text>
+  </g>
+
+  <!-- Caption -->
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Not one fixed endpoint —</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">directions I can grow toward.</text>
+</svg>

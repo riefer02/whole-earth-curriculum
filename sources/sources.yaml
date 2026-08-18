@@ -9,7 +9,7 @@ sources:
     organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
     domains: [D01, D02, D03, D04, D09]
     reviewed: true
-    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency, and in U.03.010 L01/L05/L06/L07/L08/L10 (responsible decision-making, relationship skills, social awareness, and self-management — all five competencies are real CASEL competencies). Cited in U.05.003 L01/L02 (self-awareness) and L06 (relationship skills, giving/receiving feedback) — both are among CASEL's five core competencies. URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it. Also cited in U.05.011 L01/L02 (values and responsible decision-making), L05 (social awareness and responsible decision-making), and L06/L07 (social awareness / comparing how decisions are made). Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) for relationship skills and social awareness — friendship change, conflict repair and I-statements, passive/aggressive/assertive communication, empathy, perspective-taking, belonging, cooperation, and fairness. Also cited in U.06.004 L04 (Disagreeing Respectfully) for the relationship-skills basis of 'acknowledge before you disagree' in civil discourse."
+    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency, and in U.03.010 L01/L05/L06/L07/L08/L10 (responsible decision-making, relationship skills, social awareness, and self-management — all five competencies are real CASEL competencies). Cited in U.05.003 L01/L02 (self-awareness) and L06 (relationship skills, giving/receiving feedback) — both are among CASEL's five core competencies. URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it. Also cited in U.05.011 L01/L02 (values and responsible decision-making), L05 (social awareness and responsible decision-making), and L06/L07 (social awareness / comparing how decisions are made). Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) for relationship skills and social awareness — friendship change, conflict repair and I-statements, passive/aggressive/assertive communication, empathy, perspective-taking, belonging, cooperation, and fairness. Also cited in U.06.004 L04 (Disagreeing Respectfully) for the relationship-skills basis of 'acknowledge before you disagree' in civil discourse. Also cited across U.07.001 L01/L02/L03/L07/L08/L09 (Feelings, Identity & Purpose) for the self-awareness competency (precise labeling of mixed feelings), social awareness (cultural display rules), and responsible decision-making (reflecting on a past decision) — all three are among CASEL's five core competencies, used as classroom framing, not as claim-level citations."
 
   - id: S-002
     title: NASA — The Big Bang
@@ -103,7 +103,7 @@ sources:
     year: 2006
     domains: []
     reviewed: true
-    notes: "Novices learn foundational material better with explicit instruction, worked examples, and guided practice than with minimal guidance. Full title: 'Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching' (Educational Psychologist 41(2), 75–86; DOI 10.1207/s15326985ep4102_1 verified). Cited in U.02.007 L01/L03/L05–L09 to justify 'model once, then guided practice' for skills (mixing, echoing patterns, movement sequences, leading/following, planning, comparing two ways) — consistent with philosophy §13. Also cited in U.03.007 L01–L04 and L06–L09 (patterns, mood, long/short sounds, tempo/dynamics/pitch, movement retelling, design loop, materials comparison, sound+motion) to justify 'model once, then guided practice' for arts/making skills. On-topic: the citation supports explicit modeling + guided practice over pure discovery, not any specific art claim. Also cited in U.05.011 L01/L02/L05/L08/L09 to justify 'model once, then guided practice' for reasoning and mediation skills. Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) to justify 'model once, then guided practice' for social-emotional skills (conflict repair, assertion, perspective-taking, cooperation). Also cited across U.06.004 L01–L12 (Reading, Writing, Argument & Many Languages) to justify 'model once, then guided practice' for listening, discussion, argument-writing, revision, and formatting skills."
+    notes: "Novices learn foundational material better with explicit instruction, worked examples, and guided practice than with minimal guidance. Full title: 'Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching' (Educational Psychologist 41(2), 75–86; DOI 10.1207/s15326985ep4102_1 verified). Cited in U.02.007 L01/L03/L05–L09 to justify 'model once, then guided practice' for skills (mixing, echoing patterns, movement sequences, leading/following, planning, comparing two ways) — consistent with philosophy §13. Also cited in U.03.007 L01–L04 and L06–L09 (patterns, mood, long/short sounds, tempo/dynamics/pitch, movement retelling, design loop, materials comparison, sound+motion) to justify 'model once, then guided practice' for arts/making skills. On-topic: the citation supports explicit modeling + guided practice over pure discovery, not any specific art claim. Also cited in U.05.011 L01/L02/L05/L08/L09 to justify 'model once, then guided practice' for reasoning and mediation skills. Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) to justify 'model once, then guided practice' for social-emotional skills (conflict repair, assertion, perspective-taking, cooperation). Also cited across U.06.004 L01–L12 (Reading, Writing, Argument & Many Languages) to justify 'model once, then guided practice' for listening, discussion, argument-writing, revision, and formatting skills. Also cited across U.07.001 L01–L10 (Feelings, Identity & Purpose) to justify 'model once, then guided practice' for the both/and sentence, the word-ladder, the display-rule sort, the then/now map, the decision loop, and the routine wheel."
 
   - id: S-012
     title: Hattie — Visible Learning (relationships, feedback, class size)
@@ -142,7 +142,7 @@ sources:
     organization: Yale Center for Emotional Intelligence
     domains: [D01]
     reviewed: true
-    notes: Evidence-based SEL approach (Recognizing, Understanding, Labeling, Expressing, Regulating emotions); cited in L.00.001.05.
+    notes: Evidence-based SEL approach (Recognizing, Understanding, Labeling, Expressing, Regulating emotions); cited in L.00.001.05 and in U.07.001 L01/L02/L03 (Holding Two Feelings at Once; The Precise Words for the Mix; Feelings Shown, Hidden, and Valued) for the labeling-emotions-with-precision skill.
 
   - id: S-016
     title: WHO — Hand hygiene (infection prevention and control)
@@ -369,7 +369,7 @@ sources:
     url: https://doi.org/10.1177/1529100612453266
     domains: []
     reviewed: true
-    notes: "Cited in U.01.009 L10 (unit capstone described as a retrieval-practice/spacing 'science-of-learning payoff'). Real, well-known consensus review (14(1), 4–58). DOI verified live (2026-08-15). Identifies practice testing (retrieval practice) and distributed practice (spacing) as the two highest-utility learning techniques — supports the lesson's claim that recalling the unit's ideas across the unit (spaced retrieval) is evidence-backed. Also cited in U.05.011 L10 (spaced, interleaved capstone review across the unit's four strands)."
+    notes: "Cited in U.01.009 L10 (unit capstone described as a retrieval-practice/spacing 'science-of-learning payoff'). Real, well-known consensus review (14(1), 4–58). DOI verified live (2026-08-15). Identifies practice testing (retrieval practice) and distributed practice (spacing) as the two highest-utility learning techniques — supports the lesson's claim that recalling the unit's ideas across the unit (spaced retrieval) is evidence-backed. Also cited in U.05.011 L10 (spaced, interleaved capstone review across the unit's four strands), and in U.07.001 L09/L10 (reflection deepening judgment via retrieval/spacing; the unit-closing retrieval pass)."
 
   - id: S-040
     title: "National Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment"
@@ -472,7 +472,7 @@ sources:
     year: 2016
     domains: [D03]
     reviewed: true
-    notes: "Cited in U.02.008 L06 (sleep: 9–12 hours for ages 6–12). Official AASM consensus statement (Paruthi et al., J Clin Sleep Med 2016;12(6):785–786). PDF URL verified live (2026-08-16) — resolves to the AASM-hosted consensus statement. Recommends school-aged children (6–12 years) get 9–12 hours of sleep per 24 hours, matching the lesson's 'about 9 to 12 hours' phrasing. US-centric source but the recommendation is the standard international benchmark for pediatric sleep duration; lesson treats it as a general guide and explicitly allows for family variation."
+    notes: "Cited in U.02.008 L06 (sleep: 9–12 hours for ages 6–12) and U.07.001 L10 (sleep: 8–10 hours for teens, 9–12 for younger children). Official AASM consensus statement (Paruthi et al., J Clin Sleep Med 2016;12(6):785–786). PDF URL verified live (2026-08-16) — resolves to the AASM-hosted consensus statement. Recommends school-aged children (6–12 years) get 9–12 hours of sleep per 24 hours and teenagers (13–18 years) get 8–10 hours per 24 hours — matching both the U.02.008 L06 'about 9 to 12 hours' phrasing and the U.07.001 L10 'about 8–10 hours for teens, 9–12 for younger children' phrasing. US-centric source but the recommendation is the standard international benchmark for pediatric sleep duration; lessons treat it as a general guide and explicitly allow for family variation."
 
   - id: S-051
     title: WHO — Preventing violence against children
@@ -591,7 +591,7 @@ sources:
     organization: Common Sense Media (Common Sense Education)
     domains: [D10]
     reviewed: true
-    notes: "Cited in U.02.011 L03/L04/L09 (source-of-information; true info vs selling; making an honest message). URL verified live (2026-08-16): the 'News & Media Literacy' topic page frames 'Seek, Evaluate, and Contextualize' and, for Grades K-2, that students 'learn to wonder about where information comes from' and 'develop the habit of asking questions rather than accepting everything at face value.' Supports each lesson's claim that asking where information comes from and distinguishing information from persuasion are core media-literacy skills. (Corrected from commonsensemedia.org/news-and-media-literacy, which 404s; the live hub is on the education subdomain.)"
+    notes: "Cited in U.02.011 L03/L04/L09 (source-of-information; true info vs selling; making an honest message) and U.07.001 L07/L08 (Stereotypes and Labels; When a Label Narrows Me) for media's role in repeating narrow images until types feel like laws. URL verified live (2026-08-16): the 'News & Media Literacy' topic page frames 'Seek, Evaluate, and Contextualize' and, for Grades K-2, that students 'learn to wonder about where information comes from' and 'develop the habit of asking questions rather than accepting everything at face value.' Supports each lesson's claim that asking where information comes from and distinguishing information from persuasion are core media-literacy skills. (Corrected from commonsensemedia.org/news-and-media-literacy, which 404s; the live hub is on the education subdomain.)"
 
   - id: S-064
     title: BBC Bitesize (KS1) — What is a food chain?
@@ -646,7 +646,7 @@ sources:
     year: 2024
     domains: [D03]
     reviewed: true
-    notes: "Cited in L.03.002.07 (Moving with Rhythm) and L.03.002.09 (Hand–Eye Coordination) for the claim that children need regular movement for healthy growth. URL verified live (2026-08-16); page dated 26 June 2024. States verbatim: 'In children and adolescents, physical activity promotes bone health, encourages healthy growth and development of muscle, and improves motor and cognitive development.' Supports the lessons' hedged general claim."
+    notes: "Cited in L.03.002.07 (Moving with Rhythm) and L.03.002.09 (Hand–Eye Coordination) for the claim that children need regular movement for healthy growth, and in U.07.001 L10 (Building a Routine That Serves My Goals) for daily movement as an evidence-backed routine block. URL verified live (2026-08-16); page dated 26 June 2024. States verbatim: 'In children and adolescents, physical activity promotes bone health, encourages healthy growth and development of muscle, and improves motor and cognitive development.' Supports the lessons' hedged general claim."
 
   - id: S-070
     title: BBC Bitesize (KS2) — What is a fair test?
@@ -893,7 +893,7 @@ sources:
     year: 2006
     domains: [D01]
     reviewed: true
-    notes: "Real book (Carol Dweck, first published 2006 by Random House/Ballantine). Cited in U.04.001 L06 (The Map of My Growing Self) for the growth-mindset/'not yet' frame. Lesson correctly hedges the claim (effects are modest and not produced by praise alone), consistent with the research literature's replication cautions. No URL (print book)."
+    notes: "Real book (Carol Dweck, first published 2006 by Random House/Ballantine). Cited in U.04.001 L06 (The Map of My Growing Self) for the growth-mindset/'not yet' frame, and in U.07.001 L06 (The Story Keeps Growing) for the same frame. Lessons correctly hedge the claim (effects are modest and not produced by praise alone; effort is not a guarantee), consistent with the research literature's replication cautions. No URL (print book)."
 
   - id: S-097
     title: "Duckworth, Gendler & Gross — Situational Strategies for Self-Control"
@@ -903,7 +903,7 @@ sources:
     year: 2016
     domains: [D01]
     reviewed: true
-    notes: "Real paper: Duckworth, A. L., Gendler, T. S., & Gross, J. J. (2016). Situational strategies for self-control. Perspectives on Psychological Science, 11(1), 35–55. Cited in U.04.001 L10 (Staying With It When It Is Hard or Tempting to Quit) for if-then planning/situational self-control strategies. Lesson correctly hedges the claim (willpower is not infinite; evidence for 'building' it like a muscle is mixed), matching the paper's situational-strategy framing."
+    notes: "Real paper: Duckworth, A. L., Gendler, T. S., & Gross, J. J. (2016). Situational strategies for self-control. Perspectives on Psychological Science, 11(1), 35–55. Cited in U.04.001 L10 (Staying With It When It Is Hard or Tempting to Quit) and U.07.001 L10 (Building a Routine That Serves My Goals) for if-then planning/situational self-control strategies. Lessons correctly hedge the claim (willpower is not infinite; evidence for 'building' it like a muscle is mixed), matching the paper's situational-strategy framing."
 
   - id: S-098
     title: "Nemours KidsHealth — heart, lungs, sweat, and muscles (for kids)"
@@ -1427,7 +1427,7 @@ sources:
     year: 1950
     domains: [D01]
     reviewed: true
-    notes: "Erik H. Erikson (1950). Childhood and Society. W. W. Norton. Cited in U.04.012 L01/L07 for identity as a developing, lifelong process and the school-age 'industry vs. inferiority' stage (~ages 9-10). Real, foundational developmental-psychology text; the lesson's framing (identity as ongoing process) is accurate. No URL (print book)."
+    notes: "Erik H. Erikson (1950). Childhood and Society. W. W. Norton. Cited in U.04.012 L01/L07 for identity as a developing, lifelong process and the school-age 'industry vs. inferiority' stage (~ages 9-10), and in U.07.001 L05/L06 (My Identity, a Changing Story; The Story Keeps Growing) for identity as a lifelong process, not a finished fact. Real, foundational developmental-psychology text; the lessons' framing (identity as ongoing process) is accurate. No URL (print book)."
 
   - id: S-156
     title: "Search Institute — 40 Developmental Assets"
@@ -1473,7 +1473,7 @@ sources:
     year: 1969
     domains: [D01]
     reviewed: true
-    notes: "Ekman, P., & Friesen, W. V. (1969). The repertoire of nonverbal behavior: Categories, origins, usage, and coding. Semiotica, 1(1), 49–98. Cited in U.05.002 L03/L04 for 'display rules' — how the expression of feeling differs across families and cultures. Real, foundational emotion-research article."
+    notes: "Ekman, P., & Friesen, W. V. (1969). The repertoire of nonverbal behavior: Categories, origins, usage, and coding. Semiotica, 1(1), 49–98. Cited in U.05.002 L03/L04 for 'display rules' — how the expression of feeling differs across families and cultures — and in U.07.001 L03/L04 (Feelings Shown, Hidden, and Valued; No Culture Is the Default) for the same display-rules concept. Real, foundational emotion-research article; the lessons correctly trace the concept to it and hold the non-ranking stance as a value, not a fact."
 
   - id: S-161
     title: "Zehr — Changing Lenses (restorative justice)"
@@ -2625,6 +2625,17 @@ sources:
     domains: [D02, D08]
     reviewed: true
     notes: "Cited in U.06.012 L05 (Together and Fair: Carrying It Forward) as the 'UN data on inequality and poverty' half of the claim that economic inequality is driven largely by structural factors rather than individual worth. URL verified live (2026-08-18): hdr.undp.org/data-center is the UNDP Human Development Report Office data centre (© 2026), publishing the Human Development Index (HDI), the Inequality-adjusted HDI (IHDI), the Gender Inequality Index (GII), and the Global Multidimensional Poverty Index (MPI) — i.e., real, authoritative UN measures of inequality and poverty. Complements the World Bank poverty/inequality source (S-234); the lesson makes no specific statistic and flags 'no person's worth is measured by their resources' as a values commitment, not a scientific claim."
+
+  - id: S-284
+    title: "Steele & Aronson (1995) — Stereotype Threat and the Intellectual Test Performance of African Americans"
+    type: article
+    author: Claude M. Steele & Joshua Aronson
+    url: https://doi.org/10.1037/0022-3514.69.5.797
+    organization: Journal of Personality and Social Psychology
+    year: 1995
+    domains: [D01]
+    reviewed: true
+    notes: "Steele, C. M., & Aronson, J. (1995). Stereotype threat and the intellectual test performance of African Americans. Journal of Personality and Social Psychology, 69(5), 797–811. DOI 10.1037/0022-3514.69.5.797. Cited in U.07.001 L08 (When a Label Narrows Me) for the 'stereotype threat' finding — that worrying about confirming a negative stereotype can weigh on performance. The lesson cites it correctly and with the research's own cautions: it teaches 'labels can get inside and weigh on a person,' not a fixed law, and the facilitator note flags that effect size and boundary conditions are debated in the literature (consistent with subsequent replication/meta-analytic discussion). Real, foundational social-psychology article; on-topic for the lesson's internalization claim."
 
 
 

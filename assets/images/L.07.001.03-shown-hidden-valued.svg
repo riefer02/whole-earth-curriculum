@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Which feelings are shown, hidden, or valued</title>
+  <desc id="desc">A three-column chart titled "Which feelings are shown, hidden, or valued?" The left column "SHOWN" lists open joy and spoken thanks. The middle column "HIDDEN" lists fear and, in some places, grief held quietly. The right column "VALUED" lists courage and calm in hard moments. A caption reads "Norms differ by culture and family — none is the only right way." Meaning is carried by labels and column position, not color, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Which feelings are shown, hidden, or valued?</text>
+
+  <!-- Column 1: SHOWN -->
+  <g>
+    <rect x="24" y="70" width="148" height="340" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="24" y="70" width="148" height="44" rx="12" fill="#7a9e7e"/>
+    <text x="98" y="98" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#ffffff">SHOWN</text>
+    <text x="98" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">open joy</text>
+    <text x="98" y="184" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">spoken thanks</text>
+    <text x="98" y="218" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">loud laughter</text>
+    <text x="98" y="252" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">direct anger</text>
+    <text x="98" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">(in some places)</text>
+  </g>
+
+  <!-- Column 2: HIDDEN -->
+  <g>
+    <rect x="182" y="70" width="148" height="340" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="182" y="70" width="148" height="44" rx="12" fill="#6b93b6"/>
+    <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#ffffff">HIDDEN</text>
+    <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">fear</text>
+    <text x="256" y="184" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">grief held quietly</text>
+    <text x="256" y="218" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">envy</text>
+    <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">anger cooled</text>
+    <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">(in other places)</text>
+  </g>
+
+  <!-- Column 3: VALUED -->
+  <g>
+    <rect x="340" y="70" width="148" height="340" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="340" y="70" width="148" height="44" rx="12" fill="#e0a458"/>
+    <text x="414" y="98" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#ffffff">VALUED</text>
+    <text x="414" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">courage</text>
+    <text x="414" y="184" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">calm in hardship</text>
+    <text x="414" y="218" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">respect</text>
+    <text x="414" y="252" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">warmth</text>
+    <text x="414" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">(praised widely)</text>
+  </g>
+
+  <!-- Caption -->
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Norms differ by culture and family —</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">none is the only right way.</text>
+</svg>

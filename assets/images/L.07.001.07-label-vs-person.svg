@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A label is a shortcut; a person is a story</title>
+  <desc id="desc">Two panels. The left shows a small box containing the single label "the quiet one," with the caption "a shortcut." The right shows the same person drawn whole, surrounded by many labeled facets — singer, joker, runner, dreamer, worrier — with the caption "the whole person." A not-equal sign sits between the two panels, and a line below reads "A label is a shortcut; a person is a story." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">A label vs. a person</text>
+
+  <!-- Left panel: label -->
+  <g>
+    <rect x="24" y="70" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="99" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">a shortcut</text>
+    <rect x="44" y="150" width="110" height="64" rx="8" fill="#fdfbf7" stroke="#e0a458" stroke-width="3"/>
+    <text x="99" y="188" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">"the quiet one"</text>
+    <text x="99" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">one small box</text>
+    <text x="99" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">misses almost</text>
+    <text x="99" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">everything</text>
+  </g>
+
+  <!-- Not-equal sign -->
+  <text x="209" y="230" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#e0a458">≠</text>
+
+  <!-- Right panel: whole person -->
+  <g>
+    <rect x="244" y="70" width="244" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="366" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">the whole person</text>
+    <!-- head -->
+    <circle cx="366" cy="160" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="357" cy="155" r="3.5" fill="#2b3a42"/>
+    <circle cx="375" cy="155" r="3.5" fill="#2b3a42"/>
+    <path d="M357 170 Q366 178 375 170" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- body -->
+    <path d="M366 190 q-26 34 0 60 q26 -26 0 -60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <!-- facet labels around -->
+    <text x="366" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">sings in the kitchen</text>
+    <text x="366" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tells the funniest jokes</text>
+    <text x="366" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">runs, dreams, worries</text>
+  </g>
+
+  <!-- Caption -->
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">A label is a shortcut; a person is a story.</text>
+</svg>

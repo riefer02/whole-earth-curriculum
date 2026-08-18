@@ -62,3 +62,13 @@ in earnest, so every self is honored as a changing work in progress, never a ver
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Holding Two Feelings at Once | D01.S1.07.01 |
+| 2 | The Precise Words for the Mix | D01.S1.07.01 |
+| 3 | Feelings Shown, Hidden, and Valued | D01.S1.07.02 |
+| 4 | No Culture Is the Default | D01.S1.07.02 |
+| 5 | My Identity, a Changing Story | D01.S2.07.01 |
+| 6 | The Story Keeps Growing | D01.S2.07.01 |
+| 7 | Stereotypes and Labels | D01.S2.07.02 |
+| 8 | When a Label Narrows Me | D01.S2.07.02 |
+| 9 | Learning from a Past Decision | D01.S3.07.01 |
+| 10 | Building a Routine That Serves My Goals | D01.S3.07.02 |

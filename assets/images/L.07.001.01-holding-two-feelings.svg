@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Holding two feelings at once: happy AND sad</title>
+  <desc id="desc">One scene drawn twice, side by side. The left panel shows a smiling person waving with a moving box, labeled "happy — a new beginning." The right panel shows the same person with a tear and a heavy heart, labeled "sad — an ending." A large word "AND" joins the two panels, with a caption reading "Both are true at once." The meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">One moment, two feelings</text>
+
+  <!-- Left panel: happy -->
+  <g>
+    <rect x="24" y="70" width="168" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="108" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">happy</text>
+    <!-- figure: head + smiling face -->
+    <circle cx="108" cy="172" r="34" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="98" cy="166" r="3.5" fill="#2b3a42"/>
+    <circle cx="118" cy="166" r="3.5" fill="#2b3a42"/>
+    <path d="M93 162 Q98 158 103 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M113 162 Q118 158 123 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M96 184 Q108 198 120 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- waving arm -->
+    <path d="M142 190 Q160 178 164 160" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="165" cy="157" r="5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- moving box -->
+    <rect x="46" y="252" width="62" height="46" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M46 252 L77 234 L108 252" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M77 234 L77 280" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="108" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a new beginning</text>
+  </g>
+
+  <!-- Center AND -->
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#e0a458">AND</text>
+
+  <!-- Right panel: sad -->
+  <g>
+    <rect x="320" y="70" width="168" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="404" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">sad</text>
+    <!-- figure: head + sad face -->
+    <circle cx="404" cy="172" r="34" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="394" cy="166" r="3.5" fill="#2b3a42"/>
+    <circle cx="414" cy="166" r="3.5" fill="#2b3a42"/>
+    <path d="M389 162 L396 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M412 158 L419 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M392 188 Q404 176 416 188" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- tear -->
+    <ellipse cx="398" cy="178" rx="2.2" ry="4" fill="#6b93b6"/>
+    <!-- heavy heart -->
+    <path d="M404 268 c-16 -16 -30 -8 -30 8 c0 16 30 30 30 30 c0 0 30 -14 30 -30 c0 -16 -14 -24 -30 -8 z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="404" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">an ending</text>
+  </g>
+
+  <!-- Caption -->
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Both are true at once.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Not "either/or" — "both/and."</text>
+</svg>

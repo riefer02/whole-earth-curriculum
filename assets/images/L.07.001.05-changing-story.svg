@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My identity: me then and me now</title>
+  <desc id="desc">A two-panel timeline. The left panel is labeled "me then" and shows a younger child. The right panel is labeled "me now" and shows an older young person. An arrow points from left to right between them, with small labels underneath reading "interests changed," "abilities grew," "values deepened," and "relationships shifted." A caption reads "I am a story still being written." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Me then, me now</text>
+
+  <!-- Left panel: me then -->
+  <g>
+    <rect x="24" y="70" width="170" height="270" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="109" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">me then</text>
+    <!-- younger child -->
+    <circle cx="109" cy="168" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="100" cy="162" r="3.5" fill="#2b3a42"/>
+    <circle cx="118" cy="162" r="3.5" fill="#2b3a42"/>
+    <path d="M97 176 Q109 188 121 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- smaller body -->
+    <path d="M109 198 q-22 26 0 44 q22 -18 0 -44" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="109" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">one favorite game</text>
+    <text x="109" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">scared of the dark</text>
+  </g>
+
+  <!-- Arrow -->
+  <path d="M206 205 L286 205" fill="none" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <path d="M272 194 L286 205 L272 216" fill="none" stroke="#e0a458" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Right panel: me now -->
+  <g>
+    <rect x="318" y="70" width="170" height="270" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="403" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">me now</text>
+    <!-- older young person -->
+    <circle cx="403" cy="168" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="394" cy="162" r="3.5" fill="#2b3a42"/>
+    <circle cx="412" cy="162" r="3.5" fill="#2b3a42"/>
+    <path d="M393 178 Q403 187 413 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- taller body -->
+    <path d="M403 198 q-24 34 0 60 q24 -26 0 -60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="403" y="284" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">three sports, many books</text>
+    <text x="403" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">still keeps promises</text>
+  </g>
+
+  <!-- Change labels -->
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">interests changed · abilities grew</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">values deepened · relationships shifted</text>
+
+  <!-- Caption -->
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">I am a story still being written.</text>
+</svg>

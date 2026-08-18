@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Climbing from vague to precise words for a mixed feeling</title>
+  <desc id="desc">A five-rung ladder with an arrow climbing it. The bottom rung reads "vague: weird." The rungs above read, in order: "excited AND nervous", "proud AND lonely", "bittersweet", and at the top "nostalgic — warm AND sad about what is past." Each rung is a step from vague toward precise. Labels carry the meaning, not color, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">From vague to precise</text>
+
+  <!-- Ladder rails -->
+  <line x1="120" y1="84" x2="120" y2="452" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="392" y1="84" x2="392" y2="452" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Rung 1: vague -->
+  <g>
+    <rect x="120" y="76" width="272" height="44" rx="6" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">vague: "weird"</text>
+  </g>
+
+  <!-- Rung 2 -->
+  <g>
+    <rect x="120" y="150" width="272" height="44" rx="6" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+    <text x="256" y="178" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">"excited AND nervous"</text>
+  </g>
+
+  <!-- Rung 3 -->
+  <g>
+    <rect x="120" y="224" width="272" height="44" rx="6" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+    <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">"proud AND lonely"</text>
+  </g>
+
+  <!-- Rung 4 -->
+  <g>
+    <rect x="120" y="298" width="272" height="44" rx="6" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">"bittersweet"</text>
+  </g>
+
+  <!-- Rung 5: precise -->
+  <g>
+    <rect x="120" y="372" width="272" height="44" rx="6" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+    <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">"nostalgic — warm AND sad"</text>
+  </g>
+
+  <!-- Climbing arrow on the right -->
+  <path d="M440 452 L440 84" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M426 98 L440 76 L454 98" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Bottom caption -->
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Each rung names more, hides less.</text>
+</svg>

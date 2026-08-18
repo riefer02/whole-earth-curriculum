@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My daily routine: study, sleep, movement</title>
+  <desc id="desc">A 24-hour wheel divided into labeled segments. A large SLEEP segment reads "about 8–10 hours." A STUDY segment reads "with breaks." A MOVEMENT segment reads "daily." A MEALS & REST segment completes the circle. Around the outside, a line reads "each block serves my goal." A caption below reads "Small, repeated actions add up to the life I want." Meaning is carried by labels and segment position, not color, so it prints clearly in grayscale.</desc>
+
+  <!-- Paper background -->
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Header -->
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">My daily routine</text>
+
+  <!-- Wheel: a circle of segments (simple pie via paths) -->
+  <!-- SLEEP (large, left ~ 35%) -->
+  <path d="M256 190 L256 78 A112 112 0 0 0 145 145 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="196" y="150" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">SLEEP</text>
+  <text x="196" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">about 8–10 hrs</text>
+
+  <!-- STUDY (top right) -->
+  <path d="M256 78 L348 130 A112 112 0 0 1 256 190 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="308" y="140" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">STUDY</text>
+  <text x="308" y="160" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">with breaks</text>
+
+  <!-- MOVEMENT (bottom right) -->
+  <path d="M256 190 A112 112 0 0 1 348 274 L256 302 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="318" y="248" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">MOVE-</text>
+  <text x="318" y="268" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">MENT</text>
+  <text x="318" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">daily</text>
+
+  <!-- MEALS & REST (bottom) -->
+  <path d="M256 302 L164 274 A112 112 0 0 1 145 145 L256 190 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="176" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">MEALS</text>
+  <text x="176" y="290" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">& REST</text>
+
+  <!-- Center hub -->
+  <circle cx="256" cy="190" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="185" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">each block</text>
+  <text x="256" y="204" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">serves my goal</text>
+
+  <!-- Caption -->
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Small, repeated actions add up</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">to the life I want.</text>
+</svg>
