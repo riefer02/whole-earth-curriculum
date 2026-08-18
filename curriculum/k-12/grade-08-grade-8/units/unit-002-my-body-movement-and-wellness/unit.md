@@ -29,7 +29,7 @@ assessment_plan: >-
   and inclusive practices in games as portfolio artifacts.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # Unit 2 — My Body, Movement & Wellness
@@ -55,3 +55,10 @@ abilities.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | My Body, Movement & Wellness: Where We've Been, Where We're Going | D03.S1.08.01, D03.S1.08.02, D03.S2.08.01, D03.S2.08.02 (overview) |
+| 02 | Fight, Flight, or Rest: How My Nervous System Senses and Responds | D03.S1.08.01 |
+| 03 | When Stress Stays: The Cost and the Way Back to Calm | D03.S1.08.02 |
+| 04 | Three Ways Movement Builds Me: Strength, Endurance, Flexibility | D03.S2.08.01 |
+| 05 | Designing My Movement Routine | D03.S2.08.01 |
+| 06 | Fair Play: Movement That Welcomes Every Body | D03.S2.08.02 |
+| 07 | Capstone: My Body, My Wellness, My Choice | D03.S1.08.01, D03.S1.08.02, D03.S2.08.01, D03.S2.08.02 (synthesis) |

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My wellness and movement plan</title>
+  <desc id="desc">A central circle labeled "My body, my choice" surrounded by four spokes: sense and respond, unwind, move with purpose, and play fair. Arrows point inward to the center. Shapes and labels, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Wellness &amp; Movement Plan</text>
+
+  <!-- central circle -->
+  <circle cx="256" cy="268" r="86" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">My body,</text>
+  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">my choice</text>
+
+  <!-- four spokes with labels -->
+  <!-- top: sense & respond -->
+  <line x1="256" y1="182" x2="256" y2="120" stroke="#e0a458" stroke-width="3"/>
+  <circle cx="256" cy="120" r="6" fill="#e0a458"/>
+  <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Sense &amp; Respond</text>
+  <text x="256" y="82" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fight · flight · rest</text>
+
+  <!-- right: unwind -->
+  <line x1="342" y1="268" x2="404" y2="268" stroke="#e0a458" stroke-width="3"/>
+  <circle cx="404" cy="268" r="6" fill="#e0a458"/>
+  <text x="420" y="258" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Unwind</text>
+  <text x="420" y="278" font-family="sans-serif" font-size="12" fill="#4f6d7a">stress &amp; calm</text>
+
+  <!-- bottom: move with purpose -->
+  <line x1="256" y1="354" x2="256" y2="416" stroke="#e0a458" stroke-width="3"/>
+  <circle cx="256" cy="416" r="6" fill="#e0a458"/>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Move with Purpose</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">strength · endurance · flexibility</text>
+
+  <!-- left: play fair -->
+  <line x1="170" y1="268" x2="108" y2="268" stroke="#e0a458" stroke-width="3"/>
+  <circle cx="108" cy="268" r="6" fill="#e0a458"/>
+  <text x="92" y="258" text-anchor="end" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Play Fair</text>
+  <text x="92" y="278" text-anchor="end" font-family="sans-serif" font-size="12" fill="#4f6d7a">welcome every body</text>
+
+  <!-- four lens labels in corners -->
+  <text x="24" y="72" font-family="sans-serif" font-size="13" fill="#4f6d7a">ethics</text>
+  <text x="452" y="72" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">egalitarianism</text>
+  <text x="24" y="488" font-family="sans-serif" font-size="13" fill="#4f6d7a">global</text>
+  <text x="440" y="488" font-family="sans-serif" font-size="13" fill="#4f6d7a">technology &amp; environment</text>
+</svg>

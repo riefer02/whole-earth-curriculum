@@ -4730,7 +4730,7 @@ items:
     type: lesson
     grade: 8
     domain: D03
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -4741,7 +4741,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by reviewer: Traceability error in lesson-006 Preparation: cites D03.S2.06.02 but labels it Grade 7; D03.S2.06.02 is a Grade 6 standard. Fix the grade label (change 'Grade 7' to 'Grade 6', or cite grade-7 D03.S2.07.01). IDs/headings/objectives/validate all otherwise fine.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Re-review after fix: confirmed lesson-006 now reads 'from Grade 6, recall working cooperatively... (D03.S2.06.02)' in Preparation (line 112) and 'From Grade 6' in Procedure recall (line 139), matching the standard's true grade. validate green (1190 files); IDs L.08.002.01-.07 sequential with sequence_in_unit 1-7; objectives resolve only to four grade-8 D03 standards; required headings present; unit.md table matches."
+      fact-checker:
+        verdict: passed
+        note: Verified fight/flight/rest + chronic-stress physiology vs APA (S-338) and Cleveland Clinic (S-339 — corrected a 404 URL to live 'What Happens During Fight-or-Flight Response?'); breath control vs Harvard Health (S-340); strength/endurance/flexibility vs WHO (S-341); fair-play/inclusive sport vs UNESCO Charter (S-342). All five marked reviewed:true; other cited sources (S-001/011/039/050) confirmed registered; evidence vs values (dignity/fair-play/inclusion) distinguished. validate green (1190 files).
+      global-culture-editor:
+        verdict: passed
+        note: Checked §11 multi-tradition handling (L3 names pranayama and qigong side by side with scientific stress account, never ranked); able-bodied-default framing (every lesson has seated/adapted versions, assistive devices ordinary); regional representation strengthened by naming Ayo, Pallanguli, Kabaddi, sepak takraw (L6) and capoeira/tai chi (L5) so movement traditions aren't Western-default. validate green.
+      accessibility-editor:
+        verdict: passed
+        note: "Verified low-tech/no-tech viability (all 7 lessons declare materials_low_tech using voice/body/found objects); non-empty alt text with resolving paths on every assets: entry (SVGs role=img + title/desc, grayscale-safe); disability accommodation for movement unit (seated/adapted/wheelchair paths in L4-6, inclusive game adaptation); added deaf/HH visual-count + mouth/nose breathing cues, non-auditory startle alternatives, tactile non-visual diagram option to L2-3. validate green."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability unbroken: Vision → P2 → D03 → D03.S1/S2 → U.08.002 → L.08.002.01-.07; all four objectives resolve to real grade-8 D03 standards (domain-03 lines 166-172 text-match); domain:[D03]/pillar:[P2] on all; scope.md lists U.08.002. All four lenses substantively carried (ethics: fair play as right conduct; egalitarianism: no body ranking + unevenly distributed stress not person's fault + fix-the-game-not-person; global: pranayama/qigong/capoeira/tai chi/Ayo/Pallanguli/Kabaddi/sepak takraw; tech+environment: screens/alerts/sedentary/unequal access/no-equipment). Evidence vs values labeled; all claims cited (S-338/339/340/341/342/050/039/011 reviewed:true). validate green (1190 files)."
+      child-psychologist:
+        verdict: passed
+        note: "For 6-8 band verified: cognitive fit (stress physiology via concrete anchors — door-slam startle, modeled signal path, card-sorting — matching emerging formal operations without over-abstraction); emotional safety (acute vs chronic stress framed with agency and hope, both alarm and calm 'healthy and necessary', stress de-blamed, no disclosure required); physical fit (every body honored with seated/adapted versions, 'your level is the right level', no ranking/timing/elimination); open-endedness (wonders-first inquiry, scientific account as one well-supported story alongside cultural practices unranked)."
   - id: B-361
     title: Author lessons for Unit U.08.003 (Relationships, Empathy & Conflict)
     agent: lesson-author

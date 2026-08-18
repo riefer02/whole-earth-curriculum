@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fight-or-flight versus rest-and-digest</title>
+  <desc id="desc">Two side-by-side figures of the same person. On the left, labeled sympathetic fight-or-flight, the person looks startled with a racing heart, wide eyes, raised shoulders, and a jagged heartbeat line. On the right, labeled parasympathetic rest-and-digest, the same person is calm with a slow, smooth heartbeat line and relaxed shoulders. Shapes and labels, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Nervous System: Two Branches</text>
+
+  <!-- left panel: fight or flight -->
+  <rect x="24" y="60" width="220" height="424" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="92" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Sympathetic</text>
+  <text x="134" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">fight-or-flight</text>
+
+  <!-- startled head -->
+  <circle cx="134" cy="166" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="123" cy="158" r="4.5" fill="#2b3a42"/>
+  <circle cx="145" cy="158" r="4.5" fill="#2b3a42"/>
+  <path d="M122 176 Q134 184 146 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- raised shoulders body -->
+  <line x1="134" y1="196" x2="134" y2="238" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="108" y1="206" x2="160" y2="206" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="134" y1="208" x2="112" y2="222" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="134" y1="208" x2="156" y2="222" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="134" y1="238" x2="118" y2="272" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="134" y1="238" x2="150" y2="272" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- jagged heartbeat -->
+  <path d="M60 316 L78 316 L84 300 L92 334 L100 296 L108 316 L126 316" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="134" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">heart races</text>
+
+  <!-- body-change list -->
+  <text x="48" y="386" font-family="sans-serif" font-size="14" fill="#222222">• breathing fast</text>
+  <text x="48" y="408" font-family="sans-serif" font-size="14" fill="#222222">• muscles tense</text>
+  <text x="48" y="430" font-family="sans-serif" font-size="14" fill="#222222">• pupils widen</text>
+  <text x="48" y="452" font-family="sans-serif" font-size="14" fill="#222222">• digestion pauses</text>
+
+  <!-- right panel: rest and digest -->
+  <rect x="268" y="60" width="220" height="424" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="92" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Parasympathetic</text>
+  <text x="378" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">rest-and-digest</text>
+
+  <!-- calm head -->
+  <circle cx="378" cy="166" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M367 156 Q370 152 373 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M383 156 Q386 152 389 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M366 178 Q378 186 390 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- hearing aid -->
+  <path d="M404 158 A7 7 0 0 1 415 158" fill="none" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+  <!-- relaxed body -->
+  <line x1="378" y1="196" x2="378" y2="238" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="352" y1="204" x2="404" y2="204" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="378" y1="210" x2="356" y2="226" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="378" y1="210" x2="400" y2="226" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="378" y1="238" x2="362" y2="272" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="378" y1="238" x2="394" y2="272" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- smooth heartbeat -->
+  <path d="M304 316 L322 316 L330 306 L338 328 L346 306 L352 316 L372 316 L380 316 L386 308 L392 322 L398 310 L404 316 L424 316" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="378" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">heart slows</text>
+
+  <text x="292" y="386" font-family="sans-serif" font-size="14" fill="#222222">• breathing slow</text>
+  <text x="292" y="408" font-family="sans-serif" font-size="14" fill="#222222">• muscles relax</text>
+  <text x="292" y="430" font-family="sans-serif" font-size="14" fill="#222222">• pupils narrow</text>
+  <text x="292" y="452" font-family="sans-serif" font-size="14" fill="#222222">• digestion resumes</text>
+</svg>

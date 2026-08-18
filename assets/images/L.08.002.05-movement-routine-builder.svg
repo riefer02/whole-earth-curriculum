@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Movement routine builder</title>
+  <desc id="desc">A routine-builder template with five labeled boxes stacked vertically: warm-up, strength, endurance, flexibility, and cool-down. Each box shows a small example and a blank line to write. The strength box shows a wall push, the endurance box shows a marching figure, and the flexibility box shows a reaching figure in a seated wheelchair. Shapes and labels, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Movement Routine</text>
+
+  <!-- box 1: warm-up -->
+  <rect x="24" y="54" width="464" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="44" y="82" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">1 · Warm-up</text>
+  <text x="44" y="106" font-family="sans-serif" font-size="14" fill="#4f6d7a">gentle movement to prepare the body</text>
+  <text x="120" y="100" font-family="sans-serif" font-size="13" fill="#7a9e7e">example: march in place, roll shoulders</text>
+
+  <!-- box 2: strength -->
+  <rect x="24" y="146" width="464" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="44" y="174" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">2 · Strength</text>
+  <text x="44" y="198" font-family="sans-serif" font-size="14" fill="#4f6d7a">muscles work against a load</text>
+  <text x="120" y="192" font-family="sans-serif" font-size="13" fill="#7a9e7e">example: wall push, lift, carry</text>
+
+  <!-- box 3: endurance -->
+  <rect x="24" y="238" width="464" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="44" y="266" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">3 · Endurance</text>
+  <text x="44" y="290" font-family="sans-serif" font-size="14" fill="#4f6d7a">heart &amp; lungs work over time</text>
+  <text x="120" y="284" font-family="sans-serif" font-size="13" fill="#7a9e7e">example: steady walk, wheel, march</text>
+
+  <!-- box 4: flexibility -->
+  <rect x="24" y="330" width="464" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="44" y="358" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">4 · Flexibility</text>
+  <text x="44" y="382" font-family="sans-serif" font-size="14" fill="#4f6d7a">joints' range of motion</text>
+  <text x="120" y="376" font-family="sans-serif" font-size="13" fill="#7a9e7e">example: reach, bend, stretch</text>
+
+  <!-- box 5: cool-down -->
+  <rect x="24" y="422" width="464" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="44" y="450" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">5 · Cool-down</text>
+  <text x="44" y="474" font-family="sans-serif" font-size="14" fill="#4f6d7a">slow, easy movement to settle</text>
+  <text x="120" y="468" font-family="sans-serif" font-size="13" fill="#7a9e7e">example: slow breaths, shake hands softly</text>
+
+  <!-- small figures: strength wall push (left of box 2) -->
+  <g>
+    <circle cx="470" cy="180" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="470" y1="187" x2="470" y2="202" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="470" y1="190" x2="456" y2="188" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="470" y1="190" x2="484" y2="188" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- small figure: seated reach (box 4) -->
+  <g>
+    <circle cx="470" cy="364" r="7" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="470" y1="371" x2="470" y2="384" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="470" y1="374" x2="456" y2="360" stroke="#2b3a42" stroke-width="1.5"/>
+    <line x1="470" y1="374" x2="484" y2="360" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+</svg>

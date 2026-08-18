@@ -3140,3 +3140,53 @@ sources:
     domains: [D01]
     reviewed: true
     notes: "Kahneman's System 1 (fast, automatic, emotional) versus System 2 (slow, deliberate, effortful) distinction, and related findings on present bias and time discounting (valuing a smaller immediate reward over a larger delayed one). Real, well-known book (Farrar, Straus and Giroux, 2011); URL (Wikipedia) verified live (2026-08-18). Supports L.08.001.04 (a slower check corrects vivid but wrong first reactions), L.08.001.08 (present bias / why the brain favors 'now'), and their framing in L.08.001.09."
+
+  - id: S-338
+    title: American Psychological Association — Stress effects on the body
+    type: website
+    url: https://www.apa.org/topics/stress/body
+    organization: American Psychological Association
+    year: 2018
+    domains: [D03]
+    reviewed: true
+    notes: "Describes the acute fight-or-flight (fight-flight-freeze) stress response — nervous and endocrine activation (adrenaline/epinephrine and cortisol) that readies the body for danger — and the health costs of chronic stress when the response does not turn off (musculoskeletal tension, cardiovascular strain, digestive upset, sleep disruption, and effects on mood). URL verified live (2026-08-18): the page states the autonomic nervous system divides into sympathetic (SNS, 'fight or flight') and parasympathetic (PNS) branches; that acute stress raises heart rate and releases adrenaline/noradrenaline/cortisol; and that chronic stress produces wear-and-tear (muscle tension, cardiovascular strain, gut and sleep disruption, mood effects). Cited in Grade-8 lessons L.08.002.02 and L.08.002.03 (D03.S1.08.01 and D03.S1.08.02). US-based organization but a standard authority on the physiology of stress; treated as one scientific account alongside others."
+
+  - id: S-339
+    title: "Cleveland Clinic — What Happens During Fight-or-Flight Response?"
+    type: website
+    url: https://health.clevelandclinic.org/what-happens-to-your-body-during-the-fight-or-flight-response
+    organization: Cleveland Clinic
+    year: 2024
+    domains: [D03]
+    reviewed: true
+    notes: "Explains the sympathetic nervous system's fight-or-flight (and freeze/fawn) stress response — the body changes it triggers (faster heart rate and blood pressure, quicker and heavier breathing, dilated pupils, tense/trembling muscles, and digestion and other non-urgent functions temporarily paused) — and notes the parasympathetic nervous system ('rest and digest') returns the body to calm. URL re-verified live (2026-08-18): the article was retitled from 'Fight, Flight, Freeze: What This Response Means'; the previously registered URL (health.clevelandclinic.org/fight-flight-freeze-response) now returns 404, and the live article is at /what-happens-to-your-body-during-the-fight-or-flight-response (published 22 July 2024, headline 'What Is the Fight, Flight, Freeze or Fawn Response?'). Cited in Grade-8 lesson L.08.002.02 (D03.S1.08.01) for the basic role of the nervous system in sensing and responding."
+
+  - id: S-340
+    title: "Harvard Health — Relaxation techniques: Breath control helps quell errant stress response"
+    type: website
+    url: https://www.health.harvard.edu/mind-and-mood/relaxation-techniques-breath-control-helps-quell-errant-stress-response
+    organization: Harvard Health Publishing
+    year: 2024
+    domains: [D03]
+    reviewed: true
+    notes: "Describes how slow, deliberate breathing (especially a longer exhale) activates the parasympathetic nervous system and lowers the fight-or-flight response, as one healthy way to help the body return to calm. URL verified live (2026-08-18): page title matches exactly ('Relaxation techniques: Breath control helps quell errant stress response', reviewed 24 July 2024 by Howard E. LeWine, MD); the full article sits behind the Harvard Health Online+ login, but the title/topic directly support the claim that breath control quells the stress response. Cited in Grade-8 lesson L.08.002.03 (D03.S1.08.02) alongside sleep, movement, and connection as named ways to unwind. Treated as one scientific account; the lesson also holds breathing practices from many cultures (pranayama, qigong, and others) side by side without ranking them."
+
+  - id: S-341
+    title: World Health Organization — Physical activity fact sheet
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+    organization: World Health Organization
+    year: 2024
+    domains: [D03]
+    reviewed: true
+    notes: "WHO guidance that regular physical activity supports health and that a balanced routine includes aerobic (endurance) activity and muscle-strengthening activity, with balance and flexibility also part of functional capacity across the lifespan. URL verified live (2026-08-18): the fact sheet (dated 26 June 2024) states regular physical activity 'provides significant physical and mental health benefits', that 'both moderate- and vigorous-intensity physical activity improve health', and that 'muscle strengthening benefits everyone'; it points to the WHO Guidelines on physical activity and sedentary behaviour, which recommend aerobic and muscle-strengthening activity for all ages and balance/functional training (especially for older adults). Cited in Grade-8 lessons L.08.002.04 and L.08.002.05 (D03.S2.08.01) for the strength/endurance/flexibility framing of movement design. Global and authoritative by design."
+
+  - id: S-342
+    title: UNESCO — International Charter of Physical Education, Physical Activity and Sport
+    type: website
+    url: https://www.unesco.org/en/sport-and-anti-doping/international-charter-sport
+    organization: UNESCO
+    year: 2015
+    domains: [D03]
+    reviewed: true
+    notes: "UNESCO's revised International Charter (2015) states that the practice of physical education, physical activity and sport is a fundamental right for all, and that opportunities must be inclusive and accessible to every person regardless of ability, background, or other status. URL verified live (2026-08-18): the page confirms Article 1 — 'The practice of physical education, physical activity and sport is a fundamental right for all' — and that the revised Charter 'promotes inclusive access to sport by all without any form of discrimination', adopted at UNESCO's 38th General Conference (November 2015). Cited in Grade-8 lesson L.08.002.06 (D03.S2.08.02) as the egalitarian frame for fair play and inclusive movement."

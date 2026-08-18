@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Strength, endurance, and flexibility</title>
+  <desc id="desc">Three labeled panels. The first shows a person carrying a load for strength. The second shows a person using a wheelchair moving steadily for endurance. The third shows a person reaching and stretching for flexibility. Each panel has a label and a one-line explanation. Shapes and labels, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Three Ways Movement Builds Me</text>
+
+  <!-- panel 1: strength -->
+  <rect x="20" y="60" width="150" height="424" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="95" y="90" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Strength</text>
+  <text x="95" y="110" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">muscles work</text>
+  <text x="95" y="126" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">against a load</text>
+
+  <!-- person carrying a box -->
+  <circle cx="95" cy="176" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="95" y1="196" x2="95" y2="242" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="70" y1="206" x2="120" y2="206" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="95" y1="242" x2="80" y2="280" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="95" y1="242" x2="110" y2="280" stroke="#2b3a42" stroke-width="2"/>
+  <!-- arms up holding box -->
+  <line x1="95" y1="210" x2="72" y2="188" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="95" y1="210" x2="118" y2="188" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="66" y="168" width="58" height="24" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="95" y="316" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">lifting · carrying</text>
+  <text x="95" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">pushing · pulling</text>
+
+  <!-- panel 2: endurance -->
+  <rect x="181" y="60" width="150" height="424" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Endurance</text>
+  <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">heart &amp; lungs work</text>
+  <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">over time</text>
+
+  <!-- person in wheelchair -->
+  <circle cx="256" cy="170" r="18" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="188" x2="256" y2="224" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="256" y1="196" x2="286" y2="206" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="196" x2="232" y2="206" stroke="#2b3a42" stroke-width="2"/>
+  <!-- chair -->
+  <rect x="224" y="222" width="64" height="8" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="232" y1="230" x2="232" y2="268" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="280" y1="230" x2="280" y2="268" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="244" cy="272" r="12" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="244" cy="272" r="3" fill="#2b3a42"/>
+  <circle cx="268" cy="272" r="12" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="268" cy="272" r="3" fill="#2b3a42"/>
+  <!-- motion lines -->
+  <line x1="202" y1="230" x2="192" y2="230" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="202" y1="244" x2="196" y2="244" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">walking · wheeling</text>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">cycling · dancing</text>
+
+  <!-- panel 3: flexibility -->
+  <rect x="342" y="60" width="150" height="424" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="417" y="90" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Flexibility</text>
+  <text x="417" y="110" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">joints' range</text>
+  <text x="417" y="126" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">of motion</text>
+
+  <!-- person reaching up and stretching -->
+  <circle cx="417" cy="176" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="417" y1="196" x2="417" y2="244" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="392" y1="206" x2="442" y2="206" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <!-- arms raised -->
+  <line x1="417" y1="210" x2="392" y2="180" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="417" y1="210" x2="442" y2="180" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="392" y1="180" x2="388" y2="158" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="442" y1="180" x2="446" y2="158" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- legs -->
+  <line x1="417" y1="244" x2="402" y2="282" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="417" y1="244" x2="432" y2="282" stroke="#2b3a42" stroke-width="2"/>
+  <!-- arc showing range -->
+  <path d="M452 158 q14 34 0 62" fill="none" stroke="#e0a458" stroke-width="2" stroke-dasharray="5 4"/>
+
+  <text x="417" y="316" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">reaching · bending</text>
+  <text x="417" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">stretching</text>
+
+  <!-- footer note -->
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Every body builds all three — at its own level.</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Seated and standing versions both count.</text>
+</svg>
