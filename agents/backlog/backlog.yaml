@@ -4286,7 +4286,7 @@ items:
     type: lesson
     grade: 7
     domain: D03
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4297,7 +4297,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by child-psychologist: Cognitive fit/emotional-safety/physical fit/open-endedness all pass for grade-7 band, but blocking on a genuine safety issue: low-tech material options in lessons 6 ('Two learners as the diagram') and 7 ('Bodies as the chart') ask facilitators to use live learners' body sizes/heights as public comparison aids in a puberty unit, contradicting those lessons' own 'never single out or compare any body' guidance and risking shame for 12-13-year-olds; replace them with illustrated figures or the existing diagrams rather than live students.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1070 files, zero failures. Verified all 8 lessons (L.07.002.01-.08, sequence 1-8, grade 7, U.07.002, required headings present), objectives resolve to the 4 real grade-7 D03 standards, unit.md table matches; the two reworked low-tech lines (Drawn growth figures / Drawn fuel-bar figures) now use drawn figures and say 'never use live learners' bodies as the comparison'.
+      fact-checker:
+        verdict: passed
+        note: Verified energy-needs-vary (FAO/WHO/UNU 2004 S-285), food-restriction/undernutrition harms and eating-disorders-as-treatable (Nemours KidsHealth S-286), puberty/center-of-gravity movement (WHO Physical Activity + Child Growth Standards), traditional-games (UNESCO TSG S-287); the two low-tech line changes added no factual content; all sources remain registered reviewed:true; validate passes 1070 files.
+      global-culture-editor:
+        verdict: passed
+        note: Verified global framing across all Connection sections (city/village/farm, Brazil/India/schoolyard, farmer/student/fisher), world-games lesson L4 presents kabaddi/kho-kho/sepak takraw accurately as living traditions with additional regions (Indigenous North America, Samoa, Ethiopia); no single-civilization default, no stereotyping, rework introduced no new framing issues.
+      accessibility-editor:
+        verdict: passed
+        note: Checked low-tech tier (materials_low_tech in all 8 lessons, no device/internet), alt text (all 8 assets non-empty alt resolving to real SVGs), disability-inclusive movement adaptations (walking/rolling/wheeling/pointing, tag as touch/tap/call, every body has a role), and confirmed the 'drawn figures, never live learners' bodies' rework is a genuine safety/inclusion improvement.
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics, egalitarianism, global/anthropological, technology/environment lenses remain intact after low-tech rework, facts cited and values explicitly distinguished (L8), chain resolving D03.S1/S2/S3.07.x -> D03 (P2 Physical & Somatic Awareness) -> vision; no hierarchy/supremacy content.
+      child-psychologist:
+        verdict: passed
+        note: "Re-verified grade-7 band: cognitive fit (concrete anchors carrying emerging abstract reasoning), emotional safety (eating-disorder content scaffolded as treatable-with-help, no body ranking/calorie-counting/required disclosure; puberty as different-never-better-or-worse), physical fit (adapted inclusive low-contact movement), open-endedness (questions as questions, facts vs values); prior block resolved — Lessons 6 and 7 now use drawn stick-figure diagrams and state 'never use live learners' bodies as the comparison'."
   - id: B-349
     title: Author lessons for Unit U.07.003 (Relationships, Empathy & Conflict)
     agent: lesson-author

@@ -2637,6 +2637,35 @@ sources:
     reviewed: true
     notes: "Steele, C. M., & Aronson, J. (1995). Stereotype threat and the intellectual test performance of African Americans. Journal of Personality and Social Psychology, 69(5), 797–811. DOI 10.1037/0022-3514.69.5.797. Cited in U.07.001 L08 (When a Label Narrows Me) for the 'stereotype threat' finding — that worrying about confirming a negative stereotype can weigh on performance. The lesson cites it correctly and with the research's own cautions: it teaches 'labels can get inside and weigh on a person,' not a fixed law, and the facilitator note flags that effect size and boundary conditions are debated in the literature (consistent with subsequent replication/meta-analytic discussion). Real, foundational social-psychology article; on-topic for the lesson's internalization claim."
 
+  - id: S-285
+    title: "Human energy requirements: Report of a Joint FAO/WHO/UNU Expert Consultation"
+    type: report
+    url: https://www.fao.org/4/y5686e/y5686e00.htm
+    organization: Food and Agriculture Organization of the United Nations (FAO), World Health Organization (WHO), United Nations University (UNU)
+    year: 2004
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.07.002 L07 (Energy Needs Differ Among Bodies and Activities) for the claim that human energy needs differ by age, sex, body size, and physical activity level, and rise steeply during the adolescent growth spurt (energy is spent on growth as well as on daily activity). ISBN 92-5-105212-3 (FAO Food and Nutrition Technical Report Series 1, Rome, 2004). Fact-check verified live (2026-08-18): the URL resolves to the report's title page ('Report of a Joint FAO/WHO/UNU Expert Consultation, Rome, 17-24 October 2001', published Rome 2004), and its table of contents lists Chapter 4 'Energy Requirements of Children and Adolescents' with '4.3 Energy needs for growth' and Chapter 5 covering 'physical activity level' — directly supporting the lesson's hedged general claim that growing bodies and more active bodies need more energy, and that energy needs are individual, not a single number. Global (FAO/WHO/UNU), not a single-tradition source."
+
+  - id: S-286
+    title: "Nemours KidsHealth — Eating Disorders (for teens)"
+    type: website
+    url: https://kidshealth.org/en/teens/eat-disorder.html
+    organization: Nemours KidsHealth (Nemours Children's Health)
+    year: 2022
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.07.002 L08 (Fueling a Growing Body: Why Restriction Harms) for the claims that eating disorders are serious illnesses (not a choice or a character flaw), that restricting food during the growing years can harm a growing body — listing undernutrition harms including 'delayed puberty and slow growth,' 'weak bones,' 'irregular periods,' 'feeling tired, weak, dizzy, or faint,' and trouble focusing/remembering — and that recovery is possible with help from a team (doctor, dietitian, therapist). Fact-check verified live (2026-08-18): the page is real and medically reviewed (D'Arcy Lyness, PhD; 'Date reviewed: March 2022'). Its anorexia section lists 'delayed puberty and slow growth', 'weak bones', 'irregular periods', 'feeling tired, weak, dizzy, or faint', and 'find it hard to focus and have trouble remembering things' as harms of undernutrition/low body weight; it states eating disorders are treated 'by a team that includes a doctor, dietitian, and therapist,' that there is 'no one cause' (genes, environment, stressful events), and that 'When an eating disorder is caught early, a person has a better chance of recovery,' with the advice to 'Tell someone' and 'Get help early.' Each lesson claim is directly supported. The lesson holds the 'no shame, no blame' stance as a values commitment distinct from these facts, and directs learners to tell a trusted adult and seek early help. US-centric source; treated as one authoritative pediatric reference, not the only tradition."
+
+  - id: S-287
+    title: "UNESCO — Traditional Sports and Games (TSG)"
+    type: website
+    url: https://www.unesco.org/en/sport-and-anti-doping/traditional-sports-and-games
+    organization: UNESCO
+    domains: [D03, D08]
+    reviewed: true
+    notes: "Cited in U.07.002 L04 (Teamwork: Games from Around the World) as a general frame for traditional sports and games as living cultural heritage — practices communities pass down and adapt, which carry values of fair play, teamwork, and inclusion. URL corrected by fact-checker (2026-08-18): the lesson originally cited https://www.unesco.org/en/traditional-sports-and-games, which is not the canonical page; the live UNESCO page is https://www.unesco.org/en/sport-and-anti-doping/traditional-sports-and-games (confirmed via search; unesco.org is unreachable to automated clients — times out/HTTP 000 — consistent with prior UNESCO entries). The page defines traditional sports and games (TSG) as 'practices in an individual or collective manner, deriving from regional or local identity, based on accepted rules' and part of the 'universal heritage diversity,' per the Collective Consultation (Tehran) — matching the lesson's living-heritage/fair-play framing. The lesson's specific games (kabaddi and kho-kho of South Asia, sepak takraw of Southeast Asia) are standard, widely documented team games; the lesson presents them as living traditions played with respect, never ranked, and directs learners to verify local rules with community members."
+
 
 
 

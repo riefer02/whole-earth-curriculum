@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My changing body in motion</title>
+  <desc id="desc">Two human figures side by side. The left figure is shorter, labeled before the growth spurt. The right figure is taller with longer limbs, labeled during the growth spurt, with a small dot marking the center of gravity moved slightly higher. One figure uses a walking aid, shown as an ordinary part of the picture. A caption reads every pace is normal. The image uses labels and shapes, not color alone, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Changing Body in Motion</text>
+
+  <!-- Left figure: before growth spurt -->
+  <g>
+    <circle cx="140" cy="120" r="26" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="132" cy="116" r="2.6" fill="#2b3a42"/>
+    <circle cx="148" cy="116" r="2.6" fill="#2b3a42"/>
+    <path d="M134 128 Q140 132 146 128" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="118" y="150" width="44" height="96" rx="18" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="100" y="156" width="14" height="70" rx="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="166" y="156" width="14" height="70" rx="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="124" y="248" width="14" height="80" rx="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="142" y="248" width="14" height="80" rx="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="140" cy="228" r="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="140" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">before the</text>
+    <text x="140" y="378" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">growth spurt</text>
+  </g>
+
+  <!-- Right figure: during growth spurt (taller, longer limbs, walking aid) -->
+  <g>
+    <circle cx="330" cy="104" r="26" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="322" cy="100" r="2.6" fill="#2b3a42"/>
+    <circle cx="338" cy="100" r="2.6" fill="#2b3a42"/>
+    <path d="M324 112 Q330 116 336 112" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="306" y="134" width="48" height="112" rx="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="286" y="140" width="15" height="84" rx="7.5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <!-- walking aid (cane) on the left side -->
+    <line x1="272" y1="142" x2="266" y2="296" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M270 148 L282 142" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="356" y="140" width="15" height="84" rx="7.5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="314" y="250" width="15" height="98" rx="7.5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="334" y="250" width="15" height="98" rx="7.5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="330" cy="226" r="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="330" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">during the</text>
+    <text x="330" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">growth spurt</text>
+  </g>
+
+  <!-- Center of gravity labels -->
+  <text x="414" y="236" font-family="sans-serif" font-size="14" fill="#7a9e7e">center of gravity shifts</text>
+  <text x="414" y="254" font-family="sans-serif" font-size="14" fill="#7a9e7e">as limbs lengthen</text>
+
+  <!-- Bottom caption -->
+  <rect x="96" y="414" width="320" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Every pace is normal.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Adapt the activity to the body you have today.</text>
+</svg>

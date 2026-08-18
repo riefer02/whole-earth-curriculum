@@ -58,3 +58,11 @@ these years is named as normal, never shameful.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.07.002.01 | Reading My Body's Signals | D03.S1.07.01 |
+| L.07.002.02 | Signal Detective: Naming It Accurately | D03.S1.07.01 |
+| L.07.002.03 | Space and Time: The Grammar of Movement | D03.S2.07.01 |
+| L.07.002.04 | Teamwork: Games from Around the World | D03.S2.07.01 |
+| L.07.002.05 | Strategies in Play: Putting It Together | D03.S2.07.01 |
+| L.07.002.06 | My Changing Body in Motion | D03.S2.07.02 |
+| L.07.002.07 | Energy Needs Differ Among Bodies and Activities | D03.S3.07.01 |
+| L.07.002.08 | Fueling a Growing Body: Why Restriction Harms | D03.S3.07.01 |

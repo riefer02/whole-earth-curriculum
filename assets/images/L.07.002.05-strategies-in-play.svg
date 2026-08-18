@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Strategies in play: our team plan</title>
+  <desc id="desc">A team plan diagram. Three boxes labeled Spacing, Timing, and Teamwork each feed an arrow into a central circle labeled Our team plan. Below the circle, a banner reads After the game: what worked, what we would change. Labels and arrows carry the meaning so the diagram prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Our Team Plan</text>
+
+  <!-- Spacing box -->
+  <g>
+    <rect x="40" y="96" width="150" height="74" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+    <text x="115" y="126" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">Spacing</text>
+    <text x="115" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">where will each person be?</text>
+  </g>
+
+  <!-- Timing box -->
+  <g>
+    <rect x="40" y="196" width="150" height="74" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="115" y="226" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">Timing</text>
+    <text x="115" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">when will we move or pass?</text>
+  </g>
+
+  <!-- Teamwork box -->
+  <g>
+    <rect x="40" y="296" width="150" height="74" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+    <text x="115" y="326" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#e0a458">Teamwork</text>
+    <text x="115" y="348" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">who has which role, and how</text>
+    <text x="115" y="362" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">will we help each other?</text>
+  </g>
+
+  <!-- Arrows into center -->
+  <path d="M190 130 L300 214" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M190 230 L300 230" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M190 330 L300 246" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Center circle -->
+  <circle cx="330" cy="230" r="76" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="330" y="220" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Our</text>
+  <text x="330" y="242" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">team plan</text>
+
+  <!-- Reflection banner -->
+  <rect x="40" y="408" width="432" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">After the game:</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what worked, and what would we change?</text>
+</svg>

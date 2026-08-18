@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Energy needs differ among bodies and activities</title>
+  <desc id="desc">A fuel gauge chart with three bars of different heights. The shortest bar is labeled smaller body, restful day, less fuel. The middle bar is labeled bigger body, restful day, more fuel. The tallest bar is labeled active day, most fuel, with a small note that a growing body needs extra fuel on top. Bars differ by height and label, so the chart reads clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Energy Needs Differ</text>
+
+  <!-- Bar 1 (shortest) -->
+  <g>
+    <rect x="40" y="230" width="90" height="120" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="40" y="230" width="90" height="120" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="85" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">smaller body</text>
+    <text x="85" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">restful day</text>
+    <text x="85" y="404" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e">less fuel</text>
+  </g>
+
+  <!-- Bar 2 (middle) -->
+  <g>
+    <rect x="211" y="150" width="90" height="200" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="132" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">bigger body</text>
+    <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">restful day</text>
+    <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">more fuel</text>
+  </g>
+
+  <!-- Bar 3 (tallest) -->
+  <g>
+    <rect x="382" y="90" width="90" height="260" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="427" y="72" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">active day</text>
+    <text x="427" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">moving a lot</text>
+    <text x="427" y="404" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e0a458">most fuel</text>
+  </g>
+
+  <!-- Growing body note -->
+  <rect x="96" y="424" width="320" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">A growing body needs <tspan font-weight="bold">extra</tspan> fuel on top —</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">growth itself costs energy.</text>
+</svg>

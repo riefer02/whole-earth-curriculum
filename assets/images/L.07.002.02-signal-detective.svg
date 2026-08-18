@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Signal detective chart</title>
+  <desc id="desc">A three-row chart. Row one, hunger, shows an empty stomach shape and lists what it feels like (empty or rumbling stomach) and what it is confused with (thirst, boredom). Row two, fatigue, shows heavy eyelids and drooping shoulders and is confused with stress. Row three, stress, shows a fast heart and tight chest and is confused with excitement. A checkmark marks the accurate reading in each row. The chart uses labels and shapes, not color alone, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Signal Detective Chart</text>
+
+  <!-- Row 1: Hunger -->
+  <g>
+    <rect x="24" y="66" width="464" height="128" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="44" y="96" font-family="sans-serif" font-size="20" font-weight="bold" fill="#e0a458">Hunger</text>
+    <ellipse cx="96" cy="130" rx="26" ry="16" fill="none" stroke="#e0a458" stroke-width="2" stroke-dasharray="5 4"/>
+    <text x="156" y="104" font-family="sans-serif" font-size="15" fill="#2b3a42">Feels like: empty or rumbling stomach,</text>
+    <text x="156" y="124" font-family="sans-serif" font-size="15" fill="#2b3a42">low energy that builds slowly.</text>
+    <text x="156" y="156" font-family="sans-serif" font-size="15" fill="#2b3a42">Confused with: thirst, boredom.</text>
+    <path d="M440 96 l10 12 l18 -20" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Row 2: Fatigue -->
+  <g>
+    <rect x="24" y="206" width="464" height="128" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="44" y="236" font-family="sans-serif" font-size="20" font-weight="bold" fill="#6b93b6">Fatigue</text>
+    <circle cx="86" cy="258" r="6" fill="none" stroke="#6b93b6" stroke-width="2"/>
+    <path d="M78 258 Q86 262 94 258" fill="none" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+    <path d="M88 276 Q96 268 104 276" fill="none" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+    <text x="156" y="244" font-family="sans-serif" font-size="15" fill="#2b3a42">Feels like: heavy eyelids, heavy body,</text>
+    <text x="156" y="264" font-family="sans-serif" font-size="15" fill="#2b3a42">wanting rest.</text>
+    <text x="156" y="296" font-family="sans-serif" font-size="15" fill="#2b3a42">Confused with: stress (can also drain you).</text>
+    <path d="M440 236 l10 12 l18 -20" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Row 3: Stress -->
+  <g>
+    <rect x="24" y="346" width="464" height="128" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="44" y="376" font-family="sans-serif" font-size="20" font-weight="bold" fill="#7a9e7e">Stress</text>
+    <path d="M92 388 C86 380 76 388 92 400 C108 388 98 380 92 388" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="156" y="384" font-family="sans-serif" font-size="15" fill="#2b3a42">Feels like: fast heart, tight chest,</text>
+    <text x="156" y="404" font-family="sans-serif" font-size="15" fill="#2b3a42">quick shallow breaths.</text>
+    <text x="156" y="436" font-family="sans-serif" font-size="15" fill="#2b3a42">Confused with: excitement (heart speeds up too).</text>
+    <path d="M440 376 l10 12 l18 -20" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The clue is always your own body's pattern.</text>
+</svg>

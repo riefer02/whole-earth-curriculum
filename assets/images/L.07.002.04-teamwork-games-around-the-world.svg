@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Teamwork: games from around the world</title>
+  <desc id="desc">Three cards side by side. Card one, kabaddi from South Asia, shows two players and a line with a chant, noting teamwork of timing and rescue. Card two, kho-kho from South Asia, shows players chasing around a row, noting teamwork of taking turns. Card three, sepak takraw from Southeast Asia, shows a player kicking a rattan ball over a net, noting teamwork of passing to set each other up. Labels and shapes carry the meaning so the image prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Games from Around the World</text>
+
+  <!-- Card 1: Kabaddi -->
+  <g>
+    <rect x="20" y="66" width="150" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="96" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#e0a458">Kabaddi</text>
+    <text x="95" y="116" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">South Asia</text>
+    <!-- field line -->
+    <line x1="40" y1="230" x2="150" y2="230" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+    <!-- raider crossing, defender -->
+    <circle cx="95" cy="196" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="120" cy="264" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M95 208 L95 224" stroke="#e0a458" stroke-width="2" stroke-dasharray="3 3"/>
+    <text x="95" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">One raider crosses on</text>
+    <text x="95" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">one breath; teammates</text>
+    <text x="95" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">time the rescue.</text>
+  </g>
+
+  <!-- Card 2: Kho-kho -->
+  <g>
+    <rect x="181" y="66" width="150" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#7a9e7e">Kho-kho</text>
+    <text x="256" y="116" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">South Asia</text>
+    <!-- row of players -->
+    <circle cx="196" cy="200" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="200" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="316" cy="200" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="196" cy="250" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="316" cy="250" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M206 250 Q256 224 306 250" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
+    <text x="256" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">Chasers take turns</text>
+    <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">around a row, passing</text>
+    <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">the chase by touch.</text>
+  </g>
+
+  <!-- Card 3: Sepak takraw -->
+  <g>
+    <rect x="342" y="66" width="150" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="417" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">Sepak Takraw</text>
+    <text x="417" y="116" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Southeast Asia</text>
+    <!-- net -->
+    <line x1="417" y1="140" x2="417" y2="250" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M417 150 l0 8 M417 168 l0 8 M417 186 l0 8 M417 204 l0 8 M417 222 l0 8 M417 240 l0 8" stroke="#2b3a42" stroke-width="2"/>
+    <!-- rattan ball and kicking player -->
+    <circle cx="372" cy="176" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M368 176 q-6 4 -8 0 M376 176 q6 4 8 0" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M455 262 q-16 -10 -34 -20" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <text x="417" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">Three players pass a</text>
+    <text x="417" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">rattan ball with feet</text>
+    <text x="417" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">and knees, setting up.</text>
+  </g>
+
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Three lands, one language: share roles, talk, help each other.</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fueling a growing body: why restriction harms</title>
+  <desc id="desc">Two side-by-side panels. The left panel shows a growing body with labeled building blocks of food and energy flowing in, an upward growth arrow, and strong bones, labeled fueled: grows, plays, feels strong. The right panel shows the same body with the blocks removed, a downward arrow, and labels slowed growth, weak bones, tiredness, labeled restriction harms a growing body. A final line reads help is available: talk to a trusted adult. Labels and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Fueling a Growing Body</text>
+
+  <!-- Left panel: fueled -->
+  <g>
+    <rect x="20" y="62" width="230" height="330" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="135" y="88" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">Fueled</text>
+    <!-- small figure -->
+    <circle cx="135" cy="128" r="18" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="120" y="150" width="30" height="62" rx="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="108" y="156" width="10" height="44" rx="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="152" y="156" width="10" height="44" rx="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="122" y="214" width="10" height="52" rx="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="138" y="214" width="10" height="52" rx="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <!-- building blocks flowing in -->
+    <rect x="44" y="120" width="34" height="20" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="56" y="148" width="34" height="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="44" y="176" width="34" height="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="45" y="112" font-family="sans-serif" font-size="12" fill="#4f6d7a">food &#38; energy</text>
+    <!-- upward growth arrow -->
+    <path d="M192 96 L212 76" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M206 74 l8 -2 l-3 8 z" fill="#7a9e7e"/>
+    <!-- strong bones label -->
+    <path d="M150 240 q4 -8 8 0 M156 240 q4 -8 8 0" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <text x="135" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">grows, plays,</text>
+    <text x="135" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">feels strong</text>
+  </g>
+
+  <!-- Right panel: restricted -->
+  <g>
+    <rect x="262" y="62" width="230" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="377" y="88" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Restriction harms</text>
+    <!-- small figure with blocks removed (empty dashed blocks) -->
+    <circle cx="377" cy="128" r="18" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="362" y="150" width="30" height="62" rx="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="350" y="156" width="10" height="44" rx="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="394" y="156" width="10" height="44" rx="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="364" y="214" width="10" height="52" rx="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="380" y="214" width="10" height="52" rx="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <!-- empty dashed blocks where fuel should be -->
+    <rect x="424" y="120" width="34" height="20" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <rect x="436" y="148" width="34" height="20" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <rect x="424" y="176" width="34" height="20" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="452" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fuel denied</text>
+    <!-- downward arrow -->
+    <path d="M330 96 L310 76" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M306 74 l-8 -2 l3 8 z" fill="#2b3a42"/>
+    <!-- harmful effects -->
+    <text x="377" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">slowed growth,</text>
+    <text x="377" y="318" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">weak bones,</text>
+    <text x="377" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">tiredness</text>
+  </g>
+
+  <!-- Bottom line -->
+  <rect x="96" y="408" width="320" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Help is available.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Talk to a trusted adult.</text>
+</svg>
