@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
+  <title id="title">Celebration, two ways</title>
+  <desc id="desc">A two-panel comparison titled "Celebration, two ways." The left panel, labeled "Brazilian samba," shows a small drum with two sticks and dancing figures, with labels "surdo, tamborim, cuíca," "a syncopated groove," and "call-and-response with dancing crowds." The right panel, labeled "Japanese taiko," shows a large drum with two players holding bachi sticks, with labels "large drums and bachi sticks," "unison strikes with full-body form," and "intensity that builds and builds." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="560" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Celebration, Two Ways</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">one theme — celebration — expressed differently</text>
+
+  <!-- left panel: samba -->
+  <rect x="24" y="80" width="224" height="440" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="136" y="108" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Brazilian samba</text>
+
+  <!-- drum (surdo) -->
+  <rect x="88" y="136" width="96" height="72" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="88" y1="154" x2="184" y2="154" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="88" y1="190" x2="184" y2="190" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="118" cy="172" r="8" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="154" cy="172" r="8" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- sticks -->
+  <line x1="120" y1="160" x2="140" y2="132" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="152" y1="160" x2="172" y2="132" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- dancing figures (two) -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <circle cx="84" cy="278" r="9" fill="#e6bb92"/>
+    <line x1="84" y1="287" x2="84" y2="316"/>
+    <line x1="84" y1="294" x2="70" y2="304"/>
+    <line x1="84" y1="294" x2="98" y2="304"/>
+    <line x1="84" y1="316" x2="72" y2="336"/>
+    <line x1="84" y1="316" x2="96" y2="336"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <circle cx="188" cy="278" r="9" fill="#ab7a4e"/>
+    <line x1="188" y1="287" x2="188" y2="316"/>
+    <line x1="188" y1="294" x2="174" y2="304"/>
+    <line x1="188" y1="294" x2="202" y2="304"/>
+    <line x1="188" y1="316" x2="176" y2="336"/>
+    <line x1="188" y1="316" x2="200" y2="336"/>
+  </g>
+  <!-- music swing marks -->
+  <path d="M60 250 Q80 242 100 250 Q120 258 140 250" fill="none" stroke="#6b93b6" stroke-width="2"/>
+  <path d="M132 250 Q152 242 172 250 Q192 258 212 250" fill="none" stroke="#6b93b6" stroke-width="2"/>
+
+  <text x="44" y="372" font-family="sans-serif" font-size="13" fill="#2b3a42">surdo, tamborim, cuíca</text>
+  <text x="44" y="392" font-family="sans-serif" font-size="13" fill="#2b3a42">a syncopated groove</text>
+  <text x="44" y="412" font-family="sans-serif" font-size="13" fill="#2b3a42">call-and-response with</text>
+  <text x="44" y="432" font-family="sans-serif" font-size="13" fill="#2b3a42">dancing crowds</text>
+
+  <!-- right panel: taiko -->
+  <rect x="264" y="80" width="224" height="440" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="376" y="108" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Japanese taiko</text>
+
+  <!-- large drum -->
+  <ellipse cx="376" cy="196" rx="62" ry="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="314" y="160" width="124" height="60" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="314" y1="178" x2="438" y2="178" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="314" y1="202" x2="438" y2="202" stroke="#2b3a42" stroke-width="2"/>
+  <!-- bachi sticks held by two players -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <circle cx="318" cy="280" r="9" fill="#e6bb92"/>
+    <line x1="318" y1="289" x2="318" y2="322"/>
+    <line x1="318" y1="296" x2="304" y2="308"/>
+    <line x1="318" y1="296" x2="332" y2="308"/>
+    <line x1="318" y1="322" x2="306" y2="344"/>
+    <line x1="318" y1="322" x2="330" y2="344"/>
+    <line x1="330" y1="300" x2="360" y2="238" stroke-width="4"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <circle cx="434" cy="280" r="9" fill="#ab7a4e"/>
+    <line x1="434" y1="289" x2="434" y2="322"/>
+    <line x1="434" y1="296" x2="420" y2="308"/>
+    <line x1="434" y1="296" x2="448" y2="308"/>
+    <line x1="434" y1="322" x2="422" y2="344"/>
+    <line x1="434" y1="322" x2="446" y2="344"/>
+    <line x1="422" y1="300" x2="392" y2="238" stroke-width="4"/>
+  </g>
+  <!-- intensity rising marks -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <line x1="300" y1="366" x2="452" y2="366"/>
+    <line x1="300" y1="366" x2="300" y2="352"/>
+    <line x1="376" y1="366" x2="376" y2="348"/>
+    <line x1="452" y1="366" x2="452" y2="352"/>
+  </g>
+  <text x="300" y="388" font-family="sans-serif" font-size="13" fill="#2b3a42">large drums and bachi sticks</text>
+  <text x="300" y="408" font-family="sans-serif" font-size="13" fill="#2b3a42">unison strikes with</text>
+  <text x="300" y="428" font-family="sans-serif" font-size="13" fill="#2b3a42">full-body form</text>
+  <text x="300" y="448" font-family="sans-serif" font-size="13" fill="#2b3a42">intensity that builds and builds</text>
+
+  <text x="256" y="548" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">each grew in its place, with its instruments and its people</text>
+</svg>

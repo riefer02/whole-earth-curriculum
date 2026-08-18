@@ -65,3 +65,11 @@ as specimens.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.007.01 | Use the Elements on Purpose: Line, Shape, Color, Balance, Contrast | D07.S1.06.01 |
+| L.06.007.02 | The Same Sun, Shown Differently: Compare Two Cultures and Times | D07.S1.06.02 |
+| L.06.007.03 | Compose and Notate a Melody or Rhythm | D07.S2.06.01 |
+| L.06.007.04 | Two Musical Traditions, One Theme: Celebration | D07.S2.06.02 |
+| L.06.007.05 | Tell a Story with Movement, Voice, and One More Element | D07.S3.06.01 |
+| L.06.007.06 | Good Against Evil, Told Two Ways: Compare Two Dance-Dramas | D07.S3.06.02 |
+| L.06.007.07 | The Full Design Cycle: Research, Prototype, Test, Document | D07.S4.06.01 |
+| L.06.007.08 | Evaluate a Product or Building: Works, Who's Left Out, Environment | D07.S4.06.02 |

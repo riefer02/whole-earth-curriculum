@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
+  <title id="title">The same sun, shown differently</title>
+  <desc id="desc">A two-panel comparison titled "The same sun, shown differently." The left panel, labeled "ancient Egypt — a winged sun disk," shows a circle with outstretched wings and small rays, with labels "a circle with wings — the sun god's protection," "gold and pigment on temple stone," and "a divine power to honor." The right panel, labeled "Japan — an Edo woodblock sun," shows a flat red disc low in a landscape of waves and a mountain, with labels "a flat red disc — simple and symbolic," "ink and color printed on paper," and "part of the land, for many homes to see." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="560" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Same Sun, Shown Differently</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">same subject — different hands, places, and times</text>
+
+  <!-- left panel: Egypt -->
+  <rect x="24" y="80" width="224" height="430" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="136" y="108" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">ancient Egypt</text>
+  <text x="136" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a winged sun disk</text>
+
+  <!-- winged sun disk -->
+  <g>
+    <circle cx="136" cy="200" r="44" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="136" cy="200" r="30" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5"/>
+    <!-- rays -->
+    <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+      <line x1="136" y1="150" x2="136" y2="138"/>
+      <line x1="163" y1="156" x2="172" y2="147"/>
+      <line x1="181" y1="172" x2="193" y2="168"/>
+      <line x1="109" y1="156" x2="100" y2="147"/>
+      <line x1="91" y1="172" x2="79" y2="168"/>
+    </g>
+    <!-- wings -->
+    <path d="M96 196 Q60 176 40 188 Q62 200 92 208 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M176 196 Q212 176 232 188 Q210 200 180 208 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <text x="48" y="286" font-family="sans-serif" font-size="13" fill="#2b3a42">a circle with wings —</text>
+  <text x="48" y="304" font-family="sans-serif" font-size="13" fill="#2b3a42">the sun god's protection</text>
+  <line x1="48" y1="316" x2="232" y2="316" stroke="#d8d3ca" stroke-width="2"/>
+  <text x="48" y="336" font-family="sans-serif" font-size="13" fill="#2b3a42">gold and pigment</text>
+  <text x="48" y="354" font-family="sans-serif" font-size="13" fill="#2b3a42">on temple stone</text>
+  <line x1="48" y1="366" x2="232" y2="366" stroke="#d8d3ca" stroke-width="2"/>
+  <text x="48" y="386" font-family="sans-serif" font-size="13" fill="#2b3a42">a divine power to honor</text>
+
+  <!-- temple stone block -->
+  <rect x="60" y="430" width="152" height="40" fill="#c7c1b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="60" y1="450" x2="212" y2="450" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="136" y1="430" x2="136" y2="470" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- right panel: Japan -->
+  <rect x="264" y="80" width="224" height="430" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="376" y="108" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Japan</text>
+  <text x="376" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">an Edo woodblock sun</text>
+
+  <!-- red sun disc -->
+  <circle cx="376" cy="196" r="46" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- waves -->
+  <g fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round">
+    <path d="M288 300 Q300 288 312 300 Q324 312 336 300 Q348 288 360 300 Q372 312 384 300 Q396 288 408 300 Q420 312 432 300 Q444 288 456 300"/>
+    <path d="M288 336 Q300 324 312 336 Q324 348 336 336 Q348 324 360 336 Q372 348 384 336 Q396 324 408 336 Q420 348 432 336 Q444 324 456 336"/>
+  </g>
+  <!-- mountain -->
+  <path d="M320 430 L376 350 L432 430 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="288" y="462" font-family="sans-serif" font-size="13" fill="#2b3a42">a flat red disc — simple and symbolic</text>
+  <text x="288" y="480" font-family="sans-serif" font-size="13" fill="#2b3a42">ink and color printed on paper</text>
+  <text x="288" y="498" font-family="sans-serif" font-size="13" fill="#2b3a42">part of the land, for many homes to see</text>
+
+  <text x="256" y="548" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">each image is true to its own place and time</text>
+</svg>

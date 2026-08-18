@@ -2402,4 +2402,14 @@ sources:
     reviewed: true
     notes: "Cited in U.06.006 L12 for what soil is made of. URL verified live (2026-08-17): the FAO Soils Portal 'All definitions' page defines soil as 'the natural medium for the growth of plants' composed of 'weathered mineral materials, organic material, air and water' and states 'Soil sustains most living organisms, being the ultimate source of their mineral nutrients.' Directly supports the lesson's 'soil = minerals from broken rock + humus from decayed life' claim. Note: the lesson's earlier label 'Soils: where food begins' is FAO's World Soil Day slogan, not this page's title — the citation is corrected to the page's actual title ('All definitions')."
 
+  - id: S-260
+    title: "IDEA — International Drama/Theatre and Education Association"
+    type: website
+    url: https://www.idea-org.net/
+    organization: International Drama/Theatre and Education Association (IDEA)
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.06.007 L05 (Tell a Story with Movement, Voice, and One More Element) as a classroom-friendly framing of devised performance. IDEA is a real international non-governmental organization for drama/theatre education, founded 1992, with consultative status with UNESCO, and it holds a triennial World Congress; its presidents have included Dan Baron Cohen (2004–2010) and Patrice Baldwin (2010–2013), and John O'Toole was a founder-member in 1992 (verified against independent sources, 2026-08-18). The domain www.idea-org.net resolves (DNS: 91.198.137.135) but the site was not reachable via HTTP from the review environment (connection/transport error), so it is registered as a general authority for devised-performance pedagogy rather than a claim-level citation for any specific fact; the lesson's substantive claim (movement + voice + one extra element as a standard elementary drama method) is standard and accurate on its own."
+
+
 

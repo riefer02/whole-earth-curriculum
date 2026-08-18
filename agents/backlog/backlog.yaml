@@ -4027,7 +4027,7 @@ items:
     type: lesson
     grade: 6
     domain: D07
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -4039,6 +4039,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (1009). IDs L.06.007.01-.08 sequence_in_unit 1-8, grade 6, unit U.06.007; objectives resolve to real grade-6 D07 standards (all 8 covered); required headings present learner-first; unit.md table lists all 8; all 8 assets resolve with non-empty alt; cultural references accurate (Kathakali mudras/navarasas, Balinese Barong masked lion vs Rangda good/evil in balance, samba surdo/tamborim/cuica + samba de roda UNESCO, taiko bachi unison, Egyptian winged sun/Edo ukiyo-e/Inca Inti, Irish keening/New Orleans jazz funeral, Yoruba Egungun/Dia de los Muertos) framed as living traditions never rank + rising-sun-flag sensitivity note; grief + good-vs-evil handled with reverence + agency/hope.
+      fact-checker:
+        verdict: passed
+        note: "Cultural claims accurate + correctly attributed: Kathakali mudras/navarasas/makeup/dharma; Balinese Barong masked lion vs Rangda + gamelan, good/evil in balance (Rwa Bhineda); samba surdo/tamborim/cuica + samba de roda UNESCO; taiko bachi unison; Egyptian winged sun, Edo ukiyo-e red sun, Inca Inti, Irish keening, New Orleans jazz funeral dirge->swing, Yoruba Egungun, Dia de los Muertos calaveras. Sources UNESCO ICH S-056/Met S-114/Folkways S-188/SSEC S-190/UNESCO ESD S-004 real. Registered S-260 (IDEA org). 'Never rank traditions' as value."
+      global-culture-editor:
+        verdict: passed
+        note: No Western-fine-art default (comparisons never use Western as implicit standard; L2 Egypt/Japan/Inca/contemporary-child; L4 samba vs taiko + Andean siku/djembe/keening/jazz-funeral; L6 Kathakali vs Barong + Egungun/Dia de los Muertos — Africa/Asia/S.America/Bali/Latin America/Europe/N.America); 'living traditions to honor never specimens' explicit + verbatim + uncontradicted; grief 'gently with reverence attach agency and hope'; good-vs-evil 'difference to understand not contest to judge'; L2 rising-sun motif-vs-flag sensitivity note; notation not ranked (staff/sargam/gongche/koto tablature/graphic all valid); learners in tradition 'be the authority'; no wealth assumption low-tech variants.
+      accessibility-editor:
+        verdict: passed
+        note: "All 8 lessons real materials_low_tech (voice/body, found/natural, drawn/spoken notation, L3 earth-drawn notation); every asset non-empty alt + SVG role=img/title/desc/aria-labelledby grayscale label-shape; UDL make/say/write/draw/move; no wealth assumption; L7 already seated/fine-motor. Fixed L5 (hand/head/prop movement, clap/tap/sign/written line, director/storyboard role — no able-bodiedness or clear speech required) + L3 (non-visual notation: speak sequence aloud, partner repeats/scribes)."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (traditions living non-ranked + authority-to-insider, L8 design-for-all + environmental responsibility); egalitarianism (L7 'who is this for', L8 'who is left out', L5 'the story not the able-bodiedness of its teller', L3 non-visual/fine-motor notation); global (Egyptian/Japanese/Inca suns, samba/taiko/siku/djembe, Kathakali/Barong/Egungun/Dia de los Muertos, sargam/gongche/koto notation); tech/environment (L7-8 explicit); evidence-vs-values (Met/Folkways/UNESCO ICH-ESD/SSEC/IDEA/Kirschner). Traceability: Vision->P3->D07->S1-S4->8 standards->U.06.007->L.06.007.01-.08."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-6 band (11-12): cognitive fit concrete-to-emerging-abstract (art elements via calm-vs-storm worked example, notation via beat grid ta/ti-ti + pentatonic ladder staff deferred to extension, design cycle concrete steps, cultural comparison observable features -> reason); emotional safety performance low-stakes choice-rich (participation a choice, clarity not virtuosity) + movement/voice/motor alternatives; grief + honoring-departed reverent with hope ('dirge lifts into swing'); good-vs-evil 'difference to understand not contest to judge'; L8 inequities routed to agency 'what could a better design do' never despair; physical fit age-matched + seated/adapted; not shallow (real comparison + full design cycle + three-lens critique); open-ended."
   - id: B-342
     title: "Author lessons for Unit U.06.008 (Healthy, Safe & Strong: Puberty & Self-Care)"
     agent: lesson-author

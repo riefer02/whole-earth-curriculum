@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
+  <title id="title">Story = movement + voice + one more element</title>
+  <desc id="desc">A poster titled "Story = movement + voice + one more element." At the top, three labeled parts are shown: "movement — what my body does," "voice — what I say or sound," and "one more element — music, a prop, or shadow." Below, a three-box storyboard of a worked example "a seed becomes a tree" shows the beginning (a curled figure on the ground, a whispered "seed"), the middle (reaching arms, a rising "whoosh"), and the end (spread arms as branches, a calm "shade for everyone"). Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="560" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Story = Movement + Voice + One More Element</text>
+
+  <!-- three recipe parts -->
+  <rect x="24" y="60" width="148" height="70" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="98" y="84" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">movement</text>
+  <text x="98" y="104" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what my body does</text>
+
+  <rect x="182" y="60" width="148" height="70" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">voice</text>
+  <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what I say or sound</text>
+
+  <rect x="340" y="60" width="148" height="70" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="414" y="84" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">one more element</text>
+  <text x="414" y="104" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">music, a prop, or shadow</text>
+
+  <!-- storyboard title -->
+  <text x="256" y="168" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">worked example: "a seed becomes a tree"</text>
+
+  <!-- box 1: beginning -->
+  <rect x="24" y="190" width="148" height="240" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="98" y="216" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">beginning</text>
+  <!-- curled figure -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <circle cx="98" cy="280" r="12" fill="#e6bb92"/>
+    <path d="M86 296 Q98 310 110 296" fill="none"/>
+    <path d="M74 288 Q86 300 98 296" fill="none"/>
+    <path d="M122 288 Q110 300 98 296" fill="none"/>
+  </g>
+  <text x="98" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">movement: curled small</text>
+  <text x="98" y="348" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">voice: "seed… seed…"</text>
+  <text x="98" y="366" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(extra: a whisper)</text>
+
+  <!-- box 2: middle -->
+  <rect x="182" y="190" width="148" height="240" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">middle</text>
+  <!-- rising figure -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <circle cx="256" cy="252" r="12" fill="#ab7a4e"/>
+    <line x1="256" y1="264" x2="256" y2="300"/>
+    <line x1="256" y1="272" x2="236" y2="258"/>
+    <line x1="256" y1="272" x2="276" y2="258"/>
+    <line x1="256" y1="300" x2="242" y2="322"/>
+    <line x1="256" y1="300" x2="270" y2="322"/>
+  </g>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">movement: arms reach up</text>
+  <text x="256" y="358" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">voice: a rising "whoosh"</text>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">extra: a partner taps a beat</text>
+
+  <!-- box 3: end -->
+  <rect x="340" y="190" width="148" height="240" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="414" y="216" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">end</text>
+  <!-- tree figure: spread arms -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <circle cx="414" cy="250" r="12" fill="#e6bb92"/>
+    <line x1="414" y1="262" x2="414" y2="304"/>
+    <line x1="414" y1="272" x2="392" y2="252"/>
+    <line x1="414" y1="272" x2="436" y2="252"/>
+    <line x1="414" y1="304" x2="400" y2="326"/>
+    <line x1="414" y1="304" x2="428" y2="326"/>
+    <!-- leaves -->
+    <circle cx="392" cy="246" r="10" fill="#7a9e7e"/>
+    <circle cx="436" cy="246" r="10" fill="#7a9e7e"/>
+    <circle cx="414" cy="238" r="10" fill="#7a9e7e"/>
+  </g>
+  <text x="414" y="350" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">movement: arms spread wide</text>
+  <text x="414" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">voice: "shade for everyone"</text>
+  <text x="414" y="386" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(extra: a calm stillness)</text>
+
+  <!-- arrows between boxes -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none">
+    <line x1="172" y1="310" x2="182" y2="310" marker-end="url(#arr5)"/>
+    <line x1="330" y1="310" x2="340" y2="310" marker-end="url(#arr5)"/>
+  </g>
+  <defs>
+    <marker id="arr5" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">three tools, one story, a clear beginning, middle, and end</text>
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">people have always told stories this way — with body, voice, and one more thing</text>
+</svg>

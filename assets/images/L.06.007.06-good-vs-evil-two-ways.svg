@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
+  <title id="title">Good against evil, two ways</title>
+  <desc id="desc">A two-panel comparison titled "Good against evil, two ways." The left panel, labeled "Kathakali (Kerala, India)," shows a crowned dancer figure with one hand held in a gesture, with labels "mudras — codified hand gestures," "navarasas — nine facial expressions," and "elaborate makeup and costume." The right panel, labeled "Barong dance (Bali)," shows a masked lion figure facing a masked witch figure with a circle of singers, with labels "masked dance," "gamelan and a chanting chorus," and "good and evil held in balance." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="560" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Good Against Evil, Two Ways</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">one theme — the struggle of good and evil — told differently</text>
+
+  <!-- left panel: Kathakali -->
+  <rect x="24" y="80" width="224" height="440" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="136" y="108" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Kathakali</text>
+  <text x="136" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Kerala, India</text>
+
+  <!-- crowned dancer figure -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <!-- crown -->
+    <path d="M118 150 L136 112 L154 150 Z" fill="#e0a458"/>
+    <circle cx="136" cy="108" r="5" fill="#e0a458"/>
+    <!-- face -->
+    <circle cx="136" cy="170" r="20" fill="#ab7a4e"/>
+    <!-- eyes: wide (navarasa) -->
+    <ellipse cx="129" cy="168" rx="4" ry="5" fill="#2b3a42"/>
+    <ellipse cx="143" cy="168" rx="4" ry="5" fill="#2b3a42"/>
+    <!-- body -->
+    <line x1="136" y1="190" x2="136" y2="240"/>
+    <line x1="136" y1="200" x2="120" y2="214"/>
+    <line x1="136" y1="200" x2="152" y2="214"/>
+    <line x1="136" y1="240" x2="124" y2="266"/>
+    <line x1="136" y1="240" x2="148" y2="266"/>
+  </g>
+  <!-- mudra hand (right, held up) -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <line x1="152" y1="206" x2="172" y2="188"/>
+    <line x1="172" y1="188" x2="180" y2="176"/>
+    <line x1="172" y1="188" x2="184" y2="182"/>
+    <line x1="172" y1="188" x2="168" y2="172"/>
+  </g>
+  <!-- mudra hand (left) -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <line x1="120" y1="206" x2="104" y2="190"/>
+    <line x1="104" y1="190" x2="92" y2="180"/>
+    <line x1="104" y1="190" x2="98" y2="202"/>
+  </g>
+
+  <text x="44" y="306" font-family="sans-serif" font-size="13" fill="#2b3a42">mudras — codified hand gestures</text>
+  <text x="44" y="326" font-family="sans-serif" font-size="13" fill="#2b3a42">navarasas — nine facial expressions</text>
+  <text x="44" y="346" font-family="sans-serif" font-size="13" fill="#2b3a42">elaborate makeup and costume</text>
+  <line x1="44" y1="360" x2="232" y2="360" stroke="#d8d3ca" stroke-width="2"/>
+  <text x="44" y="380" font-family="sans-serif" font-size="13" fill="#4f6d7a">one virtuoso tells an epic;</text>
+  <text x="44" y="400" font-family="sans-serif" font-size="13" fill="#4f6d7a">the hero's good triumphs</text>
+
+  <!-- right panel: Barong -->
+  <rect x="264" y="80" width="224" height="440" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="376" y="108" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Barong dance</text>
+  <text x="376" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Bali</text>
+
+  <!-- Barong lion mask -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <circle cx="316" cy="180" r="22" fill="#e0a458"/>
+    <ellipse cx="310" cy="178" rx="3" ry="4" fill="#2b3a42"/>
+    <ellipse cx="322" cy="178" rx="3" ry="4" fill="#2b3a42"/>
+    <path d="M300 190 L316 200 L332 190" fill="none"/>
+    <path d="M306 162 Q316 150 326 162" fill="none"/>
+    <!-- mane -->
+    <path d="M294 170 Q288 180 296 188" fill="none"/>
+  </g>
+  <!-- Rangda witch mask -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <circle cx="436" cy="180" r="20" fill="#2b3a42"/>
+    <ellipse cx="430" cy="178" rx="3" ry="4" fill="#fdfbf7"/>
+    <ellipse cx="442" cy="178" rx="3" ry="4" fill="#fdfbf7"/>
+    <path d="M422 190 L436 200 L450 190" fill="none"/>
+    <path d="M426 164 Q436 152 446 164" fill="none"/>
+  </g>
+  <!-- facing each other -->
+  <line x1="340" y1="190" x2="414" y2="190" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
+
+  <!-- chorus circle -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="336" cy="286" r="5" fill="#e6bb92"/>
+    <circle cx="378" cy="296" r="5" fill="#ab7a4e"/>
+    <circle cx="420" cy="286" r="5" fill="#e6bb92"/>
+  </g>
+  <path d="M320 300 Q336 316 356 304 Q376 316 396 304 Q416 316 432 300" fill="none" stroke="#6b93b6" stroke-width="2"/>
+
+  <text x="288" y="344" font-family="sans-serif" font-size="13" fill="#2b3a42">masked dance</text>
+  <text x="288" y="364" font-family="sans-serif" font-size="13" fill="#2b3a42">gamelan and a chanting chorus</text>
+  <text x="288" y="384" font-family="sans-serif" font-size="13" fill="#2b3a42">good and evil held in balance</text>
+  <line x1="288" y1="398" x2="476" y2="398" stroke="#d8d3ca" stroke-width="2"/>
+  <text x="288" y="418" font-family="sans-serif" font-size="13" fill="#4f6d7a">a whole village performs;</text>
+  <text x="288" y="438" font-family="sans-serif" font-size="13" fill="#4f6d7a">neither side wins forever</text>
+
+  <text x="256" y="548" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">each grew in its place, with its people's beliefs</text>
+</svg>

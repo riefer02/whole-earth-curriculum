@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
+  <title id="title">Use the elements on purpose: calm and storm</title>
+  <desc id="desc">A two-panel poster titled "Use the elements on purpose." The left panel, labeled "calm," shows horizontal lines, soft rounded shapes, an even balance, and low contrast; small labels read "horizontal lines — still," "round shapes — gentle," "even balance — steady," and "low contrast — soft." The right panel, labeled "storm," shows diagonal jagged lines, sharp shapes, an off-center balance, and high contrast; labels read "diagonal jagged lines — energy," "sharp shapes — strong," "off-center balance — tension," and "high contrast — bold." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="560" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Use the Elements on Purpose</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">same five tools — different feelings</text>
+
+  <!-- left panel: calm -->
+  <rect x="24" y="80" width="224" height="440" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="136" y="108" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">calm</text>
+
+  <!-- horizontal lines -->
+  <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round">
+    <line x1="48" y1="140" x2="224" y2="140"/>
+    <line x1="48" y1="154" x2="224" y2="154"/>
+    <line x1="48" y1="168" x2="224" y2="168"/>
+  </g>
+  <text x="48" y="130" font-family="sans-serif" font-size="12" fill="#2b3a42">horizontal lines — still</text>
+
+  <!-- round shapes -->
+  <ellipse cx="120" cy="220" rx="52" ry="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="196" cy="212" rx="24" ry="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="48" y="268" font-family="sans-serif" font-size="12" fill="#2b3a42">round shapes — gentle</text>
+
+  <!-- even balance: mirrored triangles -->
+  <path d="M96 320 L136 360 L96 400 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M176 320 L136 360 L176 400 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="136" y1="310" x2="136" y2="410" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 4"/>
+  <text x="48" y="426" font-family="sans-serif" font-size="12" fill="#2b3a42">even balance — steady</text>
+
+  <!-- low contrast: two close grays -->
+  <rect x="48" y="444" width="60" height="40" fill="#d8d3ca" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="120" y="444" width="60" height="40" fill="#c7c1b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="48" y="502" font-family="sans-serif" font-size="12" fill="#2b3a42">low contrast — soft</text>
+
+  <!-- right panel: storm -->
+  <rect x="264" y="80" width="224" height="440" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="376" y="108" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">storm</text>
+
+  <!-- jagged diagonal lines -->
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <polyline points="288,150 316,130 336,158 368,128 400,152"/>
+    <polyline points="300,170 328,150 348,178 380,148 412,172"/>
+  </g>
+  <text x="288" y="192" font-family="sans-serif" font-size="12" fill="#2b3a42">diagonal jagged lines — energy</text>
+
+  <!-- sharp shapes -->
+  <path d="M336 232 L368 208 L400 232 L368 216 Z" fill="#2b3a42"/>
+  <path d="M300 240 L316 224 L332 240 L316 232 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="288" y="258" font-family="sans-serif" font-size="12" fill="#2b3a42">sharp shapes — strong</text>
+
+  <!-- off-center balance -->
+  <rect x="300" y="300" width="96" height="72" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="320" y="384" width="40" height="40" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="348" y1="284" x2="348" y2="436" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 4"/>
+  <text x="288" y="456" font-family="sans-serif" font-size="12" fill="#2b3a42">off-center balance — tension</text>
+
+  <!-- high contrast -->
+  <rect x="288" y="464" width="60" height="40" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="360" y="464" width="60" height="40" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+  <text x="288" y="522" font-family="sans-serif" font-size="12" fill="#2b3a42">high contrast — bold</text>
+
+  <text x="256" y="548" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">the choice is on purpose</text>
+</svg>
