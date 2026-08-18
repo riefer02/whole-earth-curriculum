@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">My values are my compass under pressure</title>
+  <desc id="d">A diagram of a figure standing in the center holding a compass labeled "my values." Three arrows press in from outside, labeled "stress," "distraction," and "peer pressure," and each arrow meets a short blue "pause" bar before it reaches the figure. Below, a strip reads "my toolkit: pause, breathe, name it, ask for help, choose what stays true." A caption reads "My values are my compass when pressure pushes on me." Shapes and labels, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">My Values Are My Compass Under Pressure</text>
+
+  <!-- figure -->
+  <circle cx="256" cy="138" r="26" fill="#c98a5e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="247" cy="132" r="3" fill="#2b3a42"/>
+  <circle cx="265" cy="132" r="3" fill="#2b3a42"/>
+  <path d="M248 144 Q256 150 264 144" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 164 L256 260" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 260 L224 316" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 260 L288 316" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- compass -->
+  <circle cx="256" cy="222" r="52" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="256" cy="222" r="4" fill="#2b3a42"/>
+  <path d="M256 222 L256 180" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M256 180 L250 190 L262 190 Z" fill="#e0a458"/>
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my</text>
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">values</text>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">N</text>
+
+  <!-- stress arrow (top left) -->
+  <path d="M96 96 L186 150" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M176 142 L188 150 L176 156" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="22" y="62" width="82" height="34" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="63" y="84" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">stress</text>
+
+  <!-- distraction arrow (top right) -->
+  <path d="M416 96 L326 150" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M336 142 L324 150 L336 156" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="408" y="62" width="98" height="34" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="457" y="84" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">distraction</text>
+
+  <!-- peer pressure arrow (bottom left) -->
+  <path d="M104 348 L196 290" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M186 298 L198 288 L188 282" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="28" y="348" width="126" height="34" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="91" y="370" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">peer pressure</text>
+
+  <!-- pause bars -->
+  <g stroke="#6b93b6" stroke-width="4" stroke-linecap="round">
+    <line x1="168" y1="136" x2="180" y2="126"/>
+    <line x1="344" y1="136" x2="332" y2="126"/>
+    <line x1="176" y1="312" x2="186" y2="300"/>
+  </g>
+
+  <!-- toolkit strip -->
+  <rect x="40" y="398" width="432" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">my toolkit: pause &#183; breathe &#183; name it &#183; ask &#183; choose</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">My values are my compass when pressure pushes on me.</text>
+</svg>

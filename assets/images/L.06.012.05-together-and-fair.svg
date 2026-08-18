@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Together and fair</title>
+  <desc id="d">Three panels. The first, labeled "cooperation," shows several figures of varied skin tones rowing one boat together, with the caption "helps when the goal is shared." The second, labeled "competition," shows two figures racing toward one finish flag, with the caption "helps when it is fair play." The third, labeled "fairness," shows three piles of different sizes and an arrow evening them out, with the caption "sharing and fair rules so all have enough." A banner reads "Cooperate when the goal is shared; compete only in fair play; act so everyone has enough." Shapes and labels, not color alone, carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Together and Fair</text>
+
+  <!-- panel 1: cooperation -->
+  <rect x="20" y="58" width="150" height="216" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="95" y="86" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">cooperation</text>
+  <!-- boat -->
+  <path d="M48 200 Q 95 224 142 200 L 132 216 Q 95 232 58 216 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- rowers -->
+  <circle cx="68" cy="182" r="12" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="95" cy="176" r="12" fill="#a9714b" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="122" cy="182" r="12" fill="#f2c9a0" stroke="#2b3a42" stroke-width="2"/>
+  <!-- oars -->
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <line x1="58" y1="188" x2="44" y2="230"/>
+    <line x1="104" y1="182" x2="96" y2="230"/>
+    <line x1="132" y1="188" x2="146" y2="230"/>
+  </g>
+  <text x="95" y="252" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">helps when the goal</text>
+  <text x="95" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">is shared</text>
+
+  <!-- panel 2: competition -->
+  <rect x="181" y="58" width="150" height="216" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="86" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">competition</text>
+  <!-- finish flag -->
+  <line x1="316" y1="92" x2="316" y2="216" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M316 92 L 340 102 L 316 112 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- racers -->
+  <circle cx="216" cy="168" r="12" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="206" y="180" width="22" height="34" rx="7" fill="#6b93b6"/>
+  <circle cx="262" cy="160" r="12" fill="#c98a5e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="252" y="172" width="22" height="34" rx="7" fill="#e0a458"/>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">helps when it is</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">fair play</text>
+
+  <!-- panel 3: fairness -->
+  <rect x="342" y="58" width="150" height="216" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="417" y="86" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">fairness</text>
+  <!-- piles -->
+  <ellipse cx="372" cy="212" rx="20" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="372" cy="196" rx="16" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="372" cy="181" rx="12" ry="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="417" cy="212" rx="15" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="417" cy="197" rx="11" ry="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="456" cy="212" rx="8" ry="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- share arrow evening out -->
+  <path d="M388 172 C 400 160, 416 162, 424 172" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M416 166 L 426 172 L 416 180" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="417" y="252" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">sharing and fair rules</text>
+  <text x="417" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">so all have enough</text>
+
+  <!-- banner -->
+  <rect x="20" y="296" width="472" height="66" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Cooperate when the goal is shared; compete only in fair play;</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">act so everyone has enough.</text>
+
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">These are the tools I carry into Grade 7.</text>
+</svg>

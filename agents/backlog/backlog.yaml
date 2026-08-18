@@ -4212,7 +4212,7 @@ items:
     type: lesson
     grade: 6
     domain: D01
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -4224,6 +4224,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passed 1052 files. Verified lesson IDs L.06.012.01-.05 with sequence_in_unit 1-5, grade 6, unit U.06.012; required headings Procedure/Assessment/Facilitator note/Connection present; six objectives resolve to real grade-6 standards (e.g. lesson-004 D02.S3.06.02 matches domain-02 text verbatim); unit.md Lessons table matches the 5 authored lessons.
+      fact-checker:
+        verdict: passed
+        note: Verified cooperation/competition claim against Slavin (S-147) and Johnson & Johnson (1981) meta-analysis (S-233), structural-drivers-of-inequality claim against World Bank poverty/inequality page (S-234) and UNDP Human Development Reports (newly registered S-283, URL verified live), and CASEL self/social awareness competency mappings (S-001) across all five lessons; 'no person's worth is measured by their resources' correctly distinguished as a values commitment.
+      global-culture-editor:
+        verdict: passed
+        note: "Checked framing/representation across all five lessons: no single-civilization default (urban/village, city/village/screen/Earth phrasing recurs), ability and language held as ordinary rather than decorative, belief systems held side by side unranked per philosophy §11, and lessons invite each learner's own languages and cultures."
+      accessibility-editor:
+        verdict: passed
+        note: Checked low-tech tier (all 5 lessons declare materials_low_tech with spoken/dirt-drawn/found-object alternatives, no device/internet requirement), disability inclusion (seated gallery walk, sign/wheelchair/hearing-aid representation, grayscale/shape-not-color assets), plain multilingual language, no wealth assumption, and alt text (every assets entry has non-empty descriptive alt resolving to a real SVG with role=img/aria-labelledby/title/desc) — all pass.
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics, egalitarianism, global/anthropological, and technology/environment lenses (plus evidence-vs-values distinctions with cited sources) all carried; all six objectives trace through P1 (D01/D02) to the vision's North Star of raising baseline flourishing for all life.
+      child-psychologist:
+        verdict: passed
+        note: "Checked grade-6 band: cognitive fit (identity-as-shifting-parts and systems-vs-worth anchored in concrete contexts/worked examples matching emerging formal operations), emotional safety (exclusion/inequality/peer pressure scaffolded with invite-don't-require sharing, systems-never-worth framing, non-villainizing peers, agency-closing), physical fit (movement with seated/no-paper alternatives), open-endedness (questions as questions; values optional and unranked)."
   - id: B-347
     title: Author lessons for Unit U.07.001 (Feelings, Identity & Purpose)
     agent: lesson-author

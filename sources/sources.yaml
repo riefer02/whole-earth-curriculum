@@ -2170,7 +2170,7 @@ sources:
     year: 2026
     domains: [D02, D08]
     reviewed: true
-    notes: "World Bank poverty topic page and the Poverty, Prosperity, and Planet Report. URL verified live (2026-08-17): documents that extreme poverty fell from ~2.3 billion in 1990 to ~831 million (under $3/day), that poverty reduction has slowed due to interconnected crises (sluggish growth, debt, COVID-19, conflict and fragility, weather shocks), and that extreme poverty is now concentrated in Sub-Saharan Africa and conflict-affected places — i.e., structural/place-based drivers, not individual worth. Cited in U.06.003 L10 (Capstone: Why Some Have More Than They Need) as the 'widely documented' data base for the claim that economic inequality is driven largely by structural factors (where one is born, work and pay, inherited wealth, health, conflict). The lesson makes no specific statistic and flags 'no person's worth is measured by their resources' as a values commitment, not a scientific claim — appropriate for Grade 6. Complements UN/UNESCO equity framing."
+    notes: "World Bank poverty topic page and the Poverty, Prosperity, and Planet Report. URL verified live (2026-08-17, re-verified 2026-08-18): documents that extreme poverty fell from ~2.3 billion in 1990 to ~831 million (under $3/day), that poverty reduction has slowed due to interconnected crises (sluggish growth, debt, COVID-19, conflict and fragility, weather shocks), and that extreme poverty is now concentrated in Sub-Saharan Africa and conflict-affected places — i.e., structural/place-based drivers, not individual worth. Cited in U.06.003 L10 (Capstone: Why Some Have More Than They Need) as the 'widely documented' data base for the claim that economic inequality is driven largely by structural factors (where one is born, work and pay, inherited wealth, health, conflict). Also cited in U.06.012 L05 (Together and Fair: Carrying It Forward) for the same structural-drivers-of-inequality claim, alongside UN/UNDP data (S-283). The lesson makes no specific statistic and flags 'no person's worth is measured by their resources' as a values commitment, not a scientific claim — appropriate for Grade 6."
 
   - id: S-235
     title: "UNESCO — Inclusion in Education (Salamanca Statement; Guide for Ensuring Inclusion and Equity)"
@@ -2615,6 +2615,16 @@ sources:
     domains: [D10]
     reviewed: true
     notes: "Cited in U.06.011 L07 (Footprints: What My Life Uses) as a general authority for teaching the ecological footprint in age-appropriate form. URL verified live (2026-08-18). UNEP is the leading global environmental authority (climate, nature, air quality, transport); it frames the footprint/overshoot concept for public and classroom audiences. A general authority, not a claim-level citation. Complements Global Footprint Network (S-277)."
+
+  - id: S-283
+    title: UNDP — Human Development Reports (inequality and poverty data)
+    type: website
+    url: https://hdr.undp.org/data-center
+    organization: United Nations Development Programme (UNDP), Human Development Report Office
+    year: 2025
+    domains: [D02, D08]
+    reviewed: true
+    notes: "Cited in U.06.012 L05 (Together and Fair: Carrying It Forward) as the 'UN data on inequality and poverty' half of the claim that economic inequality is driven largely by structural factors rather than individual worth. URL verified live (2026-08-18): hdr.undp.org/data-center is the UNDP Human Development Report Office data centre (© 2026), publishing the Human Development Index (HDI), the Inequality-adjusted HDI (IHDI), the Gender Inequality Index (GII), and the Global Multidimensional Poverty Index (MPI) — i.e., real, authoritative UN measures of inequality and poverty. Complements the World Bank poverty/inequality source (S-234); the lesson makes no specific statistic and flags 'no person's worth is measured by their resources' as a values commitment, not a scientific claim."
 
 
 

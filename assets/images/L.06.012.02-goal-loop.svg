@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">My goal loop</title>
+  <desc id="d">A four-step cycle diagram. The top box reads "Set a goal." An arrow leads right to a box reading "Try it and track." An arrow leads down to a box reading "Reflect: what worked?" An arrow leads left to a box reading "Adjust and try again," and an arrow leads back up to "Set a goal." In the center is the italic text "my short-term goal." A caption reads "Reflect, adjust, and carry it into Grade 7." Shapes and labels, not color alone, carry the meaning.</desc>
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">My Goal Loop</text>
+
+  <!-- cycle arrows -->
+  <g stroke="#4f6d7a" stroke-width="2.5" fill="none" marker-end="url(#arr)">
+    <path d="M322 148 C 362 154, 368 184, 364 206"/>
+    <path d="M366 268 C 370 288, 360 308, 328 330"/>
+    <path d="M186 334 C 156 326, 148 296, 152 266"/>
+    <path d="M150 206 C 146 184, 156 162, 186 142"/>
+  </g>
+
+  <!-- top box -->
+  <rect x="176" y="88" width="160" height="56" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Set a goal</text>
+
+  <!-- right box -->
+  <rect x="340" y="210" width="148" height="56" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="414" y="242" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Try it and track</text>
+
+  <!-- bottom box -->
+  <rect x="176" y="332" width="160" height="56" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="364" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Reflect: what worked?</text>
+
+  <!-- left box -->
+  <rect x="24" y="210" width="148" height="56" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="98" y="242" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Adjust and try again</text>
+
+  <!-- center -->
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="15" font-style="italic" fill="#4f6d7a">my short-term goal</text>
+
+  <text x="256" y="504" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Reflect, adjust, and carry it into Grade 7.</text>
+</svg>

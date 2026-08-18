@@ -61,3 +61,8 @@ evaluation, and empathy across distance will carry the same questions further.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | My Many Shifting Parts | D01.S2.06.01 |
+| 2 | My Goal, My Plan, and What Works | D01.S3.06.01 |
+| 3 | Staying True Under Pressure | D01.S3.06.02 |
+| 4 | Belonging: Culture, Language, and Ability | D02.S3.06.02 |
+| 5 | Together and Fair: Carrying It Forward | D02.S4.06.01, D02.S4.06.02 |
