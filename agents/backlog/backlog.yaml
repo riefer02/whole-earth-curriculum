@@ -4582,7 +4582,7 @@ items:
     type: lesson
     grade: 7
     domain: D09
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4594,6 +4594,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1158 files. Verified all 10 lessons L.07.010.01-.10, sequence 1-10, grade 7, U.07.010, D09/P4; all 8 grade-7 D09 standards covered; unit.md table matches 10 lessons; Connections concrete (L9 plate/promise/friendship -> listen/take-responsibility/repair); sources resolve (S-065 water, S-149 UDHR, S-060 CRC, S-059 Maathai); restorative lessons mandate invented scenarios, forbid re-enacting real harm.
+      fact-checker:
+        verdict: passed
+        note: Verified UDHR 1948 (Art.1/21, S-149), CRC arts (S-060), women's-suffrage dates (NZ 1893/CH 1971/SA 2015), Green Belt Movement (1977/>30M trees/Nobel 2004, S-059), water-access stat (WHO/UNICEF JMP S-065); registered S-327/S-328/S-329, added D09 to S-065, updated S-149; evidence-vs-values explicit; validate passes (1158 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Audited all 10 lessons + unit.md: framing already global (no Western default; sole named figure Wangari Maathai; cases span Kenya/India/Aotearoa NZ/Switzerland/Saudi Arabia; UDHR framed as one shared agreement among many traditions). Fixed §11 gap: added Indigenous/traditional roots of restorative circles (Māori/First Nations/Ubuntu) in lesson 9 and nonviolence roots (ahimsa/satyagraha) in lesson 10, held side by side with IIRP/NVC frameworks rather than centering Western sources."
+      accessibility-editor:
+        verdict: passed
+        note: "Verified all 10 lessons declare no-electricity materials_low_tech tier (voice + shared board, stone/stick talking pieces, chalk/dust drawing) and UDL context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only) plus Support/Extension differentiation; every assets: entry has non-empty alt text (grayscale-print design, title/desc/role=img in SVGs) and all paths resolve; validate green."
+      alignment-auditor:
+        verdict: passed
+        note: "Verified all four lenses (ethics, egalitarianism, global/anthropological, tech+environment) carried across unit; chain resolves: objectives verbatim to eight real D09 grade-7 standards → D09.S1-S4 → D09 → P4 → vision. Factual claims cited (S-011/022/059/060/065/148/149/327-329 all reviewed:true) separated from values. Added explicit technology lens note to lesson 7 (influence via digital tools) to close the only gap. validate green (1158 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Checked 6-8 band across all four dimensions: cognitive load matches emerging formal operations (helped/harmed/fair framework, evidence-vs-values split, understand-vs-agree distinction scaffolded with worked examples); emotional safety solid for heavy content (injustice/human-rights violations/water inequality at appropriate depth, invented/composite cases not graphic specifics, ends on agency and hope not despair, explicit no-disclosure/no-staged-fights guardrails in L9-10); physical fit via talking-piece circles + outdoor variants; open-endedness holds (fairness/rights/nonviolence as reasoned questions never creeds, multiple traditions side by side). validate green (1158 files)."
   - id: B-357
     title: Author lessons for Unit U.07.011 (Media, Technology & Our Earth Home)
     agent: lesson-author

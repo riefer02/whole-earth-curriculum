@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Using the three questions — worksheet</title>
+  <desc id="desc">A worksheet layout. A scenario box at the top feeds three labeled boxes — Who is helped?, Who is harmed?, What is fair? — each with a blank line to write on. A final box reads "my answer and why" with two blank lines.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Using the three questions</text>
+
+  <!-- scenario -->
+  <rect x="24" y="64" width="464" height="76" rx="10" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">The scenario</text>
+  <line x1="60" y1="118" x2="452" y2="118" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- three questions -->
+  <rect x="24" y="168" width="464" height="64" rx="10" fill="#7a9e7e" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="40" y="196" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Who is helped?</text>
+  <line x1="40" y1="214" x2="472" y2="214" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <rect x="24" y="248" width="464" height="64" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="40" y="276" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Who is harmed?</text>
+  <line x1="40" y1="294" x2="472" y2="294" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <rect x="24" y="328" width="464" height="64" rx="10" fill="#7a9e7e" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="40" y="356" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">What is fair?</text>
+  <line x1="40" y1="374" x2="472" y2="374" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- my answer -->
+  <rect x="24" y="408" width="464" height="72" rx="10" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="40" y="438" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">My answer and why</text>
+  <line x1="40" y1="456" x2="472" y2="456" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">More than one answer can be fair — give your reason.</text>
+</svg>

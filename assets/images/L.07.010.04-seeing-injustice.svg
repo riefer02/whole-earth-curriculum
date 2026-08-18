@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unequal access to clean water</title>
+  <desc id="desc">Two side-by-side panels. The left panel shows a neighborhood with clean water flowing from a tap into a bucket, labeled "who benefits." The right panel shows a person carrying a bucket from a polluted stream beside a factory, labeled "who is affected." Drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Unequal access to clean water</text>
+
+  <!-- left panel -->
+  <rect x="20" y="66" width="226" height="336" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="40" y="86" width="186" height="120" rx="8" fill="#7a9e7e" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="60" y="104" width="60" height="80" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="60,104 90,70 120,104" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="140" y="104" width="60" height="80" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="140,104 170,70 200,104" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M200 130 L220 130 L220 190" stroke="#6b93b6" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M206 168 Q212 190 226 190" stroke="#6b93b6" stroke-width="4" fill="none"/>
+  <rect x="208" y="196" width="30" height="26" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="133" y="248" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">who benefits</text>
+  <text x="133" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">clean water at the tap</text>
+
+  <!-- right panel -->
+  <rect x="266" y="66" width="226" height="336" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="286" y="86" width="186" height="120" rx="8" fill="#cbb58b" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="420" y="96" width="44" height="70" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="414" y="88" width="56" height="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M430 92 L432 72 L452 76 L446 92" stroke="#4f6d7a" stroke-width="2.5" fill="none"/>
+  <path d="M286 180 Q330 196 380 184 Q420 174 466 186" stroke="#6b93b6" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M300 140 Q340 150 300 160 Q340 170 300 180" stroke="#8f5f3d" stroke-width="2.5" fill="none"/>
+  <circle cx="344" cy="238" r="16" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M344 270 L344 330 M344 330 L322 344 M344 330 L366 344" stroke="#2b3a42" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M318 300 Q344 290 370 300" stroke="#e0a458" stroke-width="4" fill="none"/>
+  <text x="379" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">who is affected</text>
+  <text x="379" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">fetching from a stream</text>
+
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">One has a clean tap; the other carries water from a polluted stream.</text>
+</svg>

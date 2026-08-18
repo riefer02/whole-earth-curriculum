@@ -69,3 +69,13 @@ as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Three Questions: Helped, Harmed, Fair | D09.S1.07.01 |
+| 2 | Using the Three Questions | D09.S1.07.01 |
+| 3 | Where Our Ideas of Right and Wrong Come From | D09.S1.07.02 |
+| 4 | Seeing Injustice: Affected, Benefiting, Just | D09.S2.07.01 |
+| 5 | What Are Human Rights? | D09.S2.07.02 |
+| 6 | A Human-Rights Case: Honored and Violated | D09.S2.07.02 |
+| 7 | Influencing Decisions: Voting, Protest, Petitions, Organizing | D09.S3.07.01 |
+| 8 | Civil Society: Acting for the Common Good | D09.S3.07.02 |
+| 9 | Restoring After Harm: Listen, Take Responsibility, Repair | D09.S4.07.01 |
+| 10 | Power, Hurt, and Conflict Without Violence | D09.S4.07.02, D09.S4.07.01 |

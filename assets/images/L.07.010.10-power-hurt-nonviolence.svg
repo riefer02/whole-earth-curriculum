@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Power and hurt, and the way through</title>
+  <desc id="desc">Two panels. The left panel shows a conflict spiraling upward, with labels "power" and "hurt" feeding it, ending in "worse." The right panel shows the same conflict spiraling downward, with labels "name feelings," "balance power," "meet needs," and "repair," ending in "a way through." Drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Power and hurt — and the way through</text>
+
+  <!-- left panel -->
+  <rect x="20" y="66" width="226" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="133" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#c0392b">what makes it worse</text>
+  <path d="M60 340 Q80 300 100 300 Q120 300 120 260 Q120 220 140 220 Q160 220 160 180 Q160 140 180 140" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <rect x="40" y="140" width="120" height="44" rx="8" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">power</text>
+  <rect x="40" y="230" width="120" height="44" rx="8" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="258" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">hurt</text>
+  <text x="133" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#c0392b">conflict grows worse</text>
+
+  <!-- right panel -->
+  <rect x="266" y="66" width="226" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="379" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">the way through</text>
+  <path d="M300 140 Q320 180 340 180 Q360 180 360 220 Q360 260 380 260 Q400 260 400 300 Q400 340 420 340" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <rect x="286" y="140" width="130" height="40" rx="8" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="351" y="166" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">name feelings</text>
+  <rect x="286" y="230" width="130" height="40" rx="8" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="351" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">balance power</text>
+  <rect x="286" y="320" width="130" height="40" rx="8" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="351" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">meet needs &amp; repair</text>
+  <text x="379" y="404" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">a way through</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Nonviolence is not the absence of conflict — it is a better way through it.</text>
+</svg>

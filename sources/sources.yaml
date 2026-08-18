@@ -607,9 +607,9 @@ sources:
     type: website
     url: https://washdata.org/
     organization: WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene
-    domains: [D10]
+    domains: [D09, D10]
     reviewed: true
-    notes: "Cited in U.02.011 L07 (Water and Energy — Use and Save) for the claim that many people still lack safely managed drinking water. URL verified live (2026-08-16): the JMP homepage states '1 in 4 – or 2.1 billion people globally – still lack access to safely managed drinking water, including 106 million who drink directly from untreated surface sources' (2025 household report). Confirms the lesson's 'about 1 in 4 people still lack safely managed drinking water'; the lesson frames saving water as an act of fairness (a value), clearly separated from the factual statistic."
+    notes: "Cited in U.02.011 L07 (Water and Energy — Use and Save) for the claim that many people still lack safely managed drinking water, and in U.07.010 L04 (Seeing Injustice) for the same figure as evidence of unequal access. URL verified live (2026-08-16): the JMP homepage states '1 in 4 – or 2.1 billion people globally – still lack access to safely managed drinking water, including 106 million who drink directly from untreated surface sources' (2025 household report). Confirms the lessons' 'about 1 in 4 people (roughly 2.1 billion) still lack safely managed drinking water'; both lessons frame this as a fact (evidence), clearly separated from the value claim that everyone should have clean water."
 
   - id: S-066
     title: National Geographic Kids — Plastic Pollution
@@ -1373,7 +1373,7 @@ sources:
     organization: United Nations
     domains: [D09]
     reviewed: true
-    notes: "Cited in U.04.010 L03 (Dignity: Being a Person of Worth) for the shared value that every person is born with dignity and worth (Article 1). Real UN document (1948); URL verified live (2026-08-17)."
+    notes: "Cited in U.04.010 L03 (Dignity: Being a Person of Worth) for the shared value that every person is born with dignity and worth (Article 1), and in U.07.010 L05 (Article 1: all human beings born free and equal in dignity and rights) and U.07.010 L06 (Article 21: the right to take part in government, directly or through freely chosen representatives, with equal voting). Real UN document (1948); URL verified live (2026-08-17). Article 1 and Article 21 texts re-verified (2026-08-18): Article 1 'All human beings are born free and equal in dignity and rights'; Article 21 affirms the right to take part in government directly or through freely chosen representatives and to equal access to public service, and that the will of the people shall be the basis of authority, expressed in periodic and genuine elections by universal and equal suffrage."
 
   - id: S-150
     title: "TeachEngineering — Engineering Design Process"
@@ -3031,3 +3031,30 @@ sources:
     domains: [D08]
     reviewed: true
     notes: "Cited in U.07.009 L11 (What Colonization Took) for the global reach of European colonization from the late 1400s and its effects (dispossession, suppression of languages and practices, imposition of foreign rule). URL verified live (2026-08-18): Britannica's 'Western colonialism' article documents European overseas expansion from the late 15th century across the Americas, Africa, Asia, and Oceania, and its effects on colonized peoples. The residential/boarding-school practice of punishing Indigenous children's languages is documented by national truth-and-reconciliation commissions (e.g., Canada) and UNESCO's language-loss/revitalization work; the lesson states this without graphic detail. The lesson's pairing of loss with continuity is a values-and-accuracy commitment (philosophy §4), not a historical claim."
+
+  - id: S-327
+    title: Encyclopaedia Britannica — Woman suffrage
+    type: website
+    url: https://www.britannica.com/topic/woman-suffrage
+    organization: Encyclopaedia Britannica
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.07.010 L06 (A Human-Rights Case: Honored and Violated) for the dates women gained the national vote — New Zealand 1893 (first self-governing country to grant women the national vote), Switzerland 1971, Saudi Arabia 2015. URL verified live (2026-08-18): Britannica's 'woman suffrage' article documents these dates (the fetched article text contains 1893, 1971, 2015, New Zealand, Switzerland, Saudi Arabia). The lesson offers the dates as examples of a right honored at different times, not as a complete list, and correctly distinguishes the declared right (UDHR Art. 21, S-149) from its uneven enjoyment."
+
+  - id: S-328
+    title: Encyclopaedia Britannica — Chipko movement
+    type: website
+    url: https://www.britannica.com/topic/Chipko-movement
+    organization: Encyclopaedia Britannica
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.07.010 L08 (Civil Society: Acting for the Common Good) for the Chipko movement — India, 1970s; villagers (especially women) embraced trees to stop them being cut, protecting the forests their communities depended on. URL verified live (2026-08-18): Britannica's 'Chipko movement' article ('Indian environmental movement', also 'Chipko andolan') documents the movement, its Gandhian nonviolence inspiration, and protesters embracing trees to prevent felling. The lesson states it with a 'for example' hedge and treats it as one case of civil society acting for the common good."
+
+  - id: S-329
+    title: IFRC — International Red Cross and Red Crescent Movement
+    type: website
+    url: https://www.ifrc.org/
+    organization: International Federation of Red Cross and Red Crescent Societies (IFRC)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.07.010 L08 (Civil Society) for the Red Cross/Red Crescent movement as an example of neutral, voluntary humanitarian aid. URL verified live (2026-08-18): the IFRC homepage describes the IFRC as 'the world's largest humanitarian network', supporting local Red Cross and Red Crescent action in more than 191 countries with more than 18 million volunteers — on-topic for the lesson's one-line claim that the movement 'gives neutral humanitarian aid in crises'. General authority, not a claim-level citation for a specific statistic."

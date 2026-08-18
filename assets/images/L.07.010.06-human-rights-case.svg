@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A right honored and violated</title>
+  <desc id="desc">Two panels. The left panel shows a person turned away from a ballot box, labeled "violated." The right panel shows the same person freely placing a ballot, labeled "honored." A timeline beneath lists years — 1893, 1971, 2015 — showing the right was won at different times in different places.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A right, honored and violated</text>
+
+  <!-- left panel -->
+  <rect x="20" y="66" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="60" y="150" width="90" height="110" rx="8" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="70" y="160" width="70" height="20" rx="3" fill="#2b3a42"/>
+  <circle cx="232" cy="160" r="16" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M232 200 L232 250 M232 250 L214 264 M232 250 L250 264" stroke="#2b3a42" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <line x1="232" y1="150" x2="232" y2="120" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="212" y1="118" x2="252" y2="148" stroke="#c0392b" stroke-width="5" stroke-linecap="round"/>
+  <line x1="252" y1="118" x2="212" y2="148" stroke="#c0392b" stroke-width="5" stroke-linecap="round"/>
+  <text x="133" y="320" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">violated</text>
+  <text x="133" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">turned away from the vote</text>
+
+  <!-- right panel -->
+  <rect x="266" y="66" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="306" y="150" width="90" height="110" rx="8" fill="#7a9e7e" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="316" y="160" width="70" height="20" rx="3" fill="#2b3a42"/>
+  <circle cx="444" cy="160" r="16" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M444 200 L444 250 M444 250 L426 264 M444 250 L462 264" stroke="#2b3a42" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <rect x="424" y="148" width="12" height="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M424 150 L406 140 L406 182 L424 172" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <text x="379" y="320" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">honored</text>
+  <text x="379" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">voting freely</text>
+
+  <!-- timeline -->
+  <line x1="30" y1="398" x2="482" y2="398" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="100" cy="398" r="5" fill="#2b3a42"/>
+  <text x="100" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1893</text>
+  <text x="100" y="426" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">New Zealand</text>
+  <circle cx="256" cy="398" r="5" fill="#2b3a42"/>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1971</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Switzerland</text>
+  <circle cx="412" cy="398" r="5" fill="#2b3a42"/>
+  <text x="412" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">2015</text>
+  <text x="412" y="426" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Saudi Arabia</text>
+
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same right — won at different times in different places.</text>
+</svg>

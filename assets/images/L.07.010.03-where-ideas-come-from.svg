@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Where ideas of right and wrong come from</title>
+  <desc id="desc">A web diagram with a person at the center and five labeled spokes — family, culture, position, experience, belief — showing that a person's ideas of right and wrong come from many sources. The person is drawn simply with varied skin tone and is seated, so it can be printed in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Where our ideas come from</text>
+
+  <!-- center person -->
+  <circle cx="256" cy="270" r="38" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="244" cy="262" r="3" fill="#2b3a42"/>
+  <circle cx="268" cy="262" r="3" fill="#2b3a42"/>
+  <path d="M242 286 Q256 296 270 286" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">me</text>
+
+  <!-- spokes -->
+  <line x1="256" y1="232" x2="256" y2="152" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="294" y1="258" x2="368" y2="200" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="298" y1="288" x2="378" y2="330" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="214" y1="288" x2="134" y2="330" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="218" y1="258" x2="144" y2="200" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- labels -->
+  <rect x="200" y="112" width="112" height="40" rx="8" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="138" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">family</text>
+
+  <rect x="356" y="182" width="132" height="40" rx="8" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="422" y="208" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">culture</text>
+
+  <rect x="360" y="320" width="128" height="40" rx="8" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="424" y="346" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">position</text>
+
+  <rect x="16" y="320" width="128" height="40" rx="8" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="346" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">experience</text>
+
+  <rect x="24" y="182" width="120" height="40" rx="8" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="84" y="208" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">belief</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Everyone's ideas come from somewhere — including yours.</text>
+</svg>

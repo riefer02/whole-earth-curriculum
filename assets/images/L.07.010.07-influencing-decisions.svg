@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Four ways to influence decisions</title>
+  <desc id="desc">A chart with four boxes — voting, protest, petition, organizing — each with a "strength" line and a "limit" line to write on. Drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Four ways to influence decisions</text>
+
+  <!-- header -->
+  <text x="120" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">strength</text>
+  <text x="392" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">limit</text>
+
+  <!-- row 1: voting -->
+  <rect x="20" y="96" width="140" height="88" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="124" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">voting</text>
+  <rect x="180" y="96" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="194" y1="148" x2="312" y2="148" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="346" y="96" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="360" y1="148" x2="478" y2="148" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- row 2: protest -->
+  <rect x="20" y="200" width="140" height="88" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="228" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">protest</text>
+  <rect x="180" y="200" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="194" y1="252" x2="312" y2="252" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="346" y="200" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="360" y1="252" x2="478" y2="252" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- row 3: petition -->
+  <rect x="20" y="304" width="140" height="88" rx="10" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="332" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">petition</text>
+  <rect x="180" y="304" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="194" y1="356" x2="312" y2="356" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="346" y="304" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="360" y1="356" x2="478" y2="356" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- row 4: organizing -->
+  <rect x="20" y="408" width="140" height="88" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="436" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">organizing</text>
+  <rect x="180" y="408" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="194" y1="460" x2="312" y2="460" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="346" y="408" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="360" y1="460" x2="478" y2="460" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Each way has power — and each has limits.</text>
+</svg>
