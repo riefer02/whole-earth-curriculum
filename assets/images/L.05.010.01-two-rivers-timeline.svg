@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 500" role="img" aria-labelledby="title desc">
+  <title id="title">A comparing timeline of Egypt and the Indus Valley</title>
+  <desc id="desc">A two-row comparing timeline titled "A Comparing Timeline." The top row, labeled "Egypt — Nile River (Africa)," shows four labeled points from left to right: unification about 3100 BCE, the Great Pyramid at Giza about 2600 BCE, the New Kingdom about 1500 BCE, and rule under the Roman Empire from 30 BCE. The bottom row, labeled "Indus Valley — Indus River (South Asia)," shows two labeled points: great cities such as Harappa and Mohenjo-daro about 2600 BCE, and the cities' decline about 1900 BCE. A shared time scale runs along the bottom with years labeled 3000, 2000, 1000, and 0 BCE. A shaded band marks the overlap in time between the two civilizations. Labels and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="500" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">A Comparing Timeline</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Two peoples, two rivers, one shared time scale</text>
+
+  <!-- Overlap band -->
+  <rect x="118" y="96" width="97" height="240" fill="#f0e6d0"/>
+  <text x="166" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d3b">overlap</text>
+
+  <!-- Top row: Egypt -->
+  <text x="36" y="104" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Egypt — Nile River (Africa)</text>
+  <line x1="36" y1="150" x2="476" y2="150" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Egypt events -->
+  <circle cx="50" cy="150" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="50" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">unification</text>
+  <text x="50" y="116" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">~3100 BCE</text>
+
+  <circle cx="118" cy="150" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="118" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">Great Pyramid</text>
+  <text x="118" y="114" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">~2600 BCE</text>
+
+  <circle cx="270" cy="150" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="270" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">New Kingdom</text>
+  <text x="270" y="116" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">~1500 BCE</text>
+
+  <circle cx="472" cy="150" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="472" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">under Roman Empire</text>
+  <text x="472" y="116" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">30 BCE</text>
+
+  <!-- Bottom row: Indus Valley -->
+  <text x="36" y="276" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Indus Valley — Indus River (South Asia)</text>
+  <line x1="36" y1="322" x2="476" y2="322" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="118" cy="322" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="118" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">great cities: Harappa,</text>
+  <text x="118" y="362" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">Mohenjo-daro</text>
+  <text x="118" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">~2600 BCE</text>
+
+  <circle cx="215" cy="322" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="215" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">cities decline</text>
+  <text x="215" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">~1900 BCE</text>
+
+  <!-- Shared time scale -->
+  <line x1="36" y1="440" x2="476" y2="440" stroke="#4f6d7a" stroke-width="2"/>
+  <g stroke="#4f6d7a" stroke-width="2">
+    <line x1="36" y1="436" x2="36" y2="444"/>
+    <line x1="173" y1="436" x2="173" y2="444"/>
+    <line x1="320" y1="436" x2="320" y2="444"/>
+    <line x1="476" y1="436" x2="476" y2="444"/>
+  </g>
+  <text x="36" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">3000 BCE</text>
+  <text x="173" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">2000 BCE</text>
+  <text x="320" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">1000 BCE</text>
+  <text x="476" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">0</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">While the Great Pyramid rose, Indus cities were thriving too.</text>
+</svg>

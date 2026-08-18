@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 400" role="img" aria-labelledby="title desc">
+  <title id="title">What moved with trade</title>
+  <desc id="desc">A diagram titled "What moved with trade." A sailing dhow with a lateen sail rides waves in the center. Four labeled boxes surround it, connected by arrows. The boxes read: "goods — spices, cloth, timber, gold," "ideas — religions, numbers, sailing skills," "plants — coconuts, bananas, rice," and "animals — cattle, horses." A caption reads "Trade moved goods, ideas, plants, and animals — not only things." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="400" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">What Moved with Trade</text>
+
+  <!-- central dhow -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216 200 Q256 186 296 200 L288 216 L224 216 Z" fill="#ffffff"/>
+    <path d="M256 186 L256 148"/>
+    <path d="M256 148 Q296 148 296 196 L296 200" fill="#e0a458"/>
+    <path d="M256 148 Q216 148 216 196 L216 200" fill="#6b93b6"/>
+  </g>
+  <g stroke="#6b93b6" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M200 232 Q228 226 256 232 Q284 238 312 232"/>
+  </g>
+
+  <!-- arrows out -->
+  <g stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5">
+    <line x1="196" y1="176" x2="130" y2="110"/>
+    <line x1="316" y1="176" x2="382" y2="110"/>
+    <line x1="196" y1="222" x2="130" y2="288"/>
+    <line x1="316" y1="222" x2="382" y2="288"/>
+  </g>
+
+  <!-- top-left: goods -->
+  <rect x="24" y="56" width="150" height="74" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="99" y="78" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">goods</text>
+  <text x="99" y="98" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">spices, cloth,</text>
+  <text x="99" y="116" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">timber, gold</text>
+
+  <!-- top-right: ideas -->
+  <rect x="338" y="56" width="150" height="74" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="413" y="78" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">ideas</text>
+  <text x="413" y="98" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">religions, numbers,</text>
+  <text x="413" y="116" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">sailing skills</text>
+
+  <!-- bottom-left: plants -->
+  <rect x="24" y="288" width="150" height="74" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="99" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">plants</text>
+  <text x="99" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">coconuts, bananas,</text>
+  <text x="99" y="348" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">rice</text>
+
+  <!-- bottom-right: animals -->
+  <rect x="338" y="288" width="150" height="74" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="413" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">animals</text>
+  <text x="413" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">cattle, horses</text>
+
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Trade moved goods, ideas, plants, and animals — not only things.</text>
+</svg>

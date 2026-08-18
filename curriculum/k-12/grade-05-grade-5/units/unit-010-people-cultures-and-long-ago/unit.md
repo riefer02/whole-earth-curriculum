@@ -64,3 +64,13 @@ told as a global story from many perspectives, never one people's triumph.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.010.01 | Two Rivers, Two Peoples: A Comparing Timeline | D08.S1.05.01 |
+| L.05.010.02 | What Changed, What Stayed: Change and Continuity on the Nile and Indus | D08.S1.05.01 |
+| L.05.010.03 | Tools That Changed Everything: Writing, the Wheel, the Plow | D08.S1.05.02 |
+| L.05.010.04 | Stories of Beginnings: Comparing Origin Stories | D08.S2.05.01 |
+| L.05.010.05 | Great Achievements: Building, Art, and Learning | D08.S2.05.02 |
+| L.05.010.06 | People on the Move: Tracing a Migration | D08.S3.05.01 |
+| L.05.010.07 | Across Land and Sea: Trade Connected Peoples | D08.S3.05.02 |
+| L.05.010.08 | Standing Up: People Who Resisted Unfairness | D08.S4.05.01 |
+| L.05.010.09 | Fairness and Dignity: Honored or Denied | D08.S4.05.02 |
+| L.05.010.10 | The Long Story, and Our Part in It | D08.S4.05.02 (revisits D08.S1.05.01, D08.S2.05.01, D08.S3.05.01) |

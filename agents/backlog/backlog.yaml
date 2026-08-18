@@ -3694,7 +3694,7 @@ items:
     type: lesson
     grade: 5
     domain: D08
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3706,6 +3706,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (913). IDs L.05.010.01-.10 sequence_in_unit 1-10, grade 5, unit U.05.010; objectives resolve to real grade-5 D08 standards (all 8 covered); required headings present learner-first; unit.md table lists all 10; all 10 assets resolve with non-empty alt; historical accuracy spot-checked: Egypt (~3100 BCE unification, ~2600 BCE Great Pyramid, ~1500 BCE New Kingdom, 30 BCE Roman rule), Indus Valley (Harappa/Mohenjo-daro ~2600-1900 BCE), writing origins (Mesopotamia ~3200 BCE/China/Maya), wheel ~3500 BCE, Maori/Haudenosaunee/Yoruba origin stories, Great Zimbabwe 11th-15th c, Timbuktu manuscripts, Benin lost-wax (West Africa), Maya astronomy, Machu Picchu, House of Wisdom, Polynesian voyaging, Indian Ocean/Silk Road/Trans-Saharan trade, Salt March 1930, Aba Women's War 1929, Wave Hill 1966 all correct. Fixed L.01 materials card count (8->6, four+four->four+two Indus)."
+      fact-checker:
+        verdict: passed
+        note: "Verified: Egypt dates (~3100/2600/1500/30 BCE), Indus mature ~2600-1900 BCE (UNESCO Mohenjodaro 138 grid streets drainage live-verified); cuneiform ~3200 BCE + independent writing (Egypt/China oracle/Maya), wheel ~3500 BCE Mesopotamia toys-not-transport in Americas, ards ~4000-3000 BCE; origin stories (Maori Ranginui/Papatuanuku, Haudenosaunee Sky Woman, Yoruba Olodumare) living traditions; Great Zimbabwe 1100-1450 dry-stone UNESCO 364, Machu Picchu 274, Timbuktu, Benin plaques correctly Nigeria not Republic of Benin, Maya Venus, House of Wisdom; Hokule'a 1976, monsoon/dhow, Silk Roads, Trans-Saharan framed exchange-between-equals; Salt March 1930, Aba Women's War 1929, Wave Hill 23 Aug 1966 Gurindji/Lingiari. Fixed L01 card count, L05 Memory of World URL. Registered S-197..S-209 (13 sources)."
+      global-culture-editor:
+        verdict: passed
+        note: "History told as multi-perspective global story not one people's triumph; non-European civilizations genuinely centered (L5 achievement entirely non-European: Great Zimbabwe/Timbuktu/Benin/Maya/Machu Picchu/House of Wisdom); spans Africa (Egypt/Yoruba/Great Zimbabwe/Timbuktu/Benin/Aba Women's War), Asia (Indus/China/India/Baghdad), Oceania (Maori/Polynesian voyagers/Wave Hill), Americas (Haudenosaunee/Maya/Andes), West Asia (Mesopotamia); origin stories 'living traditions not myths'; resistance framed dignity/agency never victimhood; trade/migration 'exchange between equals' never 'discovering empty land'; non-ranking posture throughout; no primitive/less-advanced language; Connection spans sea-swimmer/goat-herder/etc."
+      accessibility-editor:
+        verdict: passed
+        note: All 10 lessons real materials_low_tech (rope/dirt ground lines, oral retell, listening circles, ground circles, stepping routes, voice-only chains); UDL draw/tell/act/sort/write; timeline (L1) + migration-mapping (L6) have physical/manipulable + verbal alternatives; reading-heavy lessons (L4/L5/L8) read-aloud/retell/listening-circle oral paths; physical mimes/stepping always non-motor alternative; plain language names scaffolded (Ranginui/Papatuanuku/Hokule'a) with correct diacritics; all 10 assets non-empty alt + SVG role=img/title/desc/aria-labelledby grayscale label-shape-meaning; no wealth assumption.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L8 resistance/mutual aid with agency/dignity, L9 fairness/dignity as values, L10 learner agency); egalitarianism (anti-ranking guards 'neither more important', 'no story better', 'not surprisingly advanced', 'met as equals'); global (Egypt/Indus/Maori/Haudenosaunee/Yoruba/Great Zimbabwe/Timbuktu/Benin/Maya/Machu Picchu/Baghdad/Pacific/Indian Ocean/India/Nigeria/Australia); tech/environment (L3 writing/wheel/plow 'neither worship nor fear' both helpful+complicated effects, L7 monsoon/dhow/lateen, L6 environmental push-pull); evidence-vs-values (BCE/CE as 'one convention not the only', 'no story better' as value, fairness as ought-not-is; British Museum/UNESCO/Smithsonian/Te Ara/NMAI/PVS/Nobel/NMA cited). Traceability: Vision->P4->D08->S1-S4->8 standards->U.05.010->lessons."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band: cognitive fit concrete anchors (timelines via event-cards/stepping, change/continuity via feature sorting, tools via before/after chains, origin stories as narrative, achievements via what-how-shows, migration via push/pull reasons, trade via objects-moved; modeled worked examples + guided practice); emotional safety L8/L9 name injustice briefly/factually then center agency/dignity/mutual-aid/hope 'never victimhood' + right-to-pause + gentle imagery (walkers, held hands); L4 origin stories held as living traditions of real peoples never ranked/'which is true', learners of those traditions invited as authority; physical fit seated options alongside big-motor; questions as questions."
   - id: B-333
     title: Author lessons for Unit U.05.011 (Rights, Fairness & Shared Decisions)
     agent: lesson-author

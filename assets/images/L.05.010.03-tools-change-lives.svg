@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 360" role="img" aria-labelledby="title desc">
+  <title id="title">Writing changed how people lived and worked</title>
+  <desc id="desc">A before-and-after chain titled "Writing changed how people lived and worked." On the left, under a heading "before writing," a figure with a worried expression holds a hand to their head, and below them a note reads "people had to remember everything, and ideas could only travel if people traveled." A dashed arrow points right. On the right, under a heading "after writing," a figure marks a clay tablet with a stylus, and below them a note reads "records were kept, trade was counted, and laws and stories could travel farther and last longer." A caption at the bottom reads "A tool changes the work; the work changes the life." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="360" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Writing Changed How People Lived and Worked</text>
+
+  <!-- Before panel -->
+  <text x="96" y="78" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">before writing</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="118" r="14" fill="#d9a06b"/>
+    <path d="M96 132 L96 172"/>
+    <path d="M96 146 L78 138"/>
+    <path d="M96 146 L114 138"/>
+  </g>
+  <path d="M84 110 L76 102" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M108 110 L116 102" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="30" y="196" width="132" height="92" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">people had to remember</text>
+  <text x="96" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">everything, and ideas</text>
+  <text x="96" y="254" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">could only travel if</text>
+  <text x="96" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">people traveled</text>
+
+  <!-- Arrow -->
+  <line x1="188" y1="130" x2="300" y2="130" stroke="#2b3a42" stroke-width="2" stroke-dasharray="7 6"/>
+  <path d="M296 122 L310 130 L296 138 Z" fill="#2b3a42"/>
+
+  <!-- After panel -->
+  <text x="400" y="78" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">after writing</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="400" cy="118" r="14" fill="#e6bb92"/>
+    <path d="M400 132 L400 172"/>
+    <path d="M400 146 L382 138"/>
+    <path d="M400 146 L418 138"/>
+  </g>
+  <rect x="360" y="120" width="60" height="42" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="386" y1="110" x2="398" y2="124" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <g stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round">
+    <path d="M370 132 L400 132"/>
+    <path d="M370 140 L394 140"/>
+    <path d="M370 148 L388 148"/>
+  </g>
+  <rect x="322" y="196" width="156" height="92" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="400" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">records were kept, trade</text>
+  <text x="400" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">was counted, and laws</text>
+  <text x="400" y="254" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">and stories could travel</text>
+  <text x="400" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">farther and last longer</text>
+
+  <text x="256" y="324" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">A tool changes the work; the work changes the life.</text>
+</svg>

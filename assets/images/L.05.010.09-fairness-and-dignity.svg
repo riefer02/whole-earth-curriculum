@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 440" role="img" aria-labelledby="title desc">
+  <title id="title">Fairness and dignity: honored or denied</title>
+  <desc id="desc">A two-panel poster titled "Fairness and dignity: honored or denied." The left panel, "dignity honored," shows a table where several people sit together sharing food, including a figure in a wheelchair, with the note "everyone has a place, a name, and a share." The right panel, "dignity denied," shows a figure shut out of a doorway while others sit inside, with the note "some are kept out, paid less, or treated as less." A caption reads "Fairness means equal respect and a fair chance; dignity means being treated as a person of worth." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="440" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Fairness and Dignity: Honored or Denied</text>
+
+  <!-- Left panel: honored -->
+  <rect x="24" y="66" width="224" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">dignity honored</text>
+
+  <!-- table -->
+  <rect x="56" y="220" width="160" height="14" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="66" y1="234" x2="66" y2="288" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="206" y1="234" x2="206" y2="288" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- figures at table -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="196" r="11" fill="#e6bb92"/>
+    <circle cx="136" cy="196" r="11" fill="#ab7a4e"/>
+    <circle cx="184" cy="196" r="11" fill="#d9a06b"/>
+    <path d="M88 207 L88 232"/>
+    <path d="M136 207 L136 232"/>
+    <path d="M184 207 L184 232"/>
+  </g>
+  <!-- wheelchair figure -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="184" cy="152" r="10" fill="#8c5a3b"/>
+    <path d="M184 162 L184 180"/>
+    <circle cx="176" cy="180" r="9"/>
+    <circle cx="192" cy="180" r="9"/>
+  </g>
+  <!-- bowls -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5">
+    <path d="M80 206 Q88 214 96 206 Z"/>
+    <path d="M128 206 Q136 214 144 206 Z"/>
+    <path d="M176 206 Q184 214 192 206 Z"/>
+  </g>
+  <text x="136" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">everyone has a place,</text>
+  <text x="136" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">a name, and a share</text>
+
+  <!-- Right panel: denied -->
+  <rect x="264" y="66" width="224" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">dignity denied</text>
+
+  <!-- room with table -->
+  <rect x="288" y="140" width="120" height="120" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="306" y="200" width="84" height="12" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- figures inside -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="330" cy="176" r="10" fill="#e6bb92"/>
+    <circle cx="366" cy="176" r="10" fill="#ab7a4e"/>
+    <path d="M330 186 L330 212"/>
+    <path d="M366 186 L366 212"/>
+  </g>
+  <!-- closed door -->
+  <rect x="424" y="200" width="34" height="60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="450" cy="230" r="2.5" fill="#2b3a42"/>
+  <!-- figure shut out -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="420" cy="302" r="11" fill="#d9a06b"/>
+    <path d="M420 313 L420 344"/>
+    <path d="M420 328 L404 320"/>
+    <path d="M420 328 L436 320"/>
+  </g>
+  <text x="376" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">some are kept out,</text>
+  <text x="376" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">paid less, or treated as less</text>
+
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Fairness means equal respect and a fair chance; dignity means being treated as a person of worth.</text>
+</svg>

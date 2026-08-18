@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 440" role="img" aria-labelledby="title desc">
+  <title id="title">Great achievements made by many peoples</title>
+  <desc id="desc">A gallery of four achievements in a row, each labeled. The first, "Great Zimbabwe — a stone city," shows tall curving stone walls with a round tower. The second, "Timbuktu — a library of learning," shows an open book with lines of text and a row of shelf marks. The third, "Benin — brass art," shows a rectangular plaque with a carved standing figure. The fourth, "Maya — star records," shows a person sighting a star beside a stack of counting marks. A caption reads "Great achievements, made by many peoples." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="440" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Great Achievements, Made by Many Peoples</text>
+
+  <!-- Panel 1: Great Zimbabwe -->
+  <rect x="24" y="66" width="108" height="310" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="78" y="92" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">Great Zimbabwe</text>
+  <text x="78" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a stone city</text>
+  <path d="M34 300 L34 200 Q78 168 122 200 L122 300 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="62" y="236" width="32" height="64" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M62 236 L62 210 Q78 202 94 210 L94 236" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="78" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">walls built</text>
+  <text x="78" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">without mortar</text>
+
+  <!-- Panel 2: Timbuktu -->
+  <rect x="148" y="66" width="108" height="310" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="202" y="92" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">Timbuktu</text>
+  <text x="202" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a library of learning</text>
+  <rect x="164" y="176" width="76" height="104" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="202" y1="176" x2="202" y2="280" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round">
+    <path d="M172 192 L232 192"/>
+    <path d="M172 202 L232 202"/>
+    <path d="M172 212 L232 212"/>
+    <path d="M172 232 L232 232"/>
+    <path d="M172 242 L232 242"/>
+    <path d="M172 252 L232 252"/>
+  </g>
+  <text x="202" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">books of stars,</text>
+  <text x="202" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">math, and law</text>
+
+  <!-- Panel 3: Benin -->
+  <rect x="272" y="66" width="108" height="310" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="326" y="92" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">Benin</text>
+  <text x="326" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">brass art</text>
+  <rect x="292" y="160" width="68" height="120" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="326" cy="192" r="12" fill="#ab7a4e"/>
+    <path d="M326 204 L326 236"/>
+    <path d="M326 214 L308 208"/>
+    <path d="M326 214 L344 208"/>
+    <path d="M326 236 L314 264"/>
+    <path d="M326 236 L338 264"/>
+  </g>
+  <text x="326" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">a kingdom's history</text>
+  <text x="326" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">cast in brass</text>
+
+  <!-- Panel 4: Maya -->
+  <rect x="396" y="66" width="92" height="310" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="442" y="92" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">Maya</text>
+  <text x="442" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">star records</text>
+  <circle cx="462" cy="150" r="4" fill="#2b3a42"/>
+  <circle cx="440" cy="136" r="3" fill="#2b3a42"/>
+  <circle cx="452" cy="126" r="3" fill="#2b3a42"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="426" cy="210" r="13" fill="#e6bb92"/>
+    <path d="M426 223 L426 258"/>
+    <path d="M426 238 L408 230"/>
+    <path d="M426 238 L444 230"/>
+  </g>
+  <line x1="436" y1="196" x2="452" y2="160" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <path d="M410 288 L410 292"/>
+    <path d="M420 286 L420 294"/>
+    <path d="M430 288 L430 292"/>
+  </g>
+  <text x="442" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">counting the</text>
+  <text x="442" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">stars' rhythm</text>
+
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Great achievements, made by many peoples.</text>
+</svg>

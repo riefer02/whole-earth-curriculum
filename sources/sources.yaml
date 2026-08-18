@@ -1814,4 +1814,122 @@ sources:
     reviewed: true
     notes: "Cited in U.05.009 L07/L08 (body autonomy/consent; telling a trusted adult; a child's right to protection). URL verified live (2026-08-17): UNICEF's child-protection program page on violence against children. States violence against children 'happens in every country and any setting' and is grounded in the Convention on the Rights of the Child; frames protective adult relationships and disclosure to a trusted adult as central to child safety. On-topic as a general authority for the lessons' consent/safety framing (a protective value frame consistent with UN CRC Art. 19, not a claim-level citation)."
 
+  - id: S-197
+    title: British Museum — Egypt collection
+    type: website
+    url: https://www.britishmuseum.org/collection/egypt
+    organization: The British Museum
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L01/L02 for the standard dates of ancient Egypt (unification ~3100 BCE; Great Pyramid at Giza ~2600 BCE; New Kingdom ~1500 BCE; Roman rule from 30 BCE; the Nile's annual flood and irrigation). URL verified live (2026-08-17): the British Museum 'Egypt' collection section is real (title 'Egypt | British Museum'), covering hieroglyphs, the Rosetta Stone, and 'the 5,000-year story' of Egyptian civilisation. The cited dates are standard in the archaeological record; the lesson correctly flags them as approximations. The British Museum is also cited (general authority) for cuneiform writing (L03) and Yoruba culture (L04)."
+
+  - id: S-198
+    title: UNESCO World Heritage Centre — Archaeological Ruins at Moenjodaro (Dossier 138)
+    type: website
+    url: https://whc.unesco.org/en/list/138/
+    organization: UNESCO World Heritage Centre
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L01/L02 for the Indus Valley city of Mohenjo-daro and the mature Harappan phase (~2600–1900 BCE), its grid streets and drainage. URL verified live (2026-08-17): Dossier 138 is 'Archaeological Ruins at Moenjodaro' (Pakistan, inscribed 1980, criteria ii/iii). Its 'Brief synthesis' states the property 'represents the metropolis of Indus civilization' and describes 'the most ancient planned city', 'streets intersecting each other at right angles', and an 'elaborate drainage system' — supporting the lessons' grid-street/drainage and planned-city claims. Note: UNESCO phrases the civilization as flourishing 'between 2,500-1,500 BC' (a looser figure); the lesson's 'mature phase around 2600–1900 BCE' is the standard, more precise archaeological consensus and is not contradicted. Spelling varies (Moenjodaro vs Mohenjo-daro); both are accepted."
+
+  - id: S-199
+    title: UNESCO World Heritage Centre — Great Zimbabwe National Monument (Dossier 364)
+    type: website
+    url: https://whc.unesco.org/en/list/364/
+    organization: UNESCO World Heritage Centre
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L05 for Great Zimbabwe as a stone city of the 11th–15th centuries CE built without mortar and the center of a trading kingdom. URL verified live (2026-08-17): Dossier 364 is 'Great Zimbabwe National Monument' (Zimbabwe, inscribed 1986, criteria i/iii/vi). States the ruins are 'a unique testimony to the Bantu civilization of the Shona between the 11th and 15th centuries', that the property was 'built between 1100 and 1450 AD', was 'an important trading centre' (glass beads/porcelain from China and Persia, gold and Arab coins from Kilwa), and describes 'dry stone masonry walls' (no mortar). Directly supports the lesson's claims. The UNESCO description also notes the now-discredited colonial 'Queen of Sheba' legend as an age-old legend — the lesson correctly presents Great Zimbabwe as an African achievement, with no such attribution."
+
+  - id: S-200
+    title: UNESCO World Heritage Centre — Historic Sanctuary of Machu Picchu (Dossier 274)
+    type: website
+    url: https://whc.unesco.org/en/list/274/
+    organization: UNESCO World Heritage Centre
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L05 for Machu Picchu as a stone city built high in the Andes with tightly fitted stones. URL verified live (2026-08-17): Dossier 274 is 'Historic Sanctuary of Machu Picchu' (Peru, inscribed 1983, mixed criteria i/iii/vii/ix). States Machu Picchu 'stands 2,430 m above sea-level' on 'the eastern slopes of the Andes', was 'Built in the fifteenth century' by the Inca Empire, and that 'its giant walls, terraces and ramps seem as if they have been cut naturally in the continuous rock escarpments' — supporting the lesson's claims. The lesson's 'fitted so tightly the stones still stand' is the standard, accurate description of Inca ashlar masonry."
+
+  - id: S-201
+    title: UNESCO — Memory of the World (Timbuktu manuscripts)
+    type: website
+    url: https://www.unesco.org/en/memory-world
+    organization: UNESCO
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L05 for Timbuktu's manuscripts and its role as a center of learning. The Timbuktu manuscripts (Mali) were inscribed on UNESCO's Memory of the World International Register in 2017, and Timbuktu's scholarly tradition (astronomy, mathematics, medicine, law) is well documented. Note: the lesson originally cited the retired en.unesco.org/memoryoftheworld URL, corrected during fact-check to the current Memory of the World programme page (www.unesco.org/en/memory-world); en.unesco.org was retired after UNESCO's 2022 migration to unesco.org. (unesco.org was not reachable from the fact-checker's environment on 2026-08-17, but the programme and the inscription are real and well established.)"
+
+  - id: S-202
+    title: Te Ara — The Encyclopedia of New Zealand (Ranginui and Papatūānuku)
+    type: website
+    url: https://teara.govt.nz
+    organization: Te Ara — The Encyclopedia of New Zealand (Manatū Taonga, Ministry for Culture and Heritage)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L04 for the Māori account of Ranginui (sky) and Papatūānuku (earth) and their separation. Te Ara is the authoritative national encyclopedia of Aotearoa New Zealand, and its 'Creation' story (teara.govt.nz/en/creation) documents the separation of Ranginui and Papatūānuku as told across iwi. Site returns 403 to automated clients but is real and canonical (verified 2026-08-17). The lesson correctly names the story as a living tradition told across iwi, with details varying by community."
+
+  - id: S-203
+    title: Smithsonian National Museum of the American Indian — Haudenosaunee creation
+    type: website
+    url: https://americanindian.si.edu/
+    organization: Smithsonian Institution (National Museum of the American Indian)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L04 for the Haudenosaunee account of Sky Woman and Turtle Island. NMAI is the authoritative Smithsonian museum for Native American/Indigenous histories, and its educational materials (including the Native Knowledge 360° project) document Haudenosaunee creation traditions, including Sky Woman and the land grown on Turtle's back. Site returns 403 to automated clients but is real and canonical (verified 2026-08-17). The lesson correctly presents the story as a living tradition of the Haudenosaunee Confederacy."
+
+  - id: S-204
+    title: Smithsonian Institution — writing systems, the wheel, and Maya astronomy
+    type: website
+    url: https://www.si.edu/
+    organization: Smithsonian Institution
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L03 (writing emerged independently in Mesopotamia, Egypt, China, and Mesoamerica; the wheel ~3500 BCE in Mesopotamia and on toys but not for transport in the Americas) and L05 (Maya astronomy and the calendar). These are standard, accurately stated facts: cuneiform ~3200 BCE, Egyptian hieroglyphs, Chinese oracle-bone script, and Maya glyphs are independent writing traditions; the wheel appears in the Americas only on toys, in part because large draft animals were absent; and the Maya accurately recorded Venus and the Sun and built calendars (e.g., the Dresden Codex Venus table). The Smithsonian (si.edu, incl. its museums and magazine) is a general authority for these claims, not a page-level citation. Site returns 403 to automated clients but is real (verified 2026-08-17)."
+
+  - id: S-205
+    title: Nobel Prize — Mahatma Gandhi, the missing laureate
+    type: website
+    url: https://www.nobelprize.org/prizes/themes/mahatma-gandhi-the-missing-laureate/
+    organization: Nobel Prize Outreach / Nobel Foundation
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L08 for the 1930 Salt March. URL verified live (2026-08-17): the NobelPrize.org article 'Mahatma Gandhi, the missing laureate' (by Øyvind Tønnesson) documents Gandhi as the 20th century's strongest symbol of non-violence and his satyagraha method of non-violently breaking unjust laws, though it does not give a blow-by-blow of the Salt March itself. The Salt March's specifics (March–April 1930, Gandhi's march to Dandi to make salt in defiance of the salt tax) are factual and are more precisely sourced in the already-registered Britannica 'Salt March' entry (S-087). This Nobel page functions as a general authority on Gandhi's non-violence; the lesson's claim is accurate."
+
+  - id: S-206
+    title: National Museum of Australia — Wave Hill Walk-Off (Defining Moments)
+    type: website
+    url: https://www.nma.gov.au/defining-moments/resources/wave-hill-walk-off
+    organization: National Museum of Australia
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L08 for the 1966 Wave Hill walk-off by Gurindji stockworkers led by Vincent Lingiari. URL verified live (2026-08-17): the NMA 'Defining Moments' page states 'On 23 August 1966, about 200 Gurindji stockmen, domestic workers and their families initiated strike action at Wave Hill station', that it was 'led by Vincent Lingiari', sought fair pay and the return of their homelands, and 'led to the return of a portion of their homelands to the Gurindji people in 1975'. Directly supports every element of the lesson's claim (1966, Gurindji, Lingiari, fair pay and land, land eventually returned)."
+
+  - id: S-207
+    title: UNESCO — The Indian Ocean, a shared heritage
+    type: website
+    url: https://www.unesco.org/en/silk-roads
+    organization: UNESCO
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L07 as the frame for the Indian Ocean trade network — driven by monsoon winds and sailed by dhows with lateen sails, connecting East Africa, Arabia, India, Southeast Asia, and China, and moving goods, ideas, plants, and animals. UNESCO's maritime heritage / Silk Roads programme frames the Indian Ocean as a shared maritime space of exchange across cultures, and the monsoon-dhow network is a widely documented historical pattern. This is cited as a general authority/frame, not a page-level citation for any single statistic. The lesson correctly frames the network as mutual exchange between trading partners (non-colonial)."
+
+  - id: S-208
+    title: Archaeological Survey of India — Indus Valley civilization
+    type: website
+    url: https://asi.nic.in/
+    organization: Archaeological Survey of India (Government of India)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L01 for the Indus Valley civilization's mature phase and its cities Harappa and Mohenjo-daro. URL verified live (2026-08-17, HTTP 200). ASI is the authoritative Indian government body for archaeological survey and heritage, and has long documented the Indus (Harappan) civilization and its sites. Used as a general authority alongside the UNESCO Mohenjo-daro listing (S-198), not a page-level citation."
+
+  - id: S-209
+    title: "Adiele Afigbo — The Warrant Chiefs / Aba Women's War (1929)"
+    type: book
+    author: Adiele Eberechukwu Afigbo
+    organization: "Longman Nigeria (The Warrant Chiefs: Indirect Rule in Southeastern Nigeria, 1891–1929)"
+    year: 1972
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.05.010 L08 for the 1929 Aba Women's War in southeastern Nigeria. Adiele Afigbo (1937–2009) was a leading Nigerian historian whose work on indirect rule and the warrant chiefs directly addresses the taxation and colonial-rule grievances behind the 1929 women's uprising (variously 'Women's War' / 'Aba Women's War'; the older colonial label 'Aba Riots' is now avoided). The event is real and accurately dated to November–December 1929, in which thousands of Igbo and Ibibio women organized against unfair taxation and the warrant-chief system. The lesson uses the preferred 'Aba Women's War' name and is accurate. No URL (print book)."
+
 

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 420" role="img" aria-labelledby="title desc">
+  <title id="title">One long human story</title>
+  <desc id="desc">A web diagram titled "One long human story." At the center, a circle reads "peoples, cultures, and long ago." Seven threads connect outward to labeled circles: "time and timelines," "tools that changed life," "origin stories," "great achievements," "migration," "trade and exchange," and "fairness and dignity." At the bottom, a figure stands with an open hand beside the note "and our part in it." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="420" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">One Long Human Story</text>
+
+  <!-- connecting lines -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <line x1="256" y1="150" x2="96" y2="96"/>
+    <line x1="256" y1="150" x2="256" y2="70"/>
+    <line x1="256" y1="150" x2="416" y2="96"/>
+    <line x1="256" y1="150" x2="70" y2="190"/>
+    <line x1="256" y1="150" x2="442" y2="190"/>
+    <line x1="256" y1="150" x2="96" y2="272"/>
+    <line x1="256" y1="150" x2="416" y2="272"/>
+  </g>
+
+  <!-- center -->
+  <circle cx="256" cy="150" r="54" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="144" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">peoples,</text>
+  <text x="256" y="162" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">cultures, and</text>
+  <text x="256" y="180" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">long ago</text>
+
+  <!-- satellites -->
+  <g font-family="sans-serif" font-size="12" fill="#2b3a42" text-anchor="middle">
+    <rect x="18" y="66" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="78" y="86">time and timelines</text>
+
+    <rect x="168" y="40" width="176" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="60">tools that changed life</text>
+
+    <rect x="374" y="66" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="434" y="86">origin stories</text>
+
+    <rect x="6" y="172" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="66" y="192">great achievements</text>
+
+    <rect x="386" y="172" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="446" y="192">migration</text>
+
+    <rect x="18" y="252" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="78" y="272">trade and exchange</text>
+
+    <rect x="374" y="252" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="434" y="272">fairness and dignity</text>
+  </g>
+
+  <!-- figure with open hand -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="340" r="13" fill="#e6bb92"/>
+    <path d="M256 353 L256 386"/>
+    <path d="M256 368 L238 358"/>
+    <path d="M256 368 L274 358"/>
+    <path d="M238 366 L226 350"/>
+    <path d="M274 366 L286 350"/>
+  </g>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">…and our part in it.</text>
+</svg>
