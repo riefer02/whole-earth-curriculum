@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The story mountain</title>
+  <desc id="desc">A story-mountain diagram with a setting box at the base, a rising line labeled "rising action," a peak labeled "climax," a falling line labeled "falling action," and a flat end labeled "resolution." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">The story mountain</text>
+
+  <!-- Mountain line -->
+  <path d="M60 360 L180 300 L256 176 L332 300 L452 360" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Labels -->
+  <text x="120" y="386" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">rising action</text>
+  <text x="120" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what builds</text>
+
+  <text x="256" y="156" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#e0a458">climax</text>
+  <text x="256" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the turning point</text>
+
+  <text x="392" y="386" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">falling action</text>
+  <text x="392" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what settles</text>
+
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">resolution</text>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">how it ends</text>
+
+  <!-- Setting box -->
+  <rect x="70" y="88" width="372" height="52" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">setting</text>
+  <text x="256" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">where and when — the world that causes the trouble</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Setting causes the conflict; plot is what happens because of it.</text>
+</svg>

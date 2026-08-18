@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One idea, three genres</title>
+  <desc id="desc">A diagram with one central circle labeled "one idea" and three branches leading to three boxes labeled "narrative (story)," "argument (claim + reasons)," and "informational (facts)." A caption reads "The same idea, three shapes." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">One idea, three shapes</text>
+
+  <!-- Center -->
+  <circle cx="256" cy="272" r="62" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">one</text>
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">idea</text>
+
+  <!-- Branches -->
+  <path d="M206 220 L120 150" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 208 L256 120" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M306 220 L392 150" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Box 1: narrative -->
+  <g>
+    <rect x="30" y="104" width="160" height="72" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="110" y="132" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">narrative</text>
+    <text x="110" y="154" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a story with events</text>
+  </g>
+
+  <!-- Box 2: argument -->
+  <g>
+    <rect x="176" y="62" width="160" height="72" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">argument</text>
+    <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">claim + reasons + evidence</text>
+  </g>
+
+  <!-- Box 3: informational -->
+  <g>
+    <rect x="322" y="104" width="160" height="72" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="402" y="132" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">informational</text>
+    <text x="402" y="154" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">accurate facts</text>
+  </g>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">The same idea, three shapes.</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">story moves the heart · argument moves the mind</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">information builds knowledge</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Genre is a tool you choose — the truth of the idea stays.</text>
+</svg>

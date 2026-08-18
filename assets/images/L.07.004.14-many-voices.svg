@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Many voices, all correct</title>
+  <desc id="desc">A row of three speech bubbles rising from three people of varied skin tones and hair, each bubble containing a different greeting word. Above them a caption reads "Every way of speaking is a correct way of speaking." Meaning is carried by labels and the equal, side-by-side layout, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Every way of speaking is a correct way</text>
+
+  <!-- Person 1 -->
+  <g>
+    <circle cx="120" cy="320" r="40" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M88 320 Q120 300 152 320" fill="#2b3a42"/>
+    <circle cx="104" cy="312" r="3.5" fill="#2b3a42"/>
+    <circle cx="136" cy="312" r="3.5" fill="#2b3a42"/>
+    <path d="M108 330 Q120 342 132 330" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M80 400 Q120 370 160 400 L160 440 L80 440 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 300 L104 250 L96 258 L84 250" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M60 250 Q76 220 104 250" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Person 2 -->
+  <g>
+    <circle cx="256" cy="320" r="40" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M224 320 Q256 300 288 320" fill="#2b3a42"/>
+    <circle cx="240" cy="312" r="3.5" fill="#2b3a42"/>
+    <circle cx="272" cy="312" r="3.5" fill="#2b3a42"/>
+    <path d="M244 330 Q256 342 268 330" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M216 400 Q256 370 296 400 L296 440 L216 440 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 300 L256 250" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M228 266 Q256 236 284 266" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Person 3 -->
+  <g>
+    <circle cx="392" cy="320" r="40" fill="#e0b18a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 320 Q392 300 424 320" fill="#2b3a42"/>
+    <circle cx="376" cy="312" r="3.5" fill="#2b3a42"/>
+    <circle cx="408" cy="312" r="3.5" fill="#2b3a42"/>
+    <path d="M380 330 Q392 342 404 330" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M352 400 Q392 370 432 400 L432 440 L352 440 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M392 300 L408 250 L416 258 L428 250" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M412 250 Q428 220 452 250" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <!-- Speech bubbles -->
+  <g>
+    <path d="M64 150 Q64 122 96 122 L168 122 Q200 122 200 150 L200 186 Q200 214 168 214 L128 214 L112 238 L120 214 L96 214 Q64 214 64 186 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="132" y="162" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">salaam</text>
+  </g>
+  <g>
+    <path d="M208 150 Q208 122 240 122 L312 122 Q344 122 344 150 L344 186 Q344 214 312 214 L272 214 L256 238 L264 214 L240 214 Q208 214 208 186 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="276" y="162" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">hola</text>
+  </g>
+  <g>
+    <path d="M352 150 Q352 122 384 122 L456 122 Q488 122 488 150 L488 186 Q488 214 456 214 L416 214 L400 238 L408 214 L384 214 Q352 214 352 186 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="162" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">jambo</text>
+  </g>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Dialect and accent are natural variation — not error.</text>
+</svg>

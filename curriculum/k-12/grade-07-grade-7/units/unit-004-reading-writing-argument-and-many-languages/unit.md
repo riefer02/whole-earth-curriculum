@@ -68,3 +68,17 @@ language first, with multilingualism held as wealth.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | What Did the Speaker Actually Claim? | D04.S1.07.01 |
+| 2 | The Reasoning Chain: Claim, Reason, Evidence | D04.S1.07.01 |
+| 3 | Unsupported Claims and Probing Questions | D04.S1.07.01 |
+| 4 | Deliver a Presentation on Evidence | D04.S1.07.02, D04.S1.07.01 |
+| 5 | How an Author Builds a Character | D04.S2.07.01 |
+| 6 | Setting and Plot: The World and What Happens | D04.S2.07.01 |
+| 7 | Tracking a Central Idea Across a Text | D04.S2.07.01 |
+| 8 | Can I Trust This Source? | D04.S2.07.02 |
+| 9 | Precise Language and Well-Chosen Details | D04.S3.07.01 |
+| 10 | One Idea, Many Genres | D04.S3.07.01 |
+| 11 | Peer Feedback That Helps: Give and Use It | D04.S3.07.02, D04.S3.07.01 |
+| 12 | Translation: Carrying Words Across Languages | D04.S4.07.01 |
+| 13 | Interpretation: Meaning in the Moment | D04.S4.07.01 |
+| 14 | Every Voice Is a Correct Voice: Dialect and Accent | D04.S4.07.02, D04.S4.07.01 |

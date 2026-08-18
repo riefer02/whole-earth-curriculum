@@ -4360,7 +4360,7 @@ items:
     type: lesson
     grade: 7
     domain: D04
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4371,7 +4371,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by accessibility-editor: Checked low-tech tier (present in all 14 lessons with voice/found-object alternatives), alt text (all 14 assets resolve to real files with non-empty alt), wealth assumption (devices only in optional enriched tiers), plain multilingual language (home-language-first) — all pass, but Lesson 4 'Deliver a Presentation on Evidence' grades a spoken oral presentation with no non-spoken expression alternative (sign language, AAC, or written/poster delivery), silently requiring speech and thus able-bodiedness.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1094 files. Verified all 14 lessons L.07.004.01-.14, sequence 1-14, grade 7, U.07.004, required headings present; objectives resolve to the 8 real grade-7 D04 standards; unit.md table matches; rework confirmed — Lesson 4 now states deliver modes as spoken/signed/written-poster/AAC and 'assess the argument, not the voice' across Facilitator note, Procedure step 4, Differentiation, Assessment.
+      fact-checker:
+        verdict: passed
+        note: Confirmed rework adds only non-spoken delivery modes (no new factual claims); re-verified tea/chai etymology (WALS ch.138 S-169), translation vs interpretation (Everett 2012 + CEFR S-237), dialect/accent variation (Everett 2012, UNESCO IMLD S-019, Kohli & Solorzano S-104); registry intact, reviewed:true; validate 1094 files.
+      global-culture-editor:
+        verdict: passed
+        note: Confirmed Lesson 4 rework adds only non-spoken delivery modes (signed/written-poster/AAC) with 'assess the argument, not the voice' — no narrow framing; multi-region framing intact (tea/chai land-and-sea routes L12, equal-status Arabic/Spanish/Chinese/Hindi/Swahili varieties L14, home-language-first).
+      accessibility-editor:
+        verdict: passed
+        note: Verified Lesson 4 now names signed/written-poster/drawn/AAC delivery as first-class options in all four places (Facilitator note 'assess the argument not the voice', Procedure step 4, Differentiation 'never a fallback', Assessment 'not the mode of expression') — prior spoken-only block resolved; re-confirmed low-tech tier in all 14 lessons, alt text on all assets, multilingual/wealth-neutral framing unchanged.
+      alignment-auditor:
+        verdict: passed
+        note: Verified four lenses remain intact after rework (ethics honest claims, egalitarianism every voice heard reinforced by spoken/signed/written/poster/AAC delivery, global topic list, technology for self-assessment not shame); item traces through D04.S1.07.01/07.02 -> D04.S1 -> D04 -> P3 -> vision.
+      child-psychologist:
+        verdict: passed
+        note: "Grade-7 band: confirmed cognitive fit (evaluating claim/reason/evidence chains, source credibility, translation gain-loss, appropriately abstract yet anchored), emotional safety (reworked presentation lesson offers non-spoken modes + small circles to reduce performance anxiety; dialect/accent lesson non-shaming), physical fit, age-appropriate-not-dumbed-down, open-ended inquiry."
   - id: B-351
     title: Author lessons for Unit U.07.005 (Proportions, Rational Numbers, Equations & Chance)
     agent: lesson-author

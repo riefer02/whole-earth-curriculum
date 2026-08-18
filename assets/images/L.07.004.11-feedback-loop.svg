@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The feedback loop: specific, kind, useful</title>
+  <desc id="desc">A circular loop with two speech bubbles. One bubble reads "I noticed...", the other reads "What if you...". Curved arrows connect the bubbles in a loop labeled "feedback". A caption reads "Specific, kind, useful." Meaning is carried by labels and the loop shape, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">The feedback loop</text>
+
+  <!-- Bubble 1 -->
+  <g>
+    <path d="M40 150 Q40 108 96 108 L232 108 Q288 108 288 150 L288 206 Q288 248 232 248 L168 248 L116 292 L136 248 L96 248 Q40 248 40 206 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="164" y="166" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">"I noticed..."</text>
+    <text x="164" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what works, and why</text>
+  </g>
+
+  <!-- Bubble 2 -->
+  <g>
+    <path d="M224 320 Q224 278 280 278 L416 278 Q472 278 472 320 L472 376 Q472 418 416 418 L376 418 L428 462 L408 418 L280 418 Q224 418 224 376 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="348" y="336" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">"What if you..."</text>
+    <text x="348" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">one next step</text>
+  </g>
+
+  <!-- Loop arrows -->
+  <path d="M104 250 C104 340 224 360 250 330" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M368 278 C368 250 300 210 292 248" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M250 326 L240 340 L258 338" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <path d="M296 252 L284 246 L292 234" fill="none" stroke="#e0a458" stroke-width="3"/>
+
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Specific · Kind · Useful</text>
+</svg>

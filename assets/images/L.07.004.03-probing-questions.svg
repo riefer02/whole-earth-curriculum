@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Probing questions</title>
+  <desc id="desc">Three speech bubbles with question marks, each labeled with a probing question stem: "How do you know?", "What is the evidence?", and "Could it also be...?". A caption reads "Questions that probe for missing support." Meaning is carried by labels and the question-mark shape, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Questions that probe</text>
+
+  <!-- Bubble 1 -->
+  <g>
+    <path d="M44 92 Q44 64 76 64 L220 64 Q252 64 252 92 L252 128 Q252 156 220 156 L120 156 L84 192 L96 156 L76 156 Q44 156 44 128 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="148" y="100" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#e0a458">?</text>
+    <text x="148" y="134" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">"How do you know?"</text>
+  </g>
+
+  <!-- Bubble 2 -->
+  <g>
+    <path d="M44 196 Q44 168 76 168 L220 168 Q252 168 252 196 L252 232 Q252 260 220 260 L120 260 L84 296 L96 260 L76 260 Q44 260 44 232 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="148" y="204" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#e0a458">?</text>
+    <text x="148" y="238" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">"What is the evidence?"</text>
+  </g>
+
+  <!-- Bubble 3 -->
+  <g>
+    <path d="M260 92 Q260 64 292 64 L436 64 Q468 64 468 92 L468 128 Q468 156 436 156 L336 156 L300 192 L312 156 L292 156 Q260 156 260 128 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="364" y="100" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#e0a458">?</text>
+    <text x="364" y="134" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">"Could it also be...?"</text>
+  </g>
+
+  <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Questions that probe for missing support</text>
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Ask with a curious voice, not an accusing one.</text>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A question is a door you open together.</text>
+
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Ask until you see the reasoning.</text>
+</svg>

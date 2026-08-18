@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Presentation planner: audience, purpose, evidence</title>
+  <desc id="desc">A triangle diagram with three corners labeled "audience," "purpose," and "evidence," and a center label "my presentation." A caption reads "Adapt the talk to the audience and purpose, and support every point." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Build a talk: three corners</text>
+
+  <!-- Triangle -->
+  <path d="M256 120 L86 388 L426 388 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Corners -->
+  <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">audience</text>
+  <text x="256" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">who will hear it</text>
+
+  <text x="86" y="420" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">purpose</text>
+  <text x="86" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what you want them to do</text>
+
+  <text x="426" y="420" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">evidence</text>
+  <text x="426" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">proof for each point</text>
+
+  <!-- Center -->
+  <circle cx="256" cy="292" r="52" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">my</text>
+  <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">presentation</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Adapt the talk; support every point.</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Translation versus interpretation</title>
+  <desc id="desc">Two columns side by side. The left column shows a written page with a pencil, labeled "translation: written, can take time." The right column shows two people speaking with a third person between them, labeled "interpretation: spoken, live." Meaning is carried by labels and the difference in scenes, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Translation vs interpretation</text>
+
+  <!-- Left column: translation -->
+  <g>
+    <rect x="30" y="80" width="206" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="112" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">translation</text>
+    <rect x="70" y="134" width="126" height="150" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M82 162 L184 162 M82 184 L184 184 M82 206 L184 206 M82 228 L150 228" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M140 300 L168 330 L150 330 L184 356 L126 356 L162 330 L140 330 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">written, can take time</text>
+  </g>
+
+  <!-- Right column: interpretation -->
+  <g>
+    <rect x="276" y="80" width="206" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="112" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">interpretation</text>
+    <!-- left speaker -->
+    <circle cx="314" cy="230" r="24" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M306 226 Q311 222 316 226" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M322 226 Q327 222 332 226" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M308 240 Q316 248 324 240" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+    <!-- right speaker -->
+    <circle cx="444" cy="230" r="24" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M436 226 Q441 222 446 226" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M452 226 Q457 222 462 226" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M438 240 Q446 248 454 240" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+    <!-- interpreter in middle -->
+    <circle cx="379" cy="300" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M373 296 Q377 293 381 296" fill="none" stroke="#2b3a42" stroke-width="1.4"/>
+    <path d="M385 296 Q389 293 393 296" fill="none" stroke="#2b3a42" stroke-width="1.4"/>
+    <!-- arrows from speakers to interpreter -->
+    <path d="M330 250 L366 286" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M428 250 L392 286" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">spoken, live, in the moment</text>
+  </g>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">The situation decides which is needed.</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The page, or the moment?</text>
+</svg>

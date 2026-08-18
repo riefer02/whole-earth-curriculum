@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The central idea runs through the whole text</title>
+  <desc id="desc">A horizontal thread with three beads strung on it. The thread is labeled "central idea," and the beads are labeled "event 1," "event 2," and "event 3." A caption reads "The idea runs through the whole text." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">The central idea is the thread</text>
+
+  <!-- Thread -->
+  <path d="M40 240 L472 240" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Beads -->
+  <circle cx="130" cy="240" r="46" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="234" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">event 1</text>
+  <text x="130" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a moment</text>
+
+  <circle cx="256" cy="240" r="46" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">event 2</text>
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a moment</text>
+
+  <circle cx="382" cy="240" r="46" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="234" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">event 3</text>
+  <text x="382" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a moment</text>
+
+  <!-- Thread label -->
+  <text x="256" y="324" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#e0a458">central idea</text>
+  <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">(the big point, in one sentence)</text>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">The idea runs through the whole text.</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Pull the beads off — the thread remains.</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">How does the author develop it? repetition, examples, contrast</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Vague versus precise</title>
+  <desc id="desc">Two panels side by side. The left panel shows a gray, featureless blob labeled "vague: a thing." The right panel shows a detailed leaf with veins and a torn edge, labeled "precise: a dry, torn brown leaf." A caption reads "Well-chosen details make the idea real." Meaning is carried by labels and the contrast in shape, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Vague versus precise</text>
+
+  <!-- Left panel: vague -->
+  <g>
+    <rect x="30" y="80" width="206" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="110" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">vague</text>
+    <ellipse cx="133" cy="216" rx="60" ry="52" fill="#d8d3c9" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="306" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">"a thing"</text>
+    <text x="133" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">tells you almost nothing</text>
+  </g>
+
+  <!-- Right panel: precise -->
+  <g>
+    <rect x="276" y="80" width="206" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="110" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">precise</text>
+    <path d="M379 168 C340 196 340 236 379 262 C418 236 418 196 379 168 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M379 168 L379 262" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M379 190 L352 178 M379 200 L406 186 M379 214 L350 204 M379 228 L408 214 M379 240 L352 234" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M418 250 L432 262 L424 244" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+    <text x="379" y="306" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">"a dry, torn brown leaf"</text>
+    <text x="379" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">you can see and feel it</text>
+  </g>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Well-chosen details make the idea real.</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Concrete, sensory, relevant — not fancy.</text>
+</svg>

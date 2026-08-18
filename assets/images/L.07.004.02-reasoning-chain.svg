@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The reasoning chain: claim, reason, evidence</title>
+  <desc id="desc">Three paper-chain links labeled "claim," "reason," and "evidence," joined in a row. The middle link is shown broken into two halves with a gap, and a caption reads "A broken link is a gap in the reasoning." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">The reasoning chain</text>
+
+  <!-- Link 1: claim (closed) -->
+  <g>
+    <rect x="40" y="190" width="140" height="76" rx="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="110" y="222" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">claim</text>
+    <text x="110" y="244" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the point</text>
+  </g>
+
+  <!-- Link 2: reason (broken) -->
+  <g>
+    <path d="M172 228 L240 228" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M196 210 A 40 40 0 0 0 196 246" fill="none" stroke="#e0a458" stroke-width="3"/>
+    <path d="M316 210 A 40 40 0 0 0 316 246" fill="none" stroke="#e0a458" stroke-width="3"/>
+    <text x="256" y="228" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#e0a458">reason</text>
+    <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">why</text>
+  </g>
+
+  <!-- Link 3: evidence (closed) -->
+  <g>
+    <path d="M340 228 L408 228" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="352" y="190" width="140" height="76" rx="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="422" y="222" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">evidence</text>
+    <text x="422" y="244" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">proof</text>
+  </g>
+
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A broken link is a gap in the reasoning.</text>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Ask: does the reason connect to the claim?</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Does the evidence connect to the reason?</text>
+
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">claim → reason → evidence</text>
+</svg>

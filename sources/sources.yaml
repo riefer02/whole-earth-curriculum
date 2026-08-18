@@ -1541,7 +1541,7 @@ sources:
     year: 2012
     domains: [D04]
     reviewed: true
-    notes: "Daniel L. Everett, Language: The Cultural Tool, Pantheon Books, 2012. Argues language is a tool shaped by culture and use, supporting U.05.005 L14's framing that 'words carry culture' and that the distinctions a language makes reflect what its speakers value. Everett is a real linguist/anthropologist (best known for the Pirahã work). Also cited in U.06.004 L13 (The Same Idea in Many Languages) for translation always gaining/losing and 'words carry culture.' No URL (print book)."
+    notes: "Daniel L. Everett, Language: The Cultural Tool, Pantheon Books, 2012. Argues language is a tool shaped by culture and use, supporting U.05.005 L14's framing that 'words carry culture' and that the distinctions a language makes reflect what its speakers value. Everett is a real linguist/anthropologist (best known for the Pirahã work). Also cited in U.06.004 L13 (The Same Idea in Many Languages) for translation always gaining/losing and 'words carry culture.' Also cited in U.07.004 L12/L13/L14 (translation and interpretation; dialect and accent as natural, rule-governed, complete systems — no variety 'broken' or 'incorrect'). No URL (print book)."
 
   - id: S-168
     title: "Sapir & Whorf — language and thought (linguistic relativity)"
@@ -1562,7 +1562,7 @@ sources:
     year: 2013
     domains: [D04]
     reviewed: true
-    notes: "Verified live 2026-08-17 (wals.info/chapter/138). Östen Dahl, 'Tea,' WALS Online ch. 138. Maps the sources of words for 'tea': 'Words derived from Sinitic cha' (110 languages — the overland route, giving chai in Eastern Europe/Asia) vs 'Words derived from Min Nan Chinese te' (84 languages — via Dutch sea trade out of Amoy/Xiamen, giving thee/tea in much of Europe and former Dutch colonies). Directly supports U.05.005 L14's claim that the same drink 'spread by sea as tea and by land as chai.' Correctly attributed (WALS is a structural atlas; the tea/chai isogloss is its ch. 138, so the citation is on-point, not a misattribution)."
+    notes: "Verified live 2026-08-17 (wals.info/chapter/138). Östen Dahl, 'Tea,' WALS Online ch. 138. Maps the sources of words for 'tea': 'Words derived from Sinitic cha' (110 languages — the overland route, giving chai in Eastern Europe/Asia) vs 'Words derived from Min Nan Chinese te' (84 languages — via Dutch sea trade out of Amoy/Xiamen, giving thee/tea in much of Europe and former Dutch colonies). Directly supports U.05.005 L14's claim that the same drink 'spread by sea as tea and by land as chai.' Correctly attributed (WALS is a structural atlas; the tea/chai isogloss is its ch. 138, so the citation is on-point, not a misattribution). Also cited in U.07.004 L12 (Translation: Carrying Words Across Languages) for the tea/chai overland-vs-sea route claim (Sinitic cha → chai overland; Min Nan te → tea/thé/Tee by sea)."
 
   - id: S-170
     title: "IES — Improving Adolescent Literacy: Effective Classroom and Intervention Practices"
@@ -2002,7 +2002,7 @@ sources:
     organization: UNESCO
     domains: [D10]
     reviewed: true
-    notes: "Cited in U.05.012 L05 (fair reporting includes all sides, evidence, and who is speaking) and L10. UNESCO's Media and Information Literacy programme (the 'MIL Curriculum for Teachers', the MIL Alliance, and annual Global MIL Week) is a real, long-standing UNESCO initiative whose core framework is that citizens should access, evaluate, and critically engage media, and distinguish information from persuasion. The unesco.org URL returned a timeout to the fact-checker's environment (2026-08-17) — consistent with other UNESCO entries in this registry — but the programme and its canonical page are real and well established. The lesson's 'benefits, concerns, who is speaking' test is an age-appropriate version of source/perspective analysis, and the fairness ideal is held as a value, not a fact. Complemented by the already-registered Common Sense Education entry (S-063)."
+    notes: "Cited in U.05.012 L05 (fair reporting includes all sides, evidence, and who is speaking) and L10. UNESCO's Media and Information Literacy programme (the 'MIL Curriculum for Teachers', the MIL Alliance, and annual Global MIL Week) is a real, long-standing UNESCO initiative whose core framework is that citizens should access, evaluate, and critically engage media, and distinguish information from persuasion. The unesco.org URL returned a timeout to the fact-checker's environment (2026-08-17) — consistent with other UNESCO entries in this registry — but the programme and its canonical page are real and well established. The lesson's 'benefits, concerns, who is speaking' test is an age-appropriate version of source/perspective analysis, and the fairness ideal is held as a value, not a fact. Complemented by the already-registered Common Sense Education entry (S-063). Also cited in U.07.004 L03 (Unsupported Claims and Probing Questions) and L08 (Can I Trust This Source?) for evaluating the support behind a claim and judging source credibility by author, purpose, and evidence."
 
   - id: S-218
     title: WWF — Habitats (mangroves, coral reefs, forests)
@@ -2200,7 +2200,7 @@ sources:
     year: 2020
     domains: [D04]
     reviewed: true
-    notes: "Common European Framework of Reference for Languages: Learning, Teaching, Assessment — Companion Volume (Council of Europe; first published 2018, new edition 2020). Extends the CEFR and centers 'plurilingual and pluricultural competence' (the ability to draw on more than one language/culture to communicate) and mediation. Cited in U.06.004 L14 (Across a Language Difference) as the literature on lingua franca and plurilingual competence supporting cross-language communication strategies. Real, correctly attributed. coe.int returned HTTP 403 from the fact-checker's environment on 2026-08-17 (bot-blocking, consistent with other .coe.int/.unesco.org entries), but the document and its plurilingual-competence concept are canonical and well established."
+    notes: "Common European Framework of Reference for Languages: Learning, Teaching, Assessment — Companion Volume (Council of Europe; first published 2018, new edition 2020). Extends the CEFR and centers 'plurilingual and pluricultural competence' (the ability to draw on more than one language/culture to communicate) and mediation. Cited in U.06.004 L14 (Across a Language Difference) as the literature on lingua franca and plurilingual competence supporting cross-language communication strategies. Real, correctly attributed. coe.int returned HTTP 403 from the fact-checker's environment on 2026-08-17 (bot-blocking, consistent with other .coe.int/.unesco.org entries), but the document and its plurilingual-competence concept are canonical and well established. Also cited in U.07.004 L13 (Interpretation: Meaning in the Moment) as the plurilingual-communication literature framing the written-translation vs spoken-live-interpretation distinction."
 
   - id: S-238
     title: "Michaels & O'Connor — Accountable Talk / Talk Moves"

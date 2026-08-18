@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Claim on top, support below</title>
+  <desc id="desc">A diagram with one claim bubble at the top reading "The river water is safe to drink" and three empty support boxes below. The first box is labeled "reason," the next two are labeled "evidence." A caption reads "Claim on top, support below." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Claim on top, support below</text>
+
+  <!-- Claim bubble -->
+  <g>
+    <rect x="86" y="72" width="340" height="76" rx="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">CLAIM</text>
+    <text x="256" y="130" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">"The river water is safe to drink."</text>
+  </g>
+
+  <!-- Arrow -->
+  <path d="M256 148 L256 176" stroke="#2b3a42" stroke-width="2" marker-end="none"/>
+  <path d="M244 168 L256 180 L268 168" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Support boxes -->
+  <g>
+    <rect x="86" y="186" width="340" height="58" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="106" y="208" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">reason</text>
+    <text x="106" y="232" font-family="sans-serif" font-size="15" fill="#4f6d7a">(why the speaker thinks so)</text>
+  </g>
+  <g>
+    <rect x="86" y="256" width="340" height="58" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="106" y="278" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">evidence</text>
+    <text x="106" y="302" font-family="sans-serif" font-size="15" fill="#4f6d7a">(facts, examples, proof)</text>
+  </g>
+  <g>
+    <rect x="86" y="326" width="340" height="58" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="106" y="348" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">evidence</text>
+    <text x="106" y="372" font-family="sans-serif" font-size="15" fill="#4f6d7a">(facts, examples, proof)</text>
+  </g>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">What holds the claim up?</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Support sits below; a claim with none is unsupported.</text>
+</svg>
