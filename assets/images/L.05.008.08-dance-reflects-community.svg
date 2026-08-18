@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
+  <title id="title">Dance reflects place, history, and community</title>
+  <desc id="desc">A three-panel diagram titled "Dance reflects place, history, and community." The left panel, labeled "haka (Aotearoa)," shows a figure in a strong wide stance with wide eyes and a chant line, with the note "strong stance and chant — welcome and strength." The middle panel, labeled "Bharatanatyam (South India)," shows a figure with precise hand gestures and a calm face, with the note "hand gestures and expression tell stories." The right panel, labeled "capoeira (Brazil)," shows two figures moving low inside a circle while another holds an instrument, with the note "a circle, music, and movement born of resistance." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="480" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Dance Reflects Place, History, and Community</text>
+
+  <!-- Panel 1: haka -->
+  <rect x="24" y="66" width="144" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="92" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">haka</text>
+  <text x="96" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Aotearoa</text>
+  <!-- strong wide stance figure -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="176" r="13" fill="#ab7a4e"/>
+    <path d="M96 189 L96 236"/>
+    <path d="M96 236 L74 262"/>
+    <path d="M96 236 L118 262"/>
+    <path d="M96 202 L74 190"/>
+    <path d="M96 202 L118 190"/>
+  </g>
+  <!-- wide eyes + tongue -->
+  <g fill="#2b3a42">
+    <circle cx="91" cy="174" r="2.5"/>
+    <circle cx="101" cy="174" r="2.5"/>
+    <rect x="92" y="186" width="8" height="4" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/>
+  </g>
+  <!-- chant marks -->
+  <g stroke="#6b93b6" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M126 170 L132 164"/>
+    <path d="M130 178 L138 172"/>
+    <path d="M126 186 L132 180"/>
+  </g>
+  <text x="96" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">strong stance and</text>
+  <text x="96" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">chant — welcome</text>
+  <text x="96" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">and strength</text>
+
+  <!-- Panel 2: Bharatanatyam -->
+  <rect x="184" y="66" width="144" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">Bharatanatyam</text>
+  <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">South India</text>
+  <!-- figure with hand gestures -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="176" r="13" fill="#d9a06b"/>
+    <path d="M256 189 L256 236"/>
+    <path d="M256 236 L244 262"/>
+    <path d="M256 236 L268 262"/>
+  </g>
+  <!-- bent leg in dance -->
+  <path d="M244 262 L238 258" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- mudra hand gestures -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M256 202 L234 188"/>
+    <path d="M256 202 L278 188"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="1.5" fill="#e0a458" stroke-linecap="round">
+    <path d="M234 188 L230 176"/>
+    <path d="M234 188 L236 178"/>
+    <path d="M234 188 L242 176"/>
+    <path d="M278 188 L282 176"/>
+    <path d="M278 188 L276 178"/>
+    <path d="M278 188 L270 176"/>
+  </g>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">hand gestures and</text>
+  <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">expression tell</text>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">stories</text>
+
+  <!-- Panel 3: capoeira -->
+  <rect x="344" y="66" width="144" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="416" y="92" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">capoeira</text>
+  <text x="416" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Brazil</text>
+  <!-- roda circle -->
+  <circle cx="416" cy="206" r="52" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- two low movers -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="398" cy="212" r="10" fill="#8c5a3b"/>
+    <circle cx="434" cy="224" r="10" fill="#e6bb92"/>
+    <path d="M398 222 Q404 236 412 234"/>
+    <path d="M434 234 Q428 248 420 244"/>
+    <path d="M398 224 L388 218"/>
+    <path d="M434 236 L444 230"/>
+  </g>
+  <!-- berimbau player -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="416" cy="166" r="10" fill="#d9a06b"/>
+    <path d="M416 176 L416 190"/>
+  </g>
+  <path d="M414 168 Q416 152 434 156" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M416 168 Q418 158 430 160" fill="none" stroke="#7a9e7e" stroke-width="1.5"/>
+  <text x="416" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">a circle, music, and</text>
+  <text x="416" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">movement born of</text>
+  <text x="416" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">resistance</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Living traditions — watch closely, honor respectfully.</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
+  <title id="title">Art reflects place, materials, and beliefs</title>
+  <desc id="desc">A two-panel comparison titled "Art reflects place, materials, and beliefs." The left panel, labeled "Māori whakairo (Aotearoa New Zealand)," shows a carved wooden panel with a spiral fern-frond pattern and a carved figure; labels read "carved wood — forest material," "koru spiral — the unfurling fern of Aotearoa," and "carved ancestor — belonging (whakapapa)." The right panel, labeled "Adinkra cloth (Ghana)," shows a cloth covered in stamped symbols; labels read "cotton cloth — plant dye," "stamped symbols — each is a proverb," and "worn at ceremonies and in daily life." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="480" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Art Reflects Place, Materials, and Beliefs</text>
+
+  <!-- Left panel: Māori whakairo -->
+  <rect x="24" y="66" width="222" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="135" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">Māori whakairo</text>
+  <text x="135" y="114" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Aotearoa New Zealand</text>
+
+  <!-- carved panel -->
+  <rect x="54" y="130" width="162" height="150" rx="6" fill="#c89a6a" stroke="#2b3a42" stroke-width="2"/>
+  <!-- koru spiral -->
+  <path d="M135 206 Q150 190 158 206 Q150 220 138 220 Q122 218 122 202 Q122 186 138 182 Q154 182 158 196" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <!-- carved figure -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="98" cy="180" r="12"/>
+    <path d="M98 192 L98 236"/>
+    <path d="M98 200 L84 214"/>
+    <path d="M98 200 L112 214"/>
+    <path d="M98 236 L86 260"/>
+    <path d="M98 236 L110 260"/>
+  </g>
+  <!-- second spiral -->
+  <path d="M190 246 Q200 238 206 246 Q200 254 192 254 Q186 252 186 244 Q186 236 194 234 Q202 234 206 242" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+
+  <text x="135" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">carved wood — forest material</text>
+  <text x="135" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">koru spiral — the unfurling</text>
+  <text x="135" y="345" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">fern of Aotearoa</text>
+  <text x="135" y="367" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">carved ancestor —</text>
+  <text x="135" y="384" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">belonging (whakapapa)</text>
+
+  <!-- Right panel: Adinkra cloth -->
+  <rect x="266" y="66" width="222" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="377" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">Adinkra cloth</text>
+  <text x="377" y="114" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Ghana</text>
+
+  <!-- cloth -->
+  <rect x="296" y="130" width="162" height="150" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- stamped symbols grid -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="322" cy="158" r="10"/><path d="M322 148 L322 168 M312 158 L332 158"/>
+    <path d="M356 158 Q362 150 370 158 Q362 168 356 158"/>
+    <path d="M392 156 L400 164 L392 172 L384 164 Z"/>
+    <circle cx="322" cy="196" r="10"/><path d="M322 186 L322 206 M312 196 L332 196"/>
+    <path d="M356 196 Q362 188 370 196 Q362 206 356 196"/>
+    <path d="M392 194 L400 202 L392 210 L384 202 Z"/>
+    <circle cx="322" cy="234" r="10"/><path d="M322 224 L322 244 M312 234 L332 234"/>
+    <path d="M356 234 Q362 226 370 234 Q362 244 356 234"/>
+    <path d="M392 232 L400 240 L392 248 L384 240 Z"/>
+    <circle cx="322" cy="272" r="10"/><path d="M322 262 L322 282 M312 272 L332 272"/>
+    <path d="M356 272 Q362 264 370 272 Q362 282 356 272"/>
+    <path d="M392 270 L400 278 L392 286 L384 278 Z"/>
+  </g>
+
+  <text x="377" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">cotton cloth — plant dye</text>
+  <text x="377" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">stamped symbols —</text>
+  <text x="377" y="345" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">each is a proverb</text>
+  <text x="377" y="367" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">worn at ceremonies</text>
+  <text x="377" y="384" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">and in daily life</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Living traditions — observe closely, honor respectfully.</text>
+</svg>

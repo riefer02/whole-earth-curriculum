@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
+  <title id="title">Design to solve a real problem</title>
+  <desc id="desc">A circular design-cycle diagram titled "Design to solve a real problem." Six steps are arranged around a circle, each with an icon and label: "name the problem" (a question mark), "imagine" (a light-bulb sketch), "choose materials" (three shapes), "build" (hands on a box), "test" (a drop of water), and "improve" (an upward arrow). In the center, a small worked example reads "rain comes under the door → a raised shelf and a door guard." Arrows connect the steps around the circle. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="480" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Design to Solve a Real Problem</text>
+
+  <defs>
+    <marker id="arr9" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- cycle circle -->
+  <circle cx="256" cy="250" r="150" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 6"/>
+
+  <!-- step 1: name the problem (top) -->
+  <g>
+    <circle cx="256" cy="128" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="138" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">?</text>
+    <text x="256" y="94" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">name the problem</text>
+  </g>
+
+  <!-- step 2: imagine (upper right) -->
+  <g>
+    <circle cx="386" cy="186" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="386" cy="192" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M386 178 Q380 166 372 166" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="380" y1="176" x2="386" y2="176" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="386" y="152" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">imagine</text>
+  </g>
+
+  <!-- step 3: choose materials (right) -->
+  <g>
+    <circle cx="408" cy="286" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="394" y="278" width="12" height="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="414" cy="284" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M392 296 L404 292 L416 296 L414 302 L400 302 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="408" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">choose materials</text>
+  </g>
+
+  <!-- step 4: build (lower right) -->
+  <g>
+    <circle cx="356" cy="366" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="342" y="362" width="28" height="20" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="348" cy="354" r="5" fill="#e6bb92" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="366" cy="352" r="5" fill="#ab7a4e" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="356" y="412" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">build</text>
+  </g>
+
+  <!-- step 5: test (lower left) -->
+  <g>
+    <circle cx="156" cy="366" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M156 354 Q164 366 156 376" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M144 366 Q152 360 160 366" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="156" y="412" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">test</text>
+  </g>
+
+  <!-- step 6: improve (left) -->
+  <g>
+    <circle cx="104" cy="286" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M96 296 L112 296 M104 300 L104 282" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M96 296 L104 288 L112 296" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="104" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">improve</text>
+  </g>
+
+  <!-- center worked example -->
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">rain comes in under the door</text>
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">→ a raised shelf and a door guard</text>
+
+  <!-- arrows between steps -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none">
+    <line x1="282" y1="146" x2="360" y2="172" marker-end="url(#arr9)"/>
+    <line x1="392" y1="214" x2="402" y2="256" marker-end="url(#arr9)"/>
+    <line x1="398" y1="312" x2="368" y2="344" marker-end="url(#arr9)"/>
+    <line x1="326" y1="366" x2="186" y2="366" marker-end="url(#arr9)"/>
+    <line x1="126" y1="366" x2="110" y2="314" marker-end="url(#arr9)"/>
+    <line x1="112" y1="258" x2="120" y2="216" marker-end="url(#arr9)"/>
+    <line x1="150" y1="158" x2="228" y2="132" marker-end="url(#arr9)"/>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">every choice has a reason</text>
+</svg>

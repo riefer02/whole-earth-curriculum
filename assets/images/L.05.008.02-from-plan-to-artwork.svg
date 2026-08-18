@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 300" role="img" aria-labelledby="title desc">
+  <title id="title">From plan to finished artwork</title>
+  <desc id="desc">A three-panel sequence titled "From plan to finished artwork." The left panel, labeled "plan," shows a small pencil sketch on a page with the word "idea." The middle panel, labeled "make," shows hands with a pencil and paper, mid-work, with the words "follow my plan, adjust as I go." The right panel, labeled "complete," shows a finished framed picture with a title label reading "my finished artwork." Arrows point from plan to make to complete. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="300" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">From Plan to Finished Artwork</text>
+
+  <defs>
+    <marker id="arr2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- Panel 1: plan -->
+  <rect x="24" y="66" width="130" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="89" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">plan</text>
+  <rect x="44" y="106" width="90" height="70" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 158 Q70 144 82 158 Q94 170 106 158"/>
+    <path d="M70 140 L70 162"/>
+  </g>
+  <text x="89" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"idea"</text>
+
+  <!-- arrow 1 -->
+  <line x1="160" y1="156" x2="192" y2="156" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr2)"/>
+
+  <!-- Panel 2: make -->
+  <rect x="198" y="66" width="130" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="263" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">make</text>
+  <!-- hands holding pencil over paper -->
+  <rect x="228" y="120" width="70" height="52" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M270 108 L282 120 L276 168"/>
+    <circle cx="278" cy="176" r="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="258" cy="178" r="7" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M238 132 Q252 124 264 132 Q256 142 242 140"/>
+  </g>
+  <text x="263" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">follow my plan,</text>
+  <text x="263" y="220" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">adjust as I go</text>
+
+  <!-- arrow 2 -->
+  <line x1="334" y1="156" x2="366" y2="156" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr2)"/>
+
+  <!-- Panel 3: complete -->
+  <rect x="372" y="66" width="130" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="437" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">complete</text>
+  <rect x="392" y="106" width="90" height="78" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="437" cy="132" r="10" fill="#e0a458"/>
+    <path d="M404 168 Q418 152 434 168 Q448 182 470 166"/>
+    <path d="M408 174 Q424 162 438 174"/>
+  </g>
+  <text x="437" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">my finished artwork</text>
+
+  <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">carry the idea through to the end</text>
+</svg>

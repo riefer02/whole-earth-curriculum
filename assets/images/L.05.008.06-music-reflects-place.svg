@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
+  <title id="title">Music reflects place, history, and community</title>
+  <desc id="desc">A three-panel listening map titled "Music reflects place, history, and community." The left panel, labeled "steppe — khoomei (Mongolia)," shows a wide open horizon with a single figure and long horizontal sound waves, with the note "long, held notes — wide open land." The middle panel, labeled "Andes — siku panpipes," shows two figures on a mountain playing pipes together, with the note "two players share one melody — cooperation." The right panel, labeled "West Africa — djembe drumming," shows a circle of drummers, with the note "layered rhythms and call and response — gathering together." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="480" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Music Reflects Place, History, and Community</text>
+
+  <!-- Panel 1: steppe -->
+  <rect x="24" y="66" width="144" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="92" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">steppe — khoomei</text>
+  <text x="96" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Mongolia</text>
+  <!-- horizon -->
+  <line x1="34" y1="250" x2="158" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="120" cy="120" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- figure -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="70" cy="216" r="11" fill="#e6bb92"/>
+    <path d="M70 227 L70 260"/>
+    <path d="M70 238 L58 232"/>
+    <path d="70 238 L82 232"/>
+  </g>
+  <!-- long sound waves -->
+  <g stroke="#6b93b6" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M92 224 Q110 218 128 224 Q146 230 158 226"/>
+    <path d="M92 238 Q110 232 128 238 Q146 244 158 240"/>
+    <path d="M92 252 Q110 246 128 252 Q146 258 158 254"/>
+  </g>
+  <text x="96" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">long, held notes —</text>
+  <text x="96" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">wide open land</text>
+
+  <!-- Panel 2: Andes -->
+  <rect x="184" y="66" width="144" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">Andes — siku</text>
+  <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">panpipes</text>
+  <!-- mountain -->
+  <path d="M194 260 L232 180 L256 224 L274 196 L318 260 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 180 L238 196 L228 196 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- two figures playing pipes -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="226" cy="206" r="10" fill="#ab7a4e"/>
+    <circle cx="278" cy="200" r="10" fill="#e6bb92"/>
+    <path d="M226 216 L226 240"/>
+    <path d="M278 210 L278 240"/>
+    <path d="M226 224 L240 218"/>
+    <path d="M278 218 L264 212"/>
+  </g>
+  <!-- panpipes -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#7a9e7e" stroke-linejoin="round">
+    <rect x="240" y="200" width="5" height="18"/>
+    <rect x="247" y="196" width="5" height="22"/>
+    <rect x="254" y="192" width="5" height="26"/>
+  </g>
+  <!-- shared melody marks -->
+  <g stroke="#e0a458" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M236 190 Q240 184 244 190"/>
+    <path d="M250 182 Q254 176 258 182"/>
+  </g>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">two players share</text>
+  <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">one melody — cooperation</text>
+
+  <!-- Panel 3: djembe -->
+  <rect x="344" y="66" width="144" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="416" y="92" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">West Africa — djembe</text>
+  <text x="416" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">drumming</text>
+  <!-- circle of drummers -->
+  <circle cx="416" cy="210" r="54" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="416" cy="168" r="10" fill="#8c5a3b"/>
+    <circle cx="374" cy="214" r="10" fill="#e6bb92"/>
+    <circle cx="458" cy="214" r="10" fill="#d9a06b"/>
+    <circle cx="416" cy="254" r="10" fill="#ab7a4e"/>
+  </g>
+  <!-- drums -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <path d="M392 232 L404 214 L420 214 L432 232 Z"/>
+    <path d="M404 214 L406 204 L418 204 L420 214 Z"/>
+  </g>
+  <!-- call and response marks -->
+  <g stroke="#6b93b6" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M372 168 Q364 160 372 152"/>
+    <path d="M460 168 Q468 160 460 152"/>
+  </g>
+  <text x="416" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">layered rhythms, call</text>
+  <text x="416" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">and response — gathering</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Living music — listen closely, honor respectfully.</text>
+</svg>

@@ -526,9 +526,9 @@ sources:
     type: website
     url: https://ich.unesco.org/
     organization: UNESCO
-    domains: [D08]
+    domains: [D08, D07]
     reviewed: true
-    notes: "Cited in U.02.009 L04 as a general frame for knowledge passed down hand to hand. URL verified live (2026-08-16). UNESCO's ICH site (2003 Convention) frames intangible cultural heritage as 'the practices, representations, expressions, knowledge, skills' that communities pass between generations, transmitted person to person — on-topic for the lesson's claim that knowledge/skill is passed down hand to hand. A general authority/frame, not a claim-level citation for any single fact."
+    notes: "Cited in U.02.009 L04 as a general frame for knowledge passed down hand to hand, and in U.05.008 L03/L06/L08/L10 as the frame for arts as living heritage. URL verified live (2026-08-16). UNESCO's ICH site (2003 Convention) frames intangible cultural heritage as 'the practices, representations, expressions, knowledge, skills' that communities pass between generations, transmitted person to person. The U.05.008 lessons name specific inscribed elements, all accurate: Mongolian 'Khoomei' throat singing (Representative List, 2010) in L06; the 'Capoeira circle' (Roda de capoeira, Brazil, 2014) in L08; and traditional felt-making / the Mongol ger (L10, cf. 'Traditional craftsmanship of the Mongol Ger and its associated customs,' 2013). L03 originally used 'Tibetan sand mandala' as its example, which is NOT an inscribed element — corrected to cite ICH as a general living-heritage frame. A general authority/frame, not a claim-level citation for any single fact."
 
   - id: S-057
     title: National Geographic Education — Desert
@@ -1058,7 +1058,7 @@ sources:
     organization: The Metropolitan Museum of Art
     domains: [D07]
     reviewed: true
-    notes: "Cited in U.04.007 L01 (perspective/landscape), L02 (art as living heritage), L05 (instruments), L09 (an object's story) as a general authority for art history and world art. Real, reputable museum resource; the /toah/ index is live (2026-08-17; metmuseum.org may return 403 to automated clients but serves browsers). Used as a broad art-history frame, not a page-level claim citation."
+    notes: "Cited in U.04.007 L01 (perspective/landscape), L02 (art as living heritage), L05 (instruments), L09 (an object's story) as a general authority for art history and world art, and in U.05.008 L03 (how an artwork reflects its culture) as a general frame for the Akan adinkra cloth of Ghana. Real, reputable museum resource; the /toah/ index is live (2026-08-17; metmuseum.org may return 403 to automated clients but serves browsers). Used as a broad art-history frame, not a page-level claim citation. Note: the Heilbrunn Timeline's adinkra essay is a general authority; the lesson's specific claims (adinkra = Akan cotton cloth stamped with symbols that are proverbs, dyed with plant color, worn at ceremonies) are standard and accurate."
 
   - id: S-115
     title: "Te Papa Tongarewa (Museum of New Zealand) — Māori arts"
@@ -1067,7 +1067,7 @@ sources:
     organization: Te Papa Tongarewa
     domains: [D07]
     reviewed: true
-    notes: "Cited in U.04.007 L02 (art as living heritage) and L09 (an object's story) for Māori arts including kōwhaiwhai painted rafter patterns and kete (harakeke/flax) baskets. Real national museum of Aotearoa New Zealand; live (2026-08-17). Supports respectful, accurate Māori arts representation as living heritage."
+    notes: "Cited in U.04.007 L02 (art as living heritage) and L09 (an object's story) for Māori arts including kōwhaiwhai painted rafter patterns and kete (harakeke/flax) baskets, and in U.05.008 L03 for Māori whakairo (carved wood), the koru (unfurling fern-frond) spiral, and whakapapa (belonging through ancestry). Real national museum of Aotearoa New Zealand; live (2026-08-17). Supports respectful, accurate Māori arts representation as living heritage; the L03 claims (whakairo carved from forest wood; koru = unfurling fern; carved figures = ancestors/whakapapa) are standard and correctly attributed."
 
   - id: S-116
     title: "NCCA Philippines — National Commission for Culture and the Arts"
@@ -1730,5 +1730,50 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in U.05.007 L07 (magnets attract and repel; compass points north). URL verified live (2026-08-17). States: 'Even if the magnets aren't touching, they can exert a force on each other'; 'The opposite poles of a magnet attract one another, and poles that are the same... repel one another'; and 'Sailors have been using magnets in compasses to navigate for hundreds of years. If the magnets can move freely, it will always show which way is north.' Directly supports the lesson's attract/repel, acts-at-a-distance, and compass claims. Replaces the broken citation to spaceplace.nasa.gov/magnets/en/ (404 — NASA Space Place has no such page)."
+
+  - id: S-188
+    title: "Smithsonian Folkways Recordings"
+    type: website
+    url: https://folkways.si.edu/
+    organization: Smithsonian Folkways Recordings (Smithsonian Institution)
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.05.008 L04/L05 (tools for teaching; performing with care) and L06 (how music reflects place) for world music recordings and teaching notes, including Andean panpipes and West African drumming. Real, reputable Smithsonian record label dedicated to folk and traditional music from around the world; folkways.si.edu returns 403 to automated clients but serves browsers (verified 2026-08-17). The lesson's musical claims it is paired with — Andean siku panpipes played in interlocking pairs and West African djembe drumming with layered rhythms and call-and-response — are standard, accurately attributed traditions; Folkways is cited as a general source of respectful recordings and teaching notes, not as a claim-level citation."
+
+  - id: S-189
+    title: "Kennedy Center — Education (arts education resources)"
+    type: website
+    url: https://www.kennedy-center.org/education/
+    organization: The John F. Kennedy Center for the Performing Arts
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.05.008 L07/L08 for classroom-friendly framing of dance and movement traditions. Real, reputable arts-education hub; URL verified live (2026-08-17) — the page describes a 'Digital Resources Library of lesson plans, activities, classroom strategies, and arts-focused media' for educators. Used as a general pedagogical authority for presenting dance traditions respectfully, not as a claim-level citation for any single tradition (the haka/Bharatanatyam/capoeira descriptions in L08 are standard and independently accurate)."
+
+  - id: S-190
+    title: "Smithsonian Science Education Center"
+    type: website
+    url: https://ssec.si.edu/
+    organization: Smithsonian Science Education Center (Smithsonian Institution)
+    domains: [D07, D10]
+    reviewed: true
+    notes: "Cited in U.05.008 L09 (design and build to solve a real problem) for the engineering design cycle. Real, reputable Smithsonian K-12 STEM education center; URL verified live (2026-08-17) — its offerings include 'Smithsonian Science for Makerspaces' and 'STEM, Manufacturing and Design Activities,' consistent with an elementary design/build/improve cycle. The lesson's design-cycle framing (name the problem → imagine → choose materials → build → test → improve) is standard elementary engineering practice (cf. the registered TeachEngineering source S-150). General authority, not a claim-level citation."
+
+  - id: S-191
+    title: "National Geographic Education"
+    type: website
+    url: https://education.nationalgeographic.org/
+    organization: National Geographic Society
+    domains: [D07, D08, D10]
+    reviewed: true
+    notes: "Cited in U.05.008 L10 (compare designs for different climates) for classroom-friendly framing of how environment shapes human shelters and adaptation. Real, reputable National Geographic Society education resource; the index page is live (2026-08-17). Used as a general authority, not a claim-level citation; the specific shelter claims in L10 (igloo snow dome for Arctic cold; felt yurt/ger for the steppe; stilt house for floodplains; adobe/mud-brick for dry heat; palm thatch for tropical rain) are standard, well-documented, and non-ranking. (Specific National Geographic Education resource pages are registered separately under their own IDs.)"
+
+  - id: S-192
+    title: "The Metropolitan Museum of Art — #MetKids"
+    type: website
+    url: https://www.metmuseum.org/art/online-features/metkids/
+    organization: The Metropolitan Museum of Art
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.05.008 L01/L02 (plan and complete an artwork) as a kid-friendly art resource for seeing how artists plan and make work. Real Met Museum online feature for children (metmuseum.org/art/online-features/metkids/); the page is a JS-driven interactive and serves browsers, though automated clients receive a minimal shell (verified 2026-08-17). Used as a general, age-appropriate engagement resource, not a claim-level citation; the lessons make no factual claims that depend on it."
 
 

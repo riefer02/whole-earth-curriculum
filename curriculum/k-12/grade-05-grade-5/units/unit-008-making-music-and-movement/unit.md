@@ -64,3 +64,13 @@ traditions to honor, never as specimens.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.008.01 | Plan an Artwork with a Clear Idea | D07.S1.05.01 |
+| L.05.008.02 | Complete My Planned Artwork | D07.S1.05.01 |
+| L.05.008.03 | How an Artwork Reflects Its Culture's Place, Materials, and Beliefs | D07.S1.05.02 |
+| L.05.008.04 | Compose a Short Piece or Song: Beginning, Middle, and End | D07.S2.05.01 |
+| L.05.008.05 | Perform My Piece with Care | D07.S2.05.01 |
+| L.05.008.06 | How Music Reflects Place, History, and Community | D07.S2.05.02 |
+| L.05.008.07 | Choreograph a Group Dance or Scene Cooperatively | D07.S3.05.01 |
+| L.05.008.08 | How Dance and Drama Reflect Place, History, and Community | D07.S3.05.02 |
+| L.05.008.09 | Design and Build Something That Solves a Real Problem | D07.S4.05.01 |
+| L.05.008.10 | Compare Designs for Different Climates: How Environment Shapes Design | D07.S4.05.02 |

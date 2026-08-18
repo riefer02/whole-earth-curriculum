@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 320" role="img" aria-labelledby="title desc">
+  <title id="title">Performing with care</title>
+  <desc id="desc">A scene titled "Performing with care." On the left, a group of three performers of different skin tones stands facing right, one clapping, one tapping a desk, one humming, labeled "performers — clear beginning, middle, and end." On the right, three seated audience members watch and smile, labeled "audience — listens with respect." A vertical line separates the stage from the listeners. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="320" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Performing with Care</text>
+
+  <!-- divider -->
+  <line x1="280" y1="70" x2="280" y2="250" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Performers (left) -->
+  <text x="140" y="76" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">performers</text>
+
+  <!-- performer 1: clapping -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="150" r="16" fill="#e6bb92"/>
+    <path d="M80 166 L80 214"/>
+    <path d="M80 182 L58 172"/>
+    <path d="M80 182 L102 172"/>
+    <path d="M80 214 L64 244"/>
+    <path d="M80 214 L96 244"/>
+  </g>
+  <g stroke="#e0a458" stroke-width="2" stroke-linecap="round" fill="none">
+    <path d="M50 128 L46 120"/>
+    <path d="M54 124 L50 116"/>
+    <path d="M110 128 L114 120"/>
+    <path d="M106 124 L110 116"/>
+  </g>
+
+  <!-- performer 2: tapping desk -->
+  <rect x="150" y="196" width="86" height="10" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="162" y="206" width="8" height="40" fill="#4f6d7a"/>
+  <rect x="222" y="206" width="8" height="40" fill="#4f6d7a"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="193" cy="164" r="15" fill="#ab7a4e"/>
+    <path d="M193 179 L193 200"/>
+    <path d="M193 186 L176 178"/>
+    <path d="M193 186 L210 178"/>
+  </g>
+  <g stroke="#e0a458" stroke-width="2" stroke-linecap="round" fill="none">
+    <path d="M204 152 L210 146"/>
+    <path d="M208 158 L214 152"/>
+  </g>
+
+  <!-- performer 3: humming (sitting) -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="240" cy="168" r="14" fill="#8c5a3b"/>
+    <path d="M240 182 L240 210"/>
+    <path d="M240 192 L226 186"/>
+    <path d="M240 192 L254 186"/>
+    <path d="M240 210 L228 234"/>
+    <path d="M240 210 L252 234"/>
+  </g>
+  <path d="M230 150 Q235 144 240 150 Q245 156 250 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="140" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">clear beginning, middle, and end</text>
+
+  <!-- Audience (right) -->
+  <text x="396" y="76" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">audience</text>
+
+  <!-- audience member 1 -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="330" cy="150" r="14" fill="#e6bb92"/>
+    <path d="M330 164 L330 204"/>
+    <path d="M330 176 L316 170"/>
+    <path d="M330 176 L344 170"/>
+  </g>
+  <path d="M324 140 Q330 134 336 140" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- audience member 2 -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="396" cy="150" r="14" fill="#8c5a3b"/>
+    <path d="M396 164 L396 204"/>
+    <path d="M396 176 L382 170"/>
+    <path d="M396 176 L410 170"/>
+  </g>
+  <path d="M390 140 Q396 134 402 140" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- audience member 3 -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="462" cy="150" r="14" fill="#d9a06b"/>
+    <path d="M462 164 L462 204"/>
+    <path d="M462 176 L448 170"/>
+    <path d="M462 176 L476 170"/>
+  </g>
+  <path d="M456 140 Q462 134 468 140" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="396" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">listens with respect</text>
+</svg>

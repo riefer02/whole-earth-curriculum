@@ -3620,7 +3620,7 @@ items:
     type: lesson
     grade: 5
     domain: D07
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3632,6 +3632,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (895). IDs L.05.008.01-.10 sequence_in_unit 1-10, grade 5, unit U.05.008; objectives resolve to real grade-5 D07 standards (all 8 covered; L10 revisit objectives resolve); required headings present; unit.md table lists all 10; all 10 assets resolve with non-empty alt; cultural references accurate (Maori whakairo koru/whakapapa, Akan adinkra proverbs, Mongolian khoomei overtone, Andean siku hocketing, djembe call-and-response, haka stance/chant, Bharatanatyam mudras, capoeira roda resistance history at grade-5 depth); sources Te Papa/Met/UNESCO ICH/Smithsonian Folkways/Kennedy Center/NG; non-ranking living-traditions framing consistent.
+      fact-checker:
+        verdict: passed
+        note: "Verified cultural references real + correctly attributed: Maori whakairo koru/whakapapa, Akan adinkra cotton-cloth proverb symbols plant dye, Mongolian khoomei overtone (low drone + high whistle), Andean siku two-player interlocking, djembe layered rhythms + call-response, haka pukana+whetero welcome+challenge, Bharatanatyam mudras+abhinaya temple origin, capoeira roda born among enslaved Africans in Brazil; 'no tradition more advanced' framed as value not fact. Sources real (Te Papa, Met, UNESCO ICH, Smithsonian Folkways, Kennedy Center, NatGeo Ed, SSEC). Registered S-188..S-192 (5 sources); updated S-056 (Khoomei 2010/Capoeira 2014/Mongol ger 2013 ICH inscriptions). Fixed L03 'Tibetan sand mandala' ICH-list error -> general living-heritage frame."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Euro default: reflection lessons (L3/L6/L8) + design capstone (L10) draw on multiple non-Western living traditions (Maori whakairo, Akan adinkra, rangoli/kolam, Aboriginal dot painting, Inuit soapstone, Persian tile, Tibetan sand mandala; Mongolian khoomei, Andean siku, djembe; haka, Bharatanatyam, capoeira; igloo/yurt/ger/stilt/adobe/thatched shelters); making/composing/choreographing lessons frame craft as universal not Western-standard; non-ranking 'honor never specimens' explicit throughout; capoeira enslavement/resistance handled with dignity strength-not-despair; materials no wealth assumption; Connection centers learners' own homes/sounds/movement."
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 lessons real materials_low_tech (voice/body percussion, found/natural objects, spoken/drawn alternatives); all 10 assets non-empty alt + SVG role=img/aria-labelledby/title/desc grayscale label-shape-meaning; UDL say/sketch/write/build/move; L07 dance already names chairs/wheels 'their movement is the dance'; L04 composition never requires singing. Fixed: L05 perform voice-free/motor-free roles (conduct tempo, cue start, turn page, single percussion) + non-vocal warmup; L09 design/build seated + fine-motor options (table-height, pre-cut shapes, direct-a-partner roles); plain language, no wealth assumption."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (non-ranking observation, honoring living traditions, 'performance as gift / listening as respect', every body included); egalitarianism ('no tradition more advanced' as value, arts as everyone's birthright, chairs/wheels inclusive); global (Maori/Akan/Indian/Aboriginal/Inuit/Persian/Tibetan/Mongolian/Andean/W.African/Brazilian traditions living never specimens); tech/environment (design-cycle + climate-capstone; technology as 'a tool with effects, chosen on purpose'); evidence-vs-values (Kirschner/Hattie/UNESCO ICH/Smithsonian Folkways/Te Papa/Met/Kennedy Center/SSEC/NatGeo). Traceability: Vision->P3->D07->S1-S4->8 standards->U.05.008->L.05.008.01-.10."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band: cognitive fit concrete anchors (planning clear-idea->materials->technique->because, music form via beginning/middle/end ABA after concrete shape, choreography start/travel/end, cultural reflection via observable features); emotional safety L05 performance as 'sharing a gift' applause-then-one-kind-comment never ranking + smaller audience option; L07 choreography dominance/drift norm 'lead passes around every body belongs' + chairs/wheels; L08 capoeira enslavement named honestly as resistance/strength/proud living tradition 'never despair' no graphic detail; cultural lessons defer to learners of those traditions as authorities; physical fit adapted/seated options; open-ended questions as questions."
   - id: B-331
     title: Author lessons for Unit U.05.009 (Healthy, Safe & Strong)
     agent: lesson-author
