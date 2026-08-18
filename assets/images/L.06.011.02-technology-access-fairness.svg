@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Who gets in? Access is a fairness question</title>
+  <desc id="desc">Two panels. The left panel, labeled "Only steps," shows a staircase with a person using a wheelchair stopped at the bottom. The right panel, labeled "Steps and a ramp," shows the same entrance with a ramp added, where a wheelchair user goes up the ramp and another person walks up the steps. A bottom band reads "Cost, ability, and availability are doors too. Fair access asks: who is left out, and how do we open the door?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Who gets in? Access is a fairness question</text>
+
+  <!-- LEFT panel: only steps -->
+  <g>
+    <rect x="20" y="62" width="226" height="320" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="88" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Only steps</text>
+    <!-- staircase -->
+    <rect x="60" y="330" width="60" height="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="72" y="308" width="60" height="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="84" y="286" width="60" height="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="96" y="264" width="60" height="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="108" y="242" width="60" height="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="120" y="220" width="60" height="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <!-- person in wheelchair at the bottom -->
+    <circle cx="120" cy="192" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 202 L120 216" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="112" cy="240" r="9" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="140" cy="240" r="9" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="118" y="216" width="26" height="12" rx="3" fill="#2b3a42"/>
+    <rect x="104" y="228" width="4" height="10" fill="#2b3a42"/>
+    <text x="133" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Only steps: some people</text>
+    <text x="133" y="376" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">cannot get in.</text>
+  </g>
+
+  <!-- RIGHT panel: steps and a ramp -->
+  <g>
+    <rect x="266" y="62" width="226" height="320" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="88" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Steps and a ramp</text>
+    <!-- steps -->
+    <rect x="312" y="330" width="48" height="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="322" y="312" width="48" height="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="332" y="294" width="48" height="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <!-- ramp -->
+    <path d="M286 350 L454 220 L454 350 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <!-- walking figure on steps -->
+    <circle cx="366" cy="276" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M366 285 L366 302 L356 316" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M366 288 L378 302 L376 316" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <!-- wheelchair user on ramp -->
+    <circle cx="330" cy="312" r="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M330 321 L330 333" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="322" cy="346" r="8" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="348" cy="346" r="8" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="326" y="333" width="24" height="11" rx="3" fill="#2b3a42"/>
+    <text x="379" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">With a ramp, more</text>
+    <text x="379" y="376" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">people get in.</text>
+  </g>
+
+  <!-- bottom band -->
+  <rect x="20" y="400" width="472" height="92" rx="12" fill="#f2ead8" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Cost, ability, and availability are doors too.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Fair access asks: who is left out — and how do</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">we open the door?</text>
+</svg>

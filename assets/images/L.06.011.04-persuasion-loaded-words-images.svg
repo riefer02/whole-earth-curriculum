@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Persuasion: loaded words and emotional images</title>
+  <desc id="desc">A diagram analyzing a drink advertisement. In the center, a poster shows a bottle with the word "PURE!" in large letters beside a smiling, healthy-looking child. A line points to the word "PURE!" with a label reading "Loaded word: 'PURE' makes you feel it is clean and safe." Another line points to the smiling child with a label reading "Emotional image: a happy, healthy person makes you feel good about buying it." A caption reads "Persuasion works on feelings. Ask: what is it making me feel, and why?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Persuasion: loaded words and emotional images</text>
+
+  <!-- central ad poster -->
+  <g>
+    <rect x="150" y="80" width="212" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+    <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">SUMMER DRINK</text>
+    <!-- bottle -->
+    <rect x="196" y="150" width="56" height="130" rx="10" fill="#dbe6ef" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="216" y="132" width="16" height="20" fill="#dbe6ef" stroke="#2b3a42" stroke-width="3"/>
+    <text x="224" y="222" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">PURE!</text>
+    <!-- smiling child -->
+    <circle cx="302" cy="190" r="34" fill="#f5d6b6" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="292" cy="182" r="4" fill="#2b3a42"/>
+    <circle cx="312" cy="182" r="4" fill="#2b3a42"/>
+    <path d="M292 202 Q302 212 312 202" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M302 224 L302 268" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M302 238 L282 254" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M302 238 L322 254" stroke="#2b3a42" stroke-width="3"/>
+    <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">"Drink PURE! every day."</text>
+  </g>
+
+  <!-- loaded word annotation -->
+  <g>
+    <path d="M244 236 L70 236 L70 168" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+    <circle cx="70" cy="168" r="5" fill="#e0a458"/>
+    <rect x="40" y="70" width="150" height="86" rx="10" fill="#f2ead8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="115" y="94" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Loaded word</text>
+    <text x="50" y="114" font-family="sans-serif" font-size="12" fill="#222222">"PURE" makes you</text>
+    <text x="50" y="130" font-family="sans-serif" font-size="12" fill="#222222">feel it is clean</text>
+    <text x="50" y="146" font-family="sans-serif" font-size="12" fill="#222222">and safe.</text>
+  </g>
+
+  <!-- emotional image annotation -->
+  <g>
+    <path d="M302 156 L452 156 L452 168" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+    <circle cx="452" cy="168" r="5" fill="#6b93b6"/>
+    <rect x="322" y="70" width="150" height="86" rx="10" fill="#e9eef4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="397" y="94" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Emotional image</text>
+    <text x="332" y="114" font-family="sans-serif" font-size="12" fill="#222222">A happy, healthy</text>
+    <text x="332" y="130" font-family="sans-serif" font-size="12" fill="#222222">person makes you</text>
+    <text x="332" y="146" font-family="sans-serif" font-size="12" fill="#222222">feel good about it.</text>
+  </g>
+
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Persuasion works on feelings.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Ask: what is it making me feel, and why?</text>
+
+  <rect x="20" y="468" width="472" height="30" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Loaded words and emotional images are clues that someone is trying to persuade you.</text>
+</svg>

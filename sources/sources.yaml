@@ -2561,6 +2561,61 @@ sources:
     reviewed: true
     notes: "Cited in U.06.009 L11 (A Movement for Freedom) for Ghana's independence movement. Britannica's Kwame Nkrumah biography documents that Nkrumah led the Convention People's Party (founded 1949), which used boycotts, strikes, and nonviolent 'Positive Action' against British colonial rule, and that Ghana became independent on 6 March 1957 — the first sub-Saharan African colony to win independence, with Nkrumah its first prime minister. This directly supports the lesson's claims (CPP, boycotts and peaceful strikes/'positive action', independence in 1957, many African nations soon following). The lesson correctly centers ordinary people's collective action, not a single 'great man.'"
 
+  - id: S-277
+    title: Global Footprint Network — Ecological Footprint
+    type: website
+    url: https://www.footprintnetwork.org/our-work/ecological-footprint/
+    organization: Global Footprint Network
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.06.011 L07 (Footprints: What My Life Uses) and L08 (Walk or Ride?). URL verified live (2026-08-18). The Ecological Footprint 'measures how much nature we have and how much nature we use'; on the demand side it 'adds up all the biologically productive areas for which a population, a person or a product competes' to produce the resources it consumes and absorb its waste (carbon emissions). Conceived 1990 by Mathis Wackernagel and William Rees at UBC. Supports L07's accurate simplification 'a footprint is the resources a person or place uses' and its four-part breakdown (food/travel/energy/things); the lesson correctly holds the footprint as a measurement, not a score on character. L08 uses it for weighing everyday choices' environmental effects — a general authority, not a claim-level statistic."
+
+  - id: S-278
+    title: Center for News Literacy (Stony Brook University)
+    type: website
+    url: https://www.centerfornewsliteracy.org/
+    organization: Stony Brook University School of Journalism
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.06.011 L03 (News, Opinion, or Ad?) and L04 (Loaded Words and Emotional Images). URL verified live (2026-08-18). The Center states News Literacy helps learners 'recognize the differences between fact and rumor, news and advertising, news and opinion, and bias and fairness.' Supports the lessons' news/opinion/advertisement distinction and their persuasive-technique work. Used as a framework authority (with Common Sense Education, S-063), not a claim-level citation."
+
+  - id: S-279
+    title: Convention on Biological Diversity (CBD)
+    type: website
+    url: https://www.cbd.int/
+    organization: Secretariat of the Convention on Biological Diversity (UN)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.06.011 L06 (Biodiversity: Why Variety Keeps Ecosystems Strong). URL verified live (2026-08-18). The CBD is the authoritative international treaty on biodiversity — 'the foundation of all life on Earth' — and its Kunming-Montreal Global Biodiversity Framework is the world's blueprint to halt and reverse biodiversity loss. Supports the lesson's claim that biodiversity (the variety of living things) is linked to ecosystem health/resilience. General authority/frame; the lesson's specific single-crop example (Irish potato famine) is standard, accurate history and is not attributed to this page."
+
+  - id: S-280
+    title: W3C WAI — Web Content Accessibility Guidelines (WCAG)
+    type: website
+    url: https://www.w3.org/WAI/standards-guidelines/wcag/
+    organization: W3C Web Accessibility Initiative (WAI)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.06.011 L02 (Who Gets to Use It? Technology and Fairness) as an accessibility standard. URL verified live (2026-08-18). WCAG is the international standard (WCAG 2.0/2.1/2.2; ISO/IEC 40500) explaining 'how to make web content more accessible to people with disabilities.' Supports the lesson's claim that design decisions (e.g., accessible screens) change who is included. Used as a general authority for accessibility standards, not a claim-level citation."
+
+  - id: S-281
+    title: "World Bank — World Development Report 2016: Digital Dividends"
+    type: report
+    url: https://www.worldbank.org/en/publication/wdr2016
+    organization: World Bank Group
+    year: 2016
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.06.011 L02 (Who Gets to Use It? Technology and Fairness). URL verified live (2026-08-18). WDR 2016 documents that digital technologies have spread rapidly but their benefits are unevenly distributed, and that 'for digital technologies to benefit everyone everywhere requires closing the remaining digital divide, especially in internet access.' Supports the lesson's claim that access to technology varies by cost, disability, and geography, and that design and policy decisions change who is included. General authority for the access/fairness framing, not a claim-level statistic."
+
+  - id: S-282
+    title: UN Environment Programme (UNEP)
+    type: website
+    url: https://www.unep.org/
+    organization: United Nations Environment Programme
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.06.011 L07 (Footprints: What My Life Uses) as a general authority for teaching the ecological footprint in age-appropriate form. URL verified live (2026-08-18). UNEP is the leading global environmental authority (climate, nature, air quality, transport); it frames the footprint/overshoot concept for public and classroom audiences. A general authority, not a claim-level citation. Complements Global Footprint Network (S-277)."
+
 
 
 

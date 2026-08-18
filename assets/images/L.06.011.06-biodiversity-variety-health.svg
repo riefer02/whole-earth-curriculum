@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Biodiversity: variety is a safety net</title>
+  <desc id="desc">Two garden plots side by side. The left plot, labeled "MANY KINDS," shows several different plants — a flower, grass, a bush, and a tree — with a bee, a bird, and a worm, and the caption "If one plant fails, others still grow." The right plot, labeled "ONE KIND," shows a single repeated crop, with the caption "If disease hits it, everything fails at once." A bottom band reads "Variety is a safety net: the more kinds of life, the more ways a system can stay healthy." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Biodiversity: variety is a safety net</text>
+
+  <!-- MANY KINDS plot -->
+  <g>
+    <rect x="20" y="56" width="226" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="82" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">MANY KINDS</text>
+    <!-- ground -->
+    <rect x="32" y="300" width="202" height="14" fill="#c9d6be" stroke="#2b3a42" stroke-width="1.5"/>
+    <!-- flower -->
+    <path d="M60 300 L60 262" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="60" cy="254" r="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="60" cy="254" r="3" fill="#e0a458"/>
+    <!-- grass -->
+    <path d="M100 300 L100 276 M106 300 L106 270 M112 300 L112 278" stroke="#7a9e7e" stroke-width="2.5"/>
+    <!-- bush -->
+    <circle cx="150" cy="276" r="16" fill="#b9cfb4" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="162" cy="284" r="12" fill="#b9cfb4" stroke="#2b3a42" stroke-width="2"/>
+    <!-- tree -->
+    <rect x="184" y="238" width="8" height="60" fill="#8f6a45" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="188" cy="226" r="24" fill="#b9cfb4" stroke="#2b3a42" stroke-width="2"/>
+    <!-- bee -->
+    <ellipse cx="88" cy="210" rx="7" ry="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M81 208 L75 202 M95 208 L101 202" stroke="#2b3a42" stroke-width="2"/>
+    <!-- bird -->
+    <path d="M210 170 Q222 160 234 170" fill="#c9c2b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M222 166 L222 156" stroke="#2b3a42" stroke-width="2"/>
+    <!-- worm -->
+    <path d="M120 308 Q128 304 136 308 Q144 312 152 308" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="133" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">If one plant fails, others still grow —</text>
+    <text x="133" y="364" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">food and homes remain for many.</text>
+  </g>
+
+  <!-- ONE KIND plot -->
+  <g>
+    <rect x="266" y="56" width="226" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="82" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">ONE KIND</text>
+    <!-- ground -->
+    <rect x="278" y="300" width="202" height="14" fill="#c9d6be" stroke="#2b3a42" stroke-width="1.5"/>
+    <!-- repeated single crop -->
+    <g>
+      <path d="M300 300 L300 262" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M300 262 Q290 250 300 240 Q310 250 300 262" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <path d="M340 300 L340 262" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M340 262 Q330 250 340 240 Q350 250 340 262" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <path d="M380 300 L380 262" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M380 262 Q370 250 380 240 Q390 250 380 262" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <path d="M420 300 L420 262" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M420 262 Q410 250 420 240 Q430 250 420 262" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <g>
+      <path d="M460 300 L460 262" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M460 262 Q450 250 460 240 Q470 250 460 262" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    </g>
+    <text x="379" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">If a disease hits it, everything fails</text>
+    <text x="379" y="364" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">at once — few creatures find food.</text>
+  </g>
+
+  <!-- bottom band -->
+  <rect x="20" y="402" width="472" height="86" rx="12" fill="#f2ead8" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Variety is a safety net.</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The more kinds of life, the more ways a system</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">can stay healthy.</text>
+</svg>

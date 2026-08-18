@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">How a design carries needs, wants, and values</title>
+  <desc id="desc">A diagram with three stacked boxes explaining that a technology carries a need, a want, and a value, above a drawing of a person riding a bicycle. The boxes are labeled NEED, WANT, and VALUE. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">How a design carries needs, wants, and values</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every technology is made by people deciding what matters.</text>
+
+  <!-- NEED box -->
+  <g>
+    <rect x="20" y="82" width="472" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="40" y="108" font-family="sans-serif" font-size="18" font-weight="bold" fill="#e0a458">NEED</text>
+    <text x="40" y="130" font-family="sans-serif" font-size="14" fill="#222222">The problem it solves: carry people and goods</text>
+    <text x="40" y="150" font-family="sans-serif" font-size="14" fill="#222222">farther and faster than walking.</text>
+  </g>
+
+  <!-- WANT box -->
+  <g>
+    <rect x="20" y="190" width="472" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="40" y="216" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">WANT</text>
+    <text x="40" y="238" font-family="sans-serif" font-size="14" fill="#222222">What makes it nice to use: a smooth,</text>
+    <text x="40" y="258" font-family="sans-serif" font-size="14" fill="#222222">comfortable, fast ride.</text>
+  </g>
+
+  <!-- VALUE box -->
+  <g>
+    <rect x="20" y="298" width="472" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="40" y="324" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">VALUE</text>
+    <text x="40" y="346" font-family="sans-serif" font-size="14" fill="#222222">What its makers believe matters: clean travel —</text>
+    <text x="40" y="366" font-family="sans-serif" font-size="14" fill="#222222">no fuel burned, no smoke.</text>
+  </g>
+
+  <!-- Bicycle with rider -->
+  <g>
+    <circle cx="180" cy="440" r="34" fill="none" stroke="#2b3a42" stroke-width="4"/>
+    <circle cx="180" cy="440" r="4" fill="#2b3a42"/>
+    <circle cx="316" cy="440" r="34" fill="none" stroke="#2b3a42" stroke-width="4"/>
+    <circle cx="316" cy="440" r="4" fill="#2b3a42"/>
+    <path d="M180 440 L250 400 L316 440" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M250 400 L244 360" fill="none" stroke="#2b3a42" stroke-width="4"/>
+    <path d="M244 360 L216 352" fill="none" stroke="#2b3a42" stroke-width="4"/>
+    <path d="M250 400 L304 388" fill="none" stroke="#2b3a42" stroke-width="4"/>
+    <path d="M304 388 L316 440" fill="none" stroke="#2b3a42" stroke-width="4"/>
+    <rect x="212" y="348" width="36" height="6" rx="3" fill="#2b3a42"/>
+    <!-- rider -->
+    <circle cx="216" cy="336" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M216 352 L228 396 L216 404" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M216 360 L196 386 L190 402" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M228 396 L266 384" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">A bicycle carries a need, a want, and a value all at once.</text>
+</svg>

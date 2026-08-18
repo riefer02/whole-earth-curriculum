@@ -65,3 +65,11 @@ people and the planet, explaining the trade-offs.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.011.01 | Who Designs Our Tools? Needs, Wants, and Values | D10.S1.06.01 |
+| L.06.011.02 | Who Gets to Use It? Technology and Fairness | D10.S1.06.02 |
+| L.06.011.03 | News, Opinion, or Ad? Reading the Difference | D10.S2.06.01 |
+| L.06.011.04 | Loaded Words and Emotional Images | D10.S2.06.02 |
+| L.06.011.05 | Populations, Communities, and Predator and Prey | D10.S3.06.01 |
+| L.06.011.06 | Biodiversity: Why Variety Keeps Ecosystems Strong | D10.S3.06.02 |
+| L.06.011.07 | Footprints: What My Life Uses | D10.S4.06.01 |
+| L.06.011.08 | Walk or Ride? Choosing with Trade-offs | D10.S4.06.02, D10.S4.06.01 |

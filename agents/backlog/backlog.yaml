@@ -4175,7 +4175,7 @@ items:
     type: lesson
     grade: 6
     domain: D10
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -4187,6 +4187,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (1047). IDs L.06.011.01-.08 sequence_in_unit 1-8, grade 6, unit U.06.011; objectives resolve to all 8 real grade-6 D10 standards (L8 carries S4.06.02 + S4.06.01 revisit); required headings present learner-first; unit.md table lists all 8; all 8 assets resolve non-empty alt; media examples correct (news checkable who/what/when/where, opinion best/should, ad buy/offer, loaded word 'PURE!', emotional image); ecology accurate (population vs community, predator-prey rise-and-fall, biodiversity safety-net/single-crop Irish potato famine); footprint 'measurement not score' no shaming; sources Kirschner/Global Footprint Network/Common Sense Media.
+      fact-checker:
+        verdict: passed
+        note: Technology design/access as fairness accurate not deficit; news/opinion/ad + persuasion (loaded words/emotional images) conceptually accurate; ecology population vs community + predator-prey lynx/hare + biodiversity safety-net + Irish potato famine accurate; footprint 'resources a person/place uses' matches Global Footprint Network definition live; 'measurement not score'/'neither life better' as values. Sources Kirschner S-011/Common Sense Media S-063/GFN/Stony Brook News Literacy/CBD/WCAG/World Bank WDR 2016/UNEP. Registered S-277..S-282 (6 sources).
+      global-culture-editor:
+        verdict: passed
+        note: L2 access as fairness not deficit (facilitator note forbids 'lacking/behind' framing, names designs/prices + real solutions ramps/water kiosks/shared phones/mobile clinics); L7 footprint compares city bus-rider/rural farm/fishing village/commuter + 'measurement not score'/'neither life better' never ranked; L8 walk-vs-ride 'no single right answer'; L1 global technologies (qanat/abacus/dugout canoe/windmill/solar lamp/braille slate/fishing net) no single default inventor; L3-4 media literacy universal categories 'scroll any screen/open any paper/walk past any wall'; no wealth assumption.
+      accessibility-editor:
+        verdict: passed
+        note: Checked low-tech tier (all 8 lessons declare materials_low_tech with voice-only/mime/dirt options, gate devices only in optional materials_enriched), UDL (multiple engagement/representation/expression via cards, posters, spoken, acted-out, write-or-draw, multi-age/self-directed/outdoor context variants), disability framing (braille slate, non-deficit wheelchair-access), wealth (paper/pencil/dirt/voice only), alt text (all 8 assets entries have non-empty grayscale-safe alt and resolve to real SVGs with role=img + aria-labelledby + title) — all pass, no barriers found.
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics, egalitarianism, global/anthropological, and technology/environment lenses across all 8 lessons with evidence-value distinctions cited; each lesson objective resolves through D10.S1-S4.06.0x -> D10 -> P4 -> the vision's goal of raising awareness and flourishing for all life.
+      child-psychologist:
+        verdict: passed
+        note: Checked grade-6 band abstract load (formal operations emerging, each concept anchored in a concrete worked example), emotional safety (media manipulation as clarity-not-cynicism, access as non-shaming fairness question, ecological loss balanced with agency/hope), physical fit (mime, stand/crouch, outdoor movement matching 11-12-year-old motor development), substantive-not-shallow rigor, and open-endedness (evidence distinguished from values, no ranking) across all 8 lessons.
   - id: B-346
     title: Author lessons for Unit U.06.012 (All of Me, All of Us)
     agent: lesson-author

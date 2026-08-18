@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Populations, communities, and the predator-prey cycle</title>
+  <desc id="desc">A three-part diagram. The top left panel shows many grasshoppers inside a dashed oval labeled "A POPULATION: all the grasshoppers in this meadow." The top right panel shows grass, a grasshopper, a mouse, and a hawk together, labeled "A COMMUNITY: all the living things there together." The bottom panel shows a four-step cycle of predator and prey: "Many mice, so hawks eat well," "Hawk numbers rise," "Fewer mice, so hawks eat less," "Hawk numbers fall, mice recover, and the cycle repeats." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Populations, communities, and predator and prey</text>
+
+  <!-- POPULATION panel -->
+  <g>
+    <rect x="20" y="56" width="226" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="80" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">A POPULATION</text>
+    <ellipse cx="133" cy="150" rx="88" ry="60" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-dasharray="6 4"/>
+    <!-- five grasshoppers -->
+    <ellipse cx="104" cy="132" rx="10" ry="7" fill="#c9d6be" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M104 125 L98 110" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M104 139 L98 152" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="150" cy="142" rx="10" ry="7" fill="#c9d6be" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M150 135 L146 120" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M150 149 L144 160" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="126" cy="168" rx="10" ry="7" fill="#c9d6be" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M126 161 L120 148" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M126 175 L122 186" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="170" cy="166" rx="10" ry="7" fill="#c9d6be" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M170 159 L164 146" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M170 173 L166 184" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="92" cy="164" rx="10" ry="7" fill="#c9d6be" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M92 157 L86 144" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M92 171 L88 182" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">all the grasshoppers in this meadow</text>
+  </g>
+
+  <!-- COMMUNITY panel -->
+  <g>
+    <rect x="266" y="56" width="226" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="80" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">A COMMUNITY</text>
+    <!-- grass -->
+    <path d="M300 200 L300 184 M306 200 L306 180 M312 200 L312 186" stroke="#7a9e7e" stroke-width="2.5"/>
+    <!-- grasshopper -->
+    <ellipse cx="340" cy="172" rx="9" ry="6" fill="#c9d6be" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M340 166 L335 154" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M340 178 L336 188" stroke="#2b3a42" stroke-width="2"/>
+    <!-- mouse -->
+    <ellipse cx="380" cy="194" rx="14" ry="10" fill="#c9a97a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="392" cy="186" r="5" fill="#c9a97a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M380 194 L374 210" stroke="#2b3a42" stroke-width="2"/>
+    <!-- hawk -->
+    <path d="M320 130 Q340 118 356 130" fill="#c9c2b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 126 L338 116" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 116 L330 118 L338 114 L346 118" fill="#c9c2b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">all the living things there together</text>
+  </g>
+
+  <!-- PREDATOR-PREY cycle -->
+  <g>
+    <rect x="20" y="252" width="472" height="170" rx="12" fill="#f2ead8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="276" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Predator and prey rise and fall together</text>
+    <rect x="40" y="292" width="200" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="314" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Many mice, so</text>
+    <text x="140" y="332" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">hawks eat well.</text>
+    <rect x="272" y="292" width="200" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="372" y="314" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Hawk numbers</text>
+    <text x="372" y="332" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">rise.</text>
+    <rect x="40" y="356" width="200" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="378" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Fewer mice, so</text>
+    <text x="140" y="396" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">hawks eat less.</text>
+    <rect x="272" y="356" width="200" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="372" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Hawk numbers fall,</text>
+    <text x="372" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">mice recover.</text>
+    <!-- arrows -->
+    <path d="M240 318 L272 318" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M372 344 L372 356" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M272 382 L240 382" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M140 356 L140 344" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <defs>
+      <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+        <path d="M0 0 L6 3 L0 6 Z" fill="#2b3a42"/>
+      </marker>
+    </defs>
+  </g>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">A population is one kind of life; a community is all of it, woven together.</text>
+</svg>

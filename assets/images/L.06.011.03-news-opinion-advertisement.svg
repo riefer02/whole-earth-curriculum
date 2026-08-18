@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One event, three kinds of message: news, opinion, advertisement</title>
+  <desc id="desc">Three stacked cards showing the same event written three ways. The news card reads "A new park opened Tuesday. It has trees, a pond, and a play area," with the clue "reports facts you can check — who, what, when, where." The opinion card reads "The new park is the best thing to happen to this town!" with the clue "someone's view — words like 'best' and 'should.'" The advertisement card reads "Visit the new park cafe — buy one drink, get one free!" with the clue "tries to sell — words like 'buy' and 'free offer.'" A closing caption reads "Ask: is it telling me facts, a view, or a sales pitch?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">One event, three kinds of message</text>
+
+  <!-- NEWS -->
+  <g>
+    <rect x="20" y="60" width="472" height="128" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="20" y="60" width="118" height="128" rx="12" fill="#d7e3d9" stroke="#2b3a42" stroke-width="2"/>
+    <text x="79" y="128" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">NEWS</text>
+    <text x="152" y="88" font-family="sans-serif" font-size="14" fill="#222222">"A new park opened Tuesday. It has trees,</text>
+    <text x="152" y="108" font-family="sans-serif" font-size="14" fill="#222222">a pond, and a play area."</text>
+    <text x="152" y="136" font-family="sans-serif" font-size="13" fill="#4f6d7a">Clue: reports facts you can check — who,</text>
+    <text x="152" y="154" font-family="sans-serif" font-size="13" fill="#4f6d7a">what, when, where.</text>
+  </g>
+
+  <!-- OPINION -->
+  <g>
+    <rect x="20" y="198" width="472" height="128" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="20" y="198" width="118" height="128" rx="12" fill="#dbe6ef" stroke="#2b3a42" stroke-width="2"/>
+    <text x="79" y="266" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">OPINION</text>
+    <text x="152" y="226" font-family="sans-serif" font-size="14" fill="#222222">"The new park is the best thing to happen</text>
+    <text x="152" y="246" font-family="sans-serif" font-size="14" fill="#222222">to this town!"</text>
+    <text x="152" y="274" font-family="sans-serif" font-size="13" fill="#4f6d7a">Clue: someone's view — words like "best"</text>
+    <text x="152" y="292" font-family="sans-serif" font-size="13" fill="#4f6d7a">and "should."</text>
+  </g>
+
+  <!-- ADVERTISEMENT -->
+  <g>
+    <rect x="20" y="336" width="472" height="128" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="20" y="336" width="118" height="128" rx="12" fill="#f4e2c4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="79" y="404" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">ADVERTISE-</text>
+    <text x="79" y="422" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">MENT</text>
+    <text x="152" y="364" font-family="sans-serif" font-size="14" fill="#222222">"Visit the new park cafe — buy one drink,</text>
+    <text x="152" y="384" font-family="sans-serif" font-size="14" fill="#222222">get one free!"</text>
+    <text x="152" y="412" font-family="sans-serif" font-size="13" fill="#4f6d7a">Clue: tries to sell — words like "buy"</text>
+    <text x="152" y="430" font-family="sans-serif" font-size="13" fill="#4f6d7a">and "free offer."</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" font-style="italic" fill="#2b3a42">Ask: is it telling me facts, a view, or a sales pitch?</text>
+</svg>
