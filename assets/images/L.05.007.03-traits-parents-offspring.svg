@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
+  <title id="title">Traits pass from parents to offspring</title>
+  <desc id="desc">A heredity diagram showing a mother dog and a father dog passing traits to their puppy. On the left, a mother dog with rounded hanging ears and a solid brown coat is labeled mother, with a caption floppy ears and brown coat. On the right, a father dog with pointed ears and a white coat covered in dark spots is labeled father, with a caption pointed ears and spotted coat. Arrows labeled instructions for traits point from each parent down to a puppy at the bottom center. The puppy is labeled offspring and has rounded hanging ears (from the mother) and a spotted coat (from the father). Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="480" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr3" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Traits Pass from Parents to Offspring</text>
+
+  <!-- MOTHER (left) -->
+  <ellipse cx="140" cy="185" rx="46" ry="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="108" y="205" width="10" height="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="160" y="205" width="10" height="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M186,180 Q210,168 208,150" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="112" cy="132" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- floppy ears -->
+  <ellipse cx="95" cy="146" rx="10" ry="17" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="129" cy="146" rx="10" ry="17" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="104" cy="128" r="3" fill="#2b3a42"/>
+  <circle cx="120" cy="128" r="3" fill="#2b3a42"/>
+  <circle cx="112" cy="140" r="4" fill="#2b3a42"/>
+
+  <text x="140" y="262" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">mother</text>
+  <text x="140" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">floppy ears · brown coat</text>
+
+  <!-- FATHER (right) -->
+  <ellipse cx="372" cy="185" rx="46" ry="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="345" cy="180" r="6" fill="#4f6d7a"/>
+  <circle cx="385" cy="200" r="5" fill="#4f6d7a"/>
+  <circle cx="365" cy="170" r="4" fill="#4f6d7a"/>
+  <rect x="340" y="205" width="10" height="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="392" y="205" width="10" height="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M326,180 Q302,168 304,150" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="400" cy="132" r="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="392" cy="128" r="3" fill="#2b3a42"/>
+  <circle cx="408" cy="128" r="3" fill="#2b3a42"/>
+  <circle cx="400" cy="140" r="4" fill="#2b3a42"/>
+  <!-- pointed ears -->
+  <path d="M384,114 L380,90 L398,108 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M416,114 L420,90 L402,108 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="372" y="262" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">father</text>
+  <text x="372" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">pointed ears · spotted coat</text>
+
+  <!-- arrows to offspring -->
+  <line x1="140" y1="222" x2="230" y2="330" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3)"/>
+  <line x1="372" y1="222" x2="282" y2="330" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3)"/>
+  <text x="168" y="300" font-family="sans-serif" font-size="12" fill="#2b3a42">instructions</text>
+  <text x="330" y="300" font-family="sans-serif" font-size="12" fill="#2b3a42">instructions</text>
+
+  <!-- OFFSPRING (bottom center) -->
+  <ellipse cx="256" cy="360" rx="40" ry="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="242" cy="356" r="6" fill="#4f6d7a"/>
+  <circle cx="272" cy="366" r="5" fill="#4f6d7a"/>
+  <rect x="230" y="376" width="9" height="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="272" y="376" width="9" height="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="238" cy="318" r="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="224" cy="330" rx="8" ry="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="252" cy="330" rx="8" ry="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="232" cy="315" r="3" fill="#2b3a42"/>
+  <circle cx="244" cy="315" r="3" fill="#2b3a42"/>
+  <circle cx="238" cy="325" r="4" fill="#2b3a42"/>
+
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">offspring (puppy)</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">floppy ears (mother) · spotted coat (father)</text>
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">each parent passes some instructions (genes) for traits</text>
+</svg>

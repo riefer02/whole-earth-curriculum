@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
+  <title id="title">Gravity acts at a distance</title>
+  <desc id="desc">A gravity diagram. A large circle labeled Earth sits in the lower center of the image. Arrows at several points on the Earth's surface point straight toward the Earth's center, labeled gravity pulls toward Earth's center. A person stands on the left side of the Earth and a tree on the right, both upright relative to the surface. A ball above the Earth has a downward arrow pointing toward the center. In the upper right, a smaller circle labeled Moon sits on a curved dashed orbit line around the Earth, with a weaker arrow labeled gravity also pulls on the Moon. A caption reads: gravity is a pull that acts at a distance — no touching. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="480" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr6" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Gravity: A Force That Acts at a Distance</text>
+
+  <!-- Earth -->
+  <circle cx="256" cy="300" r="120" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#ffffff">Earth</text>
+  <text x="256" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffffff">center</text>
+  <circle cx="256" cy="300" r="5" fill="#222222"/>
+
+  <!-- surface arrows toward center -->
+  <line x1="256" y1="180" x2="256" y2="235" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr6)"/>
+  <line x1="156" y1="214" x2="205" y2="263" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr6)"/>
+  <line x1="356" y1="214" x2="307" y2="263" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr6)"/>
+  <line x1="376" y1="300" x2="330" y2="300" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr6)"/>
+  <line x1="136" y1="300" x2="182" y2="300" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr6)"/>
+
+  <!-- person standing on left side -->
+  <circle cx="138" cy="288" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="138" y1="298" x2="138" y2="312" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="138" y1="312" x2="128" y2="324" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="138" y1="312" x2="148" y2="324" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- tree on right side -->
+  <line x1="378" y1="286" x2="378" y2="252" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="378" cy="246" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- falling ball -->
+  <circle cx="256" cy="96" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="110" x2="256" y2="176" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr6)"/>
+  <text x="272" y="150" font-family="sans-serif" font-size="12" fill="#2b3a42">pull</text>
+
+  <!-- Moon orbit -->
+  <path d="M90,200 Q256,120 422,200" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <circle cx="96" cy="184" r="24" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="90" cy="180" r="3" fill="#4f6d7a"/>
+  <circle cx="102" cy="188" r="2.5" fill="#4f6d7a"/>
+  <text x="96" y="222" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Moon</text>
+
+  <!-- weaker arrow to moon -->
+  <line x1="140" y1="206" x2="120" y2="192" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr6)"/>
+  <text x="150" y="238" font-family="sans-serif" font-size="12" fill="#4f6d7a">gravity also pulls the Moon</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">gravity is a pull that acts at a distance — no touching</text>
+</svg>

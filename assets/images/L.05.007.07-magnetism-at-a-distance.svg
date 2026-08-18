@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 470" role="img" aria-labelledby="title desc">
+  <title id="title">Magnetism acts at a distance</title>
+  <desc id="desc">A magnetism diagram. At the top, a bar magnet labeled N on the left half and S on the right half has a paperclip hanging just below it, not touching, connected by a dashed line labeled pull at a distance. Below on the left, two bar magnets face each other with their N ends near each other, and arrows point apart, labeled like poles repel. Below on the right, two bar magnets face each other with N near S, and arrows point together, labeled unlike poles attract. At the bottom, a small compass with a needle labeled N pointing north sits above the caption: Earth acts like a giant magnet, so a compass needle points north. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="470" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr7" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Magnetism: A Force That Acts at a Distance</text>
+
+  <!-- top magnet with paperclip -->
+  <rect x="180" y="52" width="150" height="44" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="232" y="80" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">N</text>
+  <text x="280" y="80" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">S</text>
+  <line x1="255" y1="52" x2="255" y2="96" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <line x1="256" y1="96" x2="256" y2="122" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5,4"/>
+  <path d="M240,122 L240,150 Q240,160 256,160 Q272,160 272,150 L272,122" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="292" y="142" font-family="sans-serif" font-size="12" fill="#2b3a42">pull at a distance</text>
+  <text x="150" y="142" font-family="sans-serif" font-size="12" fill="#4f6d7a">paperclip</text>
+
+  <!-- REPEL (left) -->
+  <text x="150" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">like poles repel</text>
+  <rect x="120" y="224" width="70" height="26" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="155" y="242" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">N</text>
+  <rect x="196" y="224" width="70" height="26" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="231" y="242" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">N</text>
+  <line x1="190" y1="237" x2="174" y2="237" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr7)"/>
+  <line x1="196" y1="237" x2="212" y2="237" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr7)"/>
+  <text x="183" y="268" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">push apart</text>
+
+  <!-- ATTRACT (right) -->
+  <text x="362" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">unlike poles attract</text>
+  <rect x="322" y="224" width="70" height="26" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="357" y="242" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">N</text>
+  <rect x="398" y="224" width="70" height="26" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="433" y="242" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">S</text>
+  <line x1="398" y1="237" x2="414" y2="237" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr7)"/>
+  <line x1="392" y1="237" x2="376" y2="237" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr7)"/>
+  <text x="385" y="268" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">pull together</text>
+
+  <!-- compass -->
+  <circle cx="256" cy="356" r="42" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">N</text>
+  <line x1="256" y1="356" x2="256" y2="330" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="256" cy="330" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="356" x2="256" y2="382" stroke="#4f6d7a" stroke-width="2.5"/>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">compass needle points north</text>
+
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Earth acts like a giant magnet — that is why a compass works</text>
+</svg>

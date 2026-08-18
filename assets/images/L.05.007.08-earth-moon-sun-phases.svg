@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 600" role="img" aria-labelledby="title desc">
+  <title id="title">Earth, Moon, and Sun: day and night, and the Moon's phases</title>
+  <desc id="desc">An Earth-Moon-Sun diagram. On the left, a large circle labeled Sun sends light-ray arrows to the right. In the center, a circle labeled Earth is half lit (the side toward the Sun) and half dark, with a curved arrow showing it spins once in about 24 hours to make day and night. Around the Earth, a dashed circle shows the Moon's orbit with eight Moon positions. Each Moon is half lit on the side facing the Sun, and each position is labeled with the phase seen from Earth: new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, last quarter, and waning crescent. At the bottom, a row of eight circles shows those same eight phases as seen from Earth, each labeled. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="600" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr8" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+    <g id="moon13">
+      <circle cx="0" cy="0" r="13" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M0,-13 A13,13 0 0 0 0,13 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="1"/>
+    </g>
+    <g id="ph-new"><circle cx="0" cy="0" r="16" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/></g>
+    <g id="ph-waxcres"><circle cx="0" cy="0" r="16" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/><path d="M0,-16 A16,16 0 0 1 0,16 A10,16 0 0 0 0,-16 Z" fill="#ffffff"/></g>
+    <g id="ph-firstq"><circle cx="0" cy="0" r="16" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/><path d="M0,-16 A16,16 0 0 1 0,16 Z" fill="#ffffff"/></g>
+    <g id="ph-waxgib"><circle cx="0" cy="0" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M0,-16 A16,16 0 0 0 0,16 A10,16 0 0 1 0,-16 Z" fill="#4f6d7a"/></g>
+    <g id="ph-full"><circle cx="0" cy="0" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/></g>
+    <g id="ph-wangib"><circle cx="0" cy="0" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/><path d="M0,-16 A16,16 0 0 1 0,16 A10,16 0 0 0 0,-16 Z" fill="#4f6d7a"/></g>
+    <g id="ph-lastq"><circle cx="0" cy="0" r="16" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/><path d="M0,-16 A16,16 0 0 0 0,16 Z" fill="#ffffff"/></g>
+    <g id="ph-wancres"><circle cx="0" cy="0" r="16" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/><path d="M0,-16 A16,16 0 0 0 0,16 A10,16 0 0 1 0,-16 Z" fill="#ffffff"/></g>
+  </defs>
+
+  <text x="256" y="26" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Earth, Moon, and Sun</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">day and night (spin) · the Moon's phases (orbit)</text>
+
+  <!-- Sun -->
+  <circle cx="70" cy="200" r="40" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="70" y1="150" x2="70" y2="142"/><line x1="70" y1="250" x2="70" y2="258"/>
+    <line x1="20" y1="200" x2="12" y2="200"/><line x1="120" y1="200" x2="128" y2="200"/>
+  </g>
+  <text x="70" y="205" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Sun</text>
+
+  <!-- light rays -->
+  <line x1="112" y1="200" x2="140" y2="200" stroke="#e0a458" stroke-width="2.5" marker-end="url(#arr8)"/>
+  <line x1="110" y1="178" x2="138" y2="182" stroke="#e0a458" stroke-width="2.5" marker-end="url(#arr8)"/>
+  <line x1="110" y1="222" x2="138" y2="218" stroke="#e0a458" stroke-width="2.5" marker-end="url(#arr8)"/>
+
+  <!-- orbit -->
+  <circle cx="256" cy="200" r="110" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- moons on orbit (left half lit toward sun) -->
+  <use href="#moon13" x="146" y="200"/>
+  <use href="#moon13" x="178" y="122"/>
+  <use href="#moon13" x="256" y="90"/>
+  <use href="#moon13" x="334" y="122"/>
+  <use href="#moon13" x="366" y="200"/>
+  <use href="#moon13" x="334" y="278"/>
+  <use href="#moon13" x="256" y="310"/>
+  <use href="#moon13" x="178" y="278"/>
+
+  <!-- Earth -->
+  <circle cx="256" cy="200" r="28" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256,172 A28,28 0 0 0 256,228 Z" fill="#ffffff"/>
+  <text x="256" y="204" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Earth</text>
+  <path d="M256,162 A38,38 0 0 1 296,200" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+  <text x="300" y="150" font-family="sans-serif" font-size="11" fill="#2b3a42">spins once in ~24 h</text>
+
+  <!-- phase labels -->
+  <text x="146" y="238" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">new moon</text>
+  <text x="196" y="112" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waxing crescent</text>
+  <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">first quarter</text>
+  <text x="322" y="112" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waxing gibbous</text>
+  <text x="366" y="238" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">full moon</text>
+  <text x="322" y="306" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waning gibbous</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">last quarter</text>
+  <text x="188" y="306" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waning crescent</text>
+
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the Moon's lit half always faces the Sun — its phases are our changing view</text>
+
+  <!-- as seen from Earth strip -->
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">As seen from Earth, over about one month</text>
+
+  <use href="#ph-new" x="46" y="452"/>
+  <text x="46" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">new</text>
+  <use href="#ph-waxcres" x="106" y="452"/>
+  <text x="106" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waxing crescent</text>
+  <use href="#ph-firstq" x="166" y="452"/>
+  <text x="166" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">first quarter</text>
+  <use href="#ph-waxgib" x="226" y="452"/>
+  <text x="226" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waxing gibbous</text>
+  <use href="#ph-full" x="286" y="452"/>
+  <text x="286" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">full</text>
+  <use href="#ph-wangib" x="346" y="452"/>
+  <text x="346" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waning gibbous</text>
+  <use href="#ph-lastq" x="406" y="452"/>
+  <text x="406" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">last quarter</text>
+  <use href="#ph-wancres" x="466" y="452"/>
+  <text x="466" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waning crescent</text>
+
+  <text x="256" y="540" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the Moon makes no light of its own — it reflects the Sun's light</text>
+  <text x="256" y="560" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">phases are NOT Earth's shadow — that only happens during an eclipse</text>
+</svg>

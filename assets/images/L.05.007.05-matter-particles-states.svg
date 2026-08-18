@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 430" role="img" aria-labelledby="title desc">
+  <title id="title">Particles in solids, liquids, and gases</title>
+  <desc id="desc">A particle-model diagram with three panels. The left panel labeled solid shows many small circles packed in neat close rows inside a fixed square outline. The middle panel labeled liquid shows circles close together but jumbled, filling the bottom of an open container shape. The right panel labeled gas shows a few circles far apart, spread to fill a large square outline. Between the panels, arrows labeled add heat point from solid to liquid and from liquid to gas, and arrows labeled cool point back from gas to liquid and from liquid to solid. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="430" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr5" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Matter Is Made of Particles Too Small to See</text>
+
+  <!-- SOLID panel -->
+  <text x="90" y="60" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">solid</text>
+  <rect x="30" y="70" width="120" height="120" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#4f6d7a" stroke="#2b3a42" stroke-width="1">
+    <circle cx="52" cy="92" r="9"/><circle cx="74" cy="92" r="9"/><circle cx="96" cy="92" r="9"/><circle cx="118" cy="92" r="9"/>
+    <circle cx="52" cy="114" r="9"/><circle cx="74" cy="114" r="9"/><circle cx="96" cy="114" r="9"/><circle cx="118" cy="114" r="9"/>
+    <circle cx="52" cy="136" r="9"/><circle cx="74" cy="136" r="9"/><circle cx="96" cy="136" r="9"/><circle cx="118" cy="136" r="9"/>
+    <circle cx="52" cy="158" r="9"/><circle cx="74" cy="158" r="9"/><circle cx="96" cy="158" r="9"/><circle cx="118" cy="158" r="9"/>
+  </g>
+  <text x="90" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">packed, fixed shape</text>
+
+  <!-- LIQUID panel -->
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">liquid</text>
+  <path d="M196,190 L196,70 L316,70 L316,190 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="1">
+    <circle cx="214" cy="170" r="9"/><circle cx="238" cy="180" r="9"/><circle cx="262" cy="168" r="9"/><circle cx="288" cy="178" r="9"/>
+    <circle cx="226" cy="152" r="9"/><circle cx="256" cy="150" r="9"/><circle cx="282" cy="154" r="9"/><circle cx="210" cy="134" r="9"/>
+    <circle cx="240" cy="128" r="9"/><circle cx="272" cy="130" r="9"/><circle cx="296" cy="132" r="9"/><circle cx="256" cy="104" r="9"/>
+  </g>
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">close, sliding, takes container's shape</text>
+
+  <!-- GAS panel -->
+  <text x="422" y="60" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">gas</text>
+  <rect x="362" y="70" width="120" height="120" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="1">
+    <circle cx="382" cy="90" r="9"/><circle cx="418" cy="110" r="9"/><circle cx="462" cy="88" r="9"/>
+    <circle cx="398" cy="146" r="9"/><circle cx="444" cy="158" r="9"/><circle cx="470" cy="132" r="9"/>
+  </g>
+  <text x="422" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">far apart, fills all space</text>
+
+  <!-- heat arrows -->
+  <line x1="156" y1="140" x2="190" y2="140" stroke="#e0a458" stroke-width="3" marker-end="url(#arr5)"/>
+  <text x="173" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#b0712b">add heat</text>
+  <line x1="322" y1="140" x2="356" y2="140" stroke="#e0a458" stroke-width="3" marker-end="url(#arr5)"/>
+  <text x="339" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#b0712b">add heat</text>
+
+  <!-- cool arrows -->
+  <line x1="190" y1="120" x2="156" y2="120" stroke="#4f6d7a" stroke-width="3" marker-end="url(#arr5)"/>
+  <text x="173" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">cool</text>
+  <line x1="356" y1="120" x2="322" y2="120" stroke="#4f6d7a" stroke-width="3" marker-end="url(#arr5)"/>
+  <text x="339" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">cool</text>
+
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">heat makes particles move more</text>
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">the particles stay the same — only their motion and spacing change</text>
+
+  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">melting (solid → liquid) · evaporating (liquid → gas)</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">freezing (liquid → solid) · condensing (gas → liquid)</text>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 520" role="img" aria-labelledby="title desc">
+  <title id="title">Slow and fast changes to Earth's surface</title>
+  <desc id="desc">A cross-section landscape showing slow and fast changes to Earth's surface. On the left, a volcano rises above the ground and erupts with a plume of ash and a lava flow, labeled volcanic eruption — fast. In the center, a dashed line shows the original flat ground, and a V-shaped valley is carved below it with a river at its floor, labeled river erosion — slow. On the right, a fault line cuts the rock layers, and the layers on the right are shifted upward, with arrows showing the ground slipped, labeled earthquake at a fault — fast. Horizontal lines below the surface are labeled rock layers. At the bottom, an inset shows two plates meeting with arrows pushing together, a small volcano, and a star marking an earthquake, labeled most earthquakes and volcanoes happen where plates meet. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="520" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr10" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="28" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Slow and Fast Changes to Earth's Surface</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">slow: over thousands to millions of years · fast: in seconds to days</text>
+
+  <!-- rock layers (left of fault) -->
+  <line x1="24" y1="340" x2="408" y2="340" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="24" y1="362" x2="408" y2="362" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="24" y1="384" x2="408" y2="384" stroke="#4f6d7a" stroke-width="2"/>
+  <!-- rock layers (right of fault, offset up) -->
+  <line x1="412" y1="322" x2="488" y2="322" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="412" y1="344" x2="488" y2="344" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="412" y1="366" x2="488" y2="366" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="28" y="406" font-family="sans-serif" font-size="12" fill="#4f6d7a">rock layers</text>
+
+  <!-- VOLCANO (left) -->
+  <path d="M36,332 L108,180 L180,332 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M96,202 L108,180 L120,202 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <!-- eruption plume -->
+  <circle cx="108" cy="156" r="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="92" cy="166" r="9" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="124" cy="164" r="9" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <!-- lava flow -->
+  <path d="M108,196 Q150,240 172,332" fill="none" stroke="#b0712b" stroke-width="4"/>
+  <text x="72" y="120" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">volcanic eruption</text>
+  <text x="72" y="136" font-family="sans-serif" font-size="12" fill="#2b3a42">— fast</text>
+
+  <!-- RIVER VALLEY (center) -->
+  <line x1="196" y1="332" x2="316" y2="332" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="5,4"/>
+  <path d="M196,332 L252,394 L316,332 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M252,394 Q236,390 252,386 Q268,382 252,378" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">river erosion</text>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">— slow</text>
+
+  <!-- FAULT (right) -->
+  <line x1="410" y1="322" x2="410" y2="384" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="412" y1="322" x2="412" y2="366" stroke="#2b3a42" stroke-width="1"/>
+  <!-- slip arrows -->
+  <line x1="430" y1="350" x2="430" y2="326" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr10)"/>
+  <line x1="392" y1="352" x2="392" y2="378" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr10)"/>
+  <text x="446" y="298" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">earthquake</text>
+  <text x="446" y="314" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">at a fault — fast</text>
+
+  <!-- INSET: plates meet -->
+  <rect x="24" y="424" width="464" height="78" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="60" y="452" width="120" height="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="120" y1="452" x2="120" y2="478" stroke="#2b3a42" stroke-width="1"/>
+  <rect x="332" y="452" width="120" height="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="392" y1="452" x2="392" y2="478" stroke="#2b3a42" stroke-width="1"/>
+  <line x1="150" y1="465" x2="200" y2="465" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr10)"/>
+  <line x1="362" y1="465" x2="312" y2="465" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr10)"/>
+  <!-- volcano + earthquake at boundary -->
+  <path d="M238,478 L256,446 L274,478 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M250,486 l4,9 l9,0 l-7,7 l2,9 l-8,-5 l-8,5 l2,-9 l-7,-7 l9,0 Z" fill="#2b3a42"/>
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">plates meet here</text>
+
+  <text x="256" y="516" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">most earthquakes and volcanoes happen where plates meet</text>
+</svg>

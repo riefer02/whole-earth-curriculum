@@ -58,3 +58,13 @@ holds: predict, test, observe, and separate evidence from inference.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.007.01 | Matter and Energy Move Through a Food Web | D06.S2.05.01 |
+| L.05.007.02 | What Happens When One Part of a Food Web Changes | D06.S2.05.01 |
+| L.05.007.03 | Traits Pass from Parents to Offspring | D06.S2.05.02 |
+| L.05.007.04 | Traits Vary Within a Family | D06.S2.05.02 |
+| L.05.007.05 | Matter Is Made of Particles Too Small to See | D06.S3.05.01 |
+| L.05.007.06 | Gravity: A Force That Acts at a Distance | D06.S3.05.02 |
+| L.05.007.07 | Magnetism: A Force That Acts at a Distance | D06.S3.05.02 |
+| L.05.007.08 | Earth, Moon, and Sun: Day Length and Moon Phases | D06.S4.05.01 |
+| L.05.007.09 | Eclipses: When Shadows Meet | D06.S4.05.01 |
+| L.05.007.10 | Slow and Fast Changes to Earth's Surface | D06.S4.05.02 (revisits S2, S3) |

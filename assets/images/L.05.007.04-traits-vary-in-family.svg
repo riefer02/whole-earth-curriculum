@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 430" role="img" aria-labelledby="title desc">
+  <title id="title">Traits vary within a family</title>
+  <desc id="desc">A variation diagram. At the top, two parent dogs — a mother and a father — are shown side by side above the label same parents. Below them, four puppy offspring appear in a row. The puppies share the family's general body shape but differ from one another: the first has a solid dark coat, the second a spotted coat, the third a patchy coat, and the fourth has one floppy and one pointed ear. A caption reads: siblings share family traits, but each is its own unique mix. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="430" fill="#fdfbf7"/>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Traits Vary Within a Family</text>
+
+  <!-- parents -->
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">same parents</text>
+
+  <!-- mother -->
+  <ellipse cx="196" cy="112" rx="34" ry="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="176" cy="76" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="163" cy="86" rx="7" ry="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="189" cy="86" rx="7" ry="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="172" cy="73" r="2.5" fill="#2b3a42"/>
+  <circle cx="180" cy="73" r="2.5" fill="#2b3a42"/>
+  <text x="196" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">mother</text>
+
+  <!-- father -->
+  <ellipse cx="316" cy="112" rx="34" ry="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="300" cy="108" r="4" fill="#4f6d7a"/>
+  <circle cx="330" cy="118" r="3" fill="#4f6d7a"/>
+  <circle cx="336" cy="76" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M324,62 L320,44 L334,58 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M348,62 L352,44 L338,58 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="332" cy="73" r="2.5" fill="#2b3a42"/>
+  <circle cx="340" cy="73" r="2.5" fill="#2b3a42"/>
+  <text x="316" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">father</text>
+
+  <!-- divider -->
+  <line x1="40" y1="170" x2="472" y2="170" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- puppy 1: solid -->
+  <ellipse cx="96" cy="250" rx="32" ry="20" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="82" cy="222" r="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="71" cy="230" rx="6" ry="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="93" cy="230" rx="6" ry="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="79" cy="220" r="2" fill="#ffffff"/>
+  <circle cx="85" cy="220" r="2" fill="#ffffff"/>
+  <text x="96" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">solid coat</text>
+
+  <!-- puppy 2: spotted -->
+  <ellipse cx="192" cy="250" rx="32" ry="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="182" cy="246" r="4" fill="#4f6d7a"/>
+  <circle cx="204" cy="256" r="3" fill="#4f6d7a"/>
+  <circle cx="180" cy="222" r="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="170" cy="230" rx="6" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="192" cy="230" rx="6" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="178" cy="220" r="2" fill="#2b3a42"/>
+  <circle cx="184" cy="220" r="2" fill="#2b3a42"/>
+  <text x="192" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">spotted coat</text>
+
+  <!-- puppy 3: patchy -->
+  <ellipse cx="288" cy="250" rx="32" ry="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M262,240 Q276,232 288,244 L284,258 Q272,250 264,254 Z" fill="#4f6d7a"/>
+  <circle cx="274" cy="222" r="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="263" cy="230" rx="6" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="285" cy="230" rx="6" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="271" cy="220" r="2" fill="#2b3a42"/>
+  <circle cx="277" cy="220" r="2" fill="#2b3a42"/>
+  <text x="288" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">patchy coat</text>
+
+  <!-- puppy 4: one floppy, one pointed ear -->
+  <ellipse cx="384" cy="250" rx="32" ry="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="370" cy="222" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="359" cy="230" rx="6" ry="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M376,210 L378,196 L384,208 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="367" cy="220" r="2" fill="#2b3a42"/>
+  <circle cx="373" cy="220" r="2" fill="#2b3a42"/>
+  <text x="384" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">different ears</text>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">siblings share family traits, but each is its own unique mix</text>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">this ordinary difference is called variation</text>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">variation is normal in every family of living things</text>
+</svg>

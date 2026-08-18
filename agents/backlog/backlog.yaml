@@ -3583,7 +3583,7 @@ items:
     type: lesson
     grade: 5
     domain: D06
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3595,6 +3595,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (885). IDs L.05.007.01-.10 sequence_in_unit 1-10, grade 5, unit U.05.007; objectives resolve to real grade-5 D06 standards (all 6 covered); required headings present; unit.md table lists all 10; all 10 assets resolve with non-empty alt; science correct (food-web arrows eaten->eater Sun->grass->grasshopper->frog->snake->eagle + decomposer loop; particle model solid packed/liquid slides/gas spreads; eclipse geometry solar=new moon, lunar=full moon, phases not Earth's shadow; moon-phase SVG lit half faces Sun + correct 8-phase orientation); sources NASA/BBC/NG/Britannica/FAO.
+      fact-checker:
+        verdict: passed
+        note: "Verified: food-web arrows energy-flow + sea-otter-urchin-kelp keystone cascade accurate (Estes-Palmisano type); heredity genes-from-both-parents resemblance-not-copies hedged (gene mechanism deferred G8); particles/states, gravity-vs-magnetism not conflated, day length from rotation not orbit, solar@new-moon/lunar@full-moon all correct; evidence vs inference vs values distinguished. Registered 12 sources S-176..S-187 (NatGeo keystone, Britannica heredity, FAO CGRFA, NSTA, NASA gravity/moon/phases/eclipses, NatGeo erosion/plate tectonics, BBC magnet). Fixed 2 broken 404 citations (L07 magnet -> BBC Bitesize; L02 kelp -> NatGeo keystone) + 2 page-title labels."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Euro default: ecosystems multi-region (coral reef Pacific, savanna E.Africa, rice paddy S.Asia + rice/maize/fish/greens); gravity Connection names Lagos/Andes/Himalayas; L10 landforms Blue Nile/Yangtze + quake/volcano examples Chile/Japan/Indonesia/Iceland/Ring of Fire; heredity L3 holds rice farmers across Asia, maize growers Americas, cattle herders Africa/M.East as millennia of evidence (not pre-science); lunar-calendar/eclipse/compass references (Ramadan, Asian New Year, China/West Asia/Mesoamerica/Europe eclipse records) accurate dignified with guardrails against 'superstition' framing; 'how do we know' separates evidence from inference, values named as values so knowledge traditions held side by side per philosophy §11."
+      accessibility-editor:
+        verdict: passed
+        note: All 10 lessons real materials_low_tech (stones/leaves/string/seeds/sand/Sun + voice-and-body); UDL draw/model/act/say/write with hands-on models (yarn/stones food web, shoulder-to-shoulder particle body model, drop test, ball-and-lamp + three-learner Earth-Moon-Sun role-play); every visual concept has verbal + tactile/physical alternative; force/particle demos seated-doable, 'jump/run' always alternative not sole path; plain prose with key_vocabulary scaffolding ('instructions' before 'genes'); all 10 assets non-empty alt + SVG role=img/title/desc grayscale, meaning by labels/shapes (dashed vs solid arrows).
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L2/L10 care for living systems + safer building near faults, framed as values); egalitarianism (L4 'variation is ordinary and worthy of respect', refusal to rank human traits, low-tech/self-directed adaptations); global (rice paddy/savanna/kelp/coral, rice/maize/herder selection, Chinese-Arab-European compass, Islamic/lunar calendars, eclipse records, Andes/Himalayas/Blue Nile/Ring of Fire); tech/environment (environment threaded, compass/navigation); evidence-vs-values (predict-test-observe, evidence/inference/value sorting; BBC/NASA/NG/Britannica/FAO/NSTA cited). Traceability: Vision->P3->D06->S2/S3/S4->6 standards->U.05.007->lessons."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band: cognitive fit concrete anchors (particles as inferred model not photograph, atoms deferred G6; gravity/magnetism via felt effects, mass-strength deferred G7; Earth-Moon-Sun via ball-and-lamp/role-play; heredity via observable traits + 'instructions' word, DNA deferred G8); emotional safety L10 hazards gentle with safety-and-agency framing ('safer places to build'), no graphic detail; L3-4 plants/animals worked examples, personal family sharing optional, anti-ranking value; L2 food-web change as normal 'ripple' with hopeful sea-otter recovery; physical fit seated/table alternatives; real vocabulary + misconception correction (phases ≠ Earth's shadow) + forward-links."
   - id: B-330
     title: Author lessons for Unit U.05.008 (Making, Music & Movement)
     agent: lesson-author

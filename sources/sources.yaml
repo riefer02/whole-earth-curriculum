@@ -1623,4 +1623,112 @@ sources:
     reviewed: true
     notes: "Cited in U.05.006 L01 for the claim that a comma serves as the decimal separator in many countries. ISO 80000-1:2022 stipulates 'The decimal sign is either a comma or a point on the line' (with an ISO/IEC-directives note that all ISO standards use the comma). This is the correct part (Part 1: General) for the decimal-sign rule — the lesson originally cited ISO 80000-2 (Part 2: Mathematics, which covers mathematical signs and symbols), corrected to ISO 80000-1 during fact-check. The same convention is affirmed by CGPM Resolution 10 (2003). On-topic and authoritative for the lesson's 'comma vs point' convention note."
 
+  - id: S-176
+    title: National Geographic Education — Role of Keystone Species in an Ecosystem
+    type: website
+    url: https://education.nationalgeographic.org/resource/role-keystone-species-ecosystem/
+    organization: National Geographic Society
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L02 for the sea-otter–urchin–kelp example. URL verified live (2026-08-17): the page defines a keystone species and a trophic cascade ('a top-down trophic cascade describes changes that result from the removal of an ecosystem's top predator'), and its Fast Facts state 'Kelp is a keystone host. Kelp forests provide stabilizing shelter for sea otters, and nutrient-rich food for their prey, such as fish and sea urchins.' Supports the lesson's well-documented sea-otter/urchin/kelp chain (Estes & Palmisano's classic keystone-predator work). Replaces the broken citation to education.nationalgeographic.org/resource/kelp-forest/ (404)."
+
+  - id: S-177
+    title: Encyclopaedia Britannica — Heredity
+    type: website
+    url: https://www.britannica.com/science/heredity-genetics
+    organization: Encyclopaedia Britannica
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L03/L04 (traits pass from parents to offspring; traits vary within a family). URL verified live (2026-08-17): the 'Heredity' article covers Mendelian genetics, chromosomes and genes, polygenic inheritance, and 'Heredity and environment' — on-topic for the lessons' claims that offspring receive trait instructions from both parents and that offspring of the same parents vary. Authoritative general reference; the lessons appropriately defer the gene-level mechanism to Grade 8."
+
+  - id: S-178
+    title: FAO — Commission on Genetic Resources for Food and Agriculture (CGRFA)
+    type: website
+    url: https://www.fao.org/cgrfa/en/
+    organization: Food and Agriculture Organization of the United Nations (FAO)
+    domains: [D03, D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L03 for the claim that selecting plants and animals with valued traits is a documented, worldwide agricultural practice. URL verified live (2026-08-17): the CGRFA homepage frames 'biodiversity for food and agriculture' as 'among the Earth's most important resources' and the Commission as conserving and sustainably using it — a general authority for crop/animal genetic resources. The lesson's claim that people everywhere selected seeds and animals with useful traits (rice in Asia, maize in the Americas, cattle in Africa/Middle East) is standard, accurate agricultural history; this page is a general authority, not a claim-level citation for any single statistic."
+
+  - id: S-179
+    title: National Science Teaching Association (NSTA)
+    type: website
+    url: https://www.nsta.org/
+    organization: National Science Teaching Association
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L04 for the 'heredity and variation of traits' life-science progression. URL verified live (2026-08-17): nsta.org is the live homepage of the real professional association for K–12 science teaching, which promotes the NGSS life-science progression (LS3: Heredity — Inheritance and Variation of Traits). Note: the Next Generation Science Standards themselves are published by Achieve (with NSTA among the writing partners), so this citation is best read as a general authority for the heredity/variation progression, not a claim-level citation. The underlying claim (variation within families is standard elementary life science) is accurate."
+
+  - id: S-180
+    title: NASA Space Place — What Is Gravity?
+    type: website
+    url: https://spaceplace.nasa.gov/what-is-gravity/en/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L06 (gravity as a force that acts at a distance). URL verified live (2026-08-17). States verbatim: 'Gravity is the force by which a planet or other body draws objects toward its center'; 'an invisible force that pulls objects toward each other'; 'Earth's gravity is what keeps you on the ground and what makes things fall'; and 'what keeps the moon in orbit around Earth.' Directly supports the lesson's claims (pull toward Earth's center, acts without touching, holds the Moon in orbit). The lesson correctly defers the mass-dependence of gravity to Grade 7."
+
+  - id: S-181
+    title: NASA — Earth's Moon
+    type: website
+    url: https://science.nasa.gov/moon/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L08 (moon phases and the Earth–Moon–Sun system). URL verified live (2026-08-17): the 'Earth's Moon' hub has 'Moon Phases', 'Phases', 'Eclipses', and 'Tides' sections and states the phase cycle is 'new moon, waxing crescent, first quarter, waxing gibbous, full moon, waning gibbous, third quarter, and waning crescent.' Supports the lesson's phase-order and Earth–Moon–Sun claims. (The lesson labels it 'The Moon'; the page's formal title is 'Earth's Moon.')"
+
+  - id: S-182
+    title: NASA Space Place — What Are the Moon's Phases?
+    type: website
+    url: https://spaceplace.nasa.gov/moon-phases/en/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L08 (moon phases; the Moon reflects sunlight). URL verified live (2026-08-17). States verbatim: 'The Moon does not produce its own light'; 'moonlight is actually just sunlight reflecting off of the Moon's surface'; 'it always illuminates... one half of the Moon'; and that our view of the illuminated half changes as the Moon orbits, giving the eight phases (new, waxing crescent, first quarter, waxing gibbous, full, waning gibbous, third quarter, waning crescent), with ~27.3 days to orbit and ~29.5 days new-moon-to-new-moon. Supports every phase claim in the lesson, including its '29–30 days' phrasing and its explicit correction of the 'Earth's shadow makes the phases' misconception."
+
+  - id: S-183
+    title: NASA Space Place — Lunar Eclipses and Solar Eclipses
+    type: website
+    url: https://spaceplace.nasa.gov/eclipses/en/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L09 (solar and lunar eclipses). URL verified live (2026-08-17). States: 'A solar eclipse happens when the Moon gets in the way of the Sun's light and casts its shadow on Earth'; 'During a lunar eclipse, Earth gets in the way of the Sun's light hitting the Moon'; the Moon can look reddish (atmosphere); and 'The Moon's path around Earth is tilted compared to Earth's orbit around the Sun' — which is why there isn't an eclipse every month. Also gives the eye-safety caution (never look directly at the Sun). Supports every eclipse claim in the lesson. (The lesson's original label 'What is an eclipse?' was corrected to the page's actual title.)"
+
+  - id: S-184
+    title: NASA — Eclipses
+    type: website
+    url: https://science.nasa.gov/eclipses/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L09 (eclipse geometry and predictability). URL verified live (2026-08-17). States verbatim in 'Quick Facts': 'Lunar eclipses occur during the full moon phase, and solar eclipses occur during the new moon phase'; covers eclipse seasons, tilted-orbit rarity, pinhole-projector and eclipse-glasses safety, and the Anyang (China) eclipse records used to measure Earth's changing rotation — directly supporting the lesson's 'solar at new moon, lunar at full moon' claim, its rarity explanation, and its note that people have recorded and predicted eclipses for thousands of years across cultures."
+
+  - id: S-185
+    title: National Geographic Education — Erosion
+    type: website
+    url: https://education.nationalgeographic.org/resource/erosion/
+    organization: National Geographic Society
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.05.007 L10 (slow surface change: weathering, erosion, deposition). URL verified live (2026-08-17). States 'Erosion is the geological process in which earthen materials are worn away and transported by natural forces such as wind or water'; 'A similar process, weathering, breaks down or dissolves rock, but does not involve movement'; 'Erosion is the opposite of deposition'; and covers erosion by water (rivers carving valleys/canyons, e.g., Fish River Canyon), wind, and ice/glaciers. Supports every slow-process claim in the lesson, including the river-carves-a-canyon-over-long-times claim."
+
+  - id: S-186
+    title: National Geographic Education — Plate Tectonics
+    type: website
+    url: https://education.nationalgeographic.org/resource/plate-tectonics/
+    organization: National Geographic Society
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L10 (earthquakes and volcanoes occur where plates meet). URL verified live (2026-08-17). States the theory 'explains how major landforms are created... including mountain building events, volcanoes, and earthquakes'; Earth's outer layer 'is broken into large rocky plates' that 'move relative to each other'; and that plates interact at boundaries (subduction zones, rifts). Supports the lesson's claim that most earthquakes and volcanoes happen where plates meet (the lesson adds the Ring of Fire example, standard and accurate). Grades 9–12 entry, used here only for the boundary-location pattern, which is grade-appropriate."
+
+  - id: S-187
+    title: BBC Bitesize (KS2, NI) — What is a magnet?
+    type: website
+    url: https://www.bbc.co.uk/bitesize/articles/zpvcrdm
+    organization: BBC Bitesize
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.05.007 L07 (magnets attract and repel; compass points north). URL verified live (2026-08-17). States: 'Even if the magnets aren't touching, they can exert a force on each other'; 'The opposite poles of a magnet attract one another, and poles that are the same... repel one another'; and 'Sailors have been using magnets in compasses to navigate for hundreds of years. If the magnets can move freely, it will always show which way is north.' Directly supports the lesson's attract/repel, acts-at-a-distance, and compass claims. Replaces the broken citation to spaceplace.nasa.gov/magnets/en/ (404 — NASA Space Place has no such page)."
+
 
