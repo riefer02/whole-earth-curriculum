@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 580" role="img" aria-labelledby="title desc">
+  <title id="title">When sources agree and disagree</title>
+  <desc id="desc">A diagram about comparing two sources. Two boxes sit side by side. The left box reads "SOURCE A: oceans cover about 71 percent of Earth." The right box reads "SOURCE B: oceans cover about 70 percent of Earth." Between and below them, a band reads "where they AGREE — about seven-tenths of Earth is ocean." Below that, a narrower band reads "where they DISAGREE — the exact number (71 or 70)." A verdict box reads "likely TRUE — oceans cover roughly seven-tenths; the exact number is still open." A closing note reads "disagreement is information — note it, do not hide it." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="580" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr4" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">When Sources Agree and Disagree</text>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">note the overlap, and note the gap</text>
+
+  <!-- source A -->
+  <rect x="32" y="80" width="214" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="139" y="106" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">SOURCE A</text>
+  <text x="139" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">oceans cover about</text>
+  <text x="139" y="146" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">71% of Earth</text>
+
+  <!-- source B -->
+  <rect x="266" y="80" width="214" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="373" y="106" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">SOURCE B</text>
+  <text x="373" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">oceans cover about</text>
+  <text x="373" y="146" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">70% of Earth</text>
+
+  <line x1="139" y1="176" x2="206" y2="208" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr4)"/>
+  <line x1="373" y1="176" x2="306" y2="208" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr4)"/>
+
+  <!-- agree -->
+  <rect x="76" y="210" width="360" height="60" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">where they AGREE</text>
+  <text x="256" y="254" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">about seven-tenths of Earth is ocean</text>
+
+  <line x1="256" y1="270" x2="256" y2="300" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr4)"/>
+
+  <!-- disagree -->
+  <rect x="76" y="302" width="360" height="60" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">where they DISAGREE</text>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the exact number (71 or 70)</text>
+
+  <line x1="256" y1="362" x2="256" y2="392" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr4)"/>
+
+  <!-- verdict -->
+  <rect x="76" y="394" width="360" height="66" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">VERDICT: likely TRUE</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">oceans cover roughly seven-tenths;</text>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the exact number is still open</text>
+
+  <text x="256" y="510" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Disagreement is information — note it, do not hide it.</text>
+  <text x="256" y="534" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">when sources differ, say "not sure yet" and look for a third</text>
+</svg>

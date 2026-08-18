@@ -64,3 +64,13 @@ caring community, and the living Earth — and looks ahead to Grade 6.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.012.01 | An Everyday Tool, Before and After | D10.S1.05.01 |
+| L.05.012.02 | Same Tool, Different Lives: Two Places | D10.S1.05.02 |
+| L.05.012.03 | Check Before You Believe: Two Sources | D10.S2.05.01 |
+| L.05.012.04 | When Sources Agree and Disagree | D10.S2.05.01 |
+| L.05.012.05 | One-Sided or Fair: Reading Messages | D10.S2.05.02 |
+| L.05.012.06 | Water's Long Journey: A Cycle | D10.S3.05.01 |
+| L.05.012.07 | All Connected: When One Part Changes | D10.S3.05.02 |
+| L.05.012.08 | Pollution, and What People Can Do | D10.S4.05.01 |
+| L.05.012.09 | Use It Carefully So It Lasts | D10.S4.05.02 |
+| L.05.012.10 | Our Earth Home: A Year-End Celebration | D10.S1.05.01, D10.S1.05.02, D10.S2.05.01, D10.S2.05.02, D10.S3.05.01, D10.S3.05.02, D10.S4.05.01, D10.S4.05.02 |

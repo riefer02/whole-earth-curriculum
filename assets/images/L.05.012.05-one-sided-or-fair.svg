@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 640" role="img" aria-labelledby="title desc">
+  <title id="title">One-sided or fair</title>
+  <desc id="desc">A comparison of a one-sided message and fair reporting. The left panel, labeled "a one-sided message," shows a speech bubble reading "The new road brings JOBS! Wonderful for everyone!" with a single happy face, and a note "only the good side, only one voice." The right panel, labeled "fair reporting would add," lists three items with labels: "the benefits (jobs, faster travel)," "the concerns (homes and trees lost, air and noise)," and "who is speaking (the builder? neighbors? families who live there?)." A bottom band reads "fair reporting includes all sides, evidence, and who is speaking." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="640" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">One-Sided or Fair?</text>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">reading a message, seeing what is left out</text>
+
+  <!-- left panel -->
+  <rect x="24" y="76" width="224" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a ONE-SIDED message</text>
+
+  <rect x="44" y="124" width="184" height="110" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="156" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">The new road brings</text>
+  <text x="136" y="176" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">JOBS! Wonderful</text>
+  <text x="136" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">for everyone!</text>
+
+  <circle cx="136" cy="266" r="18" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M124,262 Q128,258 132,262 Q136,258 140,262 Q144,258 148,262" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <rect x="44" y="300" width="184" height="104" rx="8" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="136" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">only the good side,</text>
+  <text x="136" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">only one voice.</text>
+  <text x="136" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">it makes you feel one way,</text>
+  <text x="136" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">not think it through</text>
+
+  <!-- arrow -->
+  <line x1="252" y1="256" x2="262" y2="256" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M264,248 L274,256 L264,264 Z" fill="#2b3a42"/>
+
+  <!-- right panel -->
+  <rect x="276" y="76" width="212" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">FAIR reporting adds</text>
+
+  <rect x="292" y="124" width="180" height="88" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="148" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">the benefits</text>
+  <text x="382" y="168" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">jobs, faster travel</text>
+  <text x="382" y="188" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(with evidence)</text>
+
+  <rect x="292" y="226" width="180" height="88" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">the concerns</text>
+  <text x="382" y="270" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">homes and trees lost,</text>
+  <text x="382" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">air and noise</text>
+
+  <rect x="292" y="328" width="180" height="92" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">who is speaking</text>
+  <text x="382" y="372" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the builder? neighbors?</text>
+  <text x="382" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">families who live there?</text>
+
+  <!-- bottom band -->
+  <rect x="24" y="456" width="464" height="96" rx="10" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Fair reporting includes all sides,</text>
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">evidence, and who is speaking.</text>
+  <text x="256" y="534" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fdfbf7">one-sided pushes; fair reporting informs</text>
+</svg>

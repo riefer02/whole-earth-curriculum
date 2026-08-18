@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 620" role="img" aria-labelledby="title desc">
+  <title id="title">Our Earth Home</title>
+  <desc id="desc">A celebration web diagram for a year-end capstone. A central circle reads "Our Earth Home." Three petals surround it, reading "the whole person," "the caring community," and "the living Earth." Eight small thread boxes around the outside read: "tools change our days," "two places, one tool," "check before you believe," "fair reporting," "water's cycle," "all connected," "pollution and action," and "use it so it lasts." At the bottom, three diverse figures hold hands beside the note "and we look ahead to Grade 6." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="620" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Our Earth Home</text>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a year-end celebration of all we learned</text>
+
+  <!-- center -->
+  <circle cx="256" cy="150" r="58" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Our</text>
+  <text x="256" y="162" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Earth</text>
+  <text x="256" y="182" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Home</text>
+
+  <!-- petals -->
+  <rect x="60" y="232" width="118" height="52" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="119" y="254" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">the whole</text>
+  <text x="119" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">person</text>
+
+  <rect x="197" y="232" width="118" height="52" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="254" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">the caring</text>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">community</text>
+
+  <rect x="334" y="232" width="118" height="52" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="393" y="254" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">the living</text>
+  <text x="393" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Earth</text>
+
+  <!-- thread boxes -->
+  <g font-family="sans-serif" font-size="11" fill="#222222">
+    <rect x="24" y="312" width="104" height="46" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="76" y="332" text-anchor="middle">tools change</text>
+    <text x="76" y="348" text-anchor="middle">our days</text>
+
+    <rect x="138" y="312" width="104" height="46" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="190" y="332" text-anchor="middle">two places,</text>
+    <text x="190" y="348" text-anchor="middle">one tool</text>
+
+    <rect x="252" y="312" width="104" height="46" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="304" y="332" text-anchor="middle">check before</text>
+    <text x="304" y="348" text-anchor="middle">you believe</text>
+
+    <rect x="366" y="312" width="122" height="46" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="427" y="332" text-anchor="middle">fair</text>
+    <text x="427" y="348" text-anchor="middle">reporting</text>
+
+    <rect x="24" y="372" width="104" height="46" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="76" y="392" text-anchor="middle">water's</text>
+    <text x="76" y="408" text-anchor="middle">cycle</text>
+
+    <rect x="138" y="372" width="104" height="46" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="190" y="392" text-anchor="middle">all</text>
+    <text x="190" y="408" text-anchor="middle">connected</text>
+
+    <rect x="252" y="372" width="104" height="46" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="304" y="392" text-anchor="middle">pollution</text>
+    <text x="304" y="408" text-anchor="middle">and action</text>
+
+    <rect x="366" y="372" width="122" height="46" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="427" y="392" text-anchor="middle">use it so</text>
+    <text x="427" y="408" text-anchor="middle">it lasts</text>
+  </g>
+
+  <!-- hands joined figures -->
+  <circle cx="150" cy="500" r="14" fill="#b07b4f" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="132" y="518" width="36" height="48" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="168" y1="530" x2="196" y2="530" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <circle cx="256" cy="500" r="14" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="238" y="518" width="36" height="48" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="238" y1="530" x2="210" y2="530" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="274" y1="530" x2="300" y2="530" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <circle cx="356" cy="500" r="14" fill="#7a5230" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="338" y="518" width="36" height="48" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="338" y1="530" x2="312" y2="530" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <text x="256" y="596" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">…and we look ahead to Grade 6.</text>
+</svg>

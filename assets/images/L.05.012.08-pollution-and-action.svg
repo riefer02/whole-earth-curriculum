@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 620" role="img" aria-labelledby="title desc">
+  <title id="title">Pollution, and what people can do</title>
+  <desc id="desc">A pathway diagram about plastic pollution and what people can do. A top row of five boxes connected by arrows reads: "plastic bag or bottle," then "dropped or blown away," then "into the river," then "out to the ocean," then "an animal mistakes it for food, or gets tangled." A bottom band, separated from the pathway, reads "what people can do — REFUSE single-use plastic, REUSE bags and bottles, RECYCLE, join a clean-up." A closing caption reads "the problem is real, and so are the fixes." Labels, arrows, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="620" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr8" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Pollution, and What People Can Do</text>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">one piece of plastic's path — and one way to change it</text>
+
+  <!-- pathway boxes -->
+  <rect x="24" y="80" width="130" height="76" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="89" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">plastic bag</text>
+  <text x="89" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">or bottle</text>
+
+  <line x1="154" y1="118" x2="174" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+  <rect x="176" y="80" width="130" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="241" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">dropped or</text>
+  <text x="241" y="128" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">blown away</text>
+
+  <line x1="306" y1="118" x2="326" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+  <rect x="328" y="80" width="90" height="76" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="373" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">into the</text>
+  <text x="373" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">river</text>
+
+  <line x1="418" y1="118" x2="438" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+  <rect x="440" y="80" width="52" height="76" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="466" y="112" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">ocean</text>
+
+  <line x1="466" y1="156" x2="466" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+  <rect x="116" y="182" width="280" height="76" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">an animal mistakes it for food,</text>
+  <text x="256" y="232" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">or gets tangled</text>
+
+  <!-- divider -->
+  <line x1="24" y1="292" x2="488" y2="292" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- what people can do -->
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">what people can do</text>
+
+  <rect x="24" y="340" width="105" height="80" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="76" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">REFUSE</text>
+  <text x="76" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">single-use plastic</text>
+
+  <rect x="139" y="340" width="105" height="80" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="191" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">REUSE</text>
+  <text x="191" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">bags and bottles</text>
+
+  <rect x="254" y="340" width="105" height="80" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="306" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">RECYCLE</text>
+  <text x="306" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">what you can</text>
+
+  <rect x="369" y="340" width="119" height="80" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="428" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">JOIN</text>
+  <text x="428" y="388" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">a clean-up</text>
+
+  <rect x="24" y="452" width="464" height="80" rx="10" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">The problem is real, and so are the fixes.</text>
+  <text x="256" y="510" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fdfbf7">people everywhere are already doing these — and you can, too</text>
+
+  <text x="256" y="566" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the plastic you do not throw away never reaches a river or an animal</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 640" role="img" aria-labelledby="title desc">
+  <title id="title">Check before you believe</title>
+  <desc id="desc">A claim-check flow diagram. At the top, a box reads "CLAIM: camels store water in their humps." Two arrows lead down to two boxes side by side. The left box reads "SOURCE 1 — a desert-animals book: the hump stores fat, not water." The right box reads "SOURCE 2 — a wildlife website: the hump stores fat, used for energy." Arrows from both lead to a band that reads "where they AGREE: the hump stores fat, not water." An arrow leads down to a verdict box reading "VERDICT: the claim is likely FALSE — two sources agree it is fat." A bottom note reads "one source is a start; two sources that agree are stronger." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="640" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr3" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Check Before You Believe</text>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a claim is a question, not a fact — until you check</text>
+
+  <!-- claim box -->
+  <rect x="96" y="76" width="320" height="56" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">CLAIM: camels store water in their humps</text>
+  <text x="256" y="120" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">is it true? ask more than one source</text>
+
+  <line x1="206" y1="132" x2="156" y2="176" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3)"/>
+  <line x1="306" y1="132" x2="356" y2="176" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3)"/>
+
+  <!-- source 1 -->
+  <rect x="32" y="178" width="218" height="110" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="141" y="202" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">SOURCE 1</text>
+  <text x="141" y="220" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a desert-animals book</text>
+  <text x="141" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the hump stores fat,</text>
+  <text x="141" y="262" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">not water</text>
+
+  <!-- source 2 -->
+  <rect x="262" y="178" width="218" height="110" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="371" y="202" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">SOURCE 2</text>
+  <text x="371" y="220" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a wildlife website</text>
+  <text x="371" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the hump stores fat,</text>
+  <text x="371" y="262" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">used for energy</text>
+
+  <line x1="141" y1="288" x2="216" y2="322" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3)"/>
+  <line x1="371" y1="288" x2="296" y2="322" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3)"/>
+
+  <!-- agree band -->
+  <rect x="76" y="324" width="360" height="52" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">where they AGREE</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the hump stores fat, not water</text>
+
+  <line x1="256" y1="376" x2="256" y2="410" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3)"/>
+
+  <!-- verdict -->
+  <rect x="76" y="412" width="360" height="66" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">VERDICT</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the claim is likely FALSE —</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">two sources agree it is fat</text>
+
+  <rect x="76" y="500" width="360" height="60" rx="10" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="256" y="526" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">one source is a start;</text>
+  <text x="256" y="546" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">two sources that agree are stronger</text>
+</svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 580" role="img" aria-labelledby="title desc">
+  <title id="title">Water's long journey</title>
+  <desc id="desc">A water-cycle diagram. A Sun sits in the upper left with rays, labeled "the Sun's heat." An arrow labeled "evaporation" rises from an ocean at the bottom toward a cloud at the top, labeled "condensation." An arrow labeled "precipitation" points down as rain onto mountains and a river. The river flows into a lake and into the ground, with labels "plants," "animals and people," and "groundwater." An arrow from the ground and lake returns to the ocean. A closing caption reads "why it cycles: the Sun pushes water up; gravity pulls it down; water is reused, not made new." Labels and arrows, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="580" fill="#fdfbf7"/>
+
+  <defs>
+    <marker id="arr6" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Water's Long Journey</text>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the same water, going around and around</text>
+
+  <!-- Sun -->
+  <circle cx="80" cy="120" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="80" y1="82" x2="80" y2="70"/>
+    <line x1="80" y1="158" x2="80" y2="170"/>
+    <line x1="42" y1="120" x2="30" y2="120"/>
+    <line x1="118" y1="120" x2="130" y2="120"/>
+    <line x1="53" y1="93" x2="45" y2="85"/>
+    <line x1="107" y1="93" x2="115" y2="85"/>
+    <line x1="53" y1="147" x2="45" y2="155"/>
+    <line x1="107" y1="147" x2="115" y2="155"/>
+  </g>
+  <text x="80" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">the Sun's heat</text>
+
+  <!-- cloud -->
+  <ellipse cx="256" cy="120" rx="70" ry="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="230" cy="108" rx="40" ry="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="284" cy="108" rx="38" ry="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">cloud</text>
+  <text x="256" y="152" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">condensation</text>
+
+  <!-- evaporation arrow -->
+  <line x1="140" y1="500" x2="200" y2="160" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6,4" marker-end="url(#arr6)"/>
+  <text x="150" y="330" font-family="sans-serif" font-size="12" fill="#2b3a42" transform="rotate(-70 150 330)">evaporation</text>
+
+  <!-- precipitation arrow -->
+  <line x1="256" y1="152" x2="256" y2="240" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr6)"/>
+  <text x="266" y="200" font-family="sans-serif" font-size="12" fill="#2b3a42">precipitation</text>
+  <!-- rain drops -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5">
+    <path d="M236,250 l4,10 l-8,0 Z"/>
+    <path d="M268,252 l4,10 l-8,0 Z"/>
+    <path d="M250,264 l4,10 l-8,0 Z"/>
+  </g>
+
+  <!-- mountains -->
+  <path d="M150,360 L240,250 L300,360 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M250,360 L340,270 L410,360 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="200" y="380" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">mountain</text>
+
+  <!-- river -->
+  <path d="M256,320 C256,380 240,420 256,470" fill="none" stroke="#6b93b6" stroke-width="8" stroke-linecap="round"/>
+  <text x="286" y="420" font-family="sans-serif" font-size="12" fill="#4f6d7a">river</text>
+
+  <!-- lake -->
+  <ellipse cx="360" cy="430" rx="70" ry="28" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="360" y="434" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">lake</text>
+
+  <!-- ground / groundwater -->
+  <rect x="40" y="470" width="380" height="12" rx="4" fill="#c9b98a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M90,482 L90,520 M110,482 L110,516 M130,482 L130,520" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="120" y="540" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">groundwater</text>
+
+  <!-- plants and animals/people -->
+  <line x1="180" y1="470" x2="180" y2="446" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="180" cy="442" rx="12" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="180" y="416" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">plants</text>
+  <circle cx="316" cy="452" r="8" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="316" y="432" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">animals and people</text>
+
+  <!-- return arrow to ocean -->
+  <line x1="420" y1="500" x2="470" y2="500" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr6)"/>
+  <text x="470" y="520" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">back to the ocean</text>
+
+  <!-- ocean -->
+  <path d="M440,486 Q456,470 472,486 L512,486 L512,520 L440,520 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="480" y="470" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">ocean</text>
+
+  <text x="256" y="566" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Why it cycles: the Sun pushes water up; gravity pulls it down; water is reused, not made new.</text>
+</svg>

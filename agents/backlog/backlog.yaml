@@ -3768,7 +3768,7 @@ items:
     type: lesson
     grade: 5
     domain: D10
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3780,6 +3780,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (933). IDs L.05.012.01-.10 sequence_in_unit 1-10, grade 5, unit U.05.012; objectives resolve to real grade-5 D10 standards (all 8 covered, L10 capstone all-eight); required headings present learner-first; unit.md table lists all 10; all 10 assets resolve with non-empty alt; science accurate (L6 water cycle evaporation/condensation/precipitation/collection 'Sun up gravity down reused not new'; L7 pond ripple + coral-bleaching/mangrove; L8 plastic pathway land->river->ocean UNEP/NOAA); media coherent (L3 camel hump=fat not water 'likely false', L4 ocean 71/70% agree-with-gap, breakfast mixed evidence); no-doom stewardship tone.
+      fact-checker:
+        verdict: passed
+        note: "Verified: phone/water-pump + mobile money M-Pesa accurate hedged (CGAP + World Bank 850M accounts/90 countries live); camel hump=fat not water debunk correct; ocean 71% NOAA/USGS; goldfish/lightning/knuckle-cracking myths correct, breakfast genuinely mixed; water cycle USGS/NASA GPM verbatim; coral bleaching NOAA, plastic UNEP, air pollution WHO, deforestation FAO. Registered S-210..S-220 (11 sources). Evidence vs values separated (stewardship/care/'no use is better' as values)."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Euro or tech=Western default: M-Pesa/mobile money framed as legitimate innovation 'each use is a fitting intelligent response to a place's needs', 'advanced/behind' only appear as instructions NOT to use; 'no use is better each fits its place' stated + never contradicted; tools from multiple regions (boda-boda E.Africa, M-Pesa Kenya); environment examples span coral/mangrove/savanna/forest + plastic-in-rivers + air-pollution + deforestation; L6 'whether you live by sea, dry land, or beside a river'; no wealth assumption (L9 'a learner without a tap cannot turn off the tap... choose food/paper/fuel'); stewardship as shared already-happening action not Western imposition; media 'be careful not suspicious', 'disagreement is information not failure'."
+      accessibility-editor:
+        verdict: passed
+        note: All 10 lessons real materials_low_tech (voice-only, drawn-in-dirt, acted/mimed, found objects, body-cycle with yarn ball); UDL draw/say/act/sort/write; diagram-heavy lessons have non-diagram paths (water cycle body-cycle + spoken trace, claim-check in dirt, ecosystem string ripple, plastic spoken pathway); media lessons non-verbal participation (one/two-hand signals); no activity sole path requires able-bodiedness/fluent reading/device; L9 no-tap learners handled; technical terms in key_vocabulary + inline scaffolded; all 10 assets non-empty alt + SVG role=img/title/desc grayscale label-shape-meaning.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (claim-checking 'protects us and everyone we share information with', fair reporting 'hearing all sides', stewardship 'other beings and future people'); egalitarianism (anti-ranking 'no use better each fits its place', no shaming, own-life flexibility L9); global (M-Pesa/boda-boda/mangrove/savanna/coral, two ways of life side by side); tech+environment strongly both directions (tools/media L1-5, water cycle/interdependence/pollution/care L6-9, integrated L10 capstone); evidence-vs-values (World Bank/ITU/USGS/NASA/UNEP/WHO/FAO/UNESCO/NOAA/CGAP/Kirschner cited; stewardship + 'no use better' as values). Traceability: Vision->P4->D10->S1-S4->8 standards->U.05.012->lessons."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-5 band: cognitive fit concrete (claim-check 5-box routine not epistemology; water labeled path + 'Sun lifts up gravity pulls down' not hydrodynamics; interdependence 'if-then-then' ripple not systems theory; media bias 'benefits/concerns/who is speaking' not rhetoric; 'not sure yet' L4 anchored ambiguity); emotional safety environment lessons hold truth+agency never doom (harm paired with doable fix, restoration as helpful ripple, forbid shaming/doomed-ecosystem framing); media 'be careful not suspicious' L3 verbatim + one-sided 'not lying just leaving things out' no cynicism/fear; plastic image gentle 'mistakes it for food or gets tangled'; physical fit body-cycle/string-ripple + seated options; questions as questions."
   - id: B-335
     title: Author lessons for Unit U.06.001 (Feelings, Identity & My Many Selves)
     agent: lesson-author

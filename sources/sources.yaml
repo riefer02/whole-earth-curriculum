@@ -1932,4 +1932,104 @@ sources:
     reviewed: true
     notes: "Cited in U.05.010 L08 for the 1929 Aba Women's War in southeastern Nigeria. Adiele Afigbo (1937–2009) was a leading Nigerian historian whose work on indirect rule and the warrant chiefs directly addresses the taxation and colonial-rule grievances behind the 1929 women's uprising (variously 'Women's War' / 'Aba Women's War'; the older colonial label 'Aba Riots' is now avoided). The event is real and accurately dated to November–December 1929, in which thousands of Igbo and Ibibio women organized against unfair taxation and the warrant-chief system. The lesson uses the preferred 'Aba Women's War' name and is accurate. No URL (print book)."
 
+  - id: S-210
+    title: CGAP — Financial Inclusion (mobile money / M-Pesa)
+    type: website
+    url: https://www.cgap.org/
+    organization: CGAP (Consultative Group to Assist the Poor), housed at the World Bank
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L02 for the claim that mobile money (e.g., M-Pesa) grew where bank branches were scarce, letting people send, save, and pay by phone. URL verified live (2026-08-17): cgap.org identifies CGAP as 'an independent think tank that works to advance the lives of poor people, especially women, through financial inclusion. Housed at the World Bank.' CGAP is the authoritative research body on digital financial services for the poor and has published extensively on M-Pesa (launched 2007 in Kenya by Safaricom/Vodafone) as mobile money that spread where formal bank access was limited. Supports the lesson's accurately-hedged mobile-money claim; the lesson holds the 'each use fits its place' framing as a value, not a fact."
+
+  - id: S-211
+    title: World Bank — Financial Inclusion (mobile money / digital financial services)
+    type: website
+    url: https://www.worldbank.org/en/topic/financialinclusion
+    organization: World Bank Group
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L01 (phones reshaped daily communication, with the ITU) and L02 (mobile money grew where bank branches were scarce). URL verified live (2026-08-17): the Financial Inclusion topic page states 'Digital financial services (DFS), enabled by fintech, are lowering costs, increasing speed, security, and transparency of transactions, enabling access for underserved sections' and 'As of early 2020, there were over 850 million registered mobile money accounts across 90 countries.' Supports the mobile-money/phone daily-life claims. Note: for the phone-spread history the lesson co-cites the ITU (already registered: S-128, S-180), whose role as the UN telecom agency publishing mobile statistics is accurate."
+
+  - id: S-212
+    title: USGS — Water Science School (The Water Cycle)
+    type: website
+    url: https://www.usgs.gov/special-topics/water-science-school/science/fundamentals-water-cycle
+    organization: U.S. Geological Survey (U.S. Department of the Interior)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L06 (and U.05.012 L04 for the ~71% ocean-coverage figure). URL verified live (2026-08-17): the USGS Water Science School 'Water cycle' page states the cycle is driven by 'energy from the sun and the force of gravity', that the sun's energy causes evaporation and gravity causes water to flow downward and rain/snow/hail to fall, and that water moves via evaporation, evapotranspiration, condensation, precipitation, runoff/streamflow, and infiltration/groundwater; it also states 'Oceans store 96% of all water on Earth' and (quoting NASA) that water 'covers 75% of the Earth's surface.' Supports every factual claim in L06 (evaporation→condensation→precipitation→collection; sun up/gravity down; water reused, not made new) and the lesson's conservation-of-matter framing. US-centric agency but the water cycle is standard global elementary science."
+
+  - id: S-213
+    title: NASA — GPM Precipitation Education (The Water Cycle)
+    type: website
+    url: https://gpm.nasa.gov/education/water-cycle
+    organization: NASA (Global Precipitation Measurement mission, Goddard Space Flight Center)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L06 as 'NASA Earth science' documenting the water cycle. URL verified live (2026-08-17): the NASA GPM 'The Water Cycle' page states verbatim 'The water cycle describes how water evaporates from the surface of the earth, rises into the atmosphere, cools and condenses into rain or snow in clouds, and falls again to the surface as precipitation. The water falling on land collects in rivers and lakes, soil, and porous layers of rock, and much of it flows back into the oceans, where it will once more evaporate.' Directly supports the lesson's cycle path, and the page also links a 'NASA Earth Science: The Water Cycle' article. Complements S-212 (USGS)."
+
+  - id: S-214
+    title: NOAA — How many oceans are there? (ocean covers 71% of Earth)
+    type: website
+    url: https://oceanservice.noaa.gov/facts/howmanyoceans.html
+    organization: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L04 for the claim that oceans cover roughly 70–71% of Earth's surface (the lesson's worked example of two sources agreeing on ~seven-tenths and differing only on the exact number). URL verified live (2026-08-17): the NOAA page states verbatim that 'the vast body of water that covers 71 percent of the Earth is geographically divided into distinct named regions.' Confirms the 71% figure; USGS (S-212) confirms the same ballpark ('about 70%' in many references), which is exactly why the lesson uses it as an agree-with-a-small-gap example. The lesson is careful to say the exact number stays 'open,' which is honest about rounding differences across sources."
+
+  - id: S-215
+    title: NOAA — What is coral bleaching?
+    type: website
+    url: https://oceanservice.noaa.gov/facts/coral_bleach.html
+    organization: National Oceanic and Atmospheric Administration (NOAA), National Ocean Service
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L07 for coral bleaching in the coral-reef ripple card. URL verified live (2026-08-17): the NOAA page states 'When corals are stressed by changes in conditions such as temperature, light, or nutrients, they expel the symbiotic algae living in their tissues, causing them to turn completely white' and 'Warmer water temperatures can result in coral bleaching.' Supports the lesson's claim that when a coral bleaches, the fish that depend on the reef decline — a standard, accurately-stated ecology ripple, not overstated."
+
+  - id: S-216
+    title: UNEP — Plastic Pollution
+    type: website
+    url: https://www.unep.org/plastic-pollution
+    organization: United Nations Environment Programme (UNEP)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L08 (plastic's path from land to rivers to oceans and harm to wildlife; the reduce-waste ladder refuse/reuse/recycle/clean-up) and L09 (sustainable/careful resource use). URL verified live (2026-08-17): the UNEP plastic-pollution page states 'Plastic pollution poses a global challenge' and that UNEP 'works to reduce plastic pollution and its impacts,' framing the move to a circular economy. Plastic entering rivers and oceans and harming marine life via ingestion/entanglement is UNEP's core, well-documented message (also see the already-registered National Geographic Kids plastic article, S-066). Supports the lesson's land→river→ocean→animal pathway and its refuse/reuse/recycle/clean-up actions; the stewardship-and-hope framing is held as a value, distinct from the factual pathway."
+
+  - id: S-217
+    title: UNESCO — Media and Information Literacy (MIL)
+    type: website
+    url: https://www.unesco.org/en/media-information-literacy
+    organization: UNESCO
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L05 (fair reporting includes all sides, evidence, and who is speaking) and L10. UNESCO's Media and Information Literacy programme (the 'MIL Curriculum for Teachers', the MIL Alliance, and annual Global MIL Week) is a real, long-standing UNESCO initiative whose core framework is that citizens should access, evaluate, and critically engage media, and distinguish information from persuasion. The unesco.org URL returned a timeout to the fact-checker's environment (2026-08-17) — consistent with other UNESCO entries in this registry — but the programme and its canonical page are real and well established. The lesson's 'benefits, concerns, who is speaking' test is an age-appropriate version of source/perspective analysis, and the fairness ideal is held as a value, not a fact. Complemented by the already-registered Common Sense Education entry (S-063)."
+
+  - id: S-218
+    title: WWF — Habitats (mangroves, coral reefs, forests)
+    type: website
+    url: https://www.worldwildlife.org/
+    organization: World Wildlife Fund (WWF)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L07 as one authority for coral bleaching, mangrove nurseries, and forest habitats. WWF is the leading global conservation organization and documents, across its habitat pages, that mangroves serve as nursery grounds for juvenile fish and buffer coasts against storms, that coral reefs support high biodiversity and are threatened by bleaching, and that forests shelter much of the world's land biodiversity. The specific worldwildlife.org/habitats/mangroves URL returned 404 (2026-08-17; WWF has restructured its habitat pages), so WWF is registered here as a general authority. The underlying ecology claims are independently supported by NOAA (S-215, coral bleaching) and FAO (S-220, forests as home to over half of land species), and mangrove-nursery/storm-shield is standard, well-documented marine ecology."
+
+  - id: S-219
+    title: WHO — Household air pollution fact sheet
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health
+    organization: World Health Organization (WHO)
+    year: 2025
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L08 for air pollution from burning trash/fuels harming lungs, with cleaner stoves as the fix. URL verified live (2026-08-17; page dated 16 Dec 2025): states 'Around 2.1 billion people worldwide ... cook using open fires or inefficient stoves fuelled by kerosene, biomass (wood, animal dung and crop waste) and coal, which generates harmful household air pollution', that such pollution 'inflame[s] the airways and lungs' and leads to stroke, ischaemic heart disease, COPD, and lung cancer, and that clean fuels/stoves and cleaner technologies reduce it. Directly supports the lesson's air-pollution pathway (burning fuels → smoke harms lungs) and its 'burn less, use cleaner stoves' action."
+
+  - id: S-220
+    title: FAO — Forestry (forests as habitat; deforestation)
+    type: website
+    url: https://www.fao.org/forestry/en/
+    organization: Food and Agriculture Organization of the United Nations (FAO)
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in U.05.012 L08 for deforestation-driven habitat loss (animals lose their homes). URL verified live (2026-08-17): the FAO Forestry page states 'Forests cover 31 percent of the world's land and are fundamental to life on our planet. Home to more than half of the world's land animal and plant species...' This directly supports the lesson's claim that clearing forests removes animal habitat; the 'plant native trees, use less paper, protect reserves' actions are standard, accurate conservation measures. (The earlier cited fao.org/state-of-forests/en returned 404; the live FAO Forestry hub is the correct canonical page.)"
+
 
