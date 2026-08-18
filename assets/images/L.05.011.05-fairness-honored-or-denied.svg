@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fairness honored or denied, and who benefits</title>
+  <desc id="desc">A two-panel comparison. The left panel, labeled "fairness honored," shows three children each holding a bowl of equal size, with the caption "everyone gets a turn — all benefit." The right panel, labeled "fairness denied," shows one child holding all three bowls while two children hold empty hands, with the caption "one gains, others are left out." Each panel has a "who benefits?" label. Shapes, labels, and counts carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Fairness: Honored or Denied?</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">two questions: was fairness honored or denied? who benefited?</text>
+
+  <!-- ===== Left panel: honored ===== -->
+  <rect x="24" y="92" width="224" height="360" rx="14" fill="#eef4ee" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="122" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">fairness honored</text>
+
+  <!-- three children, each with one bowl -->
+  <!-- child 1 -->
+  <circle cx="78" cy="190" r="15" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="63" y="205" width="30" height="26" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M78 250 Q93 268 108 250 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child 2 -->
+  <circle cx="136" cy="190" r="15" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="121" y="205" width="30" height="26" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M136 250 Q151 268 166 250 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child 3 -->
+  <circle cx="194" cy="190" r="15" fill="#d9a05b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="179" y="205" width="30" height="26" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M194 250 Q209 268 224 250 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="136" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">who benefits?</text>
+  <text x="136" y="342" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">everyone gets a turn &#8212;</text>
+  <text x="136" y="362" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">all benefit</text>
+  <text x="136" y="430" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">three bowls, three shares</text>
+
+  <!-- ===== Right panel: denied ===== -->
+  <rect x="264" y="92" width="224" height="360" rx="14" fill="#f6f0e8" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="122" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">fairness denied</text>
+
+  <!-- child 1 hoarding all three bowls -->
+  <circle cx="376" cy="182" r="15" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="361" y="197" width="30" height="26" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M346 244 Q360 260 376 244 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M376 244 Q392 260 408 244 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M360 268 Q376 284 392 268 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- child 2 empty hands -->
+  <circle cx="306" cy="268" r="15" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="291" y="283" width="30" height="26" rx="6" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M298 306 L298 316"/>
+    <path d="M314 306 L314 316"/>
+  </g>
+
+  <!-- child 3 empty hands -->
+  <circle cx="446" cy="268" r="15" fill="#d9a05b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="431" y="283" width="30" height="26" rx="6" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M438 306 L438 316"/>
+    <path d="M454 306 L454 316"/>
+  </g>
+
+  <text x="376" y="366" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">who benefits?</text>
+  <text x="376" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">one gains,</text>
+  <text x="376" y="412" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">others are left out</text>
+  <text x="376" y="430" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">three bowls, one holder</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Ask both questions every time &#8212; then fairness becomes visible.</text>
+</svg>

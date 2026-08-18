@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What does government do?</title>
+  <desc id="desc">A diagram with "government" in a center circle and four branches radiating outward, each with a labeled icon: "make rules and laws" (a signpost), "provide services" (a water tap), "settle disputes" (two figures shaking hands), and "protect people and rights" (a shield). Labels, icons, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">What Does Government Do?</text>
+
+  <!-- center circle -->
+  <circle cx="256" cy="250" r="66" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">government</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">decides for</text>
+  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">everyone</text>
+
+  <!-- connectors -->
+  <line x1="256" y1="184" x2="256" y2="140" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="322" y1="250" x2="366" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="316" x2="256" y2="360" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="190" y1="250" x2="146" y2="250" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- top: make rules and laws (signpost) -->
+  <rect x="196" y="92" width="120" height="74" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="228" y1="150" x2="228" y2="128" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="212" y="104" width="32" height="26" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="256" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">make rules</text>
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">and laws</text>
+
+  <!-- right: provide services (water tap) -->
+  <rect x="372" y="216" width="120" height="74" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M420 254 Q414 244 420 238 Q426 244 420 254 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M420 254 Q428 260 432 266" fill="none" stroke="#6b93b6" stroke-width="2"/>
+  <text x="432" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">provide</text>
+  <text x="432" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">services</text>
+
+  <!-- bottom: settle disputes (two figures shaking hands) -->
+  <rect x="196" y="348" width="120" height="74" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="232" cy="398" r="11" fill="#8a5a3b" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="280" cy="398" r="11" fill="#c98a5b" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="222" y="408" width="20" height="18" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="270" y="408" width="20" height="18" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <g stroke="#2b3a42" stroke-width="1.5" fill="none" stroke-linecap="round">
+    <path d="M246 414 L266 414"/>
+    <path d="M246 414 Q252 408 258 414"/>
+  </g>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">settle disputes</text>
+
+  <!-- left: protect people and rights (shield) -->
+  <rect x="20" y="216" width="120" height="74" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M80 236 L104 246 L104 262 Q104 274 92 280 Q80 274 80 262 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="80" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">protect people</text>
+  <text x="80" y="312" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">and rights</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Governments take many forms around the world &#8212; there is no single model.</text>
+</svg>

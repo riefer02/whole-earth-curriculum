@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rights belong to every child</title>
+  <desc id="desc">A circle of six diverse children around a globe, each holding an identical card labeled "rights." The children vary in skin tone, hair, and dress, and one uses a wheelchair. A caption reads "rights belong to every child — no matter who you are or where you live." Labels and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Rights Belong to Every Child</text>
+
+  <!-- globe in the center -->
+  <circle cx="256" cy="250" r="72" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="256" cy="250" rx="30" ry="72" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="184" y1="250" x2="328" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <!-- continents -->
+  <path d="M200 210 Q222 198 240 214 Q234 234 212 238 Q196 228 200 210 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M276 222 Q296 212 310 228 Q300 244 282 244 Q270 236 276 222 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M286 266 Q306 258 318 272 Q306 286 288 284 Q280 274 286 266 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- six children around the globe, each holding a rights card -->
+  <!-- child 1 (top) -->
+  <circle cx="256" cy="128" r="16" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="246" y="144" width="20" height="20" rx="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="238" y="120" width="26" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="251" y="133" font-family="sans-serif" font-size="10" fill="#2b3a42">rights</text>
+
+  <!-- child 2 (top right) -->
+  <circle cx="366" cy="168" r="16" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="356" y="184" width="20" height="20" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="348" y="160" width="26" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="361" y="173" font-family="sans-serif" font-size="10" fill="#2b3a42">rights</text>
+
+  <!-- child 3 (bottom right) -->
+  <circle cx="366" cy="330" r="16" fill="#d9a05b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="356" y="346" width="20" height="20" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="348" y="322" width="26" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="361" y="335" font-family="sans-serif" font-size="10" fill="#2b3a42">rights</text>
+
+  <!-- child 4 (bottom left, wheelchair) -->
+  <circle cx="146" cy="330" r="16" fill="#7a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="136" y="346" width="20" height="20" rx="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="132" cy="370" r="8" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="160" cy="370" r="8" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="130" y="354" width="34" height="14" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="128" y="322" width="26" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="141" y="335" font-family="sans-serif" font-size="10" fill="#2b3a42">rights</text>
+
+  <!-- child 5 (left) -->
+  <circle cx="146" cy="168" r="16" fill="#b98a6b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="136" y="184" width="20" height="20" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="128" y="160" width="26" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="141" y="173" font-family="sans-serif" font-size="10" fill="#2b3a42">rights</text>
+
+  <!-- child 6 (top left) -->
+  <circle cx="196" cy="96" r="16" fill="#6a4a2b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="186" y="112" width="20" height="20" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="178" y="88" width="26" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="191" y="101" font-family="sans-serif" font-size="10" fill="#2b3a42">rights</text>
+
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Rights belong to every child &#8212;</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">no matter who you are or where you live.</text>
+</svg>

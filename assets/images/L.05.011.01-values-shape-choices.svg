@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Values shape choices: same situation, different values, different choices</title>
+  <desc id="desc">A two-panel diagram. In both panels, two children face the same situation: a table with one extra bowl of food and a person with none. In the top panel, one child holds a heart labeled "kindness" and passes the bowl to the other person. In the bottom panel, a child holds a heart labeled "look out for myself" and pulls the bowl toward themselves. An arrow flows from each heart to each choice, and a caption reads "same situation, different values, different choices." Labels, arrows, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Values Shape Choices</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">same situation &#183; different values &#183; different choices</text>
+
+  <!-- ===== Top panel: kindness ===== -->
+  <rect x="20" y="92" width="472" height="180" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- table + bowl -->
+  <rect x="170" y="180" width="180" height="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="205" y="164" width="24" height="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M225 200 Q255 224 285 200 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M255 156 Q262 150 255 144 Q248 150 255 156 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- left child (passes the bowl) -->
+  <circle cx="96" cy="150" r="18" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="76" y="168" width="40" height="40" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <line x1="106" y1="176" x2="142" y2="196"/>
+  </g>
+
+  <!-- right child (receives) -->
+  <circle cx="420" cy="150" r="18" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="400" y="168" width="40" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <line x1="410" y1="176" x2="374" y2="196"/>
+  </g>
+
+  <!-- heart + arrow (kindness) -->
+  <path d="M96 112 Q90 102 96 94 Q102 102 96 112 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="108" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">kindness</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" marker-end="">
+    <line x1="96" y1="112" x2="150" y2="180"/>
+  </g>
+  <text x="176" y="92" font-family="sans-serif" font-size="15" fill="#4f6d7a">value &#8594; choice: passes the bowl</text>
+
+  <!-- ===== Bottom panel: look out for myself ===== -->
+  <rect x="20" y="300" width="472" height="180" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <rect x="170" y="388" width="180" height="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="205" y="372" width="24" height="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M225 408 Q255 432 285 408 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- left child (pulls the bowl toward self) -->
+  <circle cx="96" cy="358" r="18" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="76" y="376" width="40" height="40" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <line x1="106" y1="384" x2="150" y2="400"/>
+  </g>
+
+  <!-- right child (empty hands, watching) -->
+  <circle cx="420" cy="358" r="18" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="400" y="376" width="40" height="40" rx="8" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- heart + arrow -->
+  <path d="M96 320 Q90 310 96 302 Q102 310 96 320 Z" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="316" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">look out for myself</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <line x1="96" y1="320" x2="152" y2="384"/>
+  </g>
+  <text x="176" y="300" font-family="sans-serif" font-size="15" fill="#4f6d7a">value &#8594; choice: keeps it for later</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">A value is something you care about &#8212; it guides what you do.</text>
+</svg>

@@ -3731,7 +3731,7 @@ items:
     type: lesson
     grade: 5
     domain: D09
-    status: ready
+    status: done
     priority: 100
     depends_on:
       - B-102
@@ -3742,7 +3742,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by child-psychologist: L09 'Helping Two Peers Solve a Conflict' missing adult-support safety boundary: the child is framed as a helper (good) but the home connection sends the child into real unsupervised disputes ('Next time you see two people disagreeing... offer to help'). A 10-11-year-old needs an explicit concrete safety line: add a sentence in procedure/facilitator note — 'If anyone is hurt, scared, threatened, or unsafe — or the conflict feels too big — the helper's first move is to bring in a trusted adult; a peer helper never resolves a serious conflict alone' — and mirror it in the home connection.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Re-review after L09 fix: validate passes (923). L09 adult-support boundary present + correctly worded in all 3 locations (facilitator note 'Draw a clear safety boundary...', procedure step 4, home connection 'first step is to bring in a trusted adult'); IDs L.05.011.01-.10 sequence 1-10 grade 5 unit U.05.011; objectives resolve to all 8 real grade-5 D09 standards; required headings present learner-first; unit.md lists all 10; all 10 assets resolve with non-empty alt."
+      fact-checker:
+        verdict: passed
+        note: "Re-review: validate passes (923). L09 addition is a value/safety norm ('should'), correctly distinguished from evidence, not an unsupported fact; no new factual claims introduced. Previously verified facts intact (UNCRC Articles 2/31/28/12/19 UNICEF+OHCHR reviewed; kgotla/Switzerland/India-Japan-Brazil governance; IIRP + Kirschner + Dunlosky citations; Bloom-1984 fix holds)."
+      global-culture-editor:
+        verdict: passed
+        note: "Re-review: validate passes (923). L09 addition neutral universal safety boundary, no culture-specific framing; earlier findings hold (non-hierarchical government framing kgotla/Switzerland/India-Japan-Brazil 'no single model the right one' 'compare don't rank'; rights as shared human agreement not one culture's invention; questions as questions not dogma)."
+      accessibility-editor:
+        verdict: passed
+        note: "Re-review: validate passes (923). L09 addition plain-language, no new materials/physical/sensory/cognitive demands, inclusion-positive (removes expectation a child acts alone in serious conflict); earlier findings hold (L08/L09 low-tech tiers + non-speaking/seated participation, all 10 assets non-empty alt + SVG role=img/title/desc grayscale, L04 depicts wheelchair user)."
+      alignment-auditor:
+        verdict: passed
+        note: "Re-review: L09 adult-support boundary reinforces ethics (dignity/nonviolence/safety) + egalitarianism (no burdening a child alone; 'trusted adult' universal); earlier findings hold (ethics/egalitarianism/global/evidence-vs-values; tech+environment lens remains in L8; traceability Vision->P4->D09->S1-S4->8 standards->U.05.011->lessons)."
+      child-psychologist:
+        verdict: passed
+        note: "Re-review: L09 adult-support boundary present + correctly worded in all 3 locations (facilitator note/procedure step 4/home connection 'first step is to bring in a trusted adult rather than handle it alone'); fully resolves block — learner now helper WITH adult escalation never lone resolver, including home settings. Re-confirmed cognitive fit (concrete mediation routine + repeats-back matched to concrete operations), emotional safety (non-shaming 'no child is the bad one' + safety line), physical fit (seated + talking object + picture/word cards), not-dumbed-down (IIRP restorative skill), open-endedness."
   - id: B-334
     title: Author lessons for Unit U.05.012 (Tools, Media & Our Earth Home)
     agent: lesson-author

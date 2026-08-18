@@ -64,3 +64,13 @@ well. Questions are held as questions, not answered as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.05.011.01 | Values Shape Our Choices | D09.S1.05.01 |
+| L.05.011.02 | Two Choices, Two Futures | D09.S1.05.02 |
+| L.05.011.03 | What Is a Right? | D09.S2.05.01 |
+| L.05.011.04 | Rights Belong to Every Child | D09.S2.05.01 |
+| L.05.011.05 | Fairness: Honored or Denied? | D09.S2.05.02 |
+| L.05.011.06 | What Is Government? | D09.S3.05.01 |
+| L.05.011.07 | How Decisions Get Made: Comparing Countries | D09.S3.05.01 |
+| L.05.011.08 | Working Together for the Common Good | D09.S3.05.02 |
+| L.05.011.09 | Helping Two Peers Solve a Conflict | D09.S4.05.01 |
+| L.05.011.10 | Conflict Is Not Violence | D09.S4.05.02 (capstone: revisits D09.S1.05.01, D09.S2.05.01, D09.S3.05.01) |

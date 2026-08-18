@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What is a right?</title>
+  <desc id="desc">A scroll-shaped diagram titled "what is a right?" It reads "a right is a shared promise to protect something every child needs." Below are three labeled icons: a child on a swing labeled "play," an open book labeled "learn," and a child beneath a sheltering roof labeled "be safe." Each icon carries a label, so the meaning prints clearly in grayscale, independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- scroll header -->
+  <rect x="60" y="40" width="392" height="120" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="60" y="40" width="392" height="20" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">What is a right?</text>
+  <text x="256" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a shared promise to protect something</text>
+  <text x="256" y="138" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">every child needs</text>
+
+  <!-- divider -->
+  <line x1="80" y1="176" x2="432" y2="176" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <!-- Icon 1: play (swing) -->
+  <rect x="36" y="196" width="140" height="240" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- swing -->
+  <line x1="70" y1="212" x2="70" y2="330" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="142" y1="212" x2="142" y2="330" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="70" y1="212" x2="142" y2="212" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="82" y1="212" x2="106" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="130" y1="212" x2="106" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="90" y="300" width="32" height="10" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="106" cy="286" r="14" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <text x="106" y="356" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">play</text>
+  <text x="106" y="380" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">time to run,</text>
+  <text x="106" y="396" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">imagine, rest</text>
+
+  <!-- Icon 2: learn (open book) -->
+  <rect x="186" y="196" width="140" height="240" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M206 250 Q256 232 306 250 L306 330 Q256 312 206 330 Z" fill="#eef4ee" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="240" x2="256" y2="322" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="214" y1="262" x2="246" y2="256" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="214" y1="284" x2="246" y2="278" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="214" y1="306" x2="246" y2="300" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="266" y1="256" x2="298" y2="262" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="266" y1="278" x2="298" y2="284" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="266" y1="300" x2="298" y2="306" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">learn</text>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">go to school,</text>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">ask, find out</text>
+
+  <!-- Icon 3: be safe (child under roof) -->
+  <rect x="336" y="196" width="140" height="240" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- roof -->
+  <path d="M356 260 L406 220 L456 260 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="356" y1="260" x2="456" y2="260" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="406" y1="260" x2="406" y2="330" stroke="#2b3a42" stroke-width="2"/>
+  <!-- child -->
+  <circle cx="406" cy="288" r="12" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="396" y="300" width="20" height="26" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="406" y="356" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">be safe</text>
+  <text x="406" y="380" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">be protected</text>
+  <text x="406" y="396" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">from harm</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">A right is owed to every child &#8212; not a prize to earn.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Some rights are written in the UN Convention on the Rights of the Child.</text>
+</svg>

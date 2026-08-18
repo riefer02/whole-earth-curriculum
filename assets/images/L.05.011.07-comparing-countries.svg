@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three ways countries make decisions</title>
+  <desc id="desc">A three-column comparison chart. The first column, labeled "talking together (consensus)," shows a circle of people with a speech bubble and the note "everyone talks until they agree." The second column, labeled "direct votes," shows a hand dropping a ballot into a box with the note "citizens vote on laws." The third column, labeled "choosing representatives," shows people raising hands toward one elected figure with the note "citizens choose who decides." Each column asks "who decides?" Labels, icons, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">How Do Countries Make Decisions?</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">three ways &#8212; and the question: who decides?</text>
+
+  <!-- Column 1: consensus -->
+  <rect x="20" y="84" width="148" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="94" y="112" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">talking together</text>
+  <text x="94" y="130" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">(consensus)</text>
+
+  <!-- circle of people -->
+  <circle cx="68" cy="180" r="9" fill="#8a5a3b" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="120" cy="180" r="9" fill="#c98a5b" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="94" cy="158" r="9" fill="#d9a05b" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="94" cy="202" r="9" fill="#7a5a3b" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="94" cy="180" r="9" fill="#b98a6b" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- speech bubble -->
+  <path d="M62 218 Q46 214 46 200 Q46 188 60 188 L128 188 Q142 188 142 200 Q142 214 128 214 L104 214 L96 226 L100 214 Z" fill="#eef4ee" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="94" y="205" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">we agree</text>
+
+  <text x="94" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">example: a village</text>
+  <text x="94" y="268" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">assembly (kgotla)</text>
+  <text x="94" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">in Botswana</text>
+
+  <rect x="34" y="300" width="120" height="64" rx="10" fill="#eef4ee" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="94" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">who decides?</text>
+  <text x="94" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">everyone talks</text>
+  <text x="94" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">until they agree</text>
+
+  <!-- Column 2: direct votes -->
+  <rect x="182" y="84" width="148" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">direct votes</text>
+
+  <!-- ballot box -->
+  <rect x="216" y="178" width="80" height="64" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="248" y="168" width="16" height="14" rx="2" fill="#2b3a42"/>
+  <!-- hand dropping ballot -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M256 150 L256 138"/>
+    <path d="M248 144 L256 138 L264 144"/>
+  </g>
+  <rect x="250" y="130" width="12" height="14" rx="2" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">example: citizens</text>
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">vote on laws several</text>
+  <text x="256" y="302" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">times a year</text>
+  <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(Switzerland)</text>
+
+  <rect x="196" y="334" width="120" height="64" rx="10" fill="#eef4ee" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">who decides?</text>
+  <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the citizens,</text>
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">directly</text>
+
+  <!-- Column 3: representatives -->
+  <rect x="344" y="84" width="148" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="418" y="112" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">choosing</text>
+  <text x="418" y="130" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">representatives</text>
+
+  <!-- three small people raising hands toward one -->
+  <circle cx="384" cy="178" r="8" fill="#c98a5b" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="404" cy="192" r="8" fill="#8a5a3b" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="382" cy="206" r="8" fill="#d9a05b" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- elected figure -->
+  <circle cx="438" cy="186" r="11" fill="#b98a6b" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="428" y="198" width="20" height="18" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <text x="418" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">example: people</text>
+  <text x="418" y="266" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">vote for a parliament</text>
+  <text x="418" y="282" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">or congress (India,</text>
+  <text x="418" y="298" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Japan, Brazil&#8230;)</text>
+
+  <rect x="358" y="314" width="120" height="64" rx="10" fill="#eef4ee" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="418" y="336" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">who decides?</text>
+  <text x="418" y="354" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the people choose</text>
+  <text x="418" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">who decides</text>
+
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Many ways, one question: who has a voice?</text>
+</svg>

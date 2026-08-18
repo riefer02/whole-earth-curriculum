@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Helping two peers solve a conflict</title>
+  <desc id="desc">A three-step diagram for peer mediation. Two peers stand on either side of a helper figure in the middle. Three labeled steps flow left to right: "each side speaks, one at a time," "each side listens and repeats back," and "find a fair solution both accept." Labels, arrows, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Helping Two Peers Solve a Conflict</text>
+
+  <!-- three figures: left side, helper, right side -->
+  <!-- left peer -->
+  <circle cx="80" cy="130" r="16" fill="#c98a5b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="66" y="146" width="28" height="26" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">peer 1</text>
+
+  <!-- helper -->
+  <circle cx="256" cy="120" r="18" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="240" y="138" width="32" height="28" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">helper</text>
+
+  <!-- right peer -->
+  <circle cx="432" cy="130" r="16" fill="#d9a05b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="418" y="146" width="28" height="26" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="432" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">peer 2</text>
+
+  <!-- speech bubble left -->
+  <path d="M96 210 Q84 206 84 196 Q84 186 98 186 L150 186 Q164 186 164 196 Q164 206 150 206 L124 206 L118 216 L122 206 Z" fill="#eef4ee" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="124" y="199" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">I speak</text>
+
+  <!-- speech bubble right -->
+  <path d="M362 210 Q348 206 348 196 Q348 186 362 186 L414 186 Q428 186 428 196 Q428 206 414 206 L388 206 L382 216 L386 206 Z" fill="#eef4ee" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="388" y="199" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">I speak</text>
+
+  <!-- three steps across the bottom -->
+  <!-- step 1 -->
+  <rect x="20" y="300" width="148" height="120" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="94" y="326" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1. speak</text>
+  <text x="94" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">each side speaks,</text>
+  <text x="94" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">one at a time</text>
+  <text x="94" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">no interrupting</text>
+
+  <!-- arrow -->
+  <path d="M178 360 L196 360" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M192 356 L196 360 L192 364" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- step 2 -->
+  <rect x="204" y="300" width="148" height="120" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="278" y="326" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">2. listen</text>
+  <text x="278" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">each side listens</text>
+  <text x="278" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and repeats back</text>
+  <text x="278" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">"what I hear is&#8230;"</text>
+
+  <!-- arrow -->
+  <path d="M362 360 L380 360" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M376 356 L380 360 L376 364" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- step 3 -->
+  <rect x="388" y="300" width="104" height="120" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="440" y="326" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">3. solve</text>
+  <text x="440" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">find a fair</text>
+  <text x="440" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">solution</text>
+  <text x="440" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">both accept</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">The helper's job is listening and dignity &#8212; not choosing a winner.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A fair solution is one both sides accept.</text>
+</svg>
