@@ -1355,7 +1355,7 @@ sources:
     year: 1995
     domains: [D09]
     reviewed: true
-    notes: "Robert E. Slavin, Cooperative Learning: Theory, Research, and Practice (2nd ed., Allyn & Bacon, 1995). Cited in U.04.010 L06/L07 (Plan/Do Our Shared Project) as the research base for cooperative-learning structures that divide work fairly. Real, seminal work in cooperative learning. No URL (print book). Also cited in U.05.011 L08 (cooperative learning / collective action research base)."
+    notes: "Robert E. Slavin, Cooperative Learning: Theory, Research, and Practice (2nd ed., Allyn & Bacon, 1995). Cited in U.04.010 L06/L07 (Plan/Do Our Shared Project) as the research base for cooperative-learning structures that divide work fairly. Real, seminal work in cooperative learning. No URL (print book). Also cited in U.05.011 L08 (cooperative learning / collective action research base). Also cited in U.06.002 L05 (Sharing Roles on a Team) and L07 (Skill and Teamwork Together) for the claim that cooperative learning assigning roles with individual accountability is a well-evidenced classroom structure — Slavin's cooperative-learning model (individual accountability + group rewards/roles) directly supports this; it replaced an earlier, unverifiable 'J-PAL review of cooperative strategies' citation (J-PAL has no such review; its education policy insights cover tailoring instruction and socioemotional skills, not cooperative learning per se)."
 
   - id: S-148
     title: "Rosenberg — Nonviolent Communication"
@@ -2090,5 +2090,26 @@ sources:
     domains: [D01, D10]
     reviewed: true
     notes: "Verified live 2026-08-17 (commonsensemedia.org/research). The Common Sense Research Program 'provides parents, educators, health organizations, and policymakers with reliable, independent data on children's use of media and technology and the impact it has on their physical, emotional, social, and intellectual development.' It has published recurring reports on social media and adolescent well-being (e.g., the 'Social Media, Social Life' surveys), which is what U.06.001 L07 cites for the claim that curated, edited images can distort self-image/body image. Real and on-topic as a general authority; the lesson's specific 'warped mirror' framing (edited/curated highlight reels) is well supported by this body of research and by Festinger (S-221). Distinct from the media-literacy entry S-063."
+
+  - id: S-227
+    title: "Jacobson — Progressive Relaxation (progressive muscle relaxation)"
+    type: book
+    author: Edmund Jacobson
+    organization: University of Chicago Press
+    year: 1929
+    domains: [D03]
+    reviewed: true
+    notes: "Edmund Jacobson (1929), Progressive Relaxation, University of Chicago Press (technique first presented at Harvard University in 1908; also 1934 'You Must Relax'). Origin of progressive muscle relaxation (PMR), the tense-then-release method cited in U.06.002 L02 (One Way to Release Tension). Attribution verified (2026-08-17): PMR was 'initially developed by American physician Edmund Jacobson'; the technique is a two-step tense-then-relax of muscle groups, with 'breathing in while tensing the muscles and breathing out as the muscles are released' — matching the lesson's four-step squeeze-and-release (breathe in, squeeze, hold, breathe out and let go). The lesson correctly presents it as 'a form of' PMR, simplified for Grade 6, and hedges it as one of many traditions rather than a cure. No URL (print book); Wikipedia summary used for verification."
+
+  - id: S-228
+    title: "Roediger & Karpicke — Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention"
+    type: article
+    author: Henry L. Roediger III, Jeffrey D. Karpicke
+    organization: Psychological Science
+    year: 2006
+    url: https://doi.org/10.1111/j.1467-9280.2006.01693.x
+    domains: [D01, D03]
+    reviewed: true
+    notes: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. Landmark experimental demonstration of the testing effect (retrieval practice): taking a memory test improves long-term retention more than additional study. Cited in U.06.002 L08 (My Body at Work: My Tension-Release Toolkit) for the claim that 'retrieval practice — recalling what was learned rather than re-reading it — strengthens long-term memory.' On-point and correctly attributed (the lesson pairs it with the general 'learning-science literature'; Dunlosky et al. S-039 is the companion consensus review). DOI format verified; the canonical DOI is 10.1111/j.1467-9280.2006.01693.x."
 
 

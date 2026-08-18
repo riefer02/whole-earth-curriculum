@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Stress, tension, and my body</title>
+  <desc id="desc">A diagram showing a thought bubble reading "so much to do, and a test tomorrow" beside a worried face, with an arrow pointing to a simple body outline whose shoulders, jaw, and stomach are shaded and labeled "tight shoulders," "clenched jaw," and "tight stomach." A caption reads "Stress in the mind can show up as tension in the body." Labels and arrows, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Stress in the Mind, Tension in the Body</text>
+
+  <!-- Thought bubble -->
+  <rect x="36" y="72" width="180" height="96" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="70" cy="176" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="56" cy="188" r="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="126" y="110" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">so much to do,</text>
+  <text x="126" y="132" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">and a test</text>
+  <text x="126" y="154" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tomorrow</text>
+
+  <!-- Face -->
+  <circle cx="300" cy="120" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="290" cy="114" r="3" fill="#2b3a42"/>
+  <circle cx="310" cy="114" r="3" fill="#2b3a42"/>
+  <path d="M288 134 Q300 142 312 134" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Arrow from bubble/face to body -->
+  <path d="M300 158 L300 210" stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M292 202 L300 214 L308 202" stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Body outline -->
+  <circle cx="300" cy="252" r="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="270" y="272" width="60" height="130" rx="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="270" y1="290" x2="230" y2="330" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="330" y1="290" x2="370" y2="330" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="280" y1="402" x2="278" y2="460" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="320" y1="402" x2="322" y2="460" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Shaded shoulder spots -->
+  <ellipse cx="276" cy="286" rx="12" ry="10" fill="#e0a458" opacity="0.8"/>
+  <ellipse cx="324" cy="286" rx="12" ry="10" fill="#e0a458" opacity="0.8"/>
+  <!-- Jaw shading -->
+  <ellipse cx="300" cy="262" rx="12" ry="7" fill="#e0a458" opacity="0.8"/>
+  <!-- Stomach shading -->
+  <ellipse cx="300" cy="350" rx="18" ry="14" fill="#e0a458" opacity="0.8"/>
+
+  <!-- Labels with leader lines -->
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <line x1="334" y1="286" x2="398" y2="286" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="400" y="282">tight</text>
+    <text x="400" y="300">shoulders</text>
+
+    <line x1="300" y1="252" x2="300" y2="228" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="308" y="232">clenched jaw</text>
+
+    <line x1="318" y1="350" x2="398" y2="350" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="400" y="346">tight</text>
+    <text x="400" y="364">stomach</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Stress in the mind can show up as tension in the body.</text>
+</svg>

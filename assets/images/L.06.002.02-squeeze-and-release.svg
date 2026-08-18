@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Squeeze and release</title>
+  <desc id="desc">Two panels side by side. The left panel shows a hand drawn as a tight fist with raised shoulders, labeled "squeeze and hold," with a small "breathe in" arrow. The right panel shows the same hand open and soft with lowered shoulders, labeled "release and let go," with a "breathe out" arrow. A caption reads "Squeeze, then let go — the body learns to release." Labels and arrows, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Squeeze, Then Let Go</text>
+
+  <!-- Panel 1: squeeze -->
+  <rect x="30" y="78" width="210" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="135" y="104" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">1. squeeze and hold</text>
+
+  <!-- shoulders up -->
+  <path d="M60 160 Q80 128 108 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M162 150 Q190 128 210 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck/head -->
+  <circle cx="135" cy="112" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- arm to fist -->
+  <line x1="108" y1="150" x2="100" y2="210" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- fist -->
+  <circle cx="100" cy="226" r="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="88" y1="214" x2="112" y2="238" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="94" y1="212" x2="106" y2="214" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- breathe in arrow -->
+  <path d="M210 250 L250 250" stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M244 243 L252 250 L244 257" stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="230" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">breathe in</text>
+
+  <!-- Panel 2: release -->
+  <rect x="272" y="78" width="210" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="377" y="104" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">2. release and let go</text>
+
+  <!-- shoulders down -->
+  <path d="M302 190 Q322 160 350 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M404 180 Q432 160 452 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck/head -->
+  <circle cx="377" cy="142" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- arm to open hand -->
+  <line x1="350" y1="180" x2="342" y2="220" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- open hand: palm + fingers -->
+  <circle cx="342" cy="236" r="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="330" y1="226" x2="320" y2="252" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="336" y1="222" x2="332" y2="250" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="342" y1="220" x2="342" y2="250" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="348" y1="222" x2="352" y2="250" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="354" y1="226" x2="364" y2="252" stroke="#2b3a42" stroke-width="2" stroke-linecap="0"/>
+
+  <!-- breathe out arrow -->
+  <path d="M242 250 L202 250" stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M208 243 L200 250 L208 257" stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="222" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">breathe out</text>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">The four steps</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">breathe in &#8226; squeeze tight &#8226; hold three counts &#8226; breathe out and let go</text>
+
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Squeeze, then let go — the body learns to release.</text>
+</svg>

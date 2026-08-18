@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Feedback and correction loop</title>
+  <desc id="desc">A circular flow diagram with four labeled boxes connected by arrows. The boxes read "practice the step," "a partner observes," "specific tip: cross behind, not in front," and "correct and try again." The arrows show the cycle returning to "practice the step." A caption reads "Feedback and correction refine a skill." Labels, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Feedback and Correction Loop</text>
+
+  <!-- Box 1 top -->
+  <rect x="166" y="76" width="180" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">practice the step</text>
+  <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">(side, cross, side, tap)</text>
+
+  <!-- Box 2 right -->
+  <rect x="318" y="210" width="168" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="402" y="238" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">a partner observes</text>
+  <text x="402" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">(watches the feet)</text>
+
+  <!-- Box 3 bottom -->
+  <rect x="166" y="344" width="180" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">correct and try again</text>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">(do it with the tip in mind)</text>
+
+  <!-- Box 4 left -->
+  <rect x="26" y="210" width="168" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="110" y="234" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">specific tip:</text>
+  <text x="110" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">cross behind, not in front</text>
+
+  <!-- Arrows -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M346 120 L402 206"/>
+    <path d="M402 198 L394 206 L406 208"/>
+    <path d="M402 278 L402 330"/>
+    <path d="M394 322 L402 330 L410 322"/>
+    <path d="M322 376 L190 376 L118 278"/>
+    <path d="M126 286 L118 274 L110 282"/>
+    <path d="M110 206 L196 124"/>
+    <path d="M188 116 L196 124 L204 118"/>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Feedback and correction refine a skill.</text>
+</svg>

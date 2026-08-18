@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The traveling step</title>
+  <desc id="desc">Four footprints in a row showing the traveling step. Count 1 is a foot stepping to the side, count 2 is a foot crossing behind, count 3 steps to the side again, and count 4 taps the feet together. Each footprint is labeled with its count number. A caption reads "Side, cross behind, side, tap — the traveling step." Labels, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Traveling Step</text>
+
+  <!-- Footprint helper: ellipse + toe dots -->
+  <!-- Count 1: step to the side -->
+  <g>
+    <ellipse cx="140" cy="180" rx="34" ry="54" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="126" cy="128" r="5" fill="#2b3a42"/>
+    <circle cx="140" cy="124" r="5" fill="#2b3a42"/>
+    <circle cx="154" cy="128" r="5" fill="#2b3a42"/>
+    <text x="140" y="256" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">1</text>
+    <text x="140" y="280" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">step to the side</text>
+  </g>
+
+  <!-- Count 2: cross behind -->
+  <g>
+    <ellipse cx="256" cy="180" rx="34" ry="54" fill="#ffffff" stroke="#2b3a42" stroke-width="2" transform="rotate(-22 256 180)"/>
+    <circle cx="244" cy="128" r="5" fill="#2b3a42"/>
+    <circle cx="258" cy="124" r="5" fill="#2b3a42"/>
+    <circle cx="272" cy="128" r="5" fill="#2b3a42"/>
+    <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">2</text>
+    <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">cross behind</text>
+  </g>
+
+  <!-- Count 3: step to the side again -->
+  <g>
+    <ellipse cx="372" cy="180" rx="34" ry="54" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="358" cy="128" r="5" fill="#2b3a42"/>
+    <circle cx="372" cy="124" r="5" fill="#2b3a42"/>
+    <circle cx="386" cy="128" r="5" fill="#2b3a42"/>
+    <text x="372" y="256" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">3</text>
+    <text x="372" y="280" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">step to the side</text>
+  </g>
+
+  <!-- Arrows between counts -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 150 L210 150"/>
+    <path d="M300 150 L330 150"/>
+  </g>
+
+  <!-- Count 4: tap together (two feet side by side) -->
+  <g>
+    <ellipse cx="436" cy="200" rx="28" ry="48" fill="#ffffff" stroke="#2b3a42" stroke-width="2" transform="rotate(8 436 200)"/>
+    <ellipse cx="470" cy="204" rx="28" ry="48" fill="#ffffff" stroke="#2b3a42" stroke-width="2" transform="rotate(-4 470 204)"/>
+    <text x="452" y="276" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">4</text>
+    <text x="452" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tap together</text>
+  </g>
+
+  <!-- Reverse note -->
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Then reverse, leading with the other foot.</text>
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Seated version: tap the four counts with your feet — side, cross, side, together.</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Side, cross behind, side, tap — the traveling step.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Encourage every skill level</title>
+  <desc id="desc">Two speech bubbles side by side. The left bubble, with a green check, reads "I saw your cross today — you're getting it!" and is labeled "encourages effort and progress." The right bubble, with a red X, reads "you're the slowest" and is labeled "ranks instead of encouraging." A caption reads "Encourage every skill level; rank no one." Labels and check marks, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Encourage Every Skill Level</text>
+
+  <!-- Left bubble: encouraging -->
+  <rect x="30" y="86" width="216" height="150" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M60 236 L52 256 L88 240" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="138" y="120" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">&#8220;I saw your cross</text>
+  <text x="138" y="144" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">today — you&#8217;re</text>
+  <text x="138" y="168" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">getting it!&#8221;</text>
+
+  <!-- Check mark -->
+  <circle cx="138" cy="206" r="13" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M131 206 L136 211 L146 199" fill="none" stroke="#222222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="138" y="268" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">encourages effort</text>
+  <text x="138" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">and progress</text>
+
+  <!-- Right bubble: ranking -->
+  <rect x="266" y="86" width="216" height="150" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M452 236 L460 256 L424 240" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="374" y="132" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">&#8220;you&#8217;re the</text>
+  <text x="374" y="156" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">slowest&#8221;</text>
+  <line x1="300" y1="182" x2="448" y2="182" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- X mark -->
+  <circle cx="374" cy="206" r="13" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M367 199 L381 213 M381 199 L367 213" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <text x="374" y="268" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">ranks instead of</text>
+  <text x="374" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">encouraging</text>
+
+  <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Cheer the trying, not the winning.</text>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">&#8220;I saw you ___ . That&#8217;s better than before.&#8221;  &#8226;  &#8220;Keep going — you&#8217;re getting it.&#8221;</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Encourage every skill level; rank no one.</text>
+</svg>

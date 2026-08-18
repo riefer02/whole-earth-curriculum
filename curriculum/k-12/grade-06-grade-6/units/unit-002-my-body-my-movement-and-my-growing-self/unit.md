@@ -51,3 +51,11 @@ never shame, and the wide range of bodies and abilities is honored throughout.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.002.01 | Stress, Tension, and My Body | D03.S1.06.02 |
+| L.06.002.02 | One Way to Release Tension | D03.S1.06.02 |
+| L.06.002.03 | Starting a New Movement Skill | D03.S2.06.01 |
+| L.06.002.04 | Feedback and Correction Refine My Skill | D03.S2.06.01 |
+| L.06.002.05 | Sharing Roles on a Team | D03.S2.06.02 |
+| L.06.002.06 | Encouraging Every Skill Level | D03.S2.06.02 |
+| L.06.002.07 | Skill and Teamwork Together | D03.S2.06.01, D03.S2.06.02 |
+| L.06.002.08 | My Body at Work: My Tension-Release Toolkit | D03.S1.06.02, D03.S2.06.01, D03.S2.06.02 (capstone) |

@@ -3842,7 +3842,7 @@ items:
     type: lesson
     grade: 6
     domain: D03
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -3854,6 +3854,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (951). IDs L.06.002.01-.08 sequence_in_unit 1-8, grade 6, unit U.06.002; objectives resolve to real grade-6 D03 standards (all 3 covered, L8 capstone carries all 3); required headings present learner-first; unit.md table lists all 8; all 8 assets resolve with non-empty alt (e.g. L4 feedback-correction-loop practice->observe->tip->correct); age-appropriate (stress/tension awareness, PMR, cooperative movement — no puberty material which belongs to S1.06.01 elsewhere); sources CASEL/Jacobson/Kirschner/Hattie/Dweck/WHO/Roediger & Karpicke.
+      fact-checker:
+        verdict: passed
+        note: "Verified: stress->muscle-tension + same stress response across cultures hedged; PMR correctly attributed to Edmund Jacobson 1929 (University of Chicago), four-step squeeze-and-release as faithful G6 simplification 'a form of' PMR; Kirschner worked-examples + Hattie feedback d~0.73 correctly represented; fixed misattribution (nonexistent 'J-PAL review of cooperative strategies' -> Slavin S-147 + Johnson & Johnson); Dweck effort-vs-ability hedged. Registered S-227 (Jacobson 1929) + S-228 (Roediger & Karpicke 2006); confirmed CASEL/WHO/Beck/Slavin/Dunlosky."
+      global-culture-editor:
+        verdict: passed
+        note: "Globally framed not single-sport/US-Euro: L3 traveling step 'known by many names in dances across many regions' + 'do not present as the correct dance of any one people'; Connection cites grapevine/chasse/folk side-steps; L2 squeeze-and-release 'one of many ways different people and cultures release tension not the only right one'; movement cooperative not competitive (L5/L7 'collective not competitive', 'no role outranks another'); representation spans regions (busy city/fishing village/mountain farm; fishing crew/dance troupe/study group/market stall); bodies/abilities honored (seated/adapted, 'a seated step is a full step', 'tension as information never weakness', 'rank no one every body belongs')."
+      accessibility-editor:
+        verdict: passed
+        note: All 8 lessons real materials_low_tech (voice/body, chalk/stick in dirt, found squeeze objects); UDL say/draw/act/move/write + movement lessons observation+verbal+written paths (trace-with-finger, spoken counts, practice-log tallies); every movement activity seated/adapted equivalents (L3 'a seated step is a full step' in Differentiation AND SVG, L4 facilitator note, L7 'any move seated/small/slow/large'); L2 tension-release hands/shoulders/jaw seated + 'any muscle may be skipped'; teamwork roles adapted + non-verbal (thumbs up/down, picture cues); plain language scaffolded; all 8 assets non-empty alt + SVG role=img/title/desc grayscale label-shape (check/X redundant with shapes+text).
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (dignity of every body, feedback about action not person L4, no role outranks another L5, encouragement-vs-ranking as ethical choice L6, 'noticing never judging' L1); egalitarianism (roles rotated, cooperative no-winner/loser L7, 'rank no one' L6, seated/adapted full participation); global (busy city/fishing village/mountain farm, potter's hands, market stalls, traveling step 'shared human pattern' grapevine/chasse/folk not one culture's property, release 'many traditions'); tech/environment genuinely irrelevant (tech only optional enriched camera/metronome/app); evidence-vs-values (Beck/Jacobson/Kirschner/Hattie/Dweck/Slavin/Johnson & Johnson/Roediger & Karpicke/CASEL/WHO; dignity/no-shame as values). Traceability: Vision->P2->D03->S1/S2->3 standards->U.06.002->L.06.002.01-.08."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-6 band (11-12): cognitive fit concrete (stress->tension via body sensations + worked example + body-map, not psychophysiology; parasympathetic + motor-learning citations facilitator-only; motor learning as practice->observe->tip->correct->retry loop); emotional safety handles peak self-consciousness (self-referential 'compare your own tries not your partner's', roles equal regardless of skill, feedback action-not-person never ranking, tension 'information not pathology not a flaw in you', L1 guard against requiring disclosure of heavy stress); physical fit traveling step suits coordination + seated/adapted verified; squeeze-and-release 'never to pain, any muscle may be skipped'; open-ended 'one of many ways' not creed."
   - id: B-337
     title: Author lessons for Unit U.06.003 (Friendships, Empathy & Belonging)
     agent: lesson-author
