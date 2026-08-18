@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Perspective-taking: two angles on one scene</title>
+  <desc id="d">Two figures of different skin tones look at the same scene from opposite sides of a divide. Above the left figure, a thought bubble reads "they ignored me — they must be angry." Above the right figure, a thought bubble reads "I just got bad news and couldn't speak." A caption reads "What else might be true? Step into their shoes."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- central divide -->
+  <rect x="250" y="90" width="12" height="220" rx="6" fill="#4f6d7a" opacity="0.4"/>
+  <!-- left figure -->
+  <g>
+    <circle cx="150" cy="180" r="18" fill="#d9a066"/>
+    <rect x="134" y="198" width="32" height="46" rx="9" fill="#e0a458"/>
+    <path d="M138 208 L 122 230" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M144 244 L 140 274" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M156 244 L 160 274" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <!-- thought bubble -->
+    <ellipse cx="150" cy="90" rx="95" ry="40" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="150" y="84" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">"they ignored me —</text>
+    <text x="150" y="102" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">they must be angry"</text>
+  </g>
+  <!-- right figure -->
+  <g>
+    <circle cx="362" cy="180" r="18" fill="#a9714b"/>
+    <rect x="346" y="198" width="32" height="46" rx="9" fill="#6b93b6"/>
+    <path d="M354 208 L 368 230" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M356 244 L 352 274" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M368 244 L 372 274" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <!-- thought bubble -->
+    <ellipse cx="362" cy="90" rx="100" ry="40" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="362" y="84" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">"I just got bad news</text>
+    <text x="362" y="102" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">and couldn't speak"</text>
+  </g>
+  <!-- shoes (step into their shoes) -->
+  <g>
+    <ellipse cx="150" cy="316" rx="20" ry="9" fill="#2b3a42"/>
+    <ellipse cx="362" cy="316" rx="20" ry="9" fill="#2b3a42"/>
+  </g>
+  <!-- caption banner -->
+  <rect x="90" y="360" width="332" height="56" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="384" font-family="sans-serif" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">What else might be true?</text>
+  <text x="256" y="406" font-family="sans-serif" font-size="15" fill="#222222" text-anchor="middle">Step into their shoes.</text>
+  <!-- arrows from figures to shoes -->
+  <path d="M150 300 L 150 314" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="4 3"/>
+  <path d="M362 300 L 362 314" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="4 3"/>
+</svg>

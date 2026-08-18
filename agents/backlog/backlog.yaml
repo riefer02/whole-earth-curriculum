@@ -3879,7 +3879,7 @@ items:
     type: lesson
     grade: 6
     domain: D02
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -3891,6 +3891,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (961). IDs L.06.003.01-.10 sequence_in_unit 1-10, grade 6, unit U.06.003; objectives resolve to real grade-6 D02 standards (all 8 covered, L10 capstone carries S4.06.02 + revisits S3.06.01/S4.06.01); required headings present learner-first; unit.md table lists all 10; all 10 assets resolve with non-empty alt (L3 check-mark-not-color marks assertive figure); age-appropriate (L10 keeps inequality at 'systems vs worth' level, forbids asking learners to disclose family resources); sources CASEL/Tajfel/Batson/Decety & Cowell/Slavin/World Bank-UN with values flagged as commitments.
+      fact-checker:
+        verdict: passed
+        note: Communication passive/aggressive/assertive + I-statements correctly attributed (CASEL S-001, Kirschner S-011); empathy/sympathy hedged as teaching simplification of Batson empathic-concern (S-230) + Decety & Cowell (S-231), 'reason vs excuse' flagged as values; belonging in-group/out-group Tajfel minimal-group (S-232) + UNESCO inclusion (S-235); cooperation-vs-competition Slavin S-147 + Johnson & Johnson social-interdependence (S-233); inequality capstone no specific statistic + World Bank S-234 + 'worth not measured by resources' as value. Registered S-229..S-235 (Steinberg/Batson/Decety & Cowell/Tajfel/Johnson & Johnson/World Bank/UNESCO).
+      global-culture-editor:
+        verdict: passed
+        note: "Connection spans multiple regions/ways of life (schoolroom/market stall/shared kitchen, hallway/farmyard/crowded bus, mountain village to port city); alts show varied skin tones + disability markers + multilingual scripts; L7-8 identity ordinary/gift not deficit ('home language a gift never a gap', 'wheelchair ordinary never a sad story'); no culture stereotyped/ranked; L9 avoids moralizing competition as villain. Fixed L3-4: added facilitator-note caveats that assertive/passive/aggressive model is Western-origin and indirect speech/quietness/deference/saving-face are legitimate respectful styles not 'passivity' — reframed as within-relationship check, never ranking any culture's way of speaking."
+      accessibility-editor:
+        verdict: passed
+        note: All 10 lessons real materials_low_tech (voice + partner, drawn dirt/path, stones/seeds piles, rope/chalk circle, found objects, thumbs/hand-signal games); UDL say/draw/act/write/sort/point + non-verbal participation (hand signals, gestures); communication role-plays L1-4 have written/gesture route (repair record card, three-column chart, assertion record page) so non-speaking/seated not excluded; empathy/belonging discussions written/drawn/gesture sorting; terms scaffolded with worked examples + key_vocabulary; all 10 assets non-empty alt + SVG role=img/title/desc grayscale label-shape-posture; no wealth assumption.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (honest/assertive communication, empathy as ethical practice, inclusion/fairness); egalitarianism (inequality as systems/circumstances never worth, belonging as equal claim with barriers as 'systems of habit not bad people', identity anti-deficit 'gift not gap'); global (L3 cautions three-voices model Western + indirect speech/deference not 'passivity'; market stall/fishing boat/shared harvest/mountain-to-port-city imagery); evidence-vs-values (CASEL/Steinberg/Batson/Decety & Cowell/Tajfel/Slavin/Johnson & Johnson/World Bank-UN/UNESCO cited, values flagged); tech/environment deferred to G7 online belonging. Traceability: Vision->P1->D02->S1-S4->8 standards->U.06.003->lessons."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-6 band (11-12): cognitive fit concrete anchors (three voices + body posture + sample lines not theory; empathy-with/for via shoulder-to-shoulder vs above body positions; perspective-taking 'what else might be true'; belonging via circle saved-seat/repeated-pick; cooperation-vs-competition rowing-together vs footrace; abstract contrasts reserved as extensions); emotional safety invented scenarios only + facilitator notes forbid real classmates; L10 forbids shaming less AND blaming more + never asks resource disclosure + agency/hope; empathy uses story characters no emotional labor/disclosure; L3-4 indirect-speech≠passivity prevents shaming collectivist learners; L8 anti-deficit 'gift not gap' nothing others any learner; physical fit role-play + seated alternatives; questions as questions."
   - id: B-338
     title: Author lessons for Unit U.06.004 (Reading, Writing, Argument & Many Languages)
     agent: lesson-author

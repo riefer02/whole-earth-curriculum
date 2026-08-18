@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Three-part assertion formula</title>
+  <desc id="d">Three connected boxes form an assertion formula. The first box reads "I feel/need ___" with a figure raising a hand labeled "my need." The second reads "you matter too" with a figure labeled "your need." The third reads "so let's ___" with both figures joined by a handshake labeled "a fair next step."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- three boxes -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <rect x="30" y="50" width="140" height="110" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="100" y="90" font-size="17" fill="#222222" font-weight="bold">1. say the need</text>
+    <text x="100" y="116" font-size="15" fill="#222222">"I feel / I need ___"</text>
+    <rect x="186" y="50" width="140" height="110" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="256" y="90" font-size="17" fill="#222222" font-weight="bold">2. respect the other</text>
+    <text x="256" y="116" font-size="15" fill="#222222">"I know you ___ too"</text>
+    <rect x="342" y="50" width="140" height="110" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="412" y="90" font-size="17" fill="#222222" font-weight="bold">3. fair next step</text>
+    <text x="412" y="116" font-size="15" fill="#222222">"so let's ___"</text>
+  </g>
+  <!-- arrows -->
+  <g stroke="#4f6d7a" stroke-width="4" stroke-linecap="round">
+    <line x1="170" y1="105" x2="184" y2="105"/>
+    <line x1="326" y1="105" x2="340" y2="105"/>
+  </g>
+  <!-- figure raising hand (my need) -->
+  <g>
+    <circle cx="100" cy="250" r="18" fill="#d9a066"/>
+    <rect x="85" y="268" width="30" height="44" rx="9" fill="#7a9e7e"/>
+    <path d="M100 278 L 100 238" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M100 238 L 100 232" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M88 278 L 74 300" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M96 312 L 92 340" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M104 312 L 108 340" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <text x="100" y="366" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">my need</text>
+  </g>
+  <!-- figure (your need) -->
+  <g>
+    <circle cx="256" cy="250" r="18" fill="#f2c9a0"/>
+    <rect x="241" y="268" width="30" height="44" rx="9" fill="#6b93b6"/>
+    <path d="M244 278 L 228 300" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M252 312 L 248 340" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M260 312 L 264 340" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <text x="256" y="366" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">your need</text>
+  </g>
+  <!-- handshake figure -->
+  <g>
+    <circle cx="412" cy="250" r="18" fill="#a9714b"/>
+    <rect x="397" y="268" width="30" height="44" rx="9" fill="#e0a458"/>
+    <path d="M400 278 L 386 300" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M408 312 L 404 340" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M416 312 L 420 340" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <text x="412" y="366" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">a fair next step</text>
+  </g>
+  <!-- connecting underline between figures -->
+  <path d="M130 300 C 180 320, 220 320, 230 300" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="5 4"/>
+  <path d="M282 300 C 320 320, 360 320, 382 300" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="5 4"/>
+</svg>

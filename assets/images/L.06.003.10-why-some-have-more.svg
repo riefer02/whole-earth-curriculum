@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Why some have more than they need</title>
+  <desc id="d">Three households drawn side by side. The first holds a large pile of food and goods, the second a modest pile, the third a very small pile. Above them, arrows point to labels: "where you were born," "a family's work and pay," "illness or disability," "war or displacement," and "unfair rules" — with a banner reading "systems and circumstances shape this, never a person's worth." Below, a caption reads "and fairness — sharing and fair rules — can change it."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- three households -->
+  <!-- house 1: large pile -->
+  <g>
+    <path d="M40 250 L 90 200 L 140 250 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="52" y="250" width="76" height="70" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="90" cy="340" rx="46" ry="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+    <text x="90" y="386" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">much</text>
+  </g>
+  <!-- house 2: modest pile -->
+  <g>
+    <path d="M190 268 L 235 224 L 280 268 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="200" y="268" width="70" height="62" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="235" cy="348" rx="34" ry="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+    <text x="235" y="386" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">enough</text>
+  </g>
+  <!-- house 3: very small pile -->
+  <g>
+    <path d="M332 282 L 380 238 L 428 282 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="342" y="282" width="66" height="54" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <ellipse cx="375" cy="352" rx="22" ry="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+    <text x="375" y="386" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">little</text>
+  </g>
+  <!-- reasons with arrows (top) -->
+  <g font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">
+    <rect x="28" y="52" width="120" height="34" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="88" y="73">where you were born</text>
+    <rect x="196" y="52" width="120" height="34" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="73">a family's work and pay</text>
+    <rect x="364" y="52" width="120" height="34" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="424" y="73">illness or disability</text>
+  </g>
+  <g font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">
+    <rect x="112" y="100" width="130" height="34" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="177" y="121">war or displacement</text>
+    <rect x="282" y="100" width="110" height="34" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="337" y="121">unfair rules</text>
+  </g>
+  <!-- arrows down from reasons to houses -->
+  <g stroke="#4f6d7a" stroke-width="3" stroke-dasharray="5 4">
+    <line x1="90" y1="86" x2="90" y2="196"/>
+    <line x1="256" y1="86" x2="235" y2="220"/>
+    <line x1="424" y1="86" x2="380" y2="234"/>
+    <line x1="177" y1="134" x2="235" y2="220"/>
+    <line x1="337" y1="134" x2="375" y2="234"/>
+  </g>
+  <!-- banner -->
+  <rect x="40" y="420" width="432" height="42" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="447" font-family="sans-serif" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">systems and circumstances shape this — never a person's worth</text>
+  <!-- bottom caption -->
+  <text x="256" y="488" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">and fairness — sharing and fair rules — can change it</text>
+</svg>

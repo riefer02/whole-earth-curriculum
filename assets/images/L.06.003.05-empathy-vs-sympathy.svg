@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Empathy versus sympathy</title>
+  <desc id="d">Two panels. The left panel, labeled sympathy (for), shows one figure standing above and apart from a smaller seated figure, patting its head, with a speech bubble reading "oh, you poor thing." The right panel, labeled empathy (with), shows two figures of different skin tones sitting side by side, shoulders level, with a speech bubble reading "that must be so hard — I'm right here."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- left panel: sympathy -->
+  <g>
+    <rect x="24" y="40" width="220" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="134" y="70" font-family="sans-serif" font-size="19" fill="#222222" text-anchor="middle" font-weight="bold">sympathy (for)</text>
+    <!-- standing figure above -->
+    <circle cx="150" cy="130" r="16" fill="#d9a066"/>
+    <rect x="136" y="146" width="28" height="40" rx="9" fill="#e0a458"/>
+    <path d="M138 156 L 120 178" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M162 156 L 180 178" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M144 186 L 140 214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M156 186 L 160 214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <!-- arm patting head -->
+    <path d="M138 152 L 118 182" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <!-- smaller seated figure -->
+    <circle cx="120" cy="250" r="14" fill="#f2c9a0"/>
+    <rect x="106" y="264" width="26" height="34" rx="8" fill="#7a9e7e"/>
+    <path d="M112 298 L 106 322" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M124 298 L 130 322" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <!-- speech bubble -->
+    <rect x="40" y="336" width="190" height="40" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="135" y="361" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">"oh, you poor thing"</text>
+    <!-- above-and-apart arrow -->
+    <path d="M134 210 L 134 232" stroke="#4f6d7a" stroke-width="3" marker-end="none" stroke-dasharray="4 3"/>
+  </g>
+  <!-- right panel: empathy -->
+  <g>
+    <rect x="268" y="40" width="220" height="300" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="378" y="70" font-family="sans-serif" font-size="19" fill="#222222" text-anchor="middle" font-weight="bold">empathy (with)</text>
+    <!-- two figures side by side, level -->
+    <circle cx="340" cy="170" r="16" fill="#a9714b"/>
+    <rect x="325" y="186" width="30" height="42" rx="9" fill="#6b93b6"/>
+    <path d="M328 196 L 314 218" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M336 228 L 332 256" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M348 228 L 352 256" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="420" cy="170" r="16" fill="#f2c9a0"/>
+    <rect x="405" y="186" width="30" height="42" rx="9" fill="#7a9e7e"/>
+    <path d="M412 196 L 428 218" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M416 228 L 412 256" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M428 228 L 432 256" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <!-- shoulder-to-shoulder arm -->
+    <path d="M355 200 L 405 200" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <!-- speech bubble -->
+    <rect x="290" y="336" width="200" height="40" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="390" y="361" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">"that must be hard — I'm here"</text>
+    <!-- level line -->
+    <path d="M312 186 L 460 186" stroke="#7a9e7e" stroke-width="3" stroke-dasharray="4 3"/>
+  </g>
+</svg>

@@ -64,3 +64,13 @@ rather than competition.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.003.01 | A Friendship Changes | D02.S1.06.01 |
+| L.06.003.02 | Resolving a Conflict with Respectful, Honest Words | D02.S1.06.01 |
+| L.06.003.03 | Passive, Aggressive, Assertive: Three Voices | D02.S1.06.02 |
+| L.06.003.04 | Choosing Assertion in Real Situations | D02.S1.06.02 |
+| L.06.003.05 | Empathy (With) vs Sympathy (For) | D02.S2.06.01 |
+| L.06.003.06 | Why Did They Act That Way? Perspective-Taking | D02.S2.06.02 |
+| L.06.003.07 | Belonging: Who's In, Who's Out, and Why | D02.S3.06.01 |
+| L.06.003.08 | Identity Shapes Belonging: Culture, Language, Ability | D02.S3.06.02 |
+| L.06.003.09 | Cooperation vs Competition: When Each Helps or Harms | D02.S4.06.01 |
+| L.06.003.10 | Capstone: Why Some Have More Than They Need | D02.S4.06.02 (revisits D02.S3.06.01, D02.S4.06.01) |

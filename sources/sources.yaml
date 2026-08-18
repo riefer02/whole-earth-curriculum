@@ -9,7 +9,7 @@ sources:
     organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
     domains: [D01, D02, D03, D04, D09]
     reviewed: true
-    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency, and in U.03.010 L01/L05/L06/L07/L08/L10 (responsible decision-making, relationship skills, social awareness, and self-management — all five competencies are real CASEL competencies). Cited in U.05.003 L01/L02 (self-awareness) and L06 (relationship skills, giving/receiving feedback) — both are among CASEL's five core competencies. URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it. Also cited in U.05.011 L01/L02 (values and responsible decision-making), L05 (social awareness and responsible decision-making), and L06/L07 (social awareness / comparing how decisions are made)."
+    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency, and in U.03.010 L01/L05/L06/L07/L08/L10 (responsible decision-making, relationship skills, social awareness, and self-management — all five competencies are real CASEL competencies). Cited in U.05.003 L01/L02 (self-awareness) and L06 (relationship skills, giving/receiving feedback) — both are among CASEL's five core competencies. URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it. Also cited in U.05.011 L01/L02 (values and responsible decision-making), L05 (social awareness and responsible decision-making), and L06/L07 (social awareness / comparing how decisions are made). Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) for relationship skills and social awareness — friendship change, conflict repair and I-statements, passive/aggressive/assertive communication, empathy, perspective-taking, belonging, cooperation, and fairness."
 
   - id: S-002
     title: NASA — The Big Bang
@@ -103,7 +103,7 @@ sources:
     year: 2006
     domains: []
     reviewed: true
-    notes: "Novices learn foundational material better with explicit instruction, worked examples, and guided practice than with minimal guidance. Full title: 'Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching' (Educational Psychologist 41(2), 75–86; DOI 10.1207/s15326985ep4102_1 verified). Cited in U.02.007 L01/L03/L05–L09 to justify 'model once, then guided practice' for skills (mixing, echoing patterns, movement sequences, leading/following, planning, comparing two ways) — consistent with philosophy §13. Also cited in U.03.007 L01–L04 and L06–L09 (patterns, mood, long/short sounds, tempo/dynamics/pitch, movement retelling, design loop, materials comparison, sound+motion) to justify 'model once, then guided practice' for arts/making skills. On-topic: the citation supports explicit modeling + guided practice over pure discovery, not any specific art claim. Also cited in U.05.011 L01/L02/L05/L08/L09 to justify 'model once, then guided practice' for reasoning and mediation skills."
+    notes: "Novices learn foundational material better with explicit instruction, worked examples, and guided practice than with minimal guidance. Full title: 'Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching' (Educational Psychologist 41(2), 75–86; DOI 10.1207/s15326985ep4102_1 verified). Cited in U.02.007 L01/L03/L05–L09 to justify 'model once, then guided practice' for skills (mixing, echoing patterns, movement sequences, leading/following, planning, comparing two ways) — consistent with philosophy §13. Also cited in U.03.007 L01–L04 and L06–L09 (patterns, mood, long/short sounds, tempo/dynamics/pitch, movement retelling, design loop, materials comparison, sound+motion) to justify 'model once, then guided practice' for arts/making skills. On-topic: the citation supports explicit modeling + guided practice over pure discovery, not any specific art claim. Also cited in U.05.011 L01/L02/L05/L08/L09 to justify 'model once, then guided practice' for reasoning and mediation skills. Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) to justify 'model once, then guided practice' for social-emotional skills (conflict repair, assertion, perspective-taking, cooperation)."
 
   - id: S-012
     title: Hattie — Visible Learning (relationships, feedback, class size)
@@ -1355,7 +1355,7 @@ sources:
     year: 1995
     domains: [D09]
     reviewed: true
-    notes: "Robert E. Slavin, Cooperative Learning: Theory, Research, and Practice (2nd ed., Allyn & Bacon, 1995). Cited in U.04.010 L06/L07 (Plan/Do Our Shared Project) as the research base for cooperative-learning structures that divide work fairly. Real, seminal work in cooperative learning. No URL (print book). Also cited in U.05.011 L08 (cooperative learning / collective action research base). Also cited in U.06.002 L05 (Sharing Roles on a Team) and L07 (Skill and Teamwork Together) for the claim that cooperative learning assigning roles with individual accountability is a well-evidenced classroom structure — Slavin's cooperative-learning model (individual accountability + group rewards/roles) directly supports this; it replaced an earlier, unverifiable 'J-PAL review of cooperative strategies' citation (J-PAL has no such review; its education policy insights cover tailoring instruction and socioemotional skills, not cooperative learning per se)."
+    notes: "Robert E. Slavin, Cooperative Learning: Theory, Research, and Practice (2nd ed., Allyn & Bacon, 1995). Cited in U.04.010 L06/L07 (Plan/Do Our Shared Project) as the research base for cooperative-learning structures that divide work fairly. Real, seminal work in cooperative learning. No URL (print book). Also cited in U.05.011 L08 (cooperative learning / collective action research base). Also cited in U.06.002 L05 (Sharing Roles on a Team) and L07 (Skill and Teamwork Together) for the claim that cooperative learning assigning roles with individual accountability is a well-evidenced classroom structure — Slavin's cooperative-learning model (individual accountability + group rewards/roles) directly supports this; it replaced an earlier, unverifiable 'J-PAL review of cooperative strategies' citation (J-PAL has no such review; its education policy insights cover tailoring instruction and socioemotional skills, not cooperative learning per se). Also cited in U.06.003 L09 (Cooperation vs Competition) for cooperative learning improving achievement and relationships, alongside Johnson & Johnson (S-233)."
 
   - id: S-148
     title: "Rosenberg — Nonviolent Communication"
@@ -2111,5 +2111,75 @@ sources:
     domains: [D01, D03]
     reviewed: true
     notes: "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. Psychological Science, 17(3), 249–255. Landmark experimental demonstration of the testing effect (retrieval practice): taking a memory test improves long-term retention more than additional study. Cited in U.06.002 L08 (My Body at Work: My Tension-Release Toolkit) for the claim that 'retrieval practice — recalling what was learned rather than re-reading it — strengthens long-term memory.' On-point and correctly attributed (the lesson pairs it with the general 'learning-science literature'; Dunlosky et al. S-039 is the companion consensus review). DOI format verified; the canonical DOI is 10.1111/j.1467-9280.2006.01693.x."
+
+  - id: S-229
+    title: "Steinberg — Age of Opportunity: Lessons from the New Science of Adolescence"
+    type: book
+    author: Laurence Steinberg
+    organization: Houghton Mifflin Harcourt
+    year: 2014
+    domains: [D02]
+    reviewed: true
+    notes: "Laurence Steinberg, Age of Opportunity: Lessons from the New Science of Adolescence (Houghton Mifflin Harcourt, 2014). A synthesis of the adolescent-brain literature documenting that adolescence is a period of heightened sensitivity to peers and reward, and that peer relationships grow in importance and reorganize as young people develop. Cited in U.06.003 L01 (A Friendship Changes) for the claim that peer relationships intensify in early adolescence and friendships naturally reorganize. Real, correctly attributed; the lesson co-cites CASEL relationship skills. No URL (print book). The 'change is normal, not a failure' phrasing is a values commitment of the curriculum, not a claim from Steinberg."
+
+  - id: S-230
+    title: "Batson — Empathic Concern vs Personal Distress (empathy-altruism)"
+    type: article
+    author: C. Daniel Batson, Jim Fultz, Patricia A. Schoenrade
+    organization: Journal of Personality
+    year: 1987
+    domains: [D02]
+    reviewed: true
+    notes: "Batson, C. D., Fultz, J., & Schoenrade, P. A. (1987). Distress and empathy: Two qualitatively distinct vicarious emotions with different motivational consequences. Journal of Personality, 55(1), 19–39. Foundational to Batson's empathy-altruism program: it distinguishes other-oriented empathic concern from self-oriented personal distress, two different emotional responses to another's suffering with different motivational consequences. Cited in U.06.003 L05 (Empathy With vs Sympathy For) as part of the research base for the empathy–sympathy distinction. Real, correctly attributed; the lesson explicitly frames the 'with vs for' teaching language as a simplification of this literature, not a direct claim from Batson. No URL (print article)."
+
+  - id: S-231
+    title: "Decety & Cowell — Empathy, Perspective-Taking, and Morality"
+    type: article
+    author: Jean Decety, Jason M. Cowell
+    organization: Trends in Cognitive Sciences
+    year: 2014
+    domains: [D02]
+    reviewed: true
+    notes: "Decety, J., & Cowell, J. M. (2014). The complex relation between morality and empathy. Trends in Cognitive Sciences, 18(7), 337–339 (see also Decety & Cowell 2014, 'Friends or Foes: Is Empathy Necessary for Moral Behavior?', Perspectives on Psychological Science, 9(5), 525–537). Decety's research program distinguishes empathy (affective sharing — feeling with another) from empathic concern/sympathy and perspective-taking, and documents empathic responding across development. Cited in U.06.003 L05 (empathy vs sympathy) and L06 (perspective-taking) as the research base for the claim that perspective-taking/empathic responding is a well-studied route to prosocial behavior and reduced aggression. Real, correctly attributed; cited as a general authority, not for a single statistic. No URL (print article)."
+
+  - id: S-232
+    title: "Tajfel — Minimal Group Paradigm and Social Identity"
+    type: article
+    author: Henri Tajfel
+    organization: European Journal of Social Psychology / Scientific American
+    year: 1970
+    domains: [D02, D08]
+    reviewed: true
+    notes: "Tajfel, H. (1970). Experiments in intergroup discrimination. Scientific American, 223(5), 96–102; and Tajfel, H., Billig, M. G., Bundy, R. P., & Flament, C. (1971). Social categorization and intergroup behaviour. European Journal of Social Psychology, 1(2), 149–178. The minimal-group experiments showed that even arbitrary, content-free group assignment triggers in-group favoritism, grounding social identity theory. Cited in U.06.003 L07 (Belonging: Who's In, Who's Out, and Why) for in-group/out-group dynamics and their often-unintentional, habit-driven nature. Real, correctly attributed; the lesson's 'open the circle' framing is a values commitment, not a claim from Tajfel. No URL (print articles)."
+
+  - id: S-233
+    title: "Johnson & Johnson — Cooperation vs Competition (social interdependence theory)"
+    type: article
+    author: David W. Johnson, Roger T. Johnson
+    organization: Psychological Bulletin
+    year: 1981
+    domains: [D02, D09]
+    reviewed: true
+    notes: "Johnson, D. W., Maruyama, G., Johnson, R., Nelson, D., & Skon, L. (1981). Effects of cooperative, competitive, and individualistic goal structures on achievement: A meta-analysis. Psychological Bulletin, 89(1), 47–62 (see also D. W. Johnson & R. T. Johnson, Cooperation and Competition: Theory and Research, Interaction Book Company). The meta-analysis and the brothers' social interdependence theory show cooperative goal structures produce higher achievement and better interpersonal outcomes than competitive or individualistic structures. Cited in U.06.003 L09 (Cooperation vs Competition) for the claim that cooperative learning improves achievement and relationships, alongside Slavin (S-147). Real, correctly attributed; the lesson's 'each is a tool' framing is a values position, not a claim from Johnson & Johnson. No URL (print sources)."
+
+  - id: S-234
+    title: "World Bank — Poverty and Inequality (Poverty, Prosperity, and Planet Report)"
+    type: website
+    url: https://www.worldbank.org/en/topic/poverty/overview
+    organization: World Bank Group
+    year: 2026
+    domains: [D02, D08]
+    reviewed: true
+    notes: "World Bank poverty topic page and the Poverty, Prosperity, and Planet Report. URL verified live (2026-08-17): documents that extreme poverty fell from ~2.3 billion in 1990 to ~831 million (under $3/day), that poverty reduction has slowed due to interconnected crises (sluggish growth, debt, COVID-19, conflict and fragility, weather shocks), and that extreme poverty is now concentrated in Sub-Saharan Africa and conflict-affected places — i.e., structural/place-based drivers, not individual worth. Cited in U.06.003 L10 (Capstone: Why Some Have More Than They Need) as the 'widely documented' data base for the claim that economic inequality is driven largely by structural factors (where one is born, work and pay, inherited wealth, health, conflict). The lesson makes no specific statistic and flags 'no person's worth is measured by their resources' as a values commitment, not a scientific claim — appropriate for Grade 6. Complements UN/UNESCO equity framing."
+
+  - id: S-235
+    title: "UNESCO — Inclusion in Education (Salamanca Statement; Guide for Ensuring Inclusion and Equity)"
+    type: website
+    url: https://www.unesco.org/en/inclusion-education
+    organization: UNESCO
+    year: 2017
+    domains: [D02, D09]
+    reviewed: true
+    notes: "UNESCO's inclusion-in-education work (the 1994 Salamanca Statement and Framework for Action on Special Needs Education; the 2017 'A Guide for Ensuring Inclusion and Equity in Education'; the SDG 4 inclusive-education agenda). Frames inclusion as removing barriers so every learner participates and is valued, and treats difference as ordinary rather than deficient. Cited in U.06.003 L08 (Identity Shapes Belonging) for the claim that 'belonging is shaped by how identity is received, and inclusive settings treat difference as ordinary rather than deficient.' On-topic as a general authority; unesco.org was unreachable from the fact-checker's environment on 2026-08-17 (consistent with other UNESCO entries), but the programme and its canonical documents are real and well established. The 'gift, not gap' framing is a values commitment, not a UNESCO claim."
 
 

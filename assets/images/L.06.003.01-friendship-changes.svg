@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Friendship changes: a winding path</title>
+  <desc id="d">A winding path runs from bottom-left to top-right. One figure walks on ahead while a second figure pauses at a bend, and a signpost reads "Friendship changes — that is normal, not a failure."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- winding path -->
+  <path d="M40 440 C 120 420, 140 330, 210 320 C 290 308, 300 220, 360 210 C 420 200, 440 120, 480 96" fill="none" stroke="#4f6d7a" stroke-width="14" stroke-linecap="round" opacity="0.35"/>
+  <path d="M40 440 C 120 420, 140 330, 210 320 C 290 308, 300 220, 360 210 C 420 200, 440 120, 480 96" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="2 0" stroke-linecap="round"/>
+  <!-- figure walking ahead (further along path) -->
+  <g>
+    <circle cx="412" cy="178" r="14" fill="#d9a066"/>
+    <rect x="400" y="192" width="24" height="34" rx="8" fill="#6b93b6"/>
+    <path d="M402 200 L 388 218" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M422 200 L 434 214" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M406 226 L 398 250" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M418 226 L 428 248" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <!-- figure pausing at a bend -->
+  <g>
+    <circle cx="210" cy="298" r="15" fill="#a9714b"/>
+    <path d="M195 296 C 200 284, 220 284, 225 296 Z" fill="#2b3a42"/>
+    <rect x="197" y="313" width="26" height="36" rx="8" fill="#7a9e7e"/>
+    <path d="M199 322 L 182 300" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M221 322 L 236 306" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M204 349 L 196 374" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M216 349 L 224 374" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <!-- signpost -->
+  <g>
+    <rect x="330" y="250" width="8" height="70" fill="#2b3a42"/>
+    <rect x="250" y="246" width="170" height="46" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+    <text x="335" y="266" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">Friendship changes —</text>
+    <text x="335" y="283" font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">that is normal, not a failure</text>
+  </g>
+</svg>
