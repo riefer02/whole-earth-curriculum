@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Mutual aid across cultures: four traditions</title>
+  <desc id="d">Four panels, each showing people working together on a shared task, with the tradition's name and home. Top-left: neighbors pulling together, labeled harambee, Kenya. Top-right: villagers sharing the work of building, labeled gotong royong, Indonesia. Bottom-left: neighbors farming terraces together, labeled mink'a / minga, the Andes. Bottom-right: neighbors raising a barn together, labeled barn raising, North America. A note below reads: helping one another is a human practice, named differently everywhere.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Mutual aid: four traditions</text>
+
+  <!-- harambee -->
+  <g>
+    <rect x="22" y="62" width="228" height="158" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">harambee</text>
+    <text x="136" y="104" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Kenya (East Africa)</text>
+    <path d="M60 190 L96 168 M120 186 L156 168 M180 190 L216 168" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="88" y="168" width="96" height="20" rx="3" fill="#c9c2b4" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="70" cy="190" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="136" cy="188" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="202" cy="190" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">all pull together</text>
+  </g>
+
+  <!-- gotong royong -->
+  <g>
+    <rect x="262" y="62" width="228" height="158" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">gotong royong</text>
+    <text x="376" y="104" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Indonesia (Southeast Asia)</text>
+    <path d="M300 168 L336 168 L336 196 L300 196 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M294 168 L318 154 L342 168" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M372 168 L408 168 L408 196 L372 196 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 3"/>
+    <circle cx="318" cy="210" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="390" cy="210" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">sharing the building work</text>
+  </g>
+
+  <!-- mink'a / minga -->
+  <g>
+    <rect x="22" y="236" width="228" height="158" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="260" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">mink'a / minga</text>
+    <text x="136" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the Andes (South America)</text>
+    <path d="M30 360 L90 344 L90 372 L30 388 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M30 344 L90 328 L90 356 L30 372 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+    <circle cx="112" cy="356" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="164" cy="350" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="210" cy="360" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="386" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">farming the terraces together</text>
+  </g>
+
+  <!-- barn raising -->
+  <g>
+    <rect x="262" y="236" width="228" height="158" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="260" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">barn raising</text>
+    <text x="376" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">North America</text>
+    <rect x="330" y="316" width="92" height="64" fill="#c9c2b4" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M324 316 L376 292 L428 316" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M376 292 L376 272" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M330 380 L422 380" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 3"/>
+    <circle cx="304" cy="368" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="448" cy="366" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="386" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">neighbors raise it in a day</text>
+  </g>
+
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Helping one another is a human practice,</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">named differently everywhere.</text>
+
+  <g>
+    <rect x="22" y="468" width="468" height="30" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Why do people help? care · duty · recognition — and often more than one at once</text>
+  </g>
+</svg>

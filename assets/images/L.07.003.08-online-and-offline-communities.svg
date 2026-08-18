@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Two kinds of gathering: offline and online</title>
+  <desc id="d">Two panels. Left, offline: five figures sit in a circle facing each other around a small fire, labeled 'face to face — body, voice, and place'. Right, online: five dots connected by lines to a central screen or globe, each dot a person in a different place, labeled 'across distance — words and images, no body cues'.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Two kinds of gathering</text>
+
+  <!-- Offline panel -->
+  <g>
+    <rect x="22" y="66" width="228" height="220" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="92" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">offline</text>
+    <!-- fire -->
+    <path d="M136 200 L124 224 L148 224 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M130 212 L136 200 L142 212" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <!-- figures in circle -->
+    <circle cx="136" cy="164" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="96" cy="196" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="176" cy="196" r="13" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="88" cy="244" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="184" cy="244" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">face to face — body, voice,</text>
+    <text x="136" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and one shared place</text>
+  </g>
+
+  <!-- Online panel -->
+  <g>
+    <rect x="262" y="66" width="228" height="220" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="92" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">online</text>
+    <!-- central screen/globe -->
+    <circle cx="376" cy="200" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M358 200 Q376 190 394 200 Q376 210 358 200" fill="none" stroke="#fdfbf7" stroke-width="2"/>
+    <path d="M376 170 L376 230 M346 200 L406 200" stroke="#fdfbf7" stroke-width="1.5"/>
+    <!-- connected dots -->
+    <circle cx="320" cy="150" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="436" cy="150" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="306" cy="252" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="446" cy="250" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M330 158 L352 186 M426 158 L400 186 M316 242 L350 216 M436 240 L402 214" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">across distance — words and</text>
+    <text x="376" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">images, no body cues</text>
+  </g>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">People belong in both — in different ways.</text>
+
+  <!-- small note bar -->
+  <g>
+    <rect x="22" y="360" width="468" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">What differs</text>
+    <text x="120" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">offline: body cues, one place,</text>
+    <text x="120" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">small and local, happens now</text>
+    <text x="392" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">online: no body cues, many</text>
+    <text x="392" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">places, large and far, can last</text>
+  </g>
+</svg>

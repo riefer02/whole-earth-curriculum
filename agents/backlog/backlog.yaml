@@ -4323,7 +4323,7 @@ items:
     type: lesson
     grade: 7
     domain: D02
-    status: ready
+    status: done
     priority: 120
     depends_on:
       - B-104
@@ -4335,6 +4335,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1080 files. Verified L.07.003.01-.10 IDs, sequence_in_unit 1-10, unit U.07.003, grade 7, required headings present; all 8 grade-7 D02 standards covered (S1 L1-4, S2 L5-7, S3 L8-9, S4 L10); unit.md table matches 10 lessons; concrete faithful Connections and sourced claims.
+      fact-checker:
+        verdict: passed
+        note: Verified mutual-aid traditions (harambee/gotong royong/mink'a-minga/barn raising) against Communal work entry, Dine hoozho and restorative-practice framing against Zehr's Changing Lenses + IIRP, empathy/perspective-taking against Decety & Cowell 2014 + Batson empathy-altruism, digital-divide against World Bank WDR 2016 Digital Dividends; fixed one overstatement in L05; all real and correctly attributed, already registered.
+      global-culture-editor:
+        verdict: passed
+        note: "Checked framing/representation avoid any single-civilization default: examples and named traditions span India (elephant parable), Kenya (harambee), Indonesia (gotong royong), the Andes (mink'a/minga), Indigenous North America (Dine hoozho held side-by-side with restorative practices, never ranked); multi-regional image figures and life contexts."
+      accessibility-editor:
+        verdict: passed
+        note: Checked all 10 lessons declare materials_low_tech (voice/body + found objects, no device/internet, no wealth assumption); every assets entry has non-empty descriptive alt resolving to a real accessible SVG; role-play/communication activities offer write/draw/speak/act expression routes with support/extension differentiation for sensory/motor/cognitive/attention differences.
+      alignment-auditor:
+        verdict: passed
+        note: Verified ethics (moral reasoning on boundaries/repair/motives for helping), egalitarianism (mutual aid among equals, no ranked view/privileged group), global/anthropological (Dine hoozho, Indian elephant tale, harambee/gotong royong/mink'a/barn raising, never a Western default), technology/environment (online community + digital divide cited to World Bank/UNICEF); every objective resolves to real D02.Sx.07.x under D02/P1 up to the vision.
+      child-psychologist:
+        verdict: passed
+        note: "Grade-7 band: verified cognitive fit of perspective-taking/motives at emerging formal-operations level, emotional safety via invented-scenarios-only with no forced disclosure of real conflict/trauma (optional sharing, safeguarding note, no peer-shaming), physical fit of movement, and open-ended inquiry (questions as questions, motives non-judged, cultural traditions unranked)."
   - id: B-350
     title: Author lessons for Unit U.07.004 (Reading, Writing, Argument & Many Languages)
     agent: lesson-author

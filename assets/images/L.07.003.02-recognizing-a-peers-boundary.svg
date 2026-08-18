@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Reading a peer's boundary: verbal and nonverbal cues</title>
+  <desc id="d">Two figures face each other. The figure on the right holds up an open palm and leans slightly back, with a speech bubble saying "no thanks." Around them, three small cue cards label what to read: the words, the body, and the voice. The other figure pauses and steps back, showing respect for the signal. Figures differ in skin tone; one uses a wheelchair.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Reading a peer's boundary</text>
+
+  <!-- Left figure (approaching) -->
+  <g>
+    <circle cx="150" cy="230" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="142" cy="224" r="3" fill="#2b3a42"/>
+    <circle cx="158" cy="224" r="3" fill="#2b3a42"/>
+    <path d="M144 240 Q150 246 156 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M150 260 L150 330" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M150 330 L128 380 M150 330 L172 380" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 292 L182 292" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="418" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">pauses, steps back</text>
+  </g>
+
+  <!-- Right figure (setting boundary) -->
+  <g>
+    <circle cx="350" cy="230" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="342" cy="224" r="3" fill="#2b3a42"/>
+    <circle cx="358" cy="224" r="3" fill="#2b3a42"/>
+    <path d="M344 242 Q350 238 356 242" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M350 260 L350 320" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M350 320 L330 376 M350 320 L370 376" stroke="#2b3a42" stroke-width="2"/>
+    <!-- raised open palm -->
+    <path d="M318 296 L382 296" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M318 296 L318 262 L336 252 L336 296" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- speech bubble -->
+    <path d="M356 150 L420 150 L420 120 L392 120 L376 104 L370 120 L356 120 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="388" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">no thanks</text>
+  </g>
+
+  <!-- Cue cards -->
+  <g>
+    <rect x="30" y="420" width="452" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="52" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">words</text>
+    <text x="52" y="472" font-family="sans-serif" font-size="15" fill="#4f6d7a">"no," "stop," "not now"</text>
+    <text x="206" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">body</text>
+    <text x="206" y="472" font-family="sans-serif" font-size="15" fill="#4f6d7a">palm up, leaning back, turning away</text>
+    <text x="370" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">voice</text>
+    <text x="370" y="472" font-family="sans-serif" font-size="15" fill="#4f6d7a">flat, quiet, or firm</text>
+  </g>
+</svg>

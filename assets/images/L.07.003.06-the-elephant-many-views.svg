@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The same river, four windows</title>
+  <desc id="d">One river drawn across the middle, with four windows above and below, each showing a different person's view. Top-left: a fisher in a small boat, labeled 'a way to the market'. Top-right: a farmer with a field, labeled 'water for the crops'. Bottom-left: a child swimming, labeled 'where I learned to swim'. Bottom-right: a person looking at a flooded path, labeled 'what floods our home'. Same river, four true views. Figures differ in skin tone.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The same river, four views</text>
+
+  <!-- river band -->
+  <rect x="0" y="226" width="512" height="64" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M0 246 Q 120 236 256 246 T 512 246" fill="none" stroke="#fdfbf7" stroke-width="3"/>
+
+  <!-- Window 1: fisher -->
+  <g>
+    <rect x="24" y="64" width="222" height="148" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M70 160 L150 160 L138 188 L82 188 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="110" cy="140" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M110 154 L110 176 L98 196" stroke="#2b3a42" stroke-width="2"/>
+    <text x="135" y="84" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">fisher</text>
+    <text x="135" y="112" font-family="sans-serif" font-size="13" fill="#4f6d7a">"a way to</text>
+    <text x="135" y="130" font-family="sans-serif" font-size="13" fill="#4f6d7a">the market"</text>
+  </g>
+
+  <!-- Window 2: farmer -->
+  <g>
+    <rect x="266" y="64" width="222" height="148" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M300 120 L390 120 L390 160 L300 160 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M300 140 L330 140 M300 120 L310 96 M380 120 L372 96" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="330" cy="180" r="14" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <text x="355" y="84" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">farmer</text>
+    <text x="355" y="112" font-family="sans-serif" font-size="13" fill="#4f6d7a">"water for</text>
+    <text x="355" y="130" font-family="sans-serif" font-size="13" fill="#4f6d7a">the crops"</text>
+  </g>
+
+  <!-- Window 3: child -->
+  <g>
+    <rect x="24" y="304" width="222" height="148" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="120" cy="360" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 376 L120 404" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M96 336 Q120 318 144 336" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M112 320 L112 300 M120 318 L120 300 M128 320 L128 300" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="332" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">child</text>
+    <text x="150" y="360" font-family="sans-serif" font-size="13" fill="#4f6d7a">"where I learned</text>
+    <text x="150" y="378" font-family="sans-serif" font-size="13" fill="#4f6d7a">to swim"</text>
+  </g>
+
+  <!-- Window 4: flooded home -->
+  <g>
+    <rect x="266" y="304" width="222" height="148" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M320 404 L376 404 L376 368 L320 368 Z" fill="#c9c2b4" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M312 368 L348 340 L384 368" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M320 404 Q348 420 376 404" fill="none" stroke="#6b93b6" stroke-width="4"/>
+    <circle cx="400" cy="380" r="14" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <text x="420" y="332" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">elder</text>
+    <text x="420" y="360" font-family="sans-serif" font-size="13" fill="#4f6d7a">"what floods</text>
+    <text x="420" y="378" font-family="sans-serif" font-size="13" fill="#4f6d7a">our home"</text>
+  </g>
+
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Same river. Four true views. Empathy asks: what does each one see?</text>
+</svg>

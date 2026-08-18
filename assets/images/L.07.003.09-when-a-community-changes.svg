@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A community changes over time</title>
+  <desc id="d">Three panels showing the same place over time. First, before: a few small houses and a field. Second, the change arrives: a new road, a new building, and new families moving in. Third, after: more houses and a new shop, with a small labeled note that change is both hard and good. Figures differ in skin tone.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">A community changes over time</text>
+
+  <!-- Panel 1: before -->
+  <g>
+    <rect x="20" y="66" width="150" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">before</text>
+    <path d="M40 250 Q95 226 150 250" fill="#7a9e7e"/>
+    <rect x="52" y="206" width="34" height="44" fill="#c9c2b4" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M46 206 L69 188 L92 206" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="112" y="214" width="30" height="36" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M108 214 L127 200 L146 214" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M30 258 Q60 246 80 258 Q95 264 110 256 Q130 246 160 258" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="95" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a few houses,</text>
+    <text x="95" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a quiet field</text>
+  </g>
+
+  <!-- Panel 2: change arrives -->
+  <g>
+    <rect x="181" y="66" width="150" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">change arrives</text>
+    <path d="M201 250 Q256 226 311 250" fill="#7a9e7e"/>
+    <path d="M196 282 L316 282" stroke="#4f6d7a" stroke-width="10" stroke-linecap="round"/>
+    <rect x="213" y="206" width="34" height="44" fill="#c9c2b4" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M207 206 L230 188 L253 206" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="262" y="210" width="40" height="40" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 210 L282 194 L308 210" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="236" cy="240" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="270" cy="240" r="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a new road, a new</text>
+    <text x="256" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">building, new families</text>
+  </g>
+
+  <!-- Panel 3: after -->
+  <g>
+    <rect x="342" y="66" width="150" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="417" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">after</text>
+    <path d="M362 250 Q417 226 472 250" fill="#7a9e7e"/>
+    <path d="M357 282 L477 282" stroke="#4f6d7a" stroke-width="10" stroke-linecap="round"/>
+    <rect x="366" y="206" width="34" height="44" fill="#c9c2b4" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 206 L383 188 L406 206" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="410" y="200" width="44" height="50" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M404 200 L432 182 L460 200" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="382" y="216" width="24" height="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M378 216 L394 204 L410 216" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="417" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">more homes, a shop —</text>
+    <text x="417" y="302" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and something lost</text>
+  </g>
+
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Change can be hard AND good at the same time.</text>
+
+  <g>
+    <rect x="20" y="368" width="472" height="116" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Why change is both</text>
+    <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">hard: people lose what they knew, and grief is real</text>
+    <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">good: new people, new ideas, and new ways to thrive arrive</text>
+  </g>
+</svg>

@@ -65,3 +65,13 @@ and reflect on the motives for helping — care, duty, or recognition.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.07.003.01 | Boundaries: The Yes, the No, and the Maybe | D02.S1.07.01 |
+| L.07.003.02 | Reading the Boundary: Recognizing a Peer's No | D02.S1.07.01 |
+| L.07.003.03 | Repair: Apologize, Listen, Agree | D02.S1.07.02 |
+| L.07.003.04 | Practicing the Repair Conversation | D02.S1.07.02, D02.S1.07.01 |
+| L.07.003.05 | Where My Point of View Comes From | D02.S2.07.01 |
+| L.07.003.06 | The Same Thing, Many Views | D02.S2.07.01, D02.S2.07.02 |
+| L.07.003.07 | Seeking to Understand, Not to Win | D02.S2.07.02 |
+| L.07.003.08 | Two Kinds of Gathering: Online and Offline | D02.S3.07.01 |
+| L.07.003.09 | When a Community Changes | D02.S3.07.02 |
+| L.07.003.10 | Mutual Aid: Why We Help | D02.S4.07.01, D02.S4.07.02 |
