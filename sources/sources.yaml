@@ -2032,4 +2032,63 @@ sources:
     reviewed: true
     notes: "Cited in U.05.012 L08 for deforestation-driven habitat loss (animals lose their homes). URL verified live (2026-08-17): the FAO Forestry page states 'Forests cover 31 percent of the world's land and are fundamental to life on our planet. Home to more than half of the world's land animal and plant species...' This directly supports the lesson's claim that clearing forests removes animal habitat; the 'plant native trees, use less paper, protect reserves' actions are standard, accurate conservation measures. (The earlier cited fao.org/state-of-forests/en returned 404; the live FAO Forestry hub is the correct canonical page.)"
 
+  - id: S-221
+    title: "Festinger — A Theory of Social Comparison Processes"
+    type: article
+    author: Leon Festinger
+    organization: Human Relations
+    year: 1954
+    domains: [D01]
+    reviewed: true
+    notes: "Festinger, L. (1954). A theory of social comparison processes. Human Relations, 7(2), 117–140. The foundational paper of social comparison theory: people evaluate their own opinions and abilities by comparing themselves to others (with a drive toward upward comparison). Cited in U.06.001 L07/L08 (Peers and Media Shape My Self-Image; A Healthy Response to Negative Comparison) for the claim that comparing ourselves to others is a normal human tendency that curated/edited content can skew. Real, one of the most-cited papers in social psychology; correctly attributed (not overstated — the lessons treat comparison as a natural pull, not a pathology). No URL (print article)."
+
+  - id: S-222
+    title: "Neff — Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself"
+    type: article
+    author: Kristin D. Neff
+    organization: Self and Identity
+    year: 2003
+    domains: [D01]
+    reviewed: true
+    notes: "Neff, K. D. (2003). Self-compassion: An alternative conceptualization of a healthy attitude toward oneself. Self and Identity, 2(2), 85–101. Kristin Neff is the leading researcher on self-compassion, which she defines as three interacting components — self-kindness, common humanity, and mindfulness — and which she distinguishes from self-esteem (which relies on social comparison and can turn into self-criticism). Cited in U.06.001 L08 for the healthy-response framing ('return to self-compassion and their own growth'). The lesson's move — reframing negative comparison toward self-kindness rather than 'I'm better than X' — matches Neff's core claim that self-compassion offers a healthier alternative to comparison-based self-evaluation. Real, correctly attributed. No URL (print article)."
+
+  - id: S-223
+    title: "Locke & Latham — A Theory of Goal Setting & Task Performance"
+    type: book
+    author: Edwin A. Locke & Gary P. Latham
+    organization: Prentice-Hall
+    year: 1990
+    domains: [D01]
+    reviewed: true
+    notes: "Locke, E. A., & Latham, G. P. (1990). A Theory of Goal Setting & Task Performance. Prentice-Hall (see also Locke & Latham 2002, 'Building a practically useful theory of goal setting and task motivation,' American Psychologist 57(9), 705–717). The foundational goal-setting literature: specific, difficult (challenging) goals, with feedback, improve performance more than vague 'do your best' goals. Cited in U.06.001 L09 (Set, Track, and Reflect on a Short-Term Goal) for 'specific, challenging goals with feedback improve performance.' The lesson adapts this correctly for age 11–12 by making goals 'small, specific, and checkable' (what/how much/by when) rather than 'difficult,' which is a defensible developmental translation, not a misattribution. Real, correctly attributed. No URL (print book)."
+
+  - id: S-224
+    title: "Mischel, Shoda & Rodriguez — Delay of Gratification in Children"
+    type: article
+    author: Walter Mischel, Yuichi Shoda & Monica L. Rodriguez
+    organization: Science
+    year: 1989
+    domains: [D01]
+    reviewed: true
+    notes: "Mischel, W., Shoda, Y., & Rodriguez, M. L. (1989). Delay of gratification in children. Science, 244(4907), 933–938 (see also Mischel, Ebbesen & Zeiss 1972). The classic 'marshmallow test' line of work on delay of gratification and self-control strategies. Cited in U.06.001 L10 (Staying True to My Values Under Pressure) for the 'pause' step, which the lesson explicitly frames as merely an *echo* of impulse-control research, and adds 'and its replications' — an appropriately cautious hedge given the well-known 2018 replication (Watts, Duncan & Quan) showing smaller effects once socioeconomic factors are controlled. Real, correctly attributed, not overstated. No URL (print article)."
+
+  - id: S-225
+    title: "Gross — The Emerging Field of Emotion Regulation: An Integrative Review"
+    type: article
+    author: James J. Gross
+    organization: Review of General Psychology
+    year: 1998
+    domains: [D01]
+    reviewed: true
+    notes: "Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. Review of General Psychology, 2(3), 271–299. Foundational review introducing the process model of emotion regulation, including response-focused strategies (expressive suppression) that decouple the felt emotion from the outward display. Cited in U.06.001 L03 (What I Feel vs What I Show) for 'the distinction between felt emotion and outward display, and the social reasons people manage their expression.' The felt-vs-shown distinction maps to Gross's response-modulation/suppression construct, so the attribution is on-point. Real, foundational, correctly attributed (the lesson does not claim suppression is healthy — it presents both sides as real and normalizes display management as a skill). No URL (print article)."
+
+  - id: S-226
+    title: "Common Sense Media — Research Program (media & tech impact on child/adolescent development)"
+    type: website
+    url: https://www.commonsensemedia.org/research
+    organization: Common Sense Media
+    domains: [D01, D10]
+    reviewed: true
+    notes: "Verified live 2026-08-17 (commonsensemedia.org/research). The Common Sense Research Program 'provides parents, educators, health organizations, and policymakers with reliable, independent data on children's use of media and technology and the impact it has on their physical, emotional, social, and intellectual development.' It has published recurring reports on social media and adolescent well-being (e.g., the 'Social Media, Social Life' surveys), which is what U.06.001 L07 cites for the claim that curated, edited images can distort self-image/body image. Real and on-topic as a general authority; the lesson's specific 'warped mirror' framing (edited/curated highlight reels) is well supported by this body of research and by Festinger (S-221). Distinct from the media-literacy entry S-063."
+
 

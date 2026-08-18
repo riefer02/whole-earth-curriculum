@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A feeling pattern: the same feeling keeps showing up</title>
+  <desc id="d">A chart showing three different situations — before a test, speaking in front of the class, and meeting a new group — each leading to the same worried face. Arrows point down from all three faces to a banner reading "the same feeling keeps showing up: a pattern." Below, a caption reads "Patterns help me predict and care for my feelings." Shapes, labels, and arrows carry the meaning, so the chart prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Notice the Pattern</text>
+
+  <!-- Panel 1: before a test -->
+  <text x="100" y="80" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">before a test</text>
+  <circle cx="100" cy="150" r="32" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="89" cy="143" r="3.5" fill="#2b3a42"/>
+  <circle cx="111" cy="143" r="3.5" fill="#2b3a42"/>
+  <path d="M84 132 L95 138" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M116 132 L105 138" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M92 164 Q100 158 108 164" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="100" y="206" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">worried</text>
+
+  <!-- Panel 2: speaking in front of class -->
+  <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">speaking in front</text>
+  <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">of the class</text>
+  <circle cx="256" cy="150" r="32" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="245" cy="143" r="3.5" fill="#2b3a42"/>
+  <circle cx="267" cy="143" r="3.5" fill="#2b3a42"/>
+  <path d="M240 132 L251 138" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M272 132 L261 138" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M248 164 Q256 158 264 164" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="256" y="206" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">worried</text>
+
+  <!-- Panel 3: meeting a new group -->
+  <text x="412" y="80" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">meeting a</text>
+  <text x="412" y="98" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">new group</text>
+  <circle cx="412" cy="150" r="32" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="401" cy="143" r="3.5" fill="#2b3a42"/>
+  <circle cx="423" cy="143" r="3.5" fill="#2b3a42"/>
+  <path d="M396 132 L407 138" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M428 132 L417 138" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M404 164 Q412 158 420 164" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="412" y="206" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">worried</text>
+
+  <!-- Arrows down to banner -->
+  <g stroke="#e0a458" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 222 L100 250"/>
+    <path d="M94 246 L100 254 L106 246"/>
+    <path d="M256 222 L256 250"/>
+    <path d="M250 246 L256 254 L262 246"/>
+    <path d="M412 222 L412 250"/>
+    <path d="M406 246 L412 254 L418 246"/>
+  </g>
+
+  <!-- Banner -->
+  <rect x="60" y="258" width="392" height="56" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="283" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">the same feeling keeps showing up: a pattern</text>
+  <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">same situation shape &#8594; same feeling, again and again</text>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">Patterns help me predict and care for my feelings.</text>
+
+  <!-- small decorative row of three dots -->
+  <g fill="#7a9e7e">
+    <circle cx="236" cy="392" r="4"/>
+    <circle cx="256" cy="392" r="4"/>
+    <circle cx="276" cy="392" r="4"/>
+  </g>
+</svg>

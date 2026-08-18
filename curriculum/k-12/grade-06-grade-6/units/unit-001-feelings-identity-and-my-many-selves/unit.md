@@ -59,3 +59,13 @@ earnest, so every self is honored as a work in progress, never a verdict.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.001.01 | Patterns in My Emotional Responses | D01.S1.06.01 |
+| L.06.001.02 | Naming My Triggers | D01.S1.06.01 |
+| L.06.001.03 | What I Feel vs What I Show | D01.S1.06.02 |
+| L.06.001.04 | Guessing the Feeling Behind a Behavior | D01.S1.06.02 |
+| L.06.001.05 | My Identity Is Many Parts | D01.S2.06.01 |
+| L.06.001.06 | My Many Selves Shift by Context | D01.S2.06.01 |
+| L.06.001.07 | Peers and Media Shape My Self-Image | D01.S2.06.02 |
+| L.06.001.08 | A Healthy Response to Negative Comparison | D01.S2.06.02 |
+| L.06.001.09 | Set, Track, and Reflect on a Short-Term Goal | D01.S3.06.01 |
+| L.06.001.10 | Staying True to My Values Under Pressure | D01.S3.06.02 |

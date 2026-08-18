@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The goal cycle: set, track, reflect</title>
+  <desc id="d">A cycle diagram with three connected steps in a circle. Step one, "set," shows a small specific goal written in a box. Step two, "track," shows a row of five checkboxes with some checked. Step three, "reflect," shows a person with a question mark thinking about what worked. Arrows loop from set to track to reflect and back to set. A caption reads "Small, specific goals — tracked a little each day — and reflected on." Shapes and labels, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Goal Cycle: Set &#8594; Track &#8594; Reflect</text>
+
+  <!-- Step 1: set -->
+  <circle cx="110" cy="180" r="66" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="110" y="164" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#e0a458">SET</text>
+  <text x="110" y="188" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a small, specific</text>
+  <text x="110" y="204" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">goal for this week</text>
+
+  <!-- Step 2: track -->
+  <circle cx="256" cy="320" r="66" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#7a9e7e">TRACK</text>
+  <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a little each day</text>
+  <!-- mini checkbox row -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <rect x="226" y="338" width="16" height="16" rx="3"/>
+    <rect x="248" y="338" width="16" height="16" rx="3"/>
+    <rect x="270" y="338" width="16" height="16" rx="3"/>
+  </g>
+  <path d="M229 346 L234 351 L238 344" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M251 346 L256 351 L260 344" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Step 3: reflect -->
+  <circle cx="402" cy="180" r="66" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="402" y="164" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#6b93b6">REFLECT</text>
+  <text x="402" y="188" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">what worked?</text>
+  <text x="402" y="204" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">what next?</text>
+
+  <!-- Arrows: set -> track -> reflect -> set -->
+  <g stroke="#e0a458" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 224 C 190 280 210 300 236 318"/>
+    <path d="M230 312 L236 320 L240 306"/>
+    <path d="M314 320 C 340 300 360 280 382 224"/>
+    <path d="M374 306 L382 318 L388 310"/>
+    <path d="M352 152 C 300 128 200 128 152 152"/>
+    <path d="M158 146 L150 150 L158 158"/>
+  </g>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">Small, specific goals — tracked a little each day — and reflected on.</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A goal you can reach in a few days beats a wish you can't see.</text>
+
+  <g fill="#7a9e7e">
+    <circle cx="236" cy="486" r="4"/>
+    <circle cx="256" cy="486" r="4"/>
+    <circle cx="276" cy="486" r="4"/>
+  </g>
+</svg>

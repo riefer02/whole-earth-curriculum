@@ -3805,7 +3805,7 @@ items:
     type: lesson
     grade: 6
     domain: D01
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -3817,6 +3817,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (943). IDs L.06.001.01-.10 sequence_in_unit 1-10, grade 6, unit U.06.001; objectives resolve to real grade-6 D01 standards (all 6 covered); required headings present learner-first; unit.md table lists all 10; all 10 assets resolve with non-empty alt; Connections concept-faithful (L3 felt-vs-shown via 'dancer walks on stage calm while chest hammers'); sources Beck/Ekman/Festinger/Common Sense Media/Neff/Locke & Latham/CASEL; age-appropriate trauma-informed notes invite 'small safe' examples + 'I'd rather keep mine private'.
+      fact-checker:
+        verdict: passed
+        note: "Verified psychological claims: Beck automatic-thought/antecedent patterns (L1-2) hedged as patterns-not-verdicts; Ekman & Friesen display rules S-160 + Gross response-focused regulation (L3) not 'fake'; CASEL social awareness guess-then-check (L4); Festinger 1954 social comparison + Neff 2003 self-compassion (L7-8) 'compare today to yesterday never better-than-X'; Locke & Latham goal-setting (L9); Mischel delay-of-gratification hedged with replications (L10). Registered S-221..S-226 (Festinger/Neff/Locke & Latham/Mischel/Gross/Common Sense Media); confirmed Beck S-159/Ekman S-160/Dweck S-096/CASEL S-001. Evidence vs values clean."
+      global-culture-editor:
+        verdict: passed
+        note: Identity framing 'every family/culture/language/belief shape ordinary and whole' holds (L5 models grandparents/blended/moved-across-sea/three-languages as ordinary not special cases; L6 multilingualism 'strength not split', never frame home language lesser); display rules L3-4 'different families/cultures have different habits about how much feeling to show — none correct'; Connection spans city/farm/mountain/village + crowded market; no stereotype/ranking; non-Western-norm default.
+      accessibility-editor:
+        verdict: passed
+        note: "All 10 lessons real materials_low_tech (voice/body + dirt/sand/stones/sticks: L1 dirt pattern, L4 two-stone guess->check, L9 goal ladder); UDL draw/say/act/write/map + identity map (L5) and goal-tracker (L9) spoken/drawn routes; non-speaking/non-written participation (pointing/drawing/gesture/role-play) + picture cards/sentence starters/scribing; psychological terms scaffolded ('a trigger is what comes right before the feeling'); no wealth assumption; all 10 assets non-empty alt + SVG role=img/title/desc grayscale label-shape. Fixed L5 'gallery walk' standing assumption by adding seated pass-the-maps alternative."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (L4 guess-then-check never assume, L10 pause-name-choose true to values, L3/L8 managing-face≠fake + reframe kind to self AND other); egalitarianism (no family/culture/language/belief shape privileged, multilingualism as strength, 'who is left out/who benefits'); global (mountain farm/village-by-river/crowded market/place of worship, 'football' not 'soccer'); tech/environment (L7-8 media self-image 'warped mirrors'); evidence-vs-values (CASEL/Beck/Ekman/Gross/Festinger/Neff/Locke & Latham/Dweck/Mischel/Common Sense Media; 'identity as work in progress' = value). Traceability: Vision->P1->D01->S1/S2/S3->6 standards->U.06.001->lessons."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-6 band (11-12, formal operations emerging, identity formation begins): cognitive fit concrete anchors (identity bubble map + three-context page, felt-vs-shown face-heart page, behavior guess-then-check detective cards, media mirror/warped-mirror/highlight-reel, goal checkable what/how-much/by-when + five-box tracker; emerging abstraction gently tied to anchors); emotional safety strong (triggers + media/comparison trauma-informed 'small safe examples' + 'I'd rather keep mine private', media as mirrors not villains, ban 'at least I'm better than X', L4 invented scenarios never real classmates, 'many selves' held by 'one whole self'/through-line language); goal-miss as information not verdict; open-endedness non-dogmatic."
   - id: B-336
     title: Author lessons for Unit U.06.002 (My Body, My Movement & My Growing Self)
     agent: lesson-author

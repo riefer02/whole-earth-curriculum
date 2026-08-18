@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">What I feel vs what I show</title>
+  <desc id="d">Two panels. The left panel is labeled "what a person SHOWS" and shows a smiling face on the outside. The right panel is labeled "what a person FEELS" and shows a worried face inside a heart shape. An equals-or-not symbol and arrows emphasize that outside and inside can be different. A caption reads "Outside and inside can be different — both are real." Shapes and labels, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">What I Feel vs What I Show</text>
+
+  <!-- Left panel: shows -->
+  <text x="140" y="86" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">what a person SHOWS</text>
+  <rect x="60" y="100" width="160" height="170" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="140" cy="175" r="44" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="124" cy="167" r="4" fill="#2b3a42"/>
+  <circle cx="156" cy="167" r="4" fill="#2b3a42"/>
+  <path d="M118 158 Q124 154 130 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M150 158 Q156 154 162 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M120 190 Q140 206 160 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="140" y="290" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">a smile</text>
+
+  <!-- Center: not equal -->
+  <text x="256" y="180" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#e0a458">&#8800;</text>
+
+  <!-- Right panel: feels -->
+  <text x="372" y="86" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">what a person FEELS</text>
+  <rect x="292" y="100" width="160" height="170" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- heart shape -->
+  <path d="M372 260 C372 230 340 218 340 196 C340 180 354 168 372 176 C390 168 404 180 404 196 C404 218 372 230 372 260 Z" fill="#fbe9e4" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="372" cy="200" r="30" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="362" cy="193" r="3" fill="#2b3a42"/>
+  <circle cx="382" cy="193" r="3" fill="#2b3a42"/>
+  <path d="M357 185 L366 191" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M387 185 L378 191" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M364 210 Q372 205 380 210" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="372" y="290" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">worried</text>
+
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#222222">Outside and inside can be different — both are real.</text>
+
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">People manage their face for many good reasons:</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">to be brave, to be kind, to fit in, or to not worry others.</text>
+
+  <g fill="#7a9e7e">
+    <circle cx="226" cy="452" r="4"/>
+    <circle cx="256" cy="452" r="4"/>
+    <circle cx="286" cy="452" r="4"/>
+  </g>
+</svg>

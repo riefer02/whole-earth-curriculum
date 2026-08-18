@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">My identity is many parts</title>
+  <desc id="d">An identity map diagram. In the center is a circle labeled "me" with a friendly face. Around it are connected bubbles labeled "my family," "my culture," "my language," "my interests," "my beliefs," "my place," and "my friendships," each with a small icon. A caption at the bottom reads "Many parts, one whole me — no two maps are alike." Shapes and labels, not color alone, carry the meaning, so the map prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Identity Is Many Parts</text>
+
+  <!-- connector lines from center -->
+  <g stroke="#4f6d7a" stroke-width="2" fill="none">
+    <line x1="256" y1="238" x2="110" y2="130"/>
+    <line x1="256" y1="238" x2="402" y2="130"/>
+    <line x1="256" y1="238" x2="80" y2="300"/>
+    <line x1="256" y1="238" x2="432" y2="300"/>
+    <line x1="256" y1="238" x2="110" y2="420"/>
+    <line x1="256" y1="238" x2="402" y2="420"/>
+    <line x1="256" y1="238" x2="256" y2="470"/>
+  </g>
+
+  <!-- center me -->
+  <circle cx="256" cy="238" r="54" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="256" cy="228" r="26" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="247" cy="222" r="3" fill="#2b3a42"/>
+  <circle cx="265" cy="222" r="3" fill="#2b3a42"/>
+  <path d="M247 236 Q256 242 265 236" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">me</text>
+
+  <!-- bubbles -->
+  <g font-family="sans-serif" font-size="15" text-anchor="middle">
+    <rect x="30" y="100" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="94" y="135" fill="#2b3a42" font-weight="bold">my family</text>
+
+    <rect x="322" y="100" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="386" y="135" fill="#2b3a42" font-weight="bold">my culture</text>
+
+    <rect x="16" y="272" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="80" y="307" fill="#2b3a42" font-weight="bold">my language</text>
+
+    <rect x="368" y="272" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="432" y="307" fill="#2b3a42" font-weight="bold">my interests</text>
+
+    <rect x="30" y="392" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="94" y="427" fill="#2b3a42" font-weight="bold">my beliefs</text>
+
+    <rect x="322" y="392" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="386" y="427" fill="#2b3a42" font-weight="bold">my place</text>
+
+    <rect x="192" y="452" width="128" height="44" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="479" fill="#2b3a42" font-weight="bold">my friendships</text>
+  </g>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Many parts, one whole me — no two maps are alike.</text>
+</svg>

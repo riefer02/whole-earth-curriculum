@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Naming triggers: what sets a feeling off</title>
+  <desc id="d">A mapping chart with three rows. Each row shows a trigger on the left — a crowded noisy hallway, a raised voice, and a friend walking past without saying hello — an arrow in the middle, and the feeling that follows on the right: overwhelmed, tense, and hurt. A banner at the bottom reads "A trigger is what tends to set a feeling off — naming it gives me power." Shapes, labels, and arrows carry the meaning, so the chart prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Trigger &#8594; Feeling</text>
+
+  <!-- Row 1 -->
+  <g>
+    <rect x="40" y="70" width="150" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="115" y="100" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a crowded,</text>
+    <text x="115" y="120" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">noisy hallway</text>
+    <text x="115" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">trigger</text>
+    <path d="M214 106 L286 106" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+    <path d="M280 100 L288 106 L280 112" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="322" cy="106" r="32" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="311" cy="99" r="3.5" fill="#2b3a42"/>
+    <circle cx="333" cy="99" r="3.5" fill="#2b3a42"/>
+    <path d="M306 92 L317 98" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M338 92 L327 98" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M315 118 Q322 114 329 118" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="322" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">feeling</text>
+    <text x="322" y="154" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">overwhelmed</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g>
+    <rect x="40" y="180" width="150" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="115" y="210" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a raised voice</text>
+    <text x="115" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">near me</text>
+    <path d="M214 216 L286 216" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+    <path d="M280 210 L288 216 L280 222" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="322" cy="216" r="32" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="311" cy="209" r="3.5" fill="#2b3a42"/>
+    <circle cx="333" cy="209" r="3.5" fill="#2b3a42"/>
+    <path d="M306 202 L317 208" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M338 202 L327 208" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M316 226 L328 226" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="322" y="264" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">tense</text>
+  </g>
+
+  <!-- Row 3 -->
+  <g>
+    <rect x="40" y="290" width="150" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="115" y="320" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a friend walks past</text>
+    <text x="115" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">without saying hi</text>
+    <path d="M214 326 L286 326" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+    <path d="M280 320 L288 326 L280 332" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="322" cy="326" r="32" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="311" cy="319" r="3.5" fill="#2b3a42"/>
+    <circle cx="333" cy="319" r="3.5" fill="#2b3a42"/>
+    <path d="M306 312 L317 318" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M338 312 L327 318" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M314 340 Q322 334 330 340" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="322" y="374" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">hurt</text>
+  </g>
+
+  <!-- Banner -->
+  <rect x="40" y="404" width="432" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">A trigger is what tends to set a feeling off.</text>
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Naming it gives me power.</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Staying true to my values under pressure</title>
+  <desc id="d">A diagram of a figure holding a shield labeled "my values" in the center. Three arrows press in from outside, labeled "stress," "distraction," and "peer pressure," and each arrow meets a small "pause" bar. Below the shield is a three-step strip reading "pause — name — choose." A caption reads "My values are my anchor when pressure pushes on me." Shapes and labels, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Staying True to My Values Under Pressure</text>
+
+  <!-- Center figure with shield -->
+  <circle cx="256" cy="196" r="34" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="246" cy="189" r="3.5" fill="#2b3a42"/>
+  <circle cx="266" cy="189" r="3.5" fill="#2b3a42"/>
+  <path d="M248 206 Q256 212 264 206" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 230 L256 300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 300 L230 356" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 300 L282 356" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Shield -->
+  <path d="M224 150 C224 128 256 112 256 112 C256 112 288 128 288 150 L288 182 C288 210 272 234 256 244 C240 234 224 210 224 182 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  <text x="256" y="176" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">my</text>
+  <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">values</text>
+
+  <!-- Stress arrow (top left) -->
+  <path d="M120 120 L196 158" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M188 150 L198 156 L192 164" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="40" y="92" width="86" height="34" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="83" y="114" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">stress</text>
+
+  <!-- Distraction arrow (top right) -->
+  <path d="M392 120 L316 158" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M324 150 L314 156 L320 164" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="386" y="92" width="102" height="34" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="437" y="114" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">distraction</text>
+
+  <!-- Peer pressure arrow (bottom left) -->
+  <path d="M96 340 L202 300" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+  <path d="M194 294 L204 298 L198 308" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="28" y="336" width="118" height="34" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="87" y="358" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">peer pressure</text>
+
+  <!-- pause bars meeting each arrow -->
+  <g stroke="#6b93b6" stroke-width="4" stroke-linecap="round">
+    <line x1="176" y1="140" x2="188" y2="132"/>
+    <line x1="336" y1="140" x2="324" y2="132"/>
+    <line x1="166" y1="322" x2="178" y2="312"/>
+  </g>
+
+  <!-- steps strip -->
+  <rect x="60" y="392" width="392" height="60" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">pause &#8594; name what presses &#8594; choose what stays true</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">My values are my anchor when pressure pushes on me.</text>
+</svg>
