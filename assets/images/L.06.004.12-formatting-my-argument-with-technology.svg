@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Formatting my argument with technology</title>
+  <desc id="desc">A drawing of a document window. At the top, a title bar reads "Why We Should Plant Shade Trees" in large bold type, labeled "title — a heading." Below, two paragraphs are separated by a blank line, labeled "paragraphs — separated." One word inside is darker and thicker, labeled "bold — on purpose," and one word is slanted, labeled "italic — a key term." At the bottom, a small button reads "Save," labeled "save with a clear name." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Formatting My Argument with Technology</text>
+
+  <!-- Window -->
+  <rect x="24" y="58" width="464" height="330" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="58" width="464" height="34" rx="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="44" cy="75" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/>
+  <circle cx="62" cy="75" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1"/>
+  <circle cx="80" cy="75" r="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="1"/>
+
+  <!-- Title / heading -->
+  <text x="256" y="120" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Why We Should Plant Shade Trees</text>
+  <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">title — a heading</text>
+
+  <!-- Paragraph 1 -->
+  <text x="44" y="176" font-family="sans-serif" font-size="13" fill="#222222">Trees give cool shade in hot weather, and a single mango</text>
+  <text x="44" y="194" font-family="sans-serif" font-size="13" fill="#222222">tree can give many baskets of fruit each year.</text>
+
+  <!-- blank line label -->
+  <text x="256" y="218" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">◂ blank line — paragraphs separated ▸</text>
+
+  <!-- Paragraph 2 -->
+  <text x="44" y="244" font-family="sans-serif" font-size="13" fill="#222222">Some people say trees cost money and need care. That is</text>
+  <text x="44" y="262" font-family="sans-serif" font-size="13" fill="#222222">true — but the shade and fruit give back more each year,</text>
+  <text x="44" y="280" font-family="sans-serif" font-size="13" fill="#222222">and we can share the watering.</text>
+
+  <!-- bold and italic labels -->
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one word darker and thicker — bold, on purpose · one word slanted — italic, a key term</text>
+
+  <!-- Save button -->
+  <rect x="360" y="336" width="104" height="34" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="358" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Save</text>
+  <text x="280" y="358" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">save with a clear name</text>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Formatting is reader-care, not decoration.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A heading, a paragraph break, a saved file — small acts of respect.</text>
+</svg>

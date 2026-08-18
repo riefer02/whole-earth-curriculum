@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Across a language difference</title>
+  <desc id="desc">Two figures of varied skin tones face each other, each with a speech bubble in a different script. Between them, four bridges are drawn and labeled: a hand raised in a gesture, a small drawing of a cup (for water), a phone showing a translation arrow, and a heart labeled "patience." A banner reads "we don't share the words, but we can still meet." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Across a Language Difference</text>
+
+  <!-- Left figure + bubble -->
+  <rect x="34" y="52" width="72" height="42" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="70" y="80" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">مرحبا</text>
+  <circle cx="120" cy="200" r="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M78 296 Q120 270 162 296 L162 296 L154 356 L86 356 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Right figure + bubble -->
+  <rect x="406" y="52" width="72" height="42" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="442" y="80" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">hello</text>
+  <circle cx="392" cy="200" r="24" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M350 296 Q392 270 434 296 L434 296 L426 356 L358 356 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Bridges between them -->
+  <text x="256" y="118" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">the four bridges</text>
+
+  <!-- gesture -->
+  <rect x="188" y="132" width="136" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M214 170 L222 150 L232 158 L240 146 L248 154 L256 172 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="286" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">gesture</text>
+  <text x="286" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a hand shapes a cup</text>
+
+  <!-- drawing -->
+  <rect x="188" y="192" width="136" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M206 212 L206 232 M206 222 L222 222 M206 222 Q220 210 236 222" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="286" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">drawing</text>
+  <text x="286" y="236" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a cup in the dirt</text>
+
+  <!-- translation tool -->
+  <rect x="188" y="252" width="136" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="204" y="262" width="30" height="32" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M282 272 L304 272 M296 266 L304 272 L296 278" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="286" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">translation tool</text>
+  <text x="286" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">an arrow between the words</text>
+
+  <!-- patience -->
+  <rect x="188" y="312" width="136" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M236 326 Q240 316 246 322 Q256 312 262 322 Q268 316 272 326 Q264 340 254 340 Q244 340 236 326 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="286" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">patience</text>
+  <text x="286" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the bridge that holds the rest</text>
+
+  <!-- Banner -->
+  <rect x="56" y="400" width="400" height="56" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">We don't share the words,</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">but we can still meet.</text>
+</svg>

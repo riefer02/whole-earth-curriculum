@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Disagreeing respectfully</title>
+  <desc id="desc">Two figures of varied skin tones stand facing each other, with a small light-bulb object drawn on the ground between them labeled "the idea." The left figure's speech bubble reads "I hear you — and I see it differently because the path floods in rain." The right figure's bubble reads "That's a fair point about the path; I wonder about the climb." A banner reads "disagree with the idea, not the person." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Disagreeing Respectfully</text>
+
+  <!-- Left speech bubble -->
+  <rect x="28" y="66" width="200" height="92" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"I hear you — and I see it</text>
+  <text x="128" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">differently because the</text>
+  <text x="128" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">path floods in rain."</text>
+
+  <!-- Right speech bubble -->
+  <rect x="284" y="66" width="200" height="92" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="384" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"That's a fair point about</text>
+  <text x="384" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the path; I wonder about</text>
+  <text x="384" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the climb."</text>
+
+  <!-- Left figure -->
+  <circle cx="128" cy="224" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M88 300 Q128 276 168 300 L168 300 L160 356 L96 356 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Right figure -->
+  <circle cx="384" cy="224" r="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M344 300 Q384 276 424 300 L424 300 L416 356 L352 356 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- The idea between them -->
+  <circle cx="256" cy="330" r="30" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M248 338 L256 318 L264 338 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M252 342 L260 342" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">the idea</text>
+
+  <rect x="80" y="410" width="352" height="56" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Disagree with the idea,</text>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">not the person.</text>
+</svg>

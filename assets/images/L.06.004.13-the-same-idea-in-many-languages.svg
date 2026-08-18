@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The same idea in many languages</title>
+  <desc id="desc">Three speech bubbles showing one idea — a greeting of peace — in three languages. The first reads the Arabic "السلام عليكم" (as-salaamu alaykum) with a note "adds: a blessing wished on the other person." The second reads the Hebrew "שלום" (shalom) with a note "adds: peace and wholeness, also hello and goodbye." The third reads "peace be with you" with a note "says it plainly, loses the blessing and the wholeness." A bottom line reads "the same idea, and each language keeps something the others let go." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Same Idea in Many Languages</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">one idea — a greeting of peace</text>
+
+  <!-- Bubble 1: Arabic -->
+  <rect x="24" y="82" width="464" height="108" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="116" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#222222">السلام عليكم</text>
+  <text x="256" y="140" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Arabic — as-salaamu alaykum</text>
+  <text x="256" y="168" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">adds: a blessing wished on the other person</text>
+
+  <!-- Bubble 2: Hebrew -->
+  <rect x="24" y="200" width="464" height="108" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#222222">שלום</text>
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Hebrew — shalom</text>
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">adds: peace and wholeness — also hello and goodbye</text>
+
+  <!-- Bubble 3: English -->
+  <rect x="24" y="318" width="464" height="108" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#222222">peace be with you</text>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">English</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">says it plainly — lets the blessing and the wholeness go</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Each keeps something the others let go.</text>
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">That is gained and lost — a richness, not a flaw.</text>
+</svg>

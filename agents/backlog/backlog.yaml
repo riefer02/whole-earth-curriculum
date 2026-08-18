@@ -3916,7 +3916,7 @@ items:
     type: lesson
     grade: 6
     domain: D04
-    status: ready
+    status: done
     priority: 110
     depends_on:
       - B-103
@@ -3928,6 +3928,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (975). IDs L.06.004.01-.14 sequence_in_unit 1-14, grade 6, unit U.06.004; objectives resolve to real grade-6 D04 standards (all 8 covered, L14 three-standard capstone); required headings present learner-first; unit.md table lists all 14; all 14 assets resolve with non-empty alt; L13 language examples accurate (Arabic as-salaamu alaykum, Hebrew shalom peace/wholeness, shared Semitic root s-l-m from Proto-Semitic s-l-m, 'peace be with you'); gained/lost framing faithful to S4.06.01; sources Everett/Sapir-Whorf/UNESCO-CEFR; evidence vs values distinguished.
+      fact-checker:
+        verdict: passed
+        note: Linguistics accurate (Arabic as-salaamu alaykum blessing-greeting + Hebrew shalom peace/wholeness/hello/goodbye share Proto-Semitic s-l-m; gained/lost framing; Sapir/Whorf moderate relativity + Everett 2012 correct); argument pedagogy Toulmin claim/data/warrant-rebuttal + Graham & Perin 2007 + IES 2016 + Kirschner real; reading Duke & Pearson/IES/NRP 2000 with original uncopyrighted excerpts; multilingualism-as-wealth as value. Registered S-236 (Toulmin), S-237 (CEFR), S-238 (Michaels & O'Connor Accountable Talk), S-239 (Agarwal & Bain).
+      global-culture-editor:
+        verdict: passed
+        note: No English/Latin-first default (every facilitator note 'honor every home language', drafting/reading in strongest language, code-switching welcome L3, home-language poems 'a gift never a translation problem' L7; English only as one of three co-equal greetings L13); argument/discussion not single Western debate style (L4 'respectful disagreement sounds different across cultures', L9 'reasoned claim never winning or rhetoric', L4 extension disagree-with-respected-tradition); representation diverse (Amara/market seller/water-carrier/mango-tree, village/city); anti-deficit/wealth (L12 'device a tool not a mark of worth, no learner behind for lacking one', L14 'ordinary never a failure'); no language/script/genre ranked.
+      accessibility-editor:
+        verdict: passed
+        note: All 14 lessons real materials_low_tech (oral voice-and-game sorts, hand-signal/gesture, drawn charts, talking stone, 'paper as a screen'; L12 device-or-paper never assumes ownership); UDL say/draw/act/write; reading L7-8 read-aloud + oral retell, discussion L3-4 hand-signal + sentence starters, writing L9-11 oral 'voice and a real want/objection' + scribe + pre-written frames; no activity silently requires fluent reading/speech/writing; argument terms scaffolded with worked examples + frames; all 14 assets non-empty alt + SVG role=img/title/desc grayscale label-shape.
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses: ethics (argument as reasoned claim+evidence not manipulation, acknowledge-before-disagree L4, concede-then-answer L10, citation as intellectual honesty); egalitarianism (multilingualism-as-wealth, 'no genre or language above another', L12 'device a tool not mark of worth'); global (home-language-first, Arabic/Hebrew/English L13, oral-telling honored, village/market/mango/tap examples); tech/environment (L12 formatting/access/digital-divide honestly, L14 translation tools helpers with limits); evidence-vs-values (Duke & Pearson/Kirschner/IES/Graham & Perin/NRP/UNESCO/Everett; 'all languages equally worthy is a value'). Fixed L14 strand list to include D04.S1. Traceability: Vision->P3->D04->S1-S4->8 standards->U.06.004->lessons."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-6 band (11-12): cognitive fit argument scaffolded spine (trunk/branch/leaf -> claim-reasons-evidence) then 3-step writing; no rhetoric/logic theory to learners (Toulmin teacher-side); text evidence 'what it says' exact quote vs 'what it means' inference with clue words; genres via worked examples; translation via concrete word pairs; emotional safety disagreement 'idea vs person' acknowledge-before-disagree everyday topics 'safety with honesty'; writing local topics non-ranked cooperative 'not a contest'; multilingualism anti-deficit home-language learners experts 'never a translation problem'; L12 paper-as-screen path no device-shaming; physical fit fine-motor within band + voice/gesture/drawing alternatives; questions as questions."
   - id: B-339
     title: Author lessons for Unit U.06.005 (Ratios, Integers, Equations & Data)
     agent: lesson-author

@@ -64,3 +64,17 @@ as wealth.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.06.004.01 | Hear the Main Argument | D04.S1.06.01 |
+| L.06.004.02 | Details and Examples | D04.S1.06.01 |
+| L.06.004.03 | Building on Others' Ideas | D04.S1.06.02 |
+| L.06.004.04 | Disagreeing Respectfully | D04.S1.06.02 |
+| L.06.004.05 | Cite Text Evidence | D04.S2.06.01 |
+| L.06.004.06 | What the Text Says and Means | D04.S2.06.01 |
+| L.06.004.07 | Reading Fiction and Poetry | D04.S2.06.02 |
+| L.06.004.08 | Reading Nonfiction and Drama | D04.S2.06.02 |
+| L.06.004.09 | Writing My Claim and Reasons | D04.S3.06.01 |
+| L.06.004.10 | Evidence and the Counterargument | D04.S3.06.01 |
+| L.06.004.11 | Revising and Publishing My Argument | D04.S3.06.01 |
+| L.06.004.12 | Formatting My Argument with Technology | D04.S3.06.02 |
+| L.06.004.13 | The Same Idea in Many Languages | D04.S4.06.01 |
+| L.06.004.14 | Across a Language Difference | D04.S4.06.02, D04.S4.06.01, D04.S1.06.02 |

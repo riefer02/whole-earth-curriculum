@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading fiction and poetry</title>
+  <desc id="desc">Two pages side by side. The left page is labeled "fiction — a story" and shows three labeled parts: "characters — who," "setting — where and when," and "plot — what happens." The right page is labeled "poetry" and shows short lines grouped in a stanza with an image ("the moon, a silver coin / dropped in the well of night") and a label "image — a picture in words." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Reading Fiction and Poetry</text>
+
+  <!-- Left page: fiction -->
+  <rect x="24" y="64" width="228" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="64" width="228" height="52" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="138" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">fiction — a story</text>
+
+  <text x="138" y="148" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">characters — who</text>
+  <text x="138" y="170" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Amara, her grandmother</text>
+
+  <text x="138" y="210" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">setting — where and when</text>
+  <text x="138" y="232" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the riverbank, after the rains</text>
+
+  <text x="138" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">plot — what happens</text>
+  <text x="138" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the water rises; Amara</text>
+  <text x="138" y="314" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">moves the rice to safety</text>
+
+  <text x="138" y="370" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">a story tells what happens</text>
+
+  <!-- Right page: poetry -->
+  <rect x="260" y="64" width="228" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="260" y="64" width="228" height="52" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="374" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">poetry</text>
+
+  <text x="374" y="146" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the moon, a silver coin</text>
+  <text x="374" y="168" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">dropped in the well of night —</text>
+  <text x="374" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the sky buys back the stars.</text>
+  <text x="374" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">lines and stanzas</text>
+
+  <path d="M290 246 L458 246" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <text x="374" y="276" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">image</text>
+  <text x="374" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"the moon, a silver coin" —</text>
+  <text x="374" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a picture made of words</text>
+
+  <text x="374" y="370" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">a poem paints a moment</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Two ways of saying true things about being human.</text>
+</svg>

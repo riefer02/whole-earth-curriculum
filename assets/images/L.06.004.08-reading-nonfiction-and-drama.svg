@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading nonfiction and drama</title>
+  <desc id="desc">Two pages side by side. The left page is labeled "nonfiction — information" and shows a heading ("How Rain Reaches the River"), three fact lines with a check mark each, and the label "facts — can be checked." The right page is labeled "drama — a play" and shows two character names with dialogue lines and a bracketed stage direction "(she sets the basket down slowly)" labeled "stage direction." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Reading Nonfiction and Drama</text>
+
+  <!-- Left page: nonfiction -->
+  <rect x="24" y="64" width="228" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="64" width="228" height="52" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="138" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">nonfiction — information</text>
+
+  <text x="138" y="146" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">heading — the topic</text>
+  <text x="138" y="168" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">How Rain Reaches the River</text>
+
+  <text x="48" y="206" font-family="sans-serif" font-size="13" fill="#222222">✓ rain falls on high ground</text>
+  <text x="48" y="228" font-family="sans-serif" font-size="13" fill="#222222">✓ water runs downhill</text>
+  <text x="48" y="250" font-family="sans-serif" font-size="13" fill="#222222">✓ streams join into a river</text>
+
+  <text x="138" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">facts — can be checked</text>
+  <text x="138" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"is it true?" — you can</text>
+  <text x="138" y="342" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">observe or verify it</text>
+
+  <text x="138" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">nonfiction tells what is true</text>
+
+  <!-- Right page: drama -->
+  <rect x="260" y="64" width="228" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="260" y="64" width="228" height="52" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="374" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">drama — a play</text>
+
+  <text x="374" y="144" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">characters — who speaks</text>
+  <text x="286" y="176" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">AMARA:</text>
+  <text x="340" y="176" font-family="sans-serif" font-size="13" fill="#222222">"The water is rising."</text>
+  <text x="286" y="198" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">GRANDMA:</text>
+  <text x="340" y="198" font-family="sans-serif" font-size="13" fill="#222222">"Then we move the rice."</text>
+
+  <path d="M286 218 L458 218" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <text x="374" y="248" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">stage direction</text>
+  <text x="374" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(she sets the basket</text>
+  <text x="374" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">down slowly)</text>
+
+  <text x="374" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">dialogue — their words</text>
+  <text x="374" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"what does this show</text>
+  <text x="374" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">about the character?"</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">A fact is judged by truth; a line, by what it reveals.</text>
+</svg>

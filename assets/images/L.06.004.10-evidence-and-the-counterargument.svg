@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence and the counterargument</title>
+  <desc id="desc">A complete-argument diagram. At top, the claim "our neighborhood should plant more shade and fruit trees." Below, two reason boxes each carry an evidence line: reason "shade" with evidence "streets with no trees feel far hotter than shaded streets"; reason "fruit" with evidence "a single mango tree can give many baskets of fruit each year." At bottom, a counterargument box reads "some people say trees cost money and need care," and a response box reads "true — trees do need care, but the shade and fruit give back more each year, and we can share the watering." Arrows show the response answering the counterargument. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Evidence and the Counterargument</text>
+
+  <!-- Claim -->
+  <rect x="56" y="56" width="400" height="46" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">claim — plant more shade and fruit trees</text>
+
+  <!-- Reason 1 + evidence -->
+  <rect x="24" y="118" width="224" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="140" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">reason — shade</text>
+  <text x="136" y="162" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">trees keep people cool</text>
+  <path d="M40 172 L232 172" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="136" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">evidence</text>
+  <text x="136" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">streets with no trees feel far hotter</text>
+
+  <!-- Reason 2 + evidence -->
+  <rect x="264" y="118" width="224" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="140" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">reason — fruit</text>
+  <text x="376" y="162" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">free, healthy food</text>
+  <path d="M280 172 L472 172" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="376" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">evidence</text>
+  <text x="376" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a mango tree can give many baskets a year</text>
+
+  <!-- Counterargument -->
+  <rect x="24" y="244" width="224" height="84" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">counterargument</text>
+  <text x="136" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"some people say trees cost</text>
+  <text x="136" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">money and need care"</text>
+
+  <!-- Response -->
+  <rect x="264" y="244" width="224" height="84" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">response</text>
+  <text x="376" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"true — trees need care, but the</text>
+  <text x="376" y="306" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">shade and fruit give back more,</text>
+  <text x="376" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and we can share the watering"</text>
+
+  <!-- Arrow: response answers counterargument -->
+  <path d="M248 286 L264 286" stroke="#2b3a42" stroke-width="3" marker-end="url(#e)"/>
+  <defs>
+    <marker id="e" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Concede first, then answer.</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A strong argument names its weakest point and answers it honestly.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Evidence is checkable — not just a stronger opinion.</text>
+</svg>

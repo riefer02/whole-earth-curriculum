@@ -9,7 +9,7 @@ sources:
     organization: CASEL (Collaborative for Academic, Social, and Emotional Learning)
     domains: [D01, D02, D03, D04, D09]
     reviewed: true
-    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency, and in U.03.010 L01/L05/L06/L07/L08/L10 (responsible decision-making, relationship skills, social awareness, and self-management — all five competencies are real CASEL competencies). Cited in U.05.003 L01/L02 (self-awareness) and L06 (relationship skills, giving/receiving feedback) — both are among CASEL's five core competencies. URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it. Also cited in U.05.011 L01/L02 (values and responsible decision-making), L05 (social awareness and responsible decision-making), and L06/L07 (social awareness / comparing how decisions are made). Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) for relationship skills and social awareness — friendship change, conflict repair and I-statements, passive/aggressive/assertive communication, empathy, perspective-taking, belonging, cooperation, and fairness."
+    notes: "Framework for the SEL competencies referenced in D01 exemplars; also cited in D04 language/listening lessons (U.00.005 L01/L02/L04; U.01.004 L01) and in D09 kindness/caring (U.00.011 L01). Also cited in D09 fairness/shared rules (U.01.010 L01) for the responsible decision-making competency, and in U.03.010 L01/L05/L06/L07/L08/L10 (responsible decision-making, relationship skills, social awareness, and self-management — all five competencies are real CASEL competencies). Cited in U.05.003 L01/L02 (self-awareness) and L06 (relationship skills, giving/receiving feedback) — both are among CASEL's five core competencies. URL re-verified live (2026-08-15): the 'Fundamentals of SEL' page defines SEL and its five core competencies (incl. relationship skills/listening) — on-topic for the lessons that cite it. Also cited in U.05.011 L01/L02 (values and responsible decision-making), L05 (social awareness and responsible decision-making), and L06/L07 (social awareness / comparing how decisions are made). Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) for relationship skills and social awareness — friendship change, conflict repair and I-statements, passive/aggressive/assertive communication, empathy, perspective-taking, belonging, cooperation, and fairness. Also cited in U.06.004 L04 (Disagreeing Respectfully) for the relationship-skills basis of 'acknowledge before you disagree' in civil discourse."
 
   - id: S-002
     title: NASA — The Big Bang
@@ -103,7 +103,7 @@ sources:
     year: 2006
     domains: []
     reviewed: true
-    notes: "Novices learn foundational material better with explicit instruction, worked examples, and guided practice than with minimal guidance. Full title: 'Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching' (Educational Psychologist 41(2), 75–86; DOI 10.1207/s15326985ep4102_1 verified). Cited in U.02.007 L01/L03/L05–L09 to justify 'model once, then guided practice' for skills (mixing, echoing patterns, movement sequences, leading/following, planning, comparing two ways) — consistent with philosophy §13. Also cited in U.03.007 L01–L04 and L06–L09 (patterns, mood, long/short sounds, tempo/dynamics/pitch, movement retelling, design loop, materials comparison, sound+motion) to justify 'model once, then guided practice' for arts/making skills. On-topic: the citation supports explicit modeling + guided practice over pure discovery, not any specific art claim. Also cited in U.05.011 L01/L02/L05/L08/L09 to justify 'model once, then guided practice' for reasoning and mediation skills. Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) to justify 'model once, then guided practice' for social-emotional skills (conflict repair, assertion, perspective-taking, cooperation)."
+    notes: "Novices learn foundational material better with explicit instruction, worked examples, and guided practice than with minimal guidance. Full title: 'Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and Inquiry-Based Teaching' (Educational Psychologist 41(2), 75–86; DOI 10.1207/s15326985ep4102_1 verified). Cited in U.02.007 L01/L03/L05–L09 to justify 'model once, then guided practice' for skills (mixing, echoing patterns, movement sequences, leading/following, planning, comparing two ways) — consistent with philosophy §13. Also cited in U.03.007 L01–L04 and L06–L09 (patterns, mood, long/short sounds, tempo/dynamics/pitch, movement retelling, design loop, materials comparison, sound+motion) to justify 'model once, then guided practice' for arts/making skills. On-topic: the citation supports explicit modeling + guided practice over pure discovery, not any specific art claim. Also cited in U.05.011 L01/L02/L05/L08/L09 to justify 'model once, then guided practice' for reasoning and mediation skills. Also cited across U.06.003 L01–L10 (Friendships, Empathy & Belonging) to justify 'model once, then guided practice' for social-emotional skills (conflict repair, assertion, perspective-taking, cooperation). Also cited across U.06.004 L01–L12 (Reading, Writing, Argument & Many Languages) to justify 'model once, then guided practice' for listening, discussion, argument-writing, revision, and formatting skills."
 
   - id: S-012
     title: Hattie — Visible Learning (relationships, feedback, class size)
@@ -179,7 +179,7 @@ sources:
     organization: UNESCO
     domains: [D04]
     reviewed: true
-    notes: "Cited in U.00.005 L12/L13 (home-language greetings; 'many languages are treasures') and U.03.004 L13–L15 (multilingualism as wealth; every language a bearer of dignity; no spoken or signed language above another). Page states verbatim: 'Globally 40 per cent of the population does not have access to an education in a language they speak or understand.' Supports the 40% claim and the value of every learner's home language; the U.03.004 lessons cite it for the mother-tongue/multilingual-education value, held as a value/commitment, not a factual statistic."
+    notes: "Cited in U.00.005 L12/L13 (home-language greetings; 'many languages are treasures') and U.03.004 L13–L15 (multilingualism as wealth; every language a bearer of dignity; no spoken or signed language above another). Page states verbatim: 'Globally 40 per cent of the population does not have access to an education in a language they speak or understand.' Supports the 40% claim and the value of every learner's home language; the U.03.004 lessons cite it for the mother-tongue/multilingual-education value, held as a value/commitment, not a factual statistic. Also cited in U.06.004 L14 (Across a Language Difference) for UNESCO's multilingual-education guidance as the frame for treating 'not sharing a language' as ordinary, never a failure."
 
   - id: S-020
     title: "Clements & Sarama — Learning and Teaching Early Math: The Learning Trajectories Approach"
@@ -380,7 +380,7 @@ sources:
     url: https://www.nichd.nih.gov/research/supported/nrp
     domains: [D04]
     reviewed: true
-    notes: "Cited in U.02.004 L05 (fluency via repeated/guided oral reading), L06–L09 (comprehension via question answering and question generation); and U.03.004 L04 (accuracy via systematic/explicit sound–symbol instruction), L05 (fluency via re-reading/guided oral reading), L06 (comprehension monitoring/self-correction), L07–L08 (main idea and supporting details). Real, landmark US report. URL verified live (2026-08-16): NICHD hosts the panel page (marked 'Historical/For Reference Only'). NRP identified five components of reading — phonemic awareness, phonics, fluency, vocabulary, comprehension — and found guided repeated oral reading improves fluency and that question answering, question generation, comprehension monitoring, and summarization (which includes identifying main ideas and supporting details) are among the comprehension strategies with a solid research base. On-topic for each lesson that cites it. US-centric source; treated as one widely used evidence base among others, not the only tradition."
+    notes: "Cited in U.02.004 L05 (fluency via repeated/guided oral reading), L06–L09 (comprehension via question answering and question generation); and U.03.004 L04 (accuracy via systematic/explicit sound–symbol instruction), L05 (fluency via re-reading/guided oral reading), L06 (comprehension monitoring/self-correction), L07–L08 (main idea and supporting details). Real, landmark US report. URL verified live (2026-08-16): NICHD hosts the panel page (marked 'Historical/For Reference Only'). NRP identified five components of reading — phonemic awareness, phonics, fluency, vocabulary, comprehension — and found guided repeated oral reading improves fluency and that question answering, question generation, comprehension monitoring, and summarization (which includes identifying main ideas and supporting details) are among the comprehension strategies with a solid research base. On-topic for each lesson that cites it. US-centric source; treated as one widely used evidence base among others, not the only tradition. Also cited in U.06.004 L07/L08 for read-aloud as supporting fluency and enjoyment in reading fiction, poetry, nonfiction, and drama."
 
   - id: S-041
     title: BBC Bitesize (KS1) — Working scientifically
@@ -949,7 +949,7 @@ sources:
     year: 2007
     domains: [D04]
     reviewed: true
-    notes: "Graham, S., & Perin, D. (2007). Writing Next: Effective Strategies to Improve Writing of Adolescents in Middle and High Schools. Real report to Carnegie Corporation of New York (Alliance for Excellent Education). Cited in U.04.004 L09–L13 for the writing-process (plan/draft/revise/edit/publish) claims and explicit strategy instruction. Used as a general authority for effective writing pedagogy."
+    notes: "Graham, S., & Perin, D. (2007). Writing Next: Effective Strategies to Improve Writing of Adolescents in Middle and High Schools. Real report to Carnegie Corporation of New York (Alliance for Excellent Education). Cited in U.04.004 L09–L13 for the writing-process (plan/draft/revise/edit/publish) claims and explicit strategy instruction. Also cited in U.06.004 L09–L12 for argument writing (claim/reasons/evidence/counterargument) and digital drafting/revising/publishing. Used as a general authority for effective writing pedagogy."
 
   - id: S-103
     title: "Fortson — Indo-European Language and Culture (2nd ed.)"
@@ -1541,7 +1541,7 @@ sources:
     year: 2012
     domains: [D04]
     reviewed: true
-    notes: "Daniel L. Everett, Language: The Cultural Tool, Pantheon Books, 2012. Argues language is a tool shaped by culture and use, supporting U.05.005 L14's framing that 'words carry culture' and that the distinctions a language makes reflect what its speakers value. Everett is a real linguist/anthropologist (best known for the Pirahã work). No URL (print book)."
+    notes: "Daniel L. Everett, Language: The Cultural Tool, Pantheon Books, 2012. Argues language is a tool shaped by culture and use, supporting U.05.005 L14's framing that 'words carry culture' and that the distinctions a language makes reflect what its speakers value. Everett is a real linguist/anthropologist (best known for the Pirahã work). Also cited in U.06.004 L13 (The Same Idea in Many Languages) for translation always gaining/losing and 'words carry culture.' No URL (print book)."
 
   - id: S-168
     title: "Sapir & Whorf — language and thought (linguistic relativity)"
@@ -1551,7 +1551,7 @@ sources:
     year: 1956
     domains: [D04]
     reviewed: true
-    notes: "Classic linguistic-relativity (Sapir–Whorf) tradition: Edward Sapir, 'The Status of Linguistics as a Science' (1929), and Benjamin Lee Whorf, Language, Thought, and Reality (MIT Press, 1956, ed. J. B. Carroll). Cited in U.05.005 L14 for the moderate idea that languages 'sort the world differently' and shape habitual thought. Note: the lesson uses only the moderate, well-supported form; the strong determinism form (language wholly determines thought) is largely rejected and is not claimed. No URL (print book)."
+    notes: "Classic linguistic-relativity (Sapir–Whorf) tradition: Edward Sapir, 'The Status of Linguistics as a Science' (1929), and Benjamin Lee Whorf, Language, Thought, and Reality (MIT Press, 1956, ed. J. B. Carroll). Cited in U.05.005 L14 for the moderate idea that languages 'sort the world differently' and shape habitual thought. Note: the lesson uses only the moderate, well-supported form; the strong determinism form (language wholly determines thought) is largely rejected and is not claimed. Also cited in U.06.004 L13 for the moderate idea that languages 'sort the world differently,' so translation gains and loses. No URL (print book)."
 
   - id: S-169
     title: "WALS — Östen Dahl, 'Tea' (chapter 138)"
@@ -1572,7 +1572,7 @@ sources:
     year: 2008
     domains: [D04]
     reviewed: true
-    notes: "Verified live 2026-08-17 (ies.ed.gov/ncee/wwc/practiceguide/8). WWC practice guide (Aug 2008). Recommendation 2 is 'Provide direct and explicit comprehension strategy instruction' — which supports U.05.005 L05/L06 (text structure: cause/effect, problem/solution), L07 (fact vs opinion), L08 (author's purpose/point of view), and L11 (gathering/corroborating information) as comprehension-strategy and text-structure instruction. General authority, not a page-level citation for any single statistic."
+    notes: "Verified live 2026-08-17 (ies.ed.gov/ncee/wwc/practiceguide/8). WWC practice guide (Aug 2008). Recommendation 2 is 'Provide direct and explicit comprehension strategy instruction' — which supports U.05.005 L05/L06 (text structure: cause/effect, problem/solution), L07 (fact vs opinion), L08 (author's purpose/point of view), and L11 (gathering/corroborating information) as comprehension-strategy and text-structure instruction. Also cited in U.06.004 L05/L06 (citing text evidence; inference) and L07/L08 (fiction/poetry/nonfiction/drama genre shapes) for comprehension-strategy and text-structure instruction. General authority, not a page-level citation for any single statistic."
 
   - id: S-171
     title: "IES — Teaching Secondary Students to Write Effectively"
@@ -1582,7 +1582,7 @@ sources:
     year: 2016
     domains: [D04]
     reviewed: true
-    notes: "Verified live 2026-08-17 (ies.ed.gov/ncee/wwc/practiceguide/22; guide PDF at wwc_secondary_writing_110116.pdf returns HTTP 200). WWC practice guide (Nov 2016). Covers the writing process (plan/draft/revise/edit) and explicit strategy instruction, supporting U.05.005 L12 (writing a report in one's own words with citation). Note this is a *secondary* (grades 6–12) guide used here for a Grade-5 lesson as a general writing-pedagogy authority; the elementary counterpart is the 2012/2018 'Teaching Elementary School Students to Be Effective Writers' guide. General authority."
+    notes: "Verified live 2026-08-17 (ies.ed.gov/ncee/wwc/practiceguide/22; guide PDF at wwc_secondary_writing_110116.pdf returns HTTP 200). WWC practice guide (Nov 2016). Covers the writing process (plan/draft/revise/edit) and explicit strategy instruction, supporting U.05.005 L12 (writing a report in one's own words with citation). Note this is a *secondary* (grades 6–12) guide used here for a Grade-5 lesson as a general writing-pedagogy authority; the elementary counterpart is the 2012/2018 'Teaching Elementary School Students to Be Effective Writers' guide. Also cited in U.06.004 L09–L12 for argument writing and word-processing/collaborative writing at Grade 6 — the *secondary* guide is on-grade here (grades 6–12). General authority."
 
   - id: S-172
     title: "Duke & Pearson — Effective Practices for Developing Reading Comprehension"
@@ -1592,7 +1592,7 @@ sources:
     year: 2002
     domains: [D04]
     reviewed: true
-    notes: "Duke, N. K., & Pearson, P. D. (2002). Effective Practices for Developing Reading Comprehension. In A. E. Farstrup & S. J. Samuels (eds.), What Research Has to Say About Reading Instruction (3rd ed., pp. 205–242). International Reading Association. Foundational synthesis of comprehension-strategy research (prediction, text-structure awareness, question generation, summarization, monitoring). Cited in U.05.005 L05/L06/L07/L08 for comprehension-strategy and text-structure instruction. Real, widely cited, on-topic. No URL (print chapter)."
+    notes: "Duke, N. K., & Pearson, P. D. (2002). Effective Practices for Developing Reading Comprehension. In A. E. Farstrup & S. J. Samuels (eds.), What Research Has to Say About Reading Instruction (3rd ed., pp. 205–242). International Reading Association. Foundational synthesis of comprehension-strategy research (prediction, text-structure awareness, question generation, summarization, monitoring). Cited in U.05.005 L05/L06/L07/L08 for comprehension-strategy and text-structure instruction. Also cited in U.06.004 L01/L02/L05/L06/L07/L08 for comprehension-strategy and text-structure (genre) instruction. Real, widely cited, on-topic. No URL (print chapter)."
 
   - id: S-173
     title: "Marzano, Pickering & Pollock — Classroom Instruction That Works"
@@ -1611,7 +1611,7 @@ sources:
     organization: International Listening Association (ILA)
     domains: [D04]
     reviewed: true
-    notes: "Verified live 2026-08-17 (listen.org). The ILA is the real professional body for listening scholarship; its site has a 'Listening Skills' section ('The Importance of Listening,' a 'Listening Toolkit,' and a 'Listening Definition'). Cited in U.05.005 L01 (Paraphrase a Speaker's Points) as a classroom-friendly framing for paraphrasing/clarifying as active-listening skills, alongside CASEL (S-001). The lesson names an ILA 'Listening Skills' primer generically; the organization and its Listening Skills area exist, so the citation is real, though it is best read as a general authority rather than a specific page. Consider adding a direct link to the 'Listening Toolkit' page if a page-level citation is desired."
+    notes: "Verified live 2026-08-17 (listen.org). The ILA is the real professional body for listening scholarship; its site has a 'Listening Skills' section ('The Importance of Listening,' a 'Listening Toolkit,' and a 'Listening Definition'). Cited in U.05.005 L01 (Paraphrase a Speaker's Points) as a classroom-friendly framing for paraphrasing/clarifying as active-listening skills, alongside CASEL (S-001). The lesson names an ILA 'Listening Skills' primer generically; the organization and its Listening Skills area exist, so the citation is real, though it is best read as a general authority rather than a specific page. Consider adding a direct link to the 'Listening Toolkit' page if a page-level citation is desired. Also cited in U.06.004 L01 (Hear the Main Argument) as a classroom-friendly framing for separating a main claim from its support."
 
   - id: S-175
     title: "ISO 80000-1 — Quantities and units, Part 1: General (decimal sign)"
@@ -2160,7 +2160,7 @@ sources:
     year: 1981
     domains: [D02, D09]
     reviewed: true
-    notes: "Johnson, D. W., Maruyama, G., Johnson, R., Nelson, D., & Skon, L. (1981). Effects of cooperative, competitive, and individualistic goal structures on achievement: A meta-analysis. Psychological Bulletin, 89(1), 47–62 (see also D. W. Johnson & R. T. Johnson, Cooperation and Competition: Theory and Research, Interaction Book Company). The meta-analysis and the brothers' social interdependence theory show cooperative goal structures produce higher achievement and better interpersonal outcomes than competitive or individualistic structures. Cited in U.06.003 L09 (Cooperation vs Competition) for the claim that cooperative learning improves achievement and relationships, alongside Slavin (S-147). Real, correctly attributed; the lesson's 'each is a tool' framing is a values position, not a claim from Johnson & Johnson. No URL (print sources)."
+    notes: "Johnson, D. W., Maruyama, G., Johnson, R., Nelson, D., & Skon, L. (1981). Effects of cooperative, competitive, and individualistic goal structures on achievement: A meta-analysis. Psychological Bulletin, 89(1), 47–62 (see also D. W. Johnson & R. T. Johnson, Cooperation and Competition: Theory and Research, Interaction Book Company). The meta-analysis and the brothers' social interdependence theory show cooperative goal structures produce higher achievement and better interpersonal outcomes than competitive or individualistic structures. Cited in U.06.003 L09 (Cooperation vs Competition) for the claim that cooperative learning improves achievement and relationships, alongside Slavin (S-147). Real, correctly attributed; the lesson's 'each is a tool' framing is a values position, not a claim from Johnson & Johnson. Also cited in U.06.004 L03 (Building on Others' Ideas) for cooperative discussion as a well-supported structure. No URL (print sources)."
 
   - id: S-234
     title: "World Bank — Poverty and Inequality (Poverty, Prosperity, and Planet Report)"
@@ -2181,5 +2181,45 @@ sources:
     domains: [D02, D09]
     reviewed: true
     notes: "UNESCO's inclusion-in-education work (the 1994 Salamanca Statement and Framework for Action on Special Needs Education; the 2017 'A Guide for Ensuring Inclusion and Equity in Education'; the SDG 4 inclusive-education agenda). Frames inclusion as removing barriers so every learner participates and is valued, and treats difference as ordinary rather than deficient. Cited in U.06.003 L08 (Identity Shapes Belonging) for the claim that 'belonging is shaped by how identity is received, and inclusive settings treat difference as ordinary rather than deficient.' On-topic as a general authority; unesco.org was unreachable from the fact-checker's environment on 2026-08-17 (consistent with other UNESCO entries), but the programme and its canonical documents are real and well established. The 'gift, not gap' framing is a values commitment, not a UNESCO claim."
+
+  - id: S-236
+    title: "Toulmin — The Uses of Argument (claim/data/warrant model)"
+    type: book
+    author: Stephen E. Toulmin
+    organization: Cambridge University Press
+    year: 1958
+    domains: [D04]
+    reviewed: true
+    notes: "Stephen Toulmin, The Uses of Argument (Cambridge University Press, 1958; updated ed. 2003). Lays out the functional model of argument — claim, data (grounds), warrant, backing, qualifier, and rebuttal. Cited in U.06.004 L09 (claim + reasons) and L10 (evidence + counterargument/rebuttal) as the standard framework behind the 'claim/reasons/evidence/counterargument' scaffold used in the unit. The lessons use 'claim/data/warrant' and 'claim/evidence/rebuttal' as faithful shorthands of Toulmin's components, not as a new model. Real, foundational, correctly attributed. No URL (print book)."
+
+  - id: S-237
+    title: "Council of Europe — CEFR Companion Volume (plurilingual competence)"
+    type: report
+    url: https://www.coe.int/en/web/common-european-framework-reference-languages/companion-volume
+    organization: Council of Europe
+    year: 2020
+    domains: [D04]
+    reviewed: true
+    notes: "Common European Framework of Reference for Languages: Learning, Teaching, Assessment — Companion Volume (Council of Europe; first published 2018, new edition 2020). Extends the CEFR and centers 'plurilingual and pluricultural competence' (the ability to draw on more than one language/culture to communicate) and mediation. Cited in U.06.004 L14 (Across a Language Difference) as the literature on lingua franca and plurilingual competence supporting cross-language communication strategies. Real, correctly attributed. coe.int returned HTTP 403 from the fact-checker's environment on 2026-08-17 (bot-blocking, consistent with other .coe.int/.unesco.org entries), but the document and its plurilingual-competence concept are canonical and well established."
+
+  - id: S-238
+    title: "Michaels & O'Connor — Accountable Talk / Talk Moves"
+    type: article
+    author: Sarah Michaels & Catherine O'Connor
+    organization: Institute for Learning, University of Pittsburgh
+    year: 2012
+    domains: [D04]
+    reviewed: true
+    notes: "Sarah Michaels and Catherine O'Connor (with Lauren Resnick), 'Accountable Talk: Classroom Conversation that Works' — the 'talk moves' framework (e.g., 'Can you add on?', 'Who can restate that?', 'Do you agree or disagree, and why?') for productive, academically accountable discussion. Cited in U.06.004 L03 (Building on Others' Ideas) and L04 (Disagreeing Respectfully) as the research base for discussion 'moves' that build on others' ideas and disagree respectfully. Real, widely used, correctly attributed. Used as a general authority, not for a single statistic."
+
+  - id: S-239
+    title: "Agarwal & Bain — Powerful Teaching: Unleash the Science of Learning"
+    type: book
+    author: Pooja K. Agarwal & Patrice M. Bain
+    organization: Jossey-Bass (Wiley)
+    year: 2019
+    domains: [D04]
+    reviewed: true
+    notes: "Pooja K. Agarwal & Patrice M. Bain, Powerful Teaching: Unleash the Science of Learning (Jossey-Bass, 2019). Practitioner synthesis of retrieval practice, spacing, and other learning-science techniques. Cited in U.06.004 L02 (Details and Examples) alongside Kirschner et al. for the retrieval-practice basis of the lesson's recall activities. Real, correctly attributed; used as a general authority for retrieval practice. No URL (print book)."
 
 

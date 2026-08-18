@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Revising and publishing my argument</title>
+  <desc id="desc">A before-and-after diagram. On the left, a draft page labeled "before" shows a claim with a muddled order and a crossed-out unsupported reason, with a note "reason not supported." On the right, a page labeled "after" shows the claim, reasons each with an evidence line, and a counterargument with its response, with a checkmark and the note "order: strongest reason first." A checklist beside it lists "claim clear? evidence checkable? counterargument answered?" Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Revising and Publishing My Argument</text>
+
+  <!-- Before page -->
+  <rect x="24" y="64" width="224" height="300" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="64" width="224" height="44" rx="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">before</text>
+
+  <text x="136" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">claim: plant trees</text>
+  <text x="136" y="152" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">reason: fruit (no evidence)</text>
+  <text x="136" y="178" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">reason: shade (weak, last)</text>
+  <text x="136" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" text-decoration="line-through">reason: I like green</text>
+  <text x="136" y="236" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">counterargument: none</text>
+
+  <rect x="44" y="262" width="184" height="56" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="136" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"reason not supported"</text>
+  <text x="136" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"muddled order"</text>
+
+  <!-- Arrow -->
+  <path d="M248 214 L264 214" stroke="#2b3a42" stroke-width="3" marker-end="url(#f)"/>
+  <defs>
+    <marker id="f" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- After page -->
+  <rect x="264" y="64" width="224" height="300" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="264" y="64" width="224" height="44" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">after</text>
+
+  <text x="376" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">claim: plant shade and fruit trees</text>
+  <text x="376" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">reason 1: shade → evidence ✓</text>
+  <text x="376" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">reason 2: fruit → evidence ✓</text>
+  <text x="376" y="202" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">counterargument: trees cost</text>
+  <text x="376" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">response: true, but… ✓</text>
+
+  <rect x="284" y="256" width="184" height="64" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="280" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">order: strongest reason first</text>
+  <text x="376" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"I like green" cut ✓</text>
+
+  <!-- Checklist -->
+  <rect x="56" y="388" width="400" height="100" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">revision checklist</text>
+  <text x="80" y="440" font-family="sans-serif" font-size="13" fill="#222222">□ claim clear?   □ every reason supported?   □ evidence checkable?</text>
+  <text x="80" y="466" font-family="sans-serif" font-size="13" fill="#222222">□ counterargument answered?   □ order strong?</text>
+</svg>

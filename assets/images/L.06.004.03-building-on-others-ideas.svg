@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Building on others' ideas</title>
+  <desc id="desc">A tower of four stacked speech bubbles. The bottom bubble reads "We should start a class garden." The next reads "Building on that — a garden gives us food to share." The next reads "That connects to health — we would eat what we grow." The top reads "I want to add — we could give extra food to families." Each bubble is drawn resting on the one below, labeled "each idea builds on the last." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Building on Others' Ideas</text>
+
+  <!-- Bubble 1 -->
+  <rect x="96" y="356" width="320" height="66" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">"We should start a class garden."</text>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the first idea</text>
+
+  <!-- Bubble 2 -->
+  <rect x="108" y="262" width="320" height="66" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="268" y="290" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">"Building on that — a garden</text>
+  <text x="268" y="310" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">gives us food to share."</text>
+
+  <!-- Bubble 3 -->
+  <rect x="84" y="168" width="320" height="66" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="244" y="196" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">"That connects to health —</text>
+  <text x="244" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">we would eat what we grow."</text>
+
+  <!-- Bubble 4 -->
+  <rect x="96" y="74" width="320" height="66" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="102" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">"I want to add — we could give</text>
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">extra food to families."</text>
+
+  <!-- arrows between bubbles -->
+  <path d="M256 356 L256 328" stroke="#2b3a42" stroke-width="3" marker-end="url(#a)"/>
+  <path d="M256 262 L256 234" stroke="#2b3a42" stroke-width="3" marker-end="url(#a)"/>
+  <path d="M256 168 L256 140" stroke="#2b3a42" stroke-width="3" marker-end="url(#a)"/>
+  <defs>
+    <marker id="a" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Each idea builds on the last.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Nobody erases or wins — the tower just gets taller.</text>
+</svg>
