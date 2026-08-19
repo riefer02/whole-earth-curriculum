@@ -6062,7 +6062,7 @@ items:
     type: lesson
     grade: 11
     domain: D03
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6074,6 +6074,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1577 files). All 12 lessons: kind lesson, id L.11.002.NN matching sequence_in_unit 1-12, unit U.11.002, domain [D03], pillar [P2]; strand/objectives resolve to real grade-11 standards. All 6 objectives covered (S1.11.01 x5, S1.11.02 x2, S2.11.01 x2, S2.11.02, S3.11.01, S3.11.02). Required headings present in all 12. Highest-risk spot-checks: L006 facilitator note anti-ableist/non-disclosure ('never ask learners to disclose... avoid suffers from'); L011 hedges + sources data (FAO SOFI S-409, UNEP S-410, WHO S-038/S-312 all resolve). 12 assets non-empty alt + resolving paths; unit.md table matches."
+      fact-checker:
+        verdict: passed
+        note: "Verified claims across 12 lessons and all 22 cited sources (S-001, S-011, S-038, S-039, S-056, S-092, S-101, S-116, S-118, S-222, S-285, S-287, S-312, S-325, S-339, S-340, S-341, S-342, S-369, S-408, S-409, S-410) — all reviewed:true. Spot-checked: nervous-system physiology (sympathetic/parasympathetic, slow-exhale→vagus S-339/S-340), movement-mood (endorphins/monoamines/BDNF S-408), mindfulness origins (Buddhist lineages 2000+ yrs S-222/S-056), social model of disability ('a tool for justice, not a claim that impairment does not exist'), movement-tradition origins (yoga/pranayama, qigong/tai chi, kalaripayattu, capoeira 2014 UNESCO, tinikling, Bharatanatyam, haka, kabaddi/kho-kho/sepak takraw), food-system data (733M hungry 2023, 2.33B food-insecure, 1.05B tonnes waste 2022 S-409/S-410). Evidence vs values well distinguished (pervasive 'may help/one tool among many'; 'everyone deserves enough to eat is a value not a fact'). Fixed: updated domains for S-056/S-092/S-116/S-222/S-325/S-369 to include D03. Validate passes (1577 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Movement traditions treated as living cultures with accurate origins, not specimens: yoga (South Asia), qigong/tai chi (China), kalaripayattu (India), karate/judo (Okinawa/Japan), kung fu (China), capoeira ('Afro-Brazilian art of movement, song, and resistance born among enslaved Africans'), tinikling (Philippines), Bharatanatyam (South India), haka (Maori), kabaddi/kho-kho (South Asia), sepak takraw (SE Asia); L8 contrasts 'learning with a culture and taking from it'. Mindfulness L4 names Buddhist lineages and holds them side-by-side with secular psychology 'without ranking', incl. critique of commercial appropriation. Connections span fishing boats, farm rhythms, market hours, smallholder farms, rice-and-lentil/maize-and-bean/fish-and-greens/flatbread plates. No fixes required."
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech/no-tech (all 12 lessons materials_low_tech; devices optional under enriched tier, no silent wealth/device requirement). Alt text + SVG a11y (all 12 assets non-empty alt; all SVGs role=img + title/desc + aria-labelledby; wheelchair users rendered as equal participants not 'special cases'). Fixed two gaps: added non-breath-regulation alternative to L2 (hand-on-chest, soft jaw, watching a partner) for learners who can't safely do breath work; added non-motor alternative to L3 (motor imagery/noticing the urge to move) for learners with little or no voluntary movement. Movement practices carry seated/wheeling/lying alternatives and no-shaming language; nutrition lessons budget-aware 'no weight talk' culture-honoring. Validate passes (1577 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses verified: ethics (disability justice social-vs-medical model, food justice, respect-vs-appropriation of movement traditions), egalitarianism (no able-bodied default, no ranking bodies, no way of eating above another, who benefits/left out), global (yoga/qigong/kalaripayattu/karate/kung fu/capoeira/tinikling/Bharatanatyam/haka/kabaddi/sepak takraw; rice-and-lentil/maize-and-bean/fish-and-greens), technology & environment (trackers/apps, food-waste footprint, sustainable eating). Evidence (WHO/FAO/UNEP/Harvard all cited) distinguished from values (explicit values-vs-facts notes). Traceability: all objectives resolve to real D03.S1/S2/S3 grade-11 standards → D03 → P2 → vision. Explicit anti-ableism/anti-weight-stigma ('no weight talk', 'never frame movement as shrinking/fixing a body'). No fixes needed."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: cognitive load (nervous-system physiology, social vs medical model with honest nuance, policy analysis) calibrated to formal operations, hedged not dumbed down. Emotional safety (decisive body-unit risks): explicit prohibitions on weight talk/body ranking/able-bodied default, no 'fix/shrink your body' framing ('bodies are not problems to solve'), nutrition as pattern honoring needs/culture/budget/values 'a plan not a diet', disability via social model with dignity no inspiration/deficit framing, no forced disclosure, mind-body practices invitations with opt-outs + non-breath/non-motor alternatives, heart-rate monitoring optional-with-consent, food-insecurity framed structural not personal failure. Physical: movement universally adaptable (seated/wheeling/lying/low-intensity), no mandatory strenuous effort. Open-endedness: values-vs-facts distinguished, cultural respect 'as a question not a lecture'."
   - id: B-397
     title: Author lessons for Unit U.11.003 (Relationships, Community & Solidarity)
     agent: lesson-author

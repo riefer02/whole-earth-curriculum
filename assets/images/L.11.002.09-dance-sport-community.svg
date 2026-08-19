@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t9 d9">
+  <title id="t9">Dance, sport, and community</title>
+  <desc id="d9">Figures moving together in a circle: some dancing, one in a wheelchair, one playing with a ball. Movement is not only exercise — it is also a way people gather, celebrate, and belong together.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="50" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle">Movement is also belonging</text>
+
+  <!-- large circle -->
+  <circle cx="256" cy="240" r="150" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="8 8"/>
+
+  <!-- dancing figure 1 -->
+  <circle cx="150" cy="170" r="18" fill="#e0a458"/>
+  <path d="M 150 188 L 150 240" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 150 210 L 122 196" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 150 210 L 178 196" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 150 240 L 128 280" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 150 240 L 172 280" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- dancing figure 2 -->
+  <circle cx="362" cy="170" r="18" fill="#6b93b6"/>
+  <path d="M 362 188 L 362 240" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 362 210 L 334 196" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 362 210 L 390 196" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 362 240 L 340 280" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 362 240 L 384 280" stroke="#2b3a42" stroke-width="7" stroke-linecap="7"/>
+
+  <!-- wheelchair dancer -->
+  <circle cx="256" cy="290" r="18" fill="#7a9e7e"/>
+  <path d="M 256 308 L 256 350" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 256 324 L 230 344" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 256 324 L 282 344" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <rect x="226" y="350" width="60" height="24" rx="8" fill="#4f6d7a"/>
+  <circle cx="242" cy="392" r="16" fill="none" stroke="#2b3a42" stroke-width="5"/>
+  <circle cx="282" cy="392" r="16" fill="none" stroke="#2b3a42" stroke-width="5"/>
+
+  <!-- ball player -->
+  <circle cx="420" cy="300" r="18" fill="#e0a458"/>
+  <path d="M 420 318 L 420 360" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 420 336 L 398 356" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 420 336 L 442 356" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 420 330 L 396 312" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="470" cy="250" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- music notes -->
+  <g fill="#2b3a42">
+    <text x="90" y="120" font-size="26">♪</text>
+    <text x="420" y="120" font-size="26">♫</text>
+  </g>
+
+  <text x="256" y="462" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">Dance and sport gather people across every culture.</text>
+</svg>

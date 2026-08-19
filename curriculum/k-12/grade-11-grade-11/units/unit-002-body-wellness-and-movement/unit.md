@@ -68,3 +68,15 @@ honoring the wide range of bodies and abilities.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.11.002.01 | The Body as Home: Dignity, Joy, and Noticing Your State | D03.S1.11.01 |
+| L.11.002.02 | Breath as a Lever: Why Slow Breathing Calms You | D03.S1.11.01 |
+| L.11.002.03 | Movement as Regulation: How Moving Shifts Your State | D03.S1.11.01 |
+| L.11.002.04 | Attention as a Practice: Mindfulness Across Traditions | D03.S1.11.01 |
+| L.11.002.05 | My Mind-Body Practice Plan | D03.S1.11.01 |
+| L.11.002.06 | Diverse Bodies, Diverse Experiences | D03.S1.11.02 |
+| L.11.002.07 | Designing Practices for Every Body | D03.S1.11.02 |
+| L.11.002.08 | Movement Traditions I: Yoga, Qigong, and Martial Arts | D03.S2.11.01 |
+| L.11.002.09 | Movement Traditions II: Dance, Sport, and Community | D03.S2.11.01 |
+| L.11.002.10 | Designing Inclusive Movement | D03.S2.11.02 |
+| L.11.002.11 | Food Systems, Policy, and Population Health | D03.S3.11.01 |
+| L.11.002.12 | My Sustainable Nutrition Plan | D03.S3.11.02 |

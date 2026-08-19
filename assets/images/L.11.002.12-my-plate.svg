@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t12 d12">
+  <title id="t12">A plate that honors needs, culture, budget, and values</title>
+  <desc id="d12">A plate divided into sections with labeled food examples from many ways of eating — grains, beans and proteins, vegetables and fruits — surrounded by four reminders: needs, culture, budget, and values. No single "right" food; many ways to eat well.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle">Many ways to eat well</text>
+
+  <!-- plate -->
+  <circle cx="256" cy="230" r="120" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <circle cx="256" cy="230" r="86" fill="#f0ebe0" stroke="#4f6d7a" stroke-width="2"/>
+  <!-- sections -->
+  <path d="M 256 144 A 86 86 0 0 1 342 230 L 256 230 Z" fill="#7a9e7e"/>
+  <path d="M 342 230 A 86 86 0 0 1 256 316 L 256 230 Z" fill="#e0a458"/>
+  <path d="M 256 316 A 86 86 0 0 1 170 230 L 256 230 Z" fill="#6b93b6"/>
+  <path d="M 170 230 A 86 86 0 0 1 256 144 L 256 230 Z" fill="#e0a458"/>
+  <g font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">
+    <text x="290" y="180">vegetables</text><text x="290" y="198">&amp; fruit</text>
+    <text x="304" y="290">grains &amp;</text><text x="304" y="308">staples</text>
+    <text x="208" y="290">beans,</text><text x="208" y="308">protein</text>
+  </g>
+
+  <!-- four reminders around the plate -->
+  <g font-family="sans-serif" font-size="15" fill="#2b3a42" text-anchor="middle">
+    <rect x="56" y="360" width="100" height="34" rx="8" fill="#eef4ee" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="106" y="382">needs</text>
+    <rect x="168" y="360" width="100" height="34" rx="8" fill="#eef4ee" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="218" y="382">culture</text>
+    <rect x="280" y="360" width="100" height="34" rx="8" fill="#eef4ee" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="330" y="382">budget</text>
+    <rect x="392" y="360" width="84" height="34" rx="8" fill="#eef4ee" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="434" y="382">values</text>
+  </g>
+
+  <text x="256" y="436" font-family="sans-serif" font-size="18" fill="#2b3a42" text-anchor="middle">A sustainable plan fits your life — not a single ideal plate.</text>
+</svg>

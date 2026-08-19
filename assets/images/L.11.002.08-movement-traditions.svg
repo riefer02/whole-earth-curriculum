@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t8 d8">
+  <title id="t8">Three movement traditions</title>
+  <desc id="d8">Three panels showing movement traditions from different cultures: a seated yoga posture from South Asia, a flowing qigong/tai-chi stance from China, and a martial-arts stance. Each is a living tradition carried by real people and communities.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="48" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle">Movement traditions, living cultures</text>
+
+  <!-- panel 1 yoga -->
+  <rect x="28" y="70" width="146" height="300" rx="12" fill="#f0ebe0" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="101" cy="150" r="20" fill="#e0a458"/>
+  <path d="M 101 170 L 101 250" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 101 250 L 70 300" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 101 250 L 132 300" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 101 200 L 74 232" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 101 200 L 128 232" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <text x="101" y="330" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42" text-anchor="middle">Yoga</text>
+  <text x="101" y="350" font-family="sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">South Asia</text>
+
+  <!-- panel 2 qigong -->
+  <rect x="184" y="70" width="146" height="300" rx="12" fill="#eef4ee" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="257" cy="150" r="20" fill="#6b93b6"/>
+  <path d="M 257 170 L 257 260" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 257 260 L 230 310" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 257 260 L 284 310" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <!-- flowing arms -->
+  <path d="M 257 200 q -26 -14 -40 -4" stroke="#2b3a42" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M 257 200 q 26 -14 40 -4" stroke="#2b3a42" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <circle cx="217" cy="196" r="5" fill="#2b3a42"/>
+  <circle cx="297" cy="196" r="5" fill="#2b3a42"/>
+  <text x="257" y="330" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42" text-anchor="middle">Qigong / Tai chi</text>
+  <text x="257" y="350" font-family="sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">China</text>
+
+  <!-- panel 3 martial arts -->
+  <rect x="340" y="70" width="146" height="300" rx="12" fill="#f6ede2" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="413" cy="150" r="20" fill="#7a9e7e"/>
+  <path d="M 413 170 L 413 250" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 413 250 L 388 308" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 413 250 L 438 308" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 413 200 L 372 180" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 413 200 L 454 180" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="372" cy="180" r="5" fill="#2b3a42"/>
+  <circle cx="454" cy="180" r="5" fill="#2b3a42"/>
+  <text x="413" y="330" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42" text-anchor="middle">Martial arts</text>
+  <text x="413" y="350" font-family="sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">many lands</text>
+
+  <text x="256" y="430" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">Living traditions — practiced, passed down, adapted.</text>
+</svg>

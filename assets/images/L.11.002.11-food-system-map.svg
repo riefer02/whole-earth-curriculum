@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t11 d11">
+  <title id="t11">The food system, from farm to plate</title>
+  <desc id="d11">A chain of five boxes — farm, transport, market, plate, waste — with arrows flowing between them, and small "policy lever" markers above showing where public decisions (subsidies, labeling, school meals, zoning) shape what reaches people.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="48" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle">Farm to plate — and who decides</text>
+
+  <!-- chain boxes -->
+  <g fill="#f0ebe0" stroke="#2b3a42" stroke-width="3">
+    <rect x="30" y="150" width="80" height="70" rx="10"/>
+    <rect x="126" y="150" width="80" height="70" rx="10"/>
+    <rect x="222" y="150" width="80" height="70" rx="10"/>
+    <rect x="318" y="150" width="80" height="70" rx="10"/>
+    <rect x="414" y="150" width="70" height="70" rx="10"/>
+  </g>
+  <!-- arrows -->
+  <g stroke="#2b3a42" stroke-width="4" fill="none">
+    <path d="M 112 185 L 124 185" marker-end="url(#c)"/>
+    <path d="M 208 185 L 220 185" marker-end="url(#c)"/>
+    <path d="M 304 185 L 316 185" marker-end="url(#c)"/>
+    <path d="M 400 185 L 412 185" marker-end="url(#c)"/>
+  </g>
+  <defs>
+    <marker id="c" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <g font-family="sans-serif" font-size="15" fill="#2b3a42" text-anchor="middle">
+    <text x="70" y="180">farm</text><text x="70" y="200">grow</text>
+    <text x="166" y="180">transport</text><text x="166" y="200">move</text>
+    <text x="262" y="180">market</text><text x="262" y="200">sell</text>
+    <text x="358" y="180">plate</text><text x="358" y="200">eat</text>
+    <text x="449" y="180">waste</text><text x="449" y="200">lose</text>
+  </g>
+
+  <!-- policy levers -->
+  <g fill="#eef4ee" stroke="#4f6d7a" stroke-width="2">
+    <rect x="30" y="280" width="90" height="60" rx="8"/>
+    <rect x="132" y="280" width="92" height="60" rx="8"/>
+    <rect x="238" y="280" width="96" height="60" rx="8"/>
+    <rect x="348" y="280" width="96" height="60" rx="8"/>
+  </g>
+  <g font-family="sans-serif" font-size="13" fill="#2b3a42" text-anchor="middle">
+    <text x="75" y="304">subsidies &amp;</text><text x="75" y="322">land rules</text>
+    <text x="178" y="304">food labeling</text><text x="178" y="322">&amp; marketing</text>
+    <text x="286" y="304">school &amp;</text><text x="286" y="322">public meals</text>
+    <text x="396" y="304">zoning &amp;</text><text x="396" y="322">food access</text>
+  </g>
+  <g stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4">
+    <line x1="75" y1="278" x2="70" y2="224"/>
+    <line x1="178" y1="278" x2="166" y2="224"/>
+    <line x1="286" y1="278" x2="262" y2="224"/>
+    <line x1="396" y1="278" x2="358" y2="224"/>
+  </g>
+
+  <text x="256" y="388" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">Public choices shape what is easy and affordable to eat.</text>
+</svg>

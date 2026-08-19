@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t2 d2">
+  <title id="t2">A breathing square with a longer exhale</title>
+  <desc id="d2">A rounded square path showing four phases — breathe in, hold, breathe out longer, rest — with the exhale side drawn thicker and longer to show that a slow, extended out-breath is what calms the nervous system.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="60" font-family="sans-serif" font-size="28" font-weight="bold" fill="#222222" text-anchor="middle">The Breathing Square</text>
+
+  <!-- square path -->
+  <rect x="140" y="120" width="232" height="232" rx="20" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <!-- arrows around path -->
+  <path d="M 372 150 L 372 352" fill="none" stroke="#2b3a42" stroke-width="4" marker-end="url(#a)"/>
+  <path d="M 360 340 L 140 340" fill="none" stroke="#6b93b6" stroke-width="10" marker-end="url(#a)"/>
+  <path d="M 128 328 L 128 136" fill="none" stroke="#2b3a42" stroke-width="4" marker-end="url(#a)"/>
+  <path d="M 140 124 L 360 124" fill="none" stroke="#2b3a42" stroke-width="4" marker-end="url(#a)"/>
+  <defs>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- phase labels -->
+  <text x="452" y="255" font-family="sans-serif" font-size="18" fill="#2b3a42" text-anchor="middle" transform="rotate(90 452 255)">Breathe in (4)</text>
+  <text x="256" y="388" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42" text-anchor="middle">Breathe out (6) — longer</text>
+  <text x="62" y="255" font-family="sans-serif" font-size="18" fill="#2b3a42" text-anchor="middle" transform="rotate(-90 62 255)">Rest (2)</text>
+  <text x="256" y="104" font-family="sans-serif" font-size="18" fill="#2b3a42" text-anchor="middle">Hold (4)</text>
+
+  <!-- lungs icon -->
+  <circle cx="256" cy="236" r="34" fill="#7a9e7e" opacity="0.5"/>
+  <text x="256" y="244" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">lungs</text>
+
+  <text x="256" y="468" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">The slow out-breath signals "I am safe."</text>
+</svg>

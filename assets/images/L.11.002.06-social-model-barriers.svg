@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t6 d6">
+  <title id="t6">Two models of disability</title>
+  <desc id="d6">Two side-by-side panels. Left: a figure stopped at the bottom of stairs while others climb — the "medical model" locates the problem in the person. Right: the same figure reaches the top using a ramp — the "social model" locates the barrier in the design, which can be removed.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle">Where is the barrier?</text>
+
+  <!-- left panel -->
+  <rect x="28" y="70" width="220" height="330" rx="12" fill="#f0ebe0" stroke="#2b3a42" stroke-width="3"/>
+  <text x="138" y="98" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42" text-anchor="middle">"The person is the problem"</text>
+  <!-- stairs -->
+  <rect x="60" y="240" width="60" height="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="60" y="210" width="60" height="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="60" y="180" width="60" height="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="60" y="150" width="60" height="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- figure at bottom, stopped -->
+  <circle cx="150" cy="300" r="16" fill="#6b93b6"/>
+  <path d="M 150 316 L 150 356" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 150 330 L 132 348" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 150 330 L 168 348" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 150 356 L 136 390" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 150 356 L 164 390" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <!-- climb figure at top -->
+  <circle cx="200" cy="140" r="14" fill="#e0a458"/>
+  <path d="M 200 154 L 200 190" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 200 190 L 188 210" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 200 190 L 212 210" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- right panel -->
+  <rect x="264" y="70" width="220" height="330" rx="12" fill="#eef4ee" stroke="#2b3a42" stroke-width="3"/>
+  <text x="374" y="98" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42" text-anchor="middle">"The design is the problem"</text>
+  <!-- ramp -->
+  <polygon points="290,300 300,300 456,156 446,156" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="290" y1="300" x2="290" y2="330" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="446" y1="156" x2="446" y2="186" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="290" y="328" width="156" height="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- same figure reaching top via ramp -->
+  <circle cx="390" cy="180" r="16" fill="#6b93b6"/>
+  <path d="M 390 196 L 390 236" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 390 212 L 372 230" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 390 212 L 408 230" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 390 236 L 376 270" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 390 236 L 404 270" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+
+  <text x="256" y="438" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">Remove the barrier, and more people can take part.</text>
+</svg>

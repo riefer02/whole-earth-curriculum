@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t3 d3">
+  <title id="t3">Movement shifts your state</title>
+  <desc id="d3">Three simple figures in a row: a still, heavy figure; a figure in motion; and a settled, upright figure — with arrows between them showing that moving the body can help a charged or heavy state settle.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="58" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222" text-anchor="middle">Move, then settle</text>
+
+  <!-- figure 1: heavy/still -->
+  <circle cx="92" cy="150" r="22" fill="#e0a458"/>
+  <path d="M 92 172 L 92 260" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 92 200 L 60 240" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 92 200 L 124 240" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 92 260 L 66 320" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 92 260 L 118 320" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <text x="92" y="370" font-family="sans-serif" font-size="18" fill="#2b3a42" text-anchor="middle">heavy, still</text>
+
+  <!-- arrow -->
+  <path d="M 150 190 L 210 190" stroke="#2b3a42" stroke-width="4" marker-end="url(#b)"/>
+
+  <!-- figure 2: in motion -->
+  <circle cx="256" cy="150" r="22" fill="#6b93b6"/>
+  <path d="M 256 172 L 256 250" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 256 200 L 214 232" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 256 200 L 292 214" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 256 250 L 214 300" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 256 250 L 300 300" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <text x="256" y="370" font-family="sans-serif" font-size="18" fill="#2b3a42" text-anchor="middle">in motion</text>
+
+  <!-- arrow -->
+  <path d="M 314 190 L 374 190" stroke="#2b3a42" stroke-width="4" marker-end="url(#b)"/>
+
+  <!-- figure 3: settled upright -->
+  <circle cx="420" cy="150" r="22" fill="#7a9e7e"/>
+  <path d="M 420 172 L 420 260" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 420 200 L 388 242" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 420 200 L 452 242" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 420 260 L 394 320" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 420 260 L 446 320" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <text x="420" y="370" font-family="sans-serif" font-size="18" fill="#2b3a42" text-anchor="middle">settled</text>
+  <defs>
+    <marker id="b" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="460" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">Movement helps a charged or heavy state settle.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t1 d1">
+  <title id="t1">Body-state spectrum: settled, alert, activated</title>
+  <desc id="d1">A horizontal scale with three labeled zones — Settled, Alert, Activated — and a movable marker showing that your state moves along a range, never fixed as good or bad.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="70" font-family="sans-serif" font-size="30" font-weight="bold" fill="#222222" text-anchor="middle">How is my body right now?</text>
+
+  <!-- spectrum bar -->
+  <rect x="60" y="210" width="392" height="34" rx="17" fill="#e8e2d6"/>
+  <rect x="60" y="210" width="140" height="34" rx="17" fill="#7a9e7e"/>
+  <rect x="200" y="210" width="120" height="34" rx="0" fill="#e0a458"/>
+  <rect x="320" y="210" width="132" height="34" rx="17" fill="#6b93b6"/>
+
+  <!-- zone labels -->
+  <text x="130" y="170" font-family="sans-serif" font-size="22" fill="#2b3a42" text-anchor="middle">Settled</text>
+  <text x="260" y="170" font-family="sans-serif" font-size="22" fill="#2b3a42" text-anchor="middle">Alert</text>
+  <text x="386" y="170" font-family="sans-serif" font-size="22" fill="#2b3a42" text-anchor="middle">Activated</text>
+
+  <text x="130" y="290" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle">calm, still,</text>
+  <text x="130" y="314" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle">soft breath</text>
+  <text x="260" y="290" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle">focused,</text>
+  <text x="260" y="314" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle">ready</text>
+  <text x="386" y="290" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle">charged, fast</text>
+  <text x="386" y="314" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle">heart, tense</text>
+
+  <!-- movable marker -->
+  <polygon points="256,350 240,378 272,378" fill="#2b3a42"/>
+  <rect x="250" y="376" width="12" height="46" rx="6" fill="#2b3a42"/>
+
+  <text x="256" y="470" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">No zone is good or bad — noticing is the first skill.</text>
+</svg>

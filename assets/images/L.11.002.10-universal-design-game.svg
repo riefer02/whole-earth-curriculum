@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t10 d10">
+  <title id="t10">One game, many ways to play</title>
+  <desc id="d10">A circle game shown playable by many bodies at once: a figure standing, a figure seated, and a figure wheeling, all passing a ball. The same activity adapts so that more people can join in every environment.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="50" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle">One game, many ways</text>
+
+  <!-- circle -->
+  <circle cx="256" cy="230" r="150" fill="none" stroke="#7a9e7e" stroke-width="4"/>
+
+  <!-- standing figure -->
+  <circle cx="256" cy="110" r="20" fill="#e0a458"/>
+  <path d="M 256 130 L 256 180" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 256 150 L 232 172" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 256 150 L 280 172" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 256 180 L 236 220" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 256 180 L 276 220" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- seated figure -->
+  <circle cx="130" cy="300" r="20" fill="#6b93b6"/>
+  <path d="M 130 320 L 130 370" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 130 340 L 106 364" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 130 340 L 154 364" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 130 370 L 112 406" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 130 370 L 148 406" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- wheelchair figure -->
+  <circle cx="384" cy="300" r="20" fill="#7a9e7e"/>
+  <path d="M 384 320 L 384 362" stroke="#2b3a42" stroke-width="7" stroke-linecap="7"/>
+  <path d="M 384 338 L 360 358" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M 384 338 L 408 358" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <rect x="356" y="362" width="56" height="24" rx="8" fill="#4f6d7a"/>
+  <circle cx="370" cy="404" r="15" fill="none" stroke="#2b3a42" stroke-width="5"/>
+  <circle cx="408" cy="404" r="15" fill="none" stroke="#2b3a42" stroke-width="5"/>
+
+  <!-- ball being passed -->
+  <circle cx="256" cy="230" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 256 150 q -40 60 -130 40" stroke="#4f6d7a" stroke-width="3" fill="none" stroke-dasharray="6 6"/>
+  <path d="M 256 150 q 60 60 140 30" stroke="#4f6d7a" stroke-width="3" fill="none" stroke-dasharray="6 6"/>
+
+  <text x="256" y="460" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">Adapt the activity — never the person's worth.</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t7 d7">
+  <title id="t7">One practice, many bodies</title>
+  <desc id="d7">Three figures doing the same slow-breathing practice in three different ways: one standing, one seated in a chair, one using a wheelchair. The same practice adapts to every body without anyone being left out.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="52" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222" text-anchor="middle">Same practice, many bodies</text>
+
+  <!-- standing figure -->
+  <circle cx="110" cy="140" r="22" fill="#e0a458"/>
+  <path d="M 110 162 L 110 250" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 110 190 L 78 224" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 110 190 L 142 224" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 110 250 L 86 310" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 110 250 L 134 310" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <!-- hands resting -->
+  <circle cx="110" cy="240" r="6" fill="#2b3a42"/>
+  <text x="110" y="350" font-family="sans-serif" font-size="16" fill="#2b3a42" text-anchor="middle">standing</text>
+
+  <!-- seated in chair -->
+  <circle cx="256" cy="170" r="22" fill="#6b93b6"/>
+  <path d="M 256 192 L 256 250" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 256 214 L 224 240" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 256 214 L 288 240" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 256 250 L 234 290" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 256 250 L 278 290" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <!-- chair -->
+  <rect x="230" y="290" width="52" height="10" fill="#4f6d7a"/>
+  <rect x="226" y="300" width="8" height="60" fill="#4f6d7a"/>
+  <rect x="278" y="300" width="8" height="60" fill="#4f6d7a"/>
+  <text x="256" y="392" font-family="sans-serif" font-size="16" fill="#2b3a42" text-anchor="middle">seated</text>
+
+  <!-- wheelchair user -->
+  <circle cx="402" cy="170" r="22" fill="#7a9e7e"/>
+  <path d="M 402 192 L 402 250" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 402 214 L 372 240" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 402 214 L 432 240" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <!-- wheelchair -->
+  <rect x="368" y="250" width="68" height="30" rx="8" fill="#4f6d7a"/>
+  <circle cx="386" cy="300" r="20" fill="none" stroke="#2b3a42" stroke-width="6"/>
+  <circle cx="436" cy="300" r="20" fill="none" stroke="#2b3a42" stroke-width="6"/>
+  <line x1="386" y1="280" x2="436" y2="280" stroke="#4f6d7a" stroke-width="5"/>
+  <text x="402" y="350" font-family="sans-serif" font-size="16" fill="#2b3a42" text-anchor="middle">wheeling</text>
+
+  <!-- breath wisps above each -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M 96 100 q 8 -12 0 -24"/><path d="M 110 96 q 8 -12 0 -24"/><path d="M 124 100 q 8 -12 0 -24"/>
+    <path d="M 242 130 q 8 -12 0 -24"/><path d="M 256 126 q 8 -12 0 -24"/><path d="M 270 130 q 8 -12 0 -24"/>
+    <path d="M 388 130 q 8 -12 0 -24"/><path d="M 402 126 q 8 -12 0 -24"/><path d="M 416 130 q 8 -12 0 -24"/>
+  </g>
+
+  <text x="256" y="468" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">Every body breathes; every body belongs.</text>
+</svg>
