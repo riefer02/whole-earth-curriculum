@@ -4767,7 +4767,7 @@ items:
     type: lesson
     grade: 8
     domain: D02
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -4779,6 +4779,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1200 files, 0 errors); 10 lesson IDs L.08.003.01-.10 with sequence_in_unit 1-10 and objectives resolving only to the eight grade-8 D02 standards; unit/domain D02/pillar P1/strand/kind/grade fields complete; required headings present in all; 21 cited S-IDs resolve in sources.yaml; factual claims sourced (Ekman & Friesen S-160, Suler disinhibition S-343, Kropotkin S-163) and values distinguished; age-appropriate with non-shaming/no-disclosure notes; unit.md table (10 rows) matches; 10 SVGs exist. Example: L6 Connection 'a stereotype is a box... habits can be caught and questioned' faithful to D02.S2.08.02."
+      fact-checker:
+        verdict: passed
+        note: Verified Suler 2004 online disinhibition (S-343, DOI 10.1089/1094931041291295), Banaji & Greenwald 2013 Blindspot (S-344, ISBN 978-0553804645), Dean Spade 2020 Mutual Aid (S-345, ISBN 978-1839762123) as real/on-topic and marked reviewed:true; spot-checked Ekman & Friesen 1969 (S-160) nonverbal claims hedged correctly and Kropotkin 1902 (S-163); all unit sources registered; evidence vs values distinguished (esp. L9/L10 charity-vs-mutual-aid). validate green (1200 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Checked framing/representation across 10 lessons: no US/Euro default — L2 flags tone/eye contact/gesture/silence differ across cultures ('check, don't assume'); L3 names unequal digital access (shared village phone, 'text thread not everyone's default'); L4 holds Māori/First Nations circle practice + Ubuntu-rooted reconciliation side by side with Western mediation/NVC; L9 names harambee/gotong royong/mink'a-minga/barn-raising as living unranked traditions. Strengthened L10 global lens to name non-Western giving traditions (zakat/sadaqah, tzedakah, dāna/sevā). validate green (1200 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Verified all 10 lessons declare viable low-tech tier (voice/shared-surface/found-object/paper alternatives, no wealth or device assumption); all 10 assets: entries have non-empty alt text with resolving paths; fixed tone/body-language/digital-message exclusion by adding signed/written/tactile UDL alternatives so deaf/low-vision/non-speaking/AAC learners never required to produce a voice they don't use or read a face they can't see. validate green (1200 files)."
+      alignment-auditor:
+        verdict: passed
+        note: Verified all four lenses (ethics as moral reasoning on fairness/dignity/power-sharing; egalitarianism via 'who is left out' + anti-hierarchy facilitation/mutual-aid-over-charity; global via Māori/First Nations/Ubuntu circles + harambee/gotong royong/mink'a-minga/zakat/tzedakah/dāna unranked; tech+environment via digital-messages strand + access-to-resources analyses). Chain vision → P1 → D02 → S1-S4 → eight grade-8 D02 standards → U.08.003 → L.08.003.01-.10, objectives verbatim. Evidence vs values distinguished (Suler/Ekman/Kropotkin/Spade/World Bank/UNDP cited). Fixed frontmatter cross_cutting_lenses on all 10 lessons to declare technology lens (+environment on L7/L9). validate green (1200 files).
+      child-psychologist:
+        verdict: passed
+        note: Verified cognitive fit (perspective-taking, bias/stereotype questioning, structural power analysis scaffolded with concrete invented examples + simple four-step tools, matched to emerging formal operations); emotional safety (conflict/power/exclusion framed non-shamingly with agency, explicit 'invented only/no forced disclosure' notes in heavy lessons, closure on hope not despair); physical fit (circle/talking-piece, standing-in-place perspective, walking-the-place suited to 11-14 motor/social development); open-endedness (questions held as questions, facts vs values separated, charity/mutual-aid as 'starting lens not verdict'). validate green (1200 files).
   - id: B-362
     title: Author lessons for Unit U.08.004 (Reading, Writing, Argument & Many Languages)
     agent: lesson-author

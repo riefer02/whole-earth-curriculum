@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Questioning the stereotype</title>
+  <desc id="desc">A person drawn inside a narrow box labeled with a stereotype, with a question mark above it and a second, fuller drawing of the same person beside it, showing that questioning the label opens the box. Drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Questioning the stereotype</text>
+
+  <!-- left: person in a narrow box -->
+  <rect x="60" y="120" width="120" height="230" rx="10" fill="#e0a458" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="120" cy="168" r="20" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="120" y1="188" x2="120" y2="286" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="120" y1="216" x2="98" y2="246" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="120" y1="216" x2="142" y2="246" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="120" y1="286" x2="102" y2="330" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="120" y1="286" x2="138" y2="330" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="120" y="376" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">the label</text>
+  <text x="120" y="396" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(the stereotype)</text>
+
+  <!-- question mark above box -->
+  <text x="120" y="112" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#c0392b">?</text>
+
+  <!-- arrow to the right -->
+  <line x1="190" y1="230" x2="268" y2="230" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr2)"/>
+
+  <!-- right: fuller person, box opened -->
+  <circle cx="352" cy="200" r="26" fill="#c98a5e" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="352" y1="226" x2="352" y2="330" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="352" y1="256" x2="316" y2="292" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="352" y1="256" x2="388" y2="292" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="352" y1="330" x2="330" y2="378" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="352" y1="330" x2="374" y2="378" stroke="#2b3a42" stroke-width="2.5"/>
+  <!-- open box halves -->
+  <line x1="292" y1="120" x2="330" y2="120" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="414" y1="120" x2="372" y2="120" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="352" y="404" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">the real person</text>
+  <text x="352" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(who doesn't fit the box)</text>
+
+  <defs>
+    <marker id="arr2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Name the snap judgment. Name the stereotype behind it.</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Check the evidence. Find the counterexample that opens the box.</text>
+</svg>

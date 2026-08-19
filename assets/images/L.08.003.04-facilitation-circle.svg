@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The facilitation circle</title>
+  <desc id="desc">A circle of five seated figures around a central talking piece, with four labeled steps arranged around the outside — set the ground, hear every side, name needs, build agreement — drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Facilitating, not forcing</text>
+
+  <!-- five figures in a circle -->
+  <g>
+    <circle cx="256" cy="210" r="16" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="256" y1="226" x2="256" y2="252" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+  <g>
+    <circle cx="178" cy="232" r="16" fill="#c98a5e" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="178" y1="248" x2="178" y2="274" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+  <g>
+    <circle cx="334" cy="232" r="16" fill="#8a5a3a" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="334" y1="248" x2="334" y2="274" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+  <g>
+    <circle cx="150" cy="300" r="16" fill="#a06a3f" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="150" y1="316" x2="150" y2="342" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+  <g>
+    <circle cx="362" cy="300" r="16" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="362" y1="316" x2="362" y2="342" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+
+  <!-- talking piece at center -->
+  <circle cx="256" cy="272" r="14" fill="#e0a458" opacity="0.7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="277" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">talking</text>
+  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">piece</text>
+
+  <!-- four steps around -->
+  <rect x="20" y="60" width="130" height="48" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="85" y="80" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1 · set the</text>
+  <text x="85" y="98" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">ground</text>
+
+  <rect x="362" y="60" width="130" height="48" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="427" y="80" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">2 · hear</text>
+  <text x="427" y="98" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">every side</text>
+
+  <rect x="20" y="380" width="130" height="48" rx="10" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="85" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">3 · name</text>
+  <text x="85" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">needs</text>
+
+  <rect x="362" y="380" width="130" height="48" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="427" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">4 · build</text>
+  <text x="427" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">agreement</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">The facilitator stays neutral; the group owns the outcome.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A solution all can accept — not everyone got everything, but no one is left unable to live with it.</text>
+</svg>

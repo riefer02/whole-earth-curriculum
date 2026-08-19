@@ -37,7 +37,7 @@ assessment_plan: >-
   action, and a charity-versus-mutual-aid comparison as portfolio artifacts.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # Unit 3 — Relationships, Empathy & Conflict
@@ -66,3 +66,13 @@ difference.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Relationships, Empathy & Conflict: Where We've Been, Where We're Going | D02.S1.08.01, D02.S1.08.02, D02.S2.08.01, D02.S2.08.02, D02.S3.08.01, D02.S3.08.02, D02.S4.08.01, D02.S4.08.02 (preview) |
+| 2 | More Than Words: How Tone and Body Language Change Meaning | D02.S1.08.01 |
+| 3 | The Screen Between Us: How Digital Messages Change Meaning | D02.S1.08.01 |
+| 4 | Facilitating, Not Forcing: A Solution Everyone Can Accept | D02.S1.08.02 |
+| 5 | One Conflict, Many Sides: Taking Perspectives I Don't Share | D02.S2.08.01 |
+| 6 | Bias and Stereotype: Questioning What Blocks Empathy | D02.S2.08.02 |
+| 7 | Who Is Left Out? Power and Resources in a Community | D02.S3.08.01 |
+| 8 | Strengthening Belonging: A Real Action in My Community | D02.S3.08.02 |
+| 9 | Systems of Care and Mutual Aid: Fair and Unfair | D02.S4.08.01 |
+| 10 | Charity, Mutual Aid, Solidarity — and Our Capstone | D02.S4.08.02 (+ synthesis of all eight) |

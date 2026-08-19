@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The screen between us</title>
+  <desc id="desc">A phone screen showing the single word "whatever." with no tone or body visible, surrounded by three thought bubbles each asking a different possible meaning — agreement, anger, indifference — drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The screen between us</text>
+
+  <!-- phone -->
+  <rect x="196" y="150" width="120" height="230" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="206" y="162" width="100" height="206" rx="8" fill="#f2efe9" stroke="#4f6d7a" stroke-width="1.5"/>
+  <circle cx="256" cy="188" r="6" fill="#2b3a42"/>
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">"whatever."</text>
+  <line x1="222" y1="298" x2="290" y2="298" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">no tone, no face,</text>
+  <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">no instant reply</text>
+  <rect x="234" y="356" width="44" height="8" rx="4" fill="#2b3a42"/>
+
+  <!-- thought bubbles: three possible meanings -->
+  <!-- left -->
+  <circle cx="96" cy="120" r="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="78" cy="96" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="34" y="52" width="118" height="34" rx="17" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="93" y="73" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">"okay, sure"</text>
+
+  <!-- top right -->
+  <circle cx="410" cy="92" r="8" fill="#c0392b" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="428" cy="68" r="6" fill="#c0392b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="352" y="36" width="124" height="34" rx="17" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="414" y="57" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">"I'm angry"</text>
+
+  <!-- bottom right -->
+  <circle cx="416" cy="250" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="434" cy="226" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="352" y="196" width="136" height="34" rx="17" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="217" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">"I don't care"</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">The cues are gone — so check, don't guess.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"What did you mean by that?" is stronger than assuming.</text>
+</svg>

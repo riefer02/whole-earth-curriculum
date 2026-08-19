@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Systems of care — fair and unfair</title>
+  <desc id="desc">A diagram of a care system showing arrows between "people with a need", "people with something to give", and "who decides", with a fairness checklist beside it asking about access, dignity, and who is included, drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A system of care</text>
+
+  <!-- three nodes -->
+  <rect x="60" y="150" width="130" height="60" rx="10" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="125" y="176" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">people with</text>
+  <text x="125" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">a need</text>
+
+  <rect x="60" y="280" width="130" height="60" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="125" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">people with</text>
+  <text x="125" y="326" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">something to give</text>
+
+  <rect x="60" y="410" width="130" height="60" rx="10" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="125" y="436" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">who decides?</text>
+  <text x="125" y="456" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">(the served, or only the givers?)</text>
+
+  <!-- two-way arrows -->
+  <line x1="120" y1="210" x2="120" y2="278" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr6)"/>
+  <line x1="135" y1="278" x2="135" y2="212" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr6)"/>
+  <line x1="120" y1="340" x2="120" y2="408" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr6)"/>
+  <line x1="135" y1="408" x2="135" y2="342" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr6)"/>
+
+  <!-- fairness checklist -->
+  <rect x="252" y="130" width="240" height="220" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="372" y="158" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">the fairness checklist</text>
+  <text x="272" y="194" font-family="sans-serif" font-size="15" fill="#2b3a42">access — can everyone</text>
+  <text x="276" y="214" font-family="sans-serif" font-size="15" fill="#2b3a42">who needs it reach it?</text>
+  <text x="272" y="246" font-family="sans-serif" font-size="15" fill="#2b3a42">dignity — are people treated</text>
+  <text x="276" y="266" font-family="sans-serif" font-size="15" fill="#2b3a42">as equals, not shamed?</text>
+  <text x="272" y="298" font-family="sans-serif" font-size="15" fill="#2b3a42">inclusion — do the people</text>
+  <text x="276" y="318" font-family="sans-serif" font-size="15" fill="#2b3a42">served have a say?</text>
+
+  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Mutual aid: people meet one another's needs together,</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">as equals — sharing the giving and the deciding.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The fairest care shares not only the goods but the power — and the dignity.</text>
+
+  <defs>
+    <marker id="arr6" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+</svg>

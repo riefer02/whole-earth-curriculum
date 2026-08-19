@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Charity vs mutual aid</title>
+  <desc id="desc">A two-panel comparison. Left panel: charity — a one-way arrow from one standing figure above down to a seated receiver below, with the giver deciding. Right panel: mutual aid — a circle of equal figures with two-way arrows of giving and receiving. Drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Charity — and mutual aid</text>
+
+  <!-- left panel: charity -->
+  <rect x="20" y="66" width="226" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="133" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">charity</text>
+
+  <!-- giver standing above -->
+  <circle cx="133" cy="150" r="18" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="133" y1="168" x2="133" y2="220" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="133" y1="188" x2="114" y2="214" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="133" y1="188" x2="152" y2="214" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- one-way arrow down -->
+  <line x1="133" y1="250" x2="133" y2="330" stroke="#2b3a42" stroke-width="3" marker-end="url(#arrD)"/>
+
+  <!-- receiver seated below -->
+  <circle cx="133" cy="366" r="18" fill="#c98a5e" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="133" y1="384" x2="133" y2="412" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="100" y1="396" x2="166" y2="396" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <text x="133" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">one-way gift; the giver</text>
+  <text x="133" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">keeps the power and decides</text>
+
+  <!-- right panel: mutual aid -->
+  <rect x="266" y="66" width="226" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="379" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">mutual aid</text>
+
+  <!-- circle of equals -->
+  <circle cx="379" cy="200" r="17" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="379" y1="217" x2="379" y2="248" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="322" cy="250" r="17" fill="#c98a5e" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="322" y1="267" x2="322" y2="298" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="436" cy="250" r="17" fill="#8a5a3a" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="436" y1="267" x2="436" y2="298" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="379" cy="318" r="17" fill="#a06a3f" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="379" y1="335" x2="379" y2="366" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- two-way arrows among them -->
+  <line x1="362" y1="212" x2="336" y2="240" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrM)"/>
+  <line x1="396" y1="212" x2="422" y2="240" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrM)"/>
+  <line x1="340" y1="264" x2="362" y2="304" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrM)"/>
+  <line x1="418" y1="264" x2="396" y2="304" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrM)"/>
+  <line x1="326" y1="256" x2="432" y2="256" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <text x="379" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">reciprocity among equals;</text>
+  <text x="379" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">power and dignity are shared</text>
+
+  <defs>
+    <marker id="arrD" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+    <marker id="arrM" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Both help — but only one also shares the power.</text>
+</svg>

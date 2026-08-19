@@ -3190,3 +3190,34 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "UNESCO's revised International Charter (2015) states that the practice of physical education, physical activity and sport is a fundamental right for all, and that opportunities must be inclusive and accessible to every person regardless of ability, background, or other status. URL verified live (2026-08-18): the page confirms Article 1 — 'The practice of physical education, physical activity and sport is a fundamental right for all' — and that the revised Charter 'promotes inclusive access to sport by all without any form of discrimination', adopted at UNESCO's 38th General Conference (November 2015). Cited in Grade-8 lesson L.08.002.06 (D03.S2.08.02) as the egalitarian frame for fair play and inclusive movement."
+
+  - id: S-343
+    title: "Suler (2004) — The Online Disinhibition Effect"
+    type: article
+    author: John Suler
+    organization: CyberPsychology & Behavior
+    year: 2004
+    url: https://doi.org/10.1089/1094931041291295
+    domains: [D02]
+    reviewed: true
+    notes: "Suler, J. (2004). The Online Disinhibition Effect. CyberPsychology & Behavior, 7(3), 321–326. DOI 10.1089/1094931041291295 verified (CyberPsychology & Behavior is Mary Ann Liebert, Inc.). Real, foundational, correctly attributed article on how online communication, with its reduced social cues (no tone, no face, often no immediate reply), both loosens self-restraint ('disinhibition') and makes messages easier to misread. Cited in Grade-8 lesson L.08.003.03 (D02.S1.08.01) for the claim that digital messages remove the tone and body cues that carry meaning and can loosen self-restraint, so misreading is common and checking is a skill — on-topic and not overstated (the lesson hedges 'reduced-cues' and 'can loosen,' matching Suler's framing). Verified by fact-checker 2026-08-18."
+
+  - id: S-344
+    title: "Banaji & Greenwald (2013) — Blindspot: Hidden Biases of Good People"
+    type: book
+    author: Mahzarin R. Banaji & Anthony G. Greenwald
+    organization: Delacorte Press
+    year: 2013
+    domains: [D02]
+    reviewed: true
+    notes: "Banaji, M. R., & Greenwald, A. G. (2013). Blindspot: Hidden Biases of Good People. New York: Delacorte Press. Real, well-known book (ISBN 978-0553804645); Banaji & Greenwald are the Harvard/U. Washington researchers behind the Implicit Association Test. Foundational, accessible account of implicit (automatic) bias — the idea that bias often operates below conscious awareness, shaped by the culture one is surrounded by, and can be caught and questioned rather than pretended away. Cited in Grade-8 lesson L.08.003.06 (D02.S2.08.02) for the claim that bias is often automatic, not deliberate, and therefore something to recognize and question — accurate and on-topic. The lesson holds 'reducing a person to a label is wrong' as a values commitment, distinct from the factual claim about automatic bias. Verified by fact-checker 2026-08-18."
+
+  - id: S-345
+    title: "Dean Spade (2020) — Mutual Aid: Building Solidarity During This Crisis (and the Next)"
+    type: book
+    author: Dean Spade
+    organization: Verso
+    year: 2020
+    domains: [D02]
+    reviewed: true
+    notes: "Spade, D. (2020). Mutual Aid: Building Solidarity During This Crisis (and the Next). London: Verso (ISBN 978-1839762123). Real, widely read book (Dean Spade is a law professor and trans-rights/mutual-aid organizer); accurately distinguishes charity — a one-way gift in which the giver keeps the power and the receiver stays passive and often must prove need — from mutual aid and solidarity, in which people meet one another's needs together as equals, sharing both the giving and the deciding. Cited in Grade-8 lesson L.08.003.10 (D02.S4.08.02) for the charity-versus-mutual-aid distinction — accurate and on-topic. The lesson holds 'sharing power is better than only sharing goods' as a values commitment, distinct from the descriptive distinction, and explicitly says the difference is not 'charity is bad.' Verified by fact-checker 2026-08-18."

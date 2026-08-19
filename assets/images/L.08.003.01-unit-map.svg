@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit map — four strands around living well together</title>
+  <desc id="desc">A central circle labeled "Living Well Together" with four strands arranged around it — Meaning in Communication, Empathy and Perspective, Belonging and Power, and Care and Mutual Aid — connected by lines, drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Relationships, Empathy &amp; Conflict</text>
+
+  <!-- central circle -->
+  <circle cx="256" cy="256" r="86" fill="#7a9e7e" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">living well</text>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">together</text>
+
+  <!-- connecting lines -->
+  <line x1="256" y1="170" x2="256" y2="96" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="342" y1="256" x2="416" y2="256" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="342" x2="256" y2="416" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="170" y1="256" x2="96" y2="256" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- top strand -->
+  <rect x="116" y="60" width="280" height="44" rx="10" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="87" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Meaning in Communication</text>
+
+  <!-- right strand -->
+  <rect x="350" y="216" width="140" height="80" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="420" y="248" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Empathy &amp;</text>
+  <text x="420" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Perspective</text>
+
+  <!-- bottom strand -->
+  <rect x="116" y="408" width="280" height="44" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="435" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Care &amp; Mutual Aid</text>
+
+  <!-- left strand -->
+  <rect x="22" y="216" width="140" height="80" rx="10" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="92" y="248" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Belonging &amp;</text>
+  <text x="92" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Power</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Four ways of looking at one thing: how humans get along.</text>
+</svg>

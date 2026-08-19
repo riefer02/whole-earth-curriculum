@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Who is left out?</title>
+  <desc id="desc">A large circle labeled "community" with a pie of resources divided unevenly among three figures inside, and a fourth figure outside the circle, with an arrow asking "who is left out?" Drawn simply for grayscale printing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Who is left out?</text>
+
+  <!-- community circle -->
+  <circle cx="226" cy="280" r="150" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="8 6"/>
+
+  <!-- resource pie inside, uneven -->
+  <path d="M226 280 L226 160 A120 120 0 0 1 330 200 Z" fill="#e0a458" opacity="0.6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M226 280 L330 200 A120 120 0 0 1 300 384 Z" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M226 280 L300 384 A120 120 0 0 1 226 400 Z" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="226" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">resources</text>
+
+  <!-- three figures inside -->
+  <g>
+    <circle cx="252" cy="232" r="14" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="252" y1="246" x2="252" y2="268" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+  <g>
+    <circle cx="196" cy="318" r="14" fill="#c98a5e" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="196" y1="332" x2="196" y2="354" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+  <g>
+    <circle cx="302" cy="332" r="14" fill="#8a5a3a" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="302" y1="346" x2="302" y2="368" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+
+  <!-- fourth figure outside -->
+  <circle cx="432" cy="292" r="16" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="432" y1="308" x2="432" y2="336" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="432" y1="322" x2="414" y2="352" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="432" y1="322" x2="450" y2="352" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- arrow / label to the outside figure -->
+  <line x1="384" y1="300" x2="414" y2="296" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr4)"/>
+  <text x="400" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#c0392b">who is left out?</text>
+
+  <defs>
+    <marker id="arr4" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Who decides? Who receives? Who is not at the table? Why?</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The "why" is usually a structure, not a person.</text>
+</svg>
