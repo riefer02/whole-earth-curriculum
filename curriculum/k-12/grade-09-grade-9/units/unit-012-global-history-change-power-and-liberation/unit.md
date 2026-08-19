@@ -74,3 +74,13 @@ accuracy, and questions are held as questions.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | The Long Story, Told from Many Voices | D08.S1.09.01 |
+| 2 | Continuity & Change: Long-Distance Trade | D08.S1.09.01 |
+| 3 | Continuity & Change: The Growth of Cities | D08.S1.09.01 |
+| 4 | Knowledge Traditions: Suppressed, Preserved, Revived | D08.S2.09.01 |
+| 5 | When Cultures Mix: New Traditions, New Identities | D08.S2.09.02 |
+| 6 | Societies & Their Environments Over Deep Time | D08.S3.09.01 |
+| 7 | The Transatlantic Slave Trade & Forced Migration | D08.S3.09.02 |
+| 8 | Colonialism & Empire as Systems of Power | D08.S4.09.01 |
+| 9 | Anti-Colonial Movements: Struggles for Liberation | D08.S4.09.01, D08.S4.09.02 |
+| 10 | Freedom & Dignity: Ideas That Travel — and the Story Continues | D08.S4.09.02 |

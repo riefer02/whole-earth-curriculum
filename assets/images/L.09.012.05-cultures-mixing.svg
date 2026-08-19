@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">When cultures mix, something new grows</title>
+  <desc id="desc">Two streams flowing in from the left, one labeled one people one language, the other labeled another people another language, meet and flow together into a single wider river labeled a new language and tradition. A small tree grows beside the river.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">When Cultures Mix, Something New Grows</text>
+
+  <!-- stream 1 -->
+  <path d="M60 150 q40 8 90 6 q50 -2 110 12" fill="none" stroke="#6b93b6" stroke-width="10" stroke-linecap="round"/>
+  <text x="70" y="128" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">one people, one language</text>
+
+  <!-- stream 2 -->
+  <path d="M60 230 q40 -8 90 -6 q50 2 110 -12" fill="none" stroke="#e0a458" stroke-width="10" stroke-linecap="round"/>
+  <text x="70" y="262" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">another people, another language</text>
+
+  <!-- merged river -->
+  <path d="M270 188 q60 4 120 2 q60 -2 112 -4" fill="none" stroke="#7a9e7e" stroke-width="18" stroke-linecap="round"/>
+  <text x="400" y="158" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">a new language,</text>
+  <text x="400" y="176" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">food, and tradition</text>
+
+  <!-- meeting point -->
+  <circle cx="268" cy="188" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="268" cy="188" r="5" fill="#7a9e7e"/>
+
+  <!-- tree -->
+  <rect x="330" y="300" width="10" height="40" rx="3" fill="#2b3a42"/>
+  <circle cx="335" cy="292" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="320" cy="286" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Mixing is creative — it is not loss</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">New languages, foods, musics, and identities grow</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">where peoples meet — often through trade and migration</text>
+</svg>

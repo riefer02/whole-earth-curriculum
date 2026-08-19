@@ -4395,3 +4395,102 @@ sources:
     domains: [D09]
     reviewed: false
     notes: "Cited in U.09.011 L03 (the duties lens) as the reference for the claim that Hindu and Buddhist accounts of dharma are duty-based. Dharma is the key concept of duty, righteousness, and moral law in Hinduism and Buddhism (and Jainism/Sikhism). URL returns 403 to automated clients (bot protection) but is a real, canonical Britannica entry — consistent with other registry entries that note 403s. Registered by the alignment-auditor to close the evidence-vs-values gap flagged by the global-culture-editor; pending fact-checker verification (reviewed:false)."
+
+  - id: S-470
+    title: "The Metropolitan Museum of Art — The Trans-Saharan Gold Trade (7th–14th Century)"
+    type: website
+    url: https://www.metmuseum.org/toah/hd/gold/hd_gold.htm
+    organization: The Metropolitan Museum of Art (Heilbrunn Timeline of Art History)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L02 (Continuity & Change: Long-Distance Trade) for the trans-Saharan network of camel caravans that traded gold for salt across the desert and fed cities such as Timbuktu. URL corrected during fact-check (2026-08-19): the originally-registered https://www.britannica.com/topic/trans-Saharan-trade returns 404 (Britannica has no dedicated article under that slug; the topic lives within its 'Sahara', 'Western Africa', and 'Islamic world' articles). Replaced with the Metropolitan Museum of Art Heilbrunn Timeline essay 'The Trans-Saharan Gold Trade (7th–14th Century)', verified live (2026-08-19): states verbatim that 'Gold, sought from the western and central Sudan, was the main commodity of the trans-Saharan trade', that trans-Saharan trade 'linked the Mediterranean economies that demanded gold—and could supply salt—to the sub-Saharan economies, where gold was abundant', and that Berber-speaking camel caravans crossed the Sahara; it also discusses Timbuktu (via Leo Africanus). Directly supports the lesson's gold-for-salt, camel-caravan, Timbuktu-linked claim."
+
+  - id: S-471
+    title: "UNESCO World Heritage Centre — Angkor (Dossier 668)"
+    type: website
+    url: https://whc.unesco.org/en/list/668/
+    organization: UNESCO World Heritage Centre
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L03 (growth of cities) and L06 (societies and environments) for Angkor as a Khmer city of the 9th–15th centuries CE whose vast water system of reservoirs and canals managed the monsoons, and for the debated, multi-causal nature of its decline. Fact-checker verified live (2026-08-19): Dossier 668 ('Angkor', Cambodia, inscribed 1992, criteria i/ii/iii/iv) states Angkor contains 'the magnificent remains of the different capitals of the Khmer Empire, from the 9th to the 15th century', and its Brief synthesis describes 'hydraulic structures (basins, dykes, reservoirs, canals)' and 'large water reservoirs' — directly supporting the lesson's 9th–15th c. dating and water-system claim."
+
+  - id: S-472
+    title: "UNESCO World Heritage Centre — Cahokia Mounds State Historic Site (Dossier 198)"
+    type: website
+    url: https://whc.unesco.org/en/list/198/
+    organization: UNESCO World Heritage Centre
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L03 (growth of cities) for Cahokia as a Mississippian city near the Mississippi River, ~1050–1350 CE, built around earth mounds. Fact-checker verified live (2026-08-19): Dossier 198bis ('Cahokia Mounds State Historic Site', United States, inscribed 1982) is the largest pre-Columbian settlement north of Mexico, near St Louis on the Mississippi; UNESCO dates the Mississippian culture at the site to 800–1350, with a 10,000–20,000 peak population at 1050–1150, and describes ~120 mounds including Monks Mound. The lesson's '~1050–1350 CE' is an accurate, appropriately hedged rendering of Cahokia's Mississippian-period florescence."
+
+  - id: S-473
+    title: "Encyclopaedia Britannica — quipu (khipu)"
+    type: website
+    url: https://www.britannica.com/topic/quipu
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L04 (knowledge traditions suppressed, preserved, revived) for the Andean khipu (quipu), the knotted-cord record-keeping system used by the Inka and their predecessors to record numbers and information, suppressed as a system under Spanish colonial administration, and now the subject of careful study and community revival. Fact-checker verified live (2026-08-19): Britannica's 'quipu' article ('Quipu | Definition, Knots, Inca, Significance, & Facts', also known as khipu/quipo) documents the quipu as an Incan counting/recording tool used for statistical information such as taxes, census data, and storehouse inventories, with knots on pendant cords indicating decimal values — directly supporting the lesson's knotted-cord numeric-recording claim."
+
+  - id: S-474
+    title: "Encyclopaedia Britannica — Dresden Codex"
+    type: website
+    url: https://www.britannica.com/topic/Dresden-Codex
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L04 (knowledge traditions suppressed, preserved, revived) for the claim that Spanish colonial authorities destroyed most Maya bark-paper codices and that only a few survive — among them the Dresden Codex, notable for its astronomical tables — while Maya peoples still speak their languages and scholars and communities now study and revive Maya mathematics and astronomy. Fact-checker verified live (2026-08-19): Britannica's 'Dresden Codex' article ('Dresden Codex | Mayan, Astronomy, Venus, Calendrics, & Hieroglyphs') describes it as 'a pre-Columbian book of astronomical data written in Maya glyphs' and covers its Venus/calendrics tables. Standard, well-documented Maya history (cf. S-378, already reviewed)."
+
+  - id: S-475
+    title: "Encyclopaedia Britannica — Haitian Creole language"
+    type: website
+    url: https://www.britannica.com/topic/Haitian-Creole
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L05 (when cultures mix) for the claim that Haitian Creole is a full language born of contact between enslaved Africans and French colonists on the island that became Haiti, now spoken by millions, and that it is not a broken version of French. Fact-checker verified live (2026-08-19): Britannica's 'Haitian Creole' article ('Haitian Creole | Caribbean, French-based & Creole') documents it as a French-based creole language of the Caribbean/Haiti. Standard, well-documented sociolinguistic history."
+
+  - id: S-476
+    title: "Encyclopaedia Britannica — Palmares (quilombo)"
+    type: website
+    url: https://www.britannica.com/topic/Palmares
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L07 (transatlantic slave trade and forced migration) for the claim that enslaved people resisted — through revolt, refusal, and escape — and built free communities called quilombos or maroon settlements, such as Palmares in Brazil. Fact-checker verified live (2026-08-19): Britannica's 'Palmares' article ('Palmares | Portuguese Colony, Quilombo, Afro-Brazilian', historical republic, Brazil) documents Palmares as a quilombo (maroon) community of escaped enslaved people in Brazil. Standard, well-documented history."
+
+  - id: S-477
+    title: "Encyclopaedia Britannica — Berlin West Africa Conference"
+    type: website
+    url: https://www.britannica.com/event/Berlin-West-Africa-Conference
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L08 (colonialism and empire as systems of power) for the claim that at the Berlin Conference of 1884–85 European powers drew colonial borders in Africa without Africans present. Fact-checker verified live (2026-08-19): Britannica's 'Berlin Conference' article (slug /event/Berlin-West-Africa-Conference; title 'Berlin Conference | 1884, Result, Summary, & Impact on Africa', also known as 'Berlin West Africa Conference') documents the 1884–85 conference and its partition of Africa. Standard, well-documented history."
+
+  - id: S-478
+    title: "Encyclopaedia Britannica — Algerian War"
+    type: website
+    url: https://www.britannica.com/event/Algerian-War
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L09 (anti-colonial movements) for the claim that Algeria's war of independence (1954–1962), led by the FLN, was an armed struggle against French rule after 132 years, ending in Algerian independence. Fact-checker verified live (2026-08-19): Britannica's 'Algerian War' article ('Algerian War of Independence | Brief Summary', also known as 'Algerian War of Independence') documents the 1954–1962 FLN-led war against French rule and Algerian independence. The '132 years' figure reflects French rule from the 1830 invasion to 1962 — standard, well-documented history."
+
+  - id: S-479
+    title: "Encyclopaedia Britannica — abolitionism"
+    type: website
+    url: https://www.britannica.com/topic/abolitionism-European-and-American-social-movement
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L10 (freedom and dignity: ideas that travel) for the movement to end slavery, for which the Haitian Revolution (1791–1804) was a world-changing turning point, followed by abolition across the 1800s. URL corrected during fact-check (2026-08-19): the originally-registered https://www.britannica.com/topic/abolitionism returns 404; the live article is at /topic/abolitionism-European-and-American-social-movement (title 'Abolitionism | Movement, U.S. History, Leaders, & Definition', verified live 2026-08-19). The article documents the origins and spread of the abolition movement. Note it is Western/Atlantic-focused; the lesson's global 'abolition across the 1800s' framing is additionally anchored by the Haitian Revolution source (S-384) and is standard, well-documented history."
+
+  - id: S-480
+    title: "Encyclopaedia Britannica — apartheid"
+    type: website
+    url: https://www.britannica.com/topic/apartheid
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in U.09.012 L10 (freedom and dignity: ideas that travel) for the claim that apartheid, South Africa's system of legal racial segregation, was ended in 1994 by a struggle waged within South Africa and worldwide. Fact-checker verified live (2026-08-19): Britannica's 'apartheid' article ('Apartheid | South Africa, Laws, Definition, Facts, History, Beginning, & End') includes a section 'The end of legislated apartheid', documenting the 1994 end of legal racial segregation. Standard, well-documented history."

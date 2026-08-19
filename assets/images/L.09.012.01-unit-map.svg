@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit map: four strands of global history</title>
+  <desc id="desc">A map of the unit showing four boxes labeled time change and continuity, world cultures and knowledge traditions, human geography and migration, and power resistance and liberation, arranged around a center badge reading change, power, liberation.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Global History: Four Strands</text>
+
+  <!-- center badge -->
+  <ellipse cx="256" cy="256" rx="96" ry="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="251" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">change · power</text>
+  <text x="256" y="271" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">· liberation</text>
+
+  <!-- strand 1 -->
+  <rect x="34" y="82" width="150" height="122" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="58" cy="104" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="74" y="109" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Time, Change &amp;</text>
+  <text x="74" y="124" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Continuity</text>
+  <text x="44" y="148" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· trace one process</text>
+  <text x="44" y="166" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· across regions &amp;</text>
+  <text x="44" y="184" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  centuries</text>
+
+  <!-- strand 2 -->
+  <rect x="328" y="82" width="150" height="122" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="352" cy="104" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="368" y="109" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">World Cultures &amp;</text>
+  <text x="368" y="124" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Knowledge</text>
+  <text x="338" y="148" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· knowledge lost &amp;</text>
+  <text x="338" y="166" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  revived</text>
+  <text x="338" y="184" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· cultures mixing</text>
+
+  <!-- strand 3 -->
+  <rect x="34" y="312" width="150" height="122" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="58" cy="334" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="74" y="339" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Geography &amp;</text>
+  <text x="74" y="354" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Migration</text>
+  <text x="44" y="378" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· people &amp; their</text>
+  <text x="44" y="396" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  environments</text>
+  <text x="44" y="414" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· forced movement</text>
+
+  <!-- strand 4 -->
+  <rect x="328" y="312" width="150" height="122" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="352" cy="334" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="368" y="339" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Power, Resistance</text>
+  <text x="368" y="354" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">&amp; Liberation</text>
+  <text x="338" y="378" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· empire as a system</text>
+  <text x="338" y="396" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· anti-colonial</text>
+  <text x="338" y="414" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  movements</text>
+
+  <path d="M184 143 L256 216" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M328 143 L256 216" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M184 373 L256 296" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M328 373 L256 296" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">One long human story, told from many voices</text>
+</svg>

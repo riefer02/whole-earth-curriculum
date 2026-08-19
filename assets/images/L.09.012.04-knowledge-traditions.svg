@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Knowledge traditions: suppressed, preserved, revived</title>
+  <desc id="desc">A three-step path. First panel: a knowledge tradition is suppressed, shown with a crossed-out scroll. Second panel: the tradition is preserved, shown with hands holding a scroll. Third panel: the tradition is revived, shown with an open book. Arrows connect the three steps.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A Knowledge Tradition: Suppressed, Preserved, Revived</text>
+
+  <!-- suppress panel -->
+  <rect x="30" y="78" width="130" height="230" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="95" y="104" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">1 · Suppressed</text>
+  <rect x="58" y="128" width="74" height="50" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="66" y1="166" x2="124" y2="140" stroke="#2b3a42" stroke-width="3"/>
+  <text x="95" y="204" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">conquest, law, or</text>
+  <text x="95" y="220" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">schooling pushes it</text>
+  <text x="95" y="236" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">underground</text>
+
+  <!-- arrow 1 -->
+  <path d="M172 193 L206 193" fill="none" stroke="#e0a458" stroke-width="3" marker-end="url(#a1)"/>
+  <defs>
+    <marker id="a1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/>
+    </marker>
+  </defs>
+
+  <!-- preserve panel -->
+  <rect x="212" y="78" width="130" height="230" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="277" y="104" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">2 · Preserved</text>
+  <rect x="240" y="128" width="74" height="50" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="140" r="7" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="298" cy="140" r="7" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="277" y="204" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">families, elders, and</text>
+  <text x="277" y="220" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">communities keep it</text>
+  <text x="277" y="236" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">alive in hiding</text>
+
+  <!-- arrow 2 -->
+  <path d="M354 193 L388 193" fill="none" stroke="#e0a458" stroke-width="3" marker-end="url(#a2)"/>
+  <defs>
+    <marker id="a2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/>
+    </marker>
+  </defs>
+
+  <!-- revive panel -->
+  <rect x="394" y="78" width="88" height="230" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="438" y="104" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">3 · Revived</text>
+  <path d="M410 138 q14 -18 28 0 q14 18 28 0" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+  <path d="M410 138 q14 18 28 0 q14 -18 28 0" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="438" y="204" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">studied, taught,</text>
+  <text x="438" y="220" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">and shared</text>
+  <text x="438" y="236" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">openly again</text>
+
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Suppression is real — but knowledge survives in people</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">The keepers are often families, elders, and communities,</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">passing the tradition hand to hand until it can be told again</text>
+</svg>

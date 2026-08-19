@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ideas of freedom and dignity travel</title>
+  <desc id="desc">A central flame labeled freedom and dignity, with four rays reaching outward to labels: abolition of slavery, universal human rights, pan-African unity, and the end of apartheid. A note says ideas travel with people, books, and struggle.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Ideas of Freedom &amp; Dignity Travel</text>
+
+  <!-- flame center -->
+  <circle cx="256" cy="256" r="58" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 220 q12 -14 0 -26 q-12 12 0 26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 226 q16 -12 0 -22 q-16 10 0 22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">freedom</text>
+  <text x="256" y="312" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">dignity</text>
+
+  <!-- ray 1: abolition -->
+  <line x1="256" y1="200" x2="110" y2="90" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="30" y="60" width="110" height="54" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="85" y="82" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">abolition</text>
+  <text x="85" y="100" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">end of slavery</text>
+
+  <!-- ray 2: human rights -->
+  <line x1="256" y1="200" x2="402" y2="90" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="372" y="60" width="110" height="54" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="427" y="82" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">human rights</text>
+  <text x="427" y="100" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">universal dignity</text>
+
+  <!-- ray 3: pan-African -->
+  <line x1="256" y1="314" x2="110" y2="430" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="30" y="404" width="110" height="54" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="85" y="426" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">pan-African</text>
+  <text x="85" y="444" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">unity across lands</text>
+
+  <!-- ray 4: apartheid -->
+  <line x1="256" y1="314" x2="402" y2="430" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="372" y="404" width="110" height="54" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="427" y="426" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">anti-apartheid</text>
+  <text x="427" y="444" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">end of legal racism</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Ideas travel with people, books, and struggle — and are never finished</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Colonialism and empire as a system of power</title>
+  <desc id="desc">A diagram of three layers. The top layer is individual actions, the middle layer is rules and laws, and the bottom layer is structures and beliefs. Together they form a system of power. A note says systems are more than single events.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A System of Power: Layers, Not Just Events</text>
+
+  <!-- actions -->
+  <rect x="60" y="80" width="392" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="86" cy="106" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="104" y="111" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Individual actions</text>
+  <text x="80" y="138" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">taking land · forcing labor · punishing languages</text>
+  <text x="80" y="158" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">· extracting gold, rubber, and people</text>
+
+  <!-- rules -->
+  <rect x="60" y="194" width="392" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="86" cy="220" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="104" y="225" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Rules and laws</text>
+  <text x="80" y="252" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">colonial borders drawn far away · taxes · forced labor</text>
+  <text x="80" y="272" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">codes · school rules against home languages</text>
+
+  <!-- structures -->
+  <rect x="60" y="308" width="392" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="86" cy="334" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="104" y="339" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Structures and beliefs</text>
+  <text x="80" y="366" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">the idea that some peoples are "lesser" · an economy</text>
+  <text x="80" y="386" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">built to send wealth to the colonizer</text>
+
+  <!-- down arrows -->
+  <line x1="256" y1="176" x2="256" y2="194" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="290" x2="256" y2="308" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">A system is more than one cruel act</text>
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">It is actions, rules, and beliefs working together —</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">which is why undoing it took movements, not just speeches</text>
+</svg>

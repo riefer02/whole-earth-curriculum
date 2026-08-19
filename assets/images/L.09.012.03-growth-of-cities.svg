@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The growth of cities across regions and centuries</title>
+  <desc id="desc">Five city cards arranged across time: Mohenjo-daro of the Indus Valley, Cahokia of the Mississippi, Great Zimbabwe of the Shona, Angkor of the Khmer, and Timbuktu of Mali, with a note on what cities kept in common and what changed.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Cities Across Regions &amp; Centuries</text>
+
+  <!-- timeline arrow -->
+  <line x1="36" y1="120" x2="476" y2="120" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a long thread of city-building</text>
+
+  <!-- Mohenjo-daro -->
+  <rect x="30" y="138" width="82" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="71" cy="162" r="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="71" y="186" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">Mohenjo-daro</text>
+  <text x="71" y="202" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">Indus Valley</text>
+  <text x="71" y="218" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">~2600–1900 BCE</text>
+  <text x="71" y="240" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">grid streets,</text>
+  <text x="71" y="254" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">drainage</text>
+
+  <!-- Cahokia -->
+  <rect x="122" y="138" width="82" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="163" cy="162" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="163" y="186" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">Cahokia</text>
+  <text x="163" y="202" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">Mississippi</text>
+  <text x="163" y="218" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">~1050–1350 CE</text>
+  <text x="163" y="240" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">earth mounds,</text>
+  <text x="163" y="254" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">corn fields</text>
+
+  <!-- Great Zimbabwe -->
+  <rect x="214" y="138" width="82" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="255" cy="162" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="255" y="186" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">Great Zimbabwe</text>
+  <text x="255" y="202" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">Shona</text>
+  <text x="255" y="218" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">11th–15th c. CE</text>
+  <text x="255" y="240" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">stone walls,</text>
+  <text x="255" y="254" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">gold trade</text>
+
+  <!-- Angkor -->
+  <rect x="306" y="138" width="82" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="347" cy="162" r="8" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="347" y="186" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">Angkor</text>
+  <text x="347" y="202" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">Khmer</text>
+  <text x="347" y="218" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">9th–15th c. CE</text>
+  <text x="347" y="240" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">water temples,</text>
+  <text x="347" y="254" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">reservoirs</text>
+
+  <!-- Timbuktu -->
+  <rect x="398" y="138" width="82" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="439" cy="162" r="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="439" y="186" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">Timbuktu</text>
+  <text x="439" y="202" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">Mali</text>
+  <text x="439" y="218" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">15th–16th c. CE</text>
+  <text x="439" y="240" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">mosques,</text>
+  <text x="439" y="254" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">manuscripts</text>
+
+  <!-- common vs changed -->
+  <rect x="30" y="306" width="452" height="172" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Cities keep a common thread — and change</text>
+  <text x="46" y="360" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">STAYED: cities grew at rivers, ports, and trade routes;</text>
+  <text x="46" y="378" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">people met to trade, pray, govern, and learn</text>
+  <text x="46" y="406" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">CHANGED: each city found its own form — stone, earth,</text>
+  <text x="46" y="424" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">or water — and each rose and fell in its own time</text>
+</svg>

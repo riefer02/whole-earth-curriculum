@@ -5470,7 +5470,7 @@ items:
     type: lesson
     grade: 9
     domain: D08
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5482,6 +5482,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1389 files). 10 lessons L.09.012.01-.10, sequence 1-10 no gaps; objectives resolve only to seven grade-9 D08 IDs (D08.S1.09.01, S2.09.01/.02, S3.09.01/.02, S4.09.01/.02); unit.md 10 rows matching; scope lesson_count=10; 10 SVGs + alt/title/desc. Observation: L7 centers resistance (quilombos/Palmares) alongside slave-trade scale; L8 frames empire as global (Ottoman/Mughal/Qing/Inka) non-Eurocentric; 33 S-codes resolve. L9 anti-colonial objective D08.S4.09.01 tied to Haiti/Aba Women's War/Salt March/Algeria/Ghana."
+      fact-checker:
+        verdict: passed
+        note: Verified slave-trade figures (S-322), five anti-colonial movement dates/strategies (S-384/S-390/S-276/S-478/S-209), city/water-system datings (S-471/S-472); fixed two broken registry URLs (S-470 trans-Saharan -> Met Museum, S-479 abolitionism -> correct Britannica slug) and marked S-470-S-480 reviewed:true.
+      global-culture-editor:
+        verdict: passed
+        note: "Global framing verified: regional spread spans South Asia (Mohenjo-daro), Indigenous North America (Cahokia), Mesoamerica (Maya), Andes (khipu), West/Southern/East Africa, South/Southeast Asia, Caribbean (Haiti); L8 explicitly de-Eurocentric (Ottoman/Mughal/Qing/Inka); L4 holds Maya/Timbuktu/khipu knowledge traditions side by side per philosophy 11; all Connection sections place-agnostic."
+      accessibility-editor:
+        verdict: passed
+        note: Checked tiered low-tech materials (paper/voice/found objects, no devices/wealth), UDL via context_variants + differentiation, disability/neurodivergence oral alternatives, plain language, non-empty alt text on all 10 assets, role=img/title/desc in all 10 SVGs.
+      alignment-auditor:
+        verdict: passed
+        note: "Verified all four lenses: ethics (moral reasoning on dignity/loss/repair), egalitarianism (who benefits/who is left out, centers ordinary people), global/anthropological (de-Eurocentric spread), technology & environment (ships, drains, digitization, water engineering). Traceability clean: every objective resolves to a real D08 standard under pillar P4, chain Vision->P4->D08->S1-S4->U.09.012->L.09.012.01-10 unbroken."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-9 band (14-15): cognitive fit calibrated (multi-causal reasoning, systems vs events, weighing strategies without ranking). Emotional safety: heavy content (slave trade, colonialism) honest but not gratuitous, previews + pause options + agency-alongside-atrocity, ends on dignity/hope. Open-ended questions per philosophy 11, no creeds. Nothing too abstract/frightening/advanced."
   - id: B-381
     title: Author lessons for Unit U.09.013 (Technology, Media & Our Earth Home)
     agent: lesson-author
