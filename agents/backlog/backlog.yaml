@@ -4804,7 +4804,7 @@ items:
     type: lesson
     grade: 8
     domain: D04
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -4816,6 +4816,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate clean (1211 files); sequential IDs L.08.004.01-.11 with matching sequence_in_unit 1-11; objectives in every lesson resolve only to the 8 grade-8 D04 standards (D04.S1/S2/S3/S4.08.01/.02 confirmed in domain.md); required Procedure/Assessment/Connection headings in all 11; unit.md Lessons table (11 rows) matches; 11 SVGs exist/valid with matching paths. Example: lesson-003 objectives [D04.S1.08.02] + Connection 'Arguing well is not about winning... deciding together with more of the truth in the room' faithfully instantiates the standard."
+      fact-checker:
+        verdict: passed
+        note: Verified S-346 SEP 'Aristotle's Rhetoric' (ethos/pathos/logos verbatim, year corrected to 2022); S-347/348/350 Britannica figure-of-speech/point-of-view/machine-translation definitions canonical and matching; S-349 Hess 2009 real Routledge title; S-351/352 Bashō 1644-1694 frog haiku dated 1680s + Rumi 1207-1273 Balkh/Konya/Persian incl. Masnavi opening; reused S-011/019/039/167/236/237/269 correctly attributed (S-269 also tagged D04). All 7 marked reviewed:true; evidence/values separated; validate green (1211 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Checked narrow framing across 11 lessons + unit.md: no US/Euro default (Aristotle's rhetoric flagged 'one tradition among many', delivery/tone noted culturally variable); texts span Japan (Bashō haiku), Persia (Rumi), West Africa (Sundiata/griot oral tradition), non-Western names (Amara/Mira/Djeli Mamoudou Kouyaté) and river/village/market contexts; multilingualism-as-wealth + home-language-first consistent (L1 'write in your home language if you wish', L9 40% stat, L10 'tools serve the person', L11 'many languages and scripts; honor every one'); multiple traditions side by side per §11. validate green (1211 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Added UDL expression alternatives (dictation/scribe/sign/gesture/record, read-aloud non-visual paths, non-speaking contributions, captioned/visible delivery) to all 11 lessons; verified every assets: entry has non-empty alt text + resolving SVG path (all 11 found); materials_low_tech present throughout with no silent wealth/device requirement. validate green (1211 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Verified all four lenses (ethics as moral reasoning on how we use words toward others; egalitarianism via 'who is included/left out' + equal credit/voice for all languages; global via Bashō/Rumi/Sundiata texts and 'no culture's texts are higher'; technology via critical digital-translation limits); evidence vs values distinguished (Dunlosky/Kirschner/Hess/Toulmin/Britannica/UNESCO/CEFR cited vs stated norms); traceability: objectives resolve to real grade-8 D04.S1-S4 standards → P3 → vision. validate green (1211 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed 11 lessons + unit for 6-8 band (emerging formal operations): argumentation (claim-reason-evidence-rebuttal), point-of-view taxonomy, figurative language, citation all pitched at grade-8 depth and spiral from Grade 6/7 scaffolds; emotional safety solid (low-stakes deliberation with 'listening is not losing' + 'anyone can pass', gentle non-relived handling of language-exclusion, 'no ranking' capstone, UDL alternatives so nothing forces public performance); values flagged as values vs descriptive claims; nothing too abstract/frightening. validate green (1211 files)."
   - id: B-363
     title: Author lessons for Unit U.08.005 (Functions, Linear Equations, Geometry & Data)
     agent: lesson-author

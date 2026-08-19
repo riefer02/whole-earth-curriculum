@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Citing sources — quote, paraphrase, my own idea</title>
+  <desc id="desc">Three labeled rows. A quote in quotation marks with the label "she said". A paraphrase with the label "according to". An original idea labeled "my own idea". A bottom note reads "credit is honesty, not weakness".</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Whose words are these?</text>
+
+  <!-- quote -->
+  <rect x="40" y="80" width="432" height="92" rx="10" fill="#6b93b6" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="60" y="108" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">quote</text>
+  <text x="60" y="130" font-family="sans-serif" font-size="13" fill="#222222">As Mira wrote, "the river rose at dawn."</text>
+  <text x="60" y="152" font-family="sans-serif" font-size="12" fill="#4f6d7a">exact words · quotation marks · name the source</text>
+
+  <!-- paraphrase -->
+  <rect x="40" y="188" width="432" height="92" rx="10" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="60" y="216" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">paraphrase</text>
+  <text x="60" y="238" font-family="sans-serif" font-size="13" fill="#222222">According to the report, the low path floods each rainy season.</text>
+  <text x="60" y="260" font-family="sans-serif" font-size="12" fill="#4f6d7a">your own words · still name the source</text>
+
+  <!-- own idea -->
+  <rect x="40" y="296" width="432" height="92" rx="10" fill="#e0a458" opacity="0.6" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="60" y="324" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">my own idea</text>
+  <text x="60" y="346" font-family="sans-serif" font-size="13" fill="#222222">In my view, moving the path higher would keep people safer.</text>
+  <text x="60" y="368" font-family="sans-serif" font-size="12" fill="#4f6d7a">your own thought · no quotation marks · no source needed</text>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Label each line — that is the honesty.</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Copying words without credit is taking what is not yours.</text>
+</svg>

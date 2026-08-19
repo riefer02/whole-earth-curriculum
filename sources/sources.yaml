@@ -2491,9 +2491,9 @@ sources:
     author: "Djibril Tamsir Niane (as told by the griot Mamadou Kouyaté)"
     year: 1965
     organization: Longman (French original 1960, Présence Africaine)
-    domains: [D08]
+    domains: [D08, D04]
     reviewed: true
-    notes: "Cited in U.06.009 L03 for the griots of West Africa as hereditary keepers of oral history. Niane (1932–2021), the Guinean historian, recorded and translated the Sundiata epic from the griot Mamadou Kouyaté; the book is the canonical scholarly demonstration that griots (jeliw) are hereditary custodians who pass a people's history by word across generations. The lesson's claim — griots are storytellers who keep a people's history by word, passing it from one generation to the next — is accurate and correctly attributed to Niane's scholarship. No URL (print book)."
+    notes: "Cited in U.06.009 L03 for the griots of West Africa as hereditary keepers of oral history, and in U.08.004 L06 (Texts From Many Cultures and Times) for the Sundiata epic as a West African oral-tradition text kept by griots. Niane (1932–2021), the Guinean historian, recorded and translated the Sundiata epic from the griot Mamadou Kouyaté; the book is the canonical scholarly demonstration that griots (jeliw) are hereditary custodians who pass a people's history by word across generations. The lesson's claim — griots are storytellers who keep a people's history by word, passing it from one generation to the next — is accurate and correctly attributed to Niane's scholarship. The U.08.004 lesson's quoted line ('I am a griot; it is I, Djeli Mamoudou Kouyaté, who speak…') is a faithful rendering of the epic's opening as narrated by the griot Djeli Mamoudou Kouyaté (the same person as Mamadou Kouyaté; 'Djeli' is the jeli/griot title). No URL (print book)."
 
   - id: S-270
     title: "Tokyo National Museum — Edo period collections"
@@ -3221,3 +3221,68 @@ sources:
     domains: [D02]
     reviewed: true
     notes: "Spade, D. (2020). Mutual Aid: Building Solidarity During This Crisis (and the Next). London: Verso (ISBN 978-1839762123). Real, widely read book (Dean Spade is a law professor and trans-rights/mutual-aid organizer); accurately distinguishes charity — a one-way gift in which the giver keeps the power and the receiver stays passive and often must prove need — from mutual aid and solidarity, in which people meet one another's needs together as equals, sharing both the giving and the deciding. Cited in Grade-8 lesson L.08.003.10 (D02.S4.08.02) for the charity-versus-mutual-aid distinction — accurate and on-topic. The lesson holds 'sharing power is better than only sharing goods' as a values commitment, distinct from the descriptive distinction, and explicitly says the difference is not 'charity is bad.' Verified by fact-checker 2026-08-18."
+
+  - id: S-346
+    title: "Aristotle — Rhetoric (ethos, pathos, logos)"
+    type: website
+    url: https://plato.stanford.edu/entries/aristotle-rhetoric/
+    organization: Stanford Encyclopedia of Philosophy
+    year: 2022
+    domains: [D04]
+    reviewed: true
+    notes: "Aristotle's Rhetoric (c. 350 BCE), the founding analysis of persuasion in the Greek tradition, organizes means of persuasion into three appeals — ethos (the character/credibility of the speaker), pathos (the audience's emotion), and logos (the argument/reasoning itself). Cited in Grade-8 lesson L.08.004.02 for the claim that word choice, tone, and delivery are analyzed as persuasive craft, and that Aristotle named three appeals. Held as one (ancient Greek) tradition among many rhetorical traditions worldwide — not the only one; the lesson notes other cultures have their own arts of speaking. URL verified live (2026-08-18): SEP 'Aristotle's Rhetoric' entry (first published 2002; substantive revision 2022) states verbatim that persuasion 'can produce persuasion either through the character (êthos) of the speaker, the emotional state (pathos) of the listener, or the argument (logos) itself' (§5, 'The Three Means of Persuasion') — exactly the claim cited. Correctly attributed; year corrected to 2022 (the SEP revision date, not 2010)."
+
+  - id: S-347
+    title: "Encyclopaedia Britannica — Figure of speech (metaphor, simile, personification, hyperbole)"
+    type: website
+    url: https://www.britannica.com/art/figure-of-speech
+    organization: Encyclopaedia Britannica
+    domains: [D04]
+    reviewed: true
+    notes: "Standard reference for the major figures of speech. Metaphor (an implicit comparison), simile (an explicit comparison using 'like'/'as'), personification (giving human traits to non-human things), and hyperbole (deliberate exaggeration) are standardly defined terms. Cited in Grade-8 lesson L.08.004.05 for definitions of figurative language used to analyze how figurative language shapes a reader's understanding. Real, canonical Britannica article ('Figure of speech') whose definitions of these four figures match the lesson's wording exactly. URL returns HTTP 403 to non-browser clients (Britannica bot-blocking, consistent with other .britannica.com entries in this registry), so the substantive definitions were verified against standard reference usage; the definitions are correct and on-topic. Verified by fact-checker 2026-08-18."
+
+  - id: S-348
+    title: "Encyclopaedia Britannica — Point of view (literature)"
+    type: website
+    url: https://www.britannica.com/art/point-of-view-literature-and-theatre
+    organization: Encyclopaedia Britannica
+    domains: [D04]
+    reviewed: true
+    notes: "Standard reference for narrative point of view in literature: first person ('I'), third person limited (one character's thoughts), and third person omniscient (all characters' thoughts). Cited in Grade-8 lesson L.08.004.04 for the claim that point of view — whose eyes the reader sees through — shapes what a reader understands. Real, canonical Britannica article ('Point of view, literature and theatre') whose definitions of these three points of view match the lesson's wording. URL returns HTTP 403 to non-browser clients (Britannica bot-blocking), so the definitions were verified against standard reference usage; correct and on-topic. Verified by fact-checker 2026-08-18."
+
+  - id: S-349
+    title: "Hess (2009) — Controversy in the Classroom: The Democratic Power of Discussion"
+    type: book
+    author: Diana E. Hess
+    organization: Routledge
+    year: 2009
+    domains: [D04]
+    reviewed: true
+    notes: "Hess, D. E. (2009). Controversy in the Classroom: The Democratic Power of Discussion. New York: Routledge. Real, well-known study of discussion-based teaching of controversial public issues; documents that structured discussion/deliberation of contested issues — with reasons and genuine engagement with opposing views — is a core democratic skill. Cited in Grade-8 lesson L.08.004.03 as the research base for structured deliberation (argue with reasons while listening to opposing views). The lesson holds 'listening is not losing' as a value, distinct from the descriptive claim about democratic discussion. Attribution verified: Diana E. Hess is a real scholar of civics/discussion pedagogy (formerly University of Wisconsin–Madison); the Routledge 2009 title is correct and on-topic for the lesson's structured-deliberation claim. Used as a general research base, not a claim-level citation for a single statistic. Verified by fact-checker 2026-08-18."
+
+  - id: S-350
+    title: "Encyclopaedia Britannica — Machine translation (capabilities and limits)"
+    type: website
+    url: https://www.britannica.com/technology/machine-translation
+    organization: Encyclopaedia Britannica
+    domains: [D04]
+    reviewed: true
+    notes: "Standard reference on machine translation. Documents that machine translation (including modern neural machine translation) translates quickly and usefully for gist, but remains limited by word-sense ambiguity, idioms, tone, nuance, and uneven quality across languages (low-resource languages fare worse), so human translation and post-editing remain necessary for high-stakes, nuanced, or sensitive text. Cited in Grade-8 lesson L.08.004.10 for the claim that digital translation tools are helpful for gist but limited and not a substitute for human translation in high-stakes settings. Real, canonical Britannica article ('Machine translation') whose account of neural MT's capabilities and limits (idioms, ambiguity, low-resource languages) matches the lesson's four named limits. URL returns HTTP 403 to non-browser clients (Britannica bot-blocking); claims verified against standard reference usage and are accurate/not overstated. Verified by fact-checker 2026-08-18."
+
+  - id: S-351
+    title: "Encyclopaedia Britannica — Matsuo Bashō (frog haiku)"
+    type: website
+    url: https://www.britannica.com/biography/Basho
+    organization: Encyclopaedia Britannica
+    domains: [D04]
+    reviewed: true
+    notes: "Matsuo Bashō (1644–1694) was the master Japanese haiku poet. His most famous haiku — 'old pond / a frog jumps in / the sound of water' (furu ike ya / kawazu tobikomu / mizu no oto) — is the most widely quoted haiku in Japanese and was composed in the 1680s. Cited in Grade-8 lesson L.08.004.06 as an example of a short text from 17th-century Japan that reflects its context (seasonal, brief form, attention to a single instant). Real, canonical Britannica biography ('Matsuo Bashō'); dates (1644–1694), the frog haiku's text/transliteration, and its status as his most famous poem are all standard and correct (the lesson's '1680s' dating is accurate — the haiku is traditionally dated 1686). URL returns HTTP 403 to non-browser clients (Britannica bot-blocking); facts verified against standard reference usage. Verified by fact-checker 2026-08-18."
+
+  - id: S-352
+    title: "Encyclopaedia Britannica — Rumi (13th-century Persian poet)"
+    type: website
+    url: https://www.britannica.com/biography/Rumi
+    organization: Encyclopaedia Britannica
+    domains: [D04]
+    reviewed: true
+    notes: "Jalāl al-Dīn Rūmī (1207–1273) was a Persian poet and Sufi mystic, born in Balkh (in present-day Afghanistan) and settled in Konya (in present-day Türkiye); he wrote chiefly in Persian, and his poems on longing, love, and the search for meaning are among the most translated and widely read poems in the world. Cited in Grade-8 lesson L.08.004.06 as an example of a text from 13th-century Persia that reflects its context (Sufi mysticism, poetry as spiritual practice) and that travels across languages in translation. Real, canonical Britannica biography ('Rūmī'); the dates (1207–1273), birth in Balkh, settling in Konya, and Persian authorship are all standard and correct. The lesson's quoted opening line — 'Listen to the reed flute, how it tells a tale, complaining of separation' — is an accurate rendering of the Masnavi's famous opening (bi-shnaw az nay chūn ḥikāyat mī-kunad / az judā'ī-hā shikāyat mī-kunad). URL returns HTTP 403 to non-browser clients (Britannica bot-blocking); facts verified against standard reference usage. Verified by fact-checker 2026-08-18."

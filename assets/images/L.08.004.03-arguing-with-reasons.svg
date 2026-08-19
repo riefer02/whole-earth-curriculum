@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Arguing with reasons — a four-step deliberation flow</title>
+  <desc id="desc">Four steps drawn around a circle with arrows: 1 state your position, 2 give reasons and evidence, 3 listen and paraphrase the other side, 4 respond. A note at the bottom reads "listening is not losing".</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">The deliberation flow</text>
+
+  <!-- step 1 top -->
+  <rect x="156" y="72" width="200" height="58" rx="10" fill="#6b93b6" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="94" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">1 · State your position</text>
+  <text x="256" y="116" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"I think we should…"</text>
+
+  <!-- step 2 right -->
+  <rect x="320" y="190" width="172" height="72" rx="10" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="406" y="214" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">2 · Give reasons</text>
+  <text x="406" y="234" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and evidence</text>
+  <text x="406" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"because…"</text>
+
+  <!-- step 3 bottom -->
+  <rect x="156" y="322" width="200" height="72" rx="10" fill="#e0a458" opacity="0.6" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">3 · Listen &amp; paraphrase</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"So you are saying… did I hear you?"</text>
+
+  <!-- step 4 left -->
+  <rect x="20" y="190" width="172" height="72" rx="10" fill="#6b93b6" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="106" y="214" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">4 · Respond</text>
+  <text x="106" y="234" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">agree, partly agree,</text>
+  <text x="106" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">or differ, with reasons</text>
+
+  <!-- arrows connecting -->
+  <path d="M256,130 L256,158 C256,176 256,172 256,172" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+  <path d="M320,226 L256,226" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+  <path d="M256,298 L256,322" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+  <path d="M192,226 L256,226" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+  <path d="M106,262 L106,286 C106,300 130,306 150,318" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Listening is not losing.</text>
+</svg>

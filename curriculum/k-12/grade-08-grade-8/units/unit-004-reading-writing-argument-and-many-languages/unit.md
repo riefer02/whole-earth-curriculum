@@ -38,7 +38,7 @@ assessment_plan: >-
   portfolio artifacts.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # Unit 4 — Reading, Writing, Argument & Many Languages
@@ -68,3 +68,14 @@ learner's home language first, with multilingualism held as wealth.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.08.004.01 | Words That Shape, Voices That Meet | D04.S1.08.01–.02, D04.S2.08.01–.02, D04.S3.08.01–.02, D04.S4.08.01–.02 (preview) |
+| L.08.004.02 | Word Choice, Tone, and Delivery: How a Speaker Shapes Meaning | D04.S1.08.01 |
+| L.08.004.03 | Arguing With Reasons, Listening to Opposing Views | D04.S1.08.02 |
+| L.08.004.04 | Point of View: Whose Eyes Am I Seeing Through? | D04.S2.08.01 |
+| L.08.004.05 | Tone and Figurative Language: How a Text Makes You Feel and See | D04.S2.08.01 |
+| L.08.004.06 | Texts From Many Cultures and Times | D04.S2.08.02 |
+| L.08.004.07 | Writing in Many Forms With My Own Voice | D04.S3.08.01 |
+| L.08.004.08 | Citing Sources, Honoring Others' Words | D04.S3.08.02 |
+| L.08.004.09 | Language That Includes and Excludes | D04.S4.08.01 |
+| L.08.004.10 | Digital Translation: A Helpful Tool, Not a Substitute | D04.S4.08.02 |
+| L.08.004.11 | Capstone: My Voice Among Many Voices | D04.S1.08.01–.02, D04.S2.08.01–.02, D04.S3.08.01–.02, D04.S4.08.01–.02 |
