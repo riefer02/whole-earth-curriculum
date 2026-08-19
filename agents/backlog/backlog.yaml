@@ -5211,7 +5211,7 @@ items:
     type: lesson
     grade: 9
     domain: D02
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5223,6 +5223,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1315 files). 10 lessons L.09.005.01-.10, sequence 1-10 no gaps; objectives resolve only to eight grade-9 D02 IDs (D02.S1-S4.09.01/.02); unit.md 10 rows matching; scope lesson_count=10; 10 SVGs valid + alt. Observation: L2 consent frames FRIES around everyday autonomy + flags pressured yes; L7 nationalism anchored to Tajfel S-232 + Anderson S-415, facilitator holds 'questions not verdicts'."
+      fact-checker:
+        verdict: passed
+        note: "Verified 5 new sources S-412-S-416 (UNESCO CSE + noted FRIES mnemonic is Planned Parenthood's; Bloom Against Empathy; Slovic 2007 added URL+DOI, clarified Mother Teresa/Stalin quotes not attributed; Anderson Imagined Communities; Ostrom Governing the Commons Nobel 2009), marked reviewed:true. High-risk claims verified: Batson, Decety & Cowell, Tajfel, Banaji. Fix: FRIES acronym ordering in L.09.005.02 (was FRISE) corrected to freely-given/reversible/informed/enthusiastic/specific. 10 SVGs accurate. validate green (1315 files)."
+      global-culture-editor:
+        verdict: passed
+        note: L1/L3/L4 acknowledge cross-cultural communication (direct vs indirect disagreement), emotional expression, deep-listening traditions (talking circle, mediator). L6 community forms span regions (harambee/gotong royong/mink'a/barn raising) + kinship/chosen family/mutual aid/faith/diaspora/online — no Western nuclear default. L7 nationalism historically recent + culturally specific (Anderson). L9-L10 cooperative project 'village or city, with money or without'. SVG varied skin tones. validate green (1315 files). No fixes.
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier all 10; alt text + role=img/title/desc on 10 SVGs, labels+shape not color-only, grayscale. Fix: L1-L4 communication/empathy assumed speech/hearing/face-reading -> added non-speaking/AAC/Deaf-HoH paths (L2 consent givable/revocable in any mode) + L4 neurodivergent note (face-reading not required, lean on ask/check). validate green (1315 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: objectives resolve only to eight grade-9 D02 IDs (D02.S1-S4.09.01/.02); chain Vision->P1->D02->S1-S4->U.09.005. Four lenses present each lesson (ethics; egalitarianism power/inequality/with-not-for; global harambee/gotong royong/mink'a/barn raising/imagined community; tech&environment empathy-across-media/feeds/echo chambers/online consent). Evidence vs values: empirical claims source-attributed, norms flagged as values; 20 S-IDs resolve, new reviewed:true. validate green (1315 files). No fixes."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: skills worked-example-first, concepts inquiry, right-sized abstract load; spiral recalls G3-G8. L2 consent everyday-autonomy not sex, reversible/later-no-overrides, power-imbalance named, non-graphic. L7 nationalism balanced double-face, evidence-based, questions-not-verdicts, 'loyalty can be love; exclusion is where love stops'. L4/L5 empathy accommodates neurodivergent/Deaf (ask/check carry load, universal human tendency not stigma). L9-L10 project kept small/doable/local, agency not exhaustion. Multi-modal + open-ended. validate green (1315 files). Non-blocking: L2 summary doubled space."
   - id: B-374
     title: Author lessons for Unit U.09.006 (Language, Literature & Argument)
     agent: lesson-author

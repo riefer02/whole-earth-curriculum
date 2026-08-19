@@ -3845,3 +3845,55 @@ sources:
     reviewed: true
     notes: "Cited in L.09.004.04 for body image and self-worth. NEDA's body-image page explains what body image is, how media and social messages shape it, and how negative body image relates to disordered eating and mental-health distress. The lesson uses it as a general authority for the body-image concept and the value that a body's worth is not determined by appearance. US-based organization but a standard, widely used authority on body image and eating-disorder prevention; treated as one voice among others, not the only tradition. URL verified live 2026-08-19 (page 'Body Image | Understanding & Improving Self-Perception | NEDA'; returns 403 to curl but loads in a browser — bot protection only). Page defines body image as how you see yourself (beliefs, feelings, body sense) and states that internalized appearance-ideal messages can lead to negative body image and that a healthier body image supports mental wellbeing and eating-disorder prevention — on-topic for the lesson."
 
+  - id: S-412
+    title: "UNESCO — International Technical Guidance on Sexuality Education"
+    type: report
+    url: https://www.unesco.org/en/health-education/cse
+    organization: UNESCO
+    year: 2018
+    domains: [D02, D03]
+    reviewed: true
+    notes: "Cited in L.09.005.02 for consent and healthy relationship skills. UNESCO's International Technical Guidance on Sexuality Education (revised 2018), developed with UNAIDS, UNFPA, UNICEF, UN Women, and WHO, is the global, evidence-informed reference for comprehensive sexuality education (CSE). It defines CSE as covering, among other things, relationships, consent, and the right to decide freely over one's own body, and it grounds these in human-rights and gender-equality commitments. The lesson uses it as a general authority for the framing that consent is freely given, informed, and reversible, and that healthy relationships rest on respect for autonomy. Held as one widely shared international framework, not the only cultural account of how to ask and agree. URL verified live 2026-08-19 (unesco.org/en/health-education/cse): the page defines CSE, links the ITGSE (2018) PDF, and explicitly names 'consent' among the concepts older learners tackle, framing CSE as developing 'respectful social and sexual relationships' grounded in human rights and gender equality — supporting the lesson's freely-given/informed/reversible framing. Note: the lesson's 'FRIES' memory aid (freely given, reversible, informed, enthusiastic, specific) is Planned Parenthood's mnemonic; UNESCO ITGSE supports the underlying freely-given/informed/reversible principles, while 'enthusiastic' and 'specific' are Planned Parenthood's additions — the lesson cites UNESCO for the consent concept, which is appropriate for those three principles. Reviewed by fact-checker 2026-08-19."
+
+  - id: S-413
+    title: "Paul Bloom (2016) — Against Empathy: The Case for Rational Compassion"
+    type: book
+    author: Paul Bloom
+    year: 2016
+    organization: Ecco / HarperCollins
+    domains: [D02]
+    reviewed: true
+    notes: "Cited in L.09.005.05 for the limits of empathy. Paul Bloom, a professor of psychology at Yale (now University of Toronto), argues in this widely discussed book that empathy — feeling what another feels — is narrow, biased, and near-sighted (it runs strongest toward those who look like us and toward single identifiable victims), and that reasoned compassion is a more reliable guide to helping. The lesson uses this accurately: empathy is parochial and distance-shaped, a claim Bloom documents rather than the lesson's own value judgment. The lesson explicitly does not endorse 'empathy is bad'; it holds the descriptive claim about empathy's limits and adds a values commitment (choose where your care goes). Real, correctly attributed book (Ecco/HarperCollins, 2016; ISBN 978-0062339331). Reviewed by fact-checker 2026-08-19."
+
+  - id: S-414
+    title: "Slovic (2007) — 'If I Look at the Mass I Will Never Act': Psychic Numbing and Genocide"
+    type: article
+    author: Paul Slovic
+    year: 2007
+    organization: Judgment and Decision Making
+    url: https://journal.sjdm.org/jdm7303a.pdf
+    doi: 10.1017/S1930297500000061
+    domains: [D02]
+    reviewed: true
+    notes: "Cited in L.09.005.05 for the identifiable-victim effect and psychic numbing. Paul Slovic, a leading researcher on risk perception, documents that compassion and helping tend to decrease as the number of victims increases ('psychic numbing'), and that a single identifiable victim elicits far more feeling and action than a statistic ('the identifiable victim effect'). The lesson's summary line 'one death is a tragedy, a million is a statistic' is the lesson's paraphrase of a widely quoted formulation attributed to Joseph Stalin, used there only as a vivid teaching shorthand — the factual claims (identifiable-victim effect, psychic numbing) are Slovic's and are accurately represented. Real, correctly attributed article: Slovic, P. (2007), Judgment and Decision Making, 2(2), 79–95; DOI 10.1017/S1930297500000061, open-access PDF at journal.sjdm.org/jdm7303a.pdf (URL verified live 2026-08-19). Note: the paper's own title quote — 'If I look at the mass I will never act' — is attributed to Mother Teresa, distinct from the 'one death is a tragedy' line (commonly, but without evidence, attributed to Stalin); the lesson uses neither quotation as an attributed claim. Reviewed by fact-checker 2026-08-19."
+
+  - id: S-415
+    title: "Benedict Anderson (1983) — Imagined Communities: Reflections on the Origin and Spread of Nationalism"
+    type: book
+    author: Benedict Anderson
+    year: 1983
+    organization: Verso
+    domains: [D02, D08]
+    reviewed: true
+    notes: "Cited in L.09.005.07 for the concept of the nation as an 'imagined community.' Benedict Anderson's classic study defines the nation as 'an imagined political community — and imagined as both inherently limited and sovereign': its members will never meet most of their fellow-members, yet in their minds lives the image of their communion. The lesson uses this concept accurately — a nation is an imagined community — and holds it as a description, not an insult (imagined is not the same as unreal). The lesson's claim that nationalism is historically recent and culturally specific is standard and supported by this and related scholarship. Real, correctly attributed book (Verso, 1983; the quoted definition is Anderson's exact wording, verbatim). Reviewed by fact-checker 2026-08-19."
+
+  - id: S-416
+    title: "Elinor Ostrom (1990) — Governing the Commons"
+    type: book
+    author: Elinor Ostrom
+    year: 1990
+    organization: Cambridge University Press
+    domains: [D02, D09]
+    reviewed: true
+    notes: "Cited in L.09.005.08 for the idea that communities can govern shared resources by their own rules for the common good. Elinor Ostrom's Nobel-prize-winning work (2009 Nobel Memorial Prize in Economic Sciences, shared with Oliver Williamson; she was the first woman to win it) documents, across many societies, how communities have successfully managed common resources (forests, fisheries, irrigation, grazing) through self-made rules and institutions, without either privatization or top-down state control. The lesson uses this accurately: a shared commons with rules for fair use is a real, documented system, and its rules — like any system's — can be changed. The lesson does not claim commons always succeed, only that they are a well-documented alternative rule-set. Real, correctly attributed book (Cambridge University Press, 1990; ISBN 978-0521405997). Reviewed by fact-checker 2026-08-19."
+

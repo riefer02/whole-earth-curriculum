@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Communicating across difference</title>
+  <desc id="desc">Two people sit facing each other across a table, each with a thought bubble. Between them a four-step loop reads hear, paraphrase, ask, respond, with the note that the goal is understanding, not winning. One person uses a wheelchair.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Talking Across a Difference</text>
+
+  <!-- Table -->
+  <rect x="96" y="330" width="320" height="16" rx="8" fill="#7a9e7e" opacity="0.55"/>
+  <rect x="128" y="346" width="16" height="90" fill="#4f6d7a" opacity="0.6"/>
+  <rect x="368" y="346" width="16" height="90" fill="#4f6d7a" opacity="0.6"/>
+
+  <!-- Person A (left), seated -->
+  <circle cx="150" cy="210" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 178 Q143 168 138 178 M162 178 Q157 168 152 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="140" cy="206" r="3" fill="#2b3a42"/><circle cx="160" cy="206" r="3" fill="#2b3a42"/>
+  <path d="M141 224 Q150 232 159 224" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="110" y="240" width="80" height="80" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <path d="M118 270 Q150 262 182 286" fill="none" stroke="#6b93b6" stroke-width="2"/>
+
+  <!-- Person B (right), seated, uses a wheelchair -->
+  <circle cx="362" cy="210" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M362 178 Q355 168 350 178 M374 178 Q369 168 364 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="352" cy="206" r="3" fill="#2b3a42"/><circle cx="372" cy="206" r="3" fill="#2b3a42"/>
+  <path d="M353 224 Q362 232 371 224" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="322" y="240" width="80" height="80" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <path d="M334 270 Q362 262 394 286" fill="none" stroke="#6b93b6" stroke-width="2"/>
+  <!-- wheelchair -->
+  <circle cx="362" cy="312" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="348" cy="318" r="7" fill="#2b3a42"/><circle cx="376" cy="318" r="7" fill="#2b3a42"/>
+
+  <!-- The loop, centered between them -->
+  <g>
+    <rect x="186" y="120" width="140" height="46" rx="10" fill="#7a9e7e" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="148" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">hear &#8594; paraphrase</text>
+    <rect x="186" y="176" width="140" height="46" rx="10" fill="#6b93b6" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="204" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">acknowledge &#8594; ask</text>
+    <rect x="186" y="232" width="140" height="46" rx="10" fill="#e0a458" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">respond with care</text>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">The goal is understanding, not winning.</text>
+</svg>

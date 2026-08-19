@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Forms of community</title>
+  <desc id="desc">Six circles labeled kinship, chosen family, mutual-aid network, faith community, diaspora, and online community all overlap around a center labeled belonging and care. The message is that communities take many forms but share belonging and care. Labels, not color, distinguish the circles.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Many Forms of Community</text>
+
+  <!-- Center -->
+  <circle cx="256" cy="250" r="64" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">belonging</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">+ care</text>
+
+  <!-- Six overlapping circles -->
+  <circle cx="150" cy="160" r="88" fill="#7a9e7e" opacity="0.22" stroke="#2b3a42" stroke-width="2"/>
+  <text x="112" y="160" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">kinship</text>
+
+  <circle cx="362" cy="160" r="88" fill="#6b93b6" opacity="0.22" stroke="#2b3a42" stroke-width="2"/>
+  <text x="400" y="160" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">chosen</text>
+  <text x="400" y="178" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">family</text>
+
+  <circle cx="150" cy="340" r="88" fill="#e0a458" opacity="0.22" stroke="#2b3a42" stroke-width="2"/>
+  <text x="112" y="336" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">mutual-aid</text>
+  <text x="112" y="354" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">network</text>
+
+  <circle cx="362" cy="340" r="88" fill="#7a9e7e" opacity="0.22" stroke="#2b3a42" stroke-width="2"/>
+  <text x="400" y="336" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">faith</text>
+  <text x="400" y="354" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">community</text>
+
+  <circle cx="256" cy="160" r="70" fill="#6b93b6" opacity="0.22" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="156" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">diaspora</text>
+
+  <circle cx="256" cy="340" r="70" fill="#e0a458" opacity="0.22" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">online</text>
+  <text x="256" y="354" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">community</text>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">Different shapes — the same need to belong and to care.</text>
+</svg>

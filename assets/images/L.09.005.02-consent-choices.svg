@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Consent: yes, no, and changing your mind</title>
+  <desc id="desc">A person stands at a choice point with three clearly separated paths labeled yes, no, and changed my mind. Each path is a distinct arrow, and a note reads that a real yes is freely given and can be reversed. Shape and label, not color, distinguish the paths.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Consent: Three Honest Answers</text>
+
+  <!-- Person at the choice point -->
+  <circle cx="256" cy="140" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="246" cy="136" r="3" fill="#2b3a42"/><circle cx="266" cy="136" r="3" fill="#2b3a42"/>
+  <path d="M247 154 Q256 160 265 154" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="226" y="166" width="60" height="72" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+
+  <!-- Three paths -->
+  <path d="M256 240 L256 300" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="8 6"/>
+
+  <!-- Path 1: yes (solid arrow, up-left) -->
+  <path d="M250 300 L120 340" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M120 340 L138 330 M120 340 L128 356" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <rect x="40" y="352" width="130" height="52" rx="12" fill="#7a9e7e" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+  <text x="105" y="384" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">yes</text>
+
+  <!-- Path 2: no (dashed arrow, up-right) -->
+  <path d="M262 300 L392 340" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M392 340 L374 330 M392 340 L384 356" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <rect x="342" y="352" width="130" height="52" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="407" y="384" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">no</text>
+
+  <!-- Path 3: changed my mind (curved arrow, bottom) -->
+  <path d="M250 300 C250 380 120 400 120 452" fill="none" stroke="#2b3a42" stroke-width="4" stroke-dasharray="3 6"/>
+  <path d="M120 452 L108 440 M120 452 L116 466" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <rect x="40" y="440" width="220" height="52" rx="12" fill="#e0a458" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="472" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">changed my mind</text>
+
+  <text x="256" y="120" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">A real yes is freely given — and can be reversed.</text>
+</svg>

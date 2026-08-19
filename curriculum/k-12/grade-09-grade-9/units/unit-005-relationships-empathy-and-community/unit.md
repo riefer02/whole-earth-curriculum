@@ -67,3 +67,13 @@ a real need in their community.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Communicating Across Difference | D02.S1.09.01 |
+| 02 | Consent: Yes, No, and Changing Your Mind | D02.S1.09.02 |
+| 03 | Trust and Honest Talk About Feelings | D02.S1.09.02 |
+| 04 | Empathic Inquiry: Understanding Before Responding | D02.S2.09.01 |
+| 05 | Empathy Across Distance, Media, and Technology | D02.S2.09.02 |
+| 06 | Forms of Community Across Cultures | D02.S3.09.01 |
+| 07 | Nationalism, Exclusion, and In-Group Loyalty | D02.S3.09.02 |
+| 08 | How Systems Shape Cooperation, Competition, and Inequality | D02.S4.09.01 |
+| 09 | Designing a Cooperative Project: Finding a Real Need | D02.S4.09.02 |
+| 10 | Capstone: Launching Our Cooperative Project | D02.S4.09.02, D02.S1.09.01, D02.S2.09.01, D02.S3.09.01 |

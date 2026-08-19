@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Launch and reflect</title>
+  <desc id="desc">A group of three people stands at the start of a path holding a plan. Along the path are milestones marked with flags, and an arrow loops back to a point labeled listen and adjust. A note reads that a design becomes real only in shared action.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">From Design to Action</text>
+
+  <!-- Path -->
+  <path d="M70 380 Q256 330 442 380" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="8 7"/>
+
+  <!-- Group of three at the start, one holding a plan -->
+  <circle cx="96" cy="330" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="140" cy="316" r="20" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="184" cy="330" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <!-- plan board -->
+  <rect x="124" y="276" width="56" height="40" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M136 284 h32 M136 292 h32 M136 300 h20" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Milestone flags along the path -->
+  <g>
+    <line x1="240" y1="332" x2="240" y2="296" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M240 296 L270 302 L240 308 Z" fill="#7a9e7e"/>
+    <line x1="330" y1="326" x2="330" y2="286" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M330 286 L360 292 L330 298 Z" fill="#6b93b6"/>
+    <line x1="410" y1="338" x2="410" y2="300" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M410 300 L440 306 L410 312 Z" fill="#e0a458"/>
+  </g>
+
+  <!-- Loop-back arrow -->
+  <path d="M442 380 C470 420 260 452 140 400" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M140 400 L152 408 M140 400 L136 386" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">listen and adjust</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">A design becomes real only in shared action.</text>
+</svg>

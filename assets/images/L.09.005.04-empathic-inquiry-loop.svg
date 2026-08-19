@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Empathic inquiry loop</title>
+  <desc id="desc">A circular four-step diagram with arrows looping around it. The steps read observe, ask, reflect feelings and needs, and check. An arrow returns from check back to observe, and a note reads understand before responding. Steps are numbered and labeled, not distinguished by color alone.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Empathic Inquiry</text>
+
+  <!-- Center label -->
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">understand</text>
+  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">before responding</text>
+
+  <!-- Loop arrows -->
+  <circle cx="256" cy="240" r="150" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="2 10"/>
+
+  <!-- Step 1: observe (top) -->
+  <rect x="186" y="70" width="140" height="56" rx="12" fill="#7a9e7e" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">1</text>
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">observe</text>
+
+  <!-- Step 2: ask (right) -->
+  <rect x="376" y="210" width="130" height="56" rx="12" fill="#6b93b6" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+  <text x="441" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">2</text>
+  <text x="441" y="252" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">ask</text>
+
+  <!-- Step 3: reflect (bottom) -->
+  <rect x="166" y="370" width="180" height="56" rx="12" fill="#e0a458" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">3</text>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">reflect feelings + needs</text>
+
+  <!-- Step 4: check (left) -->
+  <rect x="8" y="210" width="130" height="56" rx="12" fill="#7a9e7e" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+  <text x="73" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">4</text>
+  <text x="73" y="252" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">check</text>
+
+  <!-- Return arrow from check to observe -->
+  <path d="M30 180 C40 90 200 60 250 74" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M250 74 L240 62 M250 74 L252 88" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">If the check misses, loop back and try again.</text>
+</svg>
