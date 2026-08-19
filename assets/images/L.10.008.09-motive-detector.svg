@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading the Motive: Help, Belong, Sell</title>
+  <desc id="desc">Three panels showing three different voices giving health advice — a caring expert, a friend, and a marketer — each labeled with their motive and what they gain.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Who Is Speaking &#8212; and What Do They Gain?</text>
+
+  <!-- Expert: help -->
+  <rect x="36" y="56" width="133" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="102" cy="92" r="22" fill="#d9a066" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M86 96 q16 -6 32 0" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="82" y="118" width="40" height="46" rx="6" fill="#4f6d7a"/>
+  <text x="102" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Expert / clinic</text>
+  <text x="102" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Motive: to help</text>
+  <text x="102" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Gains: nothing from you</text>
+
+  <!-- Peer: belong -->
+  <rect x="189" y="56" width="133" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="255" cy="92" r="22" fill="#f0c8a0" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M239 96 q16 -6 32 0" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="235" y="118" width="40" height="46" rx="6" fill="#7a9e7e"/>
+  <text x="255" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Friend / peer</text>
+  <text x="255" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Motive: to belong</text>
+  <text x="255" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Gains: your agreement</text>
+
+  <!-- Marketer: sell -->
+  <rect x="342" y="56" width="134" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="409" cy="92" r="22" fill="#8d5a3b" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M393 96 q16 -6 32 0" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="389" y="118" width="40" height="46" rx="6" fill="#e0a458"/>
+  <text x="409" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Marketer</text>
+  <text x="409" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Motive: to sell</text>
+  <text x="409" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Gains: your money</text>
+
+  <!-- what they say -->
+  <g font-family="sans-serif" stroke="#2b3a42" stroke-width="1.5">
+    <rect x="36" y="250" width="133" height="96" rx="8" fill="#ffffff"/>
+    <text x="102" y="276" text-anchor="middle" font-size="11" fill="#222222">&#8220;Here is the evidence</text>
+    <text x="102" y="294" text-anchor="middle" font-size="11" fill="#222222">and the risks, so you</text>
+    <text x="102" y="312" text-anchor="middle" font-size="11" fill="#222222">can decide.&#8221;</text>
+
+    <rect x="189" y="250" width="133" height="96" rx="8" fill="#ffffff"/>
+    <text x="255" y="276" text-anchor="middle" font-size="11" fill="#222222">&#8220;Everyone&#8217;s doing it &#8212;</text>
+    <text x="255" y="294" text-anchor="middle" font-size="11" fill="#222222">don&#8217;t you want to</text>
+    <text x="255" y="312" text-anchor="middle" font-size="11" fill="#222222">fit in?&#8221;</text>
+
+    <rect x="342" y="250" width="134" height="96" rx="8" fill="#ffffff"/>
+    <text x="409" y="276" text-anchor="middle" font-size="11" fill="#222222">&#8220;This will change</text>
+    <text x="409" y="294" text-anchor="middle" font-size="11" fill="#222222">your life &#8212; buy</text>
+    <text x="409" y="312" text-anchor="middle" font-size="11" fill="#222222">it now!&#8221;</text>
+  </g>
+
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Ask: &#8220;What does this person gain if I believe them?&#8221;</text>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A seller gains money; a peer gains company; an expert gains nothing.</text>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Even experts can be wrong &#8212; so verify anyway.</text>
+</svg>

@@ -5840,7 +5840,7 @@ items:
     type: lesson
     grade: 10
     domain: D03
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5852,6 +5852,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1504 files). All 10 lessons: kind lesson, id L.10.008.NN matching sequence_in_unit 1-10, unit U.10.008, domain [D03], pillar [P2], strand D03.S4. Objectives resolve to real D03 standards: D03.S4.10.01 (risks/responsibilities of sexual activity incl contraception + preventing infections) and D03.S4.10.02 (evaluate health info sources) — 01 in lessons 1-6, 02 in 7-9, both in capstone 10. Required headings present in all 10. Consent central (FRIES), no forced disclosure (opt-out pass), shame-free framing (STI common/treatable/never a mark on worth), WHO/UNESCO-sourced facts, safeguarding referral in every facilitator note. Connections concrete/faithful (lesson 7 pharmacist-vs-seller analogy)."
+      fact-checker:
+        verdict: passed
+        note: "Verified STI facts (4 curable + 4 viral, often asymptomatic, condoms effective protection, HPV/hepB vaccines vs WHO STI fact sheet S-454 live); contraception (condoms only dual-protection method, barrier/hormonal/long-acting groups vs WHO family planning S-453); conception (egg+sperm+implantation, ovulation, sperm survival); consent FRIES attribution (S-412) correct. Fixed misattributed NAMLE citation S-1388→S-151 in L07/L09 and updated registry. Evidence vs values: medical facts WHO/UNESCO-sourced, ethics framing labeled as values. Validate passes (1504 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default (WHO/UNESCO/UN-CRC sources; consent framed around international 'freely given, informed, reversible' core; 'enthusiastic/specific' correctly attributed as Western mnemonic not universal). Cultures held side-by-side without hierarchy per §11 (abstinence/delay neither ranked; STI shame named 'many cultures' without backward-vs-modern). Fixed gaps: added explicit same-sex/any-gender inclusion to unit overview, consent lesson, conception lesson facilitator note; added non-stereotyping access example to contraception lesson (free vs cost/distance/legal limits = difference in access never worth); noted STI-prevention applies to every kind of intimacy. Validate passes (1504 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Checked low-tech tier (all 10 lessons materials_low_tech with voice/paper/found-object paths; online-source lessons 7-8 ship printed/hand-copied alternatives, devices only in enriched tier); alt text + SVG a11y (all 10 assets non-empty alt; all SVGs role=img + title/desc); UDL (pass signal/opt-out/wonder box; verbal/drawn/tactile; speak/write/draw/role-play/move with non-forced disclosure). Fixes: added unit-level inclusion statement (disabled/neurodivergent learners full participants, disabled bodies equal rights to accurate info, home-language vocab, no-device/no-sight/no-writing path) + tactile/verbal alternatives in L3 (seed+stone/grain model) and L4 (four found objects for method groups). Validate passes (1504 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses verified: ethics (consent FRIES + freely-given/informed/reversible, dignity/honesty-as-care, deciding-with-care); egalitarianism (no hierarchy of bodies/families/orientations — any-gender/same-sex/different-sex 'neither assumed nor ranked'; unequal access named as justice problem never in worth; abstinence/delay normalized as valid); global (WHO/UNESCO/UN-CRC/NAMLE sources, no US/Euro default, 'enthusiastic/specific' attributed as Western mnemonic); technology (contraception as technology, internet multiplying claims, engagement-ranked feeds, algorithmic help-vs-sell). Evidence vs values: 10 cited sources resolve reviewed:true; facts WHO/UNESCO-sourced, norms labeled values. Traceability: lesson→D03.S4→D03→P2→vision; both objectives exist verbatim in domain-03. No hierarchy/supremacy/enrichment."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: cognitive load (risk/responsibility analysis, source evaluation, decision framing) matches matured formal operations with spiral retrieval. Emotional safety verified on all six axes: no shame ('never a mark on worth', rumors corrected without ridiculing), no forced disclosure (pass signal, 'no learner asked to share their own experience', capstone completed privately), consent-centered (FRIES, 'a yes can become a no'), safeguarding referral in every lesson ('do not promise secrecy'), delay/abstinence normalized (complete valid choices, neither ranked), factual-not-graphic delivery ('do not show graphic images'), no push toward disclosure (home connections conditional on safety). Physical activities seated with non-motor/tactile alternatives. Rigorous not dumbed down; questions held as questions."
   - id: B-391
     title: "Author lessons for Unit U.10.009 (Global History: Time, Culture & Atrocity)"
     agent: lesson-author

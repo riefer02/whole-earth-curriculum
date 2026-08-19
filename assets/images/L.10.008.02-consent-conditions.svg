@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Consent: Five Conditions</title>
+  <desc id="desc">Five labeled boxes describing the conditions of real consent — freely given, informed, reversible, specific, and enthusiastic — each with a plain-language explanation and a check mark.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Real Yes Is&#8230;</text>
+
+  <g font-family="sans-serif" stroke="#2b3a42" stroke-width="1.5">
+    <rect x="36" y="56" width="440" height="76" rx="8" fill="#ffffff"/>
+    <circle cx="74" cy="94" r="14" fill="#7a9e7e"/>
+    <path d="M68 94 l5 6 l9 -10" stroke="#fdfbf7" stroke-width="3" fill="none"/>
+    <text x="100" y="90" font-size="16" font-weight="bold" fill="#222222">Freely given</text>
+    <text x="100" y="114" font-size="14" fill="#4f6d7a">No pressure, no threat, no guilt, no &#8220;you owe me.&#8221;</text>
+
+    <rect x="36" y="148" width="440" height="76" rx="8" fill="#ffffff"/>
+    <circle cx="74" cy="186" r="14" fill="#7a9e7e"/>
+    <path d="M68 186 l5 6 l9 -10" stroke="#fdfbf7" stroke-width="3" fill="none"/>
+    <text x="100" y="182" font-size="16" font-weight="bold" fill="#222222">Informed</text>
+    <text x="100" y="206" font-size="14" fill="#4f6d7a">Everyone knows what they are agreeing to.</text>
+
+    <rect x="36" y="240" width="440" height="76" rx="8" fill="#ffffff"/>
+    <circle cx="74" cy="278" r="14" fill="#7a9e7e"/>
+    <path d="M68 278 l5 6 l9 -10" stroke="#fdfbf7" stroke-width="3" fill="none"/>
+    <text x="100" y="274" font-size="16" font-weight="bold" fill="#222222">Reversible</text>
+    <text x="100" y="298" font-size="14" fill="#4f6d7a">A yes can become a no at any time, and the other person stops.</text>
+
+    <rect x="36" y="332" width="440" height="76" rx="8" fill="#ffffff"/>
+    <circle cx="74" cy="370" r="14" fill="#7a9e7e"/>
+    <path d="M68 370 l5 6 l9 -10" stroke="#fdfbf7" stroke-width="3" fill="none"/>
+    <text x="100" y="366" font-size="16" font-weight="bold" fill="#222222">Specific</text>
+    <text x="100" y="390" font-size="14" fill="#4f6d7a">Yes to one thing is not yes to everything.</text>
+
+    <rect x="36" y="424" width="440" height="70" rx="8" fill="#ffffff"/>
+    <circle cx="74" cy="459" r="14" fill="#7a9e7e"/>
+    <path d="M68 459 l5 6 l9 -10" stroke="#fdfbf7" stroke-width="3" fill="none"/>
+    <text x="100" y="455" font-size="16" font-weight="bold" fill="#222222">Enthusiastic</text>
+    <text x="100" y="478" font-size="14" fill="#4f6d7a">A real, wanted yes &#8212; not a resigned one.</text>
+  </g>
+</svg>

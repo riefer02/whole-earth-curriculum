@@ -39,8 +39,15 @@ help-seeking work. Learners analyze the risks and responsibilities of sexual
 activity, including contraception and preventing infections, using accurate
 information, and evaluate sources of health information — online, peer, and marketing
 — for accuracy and bias. Every body, every pace, and every family's way of living is
-honored; the body is taught with dignity, never shame, and questions are met with
-accurate information and care, not fear.
+honored; learners of every gender and sexuality, and every form of family and
+relationship, are seen and included without hierarchy. The body is taught with
+dignity, never shame, and questions are met with accurate information and care, not
+fear. Disabled and neurodivergent learners are full participants, not exceptions:
+disabled bodies are taught as bodies with the same rights to accurate sexual-health
+information, consent, contraception, and care, and no body or pace is treated as
+lesser. Key vocabulary, the consent conditions, and the source questions can be
+offered in learners' home languages, and every lesson has a voice-and-paper path that
+needs no device, no wealth, and no ability to see or write.
 
 ## Essential questions
 
@@ -51,3 +58,13 @@ accurate information and care, not fear.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Starting with Care: Honoring Every Body, Every Pace | D03.S4.10.01 |
+| 2 | Consent: Freely Given, Informed, Reversible | D03.S4.10.01 |
+| 3 | Refreshing the Facts: Conception, Anatomy, and Rumor vs. Reality | D03.S4.10.01 |
+| 4 | Contraception: How the Main Methods Work | D03.S4.10.01 |
+| 5 | Preventing Infections: STIs, Testing, and Care | D03.S4.10.01 |
+| 6 | Risks, Responsibilities, and Decisions | D03.S4.10.01 |
+| 7 | Where Health Information Comes From | D03.S4.10.02 |
+| 8 | Online Health Information: Reading Laterally | D03.S4.10.02 |
+| 9 | Peer, Marketing, and Pressure: Reading Bias | D03.S4.10.02 |
+| 10 | Capstone: My Decision Guide and Source Check | D03.S4.10.01, D03.S4.10.02 |

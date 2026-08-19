@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Capstone: Decision Guide and Source Check</title>
+  <desc id="desc">A two-part capstone template — a risks-and-responsibilities analysis on the left and a source-evaluation checklist on the right — with a self-check rubric at the bottom.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Capstone: Two Skills, Shown</text>
+
+  <!-- Part 1 -->
+  <rect x="24" y="50" width="226" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="50" width="226" height="30" rx="10" fill="#7a9e7e"/>
+  <text x="137" y="70" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Part 1 &#183; Risks &amp; Responsibilities</text>
+  <g font-family="sans-serif" font-size="12" fill="#4f6d7a">
+    <text x="137" y="102" text-anchor="middle">One risk:</text>
+    <rect x="40" y="112" width="194" height="24" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1"/>
+    <text x="137" y="156" text-anchor="middle">One responsibility:</text>
+    <rect x="40" y="166" width="194" height="24" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1"/>
+    <text x="137" y="210" text-anchor="middle">One evidence-based option</text>
+    <text x="137" y="226" text-anchor="middle">(accurate info on contraception</text>
+    <text x="137" y="242" text-anchor="middle">&amp; preventing infections):</text>
+    <rect x="40" y="252" width="194" height="24" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1"/>
+  </g>
+
+  <!-- Part 2 -->
+  <rect x="262" y="50" width="226" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="262" y="50" width="226" height="30" rx="10" fill="#6b93b6"/>
+  <text x="375" y="70" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Part 2 &#183; Source Evaluation</text>
+  <g font-family="sans-serif" font-size="12" fill="#4f6d7a">
+    <text x="375" y="102" text-anchor="middle">Source (who made it):</text>
+    <rect x="278" y="112" width="194" height="22" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1"/>
+    <text x="375" y="152" text-anchor="middle">Motive (help / belong / sell):</text>
+    <rect x="278" y="162" width="194" height="22" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1"/>
+    <text x="375" y="202" text-anchor="middle">Evidence offered &amp; what is left out:</text>
+    <rect x="278" y="212" width="194" height="22" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1"/>
+    <text x="375" y="252" text-anchor="middle">Verdict: accurate / biased / false</text>
+    <rect x="278" y="262" width="194" height="22" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1"/>
+  </g>
+
+  <!-- self-check rubric -->
+  <rect x="24" y="320" width="464" height="110" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Self-check</text>
+  <g font-family="sans-serif" font-size="12" fill="#4f6d7a">
+    <text x="40" y="370">&#9633; Did I name a risk and a responsibility with accurate information?</text>
+    <text x="40" y="392">&#9633; Did I identify the claim&#8217;s source, motive, and bias?</text>
+    <text x="40" y="414">Not yet &#183; With help &#183; On my own &#183; Can teach someone else</text>
+  </g>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Assessed on reasoning and accuracy &#8212; never on your values.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">These two skills are your freedom to decide for yourself, on evidence.</text>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Prevent, Test, Treat</title>
+  <desc id="desc">A three-step pathway labeled Prevent, Test, and Treat, each with a short note, and a side note that some infections are curable and others manageable, without shame.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Infections: Prevent &#183; Test &#183; Treat</text>
+
+  <!-- step 1 -->
+  <rect x="36" y="66" width="130" height="190" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="101" cy="104" r="24" fill="#7a9e7e"/>
+  <text x="101" y="110" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">1</text>
+  <text x="101" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Prevent</text>
+  <text x="101" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Condoms</text>
+  <text x="101" y="194" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Vaccines</text>
+  <text x="101" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(HPV, hep B)</text>
+  <text x="101" y="238" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Talking with a partner</text>
+
+  <!-- arrow -->
+  <line x1="170" y1="161" x2="200" y2="161" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="204,161 192,155 192,167" fill="#2b3a42"/>
+
+  <!-- step 2 -->
+  <rect x="208" y="66" width="130" height="190" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="273" cy="104" r="24" fill="#6b93b6"/>
+  <text x="273" y="110" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">2</text>
+  <text x="273" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Test</text>
+  <text x="273" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Regular testing</text>
+  <text x="273" y="194" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Especially with</text>
+  <text x="273" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a new partner</text>
+  <text x="273" y="238" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Many STIs have no symptoms</text>
+
+  <!-- arrow -->
+  <line x1="342" y1="161" x2="372" y2="161" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="376,161 364,155 364,167" fill="#2b3a42"/>
+
+  <!-- step 3 -->
+  <rect x="380" y="66" width="96" height="190" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="428" cy="104" r="24" fill="#e0a458"/>
+  <text x="428" y="110" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">3</text>
+  <text x="428" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Treat</text>
+  <text x="428" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Medicine</text>
+  <text x="428" y="194" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Tell partners</text>
+  <text x="428" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">so they can</text>
+  <text x="428" y="230" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">be cared</text>
+  <text x="428" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">for too</text>
+
+  <!-- curable vs manageable -->
+  <g font-family="sans-serif" stroke="#2b3a42" stroke-width="1.5">
+    <rect x="36" y="286" width="210" height="86" rx="8" fill="#ffffff"/>
+    <text x="141" y="312" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">Some are curable</text>
+    <text x="141" y="334" text-anchor="middle" font-size="12" fill="#4f6d7a">Cured with medicine</text>
+    <text x="141" y="354" text-anchor="middle" font-size="12" fill="#4f6d7a">(syphilis, gonorrhoea,</text>
+    <text x="141" y="370" text-anchor="middle" font-size="12" fill="#4f6d7a">chlamydia, trichomoniasis)</text>
+
+    <rect x="266" y="286" width="210" height="86" rx="8" fill="#ffffff"/>
+    <text x="371" y="312" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">Some are manageable</text>
+    <text x="371" y="334" text-anchor="middle" font-size="12" fill="#4f6d7a">Treated over time</text>
+    <text x="371" y="354" text-anchor="middle" font-size="12" fill="#4f6d7a">(HIV, herpes, HPV,</text>
+    <text x="371" y="370" text-anchor="middle" font-size="12" fill="#4f6d7a">hepatitis B)</text>
+  </g>
+
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Prevention, testing, and treatment are self-care and mutual care.</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Never shame. An infection is a health matter, not a mark on your worth.</text>
+</svg>

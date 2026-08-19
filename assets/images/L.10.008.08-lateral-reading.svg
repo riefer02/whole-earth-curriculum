@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading Laterally: Four Moves</title>
+  <desc id="desc">A four-move flowchart for lateral reading — Stop, Investigate the source, Find better coverage, Trace claims to the original — with a browser window and side-tabs motif.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Lateral Reading: Leave the Page</text>
+
+  <!-- browser window -->
+  <rect x="36" y="52" width="440" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="36" y="52" width="440" height="24" rx="8" fill="#4f6d7a"/>
+  <circle cx="52" cy="64" r="4" fill="#fdfbf7"/>
+  <circle cx="66" cy="64" r="4" fill="#fdfbf7"/>
+  <circle cx="80" cy="64" r="4" fill="#fdfbf7"/>
+  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">A surprising claim on a page&#8230;</text>
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">&#8220;This herb cures everything!&#8221;</text>
+  <text x="256" y="146" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Stop. Open new tabs instead of trusting this one.</text>
+
+  <line x1="256" y1="176" x2="256" y2="200" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="256,208 250,196 262,196" fill="#2b3a42"/>
+
+  <g font-family="sans-serif" stroke="#2b3a42" stroke-width="1.5">
+    <rect x="36" y="214" width="210" height="120" rx="8" fill="#ffffff"/>
+    <rect x="36" y="214" width="210" height="28" rx="8" fill="#7a9e7e"/>
+    <text x="141" y="233" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">1 &#183; Stop</text>
+    <text x="141" y="262" text-anchor="middle" font-size="12" fill="#4f6d7a">Pause before believing</text>
+    <text x="141" y="280" text-anchor="middle" font-size="12" fill="#4f6d7a">or sharing</text>
+    <text x="141" y="306" text-anchor="middle" font-size="12" fill="#4f6d7a">Strong feelings = check first</text>
+
+    <rect x="266" y="214" width="210" height="120" rx="8" fill="#ffffff"/>
+    <rect x="266" y="214" width="210" height="28" rx="8" fill="#6b93b6"/>
+    <text x="371" y="233" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">2 &#183; Investigate the source</text>
+    <text x="371" y="262" text-anchor="middle" font-size="12" fill="#4f6d7a">Open a new tab: who is</text>
+    <text x="371" y="280" text-anchor="middle" font-size="12" fill="#4f6d7a">behind this page?</text>
+    <text x="371" y="306" text-anchor="middle" font-size="12" fill="#4f6d7a">Not what the page says of itself</text>
+
+    <rect x="36" y="342" width="210" height="120" rx="8" fill="#ffffff"/>
+    <rect x="36" y="342" width="210" height="28" rx="8" fill="#e0a458"/>
+    <text x="141" y="361" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">3 &#183; Find better coverage</text>
+    <text x="141" y="390" text-anchor="middle" font-size="12" fill="#4f6d7a">Do trustworthy sources</text>
+    <text x="141" y="408" text-anchor="middle" font-size="12" fill="#4f6d7a">report the same thing?</text>
+    <text x="141" y="434" text-anchor="middle" font-size="12" fill="#4f6d7a">If not, be doubtful</text>
+
+    <rect x="266" y="342" width="210" height="120" rx="8" fill="#ffffff"/>
+    <rect x="266" y="342" width="210" height="28" rx="8" fill="#4f6d7a"/>
+    <text x="371" y="361" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">4 &#183; Trace claims</text>
+    <text x="371" y="390" text-anchor="middle" font-size="12" fill="#4f6d7a">Click to the original study</text>
+    <text x="371" y="408" text-anchor="middle" font-size="12" fill="#4f6d7a">or quote, not the summary</text>
+    <text x="371" y="434" text-anchor="middle" font-size="12" fill="#4f6d7a">A dead end is a red flag</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A memory aid calls these SIFT: Stop, Investigate, Find, Trace.</text>
+</svg>
