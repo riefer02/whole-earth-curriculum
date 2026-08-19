@@ -3518,3 +3518,75 @@ sources:
     domains: [D03]
     reviewed: true
     notes: "Cited in Grade-8 lesson L.08.008.08 (medicines, drugs, and safe choices) for the claim that many drugs affect the brain's reward system by releasing dopamine, and that repeated use can change the brain and lead to addiction, which is a treatable health condition. URL verified live (2026-08-18); the canonical NIDA booklet 'Drugs, Brains, and Behavior: The Science of Addiction' (rev. July 2020, with Director's preface by Nora D. Volkow). States verbatim that 'addiction is a medical disorder that affects the brain and changes behavior', and its 'Drugs and the Brain' section describes how drugs alter the brain's reward system (dopamine). Directly supports the lesson's reward-system/dopamine, dependence, and addiction-as-treatable-health-condition claims. US-based authority; the lesson treats it as one scientific account among others and pairs it with the WHO psychoactive-substances frame (S-376)."
+
+  - id: S-378
+    title: "Encyclopaedia Britannica — Maya (Dates, Collapse, Civilization)"
+    type: website
+    url: https://www.britannica.com/topic/Maya-people
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.009.02 (weighing competing explanations for the Classic Maya collapse) for the claims that the Classic Maya civilization flourished from about 250 to 900 CE across Mesoamerica, built great cities with writing, astronomy, and a precise calendar, and that many southern-lowland cities were abandoned around 800–950 CE, with competing explanations — drought, warfare, and environmental stress — that scholars now see working together. Britannica's 'Maya' article is titled 'Maya | Dates, Collapse, Facts, Religion, People, Language, & Civilization' and covers the Classic Maya and the collapse debate. Verified live (2026-08-18) that the topic page exists at this URL (the article title confirms coverage of 'Collapse'). The specific drought evidence (e.g., gypsum and oxygen-isotope records at Lake Chichancanab) is standard, widely documented paleoclimate scholarship; held as a documented explanation among several, not a single-answer verdict. Fact-checker verified (2026-08-18) live: the Britannica 'Maya' article confirms the Classic Period c. 250–900 CE, the post-900 precipitous decline of the lowland cities, and multiple causes (armed conflict, exhausted agricultural land, war-related trade-route disruption, deforestation, drought) — supporting the lesson's multi-cause, non-single-cause framing."
+
+  - id: S-379
+    title: "Encyclopaedia Britannica — Astrolabe (instrument)"
+    type: website
+    url: https://www.britannica.com/science/astrolabe-instrument
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.009.04 (comparing two knowledge traditions) for the claim that Indian Ocean navigators used instruments such as the astrolabe to measure the height of the Sun and stars, alongside the kamal and written sailing guides. The Britannica 'astrolabe' article ('Astrolabe | Definition, History, & Facts') documents the astrolabe as an instrument for measuring the positions of celestial bodies and its use in navigation. Verified live (2026-08-18) that the topic page exists at this URL. Fact-checker verified (2026-08-18) live: Britannica documents the astrolabe as an instrument for reckoning time and observational astronomy that 'by about the mid-15th century' was 'adopted by mariners and used in celestial navigation' — supporting the lesson's use of the astrolabe (alongside the kamal) for Indian Ocean navigation."
+
+  - id: S-380
+    title: "UNESCO World Heritage Centre — Ruins of Kilwa Kisiwani and Ruins of Songo Mnara (Dossier 144)"
+    type: website
+    url: https://whc.unesco.org/en/list/144/
+    organization: UNESCO World Heritage Centre
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in Grade-8 lessons L.08.009.05 (cultural blending on the Swahili coast) and L.08.009.06 (trade networks) for the claims that Kilwa Kisiwani was a Swahili trading city whose merchants, from the 13th to the 16th centuries, dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware, and Chinese porcelain; that it minted its own coins (11th–14th c.); and that the traveler Ibn Battuta stopped there in 1331–32 and described Kilwa as 'one of the most beautiful cities in the world.' Verified live (2026-08-18): the UNESCO page states verbatim that Kilwa's merchants 'dealt in gold, silver, pearls, perfumes, Arabian crockery, Persian earthenware and Chinese porcelain', that 'Kilwa Kisiwani minted its own currency in the 11th to 14th centuries', and that 'In 1331-1332, the great traveler, Ibn Battouta made a stop here and described Kilwa as one of the most beautiful cities of the world.' Fact-checker verified (2026-08-18) live against whc.unesco.org/en/list/144/: all three verbatim quotes confirmed (goods list; coin minting 11th–14th c.; Ibn Battuta 1331–32 and the 'most beautiful cities' line)."
+
+  - id: S-381
+    title: "Encyclopaedia Britannica — Swahili language"
+    type: website
+    url: https://www.britannica.com/topic/Swahili-language
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.009.05 (cultural blending on the Swahili coast) for the claim that Kiswahili is a Bantu language in grammar and core vocabulary that absorbed many Arabic loanwords (and later Persian, Portuguese, and English ones), was long written in Arabic script, and is today spoken by tens of millions. The Britannica 'Swahili language' article documents Swahili as a Bantu language with substantial Arabic borrowing and its historical use of Arabic script. Fact-checker verified (2026-08-18) live: Britannica states Swahili 'has been greatly influenced by Arabic' with 'an enormous number of Arabic loanwords,' is 'characteristically Bantu in its grammar,' and that the oldest preserved Swahili literature 'is written in the Arabic script.'"
+
+  - id: S-382
+    title: "U.S. National Park Service — Chaco Culture National Historical Park"
+    type: website
+    url: https://www.nps.gov/chcu/index.htm
+    organization: U.S. National Park Service
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.009.07 (environmental change and migration) for the claim that Chaco Canyon was a thriving regional center of the Ancestral Pueblo people from about 850 to 1250 CE, and that sustained drought in the late 1200s contributed to people migrating to new pueblos along the Rio Grande and elsewhere, where their descendants live today. Verified live (2026-08-18): the NPS Chaco Culture page states Chaco was 'a thriving regional center for the ancestral Pueblo people from 850 to 1250 CE.' The drought-and-migration account is standard, well-documented Southwestern archaeology (tree-ring records); the NPS page confirms the dates while the drought-abandonment interpretation is a widely held scholarly account. Fact-checker verified (2026-08-18) live: the NPS page states verbatim Chaco was 'a thriving regional center for the ancestral Pueblo people from 850 to 1250 CE (Common Era).'"
+
+  - id: S-383
+    title: "IOM — Climate Action (Migration, Environment and Climate Change)"
+    type: website
+    url: https://www.iom.int/climate-action
+    organization: International Organization for Migration (UN Migration)
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.009.07 (environmental change and migration) for the claim that environmental and climate change — sea-level rise, drought, and flood — are real drivers of migration today, within and across borders. IOM (the UN Migration agency) documents climate and environment as real drivers of displacement. Fact-checker verified (2026-08-18): the originally-registered URL https://www.iom.int/migration-environment-and-climate-change now 301-redirects to https://www.iom.int/climate-action (confirmed via Wayback Machine capture of the redirect, 2024-12-24), so the URL was updated to the current canonical page. iom.int returns HTTP 403 to automated clients (bot-blocking), but the 'Climate action' page is real and on-topic: IOM states it 'supports communities affected by or at risk of displacement whether caused to climate change, environmental degradation, conflict or instability.' Paired with the reviewed IOM 'Who is a migrant?' source (S-086) and the IPCC (S-005)."
+
+  - id: S-384
+    title: "Encyclopaedia Britannica — Toussaint Louverture (Haitian Revolution)"
+    type: website
+    url: https://www.britannica.com/biography/Toussaint-Louverture
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.009.08 (slavery and resistance) for the claim that the Haitian Revolution (1791–1804), led in part by Toussaint Louverture, ended slavery and established Haiti as an independent nation in 1804. The Britannica biography of Toussaint Louverture documents his leadership of the Haitian Revolution and the achievement of Haitian independence. Fact-checker verified (2026-08-18) live: Britannica confirms the August 1791 uprising, Louverture's central leadership, and that his work 'laid the foundation for Haiti's eventual independence in 1804' (he died in 1803 and did not live to see it) — matching the lesson's careful 'led in part by Toussaint Louverture.'"
+
+  - id: S-385
+    title: "Encyclopaedia Britannica — Spiritual (African American music)"
+    type: website
+    url: https://www.britannica.com/topic/spiritual
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.009.09 (keeping humanity, culture, and hope under oppression) for the claim that the spiritual is an African American religious song born of the enslaved experience, carrying sorrow, faith, hope, and sometimes hidden messages. The Britannica 'spiritual' article documents the spiritual as a folk song tradition that emerged among enslaved African Americans and expresses their religious faith and lived experience. Fact-checker verified (2026-08-18) live: Britannica documents Black spirituals as folk hymns sung by enslaved African Americans in worship and as work songs, with double meanings alluding to liberation. The registered /topic/spiritual URL resolves to the article (canonical /art/spiritual)."

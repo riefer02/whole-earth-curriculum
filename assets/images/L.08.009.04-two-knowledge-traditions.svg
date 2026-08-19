@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two knowledge traditions compared</title>
+  <desc id="desc">Two side-by-side panels — Polynesian wayfinding reading stars, swells, clouds, and birds, passed on orally; and Indian Ocean navigation using the astrolabe and written tables, passed on in writing — joined by a band noting where the two agree and differ.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Two ways of finding the way across the sea</text>
+
+  <!-- panel 1: wayfinding -->
+  <rect x="24" y="70" width="224" height="286" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Polynesian wayfinding</text>
+  <text x="136" y="118" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">reads the whole environment:</text>
+  <g font-family="sans-serif" font-size="11.5" fill="#222222" text-anchor="middle">
+    <text x="136" y="140">stars for direction</text>
+    <text x="136" y="158">swells beneath the canoe</text>
+    <text x="136" y="176">clouds over islands</text>
+    <text x="136" y="194">birds near land</text>
+  </g>
+  <text x="136" y="224" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">held in memory,</text>
+  <text x="136" y="242" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">passed on by oral tradition</text>
+  <text x="136" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(Hōkūleʻa, 1976 —</text>
+  <text x="136" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">no instruments)</text>
+
+  <!-- panel 2: astronomical navigation -->
+  <rect x="264" y="70" width="224" height="286" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Indian Ocean navigation</text>
+  <text x="376" y="118" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">reads sky and sea with tools:</text>
+  <g font-family="sans-serif" font-size="11.5" fill="#222222" text-anchor="middle">
+    <text x="376" y="140">the astrolabe measures</text>
+    <text x="376" y="158">the Sun and stars</text>
+    <text x="376" y="176">the kamal measures height</text>
+    <text x="376" y="194">the monsoon wind reverses</text>
+  </g>
+  <text x="376" y="224" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">recorded in tables,</text>
+  <text x="376" y="242" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">passed on in writing</text>
+  <text x="376" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(sailing guides and</text>
+  <text x="376" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">written tables)</text>
+
+  <!-- agreement band -->
+  <rect x="24" y="376" width="464" height="108" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Where they agree: both read the sky and sea — both are precise, living knowledge.</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Where they differ: oral and whole-environment vs. written instruments and tables;</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and different seas — open Pacific vs. monsoon coasts.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Neither is "less" — each is complete in its own world.</text>
+</svg>

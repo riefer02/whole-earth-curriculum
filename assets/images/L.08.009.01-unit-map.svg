@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit map: Trade, Knowledge &amp; the Human Story</title>
+  <desc id="desc">A map of the unit showing four strands — change and continuity, knowledge traditions, migration and trade, and power and resistance — each with two short goals, connected by the words trade, knowledge, and the human story.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Trade, Knowledge &amp; the Human Story</text>
+
+  <!-- center banner -->
+  <rect x="116" y="228" width="280" height="52" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">history is the human story,</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">told from many perspectives</text>
+
+  <!-- strand 1: change & continuity -->
+  <g>
+    <rect x="36" y="86" width="180" height="110" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="126" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Change &amp; Continuity</text>
+    <text x="126" y="136" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">weigh competing explanations</text>
+    <text x="126" y="154" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">what changes &amp; what stays</text>
+  </g>
+
+  <!-- strand 2: knowledge traditions -->
+  <g>
+    <rect x="296" y="86" width="180" height="110" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="386" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Knowledge Traditions</text>
+    <text x="386" y="136" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">compare two traditions</text>
+    <text x="386" y="154" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">what grows when cultures blend</text>
+  </g>
+
+  <!-- strand 3: migration & trade -->
+  <g>
+    <rect x="36" y="308" width="180" height="110" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="126" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Migration &amp; Trade</text>
+    <text x="126" y="358" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">long-distance trade networks</text>
+    <text x="126" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">environment &amp; movement</text>
+  </g>
+
+  <!-- strand 4: power & resistance -->
+  <g>
+    <rect x="296" y="308" width="180" height="110" rx="8" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="386" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fdfbf7">Power &amp; Resistance</text>
+    <text x="386" y="358" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fdfbf7">slavery &amp; resistance</text>
+    <text x="386" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fdfbf7">keeping humanity &amp; hope</text>
+  </g>
+
+  <!-- connectors to center -->
+  <path d="M126 196 L196 228" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M386 196 L316 228" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M126 308 L196 280" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M386 308 L316 280" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">eight goals — two per strand — one shared human story</text>
+</svg>

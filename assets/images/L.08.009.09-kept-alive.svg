@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Keeping humanity, culture, and hope alive</title>
+  <desc id="desc">A diagram of four channels — music, language, family and community, and faith — through which enslaved and colonized peoples kept their humanity, culture, and hope alive, each channel labeled with an example like spirituals, capoeira, creole languages, and family.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">How people kept humanity, culture &amp; hope alive</text>
+
+  <!-- channel 1 -->
+  <g>
+    <rect x="36" y="80" width="200" height="90" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="106" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">music</text>
+    <text x="136" y="128" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">spirituals — sorrow, faith, hope</text>
+    <text x="136" y="146" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">capoeira — movement and music</text>
+  </g>
+
+  <!-- channel 2 -->
+  <g>
+    <rect x="276" y="80" width="200" height="90" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="106" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">language</text>
+    <text x="376" y="128" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">creole languages — new and complete</text>
+    <text x="376" y="146" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">keeping and reviving home tongues</text>
+  </g>
+
+  <!-- channel 3 -->
+  <g>
+    <rect x="36" y="200" width="200" height="90" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="136" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">family &amp; community</text>
+    <text x="136" y="248" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">kinship the law could not break</text>
+    <text x="136" y="266" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">care that held people together</text>
+  </g>
+
+  <!-- channel 4 -->
+  <g>
+    <rect x="276" y="200" width="200" height="90" rx="8" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="376" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#fdfbf7">faith</text>
+    <text x="376" y="248" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#fdfbf7">blending African traditions with others</text>
+    <text x="376" y="266" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#fdfbf7">keeping connection to ancestors</text>
+  </g>
+
+  <!-- center -->
+  <rect x="136" y="324" width="240" height="64" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">humanity, culture &amp; hope</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">could not be taken away</text>
+
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">Keeping culture was not only survival — it was creation.</text>
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">The same pattern appears across continents, wherever peoples kept their culture under oppression.</text>
+</svg>

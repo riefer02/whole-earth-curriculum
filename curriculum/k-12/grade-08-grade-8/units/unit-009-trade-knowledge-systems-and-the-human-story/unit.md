@@ -71,3 +71,13 @@ perspectives, never one people's triumph.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Trade, Knowledge & the Human Story: Where We've Been, Where We're Going | all eight D08 grade-8 objectives |
+| 02 | Weighing Competing Explanations: The Classic Maya Collapse | D08.S1.08.01 |
+| 03 | Change & Continuity in a Long-Running Practice: Trade | D08.S1.08.02 |
+| 04 | Comparing Two Knowledge Traditions: Polynesian Wayfinding & Indian Ocean Navigation | D08.S2.08.01 |
+| 05 | Cultural Exchange & Blending: The Swahili Coast | D08.S2.08.02 |
+| 06 | Trade Networks: The Silk Roads & Indian Ocean Routes | D08.S3.08.01 |
+| 07 | Environmental Change & Migration: Past and Today | D08.S3.08.02 |
+| 08 | Slavery & the Transatlantic Slave Trade: Systems Built on the Denial of Human Dignity | D08.S4.08.01 |
+| 09 | Keeping Humanity, Culture & Hope Under Oppression | D08.S4.08.02 |
+| 10 | Capstone: Trade, Knowledge & the Human Story — Putting It Together | all eight D08 grade-8 objectives |

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Cultural blending on the Swahili coast</title>
+  <desc id="desc">A diagram of cultural blending on the Swahili coast — African Bantu languages and traditions meeting Arabic, Persian, and Indian influences across the Indian Ocean, and the new things that grew: the Kiswahili language, stone cities like Kilwa, and a shared coastal trade culture.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Cultures meeting on the Swahili coast</text>
+
+  <!-- source 1: Africa -->
+  <rect x="40" y="80" width="176" height="100" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">East Africa</text>
+  <text x="128" y="128" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Bantu languages</text>
+  <text x="128" y="146" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">farming &amp; traditions</text>
+
+  <!-- source 2: Indian Ocean -->
+  <rect x="296" y="80" width="176" height="100" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="384" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Across the Indian Ocean</text>
+  <text x="384" y="128" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Arabic, Persian, Indian</text>
+  <text x="384" y="146" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">languages, Islam, porcelain</text>
+
+  <!-- arrows down to meeting -->
+  <path d="M128 180 L128 226 L256 266" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr)"/>
+  <path d="M384 180 L384 226 L256 266" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr)"/>
+  <defs>
+    <marker id="sarr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- what grew -->
+  <rect x="104" y="268" width="304" height="148" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">what grew from the meeting</text>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the Kiswahili language — Bantu with Arabic words</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">stone cities like Kilwa — trading gold and ivory</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a shared coastal culture — dhow, coral stone, food, music</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">Blending is creation, not loss — something new grew that belonged to no one side alone.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Mutual exchange between trading partners, not conquest.</text>
+</svg>

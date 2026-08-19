@@ -4989,7 +4989,7 @@ items:
     type: lesson
     grade: 8
     domain: D08
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -5001,6 +5001,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1262 files). 10 lessons L.08.009.01-.10, sequence 1-10 no gaps; objectives resolve only to eight grade-8 D08 IDs (L.008->D08.S4.08.01, L.002->D08.S1.08.01); Procedure/Assessment/Connection present; unit.md Lessons table matches; 10 SVGs with alt; all S-codes resolve. Observation: L.08.009.08 slavery lesson age-appropriate — care norms first, scale in numbers not images, centers enslaved agency (revolt/marronage/keeping culture), door open to hope; 12.5M transported/~10.7M survived + Haitian Revolution 1791-1804 tied to sources."
+      fact-checker:
+        verdict: passed
+        note: "Verified 8 new sources S-378-S-385 live+supporting, marked reviewed:true. Maya Classic c.250-900, multi-cause decline not single-cause (Britannica S-378); astrolabe + kamal pairing correct (S-379); Kilwa quotes verbatim (S-380); Swahili Bantu+Arabic (S-381); Chaco 850-1250 CE (S-382); fixed IOM 301-redirect URL (S-383); Toussaint 'led in part' correct (S-384); spirituals (S-385). Claims: transatlantic 12.5M/~10.7M (S-322), Haitian Revolution 1791-1804, Hokulea 1976, Zheng He 1405-1433 all verified. 10 SVGs accurate+original. validate green (1262 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No Europe-centered 'rise of the West' narrative; organizing idea = human story from many perspectives. Non-Western knowledge traditions central + non-hierarchical (Polynesian wayfinding vs Indian Ocean navigation side by side, Maya astronomy central, rejection of primitive/advanced). Slave trade framed as GLOBAL system centering dignity/agency (Haiti, Palmares, spirituals, capoeira, Candomble/Vodou); trade networks multi-directional. Ancestral Pueblo not 'Anasazi'. Fix: L8 'four continents' -> 'three continents' matching accurate triangle. validate green (1262 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier on all 10; alt text + role=img/title/desc on all 10 SVGs; grayscale-safe palette. Fixed Silk Roads overland route color-only issue (#e0a458 -> #4f6d7a). Added tactile string/rope map + felt-and-heard path (L6), partner-reads + finger-counting non-visual path (L1), speak/act/object-built capstone web instead of draw-only (L10), replaced 'phone in your pocket' wealth assumption with 'cup you drink from' (L3). validate green (1262 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: objectives resolve only to eight grade-8 D08 IDs (D08.S1/S2/S3/S4.08.01/.02), no invented/off-grade; prior-grade refs only in retrieval prose; chain D08->P4->vision. Lenses: ethics/egalitarianism/global in all 10; tech&environment in L2/L3/L7/L10; rejection of primitive/advanced. Evidence vs values: 23 S-IDs all resolve + URLs; distinction explicit (L7/L8). validate green (1262 files). No fixes needed."
+      child-psychologist:
+        verdict: passed
+        note: "L8/L9 atrocity material safe: care norms before content, non-graphic (scale in numbers not images), dignity + agency centered (revolt/marronage/keeping culture), door to hope. L9 culture as creation (spirituals/capoeira/creoles/Candomble-Vodou), closes on hope. L2 Maya decline framed as weighing-evidence, no apocalyptic fear, corrects 'vanished' myth. Cognitive fit: historical reasoning matches emerging formal operations with concrete worked examples. Multi-modal + spiral. validate green (1262 files). Non-blocking: L7 climate-migration close slightly weighty (add a hope beat); L8 enriched Haitian Revolution video should have explicit 'preview before showing' note."
   - id: B-368
     title: Author lessons for Unit U.08.010 (Ethics, Justice & Civic Power)
     agent: lesson-author
