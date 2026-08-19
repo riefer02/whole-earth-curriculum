@@ -5988,7 +5988,7 @@ items:
     type: lesson
     grade: 10
     domain: D01
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -6000,6 +6000,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1553 files). All 7 lessons: kind lesson, id L.10.012.NN matching sequence_in_unit 1-7, unit U.10.012, pillar [P1], domain/strand consistent with objectives. All 4 objectives resolve to real grade-10 standards (D01.S2.10.02→L1/2/7, D01.S3.10.01→L3/7, D02.S3.10.02→L4/7, D02.S4.10.02→L5/6/7). Required headings present in all 7. Connections concrete/faithful (L1 'a label is a single flat card; a person is a whole room of things at once'). 7 assets non-empty alt + resolve to real SVGs; unit.md table matches."
+      fact-checker:
+        verdict: passed
+        note: "Fixed: L6 cited Dean Spade as S-346 (actually Aristotle Rhetoric) — corrected to S-345 (real Dean Spade 2020 entry) and updated S-345 notes. Verified: ICA S-486 (founded 1895, 3 million cooperatives, >=12% of humanity, one member one vote) verbatim; Erikson S-155, Markus & Nurius possible selves S-399, McAdams narrative identity S-404, Damon purpose S-400; Locke & Latham S-223, Dunlosky S-039, Roediger & Karpicke S-228, Dweck S-096 (effects real but modest hedge), Kirschner S-011; Mondragon S-487, Ostrom S-416, Kropotkin S-163, harambee/gotong royong/mink'a/barn-raising S-164. Evidence vs values distinguished; global sources well represented (Andes, East Africa, Indonesia, Colombia, India, Basque Country). Validate passes (1553 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Cooperative/mutual-aid content spans world regions without Western default: Mondragon (Basque), ICA global cooperative movement, Ostrom cross-societal commons, named communal-work traditions harambee (Swahili/East Africa), gotong royong (Indonesia), mink'a/minga (Andes), barn raising (North America) explicitly 'one named tradition in one place, never all people there do this'. Identity/community avoids single-norm framing (L4 'no community form is the default... village, diaspora, chosen family'; nation as 'imagined community'). Fixed: L1 Connection presumed sibling family norm ('cooks for a younger sibling') → 'cooks a meal for others'. Validate passes (1553 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "All 7 lessons declare materials_low_tech tier (paper/voice/found objects, no silent wealth/device requirement); all 7 assets non-empty alt; all SVGs role=img + title/desc. Added non-visual path (Access blind/low vision: verbal description + tactile found-object equivalent) and non-writing/non-oral expression alternative (placing/pointing to objects or pre-printed cards, drawing, symbols/gestures) to Differentiation of all 7 — closing gap where reflective/portfolio artifacts required writing. Validate passes (1553 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses verified: ethics (cooperation/mutual aid/solidarity as moral reasoning — whole-person dignity, one member one vote vs ownership-by-a-few, mutual-aid-vs-charity by where power sits); egalitarianism (benefits the many, labels land hardest on the stereotyped, co-ops benefit members not the few, no ranking of community/family forms); global/anthropological (Escuela Nueva Colombia/TaRL India, Mondragon Basque, Ostrom commons, harambee/gotong royong/mink'a-minga/barn raising each 'one tradition in one place'); technology & environment (feeds shrink the self, device-as-one-resource, platforms coordinate-or-concentrate, living Earth stewardship). Evidence distinguished from values; S-codes resolve to reviewed:true entries. Traceability: objectives resolve verbatim to real grade-10 standards (D01.S2.10.02, D01.S3.10.01, D02.S3.10.02, D02.S4.10.02) → strands → D01/D02 → P1 → vision. No hierarchy/supremacy/enrichment. Non-blocking: L6 stray double space."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: cognitive load matches (formal operations, identity/purpose consolidation, political economy) with per-lesson scaffolding (worked example + retrieval + sentence starters), evidence vs values distinguished. Emotional safety: vulnerable identity reflection scaffolded with opt-outs and learner-chosen sharing ('share one part you are proudest of', 'let quiet learners share in writing or not at all; presence is enough'); no forced disclosure or shaming ('purpose may be quiet or loud', 'I don't know yet is a complete answer'); Grade-11 plan mastery/not-yet framed (Dweck with replication cautions), never ranked; 'no one's story outranks another's', celebration-not-test explicit. Physical: seated/non-motor, non-writing/non-oral, blind/low-vision access, outdoor optional. Open-endedness: identity is 'your own', cooperative/mutual-aid values as judgments to weigh not assert. Not dumbed down (narrative identity, commons governance, charity-vs-solidarity at grade-10 depth)."
   - id: B-395
     title: Author lessons for Unit U.11.001 (Feelings, Identity & Purpose)
     agent: lesson-author

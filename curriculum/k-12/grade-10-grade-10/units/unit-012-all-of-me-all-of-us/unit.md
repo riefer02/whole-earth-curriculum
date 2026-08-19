@@ -60,3 +60,10 @@ into governance, solidarity, and stewardship across generations.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | All of Me: The Whole Person I Am Becoming | D01.S2.10.02 |
+| 2 | The Considered Position, Carried Forward | D01.S2.10.02 |
+| 3 | Authoring My Learning: A Grade-11 Plan | D01.S3.10.01 |
+| 4 | From My Doorstep to the Whole World | D02.S3.10.02 |
+| 5 | Cooperative Economies: Ownership We Share | D02.S4.10.02 |
+| 6 | Mutual Aid: Solidarity in Action | D02.S4.10.02 |
+| 7 | All of Us: Celebration, Community, and the Living Earth | D01.S2.10.02, D01.S3.10.01, D02.S3.10.02, D02.S4.10.02 |

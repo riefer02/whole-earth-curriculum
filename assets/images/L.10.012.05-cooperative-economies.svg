@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>One member, one vote: cooperative ownership</title>
+  <desc>A circle of six people of varied skin tones and dress sits around a shared table holding a shop, a farm, and a bank, with an arrow showing that each person has one equal vote and that all share both the deciding and the benefit. A small key above the table reads 'one member, one vote'.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- key -->
+  <g font-family="sans-serif" font-size="20" fill="#222222" text-anchor="middle">
+    <rect x="156" y="34" width="200" height="40" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="60">one member, one vote</text>
+  </g>
+  <!-- shared table center -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none">
+    <rect x="176" y="230" width="160" height="64" rx="8" fill="#fdfbf7"/>
+    <rect x="190" y="244" width="40" height="36" rx="4" fill="#7a9e7e"/>
+    <path d="M 244 244 q 0 -14 12 -14 l 40 0 q 12 0 12 14 l 0 36 q 0 10 -8 10 l -48 0 q -8 0 -8 -10 z" fill="#6b93b6" stroke="#2b3a42"/>
+    <path d="M 300 244 q 0 -14 12 -14 l 22 0 q 12 0 12 14 l 0 30 l -46 0 z" fill="#e0a458" stroke="#2b3a42"/>
+  </g>
+  <!-- six people around -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <g>
+      <circle cx="256" cy="158" r="18" fill="#c98d5f"/>
+      <path d="M 256 176 q -3 16 -16 18 l 0 30 q 0 5 5 5 l 22 0 q 5 0 5 -5 l 0 -30 q -13 -2 -16 -18 z" fill="#7a9e7e"/>
+    </g>
+    <g>
+      <circle cx="120" cy="220" r="17" fill="#8a5a3b"/>
+      <path d="M 120 237 q -3 15 -15 17 l 0 28 q 0 5 4 5 l 22 0 q 4 0 4 -5 l 0 -28 q -12 -2 -15 -17 z" fill="#6b93b6"/>
+    </g>
+    <g>
+      <circle cx="392" cy="220" r="17" fill="#c98d5f"/>
+      <path d="M 392 237 q -3 15 -15 17 l 0 28 q 0 5 4 5 l 22 0 q 4 0 4 -5 l 0 -28 q -12 -2 -15 -17 z" fill="#e0a458"/>
+    </g>
+    <g>
+      <circle cx="120" cy="352" r="17" fill="#c98d5f"/>
+      <path d="M 120 369 q -3 15 -15 17 l 0 28 q 0 5 4 5 l 22 0 q 4 0 4 -5 l 0 -28 q -12 -2 -15 -17 z" fill="#7a9e7e"/>
+    </g>
+    <g>
+      <circle cx="392" cy="352" r="17" fill="#8a5a3b"/>
+      <path d="M 392 369 q -3 15 -15 17 l 0 28 q 0 5 4 5 l 22 0 q 4 0 4 -5 l 0 -28 q -12 -2 -15 -17 z" fill="#6b93b6"/>
+    </g>
+    <g>
+      <circle cx="256" cy="330" r="16" fill="#c98d5f"/>
+      <path d="M 256 346 q -3 14 -14 16 l 0 26 q 0 5 4 5 l 20 0 q 4 0 4 -5 l 0 -26 q -11 -2 -14 -16 z" fill="#e0a458"/>
+    </g>
+  </g>
+  <!-- equal arrows -->
+  <g stroke="#7a9e7e" stroke-width="2.5" fill="none">
+    <line x1="256" y1="188" x2="256" y2="224"/>
+    <line x1="150" y1="238" x2="176" y2="252"/>
+    <line x1="362" y1="238" x2="336" y2="252"/>
+  </g>
+</svg>

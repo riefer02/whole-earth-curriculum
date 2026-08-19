@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>The whole person I am becoming</title>
+  <desc>A central figure stands calmly with arms slightly open, surrounded by six labeled parts of a whole self — my values, my story, my choices, my relationships, my body, my dreams — each connected to the person by a line, with others' empty expectation bubbles floating outside without touching.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- floating expectation bubbles (not touching) -->
+  <g stroke="#4f6d7a" fill="none" stroke-width="2">
+    <path d="M 52 96 q 26 -20 52 0 q -26 20 -52 0 z" opacity="0.5"/>
+    <path d="M 428 78 q 30 -24 60 0 q -30 24 -60 0 z" opacity="0.5"/>
+    <path d="M 442 330 q 26 -20 52 0 q -26 20 -52 0 z" opacity="0.5"/>
+  </g>
+  <!-- person -->
+  <g stroke="#2b3a42" stroke-width="3" fill="#e8c9a8">
+    <circle cx="256" cy="150" r="42" fill="#c98d5f"/>
+    <path d="M 256 192 q -6 40 -46 44 l 0 130 q 0 8 8 8 l 76 0 q 8 0 8 -8 l 0 -130 q -40 -4 -46 -44 z"/>
+  </g>
+  <!-- hearing aid -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="#7a9e7e">
+    <path d="M 296 148 q 20 -4 30 6 q 8 8 4 22" fill="none"/>
+    <rect x="300" y="172" width="12" height="10" rx="3" transform="rotate(8 306 177)"/>
+  </g>
+  <!-- arms open -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <path d="M 212 224 q -44 8 -50 48"/>
+    <path d="M 300 224 q 44 8 50 48"/>
+  </g>
+  <!-- six parts -->
+  <g font-family="sans-serif" font-size="22" fill="#222222" text-anchor="middle">
+    <g>
+      <rect x="30" y="180" width="132" height="44" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+      <text x="96" y="208">my values</text>
+      <line x1="150" y1="216" x2="214" y2="244" stroke="#2b3a42" stroke-width="2.5"/>
+    </g>
+    <g>
+      <rect x="18" y="300" width="120" height="44" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+      <text x="78" y="328">my story</text>
+      <line x1="138" y1="322" x2="210" y2="300" stroke="#2b3a42" stroke-width="2.5"/>
+    </g>
+    <g>
+      <rect x="350" y="180" width="132" height="44" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+      <text x="416" y="208">my choices</text>
+      <line x1="362" y1="216" x2="298" y2="244" stroke="#2b3a42" stroke-width="2.5"/>
+    </g>
+    <g>
+      <rect x="374" y="300" width="120" height="44" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+      <text x="434" y="328">my body</text>
+      <line x1="374" y1="322" x2="302" y2="300" stroke="#2b3a42" stroke-width="2.5"/>
+    </g>
+    <g>
+      <rect x="140" y="60" width="140" height="44" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+      <text x="210" y="88">my relationships</text>
+      <line x1="236" y1="104" x2="252" y2="118" stroke="#2b3a42" stroke-width="2.5"/>
+    </g>
+    <g>
+      <rect x="210" y="420" width="150" height="44" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+      <text x="285" y="448">my dreams</text>
+      <line x1="272" y1="420" x2="264" y2="380" stroke="#2b3a42" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

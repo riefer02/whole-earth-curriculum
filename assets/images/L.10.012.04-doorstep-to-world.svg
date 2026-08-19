@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>From my doorstep to the whole world</title>
+  <desc>Four nested circles, each labeled and connected by small arrows: me, my neighborhood and region, my nation, and the wider world. The smallest circle holds a small figure; the largest circle shows people from many places reaching toward one another.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- nested circles -->
+  <g fill="none" stroke="#2b3a42">
+    <circle cx="256" cy="256" r="230" stroke-width="3"/>
+    <circle cx="256" cy="256" r="172" stroke-width="3" stroke-dasharray="4 4"/>
+    <circle cx="256" cy="256" r="116" stroke-width="3" stroke-dasharray="2 4"/>
+    <circle cx="256" cy="256" r="64" stroke-width="3"/>
+  </g>
+  <!-- labels -->
+  <g font-family="sans-serif" font-size="22" fill="#222222" text-anchor="middle">
+    <text x="256" y="58">the whole world</text>
+    <text x="256" y="206">my nation</text>
+    <text x="256" y="300">my region</text>
+  </g>
+  <!-- figure at center (me) -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="256" cy="256" r="16" fill="#c98d5f"/>
+    <path d="M 256 272 q -3 16 -16 18 l 0 28 q 0 5 5 5 l 22 0 q 5 0 5 -5 l 0 -28 q -13 -2 -16 -18 z" fill="#e8c9a8"/>
+  </g>
+  <!-- people around the outer ring -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2.5">
+    <circle cx="120" cy="96" r="13" fill="#c98d5f"/>
+    <circle cx="400" cy="86" r="13" fill="#8a5a3b"/>
+    <circle cx="420" cy="200" r="13" fill="#c98d5f"/>
+    <circle cx="92" cy="360" r="13" fill="#8a5a3b"/>
+    <circle cx="256" cy="26" r="13" fill="#c98d5f"/>
+    <circle cx="414" cy="416" r="13" fill="#c98d5f"/>
+  </g>
+  <!-- reaching lines between outer people -->
+  <g stroke="#7a9e7e" stroke-width="2.5" fill="none" opacity="0.9">
+    <line x1="120" y1="96" x2="400" y2="86"/>
+    <line x1="400" y1="86" x2="420" y2="200"/>
+    <line x1="120" y1="96" x2="92" y2="360"/>
+  </g>
+  <!-- two-way arrows from inner to outer -->
+  <g stroke="#6b93b6" stroke-width="2.5" fill="none" marker-end="url(#a2)" marker-start="url(#a2)">
+    <defs>
+      <marker id="a2" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto">
+        <path d="M0,0 L7,3 L0,6 z" fill="#6b93b6"/>
+      </marker>
+    </defs>
+    <line x1="256" y1="330" x2="256" y2="388"/>
+  </g>
+</svg>

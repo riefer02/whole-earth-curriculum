@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Mutual aid: a circle that gives and receives</title>
+  <desc>Five people form a circle, each handing something forward — food, a tool, a book, a blanket, a cup of water — with curved arrows flowing both directions around the ring. No one is above anyone else; everyone both gives and receives, and a small heart sits at the center.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- center heart -->
+  <path d="M 256 268 q -18 -16 -34 0 q -16 16 0 34 q 16 18 34 0 q 16 -18 0 -34 z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <!-- two-way arrows around ring -->
+  <g fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round">
+    <path d="M 96 220 q -10 -60 56 -74"/>
+    <path d="M 416 220 q 10 -60 -56 -74"/>
+    <path d="M 96 300 q -10 60 56 74"/>
+    <path d="M 416 300 q 10 60 -56 74"/>
+  </g>
+  <g fill="#7a9e7e" stroke="#7a9e7e" stroke-width="2">
+    <path d="M 152 146 l -16 -6 l 6 18 z"/>
+    <path d="M 360 146 l 16 -6 l -6 18 z"/>
+    <path d="M 152 374 l -16 6 l 6 -18 z"/>
+    <path d="M 360 374 l 16 6 l -6 -18 z"/>
+  </g>
+  <!-- five people handing things -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <!-- top person handing food -->
+    <circle cx="256" cy="120" r="18" fill="#c98d5f"/>
+    <path d="M 256 138 q -3 16 -16 18 l 0 34 q 0 5 5 5 l 22 0 q 5 0 5 -5 l 0 -34 q -13 -2 -16 -18 z" fill="#7a9e7e"/>
+    <rect x="238" y="150" width="26" height="20" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <!-- left person handing tool -->
+    <circle cx="90" cy="256" r="17" fill="#8a5a3b"/>
+    <path d="M 90 273 q -3 15 -15 17 l 0 32 q 0 5 4 5 l 20 0 q 4 0 4 -5 l 0 -32 q -12 -2 -15 -17 z" fill="#6b93b6"/>
+    <line x1="106" y1="270" x2="134" y2="284" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <!-- right person handing book -->
+    <circle cx="422" cy="256" r="17" fill="#c98d5f"/>
+    <path d="M 422 273 q 3 15 15 17 l 0 32 q 0 5 -4 5 l -20 0 q -4 0 -4 -5 l 0 -32 q 12 -2 15 -17 z" fill="#e0a458"/>
+    <rect x="374" y="270" width="30" height="22" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <!-- bottom-left handing blanket -->
+    <circle cx="140" cy="424" r="17" fill="#c98d5f"/>
+    <path d="M 140 441 q -3 15 -15 17 l 0 26 q 0 5 4 5 l 20 0 q 4 0 4 -5 l 0 -26 q -12 -2 -15 -17 z" fill="#7a9e7e"/>
+    <path d="M 158 416 q 12 -8 26 -4" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <!-- bottom-right handing cup -->
+    <circle cx="372" cy="424" r="17" fill="#8a5a3b"/>
+    <path d="M 372 441 q 3 15 15 17 l 0 26 q 0 5 -4 5 l -20 0 q -4 0 -4 -5 l 0 -26 q 12 -2 15 -17 z" fill="#6b93b6"/>
+    <path d="M 354 414 q -10 -6 -22 -2 l 0 14 q 12 -4 22 2 z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+  </g>
+</svg>

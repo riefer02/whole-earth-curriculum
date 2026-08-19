@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>My self-directed learning cycle</title>
+  <desc>A four-step cycle drawn as a rounded loop with arrows: choose a goal, find resources, check my progress, adjust and keep going. A small figure stands at the 'adjust' step holding a pencil, showing the loop is mine to steer.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" font-size="22" fill="#222222" text-anchor="middle">
+    <!-- four nodes -->
+    <g>
+      <rect x="70" y="70" width="150" height="72" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+      <text x="145" y="100">choose a goal</text>
+      <text x="145" y="126" font-size="17">(what do I want to learn?)</text>
+    </g>
+    <g>
+      <rect x="292" y="70" width="150" height="72" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+      <text x="367" y="100">find resources</text>
+      <text x="367" y="126" font-size="17">(people, places, tools)</text>
+    </g>
+    <g>
+      <rect x="292" y="300" width="150" height="72" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+      <text x="367" y="330">check progress</text>
+      <text x="367" y="356" font-size="17">(how will I know?)</text>
+    </g>
+    <g>
+      <rect x="70" y="300" width="150" height="72" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+      <text x="145" y="330">adjust &amp; go on</text>
+      <text x="145" y="356" font-size="17">(what will I change?)</text>
+    </g>
+  </g>
+  <!-- arrows -->
+  <g fill="none" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arr)">
+    <defs>
+      <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+        <path d="M0,0 L8,3 L0,6 z" fill="#2b3a42"/>
+      </marker>
+    </defs>
+    <line x1="220" y1="106" x2="286" y2="106"/>
+    <line x1="367" y1="142" x2="367" y2="294"/>
+    <line x1="286" y1="336" x2="226" y2="336"/>
+    <line x1="145" y1="294" x2="145" y2="148"/>
+  </g>
+  <!-- person holding pencil -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="186" cy="248" r="18" fill="#c98d5f"/>
+    <path d="M 186 266 q -3 20 -20 22 l 0 34 q 0 5 5 5 l 30 0 q 5 0 5 -5 l 0 -34 q -17 -2 -20 -22 z" fill="#e8c9a8"/>
+  </g>
+  <line x1="206" y1="250" x2="240" y2="270" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
