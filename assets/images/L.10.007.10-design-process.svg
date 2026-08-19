@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The design process</title>
+  <desc id="desc">A design process diagram with five labeled stages arranged in a circle — find a need, research, imagine, prototype, test — with arrows flowing between them and a note reading "document each decision."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="8 6"/>
+  <!-- five nodes around the circle -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <rect x="178" y="54" width="156" height="58" rx="8" fill="#6b93b6" fill-opacity="0.2"/>
+    <rect x="356" y="150" width="130" height="58" rx="8" fill="#7a9e7e" fill-opacity="0.2"/>
+    <rect x="300" y="296" width="130" height="58" rx="8" fill="#e0a458" fill-opacity="0.25"/>
+    <rect x="84" y="296" width="130" height="58" rx="8" fill="#4f6d7a" fill-opacity="0.18"/>
+    <rect x="26" y="150" width="130" height="58" rx="8" fill="#e0a458" fill-opacity="0.2"/>
+  </g>
+  <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">find a need</text>
+  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">who needs what</text>
+  <text x="421" y="176" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">research</text>
+  <text x="421" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">how it's met now</text>
+  <text x="365" y="322" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">imagine</text>
+  <text x="365" y="342" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">several ideas</text>
+  <text x="149" y="322" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">prototype</text>
+  <text x="149" y="342" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a rough first try</text>
+  <text x="91" y="176" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">test</text>
+  <text x="91" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">try it, improve</text>
+  <!-- arrows -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <path d="M292 112 L376 148"/>
+    <path d="M452 210 L404 294"/>
+    <path d="M298 336 L216 336"/>
+    <path d="M148 294 L104 210"/>
+    <path d="M88 148 L178 112"/>
+  </g>
+  <g fill="#2b3a42">
+    <path d="M376 146 L370 158 L384 154 Z"/>
+    <path d="M402 296 L414 288 L410 302 Z"/>
+    <path d="M216 330 L224 342 L226 328 Z"/>
+    <path d="M106 212 L94 220 L108 224 Z"/>
+    <path d="M176 114 L182 126 L190 116 Z"/>
+  </g>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">document each decision</text>
+</svg>

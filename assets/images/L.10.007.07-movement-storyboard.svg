@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A movement storyboard</title>
+  <desc id="desc">A storyboard of four frames showing one figure moving from low and closed to high and open, with a caption under each frame naming the moment — beginning, rise, turn, arrival.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222" font-weight="bold">This piece is about ______</text>
+  <!-- four frames -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="28" y="70" width="108" height="210"/>
+    <rect x="146" y="70" width="108" height="210"/>
+    <rect x="264" y="70" width="108" height="210"/>
+    <rect x="382" y="70" width="108" height="210"/>
+  </g>
+  <!-- frame 1: low and closed -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="82" cy="150" r="16" fill="#c68863"/>
+    <path d="M82 166 C78 200 74 220 70 250"/>
+    <path d="M82 180 C70 186 64 196 62 206"/>
+    <path d="M82 200 C96 206 100 216 102 226"/>
+  </g>
+  <text x="82" y="298" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">beginning</text>
+  <!-- frame 2: rising -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="200" cy="180" r="16" fill="#8a5a44"/>
+    <path d="M200 196 L200 250"/>
+    <path d="M188 210 L212 210"/>
+    <path d="M200 250 L184 274"/>
+    <path d="M200 250 L216 274"/>
+  </g>
+  <text x="200" y="298" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">rise</text>
+  <!-- frame 3: turning -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="318" cy="150" r="16" fill="#e0a458" fill-opacity="0.7"/>
+    <path d="M318 166 L318 230"/>
+    <path d="M318 190 C334 196 342 206 344 216"/>
+    <path d="M318 230 L306 260"/>
+    <path d="M318 230 L330 260"/>
+  </g>
+  <text x="318" y="298" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">turn</text>
+  <!-- frame 4: high and open -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="436" cy="120" r="16" fill="#c68863"/>
+    <path d="M436 136 L436 210"/>
+    <path d="M436 150 L412 168"/>
+    <path d="M436 150 L460 168"/>
+    <path d="M436 210 L424 250"/>
+    <path d="M436 210 L448 250"/>
+  </g>
+  <text x="436" y="298" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">arrival</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">gesture · level · timing — chosen for the concept</text>
+</svg>

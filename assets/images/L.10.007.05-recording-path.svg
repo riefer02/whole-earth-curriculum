@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The recording signal path</title>
+  <desc id="desc">A signal path diagram with four linked stages — source, capture, balance, playback — each labeled, with an arrow looping back from playback to source labeled "listen and revise."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- stage boxes -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <rect x="60" y="150" width="110" height="80" rx="8" fill="#6b93b6" fill-opacity="0.2"/>
+    <rect x="200" y="150" width="110" height="80" rx="8" fill="#7a9e7e" fill-opacity="0.2"/>
+    <rect x="340" y="150" width="110" height="80" rx="8" fill="#e0a458" fill-opacity="0.2"/>
+    <rect x="200" y="300" width="110" height="80" rx="8" fill="#4f6d7a" fill-opacity="0.2"/>
+  </g>
+  <text x="115" y="186" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">source</text>
+  <text x="115" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">voice, body,</text>
+  <text x="115" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">instrument</text>
+  <text x="255" y="186" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">capture</text>
+  <text x="255" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">how and where</text>
+  <text x="255" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">you record</text>
+  <text x="395" y="186" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">balance</text>
+  <text x="395" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">what is loud,</text>
+  <text x="395" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">what is soft</text>
+  <text x="255" y="336" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">playback</text>
+  <text x="255" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">how it is</text>
+  <text x="255" y="376" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">heard</text>
+  <!-- forward arrows -->
+  <g stroke="#2b3a42" stroke-width="3" fill="#2b3a42">
+    <path d="M172 190 L198 190" fill="none"/>
+    <path d="M198 190 L188 184 L188 196 Z"/>
+    <path d="M312 190 L338 190" fill="none"/>
+    <path d="M338 190 L328 184 L328 196 Z"/>
+    <path d="M255 232 L255 298" fill="none"/>
+    <path d="M255 298 L249 288 L261 288 Z"/>
+  </g>
+  <!-- loop back arrow -->
+  <path d="M200 340 C120 340 120 260 180 232 C140 240 128 300 196 300" stroke="#7a9e7e" stroke-width="3" fill="none" stroke-dasharray="6 4"/>
+  <text x="66" y="404" font-family="sans-serif" font-size="15" fill="#222222">listen and revise</text>
+</svg>

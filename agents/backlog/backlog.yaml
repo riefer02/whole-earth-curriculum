@@ -5803,7 +5803,7 @@ items:
     type: lesson
     grade: 10
     domain: D07
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5815,6 +5815,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (1494 files, 0 errors). All 12 lessons: kind lesson, id L.10.007.NN matching sequence_in_unit, unit U.10.007, domain [D07], pillar [P3]; strands S1/S2/S3/S4 map to lessons 1-3/4-6/7-9/10-12. All 8 objectives resolve to real D07 grade-10 standards and covered. Required headings present in all 12; 12 assets entries non-empty alt + resolving paths; unit.md Lessons table matches. Connection concrete/faithful (lesson 2 family-recipe analogy); appropriation material age-appropriate framed around ask/context/credit/share-benefit with global examples (kente/adinkra, Maori carving, capoeira, haka, tinikling)."
+      fact-checker:
+        verdict: passed
+        note: Verified cultural-tradition claims (kente/adinkra S-084; Maori kowhaiwhai/whakairo/koru S-115; Day of the Dead S-448; reggae S-450/S-445; spirituals S-385; griots S-446; capoeira S-325; haka S-447; tinikling S-116) and design claims (Brundtland S-395; WHO e-waste S-397; Amnesty cobalt S-398; Ellen MacArthur S-452; Kimmerer S-427). All 25 citations exist in sources.yaml as reviewed:true and support claims; evidence/values distinction holds; no edits needed; validate passes.
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric or narrow default. Named living traditions distributed worldwide and handled accurately/res respectfully, never specimens or stereotypes: Akan kente/adinkra, Maori kowhaiwhai/whakairo/koru + haka (explicitly 'a family of Maori posture dances — not one single war dance'), Day of the Dead ('not a costume theme'), reggae (western Kingston), African American spirituals, West African griots ('archive not decoration'), Afro-Brazilian capoeira, Philippine tinikling, plus Indian raga frameworks, Jacob Lawrence, Robin Wall Kimmerer. Multiple traditions held side-by-side per §11 (graphic score + staff notation + raga + griot oral transmission, none 'the one true system'). Connections use universal experiences; appreciation/appropriation centers power/consent via ask/context/credit/benefit. No edits needed."
+      accessibility-editor:
+        verdict: passed
+        note: "Checked low-tech tier (all 12 lessons declare materials_low_tech with paper/voice/found-object paths, no silent wealth/device requirement), alt text (all 12 assets non-empty), SVG accessibility (role=img + title/desc on all 12). Added disability/neurodivergence paths: non-visual/tactile art (L1-3), non-hearing music via vibration + visual/graphic score (L4-5) + read-not-listened histories (L6/L9), non-motor dance/drama via seated/gesture/devise-with-partner (L7-8), verbal/directed prototyping (L10-11), home-language/translation options for written reflections. Validate passes (1494 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses verified and carried in every lesson: ethics (appreciation-vs-appropriation + responsible-vs-harmful design framed around permission/context/credit/shared benefit/power-consent), egalitarianism (no gate to having a voice; voice/body as instruments; low-tech no-cost paths; who is served/left out), global/anthropological (living traditions worldwide — Akan, Maori, Day of the Dead, reggae, spirituals, griots, capoeira, tinikling, Indian raga — notation systems side-by-side, none 'the one true system'), technology & environment (recording signal path, sampling/streaming, e-waste/cobalt/circular economy). Evidence vs values: 25 citations resolve, norms framed as values. Traceability resolves lesson→D07.S1-S4→D07→P3→vision; all 8 objectives resolve to real D07 grade-10 standards. No hierarchy/supremacy/ranking of art traditions."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: cognitive fit (personal style as observable pattern across a body of work, not 'talent'; appropriation as 'respectful questions' not a two-column rule, with concrete anchors); emotional safety (explicit 'not yet' mastery framing, 'keep every version; none are mistakes', assessment keyed to presence/honesty never ranking; appropriation/harmful-design taught via third-person scenarios and empathy hooks, never accusation; performance to small cooperative audiences; every strand has seated/non-motor/non-visual/non-hearing path); physical fit (drawing/composing/moving/prototyping suit near-adult motor dev); not dumbed down (real living traditions + real ethical depth, cited); open-endedness (questions held as questions, learners author their own honoring-rule)."
   - id: B-390
     title: Author lessons for Unit U.10.008 (Health, Sexuality & Safety)
     agent: lesson-author

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The rehearsal loop</title>
+  <desc id="desc">A circular loop with four labeled steps — rehearse, watch or record, note what wavered, revise — with arrows showing the cycle repeating, and a small star at "perform" on the final pass.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- circle path -->
+  <circle cx="256" cy="256" r="140" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="8 6"/>
+  <!-- four nodes -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <rect x="176" y="80" width="160" height="64" rx="8" fill="#6b93b6" fill-opacity="0.2"/>
+    <rect x="330" y="210" width="160" height="64" rx="8" fill="#7a9e7e" fill-opacity="0.2"/>
+    <rect x="176" y="360" width="160" height="64" rx="8" fill="#e0a458" fill-opacity="0.25"/>
+    <rect x="22" y="210" width="160" height="64" rx="8" fill="#4f6d7a" fill-opacity="0.18"/>
+  </g>
+  <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">rehearse</text>
+  <text x="256" y="130" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">run the piece</text>
+  <text x="410" y="236" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">watch / record</text>
+  <text x="410" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">see it from outside</text>
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">note what wavered</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">timing, expression</text>
+  <text x="102" y="236" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">revise</text>
+  <text x="102" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">change one thing</text>
+  <!-- arrows between nodes -->
+  <g stroke="#2b3a42" stroke-width="3" fill="#2b3a42">
+    <path d="M300 150 C360 150 400 176 420 206" fill="none"/>
+    <path d="M420 206 L408 196 L420 188 Z" fill="none"/>
+    <path d="M408 278 C408 330 340 360 300 366" fill="none"/>
+    <path d="M300 366 L310 356 L300 352 Z" fill="none"/>
+    <path d="M220 368 C160 368 120 340 108 308" fill="none"/>
+    <path d="M108 308 L116 298 L106 294 Z" fill="none"/>
+    <path d="M104 208 C104 156 140 120 200 116" fill="none"/>
+    <path d="M200 116 L190 126 L196 130 Z" fill="none"/>
+  </g>
+  <!-- center star + perform -->
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#e0a458">★</text>
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">perform</text>
+</svg>

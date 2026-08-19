@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Engaging with another culture's music</title>
+  <desc id="desc">A flowchart with three branches from "I want to use another culture's music." One branch "learn it" leads to "ask, credit, share benefit"; one branch "sample it" leads to "permission and royalty"; one branch "claim it as mine" leads to a stop sign labeled "appropriation."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- root -->
+  <rect x="136" y="40" width="240" height="64" rx="8" fill="#6b93b6" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">I want to use another</text>
+  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">culture's music</text>
+  <!-- branches -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <path d="M256 104 L256 140"/>
+    <path d="M256 140 L80 140 L80 176"/>
+    <path d="M256 140 L256 176"/>
+    <path d="M256 140 L432 140 L432 176"/>
+  </g>
+  <!-- learn it -->
+  <rect x="30" y="176" width="100" height="56" rx="6" fill="#7a9e7e" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="210" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222" font-weight="bold">learn it</text>
+  <rect x="18" y="248" width="124" height="72" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">ask, learn the</text>
+  <text x="80" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">context, credit,</text>
+  <text x="80" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">share benefit</text>
+  <!-- sample it -->
+  <rect x="206" y="176" width="100" height="56" rx="6" fill="#e0a458" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222" font-weight="bold">sample it</text>
+  <rect x="194" y="248" width="124" height="72" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">permission</text>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and royalty</text>
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">to the makers</text>
+  <!-- claim it as mine -->
+  <rect x="382" y="176" width="100" height="56" rx="6" fill="#4f6d7a" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2"/>
+  <text x="432" y="202" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">claim it</text>
+  <text x="432" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">as mine</text>
+  <!-- stop sign -->
+  <g transform="translate(432,290)">
+    <polygon points="0,-40 38,-15 38,15 0,40 -38,15 -38,-15" fill="#e0a458" fill-opacity="0.35" stroke="#2b3a42" stroke-width="3"/>
+    <text y="7" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">STOP</text>
+  </g>
+  <text x="432" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">appropriation</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Ask · learn the context · credit · share benefit</text>
+</svg>

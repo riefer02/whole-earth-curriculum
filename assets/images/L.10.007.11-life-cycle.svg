@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The life cycle of a designed thing</title>
+  <desc id="desc">A circular life-cycle diagram with four stages — materials, making, use, end-of-life — arrows flowing around the circle, and a note at the center reading "who is affected, and what does it cost the Earth, at every stage."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- four nodes -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <rect x="178" y="60" width="156" height="58" rx="8" fill="#6b93b6" fill-opacity="0.2"/>
+    <rect x="350" y="200" width="130" height="58" rx="8" fill="#7a9e7e" fill-opacity="0.2"/>
+    <rect x="178" y="394" width="156" height="58" rx="8" fill="#e0a458" fill-opacity="0.25"/>
+    <rect x="32" y="200" width="130" height="58" rx="8" fill="#4f6d7a" fill-opacity="0.18"/>
+  </g>
+  <text x="256" y="86" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222" font-weight="bold">materials</text>
+  <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">where they come from</text>
+  <text x="415" y="226" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222" font-weight="bold">making</text>
+  <text x="415" y="246" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">who does the work</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222" font-weight="bold">use</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">energy, repair</text>
+  <text x="97" y="226" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222" font-weight="bold">end-of-life</text>
+  <text x="97" y="246" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">waste or return</text>
+  <!-- arrows -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <path d="M300 118 L388 196"/>
+    <path d="M414 258 L340 392"/>
+    <path d="M214 394 L158 260"/>
+    <path d="M96 198 L178 120"/>
+  </g>
+  <g fill="#2b3a42">
+    <path d="M386 194 L398 202 L396 190 Z"/>
+    <path d="M338 392 L350 384 L336 382 Z"/>
+    <path d="M160 258 L148 266 L162 270 Z"/>
+    <path d="M176 122 L182 110 L168 116 Z"/>
+  </g>
+  <!-- center note -->
+  <rect x="130" y="230" width="252" height="52" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">who is affected, and what</text>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">does it cost the Earth?</text>
+</svg>

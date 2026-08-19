@@ -127,7 +127,7 @@ units:
     pillar: [P3]
     start_day: 98
     end_day: 110
-    lesson_count: 10
+    lesson_count: 12
   - unit_id: U.10.008
     title: "Health, Sexuality & Safety"
     domain: [D03]

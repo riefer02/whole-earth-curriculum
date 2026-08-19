@@ -72,3 +72,15 @@ questions, never as specimens.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | A Body of Work: Finding My Creative Voice | D07.S1.10.01 |
+| 2 | Appreciation, Not Appropriation: Honoring Living Visual Traditions | D07.S1.10.02 |
+| 3 | The Artist's Explanation: Style, Influences, and Honest Credit | D07.S1.10.01, D07.S1.10.02 |
+| 4 | Composing an Idea: Sound That Says Something | D07.S2.10.01 |
+| 5 | Recording Craft: Capturing and Shaping Sound | D07.S2.10.01 |
+| 6 | Honoring Living Musicians: Engagement, Not Appropriation | D07.S2.10.02 |
+| 7 | Devising a Concept: Movement That Means Something | D07.S3.10.01 |
+| 8 | Craft in Rehearsal: Timing, Expression, Ensemble | D07.S3.10.01 |
+| 9 | Honoring Living Practitioners: Movement and Drama | D07.S3.10.02 |
+| 10 | Designing for a Community Need | D07.S4.10.01 |
+| 11 | Sustainability and Fairness: Designing with the Whole System | D07.S4.10.01 |
+| 12 | Responsible or Harmful? Judging Design — and My Portfolio | D07.S4.10.02 |
