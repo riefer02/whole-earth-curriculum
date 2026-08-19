@@ -68,3 +68,13 @@ environmental change fall unevenly on different people — environmental justice
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Technology, Media & Our Earth Home: The Road Ahead | D10.S1.09.01 |
+| 2 | Algorithms & Feeds: How Software Shapes What We See and Choose | D10.S1.09.01 |
+| 3 | Who Controls the Platform? Power Over Users | D10.S1.09.02 |
+| 4 | Echo Chambers: How Feeds Narrow Us — and How to Break Out | D10.S2.09.01 |
+| 5 | Trace It to Its Source: Evaluating a Viral Claim | D10.S2.09.02 |
+| 6 | The Greenhouse Effect: Earth's Warm Blanket | D10.S3.09.01 |
+| 7 | The Carbon Cycle: Life, Ocean, Air, and Rock | D10.S3.09.01 |
+| 8 | Feedback Loops: When Warming Speeds Up Warming | D10.S3.09.02 |
+| 9 | Fossil Fuels vs. Renewables: How They Work, Their Limits, Their Effects | D10.S4.09.01 |
+| 10 | Environmental Justice: Who Bears the Burden, Who Reaps the Benefit | D10.S4.09.02 |

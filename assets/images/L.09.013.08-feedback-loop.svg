@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A feedback loop: warming speeds up warming</title>
+  <desc id="desc">A circular loop with three steps. Warming melts ice and snow. Less bright ice means less sunlight is reflected and more is absorbed by dark water and land. More absorption adds more heat, which warms the planet further, and the loop repeats, each turn a little stronger.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">A Feedback Loop: Warming Speeds Up Warming</text>
+
+  <defs>
+    <marker id="fb1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- step 1: warming -->
+  <rect x="182" y="70" width="148" height="58" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="94" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">1 · The planet warms</text>
+  <text x="256" y="114" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">ice and snow melt</text>
+
+  <!-- step 2: less reflection -->
+  <rect x="312" y="220" width="148" height="58" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="386" y="244" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#fdfbf7">2 · Less bright ice</text>
+  <text x="386" y="264" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#fdfbf7">less light reflected</text>
+
+  <!-- step 3: more absorption -->
+  <rect x="52" y="220" width="148" height="58" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="126" y="244" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#fdfbf7">3 · Dark water &amp; land</text>
+  <text x="126" y="264" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#fdfbf7">absorb more heat</text>
+
+  <!-- arrows forming the loop -->
+  <path d="M256 128 L256 216" stroke="#2b3a42" stroke-width="2.5" fill="none" marker-end="url(#fb1)"/>
+  <path d="M126 220 L206 128" stroke="#2b3a42" stroke-width="2.5" fill="none" marker-end="url(#fb1)"/>
+  <path d="M256 278 L386 278" stroke="#2b3a42" stroke-width="2.5" fill="none" marker-end="url(#fb1)"/>
+  <path d="M126 278 L256 278" stroke="#2b3a42" stroke-width="2.5" fill="none" marker-end="url(#fb1)"/>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">each turn adds more warming</text>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">permafrost thaw and extra water vapor are other amplifying loops</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">A small change can feed on itself and grow</text>
+</svg>

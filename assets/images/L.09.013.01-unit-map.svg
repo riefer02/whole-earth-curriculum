@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Map of the unit: two arcs, eight goals</title>
+  <desc id="desc">A unit map showing two arcs. The first arc, media and technology, holds four goals: algorithms and feeds, who controls platforms, echo chambers and breaking out, and tracing viral claims. The second arc, our Earth home, holds four goals: the greenhouse effect, the carbon cycle, feedback loops, and energy and environmental justice. A curved path connects the two arcs.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Technology, Media &amp; Our Earth Home</text>
+
+  <!-- Arc 1: media & technology -->
+  <rect x="36" y="66" width="208" height="30" rx="8" fill="#6b93b6"/>
+  <text x="140" y="86" text-anchor="middle" font-family="sans-serif" font-size="14.5" font-weight="bold" fill="#fdfbf7">Arc 1 · Media &amp; Technology</text>
+
+  <text x="46" y="120" font-family="sans-serif" font-size="13" fill="#2b3a42">1 · Algorithms &amp; feeds shape what we see</text>
+  <text x="46" y="146" font-family="sans-serif" font-size="13" fill="#2b3a42">2 · Who controls the platform</text>
+  <text x="46" y="172" font-family="sans-serif" font-size="13" fill="#2b3a42">3 · Echo chambers &amp; breaking out</text>
+  <text x="46" y="198" font-family="sans-serif" font-size="13" fill="#2b3a42">4 · Trace a viral claim to its source</text>
+
+  <!-- Arc 2: Earth home -->
+  <rect x="268" y="66" width="208" height="30" rx="8" fill="#7a9e7e"/>
+  <text x="372" y="86" text-anchor="middle" font-family="sans-serif" font-size="14.5" font-weight="bold" fill="#fdfbf7">Arc 2 · Our Earth Home</text>
+
+  <text x="278" y="120" font-family="sans-serif" font-size="13" fill="#2b3a42">5 · The greenhouse effect</text>
+  <text x="278" y="146" font-family="sans-serif" font-size="13" fill="#2b3a42">6 · The carbon cycle</text>
+  <text x="278" y="172" font-family="sans-serif" font-size="13" fill="#2b3a42">7 · Feedback loops</text>
+  <text x="278" y="198" font-family="sans-serif" font-size="13" fill="#2b3a42">8 · Energy &amp; environmental justice</text>
+
+  <!-- connecting path -->
+  <path d="M140 230 Q256 300 372 230" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <defs>
+    <marker id="arr1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/>
+    </marker>
+  </defs>
+  <path d="M180 252 Q256 310 332 252" fill="none" stroke="#e0a458" stroke-width="3" marker-end="url(#arr1)"/>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">one planet, one set of habits</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Critical judgment — neither worship nor fear — for the screen and the Earth</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The greenhouse effect</title>
+  <desc id="desc">Sunlight enters from the upper left and warms the Earth's surface. The warm surface radiates heat back upward, and a layer of greenhouse gas molecules in the atmosphere absorbs and re-radiates some of it back down, like a blanket. Extra greenhouse gases are drawn as a thicker, labeled layer.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">The Greenhouse Effect: Earth's Warm Blanket</text>
+
+  <!-- sun -->
+  <circle cx="60" cy="70" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M60 36 v8 M60 96 v8 M26 70 h8 M86 70 h8 M36 46 l6 6 M78 86 l6 6 M84 46 l-6 6 M42 86 l-6 6" stroke="#e0a458" stroke-width="3" fill="none"/>
+
+  <!-- incoming sunlight arrows -->
+  <defs>
+    <marker id="gh1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/>
+    </marker>
+    <marker id="gh2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#c0563b"/>
+    </marker>
+    <marker id="gh3" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#6b93b6"/>
+    </marker>
+  </defs>
+  <path d="M84 84 L180 240" stroke="#e0a458" stroke-width="3" fill="none" marker-end="url(#gh1)"/>
+  <path d="M70 96 L120 250" stroke="#e0a458" stroke-width="3" fill="none" marker-end="url(#gh1)"/>
+
+  <!-- atmosphere band -->
+  <rect x="90" y="150" width="332" height="44" rx="8" fill="#6b93b6" opacity="0.28"/>
+  <text x="256" y="167" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">greenhouse gases (CO₂ · methane · water vapor)</text>
+  <text x="256" y="184" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">extra gases thicken the blanket</text>
+
+  <!-- surface -->
+  <rect x="90" y="300" width="332" height="80" fill="#7a9e7e"/>
+  <text x="256" y="345" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#fdfbf7">Earth's surface warms</text>
+
+  <!-- heat radiated up -->
+  <path d="M256 296 L256 210" stroke="#c0563b" stroke-width="3" fill="none" marker-end="url(#gh2)"/>
+  <!-- heat re-radiated back down -->
+  <path d="M220 176 L200 290" stroke="#6b93b6" stroke-width="3" fill="none" marker-end="url(#gh3)"/>
+  <path d="M292 176 L312 290" stroke="#6b93b6" stroke-width="3" fill="none" marker-end="url(#gh3)"/>
+  <path d="M256 176 L256 292" stroke="#6b93b6" stroke-width="3" fill="none" marker-end="url(#gh3)"/>
+
+  <text x="168" y="250" font-family="sans-serif" font-size="11" fill="#c0563b">heat rises</text>
+  <text x="330" y="250" font-family="sans-serif" font-size="11" fill="#4f6d7a">some heat is trapped</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Without it Earth would freeze; extra gases hold in too much heat</text>
+</svg>

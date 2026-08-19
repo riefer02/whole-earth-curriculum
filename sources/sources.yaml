@@ -4494,3 +4494,50 @@ sources:
     domains: [D08]
     reviewed: true
     notes: "Cited in U.09.012 L10 (freedom and dignity: ideas that travel) for the claim that apartheid, South Africa's system of legal racial segregation, was ended in 1994 by a struggle waged within South Africa and worldwide. Fact-checker verified live (2026-08-19): Britannica's 'apartheid' article ('Apartheid | South Africa, Laws, Definition, Facts, History, Beginning, & End') includes a section 'The end of legislated apartheid', documenting the 1994 end of legal racial segregation. Standard, well-documented history."
+
+  - id: S-481
+    title: "Encyclopaedia Britannica — Social media"
+    type: website
+    url: https://www.britannica.com/topic/social-media
+    organization: Encyclopaedia Britannica
+    domains: [D10]
+    reviewed: true
+    notes: "General authority for the D10.S1 media/technology lessons (algorithms, feeds, platforms, who controls them). Britannica's 'social media' article covers what social media platforms are, how they operate (feeds, recommendation and ranking algorithms, advertising-based business models, content moderation and platform rules), and the concerns they raise. Used as a general reference for the mechanism and governance claims; not a claim-level citation for any single statistic. Fact-checker verified (2026-08-19): URL returns HTTP 200; article live, editor-reviewed, last updated 2026-08-10. It states verbatim that 'Social media algorithms and echo chambers can... exacerbate the problem by prioritizing engagement over accuracy, and by creating filter bubbles where users are primarily exposed to information confirming existing beliefs' — supporting the lessons' claims that feeds rank by engagement (Lesson 2), that platforms set rules and moderate content (Lesson 3), and that personalization can narrow what a person sees (Lesson 4)."
+
+  - id: S-482
+    title: "Pariser (2011) — The Filter Bubble: What the Internet Is Hiding from You"
+    type: book
+    author: Eli Pariser
+    organization: Penguin Press
+    year: 2011
+    domains: [D10]
+    reviewed: true
+    notes: "Canonical popular source for the 'filter bubble' idea: personalization and recommendation algorithms can invisibly surround a person with information that confirms their existing views while hiding what challenges them. Cited in the echo-chamber lesson as the origin of the filter-bubble concept, held as a concept to examine (with the note that scholarly debate continues about how strong the effect is), not as a single-answer verdict. Fact-checker verified (2026-08-19): bibliographic entry is real and correctly attributed — Eli Pariser, The Filter Bubble: What the Internet Is Hiding from You (Penguin Press, 2011), which coined the 'filter bubble' term (from Pariser's 2011 TED talk of the same name). The lesson correctly treats the concept as a hypothesis under scholarly debate, not an established law."
+
+  - id: S-483
+    title: "U.S. Environmental Protection Agency — Environmental Justice"
+    type: website
+    url: https://web.archive.org/web/2024/https://www.epa.gov/environmentaljustice
+    organization: U.S. Environmental Protection Agency
+    domains: [D10]
+    reviewed: true
+    notes: "Canonical source of the formal U.S. definition of environmental justice. Fact-checker verified (2026-08-19): the live URL https://www.epa.gov/environmentaljustice now returns HTTP 404 (the EPA removed its environmental-justice pages in 2025), so the citation is preserved via the Internet Archive, which returns HTTP 200. The archived page states: 'Environmental justice means the just treatment and meaningful involvement of all people, regardless of income, race, color, national origin, Tribal affiliation, or disability, in agency decision-making and other Federal activities that affect human health and the environment.' The lesson's paraphrase ('the fair treatment of all people in environmental decisions') is a faithful rendering of the long-standing EPA definition. US-centric, so the lesson pairs it with the IPCC (S-005) for the global uneven-burden facts and treats the definition as one widely used framing, not the only tradition."
+
+  - id: S-484
+    title: "Bullard (1990) — Dumping in Dixie: Race, Class, and Environmental Quality"
+    type: book
+    author: Robert D. Bullard
+    organization: Westview Press
+    year: 1990
+    domains: [D10]
+    reviewed: true
+    notes: "Foundational environmental-justice scholarship documenting how hazardous-waste sites and polluting facilities were disproportionately sited in Black and low-income communities in the U.S. South, and the community struggles that responded (including the 1982 Warren County, North Carolina protests). Robert D. Bullard is widely regarded as a founder of the environmental-justice field. Cited for the historical origins of environmental justice as a movement and a field of study; US-focused, so the lesson pairs it with global examples anchored by the IPCC (S-005). Fact-checker verified (2026-08-19): bibliographic entry is real and correctly attributed — Robert D. Bullard, Dumping in Dixie: Race, Class, and Environmental Quality (Westview Press, 1990), the first book-length study of environmental racism, and Bullard is universally described as a founder of the field. The Warren County, NC (1982) PCB-landfill protests are accurately named as the movement's catalyzing event."
+
+  - id: S-485
+    title: "Standing Rock Sioux Tribe — Dakota Access Pipeline opposition (Mní wičhóni / water is life)"
+    type: website
+    url: https://standingrock.org/
+    organization: Standing Rock Sioux Tribe
+    domains: [D10]
+    reviewed: true
+    notes: "First-party source for the Standing Rock Sioux Tribe's opposition to the Dakota Access Pipeline (DAPL). Fact-checker verified live (2026-08-19): standingrock.org homepage states verbatim the reservation is 'Stradling the South Dakota and North Dakota border' covering '2.3 million acres,' 'borders the Missouri River,' and is 'Home to the Lakota and Dakota nations,' and its 'Stand With Us' section asks supporters to fund 'our continued efforts in the Dakota Access Pipeline battle.' This confirms the Tribe is real, the reservation straddles the ND/SD border along the Missouri River, its people are Lakota and Dakota, and it still opposes DAPL — matching the lesson's claims. The underlying facts are standard and well documented: the Tribe opposed DAPL, a crude-oil pipeline routed under/alongside the Missouri River, on grounds that it threatened their water supply and treaty lands; in 2016–2017 thousands of Indigenous 'water protectors' gathered in camps (#NoDAPL) grounded in the Lakota phrase Mní wičhóni ('water is life'). Cited in U.09.013 L10 (environmental justice) as the lesson's Indigenous stewardship/defense case, so Indigenous peoples appear as knowledge-holders, stewards, and defenders — not only as burden-bearers. US case; paired with the global island sea-level-rise case (IPCC, S-005)."

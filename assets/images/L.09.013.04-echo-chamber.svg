@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Echo chambers and breaking out</title>
+  <desc id="desc">Two separate bubbles each contain a person hearing only the same idea repeated back. A curved path with a doorway connects the bubbles to a shared middle space where many different ideas are heard. The path is labeled breaking out.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Echo Chambers — and How to Break Out</text>
+
+  <!-- left bubble -->
+  <circle cx="136" cy="210" r="86" fill="#6b93b6" opacity="0.35"/>
+  <circle cx="136" cy="210" r="86" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="136" cy="196" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="110" y="220" width="52" height="20" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">same idea,</text>
+  <text x="136" y="278" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">again and again</text>
+
+  <!-- right bubble -->
+  <circle cx="376" cy="210" r="86" fill="#7a9e7e" opacity="0.35"/>
+  <circle cx="376" cy="210" r="86" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="376" cy="196" r="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="350" y="220" width="52" height="20" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">same idea,</text>
+  <text x="376" y="278" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">again and again</text>
+
+  <!-- middle shared space -->
+  <rect x="212" y="150" width="88" height="120" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="256" y="180" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">shared space</text>
+  <text x="256" y="200" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">many different</text>
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">voices and</text>
+  <text x="256" y="232" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">sources heard</text>
+
+  <!-- doorways -->
+  <rect x="198" y="180" width="14" height="34" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+  <rect x="300" y="180" width="14" height="34" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+
+  <!-- arrows -->
+  <defs>
+    <marker id="ec1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/>
+    </marker>
+  </defs>
+  <path d="M208 196 L214 196" stroke="#e0a458" stroke-width="2.5" fill="none"/>
+  <path d="M312 196 L306 196" stroke="#e0a458" stroke-width="2.5" fill="none"/>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">break out: seek different sources on purpose</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">A feed shows you what it thinks you like — not all there is</text>
+</svg>

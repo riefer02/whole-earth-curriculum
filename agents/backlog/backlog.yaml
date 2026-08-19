@@ -5507,7 +5507,7 @@ items:
     type: lesson
     grade: 9
     domain: D10
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5518,7 +5518,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by global-culture-editor: Fails philosophy 11 multiple-knowledge-traditions check and flattens Indigenous representation: climate arc (L6-L10) holds only Western climate science; Indigenous peoples appear only as burden-bearers, never as knowledge-holders/stewards/land defenders. Fix: (a) add philosophy 11 note in L6/L7 holding Indigenous/traditional ecological knowledge side by side with Western mechanism; (b) add an Indigenous land-defender case to L10 case cards.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Re-pass after rework: validate green (1399 files). All 10 lessons carry Procedure/Assessment/Facilitator note/Connection; objectives resolve to real D10.S*.09.* IDs, all 8 covered; new sources S-427/S-320/S-321/S-485 resolve. Philosophy-11 fix landed: L6 Kimmerer/Potawatomi side by side (names Citizen Potawatomi Nation), L7 cultural burning attributed to Aboriginal & Torres Strait Islander peoples (S-320/S-321), L10 Standing Rock (S-485) framed as stewardship/defense not only burden-bearers."
+      fact-checker:
+        verdict: passed
+        note: "Verified new rework claims: S-485 Standing Rock Sioux Tribe (re-fetched live, real, Lakota/Dakota, still opposes DAPL; Mni wichoni accurate) -> reviewed:true; S-427 Kimmerer Braiding Sweetgrass/Potawatomi attribution accurate; S-320/S-321 CSIRO+Firesticks cultural burning accurate. Spellings correct (Citizen Potawatomi Nation, Robin Wall Kimmerer, Mni wichoni, Aboriginal and Torres Strait Islander). Evidence vs values distinguished."
+      global-culture-editor:
+        verdict: passed
+        note: "Confirmed rework: L6 Potawatomi/Citizen Potawatomi Nation (Kimmerer, S-427) held side by side with greenhouse mechanism; L7 Aboriginal & Torres Strait Islander cultural burning (CSIRO S-320/Firesticks S-321) side by side with carbon cycle, precise and non-decorative; L10 Standing Rock (S-485) framed as stewards/defenders not only victims. Broad re-scan clean; no new narrow framing."
+      accessibility-editor:
+        verdict: passed
+        note: Checked low-tech/no-tech tier (no required devices/wealth in default path - paper/voice/found objects, devices only in enriched), UDL via context_variants + Differentiation + multiple expression modes (write/speak/draw/act), plain learner-first language, alt text on all 10 assets, role=img/title/desc grayscale-safe on all 10 SVGs. No barriers found.
+      alignment-auditor:
+        verdict: passed
+        note: "Verified all four lenses: ethics (every lesson), egalitarianism (L3 platform power, L9 energy trade-offs, L10 environmental justice), global/anthropological (L6-7 Kimmerer Potawatomi + cultural burning side by side with Western science; L10 Standing Rock as stewardship), technology & environment (unit spine L1-5 tech/media, L6-10 Earth systems). Evidence vs values distinguished; sources cited (IPCC/NASA/WHO/Bullard/Pariser). Traceability unbroken: all 8 objectives resolve to real D10.S*.09.* IDs, chain Vision->P4->D10->S1-S4->U.09.013->L.09.013.01-10. No hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-9 band (14-15): cognitive fit matched (algorithmic ranking, power-as-three-levers, carbon cycle fast/slow loops, feedback, energy trade-offs, fact/value split - all anchored concretely). Emotional safety: anti-despair throughline from L1 (neither worship nor fear), heavy truths balanced not moralized, agency concrete (break out as skill, tracing as duty), closes on stewardship with Indigenous peoples as stewards/defenders. Open-ended questions per philosophy 11 (mechanism vs values separated). Spiral respected (retrieval each lesson, recalls grade-8 deepfakes/ecosystem). Nothing too abstract/frightening/advanced."
   - id: B-382
     title: Author lessons for Unit U.09.014 (All of Me, All of Us)
     agent: lesson-author

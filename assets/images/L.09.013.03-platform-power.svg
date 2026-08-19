@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Who controls the platform</title>
+  <desc id="desc">A platform owner stands at a control panel holding three levers labeled rules, ranking, and data. Below, many users hold phones and see only what the levers set. A small speech bubble asks who decides what the users see and what happens to their data.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Who Controls the Platform?</text>
+
+  <!-- platform owner figure -->
+  <circle cx="256" cy="112" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="216" y="140" width="80" height="58" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- control panel -->
+  <rect x="150" y="208" width="212" height="80" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the controller's levers</text>
+  <rect x="164" y="240" width="52" height="16" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="190" y="252" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">rules</text>
+  <rect x="230" y="240" width="52" height="16" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">ranking</text>
+  <rect x="296" y="240" width="52" height="16" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="322" y="252" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">data</text>
+
+  <!-- connection lines from panel to users -->
+  <path d="M190 288 L120 330" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M256 288 L256 330" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M322 288 L392 330" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- users -->
+  <circle cx="120" cy="352" r="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="92" y="374" width="56" height="20" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="352" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="228" y="374" width="56" height="20" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="392" cy="352" r="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="364" y="374" width="56" height="20" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- speech bubble -->
+  <path d="M150 414 Q256 380 362 414 L362 450 Q256 434 150 450 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">Who decides what we see — and what happens to our data?</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Control over rules, ranking, and data is power over users</text>
+</svg>

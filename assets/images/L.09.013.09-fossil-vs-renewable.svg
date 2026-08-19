@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fossil fuels versus renewables</title>
+  <desc id="desc">Two columns. On the left, fossil fuels: coal, oil, and natural gas, formed over millions of years, finite, and burned, releasing carbon dioxide and pollution. On the right, renewables: sunlight, wind, water, and geothermal heat, naturally replenished, with no combustion, but variable by weather and place. A center line divides the two.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Fossil Fuels vs. Renewables</text>
+
+  <!-- divider -->
+  <path d="M256 66 L256 440" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- fossil fuels column -->
+  <rect x="40" y="66" width="196" height="34" rx="8" fill="#4f6d7a"/>
+  <text x="138" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fdfbf7">Fossil fuels</text>
+
+  <text x="52" y="124" font-family="sans-serif" font-size="12.5" fill="#2b3a42">coal · oil · natural gas</text>
+  <text x="52" y="150" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">formed over millions of years</text>
+  <text x="52" y="172" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">finite — can run out</text>
+  <text x="52" y="194" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">burned → releases CO₂</text>
+  <text x="52" y="216" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">also local pollution</text>
+
+  <!-- coal icon -->
+  <circle cx="90" cy="290" r="26" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="296" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#fdfbf7">coal</text>
+  <path d="M150 316 q4 -10 8 0 M162 316 q4 -10 8 0" stroke="#6b93b6" stroke-width="2.5" fill="none"/>
+  <text x="158" y="306" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">smoke</text>
+
+  <!-- renewables column -->
+  <rect x="276" y="66" width="196" height="34" rx="8" fill="#7a9e7e"/>
+  <text x="374" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fdfbf7">Renewables</text>
+
+  <text x="288" y="124" font-family="sans-serif" font-size="12.5" fill="#2b3a42">sun · wind · water · Earth's heat</text>
+  <text x="288" y="150" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">naturally replenished</text>
+  <text x="288" y="172" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">little or no combustion</text>
+  <text x="288" y="194" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">much lower CO₂ in operation</text>
+  <text x="288" y="216" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">variable — sun and wind change</text>
+
+  <!-- sun + wind icon -->
+  <circle cx="330" cy="284" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M330 254 v6 M330 308 v6 M300 284 h6 M354 284 h6" stroke="#e0a458" stroke-width="2.5"/>
+  <path d="M388 268 q0 18 0 36 M384 276 l8 -8 M392 268 l8 8 M392 296 l8 -8 M384 304 l8 8" stroke="#4f6d7a" stroke-width="2.5" fill="none"/>
+  <text x="380" y="320" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">wind</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Each has limits; the choice shapes the air, the climate, and people's lives</text>
+</svg>

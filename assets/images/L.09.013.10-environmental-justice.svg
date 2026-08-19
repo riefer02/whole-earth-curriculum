@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Environmental justice: uneven burdens</title>
+  <desc id="desc">A balance scale. On one side, a light load labeled benefits: energy, profit, and comfort. On the other side, a heavy load labeled burdens: pollution, flooding, heat, and extraction. The heavy side tilts down onto people who contributed the least. Small figures stand beneath each side, showing that the burdens fall unevenly on some people more than others.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Environmental Justice: Burdens Fall Unevenly</text>
+
+  <!-- balance beam and support -->
+  <path d="M256 96 L256 150" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M214 150 L298 150" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M236 150 L256 168 L276 150" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M110 150 L160 150 L160 196" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M402 150 L352 150 L352 196" stroke="#2b3a42" stroke-width="3" fill="none"/>
+
+  <!-- benefits pan (light, high) -->
+  <path d="M96 206 q64 40 128 0 L96 206 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="160" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">benefits</text>
+  <text x="160" y="240" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">energy · profit · comfort</text>
+
+  <!-- burdens pan (heavy, low) -->
+  <path d="M288 236 q64 40 128 0 L288 236 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="352" y="254" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">burdens</text>
+  <text x="352" y="270" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">pollution · flood · heat · extraction</text>
+
+  <!-- people beneath benefits (one figure) -->
+  <circle cx="160" cy="340" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="136" y="360" width="48" height="34" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- people beneath burdens (three figures) -->
+  <circle cx="308" cy="340" r="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="284" y="360" width="48" height="34" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="352" cy="340" r="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="328" y="360" width="48" height="34" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="396" cy="340" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="372" y="360" width="48" height="34" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">those who contributed least often carry the most</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Justice asks: who bears the burden, who reaps the benefit?</text>
+</svg>
