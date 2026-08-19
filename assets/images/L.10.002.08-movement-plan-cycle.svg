@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Building a movement plan that lasts</title>
+  <desc id="desc">A cycle diagram for a personal movement plan with four steps around a circle: choose what you enjoy, start small, rest and recover, and check in and adjust. A central figure in motion shows the plan as a loop that keeps going, not a one-time rule.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Movement Plan That Lasts</text>
+
+  <!-- Cycle arrows -->
+  <circle cx="256" cy="270" r="160" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6" stroke-opacity="0.6"/>
+
+  <!-- Step 1: choose what you enjoy (top) -->
+  <g>
+    <rect x="168" y="74" width="176" height="66" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">choose what you enjoy</text>
+    <text x="256" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">walk, dance, swim, play, garden</text>
+  </g>
+
+  <!-- Step 2: start small (right) -->
+  <g>
+    <rect x="352" y="238" width="130" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="417" y="264" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">start small</text>
+    <text x="417" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">smaller than you think</text>
+  </g>
+
+  <!-- Step 3: rest and recover (bottom) -->
+  <g>
+    <rect x="168" y="400" width="176" height="66" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">rest and recover</text>
+    <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rest is half of progress</text>
+  </g>
+
+  <!-- Step 4: check in and adjust (left) -->
+  <g>
+    <rect x="30" y="238" width="130" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="264" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">check in</text>
+    <text x="95" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">and adjust</text>
+  </g>
+
+  <!-- Connecting arrows -->
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 140 L256 150" />
+    <path d="M362 140 L420 140 Q430 140 430 150 L430 236" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M424 230 L430 240 L436 230" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M430 302 L430 420 Q430 433 417 433 L344 433" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M338 427 L344 433 L338 439" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M168 433 L95 433 Q82 433 82 420 L82 302" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M76 302 L82 292 L88 302" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M82 238 L82 160 Q82 140 100 140 L166 140" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M172 134 L166 140 L172 146" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Central figure in motion -->
+  <g>
+    <circle cx="256" cy="270" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M247 276 Q256 282 265 276" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 296 L256 340" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 306 L232 332 M256 306 L280 332" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <text x="256" y="506" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A plan is a loop, not a rule — one that forgives and keeps going.</text>
+</svg>

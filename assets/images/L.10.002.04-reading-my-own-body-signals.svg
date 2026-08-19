@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading my own body's signals</title>
+  <desc id="desc">A personal tracker with three dials labeled stress, sleep, and movement, each with a needle pointing to a low, medium, or high position, and a strip below labeled "mood and focus" for marking the day. It shows the three forces being read together as one pattern.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Reading My Own Body's Signals</text>
+
+  <!-- Dial 1: stress -->
+  <g>
+    <text x="96" y="92" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">stress</text>
+    <circle cx="96" cy="170" r="62" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M40 206 A62 62 0 0 1 152 206" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.6"/>
+    <line x1="96" y1="170" x2="132" y2="126" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="96" cy="170" r="5" fill="#2b3a42"/>
+    <text x="96" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">high</text>
+  </g>
+
+  <!-- Dial 2: sleep -->
+  <g>
+    <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">sleep</text>
+    <circle cx="256" cy="170" r="62" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M200 206 A62 62 0 0 1 312 206" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.6"/>
+    <line x1="256" y1="170" x2="270" y2="210" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="256" cy="170" r="5" fill="#2b3a42"/>
+    <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">hours</text>
+  </g>
+
+  <!-- Dial 3: movement -->
+  <g>
+    <text x="416" y="92" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">movement</text>
+    <circle cx="416" cy="170" r="62" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M360 206 A62 62 0 0 1 472 206" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.6"/>
+    <line x1="416" y1="170" x2="386" y2="140" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="416" cy="170" r="5" fill="#2b3a42"/>
+    <text x="416" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">active</text>
+  </g>
+
+  <!-- Mood and focus strip -->
+  <rect x="46" y="300" width="420" height="140" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">mood and focus</text>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">mark each day: low &#8596; high</text>
+
+  <!-- Scale line -->
+  <line x1="80" y1="392" x2="432" y2="392" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">foggy / low</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">steady</text>
+  <text x="432" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">clear / high</text>
+
+  <!-- Sample day marks -->
+  <circle cx="120" cy="392" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="300" cy="392" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="400" cy="392" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Three forces, read together, tell one story — noticed with honesty, not judgment.</text>
+</svg>

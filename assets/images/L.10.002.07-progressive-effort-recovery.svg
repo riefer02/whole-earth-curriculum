@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Progressive effort and recovery</title>
+  <desc id="desc">A staircase rising from left to right. Each upward step is labeled "a little more effort," and each flat landing is labeled "recovery." It shows that progress comes from small increases followed by rest, not from pushing endlessly.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Progressive Effort &amp; Recovery</text>
+
+  <!-- Staircase -->
+  <g fill="#ffffff" stroke="#2b3a42" stroke-width="2">
+    <rect x="70" y="360" width="70" height="70"/>
+    <rect x="140" y="290" width="70" height="70"/>
+    <rect x="210" y="220" width="70" height="70"/>
+    <rect x="280" y="150" width="70" height="70"/>
+    <rect x="350" y="80" width="70" height="70"/>
+  </g>
+
+  <!-- Effort arrows (up) -->
+  <g stroke="#e0a458" stroke-width="3" stroke-linecap="round">
+    <line x1="105" y1="300" x2="105" y2="330"/>
+    <path d="M99 324 L105 336 L111 324" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <line x1="175" y1="230" x2="175" y2="260"/>
+    <path d="M169 254 L175 266 L181 254" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <line x1="245" y1="160" x2="245" y2="190"/>
+    <path d="M239 184 L245 196 L251 184" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <line x1="315" y1="90" x2="315" y2="120"/>
+    <path d="M309 114 L315 126 L321 114" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="2"/>
+  </g>
+
+  <!-- Labels -->
+  <text x="72" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458" transform="rotate(-90 72 420)">a little more</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">each step: a little more effort</text>
+
+  <!-- Recovery landings -->
+  <g fill="#7a9e7e">
+    <circle cx="175" cy="432" r="8"/>
+    <circle cx="245" cy="362" r="8"/>
+    <circle cx="315" cy="292" r="8"/>
+    <circle cx="385" cy="222" r="8"/>
+  </g>
+  <path d="M170 470 Q185 480 200 470" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">each landing: recovery, where the body grows</text>
+
+  <!-- Rising trend arrow -->
+  <path d="M420 420 Q430 250 460 120" fill="none" stroke="#6b93b6" stroke-width="3" stroke-dasharray="6 5"/>
+  <path d="M452 128 L460 112 L470 130" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="470" y="150" font-family="sans-serif" font-size="14" fill="#6b93b6">progress</text>
+</svg>

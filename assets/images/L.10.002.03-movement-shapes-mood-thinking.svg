@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Movement shapes mood and thinking</title>
+  <desc id="desc">A figure walking briskly in the center, linked by three arrows to three labeled outcome boxes: better mood (a smiling face), sharper focus (a clear mind with a lightbulb), and a stronger body (a flexed arm). A note below explains these follow from brain and body changes during movement.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Movement Shapes Mood &amp; Thinking</text>
+
+  <!-- Central walking figure -->
+  <g>
+    <circle cx="256" cy="180" r="28" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M246 186 Q256 192 266 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 208 L256 286" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 220 L222 254 M256 220 L290 254" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M256 286 L230 344 M256 286 L288 344" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- motion lines -->
+    <path d="M196 300 Q186 300 196 296" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M316 300 Q326 300 316 296" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Arrow up-left to mood -->
+  <path d="M210 160 L120 120" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M128 114 L118 122 L136 130" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Mood box -->
+  <rect x="30" y="74" width="120" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <circle cx="90" cy="104" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="83" cy="101" r="2.6" fill="#2b3a42"/>
+  <circle cx="97" cy="101" r="2.6" fill="#2b3a42"/>
+  <path d="M80 110 Q90 118 100 110" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="90" y="146" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">better mood</text>
+
+  <!-- Arrow right to focus -->
+  <path d="M302 160 L392 120" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M384 114 L394 122 L376 130" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Focus box -->
+  <rect x="362" y="74" width="120" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="402" y="88" width="40" height="34" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="422" y1="94" x2="422" y2="104" stroke="#fdfbf7" stroke-width="2"/>
+  <line x1="412" y1="116" x2="432" y2="116" stroke="#fdfbf7" stroke-width="2"/>
+  <text x="422" y="146" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">sharper focus</text>
+
+  <!-- Arrow down to body -->
+  <path d="M256 356 L256 404" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M250 398 L256 410 L262 398" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Body box -->
+  <rect x="186" y="414" width="140" height="66" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <path d="M216 430 Q216 414 234 414 Q252 414 252 430 Q252 442 252 448 L216 448 Q216 442 216 430 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="292" y="436" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">stronger body</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">These follow from real changes in the brain and body during movement.</text>
+</svg>

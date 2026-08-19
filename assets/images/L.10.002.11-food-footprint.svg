@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What my food costs the Earth</title>
+  <desc id="desc">A bar chart comparing food footprints. A small bar for plant foods like grains and beans, a medium bar for dairy, and the largest bar for ruminant meat. A small Earth and a food-waste note show that what we eat carries land, water, and greenhouse-gas costs that vary by food.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">What My Food Costs the Earth</text>
+
+  <!-- Bar chart area -->
+  <line x1="70" y1="360" x2="440" y2="360" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="70" y1="360" x2="70" y2="70" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Bar 1: plant foods (small) -->
+  <rect x="90" y="280" width="80" height="80" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">plants</text>
+  <text x="130" y="404" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">grains, beans</text>
+
+  <!-- Bar 2: dairy (medium) -->
+  <rect x="200" y="220" width="80" height="140" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="240" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">dairy</text>
+
+  <!-- Bar 3: ruminant meat (largest) -->
+  <rect x="310" y="140" width="80" height="220" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="350" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">ruminant meat</text>
+  <text x="350" y="404" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">beef, lamb, goat</text>
+
+  <!-- Y-axis label -->
+  <text x="50" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" transform="rotate(-90 50 220)">footprint</text>
+
+  <!-- Small Earth -->
+  <g transform="translate(430,90)">
+    <circle cx="0" cy="0" r="34" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M-18 -14 Q0 -6 14 -18 Q22 -2 10 12 Q-6 22 -20 8 Q-30 -6 -18 -14 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="430" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the Earth</text>
+
+  <!-- Food waste note -->
+  <rect x="70" y="422" width="360" height="56" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="250" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">wasted food wastes its land, water, and energy</text>
+  <text x="250" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">about a fifth of food available to consumers is wasted</text>
+
+  <text x="256" y="506" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">What we eat is a message to the planet — weighed as a choice, never a guilt.</text>
+</svg>

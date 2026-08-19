@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sleep: the brain's night shift</title>
+  <desc id="desc">A night scene with a sleeping figure under a crescent moon, beside a looping diagram of the sleep cycle — light sleep, deep sleep, and REM dream sleep — and a labeled band reading 8 to 10 hours for teen sleep needs.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Sleep: The Brain's Night Shift</text>
+
+  <!-- Moon and stars -->
+  <path d="M430 60 A26 26 0 1 1 456 96 A20 20 0 0 0 430 60 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="60" cy="70" r="2.5" fill="#4f6d7a"/>
+  <circle cx="120" cy="52" r="2.5" fill="#4f6d7a"/>
+  <circle cx="92" cy="96" r="2" fill="#4f6d7a"/>
+
+  <!-- Sleeping figure on bed -->
+  <g>
+    <rect x="52" y="300" width="180" height="26" rx="13" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="56" y="272" width="30" height="30" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="196" cy="272" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M187 267 Q189 264 193 267" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M186 278 Q196 283 206 278" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M218 286 Q230 300 214 330" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- Zzz -->
+    <text x="228" y="248" font-family="sans-serif" font-size="20" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="240" y="232" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">z</text>
+    <text x="250" y="218" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">z</text>
+  </g>
+
+  <!-- Sleep cycle loop -->
+  <g>
+    <circle cx="360" cy="190" r="120" fill="none" stroke="#6b93b6" stroke-width="2" stroke-dasharray="6 6" stroke-opacity="0.5"/>
+
+    <!-- Light sleep node -->
+    <circle cx="460" cy="150" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="460" y="147" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">light</text>
+    <text x="460" y="163" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">sleep</text>
+
+    <!-- Deep sleep node -->
+    <circle cx="330" cy="88" r="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="330" y="85" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">deep</text>
+    <text x="330" y="101" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">sleep</text>
+
+    <!-- REM node -->
+    <circle cx="282" cy="222" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="282" y="219" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">REM</text>
+    <text x="282" y="235" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">dream</text>
+
+    <!-- Repeating arrows -->
+    <path d="M360 70 A120 120 0 0 1 480 190" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <path d="M472 176 L482 194 L462 196" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- 8-10 hour band -->
+  <rect x="292" y="290" width="180" height="70" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="382" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Teen sleep need</text>
+  <text x="382" y="340" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#e0a458">8–10 hours</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Sleep sorts the day, files what you learned, and lets the body repair.</text>
+</svg>

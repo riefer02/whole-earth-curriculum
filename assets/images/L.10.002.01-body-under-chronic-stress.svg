@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The body under chronic stress: acute alarm vs. chronic wear-and-tear</title>
+  <desc id="desc">A two-panel diagram. Left panel shows the acute alarm: a figure with a fast heart symbol, tense shoulders, and quick breath, ready to act. Right panel shows chronic wear-and-tear: the same figure with a clouded head, tired eyes, and a knotted stomach. An arrow between them is labeled "an alarm that never turns off."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">The Stress Response</text>
+
+  <!-- Left panel: acute alarm -->
+  <rect x="26" y="66" width="222" height="400" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="137" y="96" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Acute alarm</text>
+  <text x="137" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">(useful, then it turns off)</text>
+
+  <!-- Figure head -->
+  <circle cx="137" cy="170" r="30" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="127" cy="166" r="3.5" fill="#2b3a42"/>
+  <circle cx="147" cy="166" r="3.5" fill="#2b3a42"/>
+  <path d="M126 180 Q137 187 148 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- Tense shoulders: angled line -->
+  <path d="M96 218 L178 218" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M96 218 L84 246 M178 218 L190 246" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body -->
+  <path d="M137 200 L137 300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Fast heart -->
+  <g transform="translate(96,312)">
+    <path d="M12 4 C6 10 22 22 12 30 C2 22 18 10 12 4 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="124" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">fast heart</text>
+
+  <!-- Quick breath -->
+  <path d="M96 356 Q106 352 112 356 Q118 360 124 356" fill="none" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+  <text x="137" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">quick breath</text>
+
+  <text x="137" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">readies you to act</text>
+
+  <!-- Arrow between panels -->
+  <g>
+    <path d="M252 266 L264 266" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M258 260 L264 266 L258 272" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Right panel: chronic wear-and-tear -->
+  <rect x="264" y="66" width="222" height="400" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <text x="375" y="96" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Chronic wear-and-tear</text>
+  <text x="375" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">(the alarm never turns off)</text>
+
+  <!-- Figure head with cloud -->
+  <circle cx="375" cy="170" r="30" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M364 166 Q365 162 368 166 M382 166 Q383 162 386 166" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M362 181 Q375 174 388 181" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cloud above head -->
+  <ellipse cx="375" cy="128" rx="26" ry="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+  <ellipse cx="366" cy="122" rx="14" ry="8" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+  <ellipse cx="386" cy="122" rx="14" ry="8" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+
+  <!-- Drooping shoulders -->
+  <path d="M334 218 L416 218" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M334 218 L330 250 M416 218 L420 250" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M375 200 L375 300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Knotted stomach -->
+  <g transform="translate(356,316)">
+    <ellipse cx="18" cy="16" rx="22" ry="14" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M8 6 Q18 24 28 6" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="375" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">knotted stomach</text>
+
+  <!-- Sleep disruption: crescent with line -->
+  <path d="M344 374 A18 18 0 1 1 362 398 A15 15 0 0 0 344 374 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M376 382 L398 382" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="375" y="416" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">poor sleep, low mood</text>
+
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">An alarm that never turns off becomes wear-and-tear.</text>
+</svg>

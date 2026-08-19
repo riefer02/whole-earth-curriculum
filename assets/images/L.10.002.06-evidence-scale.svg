@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What evidence supports each view: the evidence ladder</title>
+  <desc id="desc">A ladder of evidence with four rungs from bottom to top: anecdote, correlation, randomized trial, and systematic review. A balance scale beside it holds a question mark, illustrating that claims are weighed by the strength of their evidence.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Weighing Evidence</text>
+
+  <!-- Ladder rails -->
+  <line x1="150" y1="90" x2="150" y2="440" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <line x1="250" y1="90" x2="250" y2="440" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Rung 1: anecdote (bottom) -->
+  <line x1="150" y1="420" x2="250" y2="420" stroke="#4f6d7a" stroke-width="4"/>
+  <text x="280" y="425" font-family="sans-serif" font-size="16" fill="#222222">anecdote <tspan font-size="13" fill="#4f6d7a">(one story)</tspan></text>
+
+  <!-- Rung 2: correlation -->
+  <line x1="150" y1="330" x2="250" y2="330" stroke="#6b93b6" stroke-width="4"/>
+  <text x="280" y="335" font-family="sans-serif" font-size="16" fill="#222222">correlation <tspan font-size="13" fill="#4f6d7a">(travel together)</tspan></text>
+
+  <!-- Rung 3: randomized trial -->
+  <line x1="150" y1="240" x2="250" y2="240" stroke="#7a9e7e" stroke-width="4"/>
+  <text x="280" y="245" font-family="sans-serif" font-size="16" fill="#222222">randomized trial <tspan font-size="13" fill="#4f6d7a">(tested)</tspan></text>
+
+  <!-- Rung 4: systematic review (top) -->
+  <line x1="150" y1="150" x2="250" y2="150" stroke="#e0a458" stroke-width="4"/>
+  <text x="280" y="155" font-family="sans-serif" font-size="16" fill="#222222">systematic review <tspan font-size="13" fill="#4f6d7a">(many trials pooled)</tspan></text>
+
+  <!-- Up arrow on ladder -->
+  <path d="M200 448 L200 100" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 5" stroke-opacity="0.5"/>
+  <path d="M194 108 L200 96 L206 108" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Balance scale -->
+  <g transform="translate(360,180)">
+    <path d="M0 260 L0 40" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M-40 260 L40 260" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="0" cy="30" r="6" fill="#2b3a42"/>
+    <line x1="0" y1="36" x2="-70" y2="80" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="0" y1="36" x2="70" y2="80" stroke="#2b3a42" stroke-width="3"/>
+    <!-- left pan -->
+    <path d="M-100 70 A30 30 0 0 0 -40 70" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <!-- right pan -->
+    <path d="M40 70 A30 30 0 0 0 100 70" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <!-- question mark on left pan -->
+    <text x="-70" y="86" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#e0a458">?</text>
+    <!-- star of evidence on right pan -->
+    <text x="70" y="86" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#7a9e7e">&#9733;</text>
+  </g>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A claim is weighed by the strength of its evidence — and a tradition can still be honored.</text>
+</svg>

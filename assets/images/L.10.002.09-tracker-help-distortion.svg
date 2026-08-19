@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tech in my pocket: help or distortion</title>
+  <desc id="desc">A wrist-worn tracker and a phone screen shown as a two-sided scale. The left side shows helpful prompts: steps, activity, and rest. The right side shows distorting pressures: streak broken, you're behind, and not enough. It shows the same tool can support or strain a healthy relationship with the body.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Tech in My Pocket: Help or Distortion?</text>
+
+  <!-- Watch -->
+  <g transform="translate(76,150)">
+    <rect x="0" y="0" width="120" height="150" rx="24" fill="#2b3a42"/>
+    <rect x="24" y="-18" width="26" height="20" rx="6" fill="#4f6d7a"/>
+    <rect x="70" y="-18" width="26" height="20" rx="6" fill="#4f6d7a"/>
+    <rect x="12" y="12" width="96" height="126" rx="16" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="60" y="56" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">today</text>
+    <text x="60" y="86" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#7a9e7e">&#10003;</text>
+    <text x="60" y="118" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">rest day</text>
+  </g>
+
+  <!-- Help side (left labels) -->
+  <text x="60" y="360" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">helps</text>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <text x="60" y="384" text-anchor="middle">steps</text>
+    <text x="60" y="404" text-anchor="middle">activity</text>
+    <text x="60" y="424" text-anchor="middle">rest</text>
+  </g>
+
+  <!-- Phone screen -->
+  <g transform="translate(316,150)">
+    <rect x="0" y="0" width="120" height="200" rx="18" fill="#2b3a42"/>
+    <rect x="8" y="8" width="104" height="184" rx="12" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="60" y="40" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">your goal</text>
+    <text x="60" y="72" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">streak broken</text>
+    <text x="60" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">you're behind</text>
+    <text x="60" y="136" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">not enough</text>
+  </g>
+
+  <!-- Distortion side (right labels) -->
+  <text x="376" y="388" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#e0a458">distorts</text>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <text x="376" y="412" text-anchor="middle">streaks</text>
+    <text x="376" y="432" text-anchor="middle">comparisons</text>
+    <text x="376" y="452" text-anchor="middle">"not enough"</text>
+  </g>
+
+  <!-- Scale beam between them -->
+  <g>
+    <line x1="196" y1="330" x2="316" y2="330" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="256" cy="330" r="8" fill="#2b3a42"/>
+    <line x1="256" y1="338" x2="256" y2="360" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same tool can support or strain — you get to decide what your body is for.</text>
+</svg>

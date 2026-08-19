@@ -5618,7 +5618,7 @@ items:
     type: lesson
     grade: 10
     domain: D03
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5630,6 +5630,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate green (1426 files). 11 lessons L.10.002.01-.11 seq no gaps; objectives resolve to real D03.S*.10.* IDs covering all 6 (S1.10.01->L1-4, S1.10.02->L5-6, S2.10.01->L7-8, S2.10.02->L9, S3.10.01->L10, S3.10.02->L11); headings present; unit.md matches 1:1; 11 SVGs exist; S-codes resolve. L10 body-neutral no-shame line; L11 food footprint as systems question not lecture. No diet-culture harm.
+      fact-checker:
+        verdict: passed
+        note: "All 20 S-codes resolve to real reviewed:true entries. Verified: stress physiology + longer-exhale breathing (APA S-338/Cleveland S-339/Harvard S-340); teen sleep 8-10h (AASM S-050); exercise-mood mechanisms hedged (Mikkelsen S-408); WHO balanced routine + progressive overload/recovery (S-341); tracker accuracy hedged, '10,000 steps is marketing' (S-341/S-226/S-411/S-063); diet claims (WHO S-038, FAO/WHO S-285, S-312); food footprint plant<dairy<ruminant hedged (IPCC S-005), food waste ~1/5 (UNEP S-410), hunger ~1-in-11 (FAO S-409). Evidence vs values distinguished; no unverified health claims as fact."
+      global-culture-editor:
+        verdict: passed
+        note: "Framing: no narrow default (only APA/AASM source attributions; 'gym' neutralized; '10,000 steps is marketing'). Body-mind L5-6 holds pranayama/qigong/meditation/yoga/tai chi/humoral medicine (Greek/Islamic/South Asian) side by side unranked, scientific method as one tradition not superior, 'add your own' invites home practices. Food L10-11 global (herding/rice-growing/coastal fishing), access/food-security structural not moral. Connections span city/farm/coast/mountain."
+      accessibility-editor:
+        verdict: passed
+        note: Tiered materials in all 11; low-tech paper/voice/found objects, no devices. UDL + context_variants; mobility/disability inclusion strong (chair-based/seated/adapted movement in L3/L5/L7/L8, wheelchair named L9, no able-bodied default, UNESCO inclusive-of-every-ability). Body-neutral diet lessons. All 11 assets non-empty alt; SVGs role=img/title/desc. Plain language.
+      alignment-auditor:
+        verdict: passed
+        note: "Four lenses verified in all 11 lessons (tech whole of L9, environment whole of L11); added missing tech/env lens to L6/L7/L10. Evidence vs values distinguished (correlation-vs-causation L4, evidence ladder L6, no-shame line as value in L10). All sources resolve. Traceability unbroken: objectives resolve to real D03.S*.10.* IDs; chain lesson->U.10.002->D03 strands->P2. No hierarchy/supremacy/body-shaming."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-10 band (15-16): cognitive fit calibrated (stress physiology, evidence ladder, correlation-vs-causation, training principles, nutrition-claim evaluation - descriptive not verdict). Body-image/eating-disorder safety clean: no calories/weight-loss/BMI/food bans; named no-shame line (judge claims not people, body healthy at many sizes); movement adaptive never competitive; L9 flags calorie guilt; L11 'weigh footprints never people'. De-shaming on stress/sleep; open-ended questions; physical fit differentiated. Non-blocking note: keep no-shame line wording in assets/illustrations."
   - id: B-385
     title: Author lessons for Unit U.10.003 (Relationships, Community & Mutual Aid)
     agent: lesson-author
