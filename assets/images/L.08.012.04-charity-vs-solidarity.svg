@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Charity versus solidarity</title>
+  <desc id="desc">Two side-by-side panels. Left, charity: a giver above hands a one-way gift down to a receiver below. Right, solidarity: a circle of equals with two-way arrows, sharing both giving and deciding together.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Charity or Solidarity?</text>
+
+  <!-- left panel: charity -->
+  <rect x="30" y="72" width="216" height="390" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="138" y="100" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Charity</text>
+  <text x="138" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one-way gift</text>
+
+  <!-- giver -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="138" cy="172" r="16"/>
+    <rect x="122" y="190" width="32" height="42" rx="9"/>
+  </g>
+  <text x="138" y="246" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">giver keeps the power</text>
+
+  <!-- one-way arrow -->
+  <line x1="138" y1="256" x2="138" y2="300" stroke="#e0a458" stroke-width="4"/>
+  <polygon points="138,312 130,298 146,298" fill="#e0a458" stroke="#2b3a42" stroke-width="1"/>
+
+  <!-- receiver -->
+  <g fill="#ffffff" stroke="#2b3a42" stroke-width="2">
+    <circle cx="138" cy="340" r="16"/>
+    <rect x="122" y="358" width="32" height="42" rx="9"/>
+  </g>
+  <text x="138" y="416" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">receiver stays passive,</text>
+  <text x="138" y="436" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">may have to prove need</text>
+
+  <!-- right panel: solidarity -->
+  <rect x="266" y="72" width="216" height="390" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="374" y="100" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Solidarity</text>
+  <text x="374" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">standing with, as equals</text>
+
+  <!-- circle of equals -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="374" cy="220" r="15"/>
+    <rect x="359" y="238" width="30" height="40" rx="8"/>
+  </g>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <circle cx="316" cy="322" r="15"/>
+    <rect x="301" y="340" width="30" height="40" rx="8"/>
+  </g>
+  <g fill="#d9b8a0" stroke="#2b3a42" stroke-width="2">
+    <circle cx="432" cy="322" r="15"/>
+    <rect x="417" y="340" width="30" height="40" rx="8"/>
+  </g>
+
+  <!-- two-way arrows among equals -->
+  <line x1="374" y1="278" x2="338" y2="316" stroke="#7a9e7e" stroke-width="3"/>
+  <line x1="374" y1="278" x2="410" y2="316" stroke="#7a9e7e" stroke-width="3"/>
+  <polygon points="344,320 332,308 350,310" fill="#7a9e7e"/>
+  <polygon points="404,320 398,310 416,308" fill="#7a9e7e"/>
+
+  <text x="374" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">everyone gives and receives,</text>
+  <text x="374" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">everyone decides together</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The food may be the same; the difference is who holds the power.</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The pause: react now or choose deliberately</title>
+  <desc id="desc">A fork in the road starting from a person who feels an impulse. One path is labeled react now with short-term consequences; the other path is labeled pause and choose with long-term consequences, showing the pause as the moment where the future is decided.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Pause: React Now or Choose</text>
+
+  <!-- starting point -->
+  <circle cx="256" cy="96" r="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="101" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">feeling</text>
+  <text x="256" y="132" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">an impulse arrives…</text>
+
+  <!-- trunk -->
+  <line x1="256" y1="150" x2="256" y2="186" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- fork -->
+  <path d="M256 186 L150 280" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M256 186 L362 280" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- left path: react now -->
+  <rect x="34" y="288" width="196" height="150" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="132" y="316" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">React now</text>
+  <text x="132" y="342" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">act on the feeling</text>
+  <text x="132" y="362" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">at once</text>
+  <text x="132" y="396" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">short-term only:</text>
+  <text x="132" y="416" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">feels good now,</text>
+  <text x="132" y="432" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">cost comes later</text>
+
+  <!-- right path: pause and choose -->
+  <rect x="282" y="288" width="196" height="150" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="380" y="316" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Pause &amp; choose</text>
+  <text x="380" y="342" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">one breath, name it,</text>
+  <text x="380" y="362" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">weigh now vs. later</text>
+  <text x="380" y="396" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">long-term weighed:</text>
+  <text x="380" y="416" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">for me and for others,</text>
+  <text x="380" y="432" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">a response I can keep</text>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The space between feeling and action is where you choose.</text>
+</svg>

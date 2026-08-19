@@ -62,3 +62,8 @@ school.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | All of Me: The Whole Self Made of Intersecting Identities | D01.S2.08.01 |
+| 02 | What I Choose, Not What I React To: Impulse, Choice & Consequences | D01.S3.08.01, D01.S3.08.02 |
+| 03 | Belonging I Strengthen | D02.S3.08.02 |
+| 04 | Systems of Care and Solidarity (Not Charity) | D02.S4.08.01, D02.S4.08.02 |
+| 05 | All of Us: Celebration, the Caring Community & Looking Ahead | all six grade-8 D01/D02 objectives |

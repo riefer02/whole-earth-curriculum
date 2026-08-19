@@ -5100,7 +5100,7 @@ items:
     type: lesson
     grade: 8
     domain: D01
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -5112,6 +5112,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1287 files). 5 lessons L.08.012.01-.05 (capstone, scope lesson_count=5), sequence 1-5 no gaps; objectives resolve only to real grade-8 D01/D02 IDs (L1->D01.S2.08.01; L4->D02.S4.08.01/.02); unit.md Lessons table 5 rows matching; scope.md lesson_count=5. Procedure/Assessment present. Observation: L4 Connection contrasts one-way gift vs neighbors deciding together (charity/solidarity distinction); L5 capstone gathers all six D01/D02 objectives; 5 SVGs well-formed + alt."
+      fact-checker:
+        verdict: passed
+        note: "Verified S-399 Markus & Nurius 1986 Possible Selves (DOI 10.1037/0003-066X.41.9.954 live) and S-400 Damon 2008 Path to Purpose (~1-in-5 purpose claim accurate+hedged), marked reviewed:true. Fixed S-399 misattribution by wiring citation into L.08.012.01. Claims accurate: intersectionality Crenshaw S-334, impulse/executive function (Mischel S-336 with replication caveat, Steinberg S-229 dual-systems), belonging (Tajfel/UNESCO/J&J), mutual aid (Spade S-345, Kropotkin S-163, harambee/gotong royong/mink'a/barn raising S-164). 5 SVGs accurate. validate green (1287 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "L1 identity multi-dimensional (culture/gender/ability/language + learner-named; clan/faith/nation/craft). L3 belonging non-individualist (welcoming stranger as cross-cultural duty, shared meal/spoken greeting/place at fire, market/field/water-point). L4 solidarity traditions accurate+non-tokenized (harambee Kenya, gotong royong Indonesia, mink'a/minga Andes, barn raising North America) — fix: surfaced all four from Facilitator note into learner-facing case cards + Procedure step 4 instead of Western-default food bank/neighborhood watch. L5 culture-open. validate green (1287 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Alt text + role=img/aria-labelledby/title/desc on 5 SVGs, text labels not color-only, grayscale-printable. Fixed L.08.012.01 alt+desc ('interests'->'my own' matching visible oval). Added non-visual paths: L1 read-aloud + found-object map, L2 'hear it read aloud', L3 tactile web (string/hands), L4 act-out charity-vs-solidarity, L5 non-visual/no-writing celebration. materials_low_tech all 5; UDL sentence starters + context_variants. validate green (1287 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: six objectives resolve to real grade-8 D01/D02 IDs (D01.S2.08.01, D01.S3.08.01/.02, D02.S3.08.02, D02.S4.08.01/.02), both legit per unit.md, chain Vision->P1->D01/D02->U.08.012. Four lenses: ethics/egalitarianism all 5 (charity-vs-solidarity rejects hierarchy), global L1/L3/L4/L5 (harambee/gotong royong/mink'a/barn raising), technology all 5 (platforms/apps/digital inclusion), environment L4/L5. Evidence vs values: S-IDs resolve, facts vs norms (L2 pause as skill not destiny; L5 mastery not ranking). validate green (1287 files). No fixes."
+      child-psychologist:
+        verdict: passed
+        note: "L1 identity fluid/exploratory (not one box, growing story never a verdict, possible selves, no finished autobiography, low-stakes sharing). L2 impulse/choice free of willpower shame (reacting is human, brakes still being built, marshmallow replication caveat, 'you built a tool'). L3 belonging safe for excluded learner (no forced confession, case cards, one small doable act). L4 solidarity non-judgmental (charity not bad, food-bank meets real need, tools to notice power not despair). Cognitive fit anchored (possible selves + 3-question who-gives/receives/decides). Multi-modal + spiral. validate green (1287 files). NB: SVGs exist at assets/images/L.08.012.*.svg (confirmed) — not in curriculum/."
   - id: B-371
     title: Author lessons for Unit U.09.003 (Feelings, Identity & Purpose)
     agent: lesson-author

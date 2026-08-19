@@ -3710,3 +3710,23 @@ sources:
     domains: [D10]
     reviewed: true
     notes: "Cited in Grade-8 lesson L.08.011.02 (Who Benefits, Who Is Harmed) for the claim that the minerals inside phones, such as cobalt, are sometimes mined in conditions that harm and exploit workers, including children — one real harm borne far from the user, a key point for the egalitarian lens. Amnesty's 2016 report 'This Is What We Die For' documents child labour and human rights abuses in cobalt mining in the DRC. Fact-checker verified (2026-08-19): the previously registered URL used '/latest/research/2016/01/…'; the correct path is '/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/'. Amnesty.org returns HTTP 403 to automated clients (bot protection), but the URL is real and corroborated by multiple Internet Archive captures (HTTP 200, January 2016; archived page title 'Child labour behind smart phone and electric car batteries | Amnesty International'). The lesson presents this briefly and age-appropriately (no graphic detail) and hedges with 'sometimes,' which is accurate."
+
+  - id: S-399
+    title: "Markus & Nurius (1986) — Possible Selves"
+    type: article
+    url: https://doi.org/10.1037/0003-066X.41.9.954
+    author: Hazel Markus and Paula Nurius
+    year: 1986
+    domains: [D01]
+    reviewed: true
+    notes: "Markus, H., & Nurius, P. (1986). Possible selves. American Psychologist, 41(9), 954–969. DOI 10.1037/0003-066X.41.9.954 verified via Crossref (2026-08-19): title 'Possible selves.', authors Hazel Markus / Paula Nurius, American Psychologist 41(9), 954–969 (1986) — all correct; DOI resolves (redirects to doi.apa.org). The foundational account of 'possible selves' — the selves a person imagines becoming, hoping to become, and fearing to become — as a bridge between the present self and future motivation. Cited in Grade-8 lesson L.08.012.01 (All of Me: The Whole Self Made of Intersecting Identities) for the framing that the 'who I am becoming' reflection is about imagined possible selves, not a fixed verdict. Real, correctly attributed, foundational in the psychology of self and identity. Verified by fact-checker 2026-08-19."
+
+  - id: S-400
+    title: "Damon (2008) — The Path to Purpose: How Young People Find Their Calling in Life"
+    type: book
+    author: William Damon
+    year: 2008
+    organization: Free Press
+    domains: [D01]
+    reviewed: true
+    notes: "Damon, W. (2008). The Path to Purpose: How Young People Find Their Calling in Life. New York: Free Press. Real, correctly attributed developmental-psychology book (William Damon, Stanford; based on the Stanford Youth Purpose project with Kendall Bronk and others). The claim it supports — that a sense of purpose grows by trying, reflecting, and being supported rather than by being certain at once, and that only a minority of young people report a clear sense of purpose — is accurate and appropriately hedged: Damon's survey work found roughly one in five young people (~20%) demonstrates a clear sense of purpose, and purpose is framed as developing through exploration and reflection, not sudden certainty. Cited in Grade-8 lesson L.08.012.05 (All of Us: Celebration, the Caring Community & Looking Ahead) for the framing that looking ahead to high school is about purpose and possibility, not pressure or certainty. No URL (print book). Verified by fact-checker 2026-08-19."

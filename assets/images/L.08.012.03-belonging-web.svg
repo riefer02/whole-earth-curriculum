@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A belonging web of people making room</title>
+  <desc id="desc">A web of six simple figures connected by lines to a central meeting place, with one figure shown stepping in from the edge, showing belonging as something people build by reaching out to one another.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Belonging Is Something We Build</text>
+
+  <!-- central meeting place -->
+  <circle cx="256" cy="252" r="66" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">our circle</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">room is made</text>
+
+  <!-- figures (circle head + body) around the center -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="256" cy="106" r="13"/>
+    <rect x="243" y="122" width="26" height="34" rx="8"/>
+  </g>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <circle cx="122" cy="186" r="13"/>
+    <rect x="109" y="202" width="26" height="34" rx="8"/>
+  </g>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <circle cx="390" cy="186" r="13"/>
+    <rect x="377" y="202" width="26" height="34" rx="8"/>
+  </g>
+  <g fill="#d9b8a0" stroke="#2b3a42" stroke-width="2">
+    <circle cx="122" cy="330" r="13"/>
+    <rect x="109" y="346" width="26" height="34" rx="8"/>
+  </g>
+  <g fill="#4f6d7a" stroke="#2b3a42" stroke-width="2">
+    <circle cx="390" cy="330" r="13"/>
+    <rect x="377" y="346" width="26" height="34" rx="8"/>
+  </g>
+
+  <!-- connectors -->
+  <line x1="256" y1="158" x2="256" y2="186" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="148" y1="202" x2="202" y2="240" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="364" y1="202" x2="310" y2="240" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="148" y1="330" x2="202" y2="286" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="364" y1="330" x2="310" y2="286" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- newcomer stepping in from the edge -->
+  <g fill="#ffffff" stroke="#2b3a42" stroke-width="2">
+    <circle cx="452" cy="444" r="13"/>
+    <rect x="439" y="460" width="26" height="34" rx="8"/>
+  </g>
+  <line x1="439" y1="462" x2="392" y2="352" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="452" y="496" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">a newcomer steps in</text>
+
+  <text x="120" y="474" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Reach out: save a seat, learn a name.</text>
+</svg>
