@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Comparing two distributions with box plots</title>
+  <desc id="desc">Two box plots stacked on the same value scale, both centered at mean and median 11 but with very different spread — one tight and symmetric (range 4, IQR 2), one wide with long tails (range 22, IQR 10.5) — with the median, quartiles, and range labeled, plus a note comparing center, spread, and shape.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Comparing Two Distributions</text>
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the same average can hide very different spread</text>
+
+  <!-- value scale: x = 80 + 15·v for v in 0..25 -->
+  <!-- Distribution A (tight, symmetric) -->
+  <text x="255" y="84" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">Distribution A — tight and symmetric</text>
+  <text x="255" y="104" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">mean 11 · median 11 · range 4 · IQR 2</text>
+  <line x1="215" y1="146" x2="275" y2="146" stroke="#6b93b6" stroke-width="3"/>
+  <rect x="230" y="116" width="30" height="60" fill="#6b93b6" fill-opacity="0.25" stroke="#6b93b6" stroke-width="3"/>
+  <line x1="245" y1="116" x2="245" y2="176" stroke="#6b93b6" stroke-width="4"/>
+  <line x1="215" y1="140" x2="215" y2="152" stroke="#6b93b6" stroke-width="3"/>
+  <line x1="275" y1="140" x2="275" y2="152" stroke="#6b93b6" stroke-width="3"/>
+
+  <!-- Distribution B (wide spread, long tails) -->
+  <text x="255" y="212" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e0a458">Distribution B — wide spread, long tails</text>
+  <text x="255" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458">mean 11 · median 11 · range 22 · IQR 10.5</text>
+  <line x1="110" y1="276" x2="440" y2="276" stroke="#e0a458" stroke-width="3"/>
+  <rect x="155" y="246" width="157.5" height="60" fill="#e0a458" fill-opacity="0.25" stroke="#e0a458" stroke-width="3"/>
+  <line x1="245" y1="246" x2="245" y2="306" stroke="#e0a458" stroke-width="4"/>
+  <circle cx="110" cy="276" r="4" fill="#e0a458"/>
+  <circle cx="440" cy="276" r="4" fill="#e0a458"/>
+
+  <!-- shared value axis -->
+  <line x1="80" y1="352" x2="455" y2="352" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="455,352 443,346 443,358" fill="#2b3a42"/>
+  <g font-family="sans-serif" font-size="12" fill="#4f6d7a" text-anchor="middle">
+    <line x1="80" y1="348" x2="80" y2="356" stroke="#2b3a42" stroke-width="2"/>
+    <text x="80" y="370">0</text>
+    <line x1="155" y1="348" x2="155" y2="356" stroke="#2b3a42" stroke-width="2"/>
+    <text x="155" y="370">5</text>
+    <line x1="230" y1="348" x2="230" y2="356" stroke="#2b3a42" stroke-width="2"/>
+    <text x="230" y="370">10</text>
+    <line x1="305" y1="348" x2="305" y2="356" stroke="#2b3a42" stroke-width="2"/>
+    <text x="305" y="370">15</text>
+    <line x1="380" y1="348" x2="380" y2="356" stroke="#2b3a42" stroke-width="2"/>
+    <text x="380" y="370">20</text>
+    <line x1="455" y1="348" x2="455" y2="356" stroke="#2b3a42" stroke-width="2"/>
+    <text x="455" y="370">25</text>
+  </g>
+
+  <!-- legend -->
+  <rect x="30" y="392" width="452" height="90" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="44" y="416" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Compare three things:</text>
+  <text x="44" y="438" font-family="sans-serif" font-size="13" fill="#222222">center (median/mean) · spread (range/IQR) · shape (symmetric or skewed)</text>
+  <text x="44" y="462" font-family="sans-serif" font-size="13" fill="#4f6d7a">Same center here — mean = median = 11 — but very different spread.</text>
+</svg>

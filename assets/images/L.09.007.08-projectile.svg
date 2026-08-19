@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A quadratic model of a thrown ball</title>
+  <desc id="desc">A parabola opening downward modeling a thrown ball's height versus time, with the two roots — the ball leaves and returns to the ground — the vertex as maximum height, and a note that a negative-time root is real algebra but meaningless in this context.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A Thrown Ball: h = −5t² + 20t</text>
+
+  <!-- axes -->
+  <line x1="72" y1="400" x2="460" y2="400" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="72" y1="400" x2="72" y2="60" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="460,400 448,394 448,406" fill="#2b3a42"/>
+  <polygon points="72,60 66,72 78,72" fill="#2b3a42"/>
+  <text x="30" y="66" font-family="sans-serif" font-size="14" fill="#2b3a42">height</text>
+  <text x="466" y="420" font-family="sans-serif" font-size="14" fill="#2b3a42">time</text>
+
+  <!-- parabola: vertex at t=2, h=20 (y=60); roots h=0 at t=0 (x=72) and t=4 (x=272). A quadratic Bezier control point is NOT the vertex, so to make the curve apex at (172,60) the control point must sit at (172,-280). -->
+  <path d="M72 400 Q 172 -280 272 400" fill="none" stroke="#e0a458" stroke-width="3"/>
+
+  <!-- roots -->
+  <circle cx="72" cy="400" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="58" y="436" font-family="sans-serif" font-size="14" fill="#7a9e7e">t = 0 (launch)</text>
+  <circle cx="272" cy="400" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="258" y="436" font-family="sans-serif" font-size="14" fill="#7a9e7e">t = 4 (lands)</text>
+
+  <!-- vertex -->
+  <circle cx="172" cy="60" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="52" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">vertex: max height 20 m</text>
+
+  <!-- dashed negative-time region -->
+  <line x1="72" y1="400" x2="30" y2="400" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="20" y="420" font-family="sans-serif" font-size="13" fill="#4f6d7a">negative time: real algebra, but</text>
+  <text x="20" y="438" font-family="sans-serif" font-size="13" fill="#4f6d7a">not part of this story</text>
+
+  <rect x="36" y="462" width="440" height="36" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="48" y="486" font-family="sans-serif" font-size="14" fill="#222222">Math hands you candidates; the situation chooses which ones count.</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three methods for solving a quadratic</title>
+  <desc id="desc">A chart with three columns — factoring, square roots, and the quadratic formula — each showing a worked solution of a quadratic equation, with a note on when that method is easiest.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Three Ways to Solve a Quadratic</text>
+
+  <!-- factoring -->
+  <rect x="28" y="70" width="148" height="300" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+  <rect x="28" y="70" width="148" height="40" rx="10" fill="#3e6b8a"/>
+  <text x="102" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Factoring</text>
+  <text x="40" y="138" font-family="sans-serif" font-size="14" fill="#222222">x² + 5x + 6 = 0</text>
+  <text x="40" y="164" font-family="sans-serif" font-size="14" fill="#222222">(x + 2)(x + 3) = 0</text>
+  <text x="40" y="190" font-family="sans-serif" font-size="14" fill="#222222">x = −2 or x = −3</text>
+  <text x="40" y="228" font-family="sans-serif" font-size="13" fill="#4f6d7a">best when it factors</text>
+  <text x="40" y="248" font-family="sans-serif" font-size="13" fill="#4f6d7a">easily into two</text>
+  <text x="40" y="268" font-family="sans-serif" font-size="13" fill="#4f6d7a">linear factors</text>
+
+  <!-- square roots -->
+  <rect x="184" y="70" width="148" height="300" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <rect x="184" y="70" width="148" height="40" rx="10" fill="#4e7a62"/>
+  <text x="258" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff">Square roots</text>
+  <text x="196" y="138" font-family="sans-serif" font-size="14" fill="#222222">x² − 9 = 0</text>
+  <text x="196" y="164" font-family="sans-serif" font-size="14" fill="#222222">x² = 9</text>
+  <text x="196" y="190" font-family="sans-serif" font-size="14" fill="#222222">x = ±3</text>
+  <text x="196" y="228" font-family="sans-serif" font-size="13" fill="#4f6d7a">best when there is</text>
+  <text x="196" y="248" font-family="sans-serif" font-size="13" fill="#4f6d7a">no middle (x) term —</text>
+  <text x="196" y="268" font-family="sans-serif" font-size="13" fill="#4f6d7a">remember both ± signs</text>
+
+  <!-- quadratic formula -->
+  <rect x="340" y="70" width="148" height="300" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <rect x="340" y="70" width="148" height="40" rx="10" fill="#e0a458"/>
+  <text x="414" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Formula</text>
+  <text x="352" y="138" font-family="sans-serif" font-size="14" fill="#222222">2x² + 3x − 2 = 0</text>
+  <text x="352" y="164" font-family="sans-serif" font-size="14" fill="#222222">a=2, b=3, c=−2</text>
+  <text x="352" y="190" font-family="sans-serif" font-size="14" fill="#222222">x = [−b ± √(b²−4ac)] / 2a</text>
+  <text x="352" y="216" font-family="sans-serif" font-size="14" fill="#222222">x = ½ or x = −2</text>
+  <text x="352" y="254" font-family="sans-serif" font-size="13" fill="#4f6d7a">works for ANY</text>
+  <text x="352" y="274" font-family="sans-serif" font-size="13" fill="#4f6d7a">ax² + bx + c = 0</text>
+
+  <!-- takeaway -->
+  <rect x="28" y="394" width="460" height="92" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="44" y="420" font-family="sans-serif" font-size="14" fill="#222222">All three rest on one fact: a product is zero only if a factor is zero.</text>
+  <text x="44" y="442" font-family="sans-serif" font-size="14" fill="#222222">Completing the square — behind the formula — was first solved geometrically in Babylon</text>
+  <text x="44" y="464" font-family="sans-serif" font-size="14" fill="#222222">and by al-Khwarizmi, whose name gave us the word <tspan font-style="italic">algebra</tspan>.</text>
+</svg>

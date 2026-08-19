@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One distance at three levels of precision</title>
+  <desc id="desc">The same distance drawn three ways — about 2 meters, 1.8 meters, and 1.83 meters — each shown against a ruler with coarser or finer markings, labeled with what each precision is honestly good for.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">One Length, Three Precisions</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">more digits = a finer promise, only if you measured that finely</text>
+
+  <!-- row 1 -->
+  <text x="46" y="106" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">2 m</text>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="90" y1="98" x2="90" y2="132"/>
+    <line x1="140" y1="98" x2="140" y2="132"/>
+    <line x1="190" y1="98" x2="190" y2="132"/>
+    <line x1="240" y1="98" x2="240" y2="132"/>
+  </g>
+  <line x1="90" y1="116" x2="240" y2="116" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
+  <text x="256" y="122" font-family="sans-serif" font-size="14" fill="#4f6d7a">nearest meter — good for buying rope</text>
+
+  <!-- row 2 -->
+  <text x="46" y="186" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1.8 m</text>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="90" y1="178" x2="90" y2="212"/>
+    <line x1="110" y1="178" x2="110" y2="212"/>
+    <line x1="130" y1="178" x2="130" y2="212"/>
+    <line x1="150" y1="178" x2="150" y2="212"/>
+    <line x1="170" y1="178" x2="170" y2="212"/>
+    <line x1="190" y1="178" x2="190" y2="212"/>
+    <line x1="210" y1="178" x2="210" y2="212"/>
+    <line x1="230" y1="178" x2="230" y2="212"/>
+    <line x1="250" y1="178" x2="250" y2="212"/>
+    <line x1="270" y1="178" x2="270" y2="212"/>
+  </g>
+  <line x1="90" y1="196" x2="270" y2="196" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
+  <text x="286" y="202" font-family="sans-serif" font-size="14" fill="#4f6d7a">nearest 10 cm — good for fitting a desk</text>
+
+  <!-- row 3 -->
+  <text x="46" y="266" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1.83 m</text>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="90" y1="258" x2="90" y2="292"/>
+    <line x1="100" y1="258" x2="100" y2="292"/>
+    <line x1="110" y1="258" x2="110" y2="292"/>
+    <line x1="120" y1="258" x2="120" y2="292"/>
+    <line x1="130" y1="258" x2="130" y2="292"/>
+    <line x1="140" y1="258" x2="140" y2="292"/>
+    <line x1="150" y1="258" x2="150" y2="292"/>
+    <line x1="160" y1="258" x2="160" y2="292"/>
+    <line x1="170" y1="258" x2="170" y2="292"/>
+    <line x1="180" y1="258" x2="180" y2="292"/>
+    <line x1="190" y1="258" x2="190" y2="292"/>
+    <line x1="200" y1="258" x2="200" y2="292"/>
+    <line x1="210" y1="258" x2="210" y2="292"/>
+    <line x1="220" y1="258" x2="220" y2="292"/>
+    <line x1="230" y1="258" x2="230" y2="292"/>
+    <line x1="240" y1="258" x2="240" y2="292"/>
+    <line x1="250" y1="258" x2="250" y2="292"/>
+    <line x1="260" y1="258" x2="260" y2="292"/>
+    <line x1="270" y1="258" x2="270" y2="292"/>
+    <line x1="280" y1="258" x2="280" y2="292"/>
+  </g>
+  <line x1="90" y1="276" x2="280" y2="276" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
+  <text x="296" y="282" font-family="sans-serif" font-size="14" fill="#4f6d7a">nearest cm — good for a precise cut</text>
+
+  <!-- takeaway -->
+  <rect x="36" y="324" width="440" height="150" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="52" y="354" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Report only as many digits as your tool honestly gives you.</text>
+  <text x="52" y="380" font-family="sans-serif" font-size="14" fill="#222222">· precision = how fine the markings are</text>
+  <text x="52" y="402" font-family="sans-serif" font-size="14" fill="#222222">· accuracy = how close to the true value</text>
+  <text x="52" y="430" font-family="sans-serif" font-size="14" fill="#4f6d7a">A calculator printing eight digits is not "more accurate" — it is echoing noise.</text>
+  <text x="52" y="454" font-family="sans-serif" font-size="14" fill="#4f6d7a">Over-precision is a kind of dishonesty.</text>
+</svg>

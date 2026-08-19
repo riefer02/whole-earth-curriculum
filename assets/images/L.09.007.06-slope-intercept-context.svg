@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading slope and intercept in a taxi fare</title>
+  <desc id="desc">A graph of a taxi fare, cost versus kilometers, with a line starting at 4 — the flag-down fee — and rising 2.5 per kilometer. The slope and intercept are labeled with their real meanings.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Taxi Fare: cost = 2.50 × km + 4</text>
+
+  <!-- axes -->
+  <line x1="80" y1="408" x2="460" y2="408" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="80" y1="408" x2="80" y2="64" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="460,408 448,402 448,414" fill="#2b3a42"/>
+  <polygon points="80,64 74,76 86,76" fill="#2b3a42"/>
+  <text x="38" y="70" font-family="sans-serif" font-size="14" fill="#2b3a42">cost</text>
+  <text x="466" y="428" font-family="sans-serif" font-size="14" fill="#2b3a42">km</text>
+
+  <!-- grid ticks -->
+  <g stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.3">
+    <line x1="80" y1="368" x2="460" y2="368"/>
+    <line x1="80" y1="328" x2="460" y2="328"/>
+    <line x1="80" y1="288" x2="460" y2="288"/>
+    <line x1="80" y1="248" x2="460" y2="248"/>
+    <line x1="80" y1="208" x2="460" y2="208"/>
+    <line x1="80" y1="168" x2="460" y2="168"/>
+    <line x1="80" y1="128" x2="460" y2="128"/>
+  </g>
+
+  <!-- fare line: y = 2.5x + 4. 40 px per km (x=80 is 0 km), 16 px per cost unit (cost=0 at y=408).
+       intercept 4 -> (80, 408-64) = (80,344). At km=7 (x=360): cost = 21.5 -> y = 408-344 = 64. -->
+  <line x1="80" y1="344" x2="360" y2="64" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- intercept -->
+  <circle cx="80" cy="344" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="372" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e0a458">intercept = 4</text>
+  <text x="90" y="390" font-family="sans-serif" font-size="13" fill="#222222">the flag-down fee you pay before moving</text>
+
+  <!-- slope annotation triangle: 2 km run (80 px), 5 cost units rise (80 px) => slope 2.5 -->
+  <line x1="200" y1="224" x2="280" y2="224" stroke="#7a9e7e" stroke-width="3"/>
+  <line x1="280" y1="224" x2="280" y2="144" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="290" y="190" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e">slope = 2.50</text>
+  <text x="290" y="208" font-family="sans-serif" font-size="13" fill="#222222">the cost per kilometer</text>
+
+  <rect x="64" y="440" width="400" height="56" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="76" y="462" font-family="sans-serif" font-size="14" fill="#222222">slope = rate with units · intercept = starting value</text>
+  <text x="76" y="484" font-family="sans-serif" font-size="14" fill="#4f6d7a">Naming them is what turns a formula into a decision.</text>
+</svg>

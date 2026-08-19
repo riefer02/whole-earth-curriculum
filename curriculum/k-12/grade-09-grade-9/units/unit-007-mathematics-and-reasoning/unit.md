@@ -70,3 +70,15 @@ remains sense-making with real things, drawn from many traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Mathematics & Reasoning: Where We've Been, Where We're Going | D05.S1.09.01, D05.S2.09.01, D05.S3.09.01, D05.S4.09.02 |
+| 02 | Real Numbers, Roots & Radicals | D05.S1.09.01 |
+| 03 | Radical Equations: Justifying Every Step | D05.S1.09.01 |
+| 04 | Units & Precision: Making Numbers Honest | D05.S1.09.02 |
+| 05 | Linear & Exponential Models | D05.S2.09.01 |
+| 06 | Slope & Intercept in Context | D05.S2.09.01 |
+| 07 | Quadratic Equations: Several Methods | D05.S2.09.02 |
+| 08 | Quadratic Solutions in Real Situations | D05.S2.09.02 |
+| 09 | Rigid Motions & Coordinate Proof | D05.S3.09.01 |
+| 10 | Theorems: Lines, Angles, Triangles & Parallelograms | D05.S3.09.02 |
+| 11 | Comparing Distributions | D05.S4.09.01 |
+| 12 | Two-Way Tables & Fairness | D05.S4.09.02 |

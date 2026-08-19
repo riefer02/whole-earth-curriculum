@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit map: the four strands of Mathematics and Reasoning</title>
+  <desc id="desc">Four boxes arranged in a path, each naming one strand — number and quantity, patterns and relationships, geometry and spatial reasoning, and data measurement and probability — with two short goals each, connected by the words model, prove, and reason.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Mathematics &amp; Reasoning</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">model · prove · reason honestly</text>
+
+  <!-- strand 1 -->
+  <rect x="36" y="96" width="206" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="139" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Number &amp; Quantity</text>
+  <text x="46" y="148" font-family="sans-serif" font-size="13" fill="#222222">· real numbers, roots, radicals</text>
+  <text x="46" y="170" font-family="sans-serif" font-size="13" fill="#222222">· units and precision</text>
+
+  <!-- strand 2 -->
+  <rect x="270" y="96" width="206" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="373" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Patterns &amp; Relationships</text>
+  <text x="280" y="148" font-family="sans-serif" font-size="13" fill="#222222">· linear and exponential models</text>
+  <text x="280" y="170" font-family="sans-serif" font-size="13" fill="#222222">· quadratic equations</text>
+
+  <!-- strand 3 -->
+  <rect x="36" y="248" width="206" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="139" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Geometry &amp; Spatial Reasoning</text>
+  <text x="46" y="300" font-family="sans-serif" font-size="13" fill="#222222">· rigid motions and coordinates</text>
+  <text x="46" y="322" font-family="sans-serif" font-size="13" fill="#222222">· theorems: lines, angles, shapes</text>
+
+  <!-- strand 4 -->
+  <rect x="270" y="248" width="206" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="373" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Data, Measurement &amp; Probability</text>
+  <text x="280" y="300" font-family="sans-serif" font-size="13" fill="#222222">· comparing distributions</text>
+  <text x="280" y="322" font-family="sans-serif" font-size="13" fill="#222222">· two-way tables and fairness</text>
+
+  <!-- connecting words -->
+  <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">model the world</text>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">prove with reasons</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">reason honestly about data</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">mathematics is sense-making, from many traditions, for everyone</text>
+</svg>

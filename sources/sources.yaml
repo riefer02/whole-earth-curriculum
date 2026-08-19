@@ -4013,3 +4013,68 @@ sources:
     domains: [D04]
     reviewed: true
     notes: "Print book; bibliographic details verified (2026-08-19): Leanne Hinton (ed.), Bringing Our Languages Home: Language Revitalization for Families, 2013 (Heyday Books) — canonical. The four cases (Māori kōhanga reo begun 1982; Hawaiian Pūnana Leo begun 1984; Welsh in schools/media; Hebrew revived over the 20th c.) are standard, well-documented. Cited in L.09.006.11 for the general account of language revitalization through intergenerational transmission — children and elders speaking together again. The lesson's four stories (Māori kōhanga reo language nests begun 1982; Hawaiian Pūnana Leo preschools begun 1984; Welsh taught in schools and carried by media; Hebrew revived into an everyday spoken language over the twentieth century) are standard, well-documented cases of the wider movement Hinton's collection documents. The lesson states them accurately and as cases, not as a complete list."
+
+  - id: S-429
+    title: "Boyer & Merzbach — A History of Mathematics"
+    type: book
+    author: Carl B. Boyer & Uta C. Merzbach
+    organization: John Wiley & Sons
+    year: 2011
+    domains: [D05]
+    reviewed: true
+    notes: "3rd ed., 2011, Wiley. Standard, widely cited single-volume history of mathematics. Cited in U.09.007 L01, L02, L03, L04, L05, L07, L09, L10 as the general authority for non-Western and ancient mathematical history claims: Babylonian approximation of √2 and the solution of quadratics, the irrational-number episode, Indian and Chinese geometry (Sulba Sutras; the Nine Chapters on the Mathematical Art), al-Khwarizmi's algebra, the origin of the word 'algebra,' the variety of unit systems, and the rice-and-chessboard doubling legend. Used as a general historical authority, not a page-level citation for any single numeric claim; each specific claim is further hedged in the lessons. Bibliographic details verified (2026-08-19): Carl B. Boyer (revised by Uta C. Merzbach), A History of Mathematics, 3rd ed., John Wiley & Sons, 2011 (ISBN 978-0-470-52548-7) — the standard single-volume history of mathematics; it covers the Babylonian √2 and quadratic solutions, the Greek irrationality episode, the Sulba Sutras, the Nine Chapters on the Mathematical Art, and al-Khwarizmi's algebra."
+
+  - id: S-430
+    title: YBC 7289 — Babylonian clay tablet approximating the square root of 2
+    type: website
+    url: https://en.wikipedia.org/wiki/YBC_7289
+    organization: Yale Babylonian Collection (Yale University)
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.09.007 L02 for the claim that Babylonian scribes approximated √2 (the tablet YBC 7289, dated to roughly 1800–1600 BCE, carries a sexagesimal approximation of the diagonal of a unit square good to about six decimal places). URL verified live (2026-08-19): the article confirms YBC 7289 'is a Babylonian clay tablet notable for containing an accurate sexagesimal approximation to the square root of 2, the length of the diagonal of a unit square... given to the equivalent of six decimal digits,' dated 'some time between 1800 and 1600 BC,' held in the Yale Babylonian Collection (sexagesimal value 1;24,51,10 ≈ 1.414213). Matches the lesson's claims (approximation of √2, ~6 decimal places, ~1800–1600 BCE) exactly. (Lesson text says '~1800 BCE'; the registry and tablet records use the full 1800–1600 BCE range — acceptable shorthand, kept consistent with the source.)"
+
+  - id: S-431
+    title: "Muhammad ibn Musa al-Khwarizmi — biography"
+    type: website
+    url: https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi
+    organization: Wikipedia
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.09.007 L03 and L07 for the claim that the word 'algebra' derives from al-Khwarizmi's work (from the title Kitab al-Jabr, 'the book of completion/balancing'), that he argued solutions to quadratics geometrically, and that he is a central figure in the history of algebra. URL verified live (2026-08-19): the article confirms al-Khwarizmi (c. 780 – c. 850) wrote Al-Jabr (The Compendious Book on Calculation by Completion and Balancing, c. 820 CE), that 'The English term algebra comes from the short-hand title of his aforementioned treatise (الجبر Al-Jabr, transl. 'completion' or 'rejoining'),' that one of his achievements was 'how to solve quadratic equations by completing the square, for which he provided geometric justifications,' and that he is widely called the father/founder of algebra. Matches the lessons' claims about the al-jabr etymology, geometric completing the square, and his centrality to algebra."
+
+  - id: S-432
+    title: "Whitney Battle-Baptiste & Britt Rusert (eds.) — W. E. B. Du Bois's Data Portraits: Visualizing Black America"
+    type: book
+    author: Whitney Battle-Baptiste & Britt Rusert (editors)
+    organization: Princeton Architectural Press
+    year: 2018
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.09.007 L12 for the claim that W. E. B. Du Bois and his collaborators hand-drew a series of data charts for the 1900 Paris Exposition showing the actual social and economic condition of Black Americans, as a landmark early example of data visualization used to argue for justice and against racist claims. Bibliographic details verified (2026-08-19): Whitney Battle-Baptiste & Britt Rusert (eds.), W. E. B. Du Bois's Data Portraits: Visualizing Black America, Princeton Architectural Press, 2018 — reproduces the hand-drawn charts/infographics that Du Bois and his Atlanta University collaborators prepared for the 1900 Paris Exposition's 'Exhibit of American Negroes,' a landmark of early data visualization against racist claims. Matches the lesson's claim."
+
+  - id: S-433
+    title: "Florence Nightingale — statistical work and sanitary reform"
+    type: website
+    url: https://en.wikipedia.org/wiki/Florence_Nightingale
+    organization: Wikipedia
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.09.007 L12 for the claim that Florence Nightingale used statistical charts (notably her 'coxcomb' or polar-area diagrams of mortality in the Crimea) to argue for hospital and sanitary reform, an early example of data used to change policy. URL verified live (2026-08-19): the article confirms Nightingale 'was an innovator in statistics,' is 'especially well known for her usage of a polar area diagram, also called the Nightingale rose diagram' to illustrate Crimean War mortality, 'made extensive use of coxcombs to present reports... to Members of Parliament and civil servants,' and was the first female member of the Royal Statistical Society (1859). Matches the lesson's claim."
+
+  - id: S-434
+    title: "Shulba Sutras — ancient Indian geometry"
+    type: website
+    url: https://en.wikipedia.org/wiki/Shulba_Sutras
+    organization: Wikipedia
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.09.007 L10 for the claim that the Indian Sulba Sutras (including the Baudhayana Sulba Sutra) contain early geometric rules and statements of what is now called the Pythagorean theorem, used in altar construction. URL verified live (2026-08-19): the article confirms 'The sutras contain statements of the Pythagorean theorem, both in the case of an isosceles right triangle and in the general case, as well as lists of Pythagorean triples,' citing the Baudhayana Sulba Sutra (e.g., 1.12–1.13 with triples 3-4-5, 5-12-13, 8-15-17, 12-35-37), tied to fire-altar (vedi) construction. Matches the lesson's claim."
+
+  - id: S-435
+    title: "OpenStax — Algebra and Trigonometry / College Physics (openly licensed textbooks)"
+    type: book
+    organization: OpenStax (Rice University)
+    url: https://openstax.org/details/books/algebra-and-trigonometry-2e
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.09.007 L08 as a standard, openly licensed reference for quadratic functions as models of projectile motion (height as a quadratic in time). Verified (2026-08-19): both URLs live — https://openstax.org/details/books/algebra-and-trigonometry-2e (quadratic functions) and https://openstax.org/details/books/college-physics-2e (projectile motion, where vertical position is a quadratic in time). Both are real, peer-reviewed, openly licensed (CC-BY 4.0) Rice University textbooks. On-topic for the projectile/quadratic claim. (Removed the inaccurate 'year: 2017'; the two titles have different publication years.)"

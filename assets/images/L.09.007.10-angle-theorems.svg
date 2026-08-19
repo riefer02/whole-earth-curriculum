@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Angle theorems: parallel lines and the triangle sum</title>
+  <desc id="desc">A diagram showing two parallel lines crossed by a transversal with vertical angles and alternate interior angles marked, and a separate triangle with its three angles labeled to show they sum to 180 degrees.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Angle Theorems</text>
+
+  <!-- parallel lines and transversal -->
+  <line x1="40" y1="120" x2="300" y2="120" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="40" y1="220" x2="300" y2="220" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="130" y1="60" x2="230" y2="280" stroke="#2b3a42" stroke-width="3"/>
+  <text x="30" y="112" font-family="sans-serif" font-size="13" fill="#4f6d7a">line 1</text>
+  <text x="30" y="212" font-family="sans-serif" font-size="13" fill="#4f6d7a">line 2</text>
+
+  <!-- alternate interior angles arcs -->
+  <path d="M 170 120 A 22 22 0 0 0 148 138" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="138" y="120" font-family="sans-serif" font-size="13" fill="#e0a458">a</text>
+  <path d="M 186 220 A 22 22 0 0 1 164 202" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="196" y="214" font-family="sans-serif" font-size="13" fill="#e0a458">a</text>
+  <text x="36" y="300" font-family="sans-serif" font-size="13" fill="#2b3a42">alternate interior angles are equal</text>
+
+  <!-- vertical angles marker -->
+  <path d="M 150 120 A 18 18 0 0 1 168 138" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="124" y="150" font-family="sans-serif" font-size="13" fill="#6b93b6">b</text>
+  <path d="M 168 138 A 18 18 0 0 1 150 156" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="36" y="322" font-family="sans-serif" font-size="13" fill="#2b3a42">vertical angles are equal</text>
+
+  <!-- triangle sum -->
+  <polygon points="390,200 470,280 340,280" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 400 268 A 20 20 0 0 1 420 256" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="402" y="302" font-family="sans-serif" font-size="14" fill="#7a9e7e">70°</text>
+  <path d="M 448 280 A 20 20 0 0 0 452 258" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="452" y="304" font-family="sans-serif" font-size="14" fill="#7a9e7e">60°</text>
+  <path d="M 340 272 A 20 20 0 0 1 352 252" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="322" y="304" font-family="sans-serif" font-size="14" fill="#7a9e7e">50°</text>
+  <text x="352" y="344" font-family="sans-serif" font-size="13" fill="#2b3a42">the three angles of a triangle sum to 180°</text>
+  <text x="352" y="366" font-family="sans-serif" font-size="13" fill="#4f6d7a">70° + 60° + 50° = 180°</text>
+
+  <rect x="40" y="396" width="432" height="96" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="54" y="422" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">A theorem is a fact you can prove, not just a rule to memorize.</text>
+  <text x="54" y="446" font-family="sans-serif" font-size="14" fill="#222222">These facts were proved in many traditions — Greek, Indian (Sulba Sutras),</text>
+  <text x="54" y="470" font-family="sans-serif" font-size="14" fill="#222222">Chinese, and Egyptian builders used them for altars, roofs, and surveying.</text>
+</svg>

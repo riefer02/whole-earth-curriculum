@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Solving a radical equation with a two-column justification</title>
+  <desc id="desc">A two-column worked solution of the equation the square root of 2x minus 3 equals x minus 3. Each step is listed on the left and the property that justifies it on the right, ending with a check that marks x equals 6 valid and x equals 2 extraneous.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Solve √(2x − 3) = x − 3</text>
+
+  <!-- two column header -->
+  <rect x="36" y="64" width="280" height="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="176" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Step</text>
+  <rect x="316" y="64" width="160" height="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="396" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Property (why it is legal)</text>
+
+  <!-- rows -->
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <text x="46" y="122">√(2x − 3) = x − 3</text>
+    <text x="326" y="122">given</text>
+    <line x1="36" y1="134" x2="476" y2="134" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
+
+    <text x="46" y="158">2x − 3 = (x − 3)²</text>
+    <text x="326" y="158">square both sides</text>
+    <line x1="36" y1="170" x2="476" y2="170" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
+
+    <text x="46" y="194">2x − 3 = x² − 6x + 9</text>
+    <text x="326" y="194">expand (x − 3)²</text>
+    <line x1="36" y1="206" x2="476" y2="206" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
+
+    <text x="46" y="230">x² − 8x + 12 = 0</text>
+    <text x="326" y="230">move all terms to one side</text>
+    <line x1="36" y1="242" x2="476" y2="242" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
+
+    <text x="46" y="266">(x − 6)(x − 2) = 0</text>
+    <text x="326" y="266">factor</text>
+    <line x1="36" y1="278" x2="476" y2="278" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
+
+    <text x="46" y="302">x = 6  or  x = 2</text>
+    <text x="326" y="302">zero-product property</text>
+  </g>
+
+  <!-- check box -->
+  <rect x="36" y="330" width="440" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="50" y="356" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Check in the original √(2x − 3) = x − 3:</text>
+  <text x="50" y="380" font-family="sans-serif" font-size="14" fill="#222222">x = 6:  √(12 − 3) = √9 = 3  and  6 − 3 = 3  ✓ valid</text>
+  <text x="50" y="402" font-family="sans-serif" font-size="14" fill="#222222">x = 2:  √(4 − 3) = √1 = 1  but  2 − 3 = −1  ✗ extraneous</text>
+  <text x="50" y="432" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Answer: x = 6 only — squaring can create a false answer, so always check.</text>
+</svg>

@@ -5285,7 +5285,7 @@ items:
     type: lesson
     grade: 9
     domain: D05
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5296,7 +5296,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by reviewer: validate green (1339 files) but two math errors in worked examples: L.09.007.09 rigid-motion proof wrong (reflect A across x=3 + translate(2,2) does NOT land on B; correct motion is a single translation (6,2)); L.09.007.11 'both have mean 11' false — set B mean = 91/9 ~10.11 (median is 11, not mean). Fix data set so both means equal 11, or change claim to 'same median'.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Re-verified both prior math fixes: L.09.007.09 now single translation (6,2) maps A(0,0)->(6,2),(4,0)->(10,2),(0,3)->(6,5) onto B exactly + distance check 4/3/5; L.09.007.11 both sets now mean 11 (A sum 99 range 4, B sum 99 range 22, both median 11). validate green (1339 files). 12 lessons, sequence 1-12, objectives resolve only to eight grade-9 D05 IDs; unit.md 12 rows; scope lesson_count=12; 12 SVGs + alt."
+      fact-checker:
+        verdict: passed
+        note: "Verified 7 new sources S-429-S-435 (Boyer & Merzbach, YBC 7289 sqrt2 ~1.414213 1800-1600 BCE, al-Khwarizmi al-jabr, Du Bois Data Portraits, Nightingale coxcomb, Shulba Sutras, OpenStax), marked reviewed:true. Math-history accurate+hedged. Math content spot-checks correct (sqrt50=5sqrt2, extraneous x=2, quadratics, projectile h=-5t^2+20t vertex 20m, 3-4-5 translation (6,2), distributions both mean 11 IQR 2 vs 10.5, two-way conditionals 80%/60%). Fixes: L.09.007.10 Sulba Sutras claim reattributed S-435->S-434; real-number-line SVG sqrt2/sqrt3 repositioned; projectile SVG control point (10m->20m); slope-intercept SVG intercept marker (0->4). validate green (1339 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Euro default (metric, abstracted currency). Non-Western math history substantively integrated: Babylonian YBC 7289 sqrt2, al-Khwarizmi/al-jabr, Sulba Sutras + Egyptian builders, India rice-and-chessboard, Du Bois + Nightingale data-for-justice, Islamic girih/South Asian rangoli-kolam/African weaving. 'Pythagorean theorem' as widely-used recall label, L10 credits multiple traditions no false priority. Egalitarian 'math open to all never a gate'. Fix: named Nine Chapters on the Mathematical Art in L10 (was bare 'Chinese builders'). validate green (1339 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier all 12 (beans/stones/tracing paper/knotted rope); alt text + role=img/title/desc on 12 SVGs. Verbal/tactile alternatives: fold 1x1 for sqrt2, beans add-vs-double, tracing-paper transformations, tear-corner 180, sort real piles. Non-color-only (rational ticks vs circles, A/B labels, box-plot width). Dyscalculia: kept-visible reference charts + pre-computed means. Fixes: darkened three-methods.svg header fills (~5:1); added non-visual measurement path (knotted rope/Braille ruler/partner-reads/pace-counting) to L4. validate green (1339 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: 12 lessons resolve objectives only to eight grade-9 D05 IDs (D05.S1-S4.09.01/.02); chain Vision->P3->D05->S1-S4->U.09.007. Four lenses added to L01-L03+L05-L12 (L04 had all) in frontmatter + facilitator notes. Evidence vs values: S-429-S-435 + S-006/S-009/S-011/S-023/S-024/S-039; philosophy 5 flagged norms. No hierarchy; math-open-to-all; global substantive. validate green (1339 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Math anxiety countered head-on (L1 'not a gate that sorts people', 'not yet is information never a verdict'); errors-as-information (extraneous solutions, irrationals, proof); sense-making over memorization; worked-example->guided->independent scaffolding (S-011). Spiral: every lesson opens with grade-8 retrieval. Multi-modal (beans/cut-outs/tossed objects/tactile measure). validate green (1339 files). Non-blocking: L5 'grows frighteningly fast' could be 'surprisingly fast'."
   - id: B-376
     title: Author lessons for Unit U.09.008 (Living Systems, Physical Systems & Our Origins)
     agent: lesson-author

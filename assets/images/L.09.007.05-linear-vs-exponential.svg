@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Linear versus exponential growth</title>
+  <desc id="desc">A graph with a straight line rising at a steady slope labeled linear — constant difference, and a curve that starts low and rises ever faster labeled exponential — constant ratio, crossing the line and pulling ahead.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Linear vs. Exponential</text>
+
+  <!-- axes -->
+  <line x1="64" y1="408" x2="464" y2="408" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="64" y1="408" x2="64" y2="64" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="464,408 452,402 452,414" fill="#2b3a42"/>
+  <polygon points="64,64 58,76 70,76" fill="#2b3a42"/>
+  <text x="40" y="60" font-family="sans-serif" font-size="14" fill="#2b3a42">y</text>
+  <text x="468" y="426" font-family="sans-serif" font-size="14" fill="#2b3a42">x</text>
+
+  <!-- linear line: y = 3x + 20 mapped -->
+  <polyline points="64,408 64,348 114,288 164,228 214,168 264,108 314,48" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="300" y="96" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">linear: y = mx + b</text>
+  <text x="300" y="114" font-family="sans-serif" font-size="13" fill="#6b93b6">adds the same amount each step</text>
+
+  <!-- exponential curve: y = 2^x scaled -->
+  <polyline points="64,388 114,376 164,352 214,308 264,232 314,108" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="300" y="250" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e0a458">exponential: y = a·bˣ</text>
+  <text x="300" y="268" font-family="sans-serif" font-size="13" fill="#e0a458">multiplies by the same factor each step</text>
+
+  <!-- crossing note -->
+  <circle cx="214" cy="188" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="180" y="176" font-family="sans-serif" font-size="13" fill="#7a9e7e">exponential overtakes</text>
+
+  <rect x="64" y="432" width="400" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="76" y="456" font-family="sans-serif" font-size="14" fill="#222222">Check the table: constant difference → linear · constant ratio → exponential.</text>
+  <text x="76" y="478" font-family="sans-serif" font-size="14" fill="#4f6d7a">The rice-and-chessboard legend: doubling surprises us every time.</text>
+</svg>
