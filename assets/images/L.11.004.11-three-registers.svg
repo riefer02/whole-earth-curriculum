@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One idea, three registers</title>
+  <desc id="desc">One central idea box at the top branches down into three panels labeled formal, informal, and technical, each reworded differently with placeholder lines. A note reads: the idea stays the same; the words, tone, and formality shift to fit the audience.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">One Idea, Three Registers</text>
+
+  <!-- Idea -->
+  <rect x="140" y="48" width="232" height="44" rx="9" fill="#dce9f0" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">the idea (unchanged)</text>
+
+  <!-- Branches -->
+  <path d="M200 92 C 170 120, 120 140, 110 168" stroke="#7a9e7e" stroke-width="2.5" fill="none"/>
+  <path d="M256 92 L 256 168" stroke="#7a9e7e" stroke-width="2.5" fill="none"/>
+  <path d="M312 92 C 342 120, 392 140, 402 168" stroke="#7a9e7e" stroke-width="2.5" fill="none"/>
+
+  <!-- Formal -->
+  <rect x="40" y="168" width="140" height="120" rx="9" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="110" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#3a5a3a">formal</text>
+  <line x1="58" y1="206" x2="162" y2="206" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="222" x2="162" y2="222" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="238" x2="148" y2="238" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <text x="110" y="270" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#3a5a3a">precise · measured</text>
+
+  <!-- Informal -->
+  <rect x="186" y="168" width="140" height="120" rx="9" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#8a6d4a">informal</text>
+  <line x1="204" y1="206" x2="308" y2="206" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="204" y1="222" x2="308" y2="222" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="204" y1="238" x2="294" y2="238" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#8a6d4a">warm · direct</text>
+
+  <!-- Technical -->
+  <rect x="332" y="168" width="140" height="120" rx="9" fill="#eaf2ea" stroke="#6b93b6" stroke-width="2"/>
+  <text x="402" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#3a5a6a">technical</text>
+  <line x1="350" y1="206" x2="454" y2="206" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="350" y1="222" x2="454" y2="222" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="350" y1="238" x2="440" y2="238" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <text x="402" y="270" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#3a5a6a">exact · specialist</text>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The words, tone, and formality shift to fit the audience —</text>
+  <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the idea stays the same.</text>
+
+  <rect x="120" y="376" width="272" height="56" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Register is a tool, not a ranking —</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a6d4a">no register is "better," only better fitted.</text>
+</svg>

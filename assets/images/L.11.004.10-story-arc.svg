@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Story arc</title>
+  <desc id="desc">A rising-and-falling line with five labeled points — opening, rising, turn, falling, landing. A dashed horizontal line labeled "the idea" runs beneath, and a note reads: the idea stays central across the whole arc, and the ending lands where the seed pointed.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Structure Carries the Idea</text>
+
+  <!-- Arc -->
+  <path d="M60 380 C 130 380, 150 250, 200 200 C 250 150, 300 150, 340 200 C 390 260, 430 340, 452 380" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+  <!-- Points -->
+  <circle cx="60" cy="380" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="200" cy="200" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="270" cy="160" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="340" cy="200" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="452" cy="380" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="60" y="406" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a">opening</text>
+  <text x="200" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">rising</text>
+  <text x="270" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a6a">turn</text>
+  <text x="340" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">falling</text>
+  <text x="452" y="406" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a">landing</text>
+
+  <!-- Idea line -->
+  <line x1="40" y1="240" x2="472" y2="240" stroke="#e0a458" stroke-width="2" stroke-dasharray="6 6"/>
+  <text x="40" y="230" font-family="sans-serif" font-size="13" fill="#8a6d4a">the idea —</text>
+
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the idea stays central, and the ending lands where the seed pointed</text>
+</svg>

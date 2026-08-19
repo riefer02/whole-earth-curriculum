@@ -73,3 +73,19 @@ multilingualism held as wealth.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Listening Across Accents and Dialects | D04.S1.11.01 |
+| 2 | Identifying Assumptions in What Is Said | D04.S1.11.01 |
+| 3 | Building the Persuasive Speech: Claim, Reasons, Counterargument | D04.S1.11.02 |
+| 4 | Delivering the Persuasive Speech, Fairly | D04.S1.11.02 |
+| 5 | One Text, Many Translations | D04.S2.11.01 |
+| 6 | Translation Tools and Human Judgment | D04.S2.11.01 |
+| 7 | An Author's Place: Culture and History Shape a Text | D04.S2.11.02 |
+| 8 | Reading Against Other Perspectives | D04.S2.11.02 |
+| 9 | Extended Original Work: A Sustained Idea | D04.S3.11.01 |
+| 10 | Developing the Extended Work: Structure, Voice, Revision | D04.S3.11.01 |
+| 11 | Adapting Writing Across Registers | D04.S3.11.02 |
+| 12 | Writing Across Languages: Translating Your Own Work | D04.S3.11.02 |
+| 13 | Language Policy: Whose Language Is Official? | D04.S4.11.01 |
+| 14 | Language in Schools: Equity and Inclusion | D04.S4.11.01 |
+| 15 | Bridging Between Speakers: Interpreting with Care | D04.S4.11.02 |
+| 16 | The Live Bridge: Interpreting in a Real Setting | D04.S4.11.02 |

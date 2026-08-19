@@ -6136,7 +6136,7 @@ items:
     type: lesson
     grade: 11
     domain: D04
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6148,6 +6148,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1606 files). All 16 lessons: kind lesson, unit U.11.004, domain [D04], pillar [P3], matching sequence_in_unit; strand/objectives resolve to real grade-11 D04 standards; all 8 objectives covered (S1.11.01→L01-02, S1.11.02→L03-04, S2.11.01→L05-06, S2.11.02→L07-08, S3.11.01→L09-10, S3.11.02→L11-12, S4.11.01→L13-14, S4.11.02→L15-16). Required headings present in all 16; 16 assets non-empty alt + resolving paths; unit.md table matches. Spot-checks: L007 (D04.S2.11.02 authorial position, S-424/S-425/S-269 resolve); L014 (40% claim sourced to S-019 UNESCO verbatim)."
+      fact-checker:
+        verdict: passed
+        note: "Verified highest-risk claims: UNESCO 40% mother-language (S-019 verbatim); accent/dialect as complete rule-governed systems S-167; moderate Sapir-Whorf S-168; authorial position Ngugi S-424/Anzaldua S-425; colonial language-policy S-424; machine-translation limits S-350 (idiom/ambiguity/tone/low-resource/post-editing); ~7000 living languages S-426; Aristotle S-346, Toulmin S-236, CEFR plurilingual/mediation S-237, griots/Sundiata S-269. All 17 cited S-IDs exist reviewed:true. Fixed: L10/L11 misattributed writing-process claims to S-170 (reading guide) instead of S-171 (writing guide); corrected + updated registry. Evidence-vs-values honored. Validate passes (1606 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Non-Eurocentric: names Ngugi wa Thiong'o (Gikuyu/Kenya), Anzaldua (Chicana), griots/Sundiata (West African oral epic), Rumi (Persian), whaikorero (Maori); holds Ngugi/Anzaldua side-by-side per §11; 'home language first, multilingualism as wealth' with no correct-accent/standard-language hierarchy. Fixed gap: L1 described only spoken accents/dialects as complete systems — added signed languages (full languages with own grammar, not 'gestured speech') and creoles (complete languages, not 'broken' forms) as equally rule-governed and unranked, so Deaf and creole-speaking learners explicitly represented. Validate passes (1606 files)."
+      accessibility-editor:
+        verdict: passed
+        note: Language/listening/speaking/reading/writing unit — fixed non-hearing/non-oral/read-aloud/dictation paths + explicit Deaf/HoH, non-speaking, dyslexic, low-vision inclusion across listening (L1-2), speaking (L4), reading (L7-8), writing (L9-10/L12), interpreting (L15-16). Added unit-wide Access principle ('listening names attention not the ear'; transcripts/captions; large-print); softened eye-contact to 'where comfortable'; reframed peer assessment to steelman fairness not vocal ability; de-audist-ed L10; renamed all 16 materials_low_tech 'Voice and body' → 'Voice and body (or sign, writing, or gesture)'. Verified low-tech tier + alt text (all 16 non-empty) + SVG a11y. Validate passes (1606 files).
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses verified: ethics (steelman vs straw man, fair listening treating speaker as full person, interpreter's duty to meaning, language justice), egalitarianism (explicitly anti-hierarchy — 'no correct accent', 'no language richer or poorer', 'no register better only more or less fitted', home language first/multilingualism as wealth, monolingual and non-fluent learners unranked), global/anthropological (Ngugi, Anzaldua, Rumi, Sundiata/griots, whaikorero; signed languages + creoles named full unranked systems), technology (machine-translation limits, low-resource-language inequity, back-translation test, tools aid-not-substitute). Evidence vs values distinguished explicitly. Traceability: all 16 objectives resolve to real D04 grade-11 standards → D04.S1-S4 → D04 → P3 → vision. No linguistic hierarchy/supremacy."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: cognitive fit (steelman/straw man, Toulmin warrants, moderate Sapir-Whorf, counter-reading/dialectic, translation gain/loss metalinguistics — holds competing truths, spiral retrieval to grades 9-10); emotional safety (public speaking L4 low-threat: circles of 5-6, peer feedback on fairness not ranking, sign/AAC/text-to-speech/written delivery, gaze never required; accents/dialects/proficiency protected — 'invite never force', 'never rank by how many languages', honors monolingual learner; Ngugi/Anzaldua as testimony to weigh not verdict to adopt with agency); physical (seated/cognitive with non-motor alternatives); not dumbed down (Toulmin/Aristotle/CEFR/UNESCO/Ethnologue real rigor); open-endedness (multilingualism-as-wealth flagged as value, policies as 'cases to weigh not lessons to absorb')."
   - id: B-399
     title: Author lessons for Unit U.11.005 (Mathematics & Reasoning)
     agent: lesson-author

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Speech architecture scaffold</title>
+  <desc id="desc">A six-box scaffold for building a persuasive speech, arranged in a column. Top box: claim. Next: reason one and reason two. Then: evidence. Then two boxes joined by a bracket labeled "steelman, not straw man": strongest counterargument and honest response. Arrows flow downward through the column.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">The Architecture of a Speech</text>
+
+  <!-- Claim -->
+  <rect x="90" y="48" width="332" height="44" rx="9" fill="#dce9f0" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="75" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">CLAIM — what should be true or done</text>
+
+  <path d="M256 92 v16" stroke="#4f6d7a" stroke-width="2" fill="none"/>
+
+  <!-- Reasons -->
+  <rect x="90" y="108" width="158" height="44" rx="9" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="169" y="135" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#3a5a3a">REASON 1</text>
+  <rect x="264" y="108" width="158" height="44" rx="9" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="343" y="135" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#3a5a3a">REASON 2</text>
+
+  <path d="M169 152 v14 M343 152 v14" stroke="#4f6d7a" stroke-width="2" fill="none"/>
+  <path d="M169 166 h174 M256 166 v8" stroke="#4f6d7a" stroke-width="2" fill="none"/>
+
+  <!-- Evidence -->
+  <rect x="90" y="174" width="332" height="44" rx="9" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="201" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#8a6d4a">EVIDENCE — something real that backs a reason</text>
+
+  <path d="M256 218 v14" stroke="#4f6d7a" stroke-width="2" fill="none"/>
+
+  <!-- Counterargument + response -->
+  <rect x="90" y="232" width="332" height="44" rx="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="259" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">STRONGEST COUNTERARGUMENT — the best objection</text>
+  <rect x="90" y="286" width="332" height="44" rx="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="313" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">HONEST RESPONSE — your answer to it</text>
+
+  <!-- Bracket -->
+  <path d="M70 254 h14 v76 h-14" stroke="#7a9e7e" stroke-width="3" fill="none"/>
+  <text x="52" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a" transform="rotate(-90 52 300)">steelman, not straw man</text>
+
+  <path d="M256 330 v14" stroke="#4f6d7a" stroke-width="2" fill="none"/>
+  <rect x="140" y="344" width="232" height="40" rx="20" fill="#7a9e7e"/>
+  <text x="256" y="369" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#fdfbf7">CONCLUSION</text>
+
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A speech that names the best objection is stronger</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">— and more honest — than one that hides from it.</text>
+</svg>

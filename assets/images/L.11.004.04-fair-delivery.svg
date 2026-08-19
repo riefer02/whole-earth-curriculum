@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Fair delivery</title>
+  <desc id="desc">Two figures face each other — one speaking with an open palm, the other listening. Between them hangs a balance scale: the left pan holds "my argument," the right pan holds "the counterargument, stated fairly," and the beam is level. Below is a five-item checklist: claim clear, evidence real, counterargument at full strength, response honest, voice paced.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Delivering Fairly</text>
+
+  <!-- Balance scale -->
+  <g>
+    <line x1="256" y1="140" x2="256" y2="52" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="150" y1="52" x2="362" y2="52" stroke="#2b3a42" stroke-width="4"/>
+    <line x1="256" y1="52" x2="256" y2="44" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="150" y1="52" x2="150" y2="84" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="362" y1="52" x2="362" y2="84" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 84 a32 32 0 0 0 64 0 z" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+    <path d="M330 84 a32 32 0 0 0 64 0 z" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+    <text x="150" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">my argument</text>
+    <text x="362" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">the counterargument,</text>
+    <text x="362" y="126" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">stated fairly</text>
+  </g>
+
+  <!-- Speaker figure -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="#dce9f0">
+    <circle cx="96" cy="196" r="20"/>
+    <path d="M96 216 q-22 22 0 46 q22 -24 0 -46 z"/>
+    <line x1="72" y1="284" x2="72" y2="316" stroke="#2b3a42" stroke-width="4"/>
+    <line x1="120" y1="284" x2="120" y2="316" stroke="#2b3a42" stroke-width="4"/>
+    <path d="M76 236 h40 l-14 26 h-12 z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="96" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a6a">speaker</text>
+
+  <!-- Listener figure -->
+  <g stroke="#2b3a42" stroke-width="2.5" fill="#f6ead8">
+    <circle cx="416" cy="196" r="20"/>
+    <path d="M416 216 q-22 22 0 46 q22 -24 0 -46 z"/>
+    <line x1="392" y1="284" x2="392" y2="316" stroke="#2b3a42" stroke-width="4"/>
+    <line x1="440" y1="284" x2="440" y2="316" stroke="#2b3a42" stroke-width="4"/>
+  </g>
+  <text x="416" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">listener</text>
+
+  <!-- Checklist -->
+  <g font-family="sans-serif" font-size="14">
+    <rect x="70" y="366" width="372" height="120" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="88" y="390" font-weight="bold" fill="#2b3a42">Delivery checklist</text>
+    <text x="88" y="412" fill="#222222">☐ claim clear   ☐ evidence real</text>
+    <text x="88" y="434" fill="#222222">☐ counterargument at full strength</text>
+    <text x="88" y="456" fill="#222222">☐ response honest   ☐ voice paced</text>
+    <text x="88" y="478" fill="#3a5a3a">fairness is the load; delivery is the vehicle</text>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Carrying your words across</title>
+  <desc id="desc">Two writing panels side by side — one labeled "home language," one labeled "second language" — connected by a bridge. Along the bridge, three labels read "gained," "lost," and "changed." A note beneath reads: carrying your own words across languages is an art, not a copy.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Carrying My Words Across</text>
+
+  <!-- Left panel -->
+  <rect x="40" y="64" width="170" height="200" rx="9" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="125" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#3a5a3a">home language</text>
+  <line x1="58" y1="110" x2="192" y2="110" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="128" x2="192" y2="128" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="146" x2="178" y2="146" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="164" x2="192" y2="164" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="182" x2="166" y2="182" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Right panel -->
+  <rect x="302" y="64" width="170" height="200" rx="9" fill="#dce9f0" stroke="#2b3a42" stroke-width="2"/>
+  <text x="387" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#3a5a6a">second language</text>
+  <line x1="320" y1="110" x2="454" y2="110" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="320" y1="128" x2="454" y2="128" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="320" y1="146" x2="440" y2="146" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="320" y1="164" x2="454" y2="164" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="320" y1="182" x2="428" y2="182" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Bridge -->
+  <path d="M210 180 q46 -60 92 0" stroke="#e0a458" stroke-width="3" fill="none"/>
+  <path d="M214 180 l-8 6 M210 180 l8 6" stroke="#e0a458" stroke-width="2" fill="none"/>
+  <path d="M302 180 l-8 -6 M302 180 l8 -6" stroke="#e0a458" stroke-width="2" fill="none"/>
+
+  <text x="230" y="118" font-family="sans-serif" font-size="12" fill="#3a5a3a">gained</text>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">lost</text>
+  <text x="286" y="118" font-family="sans-serif" font-size="12" fill="#3a5a6a">changed</text>
+
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The second language is a second home for the idea —</text>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">not a test you pass or fail.</text>
+
+  <rect x="120" y="352" width="272" height="60" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Carrying your own words across</text>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a6d4a">is an art, not a copy.</text>
+</svg>

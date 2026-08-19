@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Author's position</title>
+  <desc id="desc">Concentric circles. At the center is a small figure labeled "author." Moving outward, four rings are labeled "language and culture," "time and history," "power and position," and "the text." Small arrows point outward to show these layers shaping the text.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Who Writes, From Where</text>
+
+  <!-- Rings -->
+  <circle cx="256" cy="250" r="200" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="256" cy="250" r="150" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="256" cy="250" r="100" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="256" cy="250" r="52" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Author figure -->
+  <circle cx="256" cy="238" r="12" fill="#dce9f0" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 250 q-14 14 0 28 q14 -14 0 -28 z" fill="#dce9f0" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">author</text>
+
+  <!-- Ring labels -->
+  <text x="256" y="202" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a6a">language &amp; culture</text>
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">time &amp; history</text>
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a">power &amp; position</text>
+
+  <!-- Arrows outward -->
+  <g stroke="#e0a458" stroke-width="2.5" fill="none">
+    <path d="M312 234 L360 214"/>
+    <path d="M322 262 L372 268"/>
+    <path d="M306 292 L356 320"/>
+  </g>
+
+  <!-- Outer text -->
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">These layers shape the text from the inside out.</text>
+
+  <!-- Text label on outer ring -->
+  <text x="426" y="246" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">the text</text>
+</svg>

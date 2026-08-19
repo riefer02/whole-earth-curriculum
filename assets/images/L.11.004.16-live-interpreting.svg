@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The live bridge</title>
+  <desc id="desc">A real setting — a market stall with a canopy — where two speakers of different languages face each other and an interpreter stands between them, a speech bubble carrying a main idea from one to the other. Below, a small record card lists: setting, speakers, main ideas carried, checking back, and what the bridge made possible.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">The Live Bridge</text>
+
+  <!-- Market canopy -->
+  <path d="M60 120 q196 -70 392 0" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M120 120 l-8 40 M392 120 l8 40" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <line x1="70" y1="160" x2="442" y2="160" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Speaker A -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#f6ead8">
+    <circle cx="120" cy="240" r="18"/>
+    <path d="M120 258 q-20 20 0 42 q20 -22 0 -42 z"/>
+    <line x1="98" y1="318" x2="98" y2="350" stroke="#2b3a42" stroke-width="4"/>
+    <line x1="142" y1="318" x2="142" y2="350" stroke="#2b3a42" stroke-width="4"/>
+  </g>
+  <text x="120" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">speaker A</text>
+
+  <!-- Speaker B -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#eaf2ea">
+    <circle cx="392" cy="240" r="18"/>
+    <path d="M392 258 q-20 20 0 42 q20 -22 0 -42 z"/>
+    <line x1="370" y1="318" x2="370" y2="350" stroke="#2b3a42" stroke-width="4"/>
+    <line x1="414" y1="318" x2="414" y2="350" stroke="#2b3a42" stroke-width="4"/>
+  </g>
+  <text x="392" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">speaker B</text>
+
+  <!-- Interpreter -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#dce9f0">
+    <circle cx="256" cy="232" r="18"/>
+    <path d="M256 250 q-20 20 0 42 q20 -22 0 -42 z"/>
+    <line x1="234" y1="312" x2="234" y2="344" stroke="#2b3a42" stroke-width="4"/>
+    <line x1="278" y1="312" x2="278" y2="344" stroke="#2b3a42" stroke-width="4"/>
+  </g>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">interpreter</text>
+
+  <!-- Speech bubbles -->
+  <path d="M150 200 h80 a12 12 0 0 1 12 12 v34 a12 12 0 0 1 -12 12 h-50 l-18 16 v-16 h-12 a12 12 0 0 1 -12 -12 v-34 a12 12 0 0 1 12 -12 z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="164" y1="224" x2="216" y2="224" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="164" y1="240" x2="204" y2="240" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <path d="M282 200 h80 a12 12 0 0 1 12 12 v34 a12 12 0 0 1 -12 12 h-50 l-18 16 v-16 h-12 a12 12 0 0 1 -12 -12 v-34 a12 12 0 0 1 12 -12 z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="296" y1="224" x2="348" y2="224" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="296" y1="240" x2="336" y2="240" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Record card -->
+  <g font-family="sans-serif" font-size="13">
+    <rect x="80" y="398" width="352" height="96" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+    <text x="98" y="420" font-weight="bold" fill="#2b3a42">Live-bridge record</text>
+    <text x="98" y="440" fill="#222222">setting · speakers · main ideas carried</text>
+    <text x="98" y="460" fill="#222222">checking back · what the bridge made possible</text>
+    <text x="98" y="480" fill="#3a5a3a">home language first — multilingualism as wealth</text>
+  </g>
+</svg>

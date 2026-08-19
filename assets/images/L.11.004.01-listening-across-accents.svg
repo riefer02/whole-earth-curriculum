@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Listening map across accents</title>
+  <desc id="desc">A listening map. Three speech bubbles from three different speakers — one labeled "regional accent," one "second-language speaker," one "a faster, unfamiliar rhythm" — all flow along arrows into one attentive ear at the center. A note beneath reads: every way of speaking is a complete system; none is incorrect.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Listening Across Voices</text>
+
+  <!-- Central ear -->
+  <circle cx="256" cy="268" r="64" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="3"/>
+  <path d="M256 232 c-14 -10 -26 -8 -34 4 c-8 12 -4 24 8 30 c-14 2 -22 14 -16 28 c6 13 20 17 32 10 c2 8 8 12 14 10 c8 -2 12 -10 10 -18 c6 -2 9 -9 7 -15 c-2 -7 -8 -11 -15 -10 c0 -4 -1 -8 -4 -11 c-6 -6 -16 -6 -22 0 c-1 3 -1 6 0 8 c-2 -2 -3 -4 -2 -7 c2 -5 7 -8 12 -8 c10 -1 18 6 19 16" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#3a5a3a">attentive listener</text>
+
+  <!-- Speaker 1: regional accent -->
+  <g>
+    <path d="M64 108 h120 a14 14 0 0 1 14 14 v40 a14 14 0 0 1 -14 14 h-62 l-24 22 v-22 h-34 a14 14 0 0 1 -14 -14 v-40 a14 14 0 0 1 14 -14 z" fill="#dce9f0" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="84" y1="128" x2="164" y2="128" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="84" y1="144" x2="150" y2="144" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="84" y1="160" x2="158" y2="160" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="130" y="210" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a6a">regional accent</text>
+  </g>
+
+  <!-- Speaker 2: second-language speaker -->
+  <g>
+    <path d="M328 84 h120 a14 14 0 0 1 14 14 v40 a14 14 0 0 1 -14 14 h-62 l-24 22 v-22 h-34 a14 14 0 0 1 -14 -14 v-40 a14 14 0 0 1 14 -14 z" fill="#f6ead8" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="348" y1="104" x2="428" y2="104" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="348" y1="120" x2="414" y2="120" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="348" y1="136" x2="422" y2="136" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="394" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">second-language speaker</text>
+  </g>
+
+  <!-- Speaker 3: faster rhythm -->
+  <g>
+    <path d="M64 268 h120 a14 14 0 0 1 14 14 v40 a14 14 0 0 1 -14 14 h-62 l-24 22 v-22 h-34 a14 14 0 0 1 -14 -14 v-40 a14 14 0 0 1 14 -14 z" fill="#eaf2ea" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="84" y1="288" x2="164" y2="288" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="84" y1="304" x2="150" y2="304" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <line x1="84" y1="320" x2="158" y2="320" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <text x="130" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a">a faster rhythm</text>
+  </g>
+
+  <!-- Arrows into the ear -->
+  <g stroke="#7a9e7e" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <path d="M130 170 C 160 210, 190 230, 212 252" marker-end=""/>
+    <path d="M382 150 C 352 190, 322 215, 300 246"/>
+    <path d="M130 300 C 160 285, 190 280, 210 274"/>
+  </g>
+
+  <!-- Note -->
+  <rect x="70" y="404" width="372" height="76" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Every way of speaking is a complete system.</text>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The message and the voice are two different things —</text>
+  <text x="256" y="471" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">none is "incorrect."</text>
+</svg>

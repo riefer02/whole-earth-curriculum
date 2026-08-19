@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Translation as choices</title>
+  <desc id="desc">A branching diagram. At the top, a box holds one source line in a source language. It branches down into three target-language boxes, each worded slightly differently. Along the branches, labels read "gained," "lost," and "changed." A note at the bottom reads: translation is an art of choices, never a perfect copy.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">One Text, Three Renderings</text>
+
+  <!-- Source -->
+  <rect x="140" y="48" width="232" height="48" rx="9" fill="#dce9f0" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">source line (source language)</text>
+
+  <!-- Branches -->
+  <path d="M200 96 C 180 130, 130 150, 118 176" stroke="#7a9e7e" stroke-width="2.5" fill="none"/>
+  <path d="M256 96 L 256 176" stroke="#7a9e7e" stroke-width="2.5" fill="none"/>
+  <path d="M312 96 C 332 130, 382 150, 394 176" stroke="#7a9e7e" stroke-width="2.5" fill="none"/>
+
+  <text x="104" y="136" font-family="sans-serif" font-size="13" fill="#3a5a3a">gained</text>
+  <text x="242" y="120" font-family="sans-serif" font-size="13" fill="#8a6d4a">changed</text>
+  <text x="392" y="136" font-family="sans-serif" font-size="13" fill="#3a5a6a">lost</text>
+
+  <!-- Three renderings -->
+  <rect x="40" y="176" width="140" height="72" rx="9" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="110" y="206" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#3a5a3a">rendering 1</text>
+  <line x1="58" y1="218" x2="162" y2="218" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="232" x2="148" y2="232" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="186" y="176" width="140" height="72" rx="9" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="206" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a6d4a">rendering 2</text>
+  <line x1="204" y1="218" x2="308" y2="218" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="204" y1="232" x2="294" y2="232" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="332" y="176" width="140" height="72" rx="9" fill="#eaf2ea" stroke="#6b93b6" stroke-width="2"/>
+  <text x="402" y="206" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#3a5a6a">rendering 3</text>
+  <line x1="350" y1="218" x2="454" y2="218" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="350" y1="232" x2="440" y2="232" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Each rendering keeps one meaning and lets another go —</text>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">because no two languages sort the world the same way.</text>
+
+  <rect x="120" y="352" width="272" height="60" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Translation is an art of choices —</text>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#8a6d4a">never a perfect copy.</text>
+</svg>

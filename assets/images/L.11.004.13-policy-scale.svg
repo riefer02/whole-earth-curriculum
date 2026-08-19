@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Weighing a language policy</title>
+  <desc id="desc">A balance scale. The left pan holds a single box labeled "one official language"; the right pan holds a cluster of small boxes labeled "many languages," but the scale tilts down toward the single language, leaving the many languages lighter. Below, a five-item checklist reads: what the policy says, who benefits, who is excluded, what value it assumes, is it fair.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Weighing a Language Policy</text>
+
+  <!-- Scale -->
+  <g>
+    <line x1="256" y1="140" x2="256" y2="64" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="256" y1="56" x2="256" y2="48" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="150" y1="64" x2="362" y2="64" stroke="#2b3a42" stroke-width="4"/>
+    <line x1="150" y1="64" x2="150" y2="96" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="362" y1="64" x2="362" y2="96" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M118 96 a32 32 0 0 0 64 0 z" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+    <path d="M330 96 a32 32 0 0 0 64 0 z" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+  </g>
+
+  <!-- One official language -->
+  <rect x="102" y="128" width="96" height="40" rx="8" fill="#f6ead8" stroke="#8a6d4a" stroke-width="2"/>
+  <text x="150" y="153" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">one official</text>
+  <text x="150" y="188" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">(heavier —</text>
+  <text x="150" y="202" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">it counts)</text>
+
+  <!-- Many languages -->
+  <rect x="322" y="150" width="40" height="22" rx="6" fill="#eaf2ea" stroke="#3a5a3a" stroke-width="2"/>
+  <rect x="368" y="152" width="40" height="22" rx="6" fill="#eaf2ea" stroke="#3a5a3a" stroke-width="2"/>
+  <rect x="344" y="178" width="40" height="22" rx="6" fill="#eaf2ea" stroke="#3a5a3a" stroke-width="2"/>
+  <text x="362" y="214" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">many languages</text>
+  <text x="362" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">(lighter — left out)</text>
+
+  <!-- Checklist -->
+  <g font-family="sans-serif" font-size="14">
+    <rect x="70" y="256" width="372" height="132" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="88" y="280" font-weight="bold" fill="#2b3a42">Evaluate a policy</text>
+    <text x="88" y="302" fill="#222222">what does the policy say?</text>
+    <text x="88" y="322" fill="#222222">who benefits?  who is excluded?</text>
+    <text x="88" y="342" fill="#222222">what value does it assume?</text>
+    <text x="88" y="362" fill="#222222">is it fair?</text>
+  </g>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">no language policy is neutral — every choice</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">includes some people and excludes others</text>
+</svg>
