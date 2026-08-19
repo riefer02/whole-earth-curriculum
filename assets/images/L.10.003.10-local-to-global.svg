@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">From my street to the whole world</title>
+  <desc id="desc">Four nested circles labeled local, regional, national, and global from the center outward. Arrows with labels goods, people, ideas, and water flow across all four circles, showing how a local community connects to the wider world.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">From My Street to the Whole World</text>
+
+  <!-- Nested circles -->
+  <circle cx="256" cy="250" r="52" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="3"/>
+  <circle cx="256" cy="250" r="104" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <circle cx="256" cy="250" r="156" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <circle cx="256" cy="250" r="208" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+  <!-- Labels -->
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2c4a2c">local</text>
+  <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#3a5a6a">regional</text>
+  <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#5a3d1e">national</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">global</text>
+
+  <!-- Arrows across scales -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M256,198 C290,180 320,170 348,158"/>
+    <path d="M348,158 C370,148 392,142 414,134"/>
+    <path d="M414,134 C430,130 444,128 458,126"/>
+  </g>
+  <g stroke="#e0a458" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M256,302 C220,320 192,332 168,342"/>
+    <path d="M168,342 C146,352 124,358 102,364"/>
+  </g>
+
+  <!-- Flow labels -->
+  <text x="352" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">goods</text>
+  <text x="168" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">people</text>
+  <text x="90" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">ideas</text>
+  <text x="420" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">water</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Your street is a knot in a wide net — goods, people, ideas, and water cross every ring.</text>
+</svg>

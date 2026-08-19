@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Respect in the feed: pause before you post</title>
+  <desc id="desc">A flow diagram with three gates. A message draft enters from the top and passes through three question gates — Is it true? Is it kind? Would I want it said about me? — then reaches a consent-and-privacy check before it is sent.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Pause Before You Post</text>
+
+  <!-- Draft message at top -->
+  <rect x="150" y="56" width="212" height="52" rx="10" fill="#2b3a42"/>
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#fdfbf7">a message you&#8217;re about to send</text>
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#d7e2e8">&#9998; draft</text>
+
+  <line x1="256" y1="108" x2="256" y2="130" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Gate 1 -->
+  <g>
+    <rect x="56" y="132" width="400" height="58" rx="12" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="256" y="158" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Gate 1 — Is it true?</text>
+    <text x="256" y="178" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">or am I passing on a rumor or an edited image?</text>
+  </g>
+
+  <line x1="256" y1="190" x2="256" y2="212" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Gate 2 -->
+  <g>
+    <rect x="56" y="214" width="400" height="58" rx="12" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Gate 2 — Is it kind?</text>
+    <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">would I say it to their face, in this tone?</text>
+  </g>
+
+  <line x1="256" y1="272" x2="256" y2="294" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Gate 3 -->
+  <g>
+    <rect x="56" y="296" width="400" height="58" rx="12" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Gate 3 — Would I want it said about me?</text>
+    <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">how would I feel if this were posted about me?</text>
+  </g>
+
+  <line x1="256" y1="354" x2="256" y2="376" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Consent and privacy -->
+  <g>
+    <rect x="56" y="378" width="400" height="58" rx="12" fill="#dce9f0" stroke="#6b93b6" stroke-width="2"/>
+    <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Consent &amp; privacy check</text>
+    <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a6a">did I ask before sharing about others? who can see this?</text>
+  </g>
+
+  <line x1="256" y1="436" x2="256" y2="458" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Send -->
+  <g>
+    <rect x="176" y="460" width="160" height="40" rx="20" fill="#7a9e7e"/>
+    <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#fdfbf7">send — or let it go</text>
+  </g>
+
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Sometimes the respectful move is not to post at all.</text>
+</svg>

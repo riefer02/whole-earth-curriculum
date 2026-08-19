@@ -67,3 +67,15 @@ cooperative economies and mutual-aid networks across the world.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Communication, Remixed by Screens | D02.S1.10.01 |
+| 2 | Respect in the Feed: Using Digital Tools Well | D02.S1.10.01 |
+| 3 | De-escalation: Cooling the Fire Down | D02.S1.10.02 |
+| 4 | When It's Too Big: Seeking Mediation | D02.S1.10.02 |
+| 5 | Seeing a Community from the Inside | D02.S2.10.01 |
+| 6 | History and Values, in Their Own Words | D02.S2.10.01 |
+| 7 | Empathy Online: Near, Far, and Worn Thin | D02.S2.10.02 |
+| 8 | Echo Chambers: Who's Talking to Me? | D02.S2.10.02 |
+| 9 | Building Belonging with Technology | D02.S3.10.01 |
+| 10 | From My Street to the Whole World | D02.S3.10.02 |
+| 11 | Technology: Cooperation's Tool or Undoer? | D02.S4.10.01 |
+| 12 | Co-ops and Mutual Aid Around the World | D02.S4.10.02 |

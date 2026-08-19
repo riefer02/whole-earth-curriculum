@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Echo chambers: who's talking to me?</title>
+  <desc id="desc">A person stands inside a circle of same-opinion voices, with inward arrows all repeating one note. A door opens in the circle toward diverse first-person voices outside, labeled follow across difference, seek first-person voices, and check the source.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Who&#8217;s Talking to Me?</text>
+
+  <!-- Outer diverse voices -->
+  <g font-family="sans-serif" font-size="12" fill="#2c4a2c">
+    <circle cx="70" cy="120" r="18" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="1.5"/>
+    <text x="70" y="124" text-anchor="middle">&#9835;</text>
+    <circle cx="450" cy="140" r="18" fill="#f6ead8" stroke="#e0a458" stroke-width="1.5"/>
+    <text x="450" y="144" text-anchor="middle">&#10077;</text>
+    <circle cx="80" cy="380" r="18" fill="#f6ead8" stroke="#e0a458" stroke-width="1.5"/>
+    <text x="80" y="384" text-anchor="middle">&#9998;</text>
+    <circle cx="440" cy="390" r="18" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="1.5"/>
+    <text x="440" y="394" text-anchor="middle">&#128172;</text>
+  </g>
+
+  <!-- Echo chamber circle -->
+  <circle cx="256" cy="256" r="120" fill="#fdfbf7" stroke="#6b93b6" stroke-width="4"/>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">the echo chamber</text>
+
+  <!-- Person in center -->
+  <g transform="translate(256,256)">
+    <circle cx="0" cy="-34" r="22" fill="#e0a458"/>
+    <rect x="-16" y="-14" width="32" height="52" rx="10" fill="#2b3a42"/>
+  </g>
+
+  <!-- Same-opinion voices around -->
+  <g font-family="sans-serif" font-size="11" fill="#3a5a6a">
+    <circle cx="196" cy="208" r="16" fill="#dce9f0"/>
+    <text x="196" y="212" text-anchor="middle">same</text>
+    <circle cx="316" cy="208" r="16" fill="#dce9f0"/>
+    <text x="316" y="212" text-anchor="middle">same</text>
+    <circle cx="196" cy="304" r="16" fill="#dce9f0"/>
+    <text x="196" y="308" text-anchor="middle">same</text>
+    <circle cx="316" cy="304" r="16" fill="#dce9f0"/>
+    <text x="316" y="308" text-anchor="middle">same</text>
+  </g>
+
+  <!-- Inward arrows -->
+  <g stroke="#6b93b6" stroke-width="2" fill="none">
+    <line x1="210" y1="222" x2="238" y2="244"/>
+    <line x1="302" y1="222" x2="274" y2="244"/>
+    <line x1="210" y1="290" x2="238" y2="268"/>
+    <line x1="302" y1="290" x2="274" y2="268"/>
+  </g>
+
+  <!-- Door -->
+  <g>
+    <line x1="256" y1="376" x2="256" y2="420" stroke="#e0a458" stroke-width="3" stroke-dasharray="4 4"/>
+    <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#5a3d1e">the door out</text>
+  </g>
+
+  <!-- Counter-moves -->
+  <g font-family="sans-serif" font-size="12" fill="#2b3a42">
+    <rect x="340" y="56" width="156" height="26" rx="8" fill="#eaf2ea"/>
+    <text x="418" y="74" text-anchor="middle">follow across difference</text>
+    <rect x="340" y="90" width="156" height="26" rx="8" fill="#eaf2ea"/>
+    <text x="418" y="108" text-anchor="middle">seek first-person voices</text>
+    <rect x="340" y="124" width="156" height="26" rx="8" fill="#f6ead8"/>
+    <text x="418" y="142" text-anchor="middle">check the source</text>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Comfort is not the same as understanding. You choose how wide the door stands.</text>
+</svg>

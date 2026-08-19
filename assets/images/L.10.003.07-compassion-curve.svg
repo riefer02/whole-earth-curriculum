@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Empathy online: the compassion curve</title>
+  <desc id="desc">A line graph of the compassion curve. It rises steeply for one named face and story, then falls as the feed becomes an endless stream of headlines. Labels mark "one named face" at the peak and "a flood of headlines" where the curve falls, with a note about choosing where care goes.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Compassion Curve</text>
+
+  <!-- Axes -->
+  <line x1="60" y1="360" x2="470" y2="360" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="60" y1="360" x2="60" y2="70" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">how many crises in the feed</text>
+  <text x="40" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" transform="rotate(-90 40 216)">my capacity to care</text>
+
+  <!-- Curve -->
+  <path d="M70,340 C110,340 140,120 190,110 C240,100 300,180 360,290 C410,360 460,360 470,360"
+        fill="none" stroke="#6b93b6" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Peak marker -->
+  <circle cx="190" cy="110" r="7" fill="#e0a458"/>
+  <text x="190" y="84" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#5a3d1e">one named face &amp; story</text>
+
+  <!-- Fall marker -->
+  <circle cx="360" cy="290" r="7" fill="#4f6d7a"/>
+  <text x="390" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">a flood of headlines</text>
+
+  <!-- Numbing note -->
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">going numb is a signal, not a failure</text>
+
+  <rect x="120" y="460" width="272" height="30" rx="12" fill="#dce9f0" stroke="#6b93b6" stroke-width="2"/>
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">choose where your care goes — and act</text>
+</svg>

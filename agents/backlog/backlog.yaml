@@ -5655,7 +5655,7 @@ items:
     type: lesson
     grade: 10
     domain: D02
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5667,6 +5667,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate green (1438 files). 12 lessons L.10.003.01-.12 seq no gaps; objectives resolve to real D02.S*.10.* IDs, all 8 covered (2 lessons each); headings present; unit.md matches 1:1; 12 SVGs exist. L7/L12 age-appropriate, real sources (Batson S-230, Bloom S-413, WHO S-311, Kropotkin S-163, Spade S-345, ICA/Mondragon); L12 charity/mutual-aid/coop framing ties to who holds power, evidence vs values separated.
+      fact-checker:
+        verdict: passed
+        note: All 24 S-codes resolve to real reviewed:true entries (Suler S-343, Batson S-230, Bloom S-413, WHO S-311, Pariser S-482/Britannica S-481, Putnam S-157, Anderson S-415, Kropotkin S-163, Spade S-345, CGAP S-210/World Bank S-211 M-Pesa, IIRP S-022/Zehr S-161). First-party ICA + Mondragon verified live and registered as S-486/S-487 reviewed:true. Evidence vs values separated. validate green (1438).
+      global-culture-editor:
+        verdict: passed
+        note: "Framing/representation verified: Connections avoid Western/urban default (city/village/coast/mountain/group chat). Cross-cultural empathy L5-6 centers first-person voices, consent, attribution, 'let the community name itself', steers to marginalized/Indigenous communities' own sources. Coop/mutual-aid examples span M-Pesa Kenya, harambee, gotong royong, mink'a/minga Andes, barn raising, Mondragon Basque, credit unions - held side by side never ranked (philosophy 11)."
+      accessibility-editor:
+        verdict: passed
+        note: Tiered materials in all 12; low-tech paper/voice/ground-drawn default, digital-communication lessons offline-teachable, no required device/wealth. UDL + context_variants + differentiation; no able-bodied default in core path; disability named in digital-divide framing. Plain language, terms defined. All 12 assets non-empty alt; 12 SVGs role=img/title/desc.
+      alignment-auditor:
+        verdict: passed
+        note: "Four lenses verified in all 12 lessons (ethics: screen-hides-face cruelty; egalitarianism: belonging distributed unfairly is justice question, digital divide; global: from-within posture, coop traditions never ranked; technology&environment: media as designed objects, watersheds across scales). Evidence vs values separated; sources cited. Traceability unbroken: 8 objectives resolve to real D02.S1-S4.10 IDs; chain Vision->P1->D02->strands->U.10.003->lessons. No hierarchy/supremacy; advances cooperation/mutual aid/benefit-to-the-many."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-10 band (15-16): cognitive fit calibrated (online disinhibition, empathic concern vs distress, filter bubbles, local-to-global systems, cooperative economies as models with evidence; scholarly debate flagged not papered over). Emotional safety: de-escalation/mediation low-stakes with invite-never-force, seeking help framed as strength; compassion fatigue named predictable limit not moral failure, closes with agency. Open-ended questions; description vs value distinguished. Physical fit with movement variants. Hopeful not naive."
   - id: B-386
     title: Author lessons for Unit U.10.004 (Language, Literature & Argument)
     agent: lesson-author

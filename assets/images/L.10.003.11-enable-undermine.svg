@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Technology: cooperation's tool or undoer</title>
+  <desc id="desc">A two-pan balance. The left pan shows technology enabling cooperation — phones coordinating aid, mobile money, and open maps. The right pan shows technology undermining cooperation — surveillance, misinformation, and gig extraction. A center note says design is a choice.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Technology: Tool or Undoer?</text>
+
+  <!-- Balance beam -->
+  <line x1="70" y1="200" x2="442" y2="200" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <line x1="256" y1="200" x2="256" y2="250" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="230" y1="250" x2="282" y2="250" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Left pan: enables -->
+  <g>
+    <line x1="130" y1="200" x2="130" y2="220" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M70,260 Q130,320 190,260 Z" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="130" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2c4a2c">enables</text>
+  </g>
+  <g font-family="sans-serif" font-size="11" fill="#222222">
+    <rect x="52" y="312" width="156" height="22" rx="8" fill="#dcefdc"/>
+    <text x="130" y="327" text-anchor="middle">phones coordinate aid</text>
+    <rect x="52" y="340" width="156" height="22" rx="8" fill="#dcefdc"/>
+    <text x="130" y="355" text-anchor="middle">mobile money to the unbanked</text>
+    <rect x="52" y="368" width="156" height="22" rx="8" fill="#dcefdc"/>
+    <text x="130" y="383" text-anchor="middle">open maps of where need is</text>
+  </g>
+
+  <!-- Right pan: undermines -->
+  <g>
+    <line x1="382" y1="200" x2="382" y2="220" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M322,260 Q382,320 442,260 Z" fill="#f6ead8" stroke="#e0a458" stroke-width="3"/>
+    <text x="382" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5a3d1e">undermines</text>
+  </g>
+  <g font-family="sans-serif" font-size="11" fill="#222222">
+    <rect x="304" y="312" width="156" height="22" rx="8" fill="#f6ead8"/>
+    <text x="382" y="327" text-anchor="middle">surveillance of organizing</text>
+    <rect x="304" y="340" width="156" height="22" rx="8" fill="#f6ead8"/>
+    <text x="382" y="355" text-anchor="middle">misinformation spreading</text>
+    <rect x="304" y="368" width="156" height="22" rx="8" fill="#f6ead8"/>
+    <text x="382" y="383" text-anchor="middle">extraction from the poor</text>
+  </g>
+
+  <!-- Center note -->
+  <rect x="156" y="420" width="200" height="34" rx="12" fill="#dce9f0" stroke="#6b93b6" stroke-width="2"/>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">design is a choice</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same tool can pull people together or apart — people decide.</text>
+</svg>

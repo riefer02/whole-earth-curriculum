@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">History and values, in their own words</title>
+  <desc id="desc">A study-from-within organizer. A center circle labeled "the community's own words" is surrounded by four spokes labeled its history, its values, its art and stories, and its institutions. A corner note says "check my assumptions."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Study From Within</text>
+
+  <!-- Center circle -->
+  <circle cx="256" cy="256" r="86" fill="#dce9f0" stroke="#6b93b6" stroke-width="3"/>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">the community&#8217;s</text>
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">own words</text>
+
+  <!-- Spokes -->
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <line x1="256" y1="170" x2="256" y2="106"/>
+    <line x1="256" y1="342" x2="256" y2="406"/>
+    <line x1="170" y1="256" x2="106" y2="256"/>
+    <line x1="342" y1="256" x2="406" y2="256"/>
+  </g>
+
+  <!-- Top: history -->
+  <rect x="176" y="70" width="160" height="40" rx="10" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2c4a2c">its history</text>
+  <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#3a5a3a">how members tell their own past</text>
+
+  <!-- Bottom: values -->
+  <rect x="176" y="402" width="160" height="40" rx="10" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2c4a2c">its values</text>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#3a5a3a">what the community says matters</text>
+
+  <!-- Left: art and stories -->
+  <rect x="40" y="236" width="132" height="40" rx="10" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+  <text x="106" y="254" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5a3d1e">its art &amp; stories</text>
+  <text x="106" y="270" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#8a6d4a">songs, tales, images it makes</text>
+
+  <!-- Right: institutions -->
+  <rect x="340" y="236" width="132" height="40" rx="10" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+  <text x="406" y="254" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5a3d1e">its institutions</text>
+  <text x="406" y="270" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#8a6d4a">groups and practices it keeps</text>
+
+  <!-- Corner note -->
+  <rect x="352" y="48" width="140" height="26" rx="8" fill="#fdfbf7" stroke="#e0a458" stroke-width="1.5"/>
+  <text x="422" y="66" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">check my assumptions</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Ask permission. Listen more than you talk. Give credit. Let the words stand as they were said.</text>
+</svg>

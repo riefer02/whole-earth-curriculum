@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">De-escalation: cooling the fire down</title>
+  <desc id="desc">An escalation ladder climbing through four rungs from irritation to frustration to anger to blow-up, beside a parallel de-escalation ramp stepping down through breathe, lower the voice, listen, name the feeling, and find common ground.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Cooling the Fire Down</text>
+
+  <!-- Ladder (left) -->
+  <text x="120" y="76" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">escalation</text>
+
+  <g stroke="#2b3a42" stroke-width="4" stroke-linecap="round">
+    <line x1="70" y1="96" x2="170" y2="96"/>
+    <line x1="70" y1="96" x2="70" y2="330"/>
+    <line x1="170" y1="96" x2="170" y2="330"/>
+  </g>
+
+  <g font-family="sans-serif" font-size="13" fill="#222222">
+    <rect x="76" y="96" width="88" height="44" rx="6" fill="#f6ead8"/>
+    <text x="120" y="116" text-anchor="middle" font-weight="bold" fill="#8a6d4a">irritation</text>
+    <text x="120" y="132" text-anchor="middle" font-size="10" fill="#8a6d4a">small spark</text>
+
+    <rect x="76" y="156" width="88" height="44" rx="6" fill="#f3d9b8"/>
+    <text x="120" y="176" text-anchor="middle" font-weight="bold" fill="#8a6d4a">frustration</text>
+    <text x="120" y="192" text-anchor="middle" font-size="10" fill="#8a6d4a">voice rising</text>
+
+    <rect x="76" y="216" width="88" height="44" rx="6" fill="#eec49a"/>
+    <text x="120" y="236" text-anchor="middle" font-weight="bold" fill="#7a5a33">anger</text>
+    <text x="120" y="252" text-anchor="middle" font-size="10" fill="#7a5a33">words sharper</text>
+
+    <rect x="76" y="276" width="88" height="44" rx="6" fill="#e0a458"/>
+    <text x="120" y="296" text-anchor="middle" font-weight="bold" fill="#5a3d1e">blow-up</text>
+    <text x="120" y="312" text-anchor="middle" font-size="10" fill="#5a3d1e">hard to undo</text>
+  </g>
+
+  <!-- Arrow down from blow-up -->
+  <text x="120" y="350" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">each rung harder to step back from</text>
+
+  <!-- Ramp (right) -->
+  <text x="390" y="76" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">de-escalation</text>
+
+  <g stroke="#2b3a42" stroke-width="4" stroke-linecap="round">
+    <line x1="340" y1="96" x2="440" y2="96"/>
+    <line x1="340" y1="96" x2="340" y2="330"/>
+    <line x1="440" y1="96" x2="440" y2="330"/>
+  </g>
+
+  <g font-family="sans-serif" font-size="13" fill="#222222">
+    <rect x="346" y="96" width="88" height="44" rx="6" fill="#dcefdc"/>
+    <text x="390" y="116" text-anchor="middle" font-weight="bold" fill="#3a5a3a">breathe</text>
+    <text x="390" y="132" text-anchor="middle" font-size="10" fill="#3a5a3a">slow the body</text>
+
+    <rect x="346" y="156" width="88" height="44" rx="6" fill="#cbe5cb"/>
+    <text x="390" y="176" text-anchor="middle" font-weight="bold" fill="#3a5a3a">lower voice</text>
+    <text x="390" y="192" text-anchor="middle" font-size="10" fill="#3a5a3a">unhurried pace</text>
+
+    <rect x="346" y="216" width="88" height="44" rx="6" fill="#b4d9b4"/>
+    <text x="390" y="236" text-anchor="middle" font-weight="bold" fill="#2c4a2c">listen</text>
+    <text x="390" y="252" text-anchor="middle" font-size="10" fill="#2c4a2c">restate their side</text>
+
+    <rect x="346" y="276" width="88" height="44" rx="6" fill="#9dcc9d"/>
+    <text x="390" y="296" text-anchor="middle" font-weight="bold" fill="#1e3a1e">name feeling</text>
+    <text x="390" y="312" text-anchor="middle" font-size="10" fill="#1e3a1e">"I felt ___"</text>
+  </g>
+
+  <!-- Final shared step -->
+  <rect x="150" y="356" width="212" height="46" rx="12" fill="#dce9f0" stroke="#6b93b6" stroke-width="2"/>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">find one point of agreement</text>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#3a5a6a">a shared step forward, however small</text>
+
+  <line x1="120" y1="330" x2="256" y2="356" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+  <line x1="390" y1="330" x2="256" y2="356" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">De-escalation is not weakness — it is the strong, skilled choice. You start with yourself.</text>
+</svg>

@@ -4541,3 +4541,21 @@ sources:
     domains: [D10]
     reviewed: true
     notes: "First-party source for the Standing Rock Sioux Tribe's opposition to the Dakota Access Pipeline (DAPL). Fact-checker verified live (2026-08-19): standingrock.org homepage states verbatim the reservation is 'Stradling the South Dakota and North Dakota border' covering '2.3 million acres,' 'borders the Missouri River,' and is 'Home to the Lakota and Dakota nations,' and its 'Stand With Us' section asks supporters to fund 'our continued efforts in the Dakota Access Pipeline battle.' This confirms the Tribe is real, the reservation straddles the ND/SD border along the Missouri River, its people are Lakota and Dakota, and it still opposes DAPL — matching the lesson's claims. The underlying facts are standard and well documented: the Tribe opposed DAPL, a crude-oil pipeline routed under/alongside the Missouri River, on grounds that it threatened their water supply and treaty lands; in 2016–2017 thousands of Indigenous 'water protectors' gathered in camps (#NoDAPL) grounded in the Lakota phrase Mní wičhóni ('water is life'). Cited in U.09.013 L10 (environmental justice) as the lesson's Indigenous stewardship/defense case, so Indigenous peoples appear as knowledge-holders, stewards, and defenders — not only as burden-bearers. US case; paired with the global island sea-level-rise case (IPCC, S-005)."
+
+  - id: S-486
+    title: "International Cooperative Alliance (ICA) — the global cooperative movement"
+    type: website
+    url: https://www.ica.coop/
+    organization: International Cooperative Alliance
+    domains: [D02]
+    reviewed: true
+    notes: "First-party source for cooperative identity and the global scale of the cooperative movement, cited in U.10.003 L12 (Co-ops and Mutual Aid Around the World) alongside Mondragón (S-487) as primary references for 'worker cooperatives and credit unions' detail. Fact-checker verified live (2026-08-19): ica.coop returns HTTP 200. The ICA describes itself as 'the voice of cooperatives worldwide… established in 1895 to promote the cooperative model,' states 'cooperative members represent at least 12% of humanity' and 'the 3 million cooperatives on earth,' and defines a cooperative as a 'people-centred enterprise jointly owned and democratically controlled by and for their members' run on the 'one member, one vote' rule. This is the canonical first-party definition of a cooperative and its Cooperative Identity Statement (values and 7 principles). Supports the lesson's framing that worker cooperatives and credit unions are well-documented cooperative forms in which members own and decide together; the lesson holds 'sharing power is better' as a value, distinct from these descriptive facts."
+
+  - id: S-487
+    title: "Mondragón Corporation — federation of worker cooperatives (Basque Country)"
+    type: website
+    url: https://www.mondragon-corporation.com/
+    organization: Mondragón Corporation
+    domains: [D02]
+    reviewed: true
+    notes: "First-party source for Mondragón as a real, large federation of worker cooperatives, cited in U.10.003 L12 (Co-ops and Mutual Aid Around the World) alongside the ICA (S-486) as primary references. Fact-checker verified live (2026-08-19): mondragon-corporation.com returns HTTP 200. The corporate site locates Mondragón in Mondragón (Gipuzkoa), Basque Country, Spain (Paseo José María Arizmendiarrieta, 5), and reports ~70,000 people ('70.000 PERSONAS') and sales in over 150 countries, organized across finance, industry, distribution, and knowledge (and its 'Cooperativas' section). This confirms the lesson's claim that Mondragón is a worker-cooperative federation in the Basque Country and a widely documented example of cooperative ownership; the lesson describes it as an example to check against first-party detail rather than citing a specific statistic."

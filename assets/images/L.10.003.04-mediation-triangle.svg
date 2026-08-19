@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">When it's too big: seeking mediation</title>
+  <desc id="desc">A mediation triangle with two parties at the base corners facing each other and a neutral mediator at the apex. Labels show the steps: listen, restate each side, and find a fair solution both accept. A side panel lists the four "too big to solve alone" signs: safety, power imbalance, repeated harm, and stuck pattern.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Seeking Mediation</text>
+
+  <!-- Triangle -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <line x1="120" y1="210" x2="256" y2="380"/>
+    <line x1="256" y1="380" x2="392" y2="210"/>
+    <line x1="120" y1="210" x2="392" y2="210"/>
+  </g>
+
+  <!-- Party A -->
+  <g transform="translate(120,210)">
+    <circle cx="0" cy="-34" r="22" fill="#6b93b6"/>
+    <rect x="-16" y="-14" width="32" height="52" rx="10" fill="#4f6d7a"/>
+  </g>
+  <text x="120" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Party A</text>
+
+  <!-- Party B -->
+  <g transform="translate(392,210)">
+    <circle cx="0" cy="-34" r="22" fill="#e0a458"/>
+    <rect x="-16" y="-14" width="32" height="52" rx="10" fill="#2b3a42"/>
+  </g>
+  <text x="392" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Party B</text>
+
+  <!-- Mediator -->
+  <g transform="translate(256,380)">
+    <circle cx="0" cy="-34" r="22" fill="#7a9e7e"/>
+    <rect x="-16" y="-14" width="32" height="52" rx="10" fill="#2b3a42"/>
+  </g>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">neutral mediator</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">takes no side</text>
+
+  <!-- Steps along triangle -->
+  <g font-family="sans-serif" font-size="12" fill="#3a5a6a">
+    <text x="188" y="300" text-anchor="middle">listen</text>
+    <text x="324" y="300" text-anchor="middle">restate each side</text>
+    <text x="256" y="204" text-anchor="middle">find a fair solution both accept</text>
+  </g>
+
+  <!-- Too-big checklist -->
+  <rect x="28" y="56" width="120" height="150" rx="10" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+  <text x="88" y="80" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5a3d1e">Too big alone?</text>
+  <g font-family="sans-serif" font-size="12" fill="#222222">
+    <text x="88" y="104" text-anchor="middle">&#9679; safety at risk</text>
+    <text x="88" y="126" text-anchor="middle">&#9679; power unequal</text>
+    <text x="88" y="148" text-anchor="middle">&#9679; harm repeats</text>
+    <text x="88" y="170" text-anchor="middle">&#9679; fight stuck</text>
+  </g>
+  <text x="88" y="196" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#8a6d4a">ask for help</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Asking for a mediator is not losing — it is how the hardest conflicts are handled.</text>
+</svg>
