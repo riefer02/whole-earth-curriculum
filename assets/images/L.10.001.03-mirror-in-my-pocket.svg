@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A phone screen like a warped mirror</title>
+  <desc id="desc">A hand holds a phone whose screen reflects a polished, filtered, smiling version of the person back at them, while the real figure beside it looks ordinary and calm — showing how curated online images can skew self-comparison.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- real figure, left -->
+  <circle cx="150" cy="160" r="34" fill="#c68a5a"/>
+  <path d="M122 158 Q134 138 150 156 Q166 138 178 158 L178 172 Q166 180 134 180 Q122 180 122 172 Z" fill="#2b3a42"/>
+  <rect x="120" y="204" width="60" height="100" rx="24" fill="#7a9e7e"/>
+  <text x="150" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#222222">me</text>
+  <!-- phone -->
+  <rect x="290" y="96" width="150" height="240" rx="20" fill="#2b3a42"/>
+  <rect x="302" y="110" width="126" height="212" rx="12" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <!-- reflected, filtered figure in screen -->
+  <circle cx="365" cy="170" r="40" fill="#e0a458"/>
+  <path d="M332 168 Q346 144 365 166 Q384 144 398 168 L398 186 Q384 194 346 194 Q332 194 332 186 Z" fill="#2b3a42"/>
+  <rect x="340" y="210" width="50" height="70" rx="20" fill="#6b93b6"/>
+  <path d="M348 172 L344 152 Q344 142 356 142 Q368 142 368 152 L366 172" fill="none" stroke="#e0a458" stroke-width="4"/>
+  <circle cx="356" cy="196" r="4" fill="#e0a458"/>
+  <circle cx="376" cy="196" r="4" fill="#e0a458"/>
+  <path d="M352 206 Q366 212 380 206" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <!-- sparkles -->
+  <path d="M330 130 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 Z" fill="#e0a458"/>
+  <path d="M396 250 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 Z" fill="#e0a458"/>
+  <!-- hand -->
+  <path d="M330 336 Q330 320 360 320 Q392 320 392 336 L392 350 Q370 362 344 362 Q330 362 330 350 Z" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2.5"/>
+  <!-- dashed link between real and screen -->
+  <path d="M180 200 Q240 230 300 220" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 6"/>
+  <text x="256" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">the screen can bend the mirror</text>
+</svg>

@@ -5581,7 +5581,7 @@ items:
     type: lesson
     grade: 10
     domain: D01
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5593,6 +5593,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate green (1415 files). 12 lessons L.10.001.01-.12 seq no gaps; objectives resolve to real D01.S*.10.* IDs covering all 6; headings present in all 12; unit.md table matches 1:1. L4 empathy with/for distinction cites Batson/Fultz/Schoenrade 1987; faithful Connection; facilitator note flags potentially activating topic and permits 'pass'.
+      fact-checker:
+        verdict: passed
+        note: All 22 cited S-codes resolve to real reviewed:true entries (Barrett S-401, Batson S-230, Tajfel S-232, Steele&Aronson S-284, McAdams S-404, Marcia S-403, Festinger S-221, Gross S-225, Dunlosky S-039, WHO S-311, Britannica S-481, etc.). Highest-risk claims (empathic-concern/personal-distress, emotional contagion online as contested research, constructed-emotion granularity, social construction of identity, stereotype threat, self-directed learning) accurate and hedged as descriptive. Evidence vs values distinguished.
+      global-culture-editor:
+        verdict: passed
+        note: "Framing/representation verified: L2 emotion words span four regions (saudade Portuguese, hiraeth Welsh, mono no aware Japanese, ubuntu Nguni/Bantu) with 'no language richer' guardrail; L6-7 identity constructions hold kinship/clan/caste/craft/faith/language side by side unranked; Western psychology flagged descriptive-not-verdict; non-Western traditions (apprentice's piece, healer's cases, storyteller's stories) in L12; Connections span regions/ways of life. Minor note: ubuntu loosely classed as 'emotion word' in alt-text, not misrepresented in body."
+      accessibility-editor:
+        verdict: passed
+        note: Tiered materials in all 12 lessons; default path paper/journals/cards/worksheets, devices only in enriched. UDL multiple expression (write/record/voice/movement) + pass/invite-never-force safeguards on sensitive topics; plain learner-first language. All 12 assets non-empty alt; 12 SVGs role=img/title/desc, color not sole signal. validate green (1415).
+      alignment-auditor:
+        verdict: passed
+        note: "Four lenses (ethics, egalitarianism, global, technology&environment) in all 12 lessons with per-lens facilitator discussion. Evidence vs values distinguished; all S-codes resolve. Traceability unbroken: lesson->U.10.001->D01.S1/S2/S3->D01->P1->vision; objectives resolve to real D01.S*.10.* IDs. No hierarchy/supremacy (rejects ranking of lives/languages/identities)."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-10 band (15-16): cognitive fit matched (constructed emotion, social/historical identity construction, metacognitive self-directed learning) - all framed descriptive-not-verdict. Emotional safety: invite-never-force, pass always allowed, 'still making sense of it' dignified, facilitators cued for heavy stories; non-coercive, agency-forward. Open-ended questions (identity compared without ranking; position theirs to revise). Physical fit balanced with movement variants. Spiral intact."
   - id: B-384
     title: Author lessons for Unit U.10.002 (Body, Wellness & Movement)
     agent: lesson-author

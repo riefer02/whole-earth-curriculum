@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Identity markers from different times and places</title>
+  <desc id="desc">A row of five figures, each dressed and marked differently to suggest identity constructed in different times and cultures — e.g., a woven-cloth wearer, a musician with a drum, a scholar with a scroll, a farmer, and a modern student with a device — all equal, none above the others.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g>
+    <!-- figure 1 -->
+    <circle cx="72" cy="160" r="26" fill="#8d5a3b"/>
+    <rect x="48" y="192" width="48" height="110" rx="16" fill="#6b93b6"/>
+    <path d="M56 214 L88 214 M56 232 L88 232 M56 250 L88 250" stroke="#2b3a42" stroke-width="3"/>
+    <!-- figure 2 -->
+    <circle cx="176" cy="150" r="26" fill="#c68a5a"/>
+    <rect x="150" y="182" width="52" height="120" rx="18" fill="#7a9e7e"/>
+    <circle cx="176" cy="218" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M176 232 L176 252" stroke="#2b3a42" stroke-width="3"/>
+    <!-- figure 3 -->
+    <circle cx="280" cy="160" r="26" fill="#d9a06b"/>
+    <rect x="254" y="192" width="52" height="110" rx="16" fill="#e0a458"/>
+    <path d="M262 214 Q280 206 298 214 L298 226 L262 226 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M264 232 L296 232" stroke="#2b3a42" stroke-width="3"/>
+    <!-- figure 4 -->
+    <circle cx="384" cy="150" r="26" fill="#8d5a3b"/>
+    <rect x="358" y="182" width="52" height="120" rx="18" fill="#7a9e7e"/>
+    <path d="M366 210 L402 210 L402 250 L366 250 Z" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M374 210 L374 250 M390 210 L390 250" stroke="#2b3a42" stroke-width="2"/>
+    <!-- figure 5 -->
+    <circle cx="460" cy="160" r="26" fill="#c68a5a"/>
+    <rect x="438" y="192" width="44" height="110" rx="16" fill="#4f6d7a"/>
+    <rect x="446" y="212" width="28" height="18" rx="3" fill="#2b3a42"/>
+    <!-- ground line -->
+    <path d="M40 322 L480 322" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">identity looks different across time and place — and none stands above the rest</text>
+  </g>
+</svg>

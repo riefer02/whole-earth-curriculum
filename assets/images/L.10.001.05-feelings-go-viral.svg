@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A feeling spreading through a network</title>
+  <desc id="desc">A network of connected face nodes. One face in the center shows an emotion, and dashed waves ripple outward to the surrounding faces, which begin to show the same emotion — a picture of emotional contagion, how feelings spread person to person, online and offline.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- connecting lines -->
+  <path d="M256 150 L136 96 M256 150 L376 96 M256 150 L96 220 M256 150 L416 220 M256 150 L120 340 M256 150 L392 340 M256 150 L256 392" stroke="#4f6d7a" stroke-width="2.5"/>
+  <!-- ripple waves -->
+  <circle cx="256" cy="150" r="60" fill="none" stroke="#e0a458" stroke-width="3" stroke-dasharray="7 7"/>
+  <circle cx="256" cy="150" r="92" fill="none" stroke="#e0a458" stroke-width="2.5" stroke-dasharray="6 8" opacity="0.7"/>
+  <!-- faces -->
+  <g>
+    <circle cx="256" cy="150" r="30" fill="#e0a458"/>
+    <path d="M240 158 Q256 170 272 158" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="244" cy="144" r="3.5" fill="#2b3a42"/>
+    <circle cx="268" cy="144" r="3.5" fill="#2b3a42"/>
+  </g>
+  <g>
+    <circle cx="136" cy="96" r="26" fill="#c68a5a"/>
+    <path d="M122 102 Q136 112 150 102" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="126" cy="90" r="3" fill="#2b3a42"/>
+    <circle cx="146" cy="90" r="3" fill="#2b3a42"/>
+  </g>
+  <g>
+    <circle cx="376" cy="96" r="26" fill="#8d5a3b"/>
+    <path d="M362 102 Q376 112 390 102" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="366" cy="90" r="3" fill="#2b3a42"/>
+    <circle cx="386" cy="90" r="3" fill="#2b3a42"/>
+  </g>
+  <g>
+    <circle cx="96" cy="220" r="26" fill="#d9a06b"/>
+    <path d="M82 226 Q96 236 110 226" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="86" cy="214" r="3" fill="#2b3a42"/>
+    <circle cx="106" cy="214" r="3" fill="#2b3a42"/>
+  </g>
+  <g>
+    <circle cx="416" cy="220" r="26" fill="#e8c39b"/>
+    <path d="M402 226 Q416 236 430 226" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="406" cy="214" r="3" fill="#2b3a42"/>
+    <circle cx="426" cy="214" r="3" fill="#2b3a42"/>
+  </g>
+  <g>
+    <circle cx="120" cy="340" r="26" fill="#c68a5a"/>
+    <path d="M106 346 Q120 356 134 346" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="110" cy="334" r="3" fill="#2b3a42"/>
+    <circle cx="130" cy="334" r="3" fill="#2b3a42"/>
+  </g>
+  <g>
+    <circle cx="392" cy="340" r="26" fill="#8d5a3b"/>
+    <path d="M378 346 Q392 356 406 346" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="382" cy="334" r="3" fill="#2b3a42"/>
+    <circle cx="402" cy="334" r="3" fill="#2b3a42"/>
+  </g>
+  <g>
+    <circle cx="256" cy="392" r="26" fill="#d9a06b"/>
+    <path d="M242 398 Q256 408 270 398" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="246" cy="386" r="3" fill="#2b3a42"/>
+    <circle cx="266" cy="386" r="3" fill="#2b3a42"/>
+  </g>
+  <text x="256" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">feelings can spread from one person to many</text>
+</svg>

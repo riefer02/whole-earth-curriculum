@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A person standing on their considered position</title>
+  <desc id="desc">A figure stands on a solid labeled platform — 'what defines me' — built from three blocks: my values, my story, and my choices. Other people's expectations float around as empty speech bubbles that do not touch the platform.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- floating expectation bubbles -->
+  <path d="M80 96 C60 96 48 108 48 124 C48 136 56 146 68 150 L62 166 L80 153 C88 155 96 156 102 155 C122 155 134 143 134 127 C134 111 122 99 102 99 C96 99 88 98 80 96 Z" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <path d="M404 80 C388 80 378 90 378 104 C378 114 384 122 394 126 L389 140 L404 129 C411 131 418 132 424 131 C440 131 450 121 450 107 C450 93 440 83 424 83 C418 83 411 82 404 80 Z" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <path d="M430 200 C416 200 408 208 408 220 C408 228 413 234 422 237 L418 248 L430 239 C436 241 442 242 448 241 C462 241 470 233 470 221 C470 209 462 201 448 201 C442 201 436 200 430 200 Z" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <!-- platform blocks -->
+  <rect x="120" y="360" width="80" height="64" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="160" y="386" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222222">my values</text>
+  <text x="160" y="406" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222222">(what I care about)</text>
+  <rect x="216" y="340" width="80" height="84" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="370" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222222">my story</text>
+  <text x="256" y="390" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222222">(where I've come from)</text>
+  <rect x="312" y="360" width="80" height="64" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="352" y="386" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222222">my choices</text>
+  <text x="352" y="406" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222222">(what I do)</text>
+  <text x="256" y="316" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#2b3a42">what defines me</text>
+  <!-- figure standing on platform -->
+  <circle cx="256" cy="180" r="36" fill="#c68a5a"/>
+  <path d="M226 178 Q240 158 256 176 Q272 158 286 178 L286 194 Q272 202 240 202 Q226 202 226 194 Z" fill="#2b3a42"/>
+  <rect x="228" y="214" width="56" height="118" rx="22" fill="#4f6d7a"/>
+  <path d="M238 332 L238 338 M274 332 L274 338" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="244" cy="174" r="4" fill="#fdfbf7"/>
+  <circle cx="268" cy="174" r="4" fill="#fdfbf7"/>
+  <text x="256" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">my position stands on what is mine — not on others' expectations</text>
+</svg>

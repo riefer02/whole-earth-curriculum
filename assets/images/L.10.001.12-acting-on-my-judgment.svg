@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Choosing a path at a fork and acting</title>
+  <desc id="desc">A figure stands at a fork in a path. One branch is labeled 'try alone first', the other 'seek help now'; a signpost shows both lead forward. Ahead, a portfolio folder gathers the work, showing judgment turned into action and gathered learning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- paths -->
+  <path d="M256 330 C256 250 200 240 160 190" fill="none" stroke="#7a9e7e" stroke-width="14" stroke-linecap="round"/>
+  <path d="M256 330 C256 250 312 240 352 190" fill="none" stroke="#7a9e7e" stroke-width="14" stroke-linecap="round"/>
+  <path d="M256 330 C256 360 256 400 256 430" fill="none" stroke="#7a9e7e" stroke-width="14" stroke-linecap="round"/>
+  <!-- signpost -->
+  <rect x="240" y="290" width="32" height="70" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="128" y="270" width="112" height="34" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="184" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#222222">try alone first</text>
+  <rect x="272" y="270" width="112" height="34" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="328" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#222222">seek help now</text>
+  <!-- figure at fork -->
+  <circle cx="256" cy="232" r="30" fill="#8d5a3b"/>
+  <path d="M232 230 Q244 214 256 228 Q268 214 280 230 L280 244 Q268 250 244 250 Q232 250 232 244 Z" fill="#2b3a42"/>
+  <rect x="232" y="258" width="48" height="66" rx="18" fill="#6b93b6"/>
+  <circle cx="246" cy="226" r="3.5" fill="#fdfbf7"/>
+  <circle cx="266" cy="226" r="3.5" fill="#fdfbf7"/>
+  <!-- portfolio folder ahead -->
+  <g transform="translate(216 396)">
+    <rect x="0" y="8" width="80" height="58" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M0 20 L28 20 L36 8 L80 8 L80 24 L0 24 Z" fill="#d9a06b" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M12 40 L68 40" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M12 50 L60 50" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+  <text x="256" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">judgment becomes action — and action becomes my gathered work</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Personal history flowing into a present feeling</title>
+  <desc id="desc">A figure in the present stands on the right. Three small past-scene panels on the left — a home, two friends, and a departure with a suitcase — are linked by dashed lines to a heart in the figure's chest, showing how past experience shapes a present feeling.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- past scene panels -->
+  <rect x="28" y="46" width="128" height="104" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M52 130 L60 96 L88 96 L92 130 Z" fill="#4f6d7a"/>
+  <rect x="60" y="92" width="24" height="14" fill="#7a9e7e"/>
+  <rect x="92" y="72" width="36" height="52" rx="4" fill="#e0a458"/>
+  <path d="M96 72 L98 60 L120 60 L122 72" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="28" y="180" width="128" height="104" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="68" cy="232" r="17" fill="#c68a5a"/>
+  <circle cx="116" cy="236" r="17" fill="#8d5a3b"/>
+  <path d="M52 262 Q92 244 132 262" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M60 234 L72 210 L84 234 M104 238 L116 214 L128 238" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="28" y="314" width="128" height="104" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="62" y="352" width="46" height="30" rx="6" fill="#6b93b6"/>
+  <path d="M70 352 L70 340 Q70 332 78 332 Q86 332 86 340 L86 352" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M44 384 Q92 362 140 384" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M150 200 Q250 130 340 180" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="7 7"/>
+  <path d="M150 240 Q250 200 340 230" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="7 7"/>
+  <path d="M150 360 Q250 330 340 300" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="7 7"/>
+  <!-- present figure -->
+  <circle cx="388" cy="180" r="38" fill="#8d5a3b"/>
+  <path d="M356 178 Q372 158 388 176 Q404 158 420 178 L420 196 Q404 206 372 206 Q356 206 356 196 Z" fill="#2b3a42"/>
+  <rect x="352" y="232" width="72" height="130" rx="28" fill="#4f6d7a"/>
+  <path d="M372 362 L372 400 M404 362 L404 400" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
+  <path d="M340 260 Q364 250 388 262 Q412 250 436 260" fill="none" stroke="#7a9e7e" stroke-width="7" stroke-linecap="round"/>
+  <!-- heart -->
+  <path d="M388 286 C380 274 360 278 360 290 C360 302 388 316 388 316 C388 316 416 302 416 290 C416 278 396 274 388 286 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="388" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">my past flows into what I feel now</text>
+</svg>

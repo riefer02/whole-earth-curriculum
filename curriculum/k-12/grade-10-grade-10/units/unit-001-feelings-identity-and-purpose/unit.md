@@ -65,3 +65,15 @@ question is held as a question.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | The History Under My Feelings | D01.S1.10.01 |
+| 2 | The Words My Culture Gave Me | D01.S1.10.01 |
+| 3 | The Mirror in My Pocket | D01.S1.10.02 |
+| 4 | Feeling With Others, Through a Screen | D01.S1.10.02 |
+| 5 | When Feelings Go Viral | D01.S1.10.02 |
+| 6 | Who Told Me Who I Am? | D01.S2.10.01 |
+| 7 | Identity Across Time and Place | D01.S2.10.01 |
+| 8 | Beyond the Labels | D01.S2.10.02 |
+| 9 | My Considered Position | D01.S2.10.02 |
+| 10 | Authoring My Own Learning | D01.S3.10.01 |
+| 11 | Independent and Connected | D01.S3.10.02 |
+| 12 | Acting on My Judgment | D01.S3.10.01, D01.S3.10.02 |

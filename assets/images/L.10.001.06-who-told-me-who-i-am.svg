@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A person shaped by many surrounding influences</title>
+  <desc id="desc">A central figure is surrounded by six labeled circles — family, peers, media, history, place, and language — each connected by a line. The figure is drawn partly formed, suggesting identity is built in relation to these social and historical forces rather than fixed from birth.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- surrounding influence circles -->
+  <g font-family="Georgia, serif" font-size="15" fill="#2b3a42" text-anchor="middle">
+    <circle cx="120" cy="90" r="52" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="120" y="96" fill="#222222">family</text>
+    <circle cx="392" cy="90" r="52" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="392" y="96" fill="#222222">peers</text>
+    <circle cx="82" cy="260" r="52" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="82" y="266" fill="#222222">media</text>
+    <circle cx="430" cy="260" r="52" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="430" y="266" fill="#222222">history</text>
+    <circle cx="140" cy="420" r="52" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="140" y="426" fill="#222222">place</text>
+    <circle cx="372" cy="420" r="52" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="372" y="426" fill="#222222">language</text>
+  </g>
+  <!-- connecting lines -->
+  <path d="M168 112 L224 190 M344 112 L288 190 M120 252 L224 268 M392 252 L288 268 M176 388 L248 322 M336 388 L264 322" stroke="#4f6d7a" stroke-width="2.5"/>
+  <!-- central figure, partly formed -->
+  <circle cx="256" cy="220" r="40" fill="#c68a5a"/>
+  <path d="M222 218 Q236 196 256 216 Q276 196 290 218 L290 234 Q276 242 236 242 Q222 242 222 234 Z" fill="#2b3a42"/>
+  <rect x="222" y="258" width="68" height="110" rx="26" fill="#7a9e7e" stroke-dasharray="0"/>
+  <path d="M232 258 L232 242 Q232 234 242 234 L270 234 Q280 234 280 242 L280 258" fill="none" stroke="#7a9e7e" stroke-width="4"/>
+  <circle cx="244" cy="214" r="4" fill="#fdfbf7"/>
+  <circle cx="268" cy="214" r="4" fill="#fdfbf7"/>
+  <text x="256" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">who I am is built, in part, by the world around me</text>
+</svg>

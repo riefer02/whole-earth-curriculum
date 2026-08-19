@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Many words for one feeling, across languages</title>
+  <desc id="desc">Four speech bubbles each hold an emotion word from a different language, with a shared glowing heart at the center showing they all name the same felt experience in richer or different ways.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- central heart -->
+  <path d="M256 278 C244 262 218 268 218 284 C218 300 256 320 256 320 C256 320 294 300 294 284 C294 268 268 262 256 278 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <!-- speech bubbles -->
+  <path d="M108 92 C72 92 48 116 48 148 C48 172 64 192 88 200 L76 232 L114 206 C126 210 140 212 156 210 C192 210 216 186 216 154 C216 122 192 96 156 96 C140 96 124 94 108 92 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="132" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">saudade</text>
+  <path d="M404 92 C368 92 344 116 344 148 C344 172 360 192 384 200 L372 232 L410 206 C422 210 436 212 452 210 C488 210 512 186 512 154 C512 122 488 96 452 96 C436 96 420 94 404 92 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="428" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">hiraeth</text>
+  <path d="M96 332 C64 332 44 352 44 380 C44 400 58 418 78 426 L68 452 L100 430 C114 434 128 436 142 434 C174 434 194 414 194 386 C194 358 174 338 142 338 C128 338 114 336 96 332 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="120" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="19" fill="#222222">mono no aware</text>
+  <path d="M400 332 C368 332 348 352 348 380 C348 400 362 418 382 426 L372 452 L404 430 C418 434 432 436 446 434 C478 434 498 414 498 386 C498 358 478 338 446 338 C432 338 418 336 400 332 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="424" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">ubuntu</text>
+  <text x="256" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">my culture gives me words for what I feel</text>
+</svg>

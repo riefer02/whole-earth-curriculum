@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A person larger than the labels attached to them</title>
+  <desc id="desc">A large, whole figure stands in the center. Around them, several small labels — drawn as tags — are peeling away and floating off, showing that the person is more than any single label others attach to them.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- central figure -->
+  <circle cx="256" cy="180" r="44" fill="#8d5a3b"/>
+  <path d="M218 176 Q234 152 256 174 Q278 152 294 176 L294 194 Q278 204 234 204 Q218 204 218 194 Z" fill="#2b3a42"/>
+  <rect x="216" y="222" width="80" height="150" rx="30" fill="#7a9e7e"/>
+  <path d="M228 372 L228 408 M284 372 L284 408" stroke="#2b3a42" stroke-width="8" stroke-linecap="round"/>
+  <path d="M204 250 Q230 240 256 252 Q282 240 308 250" fill="none" stroke="#6b93b6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="240" cy="176" r="5" fill="#fdfbf7"/>
+  <circle cx="272" cy="176" r="5" fill="#fdfbf7"/>
+  <path d="M242 196 Q256 206 270 196" fill="none" stroke="#fdfbf7" stroke-width="3"/>
+  <!-- peeling labels -->
+  <g font-family="Georgia, serif" font-size="15" fill="#222222" text-anchor="middle">
+    <g transform="rotate(-14 120 110)">
+      <rect x="70" y="96" width="100" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+      <text x="120" y="116">too quiet</text>
+    </g>
+    <g transform="rotate(10 400 110)">
+      <rect x="350" y="96" width="104" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+      <text x="402" y="116">not like us</text>
+    </g>
+    <g transform="rotate(8 96 300)">
+      <rect x="44" y="286" width="104" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+      <text x="96" y="306">too much</text>
+    </g>
+    <g transform="rotate(-10 420 300)">
+      <rect x="366" y="286" width="108" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+      <text x="420" y="306">not enough</text>
+    </g>
+  </g>
+  <text x="256" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">I am more than any label someone sticks on me</text>
+</svg>
