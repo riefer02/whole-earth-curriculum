@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Human Activity and Ecosystems</title>
+  <desc id="desc">Three labeled panels showing the three human drivers of ecosystem change — land use with forest cleared, pollution with waste into a river, and an introduced species with a new animal arriving — each with an arrow to a chain of effects.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Three Human Drivers</text>
+
+  <!-- Land use -->
+  <rect x="30" y="66" width="140" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Land use</text>
+  <line x1="70" y1="190" x2="70" y2="130" stroke="#7a9e7e" stroke-width="4"/>
+  <line x1="110" y1="190" x2="110" y2="120" stroke="#7a9e7e" stroke-width="4"/>
+  <line x1="140" y1="190" x2="140" y2="135" stroke="#7a9e7e" stroke-width="4"/>
+  <line x1="150" y1="190" x2="150" y2="150" stroke="#9ab89a" stroke-width="4"/>
+  <line x1="60" y1="190" x2="160" y2="190" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">forest cleared &#8594; habitat lost</text>
+
+  <!-- Pollution -->
+  <rect x="186" y="66" width="140" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Pollution</text>
+  <path d="M200 190 Q210 150 226 150 Q242 150 256 190" fill="none" stroke="#6b93b6" stroke-width="4"/>
+  <rect x="206" y="130" width="40" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="216" y1="150" x2="240" y2="150" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">waste in river &#8594; water poisoned</text>
+
+  <!-- Introduced species -->
+  <rect x="342" y="66" width="140" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Introduced species</text>
+  <line x1="392" y1="150" x2="432" y2="150" stroke="#6b93b6" stroke-width="3" stroke-dasharray="6 4"/>
+  <path d="M440 150 l18 8 l-18 8 z" fill="#6b93b6"/>
+  <ellipse cx="360" cy="178" rx="20" ry="10" fill="#e0a458"/>
+  <text x="412" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">new arrival &#8594; web reshaped</text>
+
+  <!-- Chain of effects -->
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Each sets off a chain of effects</text>
+  <g font-family="sans-serif" font-size="13" fill="#222222">
+    <text x="60" y="288">&#8226; species decline &#8594; food web thins</text>
+    <text x="60" y="312">&#8226; soil erodes; harvests and water change</text>
+    <text x="60" y="336">&#8226; the people closest to the land feel it first</text>
+  </g>
+
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The three drivers are leading causes of biodiversity loss (S-437).</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Who feels the effect first is a fairness question, not just an ecology one.</text>
+</svg>

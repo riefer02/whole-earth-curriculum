@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Mutation: Changes to a DNA Sequence</title>
+  <desc id="desc">A DNA letter sequence with three labeled mutation types shown — substitution with one letter changed, insertion with one letter added, and deletion with one letter removed — each with a short note on typical effect.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Three Kinds of Mutation</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Small changes to the DNA sequence</text>
+
+  <!-- Original -->
+  <text x="60" y="100" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Original:</text>
+  <g font-family="monospace" font-size="17" fill="#222222">
+    <text x="160" y="100">T-A-C-G-G-A-T-C</text>
+  </g>
+
+  <!-- Substitution -->
+  <text x="60" y="160" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Substitution:</text>
+  <g font-family="monospace" font-size="17">
+    <text x="160" y="160" fill="#222222">T-A-C-G-</text>
+    <text x="232" y="160" fill="#e0a458" font-weight="bold">T</text>
+    <text x="246" y="160" fill="#222222">-A-T-C</text>
+  </g>
+  <text x="410" y="160" font-family="sans-serif" font-size="13" fill="#4f6d7a">one letter swapped</text>
+
+  <!-- Insertion -->
+  <text x="60" y="220" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Insertion:</text>
+  <g font-family="monospace" font-size="17">
+    <text x="160" y="220" fill="#222222">T-A-C-G-</text>
+    <text x="232" y="220" fill="#7a9e7e" font-weight="bold">A</text>
+    <text x="246" y="220" fill="#222222">-G-A-T-C</text>
+  </g>
+  <text x="410" y="220" font-family="sans-serif" font-size="13" fill="#4f6d7a">one letter added</text>
+
+  <!-- Deletion -->
+  <text x="60" y="280" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Deletion:</text>
+  <g font-family="monospace" font-size="17">
+    <text x="160" y="280" fill="#222222">T-A-C-G-A-T-C</text>
+  </g>
+  <text x="410" y="280" font-family="sans-serif" font-size="13" fill="#4f6d7a">one letter removed</text>
+
+  <!-- Notes -->
+  <text x="60" y="350" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Effect:</text>
+  <text x="60" y="378" font-family="sans-serif" font-size="14" fill="#222222">Most mutations are neutral &#8212; they change nothing that matters.</text>
+  <text x="60" y="402" font-family="sans-serif" font-size="14" fill="#222222">Some are harmful; a rare few are beneficial.</text>
+  <text x="60" y="430" font-family="sans-serif" font-size="14" fill="#4f6d7a">Insertions and deletions can shift the whole reading frame.</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Mutation is the source of new variation &#8212; life&#8217;s raw material.</text>
+</svg>

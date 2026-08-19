@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Origins as Stories</title>
+  <desc id="desc">A gentle diagram with the scientific model and a cultural or spiritual account placed side by side, both pointing into a shared open circle labeled with the questions they both ask, with no ranking between them.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Origins as Stories</text>
+
+  <!-- Scientific model -->
+  <rect x="30" y="90" width="170" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="115" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Scientific model</text>
+  <g font-family="sans-serif" font-size="13" fill="#222222">
+    <text x="115" y="150" text-anchor="middle">answers &#8220;how?&#8221;</text>
+    <text x="115" y="174" text-anchor="middle">grounded in evidence</text>
+    <text x="115" y="198" text-anchor="middle">testable, revisable</text>
+  </g>
+
+  <!-- Cultural / spiritual -->
+  <rect x="312" y="90" width="170" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="397" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Cultural &#038; spiritual</text>
+  <g font-family="sans-serif" font-size="13" fill="#222222">
+    <text x="397" y="150" text-anchor="middle">answers &#8220;what does it mean?&#8221;</text>
+    <text x="397" y="174" text-anchor="middle">grounded in tradition</text>
+    <text x="397" y="198" text-anchor="middle">gives meaning, belonging</text>
+  </g>
+
+  <!-- Arrows to shared circle -->
+  <line x1="200" y1="165" x2="245" y2="340" stroke="#6b93b6" stroke-width="2"/>
+  <line x1="312" y1="165" x2="267" y2="340" stroke="#6b93b6" stroke-width="2"/>
+
+  <!-- Shared circle -->
+  <circle cx="256" cy="380" r="80" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Where did we</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">come from?</text>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">held side by side</text>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Different answers to different questions &#8212; no ranking, only respect.</text>
+</svg>

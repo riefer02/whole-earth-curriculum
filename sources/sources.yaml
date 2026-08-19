@@ -882,7 +882,7 @@ sources:
     type: website
     url: https://www.eia.gov/kids/energy-sources/renewable/
     organization: U.S. Energy Information Administration (EIA)
-    domains: [D10]
+    domains: [D10, D06]
     reviewed: true
     notes: "Cited in U.03.011 L07 (Runs Out or Comes Back) for the nonrenewable ('runs out') vs renewable ('comes back') resource distinction. URLs verified live (2026-08-17): the 'Renewable' page states 'Renewable energy is energy from sources that are naturally replenishing but flow-limited; renewable resources are virtually inexhaustible' and lists fossil fuels (coal, petroleum, natural gas) as the contrast; the companion 'Coal' page (https://www.eia.gov/kids/energy-sources/coal/) states 'Coal is classified as a nonrenewable energy source because it takes millions of years to form. Coal contains the energy stored by plants that lived hundreds of millions of years ago.' Directly supports the lesson's claims that coal/oil are made over millions of years and can be used up, while sunlight/wind/water keep coming back. Metal (a mineral resource) is grouped with these in the standard elementary 'nonrenewable' framing (mineral ores form over geological time and are not replenished in a human lifetime). US-centric source; treated as one authoritative, age-appropriate reference, not the only tradition."
 
@@ -1146,7 +1146,7 @@ sources:
     type: website
     url: https://www.who.int/health-topics/climate-change
     organization: World Health Organization
-    domains: [D03, D10]
+    domains: [D03, D10, D06]
     reviewed: true
     notes: "Cited in U.04.008 L07 (Safe in Weather and Storms) for heat and cold health guidance (hydration, shade, layering). URL verified live (2026-08-17); covers heat-related health guidance generally; cold/layering is standard, loosely covered."
 
@@ -1991,7 +1991,7 @@ sources:
     type: website
     url: https://www.unep.org/plastic-pollution
     organization: United Nations Environment Programme (UNEP)
-    domains: [D10]
+    domains: [D10, D06]
     reviewed: true
     notes: "Cited in U.05.012 L08 (plastic's path from land to rivers to oceans and harm to wildlife; the reduce-waste ladder refuse/reuse/recycle/clean-up) and L09 (sustainable/careful resource use). URL verified live (2026-08-17): the UNEP plastic-pollution page states 'Plastic pollution poses a global challenge' and that UNEP 'works to reduce plastic pollution and its impacts,' framing the move to a circular economy. Plastic entering rivers and oceans and harming marine life via ingestion/entanglement is UNEP's core, well-documented message (also see the already-registered National Geographic Kids plastic article, S-066). Supports the lesson's land→river→ocean→animal pathway and its refuse/reuse/recycle/clean-up actions; the stewardship-and-hope framing is held as a value, distinct from the factual pathway."
 
@@ -2019,16 +2019,16 @@ sources:
     url: https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health
     organization: World Health Organization (WHO)
     year: 2025
-    domains: [D10]
+    domains: [D10, D06]
     reviewed: true
-    notes: "Cited in U.05.012 L08 for air pollution from burning trash/fuels harming lungs, with cleaner stoves as the fix. URL verified live (2026-08-17; page dated 16 Dec 2025): states 'Around 2.1 billion people worldwide ... cook using open fires or inefficient stoves fuelled by kerosene, biomass (wood, animal dung and crop waste) and coal, which generates harmful household air pollution', that such pollution 'inflame[s] the airways and lungs' and leads to stroke, ischaemic heart disease, COPD, and lung cancer, and that clean fuels/stoves and cleaner technologies reduce it. Directly supports the lesson's air-pollution pathway (burning fuels → smoke harms lungs) and its 'burn less, use cleaner stoves' action."
+    notes: "Cited in U.05.012 L08 for air pollution from burning trash/fuels harming lungs, with cleaner stoves as the fix. URL verified live (2026-08-17; page dated 16 Dec 2025): states 'Around 2.1 billion people worldwide ... cook using open fires or inefficient stoves fuelled by kerosene, biomass (wood, animal dung and crop waste) and coal, which generates harmful household air pollution', that such pollution 'inflame[s] the airways and lungs' and leads to stroke, ischaemic heart disease, COPD, and lung cancer, and that clean fuels/stoves and cleaner technologies reduce it. Directly supports the lesson's air-pollution pathway (burning fuels → smoke harms lungs) and its 'burn less, use cleaner stoves' action. Also cited in U.10.006 L12 (Energy Trade-Offs) for the claim that household air pollution from cooking fuels harms millions of people."
 
   - id: S-220
     title: FAO — Forestry (forests as habitat; deforestation)
     type: website
     url: https://www.fao.org/forestry/en/
     organization: Food and Agriculture Organization of the United Nations (FAO)
-    domains: [D10]
+    domains: [D10, D06]
     reviewed: true
     notes: "Cited in U.05.012 L08 for deforestation-driven habitat loss (animals lose their homes). URL verified live (2026-08-17): the FAO Forestry page states 'Forests cover 31 percent of the world's land and are fundamental to life on our planet. Home to more than half of the world's land animal and plant species...' This directly supports the lesson's claim that clearing forests removes animal habitat; the 'plant native trees, use less paper, protect reserves' actions are standard, accurate conservation measures. (The earlier cited fao.org/state-of-forests/en returned 404; the live FAO Forestry hub is the correct canonical page.)"
 
@@ -2795,7 +2795,7 @@ sources:
     type: website
     url: https://www.britannica.com/science/probability
     organization: Encyclopaedia Britannica
-    domains: [D05]
+    domains: [D05, D06]
     reviewed: true
     notes: "Cited in U.07.005 L14 (the careful study of chance began with gamblers' questions in 17th-century Europe, answered by Pascal and Fermat). URL verified live (2026-08-18). The Britannica 'probability and statistics' article includes an 'Early probability' and 'Games of chance' section covering the 17th-century Pascal–Fermat correspondence (1654) on the problem of points as the origin of the mathematical theory of probability. Supports the lesson's claim."
 
@@ -4519,9 +4519,9 @@ sources:
     type: website
     url: https://web.archive.org/web/2024/https://www.epa.gov/environmentaljustice
     organization: U.S. Environmental Protection Agency
-    domains: [D10]
+    domains: [D10, D06]
     reviewed: true
-    notes: "Canonical source of the formal U.S. definition of environmental justice. Fact-checker verified (2026-08-19): the live URL https://www.epa.gov/environmentaljustice now returns HTTP 404 (the EPA removed its environmental-justice pages in 2025), so the citation is preserved via the Internet Archive, which returns HTTP 200. The archived page states: 'Environmental justice means the just treatment and meaningful involvement of all people, regardless of income, race, color, national origin, Tribal affiliation, or disability, in agency decision-making and other Federal activities that affect human health and the environment.' The lesson's paraphrase ('the fair treatment of all people in environmental decisions') is a faithful rendering of the long-standing EPA definition. US-centric, so the lesson pairs it with the IPCC (S-005) for the global uneven-burden facts and treats the definition as one widely used framing, not the only tradition."
+    notes: "Canonical source of the formal U.S. definition of environmental justice. Fact-checker verified (2026-08-19): the live URL https://www.epa.gov/environmentaljustice now returns HTTP 404 (the EPA removed its environmental-justice pages in 2025), so the citation is preserved via the Internet Archive, which returns HTTP 200. The archived page states: 'Environmental justice means the just treatment and meaningful involvement of all people, regardless of income, race, color, national origin, Tribal affiliation, or disability, in agency decision-making and other Federal activities that affect human health and the environment.' The lesson's paraphrase ('the fair treatment of all people in environmental decisions') is a faithful rendering of the long-standing EPA definition. US-centric, so the lesson pairs it with the IPCC (S-005) for the global uneven-burden facts and treats the definition as one widely used framing, not the only tradition. Also cited in U.10.006 L12 (Energy Trade-Offs) for the term 'environmental justice' in the energy-burden-falls-unevenly framing."
 
   - id: S-484
     title: "Bullard (1990) — Dumping in Dixie: Race, Class, and Environmental Quality"
@@ -4559,3 +4559,22 @@ sources:
     domains: [D02]
     reviewed: true
     notes: "First-party source for Mondragón as a real, large federation of worker cooperatives, cited in U.10.003 L12 (Co-ops and Mutual Aid Around the World) alongside the ICA (S-486) as primary references. Fact-checker verified live (2026-08-19): mondragon-corporation.com returns HTTP 200. The corporate site locates Mondragón in Mondragón (Gipuzkoa), Basque Country, Spain (Paseo José María Arizmendiarrieta, 5), and reports ~70,000 people ('70.000 PERSONAS') and sales in over 150 countries, organized across finance, industry, distribution, and knowledge (and its 'Cooperativas' section). This confirms the lesson's claim that Mondragón is a worker-cooperative federation in the Basque Country and a widely documented example of cooperative ownership; the lesson describes it as an example to check against first-party detail rather than citing a specific statistic."
+
+  - id: S-488
+    title: "Wikipedia — 2011 OPERA faster-than-light neutrino anomaly"
+    type: website
+    url: https://en.wikipedia.org/wiki/Faster-than-light_neutrino_anomaly
+    organization: Wikipedia (Wikimedia Foundation)
+    year: 2011
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.10.006 L03 (Why We Trust Science) for the 2011 OPERA faster-than-light neutrino claim and its correction by open sharing, replication, and scrutiny. Fact-checker verified live (2026-08-19): the Wikipedia article '2011 OPERA faster-than-light neutrino anomaly' (redirect from 'Faster-than-light neutrino anomaly') states that in 2011 the OPERA experiment mistakenly observed muon neutrinos appearing to travel faster than light (a result that would violate special relativity); that OPERA shared the result openly and invited independent scrutiny — CERN spokesperson James Gillies said the team was 'inviting the broader physics community to look at what they [had] done... and ideally for someone elsewhere in the world to repeat the measurements'; that the collaboration submitted the result for peer-reviewed publication (Journal of High Energy Physics); that in February 2012 OPERA announced two error sources, one being 'a link from a GPS receiver to the OPERA master clock was loose' (a loose fiber-optic cable); and that by June/July 2012 (ICARUS, MINOS, LVD, BOREXINO) the anomaly was refuted and neutrino speed found consistent with light. Supports the lesson's faithful retelling: announced 2011, checked openly, corrected within months via a loose fiber-optic cable, and 'physics stood.'"
+
+  - id: S-489
+    title: "Understanding Science (UC Museum of Paleontology) — How science works: peer review & replication"
+    type: website
+    url: https://undsci.berkeley.edu/understanding-science-101/how-science-works/scrutinizing-science-peer-review/
+    organization: University of California Museum of Paleontology (Berkeley)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.10.006 L03 for the claim that peer review, replication, and open scrutiny are the social safeguards that make scientific knowledge trustworthy and self-correcting. Fact-checker verified live (2026-08-19): the Understanding Science 'Scrutinizing science: Peer review' page (part of the 'How science works' section) states that peer-reviewed journals publish work 'vetted by experts in the relevant field,' that 'peer-reviewed work isn't necessarily correct or conclusive, but it does meet the standards of science,' and that once published 'science must deal with it somehow — perhaps by... figuring out why it is wrong, or trying to replicate its results.' The sibling pages 'Copycats in science: The role of replication' and 'Scientific scrutiny' cover replication and self-correction. Supports the lesson's three-safeguards framing (peer review filters, replication tests, openness lets outsiders check — and each can fall short)."

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Energy Generation: Renewable and Nonrenewable</title>
+  <desc id="desc">Two columns of labeled energy sources — nonrenewable (coal, oil, natural gas, nuclear) and renewable (solar, wind, hydro, geothermal, biomass) — each with an arrow into a turbine or panel and the word electricity.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Where Electricity Comes From</text>
+
+  <!-- Nonrenewable column -->
+  <text x="130" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458" font-weight="bold">Nonrenewable (runs out)</text>
+  <rect x="40" y="82" width="180" height="180" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <text x="56" y="112">&#8226; coal</text>
+    <text x="56" y="136">&#8226; oil</text>
+    <text x="56" y="160">&#8226; natural gas</text>
+    <text x="56" y="184">&#8226; nuclear (fission)</text>
+  </g>
+  <text x="130" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">burn or split &#8594; heat &#8594; steam</text>
+
+  <!-- Renewable column -->
+  <text x="386" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#7a9e7e" font-weight="bold">Renewable (comes back)</text>
+  <rect x="292" y="82" width="180" height="180" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <text x="308" y="112">&#8226; solar</text>
+    <text x="308" y="136">&#8226; wind</text>
+    <text x="308" y="160">&#8226; hydro</text>
+    <text x="308" y="184">&#8226; geothermal, biomass</text>
+  </g>
+  <text x="386" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">sun, wind, water, heat &#8594; motion</text>
+
+  <!-- Shared machine -->
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">The shared machine</text>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <text x="256" y="336" text-anchor="middle">turbine spins &#8594; generator turns</text>
+    <text x="256" y="358" text-anchor="middle">&#8594; magnets in a coil &#8594; electricity</text>
+  </g>
+  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Solar panels push electrons directly &#8212; no turbine needed.</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Energy is never created or destroyed &#8212; only converted (S-256).</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Gene Expression and the Environment</title>
+  <desc id="desc">Two panels showing identical plants grown in sun and shade with the same labeled gene switches, some turned on in the sun and some off in the shade, producing different shapes — genotype versus environment and phenotype.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Same Genes, Different Environment</text>
+
+  <!-- Sun panel -->
+  <text x="130" y="68" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e0a458" font-weight="bold">Grown in sun</text>
+  <rect x="40" y="90" width="180" height="230" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="90" cy="80" r="20" fill="#e0a458"/>
+  <rect x="112" y="300" width="10" height="20" fill="#7a9e7e"/>
+  <rect x="70" y="230" width="16" height="80" rx="3" fill="#7a9e7e"/>
+  <ellipse cx="78" cy="235" rx="26" ry="16" fill="#7a9e7e"/>
+  <ellipse cx="78" cy="205" rx="20" ry="13" fill="#7a9e7e"/>
+  <text x="130" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">short, sturdy, green</text>
+
+  <!-- Shade panel -->
+  <text x="386" y="68" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Grown in shade</text>
+  <rect x="292" y="90" width="180" height="230" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="382" cy="80" r="20" fill="#4f6d7a"/>
+  <rect x="372" y="300" width="10" height="20" fill="#7a9e7e"/>
+  <rect x="334" y="180" width="14" height="130" rx="3" fill="#9ab89a"/>
+  <ellipse cx="341" cy="185" rx="18" ry="11" fill="#9ab89a"/>
+  <text x="386" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">tall, pale, reaching</text>
+
+  <!-- Switches -->
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">The gene &#8220;switches&#8221;</text>
+  <g font-family="sans-serif" font-size="13">
+    <rect x="90" y="392" width="150" height="34" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="165" y="414" text-anchor="middle" fill="#222222">pigment: ON</text>
+    <rect x="290" y="392" width="150" height="34" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="365" y="414" text-anchor="middle" fill="#222222">stretch: ON</text>
+  </g>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Genotype is the instructions; phenotype is the result.</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The environment turns genes on and off &#8212; this is gene expression.</text>
+</svg>

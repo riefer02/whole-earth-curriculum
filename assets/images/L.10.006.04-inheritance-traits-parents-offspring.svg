@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Punnett Square: Inheritance of a Trait</title>
+  <desc id="desc">A labeled two-by-two Punnett square for a monohybrid cross of two heterozygous parents carrying alleles P and p, showing the four offspring boxes and the resulting three-to-one phenotype ratio.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Punnett Square</text>
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Crossing two heterozygous parents (Pp &#215; Pp)</text>
+
+  <!-- Grid -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <rect x="150" y="120" width="220" height="220"/>
+    <line x1="260" y1="120" x2="260" y2="340"/>
+    <line x1="150" y1="230" x2="370" y2="230"/>
+  </g>
+
+  <!-- Parent alleles -->
+  <text x="205" y="105" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">P</text>
+  <text x="315" y="105" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">p</text>
+  <text x="125" y="182" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">P</text>
+  <text x="125" y="292" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">p</text>
+  <text x="60" y="286" font-family="sans-serif" font-size="12" fill="#4f6d7a">one parent</text>
+  <text x="180" y="80" font-family="sans-serif" font-size="12" fill="#4f6d7a">other parent</text>
+
+  <!-- Offspring -->
+  <text x="205" y="188" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#7a9e7e" font-weight="bold">PP</text>
+  <text x="315" y="188" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#7a9e7e" font-weight="bold">Pp</text>
+  <text x="205" y="298" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#7a9e7e" font-weight="bold">Pp</text>
+  <text x="315" y="298" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#e0a458" font-weight="bold">pp</text>
+
+  <!-- Ratio -->
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Genotype ratio: 1 PP : 2 Pp : 1 pp</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Phenotype ratio: 3 purple : 1 white</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The white trait can skip a generation, carried silently as p.</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Each parent passes one allele; the square lists every combination.</text>
+</svg>

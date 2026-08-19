@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Why We Trust Science</title>
+  <desc id="desc">A central claim with three labeled safeguards around it — peer review, replication, and open sharing — each with an arrow feeding back into the claim, and a note where each safeguard can fall short.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Three Safeguards of Trust</text>
+
+  <!-- Central claim -->
+  <ellipse cx="256" cy="256" rx="80" ry="46" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">A claim</text>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">about the world</text>
+
+  <!-- Peer review -->
+  <rect x="40" y="90" width="150" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="115" y="124" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Peer review</text>
+  <text x="115" y="146" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">experts check</text>
+  <text x="115" y="162" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">can miss bias</text>
+  <line x1="150" y1="170" x2="210" y2="238" stroke="#6b93b6" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Replication -->
+  <rect x="322" y="90" width="150" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="397" y="124" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Replication</text>
+  <text x="397" y="146" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">others redo it</text>
+  <text x="397" y="162" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">slow, under-rewarded</text>
+  <line x1="362" y1="170" x2="302" y2="238" stroke="#6b93b6" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Open sharing -->
+  <rect x="40" y="360" width="150" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="115" y="394" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Open sharing</text>
+  <text x="115" y="416" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">anyone can check</text>
+  <text x="115" y="432" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">paywalls block it</text>
+  <line x1="150" y1="360" x2="210" y2="274" stroke="#6b93b6" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Fix / self-correct -->
+  <rect x="322" y="360" width="150" height="80" rx="8" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="397" y="394" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Self-corrects</text>
+  <text x="397" y="416" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">errors get caught</text>
+  <text x="397" y="432" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">and retracted</text>
+  <line x1="362" y1="360" x2="302" y2="274" stroke="#6b93b6" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#6b93b6"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Trust is earned by checking, not by loud assertion.</text>
+</svg>

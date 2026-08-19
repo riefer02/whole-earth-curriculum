@@ -74,3 +74,18 @@ are held as stories grounded in evidence, among many others — never as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.10.006.01 | Reading Data: Mean and Range | D06.S1.10.01 |
+| L.10.006.02 | Trend: How Well Does the Data Support the Conclusion? | D06.S1.10.01 |
+| L.10.006.03 | Why We Trust Science: Peer Review, Replication, Open Sharing | D06.S1.10.02 |
+| L.10.006.04 | Inheritance: How Traits Travel from Parents to Offspring | D06.S2.10.01 |
+| L.10.006.05 | Mutation: Where New Variation Comes From | D06.S2.10.01 |
+| L.10.006.06 | Gene Expression: How the Environment Shapes What Genes Do | D06.S2.10.01 |
+| L.10.006.07 | Human Activity and Ecosystems: Land Use, Pollution, Introduced Species | D06.S2.10.02 |
+| L.10.006.08 | Evaluating Responses to Ecosystem Harm | D06.S2.10.02 |
+| L.10.006.09 | Force and Work: A Quantitative Language for Motion | D06.S3.10.01 |
+| L.10.006.10 | Power and Momentum: Rates, Motion, and Collisions | D06.S3.10.01 |
+| L.10.006.11 | Energy Generation: Renewable and Nonrenewable | D06.S3.10.02 |
+| L.10.006.12 | Energy Trade-Offs: Environmental and Social | D06.S3.10.02 |
+| L.10.006.13 | The Big Bang Model and Its Evidence | D06.S4.10.01 |
+| L.10.006.14 | Human Impacts on Earth Systems and Responses | D06.S4.10.02 |
+| L.10.006.15 | Origins as Stories: Model, Evidence, and Many Ways of Knowing | D06.S4.10.01, D06.S4.10.02 |

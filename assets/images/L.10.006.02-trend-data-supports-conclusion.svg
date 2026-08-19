@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Trend: Reading How Well Data Support a Conclusion</title>
+  <desc id="desc">Two scatter plots side by side — one with a clear upward trend and a fitted line, one noisy with a weak line — each labeled with whether the data strongly or weakly support a conclusion.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Reading a Trend</text>
+
+  <!-- Left plot: clear upward trend -->
+  <text x="130" y="66" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Clear trend</text>
+  <line x1="40" y1="380" x2="40" y2="100" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="40" y1="380" x2="220" y2="380" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="50" y1="360" x2="200" y2="120" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="60" cy="345" r="6" fill="#6b93b6"/>
+  <circle cx="80" cy="330" r="6" fill="#6b93b6"/>
+  <circle cx="100" cy="310" r="6" fill="#6b93b6"/>
+  <circle cx="120" cy="280" r="6" fill="#6b93b6"/>
+  <circle cx="140" cy="250" r="6" fill="#6b93b6"/>
+  <circle cx="160" cy="220" r="6" fill="#6b93b6"/>
+  <circle cx="180" cy="170" r="6" fill="#6b93b6"/>
+  <circle cx="200" cy="140" r="6" fill="#6b93b6"/>
+  <text x="130" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Points hug the line</text>
+  <text x="130" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e" font-weight="bold">Strong support</text>
+
+  <!-- Right plot: noisy, weak -->
+  <text x="386" y="66" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Noisy / weak</text>
+  <line x1="292" y1="380" x2="292" y2="100" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="292" y1="380" x2="472" y2="380" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="300" y1="270" x2="460" y2="230" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <circle cx="310" cy="160" r="6" fill="#6b93b6"/>
+  <circle cx="330" cy="340" r="6" fill="#6b93b6"/>
+  <circle cx="350" cy="220" r="6" fill="#6b93b6"/>
+  <circle cx="370" cy="300" r="6" fill="#6b93b6"/>
+  <circle cx="390" cy="140" r="6" fill="#6b93b6"/>
+  <circle cx="410" cy="320" r="6" fill="#6b93b6"/>
+  <circle cx="430" cy="200" r="6" fill="#6b93b6"/>
+  <circle cx="450" cy="280" r="6" fill="#6b93b6"/>
+  <text x="386" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Points scatter widely</text>
+  <text x="386" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458" font-weight="bold">Weak support</text>
+
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Check: direction, tightness, sample size — and whether the claim overreaches.</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Correlation is not causation.</text>
+</svg>

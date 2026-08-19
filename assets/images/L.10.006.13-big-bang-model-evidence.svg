@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Big Bang Model and Its Evidence</title>
+  <desc id="desc">A timeline of the universe expanding from a hot dense early state through the first atoms, the cosmic microwave background, the first stars, and galaxies, with the three lines of evidence — redshift, cosmic microwave background, and light elements — labeled along the way.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Big Bang Model</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Expanding from a hot, dense state &#8764;13.8 billion years ago</text>
+
+  <!-- Timeline arrow -->
+  <line x1="50" y1="420" x2="470" y2="420" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M470 420 l-16 -8 l0 16 z" fill="#2b3a42"/>
+  <text x="470" y="448" text-anchor="end" font-family="sans-serif" font-size="13" fill="#4f6d7a">time &#8594;</text>
+
+  <!-- Hot dense state -->
+  <circle cx="90" cy="420" r="16" fill="#e0a458"/>
+  <text x="90" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">hot, dense start</text>
+
+  <!-- First atoms -->
+  <g fill="#6b93b6">
+    <circle cx="200" cy="420" r="8"/>
+    <circle cx="224" cy="404" r="8"/>
+    <circle cx="216" cy="430" r="8"/>
+  </g>
+  <text x="214" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">first atoms (H, He)</text>
+
+  <!-- CMB -->
+  <text x="320" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" font-weight="bold">CMB afterglow</text>
+  <path d="M296 420 Q320 380 344 420" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+
+  <!-- First stars and galaxies -->
+  <circle cx="410" cy="420" r="6" fill="#e0a458"/>
+  <circle cx="432" cy="398" r="5" fill="#e0a458"/>
+  <circle cx="444" cy="424" r="5" fill="#e0a458"/>
+  <text x="428" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">stars, galaxies</text>
+
+  <!-- Evidence list -->
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Three lines of evidence</text>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <text x="80" y="128">1. Redshift &#8212; galaxies moving apart</text>
+    <text x="80" y="154">2. Cosmic microwave background</text>
+    <text x="80" y="180">3. Light elements &#8212; mostly H and He</text>
+  </g>
+
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Each is an observation the model predicted &#8212;</text>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">which is what makes a model strong.</text>
+
+  <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">A model, not a revealed truth</text>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Testable, revisable, grounded in evidence anyone can check.</text>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Held as one story among many &#8212; never as dogma.</text>
+</svg>
