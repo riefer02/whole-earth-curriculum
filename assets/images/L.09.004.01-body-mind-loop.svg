@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The two-way body–mind loop</title>
+  <desc id="desc">A diagram with two boxes: "body state" on the left listing heart rate, breath, muscle tension, gut signals, and hormones, and "mood and thinking" on the right. Two curved arrows run between them, one labeled "body shapes mind" and the other "mind shapes body". Below, a worked example shows a tired, unfed body leading to a flat, irritable mood and negative thinking, and a slow exhale leading back toward calm.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">The Body–Mind Loop</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Feeling and thinking are built in and with the body — it runs both ways.</text>
+
+  <!-- body state box -->
+  <rect x="28" y="92" width="180" height="178" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="118" y="120" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Body state</text>
+  <text x="118" y="146" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">heart rate</text>
+  <text x="118" y="166" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">breathing</text>
+  <text x="118" y="186" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">muscle tension</text>
+  <text x="118" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">gut signals</text>
+  <text x="118" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">hormones</text>
+  <text x="118" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(felt as interoception)</text>
+
+  <!-- mood and thinking box -->
+  <rect x="304" y="92" width="180" height="178" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="394" y="120" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Mood &amp; thinking</text>
+  <text x="394" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">calm or anxious</text>
+  <text x="394" y="170" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">open or narrow</text>
+  <text x="394" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">kind or harsh</text>
+  <text x="394" y="210" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">clear or foggy</text>
+  <text x="394" y="230" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">what I believe</text>
+  <text x="394" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(shapes what I notice)</text>
+
+  <!-- arrows -->
+  <path d="M304 140 C 256 140 256 118 208 118" fill="none" stroke="#8a5318" stroke-width="3"/>
+  <path d="M300 160 C 252 160 252 180 208 180" fill="none" stroke="#3d6484" stroke-width="3"/>
+  <polygon points="208,112 196,118 208,124" fill="#8a5318"/>
+  <polygon points="212,180 200,180 212,172" fill="#3d6484"/>
+  <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#8a5318">body shapes mind</text>
+  <text x="256" y="176" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#3d6484">mind shapes body</text>
+
+  <!-- worked example -->
+  <rect x="28" y="300" width="456" height="188" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="44" y="326" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Worked example</text>
+  <text x="44" y="352" font-family="sans-serif" font-size="13" fill="#222222">Bad sleep + no breakfast &#8594; heavy eyelids, low energy &#8594; flat,</text>
+  <text x="44" y="370" font-family="sans-serif" font-size="13" fill="#222222">irritable mood &#8594; &#8220;that comment was an insult; today is pointless.&#8221;</text>
+  <path d="M44 390 L468 390" stroke="#7a9e7e" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="44" y="414" font-family="sans-serif" font-size="13" fill="#222222">One slow exhale + a little food &#8594; shoulders drop &#8594; same comment</text>
+  <text x="44" y="432" font-family="sans-serif" font-size="13" fill="#222222">now reads as ordinary &#8594; &#8220;the day looks manageable.&#8221;</text>
+  <text x="44" y="458" font-family="sans-serif" font-size="12" fill="#4f6d7a">The facts did not change — the body state I thought from did.</text>
+</svg>

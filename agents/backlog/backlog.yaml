@@ -5174,7 +5174,7 @@ items:
     type: lesson
     grade: 9
     domain: D03
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5186,6 +5186,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1305 files). 8 lessons L.09.004.01-.08, sequence 1-8 no gaps; objectives resolve only to six grade-9 D03 IDs (D03.S1.09.01/.02, S2.09.01/.02, S3.09.01/.02); unit.md 8 rows matching; scope lesson_count=8; 8 SVGs + alt. Observation: L3 objective D03.S1.09.02 quoted verbatim; weight-neutral throughout (L5 goals 'never target weight/size/appearance'); Connection concrete (L1 heart pounded/stomach churned); sourced claims."
+      fact-checker:
+        verdict: passed
+        note: "Verified 6 new sources S-406-S-411 (Damasio somatic marker hedged as one respected story; Tylka 2015 DOI live; Mikkelsen 2017 DOI live, endorphins/monoamines/BDNF hedged; FAO SOFI 2024 733M hunger 2023 + 2.33B insecurity; UNEP 1.05B tonnes = 19% wasted 2022; NEDA body image), marked reviewed:true. Fix: L8 misattributed hunger figures to S-410 -> corrected to S-409 FAO. 8 SVGs original+accurate. validate green (1305 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Body-image framing cross-cultural (beauty standards local/shifting/imported with power, no single ideal imposed, positivity+neutrality both valid). Movement traditions: L5 added tai chi/capoeira/kalaripayattu, L6 added yoga/tai chi/capoeira/wrestling — no single Western sport default. Food systems use rice staple + market-agnostic stages; L8 counters blame-Global-South (hunger = failure of access/fairness not food scarcity; bans shaming poverty). Weight-neutral; WHO Healthy diet not regional diet. validate green (1305 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier all 8; alt text on all 8. Movement L5/L6 no ableist assumptions ('walk or roll', goals fit any body/ability, missed week = information not verdict, seated/rolling/adapted options). L1/L2 name interoception differences (no way more legitimate). L7/L8 verbal/tactile alternatives. Fix: SVG color contrast — darkened amber #e0a458->#8a5318, blue #6b93b6->#3d6484, green #7a9e7e->#3f6b4a (all >=5:1) in L1/2/3/7/8. validate green (1305 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: 8 lessons resolve objectives to real grade-9 D03 IDs (D03.S1.09.01/.02, S2.09.01/.02, S3.09.01/.02); chain D03->P2->vision; unit.md 8 rows match. Four lenses: ethics/egalitarianism all 8 (weight-neutral, all-bodies, no shaming); global throughout (tai chi/capoeira/kalaripayattu/yoga/wrestling, rice staple, local beauty standards); tech&environment L1/L3/L5/L7/L8. Evidence vs values explicit (L3/L7/L8, hedged science, L6 well-supported vs oversold). Sources reviewed:true. validate green (1305 files). No fixes."
+      child-psychologist:
+        verdict: passed
+        note: "L1-L2 interoception neurodivergent-safe (bodies signal differently, not a deficit, never grades calm). L3-L4 media body-image decode-not-absorb, no appearance/weight goals, sharing optional. L5 movement goals airtight weight-neutral ('goal to shrink a body is not wellness, it is harm'), function/feeling/skill only, ability-inclusive, mastery-not-ranking. L8 hunger as access/fairness failure not blame, no shaming poverty. Cognitive fit systems-level + hedged; multi-modal. validate green (1305 files). Non-blocking: (1) L6 cites S-409 in facilitator note but S-409 not in L6 Resources (orphaned ref); (2) L8 home-connection could use a one-line sensitivity note for food-insecure learners."
   - id: B-373
     title: Author lessons for Unit U.09.005 (Relationships, Empathy & Community)
     agent: lesson-author

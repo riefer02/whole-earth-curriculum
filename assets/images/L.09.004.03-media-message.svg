@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Decode the message</title>
+  <desc id="desc">A worksheet with a central frame representing a body-image message, surrounded by four question boxes with simple icons: Who made it? What does it want? What is left out? How does it make me feel about my body? A note below separates claim from value.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Decode the Message</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A message is never neutral — it has a maker and a purpose.</text>
+
+  <!-- central image frame -->
+  <rect x="176" y="176" width="160" height="160" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="256" cy="246" r="34" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M200 300 Q256 266 312 300 L312 336 L200 336 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the message</text>
+
+  <!-- question 1 -->
+  <rect x="28" y="84" width="128" height="76" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.6"/>
+  <circle cx="50" cy="106" r="9" fill="#3f6b4a"/>
+  <text x="50" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fdfbf7">1</text>
+  <text x="146" y="106" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">Who made it?</text>
+  <text x="92" y="130" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">a company, an</text>
+  <text x="92" y="144" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">influencer, a peer</text>
+
+  <!-- question 2 -->
+  <rect x="356" y="84" width="128" height="76" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.6"/>
+  <circle cx="378" cy="106" r="9" fill="#3f6b4a"/>
+  <text x="378" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fdfbf7">2</text>
+  <text x="474" y="106" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">What does it want?</text>
+  <text x="420" y="130" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">me to think, feel,</text>
+  <text x="420" y="144" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">or buy something</text>
+
+  <!-- question 3 -->
+  <rect x="28" y="352" width="128" height="76" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.6"/>
+  <circle cx="50" cy="374" r="9" fill="#3f6b4a"/>
+  <text x="50" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fdfbf7">3</text>
+  <text x="146" y="374" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">What is left out?</text>
+  <text x="92" y="398" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">which bodies, which</text>
+  <text x="92" y="412" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">realities, which costs</text>
+
+  <!-- question 4 -->
+  <rect x="356" y="352" width="128" height="76" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.6"/>
+  <circle cx="378" cy="374" r="9" fill="#3f6b4a"/>
+  <text x="378" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fdfbf7">4</text>
+  <text x="474" y="374" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">How does it make</text>
+  <text x="474" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">me feel about</text>
+  <text x="474" y="402" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">my body?</text>
+  <text x="420" y="418" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">then I choose</text>
+
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Claim: "this product exists."  Value: "you are not enough — buy to be okay."</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Reading a message is not the same as believing it.</text>
+</svg>

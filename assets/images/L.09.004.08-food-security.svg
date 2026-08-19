@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The four pillars of food security</title>
+  <desc id="desc">Four labeled columns: availability (enough food is produced), access (people can get and afford it), utilization (food is safe and nourishing, with clean water and health), and stability (all three hold through the year and through shocks). A tabletop spans the columns, and a caption below states that hunger is usually a failure of access and fairness, not a lack of food on Earth.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">The Four Pillars of Food Security</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Remove one pillar and the whole table wobbles.</text>
+
+  <!-- tabletop -->
+  <rect x="36" y="150" width="440" height="14" rx="6" fill="#2b3a42"/>
+  <text x="256" y="140" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a food-secure life</text>
+
+  <!-- pillar 1 -->
+  <rect x="44" y="164" width="94" height="150" rx="6" fill="#3f6b4a"/>
+  <text x="91" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#fdfbf7">availability</text>
+  <text x="91" y="216" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">enough food</text>
+  <text x="91" y="232" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">is produced</text>
+  <text x="91" y="260" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">and exists</text>
+
+  <!-- pillar 2 -->
+  <rect x="148" y="164" width="94" height="150" rx="6" fill="#3d6484"/>
+  <text x="195" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#fdfbf7">access</text>
+  <text x="195" y="216" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">people can get</text>
+  <text x="195" y="232" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">it and afford</text>
+  <text x="195" y="248" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">it — distance,</text>
+  <text x="195" y="264" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">price, fairness</text>
+
+  <!-- pillar 3 -->
+  <rect x="252" y="164" width="94" height="150" rx="6" fill="#e0a458"/>
+  <text x="299" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">utilization</text>
+  <text x="299" y="216" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">safe and</text>
+  <text x="299" y="232" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">nourishing,</text>
+  <text x="299" y="248" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">with clean</text>
+  <text x="299" y="264" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">water &amp; health</text>
+
+  <!-- pillar 4 -->
+  <rect x="356" y="164" width="94" height="150" rx="6" fill="#4f6d7a"/>
+  <text x="403" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#fdfbf7">stability</text>
+  <text x="403" y="216" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">all three hold</text>
+  <text x="403" y="232" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">through the</text>
+  <text x="403" y="248" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">year, through</text>
+  <text x="403" y="264" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fdfbf7">shocks</text>
+
+  <!-- caption -->
+  <rect x="36" y="352" width="440" height="96" rx="10" fill="#eaf0ea" stroke="#7a9e7e" stroke-width="1.5"/>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">The world grows enough food for everyone —</text>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">yet roughly 1 in 11 people still face hunger.</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Hunger is usually a failure of access and fairness,</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">not a lack of food on Earth.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">We meet this truth with understanding and something we can do.</text>
+</svg>

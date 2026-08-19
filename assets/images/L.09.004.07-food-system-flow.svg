@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A food system, from farm to table to waste</title>
+  <desc id="desc">Six stages in a row with arrows between them: produce, process, transport, sell, eat, waste. Each stage is a labeled box; beneath key stages are small notes naming an effect on health, workers, or the environment. A curved loop arrow returns from waste to the soil, showing nutrients and energy returning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">From Farm to Table to Waste</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Every stage touches health, workers, and the environment.</text>
+
+  <!-- stage boxes -->
+  <rect x="28" y="96" width="66" height="72" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="61" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">produce</text>
+
+  <rect x="112" y="96" width="66" height="72" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="145" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">process</text>
+
+  <rect x="196" y="96" width="66" height="72" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="229" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">transport</text>
+
+  <rect x="280" y="96" width="66" height="72" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="313" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">sell</text>
+
+  <rect x="364" y="96" width="66" height="72" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="397" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">eat</text>
+
+  <rect x="448" y="96" width="36" height="72" rx="8" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="466" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">waste</text>
+
+  <!-- arrows -->
+  <path d="M96 132 L110 132" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M180 132 L194 132" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M264 132 L278 132" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M348 132 L362 132" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M432 132 L446 132" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- effect notes -->
+  <text x="61" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">water, soil, labor</text>
+  <text x="145" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">milling, packaging</text>
+  <text x="229" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">fuel, long distances</text>
+  <text x="313" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">who can afford it</text>
+  <text x="397" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what nourishes me</text>
+  <text x="466" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what is thrown</text>
+
+  <!-- three lenses -->
+  <rect x="28" y="222" width="456" height="130" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="44" y="248" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Read each stage through three lenses</text>
+  <text x="44" y="276" font-family="sans-serif" font-size="13" fill="#3f6b4a">Health —</text>
+  <text x="112" y="276" font-family="sans-serif" font-size="13" fill="#222222">what ends up on the plate and how it nourishes people</text>
+  <text x="44" y="300" font-family="sans-serif" font-size="13" fill="#3f6b4a">Workers —</text>
+  <text x="120" y="300" font-family="sans-serif" font-size="13" fill="#222222">who grows, carries, and sells it, and under what conditions</text>
+  <text x="44" y="324" font-family="sans-serif" font-size="13" fill="#3f6b4a">Environment —</text>
+  <text x="132" y="324" font-family="sans-serif" font-size="13" fill="#222222">the water, soil, fuel, and waste the chain uses</text>
+
+  <!-- waste loop -->
+  <path d="M466 372 C 466 420 380 440 300 440 C 210 440 90 420 90 372" fill="none" stroke="#e0a458" stroke-width="2" stroke-dasharray="6 5"/>
+  <polygon points="96,378 90,372 100,370" fill="#e0a458"/>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">some waste returns to soil and energy — most is lost</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Roughly a fifth of food available to consumers is lost or wasted (UNEP).</text>
+</svg>

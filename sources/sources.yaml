@@ -3783,3 +3783,65 @@ sources:
     domains: [D01]
     reviewed: true
     notes: "Alberti, R., & Emmons, M. (2017). Your Perfect Right: Assertiveness and Equality in Your Life and Relationships (10th ed., revised). Oakland, CA: Impact Publishers / New Harbinger (first published 1970). Print book (no URL); verified 2026-08-19 via the publisher's page (newharbinger.com, ISBN 9781626259607, 'Tenth Edition, Revised,' published March 2017, imprint Impact) and the Wikipedia 'Assertiveness' article. The book's core — assertive communication expresses one's own needs, feelings, and boundaries directly and respectfully, distinct from passive (suppressing needs) and aggressive (trampling others') styles — is correctly described. Lesson L.09.003.10 uses it correctly as a communication-skill frame (the 'I-statement' pattern: 'I feel… when… because… what I need is…'), framed descriptively, not as a claim about personality; it also honors cultural differences in how directly needs are stated. Correctly attributed, not overstated."
+
+  - id: S-406
+    title: "Damasio — Descartes' Error: Emotion, Reason, and the Human Brain (somatic marker hypothesis)"
+    type: book
+    author: Antonio Damasio
+    year: 1994
+    organization: G. P. Putnam's Sons
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.09.004.01 for the somatic marker hypothesis — the idea that bodily responses ('gut feelings') help guide emotion, reasoning, and decision-making, so feeling and thought have a body basis. Damasio, A. (1994). Descartes' Error: Emotion, Reason, and the Human Brain. New York: G. P. Putnam's Sons. Real, well-known book by the neuroscientist Antonio Damasio; the somatic-marker account is a legitimate, widely discussed scientific account, offered in the lesson as one respected story (not settled fact) alongside Barrett's interoception account. Verified 2026-08-19: print book (no URL); the somatic-marker hypothesis is correctly attributed to Damasio and is one theory among several (the lesson explicitly hedges it as 'one respected story, not gospel', set beside Barrett's interoception account). Not overstated."
+
+  - id: S-407
+    title: "Tylka & Wood-Barcalow (2015) — What is and what is not positive body image?"
+    type: article
+    url: https://doi.org/10.1016/j.bodyim.2015.04.001
+    author: Tracy L. Tylka & Nichole L. Wood-Barcalow
+    year: 2015
+    organization: Body Image
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.09.004.03–L.09.004.05 for positive body image and body acceptance. Tylka, T. L., & Wood-Barcalow, N. L. (2015). What is and what is not positive body image? Conceptual foundations and construct definition. Body Image, 14, 118–129. DOI 10.1016/j.bodyim.2015.04.001. This peer-reviewed article is the standard scholarly definition of positive body image — emphasizing appreciation of the body's function, kindness toward one's body, and filtering body-image information — and explicitly notes that positive body image is not the same as believing one is attractive. Used to ground the lessons' body-positive/body-neutral framing and the weight-neutral commitment that wellness goals must not target appearance. DOI verified live 2026-08-19 (resolves to Elsevier PII S1740144515000388). Correctly attributed; the lesson's claim that body positivity is not the same as believing you are attractive matches the paper."
+
+  - id: S-408
+    title: "Mikkelsen et al. (2017) — Exercise and mental health"
+    type: article
+    url: https://doi.org/10.1016/j.maturitas.2017.09.003
+    author: Kathleen Mikkelsen, Lily Stojanovska, Momir Polenakovic, Marijan Bosevski, Vasso Apostolopoulos
+    year: 2017
+    organization: Maturitas
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.09.004.06 for the mechanisms linking exercise and mental health. Mikkelsen, K., Stojanovska, L., Polenakovic, M., Bosevski, M., & Apostolopoulos, V. (2017). Exercise and mental health. Maturitas, 106, 48–56. DOI 10.1016/j.maturitas.2017.09.003. This peer-reviewed review documents that physical activity improves mood and reduces symptoms of depression and anxiety, and describes the underlying mechanisms — endorphins (endogenous opioids), monoamines (serotonin, dopamine, noradrenaline), and brain-derived neurotrophic factor (BDNF), among others. The lesson uses it accurately and with hedging (endorphins are one mechanism among several; no single chemical is the whole story). DOI verified live 2026-08-19 (resolves to Elsevier PII S0378512217308563); authors and journal (Maturitas 106, 48–56) correct."
+
+  - id: S-409
+    title: "FAO — The State of Food Security and Nutrition in the World (SOFI)"
+    type: report
+    url: https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en
+    organization: Food and Agriculture Organization of the United Nations (FAO)
+    year: 2024
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.09.004.08 for hunger and food-insecurity figures and the four pillars of food security. FAO's flagship annual report on food security and nutrition (published jointly with IFAD, UNICEF, WFP, and WHO). The 2024 edition reports that about 733 million people faced hunger in 2023 (roughly 1 in 11 people) and that about 2.33 billion faced moderate or severe food insecurity. The lesson states these figures accurately and with hedging ('roughly 1 in 11', 'figures shift year to year'), and uses the standard four-pillar definition of food security — availability, access, utilization, stability — as the descriptive frame. Values (that everyone deserves enough to eat) are kept distinct from these facts. URL verified live 2026-08-19 (redirects to the FAO flagship-publications page; HTTP 200). Figures re-verified 2026-08-19 against the FAO SOFI 2024 newsroom release ('Around 733 million people faced hunger in 2023, equivalent to one in eleven people globally') and UNICEF DATA SOFI-2024 summary ('In 2023, around 2.33 billion people globally faced moderate or severe food insecurity')."
+
+  - id: S-410
+    title: "UNEP — Food Waste Index Report"
+    type: report
+    url: https://www.unep.org/resources/publication/food-waste-index-report-2024
+    organization: United Nations Environment Programme (UNEP)
+    year: 2024
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.09.004.07 for food loss and waste. UNEP's Food Waste Index Report 2024 estimates that roughly 1.05 billion tonnes of food were wasted in 2022 (about one-fifth of the food available to consumers), spanning households, food service, and retail. The lesson states the claim accurately and with hedging ('roughly a fifth of the food available to consumers worldwide'), and uses it to make the environment point that wasted food wastes the water, land, and energy used to produce it. Note: 'one-third of all food lost or wasted' is an earlier FAO (2011) figure; the lesson uses the UNEP consumer-level figure and does not conflate the two. URL verified live 2026-08-19 (page 'Food Waste Index Report 2024', dated 27 March 2024; returns 403 to curl but loads in a browser — bot protection only). Figures re-verified against the UNEP Key Messages: 'In 2022, the world wasted 1.05 billion tonnes of food. This amounts to one fifth (19 per cent) of food available to consumers being wasted, at the retail, food service, and household level.'"
+
+  - id: S-411
+    title: "National Eating Disorders Association (NEDA) — Body Image"
+    type: website
+    url: https://www.nationaleatingdisorders.org/body-image-0
+    organization: National Eating Disorders Association
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in L.09.004.04 for body image and self-worth. NEDA's body-image page explains what body image is, how media and social messages shape it, and how negative body image relates to disordered eating and mental-health distress. The lesson uses it as a general authority for the body-image concept and the value that a body's worth is not determined by appearance. US-based organization but a standard, widely used authority on body image and eating-disorder prevention; treated as one voice among others, not the only tradition. URL verified live 2026-08-19 (page 'Body Image | Understanding & Improving Self-Perception | NEDA'; returns 403 to curl but loads in a browser — bot protection only). Page defines body image as how you see yourself (beliefs, feelings, body sense) and states that internalized appearance-ideal messages can lead to negative body image and that a healthier body image supports mental wellbeing and eating-disorder prevention — on-topic for the lesson."
+

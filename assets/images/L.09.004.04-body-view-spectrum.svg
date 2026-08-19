@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A spectrum of body views</title>
+  <desc id="desc">A horizontal spectrum with three zones. On the left, body negativity: appearance constantly measured and found lacking. In the middle, body neutrality: appearance is not my worth. On the right, body positivity: I can appreciate my body for what it is and does. A shared floor underneath reads "appearance is not my worth." A note says any resting place on the right half is valid and may change day to day.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A Spectrum of Body Views</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Both neutrality and positivity rest on the same floor.</text>
+
+  <!-- spectrum bar -->
+  <rect x="36" y="96" width="440" height="28" rx="14" fill="#f2ece0"/>
+  <rect x="256" y="96" width="220" height="28" rx="14" fill="#dce6dc"/>
+  <circle cx="256" cy="110" r="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- left zone -->
+  <rect x="36" y="144" width="170" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="121" y="172" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Body negativity</text>
+  <text x="121" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">appearance is always</text>
+  <text x="121" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">measured, always</text>
+  <text x="121" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">found lacking</text>
+  <text x="121" y="250" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(the message ads sell)</text>
+
+  <!-- middle zone -->
+  <rect x="256" y="144" width="170" height="120" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="341" y="172" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Body neutrality</text>
+  <text x="341" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">appearance is not my</text>
+  <text x="341" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">worth; my body is the</text>
+  <text x="341" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">home I do things with</text>
+  <text x="341" y="250" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(a full resting place)</text>
+
+  <!-- right zone -->
+  <rect x="306" y="286" width="170" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="391" y="314" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Body positivity</text>
+  <text x="391" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I appreciate, even</text>
+  <text x="391" y="354" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">celebrate, my body for</text>
+  <text x="391" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">what it is and does</text>
+  <text x="391" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(not "thinking you're attractive")</text>
+
+  <rect x="36" y="434" width="440" height="54" rx="8" fill="#eaf0ea" stroke="#7a9e7e" stroke-width="1.5"/>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Appearance is not my worth — my body's value is not up for a vote.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Any resting place on the right half is valid — and it may change day to day.</text>
+</svg>

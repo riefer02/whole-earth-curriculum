@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What movement does to the brain and body</title>
+  <desc id="desc">A central figure in motion is surrounded by four labeled effects: endorphins lift mood and ease pain; dopamine and serotonin lift mood and reward; BDNF supports learning and memory; and circulation and sleep feed and rest the brain. Each effect has a short plain-language note.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">What Movement Does to Brain &amp; Body</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Movement lifts the mood, sharpens the focus, and feeds the brain.</text>
+
+  <!-- central figure in motion -->
+  <circle cx="256" cy="250" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M216 330 Q256 300 296 330 L304 372 L208 372 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M232 250 L196 210" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M280 250 L316 210" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M220 372 L200 400" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M292 372 L312 400" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">your body in motion</text>
+
+  <!-- endorphins -->
+  <rect x="36" y="96" width="180" height="82" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="48" y="122" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Endorphins</text>
+  <text x="48" y="142" font-family="sans-serif" font-size="12" fill="#222222">natural chemicals that</text>
+  <text x="48" y="158" font-family="sans-serif" font-size="12" fill="#222222">lift mood and ease pain</text>
+
+  <!-- dopamine serotonin -->
+  <rect x="296" y="96" width="180" height="82" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="308" y="122" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Dopamine &amp; serotonin</text>
+  <text x="308" y="142" font-family="sans-serif" font-size="12" fill="#222222">mood and reward —</text>
+  <text x="308" y="158" font-family="sans-serif" font-size="12" fill="#222222">feeling better, calmer</text>
+
+  <!-- BDNF -->
+  <rect x="36" y="332" width="180" height="82" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
+  <text x="48" y="358" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">BDNF (growth factor)</text>
+  <text x="48" y="378" font-family="sans-serif" font-size="12" fill="#222222">supports learning</text>
+  <text x="48" y="394" font-family="sans-serif" font-size="12" fill="#222222">and memory</text>
+
+  <!-- circulation sleep -->
+  <rect x="296" y="332" width="180" height="82" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="308" y="358" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Circulation &amp; sleep</text>
+  <text x="308" y="378" font-family="sans-serif" font-size="12" fill="#222222">more oxygen and glucose</text>
+  <text x="308" y="394" font-family="sans-serif" font-size="12" fill="#222222">to the brain; better rest</text>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Well supported: movement supports mental health and focus.</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Oversold: movement is not a cure-all, and never a replacement for help.</text>
+</svg>

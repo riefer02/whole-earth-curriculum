@@ -62,3 +62,11 @@ with dignity and joy, honoring the wide range of bodies and abilities.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | The Body as the Ground of Feeling and Thought | D03.S1.09.01 |
+| 02 | Reading My Body's Signals | D03.S1.09.01 |
+| 03 | Media, Peers, and the Messages My Body Hears | D03.S1.09.02 |
+| 04 | A Body-Positive or Body-Neutral View of Myself | D03.S1.09.02 |
+| 05 | Setting and Tracking a Movement Goal | D03.S2.09.01 |
+| 06 | Movement, Mind, and Learning | D03.S2.09.02 |
+| 07 | From Farm to Table to Waste: Tracing a Food System | D03.S3.09.01 |
+| 08 | Hunger, Food Security, and Health Around the World | D03.S3.09.02 |
