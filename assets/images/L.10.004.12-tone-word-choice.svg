@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tone — one idea, three ways</title>
+  <desc id="desc">One idea written three ways. A warm sentence, an urgent sentence, and a measured sentence, each with a label naming its tone, purpose, and likely audience.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">One Idea, Three Tones</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same facts — "the well is running low" — said three ways.</text>
+
+  <!-- Warm -->
+  <rect x="28" y="88" width="456" height="96" rx="12" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="52" y="114" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">warm</text>
+  <text x="256" y="114" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#3a5a3a">"Don't worry — we'll manage. We always have."</text>
+  <text x="52" y="142" font-family="sans-serif" font-size="13" fill="#3a5a3a">purpose: to comfort · audience: a worried grandparent</text>
+
+  <!-- Urgent -->
+  <rect x="28" y="200" width="456" height="96" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="52" y="226" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">urgent</text>
+  <text x="256" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a6d4a">"We have to act now — the well is nearly dry!"</text>
+  <text x="52" y="254" font-family="sans-serif" font-size="13" fill="#8a6d4a">purpose: to move · audience: a neighbor who must help</text>
+
+  <!-- Measured -->
+  <rect x="28" y="312" width="456" height="96" rx="12" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
+  <text x="52" y="338" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">measured</text>
+  <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#3a5a6a">"The water level has fallen over the past month."</text>
+  <text x="52" y="366" font-family="sans-serif" font-size="13" fill="#3a5a6a">purpose: to report · audience: a formal meeting</text>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The facts are the message; the tone is how it lands.</text>
+</svg>

@@ -71,3 +71,18 @@ held as wealth.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | The Three Appeals — and Many More | D04.S1.10.01 |
+| 2 | Emotional Appeal vs. Reasoned Argument | D04.S1.10.01 |
+| 3 | Critiquing a Public Speech | D04.S1.10.01 |
+| 4 | Register: Matching Your Voice to the Room | D04.S1.10.02 |
+| 5 | Speaking to an Unfamiliar Audience | D04.S1.10.02 |
+| 6 | Bias and Omission: What the Story Leaves Out | D04.S2.10.01 |
+| 7 | Evidence and Belief: Telling Them Apart | D04.S2.10.01 |
+| 8 | Tracking Themes Across a Full Work | D04.S2.10.02 |
+| 9 | Tracking Arguments Across a Full Work | D04.S2.10.02 |
+| 10 | The Full Work: Themes and Arguments Meet | D04.S2.10.02 |
+| 11 | Crafting Prose: Sentences and Word Choice | D04.S3.10.01 |
+| 12 | Crafting Prose: Tone for Purpose and Audience | D04.S3.10.01 |
+| 13 | Multimodal Composition, Accessible by Design | D04.S3.10.02 |
+| 14 | Language and Power: Whose Words Rule? | D04.S4.10.01 |
+| 15 | Politeness and Address Across Cultures | D04.S4.10.02 |

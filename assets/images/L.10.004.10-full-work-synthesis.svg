@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Full-work synthesis organizer</title>
+  <desc id="desc">A four-quadrant organizer. Top left: central theme. Top right: central argument. Bottom left: how they connect. Bottom right: my supported judgment. The theme thread and argument chain feed into the center where the two meet.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">The Whole Work in One Hand</text>
+
+  <!-- Four quadrants -->
+  <rect x="28" y="64" width="222" height="170" rx="12" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="139" y="90" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Central theme</text>
+  <text x="139" y="118" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a">the idea the work</text>
+  <text x="139" y="136" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a">kept returning to</text>
+  <text x="139" y="168" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(from the theme thread)</text>
+
+  <rect x="262" y="64" width="222" height="170" rx="12" fill="#dce9f0" stroke="#6b93b6" stroke-width="2"/>
+  <text x="373" y="90" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Central argument</text>
+  <text x="373" y="118" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a6a">the thing it was</text>
+  <text x="373" y="136" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a6a">trying to show</text>
+  <text x="373" y="168" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(from the argument chain)</text>
+
+  <rect x="28" y="250" width="222" height="170" rx="12" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+  <text x="139" y="276" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">How they connect</text>
+  <text x="139" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">how does the work</text>
+  <text x="139" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">argue its theme?</text>
+
+  <rect x="262" y="250" width="222" height="170" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="373" y="276" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">My supported judgment</text>
+  <text x="373" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">strength + gap,</text>
+  <text x="373" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">backed by evidence</text>
+
+  <!-- Center arrow -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#fdfbf7">
+    <circle cx="256" cy="226" r="22"/>
+  </g>
+  <text x="256" y="231" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">meet</text>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">You did not just finish a book — you read it whole.</text>
+</svg>

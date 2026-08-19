@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Emotional appeal versus reasoned argument</title>
+  <desc id="desc">A two-panel comparison. The left panel shows words that stir feeling — fear, pride, pity, anger — with no evidence, labeled emotional appeal. The right panel shows a claim supported by a reason and evidence, labeled reasoned argument. A bottom band asks what the speaker wants the listener to do.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Feeling or Reason — Which Is Carrying the Message?</text>
+
+  <!-- Left: emotional appeal -->
+  <rect x="28" y="64" width="222" height="286" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="139" y="92" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Emotional appeal</text>
+  <g font-family="sans-serif" font-size="14" fill="#8a6d4a">
+    <rect x="52" y="114" width="174" height="30" rx="8" fill="#f6ead8"/>
+    <text x="139" y="134" text-anchor="middle">"everyone is going"</text>
+    <rect x="52" y="154" width="174" height="30" rx="8" fill="#f6ead8"/>
+    <text x="139" y="174" text-anchor="middle">"you'll be left out"</text>
+    <rect x="52" y="194" width="174" height="30" rx="8" fill="#f6ead8"/>
+    <text x="139" y="214" text-anchor="middle">"it's our last chance"</text>
+    <rect x="52" y="234" width="174" height="30" rx="8" fill="#f6ead8"/>
+    <text x="139" y="254" text-anchor="middle">fear · pride · pity</text>
+  </g>
+  <text x="139" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">moves the heart —</text>
+  <text x="139" y="316" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">but no checkable claim</text>
+
+  <!-- Right: reasoned argument -->
+  <rect x="262" y="64" width="222" height="286" rx="12" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="373" y="92" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Reasoned argument</text>
+  <g font-family="sans-serif" font-size="14" fill="#3a5a3a">
+    <rect x="286" y="114" width="174" height="30" rx="8" fill="#eaf2ea"/>
+    <text x="373" y="134" text-anchor="middle">claim: we should go</text>
+    <rect x="286" y="154" width="174" height="30" rx="8" fill="#eaf2ea"/>
+    <text x="373" y="174" text-anchor="middle">reason: it's near and cheap</text>
+    <rect x="286" y="194" width="174" height="30" rx="8" fill="#eaf2ea"/>
+    <text x="373" y="214" text-anchor="middle">evidence: I checked the bus</text>
+    <rect x="286" y="234" width="174" height="30" rx="8" fill="#eaf2ea"/>
+    <text x="373" y="254" text-anchor="middle">and the time</text>
+  </g>
+  <text x="373" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a">a claim you can check —</text>
+  <text x="373" y="316" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a">open to being tested</text>
+
+  <!-- Bottom band -->
+  <rect x="28" y="368" width="456" height="76" rx="12" fill="#dce9f0"/>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">What is the speaker asking me to do?</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#3a5a6a">Is the feeling supporting the reason — or standing in for it?</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Feeling is not the enemy of truth — but a feeling dressed as a reason deserves a second look.</text>
+</svg>

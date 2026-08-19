@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Speech critique scaffold</title>
+  <desc id="desc">A five-row fill-in form for critiquing a speech, with rows labeled claim, evidence, appeal, what is asked of me, and fair counter-point. A small speech bubble sits at the top with the speaker's words.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Critiquing a Speech, Fairly</text>
+
+  <!-- Speech bubble -->
+  <path d="M70 64 h340 a16 16 0 0 1 16 16 v46 a16 16 0 0 1 -16 16 h-200 l-30 26 v-26 h-110 a16 16 0 0 1 -16 -16 v-46 a16 16 0 0 1 16 -16 z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+    <line x1="88" y1="92" x2="392" y2="92"/>
+    <line x1="88" y1="112" x2="392" y2="112"/>
+    <line x1="88" y1="132" x2="330" y2="132"/>
+  </g>
+
+  <!-- Rows -->
+  <g font-family="sans-serif" font-size="15">
+    <rect x="40" y="180" width="432" height="52" rx="10" fill="#eaf2ea"/>
+    <text x="60" y="200" font-weight="bold" fill="#2b3a42">1 · Claim</text>
+    <text x="60" y="220" fill="#3a5a3a">What does the speaker say is true or should be done?</text>
+
+    <rect x="40" y="240" width="432" height="52" rx="10" fill="#dce9f0"/>
+    <text x="60" y="260" font-weight="bold" fill="#2b3a42">2 · Evidence</text>
+    <text x="60" y="280" fill="#3a5a6a">What backs it up — and does it actually support the claim?</text>
+
+    <rect x="40" y="300" width="432" height="52" rx="10" fill="#f6ead8"/>
+    <text x="60" y="320" font-weight="bold" fill="#2b3a42">3 · Appeal</text>
+    <text x="60" y="340" fill="#8a6d4a">Which carries it — ethos, pathos, or logos?</text>
+
+    <rect x="40" y="360" width="432" height="52" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+    <text x="60" y="380" font-weight="bold" fill="#2b3a42">4 · Asked of me</text>
+    <text x="60" y="400" fill="#8a6d4a">What does the speaker want me to do?</text>
+
+    <rect x="40" y="420" width="432" height="52" rx="10" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="60" y="440" font-weight="bold" fill="#2b3a42">5 · Fair counter-point</text>
+    <text x="60" y="460" fill="#3a5a3a">The strongest honest objection — and does the speech answer it?</text>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Politeness and address across cultures</title>
+  <desc id="desc">A grid comparing how two cultures greet, address, and show respect — one row showing a bow and a title, another a handshake and a name. Beside it, a respectful-check card lists questions to ask rather than assume.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Respect Looks Different — Intention Is Shared</text>
+
+  <!-- Grid -->
+  <rect x="28" y="58" width="330" height="220" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <!-- header row -->
+  <text x="70" y="86" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">greet</text>
+  <text x="196" y="86" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">address</text>
+  <text x="286" y="86" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">show respect</text>
+  <line x1="42" y1="96" x2="344" y2="96" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- culture 1: bow -->
+  <text x="44" y="124" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">culture A</text>
+  <path d="M70 120 q0 30 -8 34" stroke="#2b3a42" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="62" cy="116" r="8" fill="#6b93b6"/>
+  <text x="196" y="128" font-family="sans-serif" font-size="13" fill="#3a5a6a">a title +</text>
+  <text x="196" y="146" font-family="sans-serif" font-size="13" fill="#3a5a6a">family name</text>
+  <text x="286" y="128" font-family="sans-serif" font-size="13" fill="#3a5a3a">a bow; the</text>
+  <text x="286" y="146" font-family="sans-serif" font-size="13" fill="#3a5a3a">elder speaks first</text>
+
+  <!-- culture 2: handshake -->
+  <text x="44" y="190" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">culture B</text>
+  <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
+    <line x1="66" y1="176" x2="92" y2="176"/>
+    <line x1="66" y1="188" x2="92" y2="188"/>
+    <line x1="92" y1="176" x2="92" y2="188"/>
+  </g>
+  <text x="196" y="194" font-family="sans-serif" font-size="13" fill="#3a5a6a">a first name</text>
+  <text x="286" y="194" font-family="sans-serif" font-size="13" fill="#3a5a3a">a handshake,</text>
+  <text x="286" y="212" font-family="sans-serif" font-size="13" fill="#3a5a3a">eye contact</text>
+
+  <text x="44" y="258" font-family="sans-serif" font-size="13" fill="#4f6d7a">Neither is "the right" way — each signals respect</text>
+  <text x="44" y="276" font-family="sans-serif" font-size="13" fill="#4f6d7a">in its own idiom.</text>
+
+  <!-- Respectful check card -->
+  <rect x="374" y="58" width="110" height="220" rx="12" fill="#eaf2ea"/>
+  <text x="429" y="84" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Ask,</text>
+  <text x="429" y="102" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">don't assume</text>
+  <g font-family="sans-serif" font-size="12" fill="#3a5a3a">
+    <text x="390" y="128">How is</text>
+    <text x="390" y="146">respect shown</text>
+    <text x="390" y="164">here?</text>
+    <text x="390" y="190">How should I</text>
+    <text x="390" y="208">address you?</text>
+    <text x="390" y="234">What should</text>
+    <text x="390" y="252">I ask?</text>
+  </g>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Watch, ask, and adapt — so your respect lands the way you meant it.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Respect is an intention made visible in the other person's own idiom.</text>
+</svg>

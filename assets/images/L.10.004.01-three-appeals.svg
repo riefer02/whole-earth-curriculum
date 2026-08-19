@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The three appeals — and many more</title>
+  <desc id="desc">Three labeled columns showing the appeals a speaker can make: ethos (the speaker's trustworthy character, drawn as a person with a steady face), pathos (the audience's shared feeling, drawn as a heart), and logos (a reasoned claim with evidence, drawn as a document with a check). A note at the bottom says many cultures have their own arts of persuasion beyond these three.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Three Appeals — One Tradition Among Many</text>
+
+  <!-- Ethos column -->
+  <rect x="28" y="64" width="146" height="300" rx="12" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="101" y="92" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Ethos</text>
+  <circle cx="101" cy="150" r="26" fill="#6b93b6"/>
+  <rect x="81" y="180" width="40" height="56" rx="12" fill="#4f6d7a"/>
+  <text x="101" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the speaker's</text>
+  <text x="101" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">character —</text>
+  <text x="101" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">do I trust you?</text>
+  <rect x="46" y="308" width="110" height="30" rx="8" fill="#eaf2ea"/>
+  <text x="101" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a">a steady voice</text>
+
+  <!-- Pathos column -->
+  <rect x="183" y="64" width="146" height="300" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Pathos</text>
+  <path d="M256 132 c-14 -14 -34 -14 -40 4 c-4 12 4 20 14 26 c-4 6 -2 16 6 18 c16 2 28 -10 26 -26 c-2 -12 -8 -20 -6 -22 z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the audience's</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">feeling —</text>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">what do I feel?</text>
+  <rect x="201" y="308" width="110" height="30" rx="8" fill="#f6ead8"/>
+  <text x="256" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d4a">a stirring image</text>
+
+  <!-- Logos column -->
+  <rect x="338" y="64" width="146" height="300" rx="12" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
+  <text x="411" y="92" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Logos</text>
+  <rect x="369" y="120" width="84" height="108" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#7a9e7e" stroke-width="3" stroke-linecap="round">
+    <line x1="381" y1="140" x2="441" y2="140"/>
+    <line x1="381" y1="160" x2="441" y2="160"/>
+    <line x1="381" y1="180" x2="441" y2="180"/>
+    <line x1="381" y1="200" x2="414" y2="200"/>
+  </g>
+  <path d="M385 214 l10 10 l18 -20" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="411" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the reasoning —</text>
+  <text x="411" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">is it true,</text>
+  <text x="411" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and does it follow?</text>
+  <rect x="356" y="308" width="110" height="30" rx="8" fill="#dce9f0"/>
+  <text x="411" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a6a">claim + evidence</text>
+
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">These three come from one (ancient Greek) tradition.</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Griots, formal oratory, and debate arts worldwide are their own ways of speaking —</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">none is the only "right" one.</text>
+</svg>

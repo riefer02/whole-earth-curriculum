@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Bias and omission — the same event, two stories</title>
+  <desc id="desc">A split frame showing the same event reported two ways. The left panel leads with one detail in large bold type; the right panel leads with a different detail. Below, a checklist of five questions: who made this, what is emphasized, what is left out, who benefits, and what is the evidence.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">The Same Event, Two Stories</text>
+
+  <!-- Left article -->
+  <rect x="28" y="58" width="222" height="240" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="139" y="82" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#8a6d4a">OUTLET A</text>
+  <text x="139" y="112" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">One side wins</text>
+  <text x="139" y="134" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">the day</text>
+  <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+    <line x1="52" y1="152" x2="226" y2="152"/>
+    <line x1="52" y1="170" x2="226" y2="170"/>
+    <line x1="52" y1="188" x2="226" y2="188"/>
+    <line x1="52" y1="206" x2="180" y2="206"/>
+  </g>
+  <text x="139" y="236" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">quotes only one side</text>
+  <text x="139" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">never mentions the cost</text>
+
+  <!-- Right article -->
+  <rect x="262" y="58" width="222" height="240" rx="12" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
+  <text x="373" y="82" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#3a5a6a">OUTLET B</text>
+  <text x="373" y="112" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">The cost nobody</text>
+  <text x="373" y="134" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">mentioned</text>
+  <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
+    <line x1="286" y1="152" x2="460" y2="152"/>
+    <line x1="286" y1="170" x2="460" y2="170"/>
+    <line x1="286" y1="188" x2="460" y2="188"/>
+    <line x1="286" y1="206" x2="414" y2="206"/>
+  </g>
+  <text x="373" y="236" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a6a">leads with a different detail</text>
+  <text x="373" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a6a">never says who gained</text>
+
+  <!-- Checklist -->
+  <rect x="28" y="314" width="456" height="150" rx="12" fill="#eaf2ea"/>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Five questions to ask every story</text>
+  <g font-family="sans-serif" font-size="14" fill="#3a5a3a">
+    <text x="52" y="366">1. Who made this?</text>
+    <text x="52" y="390">2. What is emphasized?</text>
+    <text x="52" y="414">3. What is left out?</text>
+    <text x="290" y="366">4. Who benefits?</text>
+    <text x="290" y="390">5. What is the evidence?</text>
+  </g>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Bias often lives in what is not said as much as in what is.</text>
+</svg>

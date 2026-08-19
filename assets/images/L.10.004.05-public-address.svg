@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Speaking to an unfamiliar audience</title>
+  <desc id="desc">A speaker stands before a small unfamiliar audience of four listeners. Around the speaker are delivery labels: open posture, steady breath, measured pace, clear volume, and an eye line that moves across the listeners. A small planner card sits in the corner with slots for purpose, audience, one point, and one piece of evidence.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Speaking to People You Don't Know Yet</text>
+
+  <!-- Speaker -->
+  <circle cx="140" cy="150" r="26" fill="#6b93b6"/>
+  <rect x="116" y="180" width="48" height="70" rx="14" fill="#4f6d7a"/>
+  <line x1="120" y1="300" x2="112" y2="360" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="164" y1="300" x2="172" y2="360" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <!-- Open arms -->
+  <line x1="116" y1="206" x2="86" y2="250" stroke="#6b93b6" stroke-width="8" stroke-linecap="round"/>
+  <line x1="164" y1="206" x2="194" y2="250" stroke="#6b93b6" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Audience -->
+  <g>
+    <circle cx="330" cy="170" r="18" fill="#e0a458"/>
+    <rect x="316" y="190" width="28" height="40" rx="9" fill="#2b3a42"/>
+    <circle cx="400" cy="176" r="18" fill="#7a9e7e"/>
+    <rect x="386" y="196" width="28" height="40" rx="9" fill="#4f6d7a"/>
+    <circle cx="360" cy="260" r="18" fill="#e0a458"/>
+    <rect x="346" y="280" width="28" height="40" rx="9" fill="#6b93b6"/>
+    <circle cx="428" cy="270" r="18" fill="#6b93b6"/>
+    <rect x="414" y="290" width="28" height="40" rx="9" fill="#2b3a42"/>
+  </g>
+
+  <!-- Delivery labels around speaker -->
+  <g font-family="sans-serif" font-size="13" fill="#3a5a3a">
+    <rect x="40" y="60" width="150" height="26" rx="8" fill="#eaf2ea"/>
+    <text x="115" y="78" text-anchor="middle">open posture</text>
+    <rect x="240" y="120" width="130" height="26" rx="8" fill="#eaf2ea"/>
+    <text x="305" y="138" text-anchor="middle">eye line moves</text>
+  </g>
+  <g font-family="sans-serif" font-size="13" fill="#3a5a6a">
+    <rect x="40" y="120" width="140" height="26" rx="8" fill="#dce9f0"/>
+    <text x="110" y="138" text-anchor="middle">steady breath</text>
+    <rect x="250" y="340" width="120" height="26" rx="8" fill="#dce9f0"/>
+    <text x="310" y="358" text-anchor="middle">clear volume</text>
+    <rect x="40" y="330" width="140" height="26" rx="8" fill="#dce9f0"/>
+    <text x="110" y="348" text-anchor="middle">measured pace</text>
+  </g>
+
+  <!-- Planner card -->
+  <rect x="300" y="400" width="184" height="86" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="316" y="422" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Planner</text>
+  <g font-family="sans-serif" font-size="12" fill="#4f6d7a">
+    <text x="316" y="440">purpose · audience</text>
+    <text x="316" y="458">one point</text>
+    <text x="316" y="476">one piece of evidence</text>
+  </g>
+
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Confidence is built, not born — one prepared sentence at a time.</text>
+</svg>

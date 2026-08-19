@@ -5692,7 +5692,7 @@ items:
     type: lesson
     grade: 10
     domain: D04
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5704,6 +5704,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (1453 files, 0 errors). All 15 lessons carry kind: lesson, matching id/sequence_in_unit (L.10.004.01-15), unit U.10.004, domain [D04], pillar [P3]; strand↔objective pairs resolve to real D04 grade-10 standards (e.g. L.10.004.01 D04.S1→D04.S1.10.01, L.10.004.13 D04.S3→D04.S3.10.02, L.10.004.15 D04.S4→D04.S4.10.02). Required headings Procedure/Assessment/Facilitator note/Connection present and concrete in all 15. 15 SVG assets well-formed with non-empty alt; all (S-xxx) citations resolve in sources.yaml."
+      fact-checker:
+        verdict: passed
+        note: Verified all 20 citations (S-011, S-019, S-040, S-059, S-102, S-151, S-168, S-217, S-236, S-237, S-280, S-281, S-344, S-346, S-351, S-424, S-425, S-442, S-446, S-481) exist and are reviewed:true. Spot-checked highest-risk claims (Aristotle ethos/pathos/logos vs SEP S-346; WCAG POUR S-280; Ngugi/Anzaldua attributions S-424/S-425; UNESCO 40% figure S-019; Maathai Green Belt facts S-059) — all correctly attributed and on-claim. Evidence/values distinguished throughout. No fixes needed; validate passes.
+      global-culture-editor:
+        verdict: passed
+        note: "Checked framing/representation across all 15 lessons: rhetoric taught as one tradition among many (Aristotle as description not universal law); non-Western traditions present throughout (West African griots/jeli, Maori whaikorero, Indian nyaya debate, Islamic khutba L1; Maathai Nobel lecture L3; Ngugi/Anzaldua on colonial/border language L14; Achebe/Satrapi/Sundiata/Okorafor/Rumi/Basho as reading canon L8/L11). Multiple traditions held side-by-side, never ranked. Cultural accuracy precise (griots as genealogical oral historians), no stereotyping; politeness SVG uses culture-A/B placeholders. Connections span city/village/market/tree/court and multiple regions; home language honored first. No fixes needed."
+      accessibility-editor:
+        verdict: passed
+        note: "Verified UDL, low-tech tiers, and alt text/SVG accessibility across all 15 lessons and assets. Fixed the single real barrier: Lesson 5 public-address assessment now includes non-oral, non-standing, and eye-contact-optional delivery (sign, AAC, or written script). Validate passes (1453 files)."
+      alignment-auditor:
+        verdict: passed
+        note: Verified all four lenses (ethics, egalitarianism, global/anthropological, technology/environment) present in each lesson. Chain resolves lesson → strand → D04 → P3 → vision North Star (intellectually aware, distinguishing evidence from belief). Claims cited (S-IDs resolve); evidence distinguished from values. No hierarchy/supremacy/enrichment content.
+      child-psychologist:
+        verdict: passed
+        note: "Reviewed for 9-12 band: cognitive fit (formal operational load — competing models, Toulmin critique, evidence-vs-belief metacognition, full-work synthesis, scaffolded worked-example→guided→independent); emotional safety (colonial language/bias/manipulation at band depth with agency attached, fact separated from value, no shaming/nihilism); physical/attention fit (sustained full-work reading, segmented 55-60-min lessons); rigor-not-shallowness (Toulmin/WCAG/CEFR used precisely with extension paths); open-endedness (questions held as questions, evidence distinguished from belief per philosophy §11). No developmental blocks."
   - id: B-387
     title: Author lessons for Unit U.10.005 (Mathematics & Reasoning)
     agent: lesson-author

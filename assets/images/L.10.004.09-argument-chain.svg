@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Argument chain across a full work</title>
+  <desc id="desc">A chain of four linked loops running left to right in reading order, each loop labeled with a claim. Smaller tags hang below each loop showing its evidence, and a counter-argument tag is attached where the text raises one.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Following the Argument, Link by Link</text>
+
+  <!-- Chain links (rounded rects connected) -->
+  <g stroke="#2b3a42" stroke-width="3" fill="#fdfbf7">
+    <rect x="40" y="120" width="112" height="64" rx="18" fill="#eaf2ea"/>
+    <rect x="148" y="120" width="112" height="64" rx="18" fill="#dce9f0"/>
+    <rect x="256" y="120" width="112" height="64" rx="18" fill="#f6ead8"/>
+    <rect x="364" y="120" width="108" height="64" rx="18" fill="#eaf2ea"/>
+  </g>
+  <!-- connector bars -->
+  <g fill="#2b3a42">
+    <rect x="144" y="146" width="12" height="12" rx="3"/>
+    <rect x="252" y="146" width="12" height="12" rx="3"/>
+    <rect x="360" y="146" width="12" height="12" rx="3"/>
+  </g>
+
+  <!-- Claim labels -->
+  <g font-family="sans-serif" font-size="13" fill="#2b3a42" text-anchor="middle">
+    <text x="96" y="146" font-weight="bold">claim 1</text>
+    <text x="96" y="164">the thesis</text>
+    <text x="204" y="146" font-weight="bold">claim 2</text>
+    <text x="204" y="164">built on 1</text>
+    <text x="312" y="146" font-weight="bold">claim 3</text>
+    <text x="312" y="164">answers 2</text>
+    <text x="418" y="146" font-weight="bold">claim 4</text>
+    <text x="418" y="164">the landing</text>
+  </g>
+
+  <!-- Evidence tags -->
+  <g font-family="sans-serif" font-size="12" text-anchor="middle">
+    <line x1="96" y1="184" x2="96" y2="206" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="40" y="206" width="112" height="26" rx="8" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="96" y="223" fill="#3a5a3a">evidence</text>
+
+    <line x1="204" y1="184" x2="204" y2="206" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="148" y="206" width="112" height="26" rx="8" fill="#dce9f0" stroke="#6b93b6" stroke-width="2"/>
+    <text x="204" y="223" fill="#3a5a6a">evidence</text>
+
+    <line x1="312" y1="184" x2="312" y2="206" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="256" y="206" width="112" height="26" rx="8" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
+    <text x="312" y="223" fill="#8a6d4a">evidence</text>
+
+    <line x1="418" y1="184" x2="418" y2="206" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="364" y="206" width="108" height="26" rx="8" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="418" y="223" fill="#3a5a3a">evidence</text>
+  </g>
+
+  <!-- Counter-argument -->
+  <g font-family="sans-serif" font-size="12" text-anchor="middle">
+    <path d="M204 206 C 220 250, 260 250, 286 256" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="206" y="256" width="160" height="40" rx="8" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+    <text x="286" y="272" fill="#2b3a42" font-weight="bold">counter-argument</text>
+    <text x="286" y="288" fill="#8a6d4a">does the text answer it?</text>
+  </g>
+
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">For each link: does this evidence support this claim,</text>
+  <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">and does the author answer the strongest objection?</text>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">An argument is a chain you can inspect link by link.</text>
+</svg>

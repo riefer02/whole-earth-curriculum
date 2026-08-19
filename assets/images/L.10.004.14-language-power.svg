@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Language and power — whose words rule?</title>
+  <desc id="desc">Three columns labeled law, medicine, and school. Each shows whose language is used — a judge's bench, a clinic counter, a classroom — and a shadowed figure below representing who is left out when the language is not the community's own.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Whose Words Rule the Room?</text>
+
+  <!-- Law -->
+  <rect x="28" y="64" width="146" height="250" rx="12" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="101" y="90" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Law</text>
+  <rect x="60" y="104" width="82" height="46" rx="6" fill="#4f6d7a"/>
+  <circle cx="80" cy="127" r="10" fill="#e0a458"/>
+  <text x="120" y="131" font-family="sans-serif" font-size="12" fill="#fdfbf7">the bench</text>
+  <text x="101" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">official, technical</text>
+  <text x="101" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">language decides</text>
+  <text x="101" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">who is heard</text>
+  <!-- shadowed figure -->
+  <circle cx="101" cy="250" r="16" fill="#c9c4ba"/>
+  <rect x="85" y="268" width="32" height="34" rx="9" fill="#c9c4ba"/>
+  <text x="101" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">who is left out?</text>
+
+  <!-- Medicine -->
+  <rect x="183" y="64" width="146" height="250" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Medicine</text>
+  <rect x="215" y="104" width="82" height="46" rx="6" fill="#e0a458"/>
+  <circle cx="235" cy="127" r="10" fill="#fdfbf7"/>
+  <text x="276" y="131" font-family="sans-serif" font-size="12" fill="#2b3a42">the clinic</text>
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">jargon decides</text>
+  <text x="256" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">who understands</text>
+  <text x="256" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">their own care</text>
+  <circle cx="256" cy="250" r="16" fill="#c9c4ba"/>
+  <rect x="240" y="268" width="32" height="34" rx="9" fill="#c9c4ba"/>
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">who is left out?</text>
+
+  <!-- School -->
+  <rect x="338" y="64" width="146" height="250" rx="12" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="411" y="90" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">School</text>
+  <rect x="370" y="104" width="82" height="46" rx="6" fill="#7a9e7e"/>
+  <circle cx="390" cy="127" r="10" fill="#fdfbf7"/>
+  <text x="431" y="131" font-family="sans-serif" font-size="12" fill="#2b3a42">the classroom</text>
+  <text x="411" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">one "standard"</text>
+  <text x="411" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">language decides</text>
+  <text x="411" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">who learns easily</text>
+  <circle cx="411" cy="250" r="16" fill="#c9c4ba"/>
+  <rect x="395" y="268" width="32" height="34" rx="9" fill="#c9c4ba"/>
+  <text x="411" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">who is left out?</text>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Language is a gate: whoever sets the language sets</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">who is at home in the room and who is a stranger in it.</text>
+
+  <rect x="80" y="404" width="352" height="56" rx="12" fill="#dce9f0"/>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Fact: some languages are privileged here.</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#3a5a6a">Value: every language deserves to be a language of power and care.</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Naming it is the first step toward language justice.</text>
+</svg>
