@@ -70,3 +70,17 @@ designing out waste — and compare it with a take-make-waste linear economy.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | The Data Trail: What We Leave Behind | D10.S1.10.01 |
+| 2 | Surveillance, Freedom, and Power | D10.S1.10.01 |
+| 3 | Automation and Work: Who Gains, Who Loses | D10.S1.10.01 |
+| 4 | Weighing an Emerging Technology: Promises and Risks | D10.S1.10.02 |
+| 5 | The Fact-Checking Method: Trace the Evidence | D10.S2.10.01 |
+| 6 | Fact and Interpretation: A Real Claim, Checked | D10.S2.10.01 |
+| 7 | Who Owns the News? Media Ownership | D10.S2.10.02 |
+| 8 | What Gets Reported and What Gets Left Out | D10.S2.10.02 |
+| 9 | Ecosystem Services: Nature's Free Labor | D10.S3.10.01 |
+| 10 | Biodiversity: The Foundation Under the Services | D10.S3.10.01 |
+| 11 | Tipping Points: When Change Becomes Hard to Reverse | D10.S3.10.02 |
+| 12 | The Circular Economy: Designing Out Waste | D10.S4.10.02 |
+| 13 | Evaluating a Sustainability Solution: Benefits, Limits, Fairness | D10.S4.10.01 |
+| 14 | Our Earth Home: Putting It Together | D10.S4.10.01 |

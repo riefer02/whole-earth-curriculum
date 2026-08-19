@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t4 d4">
+  <title id="t4">Weighing an emerging technology</title>
+  <desc id="d4">A balance scale with promises on one pan labeled help, speed, and access, and risks on the other labeled harm, cost, and unintended effects.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <path d="M256 96 v60" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M256 156 L96 300" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M256 156 L416 300" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M256 156 v-30 l-40 -20 h80 l-40 20" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M96 300 a50 50 0 0 0 0 60 h0 a50 50 0 0 0 0 -60" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M416 300 a50 50 0 0 1 0 60 h0 a50 50 0 0 1 0 -60" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M96 302 L46 210 h100 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M416 302 L366 210 h100 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">promises</text>
+  <text x="416" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">risks</text>
+  <text x="96" y="402" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">help</text>
+  <text x="96" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">speed</text>
+  <text x="96" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">access</text>
+  <text x="416" y="402" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">harm</text>
+  <text x="416" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">cost</text>
+  <text x="416" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">unintended</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">For whom? For the Earth?</text>
+</svg>

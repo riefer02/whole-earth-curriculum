@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t11 d11">
+  <title id="t11">Tipping points</title>
+  <desc id="d11">A ball sits in a shallow valley beside a ridge; an arrow shows it being pushed over the ridge into a deeper valley, where it stays.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <path d="M40 360 Q140 300 220 360 Q300 420 380 300 Q430 240 472 260" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="150" cy="330" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="340" cy="296" r="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M170 330 q70 -40 150 -34" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M328 296 l12 -8 M334 296 l12 8" stroke="#2b3a42" stroke-width="3"/>
+  <text x="150" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">before</text>
+  <text x="360" y="352" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">after</text>
+  <text x="280" y="430" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">The ridge is the threshold</text>
+  <text x="280" y="456" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Once over, it does not roll back on its own</text>
+</svg>

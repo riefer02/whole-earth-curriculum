@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t1 d1">
+  <title id="t1">The data trail</title>
+  <desc id="d1">A person walks a day path from morning to night; at each stop a small icon drops a labeled data breadcrumb such as location, search, purchase, and message.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <path d="M48 96 H200 L248 144 L200 192 H120" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M300 96 H464" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="96" cy="60" r="18" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="66" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">Sun</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="150" cy="150" r="26"/>
+    <path d="M136 190 L150 216 L164 190"/>
+  </g>
+  <text x="150" y="242" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">morning</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="212" y="120" width="52" height="34" rx="6"/>
+    <rect x="228" y="154" width="20" height="26"/>
+  </g>
+  <text x="238" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">bus card</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="320" cy="150" r="24"/>
+    <path d="M320 134 a14 14 0 0 1 14 20 l-14 20 l-14 -20 a14 14 0 0 1 14 -20" transform="translate(0,0)"/>
+  </g>
+  <text x="320" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">search</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="404" y="122" width="56" height="36" rx="6"/>
+    <rect x="422" y="132" width="20" height="16"/>
+  </g>
+  <text x="432" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">purchase</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="90" y="300" width="56" height="40" rx="8"/>
+    <path d="M118 314 l-10 10 l6 8"/>
+  </g>
+  <text x="118" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">message</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="240" y="300" width="60" height="44" rx="6"/>
+    <circle cx="270" cy="322" r="7"/>
+    <path d="M252 336 a18 18 0 0 0 36 0"/>
+  </g>
+  <text x="270" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">location</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="390" y="300" width="56" height="40" rx="8"/>
+    <path d="M408 316 l8 8 m0 -8 l-8 8"/>
+  </g>
+  <text x="418" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">photo</text>
+  <g fill="#e0a458">
+    <circle cx="150" cy="286" r="7"/>
+    <circle cx="238" cy="276" r="7"/>
+    <circle cx="320" cy="286" r="7"/>
+    <circle cx="432" cy="276" r="7"/>
+    <circle cx="118" cy="286" r="7"/>
+    <circle cx="270" cy="276" r="7"/>
+    <circle cx="418" cy="286" r="7"/>
+  </g>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Every stop drops a data breadcrumb</text>
+</svg>

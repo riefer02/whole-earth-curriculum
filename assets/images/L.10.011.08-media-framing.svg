@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t8 d8">
+  <title id="t8">Media framing</title>
+  <desc id="d8">A rectangle frames part of a street scene; some items are labeled inside the frame and others outside, showing the same event looks different depending on the frame.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <rect x="120" y="90" width="272" height="240" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="176" y="200" width="70" height="70" fill="#e0a458"/>
+    <path d="M176 200 l35 -30 h35 l-35 30"/>
+    <rect x="300" y="210" width="56" height="60" fill="#7a9e7e"/>
+    <circle cx="300" cy="120" r="16"/>
+  </g>
+  <text x="211" y="250" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">in frame</text>
+  <text x="211" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">(shown)</text>
+  <text x="328" y="250" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">in frame</text>
+  <text x="328" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">(shown)</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="40" y="160" width="52" height="52" fill="none" stroke-dasharray="5 5"/>
+    <rect x="420" y="150" width="52" height="52" fill="none" stroke-dasharray="5 5"/>
+  </g>
+  <text x="66" y="140" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">left out</text>
+  <text x="446" y="140" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">left out</text>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">What is inside the frame</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">— and what is outside?</text>
+</svg>

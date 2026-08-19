@@ -1371,9 +1371,9 @@ sources:
     type: website
     url: https://www.un.org/en/about-us/universal-declaration-of-human-rights
     organization: United Nations
-    domains: [D09]
+    domains: [D09, D10]
     reviewed: true
-    notes: "Cited in U.04.010 L03 (Dignity: Being a Person of Worth) for the shared value that every person is born with dignity and worth (Article 1), and in U.07.010 L05 (Article 1: all human beings born free and equal in dignity and rights) and U.07.010 L06 (Article 21: the right to take part in government, directly or through freely chosen representatives, with equal voting). Real UN document (1948); URL verified live (2026-08-17). Article 1 and Article 21 texts re-verified (2026-08-18): Article 1 'All human beings are born free and equal in dignity and rights'; Article 21 affirms the right to take part in government directly or through freely chosen representatives and to equal access to public service, and that the will of the people shall be the basis of authority, expressed in periodic and genuine elections by universal and equal suffrage."
+    notes: "Cited in U.04.010 L03 (Dignity: Being a Person of Worth) for the shared value that every person is born with dignity and worth (Article 1), and in U.07.010 L05 (Article 1: all human beings born free and equal in dignity and rights) and U.07.010 L06 (Article 21: the right to take part in government, directly or through freely chosen representatives, with equal voting). Also cited in U.10.011 L02 (Surveillance, Freedom, and Power) for privacy as a recognized right — protection from arbitrary interference (Article 12: 'No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence'). Real UN document (1948); URL verified live (2026-08-17). Article 1, Article 12, and Article 21 texts re-verified (2026-08-18): Article 1 'All human beings are born free and equal in dignity and rights'; Article 12 affirms the right to privacy against arbitrary interference; Article 21 affirms the right to take part in government directly or through freely chosen representatives and to equal access to public service, and that the will of the people shall be the basis of authority, expressed in periodic and genuine elections by universal and equal suffrage."
 
   - id: S-150
     title: "TeachEngineering — Engineering Design Process"

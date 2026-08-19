@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t5 d5">
+  <title id="t5">The SIFT fact-checking method</title>
+  <desc id="d5">Four rounded steps in a row with arrows between them: Stop, Investigate the source, Find better coverage, and Trace to the original.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <rect x="36" y="170" width="100" height="120" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="152" y="170" width="100" height="120" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="268" y="170" width="100" height="120" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="384" y="170" width="100" height="120" rx="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="86" y="215" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">S</text>
+  <text x="86" y="245" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Stop</text>
+  <text x="202" y="215" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">I</text>
+  <text x="202" y="238" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Investigate</text>
+  <text x="202" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the source</text>
+  <text x="318" y="215" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">F</text>
+  <text x="318" y="238" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Find better</text>
+  <text x="318" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">coverage</text>
+  <text x="434" y="215" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#fdfbf7">T</text>
+  <text x="434" y="238" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#fdfbf7">Trace to</text>
+  <text x="434" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#fdfbf7">the original</text>
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <path d="M140 230 h8"/>
+    <path d="M256 230 h8"/>
+    <path d="M372 230 h8"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="#2b3a42">
+    <path d="M136 224 l12 6 l-12 6"/>
+    <path d="M252 224 l12 6 l-12 6"/>
+    <path d="M368 224 l12 6 l-12 6"/>
+  </g>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Check by leaving the page</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">(lateral reading, not deeper scrolling)</text>
+</svg>

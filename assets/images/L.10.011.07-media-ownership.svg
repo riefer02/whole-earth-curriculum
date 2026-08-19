@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t7 d7">
+  <title id="t7">Media ownership concentration</title>
+  <desc id="d7">Many outlet boxes at the bottom trace up through arrows into just three owner boxes at the top, showing concentration of ownership.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <rect x="72" y="40" width="120" height="64" rx="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="196" y="40" width="120" height="64" rx="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="320" y="40" width="120" height="64" rx="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="132" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#fdfbf7">owner A</text>
+  <text x="132" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#fdfbf7">(few, big)</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#fdfbf7">owner B</text>
+  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#fdfbf7">(few, big)</text>
+  <text x="380" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#fdfbf7">owner C</text>
+  <text x="380" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#fdfbf7">(few, big)</text>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <path d="M132 104 C132 150 90 150 90 190"/>
+    <path d="M132 104 C132 150 174 150 174 190"/>
+    <path d="M256 104 C256 150 214 150 214 190"/>
+    <path d="M256 104 C256 150 298 150 298 190"/>
+    <path d="M380 104 C380 150 338 150 338 190"/>
+    <path d="M380 104 C380 150 422 150 422 190"/>
+  </g>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <rect x="58" y="190" width="64" height="52" rx="6"/>
+    <rect x="142" y="190" width="64" height="52" rx="6"/>
+    <rect x="182" y="190" width="64" height="52" rx="6"/>
+    <rect x="266" y="190" width="64" height="52" rx="6"/>
+    <rect x="306" y="190" width="64" height="52" rx="6"/>
+    <rect x="390" y="190" width="64" height="52" rx="6"/>
+  </g>
+  <text x="90" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">outlet</text>
+  <text x="174" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">outlet</text>
+  <text x="214" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">outlet</text>
+  <text x="298" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">outlet</text>
+  <text x="338" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">outlet</text>
+  <text x="422" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">outlet</text>
+  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Many names, few owners</text>
+  <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">= concentration</text>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Variety that is not real</text>
+</svg>

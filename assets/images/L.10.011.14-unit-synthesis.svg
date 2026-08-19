@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t14 d14">
+  <title id="t14">Unit synthesis: neither worship nor fear</title>
+  <desc id="d14">A circle divided into four labeled quadrants — technology and society, media literacy, ecology, and stewardship — around a center labeled neither worship nor fear.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="256" y1="76" x2="256" y2="436" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="76" y1="256" x2="436" y2="256" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">technology</text>
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">&amp; society</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">ecology</text>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">&amp; systems</text>
+  <text x="122" y="250" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">media</text>
+  <text x="122" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">literacy</text>
+  <text x="390" y="250" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">stewardship</text>
+  <text x="390" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">&amp; solutions</text>
+  <circle cx="256" cy="256" r="70" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">neither</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">worship</text>
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">nor fear</text>
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">One stance, one shared Earth home</text>
+</svg>

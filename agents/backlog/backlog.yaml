@@ -5951,7 +5951,7 @@ items:
     type: lesson
     grade: 10
     domain: D10
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5963,6 +5963,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1546 files). All 14 lessons: kind lesson, id L.10.011.NN matching sequence_in_unit 1-14, unit U.10.011, domain [D10], pillar [P4]; strands map S1→L1-4, S2→L5-8, S3→L9-11, S4→L12-14. All 8 objectives resolve to real D10 grade-10 standards and covered (S1.10.01 L1/2/3, S1.10.02 L4, S2.10.01 L5/6, S2.10.02 L7/8, S3.10.01 L9/10, S3.10.02 L11, S4.10.01 L13, S4.10.02 L12; L14 synthesis revisits all). Required headings present in all 14. 14 assets non-empty alt + resolving paths; unit.md table matches. Connections concrete/faithful (L2 who watches whom, L11 stone-over-the-crest, L12 leaf-loop vs bottle-line)."
+      fact-checker:
+        verdict: passed
+        note: "Verified all 37 citations exist and are reviewed:true and support claims (SIFT method S-394/S-316, IPBES five drivers S-437, coral bleaching NOAA S-215, ~1/5 food waste UNEP S-410, Brundtland S-395, EMF circular-economy S-452, hedged Yellowstone cascade S-310, keystone species S-176, pollination S-330, Lukes power S-275, WDR2016 digital divide S-281, machine-translation limits S-350, WITNESS deepfakes S-393, Ostrom commons S-416, Green Belt Movement S-059, CSIRO cultural burning S-320, EPA/Bullard environmental justice S-483/484). No fabricated/misattributed citations. Fixed: updated S-149 note to record UDHR Art.12 privacy usage in L02 + added D10 domain. Evidence vs values flagged in every facilitator note."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default across all 14 lessons. Digital divide handled globally (World Bank Digital Dividends S-281 woven through L1-4, 'some people's data over-collected while others excluded', never assuming device/screen access; every lesson has low-tech + outdoor-only variant). Media ownership L7 names public-service broadcasting/community radio/press-freedom as varying widely 'none the human default', anchored by UNESCO MIL + Adichie's Danger of a Single Story. Indigenous knowledge held side-by-side with Western science per §11 (cultural burning CSIRO Australia, Kimmerer's intrinsic-value argument alongside ecosystem-services, Ostrom community commons, Green Belt Movement Kenya women-led, high-tech vs community-based solutions weighed co-equal). Connections span regions/lifeways. Informational-only note: environmental-justice sources S-483/S-484 US-anchored in L13 but balanced by Brundtland/Ostrom/CSIRO/Maathai."
+      accessibility-editor:
+        verdict: passed
+        note: materials_low_tech declared in all 14 lessons; non-empty alt on all 14 assets entries; role=img + title/desc on all 14 SVGs; no silent device/wealth requirement (devices only in optional enriched tier; tech/media lessons teach core skill on paper with provided claims/cases + offline alternatives); verbal non-visual paths for every diagram (worked examples + SVG desc, e.g. L11 heavy-stone-over-the-crest, L2 asymmetry walkthrough); non-motor/non-speaking alternatives (voice, diagram, partner-read, spoken-and-transcribed statement in L14); plain global language. No barriers found.
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses verified: ethics (privacy/surveillance/power/emerging tech — 'watching can be a duty of care or a tool of domination'), egalitarianism (digital divide, who-gains/who-loses, environmental justice, 'a solution is as good as its most left-behind person'), global/anthropological (World Bank, UNESCO, IPBES, Green Belt Movement Kenya, Adichie, indigenous cultural burning, Kimmerer reciprocity), technology & environment (core, 'neither worship nor fear'). Traceability intact: all objectives resolve verbatim to real D10 grade-10 standards → D10 → P4 → vision. Evidence vs values distinguished; claims cited to S-IDs all present. No hierarchy/supremacy/techno-utopianism. Fixed: added environment lens to L5/L6 (fact-checking strand) frontmatter + facilitator notes so all 14 carry all four lenses. Validate green (1546 files)."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: cognitive (surveillance asymmetry, media framing, ecosystem tipping points, circular economy calibrated to formal operations, single-concept lessons with worked examples, not overloaded); emotional (surveillance hedged non-panicky 'it genuinely powers useful things and genuinely enables watching', automation hedged 'net effect debated', tipping points anchored to 'prevention outranks repair'/'cheapest time to steer is before the crest' — agency not despair; learner's own data/privacy treated reflectively not shamefully; closes on self-authored steward's statement); physical (near-adult seated work, motor options optional/outdoor alternatives, no step requires writing); rigor (evidence vs values distinguished, sourced); open-ended (questions held as questions per §11, 'neither worship nor fear' as practice)."
   - id: B-394
     title: Author lessons for Unit U.10.012 (All of Me, All of Us)
     agent: lesson-author
