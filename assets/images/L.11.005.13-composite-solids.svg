@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Composite Solids: Volume and Surface Area</title>
+  <desc id="desc">A grain silo drawn as a cylinder topped by a hemisphere, with radius r and cylinder height h labeled. The volume is written as cylinder volume plus hemisphere volume: pi r squared h plus two-thirds pi r cubed. The surface area is shown as the side of the cylinder plus the cap of the hemisphere. A note explains that complex shapes are built by adding simpler ones.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Silo: Cylinder + Hemisphere</text>
+
+  <!-- silo -->
+  <rect x="140" y="150" width="160" height="200" fill="#7a9e7e" fill-opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M 140 150 A 80 80 0 0 1 300 150" fill="#7a9e7e" fill-opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="140" y1="150" x2="140" y2="350" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="300" y1="150" x2="300" y2="350" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="140" y1="350" x2="300" y2="350" stroke="#2b3a42" stroke-width="2.5"/>
+  <!-- labels -->
+  <line x1="140" y1="150" x2="140" y2="70" stroke="#e0a458" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="112" y="112" font-family="sans-serif" font-size="14" fill="#e0a458">r</text>
+  <line x1="320" y1="150" x2="320" y2="350" stroke="#6b93b6" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="330" y="255" font-family="sans-serif" font-size="14" fill="#6b93b6">h</text>
+
+  <!-- formulas -->
+  <rect x="340" y="150" width="156" height="150" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="418" y="176" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Volume =</text>
+  <text x="418" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">&#960;r&#178;h  (cylinder)</text>
+  <text x="418" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">+ 2/3&#960;r&#179; (hemisphere)</text>
+  <text x="418" y="248" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Surface =</text>
+  <text x="418" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2&#960;rh (side)</text>
+  <text x="418" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">+ 2&#960;r&#178; (cap)</text>
+
+  <!-- footer -->
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Decompose &#8594; compute each part &#8594; combine.</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Shared faces are not part of the outer surface.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Ancient Egypt, China, and India knew these volumes (S-288, S-289, S-292).</text>
+</svg>

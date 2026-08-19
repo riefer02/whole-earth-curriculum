@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Modeling Periodic Phenomena: Tides</title>
+  <desc id="desc">A graph of tide height over time. A smooth cosine curve passes through data points showing high tide at 5 meters and low tide at 1 meter, repeating every 12 hours. The amplitude (2), midline (3), and period (12 hours) are labeled with arrows, and the model h equals 2 cosine plus 3 is written.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Fitting a Wave to the Tide</text>
+
+  <!-- axes -->
+  <line x1="40" y1="340" x2="480" y2="340" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="40" y1="60" x2="40" y2="360" stroke="#2b3a42" stroke-width="2"/>
+  <text x="486" y="344" font-family="sans-serif" font-size="12" fill="#222222">time</text>
+
+  <!-- midline y=200 (3m) -->
+  <line x1="40" y1="200" x2="480" y2="200" stroke="#e0a458" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="486" y="204" font-family="sans-serif" font-size="12" fill="#e0a458">midline 3 m</text>
+
+  <!-- cosine wave, peaks at y=120 (5m), troughs y=280 (1m), period 200 -->
+  <path d="M 60 120
+           C 90 120, 110 200, 160 200
+           C 210 200, 230 280, 260 280
+           C 290 280, 310 200, 360 200
+           C 410 200, 430 120, 460 120"
+        fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- data points -->
+  <circle cx="60" cy="120" r="6" fill="#6b93b6"/>
+  <circle cx="260" cy="280" r="6" fill="#6b93b6"/>
+  <circle cx="460" cy="120" r="6" fill="#6b93b6"/>
+  <text x="72" y="112" font-family="sans-serif" font-size="13" fill="#222222">high tide 5 m</text>
+  <text x="272" y="296" font-family="sans-serif" font-size="13" fill="#222222">low tide 1 m</text>
+
+  <!-- amplitude -->
+  <line x1="320" y1="200" x2="320" y2="120" stroke="#7a9e7e" stroke-width="2"/>
+  <polygon points="320,120 314,132 326,132" fill="#7a9e7e"/>
+  <text x="328" y="155" font-family="sans-serif" font-size="13" fill="#7a9e7e">amp 2</text>
+
+  <!-- period -->
+  <line x1="60" y1="320" x2="460" y2="320" stroke="#6b93b6" stroke-width="2"/>
+  <polygon points="60,320 72,314 72,326" fill="#6b93b6"/>
+  <polygon points="460,320 448,314 448,326" fill="#6b93b6"/>
+  <text x="260" y="312" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6">period 12 h</text>
+
+  <!-- formula -->
+  <rect x="140" y="392" width="232" height="44" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">h = 2&#183;cos(2&#960;t/12) + 3</text>
+</svg>

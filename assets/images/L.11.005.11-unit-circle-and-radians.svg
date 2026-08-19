@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Unit Circle and Radians</title>
+  <desc id="desc">A unit circle centered at the origin with a radius drawn at angle theta. The point on the circle is labeled (cos theta, sin theta). A dashed right triangle drops from the point to the x-axis, showing the cosine and sine as horizontal and vertical lengths. A small arc marks the angle theta as one radius of arc, and the quadrants are labeled with the signs of sine and cosine.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Unit Circle</text>
+
+  <!-- axes -->
+  <line x1="256" y1="60" x2="256" y2="440" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="60" y1="250" x2="452" y2="250" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- circle radius 150, center (256,250) -->
+  <circle cx="256" cy="250" r="150" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- radius at ~40 degrees: point (256+115, 250-96) = (371,154) -->
+  <line x1="256" y1="250" x2="371" y2="154" stroke="#e0a458" stroke-width="3"/>
+  <circle cx="371" cy="154" r="6" fill="#e0a458"/>
+  <text x="384" y="146" font-family="sans-serif" font-size="14" fill="#222222">(cos &#952;, sin &#952;)</text>
+
+  <!-- dashed right triangle -->
+  <line x1="371" y1="154" x2="371" y2="250" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="6 5"/>
+  <line x1="256" y1="250" x2="371" y2="250" stroke="#6b93b6" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="378" y="210" font-family="sans-serif" font-size="13" fill="#7a9e7e">sin &#952;</text>
+  <text x="305" y="268" font-family="sans-serif" font-size="13" fill="#6b93b6">cos &#952;</text>
+
+  <!-- angle arc -->
+  <path d="M 306 250 A 50 50 0 0 0 292 210" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="322" y="232" font-family="sans-serif" font-size="15" fill="#4f6d7a">&#952;</text>
+  <text x="318" y="196" font-family="sans-serif" font-size="12" fill="#4f6d7a">1 radian = 1 radius of arc</text>
+
+  <!-- quadrant signs -->
+  <text x="200" y="80" font-family="sans-serif" font-size="13" fill="#4f6d7a">II: sin +, cos &#8722;</text>
+  <text x="330" y="80" font-family="sans-serif" font-size="13" fill="#4f6d7a">I: sin +, cos +</text>
+  <text x="200" y="432" font-family="sans-serif" font-size="13" fill="#4f6d7a">III: sin &#8722;, cos &#8722;</text>
+  <text x="330" y="432" font-family="sans-serif" font-size="13" fill="#4f6d7a">IV: sin &#8722;, cos +</text>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">full turn = 2&#960; radians &#183; radius 1, so the point is (cos, sin)</text>
+</svg>

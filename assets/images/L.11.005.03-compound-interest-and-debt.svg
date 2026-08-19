@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Compound Interest and Debt</title>
+  <desc id="desc">A chart with a rising savings curve made of connected points labeled 100, 105, 110.25, and 115.76, showing compound growth over three years. Beside it, a box compares a loan: 100 borrowed at 20 percent becomes 172.80 after three years, and a 200 loan repaid in twenty-four payments of 10 totals 240. The formula A equals P times (1 plus r) to the power t is shown.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Compound Interest: Two Faces</text>
+
+  <!-- Savings curve -->
+  <text x="128" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Saving (factor helps)</text>
+  <line x1="40" y1="300" x2="216" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="40" y1="300" x2="40" y2="110" stroke="#2b3a42" stroke-width="2"/>
+  <polyline points="56,290 112,272 168,240 212,192" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <circle cx="56" cy="290" r="5" fill="#7a9e7e"/>
+  <circle cx="112" cy="272" r="5" fill="#7a9e7e"/>
+  <circle cx="168" cy="240" r="5" fill="#7a9e7e"/>
+  <circle cx="212" cy="192" r="5" fill="#7a9e7e"/>
+  <text x="62" y="306" font-family="sans-serif" font-size="12" fill="#222222">100</text>
+  <text x="108" y="288" font-family="sans-serif" font-size="12" fill="#222222">105</text>
+  <text x="164" y="232" font-family="sans-serif" font-size="12" fill="#222222">110.25</text>
+  <text x="196" y="184" font-family="sans-serif" font-size="12" fill="#222222">115.76</text>
+  <text x="128" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">A = P&#183;(1 + r)&#7511;</text>
+  <text x="128" y="356" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">100 &#8594; 105 &#8594; 110.25 &#8594; 115.76</text>
+
+  <!-- Debt box -->
+  <text x="384" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Debt (factor burdens)</text>
+  <rect x="288" y="90" width="192" height="210" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="384" y="118" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Unpaid loan at 20%:</text>
+  <text x="384" y="142" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">100 &#8594; 120 &#8594; 144 &#8594; 172.80</text>
+  <text x="384" y="168" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the same factor, now against you</text>
+  <line x1="304" y1="184" x2="464" y2="184" stroke="#6b93b6" stroke-width="2"/>
+  <text x="384" y="208" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Installments add up:</text>
+  <text x="384" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">200 loan, 24 payments of 10</text>
+  <text x="384" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">total repaid = 240</text>
+  <text x="384" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the difference is the cost of credit</text>
+
+  <!-- Footer -->
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Read the rate. See the true total.</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Financial literacy is a fair-shares skill for everyone.</text>
+</svg>

@@ -6173,7 +6173,7 @@ items:
     type: lesson
     grade: 11
     domain: D05
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6185,6 +6185,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1622 files). All 16 lessons: kind lesson, id L.11.005.NN matching sequence_in_unit, unit U.11.005, domain [D05], pillar [P3]; strands/objectives resolve to real D05 grade-11 standards; all 8 objectives covered (S1.11.01 x4, S1.11.02 x2, S2.11.01 x2, S2.11.02 x2, S3.11.01 x2, S3.11.02 x1, S4.11.01 x1, S4.11.02 x2). Required headings present in all 16. Spot-checked: L014 objective (mean/SD/normal distribution D05.S4.11.01); L003 Connection (total repaid is a series larger than principal); compound interest A=P(1+r)^t, empirical rule 68-95-99.7, Law of Sines/Cosines age-appropriate; sources S-011/S-028/S-429/S-432 resolve; 16 assets non-empty alt + resolving paths; unit.md table matches."
+      fact-checker:
+        verdict: passed
+        note: "Spot-checked computations all correct (arithmetic/geometric sequences, compound interest 100(1.05)^3=115.76, vectors sqrt(4^2+3^2)=5, matrix product, wave y=2sin(3(x-pi/4))+1 → amplitude 2 period 2pi/3, log laws, carbon-14 ≈9950yr, rule of 70, Law of Cosines c≈6.24 / Sines b≈10.78, composite-solid silo 136pi/3, empirical rule 68-95-99.7). Historical claims verified (Hindu-Arabic numerals, rice-and-chessboard, Polynesian wayfinding, Indian origin of sine, al-Kashi, Egyptian Moscow Papyrus truncated-pyramid, Chinese Nine Chapters volumes, Sulba Sutras, Babylonian degrees, Du Bois Data Portraits, Quetelet average man). Fixed misattribution: Lo Shu square was cited to S-289 (Nine Chapters, never mentions it) — added verified S-496 (Wikipedia Luoshu Square) and corrected L006. Updated S-288 note. Validate passes (1622 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Non-Western knowledge traditions credited accurately and integrated into bodies (not decoration): Hindu-Arabic numerals + Fibonacci transmission L1, Indian origin of sine jya→jiba→sinus L7, Greek chords/Indian sines/al-Kashi cosine law L12, Egyptian Moscow Papyrus + Chinese Nine Chapters + Indian Sulba Sutras volumes L13, Babylonian base-60 degrees side-by-side with radian L11, Lo Shu square L6, Polynesian wayfinding L5, Andean khipu L1. Connections span regions/ways of life (coastal fishers/ferry pilots/farmers, market traders, village harvests; L8 notes daylight 'near the equator it barely changes' avoiding temperate default). Fixed: L14 added in-body sentence crediting Du Bois 1900 Data Portraits as data turned toward justice (constructive Black counter-tradition held side-by-side with Western misuse, not footnote). Validate passes (1622 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "All 16 lessons declare materials_low_tech (counters/pebbles/seeds, string/knots, rope, folded paper, grid paper, chalk, voice) with tactile/verbal equivalents for visual-heavy topics (vectors stick/ruler ground-drawing + walk-the-journey; matrices plain-text code + grid-paper counters + rosters/timetables; waves/unit-circle rope/arm swing/plate+string radian; normal distribution pebbles-sorted-by-size + chalk histogram). Calculators/spreadsheets/apps only under enriched tier. All 16 assets non-empty descriptive alt; all SVGs role=img + title/desc. Fixed: L14 Support tier directed 'add the SD with a calculator' (device requirement outside enriched tier) — reworded calculator optional + no-arithmetic pebbles-and-spread path offered. Validate passes (1622 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: all objectives resolve to real D05 grade-11 standards (all 8 present) → D05 → P3 → vision (intellectually aware). Four lenses: ethics (debt/fair-shares financial literacy, bell-curve misuse + Du Bois, leading questions, reading numbers as citizens), egalitarianism ('mastery not ranking', 'no normal person', 'outlier is information not a verdict', fair sampling, no 'math = smart'), global/anthropological (Hindu-Arabic numerals, khipu, rice-and-chessboard, Polynesian wayfinding, Lo Shu square, jya→sine, Babylonian degrees, Egyptian/Chinese/Indian volumes, al-Kashi, Archimedes), technology & environment (vectors in nav/game engines, matrices in graphics/ML, sine waves in devices, log scales, pollution/bloom/half-life/water-security). Evidence vs values explicit; S-codes resolve. Math spot-checks correct. No hierarchy/supremacy/enrichment."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: cognitive fit (sequences/series, vectors/matrices, trig as waves, logarithms, Law of Sines/Cosines, composite solids, normal distribution, survey design all in formal-operations range, spiraling from Grade 10 retrieval with worked-example→guided→independent + support/extension tiers, not overloaded). Emotional safety: math anxiety met with 'mastery not ranking'/'not a ranking ritual', no public scoring (formative/self/peer/portfolio), finance framed 'fair-shares... never shame or ranking'/'not a test of who is good with numbers', bell curve rejects 'average man'/'normal person' misuse ('no normal person; an outlier is information not a verdict'). Physical: movement activities carry seated/low-tech graph-paper alternatives. Open-endedness: questions held as questions, evidence-vs-values recurs throughout."
   - id: B-400
     title: "Author lessons for Unit U.11.006 (Science: Systems, Evidence & Our Origins)"
     agent: lesson-author

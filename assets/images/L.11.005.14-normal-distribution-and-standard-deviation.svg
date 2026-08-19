@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Normal Distribution and Standard Deviation</title>
+  <desc id="desc">A bell curve with the mean at the center and shaded bands at one, two, and three standard deviations on each side. Labels show the empirical rule: about 68 percent within one standard deviation, 95 percent within two, and 99.7 percent within three. A small circle far out on the right tail is marked as an outlier.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Bell Curve: Center and Spread</text>
+
+  <!-- bell curve -->
+  <path d="M 40 360 C 40 360, 60 360, 90 356 C 150 344, 190 240, 256 240 C 322 240, 362 344, 422 356 C 452 360, 472 360, 472 360"
+        fill="#7a9e7e" fill-opacity="0.25" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- axes -->
+  <line x1="40" y1="360" x2="472" y2="360" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- mean line -->
+  <line x1="256" y1="240" x2="256" y2="360" stroke="#e0a458" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458">mean</text>
+
+  <!-- SD markers -->
+  <line x1="156" y1="268" x2="156" y2="360" stroke="#6b93b6" stroke-width="2"/>
+  <line x1="356" y1="268" x2="356" y2="360" stroke="#6b93b6" stroke-width="2"/>
+  <line x1="90" y1="322" x2="90" y2="360" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="422" y1="322" x2="422" y2="360" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="156" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">&#8722;1</text>
+  <text x="356" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">+1</text>
+  <text x="90" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">&#8722;2</text>
+  <text x="422" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">+2</text>
+
+  <!-- outlier -->
+  <circle cx="452" cy="352" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="452" y="342" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458">outlier</text>
+
+  <!-- empirical rule -->
+  <rect x="120" y="404" width="272" height="92" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Empirical rule (bell curve)</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">&#177;1 SD &#8776; 68% &#183; &#177;2 SD &#8776; 95% &#183; &#177;3 SD &#8776; 99.7%</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">z = (value &#8722; mean) / SD</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">an outlier is information, not a verdict</text>
+</svg>

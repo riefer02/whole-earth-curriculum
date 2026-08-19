@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Exponential and Logarithmic Models</title>
+  <desc id="desc">Two panels. Left panel: a radioactive decay curve falling toward zero with half-life steps marked 1, one half, one quarter, one eighth, and the equation t equals log of the fraction over log of one half. Right panel: a rising growth curve with doubling time marked and the equation t equals log 2 over log of one plus r.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Logs Answer "How Long?"</text>
+
+  <!-- Decay panel -->
+  <text x="128" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Decay (half-life)</text>
+  <line x1="36" y1="300" x2="220" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="36" y1="300" x2="36" y2="110" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 48 130 C 70 130, 80 200, 104 210 C 130 220, 140 250, 164 255 C 188 260, 196 280, 210 283" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <circle cx="48" cy="130" r="5" fill="#6b93b6"/>
+  <circle cx="104" cy="210" r="5" fill="#6b93b6"/>
+  <circle cx="164" cy="255" r="5" fill="#6b93b6"/>
+  <text x="58" y="122" font-family="sans-serif" font-size="12" fill="#222222">1</text>
+  <text x="112" y="202" font-family="sans-serif" font-size="12" fill="#222222">1/2</text>
+  <text x="172" y="272" font-family="sans-serif" font-size="12" fill="#222222">1/4</text>
+  <text x="128" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">t = log(fraction) / log(&#189;)</text>
+  <text x="128" y="358" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">carbon-14: half-life &#8776; 5730 yr</text>
+
+  <!-- Growth panel -->
+  <text x="384" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Growth (doubling)</text>
+  <line x1="292" y1="300" x2="476" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="292" y1="300" x2="292" y2="110" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 304 285 C 330 285, 340 230, 360 220 C 382 209, 392 150, 412 138 C 434 125, 444 110, 460 106" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <circle cx="304" cy="285" r="5" fill="#7a9e7e"/>
+  <circle cx="360" cy="220" r="5" fill="#7a9e7e"/>
+  <circle cx="412" cy="138" r="5" fill="#7a9e7e"/>
+  <text x="308" y="302" font-family="sans-serif" font-size="12" fill="#222222">1</text>
+  <text x="364" y="214" font-family="sans-serif" font-size="12" fill="#222222">2</text>
+  <text x="416" y="130" font-family="sans-serif" font-size="12" fill="#222222">4</text>
+  <text x="384" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">t = log 2 / log(1 + r)</text>
+  <text x="384" y="358" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">rule of 70: doubling &#8776; 70 / rate</text>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Take the log, then divide &#8212; and check by substituting back.</text>
+</svg>

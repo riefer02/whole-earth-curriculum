@@ -2680,7 +2680,7 @@ sources:
     organization: MacTutor History of Mathematics Archive, University of St Andrews
     domains: [D05]
     reviewed: true
-    notes: "Cited in U.07.005 L01/L03/L09 (Rhind Papyrus 'per one' division and bread/beer proportional problems) and L12 (Egyptian π = 256/81). URL verified live (2026-08-18). Page documents the Rhind Papyrus (scribe Ahmes): division by doubling, unit fractions, the 2/n table, Problems 21/24 (false position), and Problem 50 (round field, diameter 9 khet → area 64 setat), noting the result 'is equivalent to taking π = 4(8/9)² = 3.1605' — i.e., 256/81 ≈ 3.16. Supports the lessons' hedged claims that the Rhind Papyrus contains division/'per one' reckoning and the 256/81 value of π. (Bread-and-beer problems appear elsewhere in the Rhind Papyrus, Problems 5 and 72–76, a standard fact consistent with the page's description of the papyrus as a practical handbook of division of loaves and beer.)"
+    notes: "Cited in U.07.005 L01/L03/L09 (Rhind Papyrus 'per one' division and bread/beer proportional problems) and L12 (Egyptian π = 256/81). URL verified live (2026-08-18). Page documents the Rhind Papyrus (scribe Ahmes): division by doubling, unit fractions, the 2/n table, Problems 21/24 (false position), and Problem 50 (round field, diameter 9 khet → area 64 setat), noting the result 'is equivalent to taking π = 4(8/9)² = 3.1605' — i.e., 256/81 ≈ 3.16. Supports the lessons' hedged claims that the Rhind Papyrus contains division/'per one' reckoning and the 256/81 value of π. (Bread-and-beer problems appear elsewhere in the Rhind Papyrus, Problems 5 and 72–76, a standard fact consistent with the page's description of the papyrus as a practical handbook of division of loaves and beer.) Also cited in U.11.005 L13 (Composite Solids) for the claim that the Egyptians computed the volume of a truncated pyramid in the Moscow Papyrus. Verified live (2026-08-19): the same page's 'The Moscow papyrus' section gives Example 14, 'Example of calculating a truncated pyramid' (base square side 4 cubits, top square side 2 cubits, height 6 cubits), deriving V = ⅓h(a² + ab + b²) — directly supporting the lesson's truncated-pyramid volume claim."
 
   - id: S-289
     title: "MacTutor — Nine Chapters on the Mathematical Art"
@@ -4633,3 +4633,12 @@ sources:
     domains: [D08]
     reviewed: true
     notes: "USHMM's pedagogical guidelines: teach the human story through individual voices, avoid graphic/gratuitous imagery, translate statistics into people, avoid simple answers, and provide contextualization and care. Grounds the emotional-safety guidance in every U.10.009 atrocity lesson's Facilitator note. This is a pedagogy citation, not a factual claim. Fact-checker verified live (2026-08-19): the page's guideline headings include 'Define the term \"Holocaust,\"' 'Avoid simple answers to complex questions,' 'Strive for precision of language,' 'Avoid romanticizing history,' 'Contextualize the history,' 'Translate statistics into people,' and 'Make responsible methodological choices' (which states 'Graphic material should be used judiciously and only to the extent necessary to achieve the lesson objective'). On-topic and accurately summarized."
+
+  - id: S-496
+    title: "Wikipedia — Luoshu Square (Lo Shu magic square)"
+    type: website
+    url: https://en.wikipedia.org/wiki/Luoshu_Square
+    organization: Wikipedia
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in U.11.005 L06 (Matrices) for the claim that the Lo Shu square is a 3×3 arrangement whose rows, columns, and diagonals all sum to 15, and is an ancient Chinese array-like object. URL verified live (2026-08-19): the article states the 'Luoshu (pinyin), Lo Shu (Wade-Giles), or Nine Halls Diagram is an ancient Chinese diagram' named for the Luo River near Luoyang, that it is 'a unique normal magic square of order three,' that 'the sums in each of the three rows, in each of the three columns, and in both diagonals, are all 15,' and recounts the legend of a turtle emerging from the Luo River bearing the pattern on its shell. Matches the lesson's claims exactly. (Replaces the earlier citation of the Nine Chapters page S-289, which does not discuss the Lo Shu square — verified by reading that page directly.)"

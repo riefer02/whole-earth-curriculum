@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Critiquing Sampling, Bias, and Conclusions</title>
+  <desc id="desc">A five-question checklist for any claim: who was asked, how were they chosen, what exactly was asked, compared to what, and what can it actually conclude. Beside it, two squares contrast a biased sample (dots clustered in one corner) with a fair sample (dots spread evenly across the whole square).</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Questions to Ask Any Claim</text>
+
+  <!-- Checklist -->
+  <rect x="40" y="60" width="240" height="330" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="8"/>
+  <text x="160" y="90" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">The five questions</text>
+  <text x="60" y="122" font-family="sans-serif" font-size="14" fill="#222222">1. Who was asked?</text>
+  <text x="60" y="150" font-family="sans-serif" font-size="14" fill="#222222">2. How were they chosen?</text>
+  <text x="60" y="178" font-family="sans-serif" font-size="14" fill="#222222">3. What exactly was asked?</text>
+  <text x="60" y="206" font-family="sans-serif" font-size="14" fill="#222222">4. Compared to what?</text>
+  <text x="60" y="234" font-family="sans-serif" font-size="14" fill="#222222">5. What can it conclude?</text>
+  <line x1="56" y1="254" x2="264" y2="254" stroke="#6b93b6" stroke-width="2"/>
+  <text x="160" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Bias names to spot:</text>
+  <text x="60" y="304" font-family="sans-serif" font-size="13" fill="#222222">&#183; sampling / selection bias</text>
+  <text x="60" y="328" font-family="sans-serif" font-size="13" fill="#222222">&#183; non-response bias</text>
+  <text x="60" y="352" font-family="sans-serif" font-size="13" fill="#222222">&#183; leading question</text>
+  <text x="60" y="376" font-family="sans-serif" font-size="13" fill="#222222">&#183; confounding variable</text>
+
+  <!-- Biased vs fair -->
+  <text x="384" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Biased vs fair sample</text>
+  <rect x="310" y="84" width="70" height="70" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="324" cy="98" r="4" fill="#e0a458"/>
+  <circle cx="338" cy="96" r="4" fill="#e0a458"/>
+  <circle cx="322" cy="110" r="4" fill="#e0a458"/>
+  <circle cx="340" cy="112" r="4" fill="#e0a458"/>
+  <circle cx="356" cy="104" r="4" fill="#e0a458"/>
+  <text x="345" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">biased: one corner</text>
+
+  <rect x="400" y="84" width="70" height="70" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="414" cy="98" r="4" fill="#6b93b6"/>
+  <circle cx="444" cy="104" r="4" fill="#6b93b6"/>
+  <circle cx="420" cy="138" r="4" fill="#6b93b6"/>
+  <circle cx="452" cy="132" r="4" fill="#6b93b6"/>
+  <circle cx="414" cy="126" r="4" fill="#6b93b6"/>
+  <circle cx="450" cy="150" r="4" fill="#6b93b6"/>
+  <text x="435" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">fair: spread out</text>
+
+  <!-- footer -->
+  <rect x="90" y="414" width="332" height="60" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Association is not necessarily cause.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Question the number &#8212; and question it well.</text>
+</svg>

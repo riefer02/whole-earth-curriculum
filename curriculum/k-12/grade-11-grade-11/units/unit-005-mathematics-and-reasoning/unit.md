@@ -74,3 +74,19 @@ traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.11.005.01 | Sequences: Arithmetic and Geometric | D05.S1.11.01 |
+| L.11.005.02 | Series: Summing with Sigma Notation | D05.S1.11.01 |
+| L.11.005.03 | Compound Interest and Debt: Series in Finance | D05.S1.11.01 |
+| L.11.005.04 | Environmental Accumulation: Series in the Living World | D05.S1.11.01 |
+| L.11.005.05 | Vectors: Size and Direction | D05.S1.11.02 |
+| L.11.005.06 | Matrices: Many Dimensions at Once | D05.S1.11.02 |
+| L.11.005.07 | Trigonometric Functions as Waves | D05.S2.11.01 |
+| L.11.005.08 | Modeling Periodic Phenomena | D05.S2.11.01 |
+| L.11.005.09 | Logarithms: Order, Growth, and Scale | D05.S2.11.02 |
+| L.11.005.10 | Exponential and Logarithmic Models in the World | D05.S2.11.02 |
+| L.11.005.11 | The Unit Circle and Radians | D05.S3.11.01 |
+| L.11.005.12 | Trigonometry of General Triangles | D05.S3.11.01 |
+| L.11.005.13 | Composite Solids: Volume and Surface Area | D05.S3.11.02 |
+| L.11.005.14 | The Normal Distribution and Standard Deviation | D05.S4.11.01 |
+| L.11.005.15 | Designing a Survey or Experiment | D05.S4.11.02 |
+| L.11.005.16 | Critiquing Sampling, Bias, and Conclusions | D05.S4.11.02 |

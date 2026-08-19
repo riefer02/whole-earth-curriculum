@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Logarithms: Order, Growth, and Scale</title>
+  <desc id="desc">A number line with 1, 10, 100, and 1000 evenly spaced, labeled as a log scale where each step is ten times the last. Beside it, the inverse relationship log base 10 of 1000 equals 3 because 10 cubed equals 1000, and three real log scales (pH, decibels, Richter magnitude) are listed.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Log Scale Compresses Powers of Ten</text>
+
+  <!-- number line -->
+  <line x1="60" y1="150" x2="452" y2="150" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="60" cy="150" r="6" fill="#7a9e7e"/>
+  <circle cx="190" cy="150" r="6" fill="#7a9e7e"/>
+  <circle cx="320" cy="150" r="6" fill="#7a9e7e"/>
+  <circle cx="452" cy="150" r="6" fill="#7a9e7e"/>
+  <text x="60" y="180" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">1</text>
+  <text x="190" y="180" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">10</text>
+  <text x="320" y="180" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">100</text>
+  <text x="452" y="180" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">1000</text>
+  <text x="256" y="206" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">equal spacing = each step is &#215;10</text>
+
+  <!-- inverse box -->
+  <rect x="140" y="236" width="232" height="88" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="264" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">log&#8321;&#8320;(1000) = 3</text>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">because 10&#179; = 1000</text>
+  <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"what power?" is the inverse of the power</text>
+
+  <!-- three scales -->
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Three real log scales</text>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">pH: each unit = &#215;10 acidity</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">decibels: +10 dB = &#215;10 sound</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Richter: each unit &#8776; &#215;10 shaking</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">logs turn multiplication into addition.</text>
+</svg>
