@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Carrying capacity: an S-shaped growth curve</title>
+  <desc id="desc">A graph of population size over time. The curve rises steeply, then flattens and levels off at the carrying capacity, shown as a dashed horizontal line labeled K. A second dashed line shows that a disruption can lower the carrying capacity.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Population Size vs. Time</text>
+
+  <!-- axes -->
+  <line x1="70" y1="400" x2="470" y2="400" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="70" y1="400" x2="70" y2="70" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="470,400 458,394 458,406" fill="#2b3a42"/>
+  <polygon points="70,70 64,82 76,82" fill="#2b3a42"/>
+  <text x="480" y="408" font-family="sans-serif" font-size="14" fill="#2b3a42">time</text>
+  <text x="40" y="80" font-family="sans-serif" font-size="14" fill="#2b3a42">population</text>
+
+  <!-- carrying capacity line K -->
+  <line x1="70" y1="150" x2="470" y2="150" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <text x="460" y="142" text-anchor="end" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">carrying capacity (K)</text>
+
+  <!-- logistic S-curve -->
+  <path d="M70 380 C130 370 170 320 210 240 C250 168 300 156 360 152 C410 150 440 150 470 150" fill="none" stroke="#6b93b6" stroke-width="3"/>
+
+  <!-- lower K after disruption -->
+  <line x1="70" y1="260" x2="470" y2="260" stroke="#e0a458" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <text x="460" y="252" text-anchor="end" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">lower K after disruption</text>
+
+  <!-- annotation -->
+  <rect x="60" y="430" width="392" height="60" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="76" y="452" font-family="sans-serif" font-size="14" fill="#222222">resources limit growth: a population settles near its carrying capacity</text>
+  <text x="76" y="472" font-family="sans-serif" font-size="14" fill="#222222">a disruption that removes food or habitat can lower K</text>
+</svg>

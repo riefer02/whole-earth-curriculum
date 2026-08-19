@@ -4078,3 +4078,40 @@ sources:
     domains: [D05]
     reviewed: true
     notes: "Cited in U.09.007 L08 as a standard, openly licensed reference for quadratic functions as models of projectile motion (height as a quadratic in time). Verified (2026-08-19): both URLs live — https://openstax.org/details/books/algebra-and-trigonometry-2e (quadratic functions) and https://openstax.org/details/books/college-physics-2e (projectile motion, where vertical position is a quadratic in time). Both are real, peer-reviewed, openly licensed (CC-BY 4.0) Rice University textbooks. On-topic for the projectile/quadratic claim. (Removed the inaccurate 'year: 2017'; the two titles have different publication years.)"
+
+  - id: S-436
+    title: "Encyclopaedia Britannica — Carrying capacity"
+    type: website
+    url: https://www.britannica.com/science/carrying-capacity
+    organization: Encyclopaedia Britannica
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.09.008 L03 (Disruptions and Carrying Capacity) for carrying capacity (K) — the maximum population an environment can sustain — and the exponential-vs-logistic (S-shaped) growth contrast. Verified (2026-08-19): the Britannica 'Carrying capacity' article states verbatim that as competition increases and resources become scarce, 'populations reach the carrying capacity (K) of their environment, causing their growth rate to slow nearly to zero. This produces an S-shaped curve of population growth known as the logistic curve.' On-topic for the lesson's S-curve and K claims. (Britannica returns HTTP 403 to curl — bot protection — but the article loads in a browser and was verified directly.)"
+
+  - id: S-437
+    title: "IPBES — Global Assessment Report on Biodiversity and Ecosystem Services"
+    type: report
+    url: https://www.ipbes.net/global-assessment
+    organization: IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services)
+    year: 2019
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.09.008 L04 (Biodiversity: Why Variety Keeps Ecosystems Strong) for the authoritative finding that many species are declining and that biodiversity loss is driven by land/sea use change, overexploitation (direct exploitation), climate change, pollution, and invasive alien species, and that the loss falls unevenly on those who depend most directly on wild biodiversity. Verified (2026-08-19): the dedicated Global Assessment page (ipbes.net/global-assessment) hosts the 2019 Summary for Policymakers (SPM, approved IPBES-7, May 2019; DOI 10.5281/zenodo.3553579) and full report (DOI 10.5281/zenodo.3831673). The five direct drivers and the ~1 million species-threatened figure are the canonical SPM findings; on-topic for the lesson's hedged claims. URL corrected from the IPBES homepage to the specific report page to match the title."
+
+  - id: S-438
+    title: "NASA — What Is the Greenhouse Effect? (formerly NASA Climate Kids)"
+    type: website
+    url: https://science.nasa.gov/kids/earth/what-is-the-greenhouse-effect/
+    organization: NASA
+    domains: [D06, D10]
+    reviewed: true
+    notes: "Cited in U.09.008 L07 (Greenhouse Gases and a Changing Climate) for the mechanism of the greenhouse effect and the human strengthening of it. Verified (2026-08-19): the page states verbatim the greenhouse effect 'is a process that occurs when certain gases in Earth's atmosphere trap the heat from the sun near the surface,' that greenhouse gases keep 'Earth warm enough to support life,' and that over the last ~100 years extra greenhouse gases 'have mainly come from' burning coal and oil and burning gasoline for cars and planes, while natural sources (e.g., volcanoes) are 'too small to account for' the measured rise. On-topic for the lesson's mechanism and human-signal claims. URL updated to the canonical NASA Science location: the former climatekids.nasa.gov/greenhouse-effect/ path (cited in L07) now redirects here after NASA Climate Kids was folded into NASA Science/NASA Kids."
+
+  - id: S-439
+    title: "OpenStax — Chemistry 2e (openly licensed textbook)"
+    type: book
+    url: https://openstax.org/details/books/chemistry-2e
+    organization: OpenStax (Rice University)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.09.008 L06 (The Atom, Bonding, and Chemical Energy) as a standard, openly licensed reference for atomic structure (nucleus of protons and neutrons, electrons in shells), chemical bonding (sharing/transferring electrons), and exothermic/endothermic reactions (bond formation releasing energy, bond breaking absorbing energy). Chemistry 2e is real — authors Paul Flowers, Klaus Theopold, Richard Langley, William R. Robinson; OpenStax (Rice University), published 2019. LICENSE CORRECTED (2026-08-19): the textbook is licensed CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike), NOT CC-BY 4.0 as first recorded; the NonCommercial clause is acceptable here because the curriculum is offered free, but it is not a blanket permissive license. Content verified on-topic: Ch. 5 (Thermochemistry) explicitly defines exothermic/endothermic processes (heat released/absorbed), and the text's Ch. 2/6/7 cover atomic structure and bonding."

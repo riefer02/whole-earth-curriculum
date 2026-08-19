@@ -8,10 +8,13 @@ domain:
 pillar:
   - P3
 strand:
+  - D06.S1
   - D06.S2
   - D06.S3
   - D06.S4
 objectives:
+  - D06.S1.09.01
+  - D06.S1.09.02
   - D06.S2.09.01
   - D06.S2.09.02
   - D06.S3.09.01
@@ -69,3 +72,13 @@ others — never as dogma, and never as the only defensible account of a beginni
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Living Systems, Physical Systems & Our Origins: Where We've Been, Where We're Going | D06.S1.09.01, D06.S1.09.02 |
+| 02 | Matter Cycles and Energy Flows Through Ecosystems | D06.S2.09.01 |
+| 03 | Disruptions and Carrying Capacity | D06.S2.09.01 |
+| 04 | Biodiversity: Why Variety Keeps Ecosystems Strong | D06.S2.09.02 |
+| 05 | Conservation of Energy and Energy Transformations | D06.S3.09.01 |
+| 06 | The Atom, Bonding, and Chemical Energy | D06.S3.09.02 |
+| 07 | Greenhouse Gases and a Changing Climate | D06.S4.09.01 |
+| 08 | The Age of the Earth and the Universe: How We Measure Deep Time | D06.S4.09.02 |
+| 09 | Origins as Models with Evidence, Among Many Stories | D06.S4.09.02 |
+| 10 | Capstone: Living Systems, Physical Systems & Our Origins — Putting It Together | all six D06.S2–S4 grade-9 objectives |

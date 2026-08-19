@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Energy is transformed, not destroyed</title>
+  <desc id="desc">A chain showing energy changing form: chemical energy in fuel becomes thermal, then kinetic in a moving turbine, then electrical, then light in a lamp. At each step a small arrow labeled heat leaves the chain, showing energy is conserved but some always spreads as heat.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Energy Transforms — and Some Always Escapes as Heat</text>
+
+  <!-- five stages -->
+  <!-- chemical -->
+  <rect x="24" y="120" width="86" height="74" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="67" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">chemical</text>
+  <text x="67" y="170" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">in fuel</text>
+
+  <!-- thermal -->
+  <rect x="132" y="120" width="86" height="74" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="175" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">thermal</text>
+  <text x="175" y="170" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">heat</text>
+
+  <!-- kinetic -->
+  <rect x="240" y="120" width="86" height="74" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="283" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">kinetic</text>
+  <text x="283" y="170" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">motion</text>
+
+  <!-- electrical -->
+  <rect x="348" y="120" width="86" height="74" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="391" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">electrical</text>
+  <text x="391" y="170" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">current</text>
+
+  <!-- light -->
+  <rect x="456" y="120" width="46" height="74" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="479" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">light</text>
+
+  <!-- forward arrows -->
+  <line x1="110" y1="157" x2="132" y2="157" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="132,157 122,152 122,162" fill="#2b3a42"/>
+  <line x1="218" y1="157" x2="240" y2="157" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="240,157 230,152 230,162" fill="#2b3a42"/>
+  <line x1="326" y1="157" x2="348" y2="157" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="348,157 338,152 338,162" fill="#2b3a42"/>
+  <line x1="434" y1="157" x2="456" y2="157" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="456,157 446,152 446,162" fill="#2b3a42"/>
+
+  <!-- waste heat arrows at each stage -->
+  <g stroke="#e0a458" stroke-width="2">
+    <line x1="67" y1="194" x2="67" y2="230"/>
+    <line x1="175" y1="194" x2="175" y2="230"/>
+    <line x1="283" y1="194" x2="283" y2="230"/>
+    <line x1="391" y1="194" x2="391" y2="230"/>
+    <line x1="479" y1="194" x2="479" y2="230"/>
+  </g>
+  <polygon points="67,230 62,222 72,222" fill="#e0a458"/>
+  <polygon points="175,230 170,222 180,222" fill="#e0a458"/>
+  <polygon points="283,230 278,222 288,222" fill="#e0a458"/>
+  <polygon points="391,230 386,222 396,222" fill="#e0a458"/>
+  <polygon points="479,230 474,222 484,222" fill="#e0a458"/>
+  <text x="479" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">heat lost</text>
+
+  <rect x="56" y="290" width="400" height="72" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="72" y="314" font-family="sans-serif" font-size="14" fill="#222222">Energy is never created or destroyed — only changed in form.</text>
+  <text x="72" y="336" font-family="sans-serif" font-size="14" fill="#222222">Efficiency = useful energy out ÷ total energy in.</text>
+  <text x="72" y="356" font-family="sans-serif" font-size="13" fill="#4f6d7a">The heat that "leaks" is not gone — it has spread into the surroundings.</text>
+</svg>

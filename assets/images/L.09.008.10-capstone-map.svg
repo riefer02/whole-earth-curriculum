@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Putting the six ideas together</title>
+  <desc id="desc">A synthesis map linking six ideas in a ring: matter cycles and energy flows; disruptions affect carrying capacity; biodiversity gives resilience; energy is conserved; atoms bond with energy; greenhouse gases and deep time. The center reads "evidence-based explanations."</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Six Ideas, One Picture of the Natural World</text>
+
+  <!-- center -->
+  <circle cx="256" cy="256" r="64" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">evidence-based</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">explanations</text>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">with stated limits</text>
+
+  <!-- six nodes -->
+  <!-- top -->
+  <rect x="188" y="88" width="136" height="52" rx="8" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">matter cycles,</text>
+  <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">energy flows</text>
+
+  <!-- top-right -->
+  <rect x="356" y="160" width="140" height="52" rx="8" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="426" y="182" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">disruptions &amp;</text>
+  <text x="426" y="198" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">carrying capacity</text>
+
+  <!-- bottom-right -->
+  <rect x="356" y="300" width="140" height="52" rx="8" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="426" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">biodiversity =</text>
+  <text x="426" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">resilience</text>
+
+  <!-- bottom -->
+  <rect x="188" y="372" width="136" height="52" rx="8" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">energy is</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">conserved</text>
+
+  <!-- bottom-left -->
+  <rect x="16" y="300" width="140" height="52" rx="8" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="86" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">atoms bond with</text>
+  <text x="86" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">energy change</text>
+
+  <!-- top-left -->
+  <rect x="16" y="160" width="140" height="52" rx="8" fill="#ffffff" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="86" y="182" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">greenhouse gases</text>
+  <text x="86" y="198" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">&amp; deep time</text>
+
+  <!-- connector lines -->
+  <g stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4">
+    <line x1="256" y1="140" x2="256" y2="192"/>
+    <line x1="326" y1="192" x2="356" y2="186"/>
+    <line x1="426" y1="212" x2="426" y2="300"/>
+    <line x1="320" y1="256" x2="356" y2="326"/>
+    <line x1="256" y1="320" x2="256" y2="372"/>
+    <line x1="192" y1="256" x2="156" y2="326"/>
+    <line x1="86" y1="212" x2="86" y2="300"/>
+    <line x1="186" y1="192" x2="156" y2="186"/>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Living systems, physical systems, and our origins are one connected story —</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">told with evidence, held with wonder, open to every honest question.</text>
+</svg>

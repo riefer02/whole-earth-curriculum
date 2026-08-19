@@ -5322,7 +5322,7 @@ items:
     type: lesson
     grade: 9
     domain: D06
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5334,6 +5334,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1349 files). 10 lessons L.09.008.01-.10 in actual dir unit-008-science-living-physical-and-cosmic-systems; sequence 1-10 no gaps; objectives resolve only to eight grade-9 D06 IDs (D06.S1-S4.09.01/.02); unit.md 10 rows matching; scope lesson_count=10; 10 SVGs + alt/title/desc. Observation: L.09.008.09 holds Big Bang/deep-time + cultural/spiritual stories side by side, refusing 'real knowledge vs myth' colonial framing; figures accurate (Earth ~4.54 Ga, universe ~13.8 Ga, conservation of energy, exo/endothermic); sources USGS S-308/IPCC S-005."
+      fact-checker:
+        verdict: passed
+        note: "Verified 4 new sources S-436-S-439 (Britannica carrying capacity; IPBES Global Assessment URL corrected to /global-assessment; NASA greenhouse effect URL updated to science.nasa.gov; OpenStax Chemistry 2e license corrected CC BY-NC-SA 4.0), marked reviewed:true. Claims verified+hedged: Earth 4.54 Ga (USGS), universe 13.8 Ga (NASA), conservation of energy, bond-breaking absorbs/bond-forming releases, greenhouse mechanism, carrying capacity/logistic growth, 10% rule approximate, biodiversity->resilience hedged. 10 SVGs accurate. validate green (1349 files)."
+      global-culture-editor:
+        verdict: passed
+        note: Origins L.09.008.09 holds multiple world cosmologies side by side unranked (Aboriginal Dreaming, Maya Popol Vuh, Yoruba, Vedic/Abrahamic), refuses 'real knowledge vs myth' colonial habit, SVG panels equal height. Ecosystems L2-L4 span rice paddy/savanna/kelp forest/coral reef + village well + case cards (coral/rice/forest/grassland, Indigenous/farmer/fisher named). Climate L7 global ('atmosphere shared by every nation', centers least-polluting-most-exposed). No colonial/US/Euro framing. validate green (1349 files). No fixes.
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier all 10 (board/paper + voice+partner); UDL 5 context_variants; alt text on 10 SVGs + role=img/title/desc; no color-only encoding (labels/key); verbal equivalents for cycles/energy/atom/greenhouse/timeline. Fix: darkened 3 low-contrast orange labels (heat out/lower K after disruption/heat lost) #e0a458->#8a5a1a (~5.7:1). Plain language. validate green (1349 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: objectives resolve only to eight grade-9 D06 IDs (D06.S1-S4.09.01/.02); chain lesson->D06(P3)->vision. Four lenses present (ethics L1/3/4/7/8/9/10; egalitarianism; global no US/Euro default + creation stories every continent; tech&environment L2-L7). Evidence vs values: S-codes resolve, fact-vs-value statements L4/7/8/9; origins models-with-evidence never creed. Fix: added D06.S1 to unit strand list. validate green (1349 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: concrete anchors (village well, loaf, blanket, match) into abstract systems (logistic growth, conservation, bonding, greenhouse, deep time) matching maturing formal operations. Emotional safety: L.09.008.09 origins safest framing (models-with-evidence never creed, stories answer why/who, refuses colonial real-knowledge-vs-myth, Dreaming/Popol Vuh/Yoruba/Vedic/Abrahamic with dignity); L.07 climate honest + agency ('we have the tools to meet'); L.03 carrying capacity non-apocalyptic (limits not fixed). Multi-modal (card sorts/model kits/hand-crank/deep-time rope). Spiral. validate green (1349 files). Non-blocking: L.09.008.09 home connection 'both true in different ways' slightly more reconciling than in-lesson 'answer different questions'."
   - id: B-377
     title: Author lessons for Unit U.09.009 (Creative & Aesthetic Expression)
     agent: lesson-author

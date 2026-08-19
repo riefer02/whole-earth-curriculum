@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two ages: the Earth and the universe</title>
+  <desc id="desc">Two horizontal timelines. The top timeline spans 4.54 billion years, the age of the Earth, with markers for the oldest rocks and crystals, the first life, and the first humans. The bottom timeline spans 13.8 billion years, the age of the universe, marked by the Big Bang and the first stars.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">How Deep Time Is Measured</text>
+
+  <!-- top timeline: Earth -->
+  <text x="60" y="96" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Age of the Earth: ~4.54 billion years</text>
+  <line x1="60" y1="112" x2="452" y2="112" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="452,112 442,107 442,117" fill="#4f6d7a"/>
+  <!-- markers -->
+  <line x1="60" y1="106" x2="60" y2="118" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="134" font-family="sans-serif" font-size="12" fill="#222222">Earth forms (0)</text>
+  <line x1="90" y1="106" x2="90" y2="118" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="134" font-family="sans-serif" font-size="12" fill="#222222">oldest rocks ~4.0 Ga</text>
+  <line x1="240" y1="106" x2="240" y2="118" stroke="#2b3a42" stroke-width="2"/>
+  <text x="240" y="134" font-family="sans-serif" font-size="12" fill="#222222">first life ~3.7 Ga</text>
+  <line x1="436" y1="106" x2="436" y2="118" stroke="#2b3a42" stroke-width="2"/>
+  <text x="436" y="134" font-family="sans-serif" font-size="12" fill="#222222">humans (very recent)</text>
+  <text x="60" y="158" font-family="sans-serif" font-size="12" fill="#4f6d7a">measured by radioactive decay in rocks and meteorites</text>
+
+  <!-- bottom timeline: universe -->
+  <text x="60" y="212" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Age of the universe: ~13.8 billion years</text>
+  <line x1="60" y1="228" x2="452" y2="228" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="452,228 442,223 442,233" fill="#4f6d7a"/>
+  <line x1="60" y1="222" x2="60" y2="234" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="250" font-family="sans-serif" font-size="12" fill="#222222">Big Bang (start)</text>
+  <line x1="150" y1="222" x2="150" y2="234" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="250" font-family="sans-serif" font-size="12" fill="#222222">first stars</text>
+  <line x1="452" y1="222" x2="452" y2="234" stroke="#2b3a42" stroke-width="2"/>
+  <text x="380" y="250" font-family="sans-serif" font-size="12" fill="#222222">today</text>
+  <text x="60" y="274" font-family="sans-serif" font-size="12" fill="#4f6d7a">measured by the expansion of galaxies and the cosmic microwave background</text>
+
+  <!-- methods box -->
+  <rect x="60" y="304" width="392" height="160" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="76" y="328" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Two tools, one idea:</text>
+  <text x="76" y="352" font-family="sans-serif" font-size="14" fill="#222222">• Radioactive decay: unstable atoms change at a steady, known rate,</text>
+  <text x="90" y="372" font-family="sans-serif" font-size="14" fill="#222222">so the ratio of parent to daughter atoms dates a rock.</text>
+  <text x="76" y="398" font-family="sans-serif" font-size="14" fill="#222222">• The expanding universe: galaxies recede, and the leftover heat</text>
+  <text x="90" y="418" font-family="sans-serif" font-size="14" fill="#222222">of the Big Bang still glows as microwave light we can measure.</text>
+  <text x="76" y="446" font-family="sans-serif" font-size="13" fill="#4f6d7a">These are measurements with stated uncertainty — models, not guesses.</text>
+</svg>

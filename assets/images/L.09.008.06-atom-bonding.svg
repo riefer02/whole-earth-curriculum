@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Atoms bond by sharing or moving electrons</title>
+  <desc id="desc">Two atoms side by side. Each has a nucleus and two electron shells. The outermost shells overlap and share a pair of electrons, shown as two dots between them, forming a bond. A label notes that breaking bonds absorbs energy and forming bonds releases it.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Bonding: Atoms Share or Move Electrons</text>
+
+  <!-- atom 1 -->
+  <circle cx="176" cy="200" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="176" cy="200" r="34" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="176" cy="200" r="58" fill="none" stroke="#6b93b6" stroke-width="2"/>
+  <!-- electron 1: inner -->
+  <circle cx="176" cy="170" r="4" fill="#2b3a42"/>
+  <!-- electron 2: shared -->
+  <circle cx="210" cy="200" r="5" fill="#2b3a42"/>
+  <text x="176" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">atom A</text>
+
+  <!-- atom 2 -->
+  <circle cx="336" cy="200" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="336" cy="200" r="34" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="336" cy="200" r="58" fill="none" stroke="#6b93b6" stroke-width="2"/>
+  <circle cx="336" cy="170" r="4" fill="#2b3a42"/>
+  <circle cx="302" cy="200" r="5" fill="#2b3a42"/>
+  <text x="336" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">atom B</text>
+
+  <!-- shared pair label -->
+  <text x="256" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">shared</text>
+  <text x="256" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">electrons</text>
+
+  <!-- energy notes -->
+  <rect x="60" y="318" width="392" height="118" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="76" y="342" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Forming a bond releases energy (exothermic).</text>
+  <text x="76" y="364" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Breaking a bond absorbs energy (endothermic).</text>
+  <text x="76" y="392" font-family="sans-serif" font-size="13" fill="#4f6d7a">A reaction is a rearrangement of atoms: bonds break</text>
+  <text x="76" y="410" font-family="sans-serif" font-size="13" fill="#4f6d7a">and new bonds form — and the energy difference is felt as heat.</text>
+
+  <!-- legend for shells -->
+  <text x="120" y="462" font-family="sans-serif" font-size="12" fill="#4f6d7a">outer shell = valence electrons</text>
+  <text x="376" y="462" font-family="sans-serif" font-size="12" fill="#4f6d7a">nucleus = protons + neutrons</text>
+</svg>

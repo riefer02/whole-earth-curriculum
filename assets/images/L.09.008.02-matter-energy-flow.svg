@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Energy flows one way; matter cycles</title>
+  <desc id="desc">A diagram showing energy from the sun entering a producer, moving to a consumer and a decomposer, then leaving as heat — a one-way path. Matter is shown looping back from the decomposer to the soil and producer, a closed cycle.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Energy Flows One Way · Matter Cycles</text>
+
+  <!-- sun -->
+  <circle cx="76" cy="130" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="76" y1="96" x2="76" y2="80" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="76" y1="164" x2="76" y2="180" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="42" y1="130" x2="26" y2="130" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="110" y1="130" x2="126" y2="130" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- producer (plant) -->
+  <line x1="196" y1="160" x2="196" y2="120" stroke="#4f6d7a" stroke-width="2.5"/>
+  <line x1="196" y1="146" x2="176" y2="124" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="196" y1="134" x2="216" y2="112" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="196" cy="114" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="196" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">producer</text>
+
+  <!-- consumer (animal) -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#6b93b6">
+    <circle cx="316" cy="120" r="20"/>
+    <circle cx="296" cy="104" r="6"/>
+    <polygon points="296,104 288,100 290,108" fill="#6b93b6"/>
+    <line x1="336" y1="120" x2="360" y2="120"/>
+    <line x1="336" y1="132" x2="360" y2="136"/>
+  </g>
+  <text x="316" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">consumer</text>
+
+  <!-- decomposer -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <circle cx="420" cy="300" r="18" fill="#e0a458"/>
+    <circle cx="420" cy="300" r="5" fill="#2b3a42"/>
+    <line x1="420" y1="282" x2="420" y2="268"/>
+    <line x1="404" y1="290" x2="392" y2="284"/>
+    <line x1="436" y1="290" x2="448" y2="284"/>
+  </g>
+  <text x="420" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">decomposer</text>
+
+  <!-- energy arrows (one-way): sun -> producer -> consumer -> heat -->
+  <line x1="100" y1="130" x2="172" y2="122" stroke="#e0a458" stroke-width="2.5"/>
+  <polygon points="172,122 162,118 166,128" fill="#e0a458"/>
+  <line x1="210" y1="122" x2="292" y2="120" stroke="#e0a458" stroke-width="2.5"/>
+  <polygon points="292,120 282,116 286,126" fill="#e0a458"/>
+  <line x1="330" y1="138" x2="404" y2="288" stroke="#e0a458" stroke-width="2.5"/>
+  <polygon points="402,282 410,290 402,292" fill="#e0a458"/>
+
+  <!-- heat leaving -->
+  <path d="M420 316 Q440 360 404 390" fill="none" stroke="#e0a458" stroke-width="2" stroke-dasharray="4 4"/>
+  <text x="452" y="384" font-family="sans-serif" font-size="13" fill="#8a5a1a">heat out</text>
+  <text x="452" y="400" font-family="sans-serif" font-size="12" fill="#4f6d7a">(energy leaves)</text>
+
+  <!-- matter cycle arrow: decomposer -> soil -> producer -->
+  <path d="M404 316 Q330 372 216 360 Q196 356 196 178" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
+  <polygon points="196,178 190,190 202,190" fill="#7a9e7e"/>
+  <text x="200" y="330" font-family="sans-serif" font-size="13" fill="#7a9e7e">nutrients</text>
+  <text x="200" y="348" font-family="sans-serif" font-size="12" fill="#4f6d7a">return to soil</text>
+
+  <!-- key -->
+  <rect x="56" y="436" width="400" height="56" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="72" y="458" font-family="sans-serif" font-size="14" fill="#222222">energy: one-way, mostly from the sun, exits as heat</text>
+  <text x="72" y="478" font-family="sans-serif" font-size="14" fill="#222222">matter: recycled — decomposers return it to the cycle</text>
+</svg>

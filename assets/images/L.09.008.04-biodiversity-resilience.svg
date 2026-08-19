@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Biodiversity makes an ecosystem resilient</title>
+  <desc id="desc">Two side-by-side ecosystems. Left: a rich ecosystem with many different plants, shown as varied shapes, that keeps functioning when one is removed. Right: a monoculture of identical plants that is left empty when the one kind is removed. Labels explain that variety absorbs shocks.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Why Variety Keeps an Ecosystem Strong</text>
+
+  <!-- left panel: diverse -->
+  <rect x="32" y="70" width="216" height="300" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="140" y="94" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">many species</text>
+  <!-- ground -->
+  <line x1="44" y1="320" x2="236" y2="320" stroke="#2b3a42" stroke-width="2"/>
+  <!-- varied plants -->
+  <line x1="70" y1="320" x2="70" y2="270" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="70" cy="264" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="110" y1="320" x2="110" y2="240" stroke="#4f6d7a" stroke-width="2"/>
+  <polygon points="110,232 96,268 124,268" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="150" y1="320" x2="150" y2="290" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="142" y="282" width="16" height="8" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="190" y1="320" x2="190" y2="256" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="190" cy="248" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- one removed but others remain -->
+  <text x="140" y="344" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one is lost —</text>
+  <text x="140" y="360" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the rest hold the system up</text>
+
+  <!-- right panel: monoculture -->
+  <rect x="264" y="70" width="216" height="300" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="372" y="94" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">one species only</text>
+  <line x1="276" y1="320" x2="468" y2="320" stroke="#2b3a42" stroke-width="2"/>
+  <!-- identical plants -->
+  <line x1="300" y1="320" x2="300" y2="260" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="300" cy="254" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="338" y1="320" x2="338" y2="260" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="338" cy="254" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="376" y1="320" x2="376" y2="260" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="376" cy="254" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="414" y1="320" x2="414" y2="260" stroke="#4f6d7a" stroke-width="2"/>
+  <circle cx="414" cy="254" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- the single kind is removed -->
+  <text x="372" y="344" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the one kind is lost —</text>
+  <text x="372" y="360" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the system empties</text>
+
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Variety spreads risk; a single crop or species concentrates it.</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Biodiversity is resilience — and people depend on it for food, water, and medicine.</text>
+</svg>
