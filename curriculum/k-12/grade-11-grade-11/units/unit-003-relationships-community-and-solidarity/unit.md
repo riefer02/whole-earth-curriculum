@@ -71,3 +71,16 @@ mutual-aid or cooperative effort with accountability.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Deep Listening: To Understand, Not to Win | D02.S1.11.01 |
+| 2 | Staying Open to Being Changed | D02.S1.11.01 |
+| 3 | Building Close, Trusting Relationships | D02.S1.11.02 |
+| 4 | Maintaining Trust: Repair and Support | D02.S1.11.02 |
+| 5 | Empathy for People I Have Never Met | D02.S2.11.01 |
+| 6 | Empathy for Future Generations | D02.S2.11.01 |
+| 7 | Empathy vs Fairness: When They Pull Apart | D02.S2.11.02 |
+| 8 | What Makes Communities Resilient | D02.S3.11.01 |
+| 9 | What Makes Communities Inclusive and Just | D02.S3.11.01 |
+| 10 | Planning My Contribution to Belonging | D02.S3.11.02 |
+| 11 | Arguing for Care and Solidarity Toward Distant Others | D02.S4.11.01 |
+| 12 | Designing a Mutual-Aid or Cooperative Effort | D02.S4.11.02 |
+| 13 | Beginning with Accountability | D02.S4.11.02 |

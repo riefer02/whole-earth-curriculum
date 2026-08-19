@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My contribution to belonging</title>
+  <desc id="desc">A net of interwoven threads held by several figures around its edge. One thread is being added by a hand reaching in from the corner, labeled "my contribution." A small gap in the net is being closed by that new thread. Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Contribution to Belonging</text>
+
+  <!-- Net threads -->
+  <g stroke="#4f6d7a" stroke-width="2">
+    <path d="M120 130 L392 130"/>
+    <path d="M120 210 L392 210"/>
+    <path d="M120 290 L392 290"/>
+    <path d="M120 370 L392 370"/>
+    <path d="M120 130 L120 370"/>
+    <path d="M188 130 L188 370"/>
+    <path d="M256 130 L256 370"/>
+    <path d="M324 130 L324 370"/>
+    <path d="M392 130 L392 370"/>
+  </g>
+  <!-- A gap being closed by a new bright thread -->
+  <path d="M120 210 L160 210" stroke="#7a9e7e" stroke-width="4"/>
+  <path d="M188 210 L256 210" stroke="#7a9e7e" stroke-width="4"/>
+  <path d="M256 210 L256 290" stroke="#7a9e7e" stroke-width="4"/>
+
+  <!-- Figures holding the net -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="120" cy="130" r="11" fill="#e0a458"/>
+    <circle cx="392" cy="130" r="11" fill="#6b93b6"/>
+    <circle cx="120" cy="370" r="11" fill="#7a9e7e"/>
+    <circle cx="392" cy="370" r="11" fill="#e0a458"/>
+  </g>
+
+  <!-- Hand adding a thread -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#e0a458">
+    <circle cx="430" cy="440" r="16"/>
+    <path d="M418 452 q6 12 24 12" fill="none" stroke-width="3"/>
+    <path d="M420 210 L392 210" stroke="#7a9e7e" stroke-width="4"/>
+  </g>
+  <text x="430" y="400" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">my</text>
+  <text x="430" y="416" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">contribution</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">A community is a net — and every thread I add makes it hold one more person.</text>
+</svg>

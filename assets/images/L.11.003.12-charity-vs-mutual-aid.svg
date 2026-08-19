@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Charity versus mutual aid</title>
+  <desc id="desc">Two panels side by side. Left, "charity": a single tall figure drops a gift down a one-way arrow to a seated figure who stays passive. Right, "mutual aid": three figures stand in a circle with arrows pointing both ways among them, and the word "we decide together" in the middle. Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Charity vs Mutual Aid</text>
+
+  <!-- Charity panel -->
+  <rect x="24" y="90" width="220" height="330" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="120" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">charity</text>
+  <text x="134" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">one gives, one receives</text>
+
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="134" cy="190" r="14" fill="#e0a458"/>
+    <path d="M134 204 v24 M120 214 c0 10 6 17 14 17 s14 -7 14 -17"/>
+  </g>
+  <path d="M134 240 V270" stroke="#4f6d7a" stroke-width="3" fill="none"/>
+  <path d="M128 264 l6 12 l6 -12 z" fill="#4f6d7a"/>
+  <rect x="112" y="246" width="44" height="30" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">gift</text>
+
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="134" cy="360" r="14" fill="#6b93b6"/>
+    <path d="M134 374 v24 M120 384 c0 10 6 17 14 17 s14 -7 14 -17"/>
+  </g>
+
+  <!-- Mutual aid panel -->
+  <rect x="268" y="90" width="220" height="330" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="120" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">mutual aid</text>
+  <text x="378" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">we decide together</text>
+
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="378" cy="220" r="16" fill="#e0a458"/>
+    <path d="M378 236 v24 M364 246 c0 10 6 17 16 17 s16 -7 16 -17"/>
+    <circle cx="320" cy="340" r="16" fill="#6b93b6"/>
+    <path d="M320 356 v24 M306 366 c0 10 6 17 16 17 s16 -7 16 -17"/>
+    <circle cx="436" cy="340" r="16" fill="#7a9e7e"/>
+    <path d="M436 356 v24 M422 366 c0 10 6 17 16 17 s16 -7 16 -17"/>
+  </g>
+
+  <!-- Circular two-way arrows -->
+  <g stroke="#7a9e7e" stroke-width="3" fill="none">
+    <path d="M352 238 L338 322"/>
+    <path d="M404 238 L418 322"/>
+    <path d="M336 340 L420 340"/>
+  </g>
+  <g fill="#7a9e7e">
+    <path d="M340 316 l-6 12 l-4 -12 z"/>
+    <path d="M416 316 l6 12 l4 -12 z"/>
+    <path d="M348 334 l12 6 l-12 6 z"/>
+  </g>
+  <text x="378" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">we meet needs</text>
+  <text x="378" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">as equals</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Mutual aid shares both the giving and the deciding.</text>
+</svg>

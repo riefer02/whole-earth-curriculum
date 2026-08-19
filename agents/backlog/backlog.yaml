@@ -6099,7 +6099,7 @@ items:
     type: lesson
     grade: 11
     domain: D02
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6111,6 +6111,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1590 files). All 13 lessons: kind lesson, id L.11.003.NN matching sequence_in_unit 01-13, unit U.11.003, domain [D02], pillar [P1]. All 8 objectives resolve verbatim to domain-02 grade 11 and covered (S1.11.01→L01-02, S1.11.02→L03-04, S2.11.01→L05-06, S2.11.02→L07, S3.11.01→L08-09, S3.11.02→L10, S4.11.01→L11, S4.11.02→L12-13). Required headings present in all 13; 13 assets resolve with non-empty alt + role=img/title/desc. Spot-checks: L007 Connection (closest friend broke a rule — both voices real neither a villain) faithful to D02.S2.11.02; L012 charity-vs-mutual-aid faithful to D02.S4.11.02. Age-appropriate (steelman, psychic numbing, mutual aid vs charity)."
+      fact-checker:
+        verdict: passed
+        note: "All 22 cited sources exist and reviewed:true; no fabricated/misattributed citations, no new sources required. High-risk claims confirmed: empathy research (Batson 1987 S-230, Decety & Cowell 2014 S-231, Bloom 2016 Against Empathy S-413, Slovic 2007 psychic numbing S-414, Tajfel 1970 minimal-group S-232); mutual aid (Kropotkin 1902 S-163, harambee/gotong royong/mink'a/barn-raising S-164); cooperatives (ICA one-member-one-vote S-486, Mondragon S-487); restorative justice (Zehr 1990 S-161 incl. Diné hózhó, IIRP S-022); Brundtland S-395, IPCC S-005, SEP distributive justice S-388. Evidence vs values distinguished (L11 explicit). Validate passes (1590 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No Western/individualist default: relationship/family forms explicitly un-ranked ('no relationship form kin/chosen family/friendship/partnership ranked above another'), village-not-suburban worked examples. Mutual-aid/cooperative representation spans regions accurately: harambee/gotong royong/mink'a-minga/barn-raising S-164, ICA S-486, Mondragon S-487, Diné hózhó + Indigenous peacemaking circles (genuine repair concept not decoration), Kropotkin S-163 — framed 'not the invention of any one region'. Empirical accounts (Slovic, Tajfel, IPCC, Brundtland) held alongside cultural traditions (hózhó, talking circles, stewardship of ancestors/future) per §11. Connections span fisher, distant city, village/forest, flood/factory/crop shocks. No edits needed."
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech/no-tech (all 13 lessons materials_low_tech paper/voice/found objects/seed + context variants, no silent device/wealth requirement). Alt text + SVG a11y (all 13 assets non-empty alt; all 13 SVGs role=img + title/desc grayscale-safe label-not-color). Fixed the gap: unit's spine is deep listening but lessons had only oral/aural paths — added unit-wide access principle to L1 facilitator note, Access (deaf/HoH/non-speaking) bullet to Differentiation of listening-heavy lessons (1,2,4,7,11,13), and inclusive language to materials_low_tech (voice → 'voice (or sign, writing, or gesture)') in L1/7/11/12/13. Validate passes (1590 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses present: ethics (care/solidarity/collective responsibility, empathy-vs-fairness weighing, dignity), egalitarianism (mutual-aid over charity, no relationship form ranked above another, no scale graded better, anti-hierarchy), global/anthropological (harambee/gotong royong/mink'a/minga/barn-raising, Diné hózhó, peacemaking/talking circles, Mondragon — no advanced-vs-backward framing), technology & environment (tech L5/L6/L12, environment L6/L8). Evidence vs values distinguished (L11 'that is a value not a fact'; L12 'sharing power is better' held as value). Traceability: lessons→D02.S1-S4→D02→P1→vision North Star; all 8 objectives resolve to real D02 grade-11 standards; all S-codes resolve. No hierarchy/supremacy/enrichment. Non-blocking: scope.md lists lesson_count 12 for U.11.003 but 13 authored."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: cognitive load matches formal operations (steelmanning, psychic-numbing/identifiable-victim, empathy-vs-fairness, intergenerational ethics, charity-vs-mutual-aid power analysis, each with worked example + guided practice). Emotional safety: every lesson carries explicit opt-out ('I'd rather not share', 'still thinking about this', 'not yet ready to begin'), no forced disclosure of real conflicts/exclusions, no shaming ('difficulty is information not failure'); distant-suffering/psychic-numbing and climate/future content scaffolded with agency/hope ('focus on what you can hand forward, not despair') guarding against despair/compassion fatigue. Physical: seated discussion/pair practice/journaling with outdoor variants + non-motor/written/signed alternatives. Not dumbed down (Bloom/Slovic/Tajfel/Spade/Kropotkin/Zehr/Brundtland/IPCC engaged substantively). Open-endedness: positions held as questions, values named as values ('sharing power is better' flagged as value not fact)."
   - id: B-398
     title: Author lessons for Unit U.11.004 (Language, Literature & Argument)
     agent: lesson-author

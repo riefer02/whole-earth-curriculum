@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Empathy versus fairness</title>
+  <desc id="desc">A balance scale. On the left pan sits a single named face; on the right pan sits a group of many small figures. The beam tips toward the single face. Labels below read "feeling pulls toward the one I see" and "fairness asks about everyone affected." Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Empathy vs Fairness</text>
+
+  <!-- Scale post and beam -->
+  <path d="M256 180 L256 380" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M256 380 L226 410 M256 380 L286 410" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M120 180 L392 180" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M256 180 L256 170" stroke="#2b3a42" stroke-width="4"/>
+  <circle cx="256" cy="168" r="7" fill="#2b3a42"/>
+
+  <!-- Left pan: single named face (heavier) -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <path d="M96 210 v30" />
+    <path d="M76 240 Q96 260 116 240" fill="#ffffff"/>
+    <circle cx="96" cy="198" r="17" fill="#e0a458"/>
+    <circle cx="90" cy="196" r="2.5" fill="#2b3a42"/>
+    <circle cx="102" cy="196" r="2.5" fill="#2b3a42"/>
+    <path d="M89 205 q7 5 14 0" fill="none"/>
+  </g>
+  <text x="96" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">one face I see</text>
+
+  <!-- Right pan: group of many -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <path d="M416 210 v30"/>
+    <path d="M396 240 Q416 260 436 240" fill="#ffffff"/>
+  </g>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5">
+    <circle cx="398" cy="198" r="8"/>
+    <circle cx="416" cy="194" r="8"/>
+    <circle cx="434" cy="198" r="8"/>
+    <circle cx="407" cy="184" r="8" fill="#7a9e7e"/>
+    <circle cx="425" cy="184" r="8" fill="#e0a458"/>
+  </g>
+  <text x="416" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">everyone affected</text>
+
+  <!-- Bottom guidance -->
+  <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Feeling pulls toward the one I see;</text>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">fairness asks about the whole group.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">When the two pull apart, I can name the trade-off and choose with open eyes.</text>
+</svg>

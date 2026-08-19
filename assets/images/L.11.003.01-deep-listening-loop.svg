@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The deep listening loop</title>
+  <desc id="desc">A four-step cycle drawn clockwise with arrows: hear fully, pause, reflect back in your own words, and check I understood you. Two simple figures sit facing each other between speech bubbles. Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Deep Listening Loop</text>
+
+  <!-- Four cycle nodes -->
+  <g font-family="sans-serif" font-size="17" text-anchor="middle" fill="#222222">
+    <circle cx="180" cy="150" r="60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="180" y="146">1. Hear</text>
+    <text x="180" y="166" font-size="13" fill="#4f6d7a">fully, without</text>
+    <text x="180" y="182" font-size="13" fill="#4f6d7a">planning my reply</text>
+
+    <circle cx="332" cy="150" r="60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="332" y="146">2. Pause</text>
+    <text x="332" y="166" font-size="13" fill="#4f6d7a">let it land</text>
+    <text x="332" y="182" font-size="13" fill="#4f6d7a">before answering</text>
+
+    <circle cx="332" cy="320" r="60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="332" y="316">3. Reflect</text>
+    <text x="332" y="336" font-size="13" fill="#4f6d7a">say it back in</text>
+    <text x="332" y="352" font-size="13" fill="#4f6d7a">my own words</text>
+
+    <circle cx="180" cy="320" r="60" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="180" y="316">4. Check</text>
+    <text x="180" y="336" font-size="13" fill="#222222">"Did I get you?"</text>
+    <text x="180" y="352" font-size="13" fill="#222222">stay open</text>
+  </g>
+
+  <!-- Cycle arrows -->
+  <g stroke="#7a9e7e" stroke-width="3" fill="none">
+    <path d="M240 150 H272"/><path d="M266 144 l12 6 l-12 6 z" fill="#7a9e7e" stroke="none"/>
+    <path d="M332 210 V260"/><path d="M326 254 l6 12 l6 -12 z" fill="#7a9e7e" stroke="none"/>
+    <path d="M272 320 H240"/><path d="M246 314 l-12 6 l12 6 z" fill="#7a9e7e" stroke="none"/>
+    <path d="M180 260 V210"/><path d="M174 216 l-6 -12 l6 -12 z" fill="#7a9e7e" stroke="none"/>
+  </g>
+
+  <!-- Two listening figures -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="110" cy="150" r="14" fill="#e0a458"/>
+    <path d="M110 164 v26 M96 172 c0 12 7 20 14 20 s14 -8 14 -20"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="402" cy="320" r="14" fill="#6b93b6"/>
+    <path d="M402 334 v26 M388 342 c0 12 7 20 14 20 s14 -8 14 -20"/>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Listening to understand — not to win — keeps a door open.</text>
+</svg>

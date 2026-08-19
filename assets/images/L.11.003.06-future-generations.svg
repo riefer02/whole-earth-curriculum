@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Empathy for future generations</title>
+  <desc id="desc">A timeline arrow runs left to right: "now" with a single figure, then "the next generation," then "generations after." A seed is passed hand to hand along the timeline to a figure on the far right standing in the future. Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Empathy for Future Generations</text>
+
+  <!-- Timeline arrow -->
+  <path d="M60 240 H452" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M440 234 l14 6 l-14 6 z" fill="#2b3a42"/>
+
+  <!-- Time labels -->
+  <g font-family="sans-serif" font-size="15" text-anchor="middle" fill="#4f6d7a">
+    <text x="100" y="224">now</text>
+    <text x="256" y="224">the next generation</text>
+    <text x="410" y="224">generations after</text>
+  </g>
+
+  <!-- Figures passing a seed along the timeline -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="100" cy="300" r="15" fill="#e0a458"/>
+    <path d="M100 315 v28 M85 324 c0 12 6 21 15 21 s15 -9 15 -21"/>
+    <path d="M100 343 v18"/>
+
+    <circle cx="256" cy="300" r="15" fill="#6b93b6"/>
+    <path d="M256 315 v28 M241 324 c0 12 6 21 15 21 s15 -9 15 -21"/>
+    <path d="M256 343 v18"/>
+
+    <circle cx="410" cy="300" r="15" fill="#7a9e7e"/>
+    <path d="M410 315 v28 M395 324 c0 12 6 21 15 21 s15 -9 15 -21"/>
+    <path d="M410 343 v18"/>
+  </g>
+
+  <!-- Seed -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#7a9e7e">
+    <ellipse cx="178" cy="300" rx="14" ry="9"/>
+    <path d="M166 296 c4 -8 20 -8 24 0"/>
+  </g>
+
+  <!-- Passing arrow -->
+  <path d="M196 296 H238" stroke="#7a9e7e" stroke-width="3" fill="none"/>
+  <path d="M232 290 l12 6 l-12 6 z" fill="#7a9e7e"/>
+  <path d="M318 296 H392" stroke="#7a9e7e" stroke-width="3" fill="none"/>
+  <path d="M386 290 l12 6 l-12 6 z" fill="#7a9e7e"/>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">What I decide today is the seed I hand to people I will never meet.</text>
+</svg>

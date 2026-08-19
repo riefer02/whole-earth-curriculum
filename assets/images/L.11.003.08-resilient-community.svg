@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What makes a community resilient</title>
+  <desc id="desc">A tree with deep, wide roots stands in wind shown by curved lines. Three roots are labeled: shared care and mutual aid; many ways to decide and lead; and ability to change and adapt. The branches shelter several small figures. Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">What Makes a Community Resilient</text>
+
+  <!-- Wind -->
+  <g stroke="#4f6d7a" stroke-width="2.5" fill="none">
+    <path d="M60 150 q14 -8 28 0 q14 8 28 0"/>
+    <path d="M36 190 q14 -8 28 0 q14 8 28 0"/>
+    <path d="M60 230 q14 -8 28 0 q14 8 28 0"/>
+  </g>
+
+  <!-- Tree -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <path d="M256 360 V250" fill="none"/>
+    <path d="M256 300 C220 280 210 230 190 210" fill="none"/>
+    <path d="M256 280 C290 250 300 210 322 196" fill="none"/>
+    <ellipse cx="256" cy="196" rx="90" ry="58" fill="#7a9e7e"/>
+  </g>
+
+  <!-- Roots with labels -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <path d="M256 360 C226 400 170 410 140 440"/>
+    <path d="M256 360 V440"/>
+    <path d="M256 360 C286 400 342 410 372 440"/>
+  </g>
+  <g font-family="sans-serif" font-size="13" text-anchor="middle" fill="#222222">
+    <text x="140" y="474">shared care,</text>
+    <text x="140" y="490">mutual aid</text>
+    <text x="256" y="474">many ways to</text>
+    <text x="256" y="490">decide and lead</text>
+    <text x="372" y="474">ability to</text>
+    <text x="372" y="490">change and adapt</text>
+  </g>
+
+  <!-- Sheltered figures -->
+  <g stroke="#2b3a42" stroke-width="1.5" fill="#ffffff">
+    <circle cx="230" cy="250" r="9" fill="#e0a458"/>
+    <path d="M230 259 v16 M221 264 c0 7 4 11 9 11 s9 -4 9 -11"/>
+    <circle cx="258" cy="254" r="9" fill="#6b93b6"/>
+    <path d="M258 263 v16 M249 268 c0 7 4 11 9 11 s9 -4 9 -11"/>
+    <circle cx="286" cy="250" r="9" fill="#e0a458"/>
+    <path d="M286 259 v16 M277 264 c0 7 4 11 9 11 s9 -4 9 -11"/>
+  </g>
+
+  <text x="256" y="140" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Wind comes. Deep, wide roots hold.</text>
+</svg>

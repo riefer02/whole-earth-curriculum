@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The repair conversation</title>
+  <desc id="desc">Three connected steps in a row with arrows: listen to what happened and how it hurt; take responsibility for my part; and agree together on how to make it right. Two figures stand at either end facing each other. Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Repair Conversation</text>
+
+  <!-- Three steps -->
+  <g font-family="sans-serif" font-size="16" text-anchor="middle" fill="#222222">
+    <rect x="40" y="150" width="130" height="100" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="105" y="178">1. Listen</text>
+    <text x="105" y="200" font-size="13" fill="#4f6d7a">to what happened</text>
+    <text x="105" y="218" font-size="13" fill="#4f6d7a">and how it hurt</text>
+
+    <rect x="191" y="150" width="130" height="100" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="178">2. Take</text>
+    <text x="256" y="196">responsibility</text>
+    <text x="256" y="218" font-size="13" fill="#4f6d7a">for my part</text>
+    <text x="256" y="236" font-size="13" fill="#4f6d7a">without excuses</text>
+
+    <rect x="342" y="150" width="130" height="100" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="407" y="178">3. Agree</text>
+    <text x="407" y="200" font-size="13" fill="#222222">on how to</text>
+    <text x="407" y="218" font-size="13" fill="#222222">make it right</text>
+    <text x="407" y="236" font-size="13" fill="#222222">— together</text>
+  </g>
+
+  <!-- Arrows between steps -->
+  <g stroke="#7a9e7e" stroke-width="3" fill="none">
+    <path d="M170 200 H191"/><path d="M185 194 l12 6 l-12 6 z" fill="#7a9e7e" stroke="none"/>
+    <path d="M321 200 H342"/><path d="M336 194 l12 6 l-12 6 z" fill="#7a9e7e" stroke="none"/>
+  </g>
+
+  <!-- Two figures -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="90" cy="320" r="14" fill="#6b93b6"/>
+    <path d="M90 334 v26 M76 342 c0 12 7 20 14 20 s14 -8 14 -20"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="422" cy="320" r="14" fill="#e0a458"/>
+    <path d="M422 334 v26 M408 342 c0 12 7 20 14 20 s14 -8 14 -20"/>
+  </g>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Repair is not punishment — it is how trust returns.</text>
+</svg>

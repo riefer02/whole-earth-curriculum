@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The accountability loop</title>
+  <desc id="desc">A four-step cycle: agree on the goal and roles; do the work; check what happened and report honestly; and adjust and do it again. Each step has a small icon and an arrow leads to the next, with the last arrow looping back to the first. Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Accountability Loop</text>
+
+  <g font-family="sans-serif" font-size="16" text-anchor="middle" fill="#222222">
+    <circle cx="150" cy="170" r="62" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="164">1. Agree</text>
+    <text x="150" y="186" font-size="13" fill="#4f6d7a">on the goal</text>
+    <text x="150" y="204" font-size="13" fill="#4f6d7a">and roles</text>
+
+    <circle cx="362" cy="170" r="62" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="362" y="164">2. Do</text>
+    <text x="362" y="186" font-size="13" fill="#4f6d7a">the work</text>
+    <text x="362" y="204" font-size="13" fill="#4f6d7a">I said I'd do</text>
+
+    <circle cx="362" cy="330" r="62" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="362" y="324">3. Check</text>
+    <text x="362" y="346" font-size="13" fill="#4f6d7a">and report</text>
+    <text x="362" y="364" font-size="13" fill="#4f6d7a">honestly</text>
+
+    <circle cx="150" cy="330" r="62" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="324">4. Adjust</text>
+    <text x="150" y="346" font-size="13" fill="#222222">and do it</text>
+    <text x="150" y="364" font-size="13" fill="#222222">again</text>
+  </g>
+
+  <g stroke="#7a9e7e" stroke-width="3" fill="none">
+    <path d="M212 170 H300"/><path d="M294 164 l12 6 l-12 6 z" fill="#7a9e7e" stroke="none"/>
+    <path d="M362 232 V268"/><path d="M356 262 l6 12 l6 -12 z" fill="#7a9e7e" stroke="none"/>
+    <path d="M300 330 H212"/><path d="M218 324 l-12 6 l12 6 z" fill="#7a9e7e" stroke="none"/>
+    <path d="M150 268 V232"/><path d="M144 238 l-6 -12 l-6 12 z" fill="#7a9e7e" stroke="none"/>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Accountability is a loop that keeps a shared promise honest and alive.</text>
+</svg>

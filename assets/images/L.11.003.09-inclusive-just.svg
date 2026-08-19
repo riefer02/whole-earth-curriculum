@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Inclusive and just</title>
+  <desc id="desc">A large circle of chairs around a table. Most chairs hold varied simple figures; two chairs sit empty with a small open gate beside them. A path leads from the gate to the table, with an arrow labeled "everyone can reach a seat." Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Inclusive and Just</text>
+
+  <!-- Table -->
+  <ellipse cx="256" cy="300" rx="150" ry="70" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Chairs around the table -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <rect x="118" y="250" width="28" height="30" fill="#fdfbf7"/>
+    <rect x="366" y="250" width="28" height="30" fill="#fdfbf7"/>
+    <rect x="238" y="378" width="28" height="30" fill="#fdfbf7"/>
+  </g>
+
+  <!-- Seated figures -->
+  <g stroke="#2b3a42" stroke-width="1.5" fill="#ffffff">
+    <circle cx="132" cy="242" r="10" fill="#e0a458"/>
+    <path d="M132 252 v14 M123 258 c0 7 4 11 9 11 s9 -4 9 -11"/>
+    <circle cx="380" cy="242" r="10" fill="#6b93b6"/>
+    <path d="M380 252 v14 M371 258 c0 7 4 11 9 11 s9 -4 9 -11"/>
+    <circle cx="252" cy="370" r="10" fill="#7a9e7e"/>
+    <path d="M252 380 v14 M243 386 c0 7 4 11 9 11 s9 -4 9 -11"/>
+  </g>
+
+  <!-- Two empty chairs with gate -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <rect x="196" y="250" width="28" height="30" fill="#ffffff" stroke-dasharray="4 3"/>
+    <rect x="296" y="250" width="28" height="30" fill="#ffffff" stroke-dasharray="4 3"/>
+  </g>
+
+  <!-- Open gate and path -->
+  <path d="M60 330 V430" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M60 330 L96 350 L96 450 L60 430 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M96 400 C150 400 180 360 214 340" stroke="#7a9e7e" stroke-width="3" fill="none"/>
+  <path d="M204 334 l12 6 l-10 10 z" fill="#7a9e7e"/>
+  <text x="66" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">everyone can</text>
+  <text x="66" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">reach a seat</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">A just community leaves no seat out of reach — and notices who is missing.</text>
+</svg>

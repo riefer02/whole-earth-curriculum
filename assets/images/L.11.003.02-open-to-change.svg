@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Open to being changed</title>
+  <desc id="desc">A path with an arrow that bends toward a door standing ajar. Two labeled posts: "my view" and "your view," connected by a two-way arrow that meets in the middle and turns toward the open door labeled "a new view we build together." Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Open to Being Changed</text>
+
+  <!-- Two starting views -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <rect x="40" y="150" width="120" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="100" y="182" font-size="18" fill="#222222">my view</text>
+
+    <rect x="352" y="150" width="120" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="412" y="182" font-size="18" fill="#222222">your view</text>
+  </g>
+
+  <!-- Two-way arrow meeting in middle -->
+  <g stroke="#4f6d7a" stroke-width="3" fill="none">
+    <path d="M160 178 H226"/>
+    <path d="M352 178 H286"/>
+  </g>
+
+  <!-- The meeting point bends downward to an open door -->
+  <g stroke="#7a9e7e" stroke-width="3" fill="none">
+    <path d="M256 178 V230"/>
+  </g>
+
+  <!-- Open door -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <path d="M206 230 h100 v120 h-100 z" fill="#fdfbf7"/>
+    <path d="M206 230 v120"/>
+    <path d="M206 230 l58 30 l58 -30" fill="#e0a458"/>
+  </g>
+
+  <!-- Arrow into the door -->
+  <path d="M256 230 V218" stroke="#7a9e7e" stroke-width="3" fill="none"/>
+  <path d="M250 224 l6 12 l6 -12 z" fill="#7a9e7e"/>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">a new view we build together</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Listening well can change me — and that is strength, not surrender.</text>
+</svg>

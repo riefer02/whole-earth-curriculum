@@ -152,7 +152,7 @@ units:
     pillar: [P1]
     start_day: 30
     end_day: 44
-    lesson_count: 12
+    lesson_count: 13
   - unit_id: U.11.004
     title: "Language, Literature & Argument"
     domain: [D04]
