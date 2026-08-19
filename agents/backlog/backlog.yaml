@@ -5026,7 +5026,7 @@ items:
     type: lesson
     grade: 8
     domain: D09
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -5038,6 +5038,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1272 files). 10 lessons L.08.010.01-.10, sequence 1-10 no gaps; objectives resolve only to eight grade-8 D09 IDs (D09.S1-S4.08.01/.02); unit.md Lessons table matches 10; Procedure/Assessment/Connection/Materials/Facilitator note present; 10 SVGs with title/desc/role=img + alt. Example: L.08.010.04 Connection drought water-allocation 'justice is not one rule but several ideas' faithful to D09.S2.08.01. Non-dogmatic: 'inquiry not creed'/no ranking; factual claims carry S-codes."
+      fact-checker:
+        verdict: passed
+        note: Verified 7 new sources S-386-S-392 (SEP consequentialism/deontology/distributive justice; UNESCO UDCD 2001; Britannica Salt March 1930, Arab Spring 2010-11, TRC South Africa 1995) all live+supporting, marked reviewed:true (Britannica URLs 403-to-bots but canonical, verified via Wayback). Ethical frameworks correctly described; movements (woman suffrage, Green Belt, Chipko, Defiance 1952, Parihaka) match reviewed entries; clarified TRC 1995 establishment vs 1996-98 hearings. 10 SVGs accurate. validate green (1272 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Civic power framed as collective action broadly, never equated with electoral democracy/single system; philosophy 4/11 carried. Representation: L3 moral codes span Ubuntu, East Asian filial respect, Haudenosaunee land stewardship, hospitality; L6 movements Green Belt/Chipko/Salt March/Defiance/Parihaka (3 continents); L7 Arab Spring + digital divide; L9 TRC + Indigenous peacemaking circles; L5 varied rights. Fixes: L3 added Buddhist/Jain ahimsa + Golden Rule; L4 noted restitution rooted in Indigenous peacemaking circles + Ubuntu, not only Western theory. validate green (1272 files)."
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier in all 10 (paper/voice/counters/walking role-plays); L7 digital tools includes no-phone framing (town criers/drums/word of mouth); no wealth assumption. Alt text + title/desc/role=img/aria-labelledby on all 10 SVGs. No color-only encoding (power-access.svg uses solid-vs-dashed + labels); grayscale-safe. Diagram content restated in procedure + tactile/verbal paths. validate green (1272 files). No edits needed.
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: 10 lessons resolve objectives only to eight grade-8 D09 IDs (D09.S1-S4.08.01/.02); chain D09->P4->vision. Four lenses present (ethics whole-unit; egalitarianism who-benefits/who-left-out all 10; global Ubuntu/ahimsa/Golden Rule/Haudenosaunee/movements 3+ continents; tech&environment L4-L9 explicit L7 digital divide/misinformation/surveillance). Evidence vs values: 27 S-codes resolve; L3 labels UDCD as value not fact. Non-dogmatic, no ranking. validate green (1272 files). No fixes."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: ethical reasoning (consequences/duties/fairness, justice ideas, conflict responses) matches emerging formal operations; scaffolded worked-example->guided->independent; concrete cases anchor abstractions. Emotional safety: L8/L9 non-graphic (process of reconciliation not horror), no learners' own conflicts; TRC held as one attempt with strengths+limits; ends with agency + grounding to family/friendship repair. L3 non-dogmatic (description before judgment, no ranking, understanding!=agreement). L5 ends naming a lever so learners leave with agency not despair. Inquiry-over-creed throughout; multi-modal (counters, walking path, role-plays). validate green (1272 files)."
   - id: B-369
     title: Author lessons for Unit U.08.011 (Media, Technology & Our Earth Home)
     agent: lesson-author

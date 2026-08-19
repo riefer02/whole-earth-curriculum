@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Values differ across cultures</title>
+  <desc id="desc">A row of five cards, each holding a value a community may hold dear — hospitality, respect for elders, honesty, care for the group, and care for the land — with the note that these differ but none is better or worse.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Values a Community Holds Dear</text>
+
+  <!-- card 1 -->
+  <rect x="30" y="120" width="82" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="71" cy="146" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="71" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Hospitality</text>
+  <text x="71" y="196" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">welcoming the</text>
+  <text x="71" y="210" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">stranger, sharing</text>
+  <text x="71" y="224" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">what you have</text>
+
+  <!-- card 2 -->
+  <rect x="124" y="120" width="82" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="165" cy="146" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="165" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Respect for</text>
+  <text x="165" y="186" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">elders</text>
+  <text x="165" y="210" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">honoring those</text>
+  <text x="165" y="224" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">who came before</text>
+
+  <!-- card 3 -->
+  <rect x="218" y="120" width="82" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="259" cy="146" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="259" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Honesty</text>
+  <text x="259" y="196" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">truthfulness in</text>
+  <text x="259" y="210" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">word and deed</text>
+
+  <!-- card 4 -->
+  <rect x="312" y="120" width="82" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="353" cy="146" r="9" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="353" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Care for the</text>
+  <text x="353" y="186" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">group</text>
+  <text x="353" y="210" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">the we before</text>
+  <text x="353" y="224" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">the me</text>
+
+  <!-- card 5 -->
+  <rect x="406" y="120" width="82" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="447" cy="146" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="447" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Care for the</text>
+  <text x="447" y="186" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">land</text>
+  <text x="447" y="210" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">stewardship for</text>
+  <text x="447" y="224" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">future ones</text>
+
+  <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Different, not better or worse.</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Every culture holds more than one value, and every person weighs them differently.</text>
+
+  <rect x="96" y="380" width="320" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Respectful engagement</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">Listen first. Ask before judging.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">Understanding is not the same as agreeing.</text>
+</svg>

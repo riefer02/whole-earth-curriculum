@@ -3590,3 +3590,67 @@ sources:
     domains: [D08]
     reviewed: true
     notes: "Cited in Grade-8 lesson L.08.009.09 (keeping humanity, culture, and hope under oppression) for the claim that the spiritual is an African American religious song born of the enslaved experience, carrying sorrow, faith, hope, and sometimes hidden messages. The Britannica 'spiritual' article documents the spiritual as a folk song tradition that emerged among enslaved African Americans and expresses their religious faith and lived experience. Fact-checker verified (2026-08-18) live: Britannica documents Black spirituals as folk hymns sung by enslaved African Americans in worship and as work songs, with double meanings alluding to liberation. The registered /topic/spiritual URL resolves to the article (canonical /art/spiritual)."
+
+  - id: S-386
+    title: "Stanford Encyclopedia of Philosophy — Consequentialism"
+    type: website
+    url: https://plato.stanford.edu/entries/consequentialism/
+    organization: Stanford University (Stanford Encyclopedia of Philosophy)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.010.02 (Weighing Consequences, Duties, and Fairness) for the 'consequences' lens — reasoning about what is right by considering what happens to everyone affected. The SEP entry on consequentialism is the standard scholarly reference for this ethical tradition; the lesson uses it only as the source of the consequences lens, not as a claim about any specific fact. Fact-checker verified (2026-08-18) live: URL resolves; the entry opens 'Consequentialism... is simply the view that normative properties depend only on consequences' and, for act consequentialism, that 'whether an act is morally right depends only on the consequences of that act' (with 'Universal Consequentialism' covering 'the consequences for all people or sentient beings'). Accurately supports the lesson's 'what happens to everyone affected' framing of the consequences lens."
+
+  - id: S-387
+    title: "Stanford Encyclopedia of Philosophy — Deontological Ethics"
+    type: website
+    url: https://plato.stanford.edu/entries/ethics-deontological/
+    organization: Stanford University (Stanford Encyclopedia of Philosophy)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.010.02 (Weighing Consequences, Duties, and Fairness) for the 'duties' lens — reasoning about what is right by considering what one owes (honesty, promises, care), regardless of consequences. The SEP entry on deontological ethics is the standard scholarly reference for this tradition; the lesson uses it only as the source of the duties lens. Fact-checker verified (2026-08-18) live: URL resolves; the entry opens 'The word deontology derives from the Greek words for duty (deon) and science (or study) of (logos)' and states deontologists 'stand in opposition to consequentialists,' judging the morality of choices by criteria other than the states of affairs they bring about — directly supporting the lesson's duty-based (what I owe, regardless of consequences) framing."
+
+  - id: S-388
+    title: "Stanford Encyclopedia of Philosophy — Distributive Justice"
+    type: website
+    url: https://plato.stanford.edu/entries/justice-distributive/
+    organization: Stanford University (Stanford Encyclopedia of Philosophy)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.010.04 (Three Ideas of Justice) for the idea that justice has competing answers — equal treatment, need, and restitution — mapped onto long-standing debates in the theory of distributive justice. The SEP entry on distributive justice is the standard scholarly reference; the lesson presents these as ideas to compare, not as a single correct answer. Fact-checker verified (2026-08-18) live: URL resolves; the entry surveys competing distributive principles including Strict Egalitarianism ('every person should have the same level of material goods'), the Difference Principle, desert-based principles, and welfare-based principles — supporting the lesson's 'justice has more than one meaning / competing ideas to compare' framing. Note: 'restitution' (repair of past harm) is a corrective/restorative concept; the lesson correctly pairs it with Zehr (S-161) and the IIRP (S-022) rather than attributing it to the SEP distributive-justice entry, so the citation is used only for the equal-treatment/need side of the debate."
+
+  - id: S-389
+    title: "UNESCO — Universal Declaration on Cultural Diversity"
+    type: website
+    url: https://www.unesco.org/en/legal-affairs/unesco-universal-declaration-cultural-diversity
+    organization: UNESCO
+    year: 2001
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.010.03 (Values and Moral Codes Across Cultures) as a shared international commitment to cultural diversity and to respectful engagement across difference. The lesson frames this as a value/commitment, not a scientific fact, consistent with philosophy §5. Fact-checker verified (2026-08-18) live: URL resolves to UNESCO's canonical Legal Affairs page for the Universal Declaration on Cultural Diversity (adopted 2 November 2001, Paris — matching the year: 2001 field). Article 1 declares cultural diversity 'the common heritage of humanity' to be 'recognized and affirmed for the benefit of present and future generations'; Article 4 calls the defence of cultural diversity 'an ethical imperative, inseparable from respect for human dignity.' Accurately supports the lesson's 'shared international commitment / respectful engagement across difference' framing."
+
+  - id: S-390
+    title: "Encyclopaedia Britannica — Salt March"
+    type: website
+    url: https://www.britannica.com/event/Salt-March
+    organization: Encyclopaedia Britannica
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.010.06 (How a Social Movement Works) as one example of a social movement — the 1930 Salt March led by Mohandas Gandhi, a nonviolent act of civil disobedience against the British salt tax, part of the Indian independence movement. The Britannica 'Salt March' article documents the event; the lesson offers it as one globally representative example among several (Green Belt Movement S-059, Chipko S-328, Defiance Campaign S-146, Parihaka S-144). Fact-checker verified (2026-08-18): britannica.com returns HTTP 403 to automated clients (bot-blocking), but the URL is canonical and resolves (confirmed via Wayback Machine captures with 200 status). Article text: 'Salt March, major nonviolent protest action in India led by Mohandas (Mahatma) Gandhi in March–April 1930' (also called Dandi March or Salt Satyagraha), the first act in a larger campaign of civil disobedience (satyagraha) waged against British rule, protesting the British monopoly and heavy tax on salt — matching every element of the lesson's claim (1930, Gandhi, nonviolent civil disobedience, salt tax, independence movement)."
+
+  - id: S-391
+    title: "Encyclopaedia Britannica — Arab Spring"
+    type: website
+    url: https://www.britannica.com/event/Arab-Spring
+    organization: Encyclopaedia Britannica
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.010.07 (Digital Tools and Civic Participation) as one documented case of digital tools being used to organize and spread information during the 2010–11 Arab Spring uprisings, while noting the same tools also spread misinformation and enabled surveillance. The Britannica 'Arab Spring' article documents the uprisings and the role of social media; the lesson presents the case as one among many and weighs risks and benefits rather than giving a simple verdict. Fact-checker verified (2026-08-18): britannica.com returns HTTP 403 to automated clients, but the URL is canonical and resolves (confirmed via Wayback Machine captures with 200 status). Article text: 'Arab Spring, wave of pro-democracy protests and uprisings that took place in the Middle East and North Africa beginning in 2010 and 2011'; on Egypt it states protests were 'organized among young Egyptians through social media.' Accurately supports the lesson's 2010–11 dating and its 'digital tools used to organize and spread information' claim. The lesson's additional cautions (misinformation, surveillance, digital divide, blocked organizing) are standard, well-documented scholarly points, and the lesson frames them as risks to weigh, not as a verdict."
+
+  - id: S-392
+    title: "Encyclopaedia Britannica — Truth and Reconciliation Commission, South Africa"
+    type: website
+    url: https://www.britannica.com/topic/Truth-and-Reconciliation-Commission-South-Africa
+    organization: Encyclopaedia Britannica
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.010.09 (Peace and Reconciliation After Conflict) for the claim that South Africa's Truth and Reconciliation Commission (1996–1998), established after apartheid, invited public testimony about past abuses and, in defined cases, offered amnesty in exchange for full disclosure, alongside reparations — a real, documented, and contested attempt to trade some punishment for truth and repair. The Britannica article documents the TRC; the lesson presents it as one attempt with real strengths and limits. Fact-checker verified (2026-08-18): britannica.com returns HTTP 403 to automated clients, but the URL is canonical and resolves (confirmed via Wayback Machine captures with 200 status). Article text confirms: the TRC was 'a courtlike body established by the new South African government in 1995' under the Promotion of National Unity and Reconciliation Act 34 of 1995, chaired by Archbishop Desmond Tutu; its emphasis was on 'gathering evidence and uncovering information — from both victims and perpetrators — and not on prosecuting individuals for past crimes'; it received 'more than 22,000 statements from victims,' held public hearings at which victims testified, granted '1,500 amnesties' in exchange for full disclosure (Amnesty Committee), and included a Reparations and Rehabilitation Committee (reparations policy). The lesson's '(1996–1998)' is the standard shorthand for the TRC's main public-hearing/truth-telling period (the Human Rights Violations Committee's public hearings ran 1996–1998); Britannica's own date field spans 1995–2003 (establishment to final report). The 'contested / real strengths and limits' framing is accurate and appropriately hedged."

@@ -69,3 +69,13 @@ Questions are held as questions, never answered as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Ethics, Justice & Civic Power: Where We've Been, Where We're Going | D09.S1.08.01–D09.S4.08.02 (preview) |
+| 02 | Weighing Consequences, Duties, and Fairness | D09.S1.08.01 |
+| 03 | Values and Moral Codes Across Cultures | D09.S1.08.02 |
+| 04 | Three Ideas of Justice: Equal Treatment, Need, and Restitution | D09.S2.08.01 |
+| 05 | Power and Access: Whose Rights Are Protected? | D09.S2.08.02 |
+| 06 | How a Social Movement Works: Goals, Strategies, Effects | D09.S3.08.01 |
+| 07 | Digital Tools and Civic Participation: Risks and Benefits | D09.S3.08.02 |
+| 08 | Evaluating a Real Conflict: Peaceful, Restorative, and Other Responses | D09.S4.08.01 |
+| 09 | Peace and Reconciliation After Conflict | D09.S4.08.02 |
+| 10 | Capstone: Ethics, Justice & Civic Power — Putting It Together | all eight D09 grade-8 objectives |

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three ideas of justice applied to one case</title>
+  <desc id="desc">Three boxes showing three ideas of justice — equal treatment, need, and restitution — each applied to the same case of sharing scarce water after a drought, with arrows down to one shared case box.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Three Ideas of Justice, One Case</text>
+
+  <!-- equal treatment -->
+  <rect x="30" y="72" width="140" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="54" cy="94" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="68" y="99" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Equal treatment</text>
+  <text x="42" y="122" font-family="sans-serif" font-size="11" fill="#4f6d7a">Everyone gets the</text>
+  <text x="42" y="138" font-family="sans-serif" font-size="11" fill="#4f6d7a">same share.</text>
+
+  <!-- need -->
+  <rect x="186" y="72" width="140" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="210" cy="94" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="224" y="99" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Need</text>
+  <text x="198" y="122" font-family="sans-serif" font-size="11" fill="#4f6d7a">Those who need more</text>
+  <text x="198" y="138" font-family="sans-serif" font-size="11" fill="#4f6d7a">get more.</text>
+
+  <!-- restitution -->
+  <rect x="342" y="72" width="140" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="366" cy="94" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="380" y="99" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Restitution</text>
+  <text x="354" y="122" font-family="sans-serif" font-size="11" fill="#4f6d7a">Those harmed are</text>
+  <text x="354" y="138" font-family="sans-serif" font-size="11" fill="#4f6d7a">made whole again.</text>
+
+  <!-- arrows down -->
+  <path d="M100 190 L176 250" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M256 190 L256 250" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M412 190 L336 250" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- case -->
+  <rect x="96" y="250" width="320" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="276" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">One case: scarce water after a drought</text>
+  <text x="256" y="298" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">A river runs low. Who gets water — everyone the</text>
+  <text x="256" y="314" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">same, those in greatest need, or those harmed most?</text>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">Each idea answers differently — all three matter.</text>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Justice is more than one thing.</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Ask of any case: who is treated equally, whose need is met,</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">and how is harm repaired?</text>
+</svg>

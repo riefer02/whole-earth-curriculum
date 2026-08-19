@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Capstone web: eight goals of ethics, justice, and civic power</title>
+  <desc id="desc">A web with a center labeled ask, weigh, and act, connected by lines to eight outer nodes, each naming one goal of the unit: weigh consequences duties and fairness, values differ across cultures, ideas of justice, power and access, social movements, digital civic life, evaluate a conflict, and peace and reconciliation.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Eight Goals, One Habit</text>
+
+  <!-- center -->
+  <circle cx="256" cy="256" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">ask</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">weigh</text>
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">act</text>
+
+  <!-- outer nodes -->
+  <g font-family="sans-serif" font-size="11.5" fill="#222222">
+    <rect x="88" y="60" width="150" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="163" y="82" text-anchor="middle">weigh consequences,</text>
+    <text x="163" y="97" text-anchor="middle">duties, fairness</text>
+
+    <rect x="274" y="60" width="150" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="349" y="82" text-anchor="middle">values differ across</text>
+    <text x="349" y="97" text-anchor="middle">cultures</text>
+
+    <rect x="58" y="150" width="150" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="172" text-anchor="middle">compare ideas</text>
+    <text x="133" y="187" text-anchor="middle">of justice</text>
+
+    <rect x="304" y="150" width="150" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="172" text-anchor="middle">power &amp; access</text>
+    <text x="379" y="187" text-anchor="middle">shape rights</text>
+
+    <rect x="58" y="310" width="150" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="133" y="332" text-anchor="middle">analyze a social</text>
+    <text x="133" y="347" text-anchor="middle">movement</text>
+
+    <rect x="304" y="310" width="150" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="379" y="332" text-anchor="middle">digital civic</text>
+    <text x="379" y="347" text-anchor="middle">participation</text>
+
+    <rect x="88" y="400" width="150" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="163" y="422" text-anchor="middle">evaluate a</text>
+    <text x="163" y="437" text-anchor="middle">real conflict</text>
+
+    <rect x="274" y="400" width="150" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="349" y="422" text-anchor="middle">peace &amp; reconciliation</text>
+    <text x="349" y="437" text-anchor="middle">after conflict</text>
+  </g>
+
+  <!-- spokes -->
+  <g stroke="#4f6d7a" stroke-width="2">
+    <line x1="163" y1="112" x2="206" y2="210"/>
+    <line x1="349" y1="112" x2="306" y2="210"/>
+    <line x1="133" y1="202" x2="203" y2="240"/>
+    <line x1="379" y1="202" x2="309" y2="240"/>
+    <line x1="133" y1="310" x2="203" y2="272"/>
+    <line x1="379" y1="310" x2="309" y2="272"/>
+    <line x1="163" y1="400" x2="206" y2="302"/>
+    <line x1="349" y1="400" x2="306" y2="302"/>
+  </g>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Gather your work — and carry the habit of asking, weighing, and acting forward.</text>
+</svg>
