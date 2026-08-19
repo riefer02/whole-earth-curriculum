@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A series on one theme: the same tree, four changing versions</title>
+  <desc id="desc">Four frames side by side, each showing a tree drawn more simply and boldly from left to right, labeled one through four, to show how one idea changes across a series of artworks.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">One Theme, Four Works</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The same idea can change as the series grows</text>
+
+  <!-- frame 1: detailed tree -->
+  <rect x="28" y="96" width="104" height="300" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="40" y="300" width="80" height="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="66" y="250" width="12" height="56" fill="#2b3a42"/>
+  <path d="M72 250 C 52 220, 52 190, 72 170 C 88 188, 88 210, 72 250 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M72 250 C 92 222, 92 192, 72 176 C 56 192, 56 216, 72 250 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M72 190 C 60 170, 62 150, 72 140 C 82 152, 82 172, 72 190 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="80" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">1</text>
+  <text x="80" y="420" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">detailed</text>
+
+  <!-- frame 2 -->
+  <rect x="144" y="96" width="104" height="300" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="156" y="300" width="80" height="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="182" y="250" width="12" height="56" fill="#2b3a42"/>
+  <path d="M188 250 C 168 222, 168 190, 188 176 C 204 192, 204 216, 188 250 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <path d="M188 196 C 176 178, 178 156, 188 146 C 198 158, 198 178, 188 196 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="196" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">2</text>
+  <text x="196" y="420" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">simpler</text>
+
+  <!-- frame 3 -->
+  <rect x="260" y="96" width="104" height="300" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="272" y="300" width="80" height="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="298" y="250" width="12" height="56" fill="#2b3a42"/>
+  <circle cx="304" cy="176" r="42" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="312" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">3</text>
+  <text x="312" y="420" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">bolder</text>
+
+  <!-- frame 4 -->
+  <rect x="376" y="96" width="104" height="300" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="388" y="300" width="80" height="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="414" y="250" width="12" height="56" fill="#2b3a42"/>
+  <circle cx="420" cy="180" r="46" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <path d="M420 180 L466 180 M420 180 L420 134 M420 180 L374 180 M420 180 L420 226" stroke="#e0a458" stroke-width="3"/>
+  <text x="428" y="88" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">4</text>
+  <text x="428" y="420" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a symbol</text>
+
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">Track how the work changes: what stays, what you let go</text>
+</svg>

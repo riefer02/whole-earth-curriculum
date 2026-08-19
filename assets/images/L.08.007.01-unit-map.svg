@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit map: four strands of making, composing, devising and designing</title>
+  <desc id="desc">A map of the unit showing four boxes labeled visual arts, music and sound, movement dance and drama, and making and design, each with two short goals, arranged around the words make, compose, devise, and design.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Our Unit: Four Ways of Making</text>
+
+  <!-- center badge -->
+  <ellipse cx="256" cy="256" rx="96" ry="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">make · compose</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">devise · design</text>
+
+  <!-- strand 1: visual arts (top-left) -->
+  <rect x="30" y="78" width="156" height="122" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="54" cy="100" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="70" y="105" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Visual Arts</text>
+  <text x="40" y="132" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· create a series on</text>
+  <text x="40" y="149" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  one theme</text>
+  <text x="40" y="166" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· critique with evidence</text>
+
+  <!-- strand 2: music & sound (top-right) -->
+  <rect x="326" y="78" width="156" height="122" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="350" cy="100" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="366" y="105" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Music &amp; Sound</text>
+  <text x="336" y="132" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· compose in a style</text>
+  <text x="336" y="149" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· critique with evidence</text>
+
+  <!-- strand 3: movement (bottom-left) -->
+  <rect x="30" y="312" width="156" height="122" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="54" cy="334" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="70" y="339" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Movement, Dance &amp; Drama</text>
+  <text x="40" y="366" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· devise one theme</text>
+  <text x="40" y="383" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· critique with evidence</text>
+
+  <!-- strand 4: making & design (bottom-right) -->
+  <rect x="326" y="312" width="156" height="122" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="350" cy="334" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="366" y="339" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Making &amp; Design</text>
+  <text x="336" y="366" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· make a working</text>
+  <text x="336" y="383" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  prototype</text>
+  <text x="336" y="400" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· critique with evidence</text>
+
+  <!-- connector lines -->
+  <path d="M186 139 L256 216" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M326 139 L256 216" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M186 373 L256 296" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M326 373 L256 296" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Make it, then critique it: evidence, not mere taste</text>
+</svg>

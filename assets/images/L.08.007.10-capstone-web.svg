@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Capstone web: making, composing, devising, and designing</title>
+  <desc id="desc">A web diagram with make, compose, devise, and design at the center and eight spokes — a theme series, art critique, a composed piece, music critique, a devised piece, performance critique, a prototype, and design critique — each labeled with one short reminder.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Our Eight Goals, One Web</text>
+
+  <!-- center -->
+  <ellipse cx="256" cy="256" rx="86" ry="42" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">make · compose</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">devise · design</text>
+
+  <!-- eight spokes -->
+  <rect x="28" y="70" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="94" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">A theme series</text>
+  <text x="92" y="112" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">one idea, many works</text>
+
+  <rect x="196" y="70" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="260" y="94" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Art critique</text>
+  <text x="260" y="112" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">evidence, not taste</text>
+
+  <rect x="356" y="70" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="94" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">A composed piece</text>
+  <text x="420" y="112" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">in a chosen style</text>
+
+  <rect x="28" y="384" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Music critique</text>
+  <text x="92" y="426" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">elements, context, effect</text>
+
+  <rect x="196" y="384" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="260" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">A devised piece</text>
+  <text x="260" y="426" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">one theme, rehearsed</text>
+
+  <rect x="356" y="384" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Performance critique</text>
+  <text x="420" y="426" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">movement, purpose</text>
+
+  <rect x="28" y="214" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="238" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">A prototype</text>
+  <text x="92" y="256" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">made and tested</text>
+
+  <rect x="356" y="214" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="238" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Design critique</text>
+  <text x="420" y="256" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">function, fairness,</text>
+  <text x="420" y="268" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">materials, footprint</text>
+
+  <!-- connectors -->
+  <path d="M120 128 L200 216" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M260 128 L256 214" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M420 128 L312 216" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M120 214 L170 250" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M420 272 L342 256" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M120 384 L200 298" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M260 384 L256 298" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M420 384 L312 298" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Make it, then critique it — with evidence and care</text>
+</svg>

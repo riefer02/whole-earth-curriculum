@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The devising and rehearsal loop</title>
+  <desc id="desc">A circular loop of five steps for devising a performance: choose a theme, explore movement, shape and rehearse, revise from feedback, and share or perform, with arrows showing the cycle repeats.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Devising &amp; Rehearsing Loop</text>
+
+  <!-- step 1: theme -->
+  <rect x="178" y="78" width="156" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="200" cy="100" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="218" y="106" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Choose a theme</text>
+  <text x="190" y="128" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">one idea worth moving about</text>
+
+  <!-- step 2: explore -->
+  <rect x="330" y="164" width="156" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="352" cy="186" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="370" y="192" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Explore movement</text>
+  <text x="342" y="214" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">try many ways to show it</text>
+
+  <!-- step 3: shape/rehearse -->
+  <rect x="178" y="304" width="156" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="200" cy="326" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="218" y="332" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Shape &amp; rehearse</text>
+  <text x="190" y="354" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">choose, order, and practice</text>
+
+  <!-- step 4: revise -->
+  <rect x="26" y="164" width="156" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="48" cy="186" r="9" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="66" y="192" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Revise</text>
+  <text x="38" y="214" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">change it after feedback</text>
+
+  <!-- step 5: perform -->
+  <rect x="178" y="396" width="156" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="200" cy="418" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="218" y="424" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Share / perform</text>
+  <text x="190" y="446" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">then the loop begins again</text>
+
+  <!-- connectors (cycle) -->
+  <path d="M256 140 L330 176" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M330 226 L330 252 L256 300" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M178 335 L26 226" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M104 226 L104 252 L182 300" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M256 366 L256 396" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The work changes through rehearsal — that is the point</text>
+</svg>

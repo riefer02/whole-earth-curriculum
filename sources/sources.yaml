@@ -3376,3 +3376,87 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in Grade-8 lesson L.08.006.08 (our place in the galaxy) for the claims that our Sun is one of more than 100 billion stars in the Milky Way, a spiral galaxy, and that the Milky Way is one of many billions of galaxies. VERIFIED 2026-08-18: the NASA 'Galaxies' page is live and states 'Our home galaxy is called the Milky Way. It's a spiral galaxy with a disk of stars spanning more than 100,000 light-years,' and that galaxies range from those with 'a few thousand stars' to the largest with 'trillions of stars,' organized into groups, clusters, superclusters, and the cosmic web. NOTE: the page does not itself state a star count for the Milky Way; the 'more than 100 billion stars' figure is stated verbatim on the NASA 'Stars' page (S-361: 'Our Milky Way alone contains more than 100 billion, including… the Sun'). The lesson's 'billions of galaxies' figure is the standard, well-established estimate (cf. NASA Space Place 'What Is a Galaxy?': 'Some scientists think there could be as many as one hundred billion galaxies'). The lesson holds 'our place in the galaxy' as a wonder-filled framing, not a claim that any one place is more important than another."
+
+  - id: S-363
+    title: "The Phillips Collection — Jacob Lawrence, The Migration Series (1940–41)"
+    type: website
+    url: https://www.phillipscollection.org/collection/migration-series
+    organization: The Phillips Collection (Washington, DC)
+    year: 1941
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.007.02 (a series on one theme) as a real example of an artist working in series. VERIFIED 2026-08-18: URL live. The Phillips Collection page 'Jacob Lawrence: The Migration Series' invites viewers to 'Explore all 60 panels of Jacob Lawrence's great American epic' and is explicitly framed around the Great Migration (sections 'Migrant Life', 'Migration Map', 'Jacob Lawrence's Harlem'; 'Explore the lasting cultural, political, and societal impact of the Great Migration through the life and work of artist Jacob Lawrence'). This confirms the lesson's claims: a 60-panel series (1940–41) on the single theme of the Great Migration of African Americans. The 'rural South to the urban North' characterization is the standard, well-documented description of the Great Migration. Told as documented art history; the lesson names it as an example to honor with questions, not a specimen."
+
+  - id: S-364
+    title: "The Metropolitan Museum of Art — Katsushika Hokusai, South Wind, Clear Sky (Red Fuji), from Thirty-six Views of Mount Fuji"
+    type: website
+    url: https://www.metmuseum.org/art/collection/search/36490
+    organization: The Metropolitan Museum of Art
+    year: 1831
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.007.02 (a series on one theme) as a real example of an artist working in series. VERIFIED 2026-08-18: URL live. NOTE: object 36490 is 'South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji' — NOT 'Under the Wave off Kanagawa' (the Great Wave), as an earlier draft of this entry said. The page is nonetheless the correct authority for the lesson's actual claims: it titles the work 'from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)', dates it 'ca. 1830–32', and states 'Hokusai's \"Thirty-six Views of Mount Fuji\" is justly celebrated as one of the world's greatest series of images of various conditions and vantage points of a particular place, in this case, the mountain synonymous with Japan.' It also notes the publisher expanded the series to forty-six prints. This confirms the lesson's claims (a woodblock-print series on one mountain seen many ways, c. 1830–32) while honoring a non-Western tradition as a living art, never a specimen. Title corrected to match the object the URL actually returns."
+
+  - id: S-365
+    title: "The J. Paul Getty Museum — Understanding Formal Analysis (elements of art and principles of design)"
+    type: website
+    url: https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html
+    organization: The J. Paul Getty Museum (Getty Education)
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.007.03 (critiquing an artwork) as the source for the vocabulary of observation and analysis: the elements of art (line, shape, form, color, value, texture, space) and the principles of design (balance, contrast, emphasis, and so on). VERIFIED 2026-08-18: URL live. The Getty Education page 'Understanding Formal Analysis' lists the elements of art — line, shape and form, space, color (with value discussed under color: 'Value describes the brightness of color'), and texture — and links to the principles of design. This is the shared vocabulary for the 'describe' and 'analyze' steps of evidence-based critique; the lesson's four-step frame (describe/analyze/interpret/evaluate) is a widely used general model, presented as a scaffold, not attributed page-for-page to this source."
+
+  - id: S-366
+    title: "Encyclopaedia Britannica — Raga (Indian classical music)"
+    type: website
+    url: https://www.britannica.com/art/raga
+    organization: Encyclopaedia Britannica
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.007.04 (composing in a chosen style) for the claim that the raga is a melodic framework in Indian classical music with a specific scale, characteristic notes, and an associated mood/time. VERIFIED 2026-08-18: URL live (Britannica 'raga' article, by ethnomusicologist Bruno Nettl). The article defines the raga as 'a melodic framework for improvisation and composition,' with 'a scale with a given set of notes, a typical order in which they appear in melodies, and characteristic musical motifs,' and notes the performer 'sets out to create a mood or atmosphere (rasa) that is unique to the raga,' with northern ragas grouped by 'mood, season, and time.' Confirms every element of the lesson's claim. The lesson presents the raga as a living musical tradition to honor with respectful questions, never a specimen to imitate carelessly."
+
+  - id: S-367
+    title: "Encyclopaedia Britannica — Maqam (maqām, modal music of the Middle East)"
+    type: website
+    url: https://www.britannica.com/art/maqam-music
+    organization: Encyclopaedia Britannica
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.007.04 (composing in a chosen style) for the claim that the maqam is a modal system of Arab, Turkish, and Persian music with characteristic intervals. VERIFIED 2026-08-18: URL live (Britannica 'maqām' article, by Bruno Nettl). The article states 'Arabic classical music is said to be cast in a maqām, whose attributes are a scale consisting of a collection of tones, characteristic motifs to which an improviser or composer consistently returns, and a distinct character'; notes that many 'Arabic and Turkish maqām names is Persian, reflecting the considerable influence of Iranian culture'; and observes the same concept appears in 'Turkish music (spelled makam)' and is 'similar to the concepts of dastgāh and gūsheh in Persian music.' Confirms the Arab/Turkish/Persian modal-system claim. The lesson presents the maqam as a living musical tradition to honor with respectful questions, never a specimen."
+
+  - id: S-368
+    title: "Wikipedia — Elements of music"
+    type: website
+    url: https://en.wikipedia.org/wiki/Elements_of_music
+    organization: Wikipedia (Wikimedia Foundation)
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.007.05 (critiquing a musical work) as the source for the shared vocabulary of the elements of music — melody, rhythm, harmony, timbre, dynamics, tempo, texture, and form. FIXED 2026-08-18: the original BBC Bitesize KS3 Music 'The elements of music' guide (bbc.co.uk/bitesize/guides/z8tsv9q) has been retired and now returns 404 (BBC restructured Bitesize; no consolidated KS3 elements-of-music page remains). Replaced with the live, on-topic Wikipedia 'Elements of music' article, which confirms melody, rhythm, harmony, timbre, dynamics, tempo, texture, and form are recognized elements of music (citing Meyer's 'melody, rhythm, timbre, harmony' and Narmour's 'melody, harmony, rhythm, dynamics, … timbre, tempo, meter, texture'), while noting 'experts differ on their precise definitions.' The lesson uses the eight elements as a listening scaffold (standard music-education vocabulary), not as a contested factual claim."
+
+  - id: S-369
+    title: "The Center for Universal Design (NC State University, 1997) — The Principles of Universal Design"
+    type: website
+    url: https://design.ncsu.edu/research/center-for-universal-design/
+    organization: The Center for Universal Design, NC State University
+    year: 1997
+    domains: [D07, D10]
+    reviewed: true
+    notes: "Cited in Grade-8 lessons L.08.007.08 (making a working prototype) and L.08.007.09 (critiquing a design) as the frame for designing with accessibility in mind and for asking who a design leaves out. VERIFIED 2026-08-18: URL live (returns HTTP 200 to a normal browser; the earlier 403 was bot-blocking of a non-browser client). The NC State College of Design 'Center for Universal Design' page states the Center was established in 1989 (as the Center for Accessible Housing), initiated the 'global movement of inclusive design practice' at NC State, and reproduces the seven Principles of Universal Design verbatim — PRINCIPLE ONE: Equitable Use; TWO: Flexibility in Use; THREE: Simple and Intuitive Use; FOUR: Perceptible Information; FIVE: Tolerance for Error; SIX: Low Physical Effort; SEVEN: Size and Space for Approach and Use (developed 1997, with Ron Mace named). The page notes the Center is 'currently not active due to funding challenges' (an archival page, still the authoritative statement of the principles). The lesson uses the principles as a fairness/access frame (a value), distinct from any factual claim about a specific product."
+
+  - id: S-370
+    title: "TeachEngineering — Engineering Design Process"
+    type: website
+    url: https://www.teachengineering.org/populartopics/designprocess
+    organization: TeachEngineering (University of Colorado Boulder)
+    domains: [D07, D10]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.007.08 (making a working prototype) for the claim that the engineering design process is an iterative cycle of ask, imagine, plan, create, test, and improve. VERIFIED 2026-08-18: URL live (redirects to /popular-topics/engineering-design-process). TeachEngineering's page states 'The Engineering Design Process is a series of steps that guides engineering teams as we solve problems' and 'The design process is iterative, meaning that we repeat the steps as many times as needed.' Its canonical list has SEVEN steps — Ask, Research, Imagine, Plan, Create, Test, Improve — while the lesson uses the common six-step simplification (ask, imagine, plan, create, test, improve) that folds 'research' into 'imagine'. This is a standard, widely used pedagogical simplification and does not misrepresent the process; the lesson presents the cycle as a scaffold for making, not as TeachEngineering's verbatim list. Noted for accuracy."
+
+  - id: S-371
+    title: "U.S. Environmental Protection Agency — Sustainable Materials Management (life cycle)"
+    type: website
+    url: https://www.epa.gov/smm
+    organization: U.S. Environmental Protection Agency
+    domains: [D07, D10]
+    reviewed: true
+    notes: "Cited in Grade-8 lessons L.08.007.08 and L.08.007.09 (prototype and design critique) for the idea that a design's environmental footprint includes its whole life cycle — materials, making, use, and disposal. VERIFIED 2026-08-18: URL live. The EPA 'Sustainable Materials Management' program home (epa.gov/smm) is live and on-topic; its 'Basics' subpage (epa.gov/smm/sustainable-materials-management-basics) states the life-cycle framing verbatim: 'Sustainable materials management (SMM) is a systematic approach to using and reusing materials more productively over their entire life cycles' and, under 'A Life-cycle Perspective,' that 'The major stages in a material's lifecycle are raw material acquisition, materials manufacture, production, use/reuse/maintenance, and waste management.' This directly supports the lesson's 'materials, making, use, disposal' footprint lens. The lesson uses the life-cycle idea as the 'footprint' lens of a design critique; the specific trade-offs learners weigh are theirs to observe, not claims attributed to this source."

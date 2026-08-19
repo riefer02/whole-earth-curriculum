@@ -4915,7 +4915,7 @@ items:
     type: lesson
     grade: 8
     domain: D07
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -4927,6 +4927,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1242 files). 10 lessons L.08.007.01-.10, kind/grade/unit/sequence 1-10 no gaps; Procedure+Assessment+Connection present (e.g. L.08.007.08 'propped a door open... you have made a prototype'). objectives resolve only to eight grade-8 D07 IDs (D07.S1/S2/S3/S4.08.01/.02); example L.08.007.03 cites D07.S1.08.02. unit.md Lessons table matches all 10; 10 SVGs well-formed with alt text; all S-codes (S-011/S-039/S-056/S-363-S-371) exist in sources.yaml. Observation: L.003 describe-analyze-interpret-evaluate frame instantiates D07.S1.08.02 distinguishing observation from judgment."
+      fact-checker:
+        verdict: passed
+        note: "Verified all 9 new sources S-363-S-371 + high-risk claims: Jacob Lawrence Migration Series 60 panels 1940-41 (Phillips Collection S-363); Hokusai 36 Views c.1830-32 (Met S-364) — fixed misattribution (object 36490 is Red Fuji not Great Wave); raga/maqam (Britannica S-366/S-367); replaced broken BBC Bitesize elements-of-music URL with Wikipedia (S-368) + updated L5 Resources; TeachEngineering design process (S-370); NC State 7 Principles UD (S-369); EPA SMM (S-371); Getty formal analysis (S-365). Capoeira via S-056. 10 SVGs accurate+original. validate green (1242 files)."
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro-default framing. Exemplars span four continents (Jacob Lawrence African-American Great Migration, Hokusai/Japan, Indian raga, Arab-Turkish-Persian maqam, Brazilian capoeira), each met as living tradition honored with respectful questions; critique framework hedges 'honor context, don't rank by one tradition's rules'. Fixed L3 (elements of art reframed as ONE tradition's vocabulary, naming-before-judging shared across cultures) and L9 (replaced Western-consumer exemplars with gourd vessel/hand-woven basket/molded chair). Low-tech contexts genuinely global. validate green (1242 files).
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier in all lessons; 10 SVGs role=img + title/desc, labels+shapes not color-only. Added sensory-equity paths: tactile series (L2), tactile/verbal artwork critique (L3), graphic-score/felt-rhythm composition + felt-vibration music critique for Deaf/HoH (L4/L5), listened/described performance critique (L7), spoken/tactile capstone web (L10). Fixed WCAG contrast failure in L.08.007.03 SVG headers (white-on-light -> #4a7a5c/#8f5c15 ~5:1). validate green (1242 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability intact: all 10 lessons' objectives resolve to the eight grade-8 D07 standards (D07.S1/S2/S3/S4.08.01/.02), no invented/off-grade IDs; chain Vision->P3->D07->S1-S4->U.08.007. Four lenses present: ethics (critique honest+kind, describe the work not the maker), egalitarianism (universal design, mastery-not-ranking, no one locked out), global (Lawrence/Hokusai/raga/maqam/capoeira as living traditions), tech+environment (design cycle, footprint/life-cycle). Evidence vs values: S-codes S-011/S-039/S-056/S-363-S-371 all verified; observation-vs-judgment is explicit content. validate green (1242 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Peer critique (L3/L5/L7) separates work from maker + cite-observation; added consent clause to L3/L5 (critique only with classmate's consent) and L7 prohibition on commenting on performer's body/identity/ability. Performance: default sharing is single-partner; added Access (performance-anxiety) opt-out paths (reflection/recording/drawn score/trusted partner); L7 peer performance voluntary with consent. Appropriation framed as responsibility, no blame; other-culture arts as living traditions honored. Cognitive fit pitched to emerging formal operations with sentence starters + worked examples; mastery 'not yet' throughout. validate green (1242 files). Non-blocking: L4/L6 large-group variants say 'perform for class' — covered by opt-out but facilitator should foreground 'performance is a choice'."
   - id: B-366
     title: "Author lessons for Unit U.08.008 (Healthy, Safe & Strong: Substance & Self-Care)"
     agent: lesson-author

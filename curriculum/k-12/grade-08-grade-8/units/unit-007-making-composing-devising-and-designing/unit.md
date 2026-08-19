@@ -65,3 +65,13 @@ are met as living traditions to honor with respectful questions, never as specim
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Making, Composing, Devising & Designing: Where We've Been, Where We're Going | D07.S1.08.01, D07.S1.08.02 |
+| 02 | A Series on One Theme: The Idea That Changes | D07.S1.08.01 |
+| 03 | Critiquing an Artwork: Evidence, Not Mere Taste | D07.S1.08.02 |
+| 04 | Composing in a Chosen Style | D07.S2.08.01 |
+| 05 | Critiquing a Musical Work: Elements, Context, Effect | D07.S2.08.02 |
+| 06 | Devising a Piece: One Theme, Made Through Rehearsal | D07.S3.08.01 |
+| 07 | Critiquing a Performance: Movement, Expression, Context, Purpose | D07.S3.08.02 |
+| 08 | Designing and Making a Working Prototype | D07.S4.08.01 |
+| 09 | Critiquing a Design: Function, Materials, Fairness, Footprint | D07.S4.08.02 |
+| 10 | Capstone: The Series, the Piece, the Performance, the Prototype | all eight D07 grade-8 objectives |

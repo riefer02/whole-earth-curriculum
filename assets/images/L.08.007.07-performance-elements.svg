@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What to notice in a performance</title>
+  <desc id="desc">A simple human figure in a reaching pose, surrounded by four labeled callouts: movement and action, expression and energy, context, and purpose, the evidence used to critique a performance.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Noticing a Performance</text>
+
+  <!-- figure -->
+  <circle cx="256" cy="160" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="242" y="182" width="28" height="74" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M246 200 L206 250 L196 296" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M266 200 L306 250 L316 296" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M248 256 L210 320" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M264 256 L302 320" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- movement/action -->
+  <rect x="30" y="88" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="105" y="112" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Movement &amp; action</text>
+  <text x="105" y="130" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">levels, speed, space</text>
+
+  <!-- expression/energy -->
+  <rect x="332" y="88" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="407" y="112" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Expression &amp; energy</text>
+  <text x="407" y="130" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">face, force, feeling</text>
+
+  <!-- context -->
+  <rect x="30" y="340" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="105" y="364" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Context</text>
+  <text x="105" y="382" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">where, when, what tradition</text>
+
+  <!-- purpose -->
+  <rect x="332" y="340" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="407" y="364" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Purpose</text>
+  <text x="407" y="382" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what it means to say</text>
+
+  <!-- callout lines -->
+  <path d="M150 117 L226 156" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M362 117 L286 156" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M150 369 L232 300" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+  <path d="M362 369 L280 300" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Separate what you saw from what you felt about it</text>
+</svg>
