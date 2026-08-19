@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Studying atrocity with care</title>
+  <desc id="desc">A framework wheel with three spokes — causes, survivors, remembrance — surrounded by care rules: no graphic detail, name individuals (not numbers), never flatten victims, hold agency and hope. Grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">Studying atrocity with care</text>
+  <!-- Wheel -->
+  <circle cx="256" cy="150" r="86" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="256" y1="150" x2="256" y2="64"/>
+    <line x1="256" y1="150" x2="330" y2="194"/>
+    <line x1="256" y1="150" x2="182" y2="194"/>
+  </g>
+  <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">CAUSES</text>
+  <text x="332" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">SURVIVORS</text>
+  <text x="180" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">REMEMBRANCE</text>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a case of</text>
+  <text x="256" y="164" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">genocide</text>
+  <!-- Care rules -->
+  <rect x="40" y="272" width="432" height="200" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222" font-weight="bold">The care rules</text>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <circle cx="72" cy="332" r="4" fill="#e0a458"/>
+    <text x="88" y="337">No graphic detail or gratuitous images.</text>
+    <circle cx="72" cy="360" r="4" fill="#e0a458"/>
+    <text x="88" y="365">Name individuals — never reduce people to numbers.</text>
+    <circle cx="72" cy="388" r="4" fill="#e0a458"/>
+    <text x="88" y="393">Never flatten victims; hold everyone's full humanity.</text>
+    <circle cx="72" cy="416" r="4" fill="#e0a458"/>
+    <text x="88" y="421">Hold agency and hope alongside the truth.</text>
+    <circle cx="72" cy="444" r="4" fill="#e0a458"/>
+    <text x="88" y="449">You may pause, pass, or step away at any time.</text>
+  </g>
+</svg>

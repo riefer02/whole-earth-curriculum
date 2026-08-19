@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ordinary people, extraordinary choices</title>
+  <desc id="desc">A warm scene of ordinary shelter: a family welcomed through an open door, hands passing food, a child holding a small light. Labels name the choices — shelter, warn, refuse — and the caption reads "ordinary people, extraordinary choices." Grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">Ordinary people, extraordinary choices</text>
+  <!-- House -->
+  <g transform="translate(120,150)">
+    <rect x="-60" y="-30" width="120" height="84" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M -74 -30 L 0 -74 L 74 -30 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="-16" y="18" width="32" height="36" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="-44" y="-14" width="20" height="20" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- Figures approaching -->
+  <g transform="translate(250,210)">
+    <circle cx="0" cy="-18" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 0 -9 L 0 18 M 0 -2 L -12 10 M 0 -2 L 12 10 M 0 18 L -10 32 M 0 18 L 10 32" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <circle cx="34" cy="-8" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 34 0 L 34 16 M 34 4 L 26 12 M 34 4 L 42 12 M 34 16 L 28 26 M 34 16 L 40 26" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- Open door / sheltering figure -->
+  <g transform="translate(150,250)">
+    <circle cx="0" cy="-18" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 0 -9 L 0 18 M 0 -2 L -12 10 M 0 -2 L 12 10 M 0 18 L -10 32 M 0 18 L 10 32" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M 12 -6 L 26 -12 M 12 4 L 26 -2" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Choices -->
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <rect x="320" y="140" width="164" height="36" rx="8" fill="#6b93b6"/>
+    <text x="402" y="164" text-anchor="middle" fill="#fdfbf7">shelter another</text>
+    <rect x="320" y="188" width="164" height="36" rx="8" fill="#7a9e7e"/>
+    <text x="402" y="212" text-anchor="middle" fill="#fdfbf7">warn a neighbor</text>
+    <rect x="320" y="236" width="164" height="36" rx="8" fill="#e0a458"/>
+    <text x="402" y="260" text-anchor="middle" fill="#fdfbf7">refuse an order</text>
+  </g>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Courage is not a rare gift — it is an ordinary choice, made one act at a time.</text>
+</svg>

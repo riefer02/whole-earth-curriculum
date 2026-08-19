@@ -5877,7 +5877,7 @@ items:
     type: lesson
     grade: 10
     domain: D08
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5889,6 +5889,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1518 files). All 14 lessons: kind lesson, id L.10.009.01-.14 matching sequence_in_unit, unit U.10.009, domain [D08], pillar [P4]; strands/objectives resolve to real D08 grade-10 standards; all 8 objectives covered (S1.10.01→L01/02, S1.10.02→L03/14, S2.10.01→L04/05, S2.10.02→L06/14, S3.10.01→L07/08, S3.10.02→L09/14, S4.10.01→L10/11, S4.10.02→L12/13/14). Required headings present in all 14. Atrocity lessons 10-13 include emotional-safety block (warning/opt-out, referral, grounding, no-graphic-images, agency-and-hope turn). Assets alt non-empty + paths resolve; unit.md table matches."
+      fact-checker:
+        verdict: passed
+        note: Verified 6 new sources S-490-S-495 and marked each reviewed:true (S-490 USHMM Holocaust intro six million Jews 1933-1945; S-491 UN Genocide Convention Lemkin 1944/1948; S-492 Yad Vashem Righteous; S-493 UNHCR Global Trends June 2026; S-494 Britannica Rwanda 1994 ~800,000 killed; S-495 USHMM teaching guidelines). All 29 other cited sources exist and support claims. Spot-checked high-risk claims (Hijri 622 CE, Maya Long Count/Haab/Tzolkin 52-year round, paper ~105 CE, decimal/zero al-Khwarizmi, Timbuktu Songhai 1464-1591, Columbian Exchange/transatlantic slave trade, Haitian Creole, Lemkin, Slovic psychic numbing) — accurate, hedged, respectfully framed. Evidence vs values distinguished. Validate passes (1518 files).
+      global-culture-editor:
+        verdict: passed
+        note: "Verified non-Eurocentric framing across all four strands: L1 holds five calendar systems (Gregorian, Hijri, Chinese, Maya, seasonal) as equal with Gregorian default flagged as power question; L5 centers paper (China), zero/decimal (India→Islamic world→Europe), Timbuktu/Songhai manuscripts; L8 centers Indigenous peoples (Inuit, Maya, Haudenosaunee) as agents of endurance; survivors of atrocity framed with dignity and agency, never flattened into statistics. Non-blocking suggestion: add an Indigenous/colonial genocide as a third named atrocity case to match 'across continents' claim."
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier (all 14 lessons materials_low_tech, no silent device/wealth requirement, devices only in enriched tier); alt text + SVG a11y (every assets entry non-empty descriptive alt; all 14 SVGs role=img + title/desc); non-visual/tactile paths for visual-heavy history content — added Access (blind/low vision) bullet to every lesson's Differentiation with spoken description + tactile alternative (rope-and-knots timeline, yarn route maps, string loops for cyclical/linear time, braided strands); UDL multiple means of expression; atrocity lessons L10-13 include emotional-safety opt-out/pacing/grounding. Validate passes (1518 files).
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses carried in all 14 lessons: ethics (consent/credit/power/harm L4; atrocity study/remembrance/sheltering/justice as moral reasoning L10-13), egalitarianism (no privileged group, no single nation's triumph, Indigenous/resister/survivor voices centered), global/anthropological (China, India, Islamic world, Maya, Timbuktu, Haiti, Andes, Inuit, Haudenosaunee, Rwanda, UNHCR/IOM — no US/Euro default), technology & environment (timekeeping, writing/paper/decimal knowledge technologies, media homogenization, introduced species, climate displacement). Traceability: all 8 objectives resolve to real D08 grade-10 standards → D08.S1-S4 → D08 → P4 → vision. Evidence vs values: facts carry S-codes resolving to vetted registry (all reviewed:true); significance/credit/justice framed as judgments. No hierarchy/supremacy/flattening. (14 SVG assets confirmed present on disk.)"
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: abstract load matches mature formal operations (periodization argument with counterfactual reasoning, ethics of credit/erasure, justice frameworks, scaffolded worked-example→guided→independent, one concept per lesson). Emotional safety scaffolding present and non-negotiable across heavy lessons 7-13 (warning/opt-out no penalty, referral/trusted adult, grounding breath, no graphic images, victims translated back into people one name at a time, survivors centered as agents, agency-and-hope turns after truth, colonization loss paired with endurance avoiding fatalism, home connections never require discussing events outside class). Physical fit (seated journaling/pair discussion/voice-and-circle with motor-neutral alternatives). Rigorous not dumbed down; questions held as questions not creeds."
   - id: B-392
     title: Author lessons for Unit U.10.010 (Ethics, Justice & Political Economy)
     agent: lesson-author

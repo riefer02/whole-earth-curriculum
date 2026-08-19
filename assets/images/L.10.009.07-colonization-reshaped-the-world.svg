@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three ways colonization reshaped the world</title>
+  <desc id="desc">Three columns show how colonization reshaped populations (epidemic and displacement), environments (extraction and introduced species), and borders (straight lines drawn across peoples' lands). Each has a short example. Grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">What colonization reshaped</text>
+  <!-- Populations -->
+  <rect x="20" y="64" width="150" height="380" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="20" y="64" width="150" height="44" rx="12" fill="#6b93b6"/>
+  <text x="95" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#fdfbf7" font-weight="bold">POPULATIONS</text>
+  <g transform="translate(95,160)" fill="#2b3a42">
+    <circle cx="-18" cy="0" r="7" fill="#6b93b6"/>
+    <circle cx="18" cy="0" r="7" fill="#6b93b6"/>
+    <circle cx="0" cy="16" r="7" fill="#6b93b6"/>
+    <line x1="-18" y1="0" x2="18" y2="0" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="0" y1="0" x2="0" y2="16" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="95" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Epidemic disease and</text>
+  <text x="95" y="230" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">displacement devastated</text>
+  <text x="95" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Indigenous peoples;</text>
+  <text x="95" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the transatlantic trade</text>
+  <text x="95" y="284" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">forcibly moved millions.</text>
+  <!-- Environments -->
+  <rect x="181" y="64" width="150" height="380" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="181" y="64" width="150" height="44" rx="12" fill="#7a9e7e"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#fdfbf7" font-weight="bold">ENVIRONMENTS</text>
+  <g transform="translate(256,160)" stroke="#2b3a42" stroke-width="2" fill="none">
+    <path d="M -24 12 L -12 -4 L 0 12 L 12 -4 L 24 12" stroke-linecap="round"/>
+    <circle cx="-24" cy="20" r="3" fill="#2b3a42"/>
+    <circle cx="24" cy="20" r="3" fill="#2b3a42"/>
+  </g>
+  <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Extraction — minerals,</text>
+  <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">forests, soils — and</text>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">introduced species</text>
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">remade landscapes in</text>
+  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">both hemispheres.</text>
+  <!-- Borders -->
+  <rect x="342" y="64" width="150" height="380" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="342" y="64" width="150" height="44" rx="12" fill="#e0a458"/>
+  <text x="417" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#fdfbf7" font-weight="bold">BORDERS</text>
+  <g transform="translate(417,160)" stroke="#2b3a42" stroke-width="2">
+    <rect x="-26" y="-10" width="52" height="40" fill="#fdfbf7"/>
+    <line x1="0" y1="-10" x2="0" y2="30" stroke="#e0a458" stroke-width="3"/>
+    <circle cx="-13" cy="6" r="3" fill="#2b3a42"/>
+    <circle cx="13" cy="16" r="3" fill="#2b3a42"/>
+  </g>
+  <text x="417" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Lines drawn far away,</text>
+  <text x="417" y="230" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">often with no one from</text>
+  <text x="417" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the land present, cut</text>
+  <text x="417" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">through peoples and</text>
+  <text x="417" y="284" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">languages.</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">And through all three: peoples endured, resisted, and rebuilt.</text>
+</svg>

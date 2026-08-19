@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Effects and endurance</title>
+  <desc id="desc">A two-sided diagram. Left: what colonization took — land, language, self-rule. Right: how Indigenous peoples endured and revived — language revitalization, land stewardship, self-rule movements. A bridge joins the two sides to show loss and continuity together, never only loss. Grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">The story has two halves</text>
+  <!-- Left: taken -->
+  <rect x="20" y="64" width="200" height="380" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="20" y="64" width="200" height="44" rx="12" fill="#e0a458"/>
+  <text x="120" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#fdfbf7" font-weight="bold">WHAT WAS TAKEN</text>
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <text x="120" y="160" text-anchor="middle" font-weight="bold">land</text>
+    <text x="120" y="182" text-anchor="middle" font-size="13">dispossession</text>
+    <text x="120" y="240" text-anchor="middle" font-weight="bold">language</text>
+    <text x="120" y="262" text-anchor="middle" font-size="13">suppressed in schools</text>
+    <text x="120" y="282" text-anchor="middle" font-size="13">and law</text>
+    <text x="120" y="340" text-anchor="middle" font-weight="bold">self-rule</text>
+    <text x="120" y="362" text-anchor="middle" font-size="13">foreign rule imposed</text>
+  </g>
+  <!-- Right: kept and revived -->
+  <rect x="292" y="64" width="200" height="380" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="292" y="64" width="200" height="44" rx="12" fill="#7a9e7e"/>
+  <text x="392" y="92" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#fdfbf7" font-weight="bold">ENDURANCE &amp; REVIVAL</text>
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <text x="392" y="160" text-anchor="middle" font-weight="bold">language</text>
+    <text x="392" y="182" text-anchor="middle" font-size="13">taught and spoken again</text>
+    <text x="392" y="240" text-anchor="middle" font-weight="bold">land</text>
+    <text x="392" y="262" text-anchor="middle" font-size="13">stewarded and defended</text>
+    <text x="392" y="340" text-anchor="middle" font-weight="bold">self-rule</text>
+    <text x="392" y="362" text-anchor="middle" font-size="13">sovereignty reasserted</text>
+  </g>
+  <!-- Bridge -->
+  <rect x="228" y="190" width="56" height="120" rx="10" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
+  <g stroke="#6b93b6" stroke-width="2">
+    <line x1="238" y1="200" x2="274" y2="200"/>
+    <line x1="238" y1="300" x2="274" y2="300"/>
+  </g>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">both</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">true</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Peoples are agents and knowledge-holders — never only victims.</text>
+</svg>

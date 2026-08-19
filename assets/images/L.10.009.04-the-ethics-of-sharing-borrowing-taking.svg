@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sharing, borrowing, and taking</title>
+  <desc id="desc">Three columns contrast sharing (given with consent and credit, kept in relationship), borrowing (taken with credit and a continuing relationship), and taking (taken without consent or credit, harming the source people). Each has a small icon and a short example. Grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- Column 1: Share -->
+  <rect x="20" y="20" width="150" height="440" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="20" y="20" width="150" height="44" rx="12" fill="#7a9e7e"/>
+  <text x="95" y="48" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#fdfbf7" font-weight="bold">SHARING</text>
+  <g transform="translate(95,120)" stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="-20" cy="0" r="16" fill="#7a9e7e"/>
+    <circle cx="20" cy="0" r="16" fill="#7a9e7e"/>
+    <path d="M -6 0 L 6 0" stroke-linecap="round"/>
+    <path d="M 0 0 L 0 0"/>
+  </g>
+  <text x="95" y="170" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Given with consent,</text>
+  <text x="95" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">credited, and kept</text>
+  <text x="95" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">in relationship.</text>
+  <line x1="40" y1="232" x2="150" y2="232" stroke="#4f6d7a" stroke-width="1"/>
+  <text x="95" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Example: a friend</text>
+  <text x="95" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">teaches a song and</text>
+  <text x="95" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">you sing it naming</text>
+  <text x="95" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">them as the maker.</text>
+  <!-- Column 2: Borrow -->
+  <rect x="181" y="20" width="150" height="440" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="181" y="20" width="150" height="44" rx="12" fill="#6b93b6"/>
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#fdfbf7" font-weight="bold">BORROWING</text>
+  <g transform="translate(256,120)" stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="-22" y="-14" width="44" height="28" rx="4" fill="#6b93b6"/>
+    <path d="M 14 -8 A 14 14 0 0 1 28 8" stroke-linecap="round"/>
+    <path d="M 24 0 l 10 0 -6 -5 m 6 5 -6 5" stroke-linecap="round"/>
+  </g>
+  <text x="256" y="170" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Taken with credit and</text>
+  <text x="256" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a continuing</text>
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">relationship — source</text>
+  <text x="256" y="228" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">named, exchange lives.</text>
+  <line x1="201" y1="248" x2="311" y2="248" stroke="#4f6d7a" stroke-width="1"/>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Example: a tool or</text>
+  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">technique adopted with</text>
+  <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">its source credited,</text>
+  <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">trade continuing both ways.</text>
+  <!-- Column 3: Take -->
+  <rect x="342" y="20" width="150" height="440" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="342" y="20" width="150" height="44" rx="12" fill="#e0a458"/>
+  <text x="417" y="48" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#fdfbf7" font-weight="bold">TAKING</text>
+  <g transform="translate(417,120)" stroke="#2b3a42" stroke-width="2" fill="none">
+    <rect x="-24" y="-16" width="48" height="32" rx="4" fill="#e0a458"/>
+    <path d="M -10 6 L -30 22" stroke-linecap="round"/>
+    <path d="M 10 6 L 30 22" stroke-linecap="round"/>
+    <line x1="-30" y1="22" x2="-16" y2="22" stroke-linecap="round"/>
+  </g>
+  <text x="417" y="170" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Done without consent</text>
+  <text x="417" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">or credit, at the cost</text>
+  <text x="417" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">of the source people —</text>
+  <text x="417" y="228" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">usually powerful from</text>
+  <text x="417" y="246" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">less powerful.</text>
+  <line x1="362" y1="266" x2="472" y2="266" stroke="#4f6d7a" stroke-width="1"/>
+  <text x="417" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Example: an authority</text>
+  <text x="417" y="308" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">copies a people's calendar</text>
+  <text x="417" y="326" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">or medicine, bans the</text>
+  <text x="417" y="344" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">people from practicing</text>
+  <text x="417" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">them, and claims the work.</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The difference: consent, credit, power, and harm.</text>
+</svg>

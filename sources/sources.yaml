@@ -4578,3 +4578,58 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in U.10.006 L03 for the claim that peer review, replication, and open scrutiny are the social safeguards that make scientific knowledge trustworthy and self-correcting. Fact-checker verified live (2026-08-19): the Understanding Science 'Scrutinizing science: Peer review' page (part of the 'How science works' section) states that peer-reviewed journals publish work 'vetted by experts in the relevant field,' that 'peer-reviewed work isn't necessarily correct or conclusive, but it does meet the standards of science,' and that once published 'science must deal with it somehow — perhaps by... figuring out why it is wrong, or trying to replicate its results.' The sibling pages 'Copycats in science: The role of replication' and 'Scientific scrutiny' cover replication and self-correction. Supports the lesson's three-safeguards framing (peer review filters, replication tests, openness lets outsiders check — and each can fall short)."
+
+  - id: S-490
+    title: "United States Holocaust Memorial Museum — Introduction to the Holocaust"
+    type: website
+    url: https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust
+    organization: United States Holocaust Memorial Museum (USHMM)
+    domains: [D08]
+    reviewed: true
+    notes: "Authoritative Holocaust Encyclopedia article defining the Holocaust (the systematic, state-sponsored persecution and murder of six million Jews by Nazi Germany and its collaborators, 1933–1945) and its stages. Supports factual claims about the Holocaust as a defined case of genocide, taught with care and without graphic detail. Fact-checker verified live (2026-08-19): the page's opening definition reads verbatim 'The Holocaust was the systematic, state-sponsored persecution and murder of six million European Jews by the Nazi German regime and its allies and collaborators. The Holocaust was an evolving process that took place throughout Europe between 1933 and 1945,' and the article covers the stages of escalation (legal discrimination, ghettoization, the 'Final Solution,' killing centers). On-topic and accurately summarized."
+
+  - id: S-491
+    title: "United Nations — Convention on the Prevention and Punishment of the Crime of Genocide (1948) & Raphael Lemkin"
+    type: website
+    url: https://www.un.org/en/genocideprevention/genocide.shtml
+    organization: United Nations Office on Genocide Prevention and the Responsibility to Protect
+    year: 1948
+    domains: [D08, D09]
+    reviewed: true
+    notes: "UN source for the legal definition of genocide and the 1948 Convention, and the framing that Raphael Lemkin coined the term 'genocide' (1944) to name the destruction of a people as a crime. Supports the lesson's claim that genocide is a defined international crime and that the concept applies globally, not to one place. Fact-checker verified (2026-08-19): the page content was confirmed via the Wayback Machine (2,812 captures, 2019–2026). The page states verbatim: 'The word \"genocide\" was first coined by Polish lawyer Raphäel Lemkin in 1944 in his book Axis Rule in Occupied Europe,' that genocide 'was codified as an independent crime in the 1948 Convention on the Prevention and Punishment of the Crime of Genocide,' and quotes Article II's full definition (acts 'committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such'). Note: un.org returns HTTP 403/404 to automated clients (bot-blocking), so the URL was verified via archive rather than a live fetch; the page and content are real and current."
+
+  - id: S-492
+    title: "Yad Vashem — The Righteous Among the Nations"
+    type: website
+    url: https://www.yadvashem.org/righteous.html
+    organization: Yad Vashem (The World Holocaust Remembrance Center)
+    domains: [D08]
+    reviewed: true
+    notes: "Yad Vashem's database and program honoring non-Jews who risked their lives to rescue Jews during the Holocaust (the Righteous Among the Nations). Supports claims about sheltering/rescue as documented, ordinary, and honored actions. Fact-checker verified live (2026-08-19): the page describes 'a small minority who mustered extraordinary courage to uphold human values, risking their lives to save Jews by hiding them in their homes, providing false papers and assisting their escape: the Righteous Among the Nations,' and states they 'come from different countries and nationalities, and from all walks of life.' On-topic and accurately summarized (cf. Lesson 12's 'non-Jews across Europe who risked their lives to rescue Jews')."
+
+  - id: S-493
+    title: "UNHCR — Global Trends: Forced Displacement (annual report)"
+    type: report
+    url: https://www.unhcr.org/global-trends
+    organization: UNHCR (UN Refugee Agency)
+    domains: [D08]
+    reviewed: true
+    notes: "UNHCR's annual Global Trends report documents the number of forcibly displaced people worldwide (refugees, internally displaced persons, asylum-seekers) and their causes (conflict, persecution, violence). Supports the lesson's claim that forced displacement is large, global, and driven primarily by conflict and persecution, with climate a growing driver (paired with IOM S-086/S-383 and IPCC S-005). Fact-checker verified live (2026-08-19): the Global Trends page ('published in June 2026') states it 'provides key statistical trends on forced displacement' and 'includes the latest official statistics on refugees, asylum-seekers, internally displaced and stateless people.' On-topic and accurately summarized."
+
+  - id: S-494
+    title: "Encyclopaedia Britannica — Rwanda genocide of 1994"
+    type: website
+    url: https://www.britannica.com/event/Rwanda-genocide-of-1994
+    organization: Encyclopaedia Britannica
+    domains: [D08]
+    reviewed: true
+    notes: "Britannica entry on the 1994 genocide against the Tutsi in Rwanda (April–July 1994), in which an estimated 800,000 people were killed. Used only for brief, non-graphic factual context that genocide is not a single region's history. Fact-checker verified live (2026-08-19): the article ('Rwanda genocide of 1994 | Summary, History, Date, Background, Deaths, & Facts') covers Background, Genocide, Aftermath, Prosecuting the perpetrators (ICTR, national courts, Gacaca courts), National recovery, and the 1994 events; the death toll of about 800,000 is the article's stated figure, and it dates the genocide to April–July 1994 (roughly 100 days), triggered by the assassination of President Habyarimana. On-topic and accurately summarized."
+
+  - id: S-495
+    title: "United States Holocaust Memorial Museum — Guidelines for Teaching about the Holocaust"
+    type: website
+    url: https://www.ushmm.org/teach/fundamentals/guidelines-for-teaching-the-holocaust
+    organization: United States Holocaust Memorial Museum (USHMM)
+    domains: [D08]
+    reviewed: true
+    notes: "USHMM's pedagogical guidelines: teach the human story through individual voices, avoid graphic/gratuitous imagery, translate statistics into people, avoid simple answers, and provide contextualization and care. Grounds the emotional-safety guidance in every U.10.009 atrocity lesson's Facilitator note. This is a pedagogy citation, not a factual claim. Fact-checker verified live (2026-08-19): the page's guideline headings include 'Define the term \"Holocaust,\"' 'Avoid simple answers to complex questions,' 'Strive for precision of language,' 'Avoid romanticizing history,' 'Contextualize the history,' 'Translate statistics into people,' and 'Make responsible methodological choices' (which states 'Graphic material should be used judiciously and only to the extent necessary to achieve the lesson objective'). On-topic and accurately summarized."

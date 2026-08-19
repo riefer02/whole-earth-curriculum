@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Cyclical and linear time</title>
+  <desc id="desc">Two panels: on the left a repeating circle of seasons keeps the past always near (cyclical time, seen in many oral and seasonal traditions); on the right a forward arrow moves from a fixed beginning toward now (linear time, seen in era-dated calendars and written annals). Grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- Left panel: cyclical -->
+  <rect x="24" y="24" width="224" height="464" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="56" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">CYCLICAL TIME</text>
+  <circle cx="136" cy="172" r="88" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <g fill="#2b3a42">
+    <circle cx="136" cy="84" r="5"/>
+    <circle cx="216" cy="132" r="5"/>
+    <circle cx="216" cy="212" r="5"/>
+    <circle cx="136" cy="260" r="5"/>
+    <circle cx="56" cy="212" r="5"/>
+    <circle cx="56" cy="132" r="5"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <path d="M 190 110 A 88 88 0 0 1 210 190" fill="none"/>
+    <path d="M 200 150 l 18 8 -18 6" fill="none"/>
+  </g>
+  <text x="136" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">seasons · festivals · ancestors</text>
+  <text x="136" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The past returns each cycle</text>
+  <text x="136" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and stays near — told and</text>
+  <text x="136" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">re-told, alive and shifting.</text>
+  <text x="136" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">oral traditions · seasonal calendars</text>
+  <text x="136" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">many Indigenous ways of remembering</text>
+  <!-- Right panel: linear -->
+  <rect x="264" y="24" width="224" height="464" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="56" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">LINEAR TIME</text>
+  <line x1="292" y1="180" x2="460" y2="180" stroke="#6b93b6" stroke-width="3"/>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="300" cy="180" r="6"/>
+    <circle cx="352" cy="180" r="6"/>
+    <circle cx="404" cy="180" r="6"/>
+    <circle cx="452" cy="180" r="6"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
+    <path d="M 452 180 l 14 0 -8 -7 m 8 7 -8 7" fill="none"/>
+  </g>
+  <text x="300" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">start</text>
+  <text x="352" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">era</text>
+  <text x="404" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">years</text>
+  <text x="452" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">now</text>
+  <text x="376" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Time moves forward from a</text>
+  <text x="376" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">chosen beginning; the past is</text>
+  <text x="376" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"behind," fixed in a record.</text>
+  <text x="376" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">era-dated calendars · written annals</text>
+  <text x="376" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">dynastic histories · dated records</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Neither is better — each keeps something and lets something fade.</text>
+</svg>

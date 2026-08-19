@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Why people move</title>
+  <desc id="desc">A diagram with three labeled arrows — conflict, economy, climate — pushing and pulling a family from a home on the left toward a new place on the right. Two figures walk the path, and labels mark voluntary and forced movement. Grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">Why people move</text>
+  <!-- Home -->
+  <g transform="translate(76,140)">
+    <rect x="-34" y="-26" width="68" height="52" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M -42 -26 L 0 -52 L 42 -26 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">HOME</text>
+  </g>
+  <!-- New place -->
+  <g transform="translate(436,140)">
+    <rect x="-34" y="-26" width="68" height="52" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M -42 -26 L 0 -52 L 42 -26 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="0" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">NEW PLACE</text>
+  </g>
+  <!-- Path -->
+  <line x1="110" y1="140" x2="402" y2="140" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <!-- Figures -->
+  <g transform="translate(216,140)">
+    <circle cx="0" cy="-16" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 0 -8 L 0 14 M 0 0 L -10 10 M 0 0 L 10 10 M 0 14 L -8 26 M 0 14 L 8 26" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(272,140)">
+    <circle cx="0" cy="-16" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 0 -8 L 0 14 M 0 0 L -10 10 M 0 0 L 10 10 M 0 14 L -8 26 M 0 14 L 8 26" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- Three driver arrows -->
+  <g font-family="sans-serif" font-size="13" fill="#222222">
+    <rect x="40" y="252" width="128" height="30" rx="6" fill="#6b93b6"/>
+    <text x="104" y="272" text-anchor="middle" fill="#fdfbf7">CONFLICT</text>
+    <text x="104" y="304" text-anchor="middle">war · persecution</text>
+    <rect x="192" y="252" width="128" height="30" rx="6" fill="#7a9e7e"/>
+    <text x="256" y="272" text-anchor="middle" fill="#fdfbf7">ECONOMY</text>
+    <text x="256" y="304" text-anchor="middle">work · opportunity</text>
+    <rect x="344" y="252" width="128" height="30" rx="6" fill="#e0a458"/>
+    <text x="408" y="272" text-anchor="middle" fill="#fdfbf7">CLIMATE</text>
+    <text x="408" y="304" text-anchor="middle">drought · flood · sea rise</text>
+  </g>
+  <!-- Voluntary vs forced -->
+  <rect x="40" y="340" width="432" height="120" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Voluntary or forced?</text>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Choosing a city for work moves differently from fleeing a war,</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a failed harvest, or a rising sea. The human weight is not the same —</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">read the difference, and see people, never only numbers.</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Knowledge moving across the world</title>
+  <desc id="desc">A simple route map tracing three knowledge journeys: paper from China westward through the Islamic world to Europe; the decimal system and zero from India through Baghdad to Europe; and manuscripts preserved at Timbuktu in West Africa. Arrows connect labeled circles. Grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">Three knowledge journeys</text>
+  <!-- Simplified landmass hints -->
+  <g fill="#eef0ea" stroke="none">
+    <ellipse cx="120" cy="180" rx="60" ry="42"/>
+    <ellipse cx="256" cy="140" rx="70" ry="50"/>
+    <ellipse cx="392" cy="176" rx="58" ry="40"/>
+    <ellipse cx="256" cy="360" rx="66" ry="44"/>
+  </g>
+  <!-- Nodes -->
+  <g font-family="sans-serif" font-size="13" fill="#222222" text-anchor="middle">
+    <circle cx="120" cy="180" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="184">China</text>
+    <circle cx="256" cy="140" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="144">Baghdad</text>
+    <circle cx="392" cy="176" r="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="392" y="180">Europe</text>
+    <circle cx="256" cy="360" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="360">India</text>
+    <text x="256" y="382">zero · decimal</text>
+    <circle cx="120" cy="360" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="360">Timbuktu</text>
+    <text x="120" y="382">manuscripts</text>
+  </g>
+  <!-- Arrows -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <path d="M 146 172 C 180 140 220 140 232 142" marker-end="url(#a)"/>
+    <path d="M 282 140 C 330 150 360 162 366 174" marker-end="url(#a)"/>
+    <path d="M 256 196 C 256 240 250 280 252 328" marker-end="url(#a)" stroke-dasharray="6 5"/>
+  </g>
+  <defs>
+    <marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+  <!-- Labels -->
+  <g font-family="sans-serif" font-size="12" fill="#4f6d7a">
+    <text x="196" y="112" text-anchor="middle">paper →</text>
+    <text x="360" y="120" text-anchor="middle">paper →</text>
+    <text x="296" y="250" text-anchor="middle">zero &amp; decimal →</text>
+  </g>
+  <!-- Credit note -->
+  <rect x="40" y="420" width="432" height="70" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">As an idea travels, ask at every step: is the maker still named,</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">or only the receiver? Credit can be lost in translation — and it matters.</text>
+</svg>

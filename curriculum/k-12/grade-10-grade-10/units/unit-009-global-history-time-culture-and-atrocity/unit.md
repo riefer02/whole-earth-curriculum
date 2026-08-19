@@ -74,3 +74,17 @@ left out are centered with care and accuracy.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Many Ways to Count the Years | D08.S1.10.01 |
+| 02 | Time and the Sense of the Past | D08.S1.10.01 |
+| 03 | Periodizing a Global Era: Arguing for Turning Points | D08.S1.10.02 |
+| 04 | The Ethics of Sharing, Borrowing, and Taking | D08.S2.10.01 |
+| 05 | Knowledge Traditions Moving Across the World | D08.S2.10.01 |
+| 06 | Global Trade and Technology Transform Traditions | D08.S2.10.02 |
+| 07 | Colonization Reshaped the World | D08.S3.10.01 |
+| 08 | Indigenous Peoples: Effects and Endurance | D08.S3.10.01 |
+| 09 | Modern Migration and Displacement | D08.S3.10.02 |
+| 10 | Studying Atrocity with Care: A Case Study | D08.S4.10.01 |
+| 11 | Survivor Responses and Remembrance | D08.S4.10.01 |
+| 12 | Ordinary People: Resistance and Shelter | D08.S4.10.02 |
+| 13 | Rebuilding and What Justice Requires | D08.S4.10.02 |
+| 14 | The Many-Voiced Story: A Unit Synthesis | D08.S1.10.02, D08.S2.10.02, D08.S3.10.02, D08.S4.10.02 |
