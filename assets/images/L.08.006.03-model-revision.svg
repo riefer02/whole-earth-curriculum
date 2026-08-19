@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Revising a model: from bad air to germs</title>
+  <desc id="desc">Two panels. The left panel shows an old model labeled bad air causes disease. An arrow labeled new evidence points to the right panel showing a new model labeled germs cause disease. A note says models are revised, not discarded.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Revising a Model</text>
+
+  <!-- old model panel -->
+  <rect x="30" y="78" width="190" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="125" y="106" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Old model</text>
+  <text x="125" y="126" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">"bad air causes disease"</text>
+  <!-- wavy bad air lines -->
+  <path d="M70 150 q10 -12 20 0 q10 12 20 0 q10 -12 20 0 q10 12 20 0 q10 -12 20 0" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <path d="M70 170 q10 -12 20 0 q10 12 20 0 q10 -12 20 0 q10 12 20 0 q10 -12 20 0" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <text x="125" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">it made sense: sick places</text>
+  <text x="125" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">often smelled</text>
+  <text x="125" y="252" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">partly right: disease spreads</text>
+  <text x="125" y="270" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">partly wrong: the "how"</text>
+
+  <!-- arrow -->
+  <path d="M232 203 L288 203" fill="none" stroke="#e0a458" stroke-width="3" marker-end="url(#arrow)"/>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/>
+    </marker>
+  </defs>
+  <text x="260" y="188" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">new</text>
+  <text x="260" y="224" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">evidence</text>
+
+  <!-- new model panel -->
+  <rect x="292" y="78" width="190" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="387" y="106" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Revised model</text>
+  <text x="387" y="126" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">"germs cause disease"</text>
+  <!-- germ circles -->
+  <circle cx="340" cy="158" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="340" cy="158" r="6" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="387" cy="150" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="387" cy="150" r="4" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="434" cy="160" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="434" cy="160" r="5" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="387" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">tiny living things</text>
+  <text x="387" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">carry disease</text>
+  <text x="387" y="252" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">kept: disease spreads</text>
+  <text x="387" y="270" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">replaced: the "how"</text>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Models are revised, not discarded</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Evidence: handwashing cut fever deaths (1847)</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Evidence: cholera clustered around one water pump (1854)</text>
+</svg>

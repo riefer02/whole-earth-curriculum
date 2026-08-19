@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit map: four strands of science, systems evidence and models</title>
+  <desc id="desc">A map of the unit showing four boxes labeled scientific inquiry, living systems, physical systems, and Earth space and origins, each with two short goals, arranged around the words systems, evidence, and models.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Our Unit: Science in Four Strands</text>
+
+  <!-- center badge -->
+  <ellipse cx="256" cy="256" rx="92" ry="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">systems · evidence</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">· models ·</text>
+
+  <!-- strand 1: inquiry (top-left) -->
+  <rect x="34" y="82" width="150" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="58" cy="104" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="74" y="109" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Scientific Inquiry</text>
+  <text x="44" y="134" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· design a fair test</text>
+  <text x="44" y="152" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· revise models</text>
+  <text x="44" y="170" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  when evidence changes</text>
+
+  <!-- strand 2: living (top-right) -->
+  <rect x="328" y="82" width="150" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="352" cy="104" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="368" y="109" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Living Systems</text>
+  <text x="338" y="134" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· genes + environment</text>
+  <text x="338" y="152" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· one population ripples</text>
+  <text x="338" y="170" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  through a web</text>
+
+  <!-- strand 3: physical (bottom-left) -->
+  <rect x="34" y="312" width="150" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="58" cy="334" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="74" y="339" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Physical Systems</text>
+  <text x="44" y="364" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· atoms &amp; reactions</text>
+  <text x="44" y="382" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· electric &amp; magnetic</text>
+  <text x="44" y="400" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  fields</text>
+
+  <!-- strand 4: earth/space (bottom-right) -->
+  <rect x="328" y="312" width="150" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="352" cy="334" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="368" y="339" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Earth, Space &amp; Origins</text>
+  <text x="338" y="364" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· life of stars, our place</text>
+  <text x="338" y="382" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  in the galaxy</text>
+  <text x="338" y="400" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· plate tectonics</text>
+
+  <!-- connector lines -->
+  <path d="M184 141 L256 222" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M328 141 L256 222" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M184 371 L256 290" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M328 371 L256 290" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Eight goals, one way of seeing: systems, evidence, models</text>
+</svg>

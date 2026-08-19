@@ -37,7 +37,7 @@ assessment_plan: >-
   account as portfolio artifacts — all held as models with evidence, not creed.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # Unit 6 — Science: Systems, Evidence & Models
@@ -69,3 +69,13 @@ evidence*, held as inquiry alongside other ways of knowing, never as creed.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Systems, Evidence & Models: Where We've Been, Where We're Going | D06.S1.08.01, D06.S1.08.02 |
+| 02 | Designing a Controlled Experiment | D06.S1.08.01 |
+| 03 | Revising Models When New Evidence Appears | D06.S1.08.02 |
+| 04 | Genes, DNA, and the Environment: Inheritance and Expression | D06.S2.08.01 |
+| 05 | One Population Ripples Through an Ecosystem | D06.S2.08.02 |
+| 06 | Atoms, Elements, Compounds, and Reactions | D06.S3.08.01 |
+| 07 | Electric and Magnetic Fields | D06.S3.08.02 |
+| 08 | Stars: Life Cycle, Forging Elements, Our Place in the Galaxy | D06.S4.08.01 |
+| 09 | Plate Tectonics: Continents, Mountains, and Ocean Basins | D06.S4.08.02 |
+| 10 | Capstone: Systems, Evidence & Models — Putting It Together | all eight D06 grade-8 objectives |

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Genes and the environment shape a trait</title>
+  <desc id="desc">A diagram showing DNA as a twisted double helix, an arrow to a labeled gene, an arrow to a labeled trait, and a second arrow from the environment joining at the gene. Labels note inheritance and expression.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Genes + Environment Shape a Trait</text>
+
+  <!-- DNA double helix -->
+  <g>
+    <path d="M80 120 q30 28 0 56 q-30 28 0 56 q30 28 0 56 q-30 28 0 56" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M116 120 q-30 28 0 56 q30 28 0 56 q-30 28 0 56 q30 28 0 56" fill="none" stroke="#6b93b6" stroke-width="3"/>
+    <path d="M80 148 L116 148" stroke="#e0a458" stroke-width="2"/>
+    <path d="M80 176 L116 176" stroke="#7a9e7e" stroke-width="2"/>
+    <path d="M80 204 L116 204" stroke="#e0a458" stroke-width="2"/>
+    <path d="M80 232 L116 232" stroke="#7a9e7e" stroke-width="2"/>
+    <path d="M80 260 L116 260" stroke="#e0a458" stroke-width="2"/>
+    <path d="M80 288 L116 288" stroke="#7a9e7e" stroke-width="2"/>
+  </g>
+  <text x="98" y="80" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">DNA</text>
+  <text x="98" y="380" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">the instruction thread</text>
+
+  <!-- arrow DNA -> gene -->
+  <path d="M140 148 L184 148" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#garr)"/>
+  <defs>
+    <marker id="garr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+  <text x="162" y="136" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">inheritance</text>
+
+  <!-- gene -->
+  <rect x="188" y="124" width="90" height="48" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="233" y="152" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a gene</text>
+
+  <!-- arrow gene -> trait -->
+  <path d="M278 148 L330 148" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#garr)"/>
+  <text x="304" y="136" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">expression</text>
+
+  <!-- trait -->
+  <rect x="334" y="124" width="120" height="48" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="394" y="152" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a trait</text>
+
+  <!-- environment arrow -->
+  <path d="M360 250 L300 200" fill="none" stroke="#7a9e7e" stroke-width="3" marker-end="url(#earr)"/>
+  <defs>
+    <marker id="earr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#7a9e7e"/>
+    </marker>
+  </defs>
+  <text x="368" y="272" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">environment</text>
+  <text x="368" y="292" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">food · sun · care</text>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">Genes set a range — the environment affects where in it you land.</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Example: height is shaped by both genes and nutrition.</text>
+</svg>

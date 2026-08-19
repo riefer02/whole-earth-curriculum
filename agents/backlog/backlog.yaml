@@ -4878,7 +4878,7 @@ items:
     type: lesson
     grade: 8
     domain: D06
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -4890,6 +4890,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate green (1232 files); L.08.006.01-.10 sequential with sequence_in_unit 1-10; objectives resolve only to the eight grade-8 D06 standards (D06.S1/S2/S3/S4.08.01/.02, no K/other-grade IDs); required headings present in all 10; unit.md Lessons table matches; science spot-checks clean (heliocentric 'Sun is one of hundreds of billions of stars' L8, origins as 'models with evidence never creed', correct heredity 'genetic determinism is false', conservation-of-atoms L6, hedged Yellowstone wolf cascade avoiding debunked 'wolves changed the rivers'); sources cited (Semmelweis S-357, Snow S-358, Ripple & Beschta S-310); Connection concrete (L8 'you are made of star-stuff'). Confirmed 10 SVGs exist at assets/images/L.08.006.*.svg.
+      fact-checker:
+        verdict: passed
+        note: "Verified U.08.006 science claims + sources: L8 star count softened to 'more than 100 billion stars' per NASA (S-361/S-362); genetic determinism false per Britannica Heredity (S-177); conservation of atoms per BBC conservation of mass; Yellowstone cascade hedged, no 'wolves changed rivers' (Ripple & Beschta S-310); Semmelweis S-357 + Snow S-358 verified. Repaired 2 broken URLs (CDC Snow MMWR, BBC electromagnetism), fixed S-362 note, marked six sources reviewed:true. validate green (1232 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Euro default framing or imperial units. Added non-Western knowledge traditions: L3 Ibn Sina/Avicenna (Persia c.1025, contagion) + smallpox variolation (China/India/Africa) in facilitator note + procedure; L7 Chinese origin of magnetic compass; L5 Serengeti rinderpest-wildebeest cascade (African example). L8 holds star-stories of every culture beside science, never above. validate green (1232 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "Verified all 10 SVGs: role=img/aria-labelledby/title/desc, labels+shapes not color-only. Fixed 5 low-contrast accent text labels (L.03/L.04/L.07) to slate #2b3a42; added missing 'new stars' label to L.08 star-lifecycle. Every lesson has materials_low_tech + context_variants + Support/Extension; no device/wealth dependence; plain language. validate green (1232 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: all 10 lessons' objectives resolve to the eight grade-8 D06 standards (D06.S1/S2/S3/S4.08.01/.02), chain to P3->vision. Four lenses present: ethics (Semmelweis dismissal, who speaks delays truth), egalitarianism (L4 rejects genetic determinism/fixed races), global (Ibn Sina, variolation, Chinese compass, Serengeti, star stories), tech+environment (atoms, motors, ecosystem/climate). 22 sources resolve; evidence vs values distinguished; origins as models-with-evidence never creed. validate green (1232 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: abstract loads (fields, gene expression, stellar life cycles, balanced equations) scaffolded concrete-to-abstract at grade-8 depth. Emotional safety: L4 genetic determinism delivered as affirmation (Genes shape; they do not decree), L8 origins as wonder+evidence not creed, L3 disease history built around solutions (handwashing/clean water = justice), L9 risk reframed as preparedness. No shame/ranking (capstone 'not yet is information, never a verdict'). Multi-modal movement + spiral threads. validate green (1232 files). No edits needed."
   - id: B-365
     title: Author lessons for Unit U.08.007 (Making, Composing, Devising & Designing)
     agent: lesson-author

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three plate boundaries</title>
+  <desc id="desc">Three cross-section panels showing plates pulling apart at a mid-ocean ridge, plates colliding to build mountains and a trench, and plates sliding past each other at a fault, each with motion arrows.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Three Plate Boundaries</text>
+
+  <!-- divergent -->
+  <g>
+    <rect x="34" y="78" width="140" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="104" y="98" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">divergent — apart</text>
+    <path d="M34 150 L60 150 L74 122 L104 150 L134 150 L174 150" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M52 166 L52 150" stroke="#e0a458" stroke-width="3" marker-end="url(#pl)"/>
+    <path d="M122 166 L122 150" stroke="#e0a458" stroke-width="3" marker-end="url(#pr)"/>
+    <text x="104" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">mid-ocean ridge,</text>
+    <text x="104" y="212" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">new crust forms</text>
+  </g>
+
+  <!-- convergent -->
+  <g>
+    <rect x="186" y="78" width="140" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">convergent — collide</text>
+    <path d="M186 150 L224 150 L240 116 L256 128 L272 150 L326 150" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M232 166 L246 132" stroke="#e0a458" stroke-width="3" marker-end="url(#pl)"/>
+    <path d="M288 166 L268 138" stroke="#e0a458" stroke-width="3" marker-end="url(#pr)"/>
+    <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">mountains rise;</text>
+    <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">trench + volcanoes</text>
+  </g>
+
+  <!-- transform -->
+  <g>
+    <rect x="338" y="78" width="140" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="408" y="98" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">transform — slide</text>
+    <path d="M338 150 L408 150 L478 150" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M408 150 L408 224" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 4"/>
+    <path d="M372 150 L372 182" stroke="#e0a458" stroke-width="3" marker-end="url(#pu)"/>
+    <path d="M444 150 L444 118" stroke="#e0a458" stroke-width="3" marker-end="url(#pd)"/>
+    <text x="408" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">fault; earthquakes</text>
+    <text x="408" y="212" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">where plates grind</text>
+  </g>
+
+  <defs>
+    <marker id="pl" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/></marker>
+    <marker id="pr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/></marker>
+    <marker id="pu" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/></marker>
+    <marker id="pd" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/></marker>
+  </defs>
+
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Plates move slowly — as fast as fingernails grow.</text>
+  <text x="256" y="324" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Over millions of years they build continents, mountains, and ocean basins.</text>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Continental drift was revised into plate tectonics when new evidence appeared.</text>
+</svg>

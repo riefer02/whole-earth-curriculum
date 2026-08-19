@@ -3322,3 +3322,57 @@ sources:
     domains: [D05, D06]
     reviewed: true
     notes: "Cited in Grade-8 lesson L.08.005.04 (scientific notation) for the claim that most cells are microscopic — a typical cell is on the order of 10 to 30 micrometres across. Verified 2026-08-18: the live page returns HTTP 403 to non-browser clients (bot-block), so content was verified against the Wayback Machine snapshot (2026-08-15, HTTP 200). The article states cells are 'usually microscopic in size' and that 'human cells are only about 20 μm across' — directly supporting the lesson's hedged 'typical cell on the order of 10–30 micrometres (≈2 × 10⁻⁵ m)' anchor, used alongside NASA's ~1.5 × 10⁸ km Sun distance (S-047) as the 'very small/very large' pair for scientific notation. Held as an approximate order of magnitude, not a precise measurement of any specific cell."
+
+  - id: S-357
+    title: "Encyclopaedia Britannica — Ignaz Semmelweis (handwashing and childbed fever)"
+    type: website
+    url: https://www.britannica.com/biography/Ignaz-Semmelweis
+    organization: Encyclopaedia Britannica
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.006.03 (revising models when new evidence appears) for the historical example that handwashing with a chlorine solution in Vienna in 1847 sharply reduced childbed (puerperal) fever deaths, and that Semmelweis's evidence was initially dismissed before the germ theory made sense of it. VERIFIED 2026-08-18: the Britannica biography is live (returns HTTP 403 to curl but serves browser-like clients/webfetch normally). It confirms Ignaz Semmelweis (1818–1865), a Hungarian physician, identified the cause of puerperal (childbed) fever, ordered students to wash their hands in a solution of chlorinated lime before each examination, and that first-division mortality 'dropped from 18.27 to 1.27 percent' (with no maternal deaths in his division in March and August 1848). It also documents the initial hostile reception ('the weight of authority stood against' him) before Lister later acknowledged his influence. Every factual element the lesson teaches — the 1847 Vienna handwashing, the sharp mortality reduction, and the initial dismissal — is confirmed. Told as documented history, not as a claim about anyone's worth."
+
+  - id: S-358
+    title: "John Snow and the Broad Street pump (1854 cholera outbreak, London)"
+    type: website
+    url: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5334a1.htm
+    organization: Centers for Disease Control and Prevention (CDC)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.006.03 (revising models when new evidence appears) as the second historical example: John Snow mapped cholera cases around London's Broad Street in 1854 and traced them to a shared water pump, evidence that cholera spread by contaminated water rather than 'bad air' (miasma), which helped revise the disease model. URL FIXED 2026-08-18: the original citation (cdc.gov/museum/online/story-of-cdc/snow.html) is dead (404 Page Not Found), so it is replaced with the CDC's authoritative MMWR piece '150th Anniversary of John Snow and the Pump Handle' (MMWR 53(34);783, 2004), which is live and states: Snow 'supported the unpopular theory that cholera was transmitted by water rather than through miasma (i.e., bad air)'; on August 31, 1854 he suspected the Broad Street pump; he 'reviewed death records… documenting that most deceased persons had lived near and had drunk water from the pump'; 'the pump handle was removed on September 8, 1854'; and removal 'prevented additional cholera deaths, supporting Snow's theory that cholera was a waterborne, contagious disease.' Confirms every factual element the lesson teaches (1854 outbreak, Broad Street pump, waterborne-not-air, pump removal). Told as documented history; the egalitarian 'clean water is a matter of justice' note is a value frame, distinct from these facts."
+
+  - id: S-359
+    title: "BBC Bitesize (KS3) — Atoms, elements and compounds, and chemical reactions"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zstp34j
+    organization: BBC Bitesize (KS3 Science)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.006.06 (atoms, elements, compounds, and reactions) for the claims that matter is made of atoms, that elements are made of one kind of atom and are listed on the periodic table, that compounds contain two or more elements chemically joined, and that in a chemical reaction atoms are rearranged (not created or destroyed) to make new substances. VERIFIED 2026-08-18: the topic URL (zstp34j) is live and is the KS3 Chemistry 'Atoms, elements and compounds' topic, containing 'Elements, compounds and mixtures,' 'Atoms and molecules,' and 'What are elements?'. The conservation-of-mass claim (no atoms created or destroyed in a chemical reaction) is confirmed verbatim by the companion KS3 article 'Conservation of mass' (https://www.bbc.co.uk/bitesize/topics/zypsgk7/articles/zxh7jsg): 'During chemical reactions or a change of state, no atoms are created or destroyed. The total mass of chemicals before and after a reaction remains the same. This is called the Law of Conservation of Mass.' Both URLs are live and on-topic for every claim in the lesson."
+
+  - id: S-360
+    title: "BBC Bitesize (KS3) — Electromagnetism (electric current, magnetic fields, motors and generators)"
+    type: website
+    url: https://www.bbc.co.uk/bitesize/topics/zrvbkqt/articles/z7922v4
+    organization: BBC Bitesize (KS3 Science)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.006.07 (electric and magnetic fields) for the claims that an electric current in a wire produces a magnetic field around it, that magnets and moving charges exert forces through fields without touching, and that this link is the basis of motors and generators. URL FIXED 2026-08-18: the original citation (bbc.co.uk/bitesize/topics/z3y4g2p) is dead (404), so it is replaced with the live KS3 'Electromagnetism' article (topic zrvbkqt 'Electromagnetism and magnetism'). VERIFIED: the article states 'An electromagnet uses an electrical current to generate a magnetic field' and, in its video transcript, 'Any wire with current flowing through it has a magnetic field… The magnetic field lines around a current-carrying wire are circular,' and that 'An electromagnet with a permanent magnet can be used to make motors and loudspeakers.' This directly supports the lesson's current→field→force→motor/generator chain. The lesson also holds Earth's magnetic field and the technology/egalitarian lens (electricity access) as value/context framing, distinct from the physics claims."
+
+  - id: S-361
+    title: "NASA — Star Lifecycle (stellar evolution and the formation of elements)"
+    type: website
+    url: https://science.nasa.gov/universe/stars/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.006.08 (the life cycle of stars and the formation of elements) for the claims that stars form from clouds of gas and dust, shine by fusing hydrogen into helium in their cores, and that the most massive stars end in supernovae that forge and scatter heavier elements — the source of most elements in our bodies and our planet. VERIFIED 2026-08-18: the NASA 'Stars' page is live and states stars form in 'large clouds of gas and dust called molecular clouds'; that fusion 'squeeze[s] the nuclei of hydrogen atoms together to form helium'; that the Sun 'is roughly midway through its main sequence stage'; that a low-mass star 'will keep expanding until it becomes a subgiant or giant' then sheds its outer layers (planetary nebula) leaving a white dwarf; and that a high-mass star fuses silicon into iron then explodes as a 'supernova,' with 'material cast into the cosmos by supernovae' enriching future star-forming clouds. It also states 'Our Milky Way alone contains more than 100 billion [stars], including… the Sun.' Confirms the lesson's lifecycle, element-forging, and 'we are made of star-stuff' claims. The lesson's 'we are made of star-stuff' phrasing follows Carl Sagan's well-known formulation; origins are held as models with evidence, never creed (philosophy §11)."
+
+  - id: S-362
+    title: "NASA — The Milky Way Galaxy (our place in the galaxy)"
+    type: website
+    url: https://science.nasa.gov/universe/galaxies/
+    organization: NASA
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.006.08 (our place in the galaxy) for the claims that our Sun is one of more than 100 billion stars in the Milky Way, a spiral galaxy, and that the Milky Way is one of many billions of galaxies. VERIFIED 2026-08-18: the NASA 'Galaxies' page is live and states 'Our home galaxy is called the Milky Way. It's a spiral galaxy with a disk of stars spanning more than 100,000 light-years,' and that galaxies range from those with 'a few thousand stars' to the largest with 'trillions of stars,' organized into groups, clusters, superclusters, and the cosmic web. NOTE: the page does not itself state a star count for the Milky Way; the 'more than 100 billion stars' figure is stated verbatim on the NASA 'Stars' page (S-361: 'Our Milky Way alone contains more than 100 billion, including… the Sun'). The lesson's 'billions of galaxies' figure is the standard, well-established estimate (cf. NASA Space Place 'What Is a Galaxy?': 'Some scientists think there could be as many as one hundred billion galaxies'). The lesson holds 'our place in the galaxy' as a wonder-filled framing, not a claim that any one place is more important than another."

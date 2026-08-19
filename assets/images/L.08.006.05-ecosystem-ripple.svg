@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A ripple through an ecosystem: wolves, elk, willow, beavers</title>
+  <desc id="desc">A chain diagram showing how a change in one population ripples through an ecosystem. Arrows link wolves to elk to willow and aspen, with a downstream, more-debated step to beavers and birds marked as uncertain. Short labels appear under each.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">One Change Ripples Through a Web</text>
+
+  <!-- wolves -->
+  <circle cx="66" cy="180" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M50 162 L58 150 L66 162 M58 150 L58 170 M58 160 L48 154 M58 160 L68 154" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <text x="66" y="234" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">wolves</text>
+  <text x="66" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">returned</text>
+
+  <!-- arrow -->
+  <path d="M104 180 L138 180" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#rarr)"/>
+  <defs>
+    <marker id="rarr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+  <text x="121" y="168" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">eat</text>
+
+  <!-- elk -->
+  <circle cx="192" cy="180" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M176 158 L188 146 L200 158 M188 146 L188 168 M178 172 L198 172 M178 184 L198 184" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <text x="192" y="234" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">elk</text>
+  <text x="192" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">fewer, browse less</text>
+
+  <!-- arrow -->
+  <path d="M230 180 L264 180" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#rarr)"/>
+  <text x="247" y="168" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">less</text>
+  <text x="247" y="200" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">browsing</text>
+
+  <!-- willow/aspen -->
+  <g>
+    <circle cx="318" cy="180" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M318 150 L318 168 M308 158 L328 158 M312 148 L312 162 M324 148 L324 162" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
+    <text x="318" y="234" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">willow &amp; aspen</text>
+    <text x="318" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">begin to recover</text>
+  </g>
+
+  <!-- arrow -->
+  <path d="M356 180 L390 180" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#rarr)"/>
+  <text x="373" y="168" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">shelter</text>
+
+  <!-- beavers/birds -->
+  <circle cx="444" cy="180" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M430 170 L440 160 L450 170 M440 160 L440 176 M434 182 L446 182" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+  <path d="M428 148 q6 -8 12 0 M446 148 q6 -8 12 0" fill="none" stroke="#6b93b6" stroke-width="2"/>
+  <text x="444" y="234" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">beavers &amp; birds</text>
+  <text x="444" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">may return (debated)</text>
+
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Removing a species can reduce balance — returning it can restore balance.</text>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Real webs have many more threads than a single chain — this is a model.</text>
+  <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">The willow-and-aspen recovery is documented; the beaver-and-bird step is still debated.</text>
+</svg>
