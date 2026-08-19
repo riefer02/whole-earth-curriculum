@@ -5433,7 +5433,7 @@ items:
     type: lesson
     grade: 9
     domain: D09
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5445,6 +5445,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1379 files). 14 lessons L.09.011.01-.14, sequence 1-14 no gaps; objectives resolve only to eight grade-9 D09 IDs (D09.S1-S4.09.01/.02); unit.md 14 rows matching; scope lesson_count=14; 14 SVGs + alt. Observation: L.09.011.09 human-rights non-dogmatic (hold critique openly, cite document line + critique line, 'affirm the idea and question it honestly' faithful to D09.S2.09.02); sources SEP/UN/V-Dem/Galtung/Zehr/Rawls/Sen."
+      fact-checker:
+        verdict: passed
+        note: Verified 10 new sources S-456-S-465 (SEP consequentialism/deontology/virtue ethics; Rawls 1971; Sen 1999 capabilities; V-Dem 5 principles; Galtung 1969 DOI; SDG 16; World Inequality Report; African Charter 1981), marked reviewed:true. High-risk claims accurate+hedged (Bentham/Mill, Kant, Aristotle eudaimonia, structural violence, Zehr restorative justice). Non-Western sources (African Charter, ubuntu, hozho, Haudenosaunee, Confucian/Buddhist/Islamic/Indigenous). Evidence vs values distinguished. 14 SVGs accurate. validate green (1379 files). No content corrections.
+      global-culture-editor:
+        verdict: passed
+        note: "Ethical traditions global: L4 has ubuntu/hozho/Confucian/Buddhist/Islamic/Indigenous; added non-Western grounding to L2 (Mohism/Buddhist consequentialism) and L3 (Confucian role ethics, Hindu/Buddhist dharma, Indigenous duty-in-relationship). L9 human rights holds UDHR + African/Banjul Charter + rights-as-Western-imposition critique side by side. L11 democracy non-dogmatic (participation spectrum, Haudenosaunee consensus councils as living, 'compared not preached'). Political-economy examples globally varied (V-Dem/Galtung/World Inequality Lab/Sen). validate green (1379 files). FLAG: added named traditions (Mohism/dharma) without new citations — recommend fact-checker confirm+attach sources."
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier all 14; alt text + role=img/aria-labelledby/title/desc on 14 SVGs; no color-only (labels paired), high contrast dark-on-near-white; UDL context_variants + differentiation + private values reflection (L6). Plain language for dense theory. Fix: injustice-trace SVG desc 'five boxes'->'four boxes'. validate green (1379 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: 14 lessons resolve objectives to eight grade-9 D09 IDs (D09.S1-S4.09.01/.02); chain D09->P4->vision. Lenses: ethics/egalitarianism/global all 14; tech&environment L2/L10/L11/L12. Fixed flagged evidence-vs-values gap: sourced the uncited traditions — registered S-466 SEP Mohism, S-467 SEP Indian/Tibetan Buddhist ethics, S-468 SEP Confucius, S-469 Britannica dharma (reviewed:false), reused S-427 Kimmerer for Indigenous reciprocity; inline refs added to L2/L3. validate green (1379 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: abstract systems (3 frameworks, systemic-injustice model, democracy spectrum) matched to emerging formal operations, I-do/we-do/you-do scaffold, sentence starters. L6 self-criticism vs self-condemnation, private/voluntary, no shame. L7-L8 systemic injustice non-graphic (clean water/shade/school/land/wages), unfairness 'in the arrangement not any one hand', closes agency ('systems human-made so re-made'). L12 conflict non-graphic tree + hope attached, causes!=excusing. L13 repair possible+hard+limits. L11 democracy compared-not-preached, alternatives fairly described, Haudenosaunee living forms. L9 affirm+critique human rights 'land anywhere but argue'. Multi-modal + spiral. validate green (1379 files). Non-blocking: facilitator notes carry scholarly apparatus (teacher-facing)."
   - id: B-380
     title: "Author lessons for Unit U.09.012 (Global History: Change, Power & Liberation)"
     agent: lesson-author

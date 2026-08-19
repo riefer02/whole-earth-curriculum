@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit map: ethics, justice and political economy in four strands and three lenses</title>
+  <desc id="desc">A map showing four boxes labeled moral reasoning and values, fairness justice and rights, civic participation and collective action, and peace conflict and restorative practice, all connected to a center marked three lenses: consequences, duties, virtues.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Ethics, Justice &amp; Political Economy</text>
+
+  <!-- center badge -->
+  <ellipse cx="256" cy="256" rx="96" ry="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Three lenses</text>
+  <text x="256" y="264" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">consequences</text>
+  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">duties · virtues</text>
+
+  <!-- strand 1: moral reasoning (top-left) -->
+  <rect x="26" y="78" width="172" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="50" cy="100" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="66" y="105" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Moral Reasoning</text>
+  <text x="74" y="121" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">&amp; Values</text>
+  <text x="40" y="146" font-family="sans-serif" font-size="11" fill="#4f6d7a">· reason with more than</text>
+  <text x="40" y="162" font-family="sans-serif" font-size="11" fill="#4f6d7a">  one ethical framework</text>
+  <text x="40" y="178" font-family="sans-serif" font-size="11" fill="#4f6d7a">· conscience &amp; self-criticism</text>
+
+  <!-- strand 2: fairness/justice/rights (top-right) -->
+  <rect x="314" y="78" width="172" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="338" cy="100" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="354" y="105" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Fairness, Justice</text>
+  <text x="364" y="121" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">&amp; Rights</text>
+  <text x="328" y="146" font-family="sans-serif" font-size="11" fill="#4f6d7a">· trace systemic injustice</text>
+  <text x="328" y="162" font-family="sans-serif" font-size="11" fill="#4f6d7a">  through actions, rules,</text>
+  <text x="328" y="178" font-family="sans-serif" font-size="11" fill="#4f6d7a">  structures</text>
+
+  <!-- strand 3: civic participation (bottom-left) -->
+  <rect x="26" y="312" width="172" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="50" cy="334" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="66" y="339" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Civic Participation</text>
+  <text x="74" y="355" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">&amp; Collective Action</text>
+  <text x="40" y="380" font-family="sans-serif" font-size="11" fill="#4f6d7a">· power &amp; accountability</text>
+  <text x="40" y="396" font-family="sans-serif" font-size="11" fill="#4f6d7a">· democracy &amp; its</text>
+  <text x="40" y="412" font-family="sans-serif" font-size="11" fill="#4f6d7a">  alternatives</text>
+
+  <!-- strand 4: peace/conflict (bottom-right) -->
+  <rect x="314" y="312" width="172" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="338" cy="334" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="354" y="339" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Peace, Conflict &amp;</text>
+  <text x="364" y="355" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Restorative Practice</text>
+  <text x="328" y="380" font-family="sans-serif" font-size="11" fill="#4f6d7a">· roots of conflict</text>
+  <text x="328" y="396" font-family="sans-serif" font-size="11" fill="#4f6d7a">· reconciliation &amp;</text>
+  <text x="328" y="412" font-family="sans-serif" font-size="11" fill="#4f6d7a">  restorative justice</text>
+
+  <!-- connector lines -->
+  <path d="M198 138 L238 210" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M314 138 L274 210" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M198 372 L238 302" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M314 372 L274 302" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Four strands, one question held open: what makes a shared life fair?</text>
+</svg>

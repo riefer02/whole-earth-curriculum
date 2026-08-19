@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One question read through three lenses</title>
+  <desc id="desc">Three columns, each headed by a lens — consequences, duties, virtues — beneath one shared question, showing that the same dilemma yields a different answer in each column.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">One Question, Three Lenses</text>
+
+  <!-- question banner -->
+  <rect x="36" y="64" width="440" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#222222">The shared question, e.g. — should I always tell the truth?</text>
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">Each lens asks a different question about it.</text>
+
+  <!-- consequences column -->
+  <rect x="26" y="150" width="146" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="26" y="150" width="146" height="34" rx="10" fill="#7a9e7e"/>
+  <text x="99" y="172" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Consequences</text>
+  <text x="40" y="208" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">What results</text>
+  <text x="40" y="226" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">follow? Who is</text>
+  <text x="40" y="244" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">helped or harmed?</text>
+  <text x="40" y="278" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#222222">"Truth that helps;</text>
+  <text x="40" y="296" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#222222">hide truth that</text>
+  <text x="40" y="314" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#222222">harms."</text>
+
+  <!-- duties column -->
+  <rect x="183" y="150" width="146" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="183" y="150" width="146" height="34" rx="10" fill="#e0a458"/>
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Duties</text>
+  <text x="197" y="208" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">What do I owe,</text>
+  <text x="197" y="226" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">no matter what?</text>
+  <text x="197" y="244" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">What rule should</text>
+  <text x="197" y="262" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">everyone follow?</text>
+  <text x="197" y="296" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#222222">"Tell the truth,</text>
+  <text x="197" y="314" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#222222">full stop — lying</text>
+  <text x="197" y="332" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#222222">breaks trust."</text>
+
+  <!-- virtues column -->
+  <rect x="340" y="150" width="146" height="250" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="340" y="150" width="146" height="34" rx="10" fill="#6b93b6"/>
+  <text x="413" y="172" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Virtues</text>
+  <text x="354" y="208" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">What kind of</text>
+  <text x="354" y="226" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">person would I</text>
+  <text x="354" y="244" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">become? Honest,</text>
+  <text x="354" y="262" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">courageous, kind?</text>
+  <text x="354" y="296" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#222222">"A truthful</text>
+  <text x="354" y="314" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#222222">person speaks</text>
+  <text x="354" y="332" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#222222">carefully."</text>
+
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">No lens is the whole truth; each shows something the others miss.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Compare, then weigh.</text>
+</svg>

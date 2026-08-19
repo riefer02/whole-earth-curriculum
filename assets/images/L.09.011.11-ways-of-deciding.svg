@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ways of deciding: from one-person rule to broad participation</title>
+  <desc id="desc">A horizontal spectrum with four labeled points: rule by one person, rule by a few, rule by many through voting, and broad participation including deliberation and consensus, with an arrow showing participation growing from left to right.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Ways a Society Decides</text>
+
+  <!-- spectrum line -->
+  <line x1="40" y1="180" x2="472" y2="180" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-style="italic" fill="#4f6d7a">how much participation? →</text>
+  <path d="M464 173 L472 180 L464 187" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- one -->
+  <rect x="40" y="210" width="100" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="90" cy="236" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="264" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">One rules</text>
+  <text x="90" y="284" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">monarchy,</text>
+  <text x="90" y="300" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">autocracy,</text>
+  <text x="90" y="316" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">dictatorship</text>
+
+  <!-- few -->
+  <rect x="164" y="210" width="100" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="214" cy="236" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="196" cy="244" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="232" cy="244" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="214" y="280" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">A few rule</text>
+  <text x="214" y="300" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">oligarchy,</text>
+  <text x="214" y="316" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">aristocracy</text>
+
+  <!-- many: vote -->
+  <rect x="288" y="210" width="100" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <g>
+    <circle cx="310" cy="240" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="330" cy="240" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="350" cy="240" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="320" cy="258" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="340" cy="258" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="338" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Many rule</text>
+  <text x="338" y="304" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">democracy:</text>
+  <text x="338" y="320" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">vote, parties</text>
+
+  <!-- broad -->
+  <rect x="412" y="210" width="84" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="454" cy="236" r="16" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="454" cy="236" r="5" fill="#7a9e7e"/>
+  <text x="454" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#222222">Broad</text>
+  <text x="454" y="288" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">deliberate,</text>
+  <text x="454" y="304" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">consensus,</text>
+  <text x="454" y="320" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">direct voice</text>
+
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Each has strengths and limits — including democracy.</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Compare them honestly, and ask who gets a real voice.</text>
+</svg>

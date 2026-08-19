@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The restorative circle: who was harmed, who is responsible, how do we make it right</title>
+  <desc id="desc">A circle with figures placed around it: a person harmed, a person responsible, community members, and a facilitator, with the three restorative questions written inside the circle.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Restorative Circle</text>
+
+  <!-- circle -->
+  <circle cx="256" cy="256" r="150" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- questions inside -->
+  <text x="256" y="236" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">1. What happened?</text>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">2. Who was harmed?</text>
+  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">3. How do we make it right?</text>
+
+  <!-- figures around circle -->
+  <g>
+    <circle cx="256" cy="104" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">person harmed</text>
+
+    <circle cx="400" cy="200" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="430" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">person</text>
+    <text x="430" y="210" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">responsible</text>
+
+    <circle cx="400" cy="316" r="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="432" y="324" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">community</text>
+
+    <circle cx="256" cy="410" r="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">supporters</text>
+
+    <circle cx="112" cy="316" r="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="60" y="324" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">facilitator</text>
+
+    <circle cx="112" cy="200" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="56" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">listener</text>
+  </g>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Repair the harm and restore relationships — not only punish.</text>
+</svg>

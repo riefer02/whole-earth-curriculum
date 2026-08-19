@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Capstone web: eight ideas of ethics, justice and political economy</title>
+  <desc id="desc">A web connecting eight short phrases around a center labeled reason across the whole: three lenses, conscience, systemic injustice, human rights, power, democracy, roots of conflict, and reconciliation.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Reasoning Across the Whole</text>
+
+  <!-- center -->
+  <ellipse cx="256" cy="256" rx="80" ry="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Reason</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">across the whole</text>
+
+  <!-- 8 nodes -->
+  <g font-family="sans-serif" font-size="11.5" fill="#222222">
+    <rect x="146" y="80" width="150" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="221" y="104" text-anchor="middle" font-weight="bold">Three lenses</text>
+
+    <rect x="20" y="160" width="150" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="184" text-anchor="middle" font-weight="bold">Conscience</text>
+
+    <rect x="342" y="160" width="150" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="417" y="184" text-anchor="middle" font-weight="bold">Democracy</text>
+
+    <rect x="20" y="256" width="150" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="280" text-anchor="middle" font-weight="bold">Systemic injustice</text>
+
+    <rect x="342" y="256" width="150" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="417" y="280" text-anchor="middle" font-weight="bold">Roots of conflict</text>
+
+    <rect x="20" y="352" width="150" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="376" text-anchor="middle" font-weight="bold">Human rights</text>
+
+    <rect x="342" y="352" width="150" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="417" y="376" text-anchor="middle" font-weight="bold">Reconciliation</text>
+
+    <rect x="166" y="428" width="180" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="452" text-anchor="middle" font-weight="bold">Power &amp; accountability</text>
+  </g>
+
+  <!-- connectors -->
+  <g stroke="#4f6d7a" stroke-width="2" fill="none">
+    <path d="M221 120 L238 216"/>
+    <path d="M95 200 L210 236"/>
+    <path d="M417 200 L302 236"/>
+    <path d="M95 256 L176 256"/>
+    <path d="M417 256 L336 256"/>
+    <path d="M95 312 L210 276"/>
+    <path d="M417 312 L302 276"/>
+    <path d="M256 428 L256 296"/>
+  </g>
+</svg>

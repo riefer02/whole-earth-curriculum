@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The roots of conflict: inequality, fear, and scarcity feed the tree</title>
+  <desc id="desc">A tree diagram: three roots labeled inequality, fear, and scarcity feed a trunk labeled conflict and violence, whose branches are labeled the many human responses — competition, exclusion, blame — with a note that roots can be tended.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Roots of Conflict</text>
+
+  <!-- branches -->
+  <path d="M256 150 L200 100" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M256 150 L256 92" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M256 150 L312 100" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <ellipse cx="196" cy="88" rx="26" ry="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="256" cy="78" rx="26" ry="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="316" cy="88" rx="26" ry="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">responses: competition, exclusion, blame</text>
+
+  <!-- trunk -->
+  <rect x="218" y="150" width="76" height="120" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Conflict</text>
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">&amp; violence</text>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">when disagreement</text>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">turns to harm</text>
+
+  <!-- roots -->
+  <path d="M256 270 C 230 300, 150 300, 120 340" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M256 270 L256 350" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M256 270 C 282 300, 362 300, 392 340" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- root labels -->
+  <rect x="46" y="348" width="150" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="121" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Inequality</text>
+  <text x="121" y="388" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">unequal share, no voice</text>
+
+  <rect x="181" y="348" width="150" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Fear</text>
+  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">threat, mistrust, rumor</text>
+
+  <rect x="316" y="348" width="150" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="391" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Scarcity</text>
+  <text x="391" y="388" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">not enough, unfairly split</text>
+
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Conflict has roots — so peace can be grown, too.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Address the root, not only the branch.</text>
+</svg>

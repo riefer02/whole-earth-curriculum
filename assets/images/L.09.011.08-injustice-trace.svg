@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tracing an injustice: a chain from cause to unfair outcome</title>
+  <desc id="desc">A left-to-right chain of four boxes with arrows, showing how a past rule, a structure, and repeated small actions combine into an unfair outcome, with a dashed arrow asking where the loop could be broken.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Tracing an Injustice</text>
+
+  <!-- box 1 -->
+  <rect x="20" y="150" width="120" height="84" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="180" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">A past rule</text>
+  <text x="80" y="200" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">who may do what,</text>
+  <text x="80" y="216" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">set long ago</text>
+
+  <!-- arrow -->
+  <path d="M140 192 L158 192" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M151 185 L158 192 L151 199" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- box 2 -->
+  <rect x="162" y="150" width="120" height="84" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="222" y="180" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">A structure</text>
+  <text x="222" y="200" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">money, jobs,</text>
+  <text x="222" y="216" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">housing, schools</text>
+
+  <!-- arrow -->
+  <path d="M282 192 L300 192" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M293 185 L300 192 L293 199" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- box 3 -->
+  <rect x="304" y="150" width="120" height="84" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="364" y="180" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">Small actions</text>
+  <text x="364" y="200" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">each reasonable,</text>
+  <text x="364" y="216" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">added together</text>
+
+  <!-- arrow down/combine -->
+  <path d="M364 234 L364 268" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M357 261 L364 268 L371 261" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- combine note -->
+  <text x="364" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">combine</text>
+
+  <!-- box 4: outcome -->
+  <rect x="304" y="272" width="120" height="84" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="364" y="302" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">Unfair outcome</text>
+  <text x="364" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">some left out,</text>
+  <text x="364" y="338" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">again and again</text>
+
+  <!-- break arrow (dashed) -->
+  <path d="M304 314 L180 314 L180 262 L120 262" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <path d="M128 255 L120 262 L128 269" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="120" y="246" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">where could the</text>
+  <text x="120" y="262" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">loop be broken?</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">To change the outcome, change a rule, a structure, or the repeated actions —</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">not only the blame.</text>
+</svg>

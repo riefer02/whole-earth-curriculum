@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Power and accountability: who holds power, and how people answer back</title>
+  <desc id="desc">A diagram with a box at the top labeled power holders, arrows flowing down to a large group of small figures labeled citizens, and arrows flowing back up labeled accountability — elections, press, courts, protest, organizing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Power &amp; Accountability</text>
+
+  <!-- power holders -->
+  <rect x="146" y="76" width="220" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="176" cy="106" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="194" y="110" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Power holders</text>
+  <text x="166" y="134" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">government, companies, media,</text>
+  <text x="166" y="148" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">landowners, platforms</text>
+
+  <!-- down arrows -->
+  <path d="M200 152 L190 220" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M256 152 L256 220" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M312 152 L322 220" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="150" y="180" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">decisions,</text>
+  <text x="150" y="196" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">resources, rules</text>
+
+  <!-- citizens -->
+  <g>
+    <circle cx="176" cy="256" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="208" cy="256" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="240" cy="256" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="272" cy="256" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="304" cy="256" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="336" cy="256" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Citizens (and all who live the consequences)</text>
+
+  <!-- up arrows: accountability -->
+  <path d="M190 292 L198 360" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 292 L256 360" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M322 292 L314 360" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M191 353 L198 360 L205 353" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M249 353 L256 360 L263 353" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M307 353 L314 360 L321 353" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- accountability label -->
+  <rect x="120" y="364" width="272" height="66" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">Accountability (answering back)</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">elections · free press · courts · protest · organizing</text>
+
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Power is held accountable only when the arrows flow both ways.</text>
+</svg>

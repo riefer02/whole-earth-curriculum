@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Duties: what we owe to every person and to those we care for</title>
+  <desc id="desc">A two-branch diagram: a central question about what duty requires, splitting into one branch labeled duties to every person no matter what, and another labeled duties from relationships and roles, each with short examples.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Duties Lens</text>
+
+  <!-- central question -->
+  <rect x="156" y="86" width="200" height="70" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="116" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">What does duty</text>
+  <text x="256" y="136" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">require of me?</text>
+
+  <!-- branch lines -->
+  <path d="M190 156 L120 208" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M322 156 L392 208" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- universal duties -->
+  <rect x="26" y="208" width="190" height="170" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="50" cy="232" r="8" fill="#6b93b6"/>
+  <text x="66" y="236" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">To every person</text>
+  <text x="40" y="262" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· do not deceive</text>
+  <text x="40" y="280" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· do not treat a person</text>
+  <text x="40" y="296" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  as a mere tool</text>
+  <text x="40" y="314" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· act as everyone</text>
+  <text x="40" y="330" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  could act</text>
+  <text x="40" y="356" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#4f6d7a">no matter what</text>
+
+  <!-- relational duties -->
+  <rect x="296" y="208" width="190" height="170" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="320" cy="232" r="8" fill="#e0a458"/>
+  <text x="336" y="236" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">From relationship</text>
+  <text x="310" y="262" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· a parent cares for</text>
+  <text x="310" y="280" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  a child</text>
+  <text x="310" y="298" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· a promise kept</text>
+  <text x="310" y="316" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· a role honored —</text>
+  <text x="310" y="332" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  teacher, elder, friend</text>
+  <text x="310" y="356" font-family="sans-serif" font-size="11.5" font-style="italic" fill="#4f6d7a">because of who we are</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Ask: would I want this to be a rule for everyone?</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Whom do I owe, simply because we share a life?</text>
+</svg>

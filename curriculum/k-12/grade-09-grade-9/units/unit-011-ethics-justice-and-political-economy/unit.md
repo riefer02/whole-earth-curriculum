@@ -71,3 +71,17 @@ never answered as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Three Lenses on Right and Wrong | D09.S1.09.01 |
+| 02 | Consequences: What Happens, to Whom? | D09.S1.09.01 |
+| 03 | Duties: What We Owe | D09.S1.09.01 |
+| 04 | Virtues: Who We Become | D09.S1.09.01 |
+| 05 | One Question, Three Answers | D09.S1.09.01 |
+| 06 | Conscience & Self-Criticism: Keeping My Values Honest | D09.S1.09.02 |
+| 07 | Systemic Injustice: Actions, Rules, Structures | D09.S2.09.01 |
+| 08 | Tracing a Systemic Injustice | D09.S2.09.01 |
+| 09 | Human Rights Across Cultures | D09.S2.09.02 |
+| 10 | Power & Accountability | D09.S3.09.01 |
+| 11 | Democracy & Its Alternatives | D09.S3.09.02 |
+| 12 | The Roots of Conflict: Inequality, Fear, Scarcity | D09.S4.09.01 |
+| 13 | Reconciliation & Restorative Justice | D09.S4.09.02 |
+| 14 | Capstone: Reasoning Across the Whole | all eight grade-9 D09 objectives |

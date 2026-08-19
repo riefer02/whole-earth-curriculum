@@ -4000,9 +4000,9 @@ sources:
     author: Robin Wall Kimmerer
     year: 2013
     organization: Milkweed Editions
-    domains: [D04, D10]
+    domains: [D04, D09, D10]
     reviewed: true
-    notes: "Print book; bibliographic details verified (2026-08-19): Robin Wall Kimmerer, Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants, 2013 (Milkweed Editions) — canonical; the Potawatomi/animacy point (plants named as persons, not things) is accurately attributed. Cited in L.09.006.11 for the link between language and ecological knowledge: learning Potawatomi plant words, Kimmerer finds that the grammar of the language encodes a relationship of respect to the living world (calling a plant a person, not a thing). Real, widely honored book (2013) by a botanist and citizen of the Citizen Potawatomi Nation. The lesson uses this to explain why protecting languages matters for the environment — because languages carry knowledge of plants, animals, weather, and place (biocultural diversity)."
+    notes: "Print book; bibliographic details verified (2026-08-19): Robin Wall Kimmerer, Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants, 2013 (Milkweed Editions) — canonical; the Potawatomi/animacy point (plants named as persons, not things) is accurately attributed. Cited in L.09.006.11 for the link between language and ecological knowledge: learning Potawatomi plant words, Kimmerer finds that the grammar of the language encodes a relationship of respect to the living world (calling a plant a person, not a thing). Real, widely honored book (2013) by a botanist and citizen of the Citizen Potawatomi Nation. The lesson uses this to explain why protecting languages matters for the environment — because languages carry knowledge of plants, animals, weather, and place (biocultural diversity). Also cited in U.09.011 L03 (the duties lens) for the claim that Indigenous traditions ground duty in relationship, role, and reciprocity — Kimmerer's central ethic of reciprocity (the Honorable Harvest, 'all flourishing is mutual') is a duty grounded in relationship and reciprocity with the living world, which supports the lesson's framing without reducing any Indigenous tradition to a single concept."
 
   - id: S-428
     title: "Leanne Hinton (ed.) — Bringing Our Languages Home: Language Revitalization for Families"
@@ -4264,3 +4264,134 @@ sources:
     year: 2024
     reviewed: true
     notes: "Cited in U.09.010 L03 (How Reproduction Works) as supporting context for the claim that where accurate information and services are missing, unplanned and adolescent pregnancy is more common. URL verified live (2026-08-19): WHO fact sheet 'Adolescent pregnancy' (dated 10 April 2024). Confirms the lesson's claim — adolescent pregnancy is 'a global phenomenon with clearly known causes and serious health, social and economic consequences,' with causes including child marriage, child sexual abuse, and 'barriers to obtaining and using contraceptives [that] prevent adolescents from avoiding unintended pregnancies,' and notes adolescents 'may lack... knowledge on where to obtain [contraceptives] and how to correctly use them.' Supports the lesson's framing that accurate reproductive education and access to services reduce unplanned/adolescent pregnancy. Reviewed by fact-checker 2026-08-19."
+
+  - id: S-456
+    title: "Stanford Encyclopedia of Philosophy — Consequentialism"
+    type: article
+    url: https://plato.stanford.edu/entries/consequentialism/
+    organization: Stanford University (Stanford Encyclopedia of Philosophy)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.09.011 L01/L02/L05 (the consequences lens) as the scholarly reference for consequentialism — the family of ethical traditions that judge an act by its results, whose best-known form is utilitarianism (associated with Jeremy Bentham and John Stuart Mill). The lesson presents the lens as one tradition among several, not the correct answer. Fact-checker verified live (2026-08-19): URL resolves (200). The SEP entry states 'The paradigm case of consequentialism is utilitarianism, whose classic proponents were Jeremy Bentham (1789), John Stuart Mill (1861), and Henry Sidgwick (1907)' and defines consequentialism as the view that 'normative properties depend only on consequences' — directly supporting the lesson's description. Bentham/Mill attribution is accurate."
+
+  - id: S-457
+    title: "Stanford Encyclopedia of Philosophy — Deontological Ethics"
+    type: article
+    url: https://plato.stanford.edu/entries/ethics-deontological/
+    organization: Stanford University (Stanford Encyclopedia of Philosophy)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.09.011 L01/L03/L05 (the duties lens) as the scholarly reference for deontological ethics — traditions that judge an act by whether it fulfills a duty, most associated with Immanuel Kant (universal rule; treating persons as ends, never merely as means). The lesson also notes that duty-based reasoning appears in many traditions, including relationship- and role-based accounts. Fact-checker verified live (2026-08-19): URL resolves (200). The SEP entry centers Kant and the categorical imperative, discussing the Formula of Universal Law ('universal law') and the Formula of Humanity / treating humanity as an 'end in itself' — directly supporting the lesson's Kant/universal-rule/persons-as-ends description."
+
+  - id: S-458
+    title: "Stanford Encyclopedia of Philosophy — Virtue Ethics"
+    type: article
+    url: https://plato.stanford.edu/entries/ethics-virtue/
+    organization: Stanford University (Stanford Encyclopedia of Philosophy)
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.09.011 L01/L04/L05 (the virtues lens) as the scholarly reference for virtue ethics — traditions that judge an act by the kind of person it builds, most associated with Aristotle (a virtue is a settled habit of character, built by practice, aimed at flourishing/eudaimonia). The lesson notes that ideas of character and a good life run through many traditions, including Confucian, Buddhist, Islamic, and Indigenous frameworks. Fact-checker verified live (2026-08-19): URL resolves (200). The SEP entry is centered on Aristotle and eudaimonia and defines a virtue as a settled character trait — directly supporting the lesson's Aristotle/habit-of-character/flourishing description. The Confucian/Buddhist/Islamic/Indigenous extension is presented by the lesson as a cross-cultural parallel (a value frame), not as a claim sourced to this entry."
+
+  - id: S-459
+    title: "Rawls (1971) — A Theory of Justice"
+    type: book
+    author: John Rawls
+    organization: Harvard University Press
+    year: 1971
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.09.011 L07 as background for the idea that justice has competing theories — equal treatment, need, fairness — which the unit holds as ideas to compare, not a single correct answer. Rawls is the canonical modern theorist of distributive justice. Fact-checker verified (2026-08-19): John Rawls, A Theory of Justice, was published 1971 by the Belknap Press of Harvard University Press (rev. ed. 1999). Correct attribution; the book is the canonical source for the 'veil of ignorance' / original position and the difference principle, though the lesson does not itself name the veil of ignorance — it cites Rawls only for the 'justice has more than one answer' framing, which is accurate. Print book; no URL."
+
+  - id: S-460
+    title: "Sen (1999) — Development as Freedom"
+    type: book
+    author: Amartya Sen
+    organization: Alfred A. Knopf
+    year: 1999
+    domains: [D09, D08]
+    reviewed: true
+    notes: "Cited in U.09.011 L09 (human rights across cultures) as background for the capabilities approach — the idea that freedom and development are about what people are actually able to do and be — which informs a cross-cultural evaluation of human rights. Fact-checker verified (2026-08-19): Amartya Sen, Development as Freedom, was first published 1999 by Alfred A. Knopf (New York; Oxford University Press, UK). Correct attribution and year. The capabilities approach is the book's central framework (developed with Martha Nussbaum), so the citation supports the lesson's 'freedom = what people can actually do and be' framing. Print book; no URL."
+
+  - id: S-461
+    title: "V-Dem Institute — Varieties of Democracy"
+    type: website
+    url: https://v-dem.net/
+    organization: V-Dem Institute, University of Gothenburg
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.09.011 L10/L11 (power and accountability; democracy and its alternatives) as the authoritative, cross-national dataset measuring how power is distributed and how democratic participation varies across societies. The lesson uses it to ground the claim that participation is uneven, without ranking one society's arrangements above another's. Fact-checker verified live (2026-08-19): URL resolves (200). V-Dem is the real, authoritative Varieties of Democracy project (University of Gothenburg) providing 'a multidimensional and disaggregated dataset' measuring democracy across five principles — electoral, liberal, participatory, deliberative, and egalitarian — across countries and time. Directly supports the lesson's cross-national, non-ranking measurement framing."
+
+  - id: S-462
+    title: "Galtung (1969) — Violence, Peace, and Peace Research"
+    type: article
+    url: https://doi.org/10.1177/002234336900600301
+    author: Johan Galtung
+    organization: Journal of Peace Research
+    year: 1969
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.09.011 L12 (the roots of conflict) as the foundational peace-studies reference for structural violence and the distinction between conflict and violence, and for the claim that inequality, fear, and scarcity are among the best-supported root causes of conflict. The lesson presents these as among the causes, not the only ones. Fact-checker verified (2026-08-19): DOI 10.1177/002234336900600301 resolves to Johan Galtung, 'Violence, Peace, and Peace Research,' Journal of Peace Research 6(3), pp. 167–191 (1969) (publisher link returns 403 to non-browser clients, but the DOI resolves to the correct article). This is the canonical article introducing the concept of structural violence and distinguishing personal/direct violence from structural violence, and it anchors the positive/negative peace distinction Galtung developed. Correct attribution. The 'inequality, fear, scarcity' triad is the lesson's own pedagogic summary (fear/scarcity are broader conflict-root claims, not verbatim from this article), and it is appropriately hedged as 'among the causes, not the only ones.'"
+
+  - id: S-463
+    title: "United Nations — Sustainable Development Goal 16: Peace, Justice and Strong Institutions"
+    type: website
+    url: https://sdgs.un.org/goals/goal16
+    organization: United Nations
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.09.011 L12/L13 as a shared international commitment to peace, justice, and strong institutions, framing the unit's conflict and reconciliation work as a common global goal (a value, not a fact claim). Fact-checker verified live (2026-08-19): URL resolves (200). The UN SDG 16 page is titled Goal 16 'Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels' — matching the 'Peace, Justice and Strong Institutions' shorthand and the lesson's framing as a shared global commitment. Correct attribution; used as a value/aspiration frame, not a fact claim."
+
+  - id: S-464
+    title: "World Inequality Lab — World Inequality Report"
+    type: website
+    url: https://wir2022.wid.world/
+    organization: World Inequality Lab
+    domains: [D09, D08]
+    reviewed: true
+    notes: "Cited in U.09.011 L12 (the roots of conflict) as the authoritative source for the measurement of inequality within and across countries, supporting the claim that inequality is a documented, widespread condition linked to conflict risk. Fact-checker verified live (2026-08-19): URL resolves (200) — the World Inequality Report 2022 site (World Inequality Lab, co-directed by Thomas Piketty, Lucas Chancel, et al.). The lesson cites it only as the authoritative inequality-measurement source, not for any specific figure, so no individual statistic needs verification; the 'inequality is a documented, widespread condition' framing is well supported by the WIR. Correct attribution."
+
+  - id: S-465
+    title: "African Charter on Human and Peoples' Rights (Banjul Charter)"
+    type: report
+    url: https://au.int/en/treaties/african-charter-human-and-peoples-rights
+    organization: African Union (formerly Organisation of African Unity)
+    year: 1981
+    domains: [D09]
+    reviewed: true
+    notes: "Cited in U.09.011 L09 (human rights across cultures) as the regional human-rights document that extends the Universal Declaration by adding duties and peoples'/collective rights, showing that the human-rights idea has been amended and extended across traditions rather than merely accepted. The lesson holds it alongside the UDHR and a critique, none as the default. Fact-checker verified live (2026-08-19): URL resolves (200) to the African Union treaties page for the 'African Charter on Human and Peoples' Rights'; the page confirms Date of Adoption 1 June 1981 and entry into force 21 October 1986. Correct attribution (adopted by the OAU 1981, now AU; 'Banjul Charter' is its common name). The Charter's addition of peoples'/collective rights and individual duties is accurate and well documented — supporting the lesson's claim that the human-rights idea was extended, not merely accepted."
+
+  - id: S-466
+    title: "Stanford Encyclopedia of Philosophy — Mohism"
+    type: article
+    url: https://plato.stanford.edu/entries/mohism/
+    organization: Stanford University (Stanford Encyclopedia of Philosophy)
+    domains: [D09]
+    reviewed: false
+    notes: "Cited in U.09.011 L02 (the consequences lens) as the scholarly reference for the claim that consequentialist reasoning appears early in Chinese Mohism. The Mohists (Mozi, c. 5th century BCE) held a consequentialist ethics: practices, policies, and institutions are evaluated by whether they benefit (li) the world and promote the welfare of all impartially (jian'ai, inclusive care) — explicitly 'promoting benefit and eliminating harm.' URL resolves (200). Registered by the alignment-auditor to close the evidence-vs-values gap flagged by the global-culture-editor; pending fact-checker verification (reviewed:false)."
+
+  - id: S-467
+    title: "Stanford Encyclopedia of Philosophy — Ethics in Indian and Tibetan Buddhism"
+    type: article
+    url: https://plato.stanford.edu/entries/ethics-indian-buddhism/
+    organization: Stanford University (Stanford Encyclopedia of Philosophy)
+    domains: [D09]
+    reviewed: false
+    notes: "Cited in U.09.011 L02 (the consequences lens) as the scholarly reference for the claim that consequentialist reasoning appears in Buddhist ethics. Buddhist ethics is centrally concerned with reducing suffering (dukkha) for all sentient beings and has been read by contemporary scholars (e.g., Charles Goodman) as a form of consequentialism. URL resolves (200). Registered by the alignment-auditor to close the evidence-vs-values gap flagged by the global-culture-editor; pending fact-checker verification (reviewed:false)."
+
+  - id: S-468
+    title: "Stanford Encyclopedia of Philosophy — Confucius"
+    type: article
+    url: https://plato.stanford.edu/entries/confucius/
+    organization: Stanford University (Stanford Encyclopedia of Philosophy)
+    domains: [D09]
+    reviewed: false
+    notes: "Cited in U.09.011 L03 (the duties lens) as the scholarly reference for the claim that duty-based reasoning appears in Confucian role ethics. Confucian ethics grounds obligation in roles and relationships (filial piety, xiao; the reciprocal duties between parent and child, ruler and minister, friend and friend) rather than in a universal rule alone. URL resolves (200). Registered by the alignment-auditor to close the evidence-vs-values gap flagged by the global-culture-editor; pending fact-checker verification (reviewed:false)."
+
+  - id: S-469
+    title: "Encyclopaedia Britannica — dharma"
+    type: article
+    url: https://www.britannica.com/topic/dharma-religious-concept
+    organization: Encyclopaedia Britannica
+    domains: [D09]
+    reviewed: false
+    notes: "Cited in U.09.011 L03 (the duties lens) as the reference for the claim that Hindu and Buddhist accounts of dharma are duty-based. Dharma is the key concept of duty, righteousness, and moral law in Hinduism and Buddhism (and Jainism/Sikhism). URL returns 403 to automated clients (bot protection) but is a real, canonical Britannica entry — consistent with other registry entries that note 403s. Registered by the alignment-auditor to close the evidence-vs-values gap flagged by the global-culture-editor; pending fact-checker verification (reviewed:false)."

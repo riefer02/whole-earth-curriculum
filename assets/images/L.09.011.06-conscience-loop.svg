@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The conscience loop: act, reflect, revise, act again</title>
+  <desc id="desc">A circular loop of four steps: act, reflect on what happened, self-criticize honestly, and revise values and choices, which returns to acting.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Conscience Loop</text>
+
+  <!-- act -->
+  <rect x="40" y="96" width="170" height="92" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="64" cy="122" r="8" fill="#7a9e7e"/>
+  <text x="80" y="126" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Act</text>
+  <text x="54" y="150" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">choose and do</text>
+  <text x="54" y="168" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">something</text>
+
+  <!-- reflect -->
+  <rect x="302" y="96" width="170" height="92" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="326" cy="122" r="8" fill="#e0a458"/>
+  <text x="342" y="126" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Reflect</text>
+  <text x="316" y="150" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">what happened?</text>
+  <text x="316" y="168" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">how did it feel?</text>
+
+  <!-- self-criticize -->
+  <rect x="302" y="296" width="170" height="92" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="326" cy="322" r="8" fill="#6b93b6"/>
+  <text x="342" y="326" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Self-criticize</text>
+  <text x="316" y="350" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">was that who I</text>
+  <text x="316" y="368" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">want to be?</text>
+
+  <!-- revise -->
+  <rect x="40" y="296" width="170" height="92" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="64" cy="322" r="8" fill="#4f6d7a"/>
+  <text x="80" y="326" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Revise</text>
+  <text x="54" y="350" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">adjust values and</text>
+  <text x="54" y="368" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">next choices</text>
+
+  <!-- arrows -->
+  <path d="M210 142 L302 142" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M294 135 L302 142 L294 149" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M387 188 L387 296" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M380 288 L387 296 L394 288" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M302 342 L210 342" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M218 335 L210 342 L218 349" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M125 296 L125 188" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M118 196 L125 188 L132 196" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Conscience is not a fixed voice — it is a loop that keeps our values honest.</text>
+</svg>
