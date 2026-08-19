@@ -5729,7 +5729,7 @@ items:
     type: lesson
     grade: 10
     domain: D05
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5741,6 +5741,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1467 files). All 14 lessons: kind lesson, IDs L.10.005.01-.14 matching sequence_in_unit, unit U.10.005, domain [D05], pillar [P3]; strand/objectives resolve to real D05 grade-10 standards (domain.md lines 200-214). All 8 objectives covered (S1.10.01→01/02/03, S1.10.02→04, S2.10.01→05/06, S2.10.02→07/08, S3.10.01→09/10, S3.10.02→11, S4.10.01→13, S4.10.02→12/14). Required headings present in all 14; assets have non-empty alt with resolving paths; unit.md Lessons table matches. Example: lesson 013 Connection works 99%-accurate-test base-rate paradox (faithful to D05.S4.10.01)."
+      fact-checker:
+        verdict: passed
+        note: Verified exponents/roots, complex numbers, function features, trig/circles, and probability/Bayes/expected value across all 14 lessons, plus non-Western history-of-math claims (YBC 7289, Sulba Sutras, Nine Chapters, al-Khwarizmi/Khayyam, Zu Chongzhi, Ptolemy/al-Idrisi, Pascal-Fermat). Every S-xxx citation resolves to a vetted registry entry. Fixed one error (Lesson 5 box-model leading term corrected -4x^3 → +4x^3) and re-validated clean.
+      global-culture-editor:
+        verdict: passed
+        note: "Verified math is not framed as Western/Greek invention: unit credits multiple traditions accurately and non-tokenistically (Babylonian YBC 7289/Plimpton 322, Indian Sulba Sutras + Aryabhata sine jya→jiba→sinus chain, Chinese gou-gu/Nine Chapters + Zu Chongzhi pi 355/113, Islamic al-Khwarizmi/Omar Khayyam, Egyptian 256/81 pi, zakat as finance context). Priority claims not asserted — legends (Hippasus, 'first') separated from proved facts and 'held lightly'. Connections use universal/cross-cultural contexts (paper folding, shadows, shared-cost meals, surveying/navigation, compound interest, screening tests). No edits needed."
+      accessibility-editor:
+        verdict: passed
+        note: Checked low-tech tier (materials_low_tech + outdoor-only in all 14 lessons) and alt text/SVG accessibility (role=img + title/desc on all 14 assets, non-empty alt, color never the only signal). UDL, non-visual/tactile paths, non-motor expression, no silent device/wealth requirement all confirmed. Validate clean (1467 files).
+      alignment-auditor:
+        verdict: passed
+        note: Verified all four lenses (ethics L8/12/13/14, egalitarianism pervasive, global/anthropological across math traditions, technology & environment where relevant). Claims cited; evidence distinguished from values. Chain resolves lesson→strand→D05→P3→vision (intellectual awareness); all objectives map to real D05 grade-10 standards. No hierarchy/supremacy content.
+      child-psychologist:
+        verdict: passed
+        note: "For 9-12 band: cognitive fit (formal-operations material — exponent/root rules, complex numbers, proof-by-contradiction of sqrt2, circle theorems, conditional probability/expected value — appropriate for age ~15-16, spirals from Grade 8-9); emotional safety (mastery-not-ranking, explicit 'not yet' framing, no public shaming, worked-example→guided→independent scaffolding; screening/lending/insurance topics framed through fairness and agency, not fear); physical fit (surveying/clinometer/pacing, outdoor low-tech variants); rigor without shallowness (real proofs/full formulas); open-endedness (questions held as questions, legend/priority claims marked, no creed per philosophy §11)."
   - id: B-388
     title: "Author lessons for Unit U.10.006 (Science: Systems, Evidence & Our Origins)"
     agent: lesson-author

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Probability Rules and Compound Events</title>
+  <desc id="desc">A two-way table and a branching tree diagram for a compound event (two coin tosses), with the addition rule for or and the multiplication rule for and written beside them.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Two Coin Tosses</text>
+
+  <!-- Two-way table -->
+  <text x="160" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Two-way table</text>
+  <g font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">
+    <rect x="40" y="70" width="70" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="110" y="70" width="70" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="180" y="70" width="70" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="40" y="100" width="70" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="110" y="100" width="70" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="180" y="100" width="70" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="40" y="130" width="70" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="110" y="130" width="70" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="180" y="130" width="70" height="30" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="75" y="90">&#160;</text>
+    <text x="145" y="90">H (1st)</text>
+    <text x="215" y="90">T (1st)</text>
+    <text x="75" y="120">H (2nd)</text>
+    <text x="75" y="150">T (2nd)</text>
+    <text x="145" y="120">HH</text>
+    <text x="215" y="120">TH</text>
+    <text x="145" y="150">HT</text>
+    <text x="215" y="150">TT</text>
+  </g>
+  <text x="160" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">4 equally likely outcomes</text>
+
+  <!-- Tree diagram -->
+  <text x="400" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Tree diagram</text>
+  <line x1="400" y1="72" x2="400" y2="92" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="400" y1="92" x2="360" y2="122" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="400" y1="92" x2="440" y2="122" stroke="#2b3a42" stroke-width="2"/>
+  <text x="348" y="116" font-family="sans-serif" font-size="13" fill="#222222">H</text>
+  <text x="448" y="116" font-family="sans-serif" font-size="13" fill="#222222">T</text>
+  <line x1="360" y1="122" x2="344" y2="152" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="360" y1="122" x2="376" y2="152" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="440" y1="122" x2="424" y2="152" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="440" y1="122" x2="456" y2="152" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="336" y="170" font-family="sans-serif" font-size="12" fill="#222222">HH</text>
+  <text x="378" y="170" font-family="sans-serif" font-size="12" fill="#222222">HT</text>
+  <text x="416" y="170" font-family="sans-serif" font-size="12" fill="#222222">TH</text>
+  <text x="458" y="170" font-family="sans-serif" font-size="12" fill="#222222">TT</text>
+
+  <!-- Rules -->
+  <g font-family="sans-serif" font-size="15" fill="#222222">
+    <rect x="70" y="240" width="372" height="40" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+    <text x="256" y="265" text-anchor="middle">Addition (or): P(A or B) = P(A) + P(B) &#8722; P(A and B)</text>
+    <rect x="70" y="296" width="372" height="40" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>
+    <text x="256" y="321" text-anchor="middle">Multiplication (and): P(A and B) = P(A) &#215; P(B)</text>
+  </g>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">P(at least one heads) = 1/2 + 1/2 &#8722; 1/4 = 3/4</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Lay out every outcome so nothing is missed or counted twice.</text>
+</svg>

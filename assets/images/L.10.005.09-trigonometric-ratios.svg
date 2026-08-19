@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Trigonometric Ratios from Similar Triangles</title>
+  <desc id="desc">A right triangle with the hypotenuse, opposite, and adjacent sides labeled relative to an angle theta, and the three ratios sine equals opposite over hypotenuse, cosine equals adjacent over hypotenuse, tangent equals opposite over adjacent written beside it.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Three Ratios</text>
+
+  <!-- Right triangle -->
+  <polygon points="110,330 110,150 350,330" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <!-- right-angle square -->
+  <polygon points="110,330 130,330 130,310 110,310" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- angle theta arc at top vertex -->
+  <path d="M 110 150 A 40 40 0 0 0 135 175" fill="none" stroke="#e0a458" stroke-width="2"/>
+  <text x="158" y="152" font-family="sans-serif" font-size="16" fill="#a06030" font-weight="bold">&#952;</text>
+
+  <!-- side labels -->
+  <text x="44" y="246" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">hypotenuse</text>
+  <text x="220" y="352" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">adjacent</text>
+  <text x="118" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">opposite</text>
+
+  <!-- Ratios -->
+  <g font-family="sans-serif" font-size="16" fill="#222222">
+    <rect x="330" y="96" width="160" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="410" y="121" text-anchor="middle">sin &#952; = opp / hyp</text>
+    <rect x="330" y="146" width="160" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="410" y="171" text-anchor="middle">cos &#952; = adj / hyp</text>
+    <rect x="330" y="196" width="160" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="410" y="221" text-anchor="middle">tan &#952; = opp / adj</text>
+  </g>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Same angle &#8594; same ratios (similar triangles)</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The word &#8220;sine&#8221; traveled: Sanskrit jy&#257; &#8594; Arabic j&#299;ba &#8594; Latin sinus.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Worked: sin 30&#176; = 1/2, so in a triangle with hypotenuse 10, the opposite side is 5.</text>
+</svg>

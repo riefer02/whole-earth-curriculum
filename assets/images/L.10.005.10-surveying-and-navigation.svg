@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Surveying and Navigation with Right Triangles</title>
+  <desc id="desc">A person sighting a tall tree with a clinometer, showing the angle of elevation from eye height, the measured baseline distance, and the right triangle used to find the tree's height, with a second panel showing a bearing across a river.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Height by Elevation</text>
+
+  <!-- Ground -->
+  <line x1="30" y1="380" x2="320" y2="380" stroke="#2b3a42" stroke-width="2"/>
+  <!-- Tree -->
+  <rect x="250" y="150" width="14" height="230" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="257" cy="140" r="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Person (simple, diverse, no face detail) -->
+  <circle cx="110" cy="332" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="102" y="346" width="16" height="34" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- Sight line to tree top -->
+  <line x1="110" y1="328" x2="257" y2="140" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <!-- horizontal eye line -->
+  <line x1="110" y1="328" x2="257" y2="328" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <!-- angle arc -->
+  <path d="M 150 328 A 40 40 0 0 0 170 302" fill="none" stroke="#e0a458" stroke-width="2"/>
+  <text x="170" y="320" font-family="sans-serif" font-size="14" fill="#a06030" font-weight="bold">&#952;</text>
+
+  <!-- baseline label -->
+  <text x="176" y="404" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">baseline d</text>
+  <line x1="120" y1="384" x2="247" y2="384" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="120" y1="378" x2="120" y2="390" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="247" y1="378" x2="247" y2="390" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <text x="168" y="180" font-family="sans-serif" font-size="13" fill="#222222">height = d &#183; tan &#952; + eye height</text>
+
+  <!-- River panel -->
+  <text x="398" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Across a gap</text>
+  <path d="M 330 320 C 350 300, 380 300, 400 320 C 420 340, 450 340, 470 320 L 470 380 L 330 380 Z" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="400" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">river</text>
+  <line x1="330" y1="360" x2="470" y2="300" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <text x="410" y="296" font-family="sans-serif" font-size="12" fill="#a06030" font-weight="bold">&#952;</text>
+  <text x="336" y="404" font-family="sans-serif" font-size="13" fill="#222222">width = baseline &#183; tan &#952;</text>
+  <text x="336" y="424" font-family="sans-serif" font-size="13" fill="#222222">check: a&#178; + b&#178; = c&#178;</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Every height, gap, and bearing is a right triangle: name two knowns, choose the relation, solve, and check a second way.</text>
+</svg>

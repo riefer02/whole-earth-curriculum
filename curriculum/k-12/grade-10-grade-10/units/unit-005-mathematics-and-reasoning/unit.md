@@ -73,3 +73,17 @@ traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.10.005.01 | Exponents and the Power Rules | D05.S1.10.01 |
+| L.10.005.02 | Roots, Rational Exponents, and the Numbers In Between | D05.S1.10.01 |
+| L.10.005.03 | Exponential Growth and Decay: Base and Rate | D05.S1.10.01 |
+| L.10.005.04 | Complex Numbers: Why New Numbers Arise | D05.S1.10.02 |
+| L.10.005.05 | Polynomial Functions: Shape and Key Features | D05.S2.10.01 |
+| L.10.005.06 | Rational Functions: Ratios That Model Rates | D05.S2.10.01 |
+| L.10.005.07 | Exponential Functions and Their Features | D05.S2.10.02 |
+| L.10.005.08 | Modeling Growth and Decay: Population, Finance, Environment | D05.S2.10.02 |
+| L.10.005.09 | Trigonometric Ratios from Similar Triangles | D05.S3.10.01 |
+| L.10.005.10 | Surveying and Navigation with Right Triangles | D05.S3.10.01 |
+| L.10.005.11 | Circles and Coordinate Geometry | D05.S3.10.02 |
+| L.10.005.12 | Probability Rules and Compound Events | D05.S4.10.02 |
+| L.10.005.13 | Independence and Conditional Probability: Reading Screening Tests | D05.S4.10.01 |
+| L.10.005.14 | Expected Value: Reading Risk and Decisions | D05.S4.10.02 |

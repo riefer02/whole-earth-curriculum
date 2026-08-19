@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Expected Value: Reading Risk and Decisions</title>
+  <desc id="desc">A diagram showing expected value as a weighted average: a set of outcomes each with a probability and a payoff, multiplied and summed into a single number, with a fair-game and an unfair-game example side by side.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Expected Value: The Weighted Average</text>
+
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">E = &#8721; p(x) &#183; x &#160;&#160;(each outcome &#215; its chance, then add)</text>
+
+  <!-- Fair game -->
+  <text x="128" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">A game</text>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <rect x="40" y="110" width="176" height="36" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="128" y="133" text-anchor="middle">win 10 with p = 1/4</text>
+    <rect x="40" y="152" width="176" height="36" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="128" y="175" text-anchor="middle">win 0 with p = 3/4</text>
+    <rect x="40" y="194" width="176" height="44" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+    <text x="128" y="214" text-anchor="middle" font-size="13">E = (1/4)(10) + (3/4)(0)</text>
+    <text x="128" y="230" text-anchor="middle" font-size="15" font-weight="bold">E = 2.5</text>
+  </g>
+
+  <!-- Lottery -->
+  <text x="384" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">A lottery ticket (price 5)</text>
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <rect x="296" y="110" width="176" height="36" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="384" y="133" text-anchor="middle">1,000 with p = 1/1000</text>
+    <rect x="296" y="152" width="176" height="36" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="384" y="175" text-anchor="middle">0 with p = 999/1000</text>
+    <rect x="296" y="194" width="176" height="44" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>
+    <text x="384" y="214" text-anchor="middle" font-size="13">E = (1/1000)(1000) + 0</text>
+    <text x="384" y="230" text-anchor="middle" font-size="15" font-weight="bold">E = 1 (&#60; 5 price)</text>
+  </g>
+
+  <!-- Decision line -->
+  <line x1="60" y1="300" x2="452" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="452,300 440,295 440,305" fill="#2b3a42"/>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">place each option on the line to compare</text>
+  <circle cx="200" cy="300" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="200" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">game E = 2.5</text>
+  <circle cx="330" cy="300" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="330" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">lottery E = 1</text>
+
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The number informs judgment; it does not replace it.</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Who can bear the loss changes what &#8220;fair&#8221; means.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Insurance can be wise even when its expected value is negative &#8212; avoiding ruin is worth paying for.</text>
+</svg>

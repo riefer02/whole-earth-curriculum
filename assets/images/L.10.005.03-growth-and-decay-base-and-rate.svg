@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Exponential Growth and Decay: Base and Rate</title>
+  <desc id="desc">A paired diagram of exponential growth (a doubling sequence shown as a rising curve) and exponential decay (a halving sequence shown as a falling curve), with the growth factor b equals 1 plus r and decay factor b equals 1 minus r labeled.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Growth and Decay: Base and Rate</text>
+
+  <!-- Growth panel -->
+  <text x="128" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Growth (doubling)</text>
+  <!-- axes -->
+  <line x1="36" y1="360" x2="220" y2="360" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="36" y1="360" x2="36" y2="110" stroke="#2b3a42" stroke-width="2"/>
+  <!-- bars -->
+  <rect x="48" y="340" width="24" height="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="84" y="320" width="24" height="40" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="120" y="280" width="24" height="80" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="156" y="200" width="24" height="160" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="60" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1</text>
+  <text x="96" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">2</text>
+  <text x="132" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">4</text>
+  <text x="168" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">8</text>
+  <text x="128" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">&#215;2 each step &#8594; factor b = 2</text>
+  <text x="128" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">growth factor b = 1 + r</text>
+
+  <!-- Decay panel -->
+  <text x="384" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Decay (halving)</text>
+  <line x1="292" y1="360" x2="476" y2="360" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="292" y1="360" x2="292" y2="110" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="304" y="140" width="24" height="220" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="340" y="250" width="24" height="110" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="376" y="305" width="24" height="55" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="412" y="332" width="24" height="28" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="316" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1</text>
+  <text x="352" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1/2</text>
+  <text x="388" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1/4</text>
+  <text x="424" y="378" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1/8</text>
+  <text x="384" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">&#215;1/2 each step &#8594; half-life</text>
+  <text x="384" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">decay factor b = 1 &#8722; r</text>
+
+  <!-- Backward note -->
+  <rect x="120" y="440" width="272" height="44" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Solve backward with roots: b&#179; = 8 &#8658; b = &#8731;8 = 2</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">&#189;&#8319; = 1/16 &#8658; n = 4 steps</text>
+</svg>

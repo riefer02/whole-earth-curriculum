@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Exponents and the Power Rules</title>
+  <desc id="desc">A diagram showing paper folds doubling layers (1, 2, 4, 8) written as powers of 2, beside the five power rules with a worked example for each.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Power Rules</text>
+
+  <!-- Paper-fold doubling (left panel) -->
+  <text x="120" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Folding paper</text>
+  <!-- Fold 0 -->
+  <rect x="40" y="84" width="150" height="100" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="115" y="200" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">1 layer = 2&#8319;</text>
+  <text x="115" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(n = 0 folds)</text>
+  <!-- Fold 1 -->
+  <rect x="40" y="238" width="150" height="50" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="115" y1="238" x2="115" y2="288" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="115" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2 layers = 2&#185;</text>
+  <!-- Fold 2 -->
+  <rect x="40" y="322" width="150" height="50" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="115" y1="322" x2="115" y2="372" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="40" y1="347" x2="190" y2="347" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="115" y="388" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">4 layers = 2&#178;</text>
+  <!-- Fold 3 -->
+  <rect x="40" y="406" width="150" height="50" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="115" y1="406" x2="115" y2="456" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="40" y1="431" x2="190" y2="431" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="77" y1="406" x2="77" y2="456" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="152" y1="406" x2="152" y2="456" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="115" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">8 layers = 2&#179;</text>
+
+  <!-- Right panel: rules -->
+  <g font-family="sans-serif" font-size="14" fill="#222222">
+    <text x="300" y="70" font-size="15" fill="#4f6d7a" font-weight="bold">Five rules (worked)</text>
+    <text x="260" y="100">Product: x&#7491; &#183; x&#7495; = x&#7491;&#8314;&#7495;</text>
+    <text x="300" y="120" font-size="12" fill="#4f6d7a">x&#179; &#183; x&#8308; = x&#8311;</text>
+    <text x="260" y="152">Quotient: x&#7491; &#247; x&#7495; = x&#7491;&#8315;&#7495;</text>
+    <text x="300" y="172" font-size="12" fill="#4f6d7a">x&#8309; &#247; x&#178; = x&#179;</text>
+    <text x="260" y="204">Power: (x&#7491;)&#7495; = x&#7491;&#7495;</text>
+    <text x="300" y="224" font-size="12" fill="#4f6d7a">(x&#178;)&#179; = x&#8310;</text>
+    <text x="260" y="256">Zero: x&#8304; = 1 &#160;(x &#8800; 0)</text>
+    <text x="260" y="288">Negative: x&#8315;&#8319; = 1 / x&#8319;</text>
+    <text x="300" y="308" font-size="12" fill="#4f6d7a">x&#8315;&#178; = 1 / x&#178;</text>
+  </g>
+
+  <!-- Footer note -->
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">Each rule is a shortcut you can see by writing out the factors.</text>
+</svg>

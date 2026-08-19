@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rational Functions: Ratios That Model Rates</title>
+  <desc id="desc">A rational function graph with a dashed vertical asymptote where the denominator is zero and a dashed horizontal asymptote, beside a small table showing cost per person shrinking as the number of people grows.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Rational Function: f(x) = (x+1)/(x&#8722;2)</text>
+
+  <!-- Axes -->
+  <line x1="60" y1="300" x2="340" y2="300" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="140" y1="60" x2="140" y2="460" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="340,300 328,295 328,305" fill="#2b3a42"/>
+  <polygon points="140,60 135,72 145,72" fill="#2b3a42"/>
+
+  <!-- vertical asymptote x = 2 -> at x = 240 (center 140 = x0, scale 50/unit) -->
+  <line x1="240" y1="60" x2="240" y2="460" stroke="#e0a458" stroke-width="2" stroke-dasharray="6,5"/>
+  <text x="244" y="78" font-family="sans-serif" font-size="13" fill="#a06030" font-weight="bold">x = 2 (vertical asymptote)</text>
+
+  <!-- horizontal asymptote y = 1 -> y = 250 (y axis center 300, scale 50/unit: y=1 -> 250) -->
+  <line x1="60" y1="250" x2="340" y2="250" stroke="#6b93b6" stroke-width="2" stroke-dasharray="6,5"/>
+  <text x="70" y="244" font-family="sans-serif" font-size="13" fill="#3a5a72" font-weight="bold">y = 1 (horizontal)</text>
+
+  <!-- hyperbola branches -->
+  <path d="M 240 300 L 260 400 C 265 430, 275 450, 300 470" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M 340 250 L 320 252 C 300 254, 270 258, 252 264 L 240 300" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M 60 250 L 90 252 C 120 255, 150 260, 180 268 C 210 278, 225 290, 235 300" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- Cost table (right) -->
+  <text x="420" y="80" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Cost per person</text>
+  <g font-family="sans-serif" font-size="13" fill="#222222">
+    <rect x="368" y="96" width="104" height="26" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="420" y="114" text-anchor="middle">n people &#8594; 100/n</text>
+    <rect x="368" y="126" width="104" height="24" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="420" y="143" text-anchor="middle">n=1 &#8594; 100</text>
+    <rect x="368" y="154" width="104" height="24" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="420" y="171" text-anchor="middle">n=5 &#8594; 20</text>
+    <rect x="368" y="182" width="104" height="24" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="420" y="199" text-anchor="middle">n=100 &#8594; 1</text>
+    <rect x="368" y="210" width="104" height="24" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="420" y="227" text-anchor="middle">n&#8594;&#8734; &#8594; 0</text>
+  </g>
+  <text x="420" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">share shrinks toward 0,</text>
+  <text x="420" y="268" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">never quite zero.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Vertical asymptote: denominator = 0. Horizontal asymptote: the ratio's long-run value.</text>
+</svg>

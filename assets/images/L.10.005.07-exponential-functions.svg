@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Exponential Functions and Their Features</title>
+  <desc id="desc">A graph comparing a straight linear line (steady addition) with a rising exponential curve (steady multiplication) from the same starting value, with the exponential function y equals a times b to the x labeled with initial value a and growth factor b.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Linear vs. Exponential</text>
+
+  <!-- Axes -->
+  <line x1="60" y1="380" x2="470" y2="380" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="60" y1="380" x2="60" y2="60" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="470,380 458,375 458,385" fill="#2b3a42"/>
+  <polygon points="60,60 55,72 65,72" fill="#2b3a42"/>
+
+  <!-- Linear line: y = a + m x (steady add) -->
+  <line x1="60" y1="356" x2="460" y2="120" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="340" y="200" font-family="sans-serif" font-size="13" fill="#3a5a72" font-weight="bold">linear (add a fixed amount)</text>
+
+  <!-- Exponential curve: y = a * b^x (steady multiply) -->
+  <path d="M 60 356 C 120 350, 200 330, 280 280 C 340 240, 400 170, 452 80"
+        fill="none" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="260" y="160" font-family="sans-serif" font-size="13" fill="#a06030" font-weight="bold">exponential (multiply by a fixed factor)</text>
+
+  <!-- initial value point -->
+  <circle cx="60" cy="356" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="90" y="368" font-family="sans-serif" font-size="13" fill="#222222">initial value a (y-intercept)</text>
+
+  <!-- labels -->
+  <text x="452" y="300" font-family="sans-serif" font-size="14" fill="#222222">y = a &#183; b&#739;</text>
+  <text x="120" y="100" font-family="sans-serif" font-size="13" fill="#4f6d7a">growth factor b = 1 + r</text>
+  <text x="120" y="118" font-family="sans-serif" font-size="13" fill="#4f6d7a">growth rate r = b &#8722; 1</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Same start; the exponential grows on its own growth and pulls away. The base, not the start, sets the speed.</text>
+</svg>
