@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Design trade-offs among cost, safety, access, and environment</title>
+  <desc id="desc">A diagram with a design choice at the center and four labeled corners — cost, safety, access, and environment — with a kerosene lamp and a solar lamp on either side, showing how improving one corner often costs another.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Design Trade-offs</text>
+
+  <!-- center choice -->
+  <ellipse cx="256" cy="232" rx="70" ry="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="227" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">a design</text>
+  <text x="256" y="245" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">choice</text>
+
+  <!-- four corners -->
+  <rect x="40" y="88" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="104" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">cost</text>
+  <path d="M168 120 L210 210" fill="none" stroke="#6b93b6" stroke-width="2"/>
+
+  <rect x="344" y="88" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="408" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">safety</text>
+  <path d="M344 120 L302 210" fill="none" stroke="#6b93b6" stroke-width="2"/>
+
+  <rect x="40" y="344" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="104" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">access</text>
+  <path d="M168 372 L210 270" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+
+  <rect x="344" y="344" width="128" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="408" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">environment</text>
+  <path d="M344 372 L302 270" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+
+  <!-- kerosene lamp -->
+  <g>
+    <rect x="88" y="470" width="40" height="8" rx="2" fill="#2b3a42"/>
+    <path d="M96 470 L100 448 L116 448 L120 470 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M108 448 L108 440" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M104 436 q4 -10 0 -16 q-4 -6 0 -14" fill="none" stroke="#e0a458" stroke-width="3"/>
+  </g>
+  <text x="108" y="496" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">kerosene</text>
+  <text x="108" y="510" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">cheap · smoky</text>
+
+  <!-- solar lamp -->
+  <g>
+    <rect x="352" y="470" width="40" height="8" rx="2" fill="#2b3a42"/>
+    <rect x="360" y="452" width="24" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M366 452 L366 446 M372 452 L372 446 M378 452 L378 446" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="372" cy="440" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+  <text x="372" y="496" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">solar</text>
+  <text x="372" y="510" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">clean · costly</text>
+
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">you can have one good — but it costs another</text>
+</svg>

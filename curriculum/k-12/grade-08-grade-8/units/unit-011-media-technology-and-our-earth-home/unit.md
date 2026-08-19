@@ -68,3 +68,13 @@ for caring for land or water, from any culture, and what makes it work.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Media, Technology & Our Earth Home: Where We've Been, Where We're Going | D10.S1.08.01, D10.S1.08.02 |
+| 02 | Who Benefits, Who Is Harmed: Weighing a Technology | D10.S1.08.01 |
+| 03 | Design Trade-offs: Cost, Safety, Access, Environment | D10.S1.08.02 |
+| 04 | Framed and Edited: How a Picture Changes Its Meaning | D10.S2.08.01 |
+| 05 | Deepfakes and Altered Video: Is It Real? | D10.S2.08.02 |
+| 06 | Disturbance and Recovery: How Ecosystems Bounce Back | D10.S3.08.01 |
+| 07 | Biomes and Adaptation: Living Fit to a Place | D10.S3.08.02 |
+| 08 | Sustainability: Meeting Today's Needs Without Robbing Tomorrow | D10.S4.08.01 |
+| 09 | Caring for Land and Water: Stewardship Practices Across Cultures | D10.S4.08.02 |
+| 10 | Capstone: Media, Technology & Our Earth Home — Putting It Together | all eight D10 grade-8 objectives |

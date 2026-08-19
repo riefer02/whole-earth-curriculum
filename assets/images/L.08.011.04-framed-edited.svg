@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Framed and edited: one scene, two meanings</title>
+  <desc id="desc">Two panels showing the same crowd scene. The left is tightly cropped to a small scuffle so it looks like a fight, captioned "violent riot." The right is a wide shot of a mostly peaceful crowd, captioned "peaceful gathering." The caption and crop change the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">One Scene, Two Meanings</text>
+
+  <!-- left tight crop -->
+  <rect x="24" y="70" width="220" height="280" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- two figures close together, arms raised -->
+  <circle cx="110" cy="190" r="16" fill="#c98d5f" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="98" y="208" width="26" height="40" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="98" y1="216" x2="82" y2="250" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="160" cy="190" r="16" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="148" y="208" width="26" height="40" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="174" y1="216" x2="190" y2="250" stroke="#2b3a42" stroke-width="3"/>
+  <text x="134" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">"violent riot"</text>
+  <text x="134" y="338" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">tight crop</text>
+
+  <!-- right wide shot -->
+  <rect x="268" y="70" width="220" height="280" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- many small peaceful figures -->
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.2">
+    <circle cx="300" cy="160" r="8"/><rect x="294" y="170" width="12" height="20" rx="3"/>
+    <circle cx="330" cy="150" r="8"/><rect x="324" y="160" width="12" height="20" rx="3"/>
+    <circle cx="362" cy="158" r="8"/><rect x="356" y="168" width="12" height="20" rx="3"/>
+    <circle cx="396" cy="152" r="8"/><rect x="390" y="162" width="12" height="20" rx="3"/>
+    <circle cx="428" cy="162" r="8"/><rect x="422" y="172" width="12" height="20" rx="3"/>
+    <circle cx="456" cy="154" r="8"/><rect x="450" y="164" width="12" height="20" rx="3"/>
+    <circle cx="310" cy="220" r="8"/><rect x="304" y="230" width="12" height="20" rx="3"/>
+    <circle cx="344" cy="224" r="8"/><rect x="338" y="234" width="12" height="20" rx="3"/>
+    <circle cx="382" cy="218" r="8"/><rect x="376" y="228" width="12" height="20" rx="3"/>
+    <circle cx="420" cy="226" r="8"/><rect x="414" y="236" width="12" height="20" rx="3"/>
+  </g>
+  <text x="378" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">"peaceful gathering"</text>
+  <text x="378" y="338" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">wide shot</text>
+
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">The crop and the caption change the story — not the pixels.</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Check: what is cropped out? what does the caption claim?</text>
+</svg>

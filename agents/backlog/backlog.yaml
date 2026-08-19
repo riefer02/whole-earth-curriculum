@@ -5063,7 +5063,7 @@ items:
     type: lesson
     grade: 8
     domain: D10
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -5075,6 +5075,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate green (1282 files). 10 lessons L.08.011.01-.10, sequence 1-10 no gaps; objectives resolve only to eight grade-8 D10 IDs (D10.S1-S4.08.01/.02); Procedure/Assessment/Connection present (L.08.011.05 deepfakes 'spot the seams'); unit.md Lessons table matches 10. scope.md edit is clean single-line 8->10 for U.08.011. 10 SVGs well-formed + alt. Highest-risk L.08.011.02 cobalt/child-labour (S-397/S-398) age-appropriate non-graphic. 28 S-codes resolve.
+      fact-checker:
+        verdict: passed
+        note: "Verified 6 new sources S-393-S-398, fixed 4 broken URLs: First Draft (dead org -> archived Essentials guide), Brundtland (-> Swiss ARE copy), NatGeo Biome (404 -> /resource/biomes/), Amnesty cobalt (wrong path -> /latest/news/). WITNESS deepfakes live. Marked all reviewed:true. High-risk claims accurate+hedged (deepfakes, succession/resilience, biome adaptations, Brundtland definition, cobalt 'sometimes'). Fixed overstated Yellowstone 'changed the rivers' -> reduced elk browsing/trophic cascade; corrected in-lesson URLs L.02/.05/.07. 10 SVGs valid. validate green (1282 files)."
+      global-culture-editor:
+        verdict: passed
+        note: Global framing, no US/Euro default. Tech examples avoid wealthy baseline (M-Pesa farmer, off-grid lighting Nairobi-to-Himalayas). L9 stewardship multi-region + anti-tokenization (Aboriginal cultural burning, Andean terracing, Maori kaitiakitanga cited, 'living practices never museum specimen', justice-not-charity). E-waste/cobalt doesn't blame Global South (miner as harmed stakeholder). Biomes globally diverse with 'no place's people are behind any other'. SVG figures varied skin tones/ages. validate green (1282 files). No fixes.
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier all 10; alt text + role=img/title/desc on 10 SVGs, no color-only. Fixes: corrected L.08.011.05 alt/desc ('five checks'->actual four: look/trace/verify/ask); added Access(non-visual) + low-tech to L4/L5 (verbal event framing, audio-only voice-clone checking, sight-free trace/verify); verbal/tactile alternatives for L6 disturbance timeline + L7 biome comparison; L10 non-visual capture (spoken sentence + tactile symbol). validate green (1282 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: 10 lessons resolve objectives only to eight grade-8 D10 IDs (D10.S1-S4.08.01/.02); chain D10->P4->vision intact; pillar P4 consistent. Four lenses present (ethics as moral reasoning throughout; egalitarianism who-benefits L2/L3/L7-L10; global L2/L3/L7/L9; tech&environment core). Evidence vs values: 27 S-codes resolve + facts separated from norms (philosophy 5/11). Non-dogmatic. validate green (1282 files). No fixes."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: worked-example-first + sentence starters + graphic organizers match 6-8 band. Deepfakes/altered media framed 'evaluated not feared' ('I'm not sure yet' is strong honest answer), non-graphic, agency-affirming. Cobalt child-labour L2 factual+non-graphic+humanized via miner case card -> weighing skill + ethics. Sustainability L8 as 'a balance you can check not a feeling' + one small change. Environmental L6-L8 held with agency/hope not eco-anxiety (disturbance = change, not the end). Multi-modal + spiral. validate green (1282 files). Non-blocking: L5 notes deepfakes target 'especially women' (balanced by reassurance); Amnesty report title only in Resources not learner body."
   - id: B-370
     title: Author lessons for Unit U.08.012 (All of Me, All of Us)
     agent: lesson-author

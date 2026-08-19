@@ -114,7 +114,7 @@ units:
     pillar: [P4]
     start_day: 162
     end_day: 173
-    lesson_count: 8
+    lesson_count: 10
   - unit_id: U.08.012
     title: "All of Me, All of Us"
     domain: [D01, D02]

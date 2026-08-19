@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Who benefits, who is harmed: weighing a technology</title>
+  <desc id="desc">A balance scale with benefits on one pan and harms on the other, and small labeled figures of different people — a farmer, a worker, an elder, a child, and a miner — arranged around it, showing that the same technology helps some and burdens others.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Who Benefits, Who Is Harmed?</text>
+
+  <!-- balance scale -->
+  <line x1="256" y1="92" x2="256" y2="180" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="150" y1="180" x2="362" y2="180" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M150 180 L150 200" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M362 180 L362 200" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M126 200 A 30 26 0 0 0 186 200 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M338 200 A 30 26 0 0 0 398 200 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="156" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">benefits</text>
+  <text x="368" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">harms</text>
+  <polygon points="256,60 248,92 264,92" fill="#2b3a42"/>
+
+  <!-- figures -->
+  <g font-family="sans-serif" font-size="11.5" fill="#222222" text-anchor="middle">
+    <circle cx="96" cy="280" r="12" fill="#8a5a3b" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="84" y="294" width="24" height="30" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="96" y="344">farmer</text>
+
+    <circle cx="192" cy="312" r="12" fill="#c98d5f" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="180" y="326" width="24" height="30" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="192" y="376">worker</text>
+
+    <circle cx="320" cy="280" r="12" fill="#6b4f3a" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="308" y="294" width="24" height="30" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="320" y="344">elder</text>
+
+    <circle cx="416" cy="312" r="12" fill="#d9a066" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="404" y="326" width="24" height="30" rx="6" fill="#c9b6a4" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="416" y="376">child</text>
+
+    <circle cx="256" cy="440" r="12" fill="#7c5a40" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="244" y="454" width="24" height="30" rx="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="256" y="502">miner</text>
+  </g>
+
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one phone, many outcomes</text>
+</svg>

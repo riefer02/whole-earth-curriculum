@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit map: media, technology, and our Earth home</title>
+  <desc id="desc">A map of the unit with four strands — technology and society, media and information literacy, ecology and environmental systems, and sustainability and stewardship — each with two short goals, connected by the words media, technology, and Earth home.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Media · Technology · Our Earth Home</text>
+
+  <!-- center hub -->
+  <ellipse cx="256" cy="256" rx="78" ry="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">weigh · check</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">· care</text>
+
+  <!-- S1 Technology & Society -->
+  <rect x="40" y="66" width="150" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="115" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Technology &amp; Society</text>
+  <text x="115" y="112" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">1. weigh benefits &amp; harms</text>
+  <text x="115" y="130" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">2. design trade-offs</text>
+  <path d="M150 114 L190 210" fill="none" stroke="#6b93b6" stroke-width="2"/>
+
+  <!-- S2 Media & Information Literacy -->
+  <rect x="322" y="66" width="150" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="397" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Media Literacy</text>
+  <text x="397" y="112" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">3. framed &amp; edited</text>
+  <text x="397" y="130" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">4. deepfakes</text>
+  <path d="M362 114 L322 210" fill="none" stroke="#6b93b6" stroke-width="2"/>
+
+  <!-- S3 Ecology & Environmental Systems -->
+  <rect x="40" y="350" width="150" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="115" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Ecology</text>
+  <text x="115" y="396" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">5. resilience</text>
+  <text x="115" y="414" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">6. biomes &amp; adaptation</text>
+  <path d="M150 398 L190 302" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+
+  <!-- S4 Sustainability & Stewardship -->
+  <rect x="322" y="350" width="150" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="397" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Stewardship</text>
+  <text x="397" y="396" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">7. sustainability</text>
+  <text x="397" y="414" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">8. caring for land &amp; water</text>
+  <path d="M362 398 L322 302" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">One story: how humans live together on a shared home.</text>
+</svg>

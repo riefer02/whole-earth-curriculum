@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Disturbance and recovery: a forest after fire</title>
+  <desc id="desc">A three-panel timeline of a forest after fire. The first panel shows flames, the second shows green sprouts and seeds returning, and the third shows a fuller forest with animals, with arrows labeled disturbance, succession, and recovery.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">A Forest After Fire</text>
+
+  <!-- panel 1: fire -->
+  <rect x="20" y="80" width="140" height="240" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="20" y="250" width="140" height="70" fill="#7a9e7e"/>
+  <line x1="60" y1="250" x2="58" y2="200" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="100" y1="250" x2="102" y2="196" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M52 200 q8 -14 0 -28 q-8 -14 0 -28" fill="none" stroke="#e0a458" stroke-width="4"/>
+  <path d="M96 196 q8 -14 0 -28 q-8 -14 0 -28" fill="none" stroke="#e0a458" stroke-width="4"/>
+  <text x="90" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">disturbance</text>
+  <text x="90" y="316" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">fire clears old growth</text>
+
+  <!-- arrow -->
+  <path d="M164 200 L192 200" stroke="#2b3a42" stroke-width="3" marker-end="url(#a1)"/>
+
+  <!-- panel 2: sprouts -->
+  <rect x="196" y="80" width="140" height="240" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="196" y="250" width="140" height="70" fill="#7a9e7e"/>
+  <path d="M230 250 q4 -20 0 -40 M250 250 q4 -24 0 -48 M270 250 q4 -16 0 -32" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <ellipse cx="230" cy="206" rx="7" ry="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <ellipse cx="250" cy="198" rx="7" ry="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <ellipse cx="270" cy="212" rx="7" ry="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="266" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">succession</text>
+  <text x="266" y="316" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">seeds &amp; roots sprout</text>
+
+  <!-- arrow -->
+  <path d="M340 200 L368 200" stroke="#2b3a42" stroke-width="3" marker-end="url(#a1)"/>
+
+  <!-- panel 3: recovery -->
+  <rect x="372" y="80" width="120" height="240" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="372" y="250" width="120" height="70" fill="#7a9e7e"/>
+  <path d="M392 250 q4 -30 0 -60 M414 250 q4 -34 0 -68 M436 250 q4 -26 0 -52" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="392" cy="180" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="414" cy="172" r="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="436" cy="188" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="452" cy="230" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="432" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">recovery</text>
+  <text x="432" y="316" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">life returns</text>
+
+  <defs>
+    <marker id="a1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Resilience = the power to recover.</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">What helps: surviving seeds and roots, returning species, nearby healthy land.</text>
+</svg>

@@ -3654,3 +3654,59 @@ sources:
     domains: [D09]
     reviewed: true
     notes: "Cited in Grade-8 lesson L.08.010.09 (Peace and Reconciliation After Conflict) for the claim that South Africa's Truth and Reconciliation Commission (1996–1998), established after apartheid, invited public testimony about past abuses and, in defined cases, offered amnesty in exchange for full disclosure, alongside reparations — a real, documented, and contested attempt to trade some punishment for truth and repair. The Britannica article documents the TRC; the lesson presents it as one attempt with real strengths and limits. Fact-checker verified (2026-08-18): britannica.com returns HTTP 403 to automated clients, but the URL is canonical and resolves (confirmed via Wayback Machine captures with 200 status). Article text confirms: the TRC was 'a courtlike body established by the new South African government in 1995' under the Promotion of National Unity and Reconciliation Act 34 of 1995, chaired by Archbishop Desmond Tutu; its emphasis was on 'gathering evidence and uncovering information — from both victims and perpetrators — and not on prosecuting individuals for past crimes'; it received 'more than 22,000 statements from victims,' held public hearings at which victims testified, granted '1,500 amnesties' in exchange for full disclosure (Amnesty Committee), and included a Reparations and Rehabilitation Committee (reparations policy). The lesson's '(1996–1998)' is the standard shorthand for the TRC's main public-hearing/truth-telling period (the Human Rights Violations Committee's public hearings ran 1996–1998); Britannica's own date field spans 1995–2003 (establishment to final report). The 'contested / real strengths and limits' framing is accurate and appropriately hedged."
+
+  - id: S-393
+    title: "WITNESS Media Lab — Prepare, Don't Panic: Synthetic Media and Deepfakes"
+    type: website
+    url: https://lab.witness.org/projects/synthetic-media-and-deep-fakes/
+    organization: WITNESS Media Lab
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.011.05 (Deepfakes and Altered Video) to define synthetic media and support the checking approach (look for unnatural edges/blinking/lighting; trace who posted it and where it first appeared; verify against independent reporting). WITNESS is a human-rights organization focused on video and technology. Fact-checker verified (2026-08-19): URL returns HTTP 200. The page 'Prepare, Don't Panic: Synthetic Media and Deepfakes' confirms deepfakes are AI-generated 'synthetic media,' citing 'face-swaps and deceptive audio' and 'facial reenactment,' and frames the response as preparedness rather than panic — matching the lesson's 'evaluated, not feared' framing. The page stresses provenance, detection infrastructure, and media literacy over eyeballing pixels (reflected in the lesson's 'trace' and 'verify' steps); the 'look for edges/blinking/lighting' heuristic is standard age-appropriate media-literacy guidance, and the lesson correctly warns against expecting anyone to be a 'perfect human detector.'"
+
+  - id: S-394
+    title: "First Draft — Verifying Online Information: The Absolute Essentials (2019; archived)"
+    type: website
+    url: https://web.archive.org/web/2019/https://firstdraftnews.org/latest/verifying-online-information-the-absolute-essentials/
+    organization: First Draft
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.011.05 for the verification habit — reverse image search, tracing a piece of media to its original source, and checking claims against independent reporting (lateral reading). First Draft was a nonprofit research-and-training network on mis- and disinformation. Fact-checker verified (2026-08-19): First Draft ceased operations in June 2022, and the live site (firstdraftnews.org) now returns HTTP 502, so the citation is preserved via the Internet Archive. The archived guide URL returns HTTP 200 (archived page title 'Verifying online information: The absolute essentials'), and the guide covers the verification essentials the lesson attributes to it."
+
+  - id: S-395
+    title: "World Commission on Environment and Development (1987) — Our Common Future (Brundtland Report)"
+    type: report
+    url: https://www.are.admin.ch/are/en/home/media/publications/sustainable-development/brundtland-report.html
+    organization: World Commission on Environment and Development (United Nations)
+    year: 1987
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.011.08 (Sustainability) as the canonical source of the definition of sustainable development — meeting 'the needs of the present without compromising the ability of future generations to meet their own needs.' This is the widely accepted origin of the definition the lesson teaches. Fact-checker verified (2026-08-19): the previously registered UN PDF (sustainabledevelopment.un.org/content/documents/5987our-common-future.pdf) now redirects to the SDGs homepage (sdgs.un.org) and no longer serves the PDF, so the URL was updated to the Swiss Federal Office for Spatial Development (ARE) copy of the 1987 Brundtland Report ('Our Common Future'), which returns HTTP 200 and quotes the exact definition verbatim ('…future generations to meet their own needs.')."
+
+  - id: S-396
+    title: "National Geographic Education — Biome"
+    type: website
+    url: https://education.nationalgeographic.org/resource/biomes/
+    organization: National Geographic Society
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.011.07 (Biomes and Adaptation) for the definition of a biome — a large region with a characteristic climate and community of life — and for the point that similar biomes occur across continents, so similar adaptations appear in similar climates worldwide. Fact-checker verified (2026-08-19): the previously registered singular URL (/resource/biome/) returns HTTP 404; the correct live URL is the plural '/resource/biomes/' (HTTP 200). The page defines a biome as 'an area of the planet that can be classified according to the plants and animals that live in it,' states that temperature, soil, and the amount of light and water determine what life exists in a biome, notes that classification schemes vary (from as few as two to more than a dozen biomes), and that biomes move as climate changes. This supports the lesson's definition and its point that biome types repeat across climate zones and continents."
+
+  - id: S-397
+    title: "WHO — Electronic waste (e-waste) fact sheet"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/electronic-waste-%28e-waste%29
+    organization: World Health Organization
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.011.02 (Who Benefits, Who Is Harmed) for the claim that discarded electronics (e-waste) are hazardous when improperly dumped or recycled — one real harm of the mobile phone's life cycle. Fact-checker verified (2026-08-19): URL returns HTTP 200. The WHO fact sheet (dated 1 Oct 2024) confirms e-waste is one of the fastest-growing solid waste streams; that unsound recycling and dumping can release up to 1000 chemical substances including known neurotoxicants (lead, mercury, dioxins); and that children and pregnant women are especially vulnerable. It also documents child labour in informal e-waste recycling. The lesson's brief, hedged claim ('discarded phones become e-waste, toxic when dumped') is fully supported; no specific numeric figures are asserted in the lesson text."
+
+  - id: S-398
+    title: "Amnesty International (2016) — This Is What We Die For: Human Rights Abuses in the Democratic Republic of the Congo Power the Global Trade in Cobalt"
+    type: report
+    url: https://www.amnesty.org/en/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/
+    organization: Amnesty International
+    year: 2016
+    domains: [D10]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.011.02 (Who Benefits, Who Is Harmed) for the claim that the minerals inside phones, such as cobalt, are sometimes mined in conditions that harm and exploit workers, including children — one real harm borne far from the user, a key point for the egalitarian lens. Amnesty's 2016 report 'This Is What We Die For' documents child labour and human rights abuses in cobalt mining in the DRC. Fact-checker verified (2026-08-19): the previously registered URL used '/latest/research/2016/01/…'; the correct path is '/latest/news/2016/01/child-labour-behind-smart-phone-and-electric-car-batteries/'. Amnesty.org returns HTTP 403 to automated clients (bot protection), but the URL is real and corroborated by multiple Internet Archive captures (HTTP 200, January 2016; archived page title 'Child labour behind smart phone and electric car batteries | Amnesty International'). The lesson presents this briefly and age-appropriately (no graphic detail) and hedges with 'sometimes,' which is accurate."

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Capstone web: weigh, check, care</title>
+  <desc id="desc">A web diagram with weigh, check, and care at the center and eight spokes — weigh benefits and harms, design trade-offs, framed and edited media, deepfakes, ecosystem resilience, biomes and adaptation, sustainability, and stewardship — each labeled with a short reminder.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Media · Technology · Our Earth Home</text>
+
+  <!-- spokes -->
+  <g stroke="#6b93b6" stroke-width="1.5">
+    <line x1="256" y1="256" x2="256" y2="90"/>
+    <line x1="256" y1="256" x2="376" y2="122"/>
+    <line x1="256" y1="256" x2="412" y2="256"/>
+    <line x1="256" y1="256" x2="376" y2="390"/>
+    <line x1="256" y1="256" x2="256" y2="422"/>
+    <line x1="256" y1="256" x2="136" y2="390"/>
+    <line x1="256" y1="256" x2="100" y2="256"/>
+    <line x1="256" y1="256" x2="136" y2="122"/>
+  </g>
+
+  <!-- center -->
+  <ellipse cx="256" cy="256" rx="66" ry="44" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="251" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">weigh</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">check · care</text>
+
+  <!-- eight nodes -->
+  <g text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">
+    <rect x="196" y="70" width="120" height="30" rx="7" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="256" y="89">weigh benefits &amp; harms</text>
+
+    <rect x="322" y="98" width="104" height="30" rx="7" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="374" y="117">design trade-offs</text>
+
+    <rect x="360" y="240" width="104" height="30" rx="7" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="412" y="259">framed &amp; edited</text>
+
+    <rect x="322" y="372" width="104" height="30" rx="7" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="374" y="391">deepfakes</text>
+
+    <rect x="196" y="404" width="120" height="30" rx="7" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="256" y="423">resilience</text>
+
+    <rect x="86" y="372" width="104" height="30" rx="7" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="138" y="391">biomes &amp; adaptation</text>
+
+    <rect x="48" y="240" width="104" height="30" rx="7" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="100" y="259">sustainability</text>
+
+    <rect x="86" y="98" width="104" height="30" rx="7" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="138" y="117">stewardship</text>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">You built a way of living — carry it with you.</text>
+</svg>
