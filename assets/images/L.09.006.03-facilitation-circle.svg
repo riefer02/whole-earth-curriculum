@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Leading a discussion that welcomes every voice</title>
+  <desc id="desc">A circle of diverse people seated around a facilitator in the center. Around the facilitator are four move cards: invite, echo, take turns, and disagree kindly, showing the tools of fair discussion leadership.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Leading a Fair Discussion</text>
+
+  <!-- seated figures around the circle -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#ffffff">
+    <circle cx="256" cy="330" r="34" fill="#7a9e7e"/>
+    <circle cx="256" cy="318" r="16" fill="#e0a458"/>
+    <rect x="248" y="360" width="16" height="28" rx="6"/>
+
+    <circle cx="140" cy="150" r="30" fill="#6b93b6"/>
+    <circle cx="140" cy="140" r="13" fill="#e0a458"/>
+
+    <circle cx="372" cy="150" r="30" fill="#e0a458"/>
+    <circle cx="372" cy="140" r="13" fill="#7a9e7e"/>
+
+    <circle cx="110" cy="250" r="30" fill="#4f6d7a"/>
+    <circle cx="110" cy="240" r="13" fill="#6b93b6"/>
+
+    <circle cx="402" cy="250" r="30" fill="#7a9e7e"/>
+    <circle cx="402" cy="240" r="13" fill="#4f6d7a"/>
+
+    <circle cx="200" cy="120" r="26" fill="#e0a458"/>
+    <circle cx="200" cy="112" r="12" fill="#4f6d7a"/>
+
+    <circle cx="312" cy="120" r="26" fill="#6b93b6"/>
+    <circle cx="312" cy="112" r="12" fill="#7a9e7e"/>
+  </g>
+
+  <!-- facilitator at center with four move cards -->
+  <circle cx="256" cy="330" r="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="318" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- move cards -->
+  <rect x="52" y="300" width="96" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">invite</text>
+  <text x="100" y="338" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">"who hasn't spoken?"</text>
+
+  <rect x="164" y="430" width="96" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="212" y="450" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">echo</text>
+  <text x="212" y="468" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">"so you're saying…"</text>
+
+  <rect x="364" y="430" width="96" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="450" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">take turns</text>
+  <text x="412" y="468" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">"one at a time"</text>
+
+  <rect x="364" y="300" width="96" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">disagree kindly</text>
+  <text x="412" y="338" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">"push the idea, not the person"</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">A facilitator does not win the talk — they make room for every voice</text>
+</svg>

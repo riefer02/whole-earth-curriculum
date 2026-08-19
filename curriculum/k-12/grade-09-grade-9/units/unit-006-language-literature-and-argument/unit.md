@@ -68,3 +68,15 @@ multilingualism held as wealth.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Language, Literature & Argument: Where We've Been, Where We're Going | D04.S1.09.01, D04.S1.09.02 |
+| 02 | Synthesizing Many Voices into One Account | D04.S1.09.01 |
+| 03 | Leading a Discussion That Welcomes Every Voice | D04.S1.09.02 |
+| 04 | Structure, Style & Argument: One Text Working Together | D04.S2.09.01 |
+| 05 | World Literature Gallery: Structure, Style & Argument Across Cultures | D04.S2.09.01 |
+| 06 | Synthesizing Across Texts: Many Views, One Position | D04.S2.09.02 |
+| 07 | Writing a Research-Supported Argument: Claim, Evidence, Citation | D04.S3.09.01 |
+| 08 | Weighing Conflicting Evidence | D04.S3.09.01 |
+| 09 | Composing for Real Audiences | D04.S3.09.02 |
+| 10 | My Languages, My Identity | D04.S4.09.01 |
+| 11 | Language Loss & Revitalization | D04.S4.09.02 |
+| 12 | Capstone: Synthesis & Authorship — Putting It Together | all eight D04 grade-9 objectives |

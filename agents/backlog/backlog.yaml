@@ -5248,7 +5248,7 @@ items:
     type: lesson
     grade: 9
     domain: D04
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5260,6 +5260,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1327 files). 12 lessons L.09.006.01-.12, sequence 1-12 no gaps; objectives resolve only to eight grade-9 D04 IDs (D04.S1-S4.09.01/.02); unit.md 12 rows matching; scope lesson_count=12; 12 SVGs + alt. Observation: L5 world-literature gallery genuinely global (Du Fu/Rumi/Neruda/Tagore/Joy Harjo/Sundiata, S-418-S-422/S-269); L11 language-loss claims (7000 living languages, 40% no own-language education) cite Ethnologue S-426/UNESCO S-019/Kimmerer S-427/Hinton S-428."
+      fact-checker:
+        verdict: passed
+        note: "Verified 12 new sources S-417-S-428 (Adichie TED 2009, Du Fu 712-770 Tang, Rumi c.1207-1273, Neruda Nobel 1971, Tagore Nobel 1913 first non-European, Harjo first Native US Poet Laureate 2019, Darwish, Ngugi, Anzaldua, Ethnologue 7000+ languages, Kimmerer, Hinton), marked reviewed:true. High-risk claims correct (Du Fu/Rumi/Neruda/Tagore/Sundiata, 7000 languages, UNESCO 40% verbatim, revitalization Maori kohanga reo 1982/Hawaiian Punana Leo 1984/Welsh/Hebrew). Fix: L10 'more than half world lives with more than one language' unsupported by S-019 -> replaced with accurate framing; removed duplicate synthesis vocab in L12. 12 SVGs valid. validate green (1327 files)."
+      global-culture-editor:
+        verdict: passed
+        note: L5 world-literature gallery multi-continent (Du Fu/Rumi/Neruda/Tagore/Harjo/Sundiata), written+oral, anti-tokenizing, translation not ranked below original. L3 discussion norms name cross-cultural turn-taking (talking stick/speaking circle/council elders-first), meta-facilitation not one culture's directness. L10 languages non-deficit (Ngugi/Anzaldua, multilingualism human norm, signed languages full). L11 language loss/revitalization non-deficit + justice-not-nostalgia (Maori/Hawaiian/Welsh/Hebrew + Kimmerer biocultural). No US/Euro default (Adichie anchor). validate green (1327 files). No fixes.
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier all 12; alt text on all 12; Differentiation covers non-speaking/AAC + Deaf/HoH (written/dictated/signed/pointed; literature as read-aloud/transcript/signed rendering; signed languages honored). 12 SVGs role=img/aria-labelledby/title/desc + text labels not color-only, grayscale-safe. Fix: darkened faded 'lost' label in L.09.006.11 SVG #8a8577->#6f6a5e (>=4.5:1). Plain language + home-language-first. validate green (1327 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: objectives resolve only to eight grade-9 D04 IDs (D04.S1-S4.09.01/.02); chain Vision->P3->D04->S1-S4. Four lenses now in all 12. Evidence vs values: S-417-S-428 + S-019/S-269/etc reviewed:true. Fixes: added tech&environment lens to L1-L6+L10, global lens to L8. validate green (1327 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: L7-L8 claim-reason-evidence-counterargument + four-criterion weighing match maturing formal operations, worked-example-first. L10 identity: home-language-first, multilingualism as wealth never deficit, monolingual honored, sharing optional. L11 language loss: colonization at 9-12 depth but paired with hope/agency (4 revitalization stories, 'loss is real; so is the power to bring a language home'), speakers as living rights-holders. L3 discussion: small circles, talking object, rotating facilitator, AAC/sign/written, real-but-not-explosive scenarios. Multi-modal + spiral. validate green (1327 files). No edits."
   - id: B-375
     title: Author lessons for Unit U.09.007 (Mathematics & Reasoning)
     agent: lesson-author

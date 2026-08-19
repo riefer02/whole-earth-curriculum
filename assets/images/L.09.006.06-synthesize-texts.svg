@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Synthesizing across multiple texts</title>
+  <desc id="desc">Three text cards on the left, each with a short idea, flow into a center column that collects shared ideas and tensions, which then forms one supported position on the right.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">From Several Texts to One Position</text>
+
+  <!-- three text cards -->
+  <rect x="28" y="80" width="150" height="90" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="103" y="106" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Text 1</text>
+  <text x="103" y="128" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">idea A</text>
+  <text x="103" y="146" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">+ one detail</text>
+
+  <rect x="28" y="192" width="150" height="90" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="103" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Text 2</text>
+  <text x="103" y="240" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">idea B</text>
+  <text x="103" y="258" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">+ one detail</text>
+
+  <rect x="28" y="304" width="150" height="90" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="103" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Text 3</text>
+  <text x="103" y="352" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">idea C</text>
+  <text x="103" y="370" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">+ one detail</text>
+
+  <!-- arrows -->
+  <path d="M178 125 C 210 125, 210 125, 232 125" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr3)"/>
+  <path d="M178 237 C 210 237, 210 237, 232 237" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr3)"/>
+  <path d="M178 349 C 210 349, 210 349, 232 349" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr3)"/>
+  <defs>
+    <marker id="arr3" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+
+  <!-- middle column -->
+  <rect x="236" y="110" width="130" height="150" rx="10" fill="#7a9e7e" fill-opacity="0.22" stroke="#2b3a42" stroke-width="2"/>
+  <text x="301" y="138" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">what they share</text>
+  <text x="301" y="160" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the overlap</text>
+  <text x="301" y="182" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">+</text>
+  <rect x="246" y="196" width="110" height="52" rx="8" fill="#e0a458" fill-opacity="0.25" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="301" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">the tension</text>
+  <text x="301" y="234" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">where they differ</text>
+
+  <!-- arrow to position -->
+  <path d="M366 237 L398 237" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr4)"/>
+  <defs>
+    <marker id="arr4" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- position -->
+  <rect x="402" y="120" width="90" height="234" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="447" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">my</text>
+  <text x="447" y="170" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">supported</text>
+  <text x="447" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">position</text>
+  <text x="447" y="222" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a claim</text>
+  <text x="447" y="244" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">built from</text>
+  <text x="447" y="266" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">several texts</text>
+  <text x="447" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">+ cited</text>
+  <text x="447" y="310" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">evidence</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Synthesis means putting several texts in conversation, then speaking for yourself</text>
+</svg>

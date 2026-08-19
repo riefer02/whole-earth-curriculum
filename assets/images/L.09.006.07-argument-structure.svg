@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Structure of a research-supported argument</title>
+  <desc id="desc">A five-step flow from claim to reason to evidence with citation, then to a response to a counterargument, ending in a supported conclusion. Each step is a labeled box with an arrow to the next.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Building a Research Argument</text>
+
+  <!-- step boxes -->
+  <rect x="46" y="76" width="196" height="66" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="144" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">1 · CLAIM</text>
+  <text x="144" y="122" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what I think, said clearly</text>
+
+  <rect x="270" y="76" width="196" height="66" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="368" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">2 · REASON</text>
+  <text x="368" y="122" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">why I think it</text>
+
+  <rect x="46" y="180" width="196" height="66" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="144" y="204" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">3 · EVIDENCE</text>
+  <text x="144" y="226" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">fact or example + citation</text>
+
+  <rect x="270" y="180" width="196" height="66" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="368" y="204" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">4 · ANSWER</text>
+  <text x="368" y="226" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">reply to a counterargument</text>
+
+  <!-- arrows -->
+  <path d="M242 109 L270 109" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
+  <path d="M144 142 L144 180" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
+  <path d="M242 213 L270 213" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
+  <path d="M368 142 L368 180" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
+  <defs>
+    <marker id="ar5" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+
+  <!-- citation note -->
+  <rect x="46" y="270" width="420" height="62" rx="10" fill="#6b93b6" fill-opacity="0.18" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">CITE: name the author, title, source, and date — so a reader can find it</text>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">your own words carry the claim; the citation carries the evidence</text>
+
+  <!-- conclusion -->
+  <rect x="96" y="356" width="320" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">5 · a supported position</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a claim no one else made for you</text>
+
+  <path d="M256 332 L256 356" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
+
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">An argument is only as strong as the evidence it names and the doubt it answers</text>
+</svg>

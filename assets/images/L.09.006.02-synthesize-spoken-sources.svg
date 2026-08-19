@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Synthesizing many spoken sources into one account</title>
+  <desc id="desc">Four speech bubbles from four different speakers flow into a single box labeled one coherent account, with a shaded overlap region labeled what they share, to show synthesis rather than mere listing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Many Voices, One Account</text>
+
+  <!-- four source bubbles -->
+  <rect x="30" y="90" width="150" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="54" cy="106" r="7" fill="#7a9e7e"/>
+  <text x="44" y="120" font-family="sans-serif" font-size="12" fill="#222222">Source A</text>
+  <text x="44" y="138" font-family="sans-serif" font-size="11" fill="#4f6d7a">main point + one detail</text>
+
+  <rect x="30" y="180" width="150" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="54" cy="196" r="7" fill="#e0a458"/>
+  <text x="44" y="210" font-family="sans-serif" font-size="12" fill="#222222">Source B</text>
+  <text x="44" y="228" font-family="sans-serif" font-size="11" fill="#4f6d7a">main point + one detail</text>
+
+  <rect x="30" y="270" width="150" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="54" cy="286" r="7" fill="#6b93b6"/>
+  <text x="44" y="300" font-family="sans-serif" font-size="12" fill="#222222">Source C</text>
+  <text x="44" y="318" font-family="sans-serif" font-size="11" fill="#4f6d7a">main point + one detail</text>
+
+  <rect x="30" y="360" width="150" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="54" cy="376" r="7" fill="#4f6d7a"/>
+  <text x="44" y="390" font-family="sans-serif" font-size="12" fill="#222222">Source D</text>
+  <text x="44" y="408" font-family="sans-serif" font-size="11" fill="#4f6d7a">main point + one detail</text>
+
+  <!-- arrows -->
+  <path d="M180 126 C 240 126, 240 126, 268 126" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M180 216 C 240 216, 240 216, 268 216" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M180 306 C 240 306, 240 306, 268 306" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M180 396 C 240 396, 240 396, 268 396" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+
+  <!-- synthesis box -->
+  <rect x="272" y="150" width="212" height="216" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="180" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">One coherent account</text>
+  <text x="378" y="204" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· what they share</text>
+  <text x="378" y="222" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· where they differ</text>
+  <text x="378" y="240" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· what the evidence says</text>
+  <text x="378" y="258" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· a claim of my own</text>
+  <rect x="300" y="278" width="156" height="60" rx="8" fill="#7a9e7e" fill-opacity="0.25" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="378" y="302" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#222222">the overlap =</text>
+  <text x="378" y="320" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#222222">what they share</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Synthesis is more than listing: it is finding the shared idea and naming the differences</text>
+</svg>

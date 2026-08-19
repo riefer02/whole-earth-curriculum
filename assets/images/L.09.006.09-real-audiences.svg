@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Composing for real audiences</title>
+  <desc id="desc">One core message at the top branches into three forms — a letter, a proposal, and a published digital piece — each aimed at a different real audience, showing how purpose and audience shape writing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">One Message, Three Real Audiences</text>
+
+  <!-- core message -->
+  <rect x="116" y="66" width="280" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">my core message</text>
+  <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the supported position I built</text>
+
+  <!-- branches -->
+  <path d="M186 124 L120 170" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar6)"/>
+  <path d="M256 124 L256 170" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar6)"/>
+  <path d="M326 124 L392 170" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar6)"/>
+  <defs>
+    <marker id="ar6" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+
+  <!-- letter -->
+  <rect x="34" y="176" width="172" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="120" y="202" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">a letter</text>
+  <text x="120" y="224" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">to an editor or</text>
+  <text x="120" y="240" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">an official</text>
+  <text x="120" y="270" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">tone: respectful,</text>
+  <text x="120" y="286" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">direct, personal</text>
+
+  <!-- proposal -->
+  <rect x="236" y="176" width="172" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="322" y="202" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">a proposal</text>
+  <text x="322" y="224" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">to a school or</text>
+  <text x="322" y="240" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a community group</text>
+  <text x="322" y="270" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">tone: practical,</text>
+  <text x="322" y="286" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">with a plan of action</text>
+
+  <!-- digital -->
+  <rect x="438" y="176" width="172" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="524" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">a published</text>
+  <text x="524" y="216" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">digital piece</text>
+  <text x="524" y="244" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">post, page, or</text>
+  <text x="524" y="260" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">shared document</text>
+  <text x="524" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">tone: clear,</text>
+  <text x="524" y="304" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">scannable, shareable</text>
+
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The message stays yours; the shape it takes depends on who will read it.</text>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Writing for a real reader is what makes a writer real.</text>
+</svg>
