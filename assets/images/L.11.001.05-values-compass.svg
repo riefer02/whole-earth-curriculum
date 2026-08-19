@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My values compass</title>
+  <desc id="desc">A compass rose with a circle at its center labeled "my values." Eight points around the compass are labeled with example values — fairness, honesty, care, courage, justice, freedom, respect, and kindness — each as a plain word. A caption reminds the learner to name their own values, since labels carry the meaning and the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Values Compass</text>
+
+  <!-- Outer compass ring -->
+  <circle cx="256" cy="286" r="172" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="286" r="124" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 6"/>
+
+  <!-- North/south/east/west ticks -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <path d="M256 96 l0 22"/><path d="M256 454 l0 22"/>
+    <path d="M66 286 l22 0"/><path d="M424 286 l22 0"/>
+  </g>
+
+  <!-- Center -->
+  <circle cx="256" cy="286" r="52" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">my</text>
+  <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">values</text>
+
+  <!-- Value points (N, NE, E, SE, S, SW, W, NW) -->
+  <g font-family="sans-serif" font-size="17" fill="#222222" text-anchor="middle">
+    <text x="256" y="130">fairness</text>
+    <text x="388" y="172">honesty</text>
+    <text x="430" y="290">care</text>
+    <text x="388" y="410">courage</text>
+    <text x="256" y="452">justice</text>
+    <text x="124" y="410">freedom</text>
+    <text x="82" y="290">respect</text>
+    <text x="124" y="172">kindness</text>
+  </g>
+  <!-- Dots at points -->
+  <g fill="#4f6d7a">
+    <circle cx="256" cy="144" r="4"/><circle cx="368" cy="180" r="4"/>
+    <circle cx="404" cy="286" r="4"/><circle cx="368" cy="392" r="4"/>
+    <circle cx="256" cy="436" r="4"/><circle cx="144" cy="392" r="4"/>
+    <circle cx="108" cy="286" r="4"/><circle cx="144" cy="180" r="4"/>
+  </g>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">These are examples — name your own.</text>
+</svg>

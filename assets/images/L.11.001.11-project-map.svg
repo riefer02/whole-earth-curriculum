@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My project map</title>
+  <desc id="desc">A project plan drawn as a horizontal map from start to done, with three milestone boxes in between, each holding a blank line for a note or date, and a flag marked check-in partway along. Labels carry the meaning, so the worksheet prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Project Map</text>
+
+  <!-- Spine -->
+  <path d="M60 300 L452 300" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Start -->
+  <circle cx="60" cy="300" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="344" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">start</text>
+
+  <!-- Milestones -->
+  <g>
+    <rect x="128" y="270" width="90" height="60" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="173" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">milestone 1</text>
+    <path d="M138 314 h70" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="173" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">note / date</text>
+  </g>
+  <g>
+    <rect x="262" y="270" width="90" height="60" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="307" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">milestone 2</text>
+    <path d="M272 314 h70" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="307" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">note / date</text>
+  </g>
+  <g>
+    <rect x="396" y="270" width="90" height="60" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="441" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">milestone 3</text>
+    <path d="M406 314 h70" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="441" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">note / date</text>
+  </g>
+
+  <!-- Check-in flag -->
+  <g>
+    <path d="M230 300 L230 236" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M230 236 L288 250 L230 264 z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="230" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">check-in</text>
+  </g>
+
+  <!-- Done -->
+  <circle cx="486" cy="300" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="486" y="344" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">done</text>
+
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">A milestone missed is information, not a verdict — adjust and go on.</text>
+</svg>

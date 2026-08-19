@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The decision loop</title>
+  <desc id="desc">A five-step decision loop drawn as a circle of five rounded boxes connected by arrows, reading: pause, name my values, consider options, choose, and reflect. The reflect box connects back to pause. A small compass sits at the center. Labels carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Decision Loop</text>
+
+  <!-- Center compass -->
+  <circle cx="256" cy="276" r="34" fill="#fdfbf7" stroke="#e0a458" stroke-width="3"/>
+  <path d="M256 252 l8 24 l-8 16 l-8 -16 z" fill="#2b3a42"/>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">values</text>
+
+  <!-- Step boxes -->
+  <g font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222" text-anchor="middle">
+    <rect x="206" y="96" width="100" height="44" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="124">1. pause</text>
+
+    <rect x="368" y="176" width="128" height="44" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="432" y="204">2. name values</text>
+
+    <rect x="344" y="336" width="128" height="44" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="408" y="364">3. consider options</text>
+
+    <rect x="156" y="336" width="128" height="44" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="220" y="364">4. choose</text>
+
+    <rect x="16" y="176" width="128" height="44" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="80" y="204">5. reflect</text>
+  </g>
+
+  <!-- Arrows -->
+  <g fill="none" stroke="#2b3a42" stroke-width="3">
+    <path d="M256 140 L256 172 L368 172 L368 214"/>
+    <path d="M424 220 L424 300 L408 300 L408 332"/>
+    <path d="M360 358 L300 358 L220 358"/>
+    <path d="M160 358 L120 358 L120 262 L80 262 L80 224"/>
+    <path d="M80 176 L120 176 L120 118 L206 118"/>
+  </g>
+  <path d="M368 214 l-8 8 l16 0 z" fill="#2b3a42"/>
+  <path d="M408 332 l-8 8 l16 0 z" fill="#2b3a42"/>
+  <path d="M220 358 l-8 8 l16 0 z" fill="#2b3a42"/>
+  <path d="M80 224 l-8 8 l16 0 z" fill="#2b3a42"/>
+  <path d="M206 118 l-8 8 l16 0 z" fill="#2b3a42"/>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">When pressure rises, slow the loop — don't skip it.</text>
+</svg>

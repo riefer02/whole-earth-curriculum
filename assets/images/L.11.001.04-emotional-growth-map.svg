@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My emotional development: then and now</title>
+  <desc id="desc">A rising path from left to right with three milestones: then (the younger me), now (me today), and next (me growing). Two labeled markers sit on the path — a solid stone for a strength and a young sprout for an area of growth. The diagram uses labels and shapes, not color, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Emotional Development: Then and Now</text>
+
+  <!-- Rising path -->
+  <path d="M40 380 Q150 330 256 300 T472 200" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Milestone: then -->
+  <circle cx="60" cy="386" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="432" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">then: the</text>
+  <text x="60" y="450" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">younger me</text>
+
+  <!-- Milestone: now -->
+  <circle cx="256" cy="300" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">now: me today</text>
+
+  <!-- Milestone: next -->
+  <circle cx="452" cy="206" r="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="452" y="166" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">next: me</text>
+  <text x="452" y="184" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">growing</text>
+
+  <!-- Strength marker (solid stone) -->
+  <g>
+    <path d="M132 344 q14 -22 34 -22 q20 0 34 22 z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="166" y="338" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">✦</text>
+  </g>
+  <text x="166" y="394" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">a strength</text>
+  <text x="166" y="414" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">I already can</text>
+
+  <!-- Growth marker (sprout) -->
+  <g>
+    <path d="M346 320 q0 -26 0 -40" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M346 300 q14 2 22 -14 M346 306 q-14 2 -22 -14" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M336 330 h20" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="380" y="340" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">an area of</text>
+  <text x="380" y="360" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">growth</text>
+  <text x="380" y="380" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">I am still learning</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Growth is a path, not a score.</text>
+</svg>

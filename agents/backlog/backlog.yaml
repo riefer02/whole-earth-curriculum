@@ -6025,7 +6025,7 @@ items:
     type: lesson
     grade: 11
     domain: D01
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6037,6 +6037,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate 0 errors (1565 files). All 12 lessons: kind lesson, unit U.11.001, domain [D01], pillar [P1], strand matching objective, sequence_in_unit matching ID. All 6 grade-11 D01 objectives covered and resolve to real standards (S1.11.01→L01-03, S1.11.02→L04, S2.11.01→L05-06, S2.11.02→L07-08, S3.11.01→L09-10, S3.11.02→L11-12); unit.md table matches. Required headings present in all 12; one assets entry each with non-empty alt + resolving path (e.g. L.11.001.09-decision-loop.svg). Connections concrete/faithful (L10 fog/compass, L12 not-yet summit). Grade-11 appropriate (collective emotion, moral circle, purpose, decision under uncertainty)."
+      fact-checker:
+        verdict: passed
+        note: "Verified high-risk psychological claims and all 17 citations: Erikson S-155, Marcia moratorium S-403, Damon ~20% purpose S-400, Markus & Nurius possible selves S-399, Tajfel minimal-group S-232, Slovic identifiable-victim/psychic numbing S-414, Bloom empathy narrow S-413, Batson S-230, Barrett emotional granularity (hedged 'one account among several') S-401, Steinberg S-229, Search Institute S-156, World Bank S-234, UNDP S-283 + S-001/S-015/S-011/S-039. All correctly attributed, hedged, evidence-vs-values distinguished, sources reviewed:true. No fixes."
+      global-culture-editor:
+        verdict: passed
+        note: "Checked the four called-out framing risks (collective emotion, values, meaningful life, what I owe people unlike me) across L1-L12 and confirmed each holds multiple world traditions side by side: L5 names honor/filial duty/freedom/care/hospitality ('none is a single correct list'); L6 holds family/craft/faith/cause traditions ('none is above another'), lowering career/calling pressure; L8 cites harambee (East Africa), gotong royong (Indonesia), minga (Andes), barn-raising (North America) as mutual-aid traditions; collective-emotion Connections span villages/markets/buses/vigils/nations. Western developmental frameworks (Erikson, Marcia, Markus & Nurius, Barrett, Tajfel, Slovic, Bloom) consistently tagged 'one account, not a creed'. No fixes required."
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier (all 12 lessons materials_low_tech voice/body/drawn-in-ground/found objects; digital only in optional enriched tier, no silent wealth/device requirement); alt text + SVG a11y (all 12 assets non-empty alt; all SVGs role=img + title/desc, labels not color carry meaning). Added per-lesson Mode (expression) line so reflective/emotional work has non-writing AND non-oral route (pointing to card, arranging objects, drawing, gesturing); rewrote L1 sight-first 'look around the room' to 'notice — by sight, sound, or feel'. Added unit-level Facilitation note anticipating translation/first-language responses. Validate passes (1565 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Lenses verified: ethics (fact/value distinction L5, scapegoating named wrong L3, what do I owe distant others reasoned not dictated L8, keeping-one's-word L9-12), egalitarianism (no ranking of learners/values, systems-not-people L7, uncertainty is norm not deficit, small kept promise honored as fully as large), global/anthropological (cross-cultural remembrance, harambee/gotong royong/minga/barn-raising, no US/Euro default), technology & environment (screens carrying emotional climate, algorithmic pressure, supply-chain interdependence, environmental grief). Traceability: lesson→D01.S1/S2/S3→D01→P1→vision; all 6 objectives resolve to real D01 grade-11 standards. Evidence vs values: 17 S-IDs resolve, Barrett offered as 'one account among several'. No hierarchy/supremacy/enrichment."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band (~16-17): cognitive fit right (collective emotion, Marcia identity moratorium, possible selves, moral circle, decision-under-uncertainty abstract-but-scaffolded, lands on identity/purpose consolidation); emotional safety thorough (explicit 'pass is a complete answer' opt-out honored across all 12, heavy topics — collective fear/grief, existential purpose, owed-to-distant-others — paired with agency/hope and anti-nihilism, 'not yet is information not a verdict', celebration-not-test, no forced disclosure/ranking); physical (seated/reflective core with outdoor/movement + non-motor alternatives); not dumbed down (real psychology Tajfel/Slovic/Bloom/Damon/Barrett with evidence vs values); open-endedness (questions held as questions, identity 'your own not borrowed', Barrett/Damon as accounts not creeds §11)."
   - id: B-396
     title: Author lessons for Unit U.11.002 (Body, Wellness & Movement)
     agent: lesson-author

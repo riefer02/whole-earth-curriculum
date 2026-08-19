@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My place in a connected world</title>
+  <desc id="desc">A web diagram with a node labeled "me" at the center, connected by lines to six outer nodes labeled food, water, climate, work, news, and medicine. Each outer node has a small simple icon. Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Place in a Connected World</text>
+
+  <!-- Connecting lines -->
+  <g stroke="#4f6d7a" stroke-width="2.5">
+    <path d="M256 286 L150 150"/>
+    <path d="M256 286 L256 120"/>
+    <path d="M256 286 L362 150"/>
+    <path d="M256 286 L384 300"/>
+    <path d="M256 286 L256 420"/>
+    <path d="M256 286 L128 300"/>
+  </g>
+
+  <!-- Center node -->
+  <circle cx="256" cy="286" r="40" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="293" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">me</text>
+
+  <!-- Outer nodes -->
+  <g font-family="sans-serif" font-size="16" fill="#222222" text-anchor="middle">
+    <circle cx="150" cy="140" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="138">food</text>
+    <text x="150" y="156" font-size="11" fill="#4f6d7a">grown far away</text>
+
+    <circle cx="256" cy="110" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="108">water</text>
+    <text x="256" y="126" font-size="11" fill="#4f6d7a">one shared cycle</text>
+
+    <circle cx="362" cy="140" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="362" y="138">climate</text>
+    <text x="362" y="156" font-size="11" fill="#4f6d7a">one shared air</text>
+
+    <circle cx="392" cy="300" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="392" y="298">work</text>
+    <text x="392" y="316" font-size="11" fill="#4f6d7a">linked by trade</text>
+
+    <circle cx="256" cy="424" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="422">news</text>
+    <text x="256" y="440" font-size="11" fill="#4f6d7a">one shared screen</text>
+
+    <circle cx="120" cy="300" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="298">medicine</text>
+    <text x="120" y="316" font-size="11" fill="#4f6d7a">made in many lands</text>
+  </g>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">What I do touches others; what others do touches me.</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Collective fear and collective grief</title>
+  <desc id="desc">Two side-by-side panels. The left panel shows collective fear as a storm cloud with jagged arrows labeled rumor, panic, and blame. The right panel shows collective grief as a rain cloud with joined hands and a candle, labeled mourning, remembrance, and together. Labels and shapes carry the difference so the diagram prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Fear and Grief in Common</text>
+
+  <!-- Left panel: fear -->
+  <rect x="26" y="70" width="222" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="137" y="108" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">collective fear</text>
+
+  <path d="M99 176 h64 a22 22 0 0 0 0 -44 h-12 a28 28 0 0 0 -54 -6 a19 19 0 0 0 2 50 z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M118 188 l8 12 m8 0 l8 -12" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+
+  <g fill="none" stroke="#2b3a42" stroke-width="2.5">
+    <path d="M70 250 l56 44"/><path d="M136 252 l0 44"/>
+    <path d="M202 250 l-56 44"/>
+  </g>
+  <path d="M70 250 l-8 10 l18 0 z" fill="#2b3a42"/>
+  <path d="M136 252 l-8 10 l16 0 z" fill="#2b3a42"/>
+  <path d="M202 250 l-8 10 l18 0 z" fill="#2b3a42"/>
+
+  <g font-family="sans-serif" font-size="17" fill="#222222" text-anchor="middle">
+    <text x="137" y="322">rumor</text>
+    <text x="137" y="346">panic</text>
+    <text x="137" y="370">blame</text>
+  </g>
+  <text x="137" y="408" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">fear can spread fast</text>
+  <text x="137" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">and can be named</text>
+
+  <!-- Right panel: grief -->
+  <rect x="264" y="70" width="222" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="375" y="108" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">collective grief</text>
+
+  <path d="M337 176 h64 a22 22 0 0 0 0 -44 h-12 a28 28 0 0 0 -54 -6 a19 19 0 0 0 2 50 z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M356 186 l-5 12 m16 0 l-5 -12 m0 12 l-5 -12" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
+
+  <g stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round" fill="none">
+    <path d="M300 258 a26 26 0 0 1 0 26"/><path d="M324 258 a26 26 0 0 0 0 26"/>
+    <path d="M348 258 a26 26 0 0 1 0 26"/><path d="M372 258 a26 26 0 0 0 0 26"/>
+  </g>
+
+  <g font-family="sans-serif" font-size="17" fill="#222222" text-anchor="middle">
+    <text x="375" y="322">mourning</text>
+    <text x="375" y="346">remembrance</text>
+    <text x="375" y="370">together</text>
+  </g>
+  <text x="375" y="408" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">grief asks to be shared</text>
+  <text x="375" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">and witnessed</text>
+
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Both are real; both can be read, named, and held.</text>
+</svg>
