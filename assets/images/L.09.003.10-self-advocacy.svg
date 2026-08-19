@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Self-advocacy: my needs and your needs, both honored</title>
+  <desc id="desc">A balanced scale with a person on each side, one labeled me and one labeled others. A speech bubble in the middle holds an I-statement pattern: I feel, because, I need. A caption says speak your needs without trampling theirs.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Speaking Up, Standing With</text>
+
+  <!-- scale beam -->
+  <line x1="80" y1="180" x2="432" y2="180" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M256 180 L256 224" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M226 224 L286 224" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- left pan: me -->
+  <path d="M80 180 L110 224 L50 224 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="80" cy="252" r="17" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">me</text>
+  <text x="80" y="306" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">my needs</text>
+  <text x="80" y="322" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">my boundaries</text>
+
+  <!-- right pan: others -->
+  <path d="M432 180 L402 224 L462 224 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="432" cy="252" r="17" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="432" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">others</text>
+  <text x="432" y="306" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">their needs</text>
+  <text x="432" y="322" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">their boundaries</text>
+
+  <!-- speech bubble -->
+  <rect x="126" y="372" width="260" height="86" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M226 458 L226 474 L252 458" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">I feel … when … because …</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">What I need is …</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">— said clearly, and with care for the other.</text>
+
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Advocacy is not winning — it is being heard while staying fair.</text>
+</svg>

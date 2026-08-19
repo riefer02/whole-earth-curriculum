@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The screen in between: a curated highlight reel versus a fuller life</title>
+  <desc id="desc">Two panels. The left panel is a phone screen showing a curated grid of highlight moments labeled the highlight reel. The right panel is a fuller picture of an ordinary week, with both bright and dull moments labeled real life, most of which never gets posted.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">The Screen in Between</text>
+
+  <!-- left: screen -->
+  <rect x="44" y="80" width="180" height="260" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="58" y="94" width="152" height="40" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="58" y="142" width="72" height="56" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="138" y="142" width="72" height="56" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="58" y="206" width="72" height="56" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="138" y="206" width="72" height="56" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="58" y="270" width="152" height="40" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="134" y="368" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">the highlight reel</text>
+  <text x="134" y="388" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">chosen, edited, brightened</text>
+
+  <!-- right: fuller life -->
+  <rect x="288" y="80" width="180" height="260" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="302" y="94" width="152" height="40" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="302" y="142" width="72" height="56" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="382" y="142" width="72" height="56" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 3"/>
+  <rect x="302" y="206" width="72" height="56" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 3"/>
+  <rect x="382" y="206" width="72" height="56" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="302" y="270" width="152" height="40" rx="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="378" y="368" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">real life</text>
+  <text x="378" y="388" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">bright and dull, most unposted</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">Comparing my whole life to someone's highlight reel is an unfair match.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">The feed is a window, not a mirror of anyone's full life.</text>
+</svg>

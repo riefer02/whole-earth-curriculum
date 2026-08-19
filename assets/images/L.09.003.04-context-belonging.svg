@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three shapers of emotion: context, belonging, and media</title>
+  <desc id="desc">A diagram with a feeling at the center and three arrows pointing in toward it, labeled social context, group belonging, and media, showing that all three shape what and how strongly a person feels.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">What Shapes What I Feel</text>
+
+  <!-- center: feeling -->
+  <ellipse cx="256" cy="300" rx="92" ry="44" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">my feeling</text>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">what I feel, how strongly</text>
+
+  <!-- shaper 1: social context (top-left) -->
+  <rect x="44" y="92" width="160" height="72" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="124" y="122" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">social context</text>
+  <text x="124" y="142" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">where I am, who is watching,</text>
+  <text x="124" y="157" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">what is expected here</text>
+
+  <!-- shaper 2: belonging (top-right) -->
+  <rect x="308" y="92" width="160" height="72" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="388" y="122" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">group belonging</text>
+  <text x="388" y="142" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">fitting in, being left out,</text>
+  <text x="388" y="157" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">feeling at home in a group</text>
+
+  <!-- shaper 3: media (bottom) -->
+  <rect x="44" y="392" width="160" height="72" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="124" y="422" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">media</text>
+  <text x="124" y="442" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">screens, feeds, stories,</text>
+  <text x="124" y="457" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">and the feelings they carry</text>
+
+  <!-- note -->
+  <rect x="268" y="392" width="200" height="72" rx="10" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="288" y="420" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">none of these decides my</text>
+  <text x="288" y="438" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">feeling alone — I can notice</text>
+  <text x="288" y="456" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">and question the pull</text>
+
+  <!-- arrows -->
+  <path d="M150 164 L228 276" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#sarr)"/>
+  <path d="M362 164 L284 276" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#sarr)"/>
+  <path d="M160 392 L220 330" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#sarr)"/>
+  <defs>
+    <marker id="sarr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Feelings are real — and also shaped by the world around me.</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A goal with milestones along the way</title>
+  <desc id="desc">A winding path from a starting point on the left to a flag labeled goal on the right. Along the path are three milestone markers, each labeled, and a small loop showing where the plan was adjusted when a step did not work.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A Longer-Term Goal, Step by Step</text>
+
+  <!-- path -->
+  <path d="M60 300 C 150 220, 220 360, 300 300 C 350 270, 380 250, 440 200" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="1 0"/>
+
+  <!-- start -->
+  <circle cx="60" cy="300" r="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="330" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">today</text>
+
+  <!-- milestone 1 -->
+  <circle cx="190" cy="252" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="178" y="238" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">milestone 1</text>
+
+  <!-- milestone 2 -->
+  <circle cx="300" cy="300" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="300" y="330" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">milestone 2</text>
+
+  <!-- adjust loop -->
+  <path d="M300 300 C 320 344, 372 344, 392 304" fill="none" stroke="#6b93b6" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#garr)"/>
+  <defs>
+    <marker id="garr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L8 3 L0 6 Z" fill="#6b93b6"/>
+    </marker>
+  </defs>
+  <text x="392" y="356" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">adjust the plan</text>
+  <text x="392" y="372" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">when a step fails</text>
+
+  <!-- goal -->
+  <line x1="440" y1="200" x2="440" y2="150" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M440 150 L470 160 L440 170 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="440" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">goal</text>
+
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">A goal without milestones is a wish; with them, it is a plan.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Make it specific, put dates on the milestones, and adjust as you go.</text>
+</svg>

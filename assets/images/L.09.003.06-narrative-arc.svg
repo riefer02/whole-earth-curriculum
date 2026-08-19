@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My story: a line from past through present into a hoped-for future</title>
+  <desc id="desc">A horizontal timeline with three segments: past on the left, present in the middle, and hoped-for future on the right. An arrow runs through all three, showing them as one connected story.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">My Story, One Connected Line</text>
+
+  <!-- timeline arrow -->
+  <path d="M60 210 L452 210" fill="none" stroke="#2b3a42" stroke-width="3" marker-end="url(#narr)"/>
+  <defs>
+    <marker id="narr" markerWidth="12" markerHeight="12" refX="10" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L12 4 L0 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+
+  <!-- past -->
+  <rect x="40" y="96" width="130" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="105" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">past</text>
+  <text x="105" y="146" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">people, places, and</text>
+  <text x="105" y="162" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">moments that shaped me</text>
+  <circle cx="105" cy="210" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- present -->
+  <rect x="191" y="96" width="130" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">present</text>
+  <text x="256" y="146" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">who I am right now,</text>
+  <text x="256" y="162" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">what I care about</text>
+  <circle cx="256" cy="210" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- future -->
+  <rect x="342" y="96" width="130" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="407" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">hoped-for future</text>
+  <text x="407" y="146" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">who I am becoming,</text>
+  <text x="407" y="162" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">what I hope to be</text>
+  <circle cx="407" cy="210" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">A coherent story links all three — and it keeps being written.</text>
+  <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">The future is a direction I lean toward, not a verdict I must reach.</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Unit map: three strands of feelings, identity and purpose</title>
+  <desc id="desc">A map of the unit showing three boxes labeled emotional literacy, identity and self-concept, and self-regulation and agency, each with two short goals, arranged around the words feelings, identity, and purpose.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Our Unit: Feelings · Identity · Purpose</text>
+
+  <!-- center badge -->
+  <ellipse cx="256" cy="256" rx="96" ry="36" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">feelings · identity</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">· purpose ·</text>
+
+  <!-- strand 1: emotional literacy (top) -->
+  <rect x="106" y="74" width="300" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="130" cy="98" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="146" y="103" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Emotional Literacy</text>
+  <text x="116" y="128" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· name subtle and secondary emotions</text>
+  <text x="116" y="146" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· see how context, media, and belonging</text>
+  <text x="116" y="162" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  shape what I feel</text>
+
+  <!-- strand 2: identity (bottom-left) -->
+  <rect x="34" y="330" width="210" height="116" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="58" cy="352" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="74" y="357" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Identity &amp; Self-Concept</text>
+  <text x="44" y="384" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· a coherent story of past,</text>
+  <text x="44" y="402" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  present, hoped-for future</text>
+  <text x="44" y="420" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· society shapes me, I shape it</text>
+
+  <!-- strand 3: agency (bottom-right) -->
+  <rect x="268" y="330" width="210" height="116" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="292" cy="352" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="308" y="357" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Self-Regulation &amp; Agency</text>
+  <text x="278" y="384" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· a longer-term goal with a plan</text>
+  <text x="278" y="402" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  and milestones</text>
+  <text x="278" y="420" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· advocate for my needs,</text>
+  <text x="278" y="436" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  honoring others</text>
+
+  <!-- connector lines -->
+  <path d="M256 170 L256 220" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M160 330 L220 292" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M352 330 L292 292" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Six goals, one whole self in the making</text>
+</svg>

@@ -62,3 +62,13 @@ making, never a label, and every question is held as a question.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Feelings, Identity & Purpose: Where We've Been, Where We're Going | D01.S1.09.01, D01.S2.09.01, D01.S3.09.01 |
+| 02 | A Richer Feeling Vocabulary: Subtle and Secondary Emotions | D01.S1.09.01 |
+| 03 | Reading a Complex Moment: Naming the Layers of Feeling | D01.S1.09.01 |
+| 04 | Shaped by Where I Stand: Context, Belonging, and Emotion | D01.S1.09.02 |
+| 05 | The Screen in Between: How Media Shapes What I Feel | D01.S1.09.02 |
+| 06 | My Story, Still Being Written: Past, Present, and Hoped-For Future | D01.S2.09.01 |
+| 07 | Made in a Society: How the World Shapes Me | D01.S2.09.02 |
+| 08 | Authoring My Choices: How I Shape the World Back | D01.S2.09.02 |
+| 09 | A Goal Worth Reaching: Plan, Milestones, and Adjusting Course | D01.S3.09.01 |
+| 10 | Speaking Up, Standing With: Self-Advocacy and the Unit's Gathering | D01.S3.09.02 |

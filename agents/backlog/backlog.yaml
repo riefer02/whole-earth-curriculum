@@ -5137,7 +5137,7 @@ items:
     type: lesson
     grade: 9
     domain: D01
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5149,6 +5149,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1297 files). 10 lessons L.09.003.01-.10, sequence 1-10 no gaps; objectives resolve only to six grade-9 D01 IDs (D01.S1.09.01/02, S2.09.01/02, S3.09.01/02); cross-grade refs only in prose recall. Procedure/Assessment/Connection present. Example: L5 'Analyze how media shapes feeling' matches D01.S1.09.02. unit.md 10 rows matching; scope lesson_count=10. 10 SVGs valid + alt. Age-appropriate (L5 sharing optional, L10 role-play safety flag); factual claims cited (Festinger, Common Sense Media, WHO)."
+      fact-checker:
+        verdict: passed
+        note: Verified 5 new sources S-401-S-405 (Barrett 2017 constructed emotion, Plutchik 1980 wheel, Marcia 1966 DOI 10.1037/h0023281, McAdams 2001 DOI 10.1037/1089-2680.5.2.100, Alberti & Emmons 2017), marked reviewed:true. Barrett theory correctly hedged as 'one well-supported account, not a creed'; Plutchik 'one model'; Marcia descriptive not ranked. Festinger/Common Sense Media/WHO/display rules/stereotype threat/possible selves/Tajfel/Erikson all correctly attributed. 10 SVGs original+accurate. validate green (1297 files).
+      global-culture-editor:
+        verdict: passed
+        note: L2-L4 emotion vocabulary/display rules acknowledge cross-cultural variation without exoticizing (untranslatable feeling words, display rules held descriptively + compared across funeral/celebration/classroom/market without ranking). L6 counters Western self-made default (lineage/place/individual forms, none right); L7 'no single society's way is default'; L8 balances agency with community/relational self. L5 media generic not region-tied; egalitarian lens + low-tech variants. Life contexts markets/fields/bus stops. No fixes. validate green (1297 files).
+      accessibility-editor:
+        verdict: passed
+        note: "Alt text + title/desc/role=img/aria-labelledby on all 10 SVGs; concept also taught verbally + reproducible by hand. Low-tech tier all 10 (L5 media teachable without electricity: printed examples, describe-from-memory). No color-only (markers paired with text labels); grayscale legible; secondary text ~5.3:1. UDL multiple means + 5 context_variants; trauma/neurodivergence safety (optional sharing, private writing, not-yet framing). Wealth-free. validate green (1297 files). No fixes."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: objectives resolve only to six grade-9 D01 IDs (D01.S1.09.01/.02, S2.09.01/.02, S3.09.01/.02); chain Vision->P1->D01->S1-S3->U.09.003. Four lenses present (ethics moral reasoning L1/3/6-10; egalitarianism agency/resources L4/5/7-10; global display rules/life-story forms no Euro default; tech&environment L5 media + L10 digital). Evidence vs values explicit (L2 'one account not a creed', L5 'curated is fact / limit is value'). 22 S-IDs resolve. validate green (1297 files). No fixes."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: metacognitive tools (event-thought-subtle-secondary emotion, narrative identity, given-vs-chosen identity with 'exploration is not failure') scaffolded at mid-adolescence level. Emotional safety: L2-L3 disclosure optional/private, no good/bad ranking; L5 media comparison general (highlight reel vs real life) not body-shame, ends doable boundary; L6-L8 identity open ('story still being written', 'not a label or verdict', 'I don't know yet is complete'), protects marginalized (stereotype threat named, given-is-real-not-a-cage, agency-not-blame); L10 assertiveness low-stakes, honors indirect styles. Multi-modal + spiral. validate green (1297 files). Non-blocking: L5 outdoor variant mentions 'body' image — facilitators may anchor to places/objects to reduce body-image sensitivity."
   - id: B-372
     title: Author lessons for Unit U.09.004 (My Body, Wellness & Movement)
     agent: lesson-author

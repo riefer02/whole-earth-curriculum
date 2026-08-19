@@ -3730,3 +3730,56 @@ sources:
     domains: [D01]
     reviewed: true
     notes: "Damon, W. (2008). The Path to Purpose: How Young People Find Their Calling in Life. New York: Free Press. Real, correctly attributed developmental-psychology book (William Damon, Stanford; based on the Stanford Youth Purpose project with Kendall Bronk and others). The claim it supports — that a sense of purpose grows by trying, reflecting, and being supported rather than by being certain at once, and that only a minority of young people report a clear sense of purpose — is accurate and appropriately hedged: Damon's survey work found roughly one in five young people (~20%) demonstrates a clear sense of purpose, and purpose is framed as developing through exploration and reflection, not sudden certainty. Cited in Grade-8 lesson L.08.012.05 (All of Us: Celebration, the Caring Community & Looking Ahead) for the framing that looking ahead to high school is about purpose and possibility, not pressure or certainty. No URL (print book). Verified by fact-checker 2026-08-19."
+
+  - id: S-401
+    title: "Barrett — How Emotions Are Made: The Secret Life of the Brain"
+    type: book
+    url: https://lisafeldmanbarrett.com/books/how-emotions-are-made/
+    author: Lisa Feldman Barrett
+    year: 2017
+    organization: Houghton Mifflin Harcourt
+    domains: [D01]
+    reviewed: true
+    notes: "Barrett, L. F. (2017). How Emotions Are Made: The Secret Life of the Brain. New York: Houghton Mifflin Harcourt. Verified live 2026-08-19 (lisafeldmanbarrett.com). The URL is the author's own book page and correctly describes the book. The concept of 'emotional granularity' (rich, precise emotion vocabulary enabling finer-grained emotional experience and better regulation) is correctly attributed to Barrett's constructed-emotion/emotion-concepts framework. IMPORTANT FRAMING (verified correct in the lessons): constructed-emotion theory is a debated, contested account in affective science, not settled fact — the lessons L.09.003.02 and L.09.003.03 explicitly frame it as 'one well-supported scientific account, not a creed, and not a therapy,' and state that 'no single wheel of emotions is settled fact; wheels are models.' The claim that emotional granularity is *associated with* better emotion regulation is accurate and appropriately hedged (correlational, not causal). No overstatement found."
+
+  - id: S-402
+    title: "Plutchik — Emotion: A Psychoevolutionary Synthesis"
+    type: book
+    author: Robert Plutchik
+    year: 1980
+    organization: Harper & Row
+    domains: [D01]
+    reviewed: true
+    notes: "Plutchik, R. (1980). Emotion: A Psychoevolutionary Synthesis. New York: Harper & Row. Print book (no URL); verified 2026-08-19 against secondary literature (Wikipedia 'Emotion classification'/'Plutchik's wheel of emotions'). The eight basic emotions listed in the registry — joy, trust, fear, surprise, sadness, disgust, anger, anticipation — exactly match Plutchik's 1980 wheel of eight emotions, which combines into dyads/triads and varies in intensity to yield more complex states. The lesson L.09.003.02 uses this correctly and cautiously: it presents basic emotions 'in some models' (noting Plutchik), distinguishes basic vs. subtle vs. secondary, and explicitly tells learners that no single wheel is settled fact and they may build their own. Attribution and framing are correct; not overstated."
+
+  - id: S-403
+    title: "Marcia — Development and Validation of Ego-Identity Status"
+    type: article
+    url: https://doi.org/10.1037/h0023281
+    author: James E. Marcia
+    year: 1966
+    organization: Journal of Personality and Social Psychology
+    domains: [D01]
+    reviewed: true
+    notes: "Marcia, J. E. (1966). Development and validation of ego-identity status. Journal of Personality and Social Psychology, 3(5), 551–558. DOI 10.1037/h0023281. DOI verified live 2026-08-19 (resolves correctly to this exact article). The four identity statuses — identity achievement, moratorium, foreclosure, and diffusion — distinguished by whether a person has explored options and made commitments, are correctly described. Lessons L.09.003.07 and L.09.003.08 use the framework correctly: they teach that 'moratorium' (open exploration) is a normal and healthy part of identity formation before commitment, and frame the statuses as a descriptive framework, never a ranked ladder or a verdict on any learner. Correctly attributed, not overstated."
+
+  - id: S-404
+    title: "McAdams — The Psychology of Life Stories"
+    type: article
+    url: https://doi.org/10.1037/1089-2680.5.2.100
+    author: Dan P. McAdams
+    year: 2001
+    organization: Review of General Psychology
+    domains: [D01]
+    reviewed: true
+    notes: "McAdams, D. P. (2001). The psychology of life stories. Review of General Psychology, 5(2), 100–122. DOI 10.1037/1089-2680.5.2.100. DOI verified live 2026-08-19 (resolves correctly to this exact article). The account of 'narrative identity' — an internalized, evolving life story linking the reconstructed past, experienced present, and imagined future to give life unity and purpose — is correctly described. Lesson L.09.003.06 uses it correctly as a descriptive theory of identity (not a required genre): it teaches the past–present–future thread and explicitly says a learner's story may be fragmented, uncertain, or multiple, and 'I don't know yet' is a complete answer. Correctly attributed, appropriately framed, not overstated."
+
+  - id: S-405
+    title: "Alberti & Emmons — Your Perfect Right: Assertiveness and Equality in Your Life and Relationships"
+    type: book
+    author: Robert Alberti and Michael Emmons
+    year: 2017
+    organization: Impact Publishers (New Harbinger)
+    domains: [D01]
+    reviewed: true
+    notes: "Alberti, R., & Emmons, M. (2017). Your Perfect Right: Assertiveness and Equality in Your Life and Relationships (10th ed., revised). Oakland, CA: Impact Publishers / New Harbinger (first published 1970). Print book (no URL); verified 2026-08-19 via the publisher's page (newharbinger.com, ISBN 9781626259607, 'Tenth Edition, Revised,' published March 2017, imprint Impact) and the Wikipedia 'Assertiveness' article. The book's core — assertive communication expresses one's own needs, feelings, and boundaries directly and respectfully, distinct from passive (suppressing needs) and aggressive (trampling others') styles — is correctly described. Lesson L.09.003.10 uses it correctly as a communication-skill frame (the 'I-statement' pattern: 'I feel… when… because… what I need is…'), framed descriptively, not as a claim about personality; it also honors cultural differences in how directly needs are stated. Correctly attributed, not overstated."
