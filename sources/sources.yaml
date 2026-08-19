@@ -3286,3 +3286,39 @@ sources:
     domains: [D04]
     reviewed: true
     notes: "Jalāl al-Dīn Rūmī (1207–1273) was a Persian poet and Sufi mystic, born in Balkh (in present-day Afghanistan) and settled in Konya (in present-day Türkiye); he wrote chiefly in Persian, and his poems on longing, love, and the search for meaning are among the most translated and widely read poems in the world. Cited in Grade-8 lesson L.08.004.06 as an example of a text from 13th-century Persia that reflects its context (Sufi mysticism, poetry as spiritual practice) and that travels across languages in translation. Real, canonical Britannica biography ('Rūmī'); the dates (1207–1273), birth in Balkh, settling in Konya, and Persian authorship are all standard and correct. The lesson's quoted opening line — 'Listen to the reed flute, how it tells a tale, complaining of separation' — is an accurate rendering of the Masnavi's famous opening (bi-shnaw az nay chūn ḥikāyat mī-kunad / az judā'ī-hā shikāyat mī-kunad). URL returns HTTP 403 to non-browser clients (Britannica bot-blocking); facts verified against standard reference usage. Verified by fact-checker 2026-08-18."
+
+  - id: S-353
+    title: "MacTutor — The real numbers: Pythagoras to Stevin (discovery of the irrationals; Hippasus legend)"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/HistTopics/Real_numbers_1/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.005.02 (rational vs. irrational numbers) for the story, told as legend, that the irrationality of √2 was discovered in the Pythagorean circle (traditionally attributed to Hippasus of Metapontum, 5th century BCE). CORRECTED URL: MacTutor has no standalone 'Hippasus' biography (the former /Biographies/Hippasus/ 404s, confirmed against the H index 2026-08-18). Re-pointed to the MacTutor history topic 'The real numbers: Pythagoras to Stevin' (verified live 2026-08-18), which recounts the discovery as uncertain/legendary: 'Von Fritz has proposed that the Pythagorean Hippasos first proved the irrationality of the golden ratio… The same idea… was expressed by Zeuthen and van der Waerden for the ratio of the diagonal and side of the square.' Supports the lesson's hedged 'as legend tells it' attribution, kept distinct from the proved fact that √2 is irrational."
+
+  - id: S-354
+    title: "MacTutor — Pythagoras's theorem in Babylonian mathematics (Plimpton 322)"
+    type: website
+    url: https://mathshistory.st-andrews.ac.uk/HistTopics/Babylonian_Pythagoras/
+    organization: MacTutor History of Mathematics Archive, University of St Andrews
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.005.09 (the Pythagorean theorem) for the claim that the right-triangle relationship was known long before Pythagoras. Verified live (2026-08-18): the page examines four Old Babylonian tablets (YBC 7289, Plimpton 322, Susa, Tell Dhibayi) and states Plimpton 322's date 'is put at between 1800 BC and 1650 BC' and that, per Neugebauer and Sachs, its columns are 'a list of Pythagorean integer triples'; it also shows the Yale tablet YBC 7289 carrying a sexagesimal approximation to √2. The lesson's 'Plimpton 322, c. 1800 BCE' is a reasonable rounding of this range, and the page explicitly notes 'the Babylonians were familiar with Pythagoras's theorem.' The lesson also cites the Chinese gou-gu rule (S-289) and the Indian Sulbasutras (S-292), holding 'Pythagoras's theorem' as a widely used name, not a claim about priority."
+
+  - id: S-355
+    title: "Wikipedia — Correlation does not imply causation"
+    type: website
+    url: https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation
+    organization: Wikipedia
+    domains: [D05]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.005.11 (line of fit; association is not causation) for the principle that two quantities moving together does not by itself prove one causes the other. CORRECTED: the originally registered source — an Our World in Data article 'Correlation does not imply causation' — does not exist (the URL 404s, the phrase appears nowhere in OWiD's sitemap, and the Wayback Machine has no snapshot), so it is replaced with the real, on-topic Wikipedia article of the same name (verified live 2026-08-18). The article states the principle and includes exactly the lesson's ice-cream/drowning example, under 'Third factor C… causes both A and B': 'As ice cream sales increase, the rate of drowning deaths increases sharply… The increased drowning deaths are simply caused by more exposure to water-based activities, not ice cream.' Secondary source used as a general authority for the statistical principle, not a claim-level statistic."
+
+  - id: S-356
+    title: "Encyclopaedia Britannica — Cell (biology)"
+    type: website
+    url: https://www.britannica.com/science/cell-biology
+    organization: Encyclopaedia Britannica
+    domains: [D05, D06]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.005.04 (scientific notation) for the claim that most cells are microscopic — a typical cell is on the order of 10 to 30 micrometres across. Verified 2026-08-18: the live page returns HTTP 403 to non-browser clients (bot-block), so content was verified against the Wayback Machine snapshot (2026-08-15, HTTP 200). The article states cells are 'usually microscopic in size' and that 'human cells are only about 20 μm across' — directly supporting the lesson's hedged 'typical cell on the order of 10–30 micrometres (≈2 × 10⁻⁵ m)' anchor, used alongside NASA's ~1.5 × 10⁸ km Sun distance (S-047) as the 'very small/very large' pair for scientific notation. Held as an approximate order of magnitude, not a precise measurement of any specific cell."

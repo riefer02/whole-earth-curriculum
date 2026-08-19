@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Scientific notation: powers of ten</title>
+  <desc id="desc">A vertical scale of powers of ten. From top to bottom: a galaxy about 10 to the 21 metres, the distance to the Sun 1.5 times 10 to the 8 kilometres, a human about 10 to the 0 metres, a cell about 2 times 10 to the negative 5 metres, and a virus about 10 to the negative 7 metres. Each has its scientific notation labeled, showing the exponent carries the size. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Powers of Ten: Very Large and Very Small</text>
+
+  <!-- vertical scale line -->
+  <line x1="256" y1="52" x2="256" y2="440" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- galaxy -->
+  <text x="282" y="70" font-family="sans-serif" font-size="15" fill="#222222">galaxy ≈ 10²¹ m</text>
+  <circle cx="256" cy="66" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="66" x2="278" y2="66" stroke="#6b93b6" stroke-width="2"/>
+
+  <!-- sun distance -->
+  <text x="282" y="140" font-family="sans-serif" font-size="15" fill="#222222">distance to the Sun ≈ 1.5 × 10⁸ km</text>
+  <circle cx="256" cy="136" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="136" x2="278" y2="136" stroke="#6b93b6" stroke-width="2"/>
+
+  <!-- human -->
+  <text x="282" y="224" font-family="sans-serif" font-size="15" fill="#222222">a person ≈ 10⁰ m (1 metre)</text>
+  <circle cx="256" cy="220" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="220" x2="278" y2="220" stroke="#7a9e7e" stroke-width="2"/>
+
+  <!-- cell -->
+  <text x="282" y="308" font-family="sans-serif" font-size="15" fill="#222222">a cell ≈ 2 × 10⁻⁵ m</text>
+  <circle cx="256" cy="304" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="304" x2="278" y2="304" stroke="#e0a458" stroke-width="2"/>
+
+  <!-- virus -->
+  <text x="282" y="392" font-family="sans-serif" font-size="15" fill="#222222">a virus ≈ 10⁻⁷ m</text>
+  <circle cx="256" cy="388" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="388" x2="278" y2="388" stroke="#e0a458" stroke-width="2"/>
+
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">scientific notation: N × 10ᵏ with 1 ≤ N &lt; 10</text>
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the exponent carries the size — compare the exponents first</text>
+</svg>

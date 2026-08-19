@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Transformations: slide, turn, flip, and scale</title>
+  <desc id="desc">A base triangle with four arrows leading to its images. A translation slides it right, a rotation turns it a quarter turn, a reflection flips it over a line, and a dilation enlarges it. The three rigid moves are labeled "same size, same shape — congruent," and the dilation is labeled "same shape, different size — similar." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Four Moves: Slide, Turn, Flip, Scale</text>
+
+  <!-- base triangle -->
+  <text x="80" y="110" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">base</text>
+  <polygon points="80,140 56,190 104,190" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- translation -->
+  <line x1="112" y1="165" x2="150" y2="165" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M146 161 L150 165 L146 169" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="166,140 142,190 190,190" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="178" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">translation (slide)</text>
+
+  <!-- rotation -->
+  <line x1="80" y1="196" x2="80" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M76 246 L80 250 L84 246" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="120,272 80,252 80,300" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">rotation (turn)</text>
+
+  <!-- reflection -->
+  <line x1="300" y1="140" x2="300" y2="250" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 4"/>
+  <polygon points="330,140 306,190 354,190" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="280" y1="165" x2="304" y2="165" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M300 161 L304 165 L300 169" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="330" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">reflection (flip)</text>
+
+  <!-- dilation -->
+  <line x1="150" y1="165" x2="180" y2="420" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M176 416 L180 420 L184 416" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="250,380 200,480 300,480" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="250" y="500" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">dilation (scale)</text>
+
+  <!-- labels panel -->
+  <rect x="360" y="280" width="140" height="170" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="430" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">slide · turn · flip</text>
+  <text x="430" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">same size,</text>
+  <text x="430" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">same shape</text>
+  <text x="430" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">congruent</text>
+  <text x="430" y="384" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">scale</text>
+  <text x="430" y="404" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">same shape,</text>
+  <text x="430" y="420" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">different size</text>
+  <text x="430" y="436" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">similar</text>
+</svg>

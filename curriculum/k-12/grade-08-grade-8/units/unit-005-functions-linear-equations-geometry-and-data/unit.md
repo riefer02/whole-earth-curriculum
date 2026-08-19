@@ -37,7 +37,7 @@ assessment_plan: >-
   investigation that names association without claiming cause as portfolio artifacts.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-16
+last_updated: 2026-08-18
 ---
 
 # Unit 5 — Functions, Linear Equations, Geometry & Data
@@ -70,3 +70,14 @@ traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.08.005.01 | Numbers, Dependence, Shape, and Data: Opening the Year | D05.S1.08.01, D05.S1.08.02, D05.S2.08.01, D05.S2.08.02, D05.S3.08.01, D05.S3.08.02, D05.S4.08.01, D05.S4.08.02 (recall & preview) |
+| L.08.005.02 | Rational and Irrational Numbers | D05.S1.08.01 |
+| L.08.005.03 | Approximating Square Roots on the Number Line | D05.S1.08.01 |
+| L.08.005.04 | Scientific Notation: Holding the Very Large and Very Small | D05.S1.08.02 |
+| L.08.005.05 | Functions: How One Quantity Depends on Another | D05.S2.08.01 |
+| L.08.005.06 | Solving Linear Equations in One Variable | D05.S2.08.02 |
+| L.08.005.07 | Two Equations at Once: Solving Systems by Graphing | D05.S2.08.02 |
+| L.08.005.08 | Transformations: Moving Shapes, Proving Congruence and Similarity | D05.S3.08.01 |
+| L.08.005.09 | The Pythagorean Theorem: Right Triangles and Distance | D05.S3.08.02 |
+| L.08.005.10 | Scatter Plots and Association | D05.S4.08.01 |
+| L.08.005.11 | Capstone: Lines of Fit, and Why Association Is Not Causation | D05.S4.08.02 (+ synthesis of all eight) |

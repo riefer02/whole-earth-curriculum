@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Solving 2x + 3 = 11 with a balance</title>
+  <desc id="desc">A balance-pan diagram solving 2x + 3 = 11. Step one: the left pan holds two x-blocks and three unit blocks; the right pan holds eleven unit blocks. Step two: three units are removed from both sides, leaving two x-blocks balancing eight units. Step three: the two x-blocks are split in half to reveal x = 4. Each step is labeled "do the same to both sides." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Solve 2x + 3 = 11 — Keep the Balance</text>
+
+  <!-- step 1 -->
+  <rect x="20" y="52" width="150" height="126" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="95" y="72" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">2x + 3 = 11</text>
+  <rect x="34" y="84" width="26" height="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="47" y="102" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">x</text>
+  <rect x="64" y="84" width="26" height="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="77" y="102" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">x</text>
+  <circle cx="110" cy="97" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="128" cy="97" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="146" cy="97" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="95" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">two x + three = eleven</text>
+
+  <!-- arrow -->
+  <text x="196" y="120" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">→</text>
+
+  <!-- step 2 -->
+  <rect x="216" y="52" width="130" height="126" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="281" y="72" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">2x = 8</text>
+  <rect x="228" y="84" width="26" height="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="241" y="102" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">x</text>
+  <rect x="258" y="84" width="26" height="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="271" y="102" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">x</text>
+  <circle cx="300" cy="97" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="318" cy="97" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="281" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">subtract 3 from both sides</text>
+
+  <!-- arrow -->
+  <text x="372" y="120" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">→</text>
+
+  <!-- step 3 -->
+  <rect x="392" y="52" width="100" height="126" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="442" y="72" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">x = 4</text>
+  <rect x="404" y="84" width="26" height="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="417" y="102" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">x</text>
+  <circle cx="452" cy="97" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="442" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">divide both sides by 2</text>
+
+  <text x="256" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">do the same thing to both sides</text>
+
+  <!-- check panel -->
+  <rect x="20" y="256" width="472" height="130" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">check it</text>
+  <text x="40" y="312" font-family="sans-serif" font-size="15" fill="#222222">put x = 4 back in: 2(4) + 3 = 8 + 3 = 11 ✓</text>
+  <text x="40" y="342" font-family="sans-serif" font-size="14" fill="#4f6d7a">undo add/subtract first, then multiply/divide</text>
+  <text x="40" y="368" font-family="sans-serif" font-size="14" fill="#4f6d7a">an equation is a balance — what you do to one side, do to the other</text>
+
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">isolate the variable by undoing, in reverse order, then check</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rational and irrational numbers on the number line</title>
+  <desc id="desc">A number line from negative 2 to 5. Rational numbers — negative 4, 1/2, 0.75, 3 — are shown as filled dots with labels. Irrational numbers — the square root of 2 near 1.4 and pi near 3.14 — are shown as open dots. A side panel states the test: a rational number can be written as a/b with a terminating or repeating decimal; an irrational number cannot. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Rational and Irrational Numbers</text>
+
+  <!-- number line -->
+  <line x1="60" y1="150" x2="452" y2="150" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M452 150 L444 146 M452 150 L444 154" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="60" y1="60" x2="60" y2="150" stroke="#2b3a42" stroke-width="1"/>
+  <line x1="172" y1="60" x2="172" y2="150" stroke="#2b3a42" stroke-width="1"/>
+  <line x1="284" y1="60" x2="284" y2="150" stroke="#2b3a42" stroke-width="1"/>
+  <line x1="396" y1="60" x2="396" y2="150" stroke="#2b3a42" stroke-width="1"/>
+  <text x="60" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">−4</text>
+  <text x="172" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">0</text>
+  <text x="284" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">1</text>
+  <text x="396" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2</text>
+
+  <!-- rational filled dots -->
+  <circle cx="60" cy="150" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="60" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">−4</text>
+  <circle cx="228" cy="150" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="228" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1/2</text>
+  <circle cx="312" cy="150" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="312" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">0.75</text>
+  <circle cx="424" cy="150" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="424" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3</text>
+
+  <!-- irrational open dots -->
+  <circle cx="300" cy="150" r="7" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="300" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">√2 ≈ 1.41</text>
+  <circle cx="404" cy="150" r="7" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="404" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">π ≈ 3.14</text>
+
+  <!-- test panel -->
+  <rect x="20" y="200" width="472" height="200" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="226" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">the a/b test</text>
+  <text x="40" y="256" font-family="sans-serif" font-size="15" fill="#222222">Rational — can be written as a/b (b ≠ 0).</text>
+  <text x="40" y="278" font-family="sans-serif" font-size="14" fill="#4f6d7a">decimal terminates: 0.75 = 3/4  ·  or repeats: 0.333… = 1/3</text>
+  <text x="40" y="310" font-family="sans-serif" font-size="15" fill="#222222">Irrational — cannot be written as a/b.</text>
+  <text x="40" y="332" font-family="sans-serif" font-size="14" fill="#4f6d7a">decimal never terminates or repeats: √2, π</text>
+  <text x="40" y="372" font-family="sans-serif" font-size="14" fill="#4f6d7a">careful: √9 = 3 and √4 = 2 — those are rational.</text>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">the number line is fuller than the fractions alone</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">between the fractions, the irrationals fill in the gaps</text>
+</svg>

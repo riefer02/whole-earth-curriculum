@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A scatter plot showing positive association</title>
+  <desc id="desc">A scatter plot with study hours on the x-axis and test score on the y-axis. The points rise from lower-left to upper-right, labeled "positive association — as one variable increases, the other tends to increase." A small inset shows points scattered with no clear pattern, labeled "no association." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Scatter Plots: Reading the Association</text>
+
+  <!-- axes -->
+  <line x1="60" y1="360" x2="360" y2="360" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="60" y1="80" x2="60" y2="360" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M360 360 L352 356 M360 360 L352 364" stroke="#2b3a42" stroke-width="2"/>
+  <text x="360" y="382" text-anchor="end" font-family="sans-serif" font-size="13" fill="#222222">study hours</text>
+  <text x="40" y="80" font-family="sans-serif" font-size="13" fill="#222222">score</text>
+
+  <!-- positive points -->
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
+    <circle cx="100" cy="320" r="6"/>
+    <circle cx="120" cy="300" r="6"/>
+    <circle cx="140" cy="290" r="6"/>
+    <circle cx="160" cy="270" r="6"/>
+    <circle cx="190" cy="250" r="6"/>
+    <circle cx="210" cy="230" r="6"/>
+    <circle cx="240" cy="210" r="6"/>
+    <circle cx="260" cy="180" r="6"/>
+    <circle cx="290" cy="150" r="6"/>
+    <circle cx="320" cy="120" r="6"/>
+  </g>
+
+  <text x="210" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">positive association</text>
+  <text x="210" y="106" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">as one increases, the other tends to increase</text>
+
+  <!-- inset: no association -->
+  <rect x="384" y="80" width="120" height="120" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <circle cx="404" cy="180" r="5"/>
+    <circle cx="420" cy="120" r="5"/>
+    <circle cx="436" cy="160" r="5"/>
+    <circle cx="452" cy="100" r="5"/>
+    <circle cx="470" cy="140" r="5"/>
+    <circle cx="486" cy="176" r="5"/>
+    <circle cx="412" cy="96" r="5"/>
+    <circle cx="476" cy="120" r="5"/>
+  </g>
+  <text x="444" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">no association</text>
+
+  <!-- negative panel -->
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">negative association: as one increases, the other tends to decrease</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">look at the whole cloud, not one dot — and name outliers without erasing them</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">association is not yet causation (next lesson)</text>
+</svg>

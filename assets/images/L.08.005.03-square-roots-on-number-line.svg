@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Locating square roots on the number line</title>
+  <desc id="desc">A number line from 0 to 5. Perfect squares 1, 4, 9, 16, 25 are marked above with their square roots below. The square roots √2, √5, √10, and √17 are placed between consecutive integers, each labeled with its bracket, such as "√10 is between 3 and 4 because 9 &lt; 10 &lt; 16." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Placing Square Roots on the Number Line</text>
+
+  <!-- number line -->
+  <line x1="50" y1="200" x2="470" y2="200" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M470 200 L462 196 M470 200 L462 204" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- integer ticks 0..5 -->
+  <line x1="50" y1="190" x2="50" y2="210" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="134" y1="190" x2="134" y2="210" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="218" y1="190" x2="218" y2="210" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="302" y1="190" x2="302" y2="210" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="386" y1="190" x2="386" y2="210" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="470" y1="190" x2="470" y2="210" stroke="#2b3a42" stroke-width="2"/>
+  <text x="50" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0</text>
+  <text x="134" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
+  <text x="218" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+  <text x="302" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3</text>
+  <text x="386" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">4</text>
+  <text x="470" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">5</text>
+
+  <!-- perfect squares above -->
+  <text x="134" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">1²</text>
+  <text x="218" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">4</text>
+  <text x="302" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">9</text>
+  <text x="386" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">16</text>
+  <text x="470" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">25</text>
+
+  <!-- square roots placed -->
+  <circle cx="167" cy="200" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="167" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">√2 ≈ 1.4</text>
+  <circle cx="268" cy="200" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="268" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">√5 ≈ 2.2</text>
+  <circle cx="352" cy="200" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="352" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">√10 ≈ 3.2</text>
+  <circle cx="436" cy="200" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="436" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">√17 ≈ 4.1</text>
+
+  <!-- bracket panel -->
+  <rect x="20" y="290" width="472" height="190" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">bracket, then refine</text>
+  <text x="40" y="346" font-family="sans-serif" font-size="15" fill="#222222">√10 is between 3 and 4, because 9 &lt; 10 &lt; 16.</text>
+  <text x="40" y="372" font-family="sans-serif" font-size="15" fill="#222222">√2 is between 1 and 2, because 1 &lt; 2 &lt; 4.</text>
+  <text x="40" y="408" font-family="sans-serif" font-size="14" fill="#4f6d7a">refine √2: 1.4² = 1.96 (a little low) · 1.5² = 2.25 (a little high)</text>
+  <text x="40" y="432" font-family="sans-serif" font-size="14" fill="#4f6d7a">so √2 ≈ 1.4 — closer to 1.4 than to 1.5</text>
+  <text x="40" y="464" font-family="sans-serif" font-size="14" fill="#4f6d7a">locate it between the perfect squares, then refine by squaring</text>
+</svg>

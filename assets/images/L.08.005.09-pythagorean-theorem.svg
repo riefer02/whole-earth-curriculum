@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Pythagorean theorem: a² + b² = c²</title>
+  <desc id="desc">A right triangle with legs 3 and 4 and hypotenuse 5. A square on each side shows 9, 16, and 25 unit squares. The equation a² + b² = c² is written, with the note "the two leg-squares together equal the hypotenuse square (9 + 16 = 25)." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">The Pythagorean Theorem: a² + b² = c²</text>
+
+  <!-- big square for hypotenuse -->
+  <rect x="230" y="70" width="250" height="250" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="355" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">c² = 5² = 25</text>
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="1">
+    <rect x="238" y="108" width="42" height="42"/>
+    <rect x="288" y="108" width="42" height="42"/>
+    <rect x="338" y="108" width="42" height="42"/>
+    <rect x="388" y="108" width="42" height="42"/>
+    <rect x="438" y="108" width="42" height="42"/>
+    <rect x="238" y="158" width="42" height="42"/>
+    <rect x="288" y="158" width="42" height="42"/>
+    <rect x="338" y="158" width="42" height="42"/>
+    <rect x="388" y="158" width="42" height="42"/>
+    <rect x="438" y="158" width="42" height="42"/>
+    <rect x="238" y="208" width="42" height="42"/>
+    <rect x="288" y="208" width="42" height="42"/>
+    <rect x="338" y="208" width="42" height="42"/>
+    <rect x="388" y="208" width="42" height="42"/>
+    <rect x="438" y="208" width="42" height="42"/>
+    <rect x="238" y="258" width="42" height="42"/>
+    <rect x="288" y="258" width="42" height="42"/>
+    <rect x="338" y="258" width="42" height="42"/>
+    <rect x="388" y="258" width="42" height="42"/>
+    <rect x="438" y="258" width="42" height="42"/>
+    <rect x="238" y="308" width="42" height="42"/>
+    <rect x="288" y="308" width="42" height="42"/>
+    <rect x="338" y="308" width="42" height="42"/>
+    <rect x="388" y="308" width="42" height="42"/>
+    <rect x="438" y="308" width="42" height="42"/>
+  </g>
+
+  <!-- leg b square (4) -->
+  <rect x="30" y="70" width="160" height="160" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="110" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">b² = 4² = 16</text>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="1">
+    <rect x="38" y="108" width="70" height="70"/>
+    <rect x="116" y="108" width="70" height="70"/>
+    <rect x="38" y="186" width="70" height="70"/>
+    <rect x="116" y="186" width="70" height="70"/>
+  </g>
+
+  <!-- leg a square (3) -->
+  <rect x="30" y="250" width="120" height="120" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="276" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a² = 3² = 9</text>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="1">
+    <rect x="38" y="288" width="52" height="52"/>
+    <rect x="96" y="288" width="52" height="52"/>
+    <rect x="38" y="346" width="52" height="52"/>
+    <rect x="96" y="346" width="52" height="52"/>
+  </g>
+
+  <!-- right triangle -->
+  <polygon points="30,250 150,250 150,370 30,250" fill="#fdfbf7" fill-opacity="0.6" stroke="#e0a458" stroke-width="2"/>
+  <text x="120" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">3</text>
+  <text x="170" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">4</text>
+  <text x="80" y="244" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">5</text>
+
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">a² + b² = c²</text>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">9 + 16 = 25 — the two leg-squares together equal the hypotenuse square</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">known in Babylon (Plimpton 322), India (Sulbasutras), and China (gou-gu) before the name "Pythagoras"</text>
+</svg>

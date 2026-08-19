@@ -4841,7 +4841,7 @@ items:
     type: lesson
     grade: 8
     domain: D05
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -4853,6 +4853,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Verified IDs L.08.005.01-.11 with matching sequence_in_unit 1-11 and unit.md Lessons table; every objectives: resolves only to the eight grade-8 D05 standards (L9 → D05.S3.08.02, L11 all eight capstone); math correctness spot-checked (√2/π irrational vs √9=3 rational; 150,000,000=1.5×10⁸ and 0.00002=2×10⁻⁵; y=2x+1 and y=−x+7 intersect (2,5); 3²+4²=5²); required headings present; sources cited (Plimpton 322 S-354, Dunlosky S-039); 11 SVGs present/valid."
+      fact-checker:
+        verdict: passed
+        note: "Verified all four new sources marked reviewed:true: S-353 Hippasus/√2 legend (corrected dead MacTutor URL to 'Real numbers: Pythagoras to Stevin' page); S-354 Plimpton 322 (live, 1800-1650 BC); S-355 correlation-vs-causation (replaced nonexistent OWID article with real Wikipedia ice-cream/drowning common-cause example + updated lesson); S-356 cell size ~10-30 μm (Britannica via Wayback ~20 μm). Spot-checked math-history (Rhind Papyrus S-288, al-Khwarizmi S-293, gou-gu S-289, Sulbasutras S-292, Descartes S-240 all accurate). Corrected mislabeled powers-of-ten asset (virus ≈10⁻⁹ m → 10⁻⁷ m). validate green (1222 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Spot-checked framing (no US/Euro default: neutral coins + SI units rather than dollars/miles, examples spanning flatbreads/rice/market stalls/square gardens); representation/accuracy (non-Western math history — Rhind Papyrus, al-Khwarizmi/al-jabr, gou-gu, Sulbasutras, Plimpton 322 — integrated substantively not tokenized, accurately dated/hedged, held side by side per §11; L9 names 'Pythagoras's theorem' as widely used label not claim of priority). validate green (1222 files)."
+      accessibility-editor:
+        verdict: passed
+        note: Verified low-tech/no-tech viability (every lesson declares materials_low_tech, no device-dependent requirement); non-visual alternatives for graphs/diagrams (added tactile/raised-line + spoken paths — string/glue number lines, tactile grids, knotted rope 3-4-5, pegboard scatter, tactile function machine); dyscalculia accommodations (offload arithmetic to partner/kept-visible chart/pre-printed expansions, keep concept focus); color-blind/low-vision support (SVGs use labels+shapes not color alone, all 11 role=img/title/desc grayscale); plain language, wealth-free materials, non-empty alt text with resolving paths. validate green (1222 files).
+      alignment-auditor:
+        verdict: passed
+        note: "Verified all four lenses (ethics as moral reasoning on honesty/non-ranking/who-benefits; egalitarianism via 'math is sense-making open to all, never a gate'; global via non-Western history Rhind Papyrus/al-Khwarizmi/Plimpton 322/Sulbasutras/gou-gu no US/Euro default; tech+environment where natural); evidence vs values (19 cited sources all resolve, values labeled); traceability: L.08.005.01-.11 objectives → eight real D05 grade-8 standards → D05.S1-S4 → P3 → vision. validate green (1222 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: functions/slope/f(x) scaffolded via concrete anchors (function machine, counters, balance, tracing paper, knotted rope) with explicit instruction → worked examples → guided practice → independent work, matching emerging formal operations; emotional safety: no speed-ranking/shame, 'not yet' mastery framing in capstone self-assessment, 'irrational is not a slur' named in L2; physical fit: kinesthetic + outdoor variants (body-acting transformations, pacing perfect squares, rope 3-4-5); open-endedness + spiral: wonders held as questions revisited at capstone, Grade 7 recall, Pythagorean theorem as name not claim. validate green (1222 files). Non-blocking: L10 height/arm-span data activity touches body-consciousness hotspot (already softened by 'plot never ranks people')."
   - id: B-364
     title: "Author lessons for Unit U.08.006 (Science: Systems, Evidence & Models)"
     agent: lesson-author
