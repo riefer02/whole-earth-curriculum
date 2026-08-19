@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The story I am writing: past, present, future</title>
+  <desc id="desc">A winding path runs from a past scene on the left, through a figure standing in the present at the center, to a bright horizon and star on the right. Three markers label the chapters: past, present, and hoped-for future. A single thread connects all three, showing that one life story holds them together.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">The Story I Am Writing</text>
+
+  <!-- the thread that connects all three chapters -->
+  <path d="M60 300 C140 220 160 380 256 320 C340 268 360 400 452 220" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="7 6"/>
+
+  <!-- past scene: a small house and a child figure -->
+  <rect x="40" y="270" width="60" height="44" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M34 272 L70 240 L106 272" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="70" cy="250" r="7" fill="#2b3a42"/>
+  <circle cx="70" cy="318" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="58" y="330" width="24" height="20" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="70" y="374" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">past</text>
+  <text x="70" y="392" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">where I came from</text>
+
+  <!-- present: a standing figure at the center -->
+  <circle cx="256" cy="300" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="232" y="320" width="48" height="42" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M232 340 L214 372 M280 340 L298 372" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">present</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">who I am now</text>
+
+  <!-- hoped-for future: a horizon and star -->
+  <circle cx="452" cy="212" r="16" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M452 188 L456 206 L474 208 L458 219 L461 237 L452 226 L443 237 L446 219 L430 208 L448 206 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M404 268 q48 16 96 0" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="452" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">hoped-for future</text>
+  <text x="452" y="276" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">who I am becoming</text>
+
+  <!-- the thread label -->
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">one thread runs through all three</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">I am the author of the next chapter</text>
+</svg>

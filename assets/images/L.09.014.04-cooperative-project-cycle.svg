@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Our cooperative project: the design cycle</title>
+  <desc id="desc">A circle of five steps: see a need, listen to the people, plan together, act, and reflect and adjust. Small figures of varied skin tones cooperate at each step. An arrow leads onward from the cycle labeled "to Grade 10," showing the work continues forward.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Care Into Action: The Design Cycle</text>
+
+  <!-- cycle ring -->
+  <circle cx="256" cy="240" r="118" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <!-- arrowheads around the ring to show flow -->
+  <g fill="#4f6d7a">
+    <path d="M350 176 L360 190 L340 194 Z"/>
+    <path d="M372 256 L388 246 L384 266 Z"/>
+    <path d="M330 330 L342 316 L322 312 Z"/>
+    <path d="M256 362 L266 346 L246 342 Z"/>
+    <path d="M182 330 L194 316 L174 312 Z"/>
+    <path d="M140 256 L156 246 L152 266 Z"/>
+    <path d="M166 176 L178 190 L158 194 Z"/>
+  </g>
+
+  <!-- step nodes -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <!-- see a need (top) -->
+    <circle cx="256" cy="148" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="152" font-size="11" font-weight="bold" fill="#2b3a42">see a</text>
+    <text x="256" y="165" font-size="11" font-weight="bold" fill="#2b3a42">need</text>
+
+    <!-- listen (upper right) -->
+    <circle cx="364" cy="206" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="364" y="206" font-size="11" font-weight="bold" fill="#2b3a42">listen</text>
+    <text x="364" y="219" font-size="11" font-weight="bold" fill="#2b3a42">to people</text>
+
+    <!-- plan together (lower right) -->
+    <circle cx="346" cy="316" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="346" y="316" font-size="11" font-weight="bold" fill="#2b3a42">plan</text>
+    <text x="346" y="329" font-size="11" font-weight="bold" fill="#2b3a42">together</text>
+
+    <!-- act (bottom) -->
+    <circle cx="256" cy="352" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="256" y="356" font-size="11" font-weight="bold" fill="#2b3a42">act</text>
+
+    <!-- reflect and adjust (lower left) -->
+    <circle cx="166" cy="316" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="166" y="316" font-size="11" font-weight="bold" fill="#2b3a42">reflect &amp;</text>
+    <text x="166" y="329" font-size="11" font-weight="bold" fill="#2b3a42">adjust</text>
+  </g>
+
+  <!-- cooperating figures in the center -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <circle cx="238" cy="236" r="11" fill="#7a9e7e"/>
+    <path d="M226 250 q12 12 24 0" fill="#e0a458"/>
+    <circle cx="276" cy="236" r="11" fill="#e0a458"/>
+    <path d="M264 250 q12 12 24 0" fill="#6b93b6"/>
+    <circle cx="257" cy="258" r="9" fill="#6b93b6"/>
+    <path d="M247 269 q10 9 20 0" fill="#7a9e7e"/>
+  </g>
+
+  <!-- onward arrow to Grade 10 -->
+  <path d="M404 460 L488 460" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <path d="M480 452 L488 460 L480 468" fill="#2b3a42"/>
+  <text x="470" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">to Grade 10</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">everyone gives, everyone decides, everyone shares the credit</text>
+</svg>

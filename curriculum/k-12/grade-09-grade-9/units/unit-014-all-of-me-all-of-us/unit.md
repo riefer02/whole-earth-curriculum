@@ -61,3 +61,7 @@ stewardship.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | The Story I Am Writing | D01.S2.09.01 |
+| 2 | Me and My Society: Shaped and Shaping | D01.S2.09.02 |
+| 3 | My North Star and My People: A Goal and My Communities | D01.S3.09.01, D02.S3.09.01 |
+| 4 | Care Into Action: Our Cooperative Project — and the Road to Grade 10 | D02.S4.09.02 |

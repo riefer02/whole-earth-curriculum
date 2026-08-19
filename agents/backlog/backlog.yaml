@@ -5544,7 +5544,7 @@ items:
     type: lesson
     grade: 9
     domain: D01
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5556,6 +5556,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate green (1403 files). 4 lessons L.09.014.01-.04 seq 1-4; objectives resolve to real IDs covering all 5 (D01.S2.09.01->L1, D01.S2.09.02->L2, D01.S3.09.01+D02.S3.09.01->L3, D02.S4.09.02->L4); unit.md table matches 4 files 1:1; headings present; 14 S-codes resolve; 5 SVGs with alt/title/desc. L3 Connection names harambee/minga/gotong royong communal traditions; goal-with-milestones faithful.
+      fact-checker:
+        verdict: passed
+        note: Verified narrative-identity (S-404 McAdams), possible-selves (S-399), social-identity (S-232 Tajfel), goal-setting (S-223 Locke&Latham), purpose (S-400 Damon, ~20% hedged), mutual-aid/communal-work (S-163/S-164/S-345), cooperative-learning (S-233/S-147/S-007/S-008), Erikson (S-155). All 15 S-codes resolve to real reviewed entries, correct attribution, hedged framing. Evidence vs values distinguished.
+      global-culture-editor:
+        verdict: passed
+        note: "Framing/representation verified: communal-work + community forms span Kenya (harambee), Andes (minga/mink'a), Indonesia (gotong royong), North America (barn raising), chosen families, mutual-aid networks; held side by side as living traditions (philosophy 11), instruction not to rank/stereotype; Connections span multiple regions/ways of life; no single-culture default."
+      accessibility-editor:
+        verdict: passed
+        note: Tiered materials in all 4 lessons; low-tech uses paper/voice/soil/stones (no devices/wealth). UDL multiple means (write/speak/draw/act) + context_variants + differentiation; spoken-assessment accommodation; plain learner-first language. All 5 assets carry non-empty alt; all 5 SVGs role=img/title/desc, color not sole signal.
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses verified: ethics (agency-not-blame, responsibility, who-decides), egalitarianism (every story worth telling, chosen families as strength, non-ranking celebration), global/anthropological (harambee/minga/gotong royong/barn raising unranked), technology & environment (media as shaper, online mutual aid, what tech enables vs costs). Evidence vs values distinguished; 15 sources resolve. Traceability unbroken: Vision->P1->D01/D02->strands->U.09.014->L.09.014.01-04. Fixed L1 missing tech/env lens + aligned frontmatter lens lists."
+      child-psychologist:
+        verdict: passed
+        note: "Grade-9 band (14-15): cognitive fit on-band (narrative identity, possible selves, socialization/agency, goal-setting, cooperative-project design - abstract but anchored). Emotional safety: non-coercive and hopeful; 'I don't know yet' honored; sharing invited-never-forced; stories never ranked; feared self optional; goals meaningful-and-reachable with adjust-not-abandon; celebration not a ranking. Open-ended questions per philosophy 11 (descriptive theories not rules). Spiral respected (retrieves grade-8, looks ahead to grade-10)."
   - id: B-383
     title: Author lessons for Unit U.10.001 (Feelings, Identity & Purpose)
     agent: lesson-author

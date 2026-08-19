@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My north star: a goal path with milestones</title>
+  <desc id="desc">A winding path leads from a starting point labeled "where I am now" up to a large star labeled "my goal." Along the path are three milestone flags labeled milestone one, two, and three. A dotted side path leaves the main road and loops back onto it, labeled "adjust the plan," showing that changing course is part of reaching a goal.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">My North Star: The Goal Path</text>
+
+  <!-- main path -->
+  <path d="M70 440 C160 400 120 320 256 300 C370 284 360 200 448 140" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- start marker -->
+  <circle cx="70" cy="440" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="70" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">where I am now</text>
+
+  <!-- north star goal -->
+  <circle cx="448" cy="120" r="20" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M448 84 L454 112 L482 116 L458 131 L463 159 L448 143 L433 159 L438 131 L414 116 L442 112 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="448" y="66" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">my goal</text>
+
+  <!-- milestone flags -->
+  <g stroke="#2b3a42" stroke-width="2.5">
+    <path d="M178 396 L178 352"/>
+    <path d="M178 352 L218 362 L178 372 Z" fill="#6b93b6"/>
+    <path d="M272 314 L272 270"/>
+    <path d="M272 270 L312 280 L272 290 Z" fill="#6b93b6"/>
+    <path d="M376 244 L376 200"/>
+    <path d="M376 200 L416 210 L376 220 Z" fill="#6b93b6"/>
+  </g>
+  <text x="178" y="340" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">milestone 1</text>
+  <text x="272" y="258" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">milestone 2</text>
+  <text x="376" y="188" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">milestone 3</text>
+
+  <!-- adjustment side path -->
+  <path d="M290 320 C360 360 330 400 320 360" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <text x="356" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">adjust the plan</text>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">if a step fails, re-route the road — do not abandon the star</text>
+</svg>
