@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Collective action plan canvas</title>
+  <desc>A plan canvas with a center circle labeled issue, and three boxes around it labeled goals, allies, and steps, connected by lines, grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <!-- center -->
+    <circle cx="256" cy="256" r="64" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="250" font-size="16" font-weight="bold" fill="#222222">issue</text>
+    <text x="256" y="272" font-size="12" fill="#4f6d7a">what we want to change</text>
+    <!-- top: goals -->
+    <rect x="156" y="48" width="200" height="66" rx="8" fill="#eef3e8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="76" font-size="15" font-weight="bold" fill="#222222">goals</text>
+    <text x="256" y="98" font-size="12" fill="#222222">verifiable, clear</text>
+    <!-- left: allies -->
+    <rect x="40" y="180" width="150" height="66" rx="8" fill="#f3ead8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="115" y="208" font-size="15" font-weight="bold" fill="#222222">allies</text>
+    <text x="115" y="230" font-size="12" fill="#222222">who shares it, who can help</text>
+    <!-- right: steps -->
+    <rect x="322" y="180" width="150" height="66" rx="8" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
+    <text x="397" y="208" font-size="15" font-weight="bold" fill="#222222">steps</text>
+    <text x="397" y="230" font-size="12" fill="#222222">concrete, in order</text>
+    <!-- connectors -->
+    <g stroke="#4f6d7a" stroke-width="2" fill="none">
+      <path d="M256 114 L256 192"/>
+      <path d="M190 213 L192 250"/>
+      <path d="M322 213 L320 250"/>
+    </g>
+    <text x="256" y="380" font-size="14" fill="#222222">three parts, one plan</text>
+  </g>
+</svg>

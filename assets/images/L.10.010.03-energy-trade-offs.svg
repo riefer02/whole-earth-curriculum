@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Energy trade-offs: dam, wind, forest</title>
+  <desc>Three choices side by side: a dam holding back a reservoir, a wind turbine on a hill, and a standing forest. Beneath each, a benefits list and a harms list, grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <g font-size="16" fill="#2b3a42" font-weight="bold">
+      <text x="86" y="40">dam</text>
+      <text x="256" y="40">wind farm</text>
+      <text x="430" y="40">forest</text>
+    </g>
+    <!-- dam -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <path d="M40 96 L132 96 L128 180 L44 180 Z"/>
+      <path d="M44 180 q -2 16 8 16 h 66 q 10 0 8 -16"/>
+      <path d="M132 96 L132 180"/>
+      <path d="M150 118 q 12 -6 12 8 q 0 12 -12 12"/>
+    </g>
+    <!-- wind turbine -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <path d="M256 160 L256 100"/>
+      <path d="M244 104 L268 104"/>
+      <path d="M256 104 L234 88 M256 104 L278 88"/>
+      <circle cx="256" cy="100" r="4" fill="#2b3a42"/>
+      <path d="M240 160 L272 160"/>
+    </g>
+    <!-- forest -->
+    <g stroke="#2b3a42" stroke-width="2" fill="#7a9e7e">
+      <path d="M406 160 L406 128"/>
+      <path d="M394 132 L406 108 L418 132 Z"/>
+      <path d="M422 160 L422 136"/>
+      <path d="M412 140 L422 120 L432 140 Z"/>
+      <path d="M438 160 L438 126"/>
+      <path d="M428 130 L438 106 L448 130 Z"/>
+    </g>
+    <line x1="30" y1="196" x2="482" y2="196" stroke="#2b3a42" stroke-width="2"/>
+    <g font-size="12" fill="#2b3a42">
+      <text x="30" y="216" font-weight="bold">benefits</text>
+      <text x="86" y="236">electricity, water</text>
+      <text x="256" y="236">clean power</text>
+      <text x="430" y="236">carbon stored, soil held</text>
+      <text x="30" y="266" font-weight="bold">harms</text>
+      <text x="86" y="286">valley flooded, people moved</text>
+      <text x="256" y="286">bird paths, land used</text>
+      <text x="430" y="286">no electricity produced</text>
+    </g>
+    <text x="256" y="330" font-size="14" fill="#222222">every option has a cost; the skill is seeing it clearly</text>
+  </g>
+</svg>

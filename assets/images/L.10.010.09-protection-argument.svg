@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Four-part protection argument</title>
+  <desc>Four stacked building blocks labeled claim, reason, evidence, and response to counterargument, with a capstone labeled protection, grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <!-- capstone -->
+    <path d="M206 96 L256 70 L306 96 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="90" font-size="13" font-weight="bold" fill="#222222">protection</text>
+    <!-- block 1 -->
+    <rect x="196" y="110" width="120" height="44" rx="6" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="137" font-size="14" fill="#222222">claim</text>
+    <!-- block 2 -->
+    <rect x="196" y="164" width="120" height="44" rx="6" fill="#eef3e8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="191" font-size="14" fill="#222222">reason</text>
+    <!-- block 3 -->
+    <rect x="196" y="218" width="120" height="44" rx="6" fill="#f3ead8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="245" font-size="14" fill="#222222">evidence</text>
+    <!-- block 4 -->
+    <rect x="196" y="272" width="120" height="44" rx="6" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="299" font-size="14" fill="#222222">response</text>
+    <text x="256" y="350" font-size="13" fill="#4f6d7a">(to a counterargument)</text>
+    <text x="256" y="460" font-size="14" fill="#222222">a protection argument is built, not just said</text>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Who bears the climate burden</title>
+  <desc>On the left, tall smokestacks of high-emitting places. On the right, low-lying and exposed communities with floods, heat, and drought. Arrows of responsibility run from left to right, grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <text x="130" y="36" font-size="15" font-weight="bold" fill="#2b3a42">who emitted most</text>
+    <text x="386" y="36" font-size="15" font-weight="bold" fill="#2b3a42">who is harmed most</text>
+    <!-- left: smokestacks -->
+    <g stroke="#2b3a42" stroke-width="2" fill="#4f6d7a">
+      <rect x="86" y="120" width="34" height="90"/>
+      <rect x="60" y="170" width="90" height="40"/>
+      <path d="M96 120 L96 80 M106 120 L106 66 M116 120 L116 90"/>
+    </g>
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <path d="M96 80 q -4 -10 0 -18 q 4 -8 0 -16"/>
+      <path d="M106 66 q 4 -10 0 -18 q -4 -8 0 -16"/>
+    </g>
+    <!-- right: flooded house + heat + drought -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <path d="M344 170 L360 120 L392 120 L408 170 Z"/>
+      <rect x="352" y="170" width="48" height="40"/>
+      <path d="M340 210 h 72 l -6 14 h -60 Z"/>
+    </g>
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <!-- sun (heat) -->
+      <circle cx="430" cy="96" r="16"/>
+      <path d="M430 70 v -8 M430 122 v -8 M404 96 h -8 M456 96 h -8"/>
+      <!-- drought crack -->
+      <path d="M346 262 q 8 6 16 0 q 8 -6 16 0 q 8 6 16 0"/>
+    </g>
+    <!-- arrows of responsibility -->
+    <g stroke="#e0a458" stroke-width="3" fill="none">
+      <path d="M170 150 L320 150"/>
+      <path d="M310 142 L322 150 L310 158"/>
+    </g>
+    <text x="256" y="300" font-size="14" fill="#222222">responsibility runs from cause to harm — who owes what?</text>
+  </g>
+</svg>

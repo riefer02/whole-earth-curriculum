@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Argument iceberg: the unsaid below the water</title>
+  <desc>An iceberg floating in water. Above the waterline a stated claim is written. Below the waterline several hidden assumptions are written on lines. The water is lightly shaded.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- water -->
+  <rect x="20" y="230" width="472" height="220" fill="#d9e4ec"/>
+  <!-- iceberg above water -->
+  <path d="M206 230 L236 150 L276 118 L312 150 L336 230 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <!-- iceberg below water -->
+  <path d="M206 230 L226 300 L250 360 L268 400 L292 360 L316 300 L336 230 Z" fill="#e8eef2" stroke="#4f6d7a" stroke-width="2"/>
+  <!-- waterline -->
+  <line x1="20" y1="230" x2="492" y2="230" stroke="#2b3a42" stroke-width="2"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <text x="271" y="158" font-size="13" fill="#222222">stated claim</text>
+    <text x="271" y="178" font-size="12" fill="#4f6d7a">(what is said)</text>
+    <text x="271" y="252" font-size="12" fill="#2b3a42">assumption: everyone can afford it</text>
+    <text x="271" y="284" font-size="12" fill="#2b3a42">assumption: everyone has a network</text>
+    <text x="271" y="316" font-size="12" fill="#2b3a42">assumption: "better" is the same for all</text>
+    <text x="271" y="348" font-size="12" fill="#2b3a42">assumption: the speaker's life is the default</text>
+    <text x="271" y="392" font-size="13" fill="#222222">hidden assumptions (what is unsaid)</text>
+  </g>
+  <text x="256" y="486" font-family="sans-serif" font-size="14" fill="#2b3a42" text-anchor="middle">draw the waterline, then read what lies below it</text>
+</svg>

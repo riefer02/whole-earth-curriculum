@@ -73,3 +73,17 @@ never answered as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Ethics as Reasoned Weighing | D09.S1.10.01 |
+| 02 | Weighing a Technology: The Phone in My Hand | D09.S1.10.01 |
+| 03 | Weighing an Environment: Energy and Trade-Offs | D09.S1.10.01 |
+| 04 | Hidden Assumptions: Reading the Unsaid | D09.S1.10.02 |
+| 05 | Rebuilding More Fairly | D09.S1.10.02 |
+| 06 | Who Bears the Climate Burden? | D09.S2.10.01 |
+| 07 | Poverty and Responsibility: Competing Answers | D09.S2.10.01 |
+| 08 | Data and the Shape of Privacy | D09.S2.10.02 |
+| 09 | Arguing for Protections | D09.S2.10.02 |
+| 10 | Designing Collective Action: Goals, Allies, Steps | D09.S3.10.01 |
+| 11 | Evaluating the Plan: Effects and Ripples | D09.S3.10.01 |
+| 12 | Civic Technology and Digital Citizenship | D09.S3.10.02 |
+| 13 | Designing a Restorative Process | D09.S4.10.01 |
+| 14 | Peacebuilding: Transforming Conflict Nonviolently | D09.S4.10.02 |

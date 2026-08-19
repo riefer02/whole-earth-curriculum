@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Civic technology and digital citizenship</title>
+  <desc>Three connected circles labeled misinformation, surveillance, and inclusion and exclusion, arranged around a center labeled digital citizenship, grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <!-- center -->
+    <circle cx="256" cy="256" r="70" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="250" font-size="15" font-weight="bold" fill="#222222">digital</text>
+    <text x="256" y="270" font-size="15" font-weight="bold" fill="#222222">citizenship</text>
+    <!-- misinformation -->
+    <circle cx="256" cy="112" r="72" fill="#f3ead8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="106" font-size="14" font-weight="bold" fill="#222222">misinformation</text>
+    <text x="256" y="126" font-size="11" fill="#222222">false stories, shared fast</text>
+    <!-- surveillance -->
+    <circle cx="120" cy="256" r="72" fill="#eef3e8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="120" y="250" font-size="14" font-weight="bold" fill="#222222">surveillance</text>
+    <text x="120" y="270" font-size="11" fill="#222222">watched without knowing</text>
+    <!-- inclusion/exclusion -->
+    <circle cx="392" cy="256" r="72" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
+    <text x="392" y="244" font-size="14" font-weight="bold" fill="#222222">inclusion</text>
+    <text x="392" y="262" font-size="14" font-weight="bold" fill="#222222">/ exclusion</text>
+    <text x="392" y="282" font-size="11" fill="#222222">who is left out</text>
+    <text x="256" y="430" font-size="14" fill="#222222">three forces shaping public life online</text>
+  </g>
+</svg>

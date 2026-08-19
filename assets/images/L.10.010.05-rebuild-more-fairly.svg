@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Rebuilding an argument more fairly</title>
+  <desc>Two panels side by side with an arrow between them. The left panel holds a narrow original claim. The right panel holds a rebuilt claim that names more people and qualifies the sweeping word, grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <text x="140" y="44" font-size="16" font-weight="bold" fill="#2b3a42">original</text>
+    <text x="372" y="44" font-size="16" font-weight="bold" fill="#2b3a42">rebuilt</text>
+    <!-- left panel -->
+    <rect x="36" y="70" width="208" height="220" rx="8" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="120" font-size="13" fill="#222222">"Everyone should</text>
+    <text x="140" y="142" font-size="13" fill="#222222">switch to smartphones;</text>
+    <text x="140" y="164" font-size="13" fill="#222222">they make life better</text>
+    <text x="140" y="186" font-size="13" fill="#222222">for all of us."</text>
+    <text x="140" y="240" font-size="12" fill="#4f6d7a">(sweeping word: everyone)</text>
+    <!-- arrow -->
+    <path d="M252 180 L330 180" stroke="#e0a458" stroke-width="4" fill="none"/>
+    <path d="M322 172 L332 180 L322 188" stroke="#e0a458" stroke-width="4" fill="none"/>
+    <!-- right panel -->
+    <rect x="268" y="70" width="208" height="220" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <text x="372" y="104" font-size="13" fill="#222222">"For people who can</text>
+    <text x="372" y="126" font-size="13" fill="#222222">afford one and have a</text>
+    <text x="372" y="148" font-size="13" fill="#222222">network, a phone can</text>
+    <text x="372" y="170" font-size="13" fill="#222222">connect, pay, and teach</text>
+    <text x="372" y="192" font-size="13" fill="#222222">— but we should build</text>
+    <text x="372" y="214" font-size="13" fill="#222222">the same for those</text>
+    <text x="372" y="236" font-size="13" fill="#222222">without, too."</text>
+    <text x="256" y="330" font-size="14" fill="#222222">name the left-out, qualify the sweep, say what you mean</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Competing answers: capabilities, fairness, ubuntu</title>
+  <desc>Three labeled circles, partially overlapping, each holding a short answer to who is responsible for poverty. Capabilities, fairness, and ubuntu, grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <!-- three overlapping circles -->
+    <circle cx="180" cy="200" r="120" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="332" cy="200" r="120" fill="#eef3e8" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="300" r="120" fill="#f3ead8" stroke="#2b3a42" stroke-width="2"/>
+    <text x="150" y="180" font-size="16" font-weight="bold" fill="#2b3a42">capabilities</text>
+    <text x="150" y="204" font-size="12" fill="#222222">expand what people</text>
+    <text x="150" y="222" font-size="12" fill="#222222">can do and be</text>
+    <text x="360" y="180" font-size="16" font-weight="bold" fill="#2b3a42">fairness</text>
+    <text x="360" y="204" font-size="12" fill="#222222">rules chosen behind</text>
+    <text x="360" y="222" font-size="12" fill="#222222">a veil of ignorance</text>
+    <text x="256" y="310" font-size="16" font-weight="bold" fill="#2b3a42">ubuntu</text>
+    <text x="256" y="334" font-size="12" fill="#222222">"I am because we are" —</text>
+    <text x="256" y="352" font-size="12" fill="#222222">no one left out</text>
+    <text x="256" y="470" font-size="14" fill="#222222">three languages for the same question</text>
+  </g>
+</svg>

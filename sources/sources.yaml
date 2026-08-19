@@ -53,8 +53,8 @@ sources:
     url: https://ourworldindata.org/
     organization: Global Change Data Lab (University of Oxford)
     domains: [D05, D08, D09]
-    reviewed: false
-    notes: Global, open data for history, civic life, and reasoning.
+    reviewed: true
+    notes: "Global, open, CC-BY-licensed data and research platform (Global Change Data Lab, University of Oxford; founded by Max Roser). Cited in U.10.010 L06 (Who Bears the Climate Burden?) for the claim that the places that emitted the most greenhouse gases over the past two centuries are often not the places that feel the worst climate impacts, and for who-emits/who-is-exposed data. Fact-checker verified live (2026-08-19): the CO2-emissions hub (ourworldindata.org/co2-emissions) documents annual, per-capita, and cumulative CO2 emissions by country and region since 1751, and states plainly that 'the countries with the highest emissions over history are not always the biggest emitters today' and that 'most countries across Africa have been responsible for less than 0.02% of all emissions since 1750.' This directly supports the lesson's emissions-side (historical vs present emitters) claim; the exposure/vulnerability side is anchored by the IPCC (S-005). Correct attribution; used as a data authority, not a claim-level statistic."
 
   - id: S-007
     title: Bloom (1984) — The 2 Sigma Problem
@@ -4375,8 +4375,8 @@ sources:
     url: https://plato.stanford.edu/entries/ethics-indian-buddhism/
     organization: Stanford University (Stanford Encyclopedia of Philosophy)
     domains: [D09]
-    reviewed: false
-    notes: "Cited in U.09.011 L02 (the consequences lens) as the scholarly reference for the claim that consequentialist reasoning appears in Buddhist ethics. Buddhist ethics is centrally concerned with reducing suffering (dukkha) for all sentient beings and has been read by contemporary scholars (e.g., Charles Goodman) as a form of consequentialism. URL resolves (200). Registered by the alignment-auditor to close the evidence-vs-values gap flagged by the global-culture-editor; pending fact-checker verification (reviewed:false)."
+    reviewed: true
+    notes: "Cited in U.09.011 L02 (the consequences lens) as the scholarly reference for the claim that consequentialist reasoning appears in Buddhist ethics, and in U.10.010 L07 (Poverty and Responsibility) for the claim that Buddhist consequentialism carries ideas of justice as old and as serious as the Western canon. Buddhist ethics is centrally concerned with reducing suffering (dukkha) for all sentient beings and has been read by contemporary scholars (e.g., Charles Goodman) as a form of consequentialism. Fact-checker verified live (2026-08-19): URL resolves (200); the entry discusses Śāntideva's consequentialist/utilitarian-leaning passages and Goodman's 'character consequentialism', and notes the question of whether to read Buddhist ethics as consequentialist or virtue ethics is a live scholarly debate — so the 'Buddhist consequentialism' gloss is accurate when hedged (as the lesson does). Updated from reviewed:false after fact-checker verification."
 
   - id: S-468
     title: "Stanford Encyclopedia of Philosophy — Confucius"
@@ -4384,8 +4384,8 @@ sources:
     url: https://plato.stanford.edu/entries/confucius/
     organization: Stanford University (Stanford Encyclopedia of Philosophy)
     domains: [D09]
-    reviewed: false
-    notes: "Cited in U.09.011 L03 (the duties lens) as the scholarly reference for the claim that duty-based reasoning appears in Confucian role ethics. Confucian ethics grounds obligation in roles and relationships (filial piety, xiao; the reciprocal duties between parent and child, ruler and minister, friend and friend) rather than in a universal rule alone. URL resolves (200). Registered by the alignment-auditor to close the evidence-vs-values gap flagged by the global-culture-editor; pending fact-checker verification (reviewed:false)."
+    reviewed: true
+    notes: "Cited in U.09.011 L03 (the duties lens) as the scholarly reference for the claim that duty-based reasoning appears in Confucian role ethics, and in U.10.010 L07 (Poverty and Responsibility) for the claim that Confucian role ethics carries ideas of justice as old and as serious as the Western canon. Confucian ethics grounds obligation in roles and relationships (filial piety, xiao; the reciprocal duties between parent and child, ruler and minister, friend and friend) rather than in a universal rule alone. Fact-checker verified live (2026-08-19): URL resolves (200); the entry centers on role- and relationship-grounded ethics (filial piety xiao; reciprocal obligations of ruler/minister, parent/child, friend/friend; the five virtues including ren and yi), directly supporting the 'Confucian role ethics' characterization. Updated from reviewed:false after fact-checker verification."
 
   - id: S-469
     title: "Encyclopaedia Britannica — dharma"
@@ -4393,8 +4393,8 @@ sources:
     url: https://www.britannica.com/topic/dharma-religious-concept
     organization: Encyclopaedia Britannica
     domains: [D09]
-    reviewed: false
-    notes: "Cited in U.09.011 L03 (the duties lens) as the reference for the claim that Hindu and Buddhist accounts of dharma are duty-based. Dharma is the key concept of duty, righteousness, and moral law in Hinduism and Buddhism (and Jainism/Sikhism). URL returns 403 to automated clients (bot protection) but is a real, canonical Britannica entry — consistent with other registry entries that note 403s. Registered by the alignment-auditor to close the evidence-vs-values gap flagged by the global-culture-editor; pending fact-checker verification (reviewed:false)."
+    reviewed: true
+    notes: "Cited in U.09.011 L03 (the duties lens) as the reference for the claim that Hindu and Buddhist accounts of dharma are duty-based, and in U.10.010 L07 (Poverty and Responsibility) for the claim that dharma-based duty carries ideas of justice as old and as serious as the Western canon. Dharma is the key concept of duty, righteousness, and moral law in Hinduism and Buddhism (and Jainism/Sikhism). Fact-checker verified live (2026-08-19): the canonical Britannica entry 'dharma' (title 'Dharma | Hinduism, Buddhism, Karma'; 'Also known as: dhamma') resolves and confirms dharma as the duty/moral-law concept central to Hindu, Buddhist, Jain, and Sikh ethics — supporting the 'dharma-based duty' characterization. Updated from reviewed:false after fact-checker verification."
 
   - id: S-470
     title: "The Metropolitan Museum of Art — The Trans-Saharan Gold Trade (7th–14th Century)"

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Effects and ripples of a plan</title>
+  <desc>A stone dropped in water at center, with three concentric ripple rings labeled intended effect, second-order effect, and unintended effect, grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <!-- stone -->
+    <ellipse cx="256" cy="256" rx="18" ry="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <!-- ripples -->
+    <circle cx="256" cy="256" r="60" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="256" r="120" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <circle cx="256" cy="256" r="180" fill="none" stroke="#e0a458" stroke-width="2"/>
+    <!-- labels -->
+    <text x="256" y="184" font-size="13" fill="#222222">intended effect</text>
+    <text x="256" y="120" font-size="13" fill="#4f6d7a">second-order effect</text>
+    <text x="256" y="62" font-size="13" fill="#e0a458">unintended effect</text>
+    <text x="256" y="480" font-size="14" fill="#222222">every action drops a stone in water</text>
+  </g>
+</svg>

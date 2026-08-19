@@ -5914,7 +5914,7 @@ items:
     type: lesson
     grade: 10
     domain: D09
-    status: ready
+    status: done
     priority: 150
     depends_on:
       - B-107
@@ -5926,6 +5926,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validation 0 errors (1532 files). All 14 lessons: kind lesson, ids L.10.010.01-.14 matching sequence_in_unit 1-14, unit U.10.010, domain [D09], pillar [P4]; strands + objectives resolve to real D09 grade-10 standards. All 8 objectives covered. Required headings present in all 14; every assets entry non-empty alt + path resolves (14 SVGs); unit.md Lessons table matches. Connections concrete/faithful (L01/06/10/14 spot-checked; L14 cites Salt March S-390 and TRC S-392). Trivial note: lesson-013 alt value has stray double quotes but validates/non-empty."
+      fact-checker:
+        verdict: passed
+        note: "Verified high-risk claims: climate-burden responsibility frameworks (polluter pays/historical/capability/CBDR presented as values anchored to IPCC S-005 + Our World in Data S-006); Sen capabilities S-460, Rawls S-459, ubuntu S-465; UDHR Art.12 privacy S-149; Arab Spring 2010-11 + deepfakes S-391/S-393; Green Belt Movement 1977/30M+ trees S-059; 1930 Salt March S-390; TRC South Africa 1996-1998 amnesty-for-disclosure S-392; Galtung peace S-462; cobalt/e-waste S-398/S-397. All 33 citations exist; marked S-006, S-467, S-468, S-469 reviewed:true after live-verifying. Evidence-vs-values + inquiry-over-creed maintained. Non-blocking: L7 facilitator cites S-467/S-469 but Resources lists only S-465/S-468."
+      global-culture-editor:
+        verdict: passed
+        note: "Verified unit de-centers Western ethics and holds multiple world traditions side by side with no framework ranked superior: ubuntu ('I am because we are'), Sen capabilities, Rawls fairness, Confucian role ethics, Buddhist consequentialism, dharma duty, Satyagraha/Salt March, hózhó/Diné peacemaking, TRC South Africa (accurately hedged as 'a real, contested attempt'), Green Belt Movement, Arab Spring. Connections span global regions/ways of life (field/water source/shoreline/well/shared path; water scarcity, rain-fed/low-lying climate exposure, mobile money). Restorative justice's Indigenous roots honored. No edits needed."
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech/no-tech tier (all 14 lessons materials_low_tech board/paper+voice; enriched optional digital; no silent wealth/device assumption). Alt text + SVG a11y (all 14 assets non-empty descriptive alt; all SVGs role=img + title/desc). Fixed non-oral UDL gap: discussion-heavy ethics/justice procedures defaulted to oral-only; added non-oral Expression alternative to each lesson's Differentiation (write/draw/sign/dictate/point/sort slips/partner-read) for non-speaking, AAC-using, deaf, anxious learners + scribe/dictation for motor difficulty. Multiple means of engagement/representation + all five context variants present. Plain language, key vocab defined. Validate passes (1532 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses carried: ethics as reasoned weighing in every lesson; egalitarianism in all 14 (who benefits/who is left out/who bears the harm); global/anthropological in 13/14 (L7 de-centers Western canon via ubuntu/Confucian/Buddhist/dharma; L13 honors Indigenous Diné hózhó roots); technology & environment (privacy/surveillance/civic-tech L2/L8/L9/L12; climate/energy L3/L6). Evidence distinguished from values; all 32 cited S-IDs resolve with URLs. Traceability: lesson→D09.S1-S4→D09→P4→vision; all 8 objectives match real D09 grade-10 standards; validate passes. No hierarchy/supremacy/enrichment; frameworks weighed side-by-side never ranked."
+      child-psychologist:
+        verdict: passed
+        note: "9-12 band: cognitive load (competing justice frameworks Rawls/Sen/ubuntu, hidden assumptions, structural violence) matched to matured formal operations, staged worked-example→guided→independent, one objective per lesson, evidence vs values distinct. Emotional safety: hard truths (climate harm, poverty, cobalt child-labour/e-waste, surveillance, harm/repair, conflict) sourced/hedged/non-graphic with agency arc analysis→argument→action→repair→peacebuilding ending in hope not despair or moral paralysis; restorative-justice L13 uses non-graphic age-appropriate case study, lets learners choose engagement intensity, consent built in ('no one made to speak before ready'), responsibility taken-not-forced, no disclosure of personal harm. Physical: seated/written with outdoor-only variants and voice-free expression options. Open-endedness: questions held as questions not creeds (§11, explicit L1/L6/L7/L14), spiral retrieval from grades 8-9."
   - id: B-393
     title: Author lessons for Unit U.10.011 (Technology, Media & Our Earth Home)
     agent: lesson-author

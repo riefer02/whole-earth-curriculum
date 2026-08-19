@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Designing a restorative process</title>
+  <desc>A circle of figures — a person harmed, a person responsible, community members, and a facilitator — seated around the three restorative questions: what happened, who was harmed, how do we make it right. Grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <circle cx="256" cy="200" r="120" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <!-- figures around circle -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <!-- top person (facilitator) -->
+      <circle cx="256" cy="88" r="12" fill="#6b93b6"/>
+      <path d="M256 100 L256 130 M244 112 L268 112"/>
+      <text x="256" y="70" font-size="12" fill="#222222">facilitator</text>
+      <!-- left person harmed -->
+      <circle cx="142" cy="150" r="12" fill="#e0a458"/>
+      <path d="M142 162 L142 192 M130 174 L154 174"/>
+      <text x="142" y="222" font-size="12" fill="#222222">person harmed</text>
+      <!-- right person responsible -->
+      <circle cx="370" cy="150" r="12" fill="#4f6d7a"/>
+      <path d="M370 162 L370 192 M358 174 L382 174"/>
+      <text x="370" y="222" font-size="12" fill="#222222">person responsible</text>
+      <!-- bottom community members -->
+      <circle cx="190" cy="268" r="11" fill="#7a9e7e"/>
+      <path d="M190 279 L190 306 M179 290 L201 290"/>
+      <circle cx="322" cy="268" r="11" fill="#7a9e7e"/>
+      <path d="M322 279 L322 306 M311 290 L333 290"/>
+      <text x="256" y="322" font-size="12" fill="#222222">community</text>
+    </g>
+    <!-- three questions -->
+    <g font-size="13" fill="#222222">
+      <text x="256" y="370">1. what happened?</text>
+      <text x="256" y="392">2. who was harmed?</text>
+      <text x="256" y="414">3. how do we make it right?</text>
+    </g>
+    <text x="256" y="486" font-size="14" fill="#2b3a42">repair, not only punishment</text>
+  </g>
+</svg>

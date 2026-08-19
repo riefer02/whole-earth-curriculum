@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Ethics as reasoned weighing</title>
+  <desc>A balance scale with people and a tree on the left pan and a factory with smoke on the right pan. Four labels surround it: ethics, egalitarianism, global, technology and environment. The scale is level, showing that benefits and harms are held against each other.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- four corner lens labels -->
+  <g font-family="sans-serif" font-size="17" fill="#2b3a42" text-anchor="middle">
+    <text x="256" y="34">ethics</text>
+    <text x="256" y="496">global</text>
+    <text x="60" y="260">egalitarianism</text>
+    <text x="452" y="260">technology &amp; environment</text>
+  </g>
+  <!-- scale -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
+    <!-- stand -->
+    <path d="M256 150 L256 260"/>
+    <path d="M226 260 L286 260"/>
+    <!-- beam -->
+    <path d="M120 150 L392 150"/>
+    <!-- pivot -->
+    <circle cx="256" cy="150" r="8" fill="#2b3a42"/>
+    <!-- strings -->
+    <path d="M120 150 L120 208"/>
+    <path d="M150 150 L150 208"/>
+    <path d="M362 150 L362 208"/>
+    <path d="M392 150 L392 208"/>
+    <!-- pans -->
+    <path d="M100 208 L170 208 L160 226 L110 226 Z"/>
+    <path d="M342 208 L412 208 L402 226 L352 226 Z"/>
+  </g>
+  <!-- left pan: tree + people -->
+  <g fill="#7a9e7e">
+    <rect x="126" y="196" width="6" height="14" fill="#2b3a42"/>
+    <circle cx="129" cy="192" r="9"/>
+    <circle cx="123" cy="198" r="6"/>
+    <circle cx="136" cy="198" r="6"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <circle cx="147" cy="204" r="5" fill="#e0a458"/>
+    <path d="M147 209 L147 216 M143 211 L151 211"/>
+    <circle cx="158" cy="206" r="5" fill="#6b93b6"/>
+    <path d="M158 211 L158 216 M154 213 L162 213"/>
+  </g>
+  <!-- right pan: factory + smoke -->
+  <g stroke="#2b3a42" stroke-width="2" fill="#4f6d7a">
+    <rect x="350" y="192" width="24" height="20"/>
+    <path d="M344 192 L356 182 L366 192"/>
+    <rect x="366" y="188" width="4" height="24"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <path d="M356 182 q -3 -8 0 -14 q 3 -6 0 -12"/>
+    <path d="M370 182 q 3 -8 0 -14 q -3 -6 0 -12"/>
+  </g>
+  <text x="256" y="300" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">benefits and harms, held against each other</text>
+</svg>

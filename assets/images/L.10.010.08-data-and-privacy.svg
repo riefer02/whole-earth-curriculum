@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Data and the shape of privacy</title>
+  <desc>A horizontal spectrum from privacy limited on the left to privacy expanded on the right. Four technologies are placed along it — a surveillance camera, an ID card, a health app, and a messaging app — grayscale-printable.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <text x="120" y="60" font-size="16" font-weight="bold" fill="#2b3a42">privacy limited</text>
+    <text x="392" y="60" font-size="16" font-weight="bold" fill="#2b3a42">privacy expanded</text>
+    <!-- spectrum line -->
+    <line x1="60" y1="150" x2="452" y2="150" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M60 150 L452 150" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M60 142 L52 150 L60 158" stroke="#2b3a42" stroke-width="3" fill="none"/>
+    <path d="M452 142 L460 150 L452 158" stroke="#2b3a42" stroke-width="3" fill="none"/>
+    <!-- camera near left -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <rect x="96" y="180" width="34" height="22" rx="4" fill="#4f6d7a"/>
+      <circle cx="113" cy="191" r="7" fill="#e8eef2"/>
+      <path d="M104 180 L104 172 L122 172 L122 180"/>
+    </g>
+    <text x="113" y="230" font-size="12" fill="#222222">camera</text>
+    <!-- ID card -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <rect x="190" y="182" width="28" height="20" rx="3" fill="#e8eef2"/>
+      <circle cx="204" cy="190" r="4" fill="#4f6d7a"/>
+      <path d="M194 202 h 20"/>
+    </g>
+    <text x="204" y="230" font-size="12" fill="#222222">ID card</text>
+    <!-- health app -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <rect x="292" y="182" width="26" height="22" rx="4" fill="#e8eef2"/>
+      <path d="M296 190 h 18 M305 184 v 12"/>
+      <path d="M298 194 q 4 -4 7 0 q 3 4 7 0"/>
+    </g>
+    <text x="305" y="230" font-size="12" fill="#222222">health app</text>
+    <!-- messaging app -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <rect x="388" y="182" width="26" height="22" rx="4" fill="#e8eef2"/>
+      <path d="M392 186 q 0 -2 4 -2 q 4 0 4 2 v 8 q 0 2 -4 2 q -2 0 -3 -1 l -1 -1 h -2 q -1 0 -1 1 v 1"/>
+    </g>
+    <text x="401" y="230" font-size="12" fill="#222222">messaging</text>
+    <text x="256" y="300" font-size="14" fill="#222222">the same tool can sit in two places at once</text>
+  </g>
+</svg>

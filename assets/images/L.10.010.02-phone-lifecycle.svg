@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Phone lifecycle: benefits and harms</title>
+  <desc>Four stages of a phone's life in a row — a mine, a factory, a hand holding a phone, and a pile of discarded electronics. Below each stage, a benefits line and a harms line, printed in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <!-- stage titles -->
+    <g font-size="16" fill="#2b3a42" font-weight="bold">
+      <text x="76" y="46">minerals</text>
+      <text x="180" y="46">factory</text>
+      <text x="290" y="46">use</text>
+      <text x="410" y="46">dispose</text>
+    </g>
+    <!-- arrow -->
+    <g stroke="#4f6d7a" stroke-width="2" fill="none">
+      <path d="M96 74 L474 74"/>
+      <path d="M468 68 L474 74 L468 80"/>
+    </g>
+    <!-- stage 1: mine -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <path d="M50 120 L100 120 L100 176 L50 176 Z"/>
+      <path d="M58 128 L72 120 L86 128"/>
+      <path d="M60 168 L66 158 L72 168 M76 168 L82 158 L88 168"/>
+    </g>
+    <!-- stage 2: factory -->
+    <g stroke="#2b3a42" stroke-width="2" fill="#4f6d7a">
+      <rect x="158" y="128" width="30" height="24"/>
+      <path d="M150 128 L166 116 L178 128"/>
+      <rect x="180" y="124" width="5" height="28"/>
+    </g>
+    <!-- stage 3: hand + phone -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <rect x="276" y="120" width="24" height="40" rx="3" fill="#e0a458"/>
+      <path d="M282 120 L294 120 M278 160 L298 160"/>
+      <path d="M270 168 q -2 14 8 22 q 10 8 26 0" fill="#6b93b6"/>
+    </g>
+    <!-- stage 4: e-waste pile -->
+    <g stroke="#2b3a42" stroke-width="2" fill="none">
+      <rect x="380" y="150" width="26" height="16" rx="2"/>
+      <rect x="396" y="140" width="22" height="18" rx="2"/>
+      <rect x="386" y="132" width="20" height="14" rx="2"/>
+      <path d="M378 166 L430 166"/>
+    </g>
+    <!-- divider -->
+    <line x1="30" y1="196" x2="482" y2="196" stroke="#2b3a42" stroke-width="2"/>
+    <!-- benefit labels -->
+    <g font-size="12" fill="#2b3a42">
+      <text x="30" y="218" font-weight="bold">benefits</text>
+      <text x="76" y="238">jobs, materials</text>
+      <text x="180" y="238">work, wages</text>
+      <text x="290" y="238">connect, learn, pay</text>
+      <text x="410" y="238">materials recovered</text>
+    </g>
+    <g font-size="12" fill="#2b3a42">
+      <text x="30" y="268" font-weight="bold">harms</text>
+      <text x="76" y="288">mining hurts people</text>
+      <text x="180" y="288">long hours, risk</text>
+      <text x="290" y="288">energy, attention</text>
+      <text x="410" y="288">toxic e-waste</text>
+    </g>
+    <text x="256" y="330" font-size="14" fill="#222222">who gains, and who loses, at each stage</text>
+    <text x="256" y="360" font-size="13" fill="#4f6d7a">the distance between benefit and harm is the question</text>
+  </g>
+</svg>
