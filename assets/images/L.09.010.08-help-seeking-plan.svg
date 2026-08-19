@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>My help-seeking plan</title>
+  <desc>A four-box template for a personal help-seeking plan. Box one: two trusted adults, with lines to write their names. Box two: one service you could reach, such as a counselor, health worker, or helpline. Box three: the words, with an example first sentence to practice. Box four: the urgent step — if someone is in immediate danger, tell a trusted adult now and contact emergency services or a crisis line; danger is not a secret to keep. A footer reads: reaching out is a strength.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">My help-seeking plan</text>
+
+  <!-- Box 1 -->
+  <rect x="40" y="54" width="210" height="168" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="40" y="54" width="210" height="40" rx="12" fill="#e0a458"/>
+  <text x="145" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">1 · Two trusted adults</text>
+  <text x="52" y="118" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">write their names:</text>
+  <line x1="52" y1="144" x2="238" y2="144" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <line x1="52" y1="176" x2="238" y2="176" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Box 2 -->
+  <rect x="262" y="54" width="210" height="168" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="262" y="54" width="210" height="40" rx="12" fill="#7a9e7e"/>
+  <text x="367" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">2 · One service</text>
+  <text x="274" y="118" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">counselor · health worker</text>
+  <text x="274" y="138" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">helpline · crisis line</text>
+  <text x="274" y="168" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">write one you could reach:</text>
+  <line x1="274" y1="192" x2="460" y2="192" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Box 3 -->
+  <rect x="40" y="234" width="210" height="168" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="40" y="234" width="210" height="40" rx="12" fill="#6b93b6"/>
+  <text x="145" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">3 · The words</text>
+  <text x="52" y="298" font-family="system-ui, sans-serif" font-size="14" fill="#222222">"I've been feeling low</text>
+  <text x="52" y="318" font-family="system-ui, sans-serif" font-size="14" fill="#222222">for a while, and I think</text>
+  <text x="52" y="338" font-family="system-ui, sans-serif" font-size="14" fill="#222222">I need help."</text>
+  <text x="52" y="372" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">practice your first sentence:</text>
+  <line x1="52" y1="392" x2="238" y2="392" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Box 4 -->
+  <rect x="262" y="234" width="210" height="168" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="262" y="234" width="210" height="40" rx="12" fill="#4f6d7a"/>
+  <text x="367" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#fdfbf7">4 · The urgent step</text>
+  <text x="274" y="298" font-family="system-ui, sans-serif" font-size="14" fill="#222222">If someone is in</text>
+  <text x="274" y="318" font-family="system-ui, sans-serif" font-size="14" fill="#222222">immediate danger:</text>
+  <text x="274" y="348" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#2b3a42">tell a trusted adult now.</text>
+  <text x="274" y="372" font-family="system-ui, sans-serif" font-size="14" fill="#222222">Danger is not a secret</text>
+  <text x="274" y="392" font-family="system-ui, sans-serif" font-size="14" fill="#222222">to keep.</text>
+
+  <!-- Footer -->
+  <rect x="40" y="420" width="432" height="64" rx="12" fill="#7a9e7e"/>
+  <text x="256" y="448" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" font-weight="700" fill="#222222">Reaching out is a strength.</text>
+  <text x="256" y="472" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#222222">No one should face struggle alone.</text>
+</svg>

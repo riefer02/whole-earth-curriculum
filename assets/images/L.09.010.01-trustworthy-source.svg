@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Three questions to ask of any health claim</title>
+  <desc>A simple diagram with a title "Before you believe, ask" and three stacked question cards. Card one: "Who says it?" — a health worker or an official source, or just a random account? Card two: "Can I check it elsewhere?" — does a health ministry, WHO, or a clinic say the same? Card three: "Does it respect me?" — or does it shame or frighten me into silence? Underneath, a footer reads "Accurate information is true and checkable."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <rect x="36" y="28" width="440" height="64" rx="12" fill="#2b3a42"/>
+  <text x="256" y="68" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="700" fill="#fdfbf7">Before you believe, ask</text>
+
+  <rect x="36" y="116" width="440" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="74" cy="150" r="18" fill="#e0a458"/>
+  <text x="74" y="157" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#222222">1</text>
+  <text x="110" y="150" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">Who says it?</text>
+  <text x="110" y="182" font-family="system-ui, sans-serif" font-size="19" fill="#4f6d7a">A health worker or an official source —</text>
+  <text x="110" y="205" font-family="system-ui, sans-serif" font-size="19" fill="#4f6d7a">or just a random account?</text>
+
+  <rect x="36" y="238" width="440" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="74" cy="272" r="18" fill="#7a9e7e"/>
+  <text x="74" y="279" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#222222">2</text>
+  <text x="110" y="272" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">Can I check it elsewhere?</text>
+  <text x="110" y="304" font-family="system-ui, sans-serif" font-size="19" fill="#4f6d7a">Does a health ministry, WHO, or a clinic</text>
+  <text x="110" y="327" font-family="system-ui, sans-serif" font-size="19" fill="#4f6d7a">say the same thing?</text>
+
+  <rect x="36" y="360" width="440" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="74" cy="394" r="18" fill="#6b93b6"/>
+  <text x="74" y="401" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#222222">3</text>
+  <text x="110" y="394" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">Does it respect me?</text>
+  <text x="110" y="426" font-family="system-ui, sans-serif" font-size="19" fill="#4f6d7a">Or does it shame or frighten me</text>
+  <text x="110" y="449" font-family="system-ui, sans-serif" font-size="19" fill="#4f6d7a">into silence?</text>
+
+  <rect x="36" y="476" width="440" height="0" fill="none"/>
+  <text x="256" y="492" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#4f6d7a">Accurate information is true and checkable.</text>
+</svg>

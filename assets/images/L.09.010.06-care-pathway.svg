@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>The path to care</title>
+  <desc>A flowchart of five steps to accessing sexual and reproductive health information and care, connected by arrows. Step one: ask a trusted adult or health worker, without shame. Step two: find a service, such as a clinic, counselor, youth-friendly service, or hotline. Step three: get accurate information, checked like any source. Step four: decide for yourself, with consent. Step five: follow up. A footer notes that a young person's care is confidential, with important exceptions when safety is at risk.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">The path to care</text>
+
+  <rect x="76" y="52" width="360" height="60" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="104" cy="82" r="16" fill="#e0a458"/>
+  <text x="104" y="88" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">1</text>
+  <text x="132" y="78" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Ask a trusted adult or health worker</text>
+  <text x="132" y="100" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">without shame — no question is a bad question</text>
+
+  <line x1="256" y1="112" x2="256" y2="124" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="256,134 249,122 263,122" fill="#4f6d7a"/>
+
+  <rect x="76" y="138" width="360" height="60" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="104" cy="168" r="16" fill="#7a9e7e"/>
+  <text x="104" y="174" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">2</text>
+  <text x="132" y="164" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Find a service</text>
+  <text x="132" y="186" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">clinic · counselor · youth-friendly service · hotline</text>
+
+  <line x1="256" y1="198" x2="256" y2="210" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="256,220 249,208 263,208" fill="#4f6d7a"/>
+
+  <rect x="76" y="224" width="360" height="60" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="104" cy="254" r="16" fill="#6b93b6"/>
+  <text x="104" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">3</text>
+  <text x="132" y="250" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Get accurate information</text>
+  <text x="132" y="272" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">check it like any source — who says it, can I verify it</text>
+
+  <line x1="256" y1="284" x2="256" y2="296" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="256,306 249,294 263,294" fill="#4f6d7a"/>
+
+  <rect x="76" y="310" width="360" height="60" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="104" cy="340" r="16" fill="#e0a458"/>
+  <text x="104" y="346" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">4</text>
+  <text x="132" y="336" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Decide for yourself, with consent</text>
+  <text x="132" y="358" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">your body, your choice — no one else decides for you</text>
+
+  <line x1="256" y1="370" x2="256" y2="382" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="256,392 249,380 263,380" fill="#4f6d7a"/>
+
+  <rect x="76" y="396" width="360" height="60" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="104" cy="426" r="16" fill="#4f6d7a"/>
+  <text x="104" y="432" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#fdfbf7">5</text>
+  <text x="132" y="422" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Follow up</text>
+  <text x="132" y="444" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">return, adjust, keep the care going</text>
+
+  <rect x="76" y="466" width="360" height="38" rx="10" fill="#7a9e7e"/>
+  <text x="256" y="490" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#222222">Your care is confidential — with exceptions when safety is at risk.</text>
+</svg>

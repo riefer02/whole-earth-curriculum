@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Signs that a person may be struggling</title>
+  <desc>A list of seven common signs that a person may be struggling with their mental health: low mood that does not lift, lost interest in things they loved, big changes in sleep or eating, withdrawing from people, irritability or anger, trouble concentrating, and hopelessness or worthlessness. A green banner underneath gives the test: signs that last about two weeks or more and get in the way of daily life are a reason to seek help. A note adds that one sign on one day is just a hard day, which is normal.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="25" font-weight="700" fill="#222222">Signs that a person may be struggling</text>
+
+  <circle cx="52" cy="70" r="9" fill="#e0a458"/>
+  <text x="72" y="76" font-family="system-ui, sans-serif" font-size="19" fill="#222222">Low mood that does not lift</text>
+
+  <circle cx="52" cy="108" r="9" fill="#e0a458"/>
+  <text x="72" y="114" font-family="system-ui, sans-serif" font-size="19" fill="#222222">Lost interest in things they loved</text>
+
+  <circle cx="52" cy="146" r="9" fill="#e0a458"/>
+  <text x="72" y="152" font-family="system-ui, sans-serif" font-size="19" fill="#222222">Big changes in sleep or eating</text>
+
+  <circle cx="52" cy="184" r="9" fill="#e0a458"/>
+  <text x="72" y="190" font-family="system-ui, sans-serif" font-size="19" fill="#222222">Withdrawing from people</text>
+
+  <circle cx="52" cy="222" r="9" fill="#e0a458"/>
+  <text x="72" y="228" font-family="system-ui, sans-serif" font-size="19" fill="#222222">Irritability or anger</text>
+
+  <circle cx="52" cy="260" r="9" fill="#e0a458"/>
+  <text x="72" y="266" font-family="system-ui, sans-serif" font-size="19" fill="#222222">Trouble concentrating</text>
+
+  <circle cx="52" cy="298" r="9" fill="#e0a458"/>
+  <text x="72" y="304" font-family="system-ui, sans-serif" font-size="19" fill="#222222">Hopelessness or worthlessness</text>
+
+  <text x="256" y="348" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">One sign on one day is just a hard day — that is normal.</text>
+
+  <rect x="40" y="364" width="432" height="104" rx="14" fill="#7a9e7e"/>
+  <text x="256" y="398" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">The test</text>
+  <text x="256" y="424" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Signs that last about two weeks or more</text>
+  <text x="256" y="446" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#222222">and get in the way of daily life</text>
+  <text x="256" y="468" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#222222">= a reason to seek help, not a reason for shame.</text>
+
+  <text x="256" y="502" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">Struggling is not weakness — it is human, and help works.</text>
+</svg>

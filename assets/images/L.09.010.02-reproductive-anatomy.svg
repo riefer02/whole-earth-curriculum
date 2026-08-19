@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Reproductive anatomy, accurately named</title>
+  <desc>Two clean, labeled line diagrams side by side. Left: a body with a uterus, showing two ovaries, two fallopian tubes, the uterus, the cervix, and the vagina, with a small inset of the external vulva (clitoris, labia, urethral opening, vaginal opening). Right: a body with testes, showing the bladder, vas deferens, prostate, urethra, penis, epididymis, and testes inside the scrotum. Each part is labeled with a short plain-language job. Bodies vary widely; these are simplified drawings, not a "normal" body to compare against.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#222222">Reproductive anatomy, accurately named</text>
+  <line x1="60" y1="44" x2="452" y2="44" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- ================= LEFT PANEL: uterus system ================= -->
+  <text x="150" y="70" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#2b3a42">A body with a uterus</text>
+
+  <!-- Fallopian tubes -->
+  <path d="M 92 172 C 104 210 118 226 132 232" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 208 172 C 196 210 182 226 168 232" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <!-- Ovaries -->
+  <ellipse cx="88" cy="166" rx="13" ry="19" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <ellipse cx="212" cy="166" rx="13" ry="19" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <!-- Uterus -->
+  <path d="M 120 232 L 118 250 Q 118 300 150 300 Q 182 300 182 250 L 180 232 Q 150 216 120 232 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <!-- Cervix -->
+  <rect x="136" y="300" width="28" height="20" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <!-- Vagina -->
+  <path d="M 138 320 L 138 372 Q 138 380 150 380 Q 162 380 162 372 L 162 320" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Labels left -->
+  <text x="16" y="172" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">ovary</text>
+  <line x1="74" y1="167" x2="50" y2="169" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="16" y="246" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">uterus</text>
+  <line x1="118" y1="248" x2="70" y2="245" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="16" y="300" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">where a pregnancy grows</text>
+  <text x="16" y="340" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">vagina</text>
+  <line x1="138" y1="342" x2="72" y2="340" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- Fallopian tube label -->
+  <text x="226" y="200" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">fallopian tubes</text>
+  <line x1="222" y1="196" x2="206" y2="182" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="226" y="216" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">(the egg's path)</text>
+  <!-- Cervix label -->
+  <text x="226" y="316" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">cervix</text>
+  <line x1="222" y1="312" x2="166" y2="310" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- Vulva inset -->
+  <rect x="40" y="398" width="210" height="100" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="145" y="420" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#2b3a42">vulva (external)</text>
+  <circle cx="128" cy="442" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="142" y="446" font-family="system-ui, sans-serif" font-size="14" fill="#222222">clitoris</text>
+  <circle cx="128" cy="462" r="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="142" y="466" font-family="system-ui, sans-serif" font-size="14" fill="#222222">urethral opening</text>
+  <ellipse cx="128" cy="484" rx="6" ry="8" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="142" y="489" font-family="system-ui, sans-serif" font-size="14" fill="#222222">vaginal opening</text>
+  <path d="M 112 434 C 108 452 108 476 114 490 M 144 434 C 148 452 148 476 142 490" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="196" y="470" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">labia</text>
+
+  <!-- ================= RIGHT PANEL: testes system ================= -->
+  <text x="362" y="70" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#2b3a42">A body with testes</text>
+
+  <!-- Bladder -->
+  <rect x="336" y="104" width="52" height="48" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <!-- Vas deferens -->
+  <path d="M 322 300 C 322 230 330 200 356 176" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 402 300 C 402 230 394 200 368 176" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <!-- Prostate -->
+  <ellipse cx="362" cy="180" rx="20" ry="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <!-- Urethra -->
+  <path d="M 362 160 L 362 300" stroke="#4f6d7a" stroke-width="4"/>
+  <!-- Penis -->
+  <path d="M 344 250 L 344 330 Q 344 340 362 340 Q 380 340 380 330 L 380 250 L 372 242 L 352 242 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <!-- Epididymis + testes -->
+  <ellipse cx="340" cy="366" rx="16" ry="12" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <ellipse cx="384" cy="366" rx="16" ry="12" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <!-- Scrotum -->
+  <path d="M 322 356 Q 362 348 402 356 L 402 382 Q 362 396 322 382 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Labels right -->
+  <text x="420" y="176" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">vas deferens</text>
+  <line x1="414" y1="180" x2="396" y2="208" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="420" y="196" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">(sperm's path)</text>
+  <text x="420" y="230" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">prostate</text>
+  <line x1="414" y1="226" x2="384" y2="186" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="420" y="280" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">penis</text>
+  <line x1="414" y1="276" x2="382" y2="276" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="420" y="340" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">urethra</text>
+  <line x1="414" y1="336" x2="382" y2="336" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="420" y="372" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">testes</text>
+  <line x1="414" y1="368" x2="400" y2="368" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="420" y="398" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">scrotum</text>
+
+  <!-- Footer -->
+  <text x="256" y="504" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">Bodies vary widely — these are simplified drawings, not a "normal" body.</text>
+</svg>

@@ -4234,3 +4234,33 @@ sources:
     domains: [D07, D10]
     reviewed: true
     notes: "Cited in U.09.009 L08 (Design, Technology & the Environment) as the reference for the circular-economy framework — designing out waste and keeping materials in use across a product's life cycle. URL verified live (2026-08-19): the site defines 'What is a circular economy?' as 'a system where materials never become waste and nature is regenerated' and foregrounds circular design — supporting the lesson's circular-economy framing (repair, reuse, return to the loop rather than disposal)."
+
+  - id: S-453
+    title: WHO — Family planning/contraception methods (fact sheet)
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception
+    organization: World Health Organization
+    domains: [D03]
+    year: 2025
+    reviewed: true
+    notes: "Cited in U.09.010 L05 (Contraception & Preventing Infections) as the authority for how the main methods of contraception work and for the framing that access to contraception is a matter of health and justice. URL verified live (2026-08-19): WHO fact sheet 'Family planning/contraception methods' (dated 3 July 2025). Confirms the lesson's claims — condoms are 'the only method that also protects against sexually transmitted infections, including HIV'; methods span barrier (condoms), hormonal (pills, injections, patches, vaginal rings), and long-acting (implants, IUDs, sterilization); 'barrier methods like condoms are effective at preventing pregnancy, if used correctly'; and access to contraception 'supports the fundamental human right to decide freely,' 'advancing gender equality,' with barriers that include 'age, income, or marital status' and 'misinformation' — supporting the lesson's method descriptions and its unequal-access/health-and-justice framing. Reviewed by fact-checker 2026-08-19."
+
+  - id: S-454
+    title: WHO — Sexually transmitted infections (STIs) (fact sheet)
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)
+    organization: World Health Organization
+    domains: [D03]
+    year: 2025
+    reviewed: true
+    notes: "Cited in U.09.010 L05 (Contraception & Preventing Infections) for the claims that STIs can pass during sex, that some are curable with medicine and some manageable with treatment, and that many can be present without symptoms — which is why testing and prevention (condoms, vaccines) matter. URL verified live (2026-08-19): WHO fact sheet 'Sexually transmitted infections (STIs)' (dated 10 September 2025). Confirms the lesson's claims — STIs are caused by 'bacteria, viruses and parasites' transmitted through sexual contact; '4 are currently curable' (syphilis, gonorrhoea, chlamydia, trichomoniasis) while 4 are viral (hepatitis B, HSV, HIV, HPV); STIs 'are often asymptomatic'; 'condoms offer one of the most effective methods of protection against STIs, including HIV'; and 'safe and highly effective vaccines are available for 2 viral STIs: hepatitis B and HPV.' Note: the lesson's original 'bacteria or viruses' wording was tightened by the fact-checker to 'bacteria, viruses, or parasites' and the curable examples corrected (trichomoniasis is parasitic, not bacterial, and syphilis is bacterial) to match the source. Reviewed by fact-checker 2026-08-19."
+
+  - id: S-455
+    title: WHO — Adolescent pregnancy (fact sheet)
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/adolescent-pregnancy
+    organization: World Health Organization
+    domains: [D03]
+    year: 2024
+    reviewed: true
+    notes: "Cited in U.09.010 L03 (How Reproduction Works) as supporting context for the claim that where accurate information and services are missing, unplanned and adolescent pregnancy is more common. URL verified live (2026-08-19): WHO fact sheet 'Adolescent pregnancy' (dated 10 April 2024). Confirms the lesson's claim — adolescent pregnancy is 'a global phenomenon with clearly known causes and serious health, social and economic consequences,' with causes including child marriage, child sexual abuse, and 'barriers to obtaining and using contraceptives [that] prevent adolescents from avoiding unintended pregnancies,' and notes adolescents 'may lack... knowledge on where to obtain [contraceptives] and how to correctly use them.' Supports the lesson's framing that accurate reproductive education and access to services reduce unplanned/adolescent pregnancy. Reviewed by fact-checker 2026-08-19."

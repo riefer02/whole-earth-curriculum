@@ -5396,7 +5396,7 @@ items:
     type: lesson
     grade: 9
     domain: D03
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5408,6 +5408,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1365 files). 8 lessons L.09.010.01-.08, sequence 1-8 no gaps; objectives resolve only to two real grade-9 D03 IDs (D03.S4.09.01 L1-6, D03.S4.09.02 L7-8); chain D03.S4->D03(P2); unit.md 8 rows matching; scope lesson_count=8; 8 SVGs + alt/title/desc. Observation: L.09.010.02 anatomy SVG accurate+dignified ('body with a uterus'/'body with testes' not gendering, vulva labeled correctly, 'bodies vary, not a normal body'). Non-blocking: S-453/454/455 still reviewed:false pending fact-checker."
+      fact-checker:
+        verdict: passed
+        note: "Verified 3 new sources S-453-S-455 (WHO family planning/contraception, STIs, adolescent pregnancy) live, marked reviewed:true. Anatomy accurate+correct terms (vulva/clitoris/labia/urethral+vaginal openings/cervix/uterus/fallopian/ovaries; testes/epididymis/vas deferens/prostate). Menstrual ~28d variable, ovulation mid-cycle, ~40wk pregnancy hedged. Conception sequence correct. Dual protection + 'condoms only method protecting pregnancy+STIs' verbatim WHO; HPV/HepB vaccines. Consent = UNESCO ITGSE. Mental-health ~2 weeks + interfering. Fixes: L.005 'bacteria or viruses'->'bacteria, viruses, or parasites' + fixed curable examples (trichomoniasis parasitic, syphilis bacterial); S-453 title corrected. 8 SVGs accurate. validate green (1365 files)."
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro default (WHO/UNESCO sources, no 911/US services). L4 consent holds varied cultural expression (direct/indirect/gesture); L5 names unequal contraception access; L6 names cost/distance/stigma/law differ worldwide + service forms (community health worker/mobile clinic/hotline). L7-L8 mental health non-pathologizing (spectrum, no diagnosis needed for care, distress named in body/spirit/mind across traditions; family/elders/faith/peers/clinics/helplines all count). L2 anatomy non-gendered + intersex + plain naming. SVGs abstract line diagrams. validate green (1365 files). No fixes.
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier all 8 + outdoor-only variants; alt text + role=img/aria-labelledby/title/desc on 8 SVGs; contrast >=4.9:1, no color-only; privacy-safe (sharing optional, may pass, vignettes never learner's own story, private plans). Fix: L2 anatomy + L3 cycle had verbal but no TACTILE alternative — added found-object tactile model (string/rope + stones/leaves) to materials_low_tech + broadened assessment to dictated/verbal/tactile. validate green (1365 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: objectives resolve to real grade-9 D03 IDs (D03.S4.09.01 L01-06, D03.S4.09.02 L07-08); chain Vision->P2->D03->D03.S4->U.09.010. Evidence vs values: S-011/S-051/S-261/S-311/S-412/S-453/454/455 reviewed:true. Fixes: added tech&environment lens to L02/03/04/07/08, ethics marker to L06, technology frontmatter tag to all lacking. validate green (1365 files). NB: 8 SVGs confirmed present at assets/images/L.09.010.*.svg."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: worked-example->guided->independent, concrete anchors before abstraction. L2 anatomy accurate non-embarrassing, people-with-uterus/testes not gendering, normalizes intersex, never requires pointing/naming aloud, tactile alternatives. L4 consent as autonomy/dignity empowering, everyday->intimate scaffold, role-play voluntary, safeguarding path. L5 contraception factual/hedged/non-moralizing/non-fear-based, no hierarchy among people, dual protection/vaccines, access as justice. L7-L8 mental health: no self-diagnosis (only professionals diagnose), behavioral descriptors not labels, help-seeking as strength, vignettes, self-harm/suicide non-graphic + do-not-teach-methods. Multi-modal + spiral. validate green (1365 files). Non-blocking: L7 lists depression/anxiety as vocab only."
   - id: B-379
     title: Author lessons for Unit U.09.011 (Ethics, Justice & Political Economy)
     agent: lesson-author

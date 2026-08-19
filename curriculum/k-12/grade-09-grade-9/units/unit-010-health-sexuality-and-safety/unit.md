@@ -52,3 +52,11 @@ alone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Accurate Information & a Dignity-First Space | D03.S4.09.01 |
+| 02 | Bodies, Parts & Accurate Names | D03.S4.09.01 |
+| 03 | How Reproduction Works: Cycle, Conception & Pregnancy | D03.S4.09.01 |
+| 04 | Consent: Freely Given, Reversible & Informed | D03.S4.09.01 |
+| 05 | Contraception & Preventing Infections | D03.S4.09.01 |
+| 06 | Accessing Accurate Information & Care | D03.S4.09.01 |
+| 07 | Recognizing Mental-Health Struggle | D03.S4.09.02 |
+| 08 | Seeking Help: A Plan That Works | D03.S4.09.02 |

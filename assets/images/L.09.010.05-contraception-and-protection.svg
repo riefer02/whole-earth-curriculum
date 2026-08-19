@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Contraception and protection at a glance</title>
+  <desc>A chart of four main approaches to contraception. Barrier methods (condoms) block sperm and also reduce the risk of many infections. Hormonal methods (pill, patch, ring, injection, implant) stop the egg's release and prevent pregnancy but not infections. The IUD sits in the uterus and lasts years, preventing pregnancy but not infections. Emergency contraception is a backup after unprotected sex, not for routine use. A green banner adds: dual protection means condoms plus one more method, and testing matters because many infections have no symptoms.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#222222">Contraception &amp; protection at a glance</text>
+
+  <!-- Card 1 -->
+  <rect x="40" y="56" width="210" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="40" y="56" width="210" height="40" rx="12" fill="#e0a458"/>
+  <text x="145" y="82" text-anchor="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="700" fill="#222222">Barrier (condoms)</text>
+  <text x="52" y="122" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">How: blocks sperm</text>
+  <text x="52" y="152" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Also reduces the risk of</text>
+  <text x="52" y="172" font-family="system-ui, sans-serif" font-size="16" fill="#222222">many infections.</text>
+  <text x="52" y="204" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#2b3a42">Protects: pregnancy + infections</text>
+
+  <!-- Card 2 -->
+  <rect x="262" y="56" width="210" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="262" y="56" width="210" height="40" rx="12" fill="#6b93b6"/>
+  <text x="367" y="76" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">Hormonal</text>
+  <text x="367" y="92" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#222222">pill · patch · ring · implant</text>
+  <text x="274" y="122" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">How: stops the egg's release</text>
+  <text x="274" y="152" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Prevents pregnancy.</text>
+  <text x="274" y="172" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Does not protect against</text>
+  <text x="274" y="192" font-family="system-ui, sans-serif" font-size="16" fill="#222222">infections.</text>
+  <text x="274" y="224" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#2b3a42">Protects: pregnancy only</text>
+
+  <!-- Card 3 -->
+  <rect x="40" y="244" width="210" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="40" y="244" width="210" height="40" rx="12" fill="#7a9e7e"/>
+  <text x="145" y="270" text-anchor="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="700" fill="#222222">IUD</text>
+  <text x="52" y="310" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">How: sits in the uterus,</text>
+  <text x="52" y="330" font-family="system-ui, sans-serif" font-size="16" fill="#222222">prevents pregnancy</text>
+  <text x="52" y="350" font-family="system-ui, sans-serif" font-size="16" fill="#222222">for years.</text>
+  <text x="52" y="392" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#2b3a42">Protects: pregnancy only</text>
+
+  <!-- Card 4 -->
+  <rect x="262" y="244" width="210" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="262" y="244" width="210" height="40" rx="12" fill="#4f6d7a"/>
+  <text x="367" y="270" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#fdfbf7">Emergency</text>
+  <text x="274" y="310" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">How: a backup after</text>
+  <text x="274" y="330" font-family="system-ui, sans-serif" font-size="16" fill="#222222">unprotected sex.</text>
+  <text x="274" y="360" font-family="system-ui, sans-serif" font-size="16" fill="#222222">For emergencies,</text>
+  <text x="274" y="380" font-family="system-ui, sans-serif" font-size="16" fill="#222222">not routine use.</text>
+
+  <!-- Banner -->
+  <rect x="40" y="436" width="432" height="64" rx="12" fill="#7a9e7e"/>
+  <text x="256" y="462" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">Dual protection = condoms + one more method</text>
+  <text x="256" y="486" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#222222">Testing matters — many infections have no symptoms.</text>
+</svg>

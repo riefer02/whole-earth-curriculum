@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>The menstrual cycle</title>
+  <desc>A circular diagram of a typical menstrual cycle divided into four quarters. Starting at the top-right and moving clockwise: menstruation (the period, days 1 to 5), then the uterine lining rebuilds, then ovulation (an egg is released, around day 14), then the lining is shed again if no pregnancy occurs. A center note says a typical cycle is about 28 days but real cycles vary. A footer repeats that cycles from about 21 to 35 or more days are common, and typical is not required.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">The menstrual cycle</text>
+
+  <!-- Four quarters -->
+  <path d="M 256 256 L 256 96 A 160 160 0 0 1 416 256 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 256 256 L 416 256 A 160 160 0 0 1 256 416 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 256 256 L 256 416 A 160 160 0 0 1 96 256 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 256 256 L 96 256 A 160 160 0 0 1 256 96 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Quarter labels -->
+  <text x="336" y="176" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" font-weight="700" fill="#222222">menstruation</text>
+  <text x="336" y="198" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#222222">(the period)</text>
+  <text x="336" y="218" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#222222">days 1–5</text>
+
+  <text x="336" y="330" text-anchor="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="700" fill="#222222">lining</text>
+  <text x="336" y="350" text-anchor="middle" font-family="system-ui, sans-serif" font-size="19" font-weight="700" fill="#222222">rebuilds</text>
+
+  <text x="176" y="336" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" font-weight="700" fill="#222222">ovulation</text>
+  <text x="176" y="358" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#222222">an egg is released</text>
+  <text x="176" y="378" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#222222">~day 14</text>
+
+  <text x="176" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#fdfbf7">lining sheds</text>
+  <text x="176" y="190" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#fdfbf7">if no pregnancy</text>
+
+  <!-- Center -->
+  <circle cx="256" cy="256" r="64" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="248" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">typical cycle</text>
+  <text x="256" y="270" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">~28 days</text>
+  <text x="256" y="290" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">but it varies</text>
+
+  <!-- Footer -->
+  <text x="256" y="476" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#4f6d7a">Real cycles vary: about 21 to 35+ days is common.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#4f6d7a">"Typical" is not "required."</text>
+</svg>

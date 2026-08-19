@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Consent: a door you can close any time</title>
+  <desc>A drawing of an open door with a double-headed arrow showing it can swing closed again, and four principle cards: consent is freely given (no pressure), reversible (you can change your mind at any time), informed (you know what you are agreeing to), and not assumed (silence or a past yes is not a yes). A footer reads: only a clear, ongoing yes means yes.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">Consent: a door you can close any time</text>
+
+  <!-- Door -->
+  <rect x="212" y="60" width="88" height="150" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="4"/>
+  <polygon points="300,210 300,60 360,92 360,242" fill="#6b93b6" stroke="#2b3a42" stroke-width="4"/>
+  <circle cx="350" cy="170" r="5" fill="#2b3a42"/>
+  <!-- Double-headed arrow -->
+  <path d="M 380 130 Q 404 130 404 156" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <path d="M 396 148 L 404 156 L 388 156" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <path d="M 404 182 Q 404 208 380 208" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <path d="M 388 200 L 380 208 L 396 208" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="120" y="170" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">can close</text>
+  <text x="120" y="190" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">again</text>
+
+  <!-- Principle rows -->
+  <rect x="40" y="238" width="432" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="74" cy="266" r="14" fill="#e0a458"/>
+  <text x="74" y="272" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">1</text>
+  <text x="100" y="262" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Freely given</text>
+  <text x="100" y="284" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">no pressure — a yes squeezed out is not a yes</text>
+
+  <rect x="40" y="304" width="432" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="74" cy="332" r="14" fill="#7a9e7e"/>
+  <text x="74" y="338" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">2</text>
+  <text x="100" y="328" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Reversible</text>
+  <text x="100" y="350" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">you can change your mind at any time</text>
+
+  <rect x="40" y="370" width="432" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="74" cy="398" r="14" fill="#6b93b6"/>
+  <text x="74" y="404" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">3</text>
+  <text x="100" y="394" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Informed</text>
+  <text x="100" y="416" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">you know what you are agreeing to</text>
+
+  <rect x="40" y="436" width="432" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="74" cy="464" r="14" fill="#4f6d7a"/>
+  <text x="74" y="470" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#fdfbf7">4</text>
+  <text x="100" y="460" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Not assumed</text>
+  <text x="100" y="482" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">silence or a past yes is not a yes</text>
+
+  <text x="256" y="508" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#2b3a42">Only a clear, ongoing yes means yes.</text>
+</svg>
