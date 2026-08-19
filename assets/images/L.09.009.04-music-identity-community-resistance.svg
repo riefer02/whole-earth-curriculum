@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Music builds identity, community, and resistance</title>
+  <desc>Three overlapping circles labeled identity, community, and resistance, with example traditions — reggae, nueva canción, and freedom songs — placed where they meet, showing music serves more than one purpose at once.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">What music can build</text>
+
+  <!-- circles -->
+  <circle cx="176" cy="250" r="120" fill="#6b93b6" opacity="0.45"/>
+  <circle cx="336" cy="250" r="120" fill="#e0a458" opacity="0.45"/>
+  <circle cx="256" cy="368" r="120" fill="#7a9e7e" opacity="0.45"/>
+
+  <!-- labels -->
+  <text x="176" y="150" font-family="system-ui, sans-serif" font-size="18" fill="#222222" text-anchor="middle" font-weight="bold">Identity</text>
+  <text x="336" y="150" font-family="system-ui, sans-serif" font-size="18" fill="#222222" text-anchor="middle" font-weight="bold">Community</text>
+  <text x="256" y="470" font-family="system-ui, sans-serif" font-size="18" fill="#222222" text-anchor="middle" font-weight="bold">Resistance</text>
+
+  <!-- examples -->
+  <text x="256" y="250" font-family="system-ui, sans-serif" font-size="13" fill="#222222" text-anchor="middle">reggae</text>
+  <text x="150" y="330" font-family="system-ui, sans-serif" font-size="13" fill="#222222" text-anchor="middle">freedom songs</text>
+  <text x="368" y="330" font-family="system-ui, sans-serif" font-size="13" fill="#222222" text-anchor="middle">nueva canción</text>
+
+  <!-- caption -->
+  <text x="256" y="500" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">one song can do more than one thing at once</text>
+</svg>

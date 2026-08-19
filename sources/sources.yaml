@@ -4115,3 +4115,122 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in U.09.008 L06 (The Atom, Bonding, and Chemical Energy) as a standard, openly licensed reference for atomic structure (nucleus of protons and neutrons, electrons in shells), chemical bonding (sharing/transferring electrons), and exothermic/endothermic reactions (bond formation releasing energy, bond breaking absorbing energy). Chemistry 2e is real — authors Paul Flowers, Klaus Theopold, Richard Langley, William R. Robinson; OpenStax (Rice University), published 2019. LICENSE CORRECTED (2026-08-19): the textbook is licensed CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike), NOT CC-BY 4.0 as first recorded; the NonCommercial clause is acceptable here because the curriculum is offered free, but it is not a blanket permissive license. Content verified on-topic: Ch. 5 (Thermochemistry) explicitly defines exothermic/endothermic processes (heat released/absorbed), and the text's Ch. 2/6/7 cover atomic structure and bonding."
+
+  - id: S-440
+    title: "Krita — Free and Open Source Digital Painting"
+    type: website
+    url: https://krita.org/
+    organization: Krita Foundation
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.09.009 L01 (Digital & Mixed-Media Art) as an example of a free, open-source raster image editor accessible to any learner, supporting the egalitarian commitment that art tools be free and open. URL verified live (2026-08-19): resolves to https://krita.org/en/ (HTTP 200), the official site of Krita, a free and open-source digital painting application. On-topic; cited as an example of a free/open tool, not for a specific factual claim."
+
+  - id: S-441
+    title: "Inkscape — Free and Open Source Vector Graphics"
+    type: website
+    url: https://inkscape.org/
+    organization: Inkscape Project
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.09.009 L01 (Digital & Mixed-Media Art) as an example of a free, open-source vector editor, alongside Krita. URL verified live (2026-08-19): HTTP 200 via browser user-agent (the site returns 403 to plain automated fetchers — bot protection, not a broken link); it is the canonical Inkscape Project site. On-topic; cited as an example of a free/open tool, not for a specific factual claim."
+
+  - id: S-442
+    title: "Center for Media Literacy — Five Core Concepts and Key Questions"
+    type: website
+    url: https://www.medialit.org/
+    organization: Center for Media Literacy
+    domains: [D07, D10]
+    reviewed: true
+    notes: "Cited in U.09.009 L02 (Reading Visual Media) as the framing for the five core questions of media literacy (who created this, what techniques attract attention, what is omitted, who benefits). The Center for Media Literacy is a real, long-standing non-profit (Consortium for Media Literacy) whose five core concepts / five key questions are a well-established media-literacy framework. CAVEAT (verified 2026-08-19): the site's SSL certificate is currently expired (notAfter 2025-05-26), so the URL triggers a browser security warning even though content still loads (HTTP 200 over an insecure connection). The lesson cites CML for the *framing* of its core questions, not as a verbatim quote or a page-level factual claim, so the source remains valid for that purpose; the expired certificate is flagged here for transparency."
+
+  - id: S-443
+    title: "BandLab — Free Online Music Studio"
+    type: website
+    url: https://www.bandlab.com/
+    organization: BandLab Technologies
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.09.009 L03 (Creating Music with Digital Tools) as a free, browser-based digital audio workstation (DAW) accessible without paid software, supporting the egalitarian commitment. URL verified live (2026-08-19): resolves to BandLab (HTTP 200), a real, widely used free browser-based music-making platform. On-topic; cited as an example of a free tool, not for a specific factual claim."
+
+  - id: S-444
+    title: "Audacity — Free, Open Source Audio Editor and Recorder"
+    type: website
+    url: https://www.audacityteam.org/
+    organization: Audacity Team
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.09.009 L03 (Creating Music with Digital Tools) as a free, open-source audio recorder and editor for layering and applying effects. URL verified live (2026-08-19): the official site states verbatim that Audacity is 'free, open source software' and 'the world's most popular free software for recording and editing audio.' Directly supports the lesson's claim that Audacity is a free, open-source audio recorder/editor."
+
+  - id: S-445
+    title: "Encyclopaedia Britannica — Reggae"
+    type: website
+    url: https://www.britannica.com/art/reggae
+    organization: Encyclopaedia Britannica
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.09.009 L04 (Music as Identity, Community & Resistance) for the history and social role of reggae, including its connection to the Rastafari movement and its global spread. Verified live (2026-08-19): the article exists with sections on 'Origin, rhythm, and style,' 'From rock steady to reggae's first superstars,' 'Reggae and the Rastafari movement,' and 'Reggae goes global' — matching the lesson's Jamaica/Rastafari/global-spread framing. On-topic."
+
+  - id: S-446
+    title: "Encyclopaedia Britannica — Griot"
+    type: website
+    url: https://www.britannica.com/art/griot
+    organization: Encyclopaedia Britannica
+    domains: [D07, D08]
+    reviewed: true
+    notes: "Cited in U.09.009 L06 (Dance, Drama & Ritual) for the West African griot (jeli/jali) as a troubadour-historian who carries genealogies and histories through oral tradition. Verified live (2026-08-19): the article exists, is subtitled 'West African, Oral Tradition, Storyteller,' defines the griot as an 'African troubadour-historian,' and lists the alternate terms jeli/jali — supporting the lesson's oral-historian/genealogy claim."
+
+  - id: S-447
+    title: "Te Ara — The Encyclopedia of New Zealand: Haka"
+    type: website
+    url: https://teara.govt.nz/en/haka
+    organization: Te Ara — The Encyclopedia of New Zealand (Manatū Taonga)
+    domains: [D07, D08]
+    reviewed: true
+    notes: "Cited in U.09.009 L06 (Dance, Drama & Ritual) as the authoritative New Zealand source on the Māori haka as a living tradition of posture and chant expressing identity, welcome, strength, and remembrance. Te Ara is New Zealand's national encyclopedia. (Site returns HTTP 403 to automated fetchers due to bot protection, but the haka entry is a well-known, canonical page and the lesson's characterization of the haka as a living posture-chant tradition of identity/welcome/remembrance is accurate and not overstated.)"
+
+  - id: S-448
+    title: "UNESCO — Indigenous Festivity Dedicated to the Dead (Day of the Dead)"
+    type: website
+    url: https://ich.unesco.org/en/RL/indigenous-festivity-dedicated-to-the-dead-00054
+    organization: UNESCO
+    year: 2008
+    domains: [D07, D08]
+    reviewed: true
+    notes: "Cited in U.09.009 L06 (Dance, Drama & Ritual) for Mexico's Day of the Dead as a living ritual that links the living to deceased loved ones and the maize harvest, fusing Indigenous and Catholic traditions. Verified live (2026-08-19): the UNESCO Intangible Cultural Heritage entry exists (inscribed 2008, nomination 00054) and states verbatim that, as practised by the indigenous communities of Mexico, it 'commemorates the transitory return to Earth of deceased relatives,' marks 'the completion of the annual cycle of cultivation of maize,' and fuses 'pre-Hispanic religious rites and Catholic feasts' — directly supporting every factual claim in the lesson."
+
+  - id: S-449
+    title: "Encyclopaedia Britannica — Nueva canción"
+    type: website
+    url: https://www.britannica.com/art/nueva-cancion
+    organization: Encyclopaedia Britannica
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.09.009 L04 (Music as Identity, Community & Resistance) for nueva canción as the Latin American movement fusing folk forms with protest and social change, facing censorship and violence under dictatorship. Verified live (2026-08-19): the article exists, titled 'Nueva canción — Latin American Music, Protest Songs & Social Change,' with sections 'The formative years: the late 1950s through the '60s' and 'The tumultuous years: the 1970s through the late '80s'; its text references Chile, censorship, and imprisonment (including Victor Jara). This supports the lesson's claim of a folk-based protest/social-change movement active across the 1960s–80s whose musicians faced censorship and violence under dictatorship. (Lesson's '1960s–80s' is a fair periodization; Britannica dates the formative phase from the late 1950s.)"
+
+  - id: S-450
+    title: "UNESCO — Reggae Music of Jamaica"
+    type: website
+    url: https://ich.unesco.org/en/RL/reggae-music-of-jamaica-01398
+    organization: UNESCO
+    year: 2018
+    domains: [D07]
+    reviewed: true
+    notes: "Cited in U.09.009 L04 (Music as Identity, Community & Resistance) for reggae as originating among marginalized groups in western Kingston and acting as 'a voice for all' on injustice, resistance, love, and humanity. Verified live (2026-08-19): the UNESCO Intangible Cultural Heritage entry exists (inscribed 2018, nomination 01398) and states verbatim that reggae originated 'within a cultural space that was home to marginalized groups, mainly in Western Kingston,' was in its embryonic state 'the voice of the marginalized,' contributes to discourse on 'injustice, resistance, love and humanity,' and 'continues to act as a voice for all' — directly supporting every factual claim in the lesson."
+
+  - id: S-451
+    title: "Fab Foundation — Fabrication Laboratories (Fab Labs)"
+    type: website
+    url: https://fabfoundation.org/
+    organization: The Fab Foundation
+    domains: [D07, D10]
+    reviewed: true
+    notes: "Cited in U.09.009 L07 (Design & Make with Digital Fabrication) as the reference for community fabrication laboratories that make digital fabrication tools broadly accessible. URL verified live (2026-08-19): the site describes the mission as providing 'access to the tools, the knowledge and the means' for digital fabrication 'to allow anyone to make (almost) anything' and reports 2,300+ fab labs across 120+ countries — supporting the lesson's claim that community fab labs make these tools broadly accessible rather than a luxury."
+
+  - id: S-452
+    title: "Ellen MacArthur Foundation — The Circular Economy"
+    type: website
+    url: https://ellenmacarthurfoundation.org/
+    organization: Ellen MacArthur Foundation
+    domains: [D07, D10]
+    reviewed: true
+    notes: "Cited in U.09.009 L08 (Design, Technology & the Environment) as the reference for the circular-economy framework — designing out waste and keeping materials in use across a product's life cycle. URL verified live (2026-08-19): the site defines 'What is a circular economy?' as 'a system where materials never become waste and nature is regenerated' and foregrounds circular design — supporting the lesson's circular-economy framing (repair, reuse, return to the loop rather than disposal)."

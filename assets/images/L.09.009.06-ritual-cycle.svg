@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Cycle of ritual</title>
+  <desc>A circular cycle with four steps — gather, remember, perform, renew — each with a small icon, showing how dance, drama, and ritual build community and carry memory through repetition.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">The cycle of ritual</text>
+
+  <!-- circle path -->
+  <circle cx="256" cy="270" r="150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="8 8"/>
+
+  <!-- step 1: gather (top) -->
+  <circle cx="256" cy="120" r="34" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="246" cy="114" r="6" fill="#2b3a42"/>
+  <circle cx="266" cy="114" r="6" fill="#2b3a42"/>
+  <circle cx="236" cy="130" r="6" fill="#2b3a42"/>
+  <circle cx="276" cy="130" r="6" fill="#2b3a42"/>
+  <circle cx="256" cy="132" r="6" fill="#2b3a42"/>
+  <text x="256" y="90" font-family="system-ui, sans-serif" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">gather</text>
+
+  <!-- step 2: remember (right) -->
+  <circle cx="406" cy="270" r="34" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M400 250 q6 14 0 26 q-4 10 12 14 q-12 -6 -10 -16 q0 -10 4 -18 z" fill="#2b3a42"/>
+  <path d="M396 292 q10 8 20 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="406" y="240" font-family="system-ui, sans-serif" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">remember</text>
+
+  <!-- step 3: perform (bottom) -->
+  <circle cx="256" cy="420" r="34" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none">
+    <circle cx="248" cy="414" r="7"/>
+    <line x1="248" y1="421" x2="248" y2="436"/>
+    <line x1="248" y1="426" x2="238" y2="432"/>
+    <line x1="248" y1="426" x2="258" y2="432"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2.5" fill="none">
+    <circle cx="268" cy="414" r="7"/>
+    <line x1="268" y1="421" x2="268" y2="436"/>
+    <line x1="268" y1="426" x2="258" y2="432"/>
+    <line x1="268" y1="426" x2="278" y2="432"/>
+  </g>
+  <text x="256" y="390" font-family="system-ui, sans-serif" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">perform</text>
+
+  <!-- step 4: renew (left) -->
+  <circle cx="106" cy="270" r="34" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="106" cy="270" r="10" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="106" y1="258" x2="106" y2="282" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="94" y1="270" x2="118" y2="270" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="97" y1="261" x2="115" y2="279" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="115" y1="261" x2="97" y2="279" stroke="#2b3a42" stroke-width="2"/>
+  <text x="106" y="240" font-family="system-ui, sans-serif" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">renew</text>
+
+  <!-- arrows between steps -->
+  <path d="M 285 145 A 150 150 0 0 1 381 240" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 381 300 A 150 150 0 0 1 285 395" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 227 395 A 150 150 0 0 1 131 300" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 131 240 A 150 150 0 0 1 227 145" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- caption -->
+  <text x="256" y="478" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">repeated together, a ritual builds belonging and memory</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+</svg>

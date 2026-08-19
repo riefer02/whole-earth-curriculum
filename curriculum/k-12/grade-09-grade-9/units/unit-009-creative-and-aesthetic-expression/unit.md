@@ -70,3 +70,11 @@ traditions to honor with respectful questions, never as specimens.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Digital & Mixed-Media Art: Combining Techniques | D07.S1.09.01 |
+| 02 | Reading Visual Media: Composition & Symbolism | D07.S1.09.02 |
+| 03 | Creating Music with Digital Tools | D07.S2.09.01 |
+| 04 | Music as Identity, Community & Resistance | D07.S2.09.02 |
+| 05 | Performing Identity: The Moving Body Asks a Question | D07.S3.09.01 |
+| 06 | Dance, Drama & Ritual: Building Community & Carrying Memory | D07.S3.09.02 |
+| 07 | Design & Make with Digital Fabrication | D07.S4.09.01 |
+| 08 | Design, Technology & the Environment | D07.S4.09.02 |

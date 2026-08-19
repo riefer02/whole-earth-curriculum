@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Movement phrase</title>
+  <desc>Five simple figures in a row showing a movement phrase that begins still, rises, reaches, gathers, and returns to stillness, with an arrow moving from left to right.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">A movement phrase</text>
+
+  <!-- ground line -->
+  <line x1="40" y1="360" x2="472" y2="360" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- figure 1: still, arms down -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="80" cy="250" r="16"/>
+    <line x1="80" y1="266" x2="80" y2="330"/>
+    <line x1="80" y1="280" x2="60" y2="320"/>
+    <line x1="80" y1="280" x2="100" y2="320"/>
+    <line x1="80" y1="330" x2="66" y2="360"/>
+    <line x1="80" y1="330" x2="94" y2="360"/>
+  </g>
+
+  <!-- figure 2: rise, arms lifting -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="176" cy="230" r="16"/>
+    <line x1="176" y1="246" x2="176" y2="330"/>
+    <line x1="176" y1="262" x2="150" y2="230"/>
+    <line x1="176" y1="262" x2="202" y2="230"/>
+    <line x1="176" y1="330" x2="162" y2="360"/>
+    <line x1="176" y1="330" x2="190" y2="360"/>
+  </g>
+
+  <!-- figure 3: reach up -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="272" cy="200" r="16"/>
+    <line x1="272" y1="216" x2="272" y2="330"/>
+    <line x1="272" y1="236" x2="242" y2="190"/>
+    <line x1="272" y1="236" x2="302" y2="190"/>
+    <line x1="272" y1="330" x2="258" y2="360"/>
+    <line x1="272" y1="330" x2="286" y2="360"/>
+  </g>
+
+  <!-- figure 4: gather, arms to chest -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="368" cy="240" r="16"/>
+    <line x1="368" y1="256" x2="368" y2="330"/>
+    <line x1="368" y1="276" x2="352" y2="300"/>
+    <line x1="368" y1="276" x2="384" y2="300"/>
+    <line x1="368" y1="330" x2="354" y2="360"/>
+    <line x1="368" y1="330" x2="382" y2="360"/>
+  </g>
+
+  <!-- figure 5: still again -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="452" cy="250" r="16"/>
+    <line x1="452" y1="266" x2="452" y2="330"/>
+    <line x1="452" y1="280" x2="432" y2="320"/>
+    <line x1="452" y1="280" x2="472" y2="320"/>
+    <line x1="452" y1="330" x2="438" y2="360"/>
+    <line x1="452" y1="330" x2="466" y2="360"/>
+  </g>
+
+  <!-- labels -->
+  <text x="80" y="392" font-family="system-ui, sans-serif" font-size="13" fill="#2b3a42" text-anchor="middle">still</text>
+  <text x="176" y="392" font-family="system-ui, sans-serif" font-size="13" fill="#2b3a42" text-anchor="middle">rise</text>
+  <text x="272" y="392" font-family="system-ui, sans-serif" font-size="13" fill="#2b3a42" text-anchor="middle">reach</text>
+  <text x="368" y="392" font-family="system-ui, sans-serif" font-size="13" fill="#2b3a42" text-anchor="middle">gather</text>
+  <text x="452" y="392" font-family="system-ui, sans-serif" font-size="13" fill="#2b3a42" text-anchor="middle">still</text>
+
+  <!-- arrow -->
+  <path d="M60 430 L 444 430" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="256" y="458" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">beginning → middle → end</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+</svg>

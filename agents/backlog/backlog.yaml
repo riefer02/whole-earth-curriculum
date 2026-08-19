@@ -5359,7 +5359,7 @@ items:
     type: lesson
     grade: 9
     domain: D07
-    status: ready
+    status: done
     priority: 140
     depends_on:
       - B-106
@@ -5371,6 +5371,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1357 files). 8 lessons L.09.009.01-.08, sequence 1-8 no gaps; objectives resolve only to eight grade-9 D07 IDs (D07.S1-S4.09.01/.02); unit.md 8 rows matching; scope lesson_count=8; 8 SVGs + alt. Observation: sources registered+verified (L.004 reggae S-450 UNESCO 'voice of marginalized', nueva cancion S-449; L.006 haka S-447/Day of Dead S-448/griot S-446); global balanced (Jamaica/Chile/Maori/Mexico/West Africa); L.005 body/consent norms appropriate."
+      fact-checker:
+        verdict: passed
+        note: "Verified 13 new sources S-440-S-452 live+attributed, marked reviewed:true. High-risk claims: reggae origin marginalized western Kingston/'voice of the marginalized' (UNESCO S-450, Britannica S-445); nueva cancion Latin American protest 1960s-80s (S-449, Victor Jara); griot West African troubadour-historian (S-446); haka Maori (Te Ara S-447, 403 bot-protection documented); Day of the Dead Indigenous+Catholic fusion (S-448); digital fabrication (S-451), circular economy (S-452); Krita/Inkscape/BandLab/Audacity live. Flagged: S-442 Center for Media Literacy SSL expired 2025-05-26 (noted, not blocked). 8 SVGs accurate. validate green (1357 files)."
+      global-culture-editor:
+        verdict: passed
+        note: Arts traditions multi-regional + underrepresented (reggae Jamaica, nueva cancion Chile, haka Maori/Te Ara, Day of Dead Mexico/Indigenous, griot West Africa) as living traditions never specimens, cited (UNESCO/Britannica/Te Ara). Appreciation-vs-appropriation explicit (L1 learn-from vs take; L3 sampling with/without credit; L5 ask before borrowing meaning). Digital lessons L1/L3/L7 low-tech + outdoor variant + free/open-source tools (Krita/GIMP/Inkscape/BandLab/Audacity), L7 hand tools as no-machine path. Extra examples (kente/rangoli/ukiyo-e/djembe/salsa clave/hip-hop). No US/Euro default. validate green (1357 files). No fixes.
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech tier all 8; alt text + role=img/title/desc on 8 SVGs, text labels not color-only. Fixes: L1 tactile/texture collage (blind/low-vision); L2 spoken/partner verbal description; L3 visible-rhythm/waveform/vibration/sign (Deaf/HoH); L4 lyrics+rhythm-notation+vibration; L5 seated/hand/breath/stillness (motor); L6 no-movement-required + spoken video description; L7 pre-cut/partner (motor). Wealth-free. validate green (1357 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: 8 lessons resolve to real grade-9 D07 IDs (D07.S1-S4.09.01/.02, one per lesson), chain Vision->P3->D07->S1-S4->U.09.009. Four lenses present (ethics x8 consent/appreciation/manipulation; egalitarianism L5 every-body-enough + L6 who-performs; global L7 fab labs 120+ countries + L8 compare contexts; tech&environment L6-L8 life cycle/circular economy). Evidence vs values: observation-vs-judgment discipline, S-440-S-452 + S-011 cited. validate green (1357 files). No fixes."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: critique/resistance-analysis/trade-off weighing match maturing formal operations; worked-example-first. L2 critiques external media not peers (no maker to humiliate), media literacy not cynicism. L5/L6 performance: invitation + honored pass, small circles not stage, consent first (no touch/film/share without permission), descriptive feedback never verdict, body-positive; L6 no movement required. L4 music-as-resistance: harm named honestly framed around hope/agency, violence inflicted-on not glorified. Perfectionism guardrails (L1/L3/L7 'not perfect, yours/not virtuosity'). Multi-modal + spiral. validate green (1357 files). Non-blocking: L5 step 2 'Stand and find stillness' slightly at odds with seated access note."
   - id: B-378
     title: Author lessons for Unit U.09.010 (Health, Sexuality & Safety)
     agent: lesson-author

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Mixed-media layers diagram</title>
+  <desc>A stack of three layers — a painted background, a scanned hand drawing, and a digital color layer — combining into one finished framed artwork on the right.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">One artwork, three layers</text>
+
+  <!-- Layer stack (left) -->
+  <!-- bottom: painted background -->
+  <rect x="40" y="120" width="200" height="70" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="160" font-family="system-ui, sans-serif" font-size="15" fill="#222222" text-anchor="middle">painted background</text>
+
+  <!-- middle: scanned hand drawing -->
+  <rect x="70" y="180" width="200" height="70" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="170" y="220" font-family="system-ui, sans-serif" font-size="15" fill="#222222" text-anchor="middle">scanned hand drawing</text>
+
+  <!-- top: digital color/text -->
+  <rect x="100" y="240" width="200" height="70" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="200" y="280" font-family="system-ui, sans-serif" font-size="15" fill="#222222" text-anchor="middle">digital color + text</text>
+
+  <!-- arrows from layers to result -->
+  <path d="M300 155 H 360" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M270 215 H 360" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M300 275 H 360" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- finished artwork -->
+  <rect x="360" y="110" width="120" height="180" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="376" y="126" width="88" height="70" rx="4" fill="#7a9e7e"/>
+  <circle cx="420" cy="196" r="24" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="376" y="230" width="88" height="30" rx="4" fill="#e0a458"/>
+  <text x="420" y="308" font-family="system-ui, sans-serif" font-size="13" fill="#222222" text-anchor="middle">combined piece</text>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#4f6d7a"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title>Digital audio workstation tracks</title>
+  <desc>A timeline of four horizontal tracks — drums, bass, melody, and voice — with colored clip regions, a looping section, and an effects chain, showing how music is built in digital tools.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="30" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">Building music on a timeline</text>
+
+  <!-- track labels column -->
+  <text x="70" y="96" font-family="system-ui, sans-serif" font-size="14" fill="#2b3a42" text-anchor="end">drums</text>
+  <text x="70" y="150" font-family="system-ui, sans-serif" font-size="14" fill="#2b3a42" text-anchor="end">bass</text>
+  <text x="70" y="204" font-family="system-ui, sans-serif" font-size="14" fill="#2b3a42" text-anchor="end">melody</text>
+  <text x="70" y="258" font-family="system-ui, sans-serif" font-size="14" fill="#2b3a42" text-anchor="end">voice</text>
+
+  <!-- track rows -->
+  <rect x="90" y="80" width="340" height="28" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="90" y="134" width="340" height="28" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="90" y="188" width="340" height="28" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="90" y="242" width="340" height="28" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- clips -->
+  <rect x="110" y="86" width="60" height="16" rx="3" fill="#e0a458"/>
+  <rect x="190" y="86" width="60" height="16" rx="3" fill="#e0a458"/>
+  <rect x="270" y="86" width="60" height="16" rx="3" fill="#e0a458"/>
+  <rect x="350" y="86" width="40" height="16" rx="3" fill="#e0a458"/>
+
+  <rect x="120" y="140" width="120" height="16" rx="3" fill="#7a9e7e"/>
+
+  <rect x="140" y="194" width="70" height="16" rx="3" fill="#6b93b6"/>
+  <rect x="250" y="194" width="70" height="16" rx="3" fill="#6b93b6"/>
+
+  <rect x="160" y="248" width="90" height="16" rx="3" fill="#e0a458"/>
+
+  <!-- loop region -->
+  <rect x="250" y="74" width="130" height="210" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
+  <text x="315" y="298" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">loop region</text>
+
+  <!-- effects chain below melody -->
+  <text x="90" y="336" font-family="system-ui, sans-serif" font-size="14" fill="#2b3a42">effects on the voice:</text>
+  <rect x="90" y="348" width="60" height="28" rx="4" fill="#6b93b6"/>
+  <text x="120" y="366" font-family="system-ui, sans-serif" font-size="12" fill="#222222" text-anchor="middle">reverb</text>
+  <rect x="160" y="348" width="60" height="28" rx="4" fill="#7a9e7e"/>
+  <text x="190" y="366" font-family="system-ui, sans-serif" font-size="12" fill="#222222" text-anchor="middle">EQ</text>
+  <rect x="230" y="348" width="60" height="28" rx="4" fill="#e0a458"/>
+  <text x="260" y="366" font-family="system-ui, sans-serif" font-size="12" fill="#222222" text-anchor="middle">echo</text>
+
+  <!-- timeline ruler -->
+  <rect x="90" y="54" width="340" height="16" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="90" y1="70" x2="430" y2="70" stroke="#2b3a42" stroke-width="1"/>
+  <text x="90" y="48" font-family="system-ui, sans-serif" font-size="12" fill="#2b3a42">time →</text>
+</svg>
