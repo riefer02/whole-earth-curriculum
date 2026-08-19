@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A day of eating patterns</title>
+  <desc id="d">A timeline of a day from morning to night with meal and snack times marked, and small labels for regular meals, listening to hunger and fullness, eating together, and mindful eating.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">A Day of Eating</text>
+
+  <!-- timeline -->
+  <line x1="48" y1="110" x2="464" y2="110" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- morning -->
+  <circle cx="96" cy="110" r="12" fill="#e0a458"/>
+  <text x="96" y="84" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Morning</text>
+  <text x="96" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">breakfast</text>
+
+  <!-- midday -->
+  <circle cx="256" cy="110" r="12" fill="#7a9e7e"/>
+  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Midday</text>
+  <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">lunch</text>
+
+  <!-- evening -->
+  <circle cx="416" cy="110" r="12" fill="#6b93b6"/>
+  <text x="416" y="84" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Evening</text>
+  <text x="416" y="142" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">dinner</text>
+
+  <!-- snack dots -->
+  <circle cx="176" cy="110" r="7" fill="#4f6d7a"/>
+  <circle cx="336" cy="110" r="7" fill="#4f6d7a"/>
+  <text x="176" y="142" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">snack</text>
+  <text x="336" y="142" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">snack</text>
+
+  <!-- pattern boxes -->
+  <rect x="28" y="188" width="214" height="120" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="135" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Regular meals</text>
+  <text x="135" y="240" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">steady energy,</text>
+  <text x="135" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">easier digestion</text>
+  <text x="135" y="286" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">helps the body</text>
+
+  <rect x="270" y="188" width="214" height="120" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="377" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Hunger &amp; fullness</text>
+  <text x="377" y="240" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">listen to the body's</text>
+  <text x="377" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">own signals</text>
+  <text x="377" y="286" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">eat the right amount for you</text>
+
+  <rect x="28" y="324" width="214" height="120" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="135" y="352" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Eating together</text>
+  <text x="135" y="376" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">shared meals build</text>
+  <text x="135" y="394" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">belonging and calm</text>
+  <text x="135" y="422" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">an old human way</text>
+
+  <rect x="270" y="324" width="214" height="120" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="377" y="352" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Mindful eating</text>
+  <text x="377" y="376" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">slow down, notice,</text>
+  <text x="377" y="394" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">put the screen down</text>
+  <text x="377" y="422" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">notice when full</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">How you eat is part of nourishment, too.</text>
+</svg>

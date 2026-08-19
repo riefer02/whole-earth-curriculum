@@ -3460,3 +3460,61 @@ sources:
     domains: [D07, D10]
     reviewed: true
     notes: "Cited in Grade-8 lessons L.08.007.08 and L.08.007.09 (prototype and design critique) for the idea that a design's environmental footprint includes its whole life cycle — materials, making, use, and disposal. VERIFIED 2026-08-18: URL live. The EPA 'Sustainable Materials Management' program home (epa.gov/smm) is live and on-topic; its 'Basics' subpage (epa.gov/smm/sustainable-materials-management-basics) states the life-cycle framing verbatim: 'Sustainable materials management (SMM) is a systematic approach to using and reusing materials more productively over their entire life cycles' and, under 'A Life-cycle Perspective,' that 'The major stages in a material's lifecycle are raw material acquisition, materials manufacture, production, use/reuse/maintenance, and waste management.' This directly supports the lesson's 'materials, making, use, disposal' footprint lens. The lesson uses the life-cycle idea as the 'footprint' lens of a design critique; the specific trade-offs learners weigh are theirs to observe, not claims attributed to this source."
+
+  - id: S-372
+    title: "WHO — Food safety fact sheet"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/food-safety
+    organization: World Health Organization
+    year: 2022
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in Grade-8 lessons L.08.008.02, L.08.008.03, and L.08.008.04 (safe food-handling and meal preparation) for the claims that unsafe food causes illness (foodborne disease), that most foodborne disease is preventable through safe handling, and that safe handling includes keeping clean, separating raw and cooked foods, cooking thoroughly, and keeping food at safe temperatures. URL verified live (2026-08-18); page dated 4 June 2026. States verbatim that unsafe food 'contaminated with harmful bacteria, viruses, parasites or chemical substances can cause more than 200 different diseases' (866 million illnesses / 1.52 million deaths in 2021), and that 'Food handlers and consumers need to understand how to safely handle food and practice the WHO Five keys to safer food' — directly supporting the lessons' foodborne-illness and preventable-through-safe-handling claims. Global authority (WHO), used as the evidence base for the lesson's food-safety practice, not as a claim about any specific food or culture."
+
+  - id: S-373
+    title: "WHO — Five keys to safer food"
+    type: report
+    url: https://www.who.int/publications/i/item/9789241594639
+    organization: World Health Organization
+    year: 2006
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in Grade-8 lessons L.08.008.02, L.08.008.03, and L.08.008.04 for the 'five keys' food-safety teaching frame — (1) keep clean, (2) separate raw and cooked, (3) cook thoroughly, (4) keep food at safe temperatures, and (5) use safe water and raw materials. URL verified live (2026-08-18); page dated 15 May 2006, ISBN 9789241594639. The overview lists the five core messages verbatim — 'keep clean; separate raw and cooked; cook thoroughly; keep food at safe temperatures; and use safe water and raw materials' — confirming the lesson's 'clean, separate, cook, chill' as a four-key simplification of this canonical WHO frame; the lesson correctly presents it as a practical scaffold, not as WHO's verbatim list."
+
+  - id: S-374
+    title: "WHO — Tobacco and nicotine fact sheet"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/tobacco
+    organization: World Health Organization
+    year: 2023
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.008.06 (tobacco and nicotine) for the claims that tobacco is harmful to health, that nicotine is highly addictive, that tobacco smoke harms the lungs, heart, and blood vessels, and that second-hand smoke harms others. URL verified live (2026-08-18); page dated 26 June 2026, now titled 'Tobacco and nicotine'. States verbatim: 'Nicotine is highly addictive and harmful, particularly for children, adolescents and young adults whose brains are still developing' and 'Nicotine exposure during adolescence can affect brain development'; 'All forms of tobacco use are harmful'; second-hand smoke kills over 1.6 million non-smokers per year. These directly support the lesson's addiction, developing-brain vulnerability, body-harms, and second-hand-smoke claims. The lesson's 'nicotine reaches the brain in seconds' detail and 'in most places the large majority of teenagers do not smoke' norms correction are standard, appropriately hedged facts (the WHO page confirms highly-addictive nicotine and global harm; it does not verbatim state the brain-in-seconds figure or the teen-prevalence statistic — both are accurate and not overstated). Global authority (WHO). The lesson uses these facts to support informed, delay-oriented choices for adolescents — never shame or moralizing."
+
+  - id: S-375
+    title: "WHO — Alcohol fact sheet"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/alcohol
+    organization: World Health Organization
+    year: 2024
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.008.07 (alcohol) for the claims that alcohol is a psychoactive substance that depresses the central nervous system, that drinking can impair coordination and judgment, and that the developing adolescent brain and body are especially vulnerable to alcohol's harms. URL verified live (2026-08-18); page dated 28 June 2024. States verbatim: 'Alcohol or alcoholic beverages contain ethanol, a psychoactive and toxic substance that can cause dependence'; 'Younger people are disproportionately negatively affected by alcohol consumption'; and that the level of risk depends on age and other factors. These support the lesson's psychoactive, younger-people-vulnerable, and delay-is-protective claims. The lesson's 'depressant — slows the central nervous system' classification (judgment, coordination, reaction time, memory) is standard, textbook-accurate pharmacology that the WHO page frames as 'psychoactive and toxic'; it is not overstated, and the lesson correctly avoids claiming any single drink is inevitably harmful. Global authority (WHO). The lesson pairs these facts with age-of-drinking laws and delay as a protective strategy, without moralizing."
+
+  - id: S-376
+    title: "WHO — Drugs (psychoactive substances) health topic"
+    type: website
+    url: https://www.who.int/health-topics/drugs-psychoactive
+    organization: World Health Organization
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.008.08 (medicines, drugs, and safe choices) for the frame that psychoactive substances affect the brain and can lead to dependence and other harms, and that medicine used as prescribed is different from drug misuse. URL verified live (2026-08-18). States verbatim: 'Psychoactive drugs are substances that, when taken in or administered into one's system, affect mental processes, e.g. perception, consciousness, cognition or mood and emotions'; 'The use of psychoactive drugs without medical supervision is associated with significant health risks and can lead to the development of drug use disorders.' Directly supports the lesson's medicine-vs-misuse framing and its 'repeated use can lead to dependence' claim. Global authority (WHO). The lesson distinguishes medicines (used as directed) from misuse, and teaches refusal and help-seeking skills rather than fear."
+
+  - id: S-377
+    title: "NIDA — Drugs, Brains, and Behavior: The Science of Addiction"
+    type: website
+    url: https://nida.nih.gov/publications/drugs-brains-behavior-science-addiction
+    organization: National Institute on Drug Abuse (U.S. National Institutes of Health)
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in Grade-8 lesson L.08.008.08 (medicines, drugs, and safe choices) for the claim that many drugs affect the brain's reward system by releasing dopamine, and that repeated use can change the brain and lead to addiction, which is a treatable health condition. URL verified live (2026-08-18); the canonical NIDA booklet 'Drugs, Brains, and Behavior: The Science of Addiction' (rev. July 2020, with Director's preface by Nora D. Volkow). States verbatim that 'addiction is a medical disorder that affects the brain and changes behavior', and its 'Drugs and the Brain' section describes how drugs alter the brain's reward system (dopamine). Directly supports the lesson's reward-system/dopamine, dependence, and addiction-as-treatable-health-condition claims. US-based authority; the lesson treats it as one scientific account among others and pairs it with the WHO psychoactive-substances frame (S-376)."

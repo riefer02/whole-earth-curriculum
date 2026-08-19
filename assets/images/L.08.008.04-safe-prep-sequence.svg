@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Safe meal preparation sequence</title>
+  <desc id="d">A six-step sequence for preparing food safely — wash hands, wash produce, use separate boards, cook to safe heat, chill leftovers, and serve — each with a small icon and label.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Preparing a Meal Safely</text>
+
+  <!-- step 1 -->
+  <circle cx="60" cy="112" r="26" fill="#7a9e7e"/>
+  <text x="60" y="120" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">1</text>
+  <text x="96" y="108" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Wash hands</text>
+  <text x="96" y="128" font-family="sans-serif" font-size="13" fill="#4f6d7a">soap + water ~20 s</text>
+
+  <!-- step 2 -->
+  <circle cx="60" cy="192" r="26" fill="#7a9e7e"/>
+  <text x="60" y="200" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">2</text>
+  <text x="96" y="188" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Wash produce</text>
+  <text x="96" y="208" font-family="sans-serif" font-size="13" fill="#4f6d7a">fruits and vegetables</text>
+
+  <!-- step 3 -->
+  <circle cx="60" cy="272" r="26" fill="#e0a458"/>
+  <text x="60" y="280" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">3</text>
+  <text x="96" y="268" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Separate boards</text>
+  <text x="96" y="288" font-family="sans-serif" font-size="13" fill="#4f6d7a">raw vs ready-to-eat</text>
+
+  <!-- step 4 -->
+  <circle cx="60" cy="352" r="26" fill="#e0a458"/>
+  <text x="60" y="360" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">4</text>
+  <text x="96" y="348" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Cook through</text>
+  <text x="96" y="368" font-family="sans-serif" font-size="13" fill="#4f6d7a">adult handles heat</text>
+
+  <!-- step 5 -->
+  <circle cx="60" cy="432" r="26" fill="#6b93b6"/>
+  <text x="60" y="440" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">5</text>
+  <text x="96" y="428" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Chill leftovers</text>
+  <text x="96" y="448" font-family="sans-serif" font-size="13" fill="#4f6d7a">refrigerate promptly</text>
+
+  <!-- step 6 -->
+  <circle cx="60" cy="492" r="26" fill="#6b93b6"/>
+  <text x="60" y="500" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">6</text>
+  <text x="96" y="488" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Serve clean</text>
+  <text x="96" y="508" font-family="sans-serif" font-size="13" fill="#4f6d7a">check allergies first</text>
+
+  <!-- right side note -->
+  <rect x="270" y="100" width="214" height="340" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="377" y="140" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">The safe sequence</text>
+  <text x="377" y="172" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Clean &#8594; separate</text>
+  <text x="377" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">&#8594; cook &#8594; chill</text>
+  <text x="377" y="220" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">&#8594; serve</text>
+  <line x1="300" y1="246" x2="454" y2="246" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="377" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">A grown-up stays for</text>
+  <text x="377" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">anything sharp or hot.</text>
+  <text x="377" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Check with each person</text>
+  <text x="377" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">eating about allergies.</text>
+  <text x="377" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The habits matter,</text>
+  <text x="377" y="416" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">not the dish.</text>
+</svg>

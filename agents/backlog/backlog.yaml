@@ -4952,7 +4952,7 @@ items:
     type: lesson
     grade: 8
     domain: D03
-    status: ready
+    status: done
     priority: 130
     depends_on:
       - B-105
@@ -4964,6 +4964,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate green (1252 files). 10 lessons L.08.008.01-.10; objectives resolve only to four grade-8 D03 IDs (D03.S3.08.01/.02, D03.S4.08.01/.02); sequence 1-10 no gaps; Procedure/Assessment/Connection/Objectives present; unit.md Lessons table matches 10. Observation: L.08.008.08 substance strand age-appropriate harm-reduction — 'medicine used as directed is help; misuse is harm', facilitator note says don't name street drugs/methods, addiction = treatable health condition not moral failing, sources WHO S-376/NIDA S-377. 10 SVGs with alt text."
+      fact-checker:
+        verdict: passed
+        note: "Verified 6 new sources S-372-S-377 (WHO food safety, five keys, tobacco, alcohol, drugs; NIDA addiction) all live+attributed, marked reviewed:true. Health claims accurate+hedged: no invented temps, nicotine/addiction/alcohol-as-CNS-depressant/developing-brain/'delay is protective' correct, medicines-vs-misuse and 'addiction = treatable health condition not moral failing' sound. Fixed L.08.008.06 which mis-cited food-marketing S-312 as tobacco-advertising frame -> reattributed to S-374 TAPS. 10 SVGs original+accurate. validate green (1252 files)."
+      global-culture-editor:
+        verdict: passed
+        note: "Food examples span regions (rice/beans/lentils/yam/maize/fish/greens/chickpeas), dietary guidance honors vegetarian/vegan/halal/kosher/gluten-free + 'many cultures have their own balanced plates'. Tobacco (L06) honors Indigenous/ceremonial use vs commercial smoking without ranking; alcohol (L07) holds range 'total avoidance to everyday moderation' without ranking; Ramadan fasting as meaningful practice; self-care pillars accommodate learners lacking quiet space/clean water/safe places. Fix: L09 hygiene added tooth-care forms (miswak/neem/chewing sticks) with neither ranked better. validate green (1252 files)."
+      accessibility-editor:
+        verdict: passed
+        note: "materials_low_tech in all 10 lessons; SVGs role=img/title/desc with labels+text (no color-only); wealth-free cores. No-kitchen/no-tech: L4 no-cook recipes + whatever foods at hand + clean-water note + outdoor variant; substance facts in body text + voice/role-play. Fixes: L4 added motor-disability adaptations (seated workspace, non-slip mat, one-handed/no-knife, partner direction); L10 added tactile tracker (pebbles/seeds/beads or knots on string) so tracking no longer needs visual chart/writing. validate green (1252 files)."
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: objectives resolve to real grade-8 D03 standards (D03.S3.08.01/.02, D03.S4.08.01/.02); chain Vision->P2->D03->S3/S4->unit. Evidence vs values distinct; all cited S-IDs reviewed:true. Fixed 8 lens gaps (added technology&environment to L01,L05-L10; global to L04; egalitarianism to L01 frontmatter). validate green (1252 files)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit: substance systems (reward/dopamine/dependence) anchored in body diagrams/role-play, abstract brain-mechanism reserved for extension. Substance tone factual/calm/non-moralizing (L6 honors Indigenous use; L7 avoids judging families where alcohol present; L8 addiction as treatable health condition not moral failing; no street-drug naming). Eating/meals free of diet/weight/body-shame (L3 honors all dietary patterns + never shames what's on the table; L5 fasting as meaningful practice, hunger as justice issue). Self-care 'realistic over grand', accommodates no-quiet-space/no-clean-water/no-safe-movement, missed day = information not failure. Multi-modal + spiral. validate green (1252 files). No edits needed."
   - id: B-367
     title: Author lessons for Unit U.08.009 (Trade, Knowledge Systems & the Human Story)
     agent: lesson-author

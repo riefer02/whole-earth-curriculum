@@ -54,3 +54,13 @@ dignity, never shame.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | Healthy, Safe & Strong: Where We've Been, Where We're Going | D03.S3.08.01, D03.S4.08.01 |
+| 02 | Keeping Food Safe: Clean, Separate, Cook, Chill | D03.S3.08.01 |
+| 03 | Planning a Balanced Meal | D03.S3.08.01 |
+| 04 | Preparing a Simple Meal Safely | D03.S3.08.01 |
+| 05 | Eating Patterns: How We Eat Shapes How We Feel | D03.S3.08.02 |
+| 06 | Tobacco & Nicotine: What They Do to the Body and Brain | D03.S4.08.01 |
+| 07 | Alcohol: Effects on a Growing Body and Brain | D03.S4.08.01 |
+| 08 | Medicines, Drugs, and Safe, Informed Choices | D03.S4.08.01 |
+| 09 | Building a Self-Care Routine: Sleep, Hygiene, Movement, Connection | D03.S4.08.02 |
+| 10 | Tracking My Routine + Capstone: Healthy, Safe & Strong | D03.S3.08.01, D03.S3.08.02, D03.S4.08.01, D03.S4.08.02 |

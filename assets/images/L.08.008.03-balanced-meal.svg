@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A balanced meal plate</title>
+  <desc id="d">A simple plate divided into labeled sections — vegetables and fruit, grains, protein, and a cup of water — with an empty space to fill in a real meal.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Balanced Meal</text>
+
+  <!-- plate -->
+  <circle cx="256" cy="256" r="170" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="256" r="120" fill="none" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="6 6"/>
+
+  <!-- sections -->
+  <path d="M256,256 L256,136 A120,120 0 0 1 376,256 Z" fill="#7a9e7e" opacity="0.55"/>
+  <path d="M256,256 L376,256 A120,120 0 0 1 256,376 Z" fill="#e0a458" opacity="0.55"/>
+  <path d="M256,256 L256,376 A120,120 0 0 1 136,256 Z" fill="#6b93b6" opacity="0.55"/>
+  <path d="M256,256 L136,256 A120,120 0 0 1 256,136 Z" fill="#fdfbf7" opacity="0.9"/>
+
+  <!-- labels -->
+  <text x="316" y="186" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Vegetables</text>
+  <text x="316" y="204" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">&amp; fruit</text>
+  <text x="316" y="316" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Protein</text>
+  <text x="196" y="316" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Grains</text>
+  <text x="196" y="186" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">(your food)</text>
+
+  <!-- water cup -->
+  <rect x="400" y="330" width="64" height="76" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="432" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Water</text>
+
+  <!-- caption -->
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Fill each section with foods your family actually eats</text>
+</svg>

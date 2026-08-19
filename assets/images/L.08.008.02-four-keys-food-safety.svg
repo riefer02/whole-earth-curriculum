@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The four keys of food safety</title>
+  <desc id="d">Four labeled panels showing the four keys of food safety — clean, separate, cook, and chill — each with a simple shape and label.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Four Keys of Food Safety</text>
+
+  <!-- Clean -->
+  <rect x="28" y="72" width="214" height="196" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="135" cy="130" r="34" fill="#7a9e7e"/>
+  <text x="135" y="138" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#222222">1</text>
+  <text x="135" y="186" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Clean</text>
+  <text x="135" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Wash hands, surfaces,</text>
+  <text x="135" y="228" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and produce</text>
+  <text x="135" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">soap + water ~20 s</text>
+
+  <!-- Separate -->
+  <rect x="270" y="72" width="214" height="196" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="377" cy="130" r="34" fill="#e0a458"/>
+  <text x="377" y="138" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#222222">2</text>
+  <text x="377" y="186" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Separate</text>
+  <text x="377" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Keep raw meat, eggs away</text>
+  <text x="377" y="228" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">from ready-to-eat food</text>
+  <text x="377" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">different boards &amp; plates</text>
+
+  <!-- Cook -->
+  <rect x="28" y="288" width="214" height="196" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="135" cy="346" r="34" fill="#e0a458"/>
+  <text x="135" y="354" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#222222">3</text>
+  <text x="135" y="402" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Cook</text>
+  <text x="135" y="426" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Cook food thoroughly</text>
+  <text x="135" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">to a safe heat inside</text>
+  <text x="135" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a thermometer checks</text>
+
+  <!-- Chill -->
+  <rect x="270" y="288" width="214" height="196" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="377" cy="346" r="34" fill="#6b93b6"/>
+  <text x="377" y="354" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#222222">4</text>
+  <text x="377" y="402" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Chill</text>
+  <text x="377" y="426" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Keep cold food cold,</text>
+  <text x="377" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">refrigerate leftovers</text>
+  <text x="377" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">promptly</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">One-week self-care tracker</title>
+  <desc id="d">A one-week grid with seven days across and four rows — sleep, hygiene, movement, and connection — with an empty check space in each cell and a place to note how the week felt.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">One-Week Self-Care Tracker</text>
+
+  <!-- grid: rows for 4 pillars, columns for 7 days -->
+  <!-- header row -->
+  <text x="120" y="88" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Pillar / Day</text>
+  <g font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42" text-anchor="middle">
+    <text x="182" y="88">Mon</text>
+    <text x="232" y="88">Tue</text>
+    <text x="282" y="88">Wed</text>
+    <text x="332" y="88">Thu</text>
+    <text x="382" y="88">Fri</text>
+    <text x="432" y="88">Sat</text>
+    <text x="482" y="88">Sun</text>
+  </g>
+
+  <!-- pillar labels -->
+  <g font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">
+    <text x="44" y="132">Sleep</text>
+    <text x="44" y="186">Hygiene</text>
+    <text x="44" y="240">Movement</text>
+    <text x="44" y="294">Connection</text>
+  </g>
+
+  <!-- cells: empty check boxes (squares) -->
+  <g fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5">
+    <rect x="160" y="112" width="44" height="34" rx="6"/>
+    <rect x="210" y="112" width="44" height="34" rx="6"/>
+    <rect x="260" y="112" width="44" height="34" rx="6"/>
+    <rect x="310" y="112" width="44" height="34" rx="6"/>
+    <rect x="360" y="112" width="44" height="34" rx="6"/>
+    <rect x="410" y="112" width="44" height="34" rx="6"/>
+    <rect x="460" y="112" width="44" height="34" rx="6"/>
+
+    <rect x="160" y="166" width="44" height="34" rx="6"/>
+    <rect x="210" y="166" width="44" height="34" rx="6"/>
+    <rect x="260" y="166" width="44" height="34" rx="6"/>
+    <rect x="310" y="166" width="44" height="34" rx="6"/>
+    <rect x="360" y="166" width="44" height="34" rx="6"/>
+    <rect x="410" y="166" width="44" height="34" rx="6"/>
+    <rect x="460" y="166" width="44" height="34" rx="6"/>
+
+    <rect x="160" y="220" width="44" height="34" rx="6"/>
+    <rect x="210" y="220" width="44" height="34" rx="6"/>
+    <rect x="260" y="220" width="44" height="34" rx="6"/>
+    <rect x="310" y="220" width="44" height="34" rx="6"/>
+    <rect x="360" y="220" width="44" height="34" rx="6"/>
+    <rect x="410" y="220" width="44" height="34" rx="6"/>
+    <rect x="460" y="220" width="44" height="34" rx="6"/>
+
+    <rect x="160" y="274" width="44" height="34" rx="6"/>
+    <rect x="210" y="274" width="44" height="34" rx="6"/>
+    <rect x="260" y="274" width="44" height="34" rx="6"/>
+    <rect x="310" y="274" width="44" height="34" rx="6"/>
+    <rect x="360" y="274" width="44" height="34" rx="6"/>
+    <rect x="410" y="274" width="44" height="34" rx="6"/>
+    <rect x="460" y="274" width="44" height="34" rx="6"/>
+  </g>
+
+  <!-- reflection box -->
+  <rect x="44" y="340" width="424" height="96" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">How did the week feel?</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(energy, mood, sleep, connection — habits and feelings, never weight)</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A missed day is information, never a failure.</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Mark each day you keep your action. Notice the pattern, not perfection.</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Unit map: Healthy, Safe &amp; Strong</title>
+  <desc id="d">A map of the unit showing two strands — food and nutrition, and safety and self-care — each with two short goals, joined by the words plan, prepare, choose, and care.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Healthy, Safe &amp; Strong</text>
+
+  <!-- action band -->
+  <rect x="106" y="66" width="300" height="44" rx="22" fill="#e0a458"/>
+  <text x="256" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Plan &#183; Prepare &#183; Choose &#183; Care</text>
+
+  <!-- left strand -->
+  <rect x="28" y="130" width="214" height="330" rx="14" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="28" y="130" width="214" height="46" rx="14" fill="#7a9e7e"/>
+  <text x="135" y="160" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Food &amp; Nutrition</text>
+  <rect x="44" y="196" width="182" height="110" rx="10" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="135" y="224" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Goal 1</text>
+  <text x="135" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Plan and prepare a</text>
+  <text x="135" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">balanced meal safely</text>
+  <text x="135" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(clean, separate,</text>
+  <text x="135" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">cook, chill)</text>
+  <rect x="44" y="322" width="182" height="116" rx="10" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="135" y="350" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Goal 2</text>
+  <text x="135" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Eating patterns</text>
+  <text x="135" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">shape health,</text>
+  <text x="135" y="410" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">digestion, and</text>
+  <text x="135" y="428" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">wellbeing</text>
+
+  <!-- right strand -->
+  <rect x="270" y="130" width="214" height="330" rx="14" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="270" y="130" width="214" height="46" rx="14" fill="#6b93b6"/>
+  <text x="377" y="160" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Safety &amp; Self-Care</text>
+  <rect x="286" y="196" width="182" height="110" rx="10" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="377" y="224" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Goal 3</text>
+  <text x="377" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Substances — tobacco,</text>
+  <text x="377" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">alcohol, drugs — and</text>
+  <text x="377" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">safe, informed choices</text>
+  <rect x="286" y="322" width="182" height="116" rx="10" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="377" y="350" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Goal 4</text>
+  <text x="377" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Build and track a</text>
+  <text x="377" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">self-care routine:</text>
+  <text x="377" y="410" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">sleep, hygiene,</text>
+  <text x="377" y="428" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">movement, connection</text>
+
+  <!-- connecting line -->
+  <line x1="28" y1="478" x2="484" y2="478" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">What I eat &#183; How I eat &#183; What I choose &#183; How I care</text>
+</svg>

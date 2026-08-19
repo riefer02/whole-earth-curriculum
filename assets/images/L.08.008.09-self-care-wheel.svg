@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The self-care wheel</title>
+  <desc id="d">A wheel divided into four labeled sections — sleep, hygiene, movement, and connection — each with one small icon and an empty space to write a personal action.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">My Self-Care Wheel</text>
+
+  <!-- wheel -->
+  <circle cx="256" cy="260" r="170" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="90" x2="256" y2="430" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="86" y1="260" x2="426" y2="260" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Sleep (top) -->
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Sleep</text>
+  <text x="256" y="176" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">8–10 hours</text>
+  <text x="256" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a regular bedtime</text>
+
+  <!-- Hygiene (right) -->
+  <text x="341" y="250" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Hygiene</text>
+  <text x="341" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">wash, brush,</text>
+  <text x="341" y="298" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">hands &amp; teeth</text>
+
+  <!-- Movement (bottom) -->
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Movement</text>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">any that feels good</text>
+
+  <!-- Connection (left) -->
+  <text x="171" y="250" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Connection</text>
+  <text x="171" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the people who</text>
+  <text x="171" y="298" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">matter to you</text>
+
+  <!-- center -->
+  <circle cx="256" cy="260" r="44" fill="#e0a458"/>
+  <text x="256" y="254" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">small,</text>
+  <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">kept</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Choose one realistic action for each section.</text>
+</svg>

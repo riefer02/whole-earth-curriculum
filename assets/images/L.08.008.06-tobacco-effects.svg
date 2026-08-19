@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">How tobacco affects the body</title>
+  <desc id="d">A body outline with labeled spots showing nicotine reaches the brain and can cause addiction, and tobacco smoke harms the lungs, heart, and blood vessels.</desc>
+  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Tobacco &amp; Nicotine</text>
+
+  <!-- body outline -->
+  <circle cx="256" cy="120" r="42" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="196" y="164" width="120" height="230" rx="34" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="196" y1="300" x2="140" y2="420" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="316" y1="300" x2="372" y2="420" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="216" y1="182" x2="176" y2="300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="296" y1="182" x2="336" y2="300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- brain label -->
+  <circle cx="256" cy="120" r="6" fill="#e0a458"/>
+  <text x="336" y="104" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Brain</text>
+  <text x="336" y="122" font-family="sans-serif" font-size="12" fill="#222222">nicotine reaches it</text>
+  <text x="336" y="138" font-family="sans-serif" font-size="12" fill="#222222">in seconds — addictive</text>
+
+  <!-- lungs label -->
+  <circle cx="256" cy="264" r="6" fill="#7a9e7e"/>
+  <text x="336" y="250" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Lungs</text>
+  <text x="336" y="268" font-family="sans-serif" font-size="12" fill="#222222">smoke damages them</text>
+  <text x="336" y="284" font-family="sans-serif" font-size="12" fill="#222222">and causes disease</text>
+
+  <!-- heart label -->
+  <circle cx="256" cy="210" r="6" fill="#e0a458"/>
+  <text x="96" y="250" text-anchor="end" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Heart</text>
+  <text x="96" y="268" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">strain and disease</text>
+
+  <!-- blood vessels label -->
+  <circle cx="176" cy="240" r="6" fill="#6b93b6"/>
+  <text x="96" y="356" text-anchor="end" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Blood vessels</text>
+  <text x="96" y="374" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">narrow and harden</text>
+
+  <!-- second-hand smoke -->
+  <rect x="28" y="436" width="456" height="56" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Second-hand smoke harms the people nearby, too.</text>
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Most teens do NOT smoke — &quot;everyone does it&quot; is a myth.</text>
+</svg>
