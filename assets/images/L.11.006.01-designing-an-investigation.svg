@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Designing a Fair Investigation</title>
+  <desc id="desc">A diagram of a fair investigation. A box for the independent variable (the thing changed) points to a box for the dependent variable (the thing measured), while three locked boxes show the controlled variables kept the same. A second row shows a control group with no change and several replicate trials.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Fair Test</text>
+
+  <!-- Independent variable -->
+  <rect x="40" y="60" width="190" height="72" fill="#e0a458" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2.5" rx="6"/>
+  <text x="135" y="88" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Independent variable</text>
+  <text x="135" y="110" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the one thing you change</text>
+
+  <!-- Arrow -->
+  <line x1="230" y1="96" x2="288" y2="96" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="288,96 276,90 276,102" fill="#2b3a42"/>
+
+  <!-- Dependent variable -->
+  <rect x="288" y="60" width="184" height="72" fill="#6b93b6" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2.5" rx="6"/>
+  <text x="380" y="88" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Dependent variable</text>
+  <text x="380" y="110" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the thing you measure</text>
+
+  <!-- Controlled variables -->
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Controlled variables — kept the same</text>
+  <rect x="40" y="186" width="132" height="52" fill="#7a9e7e" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="106" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">same soil</text>
+  <rect x="190" y="186" width="132" height="52" fill="#7a9e7e" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">same light</text>
+  <rect x="340" y="186" width="132" height="52" fill="#7a9e7e" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="406" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">same pot</text>
+
+  <!-- Control and replicates -->
+  <rect x="40" y="290" width="200" height="64" fill="#4f6d7a" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2.5" rx="6"/>
+  <text x="140" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Control group</text>
+  <text x="140" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">gets no change, to compare</text>
+
+  <rect x="272" y="290" width="200" height="64" fill="#e0a458" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2.5" rx="6"/>
+  <text x="372" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Replicates</text>
+  <text x="372" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">repeat trials, not one fluke</text>
+
+  <!-- Footer -->
+  <rect x="90" y="406" width="332" height="66" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Change one thing, measure one thing,</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">keep everything else the same.</text>
+</svg>

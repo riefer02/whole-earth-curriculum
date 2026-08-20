@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Scientific Way of Knowing</title>
+  <desc id="desc">A circular loop with four steps: observe, ask a question, make a testable guess, test and compare. An arrow returns from test back to observe, and a note explains the loop can repeat and be corrected by others.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Scientific Loop</text>
+
+  <!-- Loop nodes -->
+  <circle cx="140" cy="150" r="56" fill="#7a9e7e" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="140" y="146" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Observe</text>
+  <text x="140" y="166" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">notice something</text>
+
+  <circle cx="372" cy="150" r="56" fill="#6b93b6" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="372" y="146" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Ask</text>
+  <text x="372" y="166" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">why does it happen?</text>
+
+  <circle cx="372" cy="330" r="56" fill="#e0a458" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="372" y="326" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Guess</text>
+  <text x="372" y="346" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a testable idea</text>
+
+  <circle cx="140" cy="330" r="56" fill="#4f6d7a" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="140" y="326" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Test</text>
+  <text x="140" y="346" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">compare with evidence</text>
+
+  <!-- Arrows -->
+  <line x1="196" y1="150" x2="316" y2="150" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="316,150 304,144 304,156" fill="#2b3a42"/>
+  <line x1="372" y1="206" x2="372" y2="274" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="372,274 366,262 378,262" fill="#2b3a42"/>
+  <line x1="316" y1="330" x2="196" y2="330" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="196,330 208,324 208,336" fill="#2b3a42"/>
+  <line x1="140" y1="274" x2="140" y2="206" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="140,206 134,218 146,218" fill="#2b3a42"/>
+
+  <!-- Footer -->
+  <rect x="90" y="410" width="332" height="62" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">The loop can repeat forever —</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">and others can check and correct it.</text>
+</svg>

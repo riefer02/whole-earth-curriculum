@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three Ways of Knowing</title>
+  <desc id="desc">Three columns. The first shows the scientific loop with observation and testing. The second shows indigenous knowing as observation over generations, oral tradition, and reciprocity with the land. The third shows artistic knowing as attention, craft, and embodied expression. A shared bottom row notes each asks, tests, and offers something the others do not.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Three Ways of Knowing</text>
+
+  <!-- Scientific -->
+  <rect x="20" y="58" width="150" height="46" fill="#6b93b6" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="95" y="86" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Scientific</text>
+  <text x="95" y="126" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">observe → guess → test</text>
+  <text x="95" y="146" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">checked by others</text>
+
+  <!-- Indigenous -->
+  <rect x="181" y="58" width="150" height="46" fill="#7a9e7e" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="86" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Indigenous</text>
+  <text x="256" y="126" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">observation over generations</text>
+  <text x="256" y="146" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">oral tradition · reciprocity</text>
+
+  <!-- Artistic -->
+  <rect x="342" y="58" width="150" height="46" fill="#e0a458" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="417" y="86" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Artistic</text>
+  <text x="417" y="126" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">attention · craft</text>
+  <text x="417" y="146" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">embodied expression</text>
+
+  <!-- Shared row -->
+  <rect x="20" y="190" width="472" height="54" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Each asks its own question, tests its own way,</text>
+  <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">and offers something the others cannot.</text>
+
+  <!-- Three smaller boxes -->
+  <rect x="20" y="268" width="150" height="100" fill="#6b93b6" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="95" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">How it asks</text>
+  <text x="95" y="318" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a testable question</text>
+  <text x="95" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">about how nature behaves</text>
+
+  <rect x="181" y="268" width="150" height="100" fill="#7a9e7e" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">How it asks</text>
+  <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">long attention to a place</text>
+  <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">and to the land's health</text>
+
+  <rect x="342" y="268" width="150" height="100" fill="#e0a458" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="417" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">How it asks</text>
+  <text x="417" y="318" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">close looking and making</text>
+  <text x="417" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">feeling and fidelity</text>
+
+  <!-- Footer -->
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">None is a ladder above the others —</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">they are different instruments for different songs.</text>
+</svg>

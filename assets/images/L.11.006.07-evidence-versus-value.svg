@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence versus Value</title>
+  <desc id="desc">Two labeled shelves. The top shelf holds evidence claims about how things are, with cards about populations changing and fossils. The bottom shelf holds value claims about how we ought to act, with cards about care and respect. A dashed line between them is labeled different questions, both worth asking.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Two Kinds of Claim</text>
+
+  <!-- Top shelf -->
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#6b93b6" font-weight="bold">Evidence claims — how things are</text>
+  <rect x="40" y="88" width="200" height="58" fill="#6b93b6" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="140" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Populations change</text>
+  <text x="140" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">over generations</text>
+  <rect x="272" y="88" width="200" height="58" fill="#6b93b6" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="372" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Fossils appear in</text>
+  <text x="372" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">ordered layers</text>
+
+  <!-- Dashed divider -->
+  <line x1="40" y1="176" x2="472" y2="176" stroke="#2b3a42" stroke-width="2" stroke-dasharray="8,6"/>
+  <text x="256" y="170" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" font-weight="bold">— different questions, both worth asking —</text>
+
+  <!-- Bottom shelf -->
+  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458" font-weight="bold">Value claims — how we ought to act</text>
+  <rect x="40" y="230" width="200" height="58" fill="#e0a458" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="140" y="254" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Animals deserve care</text>
+  <text x="140" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(a matter of conscience)</text>
+  <rect x="272" y="230" width="200" height="58" fill="#e0a458" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="372" y="254" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">We should protect</text>
+  <text x="372" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">forests and rivers</text>
+
+  <!-- Footer -->
+  <rect x="60" y="330" width="392" height="120" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Evidence is settled by observation.</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Values are settled by reasoning and care.</text>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"Life evolved" and "life is precious"</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">are different kinds of claim.</text>
+</svg>

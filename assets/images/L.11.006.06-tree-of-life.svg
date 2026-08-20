@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Tree of Life</title>
+  <desc id="desc">A branching tree with a single trunk labeled common ancestor splitting into branches. One branch carries a human hand, a whale flipper, and a bat wing, labeled homologous structures from a shared ancestor. A small inset shows a fossil layer and a DNA double helix, labeled two more lines of evidence.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Tree of Life</text>
+
+  <!-- Trunk and branches -->
+  <path d="M 256 400 L 256 300" stroke="#2b3a42" stroke-width="8" fill="none"/>
+  <path d="M 256 300 C 256 260 180 250 150 210" stroke="#2b3a42" stroke-width="6" fill="none"/>
+  <path d="M 256 300 C 256 260 340 250 370 210" stroke="#2b3a42" stroke-width="6" fill="none"/>
+  <path d="M 150 210 C 150 190 110 180 96 150" stroke="#2b3a42" stroke-width="5" fill="none"/>
+  <path d="M 150 210 C 150 190 190 180 200 150" stroke="#2b3a42" stroke-width="5" fill="none"/>
+  <path d="M 370 210 C 370 190 330 180 320 150" stroke="#2b3a42" stroke-width="5" fill="none"/>
+  <path d="M 370 210 C 370 190 410 180 424 150" stroke="#2b3a42" stroke-width="5" fill="none"/>
+
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">common ancestor</text>
+
+  <!-- Homologous structures group -->
+  <rect x="40" y="90" width="120" height="120" fill="#7a9e7e" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="100" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">hand</text>
+  <text x="100" y="126" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(human)</text>
+  <rect x="180" y="90" width="120" height="120" fill="#7a9e7e" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="240" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">flipper</text>
+  <text x="240" y="126" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(whale)</text>
+  <rect x="320" y="90" width="120" height="120" fill="#7a9e7e" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="380" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">wing</text>
+  <text x="380" y="126" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(bat)</text>
+
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">homologous structures — one plan, modified</text>
+
+  <!-- Inset: fossil and DNA -->
+  <rect x="20" y="300" width="210" height="120" fill="#e0a458" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="125" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">Fossils in ordered layers</text>
+  <rect x="40" y="338" width="170" height="16" fill="#e0a458" fill-opacity="0.3" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="40" y="356" width="170" height="16" fill="#e0a458" fill-opacity="0.5" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="40" y="374" width="170" height="16" fill="#e0a458" fill-opacity="0.7" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="125" y="408" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">older beneath, younger above</text>
+
+  <rect x="282" y="300" width="210" height="120" fill="#6b93b6" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="387" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">DNA sequences</text>
+  <path d="M 300 360 C 320 340 340 380 360 360 C 340 340 320 380 300 360" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <path d="M 340 390 C 360 370 380 410 400 390 C 380 370 360 410 340 390" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="387" y="408" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">closer match = closer kin</text>
+
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">A branching tree, not a ladder — every species is a leaf.</text>
+</svg>

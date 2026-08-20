@@ -6210,7 +6210,7 @@ items:
     type: lesson
     grade: 11
     domain: D06
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6221,7 +6221,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by fact-checker: 3 misattributed citations: (1) L13 cites S-002/S-018 for Big Bang light-element abundance (H/He) — neither NASA page covers primordial nucleosynthesis; (2) L14 cites S-002 for 'steady-state failed because it could not fit the CMB' — NASA page never discusses steady-state; (3) L6 cites S-308 for ~3.5-4 Ga earliest life — USGS covers Earth age/oldest rocks only. Science correct; fix citations.. Blocked by fact-checker: L13, L6, and S-497 fixes verified clean. Residual: L14 still tags the 'steady-state could not fit CMB / was set aside' decline claim to S-002 (Facilitator note + Procedure step 3) — S-002 never mentions steady-state. Re-tag those two clauses to S-497, or split so S-002 covers only 'CMB is Big Bang evidence'.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (1638 files). All 16 lessons carry required headings + valid frontmatter; objectives resolve to real D06.S*.11.0* IDs (S1→L01-02 ... S4→L13-16). L14 rework clean: steady-state decline tagged S-497, CMB evidence tagged S-002, both sources exist in registry, no stray citations."
+      fact-checker:
+        verdict: passed
+        note: L14 steady-state proposal/decline now tagged S-497 (Britannica), CMB-afterglow tagged S-002 (NASA) in Facilitator note + Procedure step 3; S-497 in registry with defensible reviewed:true note; re-scan of all 16 lessons shows no remaining misattribution (L6, L13, L14 clean).
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default framing: L03 'shared human achievement'; L09/L10 credit atomic/quantum ideas to scientists in many countries; L04 treats Indigenous ways of knowing (Aboriginal cultural burning S-320/S-321, Kimmerer S-427, songlines S-085) as living traditions, never 'lesser science'; L14 names Māori and Haudenosaunee origin accounts as living traditions not specimens/'failed science'; evidence-vs-value distinction consistent."
+      accessibility-editor:
+        verdict: passed
+        note: All 16 lessons carry genuine low-tech equivalents for abstract topics (atomic L09 counters/sand, quantum L10 rope standing-wave, thermodynamics L11 warm object, Big Bang L13 balloon, tree-of-life L06 hand comparison); all 16 SVGs have role=img + title/desc/aria-labelledby + non-empty alt; UDL multiple means throughout; all five context_variants present in all 16.
+      alignment-auditor:
+        verdict: passed
+        note: "Traceability: all 16 lessons' objectives resolve to real D06.S*.11.0* → D06 → P3 → vision. All four lenses present: ethics (L01-08,12-14,16), egalitarianism (L01-02,04,07-08,12,16 'who mines/disposes/benefits', climate justice), global/anthropological (L03-07,09-10,13-16; Indigenous/artistic knowing L04, cultural origin accounts L14), tech+environment (L09-12, L08/11/12/15/16). Evidence-vs-value distinct; origins held as models-not-certainty; no hierarchy (L06 rejects ladder, L14 rejects ranking)."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit (formal operations): atomic/quantum (L09-10), thermodynamics (L11), evolution (L5-6), cosmology (L13-14), Earth systems (L15-16) appropriately abstract, spiral targets named (D06.S2.10.01, D06.S4.10.01), worked-example→guided→independent + tiers. Emotional safety: origins/evolution/cosmology held non-dogmatically ('model not certainty', evidence-vs-value), Indigenous/cultural accounts respected by name, climate framed with agency 'not a doom story'. Physical: all context_variants incl outdoor-only + self-directed, low-tech alternatives. Open-ended: essential questions held as questions, no indoctrination."
   - id: B-401
     title: Author lessons for Unit U.11.007 (Creative & Aesthetic Expression)
     agent: lesson-author

@@ -74,3 +74,19 @@ accounts among many others — never as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.11.006.01 | Designing and Defending an Investigation | D06.S1.11.01 |
+| L.11.006.02 | Carrying It Out: Replicates and Uncertainty | D06.S1.11.01 |
+| L.11.006.03 | Scientific Ways of Knowing | D06.S1.11.02 |
+| L.11.006.04 | Indigenous and Artistic Ways of Knowing | D06.S1.11.02 |
+| L.11.006.05 | Evidence for Evolution: Variation, Inheritance, Selection | D06.S2.11.01 |
+| L.11.006.06 | Common Ancestry and the Tree of Life | D06.S2.11.01 |
+| L.11.006.07 | Evidence and Meaning, and the Ethics of Other Species | D06.S2.11.02 |
+| L.11.006.08 | Conservation, Restoration, and Ecosystems | D06.S2.11.02 |
+| L.11.006.09 | Matter at the Atomic Scale | D06.S3.11.01 |
+| L.11.006.10 | The Quantum Scale: Where Intuition Fails | D06.S3.11.01 |
+| L.11.006.11 | Thermodynamics: Energy, Heat, and Order | D06.S3.11.02 |
+| L.11.006.12 | Energy and Material Costs of Technology | D06.S3.11.02 |
+| L.11.006.13 | Cosmological Models: The Big Bang | D06.S4.11.01 |
+| L.11.006.14 | Comparing Cosmological Models, Weighing Evidence | D06.S4.11.01 |
+| L.11.006.15 | Earth's Coupled Systems | D06.S4.11.02 |
+| L.11.006.16 | Climate, Ecology, and Society | D06.S4.11.02 |

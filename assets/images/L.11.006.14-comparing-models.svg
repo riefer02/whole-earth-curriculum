@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Comparing Cosmological Models</title>
+  <desc id="desc">A table with two scientific models side by side. The Big Bang column lists expansion, redshift, and the cosmic microwave background as evidence. The steady-state column lists a universe with no beginning and a note that the microwave background did not fit it. A third column shows a cultural origin account, labeled a story of meaning, held respectfully beside the others.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Comparing Models of the Cosmos</text>
+
+  <!-- Big Bang column -->
+  <rect x="20" y="60" width="150" height="290" fill="#6b93b6" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="95" y="84" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">Big Bang</text>
+  <text x="95" y="106" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a beginning, then expansion</text>
+  <text x="95" y="138" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">evidence:</text>
+  <text x="95" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">• expansion / redshift</text>
+  <text x="95" y="178" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">• microwave background</text>
+  <text x="95" y="198" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">• light elements match</text>
+  <rect x="40" y="230" width="110" height="80" fill="#7a9e7e" fill-opacity="0.2" stroke="#2b3a42" stroke-width="1.5" rx="4"/>
+  <text x="95" y="256" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222" font-weight="bold">fits the</text>
+  <text x="95" y="274" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222" font-weight="bold">evidence</text>
+
+  <!-- Steady state column -->
+  <rect x="181" y="60" width="150" height="290" fill="#e0a458" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">Steady state</text>
+  <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">no beginning, always much</text>
+  <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the same</text>
+  <text x="256" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">a real, serious model</text>
+  <text x="256" y="198" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">but the microwave</text>
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">background did not fit it</text>
+  <rect x="201" y="230" width="110" height="80" fill="#4f6d7a" fill-opacity="0.2" stroke="#2b3a42" stroke-width="1.5" rx="4"/>
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222" font-weight="bold">failed a test,</text>
+  <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222" font-weight="bold">set aside</text>
+
+  <!-- Cultural column -->
+  <rect x="342" y="60" width="150" height="290" fill="#7a9e7e" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="417" y="84" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">Cultural accounts</text>
+  <text x="417" y="106" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">origin stories of the</text>
+  <text x="417" y="124" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">world's peoples</text>
+  <text x="417" y="158" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">answer a different question:</text>
+  <text x="417" y="198" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">meaning, relationship,</text>
+  <text x="417" y="216" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">how to live</text>
+  <rect x="362" y="230" width="110" height="80" fill="#e0a458" fill-opacity="0.2" stroke="#2b3a42" stroke-width="1.5" rx="4"/>
+  <text x="417" y="256" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222" font-weight="bold">held beside,</text>
+  <text x="417" y="274" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222" font-weight="bold">not ranked</text>
+
+  <!-- Footer -->
+  <rect x="60" y="380" width="392" height="80" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Scientific models answer how the cosmos developed.</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Cultural accounts answer what it means.</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Each is held honestly, and none is a dogma.</text>
+</svg>

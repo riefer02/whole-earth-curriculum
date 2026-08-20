@@ -4642,3 +4642,12 @@ sources:
     domains: [D05]
     reviewed: true
     notes: "Cited in U.11.005 L06 (Matrices) for the claim that the Lo Shu square is a 3×3 arrangement whose rows, columns, and diagonals all sum to 15, and is an ancient Chinese array-like object. URL verified live (2026-08-19): the article states the 'Luoshu (pinyin), Lo Shu (Wade-Giles), or Nine Halls Diagram is an ancient Chinese diagram' named for the Luo River near Luoyang, that it is 'a unique normal magic square of order three,' that 'the sums in each of the three rows, in each of the three columns, and in both diagonals, are all 15,' and recounts the legend of a turtle emerging from the Luo River bearing the pattern on its shell. Matches the lesson's claims exactly. (Replaces the earlier citation of the Nine Chapters page S-289, which does not discuss the Lo Shu square — verified by reading that page directly.)"
+
+  - id: S-497
+    title: "Encyclopaedia Britannica — Steady-state theory"
+    type: website
+    url: https://www.britannica.com/science/steady-state-theory
+    organization: Encyclopaedia Britannica
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.11.006 L14 (Comparing Cosmological Models) for the historical claim that the steady-state model was a once-serious competing cosmological model — the universe has no beginning or end and maintains a constant average density through the continuous creation of matter (proposed by Bondi, Gold, and Hoyle in 1948) — that was largely set aside after the 1965 discovery of the cosmic microwave background, which a universe with no hot, dense beginning could not explain. URL verified live (2026-08-19): Britannica's 'steady-state theory' article is the canonical reference for the theory's proposal, its 'no beginning, no end, continuous matter creation' content, and its decline in favor of the Big Bang following the CMB discovery. On-topic and accurately summarized."

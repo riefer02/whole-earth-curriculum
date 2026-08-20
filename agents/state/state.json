@@ -1,5 +1,5 @@
 {
   "$comment": "Shared loop state. Managed by tools/loop/loop.mjs; prefer not to hand-edit.",
   "claimed": {},
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20"
 }

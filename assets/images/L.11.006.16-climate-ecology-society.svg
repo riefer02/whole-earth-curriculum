@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Climate, Ecology, and Society</title>
+  <desc id="desc">A triangle with three corners labeled climate, ecology, and society, each connected to the others by two-way arrows. Below, a row shows three responses — reduce emissions (mitigation), adapt (adaptation), and repair ecosystems (restoration) — with a note that the people who did least to cause change often feel it most.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Climate, Ecology, and Society</text>
+
+  <!-- Triangle nodes -->
+  <circle cx="256" cy="70" r="52" fill="#6b93b6" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">climate</text>
+  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the shifting air</text>
+
+  <circle cx="90" cy="230" r="52" fill="#7a9e7e" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="90" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">ecology</text>
+  <text x="90" y="244" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the living world</text>
+
+  <circle cx="422" cy="230" r="52" fill="#e0a458" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="422" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">society</text>
+  <text x="422" y="244" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">people, together</text>
+
+  <!-- Arrows -->
+  <line x1="214" y1="98" x2="122" y2="188" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="122,188 120,174 132,182" fill="#2b3a42"/>
+  <polygon points="214,98 210,112 198,104" fill="#2b3a42"/>
+  <line x1="298" y1="98" x2="390" y2="188" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="390,188 378,182 390,176" fill="#2b3a42"/>
+  <polygon points="298,98 310,104 298,110" fill="#2b3a42"/>
+  <line x1="142" y1="230" x2="370" y2="230" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="370,230 358,224 358,236" fill="#2b3a42"/>
+  <polygon points="142,230 154,224 154,236" fill="#2b3a42"/>
+
+  <!-- Responses -->
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Three hopeful responses</text>
+  <rect x="20" y="316" width="140" height="64" fill="#6b93b6" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="90" y="342" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">mitigation</text>
+  <text x="90" y="360" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">cut the cause</text>
+  <rect x="186" y="316" width="140" height="64" fill="#7a9e7e" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">adaptation</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">adjust to change</text>
+  <rect x="352" y="316" width="140" height="64" fill="#e0a458" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="422" y="342" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">restoration</text>
+  <text x="422" y="360" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">repair ecosystems</text>
+
+  <!-- Footer -->
+  <rect x="60" y="410" width="392" height="76" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">The people who did least to cause the change</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">often feel it most — so a fair response protects them first.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Couplings can be steered. That is agency, not doom.</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Thermodynamics</title>
+  <desc id="desc">A flow diagram of a system (a kettle). Energy in is shown as an arrow entering, useful work as one arrow leaving (water heated), and heat lost as a second, wider arrow leaving (heat to the air). A note reads energy is conserved, but some always spreads out as heat — that spread is entropy.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Energy In, Work Out, Heat Lost</text>
+
+  <!-- Kettle -->
+  <path d="M 176 220 L 336 220 L 336 300 Q 336 320 316 320 L 196 320 Q 176 320 176 300 Z" fill="#4f6d7a" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M 196 300 L 196 250 Q 196 236 212 232 L 300 232 Q 316 236 316 250 L 316 300" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M 336 300 Q 350 300 350 288" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">kettle</text>
+
+  <!-- Energy in -->
+  <line x1="100" y1="120" x2="230" y2="180" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="230,180 216,176 224,190" fill="#2b3a42"/>
+  <text x="90" y="106" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">energy in</text>
+  <text x="90" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(electricity)</text>
+
+  <!-- Useful work out -->
+  <line x1="256" y1="320" x2="256" y2="380" stroke="#7a9e7e" stroke-width="3"/>
+  <polygon points="256,380 250,368 262,368" fill="#7a9e7e"/>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">useful work out</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(water heated)</text>
+
+  <!-- Heat lost -->
+  <line x1="380" y1="150" x2="330" y2="210" stroke="#e0a458" stroke-width="4"/>
+  <polygon points="330,210 320,196 338,206" fill="#e0a458"/>
+  <text x="404" y="136" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">heat lost</text>
+  <text x="404" y="154" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(to the air)</text>
+
+  <!-- Footer -->
+  <rect x="60" y="442" width="392" height="54" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">Energy is conserved, but some always spreads out as heat —</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">that spread is entropy, and it never goes backward.</text>
+</svg>

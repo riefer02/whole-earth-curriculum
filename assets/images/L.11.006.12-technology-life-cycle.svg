@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Technology Life Cycle</title>
+  <desc id="desc">A four-stage cycle diagram. Stage one shows raw materials being extracted. Stage two shows manufacturing in a factory. Stage three shows the object in use. Stage four shows disposal, with some parts recycled back and others becoming waste. Energy and material costs are marked at each stage.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Technology's Life Cycle</text>
+
+  <!-- Stage 1: materials -->
+  <rect x="40" y="70" width="180" height="120" fill="#7a9e7e" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="130" y="94" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">1 · Materials</text>
+  <path d="M 70 160 l 20 -30 20 30 14 -22 18 22" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <text x="130" y="180" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">mined, grown, taken</text>
+
+  <!-- Stage 2: making -->
+  <rect x="292" y="70" width="180" height="120" fill="#e0a458" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="382" y="94" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">2 · Making</text>
+  <path d="M 330 150 h 30 v -18 h 22 v 18 h 22" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <rect x="360" y="150" width="20" height="26" fill="#e0a458" fill-opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="180" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">shipped, heated, shaped</text>
+
+  <!-- Stage 3: use -->
+  <rect x="292" y="270" width="180" height="120" fill="#6b93b6" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="382" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">3 · Use</text>
+  <circle cx="382" cy="340" r="22" fill="#6b93b6" fill-opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="345" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">in hand</text>
+  <text x="382" y="380" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">energy spent daily</text>
+
+  <!-- Stage 4: disposal -->
+  <rect x="40" y="270" width="180" height="120" fill="#4f6d7a" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="130" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">4 · Disposal</text>
+  <path d="M 90 340 l 16 22 24 -18 22 26" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <text x="130" y="380" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">reused, recycled, or waste</text>
+
+  <!-- Cycle arrows -->
+  <line x1="220" y1="130" x2="292" y2="130" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="292,130 280,124 280,136" fill="#2b3a42"/>
+  <line x1="382" y1="190" x2="382" y2="270" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="382,270 376,258 388,258" fill="#2b3a42"/>
+  <line x1="292" y1="330" x2="220" y2="330" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="220,330 232,324 232,336" fill="#2b3a42"/>
+  <line x1="130" y1="270" x2="130" y2="190" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="130,190 124,202 136,202" fill="#2b3a42"/>
+
+  <!-- Footer -->
+  <rect x="60" y="420" width="392" height="72" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Energy and materials are spent at every stage —</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">and the costs fall on real people and places.</text>
+</svg>
