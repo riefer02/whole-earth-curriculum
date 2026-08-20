@@ -6321,7 +6321,7 @@ items:
     type: lesson
     grade: 11
     domain: D08
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6333,6 +6333,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (1673 files). All 15 lessons: correct frontmatter (kind/id L.11.009.01-.15/grade 11/domain D08/pillar P4/strand/objectives→8 real D08.S*.11.0*); required headings present; 36 S-codes resolve; 15 asset paths exist. Non-triumphalist, global stance (Wave Hill, Māori/Hawaiian/Welsh/Hebrew revitalization, Ghana, Salt March, Chipko, Timbuktu); each strand closes 'who gained, who was left out'."
+      fact-checker:
+        verdict: passed
+        note: "All 36 S-codes exist + reviewed:true, none fabricated/broken. Verified faithful: Chaco S-382 (850-1250 CE + drought), Maya S-378 (c.250-900 CE multi-cause), FAO forests 31% S-220, water 1-in-4 S-065, revitalization S-428 (kōhanga reo/Pūnana Leo/Welsh/Hebrew), Montgomery S-324, Wave Hill S-206, Ghana 1957 S-276, Salt March S-390, Defiance S-146, Chipko S-328, cobalt S-398 (hedged 'sometimes'), digital divide S-281, M-Pesa S-210, CO2 S-006, peppered moth S-304. Non-triumphalist; evidence-vs-value explicit. Non-blocking: S-274 not cited here (no slave-trade figure claimed); S-006+S-005 co-anchor exposure claim."
+      global-culture-editor:
+        verdict: passed
+        note: No Eurocentric/'rise of West' narrative (L2 'no single nation's triumph'); Timbuktu/Chaco/Maya as non-Western knowledge centers; peoples as agents (Nkrumah, Lingiari, Gandhi, Chipko women, Timbuktu scholars); language revitalization (Māori/Hawaiian/Welsh/Hebrew) as living traditions S-428; movements span 3 continents not flattened; evidence-vs-value separated; no stereotyping.
+      accessibility-editor:
+        verdict: passed
+        note: All 15 lessons low-tech (string/pebbles/chalk/oral accounts/role circles/paper); all 15 SVGs role=img + title/desc + non-empty alt; UDL oral+written+tactile+kinesthetic + differentiation; all five context_variants in all 15; no ability/wealth/device barriers.
+      alignment-auditor:
+        verdict: passed
+        note: "Four lenses: ethics (L1,4-8,11-15), egalitarianism (all 15), global/anthropological (Montgomery/Wave Hill/Ghana/Salt March/Defiance/Chipko/Māori-Hawaiian-Welsh-Hebrew/Timbuktu/Chaco/Maya), tech+environment (L2,3,5,9-12,14-15). Evidence-vs-value explicit (L7/L10 'fact vs value'); traceability 8 objectives→D08.S*.11.0*→D08→P4→vision; anti-triumphalist/anti-teleological ('no single nation's triumph', 'decline is not disappearance', tech 'neither worship nor fear'); gains-and-losses 'for whom?' balance."
+      child-psychologist:
+        verdict: passed
+        note: "Grade 11 (~16-17): cognitive load at mature formal operations (multi-causal loops, competing accounts held open, argument-with-counterargument); heavy topics (climate displacement, language loss, exploited labor) at honest depth but consistently scaffolded with named agency and hope, never despair; identity-close material flagged for care; questions held open as inquiry, not creed; optional movement age-appropriate; explicit Grade 10 spiral anchors."
   - id: B-404
     title: Author lessons for Unit U.11.010 (Ethics, Justice & Political Economy)
     agent: lesson-author

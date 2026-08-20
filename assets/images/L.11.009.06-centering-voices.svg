@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Centering Marginalized Voices</title>
+  <desc id="desc">A circle of diverse figures around a small table. One figure who was previously at the edge now sits at the center holding a speaking object, while the others listen.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Centering the Silenced Voice</text>
+
+  <!-- Table -->
+  <ellipse cx="256" cy="280" rx="110" ry="46" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Central speaker -->
+  <circle cx="256" cy="246" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 300 Q256 286 280 300" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="248" y="262" width="16" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458" font-weight="bold">speaks first</text>
+
+  <!-- Listeners around -->
+  <g>
+    <circle cx="140" cy="180" r="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M126 210 Q140 198 154 210" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+    <circle cx="372" cy="180" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M358 210 Q372 198 386 210" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+    <circle cx="120" cy="320" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M106 350 Q120 338 134 350" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+    <circle cx="392" cy="320" r="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M378 350 Q392 338 406 350" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+
+  <!-- Listening marks -->
+  <path d="M158 168 q-8 -6 -16 -2" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M354 168 q8 -6 16 -2" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The previously quieted voice asks the first question.</text>
+</svg>

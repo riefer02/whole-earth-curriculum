@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Bringing Languages Home</title>
+  <desc id="desc">An elder and a young child sit together, the elder speaking while the child repeats, with speech bubbles passing between them and a small seedling growing between them, showing language passed across generations.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Passing the Language On</text>
+
+  <!-- Elder -->
+  <circle cx="150" cy="190" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M110 260 Q150 230 190 260" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="118" y="260" width="64" height="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Child -->
+  <circle cx="350" cy="210" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M318 270 Q350 244 382 270" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="326" y="270" width="48" height="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Speech bubbles -->
+  <ellipse cx="210" cy="150" rx="44" ry="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="210" y="155" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">&#9835; word</text>
+  <ellipse cx="290" cy="150" rx="44" ry="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="290" y="155" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">&#9835; word</text>
+
+  <!-- Seedling between them -->
+  <line x1="256" y1="330" x2="256" y2="300" stroke="#7a9e7e" stroke-width="3"/>
+  <path d="M256 316 q-8 -8 -14 -4 M256 308 q8 -8 14 -4" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <ellipse cx="256" cy="290" rx="14" ry="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">A language lives when one generation speaks it to the next.</text>
+</svg>

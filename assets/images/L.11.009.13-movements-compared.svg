@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Movements Compared</title>
+  <desc id="desc">Three panels. The first shows people walking together on a bus-boycott line; the second shows workers setting down their tools and standing together; the third shows people raising a flag together, representing civil rights, labor, and liberation.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Civil Rights, Labor, Liberation</text>
+
+  <!-- Panel 1: civil rights -->
+  <rect x="36" y="70" width="140" height="300" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="106" y="94" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" font-weight="bold">civil rights</text>
+  <g>
+    <circle cx="66" cy="180" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="92" cy="170" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="120" cy="182" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M54 200 q12 8 24 0" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M80 190 q12 8 24 0" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <path d="M108 202 q12 8 24 0" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+  <path d="M52 250 h108" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="106" y="280" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">walking the</text>
+  <text x="106" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">boycott line</text>
+
+  <!-- Panel 2: labor -->
+  <rect x="188" y="70" width="140" height="300" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="258" y="94" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" font-weight="bold">labor</text>
+  <g>
+    <circle cx="220" cy="180" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="250" cy="170" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="282" cy="182" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <path d="M208 200 q12 8 24 0"/>
+    <path d="M238 190 q12 8 24 0"/>
+    <path d="M270 202 q12 8 24 0"/>
+  </g>
+  <g stroke="#4f6d7a" stroke-width="3">
+    <line x1="216" y1="232" x2="236" y2="248"/>
+    <line x1="246" y1="228" x2="266" y2="246"/>
+    <line x1="276" y1="232" x2="296" y2="248"/>
+  </g>
+  <text x="258" y="280" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">setting down tools,</text>
+  <text x="258" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">standing together</text>
+
+  <!-- Panel 3: liberation -->
+  <rect x="340" y="70" width="140" height="300" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="410" y="94" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" font-weight="bold">liberation</text>
+  <g>
+    <circle cx="374" cy="180" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="400" cy="170" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="428" cy="182" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <path d="M362 200 q12 8 24 0"/>
+    <path d="M388 190 q12 8 24 0"/>
+    <path d="M416 202 q12 8 24 0"/>
+  </g>
+  <line x1="400" y1="140" x2="400" y2="260" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="400" y="140" width="44" height="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="410" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">raising a flag</text>
+
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Three aims, one shared engine: ordinary people acting together.</text>
+</svg>

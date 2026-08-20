@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Two Knowledge Traditions</title>
+  <desc id="desc">Two panels side by side, each a different way of knowing the same forest. The left panel shows a laboratory notebook, a measuring instrument, and a diagram. The right panel shows a hand holding a seedling, a small controlled fire, and a circle of people passing a story.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Two Ways of Knowing One Forest</text>
+
+  <!-- Left panel -->
+  <rect x="40" y="70" width="200" height="360" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="140" y="98" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Written &amp; measured</text>
+  <rect x="70" y="116" width="60" height="80" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="80" y1="140" x2="120" y2="140" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="80" y1="156" x2="120" y2="156" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="80" y1="172" x2="108" y2="172" stroke="#2b3a42" stroke-width="2"/>
+  <text x="100" y="214" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">notebook</text>
+  <line x1="160" y1="130" x2="200" y2="130" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="166" y="130" width="8" height="34" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="180" y="214" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">measure</text>
+  <path d="M70 260 L170 260 L170 320 L70 320 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M90 320 Q120 290 150 320" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="120" y="344" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">diagram of the forest</text>
+
+  <!-- Right panel -->
+  <rect x="272" y="70" width="200" height="360" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="372" y="98" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Lived &amp; passed on</text>
+  <circle cx="310" cy="150" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="300" y="164" width="20" height="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="310" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a seedling</text>
+  <path d="M380 156 q6 -10 0 -18 q-6 -8 0 -16" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="384" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a small fire</text>
+  <circle cx="332" cy="300" r="46" fill="none" stroke="#6b93b6" stroke-width="2"/>
+  <circle cx="332" cy="276" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="308" cy="320" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="356" cy="320" r="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="344" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">people passing a story</text>
+
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Both are knowledge — differently.</text>
+</svg>

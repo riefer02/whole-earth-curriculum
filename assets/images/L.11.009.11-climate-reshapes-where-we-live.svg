@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Climate Reshapes Where We Live</title>
+  <desc id="desc">A coastal village with houses near the water, and a dashed line showing a higher future water level reaching the houses, with an arrow showing people moving inland, and a sun and a drying field on the other side.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Rising Sea, a Drying Field</text>
+
+  <!-- Sun -->
+  <circle cx="120" cy="90" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g stroke="#e0a458" stroke-width="3">
+    <line x1="120" y1="58" x2="120" y2="46"/>
+    <line x1="120" y1="122" x2="120" y2="134"/>
+    <line x1="88" y1="90" x2="76" y2="90"/>
+    <line x1="152" y1="90" x2="164" y2="90"/>
+  </g>
+
+  <!-- Water -->
+  <path d="M40 300 Q160 286 260 300 L260 360 L40 360 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- Dashed higher waterline -->
+  <path d="M40 250 Q160 236 300 250" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="8 6"/>
+
+  <!-- Village houses -->
+  <g fill="#e0a458" stroke="#2b3a42" stroke-width="2">
+    <rect x="80" y="240" width="34" height="26"/>
+    <rect x="130" y="228" width="30" height="26"/>
+  </g>
+  <g stroke="#2b3a42" stroke-width="2">
+    <polygon points="76,240 97,222 118,240" fill="#7a9e7e"/>
+    <polygon points="126,228 145,212 164,228" fill="#7a9e7e"/>
+  </g>
+
+  <!-- Inland arrow -->
+  <path d="M300 300 L400 300" stroke="#e0a458" stroke-width="4"/>
+  <polygon points="400,300 386,293 386,307" fill="#e0a458"/>
+  <text x="350" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">people move inland</text>
+
+  <!-- Drying field -->
+  <g stroke="#2b3a42" stroke-width="1.5" fill="none">
+    <path d="M380 250 l12 -8 M398 250 l12 -8 M416 250 l12 -8"/>
+    <path d="M380 268 l12 -8 M398 268 l12 -8 M416 268 l12 -8"/>
+  </g>
+  <text x="404" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">drying field</text>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Climate change moves the map of where a life can be lived.</text>
+</svg>

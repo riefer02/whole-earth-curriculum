@@ -76,3 +76,18 @@ voices of those too often left out are centered with care and accuracy.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.11.009.01 | What Counts as Significant Change? | D08.S1.11.02 |
+| L.11.009.02 | Industrialization: Weighing Gains and Losses | D08.S1.11.01 |
+| L.11.009.03 | The Great Acceleration: Human Impact on the Earth | D08.S1.11.01 |
+| L.11.009.04 | Telling the Story: Contrasting Accounts of Significance | D08.S1.11.02 |
+| L.11.009.05 | Dominant and Marginalized Knowledge Traditions | D08.S2.11.01 |
+| L.11.009.06 | Centering Marginalized Voices | D08.S2.11.01 |
+| L.11.009.07 | Language Under Pressure: Loss and Survival | D08.S2.11.02 |
+| L.11.009.08 | Bringing Languages Home: Revitalization | D08.S2.11.02 |
+| L.11.009.09 | Settlement, Resources, and Environmental Change | D08.S3.11.01 |
+| L.11.009.10 | Forests and Water Across Regions | D08.S3.11.01 |
+| L.11.009.11 | A Changing Climate Reshapes Where We Live | D08.S3.11.02 |
+| L.11.009.12 | Responding with Care and Justice | D08.S3.11.02 |
+| L.11.009.13 | Movements for Civil Rights, Labor, and Liberation | D08.S4.11.01 |
+| L.11.009.14 | Strategies and Effects: Comparing Movements | D08.S4.11.01 |
+| L.11.009.15 | Power, Inequality, and Technology | D08.S4.11.02 |

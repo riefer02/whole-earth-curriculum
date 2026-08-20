@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What Counts as Significant Change?</title>
+  <desc id="desc">A horizontal timeline with small event marks along it. A magnifying glass is held over two different marks, showing that choosing which event to focus on changes the story. Labels note "one criterion" and "another criterion."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Significance Is a Choice</text>
+
+  <!-- Timeline -->
+  <line x1="60" y1="200" x2="452" y2="200" stroke="#2b3a42" stroke-width="3"/>
+  <g stroke="#2b3a42" stroke-width="2" fill="#fdfbf7">
+    <circle cx="90" cy="200" r="5"/>
+    <circle cx="150" cy="200" r="5"/>
+    <circle cx="230" cy="200" r="5"/>
+    <circle cx="310" cy="200" r="5"/>
+    <circle cx="390" cy="200" r="5"/>
+  </g>
+  <text x="90" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">battle</text>
+  <text x="150" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">ruler</text>
+  <text x="230" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">border</text>
+  <text x="310" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">harvest</text>
+  <text x="390" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">tool</text>
+
+  <!-- Magnifying glass over one mark -->
+  <circle cx="150" cy="170" r="46" fill="none" stroke="#6b93b6" stroke-width="5"/>
+  <line x1="184" y1="204" x2="214" y2="234" stroke="#6b93b6" stroke-width="6"/>
+  <text x="150" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6" font-weight="bold">one criterion</text>
+
+  <!-- Magnifying glass over another mark -->
+  <circle cx="390" cy="170" r="46" fill="none" stroke="#e0a458" stroke-width="5"/>
+  <line x1="424" y1="204" x2="454" y2="234" stroke="#e0a458" stroke-width="6"/>
+  <text x="390" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458" font-weight="bold">another criterion</text>
+
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The same years, two different stories —</text>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">depending on which change you call significant.</text>
+</svg>

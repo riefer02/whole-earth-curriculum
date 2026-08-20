@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Forests and Water</title>
+  <desc id="desc">Two panels. The left shows a forested slope with a flowing stream and animals. The right shows the same slope cleared, the stream thinner, and dry cracked ground, with a water jar, showing deforestation and water scarcity.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Forest and Water, One Loop</text>
+
+  <!-- Left panel: forested -->
+  <rect x="40" y="70" width="200" height="300" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M40 300 L120 220 L180 250 L240 210 L240 300 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
+    <rect x="80" y="250" width="10" height="30"/>
+    <rect x="130" y="235" width="10" height="40"/>
+    <rect x="180" y="248" width="10" height="34"/>
+  </g>
+  <path d="M60 330 Q120 320 200 332" fill="none" stroke="#6b93b6" stroke-width="6"/>
+  <text x="140" y="356" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">stream flows</text>
+  <circle cx="100" cy="238" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+
+  <!-- Right panel: cleared -->
+  <rect x="272" y="70" width="200" height="300" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M272 300 L320 250 L360 270 L400 235 L472 250 L472 300 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="330" y="255" width="8" height="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5" transform="rotate(20 334 263)"/>
+  <path d="M290 332 Q340 326 420 332" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="372" y="356" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">stream thins</text>
+  <g stroke="#2b3a42" stroke-width="1.5" fill="none">
+    <path d="M300 220 l8 -6 M316 220 l8 -6 M332 222 l8 -6"/>
+  </g>
+  <text x="372" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">dry, cracked ground</text>
+  <path d="M430 270 q12 -2 14 -16 q2 -14 -12 -16 l2 16 q-14 -2 -16 12 q-2 14 12 16 z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="436" y="316" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">water jar</text>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Clearing the forest changes the water — and the people downstream.</text>
+</svg>
