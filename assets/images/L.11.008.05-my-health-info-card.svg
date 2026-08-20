@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My health information card</title>
+  <desc id="desc">A blank health information card with lined fields for name, conditions, allergies, medicines, emergency contact, and questions to ask, plus three rights printed beside it — to understand, to agree, and to privacy. The card is meant to be filled in by the learner, so most fields are blank lines.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">My Health Information Card</text>
+
+  <!-- Card -->
+  <rect x="30" y="70" width="280" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="44" y="84" width="252" height="30" rx="4" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="52" y="104" font-family="sans-serif" font-size="13" fill="#4f6d7a">Name</text>
+  <rect x="44" y="122" width="252" height="30" rx="4" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="52" y="142" font-family="sans-serif" font-size="13" fill="#4f6d7a">Conditions I have</text>
+  <rect x="44" y="160" width="252" height="30" rx="4" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="52" y="180" font-family="sans-serif" font-size="13" fill="#4f6d7a">Allergies</text>
+  <rect x="44" y="198" width="252" height="30" rx="4" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="52" y="218" font-family="sans-serif" font-size="13" fill="#4f6d7a">Medicines I take</text>
+  <rect x="44" y="236" width="252" height="30" rx="4" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="52" y="256" font-family="sans-serif" font-size="13" fill="#4f6d7a">Emergency contact</text>
+  <rect x="44" y="274" width="252" height="56" rx="4" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="52" y="296" font-family="sans-serif" font-size="13" fill="#4f6d7a">Questions I want to ask</text>
+  <text x="52" y="350" font-family="sans-serif" font-size="11" fill="#4f6d7a">Private — keep and share only as you choose.</text>
+
+  <!-- Rights column -->
+  <rect x="330" y="70" width="152" height="360" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="406" y="98" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">My three rights</text>
+  <text x="406" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1. To understand</text>
+  <text x="406" y="156" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Ask until it makes sense to you.</text>
+  <text x="406" y="208" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">2. To agree</text>
+  <text x="406" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Consent is yours — informed, freely given, and changeable.</text>
+  <text x="406" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">3. To privacy</text>
+  <text x="406" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Your health information is yours to keep private.</text>
+  <text x="406" y="360" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">These are your starting points,</text>
+  <text x="406" y="376" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">not a privilege someone grants.</text>
+</svg>

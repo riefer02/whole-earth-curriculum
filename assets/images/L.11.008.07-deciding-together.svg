@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Deciding together</title>
+  <desc id="desc">A balance scale with the clinician's knowledge on one pan and the person's life, values, and preferences on the other, meeting at a shared decision. Below are five questions to open any health claim: who made it, why, for whom, what evidence, what is left out. Labels and shapes carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Deciding Together</text>
+
+  <!-- Balance scale -->
+  <g>
+    <line x1="256" y1="76" x2="256" y2="140" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="120" y1="140" x2="392" y2="140" stroke="#2b3a42" stroke-width="4"/>
+    <circle cx="256" cy="146" r="6" fill="#2b3a42"/>
+    <line x1="140" y1="140" x2="140" y2="178" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="372" y1="140" x2="372" y2="178" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M104 178 Q140 206 176 178 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M336 178 Q372 206 408 178 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="140" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">Clinician's</text>
+    <text x="140" y="214" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">knowledge</text>
+    <text x="372" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">My life, values,</text>
+    <text x="372" y="214" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">preferences</text>
+    <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">= a shared decision</text>
+  </g>
+
+  <rect x="16" y="258" width="480" height="212" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">Five questions to open any health claim</text>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#222222">1. Who made it?</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#222222">2. Why did they make it — to help, to belong, to sell?</text>
+  <text x="256" y="364" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#222222">3. Who is it for, and who is left out?</text>
+  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#222222">4. What is the evidence — claim, reasons, and proof?</text>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#222222">5. What is left out or unsaid?</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Read the claim, weigh the evidence, decide with your life in mind.</text>
+</svg>

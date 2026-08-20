@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Five types of health care</title>
+  <desc id="desc">Five labeled cards in a row: prevention, primary care, emergency care, rehabilitation, and palliative care. Each has a simple line icon. A note below says mental health weaves through every type. Shapes and labels, not color, carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Five Types of Health Care</text>
+
+  <!-- Card 1: Prevention -->
+  <g>
+    <rect x="16" y="80" width="92" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="62" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Prevent</text>
+    <!-- shield icon -->
+    <path d="M62 128 L78 136 L78 158 Q78 174 62 182 Q46 174 46 158 L46 136 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="62" y="300" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Vaccines, check-ups, healthy habits — keep well</text>
+  </g>
+
+  <!-- Card 2: Primary care -->
+  <g>
+    <rect x="116" y="80" width="92" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="162" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Treat</text>
+    <!-- first-aid cross icon -->
+    <rect x="138" y="132" width="48" height="48" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="156" y="140" width="12" height="32" fill="#fdfbf7"/>
+    <rect x="146" y="150" width="32" height="12" fill="#fdfbf7"/>
+    <text x="162" y="300" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Clinic visits for everyday illness and needs</text>
+  </g>
+
+  <!-- Card 3: Emergency care -->
+  <g>
+    <rect x="216" y="80" width="92" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="262" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Emergency</text>
+    <!-- lightning / urgent icon -->
+    <path d="M266 130 L248 158 L258 158 L252 184 L278 154 L267 154 L274 130 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="262" y="300" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Urgent, life-threatening help — call now</text>
+  </g>
+
+  <!-- Card 4: Rehabilitation -->
+  <g>
+    <rect x="316" y="80" width="92" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="362" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Rehabilitate</text>
+    <!-- person rising icon -->
+    <circle cx="362" cy="138" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M362 148 L362 170 M362 158 L348 172 M362 158 L376 172 M362 170 L350 186 M362 170 L374 186" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="362" y="300" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Regain and keep function after illness or injury</text>
+  </g>
+
+  <!-- Card 5: Palliative care -->
+  <g>
+    <rect x="416" y="80" width="92" height="250" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="462" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Comfort</text>
+    <!-- heart icon -->
+    <path d="M462 172 Q440 150 440 162 Q440 174 462 186 Q484 174 484 162 Q484 150 462 172 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="462" y="300" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Ease pain and support quality of life</text>
+  </g>
+
+  <rect x="16" y="352" width="480" height="60" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">Mental health weaves through every type.</text>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">A mind that is cared for is part of every kind of care.</text>
+
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Prevent · Treat · Emergency · Rehabilitate · Comfort</text>
+</svg>

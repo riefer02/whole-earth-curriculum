@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Design support with, not for</title>
+  <desc id="desc">A circle with the person with lived experience at the center, surrounded by four steps — ask, listen, decide together, adapt. A caption states nothing about us without us. Labels and shapes carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Design Support With, Not For</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"Nothing about us without us."</text>
+
+  <!-- Outer ring -->
+  <circle cx="256" cy="220" r="150" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Center person -->
+  <circle cx="256" cy="220" r="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="210" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 221 L256 244 M256 232 L244 244 M256 232 L268 244" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">person with</text>
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">lived experience</text>
+
+  <!-- Four steps around -->
+  <g>
+    <circle cx="256" cy="86" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Ask</text>
+  </g>
+  <g>
+    <circle cx="408" cy="220" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="408" y="224" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Listen</text>
+  </g>
+  <g>
+    <circle cx="256" cy="354" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="358" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Decide</text>
+    <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">together</text>
+  </g>
+  <g>
+    <circle cx="104" cy="220" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="104" y="224" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Adapt</text>
+  </g>
+
+  <rect x="40" y="410" width="432" height="72" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">Support is designed with the person, never imposed on them.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Charity hands things down; solidarity meets needs as equals.</text>
+</svg>

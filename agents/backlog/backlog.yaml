@@ -6284,7 +6284,7 @@ items:
     type: lesson
     grade: 11
     domain: D03
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6296,6 +6296,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passes (1658 files). All 10 lessons: correct frontmatter (kind/id L.11.008.NN/unit/grade 11/domain D03/pillar P2/strand D03.S4/objectives→D03.S4.11.01-02); 4 required headings present; traceability D03.S4.11.0*→D03→P2→vision; all 36 S-codes resolve (S-149 UDHR, S-100 CRPD, S-388 distributive justice, S-334 Crenshaw); L9 Connection faithful to social-model objective; L8 declines unverified medical specifics (dignity-first)."
+      fact-checker:
+        verdict: passed
+        note: "All 33 S-codes exist + reviewed:true + faithful. Spot-checked: UDHR S-149 (Art 1/12 verbatim), CRPD S-100 (Art 30), ITU S-195 (emergency numbers accurate), IFRC S-082/S-313 (burn/cut first aid), UNESCO S-412 (consent), SEP S-388/Rawls S-459/Sen S-460, Crenshaw S-334, universal design S-369 (7 principles), WHO S-099/S-145/S-261/S-311/S-329/S-283 (general authorities, no invented stats). Author's scaffold caveats honored (levels-of-care/chronic-condition as scaffolds, medical specifics deferred). Evidence-vs-value clean."
+      global-culture-editor:
+        verdict: passed
+        note: No US/Eurocentric default ('none is the default'); emergency numbers country-specific (112/999/000/911/119/110/10111); traditional medicine respected 'sits alongside, not beneath' (WHO S-145, L3/L7); disability social-model person-first CRPD-aligned (L9), chronic conditions non-stigmatizing (L8 'person with asthma never an asthmatic'); global mutual-aid examples (harambee, gotong royong, mink'a, barn-raising) L10; no hierarchical framing.
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier device-free in all 10 (paper/pencil/counters/role-play); devices optional only; health-system mapping + self-advocacy work on paper/voice; all 10 SVGs role=img + title/desc + non-empty alt; UDL 5 context_variants + Support/Extension + multi-modal expression; L6 accommodates translator/language gaps, L4/L8/L9 guard against stigma/disclosure.
+      alignment-auditor:
+        verdict: passed
+        note: "Four lenses: ethics (L1/L2/L5/L7/L9/L10), egalitarianism (L1/L2/L8/L9/L10 'nothing about us without us'), global/anthropological (L1/L2 no-default, L3/L7 traditional medicine, L10 harambee/gotong royong/mink'a/barn-raising), tech+environment (L9 assistive-tech/universal-design, L7 media, L4 telephony). Evidence-vs-value labeled ('value, not fact' L8); traceability D03.S4.11.01/.02→D03→P2→vision; access framed as justice not charity."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit (formal ops): health systems/rights/consent/disability/social-model held as frameworks not creeds, worked-example→guided→independent + tiers + spiral from D03.S4.10.02. Emotional safety: person-first non-stigmatizing (L8/L9), no forced disclosure ('kept private', 'share only what you choose'), access framed as fairness not personal failing, help-seeking normalized. Physical: seated defaults + low-tech/outdoor/self-directed. Open-ended: fairness/traditional-medicine/charity-vs-mutual-aid as questions not creeds."
   - id: B-403
     title: "Author lessons for Unit U.11.009 (Global History: Transformation, Knowledge & Justice)"
     agent: lesson-author

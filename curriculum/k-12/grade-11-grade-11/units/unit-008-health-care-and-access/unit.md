@@ -51,3 +51,13 @@ questions are met with accurate information and care, not fear.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | What Health Care Is, and Why Access Matters | D03.S4.11.01 |
+| 2 | Health, Need, and Fairness | D03.S4.11.01 |
+| 3 | Mapping My Local Health System | D03.S4.11.01 |
+| 4 | Knowing When and How to Seek Care | D03.S4.11.01 |
+| 5 | My Records, My Rights, My Consent | D03.S4.11.01 |
+| 6 | Speaking Up: Self-Advocacy in a Care Visit | D03.S4.11.01 |
+| 7 | Reading Health Information and Deciding Together | D03.S4.11.01 |
+| 8 | Living with a Chronic Condition | D03.S4.11.02 |
+| 9 | Disability, Barriers, and Universal Design | D03.S4.11.02 |
+| 10 | Designing Support With, Not For — My Health-Care Plan | D03.S4.11.01, D03.S4.11.02 |

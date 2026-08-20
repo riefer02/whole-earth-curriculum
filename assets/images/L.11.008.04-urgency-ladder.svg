@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The urgency ladder</title>
+  <desc id="desc">A four-rung ladder for deciding when to seek care: self-manage, routine appointment, urgent soon, and emergency now. Each rung has an example. A blank box at the bottom is left for the learner to fill in their local emergency number. Labels and shapes carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Urgency Ladder</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">How urgent is this? Match the need to the right door.</text>
+
+  <!-- Ladder rails -->
+  <line x1="70" y1="96" x2="70" y2="420" stroke="#4f6d7a" stroke-width="4"/>
+  <line x1="442" y1="96" x2="442" y2="420" stroke="#4f6d7a" stroke-width="4"/>
+
+  <!-- Rung 4: Emergency (top) -->
+  <g>
+    <line x1="70" y1="120" x2="442" y2="120" stroke="#2b3a42" stroke-width="4"/>
+    <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Emergency — call now</text>
+    <text x="256" y="144" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Trouble breathing, heavy bleeding, no response, severe pain</text>
+  </g>
+
+  <!-- Rung 3: Urgent -->
+  <g>
+    <line x1="70" y1="200" x2="442" y2="200" stroke="#2b3a42" stroke-width="4"/>
+    <text x="256" y="188" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Urgent — see someone soon</text>
+    <text x="256" y="224" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Fever that will not break, a cut that needs stitches, worry that will not settle</text>
+  </g>
+
+  <!-- Rung 2: Routine -->
+  <g>
+    <line x1="70" y1="280" x2="442" y2="280" stroke="#2b3a42" stroke-width="4"/>
+    <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Routine — book an appointment</text>
+    <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">A check-up, a nagging ache, a question about a medicine, a mental-health check-in</text>
+  </g>
+
+  <!-- Rung 1: Self-manage (bottom) -->
+  <g>
+    <line x1="70" y1="360" x2="442" y2="360" stroke="#2b3a42" stroke-width="4"/>
+    <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Self-manage — care at home</text>
+    <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Rest, fluids, a cool cloth, a day of gentle routine</text>
+  </g>
+
+  <rect x="70" y="432" width="372" height="58" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">My local emergency number:</text>
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">(write it here — it is different in every country)</text>
+</svg>

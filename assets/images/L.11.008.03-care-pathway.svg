@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The pathway into care</title>
+  <desc id="desc">Four steps of a pathway into care, from self and home care, to community helpers such as a pharmacist, community health worker, and traditional healer, to a primary clinic with a nurse and doctor, to a hospital with a specialist. Labels and shapes carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Pathway into Care</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Many doors — and many helpers — into the care you need.</text>
+
+  <!-- Step 1: Self & home care -->
+  <g>
+    <rect x="16" y="96" width="112" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="72" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Self &amp; home</text>
+    <circle cx="72" cy="170" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M72 184 L72 210 M72 196 L58 208 M72 196 L86 208 M72 210 L58 224 M72 210 L86 224" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="72" y="256" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Rest, fluids, home remedies, daily habits</text>
+  </g>
+
+  <text x="140" y="190" font-family="sans-serif" font-size="22" fill="#4f6d7a">→</text>
+
+  <!-- Step 2: Community -->
+  <g>
+    <rect x="154" y="96" width="112" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="210" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Community</text>
+    <circle cx="188" cy="170" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="232" cy="170" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="210" cy="196" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <text x="210" y="256" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Pharmacist, community health worker, traditional healer</text>
+  </g>
+
+  <text x="278" y="190" font-family="sans-serif" font-size="22" fill="#4f6d7a">→</text>
+
+  <!-- Step 3: Primary clinic -->
+  <g>
+    <rect x="292" y="96" width="112" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="348" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Clinic</text>
+    <circle cx="326" cy="170" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="370" cy="170" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="316" y="180" width="20" height="14" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="348" y="256" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Nurse and doctor for everyday illness</text>
+  </g>
+
+  <text x="416" y="190" font-family="sans-serif" font-size="22" fill="#4f6d7a">→</text>
+
+  <!-- Step 4: Hospital -->
+  <g>
+    <rect x="428" y="96" width="68" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="462" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Hospital</text>
+    <circle cx="462" cy="170" r="12" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="462" y="256" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Specialists for serious or rare needs</text>
+  </g>
+
+  <rect x="16" y="300" width="480" height="96" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">This is a map, not the only map.</text>
+  <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Every place orders these helpers differently — traditional medicine</text>
+  <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">is a real, valued tradition alongside clinics and hospitals.</text>
+
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Your job this lesson: draw the map that is true where you live.</text>
+</svg>

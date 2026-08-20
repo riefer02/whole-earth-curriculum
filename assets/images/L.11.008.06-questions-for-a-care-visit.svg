@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Questions to ask in a care visit</title>
+  <desc id="desc">A three-part question list for before, during, and after a care visit. Before: what do I want to know. During: can you explain, what are my options, what are the risks. After: what did we decide and what are the next steps. Labels and shapes carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Questions to Ask in a Care Visit</text>
+
+  <!-- Before -->
+  <g>
+    <rect x="16" y="76" width="150" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="91" y="106" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Before</text>
+    <rect x="28" y="122" width="126" height="56" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="91" y="145" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">What do I want to know?</text>
+    <text x="91" y="160" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(write it down)</text>
+    <rect x="28" y="192" width="126" height="56" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="91" y="215" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Who can come with me</text>
+    <text x="91" y="230" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">to help me listen?</text>
+    <text x="91" y="280" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Bringing a support</text>
+    <text x="91" y="298" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">person or translator</text>
+    <text x="91" y="316" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">is always allowed.</text>
+  </g>
+
+  <!-- During -->
+  <g>
+    <rect x="178" y="76" width="156" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">During</text>
+    <rect x="190" y="122" width="132" height="40" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="256" y="147" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"Can you explain that again?"</text>
+    <rect x="190" y="172" width="132" height="40" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="256" y="197" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"What are my options?"</text>
+    <rect x="190" y="222" width="132" height="40" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="256" y="247" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"What are the risks?"</text>
+    <rect x="190" y="272" width="132" height="40" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="256" y="297" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"What happens if I wait?"</text>
+    <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Ask directly, clearly,</text>
+    <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">and without apology.</text>
+  </g>
+
+  <!-- After -->
+  <g>
+    <rect x="346" y="76" width="150" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="421" y="106" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">After</text>
+    <rect x="358" y="122" width="126" height="56" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="421" y="145" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">What did we decide?</text>
+    <text x="421" y="160" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(in my own words)</text>
+    <rect x="358" y="192" width="126" height="56" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="421" y="215" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">What are the next steps?</text>
+    <text x="421" y="230" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(and who do I call?)</text>
+    <text x="421" y="280" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">If I still do not</text>
+    <text x="421" y="298" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">understand, I can</text>
+    <text x="421" y="316" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">ask again or seek</text>
+    <text x="421" y="334" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">a second opinion.</text>
+  </g>
+
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Asking is not complaining — it is advocating for yourself.</text>
+</svg>

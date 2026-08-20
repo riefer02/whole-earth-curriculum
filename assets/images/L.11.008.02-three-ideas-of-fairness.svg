@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Three ideas of fairness in distributing care</title>
+  <desc id="desc">Three panels showing how a limited supply of medicine doses is shared three ways: equal shares, by need, and by ability to pay. Each panel shows four simple figures and a caption. Labels and shapes, not color, carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Three Ideas of Fairness</text>
+  <text x="256" y="74" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A limited supply of medicine — how should it be shared?</text>
+
+  <!-- Panel 1: Equal shares -->
+  <g>
+    <rect x="14" y="96" width="156" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="92" y="122" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Equal shares</text>
+    <text x="92" y="142" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">everyone the same</text>
+    <!-- four figures each with one dose -->
+    <g><circle cx="58" cy="180" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/><path d="M58 190 L58 210" stroke="#2b3a42" stroke-width="2"/><rect x="48" y="214" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/></g>
+    <g><circle cx="126" cy="180" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/><path d="M126 190 L126 210" stroke="#2b3a42" stroke-width="2"/><rect x="116" y="214" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/></g>
+    <g><circle cx="58" cy="252" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/><path d="M58 262 L58 282" stroke="#2b3a42" stroke-width="2"/><rect x="48" y="286" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/></g>
+    <g><circle cx="126" cy="252" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/><path d="M126 262 L126 282" stroke="#2b3a42" stroke-width="2"/><rect x="116" y="286" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/></g>
+    <text x="92" y="336" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Everyone gets one dose, whether they are very sick or not.</text>
+    <text x="92" y="372" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Simple, equal — but is it fair to the sickest?</text>
+  </g>
+
+  <!-- Panel 2: By need -->
+  <g>
+    <rect x="178" y="96" width="156" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">By need</text>
+    <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">most to the sickest</text>
+    <!-- sickest figure gets more doses -->
+    <g><circle cx="214" cy="180" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/><path d="M214 190 L214 210" stroke="#2b3a42" stroke-width="2"/><rect x="204" y="214" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/></g>
+    <g><circle cx="298" cy="180" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/><path d="M298 190 L298 210" stroke="#2b3a42" stroke-width="2"/></g>
+    <g><circle cx="214" cy="252" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/><path d="M214 262 L214 282" stroke="#2b3a42" stroke-width="2"/></g>
+    <g><circle cx="298" cy="252" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/><path d="M298 262 L298 282" stroke="#2b3a42" stroke-width="2"/></g>
+    <!-- extra doses stacked beside sickest -->
+    <rect x="220" y="240" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="220" y="256" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">The person who is sickest gets more; the well get none.</text>
+    <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Answers need — but who decides whose need counts?</text>
+  </g>
+
+  <!-- Panel 3: By ability to pay -->
+  <g>
+    <rect x="342" y="96" width="156" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="420" y="122" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">By ability to pay</text>
+    <text x="420" y="142" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">whoever can buy it</text>
+    <!-- one wealthy figure gets many doses, others none -->
+    <g><circle cx="388" cy="180" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/><path d="M388 190 L388 210" stroke="#2b3a42" stroke-width="2"/><rect x="378" y="214" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/></g>
+    <g><circle cx="452" cy="180" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/><path d="M452 190 L452 210" stroke="#2b3a42" stroke-width="2"/><rect x="442" y="214" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/></g>
+    <g><circle cx="388" cy="252" r="10" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/><path d="M388 262 L388 282" stroke="#2b3a42" stroke-width="2"/></g>
+    <g><circle cx="452" cy="252" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/><path d="M452 262 L452 282" stroke="#2b3a42" stroke-width="2"/></g>
+    <rect x="394" y="238" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="394" y="254" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="434" y="238" width="20" height="10" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="420" y="336" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Whoever can pay gets the medicine; the poor get none.</text>
+    <text x="420" y="372" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Fair to money — but is it fair to people?</text>
+  </g>
+
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Equal shares · By need · By ability to pay — three answers, no single right one.</text>
+</svg>

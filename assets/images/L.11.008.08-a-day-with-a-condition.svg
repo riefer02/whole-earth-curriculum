@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A day with a chronic condition</title>
+  <desc id="desc">A timeline of one day, from morning through noon to night, showing the extra steps a chronic condition can add — taking medicine, pacing activity, resting, monitoring, and planning energy. A caption notes these steps belong to the person, not to the condition. Labels and shapes carry the meaning.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Day with a Chronic Condition</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same 24 hours — with extra steps woven through them.</text>
+
+  <!-- Timeline line -->
+  <line x1="40" y1="120" x2="472" y2="120" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Morning -->
+  <g>
+    <circle cx="80" cy="120" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="80" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Morning</text>
+    <rect x="34" y="166" width="92" height="116" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="80" y="188" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Take medicine</text>
+    <text x="80" y="206" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Check a monitor</text>
+    <text x="80" y="224" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Plan the day's</text>
+    <text x="80" y="242" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">energy budget</text>
+    <text x="80" y="260" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Eat carefully</text>
+  </g>
+
+  <!-- Noon -->
+  <g>
+    <circle cx="208" cy="120" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="208" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Noon</text>
+    <rect x="162" y="166" width="92" height="116" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="208" y="188" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Pace activity</text>
+    <text x="208" y="206" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Build in rests</text>
+    <text x="208" y="224" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Adapt tasks to</text>
+    <text x="208" y="242" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">how the body</text>
+    <text x="208" y="260" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">feels today</text>
+  </g>
+
+  <!-- Afternoon -->
+  <g>
+    <circle cx="336" cy="120" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="336" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Afternoon</text>
+    <rect x="290" y="166" width="92" height="116" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="336" y="188" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Attend a clinic</text>
+    <text x="336" y="206" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">or therapy visit</text>
+    <text x="336" y="224" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Refill medicine</text>
+    <text x="336" y="242" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Note what to ask</text>
+    <text x="336" y="260" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">next time</text>
+  </g>
+
+  <!-- Night -->
+  <g>
+    <circle cx="464" cy="120" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="464" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Night</text>
+    <rect x="418" y="166" width="92" height="116" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="464" y="188" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Evening medicine</text>
+    <text x="464" y="206" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">A rest routine</text>
+    <text x="464" y="224" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Sleep that helps</text>
+    <text x="464" y="242" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">recovery</text>
+    <text x="464" y="260" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Plan tomorrow</text>
+  </g>
+
+  <rect x="40" y="304" width="432" height="78" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">These steps belong to the person, not to the condition.</text>
+  <text x="256" y="354" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">A condition adds steps to a day — but it does not define the day,</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and it never defines the person.</text>
+
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Support that respects this day is support designed with the person who lives it.</text>
+</svg>
