@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Gallery Floor Plan</title>
+  <desc id="desc">A floor plan of a combined showcase with four zones — a visual-exhibition wall, a listening corner, a performance stage, and a prototype table with a life-cycle poster — each labeled, with a dashed path showing how a visitor moves through the whole show.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Gallery Floor Plan</text>
+
+  <!-- Zones -->
+  <rect x="40" y="90" width="200" height="150" rx="8" fill="#7a9e7e" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="140" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">1 · Visual wall</text>
+  <text x="140" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">artwork + exhibition</text>
+
+  <rect x="272" y="90" width="200" height="150" rx="8" fill="#e0a458" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="372" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">2 · Listening corner</text>
+  <text x="372" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">composed piece + program</text>
+
+  <rect x="40" y="270" width="200" height="150" rx="8" fill="#6b93b6" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="140" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">3 · Performance space</text>
+  <text x="140" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">performance + directed program</text>
+
+  <rect x="272" y="270" width="200" height="150" rx="8" fill="#4f6d7a" fill-opacity="0.25" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="372" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">4 · Prototype table</text>
+  <text x="372" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">prototype + life-cycle poster</text>
+
+  <!-- Visitor path -->
+  <path d="M 140 240 C 140 260, 372 260, 372 240" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <polygon points="372,240 360,234 360,246" fill="#2b3a42"/>
+
+  <path d="M 372 240 C 372 260, 140 260, 140 240" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <polygon points="140,240 152,246 152,234" fill="#2b3a42"/>
+
+  <path d="M 140 420 C 140 440, 372 440, 372 420" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <polygon points="372,420 360,414 360,426" fill="#2b3a42"/>
+
+  <!-- Caption -->
+  <rect x="110" y="448" width="292" height="52" rx="8" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">One room, many voices —</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">each work shown, each voice heard.</text>
+</svg>

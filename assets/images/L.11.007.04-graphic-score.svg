@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A Graphic Score</title>
+  <desc id="desc">A simple graphic score: a horizontal timeline with rising and falling lines, dots, and block shapes showing sound changing over time, with small labels for loud, soft, fast, slow, high, and low, read left to right.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Graphic Score: Sound Over Time</text>
+
+  <!-- Timeline axis -->
+  <line x1="60" y1="260" x2="452" y2="260" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="452,260 440,254 440,266" fill="#2b3a42"/>
+  <text x="452" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">time</text>
+
+  <!-- Rising line (soft to loud) -->
+  <path d="M 70 240 C 110 200, 150 220, 190 150" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="120" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rising = louder</text>
+
+  <!-- Falling line -->
+  <path d="M 190 150 C 230 200, 270 190, 310 250" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="260" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">falling = softer</text>
+
+  <!-- Dots (fast) -->
+  <circle cx="330" cy="220" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="350" cy="210" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="370" cy="220" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="390" cy="210" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="410" cy="220" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="370" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fast taps</text>
+
+  <!-- Block (long low drone) -->
+  <rect x="70" y="280" width="120" height="26" fill="#4f6d7a" fill-opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">long low sound</text>
+
+  <!-- Silence gap -->
+  <line x1="430" y1="240" x2="450" y2="240" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="440" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">silence</text>
+
+  <!-- Caption -->
+  <rect x="90" y="420" width="332" height="62" rx="8" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">A score is a plan anyone</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">can follow — sound drawn as a line.</text>
+</svg>

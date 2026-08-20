@@ -6247,7 +6247,7 @@ items:
     type: lesson
     grade: 11
     domain: D07
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6259,6 +6259,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "Validate passed (1648 files). All 10 lessons: kind/id L.11.007.01-.10/unit U.11.007/grade 11/domain D07/pillar P3/strand correct; objectives resolve to real D07.S*.11.0* (e.g. L08→D07.S4.11.01); 4 required headings present; all 28 S-codes exist in registry; assets match; Connections concrete; appreciation-vs-appropriation held."
+      fact-checker:
+        verdict: passed
+        note: "All 28 S-codes exist and are reviewed:true; none fabricated/misattributed. Spot-checked: S-363 Migration Series, S-364 Mount Fuji, S-365 elements/principles, S-114/S-115 adinkra/kōwhaiwhai, S-450 UNESCO reggae, S-449 nueva canción, S-366/S-367 raga/maqam, S-188 Folkways siku/djembe, S-446 griot, S-447 haka, S-116 tinikling, S-369 universal design, S-370 design cycle, S-371 life cycle, S-452 circular economy, S-451 fab labs. Evidence-vs-value consistent."
+      global-culture-editor:
+        verdict: passed
+        note: "No US/Eurocentric default; spans Africa (adinkra L2, griot L6, djembe L5, reggae L4), Asia (Hokusai L1, raga L5, tinikling L7), MENA (maqam L5), Latin America (nueva canción L4, siku L5), Oceania (kōwhaiwhai L2, haka L6). Traditions framed as living heritage with attribution + appreciation-vs-appropriation rule; anti-ranking statements (L2/L5/L10); evidence-vs-value separated. Minor non-blocking: L5 maqam/'Persian' (dastgah more precise)."
+      accessibility-editor:
+        verdict: passed
+        note: All 10 lessons low-tech (paper/found-object/voice/body-percussion; enriched tools Krita/Inkscape/BandLab/Audacity/CAD optional only); auditory lessons L4/L5 offer non-recording alternatives; all 10 SVGs role=img + title/desc/aria-labelledby + non-empty alt; UDL multi-modal + differentiation + choice; no hard sight/hearing/motor requirement without alternative; all five context_variants in all 10.
+      alignment-auditor:
+        verdict: passed
+        note: "All four lenses present: ethics (L1 + appreciation-vs-appropriation L1-L7), egalitarianism (L1/L2/L5/L8 universal-design/L9 who-pays/L10 no ranking), global/anthropological (Lawrence/Hokusai/adinkra/kōwhaiwhai/reggae/nueva canción/raga/maqam/siku/djembe/griot/haka/tinikling), tech+environment (L4/L8/L9 design-life-cycle). Evidence-vs-value distinguished; traceability all objectives→D07.S*.11.0*→D07→P3→vision; no hierarchy."
+      child-psychologist:
+        verdict: passed
+        note: "Cognitive fit (formal operations): curation/intended-effect/life-cycle evaluation appropriately abstract + provisional judgment, worked-example→guided→independent + tiers, spiral from Grade 10 appreciation-vs-appropriation to Grade 12. Emotional safety: issue choice self-selected/neutral examples, no forced trauma disclosure; cultural material respectful with attribution/permission; performance optional (partner or described/recorded, never forced); L10 mastery not ranking. Physical: movement scaffolded + seated alternatives. Open-ended: intended effect = value not fact, questions held open."
   - id: B-402
     title: Author lessons for Unit U.11.008 (Health, Care & Access)
     agent: lesson-author

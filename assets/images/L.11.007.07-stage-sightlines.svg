@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Staging and Sightlines</title>
+  <desc id="desc">A top-down venue diagram with a stage at one end, audience seats or standing areas opposite, dashed sightline lines from audience positions to two stage marks, and labels for upstage, downstage, and center, showing how staging and sightlines shape what the audience can see.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Staging and Sightlines</text>
+
+  <!-- Stage -->
+  <rect x="60" y="80" width="392" height="130" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Upstage / downstage lines -->
+  <line x1="60" y1="120" x2="452" y2="120" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="452" y="115" text-anchor="end" font-family="sans-serif" font-size="12" fill="#4f6d7a">upstage</text>
+  <text x="452" y="200" text-anchor="end" font-family="sans-serif" font-size="12" fill="#4f6d7a">downstage</text>
+
+  <!-- Performer marks -->
+  <circle cx="256" cy="105" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">1</text>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">center</text>
+
+  <circle cx="120" cy="185" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="120" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">2</text>
+
+  <!-- Audience -->
+  <rect x="60" y="320" width="392" height="60" fill="#4f6d7a" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">audience</text>
+
+  <!-- Audience marks -->
+  <circle cx="150" cy="350" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="350" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="362" cy="350" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- Sightlines (dashed) -->
+  <line x1="150" y1="350" x2="120" y2="201" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <line x1="256" y1="350" x2="256" y2="121" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+  <line x1="362" y1="350" x2="362" y2="121" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Blocked sightline note -->
+  <line x1="362" y1="350" x2="120" y2="185" stroke="#e0a458" stroke-width="2" stroke-dasharray="2 6"/>
+  <text x="452" y="250" text-anchor="end" font-family="sans-serif" font-size="12" fill="#e0a458">blocked line?</text>
+
+  <!-- Caption -->
+  <rect x="70" y="400" width="372" height="66" rx="8" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">A director asks: can the audience</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">actually see what I mean them to see?</text>
+</svg>

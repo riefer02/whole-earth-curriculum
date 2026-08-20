@@ -73,3 +73,13 @@ traditions to honor with respectful questions, never as specimens.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.11.007.01 | Art With a Purpose: Choosing the Issue | D07.S1.11.01 |
+| L.11.007.02 | Making an Image Speak: Craft & Intended Effect | D07.S1.11.01 |
+| L.11.007.03 | The Art of Curation: Selection & Order | D07.S1.11.02 |
+| L.11.007.04 | Composing a Response in Sound | D07.S2.11.01 |
+| L.11.007.05 | Curating a Listening Program Across Cultures | D07.S2.11.02 |
+| L.11.007.06 | Performing a Response: The Body Speaks | D07.S3.11.01 |
+| L.11.007.07 | Directing a Program: Selection & Staging | D07.S3.11.02 |
+| L.11.007.08 | Designing for Impact: Prototype & Test | D07.S4.11.01 |
+| L.11.007.09 | The Life of a Made Thing: Full-Cycle Evaluation | D07.S4.11.02 |
+| L.11.007.10 | The Gallery: Curating Our Voices Together | D07.S1.11.02, D07.S2.11.02, D07.S3.11.02 |

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Exhibition Wall</title>
+  <desc id="desc">A gallery wall with four frames arranged in a numbered sequence connected by a dashed arrow path, and a small caption line under each frame, showing how the order guides a viewer through the works from first to last.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Exhibition Wall</text>
+
+  <!-- Wall -->
+  <rect x="40" y="80" width="432" height="330" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- Frame 1 -->
+  <rect x="70" y="130" width="90" height="110" fill="#7a9e7e" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="115" y="182" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">1</text>
+  <text x="115" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">calm first</text>
+
+  <!-- Frame 2 -->
+  <rect x="190" y="130" width="90" height="110" fill="#e0a458" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="235" y="182" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">2</text>
+  <text x="235" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the turn</text>
+
+  <!-- Frame 3 -->
+  <rect x="310" y="130" width="90" height="110" fill="#6b93b6" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="355" y="182" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">3</text>
+  <text x="355" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the question</text>
+
+  <!-- Frame 4 -->
+  <rect x="430" y="130" width="0" height="0" fill="none"/>
+  <rect x="70" y="285" width="90" height="0" fill="none"/>
+
+  <!-- Dashed path -->
+  <path d="M 160 185 L 190 185 M 280 185 L 310 185" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <polygon points="190,185 178,179 178,191" fill="#2b3a42"/>
+  <polygon points="310,185 298,179 298,191" fill="#2b3a42"/>
+
+  <!-- Frame 4 (last, centered) -->
+  <rect x="250" y="285" width="90" height="110" fill="#4f6d7a" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="295" y="337" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">4</text>
+  <text x="295" y="417" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">leave with this</text>
+
+  <path d="M 355 200 C 340 240, 330 260, 340 285" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <polygon points="340,285 336,272 330,281" fill="#2b3a42"/>
+
+  <!-- Caption -->
+  <rect x="90" y="432" width="332" height="56" rx="8" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Order turns separate works</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">into one argument.</text>
+</svg>
