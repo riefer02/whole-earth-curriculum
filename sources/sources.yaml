@@ -4651,3 +4651,57 @@ sources:
     domains: [D06]
     reviewed: true
     notes: "Cited in U.11.006 L14 (Comparing Cosmological Models) for the historical claim that the steady-state model was a once-serious competing cosmological model — the universe has no beginning or end and maintains a constant average density through the continuous creation of matter (proposed by Bondi, Gold, and Hoyle in 1948) — that was largely set aside after the 1965 discovery of the cosmic microwave background, which a universe with no hot, dense beginning could not explain. URL verified live (2026-08-19): Britannica's 'steady-state theory' article is the canonical reference for the theory's proposal, its 'no beginning, no end, continuous matter creation' content, and its decline in favor of the Big Bang following the CMB discovery. On-topic and accurately summarized."
+
+  - id: S-498
+    title: "CERN — The Standard Model"
+    type: website
+    url: https://home.cern/science/physics/standard-model
+    organization: CERN (European Organization for Nuclear Research)
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.12.006 L09/L10 for the fundamental forces and particles. States that everything is made of a few fundamental particles (quarks and leptons, each in three generations) governed by four fundamental forces (strong, weak, electromagnetic, gravitational); that the Standard Model describes three of these forces via force-carrier bosons (gluon, photon, W and Z) and that gravity is NOT part of the model; and that the Higgs boson, an essential component predicted by the model, was observed at the LHC in 2012 (Nobel 2013). URL verified live (2026-08-25). International and authoritative for particle physics."
+
+  - id: S-499
+    title: "NASA Astrobiology — History of Astrobiology (origins of life research)"
+    type: website
+    url: https://astrobiology.nasa.gov/about/history-of-astrobiology/
+    organization: NASA Astrobiology Program
+    domains: [D06]
+    reviewed: true
+    notes: "Cited in U.12.006 L07/L14 for the claim that life's first origin from non-living chemistry (abiogenesis) remains an open area of research, with hypotheses such as an early RNA world, and that life's building blocks (amino acids, nucleobases) have been found in meteorites and comets. URL verified live (2026-08-25): the page describes research into 'how non-living substances took on the attributes of life' as 'elusive,' discusses an 'early RNA world and even a pre-RNA world,' and notes amino acids found in comet Wild 2 and on asteroid Ryugu and nucleobases found in meteorites. Authoritative for the open-question framing. (Page notes it is being migrated to science.nasa.gov/astrobiology.)"
+
+  - id: S-500
+    title: "Encyclopaedia Britannica — Olorun (Yoruba creator deity)"
+    type: website
+    url: https://www.britannica.com/topic/Olorun
+    organization: Encyclopaedia Britannica
+    domains: [D06, D08]
+    reviewed: true
+    notes: "Cited in U.12.006 L08/L13/L14 as one of several origin accounts held side by side with the scientific account. The Yoruba supreme being is Olorun (also called Olodumare); Britannica's entry states the Yoruba 'hold that the Almighty Creator, Olorun, oversees a pantheon of secondary divinities, the orisha.' The lesson's framing — that the Yoruba tell of a supreme creator who works through the orisha to shape the world — is accurate and does not overclaim detail. URL verified live (2026-08-25)."
+
+  - id: S-501
+    title: "Encyclopaedia Britannica — Viracocha (Inca creator deity)"
+    type: website
+    url: https://www.britannica.com/topic/Viracocha
+    organization: Encyclopaedia Britannica
+    domains: [D06, D08]
+    reviewed: true
+    notes: "Cited in U.12.006 L08/L13/L14 as one of several origin accounts held side by side with the scientific account. Viracocha (also spelled Huiracocha or Wiraqoca) is the Inca creator deity; Britannica titles the entry 'Viracocha | Creator God, Andean Culture, Supreme Being' and documents that he was believed to have created the sun and the moon at Lake Titicaca. The lesson's framing — that the Inca tell of a creator who rose from Lake Titicaca to call the world into being — is accurate. URL verified live (2026-08-25)."
+
+  - id: S-502
+    title: "Encyclopaedia Britannica — Rigveda (Hindu scripture)"
+    type: website
+    url: https://www.britannica.com/topic/Rigveda
+    organization: Encyclopaedia Britannica
+    domains: [D06, D08]
+    reviewed: true
+    notes: "Cited in U.12.006 L08/L13/L14 as one of several origin accounts held side by side with the scientific account. The Rigveda (Sanskrit 'The Knowledge of Verses') is the oldest of the four Vedas and a foundational Hindu scripture; its tenth book includes the Nāsadīya Sūkta ('Hymn of Creation,' Rig Veda 10.129), which famously wonders openly whether anyone — 'perhaps even He' — knows how the cosmos began, and leaves the question open. The lesson cites it as an example of a tradition that itself holds origins as an open question, which is accurate and well suited to the unit's inquiry-over-creed stance. URL verified live (2026-08-25)."
+
+  - id: S-503
+    title: "Encyclopaedia Britannica — Allah (God in Islam)"
+    type: website
+    url: https://www.britannica.com/topic/Allah
+    organization: Encyclopaedia Britannica
+    domains: [D06, D08]
+    reviewed: true
+    notes: "Cited in U.12.006 L08/L13/L14 as one of several origin accounts held side by side with the scientific account. Britannica's 'Allah' entry documents Allah (Arabic Allāh, 'God') as the one God of Islam, creator and sustainer of the universe; the Qur'anic account describes God creating the heavens and the earth in six days and shaping the first human from clay. The lesson's framing is accurate and non-overclaiming. URL verified live (2026-08-25)."

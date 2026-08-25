@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Proposing a More Just Science</title>
+  <desc id="desc">A proposal path in five steps — name the problem, state the principle, make one concrete change, name who is newly included, and say how we would know it worked.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Proposal for a More Just Practice</text>
+
+  <circle cx="256" cy="96" r="22" fill="#2b3a42"/>
+  <text x="256" y="102" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#fdfbf7">1</text>
+  <text x="256" y="136" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Name the problem</text>
+
+  <line x1="256" y1="152" x2="256" y2="176" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="256" cy="198" r="22" fill="#2b3a42"/>
+  <text x="256" y="204" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#fdfbf7">2</text>
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">State the principle</text>
+
+  <line x1="256" y1="254" x2="256" y2="278" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="256" cy="300" r="22" fill="#e0a458"/>
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">3</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Make one concrete change</text>
+
+  <line x1="256" y1="356" x2="256" y2="380" stroke="#2b3a42" stroke-width="2"/>
+
+  <circle cx="256" cy="402" r="22" fill="#7a9e7e"/>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">4</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Name who is newly included</text>
+
+  <line x1="256" y1="458" x2="256" y2="470" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#6b93b6" font-weight="bold">5. How would we know it worked?</text>
+</svg>

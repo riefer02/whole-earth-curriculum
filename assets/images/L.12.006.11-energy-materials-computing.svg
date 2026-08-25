@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Energy, Materials, and Computing: Promise and Risk</title>
+  <desc id="desc">A two-column balance weighing one technology's promise — light, motion, connection — against its risks — waste, mining, emissions, digital divide — with a verdict line.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Weighing a Technology</text>
+
+  <!-- balance -->
+  <line x1="70" y1="140" x2="442" y2="140" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M 256 140 L 256 196" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M 236 196 L 276 196" stroke="#2b3a42" stroke-width="4"/>
+  <circle cx="256" cy="140" r="6" fill="#2b3a42"/>
+
+  <path d="M 70 140 L 70 200 M 130 140 L 130 200" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 60 200 C 60 226, 140 226, 140 200" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#7a9e7e" font-weight="bold">Promise</text>
+
+  <path d="M 382 140 L 382 200 M 442 140 L 442 200" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 372 200 C 372 226, 452 226, 452 200" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="412" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458" font-weight="bold">Risk</text>
+
+  <!-- promise list -->
+  <text x="100" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">light</text>
+  <text x="100" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">motion</text>
+  <text x="100" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">connection</text>
+  <text x="100" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">medicine</text>
+
+  <!-- risk list -->
+  <text x="412" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">waste</text>
+  <text x="412" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">mining</text>
+  <text x="412" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">emissions</text>
+  <text x="412" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">digital divide</text>
+
+  <rect x="76" y="380" width="360" height="56" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="405" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Verdict: the promise and the risk often land</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">on different people.</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Weigh a technology — do not worship it, do not fear it.</text>
+</svg>

@@ -74,3 +74,17 @@ dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.12.006.01 | Weighing Competing Explanations | D06.S1.12.01 |
+| L.12.006.02 | Evidence, Coherence, and Falsifiability | D06.S1.12.01 |
+| L.12.006.03 | Who Asks the Questions? Who Benefits? | D06.S1.12.02 |
+| L.12.006.04 | Proposing a More Just Science | D06.S1.12.02 |
+| L.12.006.05 | Coupled Systems: Ecosystems, Economies, and Health | D06.S2.12.01 |
+| L.12.006.06 | Trade-offs in Sustaining Living Systems | D06.S2.12.01 |
+| L.12.006.07 | Accounts of Life's Origin and Diversity | D06.S2.12.02 |
+| L.12.006.08 | Science and Culture, Side by Side | D06.S2.12.02 |
+| L.12.006.09 | Fundamental Forces | D06.S3.12.01 |
+| L.12.006.10 | Particles and the Unification of Matter | D06.S3.12.01 |
+| L.12.006.11 | Energy, Materials, and Computing: Promise and Risk | D06.S3.12.02 |
+| L.12.006.12 | Toward a Just and Sustainable Physics | D06.S3.12.02 |
+| L.12.006.13 | Cosmological Models and Geological Evidence | D06.S4.12.01 |
+| L.12.006.14 | A Considered Position on Origins | D06.S4.12.02 |

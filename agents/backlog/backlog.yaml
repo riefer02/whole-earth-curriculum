@@ -6654,7 +6654,7 @@ items:
     type: lesson
     grade: 12
     domain: D06
-    status: ready
+    status: done
     priority: 170
     depends_on:
       - B-109
@@ -6666,6 +6666,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes 1792; all 14 lessons have Procedure/Assessment/Facilitator note/Connection/Objectives + materials_low_tech + Number access (dyscalculia) + non-oral Communication access (AAC/sign/gesture/writing); objectives map to real D06 grade-12 standards (L1/L2->S1.12.01, L9/L10->S3.12.01, L14->S4.12.02), all 8 standards covered; unit.md Lessons table lists 14 with matching IDs; all 50 source IDs resolve in sources.yaml; all 14 SVGs well-formed and paths match; origins framed inquiry-over-creed (philosophy 11); L1 Connection grounds in 'why the fish are gone' with three checkable questions.
+      fact-checker:
+        verdict: passed
+        note: "Verified new sources live and marked reviewed:true — S-498 CERN Standard Model (quarks/leptons 3 generations, 4 forces, bosons, gravity not in SM, Higgs 2012/Nobel 2013), S-499 NASA Astrobiology (open abiogenesis, pre/RNA-world, amino acids comet Wild2/Ryugu). Spot-checked: Standard Model recipes, Big Bang vs steady-state (redshift/CMB/light elements S-002/S-497), Earth 4.5Ga (S-308), trophic cascade (S-310), Semmelweis (S-357), FTL-neutrino retraction (S-488), cobalt DRC (S-398), e-waste (S-397) — all correct. All 50 S-IDs resolve; evidence-vs-theory-vs-values distinguished; origins framed inquiry-over-creed. validate 1792."
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro default (each Facilitator note carries global lens, 'science is not one culture's invention'); multiple knowledge traditions held beside-not-above per philosophy 11 (Maori Ranginui/Papatuanuku, Haudenosaunee Sky Woman, Mi'kmaq two-eyed seeing, Potawatomi Kimmerer, Australian cultural burning, all accurate vs Te Ara/NMAI/CSIRO); fixed representation gap by adding Yoruba Olorun (S-500), Inca Viracocha (S-501), Vedic Rig Veda 10.129 (S-502), Islamic (S-503) to L8/L13/L14 with live-verified Britannica URLs; validate 1792.
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech/no-tech feasible in all 14 (paper, scratch paper, counters, found objects; devices only in optional enriched tier); UDL via context_variants + Support/Extension tiers; non-oral expression (Communication access block) on every spoken/Close step across all 14; dyscalculia scaffold (Number access) offloads particle recipes, four-forces tables, deep-time numbers, % via pre-printed organizers/partner; wealth-neutral materials; materials_low_tech + non-empty alt per lesson; SVGs role=img/title/desc/grayscale-safe with labels not color; validate 1792.
+      alignment-auditor:
+        verdict: passed
+        note: All four lenses (ethics, egalitarianism, global, technology+environment) in frontmatter + Facilitator paragraphs of all 14; ethics genuine (L3 who asks/who benefits, L4 more just science, L14 considered position); egalitarianism who-benefits/who-bears-cost threaded; global accounts (Yoruba, Inca, Vedic, Islamic, Maori, Haudenosaunee, Mi'kmaq two-eyed seeing, DRC cobalt, cultural burning) held beside-not-above; technology (L9-L12 energy/materials/computing, e-waste, just transition); traceability D06.S1-S4.12.* -> D06(P3) -> vision clean; evidence vs norms; validate 1792.
+      child-psychologist:
+        verdict: passed
+        note: "Grade 12 (17-18) formal operations: weighing explanations (Semmelweis, Snow, steady-state vs Big Bang), Standard Model/Higgs, Bradford Hill, deep time — rigorous not overloaded, worked examples; emotional safety: origins as models/inquiry never creed (L8/L13/L14 'no ranking/no account mocked'), existential scale framed as wonder not nihilism, heavy ethics (cobalt, environmental racism, e-waste, trade-offs) met with agency (L4 more just practice, L12 just physics, L14 own position); physical fit: diagramming/card-sorts/tokens/optional deep-time strip, not forced; open-ended questions, L14 sharing optional/private, all cultural accounts equal dignity; validate 1792."
   - id: B-413
     title: "Author lessons for Unit U.12.007 (Creative & Aesthetic Expression: A Capstone Voice)"
     agent: lesson-author

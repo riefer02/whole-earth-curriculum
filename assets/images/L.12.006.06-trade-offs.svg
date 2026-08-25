@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Trade-offs in Sustaining Living Systems</title>
+  <desc id="desc">A decision balance with two pans labeled Option A and Option B, fed by four weighing questions — who gains, who loses, over what time, and reversible — with a verdict beneath.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Weighing a Trade-off Honestly</text>
+
+  <!-- balance -->
+  <line x1="70" y1="130" x2="442" y2="130" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M 256 130 L 256 186" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M 236 186 L 276 186" stroke="#2b3a42" stroke-width="4"/>
+  <circle cx="256" cy="130" r="6" fill="#2b3a42"/>
+
+  <path d="M 70 130 L 70 190 M 130 130 L 130 190" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 60 190 C 60 214, 140 214, 140 190" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="100" y="204" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#e0a458" font-weight="bold">Option A</text>
+
+  <path d="M 382 130 L 382 190 M 442 130 L 442 190" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 372 190 C 372 214, 452 214, 452 190" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="412" y="204" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#6b93b6" font-weight="bold">Option B</text>
+
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">Ask four questions of each option</text>
+
+  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">1. Who gains?  2. Who loses?</text>
+  <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">3. Over what time?  4. Can it be reversed?</text>
+
+  <rect x="96" y="336" width="320" height="50" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="367" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Verdict: which costs are we willing to bear —</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">and who bears them?</text>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A hidden cost is a cost imposed without consent.</text>
+</svg>

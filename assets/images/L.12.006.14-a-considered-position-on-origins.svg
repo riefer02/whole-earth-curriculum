@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">A Considered Position on Origins</title>
+  <desc id="desc">A four-part position frame — what the evidence supports, what other accounts offer, where I stand and why, and what remains open — drawn as a circle that holds them together with dignity.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">My Considered Position on Origins</text>
+
+  <circle cx="256" cy="262" r="150" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="256" cy="262" r="34" fill="#2b3a42"/>
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fdfbf7">my</text>
+  <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#fdfbf7">position</text>
+
+  <!-- top: evidence -->
+  <rect x="166" y="70" width="180" height="62" rx="8" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">What the evidence</text>
+  <text x="256" y="116" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">supports</text>
+  <line x1="256" y1="132" x2="256" y2="196" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- right: other accounts -->
+  <rect x="372" y="200" width="120" height="110" rx="8" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="432" y="234" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">What other</text>
+  <text x="432" y="254" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">accounts</text>
+  <text x="432" y="274" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">offer</text>
+  <line x1="372" y1="262" x2="292" y2="268" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- left: where I stand -->
+  <rect x="20" y="200" width="120" height="110" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="80" y="234" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Where I</text>
+  <text x="80" y="254" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">stand,</text>
+  <text x="80" y="274" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">and why</text>
+  <line x1="140" y1="262" x2="220" y2="268" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- bottom: open -->
+  <rect x="156" y="380" width="200" height="62" rx="8" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="6,4"/>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">What remains open</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(the question I keep)</text>
+  <line x1="256" y1="380" x2="256" y2="296" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Evidence and other ways of knowing, held together with dignity.</text>
+</svg>

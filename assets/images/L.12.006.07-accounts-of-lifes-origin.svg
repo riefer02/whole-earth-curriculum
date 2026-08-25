@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Accounts of Life's Origin and Diversity</title>
+  <desc id="desc">A deep-time line from Earth's formation 4.5 billion years ago, through first life, complex life, and today, with a two-column note separating what the evidence shows from what is still an open question.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Life's Story: Settled and Still Open</text>
+
+  <!-- deep time line -->
+  <line x1="50" y1="110" x2="462" y2="110" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="50" cy="110" r="5" fill="#2b3a42"/>
+  <circle cx="462" cy="110" r="5" fill="#2b3a42"/>
+
+  <text x="50" y="92" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Earth forms</text>
+  <text x="50" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">4.5 bya</text>
+
+  <text x="180" y="92" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">first life</text>
+  <text x="180" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">simple</text>
+  <circle cx="180" cy="110" r="5" fill="#e0a458"/>
+
+  <text x="330" y="92" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">complex life</text>
+  <text x="330" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">diversity</text>
+  <circle cx="330" cy="110" r="5" fill="#7a9e7e"/>
+
+  <text x="462" y="92" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">today</text>
+  <text x="462" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">you</text>
+
+  <!-- two columns -->
+  <rect x="40" y="180" width="205" height="270" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="142" y="210" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">What the evidence shows</text>
+  <text x="56" y="244" font-family="sans-serif" font-size="14" fill="#222222">• species change (evolution)</text>
+  <text x="56" y="272" font-family="sans-serif" font-size="14" fill="#222222">• natural selection</text>
+  <text x="56" y="300" font-family="sans-serif" font-size="14" fill="#222222">• common ancestry</text>
+  <text x="56" y="328" font-family="sans-serif" font-size="14" fill="#222222">• deep time in the rocks</text>
+  <text x="56" y="356" font-family="sans-serif" font-size="14" fill="#222222">• DNA shared across life</text>
+
+  <rect x="267" y="180" width="205" height="270" rx="8" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="369" y="210" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Still an open question</text>
+  <text x="283" y="244" font-family="sans-serif" font-size="14" fill="#222222">• the very first life</text>
+  <text x="283" y="272" font-family="sans-serif" font-size="14" fill="#222222">  from non-living</text>
+  <text x="283" y="300" font-family="sans-serif" font-size="14" fill="#222222">  chemistry</text>
+  <text x="283" y="328" font-family="sans-serif" font-size="14" fill="#222222">• an RNA world?</text>
+  <text x="283" y="356" font-family="sans-serif" font-size="14" fill="#222222">• the exact path</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">A strong account can still hold an open question.</text>
+</svg>

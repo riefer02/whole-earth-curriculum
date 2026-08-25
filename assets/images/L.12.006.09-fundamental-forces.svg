@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Four Fundamental Forces</title>
+  <desc id="desc">Four labeled cards — gravity, electromagnetism, strong force, weak force — each with its range, relative strength, and one everyday effect.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Four Fundamental Forces</text>
+
+  <rect x="36" y="66" width="210" height="190" rx="8" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="141" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">Gravity</text>
+  <text x="52" y="122" font-family="sans-serif" font-size="13" fill="#4f6d7a">Acts on: mass</text>
+  <text x="52" y="146" font-family="sans-serif" font-size="13" fill="#4f6d7a">Range: infinite</text>
+  <text x="52" y="170" font-family="sans-serif" font-size="13" fill="#4f6d7a">Strength: weakest</text>
+  <text x="52" y="204" font-family="sans-serif" font-size="13" fill="#222222">A stone falls; planets orbit.</text>
+
+  <rect x="266" y="66" width="210" height="190" rx="8" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="371" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">Electromagnetism</text>
+  <text x="282" y="122" font-family="sans-serif" font-size="13" fill="#4f6d7a">Acts on: charge</text>
+  <text x="282" y="146" font-family="sans-serif" font-size="13" fill="#4f6d7a">Range: infinite</text>
+  <text x="282" y="170" font-family="sans-serif" font-size="13" fill="#4f6d7a">Strength: strong</text>
+  <text x="282" y="204" font-family="sans-serif" font-size="13" fill="#222222">Light, magnets, atoms, touch.</text>
+
+  <rect x="36" y="276" width="210" height="190" rx="8" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="141" y="304" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">Strong force</text>
+  <text x="52" y="332" font-family="sans-serif" font-size="13" fill="#4f6d7a">Acts on: quarks</text>
+  <text x="52" y="356" font-family="sans-serif" font-size="13" fill="#4f6d7a">Range: very short</text>
+  <text x="52" y="380" font-family="sans-serif" font-size="13" fill="#4f6d7a">Strength: strongest</text>
+  <text x="52" y="414" font-family="sans-serif" font-size="13" fill="#222222">Holds the nucleus together.</text>
+
+  <rect x="266" y="276" width="210" height="190" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="371" y="304" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">Weak force</text>
+  <text x="282" y="332" font-family="sans-serif" font-size="13" fill="#4f6d7a">Acts on: particles</text>
+  <text x="282" y="356" font-family="sans-serif" font-size="13" fill="#4f6d7a">Range: short</text>
+  <text x="282" y="380" font-family="sans-serif" font-size="13" fill="#4f6d7a">Strength: weak</text>
+  <text x="282" y="414" font-family="sans-serif" font-size="13" fill="#222222">Drives the Sun's fusion.</text>
+
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Four forces run everything you touch.</text>
+</svg>

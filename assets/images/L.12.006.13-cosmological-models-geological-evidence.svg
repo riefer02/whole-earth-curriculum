@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Cosmological Models and Geological Evidence</title>
+  <desc id="desc">Two cosmological models — Big Bang and steady-state — weighed against three labeled lines of evidence: galaxies receding, the microwave background glow, and the element abundances, with a geological deep-time line below.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Weighing Two Models of the Cosmos</text>
+
+  <rect x="36" y="66" width="210" height="130" rx="8" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="141" y="94" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Big Bang</text>
+  <text x="52" y="122" font-family="sans-serif" font-size="13" fill="#222222">Began hot and dense,</text>
+  <text x="52" y="142" font-family="sans-serif" font-size="13" fill="#222222">expanding and cooling.</text>
+
+  <rect x="266" y="66" width="210" height="130" rx="8" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="371" y="94" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Steady-state</text>
+  <text x="282" y="122" font-family="sans-serif" font-size="13" fill="#222222">Always existed, new matter</text>
+  <text x="282" y="142" font-family="sans-serif" font-size="13" fill="#222222">appearing as it expands.</text>
+
+  <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Three lines of evidence</text>
+
+  <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1. Galaxies receding — both can allow expansion.</text>
+  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2. Microwave background — a glow in every direction.</text>
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3. Light-element abundances — hydrogen and helium.</text>
+
+  <rect x="96" y="328" width="320" height="40" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="354" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">The microwave background favored the Big Bang.</text>
+
+  <!-- deep time -->
+  <line x1="50" y1="412" x2="462" y2="412" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="50" cy="412" r="4" fill="#2b3a42"/>
+  <circle cx="462" cy="412" r="4" fill="#2b3a42"/>
+  <text x="50" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Earth 4.5 bya</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">deep time</text>
+  <text x="462" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">today</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">plate tectonics · fossils · layered rock</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">A model is held as a model — revisable, never a certainty.</text>
+</svg>

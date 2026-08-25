@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Who Asks the Questions, Who Benefits</title>
+  <desc id="desc">A flowchart tracing a research question from its funder and question-framer, through who is studied and who is left out, to who benefits and who bears the cost, with a question mark over those excluded.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Tracing a Question: Who Asks, Who Benefits</text>
+
+  <rect x="156" y="66" width="200" height="46" rx="8" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="94" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">1. Who asked the question?</text>
+  <line x1="256" y1="112" x2="256" y2="138" stroke="#2b3a42" stroke-width="2" marker-end="none"/>
+  <path d="M 246 132 L 256 146 L 266 132" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <rect x="156" y="146" width="200" height="46" rx="8" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="174" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">2. Who funded it?</text>
+  <line x1="256" y1="192" x2="256" y2="218" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 246 212 L 256 226 L 266 212" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <rect x="156" y="226" width="200" height="46" rx="8" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="254" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">3. Who was studied?</text>
+  <line x1="256" y1="272" x2="256" y2="298" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 246 292 L 256 306 L 266 292" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <rect x="156" y="306" width="200" height="46" rx="8" fill="none" stroke="#e0a458" stroke-width="3" stroke-dasharray="6,4"/>
+  <text x="256" y="334" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">4. Who was left out?</text>
+
+  <line x1="256" y1="352" x2="256" y2="378" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 246 372 L 256 386 L 266 372" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <rect x="96" y="386" width="150" height="64" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="171" y="414" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">5. Who benefits?</text>
+  <text x="171" y="436" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the gain</text>
+
+  <rect x="266" y="386" width="150" height="64" rx="8" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="341" y="414" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Who bears the cost?</text>
+  <text x="341" y="436" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the burden</text>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">The question never asked is part of the knowledge too.</text>
+</svg>

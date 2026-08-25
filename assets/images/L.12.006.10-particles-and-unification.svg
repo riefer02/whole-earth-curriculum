@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Particles and the Unification of Matter</title>
+  <desc id="desc">A recipe diagram building ordinary matter: two up quarks and one down quark make a proton; protons, neutrons, and electrons make an atom; atoms make everything — with a note that the Standard Model unifies three forces while gravity remains outside.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Recipe for Everything</text>
+
+  <!-- step 1: quarks to proton -->
+  <circle cx="150" cy="110" r="24" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="150" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">up</text>
+  <circle cx="230" cy="110" r="24" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="230" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">up</text>
+  <circle cx="310" cy="110" r="24" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="310" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">down</text>
+
+  <line x1="174" y1="110" x2="206" y2="110" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="254" y1="110" x2="286" y2="110" stroke="#2b3a42" stroke-width="2"/>
+
+  <path d="M 256 146 L 256 170" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 246 164 L 256 178 L 266 164" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <ellipse cx="256" cy="200" rx="56" ry="30" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="205" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">proton</text>
+
+  <path d="M 256 232 L 256 256" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 246 250 L 256 264 L 266 250" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- atom -->
+  <circle cx="256" cy="300" r="22" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="305" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">nucleus</text>
+  <circle cx="256" cy="300" r="54" fill="none" stroke="#6b93b6" stroke-width="2" stroke-dasharray="5,4"/>
+  <circle cx="202" cy="300" r="7" fill="#6b93b6"/>
+  <text x="202" y="286" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">e⁻</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">atom</text>
+
+  <path d="M 256 388 L 256 412" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 246 406 L 256 420 L 266 406" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">…and atoms make everything.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The Standard Model unifies the particles and three forces —</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">gravity still stands outside, an open frontier.</text>
+</svg>
