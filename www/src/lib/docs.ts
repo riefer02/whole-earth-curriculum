@@ -22,3 +22,7 @@ export const DOC_ORDER = [
   'art-style',
   'glossary',
 ];
+
+// Docs kept in the repo but not rendered on the public site — internal
+// working/planning documents, not user-facing reference material.
+export const INTERNAL_DOCS = new Set(['audiences', 'messaging']);

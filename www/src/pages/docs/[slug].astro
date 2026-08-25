@@ -4,11 +4,13 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import { ui } from '../../i18n';
-import { docTitle } from '../../lib/docs';
+import { docTitle, INTERNAL_DOCS } from '../../lib/docs';
 
 export async function getStaticPaths() {
   const docs = await getCollection('docs');
-  return docs.map((d) => ({ params: { slug: d.id } }));
+  return docs
+    .filter((d) => !INTERNAL_DOCS.has(d.id))
+    .map((d) => ({ params: { slug: d.id } }));
 }
 
 const { slug } = Astro.params;

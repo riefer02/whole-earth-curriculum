@@ -3,15 +3,16 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { ui } from '../../i18n';
 import { docPath } from '../../lib/links';
-import { docTitle, DOC_ORDER } from '../../lib/docs';
+import { docTitle, DOC_ORDER, INTERNAL_DOCS } from '../../lib/docs';
 
 const docs = await getCollection('docs');
-const bySlug = new Map(docs.map((d) => [d.id, d]));
+const publicDocs = docs.filter((d) => !INTERNAL_DOCS.has(d.id));
+const bySlug = new Map(publicDocs.map((d) => [d.id, d]));
 
 const ordered = DOC_ORDER.map((slug) => ({ slug, entry: bySlug.get(slug) }))
   .filter((x) => x.entry)
   .concat(
-    docs
+    publicDocs
       .filter((d) => !DOC_ORDER.includes(d.id))
       .map((d) => ({ slug: d.id, entry: d })),
   );
