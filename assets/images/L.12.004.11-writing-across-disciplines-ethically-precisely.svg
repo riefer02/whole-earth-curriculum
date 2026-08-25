@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Writing across disciplines, ethically and precisely</title>
+  <desc id="desc">A central box holds one claim. Four arrows lead outward to four audience boxes labeled scientific, civic, technical, and everyday. A banner across the top reads precise and ethical, and below a simple balance scale shows precision on one side and care on the other. Labels carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">One Claim, Four Audiences</text>
+
+  <!-- Banner -->
+  <rect x="120" y="56" width="272" height="34" rx="17" fill="#f0ede4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">precise and ethical</text>
+
+  <!-- Central claim -->
+  <rect x="166" y="196" width="180" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="226" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">one claim</text>
+  <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">the well water shows</text>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">elevated nitrate</text>
+
+  <!-- Four audience boxes -->
+  <g>
+    <rect x="20" y="118" width="128" height="56" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="84" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">scientific</text>
+    <line x1="148" y1="146" x2="190" y2="210" stroke="#4f6d7a" stroke-width="2.5"/>
+    <polygon points="190,210 181,202 192,201" fill="#4f6d7a"/>
+
+    <rect x="364" y="118" width="128" height="56" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="428" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">civic</text>
+    <line x1="364" y1="146" x2="322" y2="210" stroke="#4f6d7a" stroke-width="2.5"/>
+    <polygon points="322,210 331,202 320,201" fill="#4f6d7a"/>
+
+    <rect x="20" y="322" width="128" height="56" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="84" y="354" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">technical</text>
+    <line x1="148" y1="350" x2="190" y2="286" stroke="#4f6d7a" stroke-width="2.5"/>
+    <polygon points="190,286 181,294 192,295" fill="#4f6d7a"/>
+
+    <rect x="364" y="322" width="128" height="56" rx="10" fill="#cbb79a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="428" y="354" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">everyday</text>
+    <line x1="364" y1="350" x2="322" y2="286" stroke="#4f6d7a" stroke-width="2.5"/>
+    <polygon points="322,286 331,294 320,295" fill="#4f6d7a"/>
+  </g>
+
+  <!-- Balance scale -->
+  <g>
+    <line x1="256" y1="410" x2="256" y2="430" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="206" y1="416" x2="306" y2="416" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="206" y1="416" x2="196" y2="436" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="306" y1="416" x2="316" y2="436" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="196" cy="446" r="10" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="316" cy="446" r="10" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="196" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">precision</text>
+    <text x="316" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">care</text>
+  </g>
+
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">precise but cruel and kind but vague both fail — hold both</text>
+</svg>

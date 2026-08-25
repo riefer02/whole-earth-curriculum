@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Four ways writing systems encode meaning</title>
+  <desc id="desc">Four panels. Alphabet: the Greek word for mother, mu eta tau eta rho alpha, with a note that vowels and consonants are each written. Abjad: the Arabic word kitab for book, with a note that consonants are written and short vowels omitted. Abugida: the Devanagari signs ka, kaa, and ki, with a note that a consonant carries an inherent vowel changed by small marks. Character: the Chinese characters for water, tree, and person, with a note that each stands for a syllable plus a meaning. Transliterations and labels carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">How Writing Systems Encode Meaning</text>
+
+  <!-- Panel 1: alphabet -->
+  <g>
+    <rect x="18" y="54" width="232" height="196" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="18" y="54" width="232" height="36" rx="10" fill="#7a9e7e"/>
+    <text x="134" y="78" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">alphabet</text>
+    <text x="134" y="138" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#2b3a42">μητέρα</text>
+    <text x="134" y="164" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">mētera — "mother" (Greek)</text>
+    <text x="134" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">vowels and consonants each written</text>
+    <text x="134" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a mark &#8776; a sound</text>
+    <text x="134" y="234" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">μ η τ ε ρ α = m &#275; t e r a</text>
+  </g>
+
+  <!-- Panel 2: abjad -->
+  <g>
+    <rect x="262" y="54" width="232" height="196" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="262" y="54" width="232" height="36" rx="10" fill="#6b93b6"/>
+    <text x="378" y="78" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">abjad</text>
+    <text x="378" y="138" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#2b3a42">كتاب</text>
+    <text x="378" y="164" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">kit&#257;b — "book" (Arabic)</text>
+    <text x="378" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">consonants written, short vowels omitted</text>
+    <text x="378" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a mark &#8776; a consonant</text>
+    <text x="378" y="234" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">k t b = kit&#257;b</text>
+  </g>
+
+  <!-- Panel 3: abugida -->
+  <g>
+    <rect x="18" y="262" width="232" height="196" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="18" y="262" width="232" height="36" rx="10" fill="#e0a458"/>
+    <text x="134" y="286" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">abugida</text>
+    <text x="134" y="342" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#2b3a42">क  का  कि</text>
+    <text x="134" y="368" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">ka — k&#257; — ki (Devanagari)</text>
+    <text x="134" y="396" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">a consonant carries an inherent vowel,</text>
+    <text x="134" y="414" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">changed by small marks</text>
+    <text x="134" y="438" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">क + &#257; &#8594; का,  क + i &#8594; कि</text>
+  </g>
+
+  <!-- Panel 4: character -->
+  <g>
+    <rect x="262" y="262" width="232" height="196" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="262" y="262" width="232" height="36" rx="10" fill="#cbb79a"/>
+    <text x="378" y="286" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">character</text>
+    <text x="378" y="346" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#2b3a42">水  木  人</text>
+    <text x="378" y="372" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">shu&#464; "water" · m&#249; "tree" · r&#233;n "person"</text>
+    <text x="378" y="398" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">each stands for a syllable + a meaning</text>
+    <text x="378" y="416" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(morphosyllabic — not a "picture of an idea")</text>
+    <text x="378" y="438" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one mark &#8776; one morpheme-syllable</text>
+  </g>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">four complete solutions — no one script is "more logical" than another</text>
+</svg>

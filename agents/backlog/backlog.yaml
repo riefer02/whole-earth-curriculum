@@ -6580,7 +6580,7 @@ items:
     type: lesson
     grade: 12
     domain: D04
-    status: ready
+    status: done
     priority: 170
     depends_on:
       - B-109
@@ -6591,7 +6591,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by accessibility-editor: speech/deliberation unit lacks non-oral alternatives: L1 (turn-taking restate), L3 (public speech 'deliver aloud'), L13 (interpretation role-play), L14 (share-aloud) require speaking/hearing with no write/sign/AAC pathway; no Communication access note naming AAC/d/Deaf/hard-of-hearing anywhere; no dyslexia/reading-difficulty accommodations (oral/tactile/multi-script/text-to-speech) in L4/L6/L7/L8-11. Fix all three gaps.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (1764); 14 lessons objectives only 8 D04 standards, tech+env lens present, Procedure/Assessment/Connection present, unit.md table 14 intact; every lesson now has Communication access bullet + Reading/Writing access on L4-L11; L3/L13 performance assessments mode-flexible ('what is assessed is the adaptation/bridging, not the voice that carries it'); no regression.
+      fact-checker:
+        verdict: passed
+        note: accessibility rework introduced no new factual claims or citations (bullets purely procedural, zero S-IDs/statistics); all 29 cited S-IDs resolve reviewed:true and intact (S-019 UNESCO 40%, S-426 Ethnologue ~7000, S-169 WALS tea/chai, S-280 WCAG); validate passes 1764.
+      global-culture-editor:
+        verdict: passed
+        note: "accessibility rework no cultural regression: alternatives co-equal ('aloud, or in writing, sign, typing, or AAC'), uses 'non-speaking'/d/Deaf/hard-of-hearing/preferred mode; assessments de-link output from voice ('not the voice that carries it'), signed bridge 'just as fully' a bridge; no deficiency language; multilingual framing intact ('no writing system better', 'multilingualism normal human condition', 'none is the default'); Reading-access 'words also shown in home script' reinforces multilingualism."
+      accessibility-editor:
+        verdict: passed
+        note: "all three gaps resolved: (1) every speaking/hearing step now has write/sign/type/AAC alternative incl L1/L3/L13/L14; (2) all 14 lessons carry Communication access bullet naming non-speaking/d/Deaf/hard-of-hearing/AAC users; (3) reading L4-L7 + writing L8-L11 have dyslexia/decoding accommodations with text-to-speech/scribe/read-back low-tech fallbacks, 'no correct penmanship or standard spelling required'; low-tech tiers + alt text present."
+      alignment-auditor:
+        verdict: passed
+        note: four lenses in every lesson (ethics/egalitarianism/global/technology+environment in frontmatter + Facilitator paragraphs); traceability objectives -> D04.S*.12.* -> D04 -> P3 -> vision clean; evidence-vs-values explicit (L6 'no script more logical' as value vs descriptive typology; L12 facts S-019/S-426 vs value); no hierarchy/supremacy; egalitarian lens extended to languages/scripts ('no writing system better', multilingualism-as-wealth, no script default); validate 1764.
+      child-psychologist:
+        verdict: passed
+        note: "grade 12 (17-18): Toulmin, writing-system typology, moderate linguistic relativity at mature formal operations via worked examples (S-011); public speaking de-stressed ('deliver' reframed as conveying, performance assessed on adaptation/integrity not voice, no mandatory high-stakes solo); contested-issue deliberation low-stakes everyday questions, no identity/political disclosure pressure; L12 separates facts (UNESCO 40%, Ethnologue ~7000) from value; inquiry over creed; kinesthetic/outdoor optional; Grade 11 spiral anchors acknowledged. Non-developmental note: L14 says 'eight artifacts' but lists ~13 (copyedit)."
   - id: B-411
     title: "Author lessons for Unit U.12.005 (Mathematics: Reasoning about Large Systems)"
     agent: lesson-author

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reading across three registers</title>
+  <desc id="desc">Three side-by-side columns labeled scholarly, technical, and literary. The scholarly column shows lines of text with a citation mark; the technical column shows numbered steps and a small data table; the literary column shows short poetic lines with an image of cracked earth. Under each column a note names what the register asks of the reader. All meaning is carried by labels and shapes, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Reading Across Registers</text>
+
+  <!-- Column 1: scholarly -->
+  <g>
+    <rect x="18" y="58" width="152" height="290" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="18" y="58" width="152" height="38" rx="10" fill="#7a9e7e"/>
+    <text x="94" y="82" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">scholarly</text>
+    <rect x="30" y="108" width="128" height="8" rx="2" fill="#2b3a42" opacity="0.7"/>
+    <rect x="30" y="122" width="128" height="8" rx="2" fill="#2b3a42" opacity="0.7"/>
+    <rect x="30" y="136" width="118" height="8" rx="2" fill="#2b3a42" opacity="0.7"/>
+    <rect x="30" y="150" width="128" height="8" rx="2" fill="#2b3a42" opacity="0.7"/>
+    <rect x="30" y="164" width="110" height="8" rx="2" fill="#2b3a42" opacity="0.7"/>
+    <rect x="30" y="184" width="128" height="8" rx="2" fill="#2b3a42" opacity="0.55"/>
+    <rect x="30" y="198" width="120" height="8" rx="2" fill="#2b3a42" opacity="0.55"/>
+    <rect x="30" y="212" width="128" height="8" rx="2" fill="#2b3a42" opacity="0.55"/>
+    <text x="140" y="236" text-anchor="end" font-family="sans-serif" font-size="12" fill="#4f6d7a">[1]</text>
+    <text x="30" y="262" font-family="sans-serif" font-size="12" fill="#4f6d7a">argues with</text>
+    <text x="30" y="278" font-family="sans-serif" font-size="12" fill="#4f6d7a">evidence &amp; citation</text>
+    <rect x="30" y="298" width="128" height="34" rx="8" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="94" y="312" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#2b3a42">asks: weigh the</text>
+    <text x="94" y="326" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#2b3a42">argument &amp; evidence</text>
+  </g>
+
+  <!-- Column 2: technical -->
+  <g>
+    <rect x="180" y="58" width="152" height="290" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="180" y="58" width="152" height="38" rx="10" fill="#6b93b6"/>
+    <text x="256" y="82" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">technical</text>
+    <text x="192" y="112" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">1. take a sample</text>
+    <text x="192" y="130" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">2. add the reagent</text>
+    <text x="192" y="148" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">3. wait 2 minutes</text>
+    <text x="192" y="166" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">4. read the color</text>
+    <!-- small data table -->
+    <rect x="192" y="180" width="128" height="52" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="192" y1="197" x2="320" y2="197" stroke="#4f6d7a" stroke-width="1.5"/>
+    <line x1="256" y1="180" x2="256" y2="232" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="204" y="192" font-family="sans-serif" font-size="11" fill="#2b3a42">month</text>
+    <text x="268" y="192" font-family="sans-serif" font-size="11" fill="#2b3a42">rain mm</text>
+    <text x="204" y="210" font-family="sans-serif" font-size="11" fill="#2b3a42">Jan</text>
+    <text x="268" y="210" font-family="sans-serif" font-size="11" fill="#2b3a42">4</text>
+    <text x="204" y="225" font-family="sans-serif" font-size="11" fill="#2b3a42">Jul</text>
+    <text x="268" y="225" font-family="sans-serif" font-size="11" fill="#2b3a42">82</text>
+    <text x="192" y="252" font-family="sans-serif" font-size="12" fill="#4f6d7a">instructs &amp; specifies</text>
+    <rect x="192" y="268" width="128" height="64" rx="8" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#2b3a42">asks: follow precisely,</text>
+    <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#2b3a42">read data and steps</text>
+    <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#2b3a42">exactly</text>
+  </g>
+
+  <!-- Column 3: literary -->
+  <g>
+    <rect x="342" y="58" width="152" height="290" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="342" y="58" width="152" height="38" rx="10" fill="#e0a458"/>
+    <text x="418" y="82" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">literary</text>
+    <text x="418" y="112" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">the earth waits,</text>
+    <text x="418" y="130" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">a cracked palm</text>
+    <text x="418" y="148" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">open to the sky</text>
+    <!-- cracked earth image -->
+    <path d="M372 220 L382 208 L394 220 L404 210 L418 222 L430 210 L442 220" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+    <path d="M382 208 L388 196 L394 208 M404 210 L410 198 L418 222 M430 210 L436 198 L442 220" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="418" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">evokes &amp; imagines</text>
+    <rect x="354" y="262" width="128" height="70" rx="8" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="418" y="282" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#2b3a42">asks: feel the image,</text>
+    <text x="418" y="298" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#2b3a42">hear the form,</text>
+    <text x="418" y="314" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#2b3a42">find the meaning</text>
+    <text x="418" y="330" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#2b3a42">in the picture</text>
+  </g>
+
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">one idea, three lenses — read each on its own terms,</text>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">then hold all three together.</text>
+</svg>

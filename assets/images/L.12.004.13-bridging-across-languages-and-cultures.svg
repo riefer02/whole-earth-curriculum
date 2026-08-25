@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Bridging across languages and cultures</title>
+  <desc id="desc">A bridge spans two river banks. On the left bank, a group of people has a speech bubble with one script; on the right bank, another group has a speech bubble with a different script. A figure stands on the bridge labeled bridge, carrying a message across. Below, two notes contrast translation (written, revisable) and interpretation (spoken, in the moment). Labels carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Bridging Across Languages</text>
+
+  <!-- River -->
+  <rect x="0" y="150" width="512" height="90" fill="#6b93b6" opacity="0.35"/>
+  <path d="M0 170 Q64 158 128 170 T256 170 T384 170 T512 170" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <path d="M0 210 Q64 198 128 210 T256 210 T384 210 T512 210" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- Left bank group -->
+  <g>
+    <circle cx="66" cy="120" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="104" cy="120" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="142" cy="120" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="52" y="74" width="104" height="34" rx="17" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="104" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">مرحبا</text>
+  </g>
+
+  <!-- Right bank group -->
+  <g>
+    <circle cx="370" cy="120" r="16" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="408" cy="120" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="446" cy="120" r="16" fill="#f0c9a5" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="356" y="74" width="104" height="34" rx="17" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="408" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">你好</text>
+  </g>
+
+  <!-- Bridge -->
+  <path d="M80 150 Q256 96 432 150" fill="none" stroke="#2b3a42" stroke-width="5"/>
+  <line x1="80" y1="150" x2="432" y2="150" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- Bridge figure -->
+  <g>
+    <circle cx="256" cy="108" r="14" fill="#d9a06a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 122 L248 144 M256 122 L264 144" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <rect x="196" y="48" width="120" height="26" rx="13" fill="#e0a458"/>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">bridge</text>
+
+  <!-- Translation vs interpretation notes -->
+  <rect x="20" y="272" width="224" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="132" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">translation</text>
+  <text x="132" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">written, revisable, exact</text>
+  <text x="132" y="344" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">can be checked and corrected</text>
+
+  <rect x="268" y="272" width="224" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="380" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">interpretation</text>
+  <text x="380" y="324" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">spoken, in the moment</text>
+  <text x="380" y="344" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">carries meaning and tone</text>
+
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">carry meaning, not word-for-word;</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">honor both languages as complete, the bridge as skilled.</text>
+</svg>

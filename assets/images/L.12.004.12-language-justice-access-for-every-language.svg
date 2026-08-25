@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Language justice: access for every language</title>
+  <desc id="desc">A public notice board with the same message in four scripts — Arabic, Devanagari, Chinese characters, and Latin — plus a plain pictogram of water. On the right, a person stands behind a dashed barrier labeled "only one language," unable to read the board. Labels carry the meaning, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Language Justice</text>
+
+  <!-- Notice board -->
+  <rect x="30" y="64" width="260" height="260" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="30" y="64" width="260" height="40" rx="12" fill="#4f6d7a"/>
+  <text x="160" y="90" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff">public notice</text>
+
+  <!-- Four language lines -->
+  <text x="44" y="140" font-family="sans-serif" font-size="22" fill="#2b3a42">!تنبيه</text>
+  <text x="44" y="180" font-family="sans-serif" font-size="22" fill="#2b3a42">सावधान</text>
+  <text x="44" y="220" font-family="sans-serif" font-size="22" fill="#2b3a42">注意</text>
+  <text x="44" y="260" font-family="sans-serif" font-size="22" fill="#2b3a42">Aviso</text>
+
+  <!-- Pictogram: water drop -->
+  <g>
+    <path d="M228 210 q10 -16 20 0 q4 8 0 14 q-8 12 -20 12 q-12 0 -20 -12 q-4 -6 0 -14 z" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="238" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">water</text>
+  </g>
+  <text x="160" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one message, many languages, a plain pictogram</text>
+
+  <!-- Barrier -->
+  <rect x="330" y="64" width="150" height="260" fill="none" stroke="#e0a458" stroke-width="2.5" stroke-dasharray="8 7"/>
+  <text x="405" y="96" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">only one language</text>
+
+  <!-- Excluded person -->
+  <g>
+    <circle cx="405" cy="196" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="397" cy="190" r="2.4" fill="#2b3a42"/><circle cx="413" cy="190" r="2.4" fill="#2b3a42"/>
+    <path d="M394 208 Q405 216 416 208" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M405 218 L389 252 M405 218 L421 252" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="405" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">left out</text>
+  </g>
+
+  <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">exclusion by language is not a person's fault —</text>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">it is a decision about whose language counts.</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">language justice makes public life legible to every person.</text>
+</svg>

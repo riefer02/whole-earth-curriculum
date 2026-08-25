@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The deliberative stance: a circle of voices feeding one reasoned position</title>
+  <desc id="desc">Eight diverse faces in a circle — varied skin tones, one wheelchair user, one person with a hearing aid — each speaking toward a center circle labeled "reasoned position." Around the rim are four moves labeled restate, question, add, and weigh. All meaning is carried by shapes and labels, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- Title -->
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Deliberation</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">many voices, one reasoned position</text>
+
+  <!-- Outer ring -->
+  <circle cx="256" cy="272" r="196" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 7"/>
+
+  <!-- Center -->
+  <circle cx="256" cy="272" r="74" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">reasoned</text>
+  <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">position</text>
+
+  <!-- Four move labels on the rim -->
+  <rect x="74" y="96" width="96" height="30" rx="15" fill="#7a9e7e"/>
+  <text x="122" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">restate</text>
+  <rect x="342" y="96" width="96" height="30" rx="15" fill="#6b93b6"/>
+  <text x="390" y="116" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">question</text>
+  <rect x="74" y="418" width="96" height="30" rx="15" fill="#e0a458"/>
+  <text x="122" y="438" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">add</text>
+  <rect x="342" y="418" width="96" height="30" rx="15" fill="#cbb79a"/>
+  <text x="390" y="438" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">weigh</text>
+
+  <!-- Faces around the circle, each with a speech tick toward center -->
+  <!-- Top -->
+  <g>
+    <circle cx="256" cy="118" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="249" cy="113" r="2.4" fill="#2b3a42"/><circle cx="263" cy="113" r="2.4" fill="#2b3a42"/>
+    <path d="M248 127 Q256 132 264 127" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="256" y1="140" x2="256" y2="196" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Top-right -->
+  <g>
+    <circle cx="392" cy="162" r="22" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="385" cy="157" r="2.4" fill="#2b3a42"/><circle cx="399" cy="157" r="2.4" fill="#2b3a42"/>
+    <path d="M384 171 Q392 176 400 171" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="378" y1="180" x2="320" y2="224" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Right (wheelchair user) -->
+  <g>
+    <circle cx="438" cy="272" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="431" cy="267" r="2.4" fill="#2b3a42"/><circle cx="445" cy="267" r="2.4" fill="#2b3a42"/>
+    <path d="M430 281 Q438 286 446 281" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="420" y1="274" x2="334" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="438" cy="306" r="11" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="438" cy="306" r="2.5" fill="#2b3a42"/>
+  </g>
+  <!-- Bottom-right (hearing aid) -->
+  <g>
+    <circle cx="392" cy="382" r="22" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M406 372 A7 7 0 0 1 414 372" fill="none" stroke="#e0a458" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="385" cy="377" r="2.4" fill="#2b3a42"/><circle cx="399" cy="377" r="2.4" fill="#2b3a42"/>
+    <path d="M384 391 Q392 396 400 391" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="378" y1="364" x2="320" y2="320" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Bottom -->
+  <g>
+    <circle cx="256" cy="426" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="249" cy="421" r="2.4" fill="#2b3a42"/><circle cx="263" cy="421" r="2.4" fill="#2b3a42"/>
+    <path d="M248 435 Q256 440 264 435" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="256" y1="404" x2="256" y2="348" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Bottom-left -->
+  <g>
+    <circle cx="120" cy="382" r="22" fill="#d9a06a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="113" cy="377" r="2.4" fill="#2b3a42"/><circle cx="127" cy="377" r="2.4" fill="#2b3a42"/>
+    <path d="M112 391 Q120 396 128 391" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="134" y1="364" x2="192" y2="320" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Left -->
+  <g>
+    <circle cx="74" cy="272" r="22" fill="#f0c9a5" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="67" cy="267" r="2.4" fill="#2b3a42"/><circle cx="81" cy="267" r="2.4" fill="#2b3a42"/>
+    <path d="M66 281 Q74 286 82 281" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="92" y1="274" x2="178" y2="276" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Top-left -->
+  <g>
+    <circle cx="120" cy="162" r="22" fill="#bd8a58" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="113" cy="157" r="2.4" fill="#2b3a42"/><circle cx="127" cy="157" r="2.4" fill="#2b3a42"/>
+    <path d="M112 171 Q120 176 128 171" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="134" y1="180" x2="192" y2="224" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>

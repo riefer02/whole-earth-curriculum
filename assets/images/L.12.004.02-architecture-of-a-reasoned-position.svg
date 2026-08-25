@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The architecture of a reasoned position</title>
+  <desc id="desc">A diagram of a reasoned position. At the top a box labeled "claim." Below it, two boxes labeled "grounds" and "warrant" support it with upward arrows. Under the warrant, a box labeled "backing" supports it. On the right, a box labeled "qualifier" points at the claim, and a box labeled "rebuttal" points back at the claim with an arrow. All meaning is carried by labels and arrows, so it prints clearly in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A Reasoned Position</text>
+
+  <!-- Claim -->
+  <rect x="156" y="66" width="200" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">claim</text>
+
+  <!-- Support arrows -->
+  <line x1="206" y1="118" x2="176" y2="160" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="176,160 183,152 171,150" fill="#4f6d7a"/>
+  <line x1="306" y1="118" x2="336" y2="160" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="336,160 341,150 329,152" fill="#4f6d7a"/>
+
+  <!-- Grounds -->
+  <rect x="96" y="162" width="160" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="176" y="188" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">grounds</text>
+  <text x="176" y="208" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(evidence / data)</text>
+
+  <!-- Warrant -->
+  <rect x="256" y="162" width="160" height="56" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="336" y="188" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">warrant</text>
+  <text x="336" y="208" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(the bridge)</text>
+
+  <!-- Backing under warrant -->
+  <line x1="336" y1="218" x2="336" y2="250" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="336,250 330,241 342,241" fill="#4f6d7a"/>
+  <rect x="276" y="252" width="120" height="46" rx="10" fill="#f0ede4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="336" y="280" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">backing</text>
+
+  <!-- Qualifier (right) -->
+  <rect x="376" y="66" width="120" height="46" rx="10" fill="#7a9e7e"/>
+  <text x="436" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">qualifier</text>
+  <line x1="376" y1="92" x2="360" y2="92" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="360,92 369,87 369,97" fill="#4f6d7a"/>
+
+  <!-- Rebuttal (left, pointing back) -->
+  <rect x="16" y="66" width="120" height="46" rx="10" fill="#e0a458"/>
+  <text x="76" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">rebuttal</text>
+  <line x1="136" y1="92" x2="154" y2="92" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="154,92 145,87 145,97" fill="#4f6d7a"/>
+
+  <!-- Bottom note -->
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">grounds and warrant hold the claim up;</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">qualifier states how sure; rebuttal answers the objection.</text>
+
+  <!-- People deliberating (bottom) -->
+  <g>
+    <circle cx="176" cy="420" r="18" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="170" cy="416" r="2" fill="#2b3a42"/><circle cx="182" cy="416" r="2" fill="#2b3a42"/>
+    <path d="M169 427 Q176 431 183 427" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="256" cy="420" r="18" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="250" cy="416" r="2" fill="#2b3a42"/><circle cx="262" cy="416" r="2" fill="#2b3a42"/>
+    <path d="M249 427 Q256 431 263 427" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="336" cy="420" r="18" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="330" cy="416" r="2" fill="#2b3a42"/><circle cx="342" cy="416" r="2" fill="#2b3a42"/>
+    <path d="M329 427 Q336 431 343 427" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">assembled by hearing many voices</text>
+</svg>

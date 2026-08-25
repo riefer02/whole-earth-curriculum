@@ -71,3 +71,17 @@ first, and multilingualism is held as wealth.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.12.004.01 | The Deliberative Stance | D04.S1.12.01 |
+| L.12.004.02 | The Architecture of a Reasoned Position | D04.S1.12.01 |
+| L.12.004.03 | Clarity, Care, and Integrity in Public Speech | D04.S1.12.02 |
+| L.12.004.04 | Reading Across Registers | D04.S2.12.01 |
+| L.12.004.05 | Integrating Texts Across Disciplines | D04.S2.12.01 |
+| L.12.004.06 | How Writing Systems Encode Meaning | D04.S2.12.02 |
+| L.12.004.07 | One Idea, Many Scripts | D04.S2.12.02 |
+| L.12.004.08 | Planning a Sustained, Polished Piece | D04.S3.12.01 |
+| L.12.004.09 | Drafting: Structure, Style, and Evidence | D04.S3.12.01 |
+| L.12.004.10 | Revision as Re-Seeing | D04.S3.12.01 |
+| L.12.004.11 | Writing Across Disciplines, Ethically and Precisely | D04.S3.12.02 |
+| L.12.004.12 | Language Justice: Access for Every Language | D04.S4.12.01 |
+| L.12.004.13 | Bridging Across Languages and Cultures | D04.S4.12.02 |
+| L.12.004.14 | The Many-Voiced Capstone | D04.S1.12.01, D04.S1.12.02, D04.S2.12.01, D04.S2.12.02, D04.S3.12.01, D04.S3.12.02, D04.S4.12.01, D04.S4.12.02 |

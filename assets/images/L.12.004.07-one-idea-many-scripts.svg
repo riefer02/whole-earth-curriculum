@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">One idea, many scripts</title>
+  <desc id="desc">Two panels. Top panel: the word for mother in six languages, each in its own script — English "mother," Hindi "maataa" in Devanagari, Arabic "umm," Chinese "muqin" in characters, Swahili "mama," and Māori "whaea" — with a note that they descend from one older word. Bottom panel: the word for tea split by two routes — an overland arrow labeled cha to chai (Devanagari chaay, Chinese cha), and a sea arrow labeled te to tea/thé — with a note that the word traveled two ways. Labels and transliterations carry the meaning, so it prints in grayscale.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">One Idea, Many Scripts</text>
+
+  <!-- Top panel: mother -->
+  <rect x="18" y="48" width="476" height="186" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="74" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">"mother" — one older root, many descendants</text>
+
+  <!-- Six mother cells -->
+  <g font-family="sans-serif">
+    <rect x="30" y="88" width="146" height="58" rx="8" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="103" y="114" text-anchor="middle" font-size="20" fill="#2b3a42">mother</text>
+    <text x="103" y="134" text-anchor="middle" font-size="11.5" fill="#4f6d7a">English</text>
+
+    <rect x="184" y="88" width="146" height="58" rx="8" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="257" y="114" text-anchor="middle" font-size="20" fill="#2b3a42">माता</text>
+    <text x="257" y="134" text-anchor="middle" font-size="11.5" fill="#4f6d7a">m&#257;t&#257; — Hindi</text>
+
+    <rect x="338" y="88" width="146" height="58" rx="8" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="411" y="114" text-anchor="middle" font-size="20" fill="#2b3a42">أم</text>
+    <text x="411" y="134" text-anchor="middle" font-size="11.5" fill="#4f6d7a">umm — Arabic</text>
+
+    <rect x="30" y="154" width="146" height="58" rx="8" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="103" y="180" text-anchor="middle" font-size="20" fill="#2b3a42">母亲</text>
+    <text x="103" y="200" text-anchor="middle" font-size="11.5" fill="#4f6d7a">m&#468;q&#299;n — Chinese</text>
+
+    <rect x="184" y="154" width="146" height="58" rx="8" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="257" y="180" text-anchor="middle" font-size="20" fill="#2b3a42">mama</text>
+    <text x="257" y="200" text-anchor="middle" font-size="11.5" fill="#4f6d7a">Swahili</text>
+
+    <rect x="338" y="154" width="146" height="58" rx="8" fill="#f0ede4" stroke="#4f6d7a" stroke-width="1.5"/>
+    <text x="411" y="180" text-anchor="middle" font-size="20" fill="#2b3a42">whaea</text>
+    <text x="411" y="200" text-anchor="middle" font-size="11.5" fill="#4f6d7a">M&#257;ori</text>
+  </g>
+
+  <!-- Bottom panel: tea -->
+  <rect x="18" y="246" width="476" height="206" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">"tea" — one plant, two routes</text>
+
+  <!-- Overland route (top) -->
+  <text x="40" y="304" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">overland</text>
+  <line x1="40" y1="312" x2="420" y2="312" stroke="#e0a458" stroke-width="3"/>
+  <polygon points="420,312 410,307 410,317" fill="#e0a458"/>
+  <rect x="150" y="292" width="76" height="34" rx="17" fill="#e0a458"/>
+  <text x="188" y="314" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">chai</text>
+  <text x="430" y="316" font-family="sans-serif" font-size="13" fill="#4f6d7a">चाय (ch&#257;y) · 茶 (ch&#225;)</text>
+
+  <!-- Sea route (bottom) -->
+  <text x="40" y="352" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">sea</text>
+  <line x1="40" y1="360" x2="420" y2="360" stroke="#6b93b6" stroke-width="3"/>
+  <polygon points="420,360 410,355 410,365" fill="#6b93b6"/>
+  <rect x="150" y="340" width="76" height="34" rx="17" fill="#6b93b6"/>
+  <text x="188" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">tea</text>
+  <text x="430" y="364" font-family="sans-serif" font-size="13" fill="#4f6d7a">tea · th&#233;</text>
+
+  <!-- Origin note -->
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Sinitic cha &#8594; chai (overland)  ·  Min Nan te &#8594; tea/th&#233; (by sea)</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one plant (Camellia sinensis), its name split by trade routes</text>
+
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">every word is a small map of history</text>
+</svg>
