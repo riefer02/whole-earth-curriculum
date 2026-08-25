@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Environments shape whether we move</title>
+  <desc id="d">A street scene with labeled features — a step, a ramp, a bench, a wide sidewalk, a shaded path — each marked as a help or a block to movement. A wheelchair user and a walking person are shown. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">The same street: open to some, closed to others</text>
+  <!-- skyline -->
+  <rect x="30" y="180" width="52" height="120" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="92" y="140" width="46" height="160" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="148" y="170" width="56" height="130" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <!-- sidewalk -->
+  <rect x="30" y="300" width="452" height="40" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="326" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">wide, smooth sidewalk — helps</text>
+  <!-- ramp -->
+  <path d="M214 300 L262 300 L250 256 L208 256 Z" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="230" y="246" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#222222">ramp — helps</text>
+  <!-- steps -->
+  <rect x="286" y="272" width="40" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="286" y="260" width="40" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="286" y="248" width="40" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="368" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#222222">steps, no ramp — blocks</text>
+  <!-- bench -->
+  <rect x="60" y="368" width="64" height="12" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="68" y="380" width="8" height="22" fill="#2b3a42"/>
+  <rect x="108" y="380" width="8" height="22" fill="#2b3a42"/>
+  <text x="92" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#222222">bench — helps</text>
+  <!-- tree shade -->
+  <circle cx="392" cy="180" r="30" fill="#7a9e7e" opacity="0.6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="388" y="208" width="8" height="60" fill="#2b3a42"/>
+  <text x="392" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#222222">shade — helps</text>
+  <!-- walking person -->
+  <circle cx="160" cy="372" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 382 Q150 378 160 378 Q170 378 170 382 L172 400 L166 408 L160 412 L154 408 L148 400 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  <!-- wheelchair user -->
+  <circle cx="320" cy="356" r="10" fill="#c68b6b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M312 366 Q312 362 320 362 Q328 362 328 366 L328 372 L312 372 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <circle cx="316" cy="384" r="9" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="334" cy="384" r="9" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">Design chooses who can move. Different choices widen the door.</text>
+</svg>

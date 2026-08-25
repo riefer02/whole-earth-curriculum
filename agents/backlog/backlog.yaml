@@ -6506,7 +6506,7 @@ items:
     type: lesson
     grade: 12
     domain: D03
-    status: ready
+    status: done
     priority: 170
     depends_on:
       - B-109
@@ -6517,7 +6517,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by alignment-auditor: technology/environment lens missing: only L7/L12/L13 carry it substantively; all 14 tag cross_cutting_lenses=[ethics,egalitarianism,global,critical-thinking] instead of the mandated fourth lens technology/environment; philosophy §4 requires it in each lesson. Add technology/environment lens + correct lens tags.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (1736 files); all 14 lessons now carry technology and/or environment lens (valid per schema enum); critical-thinking remains extra 5th lens, no stale-only-critical cases; spot-checked L12/L5/L1 genuine lesson-specific tech/env Facilitator sentences; no regression: Procedure/Assessment/Connection present, objectives still only the 4 D03 standards."
+      fact-checker:
+        verdict: passed
+        note: rework introduced no new factual claims or S-IDs; all 19 citations still resolve reviewed:true with titles matching usage; added tech/env lens sentences are framing/values consistent with cited authorities (WHO S-341/S-099, CRPD S-100, WCAG S-280, WDR S-281, Universal Design S-369), no new statistic; no fabricated/broken citation; validate passes 1736.
+      global-culture-editor:
+        verdict: passed
+        note: "14 added tech/env lens sentences checked: none references any nation/region/civilization; tech access actively resists universal/wealthy assumptions (L4 'must work with no device/no signal/no battery', L10 'access is uneven', L11 'survives a lost phone', L2 'device is a helper never a replacement'); assistive tech framed as 'dignity made mechanical'/'ordinary tools used worldwide' (L5/L7/L13), no pity/stereotype; environment framing global (heat/air/terrain/climates)."
+      accessibility-editor:
+        verdict: passed
+        note: "14 added tech/env sentences checked: no ableist framing ('same four blocks, differently' L9, 'must work for a body that senses differently' L4, neurodivergence 'difference not deficit' L2); no universal-device assumption (uneven access L10, 'no device/no signal/no battery' L4, 'plan lives in the life not the app' L10); assistive tech respectful non-pitying ('dignity made mechanical' L7, 'not a favor to a special few but the baseline' L13, 'environment is object of scrutiny, never the person' L12); low-tech tier + grayscale alt intact."
+      alignment-auditor:
+        verdict: passed
+        note: all 14 lessons now carry technology and/or environment lens as schema-valid tag AND substantive lesson-specific Facilitator content (technology-only L1-4/6-8/10-11, environment-only L12, both L5/9/13/14); other three lenses intact; evidence-vs-values distinguished; traceability Vision -> P2 -> D03 -> D03.S1/S2 -> 4 objectives -> U.12.002 -> 14 lessons holds; validate passes 1736.
+      child-psychologist:
+        verdict: passed
+        note: "14 added tech/env sentences checked: no body-comparison (trackers framed as coarse external helpers 'never a replacement for the sensor you are' L2, 'cannot supply the motive' L8, 'plan lives in the life not the app' L10); no screen-time shaming (descriptive/environmental, 'learning when to put the device down' as neutral skill L3); no aging/body anxiety ('change-and-adaptation not decline' L5, dignity 'not graded by ability/age/appearance/productivity' L6); anti-ableist tone preserved; band fit (systemic tech effects); no regression."
   - id: B-409
     title: Author lessons for Unit U.12.003 (Relationships, Community & Collective Care)
     agent: lesson-author

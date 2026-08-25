@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Dignity is embodied</title>
+  <desc id="d">A shield divided into three labeled fields — autonomy, consent, care — each with a short phrase: my body is mine; my yes and no matter; I tend this body with respect. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#222222">Dignity: every body carries it</text>
+  <!-- shield outline -->
+  <path d="M256 84 L384 128 L384 264 Q384 336 256 404 Q128 336 128 264 L128 128 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  <!-- three fields -->
+  <path d="M256 128 L384 128 L384 264 Q384 336 256 404 Z" fill="#e0a458" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M128 128 L256 128 L256 404 Q128 336 128 264 Z" fill="#7a9e7e" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M128 128 L384 128 L256 300 Z" fill="#6b93b6" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <!-- labels -->
+  <text x="256" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#222222">autonomy</text>
+  <text x="256" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">my body is mine</text>
+  <text x="184" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">consent</text>
+  <text x="184" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">my yes and no matter</text>
+  <text x="330" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">care</text>
+  <text x="330" y="326" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">tend with respect,</text>
+  <text x="330" y="344" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">not shame</text>
+  <text x="256" y="456" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">Worth is not earned by what a body can do.</text>
+</svg>

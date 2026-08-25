@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Movement feeds the whole person</title>
+  <desc id="d">A central circle labeled "movement" with three branches labeled physical, mental, and social, each listing short benefits like strength, mood, and belonging. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#222222">One thing feeds three kinds of health</text>
+  <!-- central circle -->
+  <circle cx="256" cy="256" r="74" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#222222">movement</text>
+  <text x="256" y="276" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">an ally, not a</text>
+  <text x="256" y="294" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">punishment</text>
+  <!-- branches -->
+  <line x1="256" y1="182" x2="256" y2="96" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="186" y1="210" x2="110" y2="160" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="326" y1="210" x2="402" y2="160" stroke="#2b3a42" stroke-width="2"/>
+  <!-- physical -->
+  <rect x="196" y="56" width="120" height="76" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">physical</text>
+  <text x="256" y="102" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">strength, endurance,</text>
+  <text x="256" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">a working heart</text>
+  <!-- mental -->
+  <rect x="44" y="120" width="120" height="76" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="104" y="144" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">mental</text>
+  <text x="104" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">mood, clearer</text>
+  <text x="104" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">head, less anxiety</text>
+  <!-- social -->
+  <rect x="348" y="120" width="120" height="76" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="408" y="144" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">social</text>
+  <text x="408" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">belonging,</text>
+  <text x="408" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">shared play</text>
+  <text x="256" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">Several mechanisms work together — never one magic chemical.</text>
+</svg>

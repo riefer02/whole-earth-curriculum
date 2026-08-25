@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A body across a lifetime</title>
+  <desc id="d">A long arc with four figures of different ages — a child, a teenager, an adult, and an older adult with a cane — each with a label beneath naming a capability and a need. One figure uses a wheelchair. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">The body changes; dignity stays</text>
+  <!-- arc path -->
+  <path d="M40 250 Q256 130 472 250" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- child -->
+  <circle cx="90" cy="196" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M74 212 Q74 204 90 204 Q106 204 106 212 L110 236 L98 248 L90 254 L82 248 L70 236 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">child — runs, climbs;</text>
+  <text x="90" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">needs rest and play</text>
+  <!-- teen -->
+  <circle cx="196" cy="146" r="17" fill="#8a5a3a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M179 163 Q179 154 196 154 Q213 154 213 163 L218 196 L206 210 L196 216 L186 210 L174 196 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="196" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">teen — grows fast;</text>
+  <text x="196" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">needs sleep and patience</text>
+  <!-- adult -->
+  <circle cx="306" cy="152" r="17" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M289 169 Q289 160 306 160 Q323 160 323 169 L328 204 L316 218 L306 224 L296 218 L284 204 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="306" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">adult — strong, steady;</text>
+  <text x="306" y="266" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">needs time to move</text>
+  <!-- older adult with cane -->
+  <circle cx="412" cy="196" r="16" fill="#c68b6b" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M396 212 Q396 204 412 204 Q428 204 428 212 L432 240 L420 252 L412 258 L404 252 L392 240 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="430" y1="216" x2="448" y2="286" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <text x="412" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">older adult — wise, patient;</text>
+  <text x="412" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">needs a rail, and is no less whole</text>
+  <!-- wheelchair user note -->
+  <text x="256" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">A body may also use a wheelchair, a cane, a hearing aid at any age —</text>
+  <text x="256" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">those are tools, not losses.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">Each stage trades one thing for another. None is the "right" body.</text>
+</svg>

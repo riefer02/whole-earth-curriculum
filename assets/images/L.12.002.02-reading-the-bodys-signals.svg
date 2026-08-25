@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Reading the body's signals</title>
+  <desc id="d">A simple body outline with labeled zones — chest, gut, jaw, hands, legs — each with example words: flutter, knot, tight, tingle, heavy. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">Where do I feel it, and what is it?</text>
+  <!-- body outline -->
+  <circle cx="256" cy="120" r="40" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M216 160 Q216 140 256 140 Q296 140 296 160 L310 300 L296 380 L256 420 L216 380 L202 300 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M216 190 Q170 220 150 300" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M296 190 Q342 220 362 300" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M226 420 L210 470" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M286 420 L302 470" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- zone markers -->
+  <circle cx="256" cy="150" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="230" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="290" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="206" cy="235" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="226" cy="425" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- labels -->
+  <text x="352" y="120" font-family="Arial, sans-serif" font-size="16" fill="#222222">jaw — tight, set</text>
+  <text x="352" y="156" font-family="Arial, sans-serif" font-size="16" fill="#222222">chest — flutter,</text>
+  <text x="352" y="174" font-family="Arial, sans-serif" font-size="16" fill="#222222">tight, hollow</text>
+  <text x="352" y="232" font-family="Arial, sans-serif" font-size="16" fill="#222222">gut — knot, drop,</text>
+  <text x="352" y="250" font-family="Arial, sans-serif" font-size="16" fill="#222222">churn</text>
+  <text x="352" y="292" font-family="Arial, sans-serif" font-size="16" fill="#222222">hands — tingle,</text>
+  <text x="352" y="310" font-family="Arial, sans-serif" font-size="16" fill="#222222">sweat, tremble</text>
+  <text x="352" y="430" font-family="Arial, sans-serif" font-size="16" fill="#222222">legs — heavy,</text>
+  <text x="352" y="448" font-family="Arial, sans-serif" font-size="16" fill="#222222">restless, still</text>
+  <text x="256" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#4f6d7a">Precision is information: name where, name what.</text>
+</svg>

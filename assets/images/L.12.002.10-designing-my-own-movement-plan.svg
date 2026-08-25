@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Designing my own movement plan</title>
+  <desc id="d">A planner grid with four columns labeled frequency, intensity, time, type, one example row, and a note row labeled "adapt when life changes." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">Four levers you can turn: F I T T</text>
+  <!-- header row -->
+  <rect x="40" y="80" width="96" height="44" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">frequency</text>
+  <rect x="148" y="80" width="96" height="44" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="196" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">intensity</text>
+  <rect x="256" y="80" width="96" height="44" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="304" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">time</text>
+  <rect x="364" y="80" width="108" height="44" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="418" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">type</text>
+  <!-- example row -->
+  <rect x="40" y="124" width="96" height="84" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">3 days</text>
+  <rect x="148" y="124" width="96" height="84" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="196" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">breathe hard,</text>
+  <text x="196" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">still talk</text>
+  <rect x="256" y="124" width="96" height="84" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="304" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">20 min</text>
+  <rect x="364" y="124" width="108" height="84" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="418" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">walk or</text>
+  <text x="418" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">dance</text>
+  <!-- adapt row -->
+  <rect x="40" y="224" width="432" height="60" rx="8" fill="#e0a458" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">adapt when life changes:</text>
+  <text x="256" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">injury · season · a move · a busier job · a new stage of life</text>
+  <text x="256" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">A plan that bends is a plan you keep.</text>
+  <!-- note -->
+  <text x="256" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">Every body is different — fit the plan to yours, not someone else's.</text>
+</svg>

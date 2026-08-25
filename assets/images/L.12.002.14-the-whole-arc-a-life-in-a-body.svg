@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The whole arc: a life in a body</title>
+  <desc id="d">Four labeled threads — body–mind, dignity, movement plan, environments — drawn as arcs meeting at a center labeled "one life in a body." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#222222">Four threads, one life</text>
+  <!-- four arcs -->
+  <path d="M96 120 Q256 40 416 120" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M416 120 Q480 256 416 392" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M416 392 Q256 472 96 392" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M96 392 Q32 256 96 120" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- thread labels -->
+  <text x="256" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">body–mind</text>
+  <text x="256" y="104" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">notice, name,</text>
+  <text x="256" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">regulate, reflect</text>
+  <text x="456" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">dignity</text>
+  <text x="456" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">every body,</text>
+  <text x="456" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">every age</text>
+  <text x="256" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">movement plan</text>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">four blocks,</text>
+  <text x="256" y="486" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">FITT, a restart</text>
+  <text x="56" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">environments</text>
+  <text x="56" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">widen the</text>
+  <text x="56" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">door</text>
+  <!-- center -->
+  <circle cx="256" cy="256" r="80" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">one life</text>
+  <text x="256" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">in a body</text>
+  <text x="256" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">write your tying sentence here</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Designing for every body</title>
+  <desc id="d">A before-and-after diagram. Before: a stairway labeled "one way in — many left out." After: the same entrance with a ramp and a handrail labeled "many ways in — every body welcome." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">One door — then many doors</text>
+  <!-- before panel -->
+  <rect x="28" y="70" width="218" height="380" rx="12" fill="#e0a458" opacity="0.18" stroke="#2b3a42" stroke-width="2"/>
+  <text x="137" y="96" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">before</text>
+  <rect x="90" y="150" width="94" height="200" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="112" y="300" width="50" height="50" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="80" y="360" width="34" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="80" y="372" width="34" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="80" y="384" width="34" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="137" y="436" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">one way in —</text>
+  <text x="137" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">many left out</text>
+  <!-- after panel -->
+  <rect x="266" y="70" width="218" height="380" rx="12" fill="#7a9e7e" opacity="0.22" stroke="#2b3a42" stroke-width="2"/>
+  <text x="375" y="96" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">after</text>
+  <rect x="328" y="150" width="94" height="200" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="350" y="300" width="50" height="50" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <!-- ramp -->
+  <path d="M318 360 L318 320 L404 320 L404 360 Z" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="326" y1="360" x2="332" y2="326" stroke="#2b3a42" stroke-width="2"/>
+  <!-- handrail -->
+  <path d="M404 320 L404 360 L428 360" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="375" y="436" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">many ways in —</text>
+  <text x="375" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">every body welcome</text>
+  <text x="256" y="482" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">A ramp is not a favor — it is a door.</text>
+</svg>

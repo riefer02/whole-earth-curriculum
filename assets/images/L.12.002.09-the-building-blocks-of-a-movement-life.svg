@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The building blocks of a movement life</title>
+  <desc id="d">Four foundation blocks labeled aerobic, strength, balance, and flexibility, each with an example activity — walk, carry, one-leg stand, stretch. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#222222">Four blocks build a movement life</text>
+  <!-- four blocks -->
+  <rect x="40" y="150" width="200" height="150" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222">aerobic</text>
+  <text x="140" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">walk, swim, dance —</text>
+  <text x="140" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">heart and breath up</text>
+  <rect x="272" y="150" width="200" height="150" rx="10" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222">strength</text>
+  <text x="372" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">carry, lift, push —</text>
+  <text x="372" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">muscles against load</text>
+  <rect x="40" y="320" width="200" height="150" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222">balance</text>
+  <text x="140" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">one-leg stand, sit-</text>
+  <text x="140" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">and-rise — steady</text>
+  <rect x="272" y="320" width="200" height="150" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222">flexibility</text>
+  <text x="372" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">stretch, reach, bend —</text>
+  <text x="372" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">full range of motion</text>
+  <text x="256" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">Balance matters more as the years pass — build it early, keep it always.</text>
+</svg>

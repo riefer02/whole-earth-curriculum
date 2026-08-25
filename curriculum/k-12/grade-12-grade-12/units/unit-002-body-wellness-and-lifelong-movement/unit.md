@@ -60,3 +60,17 @@ and the whole arc of a life.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 01 | The Body That Thinks and Feels | D03.S1.12.01 |
+| 02 | Reading the Body's Signals | D03.S1.12.01 |
+| 03 | The Stress Wave and the Return to Calm | D03.S1.12.01 |
+| 04 | A Framework I Can Carry and Explain | D03.S1.12.01 |
+| 05 | A Body Across a Lifetime | D03.S1.12.02 |
+| 06 | Dignity Is Embodied | D03.S1.12.02 |
+| 07 | Caring for Another's Body and Dignity | D03.S1.12.02 |
+| 08 | Movement Feeds the Whole Person | D03.S2.12.01 |
+| 09 | The Building Blocks of a Movement Life | D03.S2.12.01 |
+| 10 | Designing My Own Movement Plan | D03.S2.12.01 |
+| 11 | Making It Stick and Adapting | D03.S2.12.01 |
+| 12 | Environments Shape Whether We Move | D03.S2.12.02 |
+| 13 | Designing for Every Body | D03.S2.12.02 |
+| 14 | The Whole Arc: A Life in a Body | D03.S1.12.01, D03.S1.12.02, D03.S2.12.01, D03.S2.12.02 |

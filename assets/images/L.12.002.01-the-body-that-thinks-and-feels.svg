@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The body–mind loop</title>
+  <desc id="d">Two labeled circles, "body" and "mind," joined by a two-way arrow. Body signals — heartbeat, gut, breath — flow toward the mind; mind signals — thought, memory, meaning — flow back toward the body. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#222222">One loop, not two machines</text>
+  <!-- body circle -->
+  <circle cx="140" cy="250" r="92" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#222222">body</text>
+  <text x="140" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">heartbeat</text>
+  <text x="140" y="284" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">gut</text>
+  <text x="140" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">breath</text>
+  <!-- mind circle -->
+  <circle cx="372" cy="250" r="92" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#222222">mind</text>
+  <text x="372" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">thought</text>
+  <text x="372" y="284" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">memory</text>
+  <text x="372" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">meaning</text>
+  <!-- two-way arrow between circles -->
+  <line x1="232" y1="250" x2="280" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M240 250 L262 236" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M240 250 L262 264" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M272 250 L250 236" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M272 250 L250 264" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <!-- top annotation -->
+  <text x="256" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">the body shapes thought and feeling…</text>
+  <text x="256" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">…and thought shapes the body</text>
+  <text x="256" y="468" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">Notice the loop before you try to steer it.</text>
+</svg>

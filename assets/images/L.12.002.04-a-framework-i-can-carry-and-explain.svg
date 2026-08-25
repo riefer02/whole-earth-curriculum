@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A framework I can carry and explain</title>
+  <desc id="d">A four-spoke wheel with a center hub labeled "my body–mind framework" and four spokes labeled notice, name, regulate, reflect, surrounded by an outer ring labeled "explain it to others." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#222222">Notice · Name · Regulate · Reflect</text>
+  <!-- outer ring -->
+  <circle cx="256" cy="250" r="160" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="250" r="150" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 8"/>
+  <!-- hub -->
+  <circle cx="256" cy="250" r="64" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">my body–mind</text>
+  <text x="256" y="266" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">framework</text>
+  <!-- spokes -->
+  <line x1="256" y1="250" x2="256" y2="110" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="250" x2="386" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="250" x2="256" y2="390" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="250" x2="126" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <!-- spoke labels -->
+  <rect x="212" y="84" width="88" height="36" rx="8" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">notice</text>
+  <rect x="378" y="232" width="88" height="36" rx="8" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="422" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">name</text>
+  <rect x="212" y="380" width="88" height="36" rx="8" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="404" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">reflect</text>
+  <rect x="46" y="232" width="88" height="36" rx="8" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">regulate</text>
+  <!-- outer ring label -->
+  <text x="256" y="156" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">explain it to others</text>
+  <text x="256" y="458" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">If you can explain it, you own it.</text>
+</svg>

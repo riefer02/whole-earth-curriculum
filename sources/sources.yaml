@@ -1371,7 +1371,7 @@ sources:
     type: website
     url: https://www.un.org/en/about-us/universal-declaration-of-human-rights
     organization: United Nations
-    domains: [D09, D10]
+    domains: [D03, D09, D10]
     reviewed: true
     notes: "Cited in U.04.010 L03 (Dignity: Being a Person of Worth) for the shared value that every person is born with dignity and worth (Article 1), and in U.07.010 L05 (Article 1: all human beings born free and equal in dignity and rights) and U.07.010 L06 (Article 21: the right to take part in government, directly or through freely chosen representatives, with equal voting). Also cited in U.10.011 L02 (Surveillance, Freedom, and Power) for privacy as a recognized right — protection from arbitrary interference (Article 12: 'No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence'). Real UN document (1948); URL verified live (2026-08-17). Article 1, Article 12, and Article 21 texts re-verified (2026-08-18): Article 1 'All human beings are born free and equal in dignity and rights'; Article 12 affirms the right to privacy against arbitrary interference; Article 21 affirms the right to take part in government directly or through freely chosen representatives and to equal access to public service, and that the will of the people shall be the basis of authority, expressed in periodic and genuine elections by universal and equal suffrage."
 
@@ -2593,9 +2593,9 @@ sources:
     type: website
     url: https://www.w3.org/WAI/standards-guidelines/wcag/
     organization: W3C Web Accessibility Initiative (WAI)
-    domains: [D10]
+    domains: [D03, D10]
     reviewed: true
-    notes: "Cited in U.06.011 L02 (Who Gets to Use It? Technology and Fairness) as an accessibility standard. URL verified live (2026-08-18). WCAG is the international standard (WCAG 2.0/2.1/2.2; ISO/IEC 40500) explaining 'how to make web content more accessible to people with disabilities.' Supports the lesson's claim that design decisions (e.g., accessible screens) change who is included. Used as a general authority for accessibility standards, not a claim-level citation. Also cited in U.07.007 L07 (Designing for Everyone) for the WCAG four principles — perceivable, operable, understandable, robust — applied to any design."
+    notes: "Cited in U.06.011 L02 (Who Gets to Use It? Technology and Fairness) as an accessibility standard. Also cited in U.12.002 L13 (Designing for Every Body) for the four WCAG principles (perceivable, operable, understandable, robust) as a parallel to universal design. URL verified live (2026-08-18). WCAG is the international standard (WCAG 2.0/2.1/2.2; ISO/IEC 40500) explaining 'how to make web content more accessible to people with disabilities.' Supports the lesson's claim that design decisions (e.g., accessible screens) change who is included. Used as a general authority for accessibility standards, not a claim-level citation. Also cited in U.07.007 L07 (Designing for Everyone) for the WCAG four principles — perceivable, operable, understandable, robust — applied to any design."
 
   - id: S-281
     title: "World Bank — World Development Report 2016: Digital Dividends"
@@ -2603,9 +2603,9 @@ sources:
     url: https://www.worldbank.org/en/publication/wdr2016
     organization: World Bank Group
     year: 2016
-    domains: [D10]
+    domains: [D03, D10]
     reviewed: true
-    notes: "Cited in U.06.011 L02 (Who Gets to Use It? Technology and Fairness). URL verified live (2026-08-18). WDR 2016 documents that digital technologies have spread rapidly but their benefits are unevenly distributed, and that 'for digital technologies to benefit everyone everywhere requires closing the remaining digital divide, especially in internet access.' Supports the lesson's claim that access to technology varies by cost, disability, and geography, and that design and policy decisions change who is included. General authority for the access/fairness framing, not a claim-level statistic. Also cited in U.07.003 L08 (Two Kinds of Gathering: Online and Offline) for the claim that internet access varies by cost, geography, and disability — i.e., the digital divide."
+    notes: "Cited in U.06.011 L02 (Who Gets to Use It? Technology and Fairness). Also cited in U.12.002 L12 (Environments Shape Whether We Move) as the access-to-technology parallel for how design choices widen or narrow access. URL verified live (2026-08-18). WDR 2016 documents that digital technologies have spread rapidly but their benefits are unevenly distributed, and that 'for digital technologies to benefit everyone everywhere requires closing the remaining digital divide, especially in internet access.' Supports the lesson's claim that access to technology varies by cost, disability, and geography, and that design and policy decisions change who is included. General authority for the access/fairness framing, not a claim-level statistic. Also cited in U.07.003 L08 (Two Kinds of Gathering: Online and Offline) for the claim that internet access varies by cost, geography, and disability — i.e., the digital divide."
 
   - id: S-282
     title: UN Environment Programme (UNEP)
@@ -3738,9 +3738,9 @@ sources:
     author: Lisa Feldman Barrett
     year: 2017
     organization: Houghton Mifflin Harcourt
-    domains: [D01]
+    domains: [D01, D03]
     reviewed: true
-    notes: "Barrett, L. F. (2017). How Emotions Are Made: The Secret Life of the Brain. New York: Houghton Mifflin Harcourt. Verified live 2026-08-19 (lisafeldmanbarrett.com). The URL is the author's own book page and correctly describes the book. The concept of 'emotional granularity' (rich, precise emotion vocabulary enabling finer-grained emotional experience and better regulation) is correctly attributed to Barrett's constructed-emotion/emotion-concepts framework. IMPORTANT FRAMING (verified correct in the lessons): constructed-emotion theory is a debated, contested account in affective science, not settled fact — the lessons L.09.003.02 and L.09.003.03 explicitly frame it as 'one well-supported scientific account, not a creed, and not a therapy,' and state that 'no single wheel of emotions is settled fact; wheels are models.' The claim that emotional granularity is *associated with* better emotion regulation is accurate and appropriately hedged (correlational, not causal). No overstatement found."
+    notes: "Barrett, L. F. (2017). How Emotions Are Made: The Secret Life of the Brain. New York: Houghton Mifflin Harcourt. Verified live 2026-08-19 (lisafeldmanbarrett.com). Also cited in U.12.002 L01 (body–mind loop; interoception as the brain constructing feeling from bodily signals) and L02 (emotional granularity) — both framed as one respected account held as description, not ranking, consistent with the lesson's own hedges. The URL is the author's own book page and correctly describes the book. The concept of 'emotional granularity' (rich, precise emotion vocabulary enabling finer-grained emotional experience and better regulation) is correctly attributed to Barrett's constructed-emotion/emotion-concepts framework. IMPORTANT FRAMING (verified correct in the lessons): constructed-emotion theory is a debated, contested account in affective science, not settled fact — the lessons L.09.003.02 and L.09.003.03 explicitly frame it as 'one well-supported scientific account, not a creed, and not a therapy,' and state that 'no single wheel of emotions is settled fact; wheels are models.' The claim that emotional granularity is *associated with* better emotion regulation is accurate and appropriately hedged (correlational, not causal). No overstatement found."
 
   - id: S-402
     title: "Plutchik — Emotion: A Psychoevolutionary Synthesis"
