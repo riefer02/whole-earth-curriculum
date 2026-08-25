@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <title id="t">A purpose path from past through now to a Grade 12 summit</title>
+  <desc id="d">A winding path rises from a past marker on the left, through a present marker where a figure holds a compass, toward a dashed summit on the right labeled Grade 12. The dashed line shows the future is open. Labels carry the meaning, so the image prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- ground line -->
+  <path d="M40 380 Q180 340 256 320 Q330 300 400 210 Q440 160 472 120" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- past marker -->
+  <circle cx="70" cy="372" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="20" y="386" width="88" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="64" y="406" text-anchor="middle" font-size="15" fill="#222222" font-weight="600">past</text>
+  <!-- now marker + figure holding compass -->
+  <circle cx="256" cy="318" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="204" y="342" width="104" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="362" text-anchor="middle" font-size="15" fill="#222222" font-weight="600">now</text>
+  <!-- figure -->
+  <circle cx="256" cy="280" r="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 294 v40 M256 306 l-18 20 M256 306 l18 20" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- small compass in hand -->
+  <circle cx="274" cy="296" r="11" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="274" y1="296" x2="280" y2="290" stroke="#e0a458" stroke-width="2"/>
+  <!-- dashed Grade 12 summit -->
+  <circle cx="452" cy="122" r="13" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 4"/>
+  <rect x="394" y="60" width="116" height="34" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="452" y="82" text-anchor="middle" font-size="16" fill="#222222" font-weight="600">Grade 12</text>
+  <line x1="452" y1="122" x2="452" y2="96" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <!-- small sun beyond summit -->
+  <circle cx="452" cy="44" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+  <line x1="452" y1="18" x2="452" y2="10" stroke="#e0a458" stroke-width="2"/>
+  <line x1="426" y1="24" x2="420" y2="18" stroke="#e0a458" stroke-width="2"/>
+  <line x1="478" y1="24" x2="484" y2="18" stroke="#e0a458" stroke-width="2"/>
+</svg>

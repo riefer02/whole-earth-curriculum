@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <title id="t">Cooperative ownership: one member, one vote, held by accountability</title>
+  <desc id="d">A circle of six people of varied skin tones around a shared table holding a shop, a farm, and a bank, with a banner reading 'one member, one vote' above, and an outer ring labeled 'accountability' connecting them. Labels carry the meaning, so the image prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- banner -->
+  <rect x="106" y="28" width="300" height="44" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="57" text-anchor="middle" font-size="21" fill="#222222" font-weight="600">one member, one vote</text>
+  <!-- outer accountability ring -->
+  <circle cx="256" cy="286" r="180" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="8 5"/>
+  <rect x="118" y="466" width="276" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="486" text-anchor="middle" font-size="16" fill="#222222" font-weight="600">accountability</text>
+  <!-- shared table -->
+  <ellipse cx="256" cy="286" rx="118" ry="54" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- shared items on the table -->
+  <rect x="196" y="272" width="40" height="30" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M208 272 v-12 h16 v12" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="216" y="292" text-anchor="middle" font-size="9" fill="#222222">shop</text>
+  <path d="M268 272 q8 -14 26 -12 q14 2 14 12 h-40" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="290" y="290" text-anchor="middle" font-size="9" fill="#222222">farm</text>
+  <rect x="326" y="274" width="26" height="26" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="339" y="291" text-anchor="middle" font-size="9" fill="#222222">bank</text>
+  <!-- six people around the table -->
+  <g>
+    <circle cx="256" cy="196" r="14" fill="#c98a6b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 210 v18 M256 220 l-12 13 M256 220 l12 13" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <circle cx="372" cy="240" r="14" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M372 254 v16 M372 262 l-11 12 M372 262 l11 12" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <circle cx="372" cy="340" r="14" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M372 326 v-16 M372 316 l-11 -12 M372 316 l11 -12" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <circle cx="256" cy="384" r="14" fill="#b47a55" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 370 v-18 M256 360 l-12 -13 M256 360 l12 -13" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <circle cx="140" cy="340" r="14" fill="#6b4a3a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M140 326 v-16 M140 316 l-11 -12 M140 316 l11 -12" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g>
+    <circle cx="140" cy="240" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M140 254 v16 M140 262 l-11 12 M140 262 l11 12" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

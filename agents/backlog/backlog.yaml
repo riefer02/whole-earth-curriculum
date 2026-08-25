@@ -6432,7 +6432,7 @@ items:
     type: lesson
     grade: 11
     domain: D01
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6444,6 +6444,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (1708 files); 7 lessons L.11.012.01-07 kind:lesson, unit U.11.012, objectives confined to the 4 standards, all 4 covered (D01.S2.11.01 L1/L2/L7, D01.S3.11.02 L3/L7, D02.S3.11.02 L4/L7, D02.S4.11.02 L5/L6/L7); Procedure/Assessment/Connection present in all; unit.md table lists 7 matching; 7 SVG paths resolve with non-empty alt.
+      fact-checker:
+        verdict: passed
+        note: all 22 S-IDs resolve to reviewed:true entries; spot-checked S-486 ICA (3M co-ops / 12% humanity / 1895), S-400 Damon (1-in-5 purpose), S-487 Mondragon, S-163 Kropotkin 1902, S-164 communal-work traditions (harambee/gotong royong/mink'a-minga/barn raising), S-399 Markus&Nurius 1986, S-404 McAdams 2001, S-039, S-228, S-223, S-232 Tajfel, S-416 Ostrom, S-008 Escuela Nueva, S-009 TaRL; Dweck S-096 hedged w/ replication cautions; S-415 Anderson framed as description; S-158 UNESCO as value; no fabricated citations.
+      global-culture-editor:
+        verdict: passed
+        note: no narrow default; explicit global/anthropological lens per lesson; L3 Escuela Nueva (Colombia) + Pratham TaRL (India); L5 Mondragon (Basque) + ICA co-ops + Ostrom commons 'not a Western invention, on every continent'; L6 harambee (East Africa)/gotong royong (Indonesia)/mink'a-minga (Andes)/barn raising (North America) each as one named tradition, never 'all people'; regional terms correctly attributed; mutual-aid vs charity held as description not value verdict; no misrepresentation/stereotyping.
+      accessibility-editor:
+        verdict: passed
+        note: all 7 lessons declare materials/materials_low_tech/materials_enriched with universal low-tech fallback (paper/voice/found objects, no electricity/device/money); 5-way context_variants; all 7 SVGs role=img + aria-labelledby + title + desc, grayscale-safe, no red/green-only, varied skin tones, wheelchair user in L4; non-empty alt all 7; Support/Access/Alternative expression + tactile alternatives (sticks/stones/cords/paper) and non-oral options in every lesson.
+      alignment-auditor:
+        verdict: passed
+        note: "all four lenses present (ethics/egalitarianism/global strong in all 7; technology/environment lighter but present: environment in L7 stewardship + living tree, tech in L2/L3/L4/L7); traceability objectives -> D01.S2.11.01/D01.S3.11.02/D02.S3.11.02/D02.S4.11.02 -> D01/D02 -> P1 -> vision, all resolve; evidence-vs-value explicit + S-coded sources; no hierarchy/supremacy/enrichment-of-few (L5 examines concentration of ownership)."
+      child-psychologist:
+        verdict: passed
+        note: "grade 11 (16-17): narrative identity (McAdams), possible selves (Markus&Nurius), cooperative ownership (Ostrom/ICA/Mondragon) at mature formal operations, learner-first prose + worked examples (S-011); purpose framed as revisable 'not a verdict'/'a seed is enough'/'allowed not to know yet' (Damon 1-in-5 normalizes uncertainty); sharing voluntary (L7 'presence is enough'); no forced 'one big happy family' (L4 names edges honestly); authorship self-chosen and scaffolded; inquiry over creed (values weighed not asserted); kinesthetic/outdoor optional; Grade 10 spiral anchors cited per lesson."
   - id: B-407
     title: Author lessons for Unit U.12.001 (Feelings, Identity & Purpose)
     agent: lesson-author

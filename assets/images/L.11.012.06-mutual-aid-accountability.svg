@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <title id="t">Mutual aid wrapped in a plan-act-check-adjust accountability loop</title>
+  <desc id="d">Five people in a circle, each handing something forward — food, a tool, a book, a blanket, a cup of water — with curved arrows flowing both directions, and a four-step loop labeled plan, act, check, adjust wrapped around the outside. Labels carry the meaning, so the image prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- outer accountability loop -->
+  <rect x="36" y="36" width="90" height="34" rx="7" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="81" y="59" text-anchor="middle" font-size="16" fill="#222222" font-weight="600">plan</text>
+  <rect x="386" y="36" width="90" height="34" rx="7" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="431" y="59" text-anchor="middle" font-size="16" fill="#222222" font-weight="600">act</text>
+  <rect x="386" y="442" width="90" height="34" rx="7" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="431" y="465" text-anchor="middle" font-size="16" fill="#222222" font-weight="600">check</text>
+  <rect x="36" y="442" width="90" height="34" rx="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="81" y="465" text-anchor="middle" font-size="16" fill="#222222" font-weight="600">adjust</text>
+  <!-- loop arrows -->
+  <path d="M126 53 H344 a16 16 0 0 1 16 16 V53" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="386,53 366,59 376,41" fill="#4f6d7a"/>
+  <path d="M431 70 V420 a16 16 0 0 1 -16 16 H140 a16 16 0 0 0 -16 16 V459" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="108,459 114,439 132,449" fill="#4f6d7a"/>
+  <path d="M126 459 H344 a16 16 0 0 1 16 16 V459" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="386,459 366,465 376,447" fill="#4f6d7a"/>
+  <path d="M81 442 V96 a16 16 0 0 1 16 -16 H412 a16 16 0 0 0 16 -16 V70" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="414,70 408,90 392,80" fill="#4f6d7a"/>
+
+  <!-- center circle of five people passing things -->
+  <circle cx="256" cy="256" r="112" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="4 4"/>
+  <!-- heart at center -->
+  <path d="M256 236 c-8 -10 -22 -6 -22 6 c0 12 22 22 22 22 c0 0 22 -10 22 -22 c0 -12 -14 -16 -22 -6 z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <!-- person top passing food -->
+  <g>
+    <circle cx="256" cy="164" r="14" fill="#c98a6b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 178 v22 M256 188 l-12 12 M256 188 l12 12" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="272" y="176" width="20" height="16" rx="2" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- person upper right passing tool -->
+  <g>
+    <circle cx="336" cy="210" r="14" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M336 224 v18 M336 233 l-11 11 M336 233 l11 11" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="352" y1="220" x2="368" y2="204" stroke="#2b3a42" stroke-width="3"/>
+  </g>
+  <!-- person lower right passing book -->
+  <g>
+    <circle cx="336" cy="302" r="14" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M336 288 v-18 M336 279 l-11 -11 M336 279 l11 -11" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="350" y="290" width="18" height="14" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- person bottom passing blanket -->
+  <g>
+    <circle cx="256" cy="348" r="14" fill="#b47a55" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 334 v-22 M256 324 l-12 -12 M256 324 l12 -12" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="238" y="300" width="26" height="18" rx="3" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- person lower left passing cup -->
+  <g>
+    <circle cx="176" cy="302" r="14" fill="#6b4a3a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M176 288 v-18 M176 279 l-11 -11 M176 279 l11 -11" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M158 292 h12 v10 h-12 z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- person upper left passing (blanket/other) -->
+  <g>
+    <circle cx="176" cy="210" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M176 224 v18 M176 233 l-11 11 M176 233 l11 11" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- two-way arrows around the ring -->
+  <path d="M232 172 a104 104 0 0 1 88 22" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="322,196 306,194 314,184" fill="#4f6d7a"/>
+  <path d="M320 340 a104 104 0 0 1 -88 -22" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <polygon points="190,316 206,318 198,328" fill="#4f6d7a"/>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <title id="t">A contribution that closes the circle of belonging</title>
+  <desc id="d">A ring of people with a gap, and one figure placing a labeled block — my contribution — into the gap to close the circle. The people have varied skin tones, and one uses a wheelchair. Labels carry the meaning, so the image prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- circle of people around center -->
+  <!-- person 1 top -->
+  <g>
+    <circle cx="256" cy="84" r="13" fill="#c98a6b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 97 v30 M256 110 l-14 16 M256 110 l14 16" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- person 2 upper right -->
+  <g>
+    <circle cx="390" cy="128" r="13" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M390 141 v28 M390 154 l-14 15 M390 154 l14 15" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- person 3 right, wheelchair -->
+  <g>
+    <circle cx="428" cy="256" r="13" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M428 269 v22" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <rect x="408" y="291" width="42" height="24" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="414" cy="318" r="7" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="444" cy="318" r="7" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+  <!-- person 4 lower right -->
+  <g>
+    <circle cx="390" cy="384" r="13" fill="#6b4a3a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M390 397 v24 M390 409 l-14 14 M390 409 l14 14" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- person 5 bottom -->
+  <g>
+    <circle cx="256" cy="428" r="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 441 v22 M256 452 l-14 12 M256 452 l14 12" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- person 6 lower left -->
+  <g>
+    <circle cx="122" cy="384" r="13" fill="#b47a55" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M122 397 v24 M122 409 l-14 14 M122 409 l14 14" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- person 7 left -->
+  <g>
+    <circle cx="84" cy="256" r="13" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M84 269 v22 M84 280 l-13 15 M84 280 l13 15" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- person 8 upper left -->
+  <g>
+    <circle cx="122" cy="128" r="13" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M122 141 v26 M122 153 l-14 15 M122 153 l14 15" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- the gap, with a contribution block being placed -->
+  <rect x="176" y="168" width="160" height="54" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="201" text-anchor="middle" font-size="18" fill="#222222" font-weight="600">my contribution</text>
+  <!-- figure placing the block -->
+  <circle cx="256" cy="152" r="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 164 v24 M256 176 l-13 14 M256 176 l13 14" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="256" y1="176" x2="256" y2="168" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- center label -->
+  <text x="256" y="262" text-anchor="middle" font-size="15" fill="#222222">belonging</text>
+</svg>

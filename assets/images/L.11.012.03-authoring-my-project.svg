@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <title id="t">The authorship loop: commit, plan, act, check and adjust</title>
+  <desc id="d">A four-step loop with arrows — commit, plan, act, check and adjust — and a small figure at the check step holding a pencil. The loop belongs to the learner. Labels carry the meaning, so the image prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- four step boxes around a loop -->
+  <rect x="56" y="56" width="140" height="66" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="126" y="95" text-anchor="middle" font-size="22" fill="#222222" font-weight="600">commit</text>
+
+  <rect x="316" y="56" width="140" height="66" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="386" y="95" text-anchor="middle" font-size="22" fill="#222222" font-weight="600">plan</text>
+
+  <rect x="316" y="390" width="140" height="66" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="386" y="429" text-anchor="middle" font-size="22" fill="#222222" font-weight="600">act</text>
+
+  <rect x="56" y="390" width="140" height="66" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="126" y="420" text-anchor="middle" font-size="20" fill="#222222" font-weight="600">check &amp;</text>
+  <text x="126" y="442" text-anchor="middle" font-size="20" fill="#222222" font-weight="600">adjust</text>
+
+  <!-- arrows -->
+  <path d="M196 89 H250 a20 20 0 0 1 20 20 V66" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="316,66 296,72 306,54" fill="#4f6d7a"/>
+  <path d="M386 122 V240 a20 20 0 0 1 -20 20 H130 a20 20 0 0 0 -20 20 V378" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="124,390 118,370 140,380" fill="#4f6d7a"/>
+  <path d="M196 423 H250 a20 20 0 0 1 20 20 V446" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="316,446 296,452 306,434" fill="#4f6d7a"/>
+  <path d="M126 390 V280 a20 20 0 0 1 20 -20 H382 a20 20 0 0 0 20 -20 V132" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="388,122 382,142 366,132" fill="#4f6d7a"/>
+
+  <!-- figure at the check step holding a pencil -->
+  <circle cx="256" cy="356" r="15" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 371 v34 M256 383 l-17 19 M256 383 l17 19" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="271" y1="347" x2="292" y2="326" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="292,326 285,322 295,318" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+</svg>

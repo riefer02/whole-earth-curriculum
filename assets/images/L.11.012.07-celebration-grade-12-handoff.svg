@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <title id="t">Celebration and the Grade 12 handoff</title>
+  <desc id="d">A diverse circle of people joins hands around a living tree on a green hill, a rising sun glowing behind them, with stepping stones leading toward the words 'Grade 12'. A calm, hopeful scene of community standing together and stepping toward the capstone year. Labels carry the meaning, so the image prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- sun -->
+  <circle cx="256" cy="86" r="44" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="26" x2="256" y2="14" stroke="#e0a458" stroke-width="3"/>
+  <line x1="210" y1="38" x2="202" y2="28" stroke="#e0a458" stroke-width="3"/>
+  <line x1="302" y1="38" x2="310" y2="28" stroke="#e0a458" stroke-width="3"/>
+  <!-- green hill -->
+  <path d="M0 440 Q128 380 256 396 Q384 412 512 380 L512 512 L0 512 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- tree trunk and canopy -->
+  <rect x="248" y="300" width="16" height="80" rx="4" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="286" r="52" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="224" cy="308" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="288" cy="308" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- circle of people holding hands around the tree -->
+  <g>
+    <circle cx="256" cy="452" r="13" fill="#c98a6b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M256 465 v22" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="160" cy="452" r="13" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M160 465 v22" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="352" cy="452" r="13" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M352 465 v22" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="116" cy="414" r="12" fill="#b47a55" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M116 426 v18" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="396" cy="414" r="12" fill="#6b4a3a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M396 426 v18" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <!-- joined hands lines -->
+  <path d="M128 436 q44 34 128 34" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M384 436 q-44 34 -128 34" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <!-- stepping stones toward Grade 12 -->
+  <ellipse cx="452" cy="360" rx="18" ry="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="480" cy="330" rx="16" ry="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="452" y="168" width="116" height="36" rx="7" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="510" y="192" text-anchor="middle" font-size="17" fill="#222222" font-weight="600">Grade 12</text>
+  <line x1="488" y1="204" x2="486" y2="328" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="4 4"/>
+</svg>

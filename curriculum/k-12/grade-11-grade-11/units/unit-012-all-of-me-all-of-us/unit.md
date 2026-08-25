@@ -60,3 +60,10 @@ sense of who they are and how they will act in the world.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Values, Purpose, and a Meaningful Life | D01.S2.11.01 |
+| 2 | The Purpose Story, Carried into Grade 12 | D01.S2.11.01 |
+| 3 | Authoring My Project: A Commitment I See Through | D01.S3.11.02 |
+| 4 | Strengthening Belonging: A Contribution I Can Plan | D02.S3.11.02 |
+| 5 | Cooperative Ownership: Deciding and Sharing Together | D02.S4.11.02 |
+| 6 | Mutual Aid with Accountability: Beginning a Sustained Effort | D02.S4.11.02 |
+| 7 | All of Us: Celebration and the Grade-12 Handoff | D01.S2.11.01, D01.S3.11.02, D02.S3.11.02, D02.S4.11.02 |
