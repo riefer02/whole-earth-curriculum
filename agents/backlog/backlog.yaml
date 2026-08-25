@@ -6802,7 +6802,7 @@ items:
     type: lesson
     grade: 12
     domain: D09
-    status: ready
+    status: done
     priority: 170
     depends_on:
       - B-109
@@ -6814,6 +6814,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate 1844; all 14 lessons have Procedure/Assessment/Facilitator note/Connection + materials_low_tech + Number access (dyscalculia) + Communication access (14/14 each); objectives resolve to real D09 grade-12 standards (L5->S2.12.01 'weigh contested question of justice/rights...'), all 8 covered; unit.md table lists 14 matching; 57 distinct S-IDs resolve; questions held as questions (no verdict asserted, no partisan/political path prescribed); peacemaking restorative not retaliatory (repair never retaliation, accountability != punishment); L13 Connection faithful to S4.12.01 + guards against re-traumatizing; non-blocking cosmetic: L14 Close labeled 0 min."
+      fact-checker:
+        verdict: passed
+        note: "All 57 cited S-IDs resolve (none fabricated). Spot-checked highest-risk claims accurate: UDHR Art 13-14/21 (S-149), Rawls (S-459), Sen (S-460), restorative justice Zehr (S-161)/IIRP (S-022), TRC South Africa 1996-98 (S-392), Chipko (S-328), Salt March (S-390), Brundtland 1987 (S-395), IPCC (S-005), environmental justice (S-483/S-484/S-485), communal work harambee/gotong royong/mink'a (S-164), Galtung (S-462); evidence vs values consistently distinguished. Fixed: S-466 (SEP Mohism) was reviewed:false while cited in L2 — verified live and marked reviewed:true. validate 1844."
+      global-culture-editor:
+        verdict: passed
+        note: "No single political-tradition default; L2 maps lenses to Mohism (S-466), Buddhist ethics (S-467), Confucian role ethics (S-468), dharma (S-469) 'not property of one culture'; L5 African Charter framed as amending/extending rights not developing toward Western model; L6 'not treat one place's framing as universal', L11 'no single country's way is the model'; representation: harambee (Kenya), gotong royong (Indonesia), mink'a (Andes) alongside barn-raising/Mondragon without privilege, Chipko, Salt March, woman suffrage, Indigenous restorative lineage honored, TRC South Africa, Red Cross+Red Crescent; accuracy respectful; no ranking; validate clean."
+      accessibility-editor:
+        verdict: passed
+        note: Low-tech tier in all 14 (paper/stones/seeds/chalk/talking objects; enriched items optional with paper/voice fallback); Communication access non-oral every lesson (write/sign/gesture/AAC; L13 peacemaking circle passing to written/signed turn, L6 steelman deliberation uses talking-object + written so reasoning not volume carries turn); Number access dyscalculia (L5 displacement/rights figures, L7 inequality figures offloaded to pre-printed sheet, no computation); alt text + SVGs role=img/title/desc/grayscale-safe (labels not color); UDL context_variants + plain low-jargon language; validate 1844.
+      alignment-auditor:
+        verdict: passed
+        note: All four lenses in frontmatter + Facilitator paragraphs of all 14; ethics genuine (weigh consequences/duties/character, defended nuanced position, restorative justice accountability != punishment, refuses to prescribe verdict 'inquiry over creed'); egalitarianism (who benefits/left out/voice least heard, agency never ranked by power, mutual aid not charity); global (Mohism, Confucian role ethics, dharma, African Charter, Chipko, harambee/gotong royong/mink'a, TRC; US sources cited as sources not default); technology+environment (surveillance, data platforms, media, digital divide, environmental justice cases); evidence vs values (56 S-IDs verified, facts separated from norms); traceability D09.S*.12.* -> D09(P4) -> vision; validate 1844.
+      child-psychologist:
+        verdict: passed
+        note: "Grade 12 (17-18) mature formal operations: weighing consequentialism/deontology/virtue, steelmanning, evidence-vs-values, anchored in concrete worked examples (whistleblower, Chipko, TRC); emotional safety: no-clean-answer dilemmas 'reasoned not solved' with 'what stays unsettled'; L3 privacy guard (reflection not confession), L11 no prescribed political path, contested positions assessed on accounting for perspectives; taking-responsibility framed accountability-as-offered-gift not shame, role-play restricted to mild/non-traumatic harms; agency size-neutral ('don't grade on size of action', honesty not failure, hope+honesty not nihilism); physical fit seated/optional/adapted with number+communication access; open-ended, no creed/partisan; validate 1844."
   - id: B-417
     title: Author lessons for Unit U.12.011 (Technology, Media & the Living Earth)
     agent: lesson-author

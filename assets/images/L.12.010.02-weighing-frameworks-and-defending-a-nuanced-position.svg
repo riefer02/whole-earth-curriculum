@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Weighing Frameworks and Defending a Nuanced Position</title>
+  <desc id="desc">Three overlapping circles labeled "consequences," "duties," and "character," each with one guiding question written inside. In the overlap at center, a box reads "defend a nuanced position." Below: "weigh all three — notice where they conflict, and name what each leaves out." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42" font-weight="bold">Weighing Frameworks</text>
+
+  <!-- three circles -->
+  <circle cx="176" cy="200" r="104" fill="none" stroke="#6b93b6" stroke-width="4"/>
+  <circle cx="336" cy="200" r="104" fill="none" stroke="#e0a458" stroke-width="4"/>
+  <circle cx="256" cy="288" r="104" fill="none" stroke="#7a9e7e" stroke-width="4"/>
+
+  <text x="140" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">consequences</text>
+  <text x="140" y="180" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">what happens?</text>
+
+  <text x="372" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">duties</text>
+  <text x="372" y="180" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">what is owed?</text>
+
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">character</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">who am I becoming?</text>
+
+  <!-- center -->
+  <rect x="196" y="228" width="120" height="40" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="253" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">defend a nuanced position</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Weigh all three — notice where they conflict,</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">and name what each leaves out.</text>
+</svg>

@@ -74,3 +74,17 @@ as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.12.010.01 | Reasoning Through a Real Moral Dilemma | D09.S1.12.01 |
+| L.12.010.02 | Weighing Frameworks and Defending a Nuanced Position | D09.S1.12.01 |
+| L.12.010.03 | How My Values Formed | D09.S1.12.02 |
+| L.12.010.04 | Testing My Values in the World | D09.S1.12.02 |
+| L.12.010.05 | Weighing a Contested Question of Justice and Rights | D09.S2.12.01 |
+| L.12.010.06 | Defending a Reasoned Position Across Perspectives | D09.S2.12.01 |
+| L.12.010.07 | My Responsibilities to Fairness and Justice | D09.S2.12.02 |
+| L.12.010.08 | How I Will Act | D09.S2.12.02 |
+| L.12.010.09 | Researching, Building Coalitions, Listening | D09.S3.12.01 |
+| L.12.010.10 | Acting Collectively for a Fairer Common Life | D09.S3.12.01 |
+| L.12.010.11 | My Role in Public Life | D09.S3.12.02 |
+| L.12.010.12 | A Vision for a More Just, Sustainable World | D09.S3.12.02 |
+| L.12.010.13 | Listening, Taking Responsibility, Repairing | D09.S4.12.01 |
+| L.12.010.14 | Contributing to Peace and Repair with Honesty and Hope | D09.S4.12.02 |

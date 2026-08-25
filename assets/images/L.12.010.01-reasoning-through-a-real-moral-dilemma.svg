@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Reasoning Through a Real Moral Dilemma</title>
+  <desc id="desc">A path that splits into three branches, each labeled with a different choice and a cost. A sign at the fork reads "no clean answer." Below, a box lists the reasoning frame: options, who is affected, consequences, duties, character, and what stays unsettled. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42" font-weight="bold">Reasoning Through a Real Moral Dilemma</text>
+
+  <!-- path -->
+  <path d="M256 120 Q256 150 160 190" fill="none" stroke="#4f6d7a" stroke-width="6"/>
+  <path d="M256 120 Q256 150 256 196" fill="none" stroke="#4f6d7a" stroke-width="6"/>
+  <path d="M256 120 Q256 150 352 190" fill="none" stroke="#4f6d7a" stroke-width="6"/>
+  <circle cx="256" cy="120" r="6" fill="#2b3a42"/>
+
+  <!-- branch labels -->
+  <text x="160" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">stay silent</text>
+  <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">speak out</text>
+  <text x="352" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">work within</text>
+  <text x="160" y="228" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">cost: the harm goes on</text>
+  <text x="256" y="228" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">cost: safety and belonging</text>
+  <text x="352" y="228" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">cost: slow, harm persists</text>
+
+  <!-- sign -->
+  <rect x="176" y="68" width="160" height="34" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">no clean answer</text>
+
+  <!-- reasoning frame -->
+  <rect x="46" y="270" width="420" height="184" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">The reasoning frame</text>
+  <text x="62" y="330" font-family="sans-serif" font-size="13" fill="#222222">name the dilemma and list the options</text>
+  <text x="62" y="354" font-family="sans-serif" font-size="13" fill="#222222">who is affected, and how</text>
+  <text x="62" y="378" font-family="sans-serif" font-size="13" fill="#222222">consequences — duties — character</text>
+  <text x="62" y="402" font-family="sans-serif" font-size="13" fill="#222222">what stays unsettled</text>
+  <text x="62" y="434" font-family="sans-serif" font-size="12" fill="#4f6d7a">A dilemma is reasoned, not solved.</text>
+
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Every option leaves something important undone.</text>
+</svg>

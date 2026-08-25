@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Researching, Building Coalitions, Listening</title>
+  <desc id="desc">Three connected steps in a loop: "research the issue," "build a coalition," "listen across disagreement." Arrows run between them. A footer reads "the habits of an engaged citizen." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42" font-weight="bold">The Habits of an Engaged Citizen</text>
+
+  <!-- three nodes in a loop -->
+  <rect x="166" y="90" width="180" height="56" rx="28" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <text x="256" y="123" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">research the issue</text>
+
+  <rect x="40" y="240" width="180" height="56" rx="28" fill="none" stroke="#6b93b6" stroke-width="4"/>
+  <text x="130" y="273" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">build a coalition</text>
+
+  <rect x="292" y="240" width="180" height="56" rx="28" fill="none" stroke="#7a9e7e" stroke-width="4"/>
+  <text x="382" y="273" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">listen across disagreement</text>
+
+  <!-- arrows -->
+  <path d="M226 146 Q130 160 130 240" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+  <path d="M286 146 Q382 160 382 240" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+  <path d="M220 268 Q256 300 292 268" fill="none" stroke="#4f6d7a" stroke-width="4"/>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Coalitions are built by listening, not by sameness.</text>
+</svg>

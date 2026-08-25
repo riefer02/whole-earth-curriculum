@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Listening, Taking Responsibility, Repairing</title>
+  <desc id="desc">A circle of diverse figures seated together, a talking object at center. Around the circle, three steps are labeled: "listen — what happened," "take responsibility — who was harmed and how," "repair — what will make it right." A footer reads "repair, never retaliation." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42" font-weight="bold">Listening, Taking Responsibility, Repairing</text>
+
+  <!-- circle of figures -->
+  <circle cx="256" cy="250" r="120" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="6 6"/>
+
+  <!-- talking object -->
+  <circle cx="256" cy="250" r="14" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="255" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">voice</text>
+
+  <!-- figures -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <circle cx="256" cy="130" r="9"/><line x1="256" y1="139" x2="256" y2="158"/>
+    <circle cx="150" cy="168" r="9"/><line x1="150" y1="177" x2="150" y2="196"/>
+    <circle cx="150" cy="332" r="9"/><line x1="150" y1="341" x2="150" y2="360"/>
+    <circle cx="256" cy="370" r="9"/><line x1="256" y1="379" x2="256" y2="398"/>
+    <circle cx="362" cy="332" r="9"/><line x1="362" y1="341" x2="362" y2="360"/>
+    <circle cx="362" cy="168" r="9"/><line x1="362" y1="177" x2="362" y2="196"/>
+  </g>
+
+  <!-- three steps -->
+  <text x="44" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">listen —</text>
+  <text x="44" y="138" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">what happened</text>
+  <text x="44" y="248" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42" font-weight="bold">take responsibility —</text>
+  <text x="44" y="266" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">who was harmed, and how</text>
+  <text x="44" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">repair —</text>
+  <text x="44" y="394" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">what will make it right</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Repair, never retaliation — a peacemaker listens first.</text>
+</svg>
