@@ -71,3 +71,17 @@ met as living traditions to honor with respectful questions, never as specimens.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.12.007.01 | Building a Body of Artwork: Skill and Vision | D07.S1.12.01 |
+| L.12.007.02 | The Artist Statement | D07.S1.12.01 |
+| L.12.007.03 | Critiquing Artwork Across Cultures and Eras | D07.S1.12.02 |
+| L.12.007.04 | Forming and Defending an Independent Judgment | D07.S1.12.02 |
+| L.12.007.05 | A Sustained Body of Music: Skill and Voice | D07.S2.12.01 |
+| L.12.007.06 | The Written Statement for Music | D07.S2.12.01 |
+| L.12.007.07 | Critiquing Music Across Cultures and Eras | D07.S2.12.02 |
+| L.12.007.08 | Independent Judgment in Music | D07.S2.12.02 |
+| L.12.007.09 | A Sustained Performance: Skill and Vision | D07.S3.12.01 |
+| L.12.007.10 | The Performance Artist Statement | D07.S3.12.01 |
+| L.12.007.11 | Critiquing Performance Across Cultures and Eras | D07.S3.12.02 |
+| L.12.007.12 | Independent Judgment in Performance | D07.S3.12.02 |
+| L.12.007.13 | Designing and Realizing a Substantial Project | D07.S4.12.01 |
+| L.12.007.14 | Evaluating Design Across Cultures and Eras | D07.S4.12.02 |

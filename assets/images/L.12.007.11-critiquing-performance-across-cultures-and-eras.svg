@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The performance ladder: describe, analyze, interpret, evaluate</title>
+  <desc id="desc">A four-rung ladder labeled, from bottom to top: describe, analyze, interpret, evaluate. Beside it a small human figure in motion with an arrow pointing up the ladder. Labels carry the meaning, so it prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">The Performance Ladder</text>
+
+  <!-- Figure in motion -->
+  <g>
+    <circle cx="414" cy="116" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="414" y1="130" x2="414" y2="182" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="414" y1="150" x2="376" y2="126" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="414" y1="150" x2="452" y2="128" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="414" y1="182" x2="382" y2="214" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <line x1="414" y1="182" x2="444" y2="212" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <path d="M414 220 L340 300" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Ladder rails -->
+  <line x1="150" y1="96" x2="150" y2="440" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <line x1="300" y1="96" x2="300" y2="440" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+
+  <line x1="150" y1="120" x2="300" y2="120" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <text x="150" y="200" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">describe</text>
+
+  <line x1="150" y1="230" x2="300" y2="230" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <text x="150" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">analyze</text>
+
+  <line x1="150" y1="340" x2="300" y2="340" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <text x="150" y="400" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">interpret</text>
+
+  <line x1="150" y1="440" x2="300" y2="440" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+  <text x="150" y="478" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">evaluate</text>
+</svg>
