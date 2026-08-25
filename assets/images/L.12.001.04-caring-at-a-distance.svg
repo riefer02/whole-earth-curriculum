@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Circles of care</title>
+  <desc id="d">Concentric circles labeled self, family, community, humanity, living world, with a small labeled arrow "concern → action" and a note "not swamped." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#222222">Circles of care</text>
+  <!-- concentric circles -->
+  <circle cx="256" cy="250" r="180" fill="#7a9e7e" opacity="0.12" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="250" r="140" fill="#6b93b6" opacity="0.12" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="250" r="100" fill="#e0a458" opacity="0.15" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="250" r="60" fill="#4f6d7a" opacity="0.15" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="250" r="22" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <!-- labels -->
+  <text x="256" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">self</text>
+  <text x="256" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">family</text>
+  <text x="256" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">community</text>
+  <text x="256" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">humanity</text>
+  <text x="256" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">living world</text>
+  <!-- arrow -->
+  <line x1="150" y1="452" x2="360" y2="452" stroke="#2b3a42" stroke-width="2" marker-end="url(#b)"/>
+  <text x="255" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">concern → action</text>
+  <defs>
+    <marker id="b" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+  <text x="256" y="504" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">stay moved, not swamped</text>
+</svg>

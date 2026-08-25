@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The plan and the promise</title>
+  <desc id="d">A path with a labeled starting point "first step," three labeled milestone markers, and a labeled goal at the end, with a small loop labeled "accountability check" beside the path. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#222222">The plan and the promise</text>
+  <!-- path -->
+  <line x1="64" y1="330" x2="440" y2="330" stroke="#2b3a42" stroke-width="3"/>
+  <!-- first step -->
+  <circle cx="88" cy="330" r="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="296" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">first step</text>
+  <!-- milestones -->
+  <rect x="164" y="306" width="20" height="48" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="244" y="306" width="20" height="48" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="324" y="306" width="20" height="48" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="174" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">milestone</text>
+  <text x="254" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">milestone</text>
+  <text x="334" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">milestone</text>
+  <!-- goal -->
+  <circle cx="424" cy="330" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="424" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">goal</text>
+  <!-- accountability loop -->
+  <path d="M440 330 C470 330 470 220 420 220 C380 220 380 290 360 290" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
+  <text x="452" y="240" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">accountability</text>
+  <text x="452" y="258" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">check</text>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">"if ___ happens, then I will ___"</text>
+</svg>

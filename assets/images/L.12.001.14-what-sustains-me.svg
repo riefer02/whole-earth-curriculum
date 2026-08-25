@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">What sustains me</title>
+  <desc id="d">A standing figure holding four labeled anchors — people, practices, values, hope — with a small storm cloud to one side. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#222222">What sustains me</text>
+  <!-- storm cloud -->
+  <ellipse cx="420" cy="100" rx="44" ry="24" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="392" cy="112" rx="30" ry="18" fill="#6b93b6" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <!-- figure -->
+  <circle cx="256" cy="180" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M226 360 Q256 210 286 360" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <!-- arms -->
+  <line x1="226" y1="300" x2="150" y2="280" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="286" y1="300" x2="362" y2="280" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- anchors -->
+  <rect x="56" y="266" width="120" height="52" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="116" y="297" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">people</text>
+  <rect x="336" y="266" width="120" height="52" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="396" y="297" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">practices</text>
+  <rect x="56" y="404" width="120" height="52" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="116" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">values</text>
+  <rect x="336" y="404" width="120" height="52" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="396" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">hope</text>
+  <!-- ground -->
+  <line x1="80" y1="480" x2="432" y2="480" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="506" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">name them, so they are there when you need them</text>
+</svg>

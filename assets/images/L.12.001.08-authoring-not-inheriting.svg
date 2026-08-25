@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Authoring, not inheriting</title>
+  <desc id="d">A map with labeled forces on the left — family, culture, place, peers, media — pointing to three labeled choices on the right: kept, revised, refused. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#222222">Authoring, not inheriting</text>
+  <text x="112" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#4f6d7a">what shaped me</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#4f6d7a">what I chose</text>
+  <!-- left forces -->
+  <rect x="32" y="100" width="160" height="52" rx="10" fill="#e0a458" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="112" y="131" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">family</text>
+  <rect x="32" y="172" width="160" height="52" rx="10" fill="#7a9e7e" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="112" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">culture</text>
+  <rect x="32" y="244" width="160" height="52" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="112" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">place</text>
+  <rect x="32" y="316" width="160" height="52" rx="10" fill="#4f6d7a" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <text x="112" y="347" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">peers</text>
+  <rect x="32" y="388" width="160" height="52" rx="10" fill="#e0a458" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="112" y="419" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">media</text>
+  <!-- right choices -->
+  <rect x="320" y="100" width="160" height="52" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="400" y="131" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">kept</text>
+  <rect x="320" y="210" width="160" height="52" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="400" y="241" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">revised</text>
+  <rect x="320" y="320" width="160" height="52" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="400" y="351" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">refused</text>
+  <!-- connector arrows -->
+  <line x1="192" y1="126" x2="320" y2="126" stroke="#2b3a42" stroke-width="2" marker-end="url(#e)"/>
+  <line x1="192" y1="236" x2="320" y2="236" stroke="#2b3a42" stroke-width="2" marker-end="url(#e)"/>
+  <line x1="192" y1="346" x2="320" y2="346" stroke="#2b3a42" stroke-width="2" marker-end="url(#e)"/>
+  <defs>
+    <marker id="e" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+  <text x="256" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">"I was given ___; I chose to ___"</text>
+</svg>

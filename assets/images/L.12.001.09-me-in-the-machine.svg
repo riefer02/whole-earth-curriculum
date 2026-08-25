@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Me in the machine</title>
+  <desc id="d">A phone-shaped frame split into two columns: "what the feed shows me" and "what it hides," with a space beneath labeled "what I keep — no feed decides this." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#222222">Me in the machine</text>
+  <!-- phone body -->
+  <rect x="126" y="66" width="260" height="320" rx="24" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="146" y1="96" x2="366" y2="96" stroke="#2b3a42" stroke-width="2"/>
+  <!-- left column -->
+  <rect x="140" y="112" width="110" height="250" rx="8" fill="#6b93b6" opacity="0.2" stroke="#2b3a42" stroke-width="2"/>
+  <text x="195" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">what the feed</text>
+  <text x="195" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">shows me</text>
+  <text x="195" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#2b3a42">peaks</text>
+  <text x="195" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#2b3a42">wins</text>
+  <text x="195" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#2b3a42">perfect</text>
+  <!-- right column -->
+  <rect x="262" y="112" width="110" height="250" rx="8" fill="#e0a458" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <text x="317" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">what it</text>
+  <text x="317" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">hides</text>
+  <text x="317" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#2b3a42">the losses</text>
+  <text x="317" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#2b3a42">ordinary</text>
+  <text x="317" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#2b3a42">the struggle</text>
+  <!-- keep space -->
+  <rect x="90" y="410" width="332" height="72" rx="12" fill="#7a9e7e" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="438" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">what I keep</text>
+  <text x="256" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">no feed decides this</text>
+</svg>

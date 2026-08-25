@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Values in action</title>
+  <desc id="d">Two columns labeled "the value I claim" and "the action that matches," with a gap between them labeled "the gap and its cost," and an arrow labeled "a commitment to close it." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#222222">Values in action</text>
+  <!-- left column -->
+  <rect x="40" y="80" width="170" height="250" rx="12" fill="#7a9e7e" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <text x="125" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">the value</text>
+  <text x="125" y="134" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">I claim</text>
+  <text x="125" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#2b3a42">honesty</text>
+  <!-- right column -->
+  <rect x="302" y="80" width="170" height="250" rx="12" fill="#6b93b6" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <text x="387" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">the action</text>
+  <text x="387" y="134" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">that matches</text>
+  <text x="387" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#2b3a42">do my own</text>
+  <text x="387" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#2b3a42">work</text>
+  <!-- gap -->
+  <text x="256" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">the gap</text>
+  <text x="256" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">and its cost</text>
+  <line x1="256" y1="182" x2="256" y2="300" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 5"/>
+  <!-- commitment arrow -->
+  <line x1="125" y1="380" x2="387" y2="380" stroke="#2b3a42" stroke-width="2" marker-end="url(#d)"/>
+  <text x="256" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">a commitment to close it</text>
+  <defs>
+    <marker id="d" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+  <text x="256" y="444" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">integrity = shrinking the gap</text>
+</svg>

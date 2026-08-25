@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The judgment lab frame</title>
+  <desc id="d">Four labeled stages connected by arrows: the case, first verdict, dissent, revised verdict. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#222222">The moral judgment lab</text>
+  <!-- stage 1 -->
+  <rect x="56" y="80" width="400" height="64" rx="12" fill="#7a9e7e" opacity="0.2" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="118" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222">1 · the case</text>
+  <line x1="256" y1="144" x2="256" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#c)"/>
+  <!-- stage 2 -->
+  <rect x="56" y="180" width="400" height="64" rx="12" fill="#e0a458" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222">2 · first verdict</text>
+  <line x1="256" y1="244" x2="256" y2="280" stroke="#2b3a42" stroke-width="2" marker-end="url(#c)"/>
+  <!-- stage 3 -->
+  <rect x="56" y="280" width="400" height="64" rx="12" fill="#6b93b6" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222">3 · dissent</text>
+  <line x1="256" y1="344" x2="256" y2="380" stroke="#2b3a42" stroke-width="2" marker-end="url(#c)"/>
+  <!-- stage 4 -->
+  <rect x="56" y="380" width="400" height="64" rx="12" fill="#4f6d7a" opacity="0.2" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222">4 · revised verdict</text>
+  <defs>
+    <marker id="c" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+  <text x="256" y="484" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">dissent makes the verdict better</text>
+</svg>

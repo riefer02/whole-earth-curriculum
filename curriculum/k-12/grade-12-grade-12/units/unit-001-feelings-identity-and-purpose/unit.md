@@ -67,3 +67,17 @@ every question is held as a question.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | When Feeling Guides and Fools Us | D01.S1.12.01 |
+| 2 | Feeling and Fairness | D01.S1.12.01 |
+| 3 | Responding with Wisdom, Not Reaction | D01.S1.12.02 |
+| 4 | Caring at a Distance | D01.S1.12.02 |
+| 5 | The Moral Judgment Lab | D01.S1.12.01, D01.S1.12.02 |
+| 6 | One Self, Across Contexts | D01.S2.12.01 |
+| 7 | My Values in Action | D01.S2.12.01 |
+| 8 | Authoring, Not Inheriting | D01.S2.12.01, D01.S2.12.02 |
+| 9 | Me in the Machine | D01.S2.12.02 |
+| 10 | The Integrated Self Statement | D01.S2.12.01, D01.S2.12.02 |
+| 11 | A Goal Worth Pursuing | D01.S3.12.01 |
+| 12 | The Plan and the Promise | D01.S3.12.01 |
+| 13 | Through the Setback | D01.S3.12.02 |
+| 14 | What Sustains Me | D01.S3.12.02, D01.S2.12.01 |

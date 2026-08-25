@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Possible selves</title>
+  <desc id="d">Three diverging paths from a single starting point labeled "me now," ending in three labeled selves: hoped-for, feared, expected. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#222222">Possible selves</text>
+  <!-- start -->
+  <circle cx="256" cy="420" r="26" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="426" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">me now</text>
+  <!-- paths -->
+  <path d="M256 394 C256 330 120 300 96 150" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 394 C256 350 256 300 256 150" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M256 394 C256 330 392 300 416 150" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- end selves -->
+  <rect x="24" y="80" width="150" height="64" rx="12" fill="#7a9e7e" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="99" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">hoped-for</text>
+  <text x="99" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">self</text>
+  <rect x="181" y="80" width="150" height="64" rx="12" fill="#e0a458" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">feared</text>
+  <text x="256" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">self</text>
+  <rect x="338" y="80" width="150" height="64" rx="12" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="413" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">expected</text>
+  <text x="413" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">self</text>
+  <text x="256" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">which path becomes the goal?</text>
+</svg>

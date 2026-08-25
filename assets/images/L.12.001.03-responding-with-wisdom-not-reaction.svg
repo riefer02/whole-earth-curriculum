@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The respond loop</title>
+  <desc id="d">A four-step circular loop: pause, name, reframe, respond, connected by arrows. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">The respond loop</text>
+  <circle cx="256" cy="300" r="150" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
+  <!-- four step boxes -->
+  <rect x="176" y="96" width="160" height="56" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#222222">Pause</text>
+  <rect x="360" y="272" width="128" height="56" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="424" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#222222">Name</text>
+  <rect x="176" y="446" width="160" height="56" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#222222">Reframe</text>
+  <rect x="24" y="272" width="128" height="56" rx="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <text x="88" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#222222">Respond</text>
+  <!-- arrows -->
+  <path d="M296 152 L380 262" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M360 328 L300 438" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M176 474 L116 338" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M108 266 L180 158" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a)"/>
+  <defs>
+    <marker id="a" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
+    </marker>
+  </defs>
+  <text x="256" y="518" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">regulate, don't just react</text>
+</svg>

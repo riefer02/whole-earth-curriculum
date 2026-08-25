@@ -6469,7 +6469,7 @@ items:
     type: lesson
     grade: 12
     domain: D01
-    status: ready
+    status: done
     priority: 170
     depends_on:
       - B-109
@@ -6481,6 +6481,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (1722 files); 14 lessons L.12.001.01-14 kind:lesson, unit U.12.001, objectives only the 6 D01.S*.12.* standards, all covered (S1.12.01 x6, S1.12.02 x6, S2.12.01 x10, S2.12.02 x6, S3.12.01 x4, S3.12.02 x4); Procedure/Assessment/Connection present; unit.md table 14 matching; 14 SVG paths resolve with non-empty alt; spot-checked L1/L9/L14 age-appropriate (compass-vs-fog, algorithmic identity, setback anchors).
+      fact-checker:
+        verdict: passed
+        note: all 20 unique S-IDs resolve to reviewed:true entries; spot-checked Lerner S-333 (emotion informs+bias), Damasio S-406 (hedged 'one account, not settled'), Kahneman S-337, Decety&Cowell S-231, Batson S-230, Gross S-225 (regulation!=suppression), Beck S-159, RULER S-015, Erikson S-155, Marcia S-403 (4 statuses non-ranked), McAdams S-404, Tajfel S-232, Markus&Nurius S-399, Damon S-400, Duckworth S-097 (if-then + 'willpower isn't a muscle'), Dweck S-096 (hedged), Neff S-222, WHO S-311; no fabricated citations.
+      global-culture-editor:
+        verdict: passed
+        note: "unit explicitly refuses single-culture defaults: L1/L3 no single culture's 'calm rationality'; L6 rejects Western individualist self ('self-in-relationship neither is default'); L8 village + megacity inheritance both real; L9 digital divide non-universal feed; L2/L5 multiple moral traditions side by side; L10 vow/song/naming co-equal forms; life contexts escape Western/urban default (L2 scarce-money dilemma, L13 structural barriers, L14 faith/family/craft/land anchors); no stereotyping. Non-blocking note: could add concrete named traditions (ikigai/ubuntu/hozho) at enriched tier."
+      accessibility-editor:
+        verdict: passed
+        note: all 14 lessons declare 3 material tiers with universal paper/pencil/voice/body low-tech option; 5-way context_variants with screen-free variants (L9 teachable without device); all 14 SVGs role=img + aria-labelledby + title + desc, grayscale-safe; non-empty descriptive alt; UDL multiple means + Support/Extension + safeguarding notes; no wealth/device/able-bodied assumptions.
+      alignment-auditor:
+        verdict: passed
+        note: all four lenses present (ethics/egalitarianism/global in every lesson; technology/environment explicit in L9 'Me in the Machine' + L8/L10 identity arc); evidence-vs-value explicit + S-coded Resources; traceability objectives -> D01.S*.12.* -> D01 -> P1 -> vision resolves; no hierarchy/supremacy ('every self honored as a whole in the making, never a label'; structural barriers named as unequally distributed, not personal failure).
+      child-psychologist:
+        verdict: passed
+        note: "grade 12 (17-18): psych content at emerging-adult formal operations (Damasio, Kahneman, Lerner, Batson, Beck/Gross, McAdams, Marcia, Markus&Nurius, Damon, Duckworth, Dweck) offered descriptively with hedging; every lesson has Safeguarding note, no required disclosure of trauma/identity/body/screen/mental-health, 'I don't know yet' affirmed, identity as 'draft never a verdict'; L13 refuses despair+denial, structural barriers not 'try-harder' or personal failure, no forced optimism; inquiry over creed; kinesthetic/outdoor optional; Grade 11/10 spiral anchors in L1/L3/L4/L6/L8/L9/L11/L13."
   - id: B-408
     title: Author lessons for Unit U.12.002 (Body, Wellness & Lifelong Movement)
     agent: lesson-author

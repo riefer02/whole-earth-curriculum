@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">One self across contexts</title>
+  <desc id="d">Three overlapping circles labeled who I am, what I value, how I will act, with a band beneath labeled "what stays the same across contexts." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#222222">One self, across contexts</text>
+  <!-- three overlapping circles -->
+  <circle cx="180" cy="220" r="105" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="332" cy="220" r="105" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="300" r="105" fill="#e0a458" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">who I am</text>
+  <text x="362" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">what I value</text>
+  <text x="256" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">how I will act</text>
+  <!-- through-line band -->
+  <rect x="56" y="430" width="400" height="52" rx="12" fill="#4f6d7a" opacity="0.2" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="461" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">what stays the same across contexts</text>
+</svg>
