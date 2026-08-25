@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Are Algorithms Fair?</title>
+  <desc id="desc">An algorithm pipeline: a skewed input (a row of dots, more of one group) flows into a rule box, then into an output that is also skewed toward the same group. Below, a fairness check asks who is left out. Arrows and labels carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Correct Can Still Be Unfair</text>
+
+  <!-- input -->
+  <rect x="30" y="70" width="120" height="150" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="90" y="96" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">input: skewed</text>
+  <g>
+    <circle cx="60" cy="126" r="7" fill="#e0a458"/>
+    <circle cx="88" cy="126" r="7" fill="#e0a458"/>
+    <circle cx="116" cy="126" r="7" fill="#e0a458"/>
+    <circle cx="60" cy="152" r="7" fill="#e0a458"/>
+    <circle cx="88" cy="152" r="7" fill="#6b93b6"/>
+    <circle cx="116" cy="152" r="7" fill="#e0a458"/>
+    <circle cx="60" cy="178" r="7" fill="#6b93b6"/>
+    <circle cx="88" cy="178" r="7" fill="#e0a458"/>
+    <circle cx="116" cy="178" r="7" fill="#e0a458"/>
+    <circle cx="88" cy="204" r="7" fill="#e0a458"/>
+  </g>
+  <text x="90" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">one group more</text>
+
+  <!-- arrow -->
+  <path d="M 150 145 L 190 145" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M 186 140 L 190 145 L 186 150" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- rule -->
+  <rect x="196" y="110" width="120" height="70" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
+  <text x="256" y="140" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">rule:</text>
+  <text x="256" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">"take the top 3</text>
+  <text x="256" y="174" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">by score"</text>
+
+  <!-- arrow -->
+  <path d="M 316 145 L 356 145" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <path d="M 352 140 L 356 145 L 352 150" stroke="#2b3a42" stroke-width="2" fill="none"/>
+
+  <!-- output -->
+  <rect x="362" y="70" width="120" height="150" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="422" y="96" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">output: skewed</text>
+  <circle cx="392" cy="126" r="7" fill="#e0a458"/>
+  <circle cx="420" cy="126" r="7" fill="#e0a458"/>
+  <circle cx="448" cy="126" r="7" fill="#e0a458"/>
+  <text x="422" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">only one</text>
+  <text x="422" y="178" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">group chosen</text>
+
+  <!-- fairness check -->
+  <rect x="70" y="260" width="372" height="110" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">A fairness check asks: who is left out?</text>
+  <text x="256" y="314" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Bias can enter in the input, the rule, or a proxy.</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Judge by outputs, not by intentions.</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Feeds rank by engagement and can narrow what we see (S-481, S-482).</text>
+</svg>

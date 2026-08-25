@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Orders of Magnitude: Thinking in Powers of Ten</title>
+  <desc id="desc">A ladder of powers of ten from 10 to the 0 (one) up to 10 to the 9 (one billion), each rung labeled with its power and a real-world anchor: one person, a classroom, a village, a city, and the planet's people. Each rung is ten times the one below.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">The Powers-of-Ten Ladder</text>
+  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">each rung is ten times the one below</text>
+
+  <!-- rungs -->
+  <line x1="70" y1="92" x2="180" y2="92" stroke="#2b3a42" stroke-width="2"/>
+  <text x="188" y="97" font-family="sans-serif" font-size="14" fill="#222222">10&#8304; = 1</text>
+  <text x="300" y="97" font-family="sans-serif" font-size="14" fill="#4f6d7a">one person</text>
+
+  <line x1="70" y1="140" x2="180" y2="140" stroke="#2b3a42" stroke-width="2"/>
+  <text x="188" y="145" font-family="sans-serif" font-size="14" fill="#222222">10&#178; = 100</text>
+  <text x="300" y="145" font-family="sans-serif" font-size="14" fill="#4f6d7a">a classroom (hundreds)</text>
+
+  <line x1="70" y1="188" x2="180" y2="188" stroke="#2b3a42" stroke-width="2"/>
+  <text x="188" y="193" font-family="sans-serif" font-size="14" fill="#222222">10&#179; = 1,000</text>
+  <text x="300" y="193" font-family="sans-serif" font-size="14" fill="#4f6d7a">a village (thousands)</text>
+
+  <line x1="70" y1="236" x2="180" y2="236" stroke="#2b3a42" stroke-width="2"/>
+  <text x="188" y="241" font-family="sans-serif" font-size="14" fill="#222222">10&#8310; = 1,000,000</text>
+  <text x="300" y="241" font-family="sans-serif" font-size="14" fill="#4f6d7a">a city (millions)</text>
+
+  <line x1="70" y1="284" x2="180" y2="284" stroke="#2b3a42" stroke-width="2"/>
+  <text x="188" y="289" font-family="sans-serif" font-size="14" fill="#222222">10&#8313; = 1,000,000,000</text>
+  <text x="300" y="289" font-family="sans-serif" font-size="14" fill="#4f6d7a">the planet&#8217;s people (billions)</text>
+
+  <!-- side rail -->
+  <line x1="70" y1="92" x2="70" y2="284" stroke="#e0a458" stroke-width="4"/>
+
+  <rect x="70" y="320" width="372" height="92" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>
+  <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">An order of magnitude = a factor of ten.</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">37 million = 3.7 &#215; 10&#8311; &#8594; order of magnitude 10&#8311;</text>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"about tens of millions" beats a fake precise number.</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Decimal place value developed in India (S-023); the Inka used knotted quipu (S-473).</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Carbon and energy are counted in gigatonnes and terawatt-hours (S-005).</text>
+</svg>

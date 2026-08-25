@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Approximation and the Shape of Change</title>
+  <desc id="desc">A smooth curve with a secant line cutting across two points labeled P and Q and a tangent line touching at point P only. Labels mark the secant as average slope over an interval and the tangent as the instantaneous slope, with a note that shrinking the interval turns the secant into the tangent.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Average Slope Becomes Instantaneous Slope</text>
+
+  <!-- axes -->
+  <line x1="60" y1="340" x2="452" y2="340" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="60" y1="340" x2="60" y2="80" stroke="#2b3a42" stroke-width="2"/>
+  <text x="452" y="364" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">time</text>
+  <text x="40" y="84" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">distance</text>
+
+  <!-- curve -->
+  <path d="M 60 320 C 140 300, 200 240, 260 180 S 380 100, 452 90" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- point P and Q -->
+  <circle cx="210" cy="228" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="360" cy="112" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="210" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e0a458" font-weight="bold">P</text>
+  <text x="372" y="104" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7a9e7e" font-weight="bold">Q</text>
+
+  <!-- secant -->
+  <line x1="190" y1="252" x2="382" y2="100" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="300" y="196" font-family="sans-serif" font-size="14" fill="#7a9e7e">secant = average slope</text>
+
+  <!-- tangent -->
+  <line x1="120" y1="316" x2="330" y2="128" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="120" y="340" font-family="sans-serif" font-size="14" fill="#e0a458">tangent = slope at P</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Shrink the interval: the secant turns into the tangent.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The instantaneous rate is the limit of average rates.</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Approximating ever more finely is ancient and worldwide (S-430, S-272).</text>
+</svg>

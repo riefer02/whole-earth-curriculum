@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Algorithms: Step-by-Step Procedures</title>
+  <desc id="desc">A flowchart with an oval labeled "input" at the top, three rectangular steps below it, a diamond decision box that loops back up if more items remain, and an oval labeled "output" at the bottom, with the note that an algorithm must always terminate and produce the correct result.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">An Algorithm Has a Start, Steps, a Test, a Stop</text>
+
+  <!-- input oval -->
+  <ellipse cx="256" cy="70" rx="70" ry="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="75" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">input: a pile</text>
+
+  <!-- steps -->
+  <rect x="166" y="112" width="180" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="137" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">find the smallest card</text>
+
+  <rect x="166" y="172" width="180" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="197" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">move it to the front</text>
+
+  <!-- decision -->
+  <polygon points="256,242 320,272 256,302 192,272" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="276" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">more left?</text>
+
+  <!-- loop back -->
+  <path d="M 192 272 L 96 272 L 96 132 L 162 132" fill="none" stroke="#e0a458" stroke-width="2"/>
+  <text x="100" y="206" font-family="sans-serif" font-size="13" fill="#e0a458">yes</text>
+
+  <!-- output -->
+  <path d="M 256 302 L 256 328" stroke="#2b3a42" stroke-width="2"/>
+  <text x="268" y="322" font-family="sans-serif" font-size="13" fill="#4f6d7a">no</text>
+  <ellipse cx="256" cy="350" rx="70" ry="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="355" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">output: sorted</text>
+
+  <rect x="70" y="400" width="372" height="86" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">An algorithm must</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">terminate (always stop) and be correct (right answer).</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The word comes from al-Khwarizmi (c. 780&#8211;850) (S-431).</text>
+</svg>

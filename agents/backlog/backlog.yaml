@@ -6617,7 +6617,7 @@ items:
     type: lesson
     grade: 12
     domain: D05
-    status: ready
+    status: done
     priority: 170
     depends_on:
       - B-109
@@ -6628,7 +6628,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by accessibility-editor: no non-oral expression alternative: all 14 lessons' Close steps are 'Say, in your own words...' and peer/self formative is 'Can the learner explain...', with no 'write, sign, gesture, or use AAC' pathway anywhere. Low-tech tiers, alt text, grayscale-safe labeled SVGs, context_variants, dyscalculia accommodations all pass. Add non-speaking/AAC option to oral prompts and assessments (as in units 003/004).. Blocked by accessibility-editor: zero dyscalculia accommodations in a symbol-dense unit (limits, secant slopes, matrices, margin-of-error arithmetic). Checks 1-2 (non-oral alternatives, Communication access bullet) + grayscale/low-tech/alt clean, but no worked-step cards, no arithmetic offload to partner/calculator, no pre-printed/pre-filled tables, no verbal/qualitative route for number-fact-heavy steps. Add dyscalculia scaffolding (visible worked-step cards, arithmetic offload, pre-printed tables, verbal/qualitative routes).. Blocked by fact-checker: Lesson-006 dyscalculia bullet lists '2x3' among offloaded row arithmetic for R2 - 2R1 move, but R2 - 2R1 = [2-2, 3-2, 120-100] = [0 1 | 20]; should read '3 - 2' (or '2x1'). Genuine arithmetic error in the new scaffolding. Everything else clean (no new S-IDs; L13 MoE table, L2/L5/L12 arithmetic, L10 diagonal fix all correct).."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: "validate passes (1778); no regression: 14 lessons, objectives only 8 D05 standards, Procedure/Assessment/Connection present, unit.md table intact, Communication access + Number access (dyscalculia) bullets in all 14; fix correct: L6 line now '(2×1, 3 − 2, 120 − 100)' matching R2−2R1, stale '2×3' gone."
+      fact-checker:
+        verdict: passed
+        note: Verified Lesson-006 arithmetic fix (2x1, 3-2, 120-100 for R2-2R1=[0,1,20]); Lesson-013 MoE 1/sqrt(n) table, Lesson-002 secant slope, Lesson-005, Lesson-010 diagonal proof all correct; all 32 source IDs exist in sources.yaml with reviewed:true (fangcheng S-289, Brahmagupta S-290, YBC7289 S-430, etc.); no fabricated IDs; evidence-vs-values explicit; validate passes 1778.
+      global-culture-editor:
+        verdict: passed
+        note: No US/Euro default; global math traditions (fangcheng, Brahmagupta, YBC 7289, Sulba Sutras, quipu, Maya zero, al-Khwarizmi, Lo Shu, Kerala school, Zaslavsky Africa Counts) all cited, accurate, substantively tied to concept not decorative; underrepresented regions (sub-Saharan Africa, Inka, Mesoamerica) present; L8/L12 explicitly deny any default; Connection sections span rural+urban and multiple regions.
+      accessibility-editor:
+        verdict: passed
+        note: Non-oral alternatives (write/sign/gesture/AAC) on every spoken step; dyscalculia accommodations (worked-step cards, arithmetic offload, pre-printed tables, verbal routes) in all 14 lessons; materials_low_tech declared per lesson; non-empty asset alt text; SVG role=img + title/desc + grayscale-print-safe palette. Fixed mis-indented step 5 in lesson-010; validate passes 1778.
+      alignment-auditor:
+        verdict: passed
+        note: All four lenses (ethics, egalitarianism, global, technology, environment) in frontmatter + Facilitator paragraphs of all 14 lessons; ethics lessons genuine (L8 input-bias vs rule vs proxy, L12 slope as access/justice, L14 who benefits); traceability D05.S*.12.* -> D05(P3) -> vision clean, objectives match unit strand mapping; evidence vs values explicit; validate passes 1778.
+      child-psychologist:
+        verdict: passed
+        note: "Grade 12 (17-18) formal operations: informal limits, row-reduced matrices, vector proofs, 1/sqrt(n) MoE, spurious correlation all mature + appropriately rigorous, spiral from Grade 11; heavy topics (algorithmic bias in credit/housing/migration, climate numbers) analytic with agency (trace mechanism, propose fairer rule, redraw chart); movement optional/purposeful not forced; questions held as questions (L8 leaves fairness argument open); validate passes 1778."
   - id: B-412
     title: "Author lessons for Unit U.12.006 (Science: Systems, Evidence & Our Origins)"
     agent: lesson-author

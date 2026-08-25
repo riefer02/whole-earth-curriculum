@@ -73,3 +73,17 @@ from many traditions, for everyone.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.12.005.01 | The Idea of Getting Closer | D05.S1.12.01 |
+| L.12.005.02 | Approximation and the Shape of Change | D05.S1.12.01 |
+| L.12.005.03 | Orders of Magnitude: Thinking in Powers of Ten | D05.S1.12.02 |
+| L.12.005.04 | Critiquing the Numbers in Public Claims | D05.S1.12.02 |
+| L.12.005.05 | Systems of Relationships as Equations | D05.S2.12.01 |
+| L.12.005.06 | Matrices as Many Equations at Once | D05.S2.12.01 |
+| L.12.005.07 | Algorithms: Step-by-Step Procedures | D05.S2.12.02 |
+| L.12.005.08 | Are Algorithms Fair? | D05.S2.12.02 |
+| L.12.005.09 | Coordinates and Vectors: Position and Direction | D05.S3.12.01 |
+| L.12.005.10 | Proving with Vectors | D05.S3.12.01 |
+| L.12.005.11 | Geometry in Real Design: Architecture and Mapping | D05.S3.12.02 |
+| L.12.005.12 | Designing Shared Spaces: Access and Sustainability | D05.S3.12.02 |
+| L.12.005.13 | Inference from Samples: Margin of Error and Confidence | D05.S4.12.01 |
+| L.12.005.14 | Detecting Misleading Statistics and Defending with Honest Data | D05.S4.12.02 |

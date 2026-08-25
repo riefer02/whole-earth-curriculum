@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Coordinates and Vectors: Position and Direction</title>
+  <desc id="desc">A coordinate grid with vector v drawn from the origin three units east and four units north, vector w drawn from v's tip two units west and one unit north, and the resultant drawn as a dashed diagonal from the origin to (1, 5). Component addition (3,4) plus (-2,1) equals (1,5) is shown.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Vectors: Magnitude, Direction, and Addition</text>
+
+  <!-- grid -->
+  <g stroke="#dcd5c8" stroke-width="1">
+    <line x1="80" y1="60" x2="80" y2="420"/>
+    <line x1="140" y1="60" x2="140" y2="420"/>
+    <line x1="200" y1="60" x2="200" y2="420"/>
+    <line x1="260" y1="60" x2="260" y2="420"/>
+    <line x1="320" y1="60" x2="320" y2="420"/>
+    <line x1="380" y1="60" x2="380" y2="420"/>
+    <line x1="440" y1="60" x2="440" y2="420"/>
+    <line x1="80" y1="120" x2="440" y2="120"/>
+    <line x1="80" y1="180" x2="440" y2="180"/>
+    <line x1="80" y1="240" x2="440" y2="240"/>
+    <line x1="80" y1="300" x2="440" y2="300"/>
+    <line x1="80" y1="360" x2="440" y2="360"/>
+    <line x1="80" y1="420" x2="440" y2="420"/>
+  </g>
+  <line x1="80" y1="420" x2="440" y2="420" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="80" y1="420" x2="80" y2="60" stroke="#2b3a42" stroke-width="2"/>
+  <text x="80" y="444" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">0</text>
+  <text x="200" y="444" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">2</text>
+  <text x="320" y="444" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">4</text>
+  <text x="440" y="444" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">6</text>
+
+  <!-- vector v = (3,4): from (80,420) to (80+180, 420-240) = (260,180) -->
+  <line x1="80" y1="420" x2="260" y2="180" stroke="#e0a458" stroke-width="4"/>
+  <polygon points="260,180 246,192 254,204" fill="#e0a458"/>
+
+  <!-- vector w = (-2,1): from (260,180) to (260-120, 180-60) = (140,120) -->
+  <line x1="260" y1="180" x2="140" y2="120" stroke="#6b93b6" stroke-width="4"/>
+  <polygon points="140,120 154,132 146,144" fill="#6b93b6"/>
+
+  <!-- resultant from (80,420) to (140,120) -->
+  <line x1="80" y1="420" x2="140" y2="120" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 5"/>
+
+  <text x="150" y="330" font-family="sans-serif" font-size="15" fill="#e0a458" font-weight="bold">v = (3, 4)</text>
+  <text x="200" y="150" font-family="sans-serif" font-size="15" fill="#6b93b6" font-weight="bold">w = (&#8722;2, 1)</text>
+  <text x="120" y="270" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">v + w = (1, 5)</text>
+
+  <rect x="80" y="462" width="360" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="260" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Add vectors tip-to-tail = add components: (3,4) + (&#8722;2,1) = (1,5).</text>
+</svg>

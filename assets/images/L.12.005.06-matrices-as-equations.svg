@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Matrices as Many Equations at Once</title>
+  <desc id="desc">A system of two equations written first as equations, then as an augmented matrix with a vertical bar between coefficients and answers, then the same matrix after subtracting twice row one from row two, with the solution read off as r equals 30 and b equals 20.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">A Matrix Holds a Whole System</text>
+
+  <!-- equations -->
+  <text x="140" y="80" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">r + b = 50</text>
+  <text x="140" y="106" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">2r + 3b = 120</text>
+
+  <!-- arrow -->
+  <path d="M 200 93 L 236 93" stroke="#e0a458" stroke-width="2" fill="none"/>
+  <path d="M 232 88 L 236 93 L 232 98" stroke="#e0a458" stroke-width="2" fill="none"/>
+
+  <!-- augmented matrix -->
+  <g font-family="sans-serif" font-size="18" fill="#222222">
+    <text x="266" y="76">[ 1  1 &#124;  50 ]</text>
+    <text x="266" y="104">[ 2  3 &#124; 120 ]</text>
+  </g>
+  <text x="380" y="94" font-family="sans-serif" font-size="13" fill="#4f6d7a">coefficients &#124; answers</text>
+
+  <!-- operation -->
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Row operation: R2 &#8592; R2 &#8722; 2&#183;R1</text>
+
+  <!-- reduced matrix -->
+  <g font-family="sans-serif" font-size="18" fill="#222222">
+    <text x="246" y="200">[ 1  1 &#124;  50 ]</text>
+    <text x="246" y="228">[ 0  1 &#124;  20 ]</text>
+  </g>
+  <text x="380" y="218" font-family="sans-serif" font-size="13" fill="#4f6d7a">a staircase: zeros below</text>
+
+  <!-- read off -->
+  <rect x="70" y="260" width="372" height="110" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Read from the bottom up</text>
+  <text x="256" y="314" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">b = 20,  then  r + 20 = 50  &#8594;  r = 30</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Same solution as elimination &#8212; done on a grid.</text>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The fangcheng array (Nine Chapters, China) is an early ancestor (S-289).</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Computers solve huge systems with these same row moves (S-005).</text>
+</svg>

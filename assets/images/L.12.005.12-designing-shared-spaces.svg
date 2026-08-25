@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Designing Shared Spaces: Access and Sustainability</title>
+  <desc id="desc">A plan view of a shared space with a ramp whose rise and run are labeled (rise 1 meter, run 12 meters, slope 1:12), a winding accessible path, a gathering area, and a garden. A note says a gentler slope serves more people.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">A Shared Space Built for Everyone</text>
+
+  <!-- ground line -->
+  <line x1="40" y1="360" x2="472" y2="360" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- ramp: rise 1, run 12, from (40,360) up to (472, ... ) -->
+  <line x1="40" y1="360" x2="360" y2="240" stroke="#e0a458" stroke-width="4"/>
+  <text x="150" y="270" font-family="sans-serif" font-size="14" fill="#e0a458" font-weight="bold">ramp</text>
+  <!-- rise -->
+  <line x1="360" y1="240" x2="360" y2="360" stroke="#6b93b6" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="368" y="300" font-family="sans-serif" font-size="13" fill="#6b93b6">rise 1 m</text>
+  <!-- run -->
+  <line x1="40" y1="372" x2="360" y2="372" stroke="#6b93b6" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="170" y="392" font-family="sans-serif" font-size="13" fill="#6b93b6">run 12 m</text>
+
+  <!-- platform / building -->
+  <rect x="360" y="200" width="60" height="160" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="390" y="285" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">door</text>
+
+  <!-- accessible path -->
+  <path d="M 40 380 C 120 420, 200 420, 300 380" fill="none" stroke="#7a9e7e" stroke-width="5"/>
+  <text x="120" y="448" font-family="sans-serif" font-size="13" fill="#7a9e7e" font-weight="bold">wide, gentle path</text>
+
+  <!-- garden -->
+  <rect x="40" y="120" width="90" height="80" fill="#f4efe4" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="85" y="156" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e">garden</text>
+  <text x="85" y="174" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">shade + drainage</text>
+
+  <!-- slope label -->
+  <rect x="250" y="90" width="222" height="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="361" y="114" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">slope = rise &#247; run = 1 &#247; 12 = 1:12</text>
+  <text x="361" y="136" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">gentle = usable by everyone</text>
+
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Access and sustainability are geometry &#8212; not afterthoughts (S-483, S-395).</text>
+</svg>

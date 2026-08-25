@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Critiquing the Numbers in Public Claims</title>
+  <desc id="desc">A four-step flow — read the claim, estimate what the number should be, compare the two, and write a verdict — with a worked example: a claim of ten million homes served is compared against an estimate of about one million homes, and the verdict is "implausible, off by about ten times."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">The Back-of-the-Envelope Check</text>
+
+  <!-- four step boxes -->
+  <g font-family="sans-serif">
+    <rect x="30" y="60" width="100" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+    <text x="80" y="82" text-anchor="middle" font-size="14" fill="#2b3a42" font-weight="bold">1. Read</text>
+    <text x="80" y="100" text-anchor="middle" font-size="12" fill="#4f6d7a">the claim</text>
+
+    <rect x="144" y="60" width="100" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+    <text x="194" y="82" text-anchor="middle" font-size="14" fill="#2b3a42" font-weight="bold">2. Estimate</text>
+    <text x="194" y="100" text-anchor="middle" font-size="12" fill="#4f6d7a">what it should be</text>
+
+    <rect x="258" y="60" width="100" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+    <text x="308" y="82" text-anchor="middle" font-size="14" fill="#2b3a42" font-weight="bold">3. Compare</text>
+    <text x="308" y="100" text-anchor="middle" font-size="12" fill="#4f6d7a">the two</text>
+
+    <rect x="372" y="60" width="100" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+    <text x="422" y="82" text-anchor="middle" font-size="14" fill="#2b3a42" font-weight="bold">4. Verdict</text>
+    <text x="422" y="100" text-anchor="middle" font-size="12" fill="#4f6d7a">plausible or not</text>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#e0a458" stroke-width="2" fill="none">
+    <path d="M 130 86 L 140 86"/>
+    <path d="M 244 86 L 254 86"/>
+    <path d="M 358 86 L 368 86"/>
+  </g>
+
+  <!-- worked example -->
+  <rect x="30" y="140" width="452" height="190" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>
+  <text x="256" y="166" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Worked example</text>
+  <text x="48" y="194" font-family="sans-serif" font-size="14" fill="#222222">Claim: "The plant will power 10,000,000 homes."</text>
+  <text x="48" y="220" font-family="sans-serif" font-size="14" fill="#222222">Estimate: one big plant serves ~1,000,000 homes (10&#8310;).</text>
+  <text x="48" y="246" font-family="sans-serif" font-size="14" fill="#222222">Compare: the claim is ten times bigger than the estimate.</text>
+  <text x="48" y="272" font-family="sans-serif" font-size="14" fill="#222222">Verdict: implausible &#8212; off by about an order of magnitude.</text>
+  <text x="48" y="304" font-family="sans-serif" font-size="13" fill="#4f6d7a">Separate the fact (is the number right?) from the value (what should be done?).</text>
+
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Per capita = divide by people, to compare fairly.</text>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1,000,000 t carbon &#247; 100,000,000 people = 10 kg each.</text>
+
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Checking before repeating is an everyday honesty tool (S-005, S-006).</text>
+</svg>

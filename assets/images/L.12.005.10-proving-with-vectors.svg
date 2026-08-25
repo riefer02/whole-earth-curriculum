@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Proving with Vectors</title>
+  <desc id="desc">A parallelogram with vertices O, A, C, and B, position vectors a and b drawn from O, and both diagonals drawn crossing at a point M. The vector equations show the midpoint of each diagonal is (a plus b) over 2, so the diagonals bisect each other.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Proof: The Diagonals of a Parallelogram Bisect</text>
+
+  <!-- parallelogram: O(80,340), A(300,340), C(220,120), B(0,120) -->
+  <polygon points="80,340 300,340 220,120 0,120" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- vectors a and b -->
+  <line x1="80" y1="340" x2="300" y2="340" stroke="#e0a458" stroke-width="3"/>
+  <polygon points="300,340 288,332 288,348" fill="#e0a458"/>
+  <line x1="80" y1="340" x2="0" y2="120" stroke="#6b93b6" stroke-width="3"/>
+  <polygon points="0,120 12,128 12,112" fill="#6b93b6"/>
+
+  <!-- diagonals OC and AB -->
+  <line x1="80" y1="340" x2="220" y2="120" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="300" y1="340" x2="0" y2="120" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- midpoint M of both diagonals -->
+  <circle cx="150" cy="230" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="160" y="222" font-family="sans-serif" font-size="14" fill="#7a9e7e" font-weight="bold">M</text>
+
+  <!-- labels -->
+  <text x="92" y="360" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">O</text>
+  <text x="306" y="360" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">A</text>
+  <text x="-14" y="116" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">B</text>
+  <text x="226" y="112" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">C</text>
+  <text x="196" y="330" font-family="sans-serif" font-size="14" fill="#e0a458" font-weight="bold">a</text>
+  <text x="28" y="240" font-family="sans-serif" font-size="14" fill="#6b93b6" font-weight="bold">b</text>
+
+  <rect x="60" y="390" width="392" height="96" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Midpoint of OC = &#189;(a + b)  =  midpoint of AB</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Same point &#8594; the diagonals bisect each other.</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A proof holds for every parallelogram &#8212; not just this drawing.</text>
+</svg>
