@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Local action to global solidarity</title>
+  <desc id="d">Four nested rings labeled from the inside out — me, community, world, living Earth. A small dot labeled 'local action' sits on the inner ring, and a curved arrow reaches outward to a dot labeled 'global solidarity' on the outer ring. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">From here to everywhere</text>
+
+  <!-- nested rings -->
+  <circle cx="256" cy="300" r="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">me</text>
+  <circle cx="256" cy="300" r="92" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
+  <text x="256" y="202" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">community</text>
+  <circle cx="256" cy="300" r="132" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+  <text x="256" y="162" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">world</text>
+  <circle cx="256" cy="300" r="172" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">living Earth</text>
+
+  <!-- local action dot -->
+  <circle cx="256" cy="352" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="286" y="357" font-family="sans-serif" font-size="14" fill="#222222">local action</text>
+
+  <!-- curved arrow to global solidarity -->
+  <path d="M256 352 C 340 352 390 250 410 168" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M408 158 L414 174 L400 170 Z" fill="#2b3a42"/>
+
+  <!-- global solidarity dot -->
+  <circle cx="418" cy="150" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="438" y="155" font-family="sans-serif" font-size="14" fill="#222222">global solidarity</text>
+
+  <text x="256" y="504" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one small act, rippling outward to all life</text>
+</svg>

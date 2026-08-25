@@ -60,3 +60,6 @@ persons and citizens of the living world.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.12.012.01 | Who I Am in Full: An Integrated Self | D01.S2.12.01 |
+| L.12.012.02 | My Meaningful Life Goal: Handing Myself to Adult Life | D01.S3.12.01 |
+| L.12.012.03 | Belonging, Solidarity, and Collective Responsibility: Local to Global | D02.S3.12.02, D02.S4.12.02 |
