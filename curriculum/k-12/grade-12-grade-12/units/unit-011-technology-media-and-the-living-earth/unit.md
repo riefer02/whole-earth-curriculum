@@ -71,3 +71,17 @@ Earth and how they will act — individually and with others — for all life.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.12.011.01 | Technology as a System | D10.S1.12.01 |
+| L.12.011.02 | Arguing for a Humane Direction | D10.S1.12.01 |
+| L.12.011.03 | What Technology Gives and Costs | D10.S1.12.02 |
+| L.12.011.04 | Steward, Not Consumer | D10.S1.12.02 |
+| L.12.011.05 | Responsible Media Creation | D10.S2.12.01 |
+| L.12.011.06 | Accurate, Fair, Honest About Sources | D10.S2.12.01 |
+| L.12.011.07 | Staying Informed in a Flood of Information | D10.S2.12.02 |
+| L.12.011.08 | Holding Claims Open to Evidence | D10.S2.12.02 |
+| L.12.011.09 | Earth as One Interconnected System | D10.S3.12.01 |
+| L.12.011.10 | Planetary Boundaries | D10.S3.12.01 |
+| L.12.011.11 | My Place in the Living World | D10.S3.12.02 |
+| L.12.011.12 | How Interdependence Shapes How I Live | D10.S3.12.02 |
+| L.12.011.13 | Designing a Stewardship Plan | D10.S4.12.01 |
+| L.12.011.14 | A Steward of the Earth | D10.S4.12.02 |

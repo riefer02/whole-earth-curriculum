@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">My Place in the Living World</title>
+  <desc id="desc">A web of life. A central figure labeled 'me' is connected by lines to six surrounding nodes labeled food, water, air, soil, sun, and other species. A caption reads 'a living being among living beings.' Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">The Web of Life</text>
+
+  <!-- web lines -->
+  <g stroke="#4f6d7a" stroke-width="2">
+    <line x1="256" y1="210" x2="120" y2="140"/>
+    <line x1="256" y1="210" x2="392" y2="140"/>
+    <line x1="256" y1="210" x2="90" y2="290"/>
+    <line x1="256" y1="210" x2="422" y2="290"/>
+    <line x1="256" y1="210" x2="140" y2="400"/>
+    <line x1="256" y1="210" x2="372" y2="400"/>
+  </g>
+
+  <!-- central me -->
+  <circle cx="256" cy="210" r="40" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">me</text>
+
+  <!-- nodes -->
+  <g font-family="sans-serif">
+    <circle cx="120" cy="140" r="28" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
+    <text x="120" y="145" text-anchor="middle" font-size="13" fill="#2b3a42" font-weight="bold">food</text>
+
+    <circle cx="392" cy="140" r="28" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+    <text x="392" y="145" text-anchor="middle" font-size="13" fill="#2b3a42" font-weight="bold">water</text>
+
+    <circle cx="90" cy="290" r="28" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
+    <text x="90" y="295" text-anchor="middle" font-size="13" fill="#2b3a42" font-weight="bold">air</text>
+
+    <circle cx="422" cy="290" r="28" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+    <text x="422" y="295" text-anchor="middle" font-size="13" fill="#2b3a42" font-weight="bold">soil</text>
+
+    <circle cx="140" cy="400" r="28" fill="none" stroke="#e0a458" stroke-width="2.5"/>
+    <text x="140" y="405" text-anchor="middle" font-size="13" fill="#2b3a42" font-weight="bold">sun</text>
+
+    <circle cx="372" cy="400" r="28" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
+    <text x="372" y="400" text-anchor="middle" font-size="12" fill="#2b3a42" font-weight="bold">other</text>
+    <text x="372" y="414" text-anchor="middle" font-size="12" fill="#2b3a42" font-weight="bold">species</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">a living being among living beings</text>
+</svg>

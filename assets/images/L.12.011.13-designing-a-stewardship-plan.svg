@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Designing a Stewardship Plan</title>
+  <desc id="desc">A six-step flow for a stewardship plan: 'name the place or resource,' 'assess its condition,' 'set the goal,' 'choose actions,' 'check fairness — present and future generations,' and 'monitor and defend.' Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">A Stewardship Plan, Step by Step</text>
+
+  <!-- six boxes in two columns of three -->
+  <rect x="30" y="70" width="210" height="78" rx="6" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="135" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">1 · name the place</text>
+  <text x="135" y="122" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">or resource</text>
+
+  <rect x="272" y="70" width="210" height="78" rx="6" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="377" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">2 · assess its condition</text>
+  <text x="377" y="122" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">healthy? strained?</text>
+
+  <rect x="30" y="180" width="210" height="78" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="135" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">3 · set the goal</text>
+  <text x="135" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one clear aim</text>
+
+  <rect x="272" y="180" width="210" height="78" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="377" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">4 · choose actions</text>
+  <text x="377" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">verbs with a who and when</text>
+
+  <rect x="30" y="290" width="210" height="78" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="135" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">5 · check fairness</text>
+  <text x="135" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">present and future</text>
+  <text x="135" y="354" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">generations</text>
+
+  <rect x="272" y="290" width="210" height="78" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="377" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">6 · monitor and defend</text>
+  <text x="377" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what to check,</text>
+  <text x="377" y="354" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">and how to defend it</text>
+
+  <!-- flow arrows -->
+  <line x1="240" y1="109" x2="272" y2="109" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M 262 104 L 274 109 L 262 114" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="240" y1="219" x2="272" y2="219" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M 262 214 L 274 219 L 262 224" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="240" y1="329" x2="272" y2="329" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M 262 324 L 274 329 L 262 334" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="135" y1="148" x2="135" y2="180" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M 130 170 L 135 182 L 140 170" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="377" y1="148" x2="377" y2="180" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M 372 170 L 377 182 L 382 170" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="135" y1="258" x2="135" y2="290" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M 130 280 L 135 292 L 140 280" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Stewardship is a designed practice,</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">not just a warm feeling.</text>
+</svg>

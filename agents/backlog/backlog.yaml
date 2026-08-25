@@ -6839,7 +6839,7 @@ items:
     type: lesson
     grade: 12
     domain: D10
-    status: ready
+    status: done
     priority: 170
     depends_on:
       - B-109
@@ -6851,6 +6851,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1858; all 14 lessons have complete frontmatter + Procedure/Assessment/Facilitator note/Connection + materials_low_tech + Number access + Communication access; objectives resolve to real D10 grade-12 standards (L10->S3.12.01 matches 'Earth as one interconnected system...'), all 8 covered; unit.md table lists 14 matching; 47 S-IDs resolve; stance 'neither worship nor fear' held (L10 pairs honest strain with agency 'never dump despair', L14 'technology neither worshiped nor feared but stewarded', L7 no partisan framing); no tech-utopianism/technophobia/despair.
+      fact-checker:
+        verdict: passed
+        note: S-507 (Stockholm Resilience Centre / Rockström et al. Planetary Boundaries) verified live and marked reviewed:true; nine boundaries correct (climate, biosphere integrity, land-system, freshwater, biogeochemical flows, ocean acidification, aerosol, ozone, novel entities); provenance Rockström 2009 Nature + Richardson 2023 'Earth beyond six of nine'; status hedged correctly ('several crossed incl. climate + species loss', avoids stale number; 2025 update = seven). Lessons number-free (no stats to overstate); climate/biosphere qualitative pinned to IPCC S-005 + IPBES S-437; OPERA FTL neutrino S-488 accurate (2011, withdrawn); filter-bubble hedged (S-481/S-482); e-waste/cobalt attributed (WHO S-397, Amnesty S-398, EPA S-371); all S-IDs resolve (zero orphans); evidence vs values distinguished; validate 1858.
+      global-culture-editor:
+        verdict: passed
+        note: "No single-technology/US-Euro default: tech examples span off-grid/non-Western contexts (shared well, solar lamp, hoe/plow/fishing net, repair cafe, tool library) alongside phone example; L1 'a mine in one country, factory in another, cable under an ocean' + same tech 'takes different shapes in different places'; media avoids Western platform default (uses forwarded messages = WhatsApp-style Global South); Indigenous/local stewardship held co-equal not subordinate (L11 'distinct living traditions never ranked against science', botanist's lens and elder's plant-knowledge co-equal; Kimmerer, CSIRO/Firesticks cultural burning, Chipko, Standing Rock, Maathai, Ostrom commons); egalitarianism (DRC cobalt miner, recycling-yard worker); validate clean."
+      accessibility-editor:
+        verdict: passed
+        note: "Low-tech/no-tech (ironic test): all 14 lessons incl. technology/media L1-8 fully teachable with paper/found objects/voice; media creation as hand-drawn poster/caption/news summary; devices only in optional enriched tier; no Procedure step requires a device; materials_low_tech + non-empty alt per lesson; SVGs role=img/title/desc/grayscale-safe (labels carry meaning); Communication access non-oral in all 14; Number access dyscalculia in all 14 (L10 Planetary Boundaries deliberately number-free, word-states not thresholds); UDL + plain prose + no wealth assumption; validate 1858."
+      alignment-auditor:
+        verdict: passed
+        note: All four lenses in frontmatter + Facilitator paragraphs of all 14; ethics (humane tech direction, stewardship, fair media); egalitarianism (benefits the many, fairness across generations, who bears tech/environmental costs); global free of US/Euro default (Indigenous reciprocity, Chipko, Maathai, Standing Rock, commons, international science bodies); technology+environment genuinely woven (core lenses); evidence vs values explicit; traceability D10.S*.12.* -> D10 (Technology/Media/Environment) -> P4 (Contextual & Ecological Awareness) -> vision; 47 S-IDs resolve; validate 1858.
+      child-psychologist:
+        verdict: passed
+        note: "Grade 12 (17-18) mature formal operations: systems thinking, planetary-boundaries framework, media-literacy skepticism/epistemic humility; emotional safety: ecological crisis honest yet agency-centered (L10 'not a forecast of doom, it is a map', pair one honest sentence + one thing people can do; L12/L14 'never rank learners by size of change', 'Earth needs many ordinary people not a few perfect guardians'); misinformation framed as discernment not cynicism (no cynicism/nihilism, dogmatism<->cynicism middle path); technology 'neither worship nor fear, neither savior nor villain'; physical fit diagram/writing/discussion with optional outdoor + differentiation; open-ended, no partisan; validate 1858."
   - id: B-418
     title: Author lessons for Unit U.12.012 (All of Me, All of Us)
     agent: lesson-author

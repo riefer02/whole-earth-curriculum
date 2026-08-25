@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Responsible Media Creation</title>
+  <desc id="desc">A checklist for a responsible message. Three gates across the top: 'accurate?', 'fair?', 'honest about sources?'. Below them, five questions: who created it, what techniques attract attention, what is omitted, who benefits, for what purpose. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Three Tests for a Responsible Message</text>
+
+  <!-- three gates -->
+  <rect x="24" y="72" width="144" height="66" rx="6" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="96" y="108" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">accurate?</text>
+  <text x="96" y="128" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">facts are true</text>
+
+  <rect x="184" y="72" width="144" height="66" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">fair?</text>
+  <text x="256" y="128" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">no caricatures</text>
+
+  <rect x="344" y="72" width="144" height="66" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="416" y="108" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">honest about</text>
+  <text x="416" y="126" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">sources?</text>
+
+  <text x="256" y="178" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Ask the five questions:</text>
+
+  <!-- five questions -->
+  <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">1 · who created it?</text>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">2 · what techniques attract attention?</text>
+  <text x="256" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">3 · what is omitted?</text>
+  <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">4 · who benefits?</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">5 · for what purpose?</text>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">A message that passes all three</text>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">informs instead of misleads.</text>
+</svg>

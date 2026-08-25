@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Holding Claims Open to Evidence</title>
+  <desc id="desc">A belief with a confidence meter below it marked low, medium, high. Beneath the meter is a box labeled 'what would change my mind?' A footer reads 'confidence tracks the evidence.' Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Confidence Tracks the Evidence</text>
+
+  <!-- belief box -->
+  <rect x="86" y="80" width="340" height="70" rx="6" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">my belief</text>
+  <text x="256" y="134" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the claim I actually hold</text>
+
+  <!-- meter -->
+  <rect x="86" y="190" width="340" height="60" rx="6" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <line x1="200" y1="190" x2="200" y2="250" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="314" y1="190" x2="314" y2="250" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="143" y="228" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">low</text>
+  <text x="257" y="228" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">medium</text>
+  <text x="371" y="228" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">high</text>
+  <!-- slider marker -->
+  <circle cx="257" cy="220" r="10" fill="#2b3a42"/>
+
+  <!-- what would change my mind -->
+  <rect x="86" y="290" width="340" height="70" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">what would change my mind</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the honest test of an evidence-held belief</text>
+
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Between dogmatism and cynicism</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">lies the honest mind: confident where the evidence is,</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">and open to updating where it is not.</text>
+</svg>

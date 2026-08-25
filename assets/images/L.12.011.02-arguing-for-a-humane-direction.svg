@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Arguing for a Humane Direction</title>
+  <desc id="desc">A five-step flow for building an argument: 'claim,' then 'reason + evidence,' then 'who benefits / who is harmed,' then 'counterargument,' then 'my response,' ending at a circle labeled 'a humane direction.' Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Building an Argument for a Humane Direction</text>
+
+  <!-- claim -->
+  <rect x="24" y="80" width="120" height="70" rx="6" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="84" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">claim</text>
+  <text x="84" y="132" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what should</text>
+  <text x="84" y="145" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">happen</text>
+
+  <!-- reason+evidence -->
+  <rect x="168" y="80" width="130" height="70" rx="6" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="233" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">reason + evidence</text>
+  <text x="233" y="132" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">why, and what</text>
+  <text x="233" y="145" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">supports it</text>
+
+  <!-- benefits/harms -->
+  <rect x="322" y="80" width="130" height="70" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="387" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">who benefits /</text>
+  <text x="387" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">who is harmed</text>
+  <text x="387" y="147" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the honest ledger</text>
+
+  <!-- arrows row 1 -->
+  <line x1="144" y1="115" x2="168" y2="115" stroke="#4f6d7a" stroke-width="4"/>
+  <line x1="298" y1="115" x2="322" y2="115" stroke="#4f6d7a" stroke-width="4"/>
+
+  <!-- counterargument -->
+  <rect x="92" y="200" width="130" height="70" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="157" y="232" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">counterargument</text>
+  <text x="157" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the strongest</text>
+  <text x="157" y="265" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">objection</text>
+
+  <!-- response -->
+  <rect x="268" y="200" width="130" height="70" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="333" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">my response</text>
+  <text x="333" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">answering it</text>
+  <text x="333" y="265" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">honestly</text>
+
+  <!-- arrow down -->
+  <line x1="222" y1="235" x2="268" y2="235" stroke="#4f6d7a" stroke-width="4"/>
+  <line x1="245" y1="115" x2="222" y2="200" stroke="#4f6d7a" stroke-width="4"/>
+  <path d="M 230 188 L 224 202 L 240 198" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+  <!-- result -->
+  <circle cx="256" cy="340" r="56" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">a humane</text>
+  <text x="256" y="354" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">direction</text>
+
+  <line x1="256" y1="270" x2="256" y2="284" stroke="#4f6d7a" stroke-width="4"/>
+  <path d="M 248 280 L 256 292 L 264 280" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Humane = serving human flourishing</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">and the living Earth, not just speed or profit.</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Staying Informed in a Flood of Information</title>
+  <desc id="desc">A funnel. Many streams of information flow in at the top, pass through three horizontal filters labeled 'pause,' 'check the source,' and 'seek more than one view,' and a single stream labeled 'informed judgment' flows out the bottom. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">From Flood to Informed Judgment</text>
+
+  <!-- many streams in -->
+  <g stroke="#6b93b6" stroke-width="3" fill="none">
+    <line x1="80" y1="64" x2="140" y2="150"/>
+    <line x1="180" y1="58" x2="196" y2="150"/>
+    <line x1="290" y1="58" x2="300" y2="150"/>
+    <line x1="400" y1="64" x2="372" y2="150"/>
+    <line x1="256" y1="48" x2="256" y2="150"/>
+  </g>
+  <text x="256" y="188" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">posts · headlines · videos · forwards</text>
+
+  <!-- filter 1 -->
+  <rect x="120" y="208" width="272" height="44" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="236" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">pause</text>
+
+  <!-- filter 2 -->
+  <rect x="120" y="268" width="272" height="44" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">check the source</text>
+
+  <!-- filter 3 -->
+  <rect x="120" y="328" width="272" height="44" rx="6" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">seek more than one view</text>
+
+  <!-- funnel sides -->
+  <line x1="140" y1="208" x2="216" y2="410" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="372" y1="208" x2="296" y2="410" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- out stream -->
+  <line x1="256" y1="410" x2="256" y2="468" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M 248 462 L 256 476 L 264 462" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">informed judgment</text>
+</svg>

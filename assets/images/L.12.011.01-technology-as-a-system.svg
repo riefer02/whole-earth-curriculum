@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Technology as a System</title>
+  <desc id="desc">A diagram of technology as a system. 'Design and values' and 'Materials and energy' boxes flow into a central box labeled 'The technology,' which flows out to 'Uses' and then to 'Effects — benefits, harms, waste.' A horizontal band across the top reads 'Governance and rules: laws, standards, markets, platform rules.' Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Technology as a System</text>
+
+  <!-- governance band -->
+  <rect x="20" y="52" width="472" height="46" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="71" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Governance and rules</text>
+  <text x="256" y="89" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">laws, standards, markets, platform rules</text>
+
+  <!-- left inputs -->
+  <rect x="28" y="160" width="130" height="86" rx="6" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="93" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">Design and values</text>
+  <text x="93" y="214" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">who decided,</text>
+  <text x="93" y="230" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">and for whom</text>
+
+  <rect x="28" y="278" width="130" height="86" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="93" y="314" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">Materials and energy</text>
+  <text x="93" y="332" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">minerals, glass,</text>
+  <text x="93" y="348" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">metals, electricity</text>
+
+  <!-- central -->
+  <rect x="196" y="200" width="120" height="104" rx="6" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">The technology</text>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">making + using</text>
+
+  <!-- right outputs -->
+  <rect x="354" y="160" width="130" height="86" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="419" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">Uses</text>
+  <text x="419" y="214" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what people</text>
+  <text x="419" y="230" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">do with it</text>
+
+  <rect x="354" y="278" width="130" height="86" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="419" y="314" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">Effects</text>
+  <text x="419" y="332" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">benefits, harms,</text>
+  <text x="419" y="348" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">and waste</text>
+
+  <!-- arrows in -->
+  <line x1="158" y1="203" x2="196" y2="228" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 184 220 L 198 224 L 190 236" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="158" y1="321" x2="196" y2="280" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 184 292 L 198 288 L 190 276" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- arrows out -->
+  <line x1="316" y1="230" x2="354" y2="203" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 342 212 L 354 200 L 338 198" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="316" y1="280" x2="354" y2="321" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 342 312 L 354 324 L 338 326" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">A technology is a system, not a thing.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">See the whole system before you judge or steer it.</text>
+</svg>

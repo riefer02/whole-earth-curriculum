@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">What Technology Gives and Costs</title>
+  <desc id="desc">A two-column ledger. The left column, 'what technology gives me,' lists connection, learning, access. The right column, 'what technology costs me,' lists attention, time, privacy, rest, and Earth's materials. A footer reads 'neither worship nor fear.' Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">An Honest Ledger</text>
+
+  <!-- left column -->
+  <rect x="32" y="64" width="200" height="300" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="132" y="94" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">what technology gives me</text>
+  <line x1="52" y1="108" x2="212" y2="108" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="132" y="140" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">connection</text>
+  <text x="132" y="176" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">learning</text>
+  <text x="132" y="212" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">access</text>
+  <text x="132" y="248" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">a voice</text>
+  <text x="132" y="284" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">a job</text>
+
+  <!-- right column -->
+  <rect x="280" y="64" width="200" height="300" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="380" y="94" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">what technology costs me</text>
+  <line x1="300" y1="108" x2="460" y2="108" stroke="#e0a458" stroke-width="2"/>
+  <text x="380" y="140" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">attention</text>
+  <text x="380" y="176" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">time</text>
+  <text x="380" y="212" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">privacy</text>
+  <text x="380" y="248" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">rest</text>
+  <text x="380" y="284" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">the Earth's materials</text>
+
+  <!-- balance line -->
+  <line x1="60" y1="396" x2="452" y2="396" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="396" r="7" fill="#2b3a42"/>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">neither worship nor fear</text>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">know the trade, so the choice is yours.</text>
+</svg>
