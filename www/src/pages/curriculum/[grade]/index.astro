@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import CopyLinkButton from '../../../components/CopyLinkButton.astro';
 import { ui } from '../../../i18n';
 import { unitPath, domainPath } from '../../../lib/links';
 import { lessonsByUnit } from '../../../lib/data';
@@ -46,6 +47,10 @@ const pagefindFilters = ['type:Scope', `grade:${gradeValue(grade)}`];
         { label: ui.gradeLabel(grade) },
       ]}
     />
+
+    <div class="page-actions">
+      <CopyLinkButton />
+    </div>
 
     <h1 class="page-title">{scope.data.year_title ?? ui.gradeLabel(grade)}</h1>
     <p class="lede">{scope.data.summary}</p>

@@ -21,12 +21,16 @@ export interface UI {
     standards: string;
     docs: string;
     about: string;
+    forTeachers: string;
+    forLeaders: string;
     search: string;
     skipToContent: string;
     theme: string;
     themeToDark: string;
     themeToLight: string;
     menu: string;
+    showIds: string;
+    hideIds: string;
   };
   home: {
     heroKicker: string;
@@ -41,6 +45,82 @@ export interface UI {
     values: string[];
     howTitle: string;
     howSteps: string[];
+    audienceTitle: string;
+    audienceIntro: string;
+    audiences: Array<{ title: string; body: string; href: string; cta: string }>;
+  };
+  pages: {
+    whatIs: {
+      title: string;
+      description: string;
+      kicker: string;
+      heroTitle: string;
+      heroSubtitle: string;
+      beliefsTitle: string;
+      beliefsIntro: string;
+      beliefs: Array<{ title: string; body: string }>;
+      pillarsTitle: string;
+      pillarsIntro: string;
+      pillars: Array<{ title: string; question: string }>;
+      seeTitle: string;
+      seeIntro: string;
+      seeCta: string;
+    };
+    forTeachers: {
+      title: string;
+      description: string;
+      kicker: string;
+      heroTitle: string;
+      heroSubtitle: string;
+      whereTitle: string;
+      whereIntro: string;
+      gradeLabel: string;
+      update: string;
+      todayIs: string;
+      thisWeek: string;
+      notAuthored: string;
+      browseFullYear: string;
+      chooseTitle: string;
+      chooseIntro: string;
+      madeTitle: string;
+      made: Array<{ title: string; body: string }>;
+      fitTitle: string;
+      fitIntro: string;
+      fitSteps: Array<{ title: string; body: string }>;
+      startCta: string;
+      whatThis: string;
+    };
+    forLeaders: {
+      title: string;
+      description: string;
+      kicker: string;
+      heroTitle: string;
+      heroSubtitle: string;
+      problemTitle: string;
+      problemIntro: string;
+      problem: Array<{ title: string; body: string }>;
+      solutionTitle: string;
+      solutionLead: string;
+      solutionBody: string;
+      evidenceTitle: string;
+      evidenceIntro: string;
+      evidenceCols: [string, string];
+      evidenceRows: Array<{ commitment: string; evidence: string }>;
+      lenses: string;
+      qualityTitle: string;
+      quality: Array<{ title: string; body: string }>;
+      whereTitle: string;
+      where: string[];
+      askTitle: string;
+      askIntro: string;
+      ask: Array<{ title: string; body: string }>;
+      exploreStandards: string;
+      readDocs: string;
+      licenseTitle: string;
+      licenseBefore: string;
+      licenseLink: string;
+      licenseAfter: string;
+    };
   };
   common: {
     unit: string;
@@ -69,6 +149,9 @@ export interface UI {
     next: string;
     print: string;
     onThisPage: string;
+    taughtIn: string;
+    copyLink: string;
+    copied: string;
   };
   footer: {
     tagline: string;
@@ -84,14 +167,15 @@ export interface UI {
   };
   status: Record<string, string>;
   gradeLabel: (grade: number) => string;
+  lessonCountLabel: (n: number) => string;
   pillarTitles: Record<string, string>;
   pillarQuestions: Record<string, string>;
 }
 
 const en: UI = {
   site: {
-    name: 'New World Order Education',
-    short: 'NWO-EDU',
+    name: 'Whole Earth Curriculum',
+    short: 'WEC',
     description:
       'A comprehensive, humanitarian, egalitarian K\u201312 curriculum offered free to the world \u2014 raising the baseline standard of living for all life on Earth.',
   },
@@ -102,12 +186,16 @@ const en: UI = {
     standards: 'Standards',
     docs: 'Docs',
     about: 'About',
+    forTeachers: 'For Teachers',
+    forLeaders: 'For Leaders',
     search: 'Search',
     skipToContent: 'Skip to content',
     theme: 'Toggle color theme',
     themeToDark: 'Switch to dark mode',
     themeToLight: 'Switch to light mode',
     menu: 'Menu',
+    showIds: 'Show IDs',
+    hideIds: 'Hide IDs',
   },
 
   home: {
@@ -137,6 +225,261 @@ const en: UI = {
       'An automated validator and alignment agents keep the chain intact.',
       'Plain Markdown + YAML content renders to web, print, and more \u2014 from one source of truth.',
     ],
+    audienceTitle: 'Who are you here for?',
+    audienceIntro: 'Three doors, one curriculum.',
+    audiences: [
+      {
+        title: 'I\u2019m curious',
+        body: 'Wondering what this is and whether it\u2019s any good? Start with the idea, in plain words.',
+        href: '/what-is/',
+        cta: 'What is it?',
+      },
+      {
+        title: 'I\u2019m a teacher',
+        body: 'Jump straight to a grade and a lesson you can print and teach today.',
+        href: '/for-teachers/',
+        cta: 'For teachers',
+      },
+      {
+        title: 'I\u2019m a leader or funder',
+        body: 'See the evidence, the quality guarantees, and how to adopt or fund it.',
+        href: '/for-leaders/',
+        cta: 'For leaders',
+      },
+    ],
+  },
+  pages: {
+    whatIs: {
+      title: 'What is Whole Earth Curriculum?',
+      description:
+        'Whole Earth Curriculum is a free, complete K\u201312 curriculum that develops the whole human \u2014 emotional, physical, intellectual, and ecological.',
+      kicker: 'Offered free to the world',
+      heroTitle: 'Education for the whole human.',
+      heroSubtitle:
+        'A free, complete, K\u201312 curriculum that develops the whole human \u2014 emotional, physical, intellectual, and ecological \u2014 to raise the baseline standard of living for all life on Earth.',
+      beliefsTitle: 'What we believe',
+      beliefsIntro: 'Six simple commitments. Everything we build descends from them.',
+      beliefs: [
+        {
+          title: 'A child is a whole person',
+          body: 'Emotion, body, mind, and context grow together \u2014 so we teach them together, not as separate subjects.',
+        },
+        {
+          title: 'Everyone deserves this',
+          body: 'Built to lift the many, never the few. Free, forever, on purpose.',
+        },
+        {
+          title: 'The world is bigger than one story',
+          body: 'History, culture, and knowledge are taught from a global, cross-cultural view \u2014 not one nation\u2019s default.',
+        },
+        {
+          title: 'How we treat each other is part of it',
+          body: 'Ethics and empathy are woven through every subject, not bolted on.',
+        },
+        {
+          title: 'Technology, understood',
+          body: 'We teach children to see what technology does to people and the planet \u2014 and to judge it, not worship it or fear it.',
+        },
+        {
+          title: 'How to think, not what to think',
+          body: 'Big questions stay open. Evidence is separated from belief.',
+        },
+      ],
+      pillarsTitle: 'Four parts of a whole person',
+      pillarsIntro:
+        'The curriculum is organized around four questions \u2014 not subjects, and not labels. Each one is a door a child walks through, every year.',
+      pillars: [
+        { title: 'Who am I?', question: 'Who am I, and how do I live well with others?' },
+        { title: 'My body', question: 'How do I understand and care for my body?' },
+        { title: 'How I think', question: 'How do I think, reason, and know?' },
+        { title: 'The world I live in', question: 'What world do I live in, and what do I owe it?' },
+      ],
+      seeTitle: 'See for yourself',
+      seeIntro:
+        'Don\u2019t take our word for it. Open a lesson and judge its quality yourself \u2014 every one is free, printable, and written so a child can follow it.',
+      seeCta: 'Open a sample lesson',
+    },
+    forTeachers: {
+      title: 'Whole Earth Curriculum for Teachers',
+      description:
+        'Teach today: pick a grade, open the next lesson, print it. Free, low-tech, and built for real classrooms.',
+      kicker: 'For teachers',
+      heroTitle: 'Pick a grade and jump in.',
+      heroSubtitle:
+        'No onboarding, no account, no cost. Choose a grade, open the next lesson, and teach \u2014 today.',
+      whereTitle: 'Where are we this week?',
+      whereIntro:
+        'The school year runs 180 days, Monday through Friday, starting on the first weekday on or after September 1. Pick a grade to see which lesson a class is on today.',
+      gradeLabel: 'Grade',
+      update: 'Update',
+      todayIs: 'Today is school day',
+      thisWeek: 'This week:',
+      notAuthored: 'Not yet authored \u2014 open',
+      browseFullYear: 'to browse the full year.',
+      chooseTitle: 'Choose a grade',
+      chooseIntro:
+        'Every grade is a full, ordered school year \u2014 units and daily lessons that build on the last and set up the next.',
+      madeTitle: 'Made for real classrooms',
+      made: [
+        {
+          title: 'Low-tech, no-cost',
+          body: 'Every lesson has a low-tech / no-cost version. A bare classroom with no devices is a first-class setting, not an afterthought.',
+        },
+        {
+          title: 'Print in one click',
+          body: 'Every lesson and unit prints clean as a binder-ready page \u2014 grayscale-safe, with materials and timing up front.',
+        },
+        {
+          title: 'Teach it day-of',
+          body: 'Duration, materials, and a step-by-step procedure are at the top of every lesson. No prep-reading required.',
+        },
+        {
+          title: 'Works without you',
+          body: 'Lessons are written learner-first, so a child can follow along with or without a teacher \u2014 useful for a substitute or a family.',
+        },
+      ],
+      fitTitle: 'How it fits your week',
+      fitIntro:
+        'Everything is aligned grade by grade, so you can trust that today\u2019s lesson follows yesterday\u2019s and sets up tomorrow\u2019s.',
+      fitSteps: [
+        { title: 'Open your grade', body: 'find the unit you\u2019re on.' },
+        { title: 'Open the next lesson', body: 'read the materials and timing.' },
+        { title: 'Print', body: 'one click gives you a binder-ready page.' },
+        { title: 'Share', body: 'copy the link and hand it to a colleague or a family.' },
+      ],
+      startCta: 'Start with a grade',
+      whatThis: 'What this is',
+    },
+    forLeaders: {
+      title: 'Whole Earth Curriculum for Leaders & Funders',
+      description:
+        'The case for adopting or funding Whole Earth Curriculum: the problem, the evidence base, quality guarantees, where it stands today, and the ask.',
+      kicker: 'For leaders & funders',
+      heroTitle: 'A drop-in replacement for a failing system.',
+      heroSubtitle:
+        'One free, evidence-grounded K\u201312 curriculum that develops the whole human \u2014 emotionally, physically, intellectually, and ecologically \u2014 and is built to reach the world at no cost.',
+      problemTitle: 'The problem',
+      problemIntro:
+        'Public education, across much of the world, is failing the whole human being.',
+      problem: [
+        {
+          title: 'Fragmented',
+          body: 'A child is split into disconnected subjects instead of developed as one person whose emotion, body, and intellect grow together.',
+        },
+        {
+          title: 'Abstract and disconnected',
+          body: 'Concepts are taught without connection to real life, so knowledge is stored for a test and forgotten \u2014 not used.',
+        },
+        {
+          title: 'Inequitable',
+          body: 'Outcomes track a child\u2019s background, not their potential; the system often reproduces hierarchy rather than lifting the many.',
+        },
+        {
+          title: 'Narrow',
+          body: 'History and culture are frequently taught from one nation\u2019s default, leaving most of humanity out of its own story.',
+        },
+        {
+          title: 'Incomplete',
+          body: 'Ethics, emotional life, the body, and the deep effects of modern technology are treated as afterthoughts \u2014 when they are taught at all.',
+        },
+      ],
+      solutionTitle: 'The solution',
+      solutionLead:
+        'Whole Earth Curriculum (WEC) is a free, open, comprehensive K\u201312 curriculum with one aim: to produce humans who are emotionally, physically, intellectually, and contextually aware \u2014 of themselves, their communities, and the living systems they depend on \u2014 and so to raise the baseline standard of living for all life on Earth.',
+      solutionBody:
+        'It is organized under four dimensions \u2014 emotional & social, physical & somatic, intellectual & cognitive, and contextual & ecological awareness \u2014 descending through ten content areas into grade-level standards, units, and daily lessons. It is designed as a drop-in replacement and offered to the world at no cost.',
+      evidenceTitle: 'Why it will work \u2014 the evidence base',
+      evidenceIntro:
+        'WEC is built on evidence that is well established in the learning sciences, not on fashion.',
+      evidenceCols: ['Commitment', 'Evidence it rests on'],
+      evidenceRows: [
+        {
+          commitment: 'Mastery learning + feedback over ranking',
+          evidence: 'Bloom\u2019s \u201c2 sigma\u201d finding: tutoring \u2248 +2 SD; mastery/feedback \u2248 +1.0 SD; cooperative learning \u2248 +0.8 (Bloom, 1984)',
+        },
+        {
+          commitment: 'Relationships and feedback first',
+          evidence: 'Meta-analyses (Hattie, Visible Learning) rank teacher\u2013student relationships and feedback among the largest effects on learning',
+        },
+        {
+          commitment: 'Teach at the learner\u2019s level, not their age',
+          evidence: 'Pratham\u2019s Teaching at the Right Level: large, cheap literacy/numeracy gains across J-PAL randomized trials; a \u201cGood Buy\u201d (GEEAP/World Bank)',
+        },
+        {
+          commitment: 'Multi-grade, self-paced, low-tech works',
+          evidence: 'Escuela Nueva (Colombia): ~20,000 rural schools, ~19 countries, UNESCO-noted rural outperformance of urban',
+        },
+        {
+          commitment: 'Explicit instruction for novices, inquiry for concepts',
+          evidence: 'Kirschner, Sweller & Clark (2006); inquiry is powerful for concepts but minimal guidance fails beginners',
+        },
+        {
+          commitment: 'Science of learning baked into every lesson',
+          evidence: 'Retrieval practice, spacing, interleaving, worked examples, concrete-before-abstract',
+        },
+        {
+          commitment: 'Age-appropriate by design',
+          evidence: 'A developmental rubric (Piaget/Erikson/Vygotsky lineage) enforced by a dedicated child-psychology review gate',
+        },
+      ],
+      lenses:
+        'Four cross-cutting lenses \u2014 ethics, egalitarianism, global/anthropological perspective, and the effect of technology on humanity and the environment \u2014 are carried through every lesson, so values are not a unit but a habit.',
+      qualityTitle: 'How quality and alignment are guaranteed',
+      quality: [
+        {
+          title: 'Full traceability',
+          body: 'Every lesson declares the standards it serves, which trace up through the content areas to the vision. Automated validation enforces the chain.',
+        },
+        {
+          title: 'A hard review gate',
+          body: 'Each piece of content passes a sequential review by specialized reviewers \u2014 schema, factual accuracy, global/cultural framing, accessibility, values alignment, and developmental fit \u2014 and cannot ship until every gate records a substantive pass.',
+        },
+        {
+          title: 'Built for everyone',
+          body: 'Every lesson has low-tech and enriched material tiers, so it works in a bare classroom and a well-equipped one, and is written learner-first.',
+        },
+        {
+          title: 'Honest and open',
+          body: 'Factual claims cite a vetted source registry; evidence is distinguished from values; content is free, forever.',
+        },
+      ],
+      whereTitle: 'Where it stands today',
+      where: [
+        '<strong>975 standards</strong> \u2014 a complete K\u201312 vertical spine across ten content areas and four dimensions.',
+        '<strong>13 complete grades</strong> (Kindergarten through Grade 12) \u2014 each a full ~180-day year, all units and lessons authored end-to-end.',
+        '<strong>1,676 lessons</strong> and <strong>1,674 SVG assets</strong> \u2014 near 1:1, all accessible (alt text, grayscale-printable, diverse representation).',
+        '<strong>159 units</strong> across 13 grades, with a year-plan for every grade.',
+        'A complete <strong>assessment framework, facilitation guide, developmental rubric, art/accessibility style guide, and evidence-grounded contexts guide</strong>.',
+        'A reproducible production loop that authors, reviews, and versions content \u2014 so the full K\u201312 pass can be refined and extended at consistent quality.',
+      ],
+      askTitle: 'The ask',
+      askIntro:
+        'Funding would convert a working, evidence-grounded core into a resource that can actually reach the world.',
+      ask: [
+        {
+          title: 'Polish and deepen K\u201312',
+          body: 'the full first pass is authored; funding moves it from first pass to publication quality across all 13 grades.',
+        },
+        {
+          title: 'Human expert review',
+          body: 'a track for real educators, scientists, and cultural experts to validate and refine.',
+        },
+        {
+          title: 'Translation and localization',
+          body: 'so every child learns in their own language and context.',
+        },
+        {
+          title: 'Delivery',
+          body: 'web, offline, and print, free at the point of use.',
+        },
+      ],
+      exploreStandards: 'Explore the standards',
+      readDocs: 'Read the documentation',
+      licenseTitle: 'License',
+      licenseBefore: 'Curriculum content is licensed under',
+      licenseLink: 'CC BY-SA 4.0',
+      licenseAfter: '\u2014 free to use, adapt, and share, forever. Tooling is released under MIT.',
+    },
   },
 
   common: {
@@ -166,6 +509,9 @@ const en: UI = {
     next: 'Next',
     print: 'Print',
     onThisPage: 'On this page',
+    taughtIn: 'Taught in',
+    copyLink: 'Copy link',
+    copied: 'Copied',
   },
 
   footer: {
@@ -190,6 +536,8 @@ const en: UI = {
   },
 
   gradeLabel: (grade: number) => (grade === 0 ? 'Kindergarten' : `Grade ${grade}`),
+
+  lessonCountLabel: (n: number) => `${n} ${n === 1 ? 'lesson' : 'lessons'}`,
 
   pillarTitles: {
     P1: 'Emotional & Social Awareness',

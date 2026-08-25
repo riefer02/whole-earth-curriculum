@@ -1,0 +1,146 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+import { gradePath, unitPath, lessonPath } from '../../lib/links';
+import { lessonsByUnit, scopeByGrade } from '../../lib/data';
+import { schoolDayForToday, lessonForSchoolDay } from '../../lib/teachToday';
+
+const t = ui.pages.forTeachers;
+
+const grades = Array.from({ length: 13 }, (_, i) => i);
+
+const [scopes, lessons] = await Promise.all([
+  getCollection('scopes'),
+  getCollection('lessons'),
+]);
+
+const today = new Date();
+const schoolDay = schoolDayForToday(today);
+
+const gradeParam = Astro.url.searchParams.get('grade');
+const requested = gradeParam === null ? Number.NaN : Number(gradeParam);
+const selectedGrade =
+  Number.isInteger(requested) && requested >= 0 && requested <= 12 ? requested : 1;
+
+const scopeMap = scopeByGrade(scopes);
+const lessonMap = lessonsByUnit(lessons);
+
+const scope = scopeMap.get(selectedGrade);
+const thisWeek = scope ? lessonForSchoolDay(scope, lessonMap, schoolDay) : null;
+
+let unitHref = '';
+let unitLabel = '';
+let lessonHref = '';
+let lessonLabel = '';
+if (thisWeek) {
+  unitHref = unitPath(thisWeek.unit.unit_id ?? '');
+  unitLabel = thisWeek.unit.title ?? thisWeek.unit.unit_id ?? 'Unit';
+  lessonHref = lessonPath(thisWeek.lesson.data.id ?? '');
+  lessonLabel = thisWeek.lesson.data.title ?? thisWeek.lesson.data.id ?? 'Lesson';
+}
+---
+
+<BaseLayout title={t.title} description={t.description}>
+  <section class="hero">
+    <div class="container">
+      <p class="hero__kicker">{t.kicker}</p>
+      <h1 class="hero__title">{t.heroTitle}</h1>
+      <p class="hero__subtitle">{t.heroSubtitle}</p>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{t.whereTitle}</h2>
+      <p class="lede">{t.whereIntro}</p>
+      <form class="teach-today__form" method="get" action={Astro.url.pathname}>
+        <label for="grade-select">{t.gradeLabel}</label>
+        <select
+          id="grade-select"
+          name="grade"
+          onchange="this.form.submit()"
+        >
+          {
+            grades.map((g) => (
+              <option value={g} selected={g === selectedGrade}>
+                {ui.gradeLabel(g)}
+              </option>
+            ))
+          }
+        </select>
+        <noscript>
+          <button class="btn btn--ghost" type="submit">{t.update}</button>
+        </noscript>
+      </form>
+      {thisWeek ? (
+        <p class="teach-today__result">
+          <strong>{t.todayIs} {schoolDay}.</strong>{' '}
+          {t.thisWeek}{' '}
+          <a href={unitHref}>{unitLabel}</a>
+          {' '}&mdash;{' '}
+          <a href={lessonHref}>{lessonLabel}</a>
+        </p>
+      ) : (
+        <p class="teach-today__result">
+          <strong>{t.todayIs} {schoolDay}.</strong>{' '}
+          {t.notAuthored}{' '}
+          <a href={gradePath(selectedGrade)}>{ui.gradeLabel(selectedGrade)}</a>{' '}
+          {t.browseFullYear}
+        </p>
+      )}
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{t.chooseTitle}</h2>
+      <p class="lede">{t.chooseIntro}</p>
+      <div class="grades-nav">
+        {
+          grades.map((g) => (
+            <a class="grades-nav__item" href={gradePath(g)}>
+              {ui.gradeLabel(g)}
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{t.madeTitle}</h2>
+      <div class="grid">
+        {
+          t.made.map((m) => (
+            <div class="card">
+              <h3 class="card__title">{m.title}</h3>
+              <p class="card__meta">{m.body}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{t.fitTitle}</h2>
+      <p class="lede">{t.fitIntro}</p>
+      <ul class="prose">
+        {
+          t.fitSteps.map((s) => (
+            <li>
+              <strong>{s.title}</strong> &mdash; {s.body}
+            </li>
+          ))
+        }
+      </ul>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="/curriculum/">{t.startCta}</a>
+        <a class="btn btn--ghost" href="/what-is/">{t.whatThis}</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

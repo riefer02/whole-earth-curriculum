@@ -1,11 +1,13 @@
 ---
 import { getCollection, getEntry } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
 import BaseLayout from '../../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
 import { ui } from '../../../../i18n';
-import { domainPath } from '../../../../lib/links';
+import { domainPath, unitPath, lessonPath } from '../../../../lib/links';
 import { pillarValue } from '../../../../lib/filters';
 import { gradeKeyLabel, objectivesForStrand } from '../../../../lib/standards';
+import { strandToLessons, strandToUnits } from '../../../../lib/enactments';
 
 export async function getStaticPaths() {
   const domains = await getCollection('domains');
@@ -25,7 +27,11 @@ const { domain: domainSlug, strand: strandSlug } = Astro.params;
 const domainId = (domainSlug ?? '').toUpperCase();
 const strandId = `${domainId}.${(strandSlug ?? '').toUpperCase()}`;
 
-const domainEntry = await getEntry('domains', domainId);
+const [domainEntry, lessons, units] = await Promise.all([
+  getEntry('domains', domainId),
+  getCollection('lessons'),
+  getCollection('units'),
+]);
 if (!domainEntry) return Astro.redirect('/standards/');
 
 const strand = (domainEntry.data.strands ?? []).find((s) => s.id === strandId);
@@ -35,6 +41,49 @@ const objectives = objectivesForStrand(
   domainEntry.data.grade_objectives ?? {},
   strandId,
 );
+
+// Reverse index: which units and lessons enact this strand, grouped by unit.
+const enactingLessons = strandToLessons(lessons).get(strandId) ?? [];
+const enactingUnits = strandToUnits(units).get(strandId) ?? [];
+
+const unitById = new Map<string, CollectionEntry<'units'>>();
+for (const u of units) {
+  if (u.data.id) unitById.set(u.data.id, u);
+}
+
+const lessonLists = new Map<string, CollectionEntry<'lessons'>[]>();
+const order: string[] = [];
+
+for (const lesson of enactingLessons) {
+  const unitId = lesson.data.unit;
+  if (!unitId) continue;
+  if (!lessonLists.has(unitId)) {
+    lessonLists.set(unitId, []);
+    order.push(unitId);
+  }
+  lessonLists.get(unitId)!.push(lesson);
+}
+
+for (const unit of enactingUnits) {
+  const unitId = unit.data.id;
+  if (!unitId) continue;
+  if (!lessonLists.has(unitId)) {
+    lessonLists.set(unitId, []);
+    order.push(unitId);
+  }
+}
+
+const unitGroups = order.map((unitId) => {
+  const unit = unitById.get(unitId);
+  const groupLessons = lessonLists.get(unitId) ?? [];
+  const grade = unit?.data.grade ?? groupLessons[0]?.data.grade ?? 0;
+  return { unitId, unit, lessons: groupLessons, grade };
+});
+
+unitGroups.sort((a, b) => {
+  if (a.grade !== b.grade) return a.grade - b.grade;
+  return a.unitId.localeCompare(b.unitId);
+});
 
 const title = `${strandId} — ${strand.title}`;
 const pagefindFilters = [
@@ -50,14 +99,14 @@ const pagefindFilters = [
     <Breadcrumbs
       crumbs={[
         { label: ui.nav.standards, href: '/standards/' },
-        { label: `${domainId} — ${domainEntry.data.title}`, href: domainPath(domainId) },
-        { label: strandId },
+        { id: `${domainId} — `, label: domainEntry.data.title, href: domainPath(domainId) },
+        { id: strandId },
       ]}
     />
 
     <h1 class="page-title">{strand.title}</h1>
     <div class="badge-row">
-      <span class="badge">{strandId}</span>
+      <span class="badge id">{strandId}</span>
       {(domainEntry.data.pillar ?? []).map((p) => (
         <span class={`badge badge--pillar-${p}`}>
           {p}: {ui.pillarTitles[p] ?? p}
@@ -71,10 +120,41 @@ const pagefindFilters = [
       {objectives.map((o) => (
         <li>
           <span class="grade-key">{gradeKeyLabel(o.gradeKey)}</span>
-          <span class="obj-id">{o.id}</span>
+          <span class="obj-id id">{o.id}</span>
           <span>{o.text}</span>
         </li>
       ))}
     </ul>
+
+    {
+      unitGroups.length > 0 && (
+        <>
+          <h2 class="page-title" style="font-size:1.4rem; margin-top:2rem">{ui.common.taughtIn}</h2>
+          {unitGroups.map((g) => (
+            <div class="strand-block">
+              <h3 class="card__title" style="font-size:1.1rem">
+                {g.unit ? (
+                  <a href={unitPath(g.unitId)}>
+                    {ui.gradeLabel(g.grade)} · {g.unit.data.title ?? g.unitId}
+                  </a>
+                ) : (
+                  <span>{g.unitId}</span>
+                )}
+              </h3>
+              {g.lessons.length > 0 && (
+                <ol class="timeline">
+                  {g.lessons.map((l) => (
+                    <li>
+                      <span class="days">{l.data.sequence_in_unit ?? ''}</span>
+                      <a href={lessonPath(l.data.id ?? '')}>{l.data.title ?? l.data.id}</a>
+                    </li>
+                  ))}
+                </ol>
+              )}
+            </div>
+          ))}
+        </>
+      )
+    }
   </div>
 </BaseLayout>

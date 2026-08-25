@@ -1,0 +1,129 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+
+const p = ui.pages.forLeaders;
+---
+
+<BaseLayout title={p.title} description={p.description}>
+  <section class="hero">
+    <div class="container">
+      <p class="hero__kicker">{p.kicker}</p>
+      <h1 class="hero__title">{p.heroTitle}</h1>
+      <p class="hero__subtitle">{p.heroSubtitle}</p>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.problemTitle}</h2>
+      <p class="lede">{p.problemIntro}</p>
+      <ul class="prose">
+        {
+          p.problem.map((item) => (
+            <li>
+              <strong>{item.title}.</strong> {item.body}
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.solutionTitle}</h2>
+      <p class="lede">{p.solutionLead}</p>
+      <p class="lede">{p.solutionBody}</p>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.evidenceTitle}</h2>
+      <p class="lede">{p.evidenceIntro}</p>
+      <div class="prose" style="max-width: none">
+        <table>
+          <thead>
+            <tr>
+              <th>{p.evidenceCols[0]}</th>
+              <th>{p.evidenceCols[1]}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              p.evidenceRows.map((row) => (
+                <tr>
+                  <td><strong>{row.commitment}</strong></td>
+                  <td>{row.evidence}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+      <p class="lede">{p.lenses}</p>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.qualityTitle}</h2>
+      <ul class="prose">
+        {
+          p.quality.map((item) => (
+            <li>
+              <strong>{item.title}.</strong> {item.body}
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.whereTitle}</h2>
+      <ul class="prose">
+        {
+          p.where.map((b) => (
+            <li set:html={b} />
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.askTitle}</h2>
+      <p class="lede">{p.askIntro}</p>
+      <ol class="prose">
+        {
+          p.ask.map((item) => (
+            <li>
+              <strong>{item.title}</strong> &mdash; {item.body}
+            </li>
+          ))
+        }
+      </ol>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="/standards/">{p.exploreStandards}</a>
+        <a class="btn btn--ghost" href="/docs/">{p.readDocs}</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.licenseTitle}</h2>
+      <p class="lede">
+        {p.licenseBefore}{' '}
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/"
+          >{p.licenseLink}</a
+        >{' '}
+        {p.licenseAfter}
+      </p>
+    </div>
+  </section>
+</BaseLayout>

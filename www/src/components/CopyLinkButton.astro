@@ -1,0 +1,74 @@
+---
+import { ui } from '../i18n';
+---
+
+<button
+  type="button"
+  class="btn btn--ghost btn--copy"
+  data-copy-link
+  data-copy-label={ui.common.copyLink}
+  data-copied-label={ui.common.copied}
+  aria-label={ui.common.copyLink}
+>
+  <svg
+    class="btn--copy__icon"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    aria-hidden="true"
+  >
+    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+  </svg>
+  <span data-copy-text>{ui.common.copyLink}</span>
+</button>
+
+<script>
+  document.addEventListener('click', async (event) => {
+    const target = event.target as Element | null;
+    const btn = target?.closest<HTMLElement>('[data-copy-link]');
+    if (!btn) return;
+
+    const labelEl = btn.querySelector('[data-copy-text]');
+    const copyLabel = btn.dataset.copyLabel ?? 'Copy link';
+    const copiedLabel = btn.dataset.copiedLabel ?? 'Copied';
+    const url = window.location.href;
+
+    const writeToClipboard = async (): Promise<boolean> => {
+      try {
+        await navigator.clipboard.writeText(url);
+        return true;
+      } catch {
+        try {
+          const textarea = document.createElement('textarea');
+          textarea.value = url;
+          textarea.setAttribute('readonly', '');
+          textarea.style.position = 'fixed';
+          textarea.style.opacity = '0';
+          document.body.appendChild(textarea);
+          textarea.select();
+          const ok = document.execCommand('copy');
+          textarea.remove();
+          return ok;
+        } catch {
+          return false;
+        }
+      }
+    };
+
+    if (!(await writeToClipboard())) return;
+
+    if (labelEl) labelEl.textContent = copiedLabel;
+    btn.setAttribute('aria-label', copiedLabel);
+    btn.classList.add('is-copied');
+
+    window.setTimeout(() => {
+      if (labelEl) labelEl.textContent = copyLabel;
+      btn.setAttribute('aria-label', copyLabel);
+      btn.classList.remove('is-copied');
+    }, 1500);
+  });
+</script>

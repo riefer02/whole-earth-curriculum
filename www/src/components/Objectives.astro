@@ -15,7 +15,7 @@ const { objectives } = Astro.props;
       <ul class="objective-list">
         {objectives.map((o) => (
           <li>
-            <span class="obj-id">{o.id}</span>
+            <span class="obj-id id">{o.id}</span>
             <span>{o.text}</span>
           </li>
         ))}

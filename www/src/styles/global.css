@@ -297,6 +297,32 @@ li {
   display: none;
 }
 
+/* "Show IDs" toggle (reveals internal curriculum identifiers) */
+.ids-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.4rem;
+  padding: 0 0.75rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.ids-toggle:hover {
+  background: var(--paper-soft);
+}
+
+.ids-toggle[aria-pressed='true'] {
+  color: var(--secondary);
+  border-color: var(--secondary);
+}
+
 /* Main */
 .site-main {
   min-height: 70vh;
@@ -986,6 +1012,17 @@ li {
 
 .site-footer__legal p {
   margin: 0;
+}
+
+/* Internal curriculum identifiers (e.g. D01, U.03.004, D05.S2.03.2) are
+   hidden from casual visitors by default and revealed on demand via the header
+   "Show IDs" toggle. They remain in the DOM for search and accessibility. */
+.id {
+  display: none;
+}
+
+html[data-show-ids='on'] .id {
+  display: inline-block;
 }
 
 /* Print — lessons/units should print as binders. Colors are reset via the

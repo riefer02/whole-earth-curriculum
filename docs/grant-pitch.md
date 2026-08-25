@@ -1,4 +1,4 @@
-# The Case for New World Order Education
+# The Case for Whole Earth Curriculum
 
 A grant-ready, evidence-grounded pitch. This document states the problem, the
 solution, why it will work, where it stands today, and what funding would enable.
@@ -26,7 +26,7 @@ Public education, across much of the world, is failing the whole human being:
 
 ## 2. The solution
 
-**New World Order Education (NWO-EDU)** is a free, open, comprehensive K–12
+**Whole Earth Curriculum (WEC)** is a free, open, comprehensive K–12
 curriculum with one aim: to produce humans who are **emotionally, physically,
 intellectually, and contextually aware** — of themselves, their communities, and the
 living systems they depend on — and so to raise the baseline standard of living for
@@ -40,7 +40,7 @@ world at no cost.
 
 ## 3. Why it will work — the evidence base
 
-NWO-EDU is built on evidence that is well established in the learning sciences, not
+WEC is built on evidence that is well established in the learning sciences, not
 on fashion.
 
 | Commitment | Evidence it rests on |
@@ -74,27 +74,28 @@ carried through *every* lesson, so values are not a unit but a habit.
 
 ## 5. Where it stands today *(live snapshot — growing)*
 
-- **975 standards** — a complete K–12 vertical spine across 10 domains and 4 pillars.
-- **2 complete grades** (Kindergarten and Grade 1) — each ~180 days, all units and
-  lessons authored and illustrated, end-to-end.
-- **Grade 2 year-plan** complete with 12 unit stubs.
-- **Upper-grade calibration exemplars** — Grade 5 science, Grade 9 science, and
-  Grade 9 ethics/history — setting the rigor bar for grades 3–12.
-- **251 lessons** and **248 SVG assets** — a 1:1 lesson-to-asset ratio, all
+- **975 standards** — a complete K–12 vertical spine across 10 domains and 4 pillars
+  (39 in Kindergarten, 78 in each of Grades 1–12).
+- **13 complete grades** (Kindergarten through Grade 12) — the full K–12 first pass,
+  every grade's units and lessons authored and illustrated end-to-end, each mapped to
+  a ~180-day school year.
+- **1,676 lessons** and **1,674 SVG assets** — a near 1:1 lesson-to-asset ratio, all
   accessible (alt text, grayscale-printable, diverse representation).
-- **40 units** across 5 grades.
+- **159 units** across 13 grades.
+- **13 year-plans** (one `scope.md` per grade, K–12).
 - A complete **assessment framework**, **facilitation guide**, **developmental
   rubric**, **art/accessibility style guide**, and **evidence-grounded contexts
   guide**.
 - A reproducible **agent loop** that produces, reviews, and versions content — so the
-  remaining 10 grades can be produced at speed and consistent quality.
+  full K–12 pass can be refined and extended at speed and consistent quality.
 
 ## 6. The ask
 
 Funding would convert a working, evidence-grounded core into a resource that can
 actually reach the world:
 
-1. **Complete K–12** — the remaining 11 grades, at sustained quality.
+1. **Polish and deepen K–12** — the full first pass is authored; funding moves it
+   from first pass to publication quality across all 13 grades.
 2. **Human expert review** — a track for real educators, scientists, and cultural
    experts to validate and refine, so the curriculum earns trust at scale.
 3. **Translation and localization** — so every child learns in their own language

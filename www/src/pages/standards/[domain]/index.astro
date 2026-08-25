@@ -6,6 +6,7 @@ import { ui } from '../../../i18n';
 import { strandPath } from '../../../lib/links';
 import { pillarValue } from '../../../lib/filters';
 import { gradeKeyLabel, objectivesForStrand } from '../../../lib/standards';
+import { strandToLessons } from '../../../lib/enactments';
 
 export async function getStaticPaths() {
   const domains = await getCollection('domains');
@@ -19,15 +20,20 @@ const domainId = (Astro.params.domain ?? '').toUpperCase();
 const domainEntry = await getEntry('domains', domainId);
 if (!domainEntry) return Astro.redirect('/standards/');
 
+const lessons = await getCollection('lessons');
+
 const { Content } = await render(domainEntry);
 
 const strands = domainEntry.data.strands ?? [];
 const gradeObjectives = domainEntry.data.grade_objectives ?? {};
 
+const lessonsByStrand = strandToLessons(lessons);
+
 // Per strand: objectives across the K–12 ladder.
 const strandLadders = strands.map((s) => ({
   strand: s,
   objectives: objectivesForStrand(gradeObjectives, s.id ?? ''),
+  lessonCount: lessonsByStrand.get(s.id ?? '')?.length ?? 0,
 }));
 
 const title = `${domainEntry.data.title} (${domainId})`;
@@ -43,13 +49,13 @@ const pagefindFilters = [
     <Breadcrumbs
       crumbs={[
         { label: ui.nav.standards, href: '/standards/' },
-        { label: domainId },
+        { id: domainId },
       ]}
     />
 
     <h1 class="page-title">{domainEntry.data.title}</h1>
     <div class="badge-row">
-      <span class="badge">{domainId}</span>
+      <span class="badge id">{domainId}</span>
       {(domainEntry.data.pillar ?? []).map((p) => (
         <span class={`badge badge--pillar-${p}`}>
           {p}: {ui.pillarTitles[p] ?? p}
@@ -62,19 +68,20 @@ const pagefindFilters = [
     <h2 class="page-title" style="font-size:1.4rem; margin-top:2rem">{ui.common.verticalLadder}</h2>
 
     {
-      strandLadders.map(({ strand, objectives }) => (
+      strandLadders.map(({ strand, objectives, lessonCount }) => (
         <div class="strand-block">
           <h3 class="card__title" style="font-size:1.1rem">
             <a href={strandPath(strand.id ?? '')}>
-              <span class="badge">{strand.id}</span> {strand.title}
+              <span class="badge id">{strand.id}</span> {strand.title}
             </a>
           </h3>
           {strand.description && <p class="card__meta">{strand.description}</p>}
+          {lessonCount > 0 && <p class="card__meta">{ui.lessonCountLabel(lessonCount)}</p>}
           <ul class="ladder">
             {objectives.map((o) => (
               <li>
                 <span class="grade-key">{gradeKeyLabel(o.gradeKey)}</span>
-                <span class="obj-id">{o.id}</span>
+                <span class="obj-id id">{o.id}</span>
                 <span>{o.text}</span>
               </li>
             ))}

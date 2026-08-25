@@ -4,6 +4,7 @@ import BaseLayout from '../../../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
 import Objectives from '../../../../../components/Objectives.astro';
 import PrintButton from '../../../../../components/PrintButton.astro';
+import CopyLinkButton from '../../../../../components/CopyLinkButton.astro';
 import TableOfContents from '../../../../../components/TableOfContents.astro';
 import { ui } from '../../../../../i18n';
 import { gradePath, unitPath, lessonPath, domainPath } from '../../../../../lib/links';
@@ -88,6 +89,7 @@ const title = `${ui.common.lesson} ${lesson} — ${lessonEntry.data.title}`;
 
     <div class="page-actions">
       <PrintButton />
+      <CopyLinkButton />
     </div>
 
     <h1 class="page-title">
@@ -97,7 +99,7 @@ const title = `${ui.common.lesson} ${lesson} — ${lessonEntry.data.title}`;
 
     <div class="badge-row">
       {(lessonEntry.data.domain ?? []).map((d) => (
-        <a class="badge" href={domainPath(d)}>{d}</a>
+        <a class="badge id" href={domainPath(d)}>{d}</a>
       ))}
       {(lessonEntry.data.pillar ?? []).map((p) => (
         <span class={`badge badge--pillar-${p}`}>
@@ -105,7 +107,7 @@ const title = `${ui.common.lesson} ${lesson} — ${lessonEntry.data.title}`;
         </span>
       ))}
       {(lessonEntry.data.strand ?? []).map((s) => (
-        <span class="badge">{s}</span>
+        <span class="badge id">{s}</span>
       ))}
       {lessonEntry.data.duration_minutes !== undefined && (
         <span class="badge">{lessonEntry.data.duration_minutes} {ui.common.durationMinutes}</span>

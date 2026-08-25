@@ -16,10 +16,12 @@ const pathname = Astro.url.pathname;
 
 const navItems = [
   { href: '/', label: ui.nav.home },
+  { href: '/what-is/', label: ui.nav.about },
   { href: '/curriculum/', label: ui.nav.curriculum },
+  { href: '/for-teachers/', label: ui.nav.forTeachers },
+  { href: '/for-leaders/', label: ui.nav.forLeaders },
   { href: '/standards/', label: ui.nav.standards },
   { href: '/docs/', label: ui.nav.docs },
-  { href: '/docs/vision/', label: ui.nav.about },
   { href: '/search/', label: ui.nav.search },
 ];
 ---
@@ -55,6 +57,17 @@ const navItems = [
         }
       })();
     </script>
+    <script is:inline>
+      // Apply the "show internal IDs" preference before paint so IDs never
+      // flash for casual visitors (they are hidden by default in CSS).
+      (() => {
+        try {
+          if (localStorage.getItem('wec-show-ids') === 'on') {
+            document.documentElement.setAttribute('data-show-ids', 'on');
+          }
+        } catch {}
+      })();
+    </script>
   </head>
   <body>
     {pagefindFilters?.map((f) => <span data-pagefind-filter={f} hidden></span>)}
@@ -88,6 +101,16 @@ const navItems = [
               ))
             }
           </nav>
+          <button
+            type="button"
+            class="ids-toggle"
+            data-ids-toggle
+            data-label-on={ui.nav.hideIds}
+            data-label-off={ui.nav.showIds}
+            aria-pressed="false"
+          >
+            <span data-ids-label>{ui.nav.showIds}</span>
+          </button>
           <button
             type="button"
             class="theme-toggle"
@@ -223,6 +246,40 @@ const navItems = [
           document.documentElement.setAttribute('data-theme', next);
           try {
             localStorage.setItem('nwo-theme', next);
+          } catch {}
+          sync();
+        });
+        sync();
+      })();
+    </script>
+    <script is:inline>
+      // "Show IDs" toggle: reveal/hide internal curriculum identifiers and keep
+      // the label, aria-pressed state, and stored preference in sync.
+      (() => {
+        const btn = document.querySelector('[data-ids-toggle]');
+        if (!btn) return;
+        const labelEl = btn.querySelector('[data-ids-label]');
+        const labels = {
+          on: btn.dataset.labelOn ?? 'Hide IDs',
+          off: btn.dataset.labelOff ?? 'Show IDs',
+        };
+        const sync = () => {
+          const on =
+            document.documentElement.getAttribute('data-show-ids') === 'on';
+          btn.setAttribute('aria-pressed', String(on));
+          if (labelEl) labelEl.textContent = on ? labels.on : labels.off;
+        };
+        btn.addEventListener('click', () => {
+          const on =
+            document.documentElement.getAttribute('data-show-ids') === 'on';
+          if (on) {
+            document.documentElement.removeAttribute('data-show-ids');
+          } else {
+            document.documentElement.setAttribute('data-show-ids', 'on');
+          }
+          try {
+            if (on) localStorage.removeItem('wec-show-ids');
+            else localStorage.setItem('wec-show-ids', 'on');
           } catch {}
           sync();
         });

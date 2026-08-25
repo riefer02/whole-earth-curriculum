@@ -20,7 +20,7 @@ domains.sort((a, b) => (a.id ?? '').localeCompare(b.id ?? ''));
       {
         domains.map((d) => (
           <a class="card" href={domainPath(d.id ?? '')}>
-            <p class="card__meta" style="margin-bottom:0.35rem">{d.id}</p>
+            <p class="card__meta" style="margin-bottom:0.35rem"><span class="id">{d.id}</span></p>
             <h2 class="card__title">{d.data.title}</h2>
             <div class="badge-row" style="margin-block:0.5rem">
               {(d.data.pillar ?? []).map((p) => (

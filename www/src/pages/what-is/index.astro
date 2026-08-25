@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+
+const p = ui.pages.whatIs;
+---
+
+<BaseLayout title={p.title} description={p.description}>
+  <section class="hero">
+    <div class="container">
+      <p class="hero__kicker">{p.kicker}</p>
+      <h1 class="hero__title">{p.heroTitle}</h1>
+      <p class="hero__subtitle">{p.heroSubtitle}</p>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.beliefsTitle}</h2>
+      <p class="lede">{p.beliefsIntro}</p>
+      <div class="grid">
+        {
+          p.beliefs.map((b) => (
+            <div class="card">
+              <h3 class="card__title">{b.title}</h3>
+              <p class="card__meta">{b.body}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.pillarsTitle}</h2>
+      <p class="lede">{p.pillarsIntro}</p>
+      <div class="pillars">
+        {
+          p.pillars.map((q, i) => (
+            <div class={`pillar pillar--P${i + 1}`}>
+              <h3>{q.title}</h3>
+              <p>{q.question}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.seeTitle}</h2>
+      <p class="lede">{p.seeIntro}</p>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="/curriculum/">{p.seeCta}</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

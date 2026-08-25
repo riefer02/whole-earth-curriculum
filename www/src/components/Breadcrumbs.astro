@@ -1,7 +1,8 @@
 ---
 interface Crumb {
-  label: string;
+  label?: string;
   href?: string;
+  id?: string;
 }
 
 interface Props {
@@ -16,7 +17,17 @@ const { crumbs } = Astro.props;
     {
       crumbs.map((c) => (
         <li>
-          {c.href ? <a href={c.href}>{c.label}</a> : <span>{c.label}</span>}
+          {c.href ? (
+            <a href={c.href}>
+              {c.id && <span class="id">{c.id}</span>}
+              {c.label}
+            </a>
+          ) : (
+            <span>
+              {c.id && <span class="id">{c.id}</span>}
+              {c.label}
+            </span>
+          )}
         </li>
       ))
     }

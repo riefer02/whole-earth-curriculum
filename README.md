@@ -1,10 +1,10 @@
-# New World Order Education (NWO-EDU)
+# Whole Earth Curriculum (WEC)
 
 > A comprehensive, meaningful, holistic, and freely available K–12 curriculum for
 > humans — designed to be a drop-in replacement for failing public-education
 > systems, and offered to the world at no cost.
 
-NWO-EDU exists to raise the baseline standard of living for all life on Earth, from
+WEC exists to raise the baseline standard of living for all life on Earth, from
 the cellular level to the anthropological level, and for the entire Earth
 environment. It does this by producing humans who are **emotionally, physically, and
 intellectually aware** of themselves, the context they live in, and the environment

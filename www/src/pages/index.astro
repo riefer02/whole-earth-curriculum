@@ -23,6 +23,24 @@ const grades = Array.from({ length: 13 }, (_, i) => i);
 
   <section class="home-section">
     <div class="container">
+      <h2>{ui.home.audienceTitle}</h2>
+      <p class="lede">{ui.home.audienceIntro}</p>
+      <div class="grid">
+        {
+          ui.home.audiences.map((a) => (
+            <a class="card" href={a.href}>
+              <h3 class="card__title">{a.title}</h3>
+              <p class="card__meta">{a.body}</p>
+              <span class="btn btn--ghost" style="margin-top: 0.75rem">{a.cta}</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
       <h2>{ui.home.browseByGrade}</h2>
       <p class="lede">Jump straight to a grade level.</p>
       <div class="grades-nav">
