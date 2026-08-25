@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Structures shape our choices</title>
+  <desc id="d">Three labeled forces — rules, resources, and roles — press down toward a person, narrowing the wide fan of imagined choices into the smaller set of choices actually available. Labels carry the meaning, so the diagram prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#222222">Structures shape our choices</text>
+  <!-- the wide fan of imagined choices (top) -->
+  <path d="M120 120 L392 120 L256 230 Z" fill="#7a9e7e" opacity="0.55" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="256" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">all the choices I can imagine</text>
+  <!-- three structural forces -->
+  <rect x="56" y="262" width="120" height="52" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="116" y="293" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">rules</text>
+  <rect x="196" y="262" width="120" height="52" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="293" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">resources</text>
+  <rect x="336" y="262" width="120" height="52" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="396" y="293" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">roles</text>
+  <!-- arrows from forces down to the narrowed set -->
+  <line x1="116" y1="314" x2="206" y2="356" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="314" x2="256" y2="356" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="396" y1="314" x2="306" y2="356" stroke="#2b3a42" stroke-width="2"/>
+  <!-- the narrowed funnel -->
+  <path d="M150 356 L362 356 L256 430 Z" fill="#4f6d7a" opacity="0.35" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="256" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">choices actually open to me</text>
+  <!-- a person -->
+  <circle cx="256" y="456" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 490 Q256 470 280 490" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+</svg>

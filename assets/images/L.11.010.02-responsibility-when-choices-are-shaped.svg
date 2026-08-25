@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Individual and structural responsibility</title>
+  <desc id="d">Two labeled columns — "what I chose" and "what shaped my choices" — meet in a shared middle band labeled "shared responsibility". The diagram shows that when structures shape choice, responsibility is argued about rather than assumed to sit in one place.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">Where does responsibility sit?</text>
+  <!-- left column -->
+  <rect x="40" y="80" width="180" height="330" rx="10" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="130" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222" font-weight="bold">what I chose</text>
+  <text x="130" y="152" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">my decision</text>
+  <text x="130" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">my effort</text>
+  <text x="130" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">my habits</text>
+  <!-- right column -->
+  <rect x="292" y="80" width="180" height="330" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="382" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222" font-weight="bold">what shaped my</text>
+  <text x="382" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222" font-weight="bold">choices</text>
+  <text x="382" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">rules and laws</text>
+  <text x="382" y="204" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">income and access</text>
+  <text x="382" y="232" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">roles and status</text>
+  <!-- middle shared band -->
+  <rect x="220" y="180" width="72" height="230" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="256" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222" transform="rotate(-90 256 295)">shared responsibility</text>
+  <!-- bottom question -->
+  <text x="256" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">We argue where the line falls — it is not a fixed answer.</text>
+</svg>

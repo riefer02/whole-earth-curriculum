@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The good society, four visions</title>
+  <desc id="d">A four-panel diagram of visions of a good society: consensus and the Great Law of Peace (Haudenosaunee), collective rights and duties (African Charter), harmony through roles and ritual (Confucian), and welfare for all (Buddhist kingship). Each panel is labeled; meaning does not depend on color.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">What makes a society good?</text>
+  <!-- panel 1 -->
+  <rect x="24" y="70" width="224" height="180" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222" font-weight="bold">Consensus &amp; peace</text>
+  <text x="136" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">Great Law of Peace</text>
+  <text x="136" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(Haudenosaunee)</text>
+  <text x="136" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">decisions by council,</text>
+  <text x="136" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">for seven generations</text>
+  <!-- panel 2 -->
+  <rect x="264" y="70" width="224" height="180" rx="10" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222" font-weight="bold">Rights &amp; duties</text>
+  <text x="376" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">African Charter</text>
+  <text x="376" y="146" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(Banjul Charter)</text>
+  <text x="376" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">people's rights and</text>
+  <text x="376" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">each person's duties</text>
+  <!-- panel 3 -->
+  <rect x="24" y="268" width="224" height="180" rx="10" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="136" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222" font-weight="bold">Harmony &amp; roles</text>
+  <text x="136" y="324" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">Confucian thought</text>
+  <text x="136" y="344" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(ren, li, xiao)</text>
+  <text x="136" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">reciprocal duties in</text>
+  <text x="136" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">family and community</text>
+  <!-- panel 4 -->
+  <rect x="264" y="268" width="224" height="180" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222" font-weight="bold">Welfare for all</text>
+  <text x="376" y="324" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">Buddhist kingship</text>
+  <text x="376" y="344" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(Ashokan ideal)</text>
+  <text x="376" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">the ruler serves the</text>
+  <text x="376" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">well-being of all beings</text>
+  <!-- bottom line -->
+  <text x="256" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Different traditions, different answers — held side by side, none as the default.</text>
+</svg>

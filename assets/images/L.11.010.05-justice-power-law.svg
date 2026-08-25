@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Justice, power, and law</title>
+  <desc id="d">Three overlapping circles labeled justice, power, and law, with the overlaps labeled: power plus law can be order or oppression; justice plus law means law made fair; power plus justice means change driven by fairness. A central note asks what happens where the three do not meet.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">Justice, power, and law</text>
+  <!-- three circles -->
+  <circle cx="176" cy="250" r="120" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="336" cy="250" r="120" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="352" r="120" fill="#7a9e7e" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <!-- labels -->
+  <text x="118" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#222222" font-weight="bold">power</text>
+  <text x="394" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#222222" font-weight="bold">justice</text>
+  <text x="256" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#222222" font-weight="bold">law</text>
+  <!-- overlap notes -->
+  <text x="256" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">power + law:</text>
+  <text x="256" y="214" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">order, or oppression</text>
+  <text x="176" y="324" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">power + justice:</text>
+  <text x="176" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">change for fairness</text>
+  <text x="336" y="324" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">justice + law:</text>
+  <text x="336" y="342" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">law made fair</text>
+  <text x="256" y="486" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Where the three do not meet, we ask: who benefits, who is left out?</text>
+</svg>

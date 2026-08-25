@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A global supply chain</title>
+  <desc id="d">A left-to-right chain of five labeled boxes — mine, factory, ship, shop, home — connected by arrows, showing how one product travels the world. Above is the question "who benefits?" and below, "who bears the cost?" at each link. Labels, not color, carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#222222">One product, many hands</text>
+  <!-- chain boxes -->
+  <rect x="24" y="150" width="78" height="80" rx="8" fill="#6b93b6" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="63" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">mine</text>
+  <text x="63" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">raw material</text>
+
+  <rect x="126" y="150" width="78" height="80" rx="8" fill="#7a9e7e" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="165" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">factory</text>
+  <text x="165" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">make it</text>
+
+  <rect x="228" y="150" width="78" height="80" rx="8" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="267" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">ship</text>
+  <text x="267" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">move it</text>
+
+  <rect x="330" y="150" width="78" height="80" rx="8" fill="#6b93b6" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="369" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">shop</text>
+  <text x="369" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">sell it</text>
+
+  <rect x="432" y="150" width="60" height="80" rx="8" fill="#7a9e7e" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="462" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">home</text>
+  <text x="462" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">use it</text>
+  <!-- arrows -->
+  <line x1="102" y1="190" x2="124" y2="190" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="204" y1="190" x2="226" y2="190" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="306" y1="190" x2="328" y2="190" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="408" y1="190" x2="430" y2="190" stroke="#2b3a42" stroke-width="2"/>
+  <!-- question above and below -->
+  <text x="256" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">who benefits at each link?</text>
+  <text x="256" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">who bears the cost — the hours, the danger, the low pay?</text>
+  <text x="256" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Workers far from us make what we use.</text>
+  <text x="256" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Fairness across borders needs coordination.</text>
+  <!-- small figures under two boxes -->
+  <circle cx="63" cy="320" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="165" cy="320" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="369" cy="320" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">(figures mark where workers' hands do the work)</text>
+</svg>

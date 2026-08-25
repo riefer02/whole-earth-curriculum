@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">One conflict, many sides</title>
+  <desc id="d">A central shape labeled "the conflict" with five labeled viewpoints around it: a farmer, a herder, a government official, a neighbor, and a mediator. Each sees a different story of the same event; the diagram shows that understanding a conflict means holding several perspectives at once.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">One conflict, many sides</text>
+  <!-- central conflict -->
+  <circle cx="256" cy="240" r="78" fill="#4f6d7a" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="234" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222" font-weight="bold">the</text>
+  <text x="256" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222" font-weight="bold">conflict</text>
+  <!-- five viewpoints -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <circle cx="120" cy="110" r="18" fill="#e0a458"/>
+    <circle cx="392" cy="110" r="18" fill="#7a9e7e"/>
+    <circle cx="80" cy="250" r="18" fill="#6b93b6"/>
+    <circle cx="432" cy="250" r="18" fill="#e0a458"/>
+    <circle cx="256" cy="400" r="18" fill="#7a9e7e"/>
+  </g>
+  <line x1="138" y1="122" x2="196" y2="180" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="374" y1="122" x2="316" y2="180" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="98" y1="250" x2="178" y2="246" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="414" y1="250" x2="334" y2="246" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="256" y1="382" x2="256" y2="318" stroke="#2b3a42" stroke-width="2"/>
+  <!-- labels -->
+  <text x="120" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">the farmer</text>
+  <text x="392" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">the herder</text>
+  <text x="64" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">the official</text>
+  <text x="452" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">the neighbor</text>
+  <text x="256" y="438" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">the mediator</text>
+  <!-- note -->
+  <text x="256" y="482" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Each side has a story; a just path hears them all.</text>
+</svg>

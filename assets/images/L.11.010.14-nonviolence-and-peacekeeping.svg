@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Nonviolence and peacekeeping</title>
+  <desc id="d">A shield divided into two labeled halves. The left half lists tools of nonviolence — dialogue, marches, boycotts, civil disobedience — chosen by ordinary people. The right half shows peacekeeping as an impartial third party standing between sides. Below, a note says both are strategies to evaluate, not promises.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">Nonviolence and peacekeeping</text>
+  <!-- shield -->
+  <path d="M256 90 L420 140 L420 250 Q420 350 256 420 Q92 350 92 250 L92 140 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="256" y1="132" x2="256" y2="408" stroke="#2b3a42" stroke-width="2"/>
+  <!-- left half: nonviolence -->
+  <text x="170" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222" font-weight="bold">nonviolence</text>
+  <text x="170" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">by ordinary people</text>
+  <text x="170" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">dialogue</text>
+  <text x="170" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">marches</text>
+  <text x="170" y="268" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">boycotts</text>
+  <text x="170" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">civil disobedience</text>
+  <!-- right half: peacekeeping -->
+  <text x="346" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222" font-weight="bold">peacekeeping</text>
+  <text x="346" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">an impartial third</text>
+  <text x="346" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">party between sides</text>
+  <!-- two small figures and a shield between them -->
+  <circle cx="300" cy="300" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="392" cy="300" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="346" cy="300" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- note -->
+  <text x="256" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Both are strategies to evaluate — when they work, and when they fall short.</text>
+</svg>

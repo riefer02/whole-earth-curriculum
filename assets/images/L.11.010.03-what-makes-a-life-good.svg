@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The good life, four traditions</title>
+  <desc id="d">A circle labeled "the good life" with four labeled spokes: flourishing (eudaimonia, ancient Greece) at the top, duty and harmony (dharma, South Asia) on the left, freedom from suffering (nirvana, Buddhist) on the right, and benevolence (ren, Confucian China) at the bottom. Labels, not color, carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="46" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">What makes a life good?</text>
+  <circle cx="256" cy="250" r="74" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222" font-weight="bold">the good</text>
+  <text x="256" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#222222" font-weight="bold">life</text>
+  <!-- top spoke -->
+  <line x1="256" y1="176" x2="256" y2="118" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">flourishing</text>
+  <text x="256" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(eudaimonia, ancient Greece)</text>
+  <!-- left spoke -->
+  <line x1="182" y1="250" x2="96" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <text x="139" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">duty &amp; harmony</text>
+  <text x="139" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(dharma, South Asia)</text>
+  <!-- right spoke -->
+  <line x1="330" y1="250" x2="416" y2="250" stroke="#2b3a42" stroke-width="2"/>
+  <text x="373" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">freedom from</text>
+  <text x="373" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">suffering</text>
+  <text x="373" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(nirvana, Buddhist)</text>
+  <!-- bottom spoke -->
+  <line x1="256" y1="324" x2="256" y2="382" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">benevolence</text>
+  <text x="256" y="426" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(ren, Confucian China)</text>
+  <!-- bottom note -->
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Four traditions, four answers — compared, not ranked.</text>
+</svg>

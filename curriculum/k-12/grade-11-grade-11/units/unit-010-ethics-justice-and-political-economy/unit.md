@@ -74,3 +74,17 @@ questions, never answered as dogma.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.11.010.01 | The Shape of Our Choices | D09.S1.11.01 |
+| L.11.010.02 | Responsibility When Choices Are Shaped | D09.S1.11.01 |
+| L.11.010.03 | What Makes a Life Good? | D09.S1.11.02 |
+| L.11.010.04 | What Makes a Society Good? | D09.S1.11.02 |
+| L.11.010.05 | Justice, Power, and Law | D09.S2.11.01 |
+| L.11.010.06 | Changing an Unjust Law | D09.S2.11.01 |
+| L.11.010.07 | Justice as Freedom | D09.S2.11.02 |
+| L.11.010.08 | Justice as Equality and Care | D09.S2.11.02 |
+| L.11.010.09 | Three Lenses on One Issue | D09.S2.11.02 |
+| L.11.010.10 | A Problem We Can't Solve Alone | D09.S3.11.01 |
+| L.11.010.11 | Workers Across the World | D09.S3.11.01 |
+| L.11.010.12 | Solidarity Across Distance | D09.S3.11.02 |
+| L.11.010.13 | One Conflict, Many Sides | D09.S4.11.01 |
+| L.11.010.14 | Nonviolence and Peacekeeping | D09.S4.11.02 |

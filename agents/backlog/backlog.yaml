@@ -6358,7 +6358,7 @@ items:
     type: lesson
     grade: 11
     domain: D09
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6370,6 +6370,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (1687 files); all 14 lessons L.11.010.01-14 have kind:lesson, correct ids, objectives resolving to the 8 D09.S*.11.* standards; unit.md table lists all 14; Procedure/Assessment/Connection present; S-IDs resolve in sources.yaml; SVGs exist with non-empty alt.
+      fact-checker:
+        verdict: passed
+        note: all 35 cited S-IDs resolve to reviewed:true entries in sources.yaml; spot-checked Galtung S-462, UNDP S-283/WIR S-464 (no fabricated statistic), Salt March S-390, historical dates (Parihaka 1881 S-144, Defiance 1952 S-146, Montgomery S-324, Wave Hill 1966 S-206, Chipko S-328), Green Belt 30M trees S-059, philosophical SEP/Rawls/Sen/Ostrom sources all accurate; no fabricated citations.
+      global-culture-editor:
+        verdict: passed
+        note: "verified global representativeness: L.003 (Greek eudaimonia/Confucian ren/dharma/nirvana side-by-side, none ranked), L.004 (Haudenosaunee Great Law, African Charter, Confucian, Buddhist co-equal), L.006 (Salt March India, Parihaka Aotearoa w/ correct Māori macrons, Defiance South Africa, Montgomery, Wave Hill Australia), L.007-008 (Rawls + Sen), L.012 (Red Cross/Red Crescent, Green Belt/Wangari Maathai), L.014 (satyagraha/Chipko); explicit anti-Eurocentric framing throughout; no stereotyping."
+      accessibility-editor:
+        verdict: passed
+        note: all 14 lessons declare materials/materials_low_tech/materials_enriched with universal low-tech paper options; 5-way context_variants (large-group, multi-age, self-directed, level-grouped, outdoor-only) present; all 14 SVGs carry role=img + title + desc + aria-labelledby; assets entries have non-empty grayscale-safe alt; UDL multiple means + Support/Extension differentiation throughout.
+      alignment-auditor:
+        verdict: passed
+        note: "all four lenses present (ethics, egalitarianism, global; technology/environment substantively via L.009 digital-access divide S-281, L.010 climate collective-action S-005/S-006, L.011 supply-chain S-398); evidence-vs-value explicit per lesson; traceability intact: 14 objectives -> 8 D09.S*.11.* standards -> D09 -> P4 -> vision, no invented IDs; no hierarchy/supremacy/enrichment-of-few."
+      child-psychologist:
+        verdict: passed
+        note: "grade 11 (16-17): mature formal operations scaffolded with plain definitions + worked examples (S-011) + concrete anchors before abstraction; heavy topics (poverty, injustice, child labor, conflict, nonviolence) honest but non-graphic/non-sensational, paired with agency/hope never despair; inquiry held open, no imposed creed or required disclosure; kinesthetic variants optional and age-appropriate; Grade 10 spiral anchors acknowledged (L1 D09.S1.10.01, L3 D09.S1.10.02)."
   - id: B-405
     title: Author lessons for Unit U.11.011 (Technology, Media & the Living Earth)
     agent: lesson-author

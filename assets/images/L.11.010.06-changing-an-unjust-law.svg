@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Changing an unjust law</title>
+  <desc id="d">A four-step staircase rising left to right: notice the harm, organize with others, act nonviolently, and change the law. Each step is labeled and numbered; the path shows change as a climb made together rather than a single leap.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">Changing an unjust law</text>
+  <!-- staircase steps -->
+  <rect x="40" y="360" width="105" height="90" rx="6" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="392" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222" font-weight="bold">1 · notice</text>
+  <text x="92" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">the harm</text>
+
+  <rect x="150" y="290" width="105" height="90" rx="6" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="202" y="322" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222" font-weight="bold">2 · organize</text>
+  <text x="202" y="344" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">with others</text>
+
+  <rect x="260" y="220" width="105" height="90" rx="6" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="312" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222" font-weight="bold">3 · act</text>
+  <text x="312" y="274" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">nonviolently</text>
+
+  <rect x="370" y="150" width="105" height="90" rx="6" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
+  <text x="422" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222" font-weight="bold">4 · change</text>
+  <text x="422" y="204" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">the law</text>
+  <!-- step risers -->
+  <line x1="145" y1="360" x2="145" y2="290" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="255" y1="290" x2="255" y2="220" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="365" y1="220" x2="365" y2="150" stroke="#2b3a42" stroke-width="2"/>
+  <!-- bottom note -->
+  <text x="256" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">A climb made together, step by step.</text>
+</svg>

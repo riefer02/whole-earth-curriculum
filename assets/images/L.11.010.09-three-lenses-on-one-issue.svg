@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Three lenses on one issue</title>
+  <desc id="d">Three labeled columns look at the same issue through three theories of justice. Freedom asks "whose choices are respected?" Equality asks "how are benefits and burdens shared?" Care asks "whose needs and relationships are met?" The columns are joined at the top by a single bar labeled "one issue".</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">Three lenses on one issue</text>
+  <!-- top bar -->
+  <rect x="60" y="70" width="392" height="52" rx="8" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#fdfbf7">ONE ISSUE</text>
+  <!-- three columns -->
+  <rect x="60" y="122" width="124" height="300" rx="10" fill="#6b93b6" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="122" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222" font-weight="bold">freedom</text>
+  <text x="122" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">whose choices</text>
+  <text x="122" y="216" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">are respected?</text>
+
+  <rect x="194" y="122" width="124" height="300" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222" font-weight="bold">equality</text>
+  <text x="256" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">how are benefits</text>
+  <text x="256" y="216" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">and burdens shared?</text>
+
+  <rect x="328" y="122" width="124" height="300" rx="10" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+  <text x="390" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222" font-weight="bold">care</text>
+  <text x="390" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">whose needs and</text>
+  <text x="390" y="216" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">relationships are met?</text>
+  <!-- note -->
+  <text x="256" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Each lens reveals something the others miss.</text>
+</svg>

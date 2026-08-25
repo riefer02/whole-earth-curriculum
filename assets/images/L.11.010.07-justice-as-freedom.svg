@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Justice as freedom</title>
+  <desc id="d">A person at center with four labeled arrows pointing outward to real opportunities: learn, be healthy, participate, and choose work. The diagram shows freedom not as the absence of rules but as having real chances to do and be, which structures can open or close.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">Justice as freedom</text>
+  <!-- person -->
+  <circle cx="256" cy="270" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M224 330 Q256 306 288 330" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <!-- four opportunity arrows -->
+  <line x1="256" y1="244" x2="256" y2="150" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="256,142 250,158 262,158" fill="#2b3a42"/>
+  <text x="256" y="132" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">learn</text>
+
+  <line x1="282" y1="270" x2="400" y2="270" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="408,270 392,264 392,276" fill="#2b3a42"/>
+  <text x="430" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">choose</text>
+  <text x="430" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">work</text>
+
+  <line x1="230" y1="270" x2="112" y2="270" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="104,270 120,264 120,276" fill="#2b3a42"/>
+  <text x="70" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">be</text>
+  <text x="70" y="282" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">healthy</text>
+
+  <line x1="256" y1="296" x2="256" y2="390" stroke="#2b3a42" stroke-width="2"/>
+  <polygon points="256,398 250,382 262,382" fill="#2b3a42"/>
+  <text x="256" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">participate</text>
+  <!-- note -->
+  <text x="256" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Freedom = having real chances to do and be — not just the absence of rules.</text>
+</svg>
