@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">From local action to global solidarity</title>
+  <desc id="d">A chain of five linked circles — local act, immediate effect, distant people, distant ecosystems, global movement — connected by arrows, with a globe at the far end. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- five linked circles -->
+  <circle cx="80" cy="150" r="58" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="80" y="145" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">local</text>
+  <text x="80" y="167" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">act</text>
+  <circle cx="168" cy="300" r="58" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="168" y="295" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">immediate</text>
+  <text x="168" y="317" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">effect</text>
+  <circle cx="256" cy="150" r="58" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="145" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">distant</text>
+  <text x="256" y="167" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">people</text>
+  <circle cx="344" cy="300" r="58" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="344" y="295" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">distant</text>
+  <text x="344" y="317" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">ecosystems</text>
+  <circle cx="432" cy="150" r="58" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="432" y="145" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">global</text>
+  <text x="432" y="167" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">movement</text>
+  <!-- connecting arrows -->
+  <path d="M138 150 Q153 190 168 246" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <path d="M164 240 L168 252 L172 240" fill="#2b3a42"/>
+  <path d="M226 300 Q241 246 256 210" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <path d="M252 220 L256 208 L260 220" fill="#2b3a42"/>
+  <path d="M314 150 Q329 190 344 246" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <path d="M340 240 L344 252 L348 240" fill="#2b3a42"/>
+  <path d="M402 300 Q417 246 432 210" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <path d="M428 220 L432 208 L436 220" fill="#2b3a42"/>
+  <!-- globe at far end -->
+  <circle cx="432" cy="410" r="40" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M412 410 Q432 392 452 410" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M432 370 L432 450 M400 410 L464 410" stroke="#2b3a42" stroke-width="2"/>
+  <text x="432" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">the Earth</text>
+  <path d="M432 190 L432 368" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="8 6" fill="none"/>
+</svg>

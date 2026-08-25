@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Five views around one shared problem</title>
+  <desc id="d">Five labeled figures arranged in a circle around a shared problem at the center, each with a thought bubble naming a different need. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- center problem -->
+  <circle cx="256" cy="256" r="52" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">one shared</text>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">problem</text>
+  <!-- five figures + needs -->
+  <!-- top -->
+  <circle cx="256" cy="92" r="24" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="196" y="34" width="120" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="59" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">need: a home</text>
+  <!-- top-right -->
+  <circle cx="372" cy="140" r="24" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="356" y="96" width="120" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="416" y="121" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">need: a living</text>
+  <!-- bottom-right -->
+  <circle cx="372" cy="372" r="24" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="356" y="388" width="120" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="416" y="413" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">need: a voice</text>
+  <!-- bottom-left -->
+  <circle cx="140" cy="372" r="24" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="36" y="388" width="120" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="413" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">need: clean water</text>
+  <!-- top-left -->
+  <circle cx="140" cy="140" r="24" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="36" y="96" width="120" height="40" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="121" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">need: a future</text>
+</svg>

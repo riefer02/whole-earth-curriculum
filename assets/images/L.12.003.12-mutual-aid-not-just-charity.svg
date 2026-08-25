@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Charity versus mutual aid</title>
+  <desc id="d">Two panels. Left: one figure hands a box downward to a seated receiver, labeled 'charity — one gives, one decides'. Right: a circle of figures passing goods around, labeled 'mutual aid — everyone gives and decides'. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- divider -->
+  <line x1="256" y1="50" x2="256" y2="462" stroke="#2b3a42" stroke-width="3" stroke-dasharray="10 8"/>
+  <!-- LEFT: charity -->
+  <!-- giver standing, holding box, handing down -->
+  <circle cx="120" cy="110" r="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M86 170 Q120 204 154 170" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="96" y="140" width="48" height="34" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="96" y1="174" x2="96" y2="216" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="144" y1="174" x2="144" y2="216" stroke="#2b3a42" stroke-width="2.5"/>
+  <!-- receiver seated below -->
+  <circle cx="120" cy="260" r="24" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M90 312 Q120 340 150 312" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <text x="120" y="380" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">charity</text>
+  <text x="120" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">one gives, one decides</text>
+  <!-- RIGHT: mutual aid circle -->
+  <circle cx="390" cy="180" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M356 240 Q390 274 424 240" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="320" cy="290" r="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M286 350 Q320 384 354 350" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="460" cy="290" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M426 350 Q460 384 494 350" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <!-- goods being passed -->
+  <rect x="360" y="252" width="60" height="26" rx="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5" transform="rotate(40 390 265)"/>
+  <path d="M352 260 Q390 230 428 260" stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-dasharray="6 5"/>
+  <path d="M330 300 Q390 320 450 300" stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-dasharray="6 5"/>
+  <text x="390" y="380" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">mutual aid</text>
+  <text x="390" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">everyone gives and decides</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A three-line ethic of care</title>
+  <desc id="d">A scroll bearing a three-line statement — 'I care about…', 'because…', 'therefore I will…' — with a heart cupped in two hands beneath it. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- scroll -->
+  <rect x="96" y="70" width="320" height="230" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="96" cy="128" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="96" cy="242" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="416" cy="128" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="416" cy="242" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <!-- three lines -->
+  <text x="256" y="130" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">I care about…</text>
+  <text x="256" y="185" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">because…</text>
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">therefore I will…</text>
+  <!-- heart in hands -->
+  <path d="M256 380 C 226 352 176 366 176 398 C 176 428 256 452 256 452 C 256 452 336 428 336 398 C 336 366 286 352 256 380 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M176 452 Q 256 484 336 452" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+</svg>

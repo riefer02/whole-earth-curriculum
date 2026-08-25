@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Three steps of repair</title>
+  <desc id="d">A three-step loop — what happened, who was harmed, make it right — arranged around a broken bowl shown mended with visible seams. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- mended bowl center -->
+  <path d="M196 240 Q196 176 256 176 Q316 176 316 240 L300 312 L212 312 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <!-- mended seams -->
+  <path d="M232 178 L238 300" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <path d="M268 178 L274 300" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <path d="M204 232 L308 232" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">mended, not thrown away</text>
+  <!-- step 1 -->
+  <rect x="120" y="46" width="150" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="195" y="70" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">what happened</text>
+  <text x="195" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">1 · own it</text>
+  <!-- step 2 -->
+  <rect x="308" y="150" width="150" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="383" y="174" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">who was harmed</text>
+  <text x="383" y="194" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">2 · listen</text>
+  <!-- step 3 -->
+  <rect x="108" y="360" width="150" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="183" y="384" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">make it right</text>
+  <text x="183" y="404" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">3 · act</text>
+  <!-- arrows forming a loop -->
+  <path d="M270 74 L340 74 L340 148" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <path d="M336 142 L340 152 L344 142" fill="#2b3a42"/>
+  <path d="M383 206 L383 258 L340 300 L320 306" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <path d="M328 302 L320 308 L332 312" fill="#2b3a42"/>
+  <path d="M258 388 L258 418 L120 418 L120 416" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+</svg>

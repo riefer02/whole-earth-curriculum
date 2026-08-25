@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Three moves of active listening</title>
+  <desc id="d">Two figures in conversation; one has set a phone aside and turns toward the speaker. Three labeled listening moves — attend, paraphrase, check — surround them. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- speaker (left) -->
+  <circle cx="150" cy="180" r="40" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M108 270 Q150 310 192 270" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <!-- speaker speech bubble -->
+  <ellipse cx="150" cy="120" rx="56" ry="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M128 142 L140 158 L158 142" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- listener (right) -->
+  <circle cx="360" cy="180" r="40" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M318 270 Q360 310 402 270" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <!-- phone set aside -->
+  <rect x="416" y="236" width="44" height="76" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M420 252 L436 252 M420 260 L436 260" stroke="#4f6d7a" stroke-width="2.5"/>
+  <!-- attention line from listener to speaker -->
+  <path d="M322 180 L212 180" stroke="#2b3a42" stroke-width="3" stroke-dasharray="8 6" fill="none"/>
+  <!-- three labels -->
+  <rect x="60" y="352" width="120" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="120" y="384" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">attend</text>
+  <rect x="196" y="352" width="120" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">paraphrase</text>
+  <rect x="332" y="352" width="120" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="392" y="384" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">check</text>
+</svg>

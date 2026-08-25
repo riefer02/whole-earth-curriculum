@@ -6543,7 +6543,7 @@ items:
     type: lesson
     grade: 12
     domain: D02
-    status: ready
+    status: done
     priority: 170
     depends_on:
       - B-109
@@ -6554,7 +6554,26 @@ items:
       - accessibility-editor
       - alignment-auditor
       - child-psychologist
-    notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    notes: "Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md. Blocked by accessibility-editor: communication lessons mandate oral production without non-verbal/non-oral pathway: L2/L3/L4/L11/L14 require 'say it aloud'/'speak one line'/'voice and body' as only output mode; no signing/writing/AAC/typing/gesture alternative; L4 centers auditory 'active listening' and outdoor variant 'sit facing away, listen without seeing' is exclusionary for d/Deaf/hard-of-hearing. Fix: add explicit alternative to each oral step ('...or write, sign, type, or gesture it') and give L4 a non-auditory listening mode + non-hearing-safe outdoor variant.. Blocked by accessibility-editor: 8 lessons (L3, L6, L7, L8, L9, L10, L12, L13) Communication access bullets name non-speaking/d/Deaf/hard-of-hearing but omit AAC users entirely (some list 'spoken/written/signed/typed/gestured' with no 'AAC'). Non-oral/non-auditory barriers otherwise fixed. Add AAC-user category to each of those 8 bullets.."
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (1750); 14 lessons objectives only the 8 D02 standards, Procedure/Assessment/Connection present, unit.md table intact, tech lens all 14 + env in 9; the 8 reworked bullets (L3/6/7/8/9/10/12/13) now name 'AAC users'; earlier-fixed lessons retain AAC mentions, no regression.
+      fact-checker:
+        verdict: passed
+        note: AAC rework purely procedural wording (no statistic/causal/definitional claim, no new S-ID); all 23 S-IDs resolve to reviewed entries; Resources intact; validate passes 1750.
+      global-culture-editor:
+        verdict: passed
+        note: "AAC additions use respectful person-first terminology ('AAC users', 'non-speaking' not 'nonverbal', 'd/Deaf'); AAC framed as co-equal mode 'counts fully'/preferred mode, no deficiency/pity framing; touches no regional/cultural examples so no global-framing regression. Minor non-blocking: AAC never expanded to full name."
+      accessibility-editor:
+        verdict: passed
+        note: all 8 lessons (L3/6/7/8/9/10/12/13) now name 'AAC users' in Communication access bullets alongside non-speaking/d/Deaf/hard-of-hearing; earlier fixes intact (non-oral alternatives everywhere; L4 non-auditory 'No step requires hearing or producing sound').
+      alignment-auditor:
+        verdict: passed
+        note: "traceability clean: objectives -> D02.S1.12.01..S4.12.02 (all 8 text-matched) -> D02 -> P1 -> vision; all 23 sources resolve; validate 1750; lenses: ethics/egalitarianism/global in every lesson, technology in all 14, environment in 9/14 (L2/L5/L6/L9/L12 carry tech-half only, but environment strong at unit level L7/L10/L13 + capstone L14, so no lens missing from unit); evidence-vs-values distinguished; no hierarchy/supremacy/enrichment-of-few."
+      child-psychologist:
+        verdict: passed
+        note: "grade 12 (17-18): abstract load (Tajfel, Ostrom commons/free-rider, Anderson, Bullard, steelmanning) at mature formal operations, worked-example anchored; intimate/communication content fictional/observational with Safeguarding note in every lesson barring disclosure of private relationships/trauma; collective care honest but not overwhelming (L10 'dilemma real but not hopeless', L13 'one link is enough', L7 small local optional); inquiry over creed, values vs facts distinguished; kinesthetic/outdoor optional; Grade 11 spiral anchors (L1 D02.S1.11.02, L5/L7 D02.S2.11.01). Non-blocking: L3 step 3 stray spacing artifact for copy-edit."
   - id: B-410
     title: Author lessons for Unit U.12.004 (Language, Literature & Deliberation)
     agent: lesson-author

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Four moves of an honest, blame-free conversation</title>
+  <desc id="d">A four-step path — observe, feel, need, request — leading from a crossed-out blame speech bubble on the left to an open, honest speech bubble on the right. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- blame bubble crossed out -->
+  <ellipse cx="120" cy="150" rx="62" ry="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="120" y="156" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">You always…</text>
+  <line x1="80" y1="120" x2="160" y2="180" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="160" y1="120" x2="80" y2="180" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- arrow -->
+  <path d="M186 150 L246 150" stroke="#2b3a42" stroke-width="3" fill="none" marker-end="none"/>
+  <path d="M240 144 L252 150 L240 156" fill="#2b3a42"/>
+  <!-- four steps -->
+  <rect x="252" y="60" width="176" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="340" y="92" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">observe</text>
+  <rect x="252" y="124" width="176" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="340" y="156" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">feel</text>
+  <rect x="252" y="188" width="176" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="340" y="220" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">need</text>
+  <rect x="252" y="252" width="176" height="52" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="340" y="284" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">request</text>
+  <!-- connecting arrows -->
+  <path d="M340 112 L340 122" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <path d="M340 176 L340 186" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <path d="M340 240 L340 250" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <!-- honest bubble -->
+  <ellipse cx="120" cy="360" rx="66" ry="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="120" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">When you…</text>
+  <text x="120" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">I felt…</text>
+  <!-- path up to honest bubble -->
+  <path d="M340 304 L340 336 L186 336 L186 356" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
+  <path d="M182 348 L186 360 L190 348" fill="#2b3a42"/>
+</svg>

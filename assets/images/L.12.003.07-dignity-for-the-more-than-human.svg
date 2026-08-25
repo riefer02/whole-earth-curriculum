@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The community of all life</title>
+  <desc id="d">A person, a tree, and a river standing as peers inside a circle labeled 'the community of all life', with hands and roots reaching between them in reciprocity. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- circle of all life -->
+  <circle cx="256" cy="256" r="200" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">the community of all life</text>
+  <!-- person -->
+  <circle cx="150" cy="220" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M108 310 Q150 344 192 310" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <!-- tree -->
+  <rect x="356" y="270" width="26" height="90" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="369" cy="210" r="58" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M369 190 L320 150 M369 190 L369 140 M369 190 L418 150 M369 190 L340 120 M369 190 L398 120" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <!-- river -->
+  <path d="M96 380 Q156 360 216 380 Q276 400 336 380 Q386 364 428 380" fill="none" stroke="#6b93b6" stroke-width="26" stroke-linecap="round"/>
+  <text x="150" y="436" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a river</text>
+  <!-- reciprocity hands/roots between person and tree -->
+  <path d="M192 250 Q256 250 330 250" stroke="#2b3a42" stroke-width="3" stroke-dasharray="8 6" fill="none"/>
+  <!-- small hands -->
+  <circle cx="216" cy="250" r="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <circle cx="306" cy="250" r="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+</svg>

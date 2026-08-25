@@ -69,3 +69,17 @@ responsibility for people and the Earth, connecting local action to global solid
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | What Trust Is Made Of | D02.S1.12.01 |
+| 2 | The Hard Conversation | D02.S1.12.01, D02.S1.12.02 |
+| 3 | Repair: Listen, Own It, Make It Right | D02.S1.12.01 |
+| 4 | The Listener I Want to Become | D02.S1.12.02 |
+| 5 | Empathy as Evidence | D02.S2.12.01 |
+| 6 | Many Views, One Problem | D02.S2.12.01 |
+| 7 | Dignity for the More-Than-Human | D02.S2.12.02 |
+| 8 | My Place in the Nest | D02.S3.12.01 |
+| 9 | Who's In, Who's Out, and Why | D02.S3.12.02 |
+| 10 | Weighing Solidarity | D02.S3.12.02 |
+| 11 | A Personal Ethic of Care | D02.S4.12.01 |
+| 12 | Mutual Aid, Not Just Charity | D02.S4.12.01 |
+| 13 | Local Action, Global Solidarity | D02.S4.12.02 |
+| 14 | The Ethic I Carry Forward | D02.S4.12.01, D02.S4.12.02, D02.S3.12.01 |

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Four blocks that build trust</title>
+  <desc id="d">A wall labeled trust built from four stacked, labeled blocks — honesty, reliability, repair, mutual respect — with a small crack being mended by a hand. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- wall outline -->
+  <rect x="116" y="96" width="280" height="336" rx="12" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <!-- block 1 honesty -->
+  <rect x="132" y="118" width="248" height="64" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="157" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">honesty</text>
+  <!-- block 2 reliability -->
+  <rect x="132" y="194" width="248" height="64" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="233" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">reliability</text>
+  <!-- block 3 repair (with crack) -->
+  <rect x="132" y="270" width="248" height="64" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="309" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">repair</text>
+  <!-- crack line -->
+  <path d="M228 272 L214 318 L238 332" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- block 4 mutual respect -->
+  <rect x="132" y="346" width="248" height="64" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="385" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">mutual respect</text>
+  <!-- top label -->
+  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">TRUST</text>
+  <!-- mending hand -->
+  <circle cx="332" cy="304" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <path d="M346 296 L360 288" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M348 304 L362 302" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M346 312 L360 316" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

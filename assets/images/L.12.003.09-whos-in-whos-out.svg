@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The line between us and them</title>
+  <desc id="d">A vertical dividing line labeled 'the line', with several figures on the 'us' side and several on the 'them' side, and one figure at the line reaching a hand across. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <!-- the line -->
+  <line x1="256" y1="60" x2="256" y2="420" stroke="#2b3a42" stroke-width="3" stroke-dasharray="12 8"/>
+  <text x="270" y="70" text-anchor="start" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">the line</text>
+  <!-- us side label -->
+  <text x="110" y="70" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">us</text>
+  <!-- them side label -->
+  <text x="402" y="70" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">them</text>
+  <!-- us figures -->
+  <circle cx="110" cy="150" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M76 210 Q110 244 144 210" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="160" cy="300" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M126 360 Q160 394 194 360" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <!-- them figures -->
+  <circle cx="402" cy="150" r="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M368 210 Q402 244 436 210" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="352" cy="300" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M318 360 Q352 394 386 360" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <!-- reaching figure at the line -->
+  <circle cx="256" cy="380" r="26" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M222 440 Q256 474 290 440" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M256 360 Q282 330 322 320" stroke="#2b3a42" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="326" cy="318" r="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+</svg>
