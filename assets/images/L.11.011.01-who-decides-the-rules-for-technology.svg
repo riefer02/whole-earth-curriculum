@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Three forces that govern a technology: law, standards, and markets</title>
+  <desc id="d">A diagram with three labeled boxes — law (statutes, courts, patents), standards (agreed technical rules), and markets (buyers, sellers, price) — each connected by an arrow to a central box labeled "a technology." Labels carry the meaning so the diagram prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Three forces govern a technology</text>
+
+  <!-- Law box -->
+  <rect x="156" y="62" width="200" height="76" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">LAW</text>
+  <text x="256" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">statutes, courts, patents</text>
+
+  <!-- Standards box -->
+  <rect x="28" y="180" width="196" height="76" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="126" y="208" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">STANDARDS</text>
+  <text x="126" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">agreed technical rules</text>
+
+  <!-- Markets box -->
+  <rect x="288" y="180" width="196" height="76" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="386" y="208" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">MARKETS</text>
+  <text x="386" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">buyers, sellers, price</text>
+
+  <!-- Central box -->
+  <rect x="156" y="360" width="200" height="80" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">A TECHNOLOGY</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">who may use it, how, at what cost</text>
+
+  <!-- Arrows -->
+  <line x1="256" y1="138" x2="256" y2="356" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="256,356 250,344 262,344" fill="#2b3a42"/>
+  <line x1="126" y1="256" x2="180" y2="388" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="180,388 172,376 188,378" fill="#2b3a42"/>
+  <line x1="386" y1="256" x2="332" y2="388" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="332,388 340,376 324,378" fill="#2b3a42"/>
+</svg>

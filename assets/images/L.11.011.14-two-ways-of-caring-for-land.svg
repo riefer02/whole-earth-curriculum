@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Two ways of relating to land: place-based stewardship and industrial use</title>
+  <desc id="d">Two labeled panels. Left: "place-based stewardship" shows a circle of give and take, care, reciprocity, and long time horizons. Right: "industrial resource use" shows a one-way line from extract to make to use to waste. Both are described, not ranked; each is followed by "what it teaches about sustainability." Labels carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">Two ways of relating to land</text>
+
+  <!-- left panel -->
+  <rect x="20" y="56" width="230" height="250" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="135" y="84" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">PLACE-BASED</text>
+  <text x="135" y="104" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">STEWARDSHIP</text>
+  <circle cx="135" cy="170" r="46" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="135" y="166" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">give</text>
+  <text x="135" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and take</text>
+  <text x="135" y="246" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">care and reciprocity</text>
+  <text x="135" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">knowledge of one place</text>
+  <text x="135" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">thinking in generations</text>
+
+  <!-- right panel -->
+  <rect x="262" y="56" width="230" height="250" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="377" y="84" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">INDUSTRIAL</text>
+  <text x="377" y="104" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">RESOURCE USE</text>
+  <rect x="290" y="126" width="70" height="34" rx="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="325" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">EXTRACT</text>
+  <rect x="386" y="126" width="70" height="34" rx="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="421" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">MAKE</text>
+  <rect x="290" y="196" width="70" height="34" rx="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="325" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">USE</text>
+  <rect x="386" y="196" width="70" height="34" rx="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="421" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">WASTE</text>
+  <line x1="360" y1="143" x2="386" y2="143" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="386,143 376,137 376,149" fill="#2b3a42"/>
+  <line x1="421" y1="160" x2="421" y2="196" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="421,196 415,186 427,186" fill="#2b3a42"/>
+  <line x1="360" y1="213" x2="386" y2="213" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="386,213 376,207 376,219" fill="#2b3a42"/>
+  <text x="377" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a one-way line, at scale</text>
+
+  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Neither is the whole answer.</text>
+  <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Stewardship teaches: live within what a place can renew.</text>
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Industry teaches: scale and speed carry costs that must be paid.</text>
+</svg>

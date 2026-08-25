@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The chain of information: creator, platform, audience, harm</title>
+  <desc id="d">A chain of four labeled nodes linked by arrows: creator, platform, audience, and harm. Each node lists the responsibility at that link: creators make it, platforms amplify and rank it, audiences share it, and harm spreads. Labels carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Where harm travels, who answers?</text>
+
+  <rect x="28" y="70" width="108" height="96" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="82" y="98" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">CREATOR</text>
+  <text x="82" y="122" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">made it,</text>
+  <text x="82" y="140" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">framed it</text>
+
+  <rect x="202" y="70" width="108" height="96" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">PLATFORM</text>
+  <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">amplified,</text>
+  <text x="256" y="140" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">ranked it</text>
+
+  <rect x="376" y="70" width="108" height="96" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="430" y="98" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">AUDIENCE</text>
+  <text x="430" y="122" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">believed,</text>
+  <text x="430" y="140" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">shared it</text>
+
+  <!-- arrows top -->
+  <line x1="136" y1="118" x2="198" y2="118" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="198,118 188,112 188,124" fill="#2b3a42"/>
+  <line x1="310" y1="118" x2="372" y2="118" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="372,118 362,112 362,124" fill="#2b3a42"/>
+
+  <!-- harm node -->
+  <rect x="140" y="300" width="232" height="92" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">HARM SPREADS</text>
+  <text x="256" y="358" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">lies cost lives, reputations, trust</text>
+
+  <!-- arrows down to harm -->
+  <line x1="256" y1="166" x2="256" y2="296" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="256,296 250,286 262,286" fill="#2b3a42"/>
+
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Each link has a share of the answer.</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">The platform's share is shaped by design, not by accident.</text>
+</svg>

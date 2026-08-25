@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Techniques of propaganda and information manipulation</title>
+  <desc id="d">Five labeled boxes show common manipulation techniques: dehumanization, repetition, scapegoating, fear, and false equivalence. A source box at the top feeds all five. Labels carry the meaning so the diagram prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">How manipulation works</text>
+
+  <rect x="176" y="56" width="160" height="46" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="85" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">A MESSAGE</text>
+
+  <line x1="256" y1="102" x2="256" y2="128" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="256" y1="128" x2="96" y2="150" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="256" y1="128" x2="256" y2="150" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="256" y1="128" x2="416" y2="150" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <rect x="20" y="150" width="152" height="92" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="96" y="178" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">DEHUMANIZE</text>
+  <text x="96" y="202" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">portray people as</text>
+  <text x="96" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">less than human</text>
+
+  <rect x="180" y="150" width="152" height="92" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="178" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">REPEAT</text>
+  <text x="256" y="202" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">say it until it</text>
+  <text x="256" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">feels true</text>
+
+  <rect x="340" y="150" width="152" height="92" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="416" y="178" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">SCAPEGOAT</text>
+  <text x="416" y="202" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">blame one group</text>
+  <text x="416" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">for everything</text>
+
+  <rect x="100" y="266" width="152" height="92" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="176" y="294" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">FEAR</text>
+  <text x="176" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">make people too</text>
+  <text x="176" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">afraid to question</text>
+
+  <rect x="260" y="266" width="152" height="92" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="336" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">FALSE</text>
+  <text x="336" y="314" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">EQUIVALENCE</text>
+  <text x="336" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"both sides equal"</text>
+
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Naming the technique is the first step of resisting it.</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Who made this? What do they want me to feel? What is left out?</text>
+</svg>

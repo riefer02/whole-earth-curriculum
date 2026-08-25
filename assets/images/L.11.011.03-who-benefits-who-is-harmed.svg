@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The benefits and harms of a technology land in different places</title>
+  <desc id="d">A phone at the center with two arrows. The left arrow points to a box labeled "benefits: connection, information, work — often near the buyer." The right arrow points to a box labeled "harms: mining, waste, low pay — often far from the buyer." The diagram shows that costs and benefits are distributed unevenly.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">One product, two very different footprints</text>
+
+  <!-- central phone -->
+  <rect x="216" y="216" width="80" height="140" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="236" y1="236" x2="276" y2="236" stroke="#4f6d7a" stroke-width="2.5"/>
+  <circle cx="256" cy="322" r="7" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a device</text>
+
+  <!-- benefits box -->
+  <rect x="24" y="120" width="168" height="150" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="108" y="150" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">BENEFITS</text>
+  <text x="108" y="178" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">connection</text>
+  <text x="108" y="202" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">information</text>
+  <text x="108" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">paid work</text>
+  <text x="108" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#4f6d7a">mostly near the buyer</text>
+
+  <!-- harms box -->
+  <rect x="320" y="120" width="168" height="150" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="404" y="150" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">HARMS</text>
+  <text x="404" y="178" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">mining that pollutes</text>
+  <text x="404" y="202" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">low, unsafe pay</text>
+  <text x="404" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">e-waste dumps</text>
+  <text x="404" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#4f6d7a">often far from the buyer</text>
+
+  <!-- arrows -->
+  <line x1="196" y1="200" x2="218" y2="232" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="218,232 206,228 216,242" fill="#2b3a42"/>
+  <line x1="316" y1="200" x2="294" y2="232" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="294,232 306,228 296,242" fill="#2b3a42"/>
+
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">The gap between who benefits and who is harmed</text>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">is a question of fairness, not an accident.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Climate policy: coordination and the justice question</title>
+  <desc id="d">Two panels. Left: many small country boxes linked by lines to one agreement box, labeled "coordination: everyone's actions affect everyone." Right: two columns labeled "emitted most over history" and "feel the worst impacts," showing they are often different places, labeled "justice: who pays, who is protected." Labels carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">One climate, two hard questions</text>
+
+  <!-- left panel -->
+  <rect x="20" y="56" width="230" height="200" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="135" y="82" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">COORDINATION</text>
+  <rect x="36" y="96" width="60" height="30" rx="5" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="120" y="96" width="60" height="30" rx="5" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="204" y="96" width="30" height="30" rx="5" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="60" y="134" width="60" height="30" rx="5" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="144" y="134" width="60" height="30" rx="5" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="96" y1="126" x2="135" y2="188" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="174" y1="164" x2="150" y2="188" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="96" y="188" width="78" height="44" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="135" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">AGREEMENT</text>
+  <text x="135" y="226" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">everyone's actions</text>
+  <text x="135" y="242" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">affect everyone</text>
+
+  <!-- right panel -->
+  <rect x="262" y="56" width="230" height="200" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="377" y="82" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">JUSTICE</text>
+  <rect x="282" y="98" width="80" height="130" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="322" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">EMITTED</text>
+  <text x="322" y="136" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">MOST</text>
+  <text x="322" y="160" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">over two</text>
+  <text x="322" y="178" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">centuries</text>
+  <rect x="392" y="98" width="80" height="130" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="432" y="120" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">FEEL THE</text>
+  <text x="432" y="136" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">WORST</text>
+  <text x="432" y="160" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">impacts</text>
+  <text x="432" y="178" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">today</text>
+  <line x1="362" y1="163" x2="392" y2="163" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="377" y="244" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">often different places</text>
+
+  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Coordination asks: how do we act together when no one</text>
+  <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">country alone can solve it, and each can wait for others?</text>
+  <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Justice asks: who should pay, and who must be protected first?</text>
+</svg>

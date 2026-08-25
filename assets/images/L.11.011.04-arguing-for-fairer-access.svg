@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">Three levers that close the access gap</title>
+  <desc id="d">A wide gap on the left labeled "unequal access" narrows toward a short gap on the right labeled "fairer access." Three labeled levers — policy, price, and public infrastructure — press down to close the gap. Labels carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Closing the gap</text>
+
+  <!-- left cliff (wide gap) -->
+  <polygon points="40,220 150,220 150,420 40,420" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="95" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">UNEQUAL</text>
+  <text x="95" y="352" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">ACCESS</text>
+
+  <!-- right cliff (narrow gap) -->
+  <polygon points="330,260 440,260 440,420 330,420" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="385" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">FAIRER</text>
+  <text x="385" y="352" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">ACCESS</text>
+
+  <!-- levers pressing down -->
+  <rect x="80" y="60" width="120" height="54" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="140" y="84" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">POLICY</text>
+  <text x="140" y="104" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">who sets the rules</text>
+  <line x1="140" y1="114" x2="140" y2="200" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="140,200 134,190 146,190" fill="#2b3a42"/>
+
+  <rect x="236" y="60" width="120" height="54" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="296" y="84" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">PRICE</text>
+  <text x="296" y="104" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">who can afford it</text>
+  <line x1="296" y1="114" x2="296" y2="200" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="296,200 290,190 302,190" fill="#2b3a42"/>
+
+  <rect x="392" y="60" width="120" height="54" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="452" y="84" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">PUBLIC</text>
+  <text x="452" y="104" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">infrastructure</text>
+  <line x1="452" y1="114" x2="452" y2="200" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="452,200 446,190 458,190" fill="#2b3a42"/>
+
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Fairer access is something people build,</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">through rules, prices, and shared infrastructure.</text>
+</svg>

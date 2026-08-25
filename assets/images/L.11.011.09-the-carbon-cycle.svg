@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The carbon cycle and the human shortcut</title>
+  <desc id="d">Four labeled reservoirs — atmosphere, plants and animals, soil and ocean, and fossil fuels deep underground — connected by arrows for photosynthesis, respiration, decomposition, and dissolving. A thick dashed arrow labeled "burning fossil fuels" moves carbon from deep underground into the atmosphere. Labels carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">The carbon cycle</text>
+
+  <!-- atmosphere -->
+  <rect x="176" y="56" width="160" height="54" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">ATMOSPHERE</text>
+  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">carbon dioxide (CO₂)</text>
+
+  <!-- plants & animals -->
+  <rect x="20" y="250" width="150" height="70" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="95" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">PLANTS &amp;</text>
+  <text x="95" y="294" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">ANIMALS</text>
+  <text x="95" y="312" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">living things</text>
+
+  <!-- soil & ocean -->
+  <rect x="342" y="250" width="150" height="70" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="417" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">SOIL &amp;</text>
+  <text x="417" y="294" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">OCEAN</text>
+  <text x="417" y="312" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">stores carbon</text>
+
+  <!-- fossil fuels -->
+  <rect x="176" y="382" width="160" height="62" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">FOSSIL FUELS</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">buried for millions of years</text>
+
+  <!-- cycle arrows -->
+  <line x1="216" y1="110" x2="116" y2="248" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="116,248 110,236 128,238" fill="#2b3a42"/>
+  <text x="128" y="180" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">photosynthesis</text>
+
+  <line x1="296" y1="110" x2="396" y2="248" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="396,248 390,236 408,238" fill="#2b3a42"/>
+  <text x="372" y="180" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">respiration</text>
+
+  <line x1="95" y1="320" x2="230" y2="382" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="417" y1="320" x2="282" y2="382" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="170" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">decomposition</text>
+
+  <!-- human shortcut -->
+  <line x1="256" y1="382" x2="256" y2="112" stroke="#2b3a42" stroke-width="4" stroke-dasharray="8 6"/>
+  <polygon points="256,112 249,124 263,124" fill="#2b3a42"/>
+  <text x="286" y="250" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">HUMAN</text>
+  <text x="286" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">SHORTCUT:</text>
+  <text x="286" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">burning fossil</text>
+  <text x="286" y="308" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">fuels, fast</text>
+</svg>

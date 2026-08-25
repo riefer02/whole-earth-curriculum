@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">The water cycle and how humans alter it</title>
+  <desc id="d">A looping diagram: the sun drives evaporation upward from ocean and land, water condenses into clouds, falls as precipitation, collects in rivers and ground, and flows back to the ocean. Dashed boxes show human alterations: dams and diversion, and pollution. Labels carry the meaning.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">The water cycle</text>
+
+  <!-- sun -->
+  <circle cx="76" cy="78" r="22" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="76" y="84" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">SUN</text>
+
+  <!-- clouds -->
+  <ellipse cx="256" cy="96" rx="64" ry="26" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">CONDENSE</text>
+
+  <!-- precipitation -->
+  <line x1="256" y1="122" x2="256" y2="190" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="256,190 250,180 262,180" fill="#2b3a42"/>
+  <text x="278" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">rain, snow</text>
+
+  <!-- land / collection -->
+  <rect x="140" y="192" width="120" height="60" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="200" y="216" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">COLLECT</text>
+  <text x="200" y="236" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">rivers, ground</text>
+
+  <!-- ocean -->
+  <rect x="20" y="330" width="150" height="62" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="95" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">OCEAN</text>
+  <text x="95" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">96% of all water</text>
+
+  <!-- evaporation -->
+  <line x1="76" y1="100" x2="76" y2="170" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="95" y1="330" x2="76" y2="170" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="48" y="256" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">evaporate</text>
+
+  <!-- runoff -->
+  <line x1="200" y1="252" x2="140" y2="330" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="140,330 134,318 152,320" fill="#2b3a42"/>
+
+  <!-- human alterations -->
+  <rect x="318" y="210" width="168" height="120" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <text x="402" y="238" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">HUMANS ALTER IT</text>
+  <text x="402" y="264" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">dams and diversions</text>
+  <text x="402" y="286" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">move water where</text>
+  <text x="402" y="308" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">it did not go</text>
+
+  <line x1="318" y1="262" x2="262" y2="222" stroke="#2b3a42" stroke-width="2.5"/>
+</svg>

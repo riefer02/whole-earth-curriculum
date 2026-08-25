@@ -6395,7 +6395,7 @@ items:
     type: lesson
     grade: 11
     domain: D10
-    status: ready
+    status: done
     priority: 160
     depends_on:
       - B-108
@@ -6407,6 +6407,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate passes (1701 files); all 14 lessons L.11.011.01-14 have kind:lesson, unit U.11.011, objectives resolving only to the 8 D10.S*.11.* standards, all 8 covered at least once; Procedure/Assessment/Connection present; unit.md table lists all 14; SVG paths resolve with non-empty alt; spot-checked L3/L5/L9/L12/L13 (S-398 cobalt, S-494 Rwanda radio, S-253/IPCC S-005/NASA S-438 carbon cycle, S-427 Kimmerer, S-485 Standing Rock, S-437 IPBES).
+      fact-checker:
+        verdict: passed
+        note: all 38 distinct S-IDs resolve to reviewed:true entries; spot-checked carbon/water/nitrogen cycles (S-253/S-438/S-212/S-213/S-049), IPCC/OWID climate (S-005/S-006 emissions-vs-exposure), cobalt S-398 (Amnesty, hedged 'sometimes'), Rwanda S-494/S-495, Standing Rock S-485 (Mní wičhóni), IPBES S-437, Kimmerer S-427, sewing-machine dates S-062, Maathai S-059; no fabricated citations.
+      global-culture-editor:
+        verdict: passed
+        note: "genuinely global, no US/Euro default: L12/L14 name living indigenous knowledge from first-party sources (Potawatomi Kimmerer S-427, Lakota Mní wičhóni S-485, Inuit Circumpolar Council S-058, Aboriginal Australian cultural burning S-321), guarded against exoticizing/romanticizing/ranking; multi-continent (DRC cobalt L3, Rwanda L5, Green Belt/Maathai L14, Global-South justice framing L13); no culture framed primitive/inferior; no stereotyping."
+      accessibility-editor:
+        verdict: passed
+        note: all 14 lessons declare materials/materials_low_tech/materials_enriched with universal low-tech fallback (paper cards + hand-drawn organizers); 5-way context_variants incl. no-facilitator/no-electricity; no mandatory devices; all 14 SVGs role=img + aria-labelledby + title + desc, grayscale-safe, no red/green-only encoding; non-empty descriptive alt on all assets; UDL multiple means + Support/Extension in all 14.
+      alignment-auditor:
+        verdict: passed
+        note: all four lenses present; D10 tech/environment spine split L1-8 (tech) / L9-14 (env); traceability U.11.011 -> P4 -> D10 -> S1-S4 -> all 8 D10.S*.11.* objectives verbatim in domain.md; evidence-vs-value explicit with S-ID sources (IPCC S-005, WHO S-049, World Bank S-281, Ostrom S-416, Kimmerer S-427, IPBES S-437); no hierarchy/supremacy; 'neither worship nor fear' maintained.
+      child-psychologist:
+        verdict: passed
+        note: "grade 11 (16-17): abstract concepts (governance, propaganda, carbon/nitrogen/water cycles, climate policy, indigenous worldviews) scaffolded with retrieval + worked examples (S-011) + support/extension; heavy topics (cobalt child labor L3, Rwanda propaganda L5) honest but non-spectacular, agency-anchored, no guilt/numbness; climate reframed to hope; inquiry held open, value choices marked as values not fact, no forced disclosure; kinesthetic/outdoor variants optional; Grade 10 spiral anchors acknowledged (L1/L3/L5/L9)."
   - id: B-406
     title: Author lessons for Unit U.11.012 (All of Me, All of Us)
     agent: lesson-author

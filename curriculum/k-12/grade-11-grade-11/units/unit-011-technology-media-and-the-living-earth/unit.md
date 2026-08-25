@@ -73,3 +73,17 @@ practices with industrial resource use, and what each teaches about sustainabili
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| 1 | Who Decides the Rules for Technology? | D10.S1.11.01 |
+| 2 | The Debate Over Regulating a Technology | D10.S1.11.01 |
+| 3 | Who Benefits, Who Is Harmed? | D10.S1.11.02 |
+| 4 | Arguing for Fairer Access | D10.S1.11.02 |
+| 5 | How Propaganda Works | D10.S2.11.01 |
+| 6 | A Free Press and Literacy | D10.S2.11.01 |
+| 7 | When Information Spreads Harm | D10.S2.11.02 |
+| 8 | Arguing for What Should Change | D10.S2.11.02 |
+| 9 | The Carbon Cycle | D10.S3.11.01 |
+| 10 | The Water Cycle | D10.S3.11.01 |
+| 11 | The Nitrogen Cycle | D10.S3.11.01 |
+| 12 | The More-Than-Human World | D10.S3.11.02 |
+| 13 | Governing the Climate | D10.S4.11.01 |
+| 14 | Two Ways of Caring for Land | D10.S4.11.02 |

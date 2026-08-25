@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
+  <title id="t">A regulation debate: reasons to regulate more versus regulate less</title>
+  <desc id="d">A balance diagram with a triangular fulcrum under a horizontal beam. The left pan is labeled "regulate more" and lists protecting people, preventing harm, and fair rules. The right pan is labeled "regulate less" and lists innovation, freedom, and lower cost. Both sides are shown as real arguments, not ranked.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">One technology, two arguments</text>
+
+  <!-- beam -->
+  <line x1="40" y1="96" x2="472" y2="96" stroke="#2b3a42" stroke-width="4"/>
+  <!-- fulcrum -->
+  <polygon points="256,96 232,150 280,150" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- left pan -->
+  <rect x="40" y="170" width="196" height="180" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="138" y="200" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">REGULATE MORE</text>
+  <text x="138" y="228" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">protect people</text>
+  <text x="138" y="256" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">prevent harm</text>
+  <text x="138" y="284" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">fair rules for all</text>
+  <text x="138" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#4f6d7a">risk: slow, rigid</text>
+
+  <!-- right pan -->
+  <rect x="276" y="170" width="196" height="180" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="374" y="200" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">REGULATE LESS</text>
+  <text x="374" y="228" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">room to innovate</text>
+  <text x="374" y="256" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">freedom of choice</text>
+  <text x="374" y="284" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">lower cost, faster</text>
+  <text x="374" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#4f6d7a">risk: harm unchecked</text>
+
+  <!-- pan strings -->
+  <line x1="80" y1="96" x2="80" y2="170" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="196" y1="96" x2="196" y2="170" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="316" y1="96" x2="316" y2="170" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="432" y1="96" x2="432" y2="170" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">A good debate weighs real harms against real benefits,</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">and asks who carries each.</text>
+</svg>
