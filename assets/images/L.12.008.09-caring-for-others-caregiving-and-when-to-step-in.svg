@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Caring for Others: Caregiving and When to Step In</title>
+  <desc id="desc">A person at the center with rings labeled daily help, listening, safety, and professional help around them, captioned "help with, not instead of — and know when to step in."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Circle of Care</text>
+
+  <!-- center person -->
+  <circle cx="256" cy="240" r="30" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 256 270 L 256 320 M 256 320 L 232 360 M 256 320 L 280 360 M 256 284 L 232 300 M 256 284 L 280 300" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- four rings -->
+  <g font-family="sans-serif" font-size="15" fill="#4f6d7a" text-anchor="middle">
+    <rect x="56" y="76" width="150" height="54" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="131" y="108">daily help</text>
+
+    <rect x="306" y="76" width="150" height="54" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="381" y="108">listening</text>
+
+    <rect x="56" y="350" width="150" height="54" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="131" y="382">safety</text>
+
+    <rect x="306" y="350" width="150" height="54" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="3"/>
+    <text x="381" y="376">professional</text>
+    <text x="381" y="394" font-size="14">help</text>
+  </g>
+
+  <!-- ring connectors -->
+  <g stroke="#2b3a42" stroke-width="2">
+    <line x1="196" y1="196" x2="226" y2="214"/>
+    <line x1="316" y1="196" x2="286" y2="214"/>
+    <line x1="196" y1="284" x2="226" y2="266"/>
+    <line x1="316" y1="284" x2="286" y2="266"/>
+  </g>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Help with, not instead of.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Know when to step in or get more help than you can give.</text>
+</svg>

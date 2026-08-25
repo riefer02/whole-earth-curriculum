@@ -4705,3 +4705,23 @@ sources:
     domains: [D06, D08]
     reviewed: true
     notes: "Cited in U.12.006 L08/L13/L14 as one of several origin accounts held side by side with the scientific account. Britannica's 'Allah' entry documents Allah (Arabic Allāh, 'God') as the one God of Islam, creator and sustainer of the universe; the Qur'anic account describes God creating the heavens and the earth in six days and shaping the first human from clay. The lesson's framing is accurate and non-overclaiming. URL verified live (2026-08-25)."
+
+  - id: S-504
+    title: "WHO — Mental health (fact sheet)"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response
+    organization: World Health Organization
+    year: 2025
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.12.008 L07 (Mental Health and Medical Care), L08 (Lifelong Health Plan), and L09 (Caring for Others) as the general authority that mental health is a component of overall health and wellbeing, that everyone has mental health (distinct from mental health conditions/mental illness, which are treatable), and that support and care exist and can be accessed. URL verified live (2026-08-25): the WHO 'Mental health' fact sheet (current title 'Mental health', dated 8 October 2025; the cited 'mental-health-strengthening-our-response' URL now serves this updated page) states mental health 'is a state of mental well-being that enables people to cope with the stresses of life, realize their abilities, learn and work well, and contribute to their community. It has intrinsic and instrumental value and is a basic human right'; that mental health 'exists on a complex continuum'; and that 'many mental health conditions can be effectively treated at relatively low cost.' The lessons use this as a general, global authority for the normalizing frame (everyone has mental health; asking for help is a strength), not as a claim-level citation for any statistic. Global authority (WHO)."
+
+  - id: S-505
+    title: "WHO — Ageing and health (fact sheet)"
+    type: website
+    url: https://www.who.int/news-room/fact-sheets/detail/ageing-and-health
+    organization: World Health Organization
+    year: 2025
+    domains: [D03]
+    reviewed: true
+    notes: "Cited in U.12.008 L09 (Caring for Others: Caregiving and When to Step In) as the general authority for the framing that caring for older people is a matter of dignity, autonomy, and respect, and that caregiving supports a person to live well rather than taking over their life. URL verified live (2026-08-25): the WHO 'Ageing and health' fact sheet (dated 1 October 2025) states 'By 2030, 1 in 6 people in the world will be aged 60 years or over'; that the ability to do the things one values is central to healthy ageing ('If people can experience these extra years of life in good health and if they live in a supportive environment, their ability to do the things they value will be little different from that of a younger person'); that supportive physical and social environments 'enable people to do what is important to them, despite losses in capacity'; and that society should address ageist attitudes that assume older people are 'frail or dependent and a burden to society.' The lesson uses this as a general authority for the dignity-and-autonomy framing of caregiving, not as a claim-level citation for a specific statistic. Global authority (WHO)."

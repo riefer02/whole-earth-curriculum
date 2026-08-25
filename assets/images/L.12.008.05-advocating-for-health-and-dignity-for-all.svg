@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Advocating for Health and Dignity for All</title>
+  <desc id="desc">A lever lifting a shared table, with labels naming the levers — policy, community programs, cooperatives, school meals, gardens — captioned "individual and collective wellbeing linked."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Lever: Advocacy</text>
+
+  <!-- table being lifted -->
+  <rect x="150" y="170" width="212" height="24" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="186" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">a shared table: food for all</text>
+
+  <!-- lever arm -->
+  <line x1="120" y1="300" x2="380" y2="208" stroke="#4f6d7a" stroke-width="4"/>
+  <!-- fulcrum -->
+  <path d="M 240 300 L 226 300 L 226 340 L 254 340 L 254 300 Z" fill="#2b3a42"/>
+
+  <!-- lever labels -->
+  <g font-family="sans-serif" font-size="14" fill="#4f6d7a">
+    <text x="86" y="330">policy</text>
+    <text x="86" y="348">cooperatives</text>
+    <text x="86" y="366">school meals</text>
+    <text x="86" y="384">community gardens</text>
+  </g>
+  <line x1="126" y1="322" x2="186" y2="286" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- arrow showing lift -->
+  <path d="M 256 150 L 256 120" stroke="#7a9e7e" stroke-width="3" fill="none"/>
+  <path d="M 250 126 L 256 116 L 262 126" stroke="#7a9e7e" stroke-width="3" fill="none"/>
+
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Individual and collective wellbeing are one.</text>
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Name a change, show who it helps and what it costs, take a first step.</text>
+</svg>

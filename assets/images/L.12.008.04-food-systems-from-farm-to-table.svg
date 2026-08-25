@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Food Systems: From Farm to Table</title>
+  <desc id="desc">A chain of seven labeled stages — seed/soil, farm, processing, transport, market, table, waste — with people and Earth shown alongside, captioned "from farm to table and back."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">From Farm to Table and Back</text>
+
+  <!-- chain of stages -->
+  <g font-family="sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">
+    <rect x="24" y="150" width="72" height="72" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="60" y="184">seed</text>
+    <text x="60" y="200">soil</text>
+
+    <rect x="106" y="150" width="72" height="72" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="142" y="190">farm</text>
+
+    <rect x="188" y="150" width="72" height="72" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="224" y="184">process-</text>
+    <text x="224" y="200">ing</text>
+
+    <rect x="270" y="150" width="72" height="72" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="306" y="184">trans-</text>
+    <text x="306" y="200">port</text>
+
+    <rect x="352" y="150" width="72" height="72" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="388" y="190">market</text>
+
+    <rect x="434" y="150" width="60" height="72" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="464" y="190">table</text>
+  </g>
+
+  <!-- arrows between stages -->
+  <g stroke="#2b3a42" stroke-width="2" fill="none">
+    <path d="M 96 186 L 104 186"/>
+    <path d="M 178 186 L 186 186"/>
+    <path d="M 260 186 L 268 186"/>
+    <path d="M 342 186 L 350 186"/>
+    <path d="M 424 186 L 432 186"/>
+  </g>
+
+  <!-- waste loop back -->
+  <rect x="434" y="300" width="60" height="60" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="464" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">waste</text>
+  <path d="M 464 224 C 464 262, 464 276, 464 298" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 494 260 C 470 300, 90 300, 62 236" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 4"/>
+  <path d="M 62 236 L 66 244 L 58 244" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- people and earth alongside -->
+  <text x="60" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">people at every stage</text>
+  <text x="452" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">land · water · climate</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Each stage is a place where health and dignity can be helped or harmed.</text>
+</svg>

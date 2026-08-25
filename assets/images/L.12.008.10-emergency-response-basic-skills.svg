@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Emergency Response: Check, Call, Care</title>
+  <desc id="desc">Three boxes in a row labeled check, call, and care, each with one short line beneath, plus a note "know your emergency number."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Emergency Response: Check · Call · Care</text>
+
+  <!-- three boxes -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <rect x="36" y="120" width="140" height="110" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="106" y="164" font-size="22" fill="#2b3a42" font-weight="bold">1 · Check</text>
+    <text x="106" y="192" font-size="14" fill="#4f6d7a">scene safe?</text>
+    <text x="106" y="212" font-size="14" fill="#4f6d7a">awake? breathing?</text>
+
+    <rect x="186" y="120" width="140" height="110" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="256" y="164" font-size="22" fill="#2b3a42" font-weight="bold">2 · Call</text>
+    <text x="256" y="192" font-size="14" fill="#4f6d7a">your emergency</text>
+    <text x="256" y="212" font-size="14" fill="#4f6d7a">number</text>
+
+    <rect x="336" y="120" width="140" height="110" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="406" y="164" font-size="22" fill="#2b3a42" font-weight="bold">3 · Care</text>
+    <text x="406" y="192" font-size="14" fill="#4f6d7a">within your</text>
+    <text x="406" y="212" font-size="14" fill="#4f6d7a">limits</text>
+  </g>
+
+  <!-- arrows -->
+  <path d="M 178 175 L 184 175" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M 184 175 L 178 169 M 184 175 L 178 181" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M 328 175 L 334 175" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M 334 175 L 328 169 M 334 175 L 328 181" stroke="#2b3a42" stroke-width="3" fill="none"/>
+
+  <!-- care sub-lines -->
+  <g font-family="sans-serif" font-size="14" fill="#4f6d7a" text-anchor="middle">
+    <text x="106" y="286">recovery position</text>
+    <text x="256" y="286">pressure · cool · help</text>
+    <text x="406" y="286">when unsure, call</text>
+  </g>
+
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Know your emergency number.</text>
+  <rect x="176" y="392" width="160" height="54" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">your local number</text>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">The nearest ordinary person — you — can begin help.</text>
+</svg>

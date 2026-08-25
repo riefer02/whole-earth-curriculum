@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Putting It Together: A Lifelong Health Plan</title>
+  <desc id="desc">A wheel with five labeled spokes — sleep, movement, nutrition, mental health, medical care — around a hub reading "my health, my pace," with the caption "revisit and adjust, for life."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Lifelong Health Plan</text>
+
+  <!-- outer wheel -->
+  <circle cx="256" cy="250" r="170" fill="none" stroke="#2b3a42" stroke-width="3"/>
+
+  <!-- five spokes -->
+  <g stroke="#4f6d7a" stroke-width="2">
+    <line x1="256" y1="250" x2="256" y2="80"/>
+    <line x1="256" y1="250" x2="420" y2="202"/>
+    <line x1="256" y1="250" x2="364" y2="392"/>
+    <line x1="256" y1="250" x2="148" y2="392"/>
+    <line x1="256" y1="250" x2="92" y2="202"/>
+  </g>
+
+  <!-- hub -->
+  <circle cx="256" cy="250" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">my health,</text>
+  <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">my pace</text>
+
+  <!-- spoke labels -->
+  <g font-family="sans-serif" font-size="15" fill="#4f6d7a" text-anchor="middle">
+    <text x="256" y="70">sleep</text>
+    <text x="430" y="196">movement</text>
+    <text x="372" y="412">nutrition</text>
+    <text x="140" y="412">mental health</text>
+    <text x="70" y="196">medical care</text>
+  </g>
+
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Revisit and adjust — for life.</text>
+</svg>

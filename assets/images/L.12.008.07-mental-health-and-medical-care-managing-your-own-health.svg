@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Mental Health and Medical Care</title>
+  <desc id="desc">A body and a mind/feelings side connected by a bridge, with a "where to turn" arrow pointing to a trusted person, a health worker, and a helpline, captioned "health is body and mind — both need care."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Health Is Body and Mind</text>
+
+  <!-- body side -->
+  <rect x="56" y="90" width="160" height="150" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+  <circle cx="136" cy="140" r="22" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 136 162 L 136 202 M 136 202 L 114 228 M 136 202 L 158 228 M 136 172 L 118 188 M 136 172 L 154 188" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="136" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">body</text>
+
+  <!-- mind side -->
+  <rect x="296" y="90" width="160" height="150" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+  <circle cx="376" cy="140" r="26" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 362 150 C 366 158, 386 158, 390 150" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 366 166 L 366 178 M 386 166 L 386 178" stroke="#2b3a42" stroke-width="3"/>
+  <text x="376" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">mind / feelings</text>
+
+  <!-- bridge -->
+  <path d="M 216 150 C 236 190, 276 190, 296 150" fill="none" stroke="#e0a458" stroke-width="4"/>
+  <text x="256" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">connected</text>
+
+  <!-- where to turn -->
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">where to turn</text>
+  <g font-family="sans-serif" font-size="14" fill="#4f6d7a" text-anchor="middle">
+    <rect x="48" y="320" width="130" height="46" rx="8" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="113" y="348">a trusted person</text>
+    <rect x="191" y="320" width="130" height="46" rx="8" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="256" y="348">a health worker</text>
+    <rect x="334" y="320" width="130" height="46" rx="8" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="399" y="348">a helpline</text>
+  </g>
+
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Asking for help is managing your health well.</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Your body's worth is not its size or shape.</text>
+</svg>

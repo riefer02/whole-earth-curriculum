@@ -59,3 +59,13 @@ every family's way of living is honored; the body is taught with dignity, never 
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.12.008.01 | The Science of Nutrition: What Bodies Need | D03.S3.12.01 |
+| L.12.008.02 | Nutrition, Ethics, and the Environment | D03.S3.12.01 |
+| L.12.008.03 | Cultural Foodways and Lifelong Food Decisions | D03.S3.12.01 |
+| L.12.008.04 | Food Systems: From Farm to Table | D03.S3.12.02 |
+| L.12.008.05 | Advocating for Health and Dignity for All | D03.S3.12.02 |
+| L.12.008.06 | Independent Health Management: Sleep, Movement, Nutrition | D03.S4.12.01 |
+| L.12.008.07 | Mental Health and Medical Care: Managing Your Own Health | D03.S4.12.01 |
+| L.12.008.08 | Putting It Together: A Lifelong Health Plan | D03.S4.12.01 |
+| L.12.008.09 | Caring for Others: Caregiving and When to Step In | D03.S4.12.02 |
+| L.12.008.10 | Emergency Response: Basic Skills | D03.S4.12.02 |

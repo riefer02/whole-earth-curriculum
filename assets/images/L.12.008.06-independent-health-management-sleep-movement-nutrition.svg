@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Independent Health Management: Sleep, Movement, Nutrition</title>
+  <desc id="desc">Three pillars labeled sleep, movement, and nutrition supporting a roof labeled "my health," with a caption "your body, your pace, your life — ranges, not rules."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Three Pillars of Health</text>
+
+  <!-- roof -->
+  <path d="M 96 190 L 256 120 L 416 190 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="176" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">my health</text>
+
+  <!-- three pillars -->
+  <rect x="110" y="190" width="78" height="180" rx="6" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+  <text x="149" y="290" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">sleep</text>
+
+  <rect x="217" y="190" width="78" height="180" rx="6" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">move-</text>
+  <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">ment</text>
+
+  <rect x="324" y="190" width="78" height="180" rx="6" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="363" y="282" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">nutri-</text>
+  <text x="363" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">tion</text>
+
+  <!-- base line -->
+  <line x1="90" y1="370" x2="422" y2="370" stroke="#2b3a42" stroke-width="4"/>
+
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Your body, your pace, your life.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Ranges, not rules — find your place within them.</text>
+</svg>

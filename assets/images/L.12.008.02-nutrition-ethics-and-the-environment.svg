@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Nutrition, Ethics, and the Environment</title>
+  <desc id="desc">A plate at the center with four labeled arrows reaching out to land, water, climate/energy, and people, captioned "what a meal touches."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">What a Meal Touches</text>
+
+  <!-- central plate -->
+  <circle cx="256" cy="240" r="72" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="256" cy="240" r="46" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="246" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">a meal</text>
+
+  <!-- four arrow boxes -->
+  <g font-family="sans-serif" font-size="17" fill="#4f6d7a" text-anchor="middle">
+    <rect x="56" y="60" width="120" height="60" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="3"/>
+    <text x="116" y="96">land</text>
+
+    <rect x="336" y="60" width="120" height="60" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <text x="396" y="96">water</text>
+
+    <rect x="56" y="392" width="120" height="60" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <text x="116" y="422">climate</text>
+    <text x="116" y="440" font-size="14">energy</text>
+
+    <rect x="336" y="392" width="120" height="60" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="3"/>
+    <text x="396" y="428">people</text>
+  </g>
+
+  <!-- arrows from plate to boxes -->
+  <g stroke="#2b3a42" stroke-width="3" fill="none">
+    <line x1="196" y1="180" x2="146" y2="122"/>
+    <path d="M 140 116 L 146 122 L 152 116"/>
+    <line x1="316" y1="180" x2="366" y2="122"/>
+    <path d="M 372 116 L 366 122 L 360 116"/>
+    <line x1="196" y1="300" x2="146" y2="358"/>
+    <path d="M 140 364 L 146 358 L 152 364"/>
+    <line x1="316" y1="300" x2="366" y2="358"/>
+    <path d="M 372 364 L 366 358 L 360 364"/>
+  </g>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Knowing a footprint is information, not a verdict.</text>
+</svg>
