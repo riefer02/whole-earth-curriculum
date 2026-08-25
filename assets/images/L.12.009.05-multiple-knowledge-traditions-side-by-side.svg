@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Multiple Knowledge Traditions, Side by Side</title>
+  <desc id="desc">Three equal columns side by side, no column raised above the others — herbal medicine, scientific biomedicine, and Indigenous ecological knowledge — each labeled "what it asks" and "what it offers." A shared row below reads "held side by side, none ranked above another." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Knowledge Traditions, Held Side by Side</text>
+
+  <!-- three columns, equal -->
+  <rect x="24" y="64" width="148" height="300" rx="8" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="98" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Herbal medicine</text>
+  <text x="36" y="122" font-family="sans-serif" font-size="12" fill="#4f6d7a">Asks:</text>
+  <text x="36" y="142" font-family="sans-serif" font-size="12" fill="#222222">what heals, and how</text>
+  <text x="36" y="160" font-family="sans-serif" font-size="12" fill="#222222">is it passed on?</text>
+  <text x="36" y="196" font-family="sans-serif" font-size="12" fill="#4f6d7a">Offers:</text>
+  <text x="36" y="216" font-family="sans-serif" font-size="12" fill="#222222">plant knowledge,</text>
+  <text x="36" y="234" font-family="sans-serif" font-size="12" fill="#222222">healing in the home</text>
+
+  <rect x="182" y="64" width="148" height="300" rx="8" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Biomedicine</text>
+  <text x="194" y="122" font-family="sans-serif" font-size="12" fill="#4f6d7a">Asks:</text>
+  <text x="194" y="142" font-family="sans-serif" font-size="12" fill="#222222">what mechanism,</text>
+  <text x="194" y="160" font-family="sans-serif" font-size="12" fill="#222222">what does the trial show?</text>
+  <text x="194" y="196" font-family="sans-serif" font-size="12" fill="#4f6d7a">Offers:</text>
+  <text x="194" y="216" font-family="sans-serif" font-size="12" fill="#222222">mechanism, evidence,</text>
+  <text x="194" y="234" font-family="sans-serif" font-size="12" fill="#222222">prediction</text>
+
+  <rect x="340" y="64" width="148" height="300" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="414" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Indigenous ecology</text>
+  <text x="352" y="122" font-family="sans-serif" font-size="12" fill="#4f6d7a">Asks:</text>
+  <text x="352" y="142" font-family="sans-serif" font-size="12" fill="#222222">how are land and</text>
+  <text x="352" y="160" font-family="sans-serif" font-size="12" fill="#222222">people healthy together?</text>
+  <text x="352" y="196" font-family="sans-serif" font-size="12" fill="#4f6d7a">Offers:</text>
+  <text x="352" y="216" font-family="sans-serif" font-size="12" fill="#222222">care for the land,</text>
+  <text x="352" y="234" font-family="sans-serif" font-size="12" fill="#222222">long memory of place</text>
+
+  <rect x="24" y="384" width="464" height="70" rx="8" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Held side by side — none ranked above another.</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Each asks its own questions; each offers its own strengths.</text>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Refuse to rank; refuse to pretend they are identical.</text>
+</svg>

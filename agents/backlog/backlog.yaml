@@ -6765,7 +6765,7 @@ items:
     type: lesson
     grade: 12
     domain: D08
-    status: ready
+    status: done
     priority: 170
     depends_on:
       - B-109
@@ -6777,6 +6777,25 @@ items:
       - alignment-auditor
       - child-psychologist
     notes: Author the unit's full lesson set per unit.md and the grade scope. Include tiered materials, context_variants, and SVG assets inline per docs/art-style.md.
+    reviews:
+      reviewer:
+        verdict: passed
+        note: validate 1830; all 14 lessons have Procedure/Assessment/Facilitator note/Connection + materials_low_tech + Communication access + Number access (dyscalculia); objectives resolve to real D08 grade-12 standards (L13->S4.12.01 matches 'weigh competing accounts of power and resistance...'), all 8 covered; unit.md table lists 14 matching; 46 unique S-IDs resolve; Connection concrete/faithful (L8 garden-many-crops grounds knowledge diversity); history many perspectives (L9 'not explorers discovering', L10 enslaved as authors not background); hard topics (slave trade, climate displacement) sourced + agency-centered not despair; grade-12 appropriate.
+      fact-checker:
+        verdict: passed
+        note: "S-506 (Smithsonian NMNH Intro to Human Evolution) verified live (200) and marked reviewed:true; 'Homo sapiens evolved in Africa ~300,000 years ago' matches species page verbatim, recorded exact URL, current consensus (Jebel Irhoud ~315ka); deep-time/history figures correct: 12M+ transatlantic slave trade (S-322 SlaveVoyages ~12.5M), Salt March 1930 (S-087/S-205), writing ~5000 years (S-264), urbanization >half (S-089), UDHR (S-149), chai isogloss (S-169); all 46 S-IDs resolve; evidence vs values distinguished (L8 values-vs-evidence, L13 Salt March two accounts 'do not assert one verdict'); knowledge traditions refuse ranking AND all-claims-equal relativism; validate 1830."
+      global-culture-editor:
+        verdict: passed
+        note: No single-civilization/'rise of the West' teleology; deep time anchored in Africa (L3 shared ancestry rooted in Africa), L9 'map is not explorers discovering, no place/people more native than another'; named cases center underrepresented regions held as living systems not tokens (West African griot, Andean khipu, Timbuktu manuscripts, kohanga reo/Punana Leo, Mi'kmaq two-eyed seeing, cultural burning, Salt March + Aba Women's War, Defiance Campaign, Chipko); accuracy spot-checks held (slave trade ~12M SlaveVoyages, Salt March 1930 two accounts genuine, tea/chai routes); knowledge traditions side by side with both scientific and relativist dogmatism refused; Connection spans Lagos/Jakarta/La Paz; validate 1830.
+      accessibility-editor:
+        verdict: passed
+        note: UDL in all 14 (worked examples, pre-printed organizers, labeled SVGs, say-write-sign-gesture-AAC); low-tech/no-tech (paper/pebbles/string/chalk; devices only in enriched tier with paper equivalents); Communication access + Number access (dyscalculia) in all 14 (dates 300k yrs/12M/1930 offloaded to pre-printed non-numeric organizers); language global not English-default (griot/jeli/jali, khipu, kohanga reo, Punana Leo, Chipko); no wealth assumption; alt text + SVGs role=img/title/desc/grayscale-safe, deep-time map L9 uses dash patterns + labels not color alone; validate 1830.
+      alignment-auditor:
+        verdict: passed
+        note: All lenses in frontmatter + Facilitator paragraphs of all 14; ethics (weighing as duty of fairness, freedom/dignity, reasoned judgments on power/resistance); egalitarianism (centers excluded voices — elders, griots, khipu, Timbuktu scholars, enslaved, migrants; rejects ranking traditions); global (Lagos/Jakarta/La Paz, West Africa, Andes, Timbuktu, South Africa, India, Ghana — no US/Euro default); technology+environment (writing/archives/media/transport/climate); evidence vs values (L8 models it, contested history = weighing not verdict); traceability D08.S*.12.* -> D08(P4 Contextual & Ecological Awareness) -> vision; validate 1830.
+      child-psychologist:
+        verdict: passed
+        note: "Grade 12 (17-18) mature formal operations: weighing competing accounts (sourcing/perspective/corroboration), reasoned synthesis, non-dogmatic relation among knowledge traditions; atrocity content (slave trade 12M, Salt March) held at honest depth with feeling-named-first + agency/resistance ('never despair', no graphic detail); deep time reframed as placement not meaninglessness (L3 'a thread in a story'); unfinished struggle = within-reach agency (L14 'one person who learns/speaks/stands with others', L12 'not asked to solve climate alone, never guilt'); physical fit + optional sharing (protects displaced learners); open-ended questions steered between scientific and relativist dogmatism (L13 'do not assert a verdict, argue one'); validate 1830."
   - id: B-416
     title: Author lessons for Unit U.12.010 (Ethics, Justice & Civic Life)
     agent: lesson-author

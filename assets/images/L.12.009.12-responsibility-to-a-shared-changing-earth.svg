@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Responsibility to a Shared, Changing Earth</title>
+  <desc id="desc">Three nested circles. Innermost: "care for myself and my people." Middle: "justice for those most affected." Outermost: "care for the living Earth." Each circle carries one small labeled action. Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Responsibility to a Shared Earth</text>
+
+  <!-- outer -->
+  <circle cx="256" cy="270" r="170" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">care for the living Earth</text>
+  <text x="256" y="98" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">plant for pollinators, use less water</text>
+
+  <!-- middle -->
+  <circle cx="256" cy="270" r="120" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="166" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">justice for those most affected</text>
+  <text x="256" y="184" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">stand with those who did least to cause it</text>
+
+  <!-- inner -->
+  <circle cx="256" cy="270" r="70" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">care for</text>
+  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">my people</text>
+
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">One small, real step in each circle — not one grand fix alone.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Weighing Accounts of Power and Resistance</title>
+  <desc id="desc">A balance scale. One pan holds a box labeled "the account of those holding power"; the other holds a box labeled "the account of those resisting." Below, two lines: "weigh both — who benefits, who is harmed, who is heard" and "form a reasoned judgment, and name what stays unsettled." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Weighing Accounts of Power and Resistance</text>
+
+  <!-- balance beam -->
+  <line x1="96" y1="118" x2="416" y2="118" stroke="#2b3a42" stroke-width="5"/>
+  <line x1="256" y1="118" x2="256" y2="168" stroke="#2b3a42" stroke-width="5"/>
+  <polygon points="256,168 238,204 274,204" fill="#2b3a42"/>
+  <!-- pans -->
+  <line x1="96" y1="118" x2="96" y2="166" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M40 166 Q96 242 152 166 Z" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <line x1="416" y1="118" x2="416" y2="166" stroke="#4f6d7a" stroke-width="3"/>
+  <path d="M360 166 Q416 242 472 166 Z" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+
+  <!-- left box -->
+  <rect x="46" y="150" width="100" height="78" rx="6" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="96" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">those holding</text>
+  <text x="96" y="188" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">power</text>
+  <text x="96" y="208" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">"they broke</text>
+  <text x="96" y="222" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">the law"</text>
+
+  <!-- right box -->
+  <rect x="366" y="150" width="100" height="78" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="416" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">those resisting</text>
+  <text x="416" y="188" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">unjust power</text>
+  <text x="416" y="208" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">"they refused</text>
+  <text x="416" y="222" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">an unjust order"</text>
+
+  <rect x="46" y="292" width="420" height="120" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Weigh both, then judge</text>
+  <text x="62" y="352" font-family="sans-serif" font-size="13" fill="#222222">who benefits, who is harmed, whose voice reached us</text>
+  <text x="62" y="376" font-family="sans-serif" font-size="13" fill="#222222">form a reasoned judgment — with evidence</text>
+  <text x="62" y="400" font-family="sans-serif" font-size="13" fill="#222222">name what stays unsettled</text>
+
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Same act, two tellings — weigh, do not merely pick a side.</text>
+</svg>

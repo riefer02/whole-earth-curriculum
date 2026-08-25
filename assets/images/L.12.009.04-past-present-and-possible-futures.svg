@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Past, Present, and Possible Futures</title>
+  <desc id="desc">Three circles in a left-to-right chain connected by arrows — "past: what I inherit," "present: what is happening now," "possible futures: what I could help make" — with the arrow out of "present" splitting toward two future circles and continuing past the page edge, marked "unfinished." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Past, Present, and Possible Futures</text>
+
+  <!-- past -->
+  <circle cx="100" cy="190" r="70" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="100" y="182" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Past</text>
+  <text x="100" y="202" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">what I inherit</text>
+
+  <!-- present -->
+  <circle cx="256" cy="190" r="70" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="182" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Present</text>
+  <text x="256" y="202" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">what is happening now</text>
+
+  <!-- arrow past -> present -->
+  <line x1="172" y1="190" x2="184" y2="190" stroke="#2b3a42" stroke-width="4"/>
+  <polygon points="184,190 174,184 174,196" fill="#2b3a42"/>
+
+  <!-- arrow present -> futures (splits) -->
+  <line x1="328" y1="178" x2="384" y2="140" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="328" y1="202" x2="384" y2="240" stroke="#2b3a42" stroke-width="4"/>
+
+  <!-- future A -->
+  <circle cx="404" cy="120" r="58" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="404" y="116" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Possible</text>
+  <text x="404" y="134" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">future A</text>
+
+  <!-- future B -->
+  <circle cx="404" cy="260" r="58" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="404" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Possible</text>
+  <text x="404" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">future B</text>
+
+  <!-- unfinished arrow past page -->
+  <line x1="462" y1="190" x2="500" y2="190" stroke="#2b3a42" stroke-width="4" stroke-dasharray="7 6"/>
+  <polygon points="500,190 486,183 486,197" fill="#2b3a42"/>
+  <text x="486" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">unfinished</text>
+
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">The future is not a prediction — it is a direction I could act toward.</text>
+</svg>

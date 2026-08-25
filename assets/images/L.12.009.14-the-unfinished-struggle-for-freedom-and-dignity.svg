@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">The Unfinished Struggle for Freedom and Dignity</title>
+  <desc id="desc">A path that is drawn clearly at its beginning and then continues as a dashed line past the right edge of the page, labeled "the struggle for freedom and dignity — unfinished." Along the solid part, small markers read "won here" and "still fought here," and a small figure stands on the dashed part labeled "you." Labels carry the meaning, so it prints in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">The Unfinished Struggle</text>
+
+  <!-- solid path -->
+  <path d="M40 250 Q160 230 260 250" fill="none" stroke="#2b3a42" stroke-width="5"/>
+  <!-- dashed continuation -->
+  <path d="M300 250 Q380 260 512 250" fill="none" stroke="#2b3a42" stroke-width="5" stroke-dasharray="10 8"/>
+
+  <!-- marker: won here -->
+  <circle cx="110" cy="245" r="8" fill="#7a9e7e"/>
+  <text x="110" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">won here</text>
+  <text x="110" y="226" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a freedom already won</text>
+
+  <!-- marker: still fought -->
+  <circle cx="230" cy="246" r="8" fill="#e0a458"/>
+  <text x="230" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">still fought here</text>
+  <text x="230" y="308" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a dignity still denied</text>
+
+  <!-- figure on dashed part -->
+  <circle cx="368" cy="232" r="10" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <path d="M360 250 Q368 260 376 250" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="368" y="200" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">you</text>
+  <text x="368" y="286" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">one concrete step,</text>
+  <text x="368" y="302" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">with and for others</text>
+
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">The path continues past the edge — the story now includes you.</text>
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"Unfinished" is a word of time, not of defeat.</text>
+</svg>

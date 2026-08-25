@@ -73,3 +73,17 @@ left out are centered with care and accuracy.
 
 | Lesson | Title | Standards |
 |--------|-------|-----------|
+| L.12.009.01 | Weighing Accounts of Change and Continuity | D08.S1.12.01 |
+| L.12.009.02 | Forming a Reasoned Synthesis | D08.S1.12.01 |
+| L.12.009.03 | My Place in the Long Human Story | D08.S1.12.02 |
+| L.12.009.04 | Past, Present, and Possible Futures | D08.S1.12.02 |
+| L.12.009.05 | Multiple Knowledge Traditions, Side by Side | D08.S2.12.01 |
+| L.12.009.06 | A Respectful, Non-Dogmatic Relationship | D08.S2.12.01 |
+| L.12.009.07 | Honoring Many Traditions | D08.S2.12.02 |
+| L.12.009.08 | A More Just, Flourishing Shared Story | D08.S2.12.02 |
+| L.12.009.09 | Movements of Peoples and Power Across Deep Time | D08.S3.12.01 |
+| L.12.009.10 | How Migration Shaped the Human Story | D08.S3.12.01 |
+| L.12.009.11 | My Place in the Movement of People and Ideas | D08.S3.12.02 |
+| L.12.009.12 | Responsibility to a Shared, Changing Earth | D08.S3.12.02 |
+| L.12.009.13 | Weighing Accounts of Power and Resistance | D08.S4.12.01 |
+| L.12.009.14 | The Unfinished Struggle for Freedom and Dignity | D08.S4.12.02 |
