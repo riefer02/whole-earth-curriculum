@@ -365,7 +365,7 @@ const en: UI = {
       description:
         'The case for adopting or funding Whole Earth Curriculum: the problem, the evidence base, quality guarantees, where it stands today, and the ask.',
       kicker: 'For leaders & funders',
-      heroTitle: 'A drop-in replacement for a failing system.',
+      heroTitle: 'A drop-in replacement for a struggling system.',
       heroSubtitle:
         'One free, evidence-grounded K\u201312 curriculum that develops the whole human \u2014 emotionally, physically, intellectually, and ecologically \u2014 and is built to reach the world at no cost.',
       problemTitle: 'The problem',

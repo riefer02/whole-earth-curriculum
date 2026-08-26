@@ -7,7 +7,6 @@ import { lessonsByUnit, scopeByGrade } from '../../lib/data';
 import { schoolDayForToday, lessonForSchoolDay } from '../../lib/teachToday';
 
 const t = ui.pages.forTeachers;
-
 const grades = Array.from({ length: 13 }, (_, i) => i);
 
 const [scopes, lessons] = await Promise.all([
@@ -15,30 +14,36 @@ const [scopes, lessons] = await Promise.all([
   getCollection('lessons'),
 ]);
 
-const today = new Date();
-const schoolDay = schoolDayForToday(today);
-
-const gradeParam = Astro.url.searchParams.get('grade');
-const requested = gradeParam === null ? Number.NaN : Number(gradeParam);
-const selectedGrade =
-  Number.isInteger(requested) && requested >= 0 && requested <= 12 ? requested : 1;
-
 const scopeMap = scopeByGrade(scopes);
 const lessonMap = lessonsByUnit(lessons);
 
-const scope = scopeMap.get(selectedGrade);
-const thisWeek = scope ? lessonForSchoolDay(scope, lessonMap, schoolDay) : null;
+const today = new Date();
+const schoolDay = schoolDayForToday(today);
 
-let unitHref = '';
-let unitLabel = '';
-let lessonHref = '';
-let lessonLabel = '';
-if (thisWeek) {
-  unitHref = unitPath(thisWeek.unit.unit_id ?? '');
-  unitLabel = thisWeek.unit.title ?? thisWeek.unit.unit_id ?? 'Unit';
-  lessonHref = lessonPath(thisWeek.lesson.data.id ?? '');
-  lessonLabel = thisWeek.lesson.data.title ?? thisWeek.lesson.data.id ?? 'Lesson';
+// Build the lesson for every grade at build time (one per grade, or null).
+// The client-side script swaps the visible grade from query params.
+const allData: Record<string, {
+  unitId: string; unitTitle: string; lessonId: string; lessonTitle: string;
+} | null> = {};
+for (let g = 0; g <= 12; g++) {
+  const scope = scopeMap.get(g);
+  if (!scope) { allData[g] = null; continue; }
+  const tw = lessonForSchoolDay(scope, lessonMap, schoolDay);
+  if (!tw) { allData[g] = null; continue; }
+  allData[g] = {
+    unitId: tw.unit.unit_id ?? '',
+    unitTitle: tw.unit.title ?? tw.unit.unit_id ?? 'Unit',
+    lessonId: tw.lesson.data.id ?? '',
+    lessonTitle: tw.lesson.data.title ?? tw.lesson.data.id ?? 'Lesson',
+  };
 }
+
+const defaultGrade = 1;
+const initial = allData[defaultGrade];
+
+// Serialise the build-time data so the client-side script can swap grades
+// without a page reload (query strings don't survive a static build).
+const jsonData = JSON.stringify({ schoolDay, data: allData });
 ---
 
 <BaseLayout title={t.title} description={t.description}>
@@ -50,45 +55,38 @@ if (thisWeek) {
     </div>
   </section>
 
-  <section class="home-section">
+  <section class="home-section" id="this-week-section">
     <div class="container">
       <h2>{t.whereTitle}</h2>
       <p class="lede">{t.whereIntro}</p>
-      <form class="teach-today__form" method="get" action={Astro.url.pathname}>
+      <form class="teach-today__form" id="grade-form" method="get" action={Astro.url.pathname}>
         <label for="grade-select">{t.gradeLabel}</label>
-        <select
-          id="grade-select"
-          name="grade"
-          onchange="this.form.submit()"
-        >
-          {
-            grades.map((g) => (
-              <option value={g} selected={g === selectedGrade}>
-                {ui.gradeLabel(g)}
-              </option>
-            ))
-          }
+        <select id="grade-select" name="grade">
+          {grades.map((g) => (
+            <option value={g} selected={g === defaultGrade}>
+              {ui.gradeLabel(g)}
+            </option>
+          ))}
         </select>
-        <noscript>
-          <button class="btn btn--ghost" type="submit">{t.update}</button>
-        </noscript>
       </form>
-      {thisWeek ? (
-        <p class="teach-today__result">
-          <strong>{t.todayIs} {schoolDay}.</strong>{' '}
-          {t.thisWeek}{' '}
-          <a href={unitHref}>{unitLabel}</a>
-          {' '}&mdash;{' '}
-          <a href={lessonHref}>{lessonLabel}</a>
-        </p>
-      ) : (
-        <p class="teach-today__result">
-          <strong>{t.todayIs} {schoolDay}.</strong>{' '}
-          {t.notAuthored}{' '}
-          <a href={gradePath(selectedGrade)}>{ui.gradeLabel(selectedGrade)}</a>{' '}
-          {t.browseFullYear}
-        </p>
-      )}
+      <p class="teach-today__result" id="teach-result">
+        {initial ? (
+          <>
+            <strong>{t.todayIs} {schoolDay}.</strong>{' '}
+            {t.thisWeek}{' '}
+            <a href={unitPath(initial.unitId)}>{initial.unitTitle}</a>
+            {' '}&mdash;{' '}
+            <a href={lessonPath(initial.lessonId)}>{initial.lessonTitle}</a>
+          </>
+        ) : (
+          <>
+            <strong>{t.todayIs} {schoolDay}.</strong>{' '}
+            {t.notAuthored}{' '}
+            <a href={gradePath(defaultGrade)}>{ui.gradeLabel(defaultGrade)}</a>{' '}
+            {t.browseFullYear}
+          </>
+        )}
+      </p>
     </div>
   </section>
 
@@ -97,13 +95,11 @@ if (thisWeek) {
       <h2>{t.chooseTitle}</h2>
       <p class="lede">{t.chooseIntro}</p>
       <div class="grades-nav">
-        {
-          grades.map((g) => (
-            <a class="grades-nav__item" href={gradePath(g)}>
-              {ui.gradeLabel(g)}
-            </a>
-          ))
-        }
+        {grades.map((g) => (
+          <a class="grades-nav__item" href={gradePath(g)}>
+            {ui.gradeLabel(g)}
+          </a>
+        ))}
       </div>
     </div>
   </section>
@@ -112,14 +108,12 @@ if (thisWeek) {
     <div class="container">
       <h2>{t.madeTitle}</h2>
       <div class="grid">
-        {
-          t.made.map((m) => (
-            <div class="card">
-              <h3 class="card__title">{m.title}</h3>
-              <p class="card__meta">{m.body}</p>
-            </div>
-          ))
-        }
+        {t.made.map((m) => (
+          <div class="card">
+            <h3 class="card__title">{m.title}</h3>
+            <p class="card__meta">{m.body}</p>
+          </div>
+        ))}
       </div>
     </div>
   </section>
@@ -129,13 +123,11 @@ if (thisWeek) {
       <h2>{t.fitTitle}</h2>
       <p class="lede">{t.fitIntro}</p>
       <ul class="prose">
-        {
-          t.fitSteps.map((s) => (
-            <li>
-              <strong>{s.title}</strong> &mdash; {s.body}
-            </li>
-          ))
-        }
+        {t.fitSteps.map((s) => (
+          <li>
+            <strong>{s.title}</strong> &mdash; {s.body}
+          </li>
+        ))}
       </ul>
       <div class="cta-row">
         <a class="btn btn--primary" href="/curriculum/">{t.startCta}</a>
@@ -144,3 +136,65 @@ if (thisWeek) {
     </div>
   </section>
 </BaseLayout>
+
+<script type="application/json" id="teach-data">
+  {jsonData}
+</script>
+
+<script is:inline>
+  (() => {
+    const el = document.getElementById('teach-data');
+    if (!el) return;
+    const { schoolDay, data: allData } = JSON.parse(el.textContent ?? '{}');
+    const select = document.getElementById('grade-select');
+    const resultEl = document.getElementById('teach-result');
+    if (!select || !resultEl) return;
+
+    const todayIs = resultEl.querySelector('strong')?.textContent?.split('.')[0] || `Today is school day ${schoolDay}`;
+    const thisWeekLabel = 'This week:';
+    const notAuthoredLabel = 'Not yet authored — open';
+    const browseLabel = 'to browse the full year.';
+    const gradeLabels = {};
+    // Surface grade labels from the option text (already rendered server-side)
+    select.querySelectorAll('option').forEach((o) => {
+      gradeLabels[o.value] = o.textContent ?? o.value;
+    });
+
+    function update(gradeStr) {
+      const g = Number(gradeStr);
+      const d = Number.isInteger(g) ? (allData[g] ?? null) : null;
+      const gradeLabel = gradeLabels[gradeStr] ?? `Grade ${gradeStr}`;
+
+      if (d) {
+        resultEl.innerHTML = `<strong>${todayIs} ${schoolDay}.</strong> ${thisWeekLabel} <a href="${unitPath(d.unitId)}">${escapeHtml(d.unitTitle)}</a> &mdash; <a href="${lessonPath(d.lessonId)}">${escapeHtml(d.lessonTitle)}</a>`;
+      } else {
+        resultEl.innerHTML = `<strong>${todayIs} ${schoolDay}.</strong> ${notAuthoredLabel} <a href="${gradePath(g)}">${escapeHtml(gradeLabel)}</a> ${browseLabel}`;
+      }
+    }
+
+    function escapeHtml(s) {
+      const d = document.createElement('div');
+      d.textContent = s;
+      return d.innerHTML;
+    }
+
+    function unitPath(id) { return `/curriculum/${String(Math.floor(Number(id.split('.')[1]))).padStart(2,'0')}/${id.split('.')[2].padStart(3,'0')}/`; }
+    function lessonPath(id) { const m = id.match(/L\.(\d+)\.(\d+)\.(\d+)/); if (!m) return '/curriculum/'; return `/curriculum/${m[1].padStart(2,'0')}/${m[2].padStart(3,'0')}/${m[3].padStart(2,'0')}/`; }
+    function gradePath(g) { return `/curriculum/${String(g).padStart(2,'0')}/`; }
+
+    // Read the initial query param and sync the select + result.
+    const q = new URLSearchParams(window.location.search).get('grade');
+    if (q !== null && allData.hasOwnProperty(q)) {
+      select.value = q;
+      update(q);
+    }
+
+    select.addEventListener('change', () => {
+      const v = select.value;
+      update(v);
+      const u = new URL(window.location.href);
+      u.searchParams.set('grade', v);
+      history.replaceState(null, '', u.toString());
+    });
+  })();
+</script>
