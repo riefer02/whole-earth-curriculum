@@ -15,7 +15,8 @@ test('extractSourceIds returns unique, sorted source IDs', () => {
 test('splitResourcesSection separates claims from resources', () => {
   const sections = splitResourcesSection('Claim (S-001).\n\n## Resources\n\n- Source (S-001).\n\n## Home connection\n');
   assert.equal(sections.exists, true);
-  assert.match(sections.before, /Claim/);
+  assert.match(sections.outsideResources, /Claim/);
+  assert.match(sections.outsideResources, /Home connection/);
   assert.match(sections.resources, /Source/);
   assert.doesNotMatch(sections.resources, /Home connection/);
 });

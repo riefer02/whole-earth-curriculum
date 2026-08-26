@@ -24,7 +24,7 @@ export function normalizeUrl(value) {
 
 export function splitResourcesSection(body = '') {
   const heading = /^##\s+Resources\s*$/im.exec(body);
-  if (!heading) return { exists: false, before: body, resources: '' };
+  if (!heading) return { exists: false, outsideResources: body, resources: '' };
 
   const restStart = heading.index + heading[0].length;
   const rest = body.slice(restStart);
@@ -33,7 +33,7 @@ export function splitResourcesSection(body = '') {
 
   return {
     exists: true,
-    before: body.slice(0, heading.index),
+    outsideResources: `${body.slice(0, heading.index)}${body.slice(end)}`,
     resources: body.slice(restStart, end),
   };
 }
@@ -91,7 +91,7 @@ export function analyzeEvidenceGraph({ sources, lessons }) {
   for (const lesson of lessons) {
     const sections = splitResourcesSection(lesson.body);
     const allIds = extractSourceIds(lesson.body);
-    const claimIds = extractSourceIds(sections.before);
+    const claimIds = extractSourceIds(sections.outsideResources);
     const resourceIds = new Set(extractSourceIds(sections.resources));
 
     if (allIds.length === 0) lessonsWithoutCitations.push(lesson);
