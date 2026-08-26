@@ -427,14 +427,33 @@ li {
 }
 
 /* Teach-today widget */
-.teach-today__form {
+/* -----------------------------------------------------------------------
+   Teach-today widget — a distinct callout card (documentation-site style)
+   with visual hierarchy that separates it from the rest of the page.
+   ----------------------------------------------------------------------- */
+.teach-today {
+  background: var(--paper-soft);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent-warm);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  margin: 1.25rem 0;
+}
+
+.teach-today__control {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  margin: 1rem 0;
+  margin-bottom: 0.75rem;
 }
 
-.teach-today__form select {
+.teach-today__control label {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--slate);
+}
+
+.teach-today__control select {
   font: inherit;
   font-size: 0.95rem;
   padding: 0.45rem 0.75rem;
@@ -446,6 +465,14 @@ li {
 
 .teach-today__result {
   font-size: 1.05rem;
+  padding: 0.75rem;
+  background: var(--paper);
+  border-radius: var(--radius);
+  transition: background 0.25s ease;
+}
+
+.teach-today__result--changed {
+  background: color-mix(in srgb, var(--accent-warm) 18%, var(--paper));
 }
 
 /* Sections on home */

@@ -55,6 +55,12 @@ export function schoolDayForToday(today: Date): number {
   return Math.max(1, Math.min(SCHOOL_YEAR_DAYS, day));
 }
 
+/** Is today within the current school year? False during summer / pre-planning. */
+export function isSchoolActive(today: Date): boolean {
+  const start = schoolYearStart(today.getFullYear());
+  return today >= start;
+}
+
 /**
  * Given a scope (units with `start_day`/`end_day`) and a `lessonsByUnit` map,
  * find the unit whose day range contains `schoolDay`, then pick the lesson at
