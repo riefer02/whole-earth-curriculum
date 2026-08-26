@@ -11,11 +11,4 @@ export default defineConfig({
   trailingSlash: 'always',
   compressHTML: true,
   integrations: [sitemap(), copyAssets()],
-  vite: {
-    build: {
-      rollupOptions: {
-        external: ['/pagefind/pagefind.js'],
-      },
-    },
-  },
 });

@@ -173,6 +173,7 @@ export interface UI {
     shortPlaceholder: string;
     zeroResults: string;
     hint: string;
+    startTyping: string;
   };
   status: Record<string, string>;
   gradeLabel: (grade: number) => string;
@@ -560,6 +561,7 @@ const en: UI = {
     shortPlaceholder: 'Search\u2026',
     zeroResults: 'Nothing matched that search.',
     hint: 'Search is built by Pagefind at build time \u2014 it works entirely in the browser with no third-party service.',
+    startTyping: 'Start typing to search.',
   },
 
   status: {
