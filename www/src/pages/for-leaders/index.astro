@@ -48,6 +48,7 @@ const p = ui.pages.forLeaders;
             <tr>
               <th>{p.evidenceCols[0]}</th>
               <th>{p.evidenceCols[1]}</th>
+              <th>{p.evidenceCols[2]}</th>
             </tr>
           </thead>
           <tbody>
@@ -56,6 +57,7 @@ const p = ui.pages.forLeaders;
                 <tr>
                   <td><strong>{row.commitment}</strong></td>
                   <td>{row.evidence}</td>
+                  <td><a href={row.source}>{row.sourceLabel}</a></td>
                 </tr>
               ))
             }
@@ -91,6 +93,8 @@ const p = ui.pages.forLeaders;
           ))
         }
       </ul>
+      <p class="lede" style="margin-top:1rem">{p.whereNote}</p>
+      <p class="lede"><a href="/sources/">{p.sourcesCta}</a></p>
     </div>
   </section>
 

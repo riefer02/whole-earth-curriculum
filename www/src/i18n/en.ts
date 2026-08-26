@@ -31,6 +31,7 @@ export interface UI {
     menu: string;
     showIds: string;
     hideIds: string;
+    sources: string;
   };
   home: {
     heroKicker: string;
@@ -104,13 +105,15 @@ export interface UI {
       solutionBody: string;
       evidenceTitle: string;
       evidenceIntro: string;
-      evidenceCols: [string, string];
-      evidenceRows: Array<{ commitment: string; evidence: string }>;
+      evidenceCols: [string, string, string];
+      evidenceRows: Array<{ commitment: string; evidence: string; sourceLabel: string; source: string }>;
       lenses: string;
       qualityTitle: string;
       quality: Array<{ title: string; body: string }>;
       whereTitle: string;
       where: string[];
+      whereNote: string;
+      sourcesCta: string;
       askTitle: string;
       askIntro: string;
       ask: Array<{ title: string; body: string }>;
@@ -120,6 +123,12 @@ export interface UI {
       licenseBefore: string;
       licenseLink: string;
       licenseAfter: string;
+    };
+    sources: {
+      title: string;
+      intro: string;
+      reviewed: string;
+      contested: string;
     };
   };
   common: {
@@ -196,6 +205,7 @@ const en: UI = {
     menu: 'Menu',
     showIds: 'Show IDs',
     hideIds: 'Hide IDs',
+    sources: 'Sources',
   },
 
   home: {
@@ -391,35 +401,49 @@ const en: UI = {
       evidenceTitle: 'Why it will work \u2014 the evidence base',
       evidenceIntro:
         'WEC is built on evidence that is well established in the learning sciences, not on fashion.',
-      evidenceCols: ['Commitment', 'Evidence it rests on'],
+      evidenceCols: ['Commitment', 'Evidence it rests on', 'Source'],
       evidenceRows: [
         {
           commitment: 'Mastery learning + feedback over ranking',
-          evidence: 'Bloom\u2019s \u201c2 sigma\u201d finding: tutoring \u2248 +2 SD; mastery/feedback \u2248 +1.0 SD; cooperative learning \u2248 +0.8 (Bloom, 1984)',
+          evidence: 'One-to-one tutoring \u2248 +2 SD; mastery learning with feedback \u2248 +1.0 SD; cooperative learning \u2248 +0.8.',
+          sourceLabel: 'Bloom, 1984',
+          source: '/sources/#s-007',
         },
         {
           commitment: 'Relationships and feedback first',
-          evidence: 'Meta-analyses (Hattie, Visible Learning) rank teacher\u2013student relationships and feedback among the largest effects on learning',
+          evidence: 'Teacher\u2013student relationships and feedback rank among the largest influences on learning, across 800+ meta-analyses.',
+          sourceLabel: 'Hattie, 2008',
+          source: '/sources/#s-012',
         },
         {
           commitment: 'Teach at the learner\u2019s level, not their age',
-          evidence: 'Pratham\u2019s Teaching at the Right Level: large, cheap literacy/numeracy gains across J-PAL randomized trials; a \u201cGood Buy\u201d (GEEAP/World Bank)',
+          evidence: 'Grouping learners by assessed level rather than age produced large, low-cost literacy and numeracy gains in randomized trials.',
+          sourceLabel: 'Pratham \u2014 TaRL',
+          source: '/sources/#s-009',
         },
         {
           commitment: 'Multi-grade, self-paced, low-tech works',
-          evidence: 'Escuela Nueva (Colombia): ~20,000 rural schools, ~19 countries, UNESCO-noted rural outperformance of urban',
+          evidence: 'Escuela Nueva\u2019s one-room, self-paced rural model reached roughly 20,000 schools across 19 countries, with rural schools outperforming urban ones.',
+          sourceLabel: 'Escuela Nueva',
+          source: '/sources/#s-008',
         },
         {
           commitment: 'Explicit instruction for novices, inquiry for concepts',
-          evidence: 'Kirschner, Sweller & Clark (2006); inquiry is powerful for concepts but minimal guidance fails beginners',
+          evidence: 'Novices learn foundational skills better with explicit instruction and worked examples; inquiry is powerful once concepts are in place.',
+          sourceLabel: 'Kirschner et al., 2006',
+          source: '/sources/#s-011',
         },
         {
           commitment: 'Science of learning baked into every lesson',
-          evidence: 'Retrieval practice, spacing, interleaving, worked examples, concrete-before-abstract',
+          evidence: 'Retrieval practice and spaced practice are the two highest-utility learning techniques in a consensus review.',
+          sourceLabel: 'Dunlosky et al., 2013',
+          source: '/sources/#s-039',
         },
         {
           commitment: 'Age-appropriate by design',
-          evidence: 'A developmental rubric (Piaget/Erikson/Vygotsky lineage) enforced by a dedicated child-psychology review gate',
+          evidence: 'Every lesson is held to a developmental rubric grounded in Piaget, Erikson, and Vygotsky.',
+          sourceLabel: 'Developmental rubric',
+          source: '/docs/development/',
         },
       ],
       lenses:
@@ -452,6 +476,8 @@ const en: UI = {
         'A complete <strong>assessment framework, facilitation guide, developmental rubric, art/accessibility style guide, and evidence-grounded contexts guide</strong>.',
         'A reproducible production loop that authors, reviews, and versions content \u2014 so the full K\u201312 pass can be refined and extended at consistent quality.',
       ],
+      whereNote: 'Live counts, verified against the open curriculum as of August 2026.',
+      sourcesCta: 'See the full source registry',
       askTitle: 'The ask',
       askIntro:
         'Funding would convert a working, evidence-grounded core into a resource that can actually reach the world.',
@@ -479,6 +505,13 @@ const en: UI = {
       licenseBefore: 'Curriculum content is licensed under',
       licenseLink: 'CC BY-SA 4.0',
       licenseAfter: '\u2014 free to use, adapt, and share, forever. Tooling is released under MIT.',
+    },
+    sources: {
+      title: 'Sources',
+      intro:
+        'Every factual claim in the curriculum and on this site is backed by a vetted source, each reviewed by our fact-checker. This is the full registry \u2014 evidence and values are kept clearly apart.',
+      reviewed: 'Reviewed',
+      contested: 'Contested',
     },
   },
 

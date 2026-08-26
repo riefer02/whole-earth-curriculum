@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+import { loadSources } from '../../lib/sources';
+
+const sources = loadSources();
+const p = ui.pages.sources;
+---
+
+<BaseLayout title={p.title}>
+  <div class="container container--prose">
+    <h1 class="page-title">{p.title}</h1>
+    <p class="lede">{p.intro}</p>
+
+    <ul class="source-list" style="list-style:none; padding:0; margin-top:1.5rem">
+      {
+        sources.map((s) => (
+          <li
+            id={s.id.toLowerCase()}
+            style="border-top:1px solid var(--border); padding:0.75rem 0"
+          >
+            <p style="margin:0">
+              <strong>{s.title}</strong>
+              {s.author && ` \u2014 ${s.author}`}
+              {s.organization ? ` \u00b7 ${s.organization}` : null}
+              {s.year ? ` (${s.year})` : null}
+            </p>
+            <p style="margin:0.15rem 0 0; font-size:0.85rem">
+              {s.type && <span style="text-transform:capitalize">{s.type}</span>}
+              {s.url && (
+                <>
+                {' \u00b7 '}
+                <a href={s.url}>{s.url}</a>
+                </>
+              )}
+              {s.reviewed && <span class="badge" style="margin-left:0.5rem">{p.reviewed}</span>}
+              {s.contested && <span class="badge" style="margin-left:0.5rem">{p.contested}</span>}
+            </p>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</BaseLayout>
