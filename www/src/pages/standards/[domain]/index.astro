@@ -3,7 +3,7 @@ import { getCollection, getEntry, render } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { ui } from '../../../i18n';
-import { strandPath } from '../../../lib/links';
+import { strandPath, standardPath } from '../../../lib/links';
 import { pillarValue } from '../../../lib/filters';
 import { gradeKeyLabel, objectivesForStrand } from '../../../lib/standards';
 import { strandToLessons } from '../../../lib/enactments';
@@ -81,7 +81,11 @@ const pagefindFilters = [
             {objectives.map((o) => (
               <li>
                 <span class="grade-key">{gradeKeyLabel(o.gradeKey)}</span>
-                <span class="obj-id id">{o.id}</span>
+                {standardPath(o.id) ? (
+                  <a class="obj-id id" href={standardPath(o.id)}>{o.id}</a>
+                ) : (
+                  <span class="obj-id id">{o.id}</span>
+                )}
                 <span>{o.text}</span>
               </li>
             ))}
