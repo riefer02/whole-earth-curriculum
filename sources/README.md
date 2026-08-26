@@ -15,6 +15,31 @@ the curriculum stays honest (see [`docs/philosophy.md`](../docs/philosophy.md) �
 - `reviewed` is `true` only after the `fact-checker` has verified the source actually
   says what it is cited for.
 - Prefer sources that are global, primary, and openly accessible where possible.
+- Cite registered sources in lesson bodies and `## Resources` using their `S-NNN`
+  IDs. The source linter treats missing or unreviewed references as errors.
+
+## Evidence graph
+
+[`usage.md`](usage.md) is a generated reverse index from each registered source to
+the lessons that cite it. This extends curriculum traceability with evidence
+lineage without changing the curriculum ID scheme:
+
+```
+Vision → Pillar → Domain → Strand → Objective → Unit → Lesson → Source
+```
+
+After changing lesson citations or the source registry, regenerate and check the
+index:
+
+```bash
+npm run sources:index
+npm run lint:sources
+```
+
+`lint:sources` fails when a lesson cites a missing or unreviewed source or when the
+generated index is stale. It reports existing maintenance signals—such as duplicate
+URLs, unused sources, and claim-area citations absent from `## Resources`—as
+warnings for the fact-checker to resolve through backlog work.
 
 ## Fields
 

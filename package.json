@@ -10,6 +10,8 @@
   "scripts": {
     "validate": "node tools/validate/validate.mjs",
     "lint:sources": "node tools/citation-lint/lint.mjs",
+    "sources:index": "node tools/report/source-usage.mjs",
+    "test:citation-lint": "node --test tools/citation-lint/*.test.mjs",
     "loop:next": "node tools/loop/loop.mjs next",
     "loop:claim": "node tools/loop/loop.mjs claim",
     "loop:submit": "node tools/loop/loop.mjs submit",

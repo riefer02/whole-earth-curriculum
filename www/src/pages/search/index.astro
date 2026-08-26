@@ -4,7 +4,7 @@ import { ui } from '../../i18n';
 ---
 
 <BaseLayout title={ui.search.title}>
-  <div class="container container--prose">
+  <div class="container">
     <h1 class="page-title">{ui.search.title}</h1>
 
     <form id="search-form" method="get" action="/search/">
@@ -29,7 +29,28 @@ import { ui } from '../../i18n';
       </div>
     </form>
 
-    <div id="search-results" class="search-results">
+    <div class="search-filters" id="search-filters" hidden>
+      <span class="search-filters__label">{ui.search.filter}</span>
+      <label class="facet">
+        <span class="facet__name">{ui.search.type}</span>
+        <select id="facet-type" class="facet__select"></select>
+      </label>
+      <label class="facet">
+        <span class="facet__name">{ui.search.grade}</span>
+        <select id="facet-grade" class="facet__select"></select>
+      </label>
+      <label class="facet">
+        <span class="facet__name">{ui.search.subject}</span>
+        <select id="facet-domain" class="facet__select"></select>
+      </label>
+      <label class="facet">
+        <span class="facet__name">{ui.search.pillar}</span>
+        <select id="facet-pillar" class="facet__select"></select>
+      </label>
+      <button type="button" id="facet-clear" class="btn btn--ghost btn--sm">{ui.search.clear}</button>
+    </div>
+
+    <div id="search-results" class="search-results" aria-live="polite">
       <p id="search-placeholder" class="muted" style="font-size:1rem; margin-top:1.5rem">{ui.search.startTyping}</p>
     </div>
 
@@ -40,21 +61,21 @@ import { ui } from '../../i18n';
 <script is:inline>
   (async function () {
     const params = new URLSearchParams(window.location.search);
-    const initialQuery = params.get('q') || '';
+    const initialQ = params.get('q') || '';
 
     const form = document.getElementById('search-form');
     const input = document.getElementById('search-input');
     const results = document.getElementById('search-results');
-    const placeholder = document.getElementById('search-placeholder');
-    if (!form || !input || !results) return;
+    const filtersEl = document.getElementById('search-filters');
+    const clearBtn = document.getElementById('facet-clear');
+    if (!form || !input || !results || !filtersEl || !clearBtn) return;
 
-    // Show a loading state immediately if the URL carries a query, so the user
-    // never sees "Start typing" flash before Pagefind boots.
-    if (initialQuery) {
-      input.value = initialQuery;
-      if (placeholder) placeholder.remove();
-      results.innerHTML = '<p class="muted" style="font-size:1rem; margin-top:1.5rem">Loading search\u2026</p>';
-    }
+    const FACETS = [
+      { key: 'type', el: document.getElementById('facet-type') },
+      { key: 'grade', el: document.getElementById('facet-grade') },
+      { key: 'domain', el: document.getElementById('facet-domain') },
+      { key: 'pillar', el: document.getElementById('facet-pillar') },
+    ];
 
     let pagefind;
     try {
@@ -65,26 +86,61 @@ import { ui } from '../../i18n';
       return;
     }
 
-    // Pre-warm the index for the initial query so the first search is instant.
-    if (initialQuery) {
-      try { await pagefind.preload(initialQuery); } catch (_) { /* best-effort */ }
+    // Load the available filter values and populate the facet selects.
+    let available = {};
+    try {
+      available = await pagefind.filters();
+    } catch (_) { /* filters unavailable — leave selects empty */ }
+
+    const ALL = '';
+
+    function populate(sel, values) {
+      sel.innerHTML = '';
+      const allOpt = document.createElement('option');
+      allOpt.value = ALL;
+      allOpt.textContent = 'All';
+      sel.appendChild(allOpt);
+      const keys = Object.keys(values || {}).sort();
+      keys.forEach(function (k) {
+        const o = document.createElement('option');
+        o.value = k;
+        o.textContent = k + ' (' + (values[k] || 0) + ')';
+        sel.appendChild(o);
+      });
+    }
+
+    FACETS.forEach(function (f) {
+      if (f.el) populate(f.el, available[f.key] || {});
+    });
+
+    function currentFilters() {
+      const f = {};
+      FACETS.forEach(function (facet) {
+        if (facet.el && facet.el.value) f[facet.key] = facet.el.value;
+      });
+      return f;
+    }
+
+    function showSpinner() {
+      results.innerHTML =
+        '<p class="search-loading"><span class="spinner" aria-hidden="true"></span> Searching\u2026</p>';
     }
 
     let activeRequest = 0;
 
-    async function doSearch(query) {
-      const q = query.trim();
+    async function run() {
+      const q = input.value.trim();
       if (!q) {
         results.innerHTML = '<p class="muted" style="font-size:1rem; margin-top:1.5rem">Start typing to search.</p>';
         return;
       }
 
       const reqId = ++activeRequest;
-      results.innerHTML = '<p class="muted" style="font-size:1rem; margin-top:1.5rem">Searching\u2026</p>';
+      showSpinner();
 
       let search;
       try {
-        search = await pagefind.search(q);
+        search = await pagefind.search(q, { filters: currentFilters() });
       } catch (err) {
         console.error('Search failed:', err);
         if (reqId !== activeRequest) return;
@@ -142,28 +198,48 @@ import { ui } from '../../i18n';
       return d.innerHTML;
     }
 
+    function syncUrl() {
+      const u = new URL(window.location.href);
+      const q = input.value.trim();
+      if (q) u.searchParams.set('q', q); else u.searchParams.delete('q');
+      FACETS.forEach(function (f) {
+        if (f.el && f.el.value) u.searchParams.set(f.key, f.el.value);
+        else u.searchParams.delete(f.key);
+      });
+      history.replaceState(null, '', u.toString());
+    }
+
     let timer;
     input.addEventListener('input', function () {
       clearTimeout(timer);
-      timer = setTimeout(function () {
-        const val = input.value;
-        doSearch(val);
-        const u = new URL(window.location.href);
-        if (val.trim()) u.searchParams.set('q', val.trim());
-        else u.searchParams.delete('q');
-        history.replaceState(null, '', u.toString());
-      }, 250);
+      timer = setTimeout(function () { run(); syncUrl(); }, 250);
     });
 
     form.addEventListener('submit', function (e) {
       e.preventDefault();
-      const val = input.value.trim();
-      if (!val) return;
-      const u = new URL(window.location.href);
-      u.searchParams.set('q', val);
-      window.location.href = u.toString();
+      run();
+      syncUrl();
     });
 
-    if (initialQuery) doSearch(initialQuery);
+    FACETS.forEach(function (f) {
+      if (f.el) f.el.addEventListener('change', function () { run(); syncUrl(); });
+    });
+
+    clearBtn.addEventListener('click', function () {
+      FACETS.forEach(function (f) { if (f.el) f.el.value = ALL; });
+      run();
+      syncUrl();
+    });
+
+    // Initial state from URL.
+    if (initialQ) {
+      input.value = initialQ;
+    }
+    FACETS.forEach(function (f) {
+      if (f.el && params.get(f.key)) f.el.value = params.get(f.key);
+    });
+    // Reveal filters once populated.
+    filtersEl.hidden = false;
+    if (initialQ) run();
   })();
 </script>

@@ -25,13 +25,16 @@ content, and maintain the canonical source registry in `sources/`.
 - Maintain `sources/sources.yaml` — the canonical registry of vetted references.
 - When content cites a new source, verify it and add it to the registry.
 - Mark each entry `reviewed: true` only after you have checked it.
+- After changing citations or the registry, run `npm run sources:index`; do not edit
+  the generated `sources/usage.md` by hand.
 
 ## How to work
 
 1. Find an item awaiting your review: `npm run loop:next -- fact-checker`.
 2. Review the assigned content against the checks above.
 3. Fix or flag errors and register/verify sources.
-4. Validate (`npm run validate`), then return a concise verdict as your final
+4. Regenerate the source index and validate (`npm run sources:index`,
+   `npm run validate`, and `npm run lint:sources`), then return a concise verdict as your final
    message — `passed` or `blocked` plus one specific note (the claims/sources you
    verified). Do NOT run `loop:review` yourself; the orchestrator records it. Keep
    the review focused: spot-check the highest-risk claims; do not exhaustively

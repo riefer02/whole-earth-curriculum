@@ -41,7 +41,8 @@ resolve to real standard IDs.
 - Frontmatter MUST include a `kind` field (`lesson`, `unit`, `scope`, `domain`,
   `agent`, `backlog`, or `standard`).
 - Frontmatter is validated against JSON Schema in `schema/`. Run `npm run validate`
-  after any content change; it must pass.
+  after any content change; it must pass. When lesson citations or `sources/` change,
+  also run `npm run sources:index` and `npm run lint:sources`.
 - IDs must follow the scheme in `docs/taxonomy.md`. Never invent a new ID format.
 - Every lesson must include required body headings (`## Procedure`, `## Assessment`
   at minimum) and must visibly carry the cross-cutting lenses.

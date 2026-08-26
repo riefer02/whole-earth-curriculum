@@ -145,6 +145,7 @@ export interface UI {
     essentialQuestion: string;
     essentialQuestions: string;
     bigIdeas: string;
+    keyVocabulary: string;
     strands: string;
     domainIndex: string;
     notYetAuthored: string;
@@ -174,6 +175,12 @@ export interface UI {
     zeroResults: string;
     hint: string;
     startTyping: string;
+    filter: string;
+    type: string;
+    grade: string;
+    subject: string;
+    pillar: string;
+    clear: string;
   };
   status: Record<string, string>;
   gradeLabel: (grade: number) => string;
@@ -530,6 +537,7 @@ const en: UI = {
     essentialQuestion: 'Essential question',
     essentialQuestions: 'Essential questions',
     bigIdeas: 'Big ideas',
+    keyVocabulary: 'Key vocabulary',
     strands: 'Strands',
     domainIndex: 'Domains',
     notYetAuthored: 'Not yet authored',
@@ -562,6 +570,12 @@ const en: UI = {
     zeroResults: 'Nothing matched that search.',
     hint: 'Search is built by Pagefind at build time \u2014 it works entirely in the browser with no third-party service.',
     startTyping: 'Start typing to search.',
+    filter: 'Filter by',
+    type: 'Type',
+    grade: 'Grade',
+    subject: 'Subject',
+    pillar: 'Pillar',
+    clear: 'Clear',
   },
 
   status: {

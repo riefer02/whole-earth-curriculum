@@ -103,16 +103,6 @@ const navItems = [
           </nav>
           <button
             type="button"
-            class="ids-toggle"
-            data-ids-toggle
-            data-label-on={ui.nav.hideIds}
-            data-label-off={ui.nav.showIds}
-            aria-pressed="false"
-          >
-            <span data-ids-label>{ui.nav.showIds}</span>
-          </button>
-          <button
-            type="button"
             class="theme-toggle"
             data-theme-toggle
             data-label-dark={ui.nav.themeToDark}
@@ -206,6 +196,11 @@ const navItems = [
       </div>
       <div class="container site-footer__legal">
         <p>{ui.footer.license}</p>
+        <p style="margin-top:0.35rem;font-size:0.8rem">
+          <button type="button" class="ids-toggle-footer" data-ids-toggle data-label-on={ui.nav.hideIds} data-label-off={ui.nav.showIds} aria-pressed="false">
+            {ui.nav.showIds}
+          </button>
+        </p>
       </div>
     </footer>
     <script is:inline>
@@ -254,35 +249,36 @@ const navItems = [
       })();
     </script>
     <script is:inline>
-      // "Show IDs" toggle: reveal/hide internal curriculum identifiers and keep
-      // the label, aria-pressed state, and stored preference in sync.
+      // "Show IDs" toggle — now a text link in the footer legal row instead of
+      // a toolbar button. Reads/writes `data-show-ids` on <html> and persists
+      // the choice in localStorage.
       (() => {
-        const btn = document.querySelector('[data-ids-toggle]');
-        if (!btn) return;
-        const labelEl = btn.querySelector('[data-ids-label]');
-        const labels = {
-          on: btn.dataset.labelOn ?? 'Hide IDs',
-          off: btn.dataset.labelOff ?? 'Show IDs',
-        };
+        const btns = document.querySelectorAll('[data-ids-toggle]');
+        if (!btns.length) return;
         const sync = () => {
           const on =
             document.documentElement.getAttribute('data-show-ids') === 'on';
-          btn.setAttribute('aria-pressed', String(on));
-          if (labelEl) labelEl.textContent = on ? labels.on : labels.off;
+          btns.forEach(function (btn) {
+            var label = on ? btn.dataset.labelOn : btn.dataset.labelOff;
+            btn.setAttribute('aria-pressed', String(on));
+            var span = btn.querySelector('[data-ids-label]');
+            if (span) span.textContent = label;
+            if (!span) btn.textContent = label;
+          });
         };
-        btn.addEventListener('click', () => {
-          const on =
-            document.documentElement.getAttribute('data-show-ids') === 'on';
-          if (on) {
-            document.documentElement.removeAttribute('data-show-ids');
-          } else {
-            document.documentElement.setAttribute('data-show-ids', 'on');
-          }
-          try {
-            if (on) localStorage.removeItem('wec-show-ids');
-            else localStorage.setItem('wec-show-ids', 'on');
-          } catch {}
-          sync();
+        btns.forEach(function (btn) {
+          btn.addEventListener('click', () => {
+            const on =
+              document.documentElement.getAttribute('data-show-ids') === 'on';
+            if (on) {
+              document.documentElement.removeAttribute('data-show-ids');
+              try { localStorage.removeItem('wec-show-ids'); } catch {}
+            } else {
+              document.documentElement.setAttribute('data-show-ids', 'on');
+              try { localStorage.setItem('wec-show-ids', 'on'); } catch {}
+            }
+            sync();
+          });
         });
         sync();
       })();

@@ -23,6 +23,11 @@ The *structure* of that content is enforced by JSON Schema (in `schema/`) and a
 validator (`tools/validate/`). Schemas are the contract; the validator is the
 gatekeeper.
 
+Factual claims have a complementary evidence chain. Lessons cite vetted `S-NNN`
+records in `sources/sources.yaml`; `sources/usage.md` is the generated reverse index
+from each source to every lesson that depends on it. Curriculum traceability and
+evidence lineage therefore meet at the lesson without changing either ID scheme.
+
 ## Top-level directories
 
 | Directory | Purpose |
@@ -31,6 +36,7 @@ gatekeeper.
 | `schema/` | JSON Schema for every `kind` of content file. |
 | `curriculum/standards/` | Domains → strands → grade-level objectives. The **what**. |
 | `curriculum/k-12/` | Grade-level units and lessons. The **how**. |
+| `sources/` | Vetted references and the generated lesson-usage index. The **evidence**. |
 | `agents/` | The curriculum-building agent crew, its loop, backlog, and state. |
 | `tools/` | Validator and loop orchestrator (the only code today). |
 | `assets/` | Scholastic assets referenced by lessons (images, worksheets, audio, video). |

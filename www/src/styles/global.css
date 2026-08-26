@@ -406,6 +406,11 @@ li {
   background: var(--paper-soft);
 }
 
+.btn--sm {
+  padding: 0.4rem 0.75rem;
+  font-size: 0.85rem;
+}
+
 .btn--print,
 .btn--copy {
   display: inline-flex;
@@ -1184,6 +1189,144 @@ html[data-show-ids='on'] .id {
   font-size: 0.75rem;
 }
 
+/* Search filters (facet bar) */
+.search-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  padding: 0.75rem;
+  background: var(--paper-soft);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.search-filters__label {
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-right: 0.25rem;
+}
+
+.facet {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.facet__name {
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.facet__select {
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 0.3rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--paper);
+  color: var(--text);
+}
+
+/* Loading spinner */
+.search-loading {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1.5rem;
+  color: var(--muted);
+  font-size: 1rem;
+}
+
+.spinner {
+  display: inline-block;
+  width: 1.1rem;
+  height: 1.1rem;
+  border: 2px solid var(--border);
+  border-top-color: var(--secondary);
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .spinner {
+    animation: none;
+  }
+}
+
+/* Footer "Show IDs" link (moved out of the header toolbar) */
+.ids-toggle-footer {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.ids-toggle-footer:hover {
+  color: var(--secondary);
+}
+
+/* Collapsible accordion sections (lesson metadata) */
+.accordion {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin: 0.75rem 0;
+  background: var(--paper);
+}
+
+.accordion > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.6rem 0.9rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--slate);
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.accordion > summary::-webkit-details-marker {
+  display: none;
+}
+
+.accordion > summary::after {
+  content: '+';
+  font-size: 1.1rem;
+  color: var(--muted);
+  transition: transform 0.15s ease;
+}
+
+.accordion[open] > summary::after {
+  transform: rotate(45deg);
+  content: '–';
+}
+
+.accordion > summary:hover {
+  background: var(--paper-soft);
+}
+
+.accordion > .accordion__body {
+  padding: 0 0.9rem 0.75rem;
+  border-top: 1px solid var(--border);
+  padding-top: 0.5rem;
+}
+
 /* Print — lessons/units should print as binders. Colors are reset via the
    token overrides in tokens.css; here we only adjust layout. */
 @media print {
@@ -1218,6 +1361,15 @@ html[data-show-ids='on'] .id {
   .card,
   .timeline li {
     box-shadow: none;
+  }
+
+  /* Force collapsed lesson metadata open when printing so no content is lost. */
+  .accordion {
+    border: none;
+  }
+
+  .accordion > .accordion__body {
+    display: block !important;
   }
 }
 
