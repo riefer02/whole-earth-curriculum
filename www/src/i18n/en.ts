@@ -405,7 +405,7 @@ const en: UI = {
       evidenceRows: [
         {
           commitment: 'Mastery learning + feedback over ranking',
-          evidence: 'One-to-one tutoring \u2248 +2 SD; mastery learning with feedback \u2248 +1.0 SD; cooperative learning \u2248 +0.8.',
+          evidence: 'Mastery learning with corrective feedback adds roughly one standard deviation; cooperative learning roughly 0.8. (Bloom, 1984 \u2014 for context, one-to-one tutoring is the benchmark at ~2 SD.)',
           sourceLabel: 'Bloom, 1984',
           source: '/sources/#s-007',
         },
