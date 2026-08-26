@@ -62,10 +62,9 @@ carried through *every* lesson, so values are not a unit but a habit.
 - **Full traceability.** Every lesson declares the standards it serves, which trace
   up through strand → domain → pillar → vision. Automated validation enforces the
   chain.
-- **A hard review gate.** Each piece of content passes a sequential review by
-  specialized agents — schema, factual accuracy, global/cultural framing,
-  accessibility, values alignment, and developmental fit — and cannot ship until
-  every gate records a substantive pass.
+- **Rigorous specialist review.** Each lesson is reviewed by specialists for
+  accuracy, cultural framing, accessibility, values, and developmental fit — and
+  cannot ship until it passes.
 - **Built for everyone.** Every lesson has low-tech and enriched material tiers, so
   it works in a bare classroom and a well-equipped one, and is written learner-first
   so a child can learn with or without a teacher.
@@ -86,8 +85,9 @@ carried through *every* lesson, so values are not a unit but a habit.
 - A complete **assessment framework**, **facilitation guide**, **developmental
   rubric**, **art/accessibility style guide**, and **evidence-grounded contexts
   guide**.
-- A reproducible **agent loop** that produces, reviews, and versions content — so the
-  full K–12 pass can be refined and extended at speed and consistent quality.
+- An open, repeatable authoring process with automated checks and specialist
+  review — so the full K–12 curriculum can be refined and extended at consistent
+  quality.
 
 ## 6. The ask
 

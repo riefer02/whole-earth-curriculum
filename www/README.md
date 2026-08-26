@@ -1,6 +1,6 @@
-# NWO-EDU Website (`www/`)
+# WEC Website (`www/`)
 
-A static website for **New World Order Education**, rendered from the repository's
+A static website for **Whole Earth Curriculum**, rendered from the repository's
 content source of truth (`curriculum/` and `docs/`). It reads content directly via
 Astro content collections — nothing is copied or forked.
 

@@ -1,6 +1,6 @@
 # Code of Conduct
 
-New World Order Education is a humanitarian project: it exists to benefit all life.
+Whole Earth Curriculum is a humanitarian project: it exists to benefit all life.
 Our collaboration must reflect the values we teach.
 
 ## Our standards

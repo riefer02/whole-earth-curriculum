@@ -23,7 +23,7 @@ is failing. It often:
 - Ignores or reacts to contemporary technology rather than teaching its effects on
   humanity and the environment.
 
-NWO-EDU exists to be a **drop-in replacement** — a complete, coherent K–12 curriculum
+WEC exists to be a **drop-in replacement** — a complete, coherent K–12 curriculum
 that a school, a community, a family, or a self-directed learner can adopt in whole
 or in part.
 

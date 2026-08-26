@@ -1,4 +1,4 @@
-# Agent definitions for the New World Order Education curriculum crew.
+# Agent definitions for the Whole Earth Curriculum curriculum crew.
 # Each entry must satisfy schema/agent.schema.json (kind: agent).
 # Keep these in sync with agents/prompts/<id>.md.
 

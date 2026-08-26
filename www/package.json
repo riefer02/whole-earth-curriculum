@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Static website for New World Order Education, rendered from the curriculum content source of truth.",
+  "description": "Static website for Whole Earth Curriculum, rendered from the curriculum content source of truth.",
   "engines": {
     "node": ">=20"
   },

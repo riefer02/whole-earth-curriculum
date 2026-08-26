@@ -1,6 +1,6 @@
 # Contributing
 
-New World Order Education is built in the open and offered for free. Contributions
+Whole Earth Curriculum is built in the open and offered for free. Contributions
 of curriculum, review, tooling, and discussion are welcome.
 
 ## Ways to contribute

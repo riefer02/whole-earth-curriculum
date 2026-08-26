@@ -212,28 +212,28 @@ const en: UI = {
     heroKicker: 'Offered free to the world',
     heroTitle: 'Educate the whole human.',
     heroSubtitle:
-      'A single, coherent, drop-in K\u201312 curriculum that develops people who are emotionally, physically, and intellectually aware \u2014 of themselves, their context, and the Earth they live in.',
+      'One complete, coherent K\u201312 curriculum that develops people who are emotionally, physically, and intellectually aware \u2014 of themselves, their world, and the Earth they live in.',
     browseCurriculum: 'Browse the curriculum',
     browseStandards: 'Explore the standards',
     browseByGrade: 'Browse by grade',
     pillarsTitle: 'Four pillars, one whole person',
     pillarsIntro:
-      'Every domain, strand, standard, unit, and lesson descends from four dimensions of a whole human \u2014 not from disconnected school subjects.',
+      'Every subject, at every grade, grows out of four dimensions of a whole person \u2014 not out of disconnected school subjects.',
     valuesTitle: 'What it stands for',
     values: [
-      'Holistic \u2014 mind, body, emotion, and context develop together, in a spiral.',
+      'Holistic \u2014 mind, body, emotion, and context grow together, year after year.',
       'Egalitarian \u2014 built to benefit the many, never the few.',
       'Global & anthropological \u2014 never one nation\u2019s default view.',
       'Ethical \u2014 ethics are a lens through which everything is taught.',
       'Honest about technology \u2014 its effects on humanity and the Earth, taught without worship or fear.',
       'Open \u2014 free, remixable, and licensed to stay that way.',
     ],
-    howTitle: 'How it stays coherent',
+    howTitle: 'How it all fits together',
     howSteps: [
-      'Everything descends from one vision.',
-      'A traceability chain links every lesson to a standard, strand, domain, and pillar.',
-      'An automated validator and alignment agents keep the chain intact.',
-      'Plain Markdown + YAML content renders to web, print, and more \u2014 from one source of truth.',
+      'One vision guides every grade and subject.',
+      'Every lesson is built on clear learning goals that build on each other, year by year.',
+      'Every lesson is checked for accuracy, safety, and age-appropriateness before it ships.',
+      'Free, open, and ready to use online or in print \u2014 no account, no cost.',
     ],
     audienceTitle: 'Who are you here for?',
     audienceIntro: 'Three doors, one curriculum.',
@@ -268,7 +268,7 @@ const en: UI = {
       heroSubtitle:
         'A free, complete, K\u201312 curriculum that develops the whole human \u2014 emotional, physical, intellectual, and ecological \u2014 to raise the baseline standard of living for all life on Earth.',
       beliefsTitle: 'What we believe',
-      beliefsIntro: 'Six simple commitments. Everything we build descends from them.',
+      beliefsIntro: 'Six simple beliefs. Everything else follows from them.',
       beliefs: [
         {
           title: 'A child is a whole person',
@@ -397,7 +397,7 @@ const en: UI = {
       solutionLead:
         'Whole Earth Curriculum (WEC) is a free, open, comprehensive K\u201312 curriculum with one aim: to produce humans who are emotionally, physically, intellectually, and contextually aware \u2014 of themselves, their communities, and the living systems they depend on \u2014 and so to raise the baseline standard of living for all life on Earth.',
       solutionBody:
-        'It is organized under four dimensions \u2014 emotional & social, physical & somatic, intellectual & cognitive, and contextual & ecological awareness \u2014 descending through ten content areas into grade-level standards, units, and daily lessons. It is designed as a drop-in replacement and offered to the world at no cost.',
+        'It is organized under four dimensions \u2014 emotional & social, physical & somatic, intellectual & cognitive, and contextual & ecological awareness \u2014 spanning ten content areas into grade-level standards, units, and daily lessons. It is designed as a drop-in replacement and offered to the world at no cost.',
       evidenceTitle: 'Why it will work \u2014 the evidence base',
       evidenceIntro:
         'WEC is built on evidence that is well established in the learning sciences, not on fashion.',
@@ -451,12 +451,12 @@ const en: UI = {
       qualityTitle: 'How quality and alignment are guaranteed',
       quality: [
         {
-          title: 'Full traceability',
-          body: 'Every lesson declares the standards it serves, which trace up through the content areas to the vision. Automated validation enforces the chain.',
+          title: 'Clear, auditable alignment',
+          body: 'Every lesson maps to clear, measurable learning goals that connect across grades and subjects. Automated checks keep the whole thing aligned.',
         },
         {
-          title: 'A hard review gate',
-          body: 'Each piece of content passes a sequential review by specialized reviewers \u2014 schema, factual accuracy, global/cultural framing, accessibility, values alignment, and developmental fit \u2014 and cannot ship until every gate records a substantive pass.',
+          title: 'Independent specialist review',
+          body: 'Every lesson is reviewed by specialists for accuracy, cultural fairness, accessibility, values, and developmental fit \u2014 and cannot ship until it passes.',
         },
         {
           title: 'Built for everyone',
@@ -474,7 +474,7 @@ const en: UI = {
         '<strong>1,676 lessons</strong> and <strong>1,674 SVG assets</strong> \u2014 near 1:1, all accessible (alt text, grayscale-printable, diverse representation).',
         '<strong>159 units</strong> across 13 grades, with a year-plan for every grade.',
         'A complete <strong>assessment framework, facilitation guide, developmental rubric, art/accessibility style guide, and evidence-grounded contexts guide</strong>.',
-        'A reproducible production loop that authors, reviews, and versions content \u2014 so the full K\u201312 pass can be refined and extended at consistent quality.',
+        'An open, repeatable authoring process with automated checks and specialist review \u2014 so the full K\u201312 curriculum can be refined and extended at consistent quality.',
       ],
       whereNote: 'Live counts, verified against the open curriculum as of August 2026.',
       sourcesCta: 'See the full source registry',
