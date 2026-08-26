@@ -21,28 +21,34 @@ const today = new Date();
 const isActive = isSchoolActive(today);
 const schoolDay = isActive ? schoolDayForToday(today) : 1;
 
-// Pre-compute the lesson for every grade at build time so the client-side
-// script can swap grades without a page reload.
-const allData: Record<string, {
-  unitId: string; unitTitle: string; lessonId: string; lessonTitle: string;
-} | null> = {};
+function esc(s: string): string {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+// Pre-render the "this week" result HTML for every grade at build time so the
+// client can swap it with a single innerHTML assignment — no path logic or
+// escaping duplicated in the browser.
+const htmlByGrade: Record<string, string> = {};
 for (let g = 0; g <= 12; g++) {
   const scope = scopeMap.get(g);
-  if (!scope) { allData[g] = null; continue; }
-  const tw = lessonForSchoolDay(scope, lessonMap, schoolDay);
-  if (!tw) { allData[g] = null; continue; }
-  allData[g] = {
-    unitId: tw.unit.unit_id ?? '',
-    unitTitle: tw.unit.title ?? tw.unit.unit_id ?? 'Unit',
-    lessonId: tw.lesson.data.id ?? '',
-    lessonTitle: tw.lesson.data.title ?? tw.lesson.data.id ?? 'Lesson',
-  };
+  const tw = scope ? lessonForSchoolDay(scope, lessonMap, schoolDay) : null;
+  if (tw) {
+    const unitTitle = tw.unit.title ?? tw.unit.unit_id ?? 'Unit';
+    const lessonTitle = tw.lesson.data.title ?? tw.lesson.data.id ?? 'Lesson';
+    const lead = isActive
+      ? `<strong>${t.todayIs} ${schoolDay}.</strong> ${t.thisWeek}`
+      : '<strong>Coming school year.</strong> First lesson:';
+    htmlByGrade[g] =
+      `${lead} <a href="${unitPath(tw.unit.unit_id ?? '')}">${esc(unitTitle)}</a>` +
+      ` &mdash; <a href="${lessonPath(tw.lesson.data.id ?? '')}">${esc(lessonTitle)}</a>`;
+  } else {
+    htmlByGrade[g] =
+      `<strong>${t.notAuthored} <a href="${gradePath(g)}">${ui.gradeLabel(g)}</a> ${t.browseFullYear}</strong>`;
+  }
 }
 
 const defaultGrade = 1;
-const initial = allData[defaultGrade];
-
-const jsonData = JSON.stringify({ isActive, schoolDay: schoolDayForToday(today), data: allData });
+const jsonData = JSON.stringify(htmlByGrade);
 ---
 
 <BaseLayout title={t.title} description={t.description}>
@@ -74,23 +80,7 @@ const jsonData = JSON.stringify({ isActive, schoolDay: schoolDayForToday(today),
             ))}
           </select>
         </div>
-        <p class="teach-today__result" id="teach-result">
-          {initial ? (
-            <>
-              <strong>{isActive ? `${t.todayIs} ${schoolDay}.` : 'Coming school year.'}</strong>{' '}
-              {isActive ? t.thisWeek : 'First lesson:'}{' '}
-              <a href={unitPath(initial.unitId)}>{initial.unitTitle}</a>
-              {' '}&mdash;{' '}
-              <a href={lessonPath(initial.lessonId)}>{initial.lessonTitle}</a>
-            </>
-          ) : (
-            <>
-              <strong>{t.notAuthored}{' '}
-              <a href={gradePath(defaultGrade)}>{ui.gradeLabel(defaultGrade)}</a>{' '}
-              {t.browseFullYear}</strong>
-            </>
-          )}
-        </p>
+        <p class="teach-today__result" id="teach-result" set:html={htmlByGrade[defaultGrade]} />
       </div>
     </div>
   </section>
@@ -147,53 +137,24 @@ const jsonData = JSON.stringify({ isActive, schoolDay: schoolDayForToday(today),
 </script>
 
 <script is:inline>
-  (() => {
-    const el = document.getElementById('teach-data');
+  (function () {
+    var el = document.getElementById('teach-data');
     if (!el) return;
-    const { isActive, schoolDay, data: allData } = JSON.parse(el.textContent ?? '{}');
-    const select = document.getElementById('grade-select');
-    const resultEl = document.getElementById('teach-result');
+    var htmlByGrade = JSON.parse(el.textContent || '{}');
+    var select = document.getElementById('grade-select');
+    var resultEl = document.getElementById('teach-result');
     if (!select || !resultEl) return;
 
-    const gradeLabels = {};
-    select.querySelectorAll('option').forEach(function (o) {
-      gradeLabels[o.value] = o.textContent ?? o.value;
-    });
-
-    function update(gradeStr) {
-      const g = Number(gradeStr);
-      const d = Number.isInteger(g) ? (allData[g] ?? null) : null;
-      const label = gradeLabels[gradeStr] ?? ('Grade ' + gradeStr);
-
-      if (d) {
-        resultEl.innerHTML =
-          '<strong>' + (isActive ? ('Today is school day ' + schoolDay + '.') : 'Coming school year.') + '</strong> ' +
-          (isActive ? 'This week:' : 'First lesson:') + ' ' +
-          '<a href="' + unitPath(d.unitId) + '">' + esc(d.unitTitle) + '</a> &mdash; ' +
-          '<a href="' + lessonPath(d.lessonId) + '">' + esc(d.lessonTitle) + '</a>';
-      } else {
-        resultEl.innerHTML = '<strong>Not yet authored &mdash; open ' +
-          '<a href="' + gradePath(g) + '">' + esc(label) + '</a> to browse the full year.</strong>';
-      }
-
-      // Brief highlight feedback.
+    function show() {
+      resultEl.innerHTML = htmlByGrade[select.value] || '';
       resultEl.classList.add('teach-today__result--changed');
       setTimeout(function () { resultEl.classList.remove('teach-today__result--changed'); }, 400);
     }
 
-    function esc(s) {
-      const d = document.createElement('div');
-      d.textContent = s;
-      return d.innerHTML;
-    }
+    var q = new URLSearchParams(window.location.search).get('grade');
+    if (q !== null && htmlByGrade.hasOwnProperty(q)) select.value = q;
+    show();
 
-    function unitPath(id) { var p = id.split('.'); return '/curriculum/' + p[1].padStart(2,'0') + '/' + p[2].padStart(3,'0') + '/'; }
-    function lessonPath(id) { var m = id.match(/L\.(\d+)\.(\d+)\.(\d+)/); if (!m) return '/curriculum/'; return '/curriculum/' + m[1].padStart(2,'0') + '/' + m[2].padStart(3,'0') + '/' + m[3].padStart(2,'0') + '/'; }
-    function gradePath(g) { return '/curriculum/' + String(g).padStart(2,'0') + '/'; }
-
-    const q = new URLSearchParams(window.location.search).get('grade');
-    if (q !== null && allData.hasOwnProperty(q)) { select.value = q; update(q); }
-
-    select.addEventListener('change', function () { update(select.value); });
+    select.addEventListener('change', show);
   })();
 </script>
