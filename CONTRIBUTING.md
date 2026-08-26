@@ -1,22 +1,36 @@
 # Contributing
 
-Whole Earth Curriculum is built in the open and offered for free. Contributions
-of curriculum, review, tooling, and discussion are welcome.
+Whole Earth Curriculum is built in the open and offered for free. You do not need
+to understand the repository or its schemas to contribute useful evidence.
 
 ## Ways to contribute
 
-- **Author content** — write or improve units, lessons, standards, and assets.
-- **Review** — validate, fact-check, and audit for age-appropriateness and alignment.
-- **Improve tooling** — the validator and loop orchestrator live in `tools/`.
-- **Refine the vision** — the taxonomy and philosophy are living documents.
+- **Teach or pilot** — report what worked, preparation time, barriers, adaptations,
+  and assessment usefulness through the teacher-feedback issue form.
+- **Review** — examine a bounded lesson or unit for factual accuracy,
+  age-appropriateness, accessibility, culture, or alignment.
+- **Translate or localize** — identify language, cultural, material, and contextual
+  changes a community needs.
+- **Author content or improve tooling** — submit focused repository changes.
+
+Start at the [public support page](https://wholeearthcurriculum.org/support/) if you
+want a conversation or coordinated role. Use a GitHub issue if the feedback can be
+public. Never include personal information about learners in either place.
 
 ## Before you start
+
+For a code or curriculum change:
 
 1. Read [`docs/vision.md`](docs/vision.md) and
    [`docs/taxonomy.md`](docs/taxonomy.md).
 2. If you are an AI agent, read [`AGENTS.md`](AGENTS.md) first — it is mandatory.
 3. Check the backlog in `agents/backlog/` to avoid duplicating in-progress work.
 4. Find an existing exemplar file and follow it closely.
+
+If you are reporting classroom or expert feedback rather than editing files, choose
+the relevant issue template and describe a specific lesson, unit, or claim. A
+maintainer will translate accepted feedback into the internal backlog; contributors
+do not need to edit agent state.
 
 ## Content conventions
 

@@ -126,15 +126,13 @@ const jsonData = JSON.stringify(htmlByGrade);
       </ul>
       <div class="cta-row">
         <a class="btn btn--primary" href="/curriculum/">{t.startCta}</a>
-        <a class="btn btn--ghost" href="/what-is/">{t.whatThis}</a>
+        <a class="btn btn--ghost" href="/support/?type=pilot#interest">{t.pilotCta}</a>
       </div>
     </div>
   </section>
 </BaseLayout>
 
-<script type="application/json" id="teach-data">
-  {jsonData}
-</script>
+<script is:inline type="application/json" id="teach-data" set:html={jsonData}></script>
 
 <script is:inline>
   (function () {

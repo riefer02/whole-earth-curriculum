@@ -87,6 +87,24 @@ record (see [`grant-pitch.md`](grant-pitch.md)), not as adjectives.
   we teach how to think, not what to think.
 - Overstatements about scale, adoption, or outcomes that are not yet true.
 
+## Authorship and evidence disclosure
+
+Public surfaces must state that the initial curriculum was produced with substantial
+AI-assisted drafting, review passes, asset generation, and automated validation.
+They must also state what that does and does not establish:
+
+- Automated checks establish structural completeness, traceability, and conformance
+  to the repository rules.
+- They do not substitute for independent subject review, cultural review,
+  accessibility review, or classroom evidence.
+- Human review, pilots, findings, revisions, and remaining gaps are reported as they
+  occur; they are never implied before they exist.
+- Maintainers remain responsible for what is published. “The AI wrote it” is not a
+  transfer of responsibility.
+
+Use plain language. Disclosure is part of the trust model, not a disclaimer hidden
+in legal copy.
+
 ## Public name
 
 **Decision (2026-08-25): the public-facing name is "Whole Earth Curriculum" (`WEC`).**

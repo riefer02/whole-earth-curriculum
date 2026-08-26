@@ -1,52 +1,64 @@
 # Roadmap
 
-Sequencing of the build. The curriculum is produced by the agent loop (see
-`agents/`); this document defines the *order* of that production.
+Sequencing and current status of the build. The curriculum source remains governed
+by the traceability chain and agent loop; public readiness also requires independent
+review and evidence from real learning settings.
 
-## Phase 0 — Foundation (current)
+## Current snapshot — August 2026
 
-Establish the monorepo, vision, philosophy, taxonomy, schemas, validator, and the
-agent loop. Prove the pipeline with one complete exemplar strand/unit.
+The repository contains a complete K–12 first pass: standards, scopes, units,
+lessons, referenced assets, a public web renderer, and automated structural
+validation. That is evidence of breadth and internal consistency, not evidence of
+classroom effectiveness. Human review, localization, accessibility verification,
+and bounded pilots are the current constraint.
 
-**Exit criteria:** a new agent can clone the repo, read `AGENTS.md`, claim a backlog
-item, author valid content, and pass validation — end to end.
+## Phase 0 — Foundation (complete)
 
-## Phase 1 — Standards backbone
+The monorepo, vision, philosophy, taxonomy, schemas, validator, source registry, and
+agent loop are operational.
 
-Author the full standards tree: every domain's strands and grade-level objectives,
-K–12. This is the vertical spine every lesson will hang from.
+## Phase 1 — Standards backbone (complete first pass)
 
-**Exit criteria:** `curriculum/standards/` is complete for D01–D10, all grades, and
-passes validation. The traceability chain is load-bearing.
+The D01–D10 standards tree and grade-level objectives exist and resolve through the
+curriculum traceability chain. Independent discipline review remains ongoing work.
 
-## Phase 2 — Exemplar vertical slices
+## Phase 2 — Curriculum first pass (complete structurally)
 
-Build one complete vertical slice for a small number of strands — full units and
-lessons for Kindergarten, Grade 4, Grade 8, and Grade 12 — to calibrate
-age-appropriateness, depth, and voice before mass production.
+All grade levels have scopes, units, and validated lessons. The automated pipeline
+checks schemas, objective resolution, required sections, and asset references.
 
-**Exit criteria:** four grade levels have at least one fully-authored, validated,
-audited unit; reviewers and alignment auditors have signed off.
+## Phase 3 — Human review (current)
 
-## Phase 3 — Horizontal mass production
+Recruit subject specialists, developmental and accessibility reviewers, educators,
+and cultural editors. Review bounded units, publish findings as issues, revise the
+source, and record sign-off without presenting automated review as independent
+human judgment.
 
-Author all 13 grade levels (K–12), ≈180 days each, using the calibrated templates.
+**Exit criteria:** priority units have named review disciplines, resolved findings,
+and public review status.
 
-**Exit criteria:** every grade has a complete `scope.md` and a full year of
-validated, audited lessons.
+## Phase 4 — Classroom pilots (current recruitment)
 
-## Phase 4 — Assets & accessibility
+Run bounded unit pilots in varied learning settings. Collect curriculum-implementation
+evidence only: preparation time, material constraints, clarity, engagement,
+assessment usefulness, adaptations, and resulting revisions. Do not collect student
+personal data through the support system.
 
-Produce the scholastic assets (illustrations, worksheets, audio, video, translated
-editions) and ensure accessibility.
+**Exit criteria:** pilot reports describe their contexts and limitations, revisions
+are traceable, and cost estimates are based on observed work.
 
-**Exit criteria:** every lesson's `materials:` resolve to real assets; core lessons
-have accessible and multilingual variants.
+## Phase 5 — Localization, accessibility, and delivery
 
-## Phase 5 — Delivery
+Translate and culturally localize reviewed material; verify document and asset
+accessibility; produce print, offline, and low-bandwidth editions alongside the web
+version.
 
-Build the renderers and distribution (web, print, EPUB, offline bundles) on top of
-the content source of truth.
+**Exit criteria:** each published edition names its locale, review status,
+accessibility checks, delivery formats, and unresolved limitations.
 
-**Exit criteria:** a learner anywhere with a device or a printed binder can access
-the full curriculum at no cost.
+## Phase 6 — Evidence and stewardship
+
+Publish transparent estimates and actual spending, maintenance responsibility,
+versioned adoption guidance, and outcome evidence appropriate to the strength of the
+study design. Keep the curriculum free and reject funding conditions that create
+private ownership or unequal access.

@@ -1,0 +1,311 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+
+const p = ui.pages.support;
+const f = p.form;
+const formEndpoint = import.meta.env.PUBLIC_SUPPORT_FORM_ENDPOINT ?? '';
+const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY ?? '';
+const formConfigured = Boolean(formEndpoint && turnstileSiteKey);
+---
+
+<BaseLayout title={p.title} description={p.description}>
+  <section class="hero">
+    <div class="container">
+      <p class="hero__kicker">{p.kicker}</p>
+      <h1 class="hero__title">{p.heroTitle}</h1>
+      <p class="hero__subtitle">{p.heroSubtitle}</p>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="#interest">{p.formTitle}</a>
+        <a class="btn btn--ghost" href="#budget">{p.budgetTitle}</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.pathsTitle}</h2>
+      <p class="lede">{p.pathsIntro}</p>
+      <div class="grid">
+        {
+          p.paths.map((path) => (
+            <a
+              class="card card--cta support-path"
+              href="#interest"
+              data-support-choice={path.key}
+            >
+              <h3 class="card__title">{path.title}</h3>
+              <p class="card__meta">{path.body}</p>
+              <span class="btn btn--ghost">{path.cta}</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section" id="pilot">
+    <div class="container">
+      <h2>{p.pilotTitle}</h2>
+      <p class="lede">{p.pilotIntro}</p>
+      <ol class="support-steps">
+        {
+          p.pilotSteps.map((step) => (
+            <li>
+              <strong>{step.title}</strong>
+              <span>{step.body}</span>
+            </li>
+          ))
+        }
+      </ol>
+      <div class="note support-note">
+        <strong>Privacy guardrail.</strong> {p.pilotGuardrail}
+      </div>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="#interest" data-support-choice="pilot">
+          {f.supportPilot}
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section" id="budget">
+    <div class="container">
+      <h2>{p.budgetTitle}</h2>
+      <p class="lede">{p.budgetIntro}</p>
+      <div class="prose support-budget">
+        <table>
+          <thead>
+            <tr>
+              <th>Outcome</th>
+              <th>Initial cost model</th>
+              <th>What will be published</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              p.budgetRows.map((row) => (
+                <tr>
+                  <td><strong>{row.outcome}</strong></td>
+                  <td>{row.model}</td>
+                  <td>{row.evidence}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+      <p class="lede">{p.budgetPromise}</p>
+      <p><a href="/docs/budget/">{p.budgetCta}</a></p>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="#interest" data-support-choice="fund">
+          {f.supportFund}
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section" id="interest">
+    <div class="container container--form">
+      <h2>{p.formTitle}</h2>
+      <p class="lede">{p.formIntro}</p>
+
+      <form
+        class="support-form"
+        id="support-form"
+        name="support-interest"
+        method="POST"
+        action="#"
+        data-endpoint={formEndpoint}
+        data-configured={String(formConfigured)}
+        data-error-message={f.error}
+      >
+        <p class="form-honeypot">
+          <label>Do not fill this out if you are human: <input name="website" /></label>
+        </p>
+
+        <div class="form-grid">
+          <div class="form-field">
+            <label for="support-name">{f.name}</label>
+            <input id="support-name" name="name" type="text" autocomplete="name" required />
+          </div>
+          <div class="form-field">
+            <label for="support-email">{f.email}</label>
+            <input id="support-email" name="email" type="email" autocomplete="email" required />
+          </div>
+          <div class="form-field">
+            <label for="support-role">{f.role}</label>
+            <select id="support-role" name="role" required>
+              <option value="">{f.rolePrompt}</option>
+              <option value="educator">{f.roleEducator}</option>
+              <option value="expert">{f.roleExpert}</option>
+              <option value="translator">{f.roleTranslator}</option>
+              <option value="funder">{f.roleFunder}</option>
+              <option value="contributor">{f.roleContributor}</option>
+              <option value="other">{f.roleOther}</option>
+            </select>
+          </div>
+          <div class="form-field">
+            <label for="support-organization">{f.organization}</label>
+            <input id="support-organization" name="organization" type="text" autocomplete="organization" />
+          </div>
+          <div class="form-field">
+            <label for="support-region">{f.region}</label>
+            <input id="support-region" name="region" type="text" autocomplete="country-name" required />
+          </div>
+          <div class="form-field">
+            <label for="support-type">{f.supportType}</label>
+            <select id="support-type" name="support_type" required>
+              <option value="">{f.rolePrompt}</option>
+              <option value="pilot">{f.supportPilot}</option>
+              <option value="review">{f.supportReview}</option>
+              <option value="localize">{f.supportLocalize}</option>
+              <option value="fund">{f.supportFund}</option>
+              <option value="other">{f.supportOther}</option>
+            </select>
+          </div>
+          <div class="form-field form-field--wide">
+            <label for="support-focus">{f.focus}</label>
+            <input id="support-focus" name="focus" type="text" />
+          </div>
+          <div class="form-field">
+            <label for="support-capacity">{f.capacity}</label>
+            <select id="support-capacity" name="capacity">
+              <option value="">{f.capacityPrompt}</option>
+              <option value="conversation">{f.capacityConversation}</option>
+              <option value="lessons">{f.capacityLesson}</option>
+              <option value="unit">{f.capacityUnit}</option>
+              <option value="ongoing">{f.capacityOngoing}</option>
+            </select>
+          </div>
+          <div class="form-field">
+            <label for="support-funding">{f.funding}</label>
+            <select id="support-funding" name="funding_range">
+              <option value="">{f.fundingPrompt}</option>
+              <option value="in-kind">{f.fundingInKind}</option>
+              <option value="under-5000">{f.fundingUnder5}</option>
+              <option value="5000-25000">{f.funding5to25}</option>
+              <option value="25000-100000">{f.funding25to100}</option>
+              <option value="100000-plus">{f.funding100plus}</option>
+            </select>
+          </div>
+          <div class="form-field form-field--wide">
+            <label for="support-message">{f.message}</label>
+            <textarea id="support-message" name="message" rows="6"></textarea>
+          </div>
+        </div>
+
+        <p class="form-consent">
+          <label>
+            <input name="contact_consent" type="checkbox" value="yes" required />
+            <span>{f.consent}</span>
+          </label>
+        </p>
+        {
+          turnstileSiteKey && (
+            <div
+              class="cf-turnstile"
+              data-sitekey={turnstileSiteKey}
+              data-action="support_interest"
+              data-size="flexible"
+              data-theme="light"
+              data-response-field-name="turnstile_token"
+            />
+          )
+        }
+        <p class="form-privacy">{p.privacy}</p>
+        <p class="form-privacy"><a href="/docs/privacy/">{p.privacyCta}</a></p>
+        {!formConfigured && <p class="note form-status">{f.notConfigured}</p>}
+        <p class="form-status" id="support-form-status" aria-live="polite"></p>
+        <button
+          class="btn btn--primary"
+          type="submit"
+          disabled={!formConfigured}
+          data-label-ready={f.submit}
+          data-label-sending={f.sending}
+        >
+          {f.submit}
+        </button>
+      </form>
+    </div>
+  </section>
+</BaseLayout>
+
+{
+  turnstileSiteKey && (
+    <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+  )
+}
+
+<script is:inline>
+  (() => {
+    const select = document.getElementById('support-type');
+    if (!(select instanceof HTMLSelectElement)) return;
+
+    const valid = new Set(['pilot', 'review', 'localize', 'fund', 'other']);
+    const choose = (value) => {
+      if (!valid.has(value)) return;
+      select.value = value;
+    };
+
+    document.querySelectorAll('[data-support-choice]').forEach((link) => {
+      link.addEventListener('click', () => choose(link.dataset.supportChoice || ''));
+    });
+
+    const requested = new URLSearchParams(window.location.search).get('type');
+    if (requested) choose(requested);
+
+    const form = document.getElementById('support-form');
+    const status = document.getElementById('support-form-status');
+    if (!(form instanceof HTMLFormElement) || !(status instanceof HTMLElement)) return;
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      if (form.dataset.configured !== 'true' || !form.reportValidity()) return;
+
+      const formData = new FormData(form);
+      if (String(formData.get('website') || '')) return;
+
+      const button = form.querySelector('button[type="submit"]');
+      if (!(button instanceof HTMLButtonElement)) return;
+      button.disabled = true;
+      button.textContent = button.dataset.labelSending || 'Sending…';
+      status.textContent = '';
+
+      const payload = {
+        name: formData.get('name'),
+        email: formData.get('email'),
+        role: formData.get('role'),
+        organization: formData.get('organization') || null,
+        region: formData.get('region'),
+        support_type: formData.get('support_type'),
+        focus: formData.get('focus') || null,
+        capacity: formData.get('capacity') || null,
+        funding_range: formData.get('funding_range') || null,
+        message: formData.get('message') || null,
+        contact_consent: formData.get('contact_consent') === 'yes',
+        source_path: window.location.pathname,
+        website: formData.get('website') || '',
+        turnstile_token: formData.get('turnstile_token') || '',
+      };
+
+      try {
+        const endpoint = form.dataset.endpoint || '';
+        const response = await fetch(endpoint, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(payload),
+        });
+        if (!response.ok) throw new Error(`Submission failed: ${response.status}`);
+        window.location.assign('/support/thanks/');
+      } catch (error) {
+        status.textContent = form.dataset.errorMessage || 'The form could not be sent.';
+        if (window.turnstile) window.turnstile.reset();
+        button.disabled = false;
+        button.textContent = button.dataset.labelReady || 'Send';
+      }
+    });
+  })();
+</script>

@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+
+const p = ui.pages.supportThanks;
+---
+
+<BaseLayout title={p.title}>
+  <section class="hero">
+    <div class="container">
+      <p class="hero__kicker">{p.kicker}</p>
+      <h1 class="hero__title">{p.heroTitle}</h1>
+      <p class="hero__subtitle">{p.heroSubtitle}</p>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="/support/">{p.back}</a>
+        <a class="btn btn--ghost" href="/curriculum/">{p.curriculum}</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

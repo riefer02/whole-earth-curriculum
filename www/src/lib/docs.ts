@@ -7,7 +7,7 @@ export function docTitle(markdown: string | undefined, fallback: string): string
   return m ? m[1].trim() : fallback;
 }
 
-// Canonical order of the reference documents (mirrors AGENTS.md §2).
+// Canonical references first (mirrors AGENTS.md §2), then public operational docs.
 export const DOC_ORDER = [
   'vision',
   'philosophy',
@@ -21,6 +21,8 @@ export const DOC_ORDER = [
   'assessment',
   'art-style',
   'glossary',
+  'budget',
+  'privacy',
 ];
 
 // Docs kept in the repo but not rendered on the public site — internal

@@ -17,4 +17,5 @@ jobs:
       - run: npm ci
       - run: npm run validate
       - run: npm run test:citation-lint
+      - run: npm run test:support-form
       - run: npm run lint:sources

@@ -1,0 +1,45 @@
+name: Expert review
+description: Review a bounded lesson, unit, standard, source, or factual claim.
+title: "Expert review: "
+body:
+  - type: input
+    id: target
+    attributes:
+      label: Material reviewed
+      description: Link the page/file and identify the lesson, unit, standard, or claim.
+    validations:
+      required: true
+  - type: dropdown
+    id: lens
+    attributes:
+      label: Review lens
+      options:
+        - Subject-matter accuracy
+        - Development and age-appropriateness
+        - Accessibility
+        - Cultural and global framing
+        - Assessment quality
+        - Facilitation and safety
+        - Standards alignment
+    validations:
+      required: true
+  - type: textarea
+    id: qualifications
+    attributes:
+      label: Relevant perspective
+      description: Briefly describe the experience or community knowledge informing this review. Credentials are not required for lived-context feedback.
+    validations:
+      required: true
+  - type: textarea
+    id: findings
+    attributes:
+      label: Findings
+      description: Separate factual concerns from value judgments and cite primary sources where applicable.
+    validations:
+      required: true
+  - type: textarea
+    id: recommendation
+    attributes:
+      label: Recommended revision
+    validations:
+      required: true

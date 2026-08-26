@@ -21,6 +21,7 @@ export interface UI {
     standards: string;
     docs: string;
     about: string;
+    support: string;
     forTeachers: string;
     forLeaders: string;
     search: string;
@@ -39,6 +40,7 @@ export interface UI {
     heroSubtitle: string;
     browseCurriculum: string;
     browseStandards: string;
+    supportProject: string;
     browseByGrade: string;
     pillarsTitle: string;
     pillarsIntro: string;
@@ -66,6 +68,16 @@ export interface UI {
       seeTitle: string;
       seeIntro: string;
       seeCta: string;
+      builtTitle: string;
+      builtIntro: string;
+      built: Array<{ title: string; body: string }>;
+      responsibilityTitle: string;
+      responsibilityBody: string;
+      governanceTitle: string;
+      governance: Array<{ title: string; body: string }>;
+      participateTitle: string;
+      participateBody: string;
+      participateCta: string;
     };
     forTeachers: {
       title: string;
@@ -89,7 +101,7 @@ export interface UI {
       fitIntro: string;
       fitSteps: Array<{ title: string; body: string }>;
       startCta: string;
-      whatThis: string;
+      pilotCta: string;
     };
     forLeaders: {
       title: string;
@@ -117,12 +129,44 @@ export interface UI {
       askTitle: string;
       askIntro: string;
       ask: Array<{ title: string; body: string }>;
-      exploreStandards: string;
       readDocs: string;
+      supportProject: string;
       licenseTitle: string;
       licenseBefore: string;
       licenseLink: string;
       licenseAfter: string;
+    };
+    support: {
+      title: string;
+      description: string;
+      kicker: string;
+      heroTitle: string;
+      heroSubtitle: string;
+      pathsTitle: string;
+      pathsIntro: string;
+      paths: Array<{ key: string; title: string; body: string; cta: string }>;
+      pilotTitle: string;
+      pilotIntro: string;
+      pilotSteps: Array<{ title: string; body: string }>;
+      pilotGuardrail: string;
+      budgetTitle: string;
+      budgetIntro: string;
+      budgetRows: Array<{ outcome: string; model: string; evidence: string }>;
+      budgetPromise: string;
+      budgetCta: string;
+      formTitle: string;
+      formIntro: string;
+      form: Record<string, string>;
+      privacy: string;
+      privacyCta: string;
+    };
+    supportThanks: {
+      title: string;
+      kicker: string;
+      heroTitle: string;
+      heroSubtitle: string;
+      back: string;
+      curriculum: string;
     };
     sources: {
       title: string;
@@ -162,6 +206,7 @@ export interface UI {
     taughtIn: string;
     copyLink: string;
     copied: string;
+    suggestImprovement: string;
   };
   footer: {
     tagline: string;
@@ -202,7 +247,8 @@ const en: UI = {
     curriculum: 'Curriculum',
     standards: 'Standards',
     docs: 'Docs',
-    about: 'About',
+    about: 'About us',
+    support: 'Support',
     forTeachers: 'For Teachers',
     forLeaders: 'For Leaders',
     search: 'Search',
@@ -223,6 +269,7 @@ const en: UI = {
       'One complete, coherent K\u201312 curriculum that develops people who are emotionally, physically, and intellectually aware \u2014 of themselves, their world, and the Earth they live in.',
     browseCurriculum: 'Browse the curriculum',
     browseStandards: 'Explore the standards',
+    supportProject: 'Support the project',
     browseByGrade: 'Browse by grade',
     pillarsTitle: 'Four pillars, one whole person',
     pillarsIntro:
@@ -316,6 +363,49 @@ const en: UI = {
       seeIntro:
         'You don\u2019t need to take our word for it. Open any lesson and judge it yourself \u2014 every one is free, printable, and written so a child can follow it.',
       seeCta: 'Open a sample lesson',
+      builtTitle: 'How it was built',
+      builtIntro:
+        'The complete first pass was built through a documented, AI-assisted curriculum process. The process is public so anyone can inspect both the work and how it was made.',
+      built: [
+        {
+          title: 'AI-assisted drafting and review',
+          body: 'AI agents drafted, checked, and revised material in sequence across defined curriculum, developmental, factual, cultural, accessibility, and alignment roles.',
+        },
+        {
+          title: 'Automated validation',
+          body: 'Every lesson is checked against the curriculum schema, its learning objectives, required teaching structure, source registry, and linked assets before publication.',
+        },
+        {
+          title: 'Human review is the next layer',
+          body: 'Agent review and automated checks are not presented as independent human review. WEC is now recruiting educators, subject experts, translators, and pilot partners to test and strengthen the first pass.',
+        },
+      ],
+      responsibilityTitle: 'Who is responsible',
+      responsibilityBody:
+        'Whole Earth Curriculum is currently stewarded by its repository maintainer and developed in public. The maintainer is accountable for what is published, for applying the project’s stated standards consistently, and for recording material changes in the open repository. Human reviewers and advisory participants will be named here with their permission as the circle grows.',
+      governanceTitle: 'How decisions are made',
+      governance: [
+        {
+          title: 'The vision is the test',
+          body: 'Changes must serve the four dimensions of a whole learner and preserve the curriculum’s traceable learning goals.',
+        },
+        {
+          title: 'Evidence and values stay distinct',
+          body: 'Factual claims require sources. Values are stated openly rather than disguised as neutral facts.',
+        },
+        {
+          title: 'The work stays inspectable',
+          body: 'Curriculum changes, review discussion, validation rules, and funding assumptions are kept in public whenever privacy and safety allow.',
+        },
+        {
+          title: 'Support does not buy doctrine',
+          body: 'Partners may fund outcomes and contribute expertise; they do not receive a private right to override the vision or close the curriculum.',
+        },
+      ],
+      participateTitle: 'Help build the human layer',
+      participateBody:
+        'Use the curriculum, review it, pilot a unit, translate it, or help fund the work. Support is how the complete first pass becomes a curriculum tested by real communities.',
+      participateCta: 'Choose how to support WEC',
     },
     forTeachers: {
       title: 'Whole Earth Curriculum for Teachers',
@@ -366,7 +456,7 @@ const en: UI = {
         { title: 'Share', body: 'copy the link and hand it to a colleague or a family.' },
       ],
       startCta: 'Start with a grade',
-      whatThis: 'What this is',
+      pilotCta: 'Pilot a unit',
     },
     forLeaders: {
       title: 'Whole Earth Curriculum for Leaders & Funders',
@@ -507,12 +597,161 @@ const en: UI = {
           body: 'web, offline, and print, free at the point of use.',
         },
       ],
-      exploreStandards: 'Explore the standards',
       readDocs: 'Read the documentation',
+      supportProject: 'Fund or partner on an outcome',
       licenseTitle: 'License',
       licenseBefore: 'Curriculum content is licensed under',
       licenseLink: 'CC BY-SA 4.0',
       licenseAfter: '\u2014 free to use, adapt, and share, forever. Tooling is released under MIT.',
+    },
+    support: {
+      title: 'Support Whole Earth Curriculum',
+      description:
+        'Pilot, review, translate, fund, or partner with Whole Earth Curriculum as the complete K–12 first pass moves into human validation and wider use.',
+      kicker: 'Turn a complete first pass into a shared public resource',
+      heroTitle: 'Help make it real in the world.',
+      heroSubtitle:
+        'The K–12 curriculum is written, illustrated, open, and structurally validated. The next work is human: classroom pilots, expert review, localization, delivery, and the support that makes them possible.',
+      pathsTitle: 'Choose your way in',
+      pathsIntro:
+        'You do not need to take on the whole curriculum. Start with one useful, bounded contribution.',
+      paths: [
+        {
+          key: 'pilot',
+          title: 'Pilot a unit',
+          body: 'Use a unit with learners and tell us what works, what fails, and what must change for your setting.',
+          cta: 'Join the pilot cohort',
+        },
+        {
+          key: 'review',
+          title: 'Review as an expert',
+          body: 'Review a bounded set of lessons through your teaching, subject, developmental, cultural, or accessibility expertise.',
+          cta: 'Offer a review',
+        },
+        {
+          key: 'localize',
+          title: 'Translate or localize',
+          body: 'Help a unit speak accurately in another language, culture, place, or material reality.',
+          cta: 'Propose a localization',
+        },
+        {
+          key: 'fund',
+          title: 'Fund or partner',
+          body: 'Support a measurable outcome such as a reviewed unit, a pilot cohort, a localization, or offline delivery.',
+          cta: 'Discuss a partnership',
+        },
+      ],
+      pilotTitle: 'The first pilot cohort',
+      pilotIntro:
+        'The initial cohort will test complete units in real learning settings and create the evidence needed for stronger adoption and cost estimates.',
+      pilotSteps: [
+        {
+          title: 'Choose a bounded unit',
+          body: 'Select a grade and unit that fits your learners; whole-school adoption is not required.',
+        },
+        {
+          title: 'Teach and observe',
+          body: 'Use the lessons as written or record the adaptations your setting requires.',
+        },
+        {
+          title: 'Report usable evidence',
+          body: 'Share preparation time, material barriers, clarity, learner engagement, assessment usefulness, and specific revisions.',
+        },
+        {
+          title: 'See the curriculum change',
+          body: 'Pilot findings become public issues and revisions, with participating educators credited when they choose.',
+        },
+      ],
+      pilotGuardrail:
+        'The first cohort is curriculum improvement, not formal human-subjects research. Do not submit learner names, contact details, health information, images, or other personal student data.',
+      budgetTitle: 'A budget built from real work',
+      budgetIntro:
+        'WEC will not invent polished totals before the work is measured. Initial pilots and reviews will establish hours, rates, and coordination costs; each funded outcome will then publish its assumptions and actuals.',
+      budgetRows: [
+        {
+          outcome: 'Human review',
+          model: 'Lessons × review hours per lesson × reviewer rate',
+          evidence: 'Time logs, reviewer discipline, findings, revisions, and sign-off status',
+        },
+        {
+          outcome: 'Classroom pilot',
+          model: 'Educator support or stipend + coordination + analysis',
+          evidence: 'Settings, lessons used, preparation time, barriers, feedback, and resulting changes',
+        },
+        {
+          outcome: 'Translation and localization',
+          model: 'Source words × translation rate + cultural and subject review',
+          evidence: 'Language, locale, word count, reviewers, revisions, and publication status',
+        },
+        {
+          outcome: 'Print, offline, and web delivery',
+          model: 'Scoped implementation hours + production and service costs',
+          evidence: 'Deliverables, accessibility checks, distribution format, and recurring costs',
+        },
+        {
+          outcome: 'Coordination and administration',
+          model: 'Named hours or an explicit percentage, never hidden inside program costs',
+          evidence: 'Funding received, spending by category, balance, and variance from the estimate',
+        },
+      ],
+      budgetPromise:
+        'The public budget will show the estimate, its assumptions, money received, money spent, remaining balance, and what changed. No donor receives private ownership of the curriculum.',
+      budgetCta: 'Read the budget and measurement plan',
+      formTitle: 'Tell us how you want to help',
+      formIntro:
+        'This first form is intentionally broad. Responses will shape the pilot cohort, reviewer pool, localization priorities, and the first costed funding outcomes.',
+      form: {
+        name: 'Name',
+        email: 'Email',
+        role: 'Your role',
+        rolePrompt: 'Choose the closest fit',
+        roleEducator: 'Educator or facilitator',
+        roleExpert: 'Subject or review specialist',
+        roleTranslator: 'Translator or cultural editor',
+        roleFunder: 'Funder or institutional partner',
+        roleContributor: 'Open contributor',
+        roleOther: 'Another role',
+        organization: 'Organization or community (optional)',
+        region: 'Country or region',
+        supportType: 'How would you like to help?',
+        supportPilot: 'Pilot a unit',
+        supportReview: 'Review as an expert',
+        supportLocalize: 'Translate or localize',
+        supportFund: 'Fund or partner',
+        supportOther: 'Another form of support',
+        focus: 'Grade, subject, language, community, or outcome of interest',
+        capacity: 'Available capacity (optional)',
+        capacityPrompt: 'Choose one',
+        capacityConversation: 'An initial conversation',
+        capacityLesson: 'One or a few lessons',
+        capacityUnit: 'One complete unit',
+        capacityOngoing: 'An ongoing role or partnership',
+        funding: 'Potential funding range (optional)',
+        fundingPrompt: 'Choose one',
+        fundingInKind: 'Expertise, access, or other in-kind support',
+        fundingUnder5: 'Under $5,000 USD',
+        funding5to25: '$5,000–$25,000 USD',
+        funding25to100: '$25,000–$100,000 USD',
+        funding100plus: '$100,000+ USD',
+        message: 'What would make this collaboration useful?',
+        consent: 'You may contact me about this request and closely related WEC opportunities.',
+        submit: 'Send support interest',
+        sending: 'Sending…',
+        error: 'The form could not be sent. Please try again in a moment.',
+        notConfigured: 'The support database is being connected. Please return shortly or use the public repository in the meantime.',
+      },
+      privacy:
+        'Please do not include personal information about learners. Information submitted here is used to respond to this request and organize WEC support; it is not sold.',
+      privacyCta: 'Read the support-form privacy and retention policy',
+    },
+    supportThanks: {
+      title: 'Thank you for supporting Whole Earth Curriculum',
+      kicker: 'Interest received',
+      heroTitle: 'Thank you for stepping in.',
+      heroSubtitle:
+        'Your response will help shape the first pilot cohort, reviewer pool, localization priorities, partnerships, and costed public outcomes.',
+      back: 'Return to support',
+      curriculum: 'Explore the curriculum',
     },
     sources: {
       title: 'Sources',
@@ -554,6 +793,7 @@ const en: UI = {
     taughtIn: 'Taught in',
     copyLink: 'Copy link',
     copied: 'Copied',
+    suggestImprovement: 'Suggest an improvement',
   },
 
   footer: {

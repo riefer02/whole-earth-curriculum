@@ -14,15 +14,24 @@ const desc = description ?? ui.site.description;
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
 const pathname = Astro.url.pathname;
 
-const navItems = [
-  { href: '/', label: ui.nav.home },
+const primaryNavItems = [
   { href: '/what-is/', label: ui.nav.about },
   { href: '/curriculum/', label: ui.nav.curriculum },
   { href: '/for-teachers/', label: ui.nav.forTeachers },
   { href: '/for-leaders/', label: ui.nav.forLeaders },
+  { href: '/support/', label: ui.nav.support },
+];
+
+const referenceNavItems = [
   { href: '/standards/', label: ui.nav.standards },
   { href: '/docs/', label: ui.nav.docs },
   { href: '/search/', label: ui.nav.search },
+];
+
+const footerNavItems = [
+  { href: '/', label: ui.nav.home },
+  ...primaryNavItems,
+  ...referenceNavItems,
 ];
 ---
 
@@ -91,7 +100,7 @@ const navItems = [
           </form>
           <nav class="site-nav" aria-label="Primary">
             {
-              navItems.map((item) => (
+              primaryNavItems.map((item) => (
                 <a
                   href={item.href}
                   aria-current={pathname === item.href ? 'page' : undefined}
@@ -161,7 +170,7 @@ const navItems = [
             <div class="mobile-nav__panel">
               <nav aria-label="Primary">
                 {
-                  navItems.map((item) => (
+                  [...primaryNavItems, ...referenceNavItems].map((item) => (
                     <a
                       href={item.href}
                       aria-current={pathname === item.href ? 'page' : undefined}
@@ -187,7 +196,7 @@ const navItems = [
         </div>
         <nav class="site-footer__nav" aria-label="Footer">
           {
-            navItems.map((item) => (
+            footerNavItems.map((item) => (
               <a href={item.href}>{item.label}</a>
             ))
           }

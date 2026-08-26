@@ -426,6 +426,7 @@ li {
 
 .page-actions {
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-end;
   gap: 0.5rem;
   margin: 0 0 1rem;
@@ -489,6 +490,182 @@ li {
   color: var(--slate);
   font-size: 1.5rem;
   margin: 0 0 0.5rem;
+}
+
+.section-heading {
+  color: var(--slate);
+  font-size: 1.2rem;
+  margin: 2rem 0 0.75rem;
+}
+
+/* Support funnel */
+.support-path {
+  border-top: 3px solid var(--accent-warm);
+}
+
+.support-steps {
+  list-style: none;
+  counter-reset: support-step;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: 1rem;
+  padding: 0;
+  margin: 1.25rem 0;
+}
+
+.support-steps li {
+  counter-increment: support-step;
+  display: grid;
+  gap: 0.4rem;
+  align-content: start;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--paper);
+}
+
+.support-steps li::before {
+  content: counter(support-step);
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 999px;
+  color: var(--paper);
+  background: var(--slate);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.support-steps span {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.support-note {
+  max-width: var(--prosew);
+  color: var(--text);
+}
+
+.support-budget {
+  max-width: none;
+  overflow-x: auto;
+}
+
+.container--form {
+  max-width: 58rem;
+}
+
+.support-form {
+  margin-top: 1.5rem;
+  padding: clamp(1rem, 3vw, 2rem);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--accent-warm);
+  border-radius: var(--radius);
+  background: var(--paper-soft);
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.form-field {
+  display: grid;
+  align-content: start;
+  gap: 0.35rem;
+}
+
+.form-field--wide {
+  grid-column: 1 / -1;
+}
+
+.form-field label {
+  color: var(--slate);
+  font-size: 0.9rem;
+  font-weight: 650;
+}
+
+.form-field input,
+.form-field select,
+.form-field textarea {
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0.6rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--paper);
+  color: var(--text);
+  font: inherit;
+}
+
+.form-field textarea {
+  min-height: 9rem;
+  resize: vertical;
+}
+
+.form-field input:focus,
+.form-field select:focus,
+.form-field textarea:focus {
+  outline: 2px solid var(--focus);
+  outline-offset: 1px;
+  border-color: var(--secondary);
+}
+
+.form-consent {
+  margin: 1.25rem 0 0.4rem;
+}
+
+.form-consent label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+}
+
+.form-consent input {
+  width: 1.1rem;
+  height: 1.1rem;
+  margin-top: 0.3rem;
+  accent-color: var(--slate);
+  flex: 0 0 auto;
+}
+
+.form-privacy {
+  max-width: var(--prosew);
+  margin: 0 0 1.25rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.form-status {
+  margin: 0 0 1rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.support-form .btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.form-honeypot {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+@media (max-width: 640px) {
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .form-field--wide {
+    grid-column: auto;
+  }
 }
 
 /* Grade quick-nav on the home page */

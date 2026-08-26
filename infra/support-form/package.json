@@ -1,0 +1,17 @@
+{
+  "name": "@wec/support-form",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "test": "node --test src/*.test.mjs",
+    "db:migrate:local": "wrangler d1 migrations apply DB --local",
+    "db:migrate:remote": "wrangler d1 migrations apply DB --remote",
+    "deploy": "wrangler deploy",
+    "whoami": "wrangler whoami"
+  },
+  "devDependencies": {
+    "wrangler": "4.126.0"
+  }
+}

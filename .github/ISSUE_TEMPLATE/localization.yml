@@ -1,0 +1,31 @@
+name: Translation or localization proposal
+description: Identify language, cultural, contextual, or material adaptations.
+title: "Localization: "
+body:
+  - type: input
+    id: locale
+    attributes:
+      label: Language and community or locale
+    validations:
+      required: true
+  - type: input
+    id: target
+    attributes:
+      label: Material in scope
+      description: Link a lesson or unit, or describe the proposed edition.
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: What needs to change?
+      description: Consider language, examples, history, names, units, materials, technology, accessibility, and facilitation context.
+    validations:
+      required: true
+  - type: textarea
+    id: review
+    attributes:
+      label: Proposed community and subject review
+      description: Describe who should review the adaptation and how disagreements should be handled.
+    validations:
+      required: true

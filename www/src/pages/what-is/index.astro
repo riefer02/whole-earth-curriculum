@@ -48,6 +48,54 @@ const p = ui.pages.whatIs;
     </div>
   </section>
 
+  <section class="home-section" id="how-it-was-built">
+    <div class="container">
+      <h2>{p.builtTitle}</h2>
+      <p class="lede">{p.builtIntro}</p>
+      <div class="grid">
+        {
+          p.built.map((item) => (
+            <div class="card">
+              <h3 class="card__title">{item.title}</h3>
+              <p class="card__meta">{item.body}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section" id="governance">
+    <div class="container">
+      <h2>{p.responsibilityTitle}</h2>
+      <p class="lede">{p.responsibilityBody}</p>
+      <p class="lede">
+        <a href="https://github.com/riefer02/whole-earth-curriculum">View the public repository and maintainer</a>
+      </p>
+      <h3 class="section-heading">{p.governanceTitle}</h3>
+      <div class="grid">
+        {
+          p.governance.map((item) => (
+            <div class="card">
+              <h4 class="card__title">{item.title}</h4>
+              <p class="card__meta">{item.body}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>{p.participateTitle}</h2>
+      <p class="lede">{p.participateBody}</p>
+      <div class="cta-row">
+        <a class="btn btn--primary" href="/support/">{p.participateCta}</a>
+      </div>
+    </div>
+  </section>
+
   <section class="home-section">
     <div class="container">
       <h2>{p.seeTitle}</h2>

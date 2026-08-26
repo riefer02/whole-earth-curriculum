@@ -74,6 +74,12 @@ const materialTiers = [
 ];
 
 const title = `${ui.common.lesson} ${lesson} — ${lessonEntry.data.title}`;
+const feedbackUrl =
+  'https://github.com/riefer02/whole-earth-curriculum/issues/new?' +
+  new URLSearchParams({
+    template: 'teacher-feedback.yml',
+    title: `Teacher feedback: ${lessonId}`,
+  }).toString();
 ---
 
 <BaseLayout title={title} pagefindFilters={pagefindFilters}>
@@ -90,6 +96,7 @@ const title = `${ui.common.lesson} ${lesson} — ${lessonEntry.data.title}`;
     <div class="page-actions">
       <PrintButton />
       <CopyLinkButton />
+      <a class="btn btn--ghost" href={feedbackUrl}>{ui.common.suggestImprovement}</a>
     </div>
 
     <h1 class="page-title">
