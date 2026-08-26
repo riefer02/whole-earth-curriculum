@@ -1,15 +1,13 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { ui } from '../../i18n';
-
-const q = Astro.url.searchParams.get('q') ?? '';
 ---
 
 <BaseLayout title={ui.search.title}>
   <div class="container container--prose">
     <h1 class="page-title">{ui.search.title}</h1>
 
-    <form id="search-form" method="get" action={Astro.url.pathname}>
+    <form id="search-form" method="get" action="/search/">
       <div class="search-bar">
         <svg class="search-bar__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <circle cx="11" cy="11" r="8"></circle>
@@ -21,9 +19,9 @@ const q = Astro.url.searchParams.get('q') ?? '';
           name="q"
           class="search-bar__input"
           placeholder={ui.search.placeholder}
-          value={q}
+          value=""
           autocomplete="off"
-          autofocus={!q}
+          autofocus
         />
         <button type="submit" class="btn btn--primary search-bar__btn">
           {ui.nav.search}
@@ -32,7 +30,7 @@ const q = Astro.url.searchParams.get('q') ?? '';
     </form>
 
     <div id="search-results" class="search-results">
-      {!q && <p class="muted" style="font-size:1rem; margin-top:1.5rem">{ui.search.startTyping}</p>}
+      <p id="search-placeholder" class="muted" style="font-size:1rem; margin-top:1.5rem">{ui.search.startTyping}</p>
     </div>
 
     <p class="note" style="margin-top: 2.5rem; font-size:0.8rem">{ui.search.hint}</p>
@@ -47,7 +45,16 @@ const q = Astro.url.searchParams.get('q') ?? '';
     const form = document.getElementById('search-form');
     const input = document.getElementById('search-input');
     const results = document.getElementById('search-results');
+    const placeholder = document.getElementById('search-placeholder');
     if (!form || !input || !results) return;
+
+    // Show a loading state immediately if the URL carries a query, so the user
+    // never sees "Start typing" flash before Pagefind boots.
+    if (initialQuery) {
+      input.value = initialQuery;
+      if (placeholder) placeholder.remove();
+      results.innerHTML = '<p class="muted" style="font-size:1rem; margin-top:1.5rem">Loading search\u2026</p>';
+    }
 
     let pagefind;
     try {
@@ -56,6 +63,11 @@ const q = Astro.url.searchParams.get('q') ?? '';
       console.error('Pagefind failed to load:', err);
       results.innerHTML = '<p class="muted">Search is not available right now.</p>';
       return;
+    }
+
+    // Pre-warm the index for the initial query so the first search is instant.
+    if (initialQuery) {
+      try { await pagefind.preload(initialQuery); } catch (_) { /* best-effort */ }
     }
 
     let activeRequest = 0;
@@ -68,7 +80,7 @@ const q = Astro.url.searchParams.get('q') ?? '';
       }
 
       const reqId = ++activeRequest;
-      results.innerHTML = '<p class="muted" style="font-size:1rem; margin-top:1.5rem">Searching&hellip;</p>';
+      results.innerHTML = '<p class="muted" style="font-size:1rem; margin-top:1.5rem">Searching\u2026</p>';
 
       let search;
       try {
@@ -91,8 +103,6 @@ const q = Astro.url.searchParams.get('q') ?? '';
       const count = search.results.length;
       let html = '<p class="search-count">' + count + ' result' + (count !== 1 ? 's' : '') + '</p>';
 
-      // Fetch all result data in parallel, preserving order.
-      const items = [];
       for (const r of search.results) {
         const data = await r.data();
         const title = (data.meta && data.meta.title) || r.id;
@@ -115,22 +125,13 @@ const q = Astro.url.searchParams.get('q') ?? '';
           badges += '<span class="badge search-result__badge">' + esc(f) + '</span>';
         });
 
-        items.push({
-          url: url,
-          title: title,
-          excerpt: excerpt,
-          badges: badges,
-        });
-      }
-
-      items.forEach(function (item) {
         html +=
-          '<a class="search-result" href="' + item.url + '">' +
-          '<h3 class="search-result__title">' + item.title + '</h3>' +
-          '<p class="search-result__excerpt">' + item.excerpt + '</p>' +
-          (item.badges ? '<div class="badge-row" style="margin-top:0.35rem">' + item.badges + '</div>' : '') +
+          '<a class="search-result" href="' + url + '">' +
+          '<h3 class="search-result__title">' + title + '</h3>' +
+          '<p class="search-result__excerpt">' + excerpt + '</p>' +
+          (badges ? '<div class="badge-row" style="margin-top:0.35rem">' + badges + '</div>' : '') +
           '</a>';
-      });
+      }
 
       results.innerHTML = html;
     }
@@ -163,9 +164,6 @@ const q = Astro.url.searchParams.get('q') ?? '';
       window.location.href = u.toString();
     });
 
-    if (initialQuery) {
-      input.value = initialQuery;
-      doSearch(initialQuery);
-    }
+    if (initialQuery) doSearch(initialQuery);
   })();
 </script>
