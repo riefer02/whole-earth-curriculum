@@ -9,6 +9,7 @@
   },
   "scripts": {
     "validate": "node tools/validate/validate.mjs",
+    "lint:sources": "node tools/citation-lint/lint.mjs",
     "loop:next": "node tools/loop/loop.mjs next",
     "loop:claim": "node tools/loop/loop.mjs claim",
     "loop:submit": "node tools/loop/loop.mjs submit",
