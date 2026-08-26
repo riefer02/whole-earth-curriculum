@@ -274,9 +274,9 @@ const en: UI = {
       kicker: 'Offered free to the world',
       heroTitle: 'Education for the whole human.',
       heroSubtitle:
-        'A free, complete, K\u201312 curriculum that develops the whole human \u2014 emotional, physical, intellectual, and ecological \u2014 to raise the baseline standard of living for all life on Earth.',
+        'A free, complete K\u201312 curriculum that treats every child as a whole person \u2014 mind, body, emotion, and the world they live in. Start here for the short version \u2014 what it is, what it stands for, and how it\u2019s put together.',
       beliefsTitle: 'What we believe',
-      beliefsIntro: 'Six simple beliefs. Everything else follows from them.',
+      beliefsIntro: 'Six beliefs, stated plainly. Everything else follows from them.',
       beliefs: [
         {
           title: 'A child is a whole person',
@@ -284,11 +284,11 @@ const en: UI = {
         },
         {
           title: 'Everyone deserves this',
-          body: 'Built to lift the many, never the few. Free, forever, on purpose.',
+          body: 'Built to benefit everyone, not a privileged few \u2014 and free by design, permanently.',
         },
         {
-          title: 'The world is bigger than one story',
-          body: 'History, culture, and knowledge are taught from a global, cross-cultural view \u2014 not one nation\u2019s default.',
+          title: 'No single point of view',
+          body: 'History, culture, and knowledge are taught from a global, cross-cultural view \u2014 never one nation\u2019s default.',
         },
         {
           title: 'How we treat each other is part of it',
@@ -300,12 +300,12 @@ const en: UI = {
         },
         {
           title: 'How to think, not what to think',
-          body: 'Big questions stay open. Evidence is separated from belief.',
+          body: 'Big questions stay open, and evidence is kept clearly apart from belief.',
         },
       ],
       pillarsTitle: 'Four parts of a whole person',
       pillarsIntro:
-        'The curriculum is organized around four questions \u2014 not subjects, and not labels. Each one is a door a child walks through, every year.',
+        'Everything is organized around four questions, not school subjects. Each question returns every year, a little deeper.',
       pillars: [
         { title: 'Who am I?', question: 'Who am I, and how do I live well with others?' },
         { title: 'My body', question: 'How do I understand and care for my body?' },
@@ -314,7 +314,7 @@ const en: UI = {
       ],
       seeTitle: 'See for yourself',
       seeIntro:
-        'Don\u2019t take our word for it. Open a lesson and judge its quality yourself \u2014 every one is free, printable, and written so a child can follow it.',
+        'You don\u2019t need to take our word for it. Open any lesson and judge it yourself \u2014 every one is free, printable, and written so a child can follow it.',
       seeCta: 'Open a sample lesson',
     },
     forTeachers: {
