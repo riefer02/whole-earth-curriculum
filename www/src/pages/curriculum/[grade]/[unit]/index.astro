@@ -6,7 +6,7 @@ import Objectives from '../../../../components/Objectives.astro';
 import PrintButton from '../../../../components/PrintButton.astro';
 import CopyLinkButton from '../../../../components/CopyLinkButton.astro';
 import { ui } from '../../../../i18n';
-import { gradePath, lessonPath, domainPath } from '../../../../lib/links';
+import { gradePath, lessonPath, domainPath, strandPath } from '../../../../lib/links';
 import { lessonsByUnit } from '../../../../lib/data';
 import { buildStandardMap, resolveObjectives, buildDomainIndex } from '../../../../lib/standards';
 import { gradeValue, pillarValue } from '../../../../lib/filters';
@@ -74,6 +74,9 @@ const title = `${ui.common.unit} ${unit} — ${unitEntry.data.title}`;
     <div class="badge-row">
       {(unitEntry.data.domain ?? []).map((d) => (
         <a class="badge id" href={domainPath(d)}>{d}</a>
+      ))}
+      {(unitEntry.data.strand ?? []).map((s) => (
+        <a class="badge id" href={strandPath(s)}>{s}</a>
       ))}
       {(unitEntry.data.pillar ?? []).map((p) => (
         <span class={`badge badge--pillar-${p}`}>

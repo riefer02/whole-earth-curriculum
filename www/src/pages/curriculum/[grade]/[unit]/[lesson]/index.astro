@@ -7,7 +7,7 @@ import PrintButton from '../../../../../components/PrintButton.astro';
 import CopyLinkButton from '../../../../../components/CopyLinkButton.astro';
 import TableOfContents from '../../../../../components/TableOfContents.astro';
 import { ui } from '../../../../../i18n';
-import { gradePath, unitPath, lessonPath, domainPath } from '../../../../../lib/links';
+import { gradePath, unitPath, lessonPath, domainPath, strandPath } from '../../../../../lib/links';
 import { buildStandardMap, resolveObjectives, buildDomainIndex } from '../../../../../lib/standards';
 import { lessonsByUnit } from '../../../../../lib/data';
 import { gradeValue, pillarValue } from '../../../../../lib/filters';
@@ -107,7 +107,7 @@ const title = `${ui.common.lesson} ${lesson} — ${lessonEntry.data.title}`;
         </span>
       ))}
       {(lessonEntry.data.strand ?? []).map((s) => (
-        <span class="badge id">{s}</span>
+        <a class="badge id" href={strandPath(s)}>{s}</a>
       ))}
       {lessonEntry.data.duration_minutes !== undefined && (
         <span class="badge">{lessonEntry.data.duration_minutes} {ui.common.durationMinutes}</span>

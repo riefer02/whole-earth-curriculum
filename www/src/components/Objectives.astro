@@ -1,5 +1,6 @@
 ---
 import { ui } from '../i18n';
+import { standardPath } from '../lib/links';
 
 interface Props {
   objectives: Array<{ id: string; text: string }>;
@@ -13,12 +14,19 @@ const { objectives } = Astro.props;
     <>
       <p class="section-label">{ui.common.objectives}</p>
       <ul class="objective-list">
-        {objectives.map((o) => (
-          <li>
-            <span class="obj-id id">{o.id}</span>
-            <span>{o.text}</span>
-          </li>
-        ))}
+        {objectives.map((o) => {
+          const href = standardPath(o.id);
+          return (
+            <li>
+              {href ? (
+                <a class="obj-id id" href={href}>{o.id}</a>
+              ) : (
+                <span class="obj-id id">{o.id}</span>
+              )}
+              <span>{o.text}</span>
+            </li>
+          );
+        })}
       </ul>
     </>
   )

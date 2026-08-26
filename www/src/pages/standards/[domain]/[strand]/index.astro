@@ -118,7 +118,7 @@ const pagefindFilters = [
     <h2 class="page-title" style="font-size:1.4rem; margin-top:2rem">{ui.common.verticalLadder}</h2>
     <ul class="ladder">
       {objectives.map((o) => (
-        <li>
+        <li id={o.id.toUpperCase()}>
           <span class="grade-key">{gradeKeyLabel(o.gradeKey)}</span>
           <span class="obj-id id">{o.id}</span>
           <span>{o.text}</span>

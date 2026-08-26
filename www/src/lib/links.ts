@@ -34,6 +34,13 @@ export function strandPath(strandId: string): string {
   return `/standards/${m[1].toLowerCase()}/${m[2].toLowerCase()}/`;
 }
 
+export function standardPath(objectiveId: string): string | null {
+  // Dxx.Sn.<grade>.<n> → deep-link to its strand page, anchored to the standard.
+  const m = objectiveId.match(/^([A-Z]\d+)\.(S\d+)\.[A-Za-z0-9]+\.[A-Za-z0-9]+$/i);
+  if (!m) return null;
+  return `/standards/${m[1].toLowerCase()}/${m[2].toLowerCase()}/#${objectiveId.toUpperCase()}`;
+}
+
 export function docPath(slug: string): string {
   return `/docs/${slug}/`;
 }
