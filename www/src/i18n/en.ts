@@ -207,6 +207,7 @@ export interface UI {
     copyLink: string;
     copied: string;
     suggestImprovement: string;
+    moreActions: string;
   };
   footer: {
     tagline: string;
@@ -795,6 +796,7 @@ const en: UI = {
     copyLink: 'Copy link',
     copied: 'Copied',
     suggestImprovement: 'Suggest an improvement',
+    moreActions: 'More actions',
   },
 
   footer: {

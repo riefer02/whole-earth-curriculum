@@ -1,0 +1,77 @@
+---
+import PrintButton from './PrintButton.astro';
+import CopyLinkButton from './CopyLinkButton.astro';
+import { ui } from '../i18n';
+
+interface Props {
+  print?: boolean;
+  copy?: boolean;
+  suggestHref?: string;
+}
+
+const { print = false, copy = false, suggestHref } = Astro.props;
+const hasActions = print || copy || !!suggestHref;
+---
+
+{
+  hasActions && (
+    <div class="page-actions" data-page-actions>
+      <button
+        type="button"
+        class="page-actions__trigger"
+        aria-label={ui.common.moreActions}
+        aria-expanded="false"
+        aria-controls="page-actions-menu"
+        data-action-trigger
+      >
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <circle cx="12" cy="5" r="1.7"></circle>
+          <circle cx="12" cy="12" r="1.7"></circle>
+          <circle cx="12" cy="19" r="1.7"></circle>
+        </svg>
+      </button>
+
+      <div class="page-actions__row" id="page-actions-menu">
+        {print && <PrintButton />}
+        {copy && <CopyLinkButton />}
+        {suggestHref && (
+          <a class="btn btn--ghost" href={suggestHref}>
+            {ui.common.suggestImprovement}
+          </a>
+        )}
+      </div>
+    </div>
+  )
+}
+
+<script>
+  const root = document.querySelector<HTMLElement>('[data-page-actions]');
+  const trigger = root?.querySelector<HTMLButtonElement>('[data-action-trigger]');
+
+  if (root && trigger) {
+    const setOpen = (open: boolean) => {
+      root.classList.toggle('is-open', open);
+      trigger.setAttribute('aria-expanded', String(open));
+    };
+
+    trigger.addEventListener('click', () => {
+      setOpen(!root.classList.contains('is-open'));
+    });
+
+    document.addEventListener('click', (event) => {
+      if (!root.contains(event.target as Node)) setOpen(false);
+    });
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') {
+        setOpen(false);
+        trigger.focus();
+      }
+    });
+
+    // Close after choosing an action (Print / Copy link / Suggest).
+    root.addEventListener('click', (event) => {
+      if ((event.target as Element).closest('.btn, a')) setOpen(false);
+    });
+  }
+</script>

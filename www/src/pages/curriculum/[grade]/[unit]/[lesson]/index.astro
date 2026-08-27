@@ -3,8 +3,7 @@ import { getCollection, getEntry, render } from 'astro:content';
 import BaseLayout from '../../../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../../../components/Breadcrumbs.astro';
 import Objectives from '../../../../../components/Objectives.astro';
-import PrintButton from '../../../../../components/PrintButton.astro';
-import CopyLinkButton from '../../../../../components/CopyLinkButton.astro';
+import PageActions from '../../../../../components/PageActions.astro';
 import TableOfContents from '../../../../../components/TableOfContents.astro';
 import { ui } from '../../../../../i18n';
 import { gradePath, unitPath, lessonPath, domainPath, strandPath } from '../../../../../lib/links';
@@ -120,11 +119,7 @@ const feedbackUrl =
   <div class="container">
     <Breadcrumbs crumbs={crumbs} />
 
-    <div class="page-actions">
-      <PrintButton />
-      <CopyLinkButton />
-      <a class="btn btn--ghost" href={feedbackUrl}>{ui.common.suggestImprovement}</a>
-    </div>
+    <PageActions print copy suggestHref={feedbackUrl} />
 
     <h1 class="page-title">
       {ui.common.lesson} {lesson} — {lessonEntry.data.title}

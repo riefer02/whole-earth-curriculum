@@ -3,8 +3,7 @@ import { getCollection, getEntry, render } from 'astro:content';
 import BaseLayout from '../../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../../components/Breadcrumbs.astro';
 import Objectives from '../../../../components/Objectives.astro';
-import PrintButton from '../../../../components/PrintButton.astro';
-import CopyLinkButton from '../../../../components/CopyLinkButton.astro';
+import PageActions from '../../../../components/PageActions.astro';
 import { ui } from '../../../../i18n';
 import { gradePath, lessonPath, domainPath, strandPath } from '../../../../lib/links';
 import { lessonsByUnit } from '../../../../lib/data';
@@ -66,10 +65,7 @@ const jsonLd = pageUrl ? breadcrumbJsonLd(crumbs, pageUrl) : undefined;
   <div class="container">
     <Breadcrumbs crumbs={crumbs} />
 
-    <div class="page-actions">
-      <PrintButton />
-      <CopyLinkButton />
-    </div>
+    <PageActions print copy />
 
     <h1 class="page-title">{unitEntry.data.title}</h1>
     {unitEntry.data.summary && <p class="lede">{unitEntry.data.summary}</p>}

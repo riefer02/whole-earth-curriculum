@@ -425,6 +425,7 @@ li {
 }
 
 .page-actions {
+  position: relative;
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
@@ -432,19 +433,84 @@ li {
   margin: 0 0 1rem;
 }
 
-/* On small screens, stack the page actions (Print / Copy link / Suggest) so
-   each becomes a full-width, thumb-friendly tap target instead of a wrapped,
-   right-aligned cluster. */
+/* Inline action row (Print / Copy link / Suggest). On small screens this same
+   row becomes the "more" dropdown panel. */
+.page-actions__row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}
+
+/* Kebab trigger — hidden on desktop, the single affordance on mobile. */
+.page-actions__trigger {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.page-actions__trigger:hover {
+  background: var(--paper-soft);
+}
+
+.page-actions__trigger svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
 @media (max-width: 640px) {
-  .page-actions {
-    flex-direction: column;
-    align-items: stretch;
+  .page-actions__trigger {
+    display: inline-flex;
   }
 
-  .page-actions .btn {
+  .page-actions__row {
+    display: none;
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    z-index: 20;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.25rem;
+    min-width: 13rem;
+    padding: 0.4rem;
+    background: var(--paper);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+  }
+
+  .page-actions.is-open .page-actions__row {
+    display: flex;
+  }
+
+  .page-actions__row .btn {
     width: 100%;
-    justify-content: center;
-    text-align: center;
+    justify-content: flex-start;
+    text-align: left;
+    padding: 0.6rem 0.75rem;
+    border: none;
+    background: transparent;
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  .page-actions__row .btn:hover {
+    background: var(--paper-soft);
+    text-decoration: none;
+  }
+
+  /* The menu reads as text items; drop the inline button icons for alignment. */
+  .page-actions__row .btn--print__icon,
+  .page-actions__row .btn--copy__icon {
+    display: none;
   }
 }
 
