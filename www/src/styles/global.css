@@ -432,6 +432,22 @@ li {
   margin: 0 0 1rem;
 }
 
+/* On small screens, stack the page actions (Print / Copy link / Suggest) so
+   each becomes a full-width, thumb-friendly tap target instead of a wrapped,
+   right-aligned cluster. */
+@media (max-width: 640px) {
+  .page-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .page-actions .btn {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+}
+
 /* Teach-today widget */
 /* -----------------------------------------------------------------------
    Teach-today widget — a distinct callout card (documentation-site style)
@@ -1523,7 +1539,7 @@ html[data-show-ids='on'] .id {
   .skip-link,
   .theme-toggle,
   .mobile-nav,
-  .btn--print,
+  .page-actions,
   .toc,
   .prevnext {
     display: none !important;
