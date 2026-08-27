@@ -226,6 +226,7 @@ export interface UI {
     subject: string;
     pillar: string;
     clear: string;
+    showMore: string;
   };
   status: Record<string, string>;
   gradeLabel: (grade: number) => string;
@@ -816,6 +817,7 @@ const en: UI = {
     subject: 'Subject',
     pillar: 'Pillar',
     clear: 'Clear',
+    showMore: 'Show more results',
   },
 
   status: {

@@ -1366,6 +1366,15 @@ html[data-show-ids='on'] .id {
   font-size: 0.75rem;
 }
 
+.search-result__badges {
+  margin-top: 0.35rem;
+}
+
+.search-results__more {
+  display: block;
+  margin: 1rem auto 0;
+}
+
 /* Search filters (facet bar) */
 .search-filters {
   display: flex;

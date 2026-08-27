@@ -231,6 +231,34 @@ const footerNavItems = [
       });
     </script>
     <script is:inline>
+      (() => {
+        const input = document.getElementById('header-search-input');
+        if (!input) return;
+
+        let pagefindPromise;
+        const loadPagefind = () => {
+          if (!pagefindPromise) {
+            pagefindPromise = import('/pagefind/pagefind.js')
+              .then(async (pagefind) => {
+                await pagefind.init();
+                return pagefind;
+              })
+              .catch(() => null);
+          }
+          return pagefindPromise;
+        };
+
+        input.addEventListener('focus', loadPagefind, { once: true });
+        input.addEventListener('pointerenter', loadPagefind, { once: true });
+        input.addEventListener('input', async () => {
+          const term = input.value.trim();
+          if (!term) return;
+          const pagefind = await loadPagefind();
+          pagefind?.preload(term);
+        });
+      })();
+    </script>
+    <script is:inline>
       // Theme toggle: keep label and stored preference in sync.
       (() => {
         const btn = document.querySelector('[data-theme-toggle]');
