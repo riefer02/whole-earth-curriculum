@@ -1,0 +1,14 @@
+{
+  "name": "Whole Earth Curriculum",
+  "short_name": "WEC",
+  "description": "A comprehensive, humanitarian, egalitarian K–12 curriculum offered free to the world.",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#2b3a42",
+  "background_color": "#fdfbf7"
+}
