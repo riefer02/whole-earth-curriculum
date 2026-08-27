@@ -11,6 +11,7 @@ import { lessonsByUnit } from '../../../../lib/data';
 import { buildStandardMap, resolveObjectives, buildDomainIndex } from '../../../../lib/standards';
 import { gradeValue, pillarValue } from '../../../../lib/filters';
 import { pad2 } from '../../../../lib/taxonomy';
+import { metaDescription, breadcrumbJsonLd } from '../../../../lib/seo';
 
 export async function getStaticPaths() {
   const units = await getCollection('units');
@@ -50,18 +51,20 @@ const pagefindFilters = [
   ...(unitEntry.data.pillar ?? []).map((p) => `pillar:${pillarValue(p)}`),
 ];
 
-const title = `${ui.common.unit} ${unit} — ${unitEntry.data.title}`;
+const title = `${unitEntry.data.title} — ${ui.gradeLabel(gradeNum)} ${ui.common.unit}`;
+const description = metaDescription((unitEntry.data.big_ideas ?? []).join(' '));
+const pageUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const crumbs = [
+  { label: ui.nav.curriculum, href: '/curriculum/' },
+  { label: ui.gradeLabel(gradeNum), href: gradePath(gradeNum) },
+  { label: `${ui.common.unit} ${unit}` },
+];
+const jsonLd = pageUrl ? breadcrumbJsonLd(crumbs, pageUrl) : undefined;
 ---
 
-<BaseLayout title={title} pagefindFilters={pagefindFilters}>
+<BaseLayout title={title} description={description} pagefindFilters={pagefindFilters} jsonLd={jsonLd}>
   <div class="container">
-    <Breadcrumbs
-      crumbs={[
-        { label: ui.nav.curriculum, href: '/curriculum/' },
-        { label: ui.gradeLabel(gradeNum), href: gradePath(gradeNum) },
-        { label: `${ui.common.unit} ${unit}` },
-      ]}
-    />
+    <Breadcrumbs crumbs={crumbs} />
 
     <div class="page-actions">
       <PrintButton />

@@ -4,7 +4,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import { ui } from '../../i18n';
-import { docTitle, INTERNAL_DOCS } from '../../lib/docs';
+import { docTitle, docDescription, INTERNAL_DOCS } from '../../lib/docs';
+import { metaDescription, breadcrumbJsonLd } from '../../lib/seo';
 
 export async function getStaticPaths() {
   const docs = await getCollection('docs');
@@ -18,17 +19,19 @@ const doc = await getEntry('docs', slug ?? '');
 if (!doc) return Astro.redirect('/docs/');
 
 const title = docTitle(doc.body, slug ?? '');
+const description = metaDescription(docDescription(doc.body));
+const pageUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const crumbs = [
+  { label: ui.nav.docs, href: '/docs/' },
+  { label: title },
+];
+const jsonLd = pageUrl ? breadcrumbJsonLd(crumbs, pageUrl) : undefined;
 const { Content } = await render(doc);
 ---
 
-<BaseLayout title={title} pagefindFilters={['type:Document']}>
+<BaseLayout title={title} description={description} pagefindFilters={['type:Document']} jsonLd={jsonLd}>
   <div class="container container--prose">
-    <Breadcrumbs
-      crumbs={[
-        { label: ui.nav.docs, href: '/docs/' },
-        { label: title },
-      ]}
-    />
+    <Breadcrumbs crumbs={crumbs} />
     <TableOfContents />
     <article class="prose" data-content>
       <Content />

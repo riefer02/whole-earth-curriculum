@@ -8,6 +8,7 @@ import { domainPath, unitPath, lessonPath } from '../../../../lib/links';
 import { pillarValue } from '../../../../lib/filters';
 import { gradeKeyLabel, objectivesForStrand } from '../../../../lib/standards';
 import { strandToLessons, strandToUnits } from '../../../../lib/enactments';
+import { breadcrumbJsonLd } from '../../../../lib/seo';
 
 export async function getStaticPaths() {
   const domains = await getCollection('domains');
@@ -86,6 +87,13 @@ unitGroups.sort((a, b) => {
 });
 
 const title = `${strandId} — ${strand.title}`;
+const pageUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const crumbs = [
+  { label: ui.nav.standards, href: '/standards/' },
+  { id: `${domainId} — `, label: domainEntry.data.title, href: domainPath(domainId) },
+  { id: strandId },
+];
+const jsonLd = pageUrl ? breadcrumbJsonLd(crumbs, pageUrl) : undefined;
 const pagefindFilters = [
   'type:Standard',
   `domain:${domainEntry.data.title}`,
@@ -94,15 +102,9 @@ const pagefindFilters = [
 ];
 ---
 
-<BaseLayout title={title} description={strand.description} pagefindFilters={pagefindFilters}>
+<BaseLayout title={title} description={strand.description} pagefindFilters={pagefindFilters} jsonLd={jsonLd}>
   <div class="container">
-    <Breadcrumbs
-      crumbs={[
-        { label: ui.nav.standards, href: '/standards/' },
-        { id: `${domainId} — `, label: domainEntry.data.title, href: domainPath(domainId) },
-        { id: strandId },
-      ]}
-    />
+    <Breadcrumbs crumbs={crumbs} />
 
     <h1 class="page-title">{strand.title}</h1>
     <div class="badge-row">

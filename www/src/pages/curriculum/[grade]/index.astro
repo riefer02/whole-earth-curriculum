@@ -9,6 +9,7 @@ import { lessonsByUnit } from '../../../lib/data';
 import { buildDomainIndex } from '../../../lib/standards';
 import { gradeValue } from '../../../lib/filters';
 import { pad2, sortDomainIds } from '../../../lib/taxonomy';
+import { metaDescription, breadcrumbJsonLd } from '../../../lib/seo';
 
 export async function getStaticPaths() {
   const scopes = await getCollection('scopes');
@@ -34,19 +35,20 @@ const weighting = scope.data.domain_weighting ?? {};
 const weightingIds = sortDomainIds(Object.keys(weighting));
 const { Content } = await render(scope);
 
-const title = `${ui.gradeLabel(grade)}`;
-const description = scope.data.summary;
+const title = `${ui.gradeLabel(grade)} ${ui.nav.curriculum}`;
+const description = metaDescription(scope.data.summary);
+const pageUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const crumbs = [
+  { label: ui.nav.curriculum, href: '/curriculum/' },
+  { label: ui.gradeLabel(grade) },
+];
+const jsonLd = pageUrl ? breadcrumbJsonLd(crumbs, pageUrl) : undefined;
 const pagefindFilters = ['type:Scope', `grade:${gradeValue(grade)}`];
 ---
 
-<BaseLayout title={title} description={description} pagefindFilters={pagefindFilters}>
+<BaseLayout title={title} description={description} pagefindFilters={pagefindFilters} jsonLd={jsonLd}>
   <div class="container">
-    <Breadcrumbs
-      crumbs={[
-        { label: ui.nav.curriculum, href: '/curriculum/' },
-        { label: ui.gradeLabel(grade) },
-      ]}
-    />
+    <Breadcrumbs crumbs={crumbs} />
 
     <div class="page-actions">
       <CopyLinkButton />

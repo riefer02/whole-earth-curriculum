@@ -12,7 +12,15 @@ export default defineConfig({
   output: 'static',
   trailingSlash: 'always',
   compressHTML: true,
-  integrations: [sitemap(), copyAssets()],
+  integrations: [
+    sitemap({
+      filter: (page) => {
+        const { pathname } = new URL(page);
+        return !pathname.startsWith('/search/') && !pathname.startsWith('/support/thanks/');
+      },
+    }),
+    copyAssets(),
+  ],
   markdown: {
     processor: satteri({ hastPlugins: [standardsLinks] }),
   },

@@ -12,6 +12,7 @@ import { buildStandardMap, resolveObjectives, buildDomainIndex } from '../../../
 import { lessonsByUnit } from '../../../../../lib/data';
 import { gradeValue, pillarValue } from '../../../../../lib/filters';
 import { pad2 } from '../../../../../lib/taxonomy';
+import { metaDescription, breadcrumbJsonLd, toIsoDate } from '../../../../../lib/seo';
 
 export async function getStaticPaths() {
   const lessons = await getCollection('lessons');
@@ -73,7 +74,40 @@ const materialTiers = [
   { label: ui.common.enrichedMaterials, items: lessonEntry.data.materials_enriched },
 ];
 
-const title = `${ui.common.lesson} ${lesson} — ${lessonEntry.data.title}`;
+const title = `${lessonEntry.data.title} — ${ui.gradeLabel(gradeNum)} ${ui.common.lesson}`;
+const description = metaDescription(lessonEntry.data.summary);
+const pageUrl = Astro.site ? new URL(Astro.url.pathname, Astro.site).toString() : undefined;
+const crumbs = [
+  { label: ui.nav.curriculum, href: '/curriculum/' },
+  { label: ui.gradeLabel(gradeNum), href: gradePath(gradeNum) },
+  { label: `${ui.common.unit} ${unit}${unitEntry ? ` — ${unitEntry.data.title}` : ''}`, href: unitPath(unitId) },
+  { label: `${ui.common.lesson} ${lesson}` },
+];
+const jsonLd = pageUrl
+  ? [
+      breadcrumbJsonLd(crumbs, pageUrl),
+      {
+        '@context': 'https://schema.org',
+        '@type': 'LearningResource',
+        name: lessonEntry.data.title,
+        description: lessonEntry.data.summary,
+        url: pageUrl,
+        learningResourceType: 'Lesson plan',
+        educationalLevel: ui.gradeLabel(gradeNum),
+        inLanguage: 'en',
+        dateModified: toIsoDate(lessonEntry.data.last_updated),
+        ...(objectives.length
+          ? { teaches: objectives.map((o) => ({ '@type': 'DefinedTerm', name: o.text, termCode: o.id })) }
+          : {}),
+        ...((lessonEntry.data.domain ?? []).length
+          ? { about: (lessonEntry.data.domain ?? []).map((d) => ({ '@type': 'Thing', name: domainIndex.get(d) ?? d })) }
+          : {}),
+        ...(unitEntry
+          ? { isPartOf: { '@type': 'LearningResource', name: unitEntry.data.title, url: new URL(unitPath(unitId), pageUrl).toString() } }
+          : {}),
+      },
+    ]
+  : undefined;
 const feedbackUrl =
   'https://github.com/riefer02/whole-earth-curriculum/issues/new?' +
   new URLSearchParams({
@@ -82,16 +116,9 @@ const feedbackUrl =
   }).toString();
 ---
 
-<BaseLayout title={title} pagefindFilters={pagefindFilters}>
+<BaseLayout title={title} description={description} pagefindFilters={pagefindFilters} jsonLd={jsonLd}>
   <div class="container">
-    <Breadcrumbs
-      crumbs={[
-        { label: ui.nav.curriculum, href: '/curriculum/' },
-        { label: ui.gradeLabel(gradeNum), href: gradePath(gradeNum) },
-        { label: `${ui.common.unit} ${unit}${unitEntry ? ` — ${unitEntry.data.title}` : ''}`, href: unitPath(unitId) },
-        { label: `${ui.common.lesson} ${lesson}` },
-      ]}
-    />
+    <Breadcrumbs crumbs={crumbs} />
 
     <div class="page-actions">
       <PrintButton />
