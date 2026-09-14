@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Mutual aid: a circle that gives and receives</title>
-  <desc>Five people form a circle, each handing something forward — food, a tool, a book, a blanket, a cup of water — with curved arrows flowing both directions around the ring. No one is above anyone else; everyone both gives and receives, and a small heart sits at the center.</desc>
+  <title id="title">Mutual aid: a circle that gives and receives</title>
+  <desc id="desc">Five people form a circle, each handing something forward — food, a tool, a book, a blanket, a cup of water — with curved arrows flowing both directions around the ring. No one is above anyone else; everyone both gives and receives, and a small heart sits at the center.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- center heart -->
   <path d="M 256 268 q -18 -16 -34 0 q -16 16 0 34 q 16 18 34 0 q 16 -18 0 -34 z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>

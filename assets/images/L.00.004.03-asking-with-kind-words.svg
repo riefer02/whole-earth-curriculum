@@ -54,8 +54,8 @@
   <text x="152" y="260" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Yes — here you go.</text>
 
   <!-- Small thank-you bubble -->
-  <path d="M300 150 Q300 128 322 128 L366 128 Q382 128 382 140 L382 168 Q382 180 366 180 L344 180 L338 190 L340 180 L344 180 Q300 180 300 168 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="341" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">thank you</text>
+  <path d="M404 240 Q404 228 416 228 L480 228 Q492 228 492 240 L492 264 Q492 276 480 276 L432 276 L420 288 L426 276 L416 276 Q404 276 404 264 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="448" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">thank you</text>
 
   <!-- Kind words card at top -->
   <rect x="120" y="66" width="272" height="34" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 4"/>

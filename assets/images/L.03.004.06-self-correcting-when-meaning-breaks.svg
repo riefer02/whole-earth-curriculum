@@ -4,7 +4,8 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Self-Correcting When Meaning Breaks Down</text>
+  <text x="256" y="42.9" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Self-Correcting When Meaning</text>
+  <text x="256" y="76.7" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Breaks Down</text>
 
   <!-- loop arrows -->
   <path d="M150 200 A120 120 0 1 1 90 300" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="6 6" stroke-linecap="round"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">Triangles: possible and impossible</title>
-  <desc id="desc">A diagram of the triangle inequality. Three panels show: (a) lengths 3, 4, 5 forming a closed triangle labeled "possible: 3 + 4 > 5"; (b) lengths 2, 3, 5 lying flat in a line labeled "impossible: 2 + 3 = 5, no triangle"; and (c) lengths 1, 2, 4 not reaching, labeled "impossible: 1 + 2 < 4." A caption reads "the two shorter sides must add to more than the longest side." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+  <desc id="desc">A diagram of the triangle inequality. Three panels show: (a) lengths 3, 4, 5 forming a closed triangle labeled "possible: 3 + 4 > 5"; (b) lengths 2, 3, 5 lying flat in a line labeled "impossible: 2 + 3 = 5, no triangle"; and (c) lengths 1, 2, 4 not reaching, labeled "impossible: 1 + 2 &lt; 4." A caption reads "the two shorter sides must add to more than the longest side." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

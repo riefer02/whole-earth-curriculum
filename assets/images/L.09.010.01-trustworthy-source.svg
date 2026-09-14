@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Three questions to ask of any health claim</title>
-  <desc>A simple diagram with a title "Before you believe, ask" and three stacked question cards. Card one: "Who says it?" — a health worker or an official source, or just a random account? Card two: "Can I check it elsewhere?" — does a health ministry, WHO, or a clinic say the same? Card three: "Does it respect me?" — or does it shame or frighten me into silence? Underneath, a footer reads "Accurate information is true and checkable."</desc>
+  <title id="title">Three questions to ask of any health claim</title>
+  <desc id="desc">A simple diagram with a title "Before you believe, ask" and three stacked question cards. Card one: "Who says it?" — a health worker or an official source, or just a random account? Card two: "Can I check it elsewhere?" — does a health ministry, WHO, or a clinic say the same? Card three: "Does it respect me?" — or does it shame or frighten me into silence? Underneath, a footer reads "Accurate information is true and checkable."</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <rect x="36" y="28" width="440" height="64" rx="12" fill="#2b3a42"/>
   <text x="256" y="68" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="700" fill="#fdfbf7">Before you believe, ask</text>

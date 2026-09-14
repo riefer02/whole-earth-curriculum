@@ -4,7 +4,8 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Footprints: two lives, two amounts of resources</text>
+  <text x="256" y="24" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Footprints: two lives, two amounts of</text>
+  <text x="256" y="55.2" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">resources</text>
 
   <!-- LIFE A (smaller footprint) -->
   <g>

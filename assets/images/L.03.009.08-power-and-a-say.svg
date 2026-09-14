@@ -43,8 +43,8 @@
   <path d="M316 240 l0 20 M309 248 l7 7 l7 -7" stroke="#2b3a42" stroke-width="2"/>
   <text x="316" y="278" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">no bubble —</text>
   <text x="316" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">no voice</text>
-  <text x="373" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">one voice is not heard</text>
-  <text x="373" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">&#8594; the choice can be unfair</text>
+  <text x="373" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">one voice is not heard</text>
+  <text x="373" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">&#8594; the choice can be unfair</text>
 
   <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Having a say means your voice helps decide.</text>
   <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">When someone is left out, the group can notice — and invite them in.</text>

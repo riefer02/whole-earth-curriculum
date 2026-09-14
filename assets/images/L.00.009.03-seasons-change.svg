@@ -82,7 +82,7 @@
   <!-- Panel 3: Cold much of the year -->
   <g>
     <rect x="344" y="74" width="150" height="344" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
-    <text x="419" y="100" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Cold Much of the Year</text>
+    <text x="419" y="99.8" text-anchor="middle" font-family="sans-serif" font-size="12.2" font-weight="bold" fill="#2b3a42">Cold Much of the Year</text>
 
     <!-- snow cloud -->
     <g fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4">

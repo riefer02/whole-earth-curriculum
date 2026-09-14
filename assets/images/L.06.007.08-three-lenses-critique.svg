@@ -36,7 +36,8 @@
     <text x="413" y="144" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Who is left out?</text>
     <text x="354" y="168" font-family="sans-serif" font-size="12" fill="#2b3a42">access and equity —</text>
     <text x="354" y="186" font-family="sans-serif" font-size="12" fill="#2b3a42">steps block a wheelchair,</text>
-    <text x="354" y="204" font-family="sans-serif" font-size="12" fill="#2b3a42">a heavy door blocks weak grips</text>
+    <text x="354" y="207" font-family="sans-serif" font-size="12" fill="#2b3a42">a heavy door blocks</text>
+    <text x="354" y="222.6" font-family="sans-serif" font-size="12" fill="#2b3a42">weak grips</text>
     <line x1="338" y1="180" x2="316" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
   </g>
 

@@ -45,5 +45,6 @@
   <circle cx="434" cy="352" r="5" fill="#e0a458"/><circle cx="426" cy="352" r="5" fill="#e0a458"/>
   <text x="384" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">divided evenly</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">Rules and incentives — not just players — shape who wins and how much.</text>
+  <text x="256" y="451.2" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">Rules and incentives — not just players — shape who</text>
+  <text x="256" y="475.9" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">wins and how much.</text>
 </svg>

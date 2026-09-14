@@ -12,13 +12,16 @@
   <text x="120" y="148" font-family="sans-serif" font-size="40" font-weight="bold" fill="#2b3a42">T</text>
   <ellipse cx="120" cy="144" rx="24" ry="28" fill="none" stroke="#e0a458" stroke-width="3"/>
   <text x="190" y="148" font-family="sans-serif" font-size="40" fill="#2b3a42">he sun shines</text>
-  <ellipse cx="392" cy="146" rx="10" ry="14" fill="none" stroke="#e0a458" stroke-width="3"/>
-  <text x="392" y="148" font-family="sans-serif" font-size="40" fill="#2b3a42">.</text>
+  <ellipse cx="441" cy="146" rx="9" ry="14" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="439" y="148" font-family="sans-serif" font-size="40" fill="#2b3a42">.</text>
 
   <!-- part labels -->
-  <text x="120" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a capital letter opens it</text>
-  <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a full thought in the middle</text>
-  <text x="392" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">an end mark closes it</text>
+  <text x="120" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a capital letter</text>
+  <text x="120" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">opens it</text>
+  <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a full thought</text>
+  <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">in the middle</text>
+  <text x="440" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">an end mark</text>
+  <text x="440" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">closes it</text>
 
   <!-- End marks -->
   <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">three end marks a sentence can use</text>

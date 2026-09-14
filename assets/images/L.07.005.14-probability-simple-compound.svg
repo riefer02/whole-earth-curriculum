@@ -13,7 +13,7 @@
   <!-- first coin branches -->
   <line x1="60" y1="96" x2="140" y2="70" stroke="#2b3a42" stroke-width="2"/>
   <line x1="60" y1="96" x2="140" y2="150" stroke="#2b3a42" stroke-width="2"/>
-  <text x="100" y="62" font-family="sans-serif" font-size="13" fill="#6b93b6">H (1/2)</text>
+  <text x="100" y="96" font-family="sans-serif" font-size="13" fill="#6b93b6">H (1/2)</text>
   <text x="100" y="172" font-family="sans-serif" font-size="13" fill="#6b93b6">T (1/2)</text>
   <circle cx="140" cy="70" r="4" fill="#6b93b6"/>
   <circle cx="140" cy="150" r="4" fill="#6b93b6"/>

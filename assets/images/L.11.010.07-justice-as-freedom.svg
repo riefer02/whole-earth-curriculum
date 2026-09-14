@@ -25,5 +25,6 @@
   <polygon points="256,398 250,382 262,382" fill="#2b3a42"/>
   <text x="256" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">participate</text>
   <!-- note -->
-  <text x="256" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Freedom = having real chances to do and be — not just the absence of rules.</text>
+  <text x="256" y="473.2" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Freedom = having real chances to do and be — not just the absence</text>
+  <text x="256" y="492.8" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">of rules.</text>
 </svg>

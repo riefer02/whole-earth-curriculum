@@ -43,7 +43,8 @@
 
   <rect x="80" y="388" width="352" height="104" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
   <text x="94" y="414" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Fairness questions start here:</text>
-  <text x="94" y="438" font-family="sans-serif" font-size="14" fill="#222222">Does each group pass at the same rate given the same starting point?</text>
-  <text x="94" y="460" font-family="sans-serif" font-size="14" fill="#222222">Association is not causation — the table shows a relationship, not a cause.</text>
-  <text x="94" y="482" font-family="sans-serif" font-size="14" fill="#4f6d7a">Du Bois and Nightingale used tables and charts like this to argue for justice.</text>
+  <text x="94" y="439" font-family="sans-serif" font-size="10" fill="#222222">Does each group pass at the same rate given the same starting point?</text>
+  <text x="94" y="459.9" font-family="sans-serif" font-size="14" fill="#222222">Association is not causation — the table shows a</text>
+  <text x="94" y="478.1" font-family="sans-serif" font-size="14" fill="#222222">relationship, not a cause.</text>
+  <text x="94" y="504" font-family="sans-serif" font-size="10" fill="#4f6d7a">Du Bois and Nightingale used tables and charts like this to argue for justice.</text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Cycle of ritual</title>
-  <desc>A circular cycle with four steps — gather, remember, perform, renew — each with a small icon, showing how dance, drama, and ritual build community and carry memory through repetition.</desc>
+  <title id="title">Cycle of ritual</title>
+  <desc id="desc">A circular cycle with four steps — gather, remember, perform, renew — each with a small icon, showing how dance, drama, and ritual build community and carry memory through repetition.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">The cycle of ritual</text>
 

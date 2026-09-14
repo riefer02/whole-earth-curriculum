@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Signs that a person may be struggling</title>
-  <desc>A list of seven common signs that a person may be struggling with their mental health: low mood that does not lift, lost interest in things they loved, big changes in sleep or eating, withdrawing from people, irritability or anger, trouble concentrating, and hopelessness or worthlessness. A green banner underneath gives the test: signs that last about two weeks or more and get in the way of daily life are a reason to seek help. A note adds that one sign on one day is just a hard day, which is normal.</desc>
+  <title id="title">Signs that a person may be struggling</title>
+  <desc id="desc">A list of seven common signs that a person may be struggling with their mental health: low mood that does not lift, lost interest in things they loved, big changes in sleep or eating, withdrawing from people, irritability or anger, trouble concentrating, and hopelessness or worthlessness. A green banner underneath gives the test: signs that last about two weeks or more and get in the way of daily life are a reason to seek help. A note adds that one sign on one day is just a hard day, which is normal.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="25" font-weight="700" fill="#222222">Signs that a person may be struggling</text>

@@ -36,10 +36,10 @@
   <g>
     <rect x="30" y="420" width="452" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
     <text x="52" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">words</text>
-    <text x="52" y="472" font-family="sans-serif" font-size="15" fill="#4f6d7a">"no," "stop," "not now"</text>
-    <text x="206" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">body</text>
-    <text x="206" y="472" font-family="sans-serif" font-size="15" fill="#4f6d7a">palm up, leaning back, turning away</text>
+    <text x="52" y="472" font-family="sans-serif" font-size="12" fill="#4f6d7a">"no," "stop," "not now"</text>
+    <text x="175" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">body</text>
+    <text x="175" y="472" font-family="sans-serif" font-size="12" fill="#4f6d7a">palm up, leaning back, turning away</text>
     <text x="370" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">voice</text>
-    <text x="370" y="472" font-family="sans-serif" font-size="15" fill="#4f6d7a">flat, quiet, or firm</text>
+    <text x="370" y="472" font-family="sans-serif" font-size="12" fill="#4f6d7a">flat, quiet, or firm</text>
   </g>
 </svg>

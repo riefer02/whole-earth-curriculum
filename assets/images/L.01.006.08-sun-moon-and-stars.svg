@@ -45,7 +45,7 @@
   <text x="150" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">turns</text>
 
   <!-- Caption -->
-  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The Earth turns, so the Sun only seems to rise and set.</text>
+  <text x="256" y="254" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The Earth turns, so the Sun only seems to rise and set.</text>
 
   <!-- Three sky cards -->
   <g>

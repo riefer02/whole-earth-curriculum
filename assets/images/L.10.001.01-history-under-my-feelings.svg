@@ -28,5 +28,6 @@
   <path d="M340 260 Q364 250 388 262 Q412 250 436 260" fill="none" stroke="#7a9e7e" stroke-width="7" stroke-linecap="round"/>
   <!-- heart -->
   <path d="M388 286 C380 274 360 278 360 290 C360 302 388 316 388 316 C388 316 416 302 416 290 C416 278 396 274 388 286 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="388" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">my past flows into what I feel now</text>
+  <text x="388" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">my past flows into</text>
+  <text x="388" y="501" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">what I feel now</text>
 </svg>

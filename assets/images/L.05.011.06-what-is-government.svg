@@ -50,5 +50,6 @@
   <text x="80" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">protect people</text>
   <text x="80" y="312" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">and rights</text>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Governments take many forms around the world &#8212; there is no single model.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Governments take many forms around the world &#8212; there is no</text>
+  <text x="256" y="504.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">single model.</text>
 </svg>

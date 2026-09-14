@@ -24,7 +24,7 @@
     <line x1="180" y1="312" x2="180" y2="320" stroke="#2b3a42" stroke-width="3"/>
   </g>
   <!-- outside figure looking in -->
-  <g>
+  <g transform="translate(0,-22)">
     <circle cx="256" cy="440" r="16" fill="#f2c9a0"/>
     <rect x="241" y="456" width="30" height="40" rx="9" fill="#e0a458"/>
     <path d="M244 466 L 228 486" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>

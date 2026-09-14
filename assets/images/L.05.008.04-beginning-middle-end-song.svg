@@ -3,7 +3,7 @@
   <desc id="desc">A three-box diagram titled "A piece has a beginning, a middle, and an end." The left box, labeled "beginning (idea introduced)," shows three note shapes in a short repeated pattern. The middle box, labeled "middle (contrast — something new)," shows a different rhythm of note shapes, marked "new rhythm, higher or faster." The right box, labeled "end (return home)," shows the first pattern again, marked "back to the beginning." An arc above the boxes is labeled "A — B — A." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="300" fill="#fdfbf7"/>
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">A Piece Has a Beginning, a Middle, and an End</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="18.2" font-weight="bold" fill="#2b3a42">A Piece Has a Beginning, a Middle, and an End</text>
 
   <!-- A-B-A arc -->
   <path d="M70 120 Q256 40 442 120" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="7 6"/>

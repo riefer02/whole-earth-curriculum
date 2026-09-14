@@ -30,7 +30,7 @@
   <!-- you -->
   <line x1="468" y1="196" x2="468" y2="204" stroke="#2b3a42" stroke-width="4"/>
   <circle cx="468" cy="150" r="10" fill="none" stroke="#2b3a42" stroke-width="3"/>
-  <text x="468" y="118" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">you</text>
+  <text x="468" y="104" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" font-weight="bold">you</text>
 
   <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Most of the story has no writing — and you are part of it.</text>
   <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Your life is a place in the story, not its ending.</text>

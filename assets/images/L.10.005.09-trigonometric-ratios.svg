@@ -13,10 +13,10 @@
   <path d="M 110 150 A 40 40 0 0 0 135 175" fill="none" stroke="#e0a458" stroke-width="2"/>
   <text x="158" y="152" font-family="sans-serif" font-size="16" fill="#a06030" font-weight="bold">&#952;</text>
 
-  <!-- side labels -->
-  <text x="44" y="246" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">hypotenuse</text>
-  <text x="220" y="352" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">adjacent</text>
-  <text x="118" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">opposite</text>
+  <!-- side labels, relative to the angle at the top vertex -->
+  <text x="100" y="246" text-anchor="end" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">adjacent</text>
+  <text x="230" y="354" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">opposite</text>
+  <text x="196" y="192" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">hypotenuse</text>
 
   <!-- Ratios -->
   <g font-family="sans-serif" font-size="16" fill="#222222">

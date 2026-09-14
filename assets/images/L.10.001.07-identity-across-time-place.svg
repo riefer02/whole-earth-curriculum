@@ -1,33 +1,121 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">Identity markers from different times and places</title>
-  <desc id="desc">A row of five figures, each dressed and marked differently to suggest identity constructed in different times and cultures — e.g., a woven-cloth wearer, a musician with a drum, a scholar with a scroll, a farmer, and a modern student with a device — all equal, none above the others.</desc>
+  <desc id="desc">Five standing figures side by side on one shared ground line, drawn at the same size and all facing forward, with different skin tones, hair and dress: a wearer of woven cloth, a musician holding a drum, a scholar holding a scroll, a farmer carrying a bundle of grain, and a modern student holding a device. Each has a small word label underneath it. A single line beneath them all reads that identity looks different across time and place and that none stands above the rest. The figures are set at equal height and marked by props and labels, not by colour alone.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Identity across Time and Place</text>
+
+  <!-- shared ground line -->
+  <path d="M28 418 L484 418" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- ================= figure 1: woven cloth ================= -->
   <g>
-    <!-- figure 1 -->
-    <circle cx="72" cy="160" r="26" fill="#8d5a3b"/>
-    <rect x="48" y="192" width="48" height="110" rx="16" fill="#6b93b6"/>
-    <path d="M56 214 L88 214 M56 232 L88 232 M56 250 L88 250" stroke="#2b3a42" stroke-width="3"/>
-    <!-- figure 2 -->
-    <circle cx="176" cy="150" r="26" fill="#c68a5a"/>
-    <rect x="150" y="182" width="52" height="120" rx="18" fill="#7a9e7e"/>
-    <circle cx="176" cy="218" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
-    <path d="M176 232 L176 252" stroke="#2b3a42" stroke-width="3"/>
-    <!-- figure 3 -->
-    <circle cx="280" cy="160" r="26" fill="#d9a06b"/>
-    <rect x="254" y="192" width="52" height="110" rx="16" fill="#e0a458"/>
-    <path d="M262 214 Q280 206 298 214 L298 226 L262 226 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M264 232 L296 232" stroke="#2b3a42" stroke-width="3"/>
-    <!-- figure 4 -->
-    <circle cx="384" cy="150" r="26" fill="#8d5a3b"/>
-    <rect x="358" y="182" width="52" height="120" rx="18" fill="#7a9e7e"/>
-    <path d="M366 210 L402 210 L402 250 L366 250 Z" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
-    <path d="M374 210 L374 250 M390 210 L390 250" stroke="#2b3a42" stroke-width="2"/>
-    <!-- figure 5 -->
-    <circle cx="460" cy="160" r="26" fill="#c68a5a"/>
-    <rect x="438" y="192" width="44" height="110" rx="16" fill="#4f6d7a"/>
-    <rect x="446" y="212" width="28" height="18" rx="3" fill="#2b3a42"/>
-    <!-- ground line -->
-    <path d="M40 322 L480 322" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="256" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">identity looks different across time and place — and none stands above the rest</text>
+    <path d="M33 246 Q21 288 31 308" stroke="#6b93b6" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <path d="M75 246 Q87 288 77 308" stroke="#6b93b6" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <rect x="31" y="222" width="46" height="112" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#2b3a42" stroke-width="1.5" stroke-opacity="0.5">
+      <path d="M37 244 H71 M37 262 H71 M37 280 H71 M37 298 H71 M37 316 H71"/>
+      <path d="M44 228 V328 M54 228 V328 M64 228 V328"/>
+    </g>
+    <rect x="38" y="334" width="13" height="84" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="57" y="334" width="13" height="84" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="54" cy="192" r="27" fill="#2b3a42"/>
+    <circle cx="54" cy="198" r="21" fill="#8d5a3b" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="46.5" cy="197" r="2.3" fill="#2b3a42"/>
+    <circle cx="61.5" cy="197" r="2.3" fill="#2b3a42"/>
+    <path d="M48 207 Q54 212 60 207" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="54" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">woven cloth</text>
   </g>
+
+  <!-- ================= figure 2: a drum ================= -->
+  <g>
+    <path d="M134 246 Q122 286 132 306" stroke="#7a9e7e" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <path d="M176 246 Q188 286 178 306" stroke="#7a9e7e" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <rect x="130" y="222" width="46" height="112" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="137" y="334" width="13" height="84" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="156" y="334" width="13" height="84" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <!-- drum under the left arm -->
+    <ellipse cx="118" cy="300" rx="19" ry="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M99 300 V322 A19 9 0 0 0 137 322 V300" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="153" cy="192" r="27" fill="#2b3a42"/>
+    <circle cx="153" cy="198" r="21" fill="#c68a5a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M126 188 Q153 172 180 188 L180 196 Q153 180 126 196 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6"/>
+    <circle cx="127" cy="186" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6"/>
+    <circle cx="145.5" cy="198" r="2.3" fill="#2b3a42"/>
+    <circle cx="160.5" cy="198" r="2.3" fill="#2b3a42"/>
+    <path d="M147 208 Q153 213 159 208" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="153" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">a drum</text>
+  </g>
+
+  <!-- ================= figure 3: a scroll ================= -->
+  <g>
+    <path d="M236 246 Q224 286 234 306" stroke="#e0a458" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <rect x="233" y="222" width="46" height="112" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="240" y="334" width="13" height="84" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="259" y="334" width="13" height="84" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <!-- scroll held in the right hand -->
+    <path d="M279 250 Q291 272 281 292" stroke="#e0a458" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <rect x="271" y="290" width="22" height="34" rx="2" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="282" cy="290" r="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="282" cy="324" r="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M276 300 H288 M276 308 H288 M276 316 H288" stroke="#2b3a42" stroke-width="1.4"/>
+    <circle cx="256" cy="192" r="28" fill="#2b3a42"/>
+    <rect x="227" y="190" width="11" height="62" rx="5.5" fill="#2b3a42"/>
+    <rect x="274" y="190" width="11" height="62" rx="5.5" fill="#2b3a42"/>
+    <circle cx="256" cy="198" r="21" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="248.5" cy="197" r="2.3" fill="#2b3a42"/>
+    <circle cx="263.5" cy="197" r="2.3" fill="#2b3a42"/>
+    <path d="M250 207 Q256 212 262 207" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">a scroll</text>
+  </g>
+
+  <!-- ================= figure 4: the harvest ================= -->
+  <g>
+    <path d="M339 246 Q327 286 337 306" stroke="#4f6d7a" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <path d="M381 246 Q393 286 383 306" stroke="#4f6d7a" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <rect x="336" y="222" width="46" height="112" rx="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="343" y="334" width="13" height="84" rx="5" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="362" y="334" width="13" height="84" rx="5" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
+    <!-- bundle of grain in the right hand -->
+    <path d="M382 250 Q394 276 384 296" stroke="#4f6d7a" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <path d="M384 322 V286 M384 322 V288 M384 322 V290" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
+    <g fill="#e0a458" stroke="#2b3a42" stroke-width="1.6">
+      <ellipse cx="378" cy="284" rx="4" ry="7" transform="rotate(-18 378 284)"/>
+      <ellipse cx="390" cy="282" rx="4" ry="7" transform="rotate(16 390 282)"/>
+      <ellipse cx="384" cy="278" rx="4" ry="7"/>
+      <ellipse cx="376" cy="296" rx="4" ry="7" transform="rotate(-16 376 296)"/>
+      <ellipse cx="392" cy="294" rx="4" ry="7" transform="rotate(14 392 294)"/>
+    </g>
+    <circle cx="359" cy="192" r="27" fill="#2b3a42"/>
+    <circle cx="359" cy="198" r="21" fill="#a9714a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="351.5" cy="197" r="2.3" fill="#2b3a42"/>
+    <circle cx="366.5" cy="197" r="2.3" fill="#2b3a42"/>
+    <path d="M353 207 Q359 212 365 207" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M337 184 Q359 158 381 184 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="359" cy="184" rx="37" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="359" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">the harvest</text>
+  </g>
+
+  <!-- ================= figure 5: a device ================= -->
+  <g>
+    <path d="M436 246 Q424 286 434 306" stroke="#6b93b6" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <path d="M478 246 Q490 280 480 300" stroke="#6b93b6" stroke-width="11" fill="none" stroke-linecap="round"/>
+    <rect x="433" y="222" width="46" height="112" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="440" y="334" width="13" height="84" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="459" y="334" width="13" height="84" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <!-- tablet held in the right hand -->
+    <rect x="466" y="298" width="30" height="38" rx="4" fill="#2b3a42"/>
+    <rect x="470" y="302" width="22" height="30" rx="2" fill="#dce9f0"/>
+    <circle cx="456" cy="192" r="27" fill="#8a5a3b"/>
+    <circle cx="456" cy="198" r="21" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M436 190 Q456 172 476 190 Q456 183 436 190 Z" fill="#8a5a3b"/>
+    <circle cx="448.5" cy="197" r="2.3" fill="#2b3a42"/>
+    <circle cx="463.5" cy="197" r="2.3" fill="#2b3a42"/>
+    <path d="M450 207 Q456 212 462 207" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="456" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">a device</text>
+  </g>
+
+  <!-- closing message -->
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Identity looks different across time and place —</text>
+  <text x="256" y="499" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and none stands above the rest</text>
 </svg>

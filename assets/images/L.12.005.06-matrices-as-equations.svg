@@ -28,7 +28,8 @@
     <text x="246" y="200">[ 1  1 &#124;  50 ]</text>
     <text x="246" y="228">[ 0  1 &#124;  20 ]</text>
   </g>
-  <text x="380" y="218" font-family="sans-serif" font-size="13" fill="#4f6d7a">a staircase: zeros below</text>
+  <text x="380" y="215.8" font-family="sans-serif" font-size="13" fill="#4f6d7a">a staircase:</text>
+  <text x="380" y="232.7" font-family="sans-serif" font-size="13" fill="#4f6d7a">zeros below</text>
 
   <!-- read off -->
   <rect x="70" y="260" width="372" height="110" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>

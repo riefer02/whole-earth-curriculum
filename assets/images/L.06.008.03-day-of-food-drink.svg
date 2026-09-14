@@ -59,5 +59,6 @@
   <path d="M290 428 Q306 414 322 428 Q306 440 290 428 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <text x="306" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">tea</text>
 
-  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Record what you actually eat and drink — with curiosity, never judgment.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Record what you actually eat and drink — with curiosity, never</text>
+  <text x="256" y="504.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">judgment.</text>
 </svg>

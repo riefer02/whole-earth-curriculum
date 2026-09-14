@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>From my doorstep to the whole world</title>
-  <desc>Four nested circles, each labeled and connected by small arrows: me, my neighborhood and region, my nation, and the wider world. The smallest circle holds a small figure; the largest circle shows people from many places reaching toward one another.</desc>
+  <title id="title">From my doorstep to the whole world</title>
+  <desc id="desc">Four nested circles, each labeled and connected by small arrows: me, my neighborhood and region, my nation, and the wider world. The smallest circle holds a small figure; the largest circle shows people from many places reaching toward one another.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- nested circles -->
   <g fill="none" stroke="#2b3a42">

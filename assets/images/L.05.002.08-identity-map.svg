@@ -66,5 +66,6 @@
   <path d="M160 184 Q162 176 160 170" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
   <text x="160" y="160" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">my interests</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Many parts, one whole self — every family's shape belongs.</text>
+  <text x="256" y="449" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Many parts, one whole self — every family's shape</text>
+  <text x="256" y="475" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">belongs.</text>
 </svg>

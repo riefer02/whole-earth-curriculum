@@ -45,7 +45,8 @@
   <text x="140" y="314" font-family="sans-serif" font-size="17" fill="#222222">hits: |  (1)</text>
 
   <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">Repetition refines the skill.</text>
-  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Stand tall • eyes on target • arm back • step &amp; release • follow through</text>
+  <text x="256" y="414.8" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Stand tall • eyes on target • arm back • step &amp; release •</text>
+  <text x="256" y="436.9" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">follow through</text>
 
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Your first try and your last try will not look the same.</text>
 </svg>

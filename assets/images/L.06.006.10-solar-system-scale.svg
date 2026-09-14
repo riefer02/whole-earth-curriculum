@@ -59,6 +59,6 @@
     <text x="140" y="160" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the Sun is about 100 times wider than Earth</text>
   </g>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Earth is one world among eight, circling one star among billions</text>
+  <text x="256" y="474.4" text-anchor="middle" font-family="sans-serif" font-size="14.4" font-weight="bold" fill="#222222">Earth is one world among eight, circling one star among billions</text>
   <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">no single drawing can show size and distance to true scale at once</text>
 </svg>

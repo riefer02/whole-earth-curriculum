@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Languages, Like Roots, Can Be Lost — and Regrown</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="18.2" font-weight="bold" fill="#2b3a42">Languages, Like Roots, Can Be Lost — and Regrown</text>
 
   <!-- tree trunk -->
   <rect x="242" y="180" width="28" height="150" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>

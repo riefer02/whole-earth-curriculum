@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Mixed-media layers diagram</title>
-  <desc>A stack of three layers — a painted background, a scanned hand drawing, and a digital color layer — combining into one finished framed artwork on the right.</desc>
+  <title id="title">Mixed-media layers diagram</title>
+  <desc id="desc">A stack of three layers — a painted background, a scanned hand drawing, and a digital color layer — combining into one finished framed artwork on the right.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">One artwork, three layers</text>
 

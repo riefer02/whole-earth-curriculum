@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Rebuilding an argument more fairly</title>
-  <desc>Two panels side by side with an arrow between them. The left panel holds a narrow original claim. The right panel holds a rebuilt claim that names more people and qualifies the sweeping word, grayscale-printable.</desc>
+  <title id="title">Rebuilding an argument more fairly</title>
+  <desc id="desc">Two panels side by side with an arrow between them. The left panel holds a narrow original claim. The right panel holds a rebuilt claim that names more people and qualifies the sweeping word, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <text x="140" y="44" font-size="16" font-weight="bold" fill="#2b3a42">original</text>

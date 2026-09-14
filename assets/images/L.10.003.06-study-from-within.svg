@@ -43,5 +43,6 @@
   <rect x="352" y="48" width="140" height="26" rx="8" fill="#fdfbf7" stroke="#e0a458" stroke-width="1.5"/>
   <text x="422" y="66" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">check my assumptions</text>
 
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Ask permission. Listen more than you talk. Give credit. Let the words stand as they were said.</text>
+  <text x="256" y="478.1" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Ask permission. Listen more than you talk. Give credit. Let the words stand</text>
+  <text x="256" y="496.3" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">as they were said.</text>
 </svg>

@@ -66,5 +66,6 @@
     <path d="M128 310 L116 328" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
   </g>
 
-  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">when a game leaves someone out, we change the game</text>
+  <text x="256" y="465.3" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">when a game leaves someone out, we change</text>
+  <text x="256" y="493.9" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">the game</text>
 </svg>

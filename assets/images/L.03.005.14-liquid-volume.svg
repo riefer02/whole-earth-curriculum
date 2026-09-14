@@ -12,7 +12,7 @@
   <rect x="126" y="118" width="78" height="184" rx="6" fill="#fdfbf7"/>
   <rect x="126" y="118" width="78" height="184" rx="6" fill="#6b93b6"/>
   <text x="165" y="210" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#ffffff">1 L</text>
-  <text x="165" y="342" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">1 liter</text>
+  <text x="62" y="214" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">1 liter</text>
 
   <!-- Pouring arrow -->
   <path d="M 270 150 Q 320 150 320 110 Q 320 80 360 80" stroke="#e0a458" stroke-width="3" fill="none"/>

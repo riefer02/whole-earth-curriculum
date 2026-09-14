@@ -112,5 +112,5 @@
 
   <!-- caption -->
   <rect x="70" y="452" width="372" height="40" rx="8" fill="#7a9e7e" fill-opacity="0.18" stroke="#7a9e7e" stroke-width="2"/>
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Media images are chosen, edited, and repeated — not a picture of every body.</text>
+  <text x="256" y="504" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">Media images are chosen, edited, and repeated — not a picture of every body.</text>
 </svg>

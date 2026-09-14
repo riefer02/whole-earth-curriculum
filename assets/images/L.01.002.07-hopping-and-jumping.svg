@@ -48,7 +48,8 @@
     <path d="M304 108 q-8 -16 -18 -14" fill="none" stroke="#4f6d7a" stroke-width="2"/>
     <!-- soft landing: bent knees -->
     <path d="M290 284 q8 10 16 0 M330 284 q8 10 16 0" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
-    <text x="322" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">soft landing, bent knees</text>
+    <text x="318" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">soft landing,</text>
+    <text x="318" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">bent knees</text>
     <!-- wheelchair push and glide -->
     <circle cx="434" cy="168" r="20" fill="#a9714b" stroke="#2b3a42" stroke-width="2"/>
     <rect x="416" y="188" width="36" height="40" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>

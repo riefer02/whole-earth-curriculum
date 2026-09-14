@@ -43,19 +43,19 @@
 
   <!-- Overland route (top) -->
   <text x="40" y="304" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">overland</text>
-  <line x1="40" y1="312" x2="420" y2="312" stroke="#e0a458" stroke-width="3"/>
-  <polygon points="420,312 410,307 410,317" fill="#e0a458"/>
+  <line x1="40" y1="312" x2="330" y2="312" stroke="#e0a458" stroke-width="3"/>
+  <polygon points="330,312 320,307 320,317" fill="#e0a458"/>
   <rect x="150" y="292" width="76" height="34" rx="17" fill="#e0a458"/>
   <text x="188" y="314" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">chai</text>
-  <text x="430" y="316" font-family="sans-serif" font-size="13" fill="#4f6d7a">चाय (ch&#257;y) · 茶 (ch&#225;)</text>
+  <text x="340" y="316" font-family="sans-serif" font-size="13" fill="#4f6d7a">चाय (ch&#257;y) · 茶 (ch&#225;)</text>
 
   <!-- Sea route (bottom) -->
   <text x="40" y="352" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">sea</text>
-  <line x1="40" y1="360" x2="420" y2="360" stroke="#6b93b6" stroke-width="3"/>
-  <polygon points="420,360 410,355 410,365" fill="#6b93b6"/>
+  <line x1="40" y1="360" x2="330" y2="360" stroke="#6b93b6" stroke-width="3"/>
+  <polygon points="330,360 320,355 320,365" fill="#6b93b6"/>
   <rect x="150" y="340" width="76" height="34" rx="17" fill="#6b93b6"/>
   <text x="188" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">tea</text>
-  <text x="430" y="364" font-family="sans-serif" font-size="13" fill="#4f6d7a">tea · th&#233;</text>
+  <text x="340" y="364" font-family="sans-serif" font-size="13" fill="#4f6d7a">tea · th&#233;</text>
 
   <!-- Origin note -->
   <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Sinitic cha &#8594; chai (overland)  ·  Min Nan te &#8594; tea/th&#233; (by sea)</text>

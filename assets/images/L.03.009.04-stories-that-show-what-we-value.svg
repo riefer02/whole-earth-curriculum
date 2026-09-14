@@ -3,7 +3,7 @@
   <desc id="desc">Three panels show three kinds of cultural treasures. The first panel shows a woven kente cloth with a repeated pattern, labeled "kente cloth — patterns mean wisdom and unity." The second panel shows a painted dot pattern with circles, labeled "painting and story — caring for Country and family." The third panel shows musical notes rising from a drum, labeled "song and rhythm — passing on joy and memory." Each treasure shows what a culture values, and labels and shapes carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Stories, Songs &amp; Art Show What We Value</text>
+  <text x="256" y="40.7" text-anchor="middle" font-family="sans-serif" font-size="17.7" font-weight="bold" fill="#2b3a42">Stories, Songs &amp; Art Show What We Value</text>
   <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every culture keeps treasures that say what matters to its people.</text>
 
   <!-- panel 1: kente -->

@@ -61,5 +61,6 @@
     <path d="M256 448 L274 450" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
   </g>
 
-  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">When we cooperate and share the load, a job no one could do alone becomes possible.</text>
+  <text x="256" y="487.2" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">When we cooperate and share the load, a job no one could do alone</text>
+  <text x="256" y="505.4" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">becomes possible.</text>
 </svg>

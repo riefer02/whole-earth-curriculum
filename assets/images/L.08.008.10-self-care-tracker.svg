@@ -6,7 +6,7 @@
 
   <!-- grid: rows for 4 pillars, columns for 7 days -->
   <!-- header row -->
-  <text x="120" y="88" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Pillar / Day</text>
+  <text x="104" y="88" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Pillar / Day</text>
   <g font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42" text-anchor="middle">
     <text x="182" y="88">Mon</text>
     <text x="232" y="88">Tue</text>

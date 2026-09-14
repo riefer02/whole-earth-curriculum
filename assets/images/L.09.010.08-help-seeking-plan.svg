@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>My help-seeking plan</title>
-  <desc>A four-box template for a personal help-seeking plan. Box one: two trusted adults, with lines to write their names. Box two: one service you could reach, such as a counselor, health worker, or helpline. Box three: the words, with an example first sentence to practice. Box four: the urgent step — if someone is in immediate danger, tell a trusted adult now and contact emergency services or a crisis line; danger is not a secret to keep. A footer reads: reaching out is a strength.</desc>
+  <title id="title">My help-seeking plan</title>
+  <desc id="desc">A four-box template for a personal help-seeking plan. Box one: two trusted adults, with lines to write their names. Box two: one service you could reach, such as a counselor, health worker, or helpline. Box three: the words, with an example first sentence to practice. Box four: the urgent step — if someone is in immediate danger, tell a trusted adult now and contact emergency services or a crisis line; danger is not a secret to keep. A footer reads: reaching out is a strength.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">My help-seeking plan</text>

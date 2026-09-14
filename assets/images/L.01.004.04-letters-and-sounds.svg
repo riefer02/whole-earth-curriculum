@@ -4,7 +4,8 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Marks Stand for Sounds, Syllables, or Words</text>
+  <text x="256" y="27" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Marks Stand for Sounds, Syllables,</text>
+  <text x="256" y="62.1" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">or Words</text>
 
   <!-- Row 1: sound -->
   <rect x="40" y="80" width="112" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

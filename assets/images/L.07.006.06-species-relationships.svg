@@ -29,7 +29,7 @@
     <circle cx="94" cy="92" r="12" fill="#c96f3b" stroke="#2b3a42" stroke-width="2"/>
     <path d="M82 92 L70 80 L84 88 M106 92 L118 80 L104 88" stroke="#2b3a42" stroke-width="2" fill="#c96f3b"/>
   </g>
-  <text x="94" y="70" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fox</text>
+  <text x="52" y="96" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fox</text>
 
   <!-- arrows -->
   <path d="M94 118 L94 116" fill="none" stroke="#2b3a42" stroke-width="2"/>

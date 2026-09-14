@@ -62,5 +62,6 @@
   <path d="M314 324 Q322 330 330 324" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
   <text x="388" y="328" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">an empty stomach</text>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Notice what helps and what hurts — then guide your lantern back.</text>
+  <text x="256" y="475" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Notice what helps and what hurts — then guide your</text>
+  <text x="256" y="501" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">lantern back.</text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>My self-directed learning cycle</title>
-  <desc>A four-step cycle drawn as a rounded loop with arrows: choose a goal, find resources, check my progress, adjust and keep going. A small figure stands at the 'adjust' step holding a pencil, showing the loop is mine to steer.</desc>
+  <title id="title">My self-directed learning cycle</title>
+  <desc id="desc">A four-step cycle drawn as a rounded loop with arrows: choose a goal, find resources, check my progress, adjust and keep going. A small figure stands at the 'adjust' step holding a pencil, showing the loop is mine to steer.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" font-size="22" fill="#222222" text-anchor="middle">
     <!-- four nodes -->

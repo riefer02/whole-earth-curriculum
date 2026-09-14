@@ -3,7 +3,8 @@
   <desc id="desc">A diagram showing environmental change — drought, flood, and sea-level rise — as push factors that can drive people to move, with arrows to adaptation — moving to new land, changing how they farm, building differently — for both the past and today.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Environmental change can push people to move — and to adapt</text>
+  <text x="256" y="36.3" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Environmental change can push people to</text>
+  <text x="256" y="64.9" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">move — and to adapt</text>
 
   <!-- push factors -->
   <g>
@@ -46,5 +47,6 @@
   <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">move to new land · change how they farm</text>
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">build differently · plan together</text>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Past: the Ancestral Pueblo moved from Chaco Canyon in drought (late 1200s). Today: the same pattern, faster.</text>
+  <text x="256" y="475.6" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Past: the Ancestral Pueblo moved from Chaco Canyon in drought (late 1200s).</text>
+  <text x="256" y="491.9" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Today: the same pattern, faster.</text>
 </svg>

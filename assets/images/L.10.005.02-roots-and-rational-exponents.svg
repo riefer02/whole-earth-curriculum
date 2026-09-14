@@ -6,13 +6,13 @@
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Roots and Rational Exponents</text>
 
   <!-- Unit square with diagonal -->
-  <text x="128" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">A unit square</text>
-  <rect x="48" y="90" width="160" height="160" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="48" y1="250" x2="208" y2="90" stroke="#e0a458" stroke-width="2.5"/>
-  <text x="74" y="172" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
-  <text x="168" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
-  <text x="140" y="176" font-family="sans-serif" font-size="15" fill="#a06030" font-weight="bold">&#8730;2</text>
-  <text x="128" y="276" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(diagonal)&#178; = 1&#178; + 1&#178; = 2</text>
+  <text x="108" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">A unit square</text>
+  <rect x="48" y="84" width="120" height="120" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="48" y1="204" x2="168" y2="84" stroke="#e0a458" stroke-width="2.5"/>
+  <text x="68" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
+  <text x="108" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
+  <text x="122" y="152" font-family="sans-serif" font-size="15" fill="#a06030" font-weight="bold">&#8730;2</text>
+  <text x="108" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(diagonal)&#178; = 1&#178; + 1&#178; = 2</text>
 
   <!-- Number line -->
   <text x="384" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Where do the roots sit?</text>
@@ -26,12 +26,12 @@
   </g>
   <!-- root 2 and root 3 markers -->
   <circle cx="358" cy="130" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="358" y="176" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#a06030">&#8730;2 &#8776; 1.414</text>
+  <text x="352" y="176" text-anchor="end" font-family="sans-serif" font-size="13" fill="#a06030">&#8730;2 &#8776; 1.414</text>
   <circle cx="410" cy="130" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="410" y="176" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#a06030">&#8730;3 &#8776; 1.732</text>
+  <text x="416" y="176" font-family="sans-serif" font-size="13" fill="#a06030">&#8730;3 &#8776; 1.732</text>
 
   <!-- Bridge table -->
-  <text x="256" y="226" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">The bridge: a root is a fractional power</text>
+  <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">The bridge: a root is a fractional power</text>
   <g font-family="sans-serif" font-size="15" fill="#222222">
     <rect x="88" y="244" width="160" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
     <text x="168" y="269" text-anchor="middle">&#8319;&#8730;a = a^(1/n)</text>
@@ -47,5 +47,6 @@
   </g>
 
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">&#8730;2 is not a fraction: assume &#8730;2 = a/b, then both a and b turn out even — impossible.</text>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">The Babylonians approximated &#8730;2 to about six decimals on tablet YBC 7289 (c. 1800&#8211;1600 BCE).</text>
+  <text x="256" y="448.8" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">The Babylonians approximated &#8730;2 to about six decimals on tablet YBC 7289 (c.</text>
+  <text x="256" y="464.4" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">1800&#8211;1600 BCE).</text>
 </svg>

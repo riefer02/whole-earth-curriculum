@@ -40,5 +40,6 @@
   <text x="336" y="404" font-family="sans-serif" font-size="13" fill="#222222">width = baseline &#183; tan &#952;</text>
   <text x="336" y="424" font-family="sans-serif" font-size="13" fill="#222222">check: a&#178; + b&#178; = c&#178;</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Every height, gap, and bearing is a right triangle: name two knowns, choose the relation, solve, and check a second way.</text>
+  <text x="256" y="486.2" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Every height, gap, and bearing is a right triangle: name two knowns, choose the</text>
+  <text x="256" y="503.1" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">relation, solve, and check a second way.</text>
 </svg>

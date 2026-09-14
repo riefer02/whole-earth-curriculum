@@ -42,8 +42,9 @@
   </g>
 
   <!-- Center of gravity labels -->
-  <text x="414" y="236" font-family="sans-serif" font-size="14" fill="#7a9e7e">center of gravity shifts</text>
-  <text x="414" y="254" font-family="sans-serif" font-size="14" fill="#7a9e7e">as limbs lengthen</text>
+  <text x="376" y="226" font-family="sans-serif" font-size="13" fill="#7a9e7e">center of gravity</text>
+  <text x="376" y="243" font-family="sans-serif" font-size="12" fill="#7a9e7e">shifts as limbs</text>
+  <text x="376" y="260" font-family="sans-serif" font-size="12" fill="#7a9e7e">lengthen</text>
 
   <!-- Bottom caption -->
   <rect x="96" y="414" width="320" height="62" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

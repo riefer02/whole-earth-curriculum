@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>The path to care</title>
-  <desc>A flowchart of five steps to accessing sexual and reproductive health information and care, connected by arrows. Step one: ask a trusted adult or health worker, without shame. Step two: find a service, such as a clinic, counselor, youth-friendly service, or hotline. Step three: get accurate information, checked like any source. Step four: decide for yourself, with consent. Step five: follow up. A footer notes that a young person's care is confidential, with important exceptions when safety is at risk.</desc>
+  <title id="title">The path to care</title>
+  <desc id="desc">A flowchart of five steps to accessing sexual and reproductive health information and care, connected by arrows. Step one: ask a trusted adult or health worker, without shame. Step two: find a service, such as a clinic, counselor, youth-friendly service, or hotline. Step three: get accurate information, checked like any source. Step four: decide for yourself, with consent. Step five: follow up. A footer notes that a young person's care is confidential, with important exceptions when safety is at risk.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">The path to care</text>

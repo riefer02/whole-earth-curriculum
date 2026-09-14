@@ -3,7 +3,7 @@
   <desc id="desc">A map-style diagram titled "Tracing a migration: the settlement of the Pacific." A chain of islands is connected by curved arrows that move from left to right, showing a gradual eastward voyage across water. Near the starting islands on the left, a label reads "push — islands grow full, families need more." Near the farthest islands on the right, a label reads "pull — new islands, fresh water, and food." Small double-hulled canoes with sails sit between the islands, and a star and wave marks suggest navigation. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="380" fill="#fdfbf7"/>
-  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Tracing a Migration: The Settlement of the Pacific</text>
+  <text x="256" y="34.4" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Tracing a Migration: The Settlement of the Pacific</text>
 
   <!-- water -->
   <g stroke="#6b93b6" stroke-width="2" fill="none" stroke-linecap="round">
@@ -40,7 +40,8 @@
     <path d="M64 60 L70 52 L76 60 L70 68 Z" fill="#2b3a42"/>
     <path d="M446 54 L452 46 L458 54 L452 62 Z" fill="#2b3a42"/>
   </g>
-  <text x="70" y="88" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">stars and swells guide the way</text>
+  <text x="70" y="90" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">stars and swells</text>
+  <text x="70" y="105.6" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">guide the way</text>
 
   <!-- push / pull labels -->
   <rect x="30" y="262" width="196" height="54" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

@@ -31,7 +31,7 @@
   <!-- brain note -->
   <rect x="28" y="380" width="456" height="60" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Mind-affecting drugs change brain signaling.</text>
-  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Repeated use can lead to dependence — a treatable health condition, never a moral failing.</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">Repeated use can lead to dependence — a treatable health condition, never a moral failing.</text>
 
   <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Never take medicine that isn't yours. When in doubt, ask a trusted adult.</text>
 </svg>

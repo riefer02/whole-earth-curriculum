@@ -4,7 +4,8 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Persuasion: loaded words and emotional images</text>
+  <text x="256" y="26" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Persuasion: loaded words and</text>
+  <text x="256" y="59.8" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">emotional images</text>
 
   <!-- central ad poster -->
   <g>

@@ -36,5 +36,7 @@
 
   <!-- legend for shells -->
   <text x="120" y="462" font-family="sans-serif" font-size="12" fill="#4f6d7a">outer shell = valence electrons</text>
-  <text x="376" y="462" font-family="sans-serif" font-size="12" fill="#4f6d7a">nucleus = protons + neutrons</text>
+  <text x="376" y="464.4" font-family="sans-serif" font-size="12" fill="#4f6d7a">nucleus =</text>
+  <text x="376" y="480" font-family="sans-serif" font-size="12" fill="#4f6d7a">protons +</text>
+  <text x="376" y="495.6" font-family="sans-serif" font-size="12" fill="#4f6d7a">neutrons</text>
 </svg>

@@ -29,7 +29,7 @@
     <text x="392" y="210" font-family="sans-serif" font-size="14" fill="#222222">• horses, cattle</text>
     <text x="392" y="234" font-family="sans-serif" font-size="14" fill="#222222">• sheep, pigs</text>
     <text x="392" y="258" font-family="sans-serif" font-size="14" fill="#222222">• diseases</text>
-    <text x="392" y="282" font-family="sans-serif" font-size="14" fill="#222222">• people (many enslaved)</text>
+    <text x="392" y="282" font-family="sans-serif" font-size="10.4" fill="#222222">• people (many enslaved)</text>
   </g>
 
   <!-- Double arrow -->

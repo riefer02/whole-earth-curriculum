@@ -24,5 +24,6 @@
   <path d="M238 332 L238 338 M274 332 L274 338" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
   <circle cx="244" cy="174" r="4" fill="#fdfbf7"/>
   <circle cx="268" cy="174" r="4" fill="#fdfbf7"/>
-  <text x="256" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">my position stands on what is mine — not on others' expectations</text>
+  <text x="256" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">my position stands on what is mine — not on others'</text>
+  <text x="256" y="501" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">expectations</text>
 </svg>

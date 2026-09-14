@@ -38,7 +38,7 @@
   <line x1="380" y1="420" x2="123" y2="308" stroke="#e0a458" stroke-width="2" stroke-dasharray="6 5"/>
   <text x="140" y="392" font-family="sans-serif" font-size="13" fill="#222222">65&#176;</text>
   <text x="332" y="392" font-family="sans-serif" font-size="13" fill="#222222">50&#176;</text>
-  <text x="240" y="398" font-family="sans-serif" font-size="12" fill="#4f6d7a">sight two angles, solve the triangle</text>
+  <text x="240" y="376" font-family="sans-serif" font-size="12" fill="#4f6d7a">sight two angles, solve the triangle</text>
 
   <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The triangle does the walking for you.</text>
 </svg>

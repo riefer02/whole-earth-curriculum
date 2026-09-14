@@ -44,5 +44,6 @@
   <text x="249" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">mind</text>
   <text x="249" y="192" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">body</text>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">A worry in the mind can show up as a feeling in the body.</text>
+  <text x="256" y="465.3" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">A worry in the mind can show up as a feeling in</text>
+  <text x="256" y="493.9" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">the body.</text>
 </svg>

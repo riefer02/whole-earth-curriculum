@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>The menstrual cycle</title>
-  <desc>A circular diagram of a typical menstrual cycle divided into four quarters. Starting at the top-right and moving clockwise: menstruation (the period, days 1 to 5), then the uterine lining rebuilds, then ovulation (an egg is released, around day 14), then the lining is shed again if no pregnancy occurs. A center note says a typical cycle is about 28 days but real cycles vary. A footer repeats that cycles from about 21 to 35 or more days are common, and typical is not required.</desc>
+  <title id="title">The menstrual cycle</title>
+  <desc id="desc">A circular diagram of a typical menstrual cycle divided into four quarters. Starting at the top-right and moving clockwise: menstruation (the period, days 1 to 5), then the uterine lining rebuilds, then ovulation (an egg is released, around day 14), then the lining is shed again if no pregnancy occurs. A center note says a typical cycle is about 28 days but real cycles vary. A footer repeats that cycles from about 21 to 35 or more days are common, and typical is not required.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="36" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">The menstrual cycle</text>

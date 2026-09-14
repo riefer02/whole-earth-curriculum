@@ -43,5 +43,6 @@
   <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The number informs judgment; it does not replace it.</text>
   <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Who can bear the loss changes what &#8220;fair&#8221; means.</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Insurance can be wise even when its expected value is negative &#8212; avoiding ruin is worth paying for.</text>
+  <text x="256" y="486.2" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Insurance can be wise even when its expected value is negative &#8212; avoiding ruin</text>
+  <text x="256" y="503.1" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">is worth paying for.</text>
 </svg>

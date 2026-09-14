@@ -74,5 +74,6 @@
   <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">soil and water to grow · fuel to travel · packaging that can become waste</text>
   <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">many hands make one meal — and every plate connects us to the land.</text>
 
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">When we know the journey, we can choose with care and eat with thanks.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">When we know the journey, we can choose with care and eat</text>
+  <text x="256" y="504.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">with thanks.</text>
 </svg>

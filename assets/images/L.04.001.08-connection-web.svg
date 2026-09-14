@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Tradition Connects Me Outward</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Tradition Connects Me Outward</text>
 
   <!-- Rings -->
   <circle cx="256" cy="286" r="42" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>

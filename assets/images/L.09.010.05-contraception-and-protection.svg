@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Contraception and protection at a glance</title>
-  <desc>A chart of four main approaches to contraception. Barrier methods (condoms) block sperm and also reduce the risk of many infections. Hormonal methods (pill, patch, ring, injection, implant) stop the egg's release and prevent pregnancy but not infections. The IUD sits in the uterus and lasts years, preventing pregnancy but not infections. Emergency contraception is a backup after unprotected sex, not for routine use. A green banner adds: dual protection means condoms plus one more method, and testing matters because many infections have no symptoms.</desc>
+  <title id="title">Contraception and protection at a glance</title>
+  <desc id="desc">A chart of four main approaches to contraception. Barrier methods (condoms) block sperm and also reduce the risk of many infections. Hormonal methods (pill, patch, ring, injection, implant) stop the egg's release and prevent pregnancy but not infections. The IUD sits in the uterus and lasts years, preventing pregnancy but not infections. Emergency contraception is a backup after unprotected sex, not for routine use. A green banner adds: dual protection means condoms plus one more method, and testing matters because many infections have no symptoms.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#222222">Contraception &amp; protection at a glance</text>

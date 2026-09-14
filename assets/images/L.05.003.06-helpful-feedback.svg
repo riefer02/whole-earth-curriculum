@@ -36,5 +36,6 @@
 
   <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">Name the action, not the person.</text>
   <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">"I noticed ___. What helped me was ___. Try ___."</text>
-  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Good feedback is a gift: it tells the truth kindly and believes you can grow.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Good feedback is a gift: it tells the truth kindly and believes</text>
+  <text x="256" y="470.1" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">you can grow.</text>
 </svg>

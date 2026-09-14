@@ -33,7 +33,8 @@
     <circle cx="448" cy="236" r="16" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
     <text x="448" y="242" text-anchor="middle" fill="#fdfbf7" font-weight="bold">4</text>
     <text x="448" y="270" text-anchor="middle" fill="#2b3a42">end — full meaning</text>
-    <text x="448" y="290" text-anchor="middle" fill="#4f6d7a">home is what you carry</text>
+    <text x="448" y="291.9" text-anchor="middle" fill="#4f6d7a" font-size="13">home is what</text>
+    <text x="448" y="308.8" text-anchor="middle" fill="#4f6d7a" font-size="13">you carry</text>
   </g>
 
   <!-- Caption -->

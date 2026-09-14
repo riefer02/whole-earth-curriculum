@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Phone lifecycle: benefits and harms</title>
-  <desc>Four stages of a phone's life in a row — a mine, a factory, a hand holding a phone, and a pile of discarded electronics. Below each stage, a benefits line and a harms line, printed in grayscale.</desc>
+  <title id="title">Phone lifecycle: benefits and harms</title>
+  <desc id="desc">Four stages of a phone's life in a row — a mine, a factory, a hand holding a phone, and a pile of discarded electronics. Below each stage, a benefits line and a harms line, printed in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <!-- stage titles -->

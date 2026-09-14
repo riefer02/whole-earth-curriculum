@@ -3,29 +3,32 @@
   <desc id="desc">Concentric circles expanding outward, each labeled: me; family and friends; my community; people unlike me, far away; and future generations and the living world. Arrows point outward between the rings. Labels, not color, carry the meaning, so the diagram prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Widening Circles of Care</text>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Widening Circles of Care</text>
 
-  <!-- Rings -->
-  <circle cx="256" cy="290" r="52" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="256" cy="290" r="108" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="256" cy="290" r="164" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="256" cy="290" r="220" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <!-- Rings (scaled so the closing caption sits clear of the outer circle) -->
+  <g transform="translate(46.6,52.8) scale(0.818)">
+    <circle cx="256" cy="290" r="52" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="290" r="108" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="290" r="164" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="290" r="220" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+    <!-- Outward arrows -->
+    <g stroke="#7a9e7e" stroke-width="3" fill="none">
+      <path d="M296 258 L336 258"/><path d="M330 252 l12 6 l-12 6 z" fill="#7a9e7e" stroke="none"/>
+      <path d="M322 210 L382 182"/><path d="M376 176 l12 6 l-12 6 z" fill="#7a9e7e" stroke="none"/>
+    </g>
+  </g>
 
   <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">me</text>
 
-  <!-- Ring labels with leader lines -->
-  <g font-family="sans-serif" font-size="16" fill="#222222">
-    <text x="256" y="212" text-anchor="middle">family &amp; friends</text>
-    <text x="256" y="156" text-anchor="middle">my community</text>
-    <text x="256" y="100" text-anchor="middle">people unlike me, far away</text>
-    <text x="256" y="44" text-anchor="middle" font-size="15" fill="#4f6d7a">future generations &amp; the living world</text>
+  <!-- Ring labels, one per band, read outward -->
+  <g font-family="sans-serif" fill="#222222">
+    <text x="256" y="226" text-anchor="middle" font-size="15">family &amp; friends</text>
+    <text x="256" y="180" text-anchor="middle" font-size="16">my community</text>
+    <text x="256" y="135" text-anchor="middle" font-size="14">people unlike me, far away</text>
+    <text x="256" y="99" text-anchor="middle" font-size="14" fill="#4f6d7a">future generations &amp; the living world</text>
   </g>
 
-  <!-- Outward arrows -->
-  <g stroke="#7a9e7e" stroke-width="3" fill="none">
-    <path d="M296 258 L336 258"/><path d="M330 252 l12 6 l-12 6 z" fill="#7a9e7e" stroke="none"/>
-    <path d="M322 210 L382 182"/><path d="M376 176 l12 6 l-12 6 z" fill="#7a9e7e" stroke="none"/>
-  </g>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Care can widen, by choice and by practice.</text>
 
-  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Care can widen, by choice and by practice.</text>
 </svg>

@@ -48,5 +48,6 @@
     <path d="M432 162 v20 M420 170 c0 9 5 15 12 15 s12 -6 12 -15"/>
   </g>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">A strong argument stands on reasons and evidence — and invites an answer.</text>
+  <text x="256" y="481.1" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">A strong argument stands on reasons and evidence — and</text>
+  <text x="256" y="503.2" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">invites an answer.</text>
 </svg>

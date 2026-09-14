@@ -3,11 +3,10 @@
   <desc id="d">A welcoming circle contains four figures of varied skin tones. One holds a small drum, one holds a bowl of shared food, one has a speech bubble reading "hello / hola," and one is a wheelchair user with a hearing aid. Just outside the circle, a fifth figure stands with an open arm and a dashed arrow pointing through a gap into the circle, labeled "you are welcome." A banner reads "culture, language, ability — all belong, and it is ordinary." Shapes and labels, not color alone, carry the meaning.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Identity Shapes Belonging — and We Can Open the Circle</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="15.6" font-weight="bold" fill="#2b3a42">Identity Shapes Belonging — and We Can Open the Circle</text>
 
-  <!-- the circle (with a gap lower-left) -->
-  <path d="M 300 92 A 150 150 0 1 0 150 268" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3.5" fill-rule="evenodd"/>
-  <path d="M 380 92 A 150 150 0 0 1 410 160" fill="none" stroke="#2b3a42" stroke-width="3.5"/>
+  <!-- the circle (with a gap on the left, where the welcome arrow enters) -->
+  <path d="M 137.5 219.4 A 165 165 0 1 1 173.6 354.1" fill="none" stroke="#2b3a42" stroke-width="3.5"/>
 
   <!-- inside: drum (culture) -->
   <g>
@@ -23,7 +22,7 @@
     <rect x="390" y="176" width="30" height="38" rx="9" fill="#6b93b6"/>
     <path d="M398 190 L 382 210" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
     <path d="M382 210 Q 390 226 398 210" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
-    <text x="420" y="122" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">shared food</text>
+    <text x="404" y="242" font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">shared food</text>
   </g>
 
   <!-- inside: language -->
@@ -60,10 +59,10 @@
   <!-- dashed welcome arrow into the gap -->
   <path d="M128 342 C 120 330, 130 316, 150 300" fill="none" stroke="#6b93b6" stroke-width="3" stroke-dasharray="6 5"/>
   <path d="M140 296 L 152 298 L 144 310" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="60" y="300" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">you are welcome</text>
+  <text x="52" y="272" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">you are welcome</text>
 
   <!-- banner -->
   <rect x="80" y="434" width="352" height="54" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
-  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">culture, language, ability —</text>
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" text-anchor="middle" font-weight="bold">all belong, and it is ordinary</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">culture, language, ability —</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">all belong, and it is ordinary</text>
 </svg>

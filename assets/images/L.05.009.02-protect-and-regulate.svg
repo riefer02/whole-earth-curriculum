@@ -16,7 +16,7 @@
     <circle cx="120" cy="280" r="9" fill="#e0a458"/>
     <ellipse cx="140" cy="290" rx="11" ry="8" fill="#e0a458"/>
     <path d="M162 286 q0 -8 8 -8 q0 8 -8 8" fill="#7a9e7e"/>
-    <text x="150" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">citrus, mango, leafy greens</text>
+    <text x="128" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">citrus, mango, leafy greens</text>
   </g>
 
   <!-- Minerals bone and blood cell -->

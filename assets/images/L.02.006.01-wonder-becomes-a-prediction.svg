@@ -7,7 +7,7 @@
   <!-- Step 1: I wonder -->
   <rect x="30" y="80" width="140" height="180" rx="14" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
   <text x="100" y="118" text-anchor="middle" font-size="22" fill="#2b3a42" font-weight="bold">1. I wonder</text>
-  <text x="100" y="150" text-anchor="middle" font-size="60" fill="#e0a458" font-weight="bold">?</text>
+  <text x="100" y="174" text-anchor="middle" font-size="60" fill="#e0a458" font-weight="bold">?</text>
   <text x="100" y="200" text-anchor="middle" font-size="17" fill="#222222">"Will it float?"</text>
   <text x="100" y="226" text-anchor="middle" font-size="17" fill="#222222">"Will it grow?"</text>
 

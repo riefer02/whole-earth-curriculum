@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Competing answers: capabilities, fairness, ubuntu</title>
-  <desc>Three labeled circles, partially overlapping, each holding a short answer to who is responsible for poverty. Capabilities, fairness, and ubuntu, grayscale-printable.</desc>
+  <title id="title">Competing answers: capabilities, fairness, ubuntu</title>
+  <desc id="desc">Three labeled circles, partially overlapping, each holding a short answer to who is responsible for poverty. Capabilities, fairness, and ubuntu, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <!-- three overlapping circles -->

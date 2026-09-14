@@ -57,5 +57,6 @@
     <text x="420" y="375" text-anchor="middle">worker co-ops &#183; credit unions</text>
   </g>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The question is not how much is given — but who holds the power and who decides.</text>
+  <text x="256" y="469" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The question is not how much is given — but who holds the power and</text>
+  <text x="256" y="487.2" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">who decides.</text>
 </svg>

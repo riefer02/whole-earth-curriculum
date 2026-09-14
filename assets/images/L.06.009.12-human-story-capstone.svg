@@ -13,7 +13,7 @@
 
   <!-- threads -->
   <line x1="256" y1="162" x2="88" y2="84" stroke="#4f6d7a" stroke-width="2"/>
-  <line x1="256" y1="162" x2="256" y2="52" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="256" y1="162" x2="256" y2="92" stroke="#4f6d7a" stroke-width="2"/>
   <line x1="256" y1="162" x2="424" y2="84" stroke="#4f6d7a" stroke-width="2"/>
   <line x1="194" y1="224" x2="60" y2="224" stroke="#4f6d7a" stroke-width="2"/>
   <line x1="318" y1="224" x2="452" y2="224" stroke="#4f6d7a" stroke-width="2"/>
@@ -25,8 +25,8 @@
   <rect x="36" y="40" width="104" height="36" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="88" y="63" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">sources</text>
 
-  <rect x="204" y="14" width="104" height="36" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="37" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">change &amp; continuity</text>
+  <rect x="204" y="54" width="104" height="36" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="77" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">change &amp; continuity</text>
 
   <rect x="372" y="40" width="104" height="36" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="424" y="63" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">knowledge</text>

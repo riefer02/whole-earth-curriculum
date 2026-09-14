@@ -46,7 +46,7 @@
 
   <!-- line-up hint -->
   <line x1="40" y1="120" x2="40" y2="210" stroke="#c0504d" stroke-width="3" stroke-dasharray="6 4"/>
-  <text x="40" y="112" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#c0504d">line up the end at 0</text>
+  <text x="132" y="112" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#c0504d">line up the end at 0</text>
 
   <!-- Result -->
   <rect x="120" y="320" width="272" height="76" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>

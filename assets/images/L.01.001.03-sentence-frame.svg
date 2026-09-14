@@ -40,7 +40,8 @@
   <path d="M272 332 L284 328" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
   <path d="M272 338 L284 342" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
 
-  <text x="330" y="356" font-family="sans-serif" font-size="30" fill="#2b3a42">learned to swim.</text>
+  <text x="330" y="361.5" font-family="sans-serif" font-size="30" fill="#2b3a42">learned to</text>
+  <text x="330" y="400.5" font-family="sans-serif" font-size="30" fill="#2b3a42">swim.</text>
 
   <!-- captions under example boxes -->
   <text x="141" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">proud</text>

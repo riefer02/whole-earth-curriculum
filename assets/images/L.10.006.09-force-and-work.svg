@@ -1,36 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">Force and Work</title>
-  <desc id="desc">A diagram of a person pushing a box across a floor with a force arrow labeled F and the distance labeled d, with the equation work equals force times distance and the units newton times metre equals joule.</desc>
+  <desc id="desc">A person leans into a wooden crate and pushes it to the left across a floor. A blue arrow above the crate points the way the push acts and is labelled "F — the push". A green bracket under the floor measures how far the crate moved and is labelled "d — the distance moved". Below the picture, the equation work equals force times distance is written, with the note that a newton times a metre is a joule and that direction matters.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Work = Force &#215; Distance</text>
 
-  <!-- Floor -->
-  <line x1="40" y1="360" x2="480" y2="360" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Work = Force &#215; Distance</text>
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Work happens when a force moves something through a distance.</text>
 
-  <!-- Box -->
-  <rect x="150" y="290" width="110" height="70" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <!-- floor -->
+  <line x1="28" y1="350" x2="484" y2="350" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
 
-  <!-- Person pushing -->
-  <circle cx="320" cy="250" r="20" fill="#e0a458"/>
-  <line x1="320" y1="270" x2="320" y2="340" stroke="#2b3a42" stroke-width="4"/>
-  <line x1="320" y1="300" x2="285" y2="330" stroke="#2b3a42" stroke-width="4"/>
-  <line x1="320" y1="300" x2="355" y2="330" stroke="#2b3a42" stroke-width="4"/>
-  <line x1="300" y1="280" x2="265" y2="296" stroke="#2b3a42" stroke-width="4"/>
+  <!-- crate -->
+  <rect x="110" y="250" width="118" height="100" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M110 250 L228 350 M228 250 L110 350" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.45"/>
+  <path d="M110 300 H228" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.45"/>
 
-  <!-- Force arrow -->
-  <line x1="265" y1="325" x2="150" y2="325" stroke="#6b93b6" stroke-width="4"/>
-  <path d="M150 325 l16 -8 l0 16 z" fill="#6b93b6"/>
-  <text x="205" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">F (force)</text>
+  <!-- the push -->
+  <line x1="276" y1="228" x2="132" y2="228" stroke="#6b93b6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M118 228 l18 -8 l0 16 z" fill="#6b93b6"/>
+  <text x="197" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">F — the push</text>
 
-  <!-- Distance bracket -->
-  <line x1="130" y1="382" x2="130" y2="398" stroke="#7a9e7e" stroke-width="3"/>
-  <line x1="330" y1="382" x2="330" y2="398" stroke="#7a9e7e" stroke-width="3"/>
-  <line x1="130" y1="390" x2="330" y2="390" stroke="#7a9e7e" stroke-width="3"/>
-  <path d="M130 390 l10 -6 l0 12 z" fill="#7a9e7e"/>
-  <path d="M330 390 l-10 -6 l0 12 z" fill="#7a9e7e"/>
-  <text x="230" y="414" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">d (distance)</text>
+  <!-- the person pushing -->
+  <path d="M310 236 Q272 248 236 268" stroke="#c68a5a" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M334 244 Q286 262 240 294" stroke="#c68a5a" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <rect x="306" y="216" width="30" height="86" rx="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M312 302 L300 350" stroke="#4f6d7a" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M330 302 L342 350" stroke="#4f6d7a" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <circle cx="321" cy="196" r="19" fill="#c68a5a" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M303 190 Q321 172 339 190 Q321 182 303 190 Z" fill="#2b3a42"/>
+  <circle cx="314.5" cy="196" r="2.2" fill="#2b3a42"/>
+  <circle cx="327.5" cy="196" r="2.2" fill="#2b3a42"/>
+  <path d="M316 204 Q321 208 326 204" fill="none" stroke="#2b3a42" stroke-width="1.7" stroke-linecap="round"/>
 
-  <!-- Equation -->
-  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42" font-weight="bold">W = F &#215; d</text>
-  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">newton &#215; metre = joule &#160;&#160;(and direction matters)</text>
+  <!-- distance moved -->
+  <line x1="110" y1="378" x2="110" y2="396" stroke="#7a9e7e" stroke-width="3"/>
+  <line x1="276" y1="378" x2="276" y2="396" stroke="#7a9e7e" stroke-width="3"/>
+  <line x1="110" y1="387" x2="276" y2="387" stroke="#7a9e7e" stroke-width="3"/>
+  <path d="M110 387 l10 -6 l0 12 z" fill="#7a9e7e"/>
+  <path d="M276 387 l-10 -6 l0 12 z" fill="#7a9e7e"/>
+  <text x="193" y="412" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">d — the distance moved</text>
+
+  <!-- the relationship -->
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">W = F &#215; d</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">newton &#215; metre = joule — and direction matters</text>
 </svg>

@@ -53,7 +53,8 @@
     <line x1="232" y1="76" x2="314" y2="194"/>
     <line x1="314" y1="76" x2="232" y2="194"/>
   </g>
-  <text x="70" y="228" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#c0504d">take away 3 tens</text>
+  <text x="70" y="228" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#c0504d">take away</text>
+  <text x="70" y="254" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#c0504d">3 tens</text>
 
   <!-- Seven ones -->
   <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
@@ -77,7 +78,8 @@
     <line x1="114" y1="266" x2="136" y2="344"/>
     <line x1="136" y1="266" x2="114" y2="344"/>
   </g>
-  <text x="70" y="366" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#c0504d">take away 4 ones</text>
+  <text x="70" y="371" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#c0504d">take away</text>
+  <text x="70" y="397" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#c0504d">4 ones</text>
 
   <!-- Answer -->
   <text x="350" y="320" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#2b3a42">5 tens − 3 tens = 2 tens</text>

@@ -34,5 +34,6 @@
     <path d="M150 268 V232"/><path d="M144 238 l-6 -12 l-6 12 z" fill="#7a9e7e" stroke="none"/>
   </g>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Accountability is a loop that keeps a shared promise honest and alive.</text>
+  <text x="256" y="481.1" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Accountability is a loop that keeps a shared promise honest</text>
+  <text x="256" y="503.2" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">and alive.</text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Life cycle of a made object</title>
-  <desc>A flow of four stages — materials, making, use, disposal — arranged in a loop with a reuse arrow returning to materials, showing that every designed object has a life cycle affecting the environment.</desc>
+  <title id="title">Life cycle of a made object</title>
+  <desc id="desc">A flow of four stages — materials, making, use, disposal — arranged in a loop with a reuse arrow returning to materials, showing that every designed object has a life cycle affecting the environment.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">Where a made thing comes from and goes</text>
 

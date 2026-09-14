@@ -21,24 +21,24 @@
   <rect x="200" y="96" width="288" height="66" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <rect x="216" y="114" width="52" height="30" rx="4" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
   <text x="242" y="134" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">name</text>
-  <text x="300" y="122" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1 · your name</text>
-  <text x="300" y="144" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">say it slowly and clearly</text>
+  <text x="380" y="122" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1 · your name</text>
+  <text x="380" y="144" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">say it slowly and clearly</text>
 
   <!-- Box 2: location -->
   <rect x="200" y="178" width="288" height="66" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <path d="M238 206 L234 230 Q232 238 240 238 Q248 238 246 230 L242 206 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="240" cy="210" r="3" fill="#222222"/>
   <rect x="224" y="196" width="16" height="18" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-  <text x="300" y="202" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">2 · your location</text>
-  <text x="300" y="224" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">address, or a landmark you can see</text>
+  <text x="380" y="202" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">2 · your location</text>
+  <text x="380" y="224" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">address, or a landmark you can see</text>
 
   <!-- Box 3: what happened -->
   <rect x="200" y="260" width="288" height="66" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <rect x="218" y="280" width="22" height="22" rx="3" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
   <path d="M229 285 L229 297 M223 291 L235 291" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
   <path d="M252 296 Q256 282 262 296 Q268 282 272 296 Q276 282 280 296" stroke="#e0a458" stroke-width="2" fill="none" stroke-linejoin="round"/>
-  <text x="300" y="284" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">3 · what happened</text>
-  <text x="300" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a few calm words, nothing more</text>
+  <text x="380" y="284" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">3 · what happened</text>
+  <text x="380" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a few calm words, nothing more</text>
 
   <rect x="200" y="346" width="288" height="56" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <text x="344" y="370" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Then stay on the line</text>

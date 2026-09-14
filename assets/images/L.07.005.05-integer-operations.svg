@@ -58,11 +58,11 @@
   <text x="320" y="192" font-family="sans-serif" font-size="13" fill="#222222">(−6) ÷ 2 = −3</text>
 
   <!-- rules summary -->
-  <rect x="40" y="320" width="432" height="70" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
-  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">add a positive: move up · add a negative: move down</text>
-  <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">subtract: move the opposite way · subtract a negative: move up</text>
+  <rect x="40" y="300" width="432" height="52" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">add a positive: move up · add a negative: move down</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">subtract: move the opposite way · subtract a negative: move up</text>
 
   <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a +1 and a −1 make a zero pair</text>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">negatives name cold below zero, depth below sea level, money owed</text>
+  <text x="256" y="459" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">negatives name cold below zero, depth below sea level, money owed</text>
   <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">negative numbers: red/black rods in ancient China · rules in India (7th c.)</text>
 </svg>

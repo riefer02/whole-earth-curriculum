@@ -29,5 +29,6 @@
   <text x="120" y="100" font-family="sans-serif" font-size="13" fill="#4f6d7a">growth factor b = 1 + r</text>
   <text x="120" y="118" font-family="sans-serif" font-size="13" fill="#4f6d7a">growth rate r = b &#8722; 1</text>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Same start; the exponential grows on its own growth and pulls away. The base, not the start, sets the speed.</text>
+  <text x="256" y="469.3" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Same start; the exponential grows on its own growth and pulls away. The base,</text>
+  <text x="256" y="486.2" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">not the start, sets the speed.</text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Consent: a door you can close any time</title>
-  <desc>A drawing of an open door with a double-headed arrow showing it can swing closed again, and four principle cards: consent is freely given (no pressure), reversible (you can change your mind at any time), informed (you know what you are agreeing to), and not assumed (silence or a past yes is not a yes). A footer reads: only a clear, ongoing yes means yes.</desc>
+  <title id="title">Consent: a door you can close any time</title>
+  <desc id="desc">A drawing of an open door with a double-headed arrow showing it can swing closed again, and four principle cards: consent is freely given (no pressure), reversible (you can change your mind at any time), informed (you know what you are agreeing to), and not assumed (silence or a past yes is not a yes). A footer reads: only a clear, ongoing yes means yes.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="36" text-anchor="middle" font-family="system-ui, sans-serif" font-size="26" font-weight="700" fill="#222222">Consent: a door you can close any time</text>

@@ -42,5 +42,6 @@
   <text x="50" y="356" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Check in the original √(2x − 3) = x − 3:</text>
   <text x="50" y="380" font-family="sans-serif" font-size="14" fill="#222222">x = 6:  √(12 − 3) = √9 = 3  and  6 − 3 = 3  ✓ valid</text>
   <text x="50" y="402" font-family="sans-serif" font-size="14" fill="#222222">x = 2:  √(4 − 3) = √1 = 1  but  2 − 3 = −1  ✗ extraneous</text>
-  <text x="50" y="432" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Answer: x = 6 only — squaring can create a false answer, so always check.</text>
+  <text x="50" y="423.5" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Answer: x = 6 only — squaring can create a false answer, so</text>
+  <text x="50" y="441.7" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">always check.</text>
 </svg>

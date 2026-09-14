@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Movement phrase</title>
-  <desc>Five simple figures in a row showing a movement phrase that begins still, rises, reaches, gathers, and returns to stillness, with an arrow moving from left to right.</desc>
+  <title id="title">Movement phrase</title>
+  <desc id="desc">Five simple figures in a row showing a movement phrase that begins still, rises, reaches, gathers, and returns to stillness, with an arrow moving from left to right.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">A movement phrase</text>
 

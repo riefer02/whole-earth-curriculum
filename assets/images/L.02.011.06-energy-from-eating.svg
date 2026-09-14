@@ -5,43 +5,45 @@
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Energy moves through a food chain</text>
 
   <!-- Sun -->
-  <circle cx="56" cy="120" r="28" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
-  <line x1="56" y1="80" x2="56" y2="64" stroke="#2b3a42" stroke-width="4"/>
-  <line x1="56" y1="160" x2="56" y2="176" stroke="#2b3a42" stroke-width="4"/>
-  <line x1="16" y1="120" x2="0" y2="120" stroke="#2b3a42" stroke-width="4"/>
-  <line x1="96" y1="120" x2="112" y2="120" stroke="#2b3a42" stroke-width="4"/>
-  <text x="56" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">sun</text>
+  <circle cx="62" cy="120" r="28" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="62" y1="80" x2="62" y2="64" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="62" y1="160" x2="62" y2="176" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="34" y1="120" x2="20" y2="120" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="90" y1="120" x2="104" y2="120" stroke="#2b3a42" stroke-width="4"/>
+  <text x="62" y="202" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">sun</text>
 
-  <text x="120" y="130" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#4f6d7a">→</text>
+  <text x="137" y="130" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#4f6d7a">→</text>
 
   <!-- Grass -->
-  <line x1="176" y1="180" x2="176" y2="120" stroke="#2b3a42" stroke-width="4"/>
-  <line x1="196" y1="180" x2="196" y2="112" stroke="#2b3a42" stroke-width="4"/>
-  <line x1="216" y1="180" x2="216" y2="124" stroke="#2b3a42" stroke-width="4"/>
-  <path d="M176 120 q10 -14 0 -20" fill="none" stroke="#7a9e7e" stroke-width="4"/>
-  <path d="M196 112 q10 -14 0 -20" fill="none" stroke="#7a9e7e" stroke-width="4"/>
-  <path d="M216 124 q10 -14 0 -20" fill="none" stroke="#7a9e7e" stroke-width="4"/>
-  <text x="196" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">plant: grass</text>
+  <line x1="166" y1="180" x2="166" y2="120" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="186" y1="180" x2="186" y2="112" stroke="#2b3a42" stroke-width="4"/>
+  <line x1="206" y1="180" x2="206" y2="124" stroke="#2b3a42" stroke-width="4"/>
+  <path d="M166 120 q10 -14 0 -20" fill="none" stroke="#7a9e7e" stroke-width="4"/>
+  <path d="M186 112 q10 -14 0 -20" fill="none" stroke="#7a9e7e" stroke-width="4"/>
+  <path d="M206 124 q10 -14 0 -20" fill="none" stroke="#7a9e7e" stroke-width="4"/>
+  <text x="186" y="202" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">plant: grass</text>
 
-  <text x="264" y="130" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#4f6d7a">→</text>
+  <text x="241" y="130" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#4f6d7a">→</text>
 
   <!-- Rabbit -->
-  <circle cx="336" cy="120" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
-  <ellipse cx="336" cy="162" rx="24" ry="20" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
-  <ellipse cx="306" cy="96" rx="8" ry="20" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
-  <ellipse cx="366" cy="96" rx="8" ry="20" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
-  <circle cx="330" cy="116" r="3" fill="#222222"/>
-  <text x="336" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">plant-eater: rabbit</text>
+  <circle cx="310" cy="120" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <ellipse cx="310" cy="162" rx="24" ry="20" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <ellipse cx="280" cy="96" rx="8" ry="20" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <ellipse cx="340" cy="96" rx="8" ry="20" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <circle cx="304" cy="116" r="3" fill="#222222"/>
+  <text x="310" y="202" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">plant-eater:</text>
+  <text x="310" y="222" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">rabbit</text>
 
-  <text x="404" y="130" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#4f6d7a">→</text>
+  <text x="372" y="130" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#4f6d7a">→</text>
 
   <!-- Fox -->
-  <circle cx="476" cy="112" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
-  <polygon points="458,100 440,92 456,108" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
-  <polygon points="494,100 512,92 496,108" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
-  <ellipse cx="476" cy="158" rx="28" ry="22" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
-  <circle cx="470" cy="110" r="3" fill="#222222"/>
-  <text x="476" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">animal-eater: fox</text>
+  <circle cx="434" cy="112" r="18" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <polygon points="416,100 398,92 414,108" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <polygon points="452,100 470,92 454,108" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
+  <ellipse cx="434" cy="158" rx="28" ry="22" fill="#e0a458" stroke="#2b3a42" stroke-width="4"/>
+  <circle cx="428" cy="110" r="3" fill="#222222"/>
+  <text x="434" y="202" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">animal-eater:</text>
+  <text x="434" y="222" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">fox</text>
 
   <rect x="24" y="240" width="464" height="120" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
   <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Who gets energy from eating?</text>

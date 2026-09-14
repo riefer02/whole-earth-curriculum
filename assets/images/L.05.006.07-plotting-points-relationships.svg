@@ -7,7 +7,7 @@
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Plotting Points and Relationships</text>
 
   <!-- grid area -->
-  <g transform="translate(60, 60)">
+  <g transform="translate(72, 60)">
     <!-- axes -->
     <line x1="0" y1="0" x2="0" y2="300" stroke="#2b3a42" stroke-width="3"/>
     <line x1="0" y1="300" x2="360" y2="300" stroke="#2b3a42" stroke-width="3"/>
@@ -35,7 +35,7 @@
 
     <!-- axis titles -->
     <text x="180" y="352" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">x-axis (across →)</text>
-    <text x="-60" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6" transform="rotate(-90 -60 150)">y-axis (up ↑)</text>
+    <text x="-42" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6" transform="rotate(-90 -42 150)">y-axis (up ↑)</text>
 
     <!-- dashed line through points y = 2x -->
     <line x1="60" y1="240" x2="180" y2="120" stroke="#e0a458" stroke-width="3" stroke-dasharray="7 5"/>
@@ -50,9 +50,9 @@
     <text x="180" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(3,6)</text>
 
     <!-- origin marker -->
-    <text x="-8" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">origin</text>
+    <text x="0" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">origin</text>
   </g>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">as x goes up by 1, y goes up by 2 — the relationship y = 2x</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">as x goes up by 1, y goes up by 2 — the relationship y = 2x</text>
   <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"along the corridor, up the stairs" — across first, then up</text>
 </svg>

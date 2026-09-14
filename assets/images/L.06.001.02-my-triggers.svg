@@ -11,7 +11,7 @@
     <rect x="40" y="70" width="150" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="115" y="100" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">a crowded,</text>
     <text x="115" y="120" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">noisy hallway</text>
-    <text x="115" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">trigger</text>
+    <text x="115" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">trigger</text>
     <path d="M214 106 L286 106" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
     <path d="M280 100 L288 106 L280 112" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="322" cy="106" r="32" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
@@ -20,7 +20,7 @@
     <path d="M306 92 L317 98" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <path d="M338 92 L327 98" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <path d="M315 118 Q322 114 329 118" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="322" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">feeling</text>
+    <text x="322" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">feeling</text>
     <text x="322" y="154" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">overwhelmed</text>
   </g>
 

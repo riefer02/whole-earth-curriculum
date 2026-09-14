@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Empathy Is Near-Sighted</text>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Empathy Is Near-Sighted</text>
 
   <!-- Concentric circles -->
   <circle cx="256" cy="250" r="180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
@@ -17,23 +17,24 @@
   <circle cx="247" cy="246" r="2.6" fill="#2b3a42"/><circle cx="265" cy="246" r="2.6" fill="#2b3a42"/>
   <path d="M248 262 Q256 267 264 262" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
-  <!-- Ring labels -->
+  <!-- Ring labels (each sits just outside its ring) -->
   <text x="256" y="168" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">me</text>
-  <text x="256" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">family &amp; friends</text>
-  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">community</text>
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">nation</text>
+  <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">family &amp; friends</text>
+  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">community</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">nation</text>
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">all humanity</text>
 
   <!-- Widen arrow (a face + a story) -->
-  <path d="M430 120 L452 120" fill="none" stroke="#7a9e7e" stroke-width="4"/>
-  <path d="M452 120 L442 112 M452 120 L442 128" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
-  <text x="468" y="116" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a face + a story</text>
-  <text x="468" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">widen it</text>
+  <path d="M414 120 L434 120" fill="none" stroke="#7a9e7e" stroke-width="4"/>
+  <path d="M436 120 L427 115 L427 125 Z" fill="#7a9e7e"/>
+  <text x="452" y="110" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">a face + a story</text>
+  <text x="452" y="138" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">widen it</text>
 
   <!-- Narrow arrow (distance, numbers, feed) -->
-  <path d="M82 120 L60 120" fill="none" stroke="#e0a458" stroke-width="4"/>
-  <path d="M60 120 L70 112 M60 120 L70 128" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
-  <text x="40" y="116" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">distance, numbers,</text>
-  <text x="40" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">an endless feed</text>
-  <text x="40" y="148" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">narrow it</text>
+  <path d="M124 120 L102 120" fill="none" stroke="#e0a458" stroke-width="4"/>
+  <path d="M102 120 L112 112 M102 120 L112 128" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <text x="97" y="106" text-anchor="end" font-family="sans-serif" font-size="14" fill="#4f6d7a">distance,</text>
+  <text x="97" y="122" text-anchor="end" font-family="sans-serif" font-size="14" fill="#4f6d7a">numbers,</text>
+  <text x="97" y="138" text-anchor="end" font-family="sans-serif" font-size="11.3" fill="#4f6d7a">an endless feed</text>
+  <text x="97" y="154" text-anchor="end" font-family="sans-serif" font-size="14" fill="#4f6d7a">narrow it</text>
 </svg>

@@ -37,5 +37,5 @@
     <text x="60" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a" transform="rotate(-90 60 390)">BELOW</text>
   </g>
 
-  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">positive = above zero or sea level · negative = below zero or sea level</text>
+  <text x="256" y="486.4" text-anchor="middle" font-family="sans-serif" font-size="12.2" font-weight="bold" fill="#222222">positive = above zero or sea level · negative = below zero or sea level</text>
 </svg>

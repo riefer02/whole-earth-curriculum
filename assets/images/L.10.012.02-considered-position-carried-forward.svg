@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>The story continues into Grade 11</title>
-  <desc>A winding path crosses the page from a past marker on the left through a present marker in the middle to an open future marker on the right, where a small rising sun waits. A figure stands at the present, holding a rolled-up page labeled 'my considered position', about to step forward.</desc>
+  <title id="title">The story continues into Grade 11</title>
+  <desc id="desc">A winding path crosses the page from a past marker on the left through a present marker in the middle to an open future marker on the right, where a small rising sun waits. A figure stands at the present, holding a rolled-up page labeled 'my considered position', about to step forward.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- path -->
   <path d="M 40 400 C 140 400 150 320 230 300 C 310 280 320 380 470 360" fill="none" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>

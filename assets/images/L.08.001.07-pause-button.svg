@@ -6,6 +6,8 @@
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Respond, don&#8217;t react</text>
 
+  <!-- the four steps, scaled slightly so the row fits the canvas -->
+  <g transform="translate(-2.5,0) scale(0.93)">
   <!-- Step 1 -->
   <rect x="24" y="120" width="100" height="120" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="74" y="176" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">charged</text>
@@ -25,9 +27,9 @@
 
   <!-- Step 3: tools -->
   <rect x="296" y="120" width="100" height="120" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
-  <text x="346" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">breathe</text>
-  <text x="346" y="174" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">name the feeling</text>
-  <text x="346" y="198" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">count to ten</text>
+  <text x="346" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">breathe</text>
+  <text x="346" y="174" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">name the feeling</text>
+  <text x="346" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">count to ten</text>
   <text x="346" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(pick one)</text>
 
   <line x1="402" y1="180" x2="422" y2="180" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
@@ -35,13 +37,14 @@
 
   <!-- Step 4 -->
   <rect x="432" y="120" width="100" height="120" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="482" y="172" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">choose my</text>
-  <text x="482" y="194" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">response</text>
+  <text x="482" y="172" text-anchor="middle" font-family="sans-serif" font-size="11.7" font-weight="bold" fill="#2b3a42">choose my</text>
+  <text x="482" y="194" text-anchor="middle" font-family="sans-serif" font-size="13.7" font-weight="bold" fill="#2b3a42">response</text>
 
   <!-- Loop back -->
   <path d="M482 240 L482 300 Q482 318 464 318 L74 318 Q56 318 56 300 L56 246" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-dasharray="6 6"/>
   <path d="M50 250 L56 240 L62 250 Z" fill="#7a9e7e"/>
   <text x="270" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">practice makes the pause come faster</text>
+  </g>
 
   <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the impulse says &#8220;now&#8221; &#8212; the pause gives you the choice back</text>
 </svg>

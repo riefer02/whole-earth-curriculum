@@ -49,6 +49,7 @@
   <text x="398" y="304" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">463,215 &gt; 463,150</text>
   <text x="398" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">greater than</text>
 
-  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Round: find the two neighbors and the midpoint, then choose the nearer one.</text>
+  <text x="256" y="390.4" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Round: find the two neighbors and the midpoint, then choose the</text>
+  <text x="256" y="411.2" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">nearer one.</text>
   <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Compare: read the digits left to right, largest place first.</text>
 </svg>

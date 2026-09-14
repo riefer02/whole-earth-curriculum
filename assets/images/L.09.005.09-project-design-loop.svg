@@ -24,7 +24,8 @@
   <!-- Step 3: shared goal (lower right) -->
   <rect x="360" y="300" width="150" height="56" rx="12" fill="#e0a458" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>
   <text x="435" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">3</text>
-  <text x="435" y="342" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">set a shared goal</text>
+  <text x="435" y="377.1" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">set a</text>
+  <text x="435" y="401.8" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">shared goal</text>
 
   <!-- Step 4: divide roles (bottom) -->
   <rect x="166" y="382" width="180" height="56" rx="12" fill="#7a9e7e" opacity="0.28" stroke="#2b3a42" stroke-width="2"/>

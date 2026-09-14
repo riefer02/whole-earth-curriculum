@@ -31,14 +31,14 @@
   <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">strength · endurance · flexibility</text>
 
   <!-- left: play fair -->
-  <line x1="170" y1="268" x2="108" y2="268" stroke="#e0a458" stroke-width="3"/>
-  <circle cx="108" cy="268" r="6" fill="#e0a458"/>
-  <text x="92" y="258" text-anchor="end" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Play Fair</text>
-  <text x="92" y="278" text-anchor="end" font-family="sans-serif" font-size="12" fill="#4f6d7a">welcome every body</text>
+  <line x1="170" y1="268" x2="118" y2="268" stroke="#e0a458" stroke-width="3"/>
+  <circle cx="118" cy="268" r="6" fill="#e0a458"/>
+  <text x="107" y="258" text-anchor="end" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Play Fair</text>
+  <text x="107" y="278" text-anchor="end" font-family="sans-serif" font-size="10.1" fill="#4f6d7a">welcome every body</text>
 
   <!-- four lens labels in corners -->
   <text x="24" y="72" font-family="sans-serif" font-size="13" fill="#4f6d7a">ethics</text>
   <text x="452" y="72" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">egalitarianism</text>
   <text x="24" y="488" font-family="sans-serif" font-size="13" fill="#4f6d7a">global</text>
-  <text x="440" y="488" font-family="sans-serif" font-size="13" fill="#4f6d7a">technology &amp; environment</text>
+  <text x="488" y="488" text-anchor="end" font-family="sans-serif" font-size="13" fill="#4f6d7a">technology &amp; environment</text>
 </svg>

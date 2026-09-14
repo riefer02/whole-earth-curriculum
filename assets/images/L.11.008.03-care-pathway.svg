@@ -9,45 +9,54 @@
 
   <!-- Step 1: Self & home care -->
   <g>
-    <rect x="16" y="96" width="112" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-    <text x="72" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Self &amp; home</text>
-    <circle cx="72" cy="170" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M72 184 L72 210 M72 196 L58 208 M72 196 L86 208 M72 210 L58 224 M72 210 L86 224" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="72" y="256" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Rest, fluids, home remedies, daily habits</text>
+    <rect x="16" y="96" width="102" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="67" y="122" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Self &amp; home</text>
+    <circle cx="67" cy="160" r="14" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M67 174 L67 200 M67 186 L53 198 M67 186 L81 198 M67 200 L53 214 M67 200 L81 214" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="67" y="228" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">Rest, fluids,</text>
+    <text x="67" y="242" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">home remedies,</text>
+    <text x="67" y="256" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">daily habits</text>
   </g>
 
-  <text x="140" y="190" font-family="sans-serif" font-size="22" fill="#4f6d7a">→</text>
+  <text x="130" y="190" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">→</text>
 
   <!-- Step 2: Community -->
   <g>
-    <rect x="154" y="96" width="112" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-    <text x="210" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Community</text>
-    <circle cx="188" cy="170" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="232" cy="170" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="210" cy="196" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <text x="210" y="256" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Pharmacist, community health worker, traditional healer</text>
+    <rect x="142" y="96" width="102" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="193" y="122" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Community</text>
+    <circle cx="171" cy="164" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="215" cy="164" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="193" cy="188" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <text x="193" y="214" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">Pharmacist,</text>
+    <text x="193" y="228" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">community health</text>
+    <text x="193" y="242" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">worker,</text>
+    <text x="193" y="256" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">traditional healer</text>
   </g>
 
-  <text x="278" y="190" font-family="sans-serif" font-size="22" fill="#4f6d7a">→</text>
+  <text x="256" y="190" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">→</text>
 
   <!-- Step 3: Primary clinic -->
   <g>
-    <rect x="292" y="96" width="112" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-    <text x="348" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Clinic</text>
-    <circle cx="326" cy="170" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="370" cy="170" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <rect x="316" y="180" width="20" height="14" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="348" y="256" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Nurse and doctor for everyday illness</text>
+    <rect x="268" y="96" width="102" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="319" y="122" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Clinic</text>
+    <circle cx="297" cy="170" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="341" cy="170" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="287" y="180" width="20" height="14" rx="2" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="319" y="228" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">Nurse and doctor</text>
+    <text x="319" y="242" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">for everyday</text>
+    <text x="319" y="256" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">illness</text>
   </g>
 
-  <text x="416" y="190" font-family="sans-serif" font-size="22" fill="#4f6d7a">→</text>
+  <text x="382" y="190" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">→</text>
 
   <!-- Step 4: Hospital -->
   <g>
-    <rect x="428" y="96" width="68" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-    <text x="462" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Hospital</text>
-    <circle cx="462" cy="170" r="12" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="462" y="256" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Specialists for serious or rare needs</text>
+    <rect x="394" y="96" width="102" height="180" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="445" y="122" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Hospital</text>
+    <circle cx="445" cy="170" r="12" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="445" y="228" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">Specialists for</text>
+    <text x="445" y="242" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">serious or rare</text>
+    <text x="445" y="256" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">needs</text>
   </g>
 
   <rect x="16" y="300" width="480" height="96" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>

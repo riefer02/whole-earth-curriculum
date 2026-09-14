@@ -88,5 +88,5 @@
   <rect x="286" y="424" width="196" height="56" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
   <text x="384" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">draw or write here</text>
 
-  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Fairness is not one big thing — it is many small things practiced together.</text>
+  <text x="256" y="20.1" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">Fairness is not one big thing — it is many small things practiced together.</text>
 </svg>

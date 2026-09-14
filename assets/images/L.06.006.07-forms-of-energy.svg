@@ -70,6 +70,7 @@
     <rect x="0" y="0" width="150" height="180" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2" stroke-dasharray="6 4"/>
     <text x="75" y="40" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">and it changes</text>
     <path d="M45,110 Q75,60 105,110" fill="none" stroke="#2b3a42" stroke-width="3" marker-end="url(#ka)"/>
-    <text x="75" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">energy changes from one form to another</text>
+    <text x="75" y="140" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">energy changes from</text>
+    <text x="75" y="158" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">one form to another</text>
   </g>
 </svg>

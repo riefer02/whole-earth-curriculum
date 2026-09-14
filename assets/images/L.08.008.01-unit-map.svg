@@ -16,8 +16,7 @@
   <text x="135" y="224" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Goal 1</text>
   <text x="135" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Plan and prepare a</text>
   <text x="135" y="266" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">balanced meal safely</text>
-  <text x="135" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(clean, separate,</text>
-  <text x="135" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">cook, chill)</text>
+  <text x="135" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(clean, separate, cook, chill)</text>
   <rect x="44" y="322" width="182" height="116" rx="10" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
   <text x="135" y="350" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Goal 2</text>
   <text x="135" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Eating patterns</text>

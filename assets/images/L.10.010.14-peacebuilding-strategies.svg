@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Peacebuilding strategies</title>
-  <desc>Three labeled pathways — nonviolent resistance, dialogue and mediation, truth and reconciliation — converging from a conflict on the left toward a peaceful center on the right, grayscale-printable.</desc>
+  <title id="title">Peacebuilding strategies</title>
+  <desc id="desc">Three labeled pathways — nonviolent resistance, dialogue and mediation, truth and reconciliation — converging from a conflict on the left toward a peaceful center on the right, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <!-- conflict -->

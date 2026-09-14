@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Argument iceberg: the unsaid below the water</title>
-  <desc>An iceberg floating in water. Above the waterline a stated claim is written. Below the waterline several hidden assumptions are written on lines. The water is lightly shaded.</desc>
+  <title id="title">Argument iceberg: the unsaid below the water</title>
+  <desc id="desc">An iceberg floating in water. Above the waterline a stated claim is written. Below the waterline several hidden assumptions are written on lines. The water is lightly shaded.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- water -->
   <rect x="20" y="230" width="472" height="220" fill="#d9e4ec"/>

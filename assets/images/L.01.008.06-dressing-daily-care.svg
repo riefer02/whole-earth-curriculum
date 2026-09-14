@@ -59,7 +59,8 @@
     <text x="460" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">wrap / sash</text>
   </g>
 
-  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Much of the world&#8217;s clothing wraps, ties, or uses a sash or drawstring — all are honored.</text>
+  <text x="256" y="244.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Much of the world&#8217;s clothing wraps, ties, or uses a sash or</text>
+  <text x="256" y="265.6" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">drawstring — all are honored.</text>
 
   <!-- Daily routine -->
   <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">My day, in order</text>
@@ -95,6 +96,7 @@
   </g>
 
   <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Helpers, Velcro, big buttons, and extra practice are all fine.</text>
-  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Practice is how fingers grow. Caring for your body is the goal — care is never a test.</text>
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">There is no one right outfit — people dress for their own weather and their own life.</text>
+  <text x="256" y="453.8" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Practice is how fingers grow. Caring for your body is the goal — care</text>
+  <text x="256" y="473.2" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">is never a test.</text>
+  <text x="256" y="487.6" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#4f6d7a">There is no one right outfit — people dress for their own weather and their own life.</text>
 </svg>

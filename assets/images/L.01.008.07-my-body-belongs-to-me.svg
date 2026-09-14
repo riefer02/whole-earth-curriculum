@@ -38,23 +38,24 @@
 
   <!-- Speech bubble (right): tell a trusted adult -->
   <g>
-    <path d="M424 172 Q424 156 446 156 L496 156 Q516 156 516 172 L516 196 Q516 212 496 212 L470 212 L460 228 L460 212 Q424 212 424 196 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="470" y="186" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">tell a trusted</text>
-    <text x="470" y="204" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">adult</text>
+    <path d="M384 172 Q384 156 406 156 L474 156 Q496 156 496 172 L496 196 Q496 212 474 212 L430 212 L420 228 L420 212 Q384 212 384 196 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="440" y="186" text-anchor="middle" font-family="sans-serif" font-size="14.5" font-weight="bold" fill="#222222">tell a trusted</text>
+    <text x="440" y="204" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">adult</text>
   </g>
 
   <!-- Yes / stop card (bottom) -->
   <g>
-    <rect x="156" y="368" width="200" height="96" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
-    <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my yes / stop card</text>
+    <rect x="156" y="364" width="200" height="100" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my yes / stop card</text>
     <!-- yes -->
-    <circle cx="206" cy="432" r="20" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M196 432 l7 7 l14 -14" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="206" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">yes</text>
+    <circle cx="206" cy="424" r="18" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M198 424 l6 6 l12 -12" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="206" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">yes</text>
     <!-- stop -->
-    <path d="M306 416 L306 428 L296 434 L296 426 L290 430 L292 420 L302 417 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="306" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">stop</text>
+    <path d="M306 406 L306 418 L296 424 L296 416 L290 420 L292 410 L302 407 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="306" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">stop</text>
   </g>
 
-  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">My body belongs to me. My no matters. I can always tell a trusted adult.</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">My body belongs to me. My no matters. I can always tell a</text>
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">trusted adult.</text>
 </svg>

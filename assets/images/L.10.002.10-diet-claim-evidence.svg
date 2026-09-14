@@ -8,50 +8,50 @@
 
   <!-- Checklist -->
   <g>
-    <rect x="40" y="70" width="300" height="380" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <rect x="32" y="70" width="264" height="380" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
 
     <!-- Box 1 -->
-    <rect x="58" y="88" width="22" height="22" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <text x="92" y="104" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">What does it promise?</text>
-    <text x="92" y="124" font-family="sans-serif" font-size="13" fill="#4f6d7a">"fast," "detox," "reset"</text>
+    <rect x="48" y="88" width="22" height="22" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="82" y="104" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">What does it promise?</text>
+    <text x="82" y="124" font-family="sans-serif" font-size="13" fill="#4f6d7a">"fast," "detox," "reset"</text>
 
     <!-- Box 2 -->
-    <rect x="58" y="168" width="22" height="22" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <text x="92" y="184" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">What evidence backs it?</text>
-    <text x="92" y="204" font-family="sans-serif" font-size="13" fill="#4f6d7a">anecdote? trial? review?</text>
+    <rect x="48" y="168" width="22" height="22" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="82" y="184" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">What evidence backs it?</text>
+    <text x="82" y="204" font-family="sans-serif" font-size="13" fill="#4f6d7a">anecdote? trial? review?</text>
 
     <!-- Box 3 -->
-    <rect x="58" y="248" width="22" height="22" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <text x="92" y="264" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Who benefits?</text>
-    <text x="92" y="284" font-family="sans-serif" font-size="13" fill="#4f6d7a">the seller? or your health?</text>
+    <rect x="48" y="248" width="22" height="22" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="82" y="264" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Who benefits?</text>
+    <text x="82" y="284" font-family="sans-serif" font-size="13" fill="#4f6d7a">the seller? or your health?</text>
 
     <!-- Box 4 -->
-    <rect x="58" y="328" width="22" height="22" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <text x="92" y="344" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">What does it leave out?</text>
-    <text x="92" y="364" font-family="sans-serif" font-size="13" fill="#4f6d7a">cost, culture, harm</text>
+    <rect x="48" y="328" width="22" height="22" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="82" y="344" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">What does it leave out?</text>
+    <text x="82" y="364" font-family="sans-serif" font-size="13" fill="#4f6d7a">cost, culture, harm</text>
 
-    <text x="190" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Judge claims — never bodies.</text>
+    <text x="164" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Judge claims — never bodies.</text>
   </g>
 
   <!-- Plate of varied foods -->
   <g>
-    <circle cx="412" cy="250" r="120" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
-    <circle cx="412" cy="250" r="96" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+    <circle cx="400" cy="250" r="96" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="400" cy="250" r="78" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
 
     <!-- grains -->
-    <ellipse cx="382" cy="210" rx="26" ry="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="376" cy="218" rx="21" ry="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <!-- greens -->
-    <path d="M440 200 Q452 190 462 200 Q452 212 440 200 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M432 214 Q446 206 456 214 Q446 224 432 214 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M422 210 Q432 202 440 210 Q432 220 422 210 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M416 221 Q427 215 435 221 Q427 229 416 221 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <!-- legumes -->
-    <circle cx="392" cy="270" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="408" cy="276" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="396" cy="286" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="384" cy="266" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="397" cy="271" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="387" cy="279" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <!-- fruit -->
-    <circle cx="446" cy="280" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M446 262 Q448 256 452 258" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="427" cy="274" r="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M427 260 Q429 255 432 256" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-linecap="round"/>
 
-    <text x="412" y="400" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">whole, diverse eating</text>
+    <text x="400" y="382" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">whole, diverse eating</text>
   </g>
 
   <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A body is a home to be fed — never a problem to be solved.</text>

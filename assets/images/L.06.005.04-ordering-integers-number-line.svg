@@ -43,8 +43,8 @@
     <text x="200" y="-30" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">-1</text>
     <text x="360" y="-30" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">3</text>
 
-    <text x="20" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">negative (left of 0)</text>
-    <text x="420" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e">positive (right of 0)</text>
+    <text x="120" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">negative (left of 0)</text>
+    <text x="340" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e">positive (right of 0)</text>
   </g>
 
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">-4 &lt; -1 &lt; 0 &lt; 3</text>

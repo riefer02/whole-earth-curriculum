@@ -32,7 +32,8 @@
     <line x1="270" y1="178" x2="270" y2="212"/>
   </g>
   <line x1="90" y1="196" x2="270" y2="196" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
-  <text x="286" y="202" font-family="sans-serif" font-size="14" fill="#4f6d7a">nearest 10 cm — good for fitting a desk</text>
+  <text x="286" y="205.1" font-family="sans-serif" font-size="14" fill="#4f6d7a">nearest 10 cm — good for</text>
+  <text x="286" y="223.3" font-family="sans-serif" font-size="14" fill="#4f6d7a">fitting a desk</text>
 
   <!-- row 3 -->
   <text x="46" y="266" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1.83 m</text>
@@ -59,13 +60,14 @@
     <line x1="280" y1="258" x2="280" y2="292"/>
   </g>
   <line x1="90" y1="276" x2="280" y2="276" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
-  <text x="296" y="282" font-family="sans-serif" font-size="14" fill="#4f6d7a">nearest cm — good for a precise cut</text>
+  <text x="296" y="277.9" font-family="sans-serif" font-size="14" fill="#4f6d7a">nearest cm — good for a</text>
+  <text x="296" y="296.1" font-family="sans-serif" font-size="14" fill="#4f6d7a">precise cut</text>
 
   <!-- takeaway -->
   <rect x="36" y="324" width="440" height="150" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
   <text x="52" y="354" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Report only as many digits as your tool honestly gives you.</text>
   <text x="52" y="380" font-family="sans-serif" font-size="14" fill="#222222">· precision = how fine the markings are</text>
   <text x="52" y="402" font-family="sans-serif" font-size="14" fill="#222222">· accuracy = how close to the true value</text>
-  <text x="52" y="430" font-family="sans-serif" font-size="14" fill="#4f6d7a">A calculator printing eight digits is not "more accurate" — it is echoing noise.</text>
+  <text x="52" y="428.3" font-family="sans-serif" font-size="12.3" fill="#4f6d7a">A calculator printing eight digits is not "more accurate" — it is echoing noise.</text>
   <text x="52" y="454" font-family="sans-serif" font-size="14" fill="#4f6d7a">Over-precision is a kind of dishonesty.</text>
 </svg>

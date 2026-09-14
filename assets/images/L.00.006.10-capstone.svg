@@ -47,5 +47,6 @@
   <text x="372" y="406" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">shape</text>
   <text x="372" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">circle, square, triangle, rectangle</text>
 
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Count it, sort it, pattern it, name the shapes — math helps you see your world.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Count it, sort it, pattern it, name the shapes — math helps you</text>
+  <text x="256" y="504.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">see your world.</text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Who bears the climate burden</title>
-  <desc>On the left, tall smokestacks of high-emitting places. On the right, low-lying and exposed communities with floods, heat, and drought. Arrows of responsibility run from left to right, grayscale-printable.</desc>
+  <title id="title">Who bears the climate burden</title>
+  <desc id="desc">On the left, tall smokestacks of high-emitting places. On the right, low-lying and exposed communities with floods, heat, and drought. Arrows of responsibility run from left to right, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <text x="130" y="36" font-size="15" font-weight="bold" fill="#2b3a42">who emitted most</text>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title>Reproductive anatomy, accurately named</title>
-  <desc>Two clean, labeled line diagrams side by side. Left: a body with a uterus, showing two ovaries, two fallopian tubes, the uterus, the cervix, and the vagina, with a small inset of the external vulva (clitoris, labia, urethral opening, vaginal opening). Right: a body with testes, showing the bladder, vas deferens, prostate, urethra, penis, epididymis, and testes inside the scrotum. Each part is labeled with a short plain-language job. Bodies vary widely; these are simplified drawings, not a "normal" body to compare against.</desc>
+  <title id="title">Reproductive anatomy, accurately named</title>
+  <desc id="desc">Two clean, labeled line diagrams side by side. Left: a body with a uterus, showing two ovaries, two fallopian tubes, the uterus, the cervix, and the vagina, with a small inset of the external vulva (clitoris, labia, urethral opening, vaginal opening). Right: a body with testes, showing the bladder, vas deferens, prostate, urethra, penis, epididymis, and testes inside the scrotum. Each part is labeled with a short plain-language job. Bodies vary widely; these are simplified drawings, not a "normal" body to compare against.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <!-- Title -->
@@ -41,16 +41,16 @@
   <line x1="222" y1="312" x2="166" y2="310" stroke="#4f6d7a" stroke-width="2"/>
 
   <!-- Vulva inset -->
-  <rect x="40" y="398" width="210" height="100" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
-  <text x="145" y="420" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#2b3a42">vulva (external)</text>
-  <circle cx="128" cy="442" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="142" y="446" font-family="system-ui, sans-serif" font-size="14" fill="#222222">clitoris</text>
-  <circle cx="128" cy="462" r="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="142" y="466" font-family="system-ui, sans-serif" font-size="14" fill="#222222">urethral opening</text>
-  <ellipse cx="128" cy="484" rx="6" ry="8" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="142" y="489" font-family="system-ui, sans-serif" font-size="14" fill="#222222">vaginal opening</text>
-  <path d="M 112 434 C 108 452 108 476 114 490 M 144 434 C 148 452 148 476 142 490" fill="none" stroke="#7a9e7e" stroke-width="2"/>
-  <text x="196" y="470" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">labia</text>
+  <rect x="40" y="384" width="210" height="100" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="145" y="406" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#2b3a42">vulva (external)</text>
+  <circle cx="128" cy="428" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="142" y="432" font-family="system-ui, sans-serif" font-size="14" fill="#222222">clitoris</text>
+  <circle cx="128" cy="448" r="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="142" y="452" font-family="system-ui, sans-serif" font-size="14" fill="#222222">urethral opening</text>
+  <ellipse cx="128" cy="470" rx="6" ry="8" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="142" y="475" font-family="system-ui, sans-serif" font-size="14" fill="#222222">vaginal opening</text>
+  <path d="M 112 420 C 108 438 108 462 114 476 M 144 420 C 148 438 148 462 142 476" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="210" y="420" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">labia</text>
 
   <!-- ================= RIGHT PANEL: testes system ================= -->
   <text x="362" y="70" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#2b3a42">A body with testes</text>

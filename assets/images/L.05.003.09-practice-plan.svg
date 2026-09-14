@@ -32,5 +32,6 @@
   <text x="150" y="400" font-family="sans-serif" font-size="18" fill="#222222">heart-pumping walk or dance (two minutes)</text>
   <text x="150" y="426" font-family="sans-serif" font-size="18" fill="#2b3a42">cool down: slow breathing</text>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Mix a practiced skill with heart-pumping movement — every day begins and ends with care.</text>
+  <text x="256" y="481.1" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Mix a practiced skill with heart-pumping movement — every</text>
+  <text x="256" y="503.2" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">day begins and ends with care.</text>
 </svg>

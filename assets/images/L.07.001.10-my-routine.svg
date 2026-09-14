@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">My daily routine: study, sleep, movement</title>
-  <desc id="desc">A 24-hour wheel divided into labeled segments. A large SLEEP segment reads "about 8–10 hours." A STUDY segment reads "with breaks." A MOVEMENT segment reads "daily." A MEALS & REST segment completes the circle. Around the outside, a line reads "each block serves my goal." A caption below reads "Small, repeated actions add up to the life I want." Meaning is carried by labels and segment position, not color, so it prints clearly in grayscale.</desc>
+  <desc id="desc">A 24-hour wheel divided into labeled segments. A large SLEEP segment reads "about 8–10 hours." A STUDY segment reads "with breaks." A MOVEMENT segment reads "daily." A MEALS &amp; REST segment completes the circle. Around the outside, a line reads "each block serves my goal." A caption below reads "Small, repeated actions add up to the life I want." Meaning is carried by labels and segment position, not color, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -28,7 +28,7 @@
   <!-- MEALS & REST (bottom) -->
   <path d="M256 302 L164 274 A112 112 0 0 1 145 145 L256 190 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="176" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">MEALS</text>
-  <text x="176" y="290" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">& REST</text>
+  <text x="176" y="290" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">&amp; REST</text>
 
   <!-- Center hub -->
   <circle cx="256" cy="190" r="34" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>

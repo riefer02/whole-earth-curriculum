@@ -47,5 +47,5 @@
   <!-- Rising trend arrow -->
   <path d="M420 420 Q430 250 460 120" fill="none" stroke="#6b93b6" stroke-width="3" stroke-dasharray="6 5"/>
   <path d="M452 128 L460 112 L470 130" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="470" y="150" font-family="sans-serif" font-size="14" fill="#6b93b6">progress</text>
+  <text x="470" y="150" font-family="sans-serif" font-size="10.7" fill="#6b93b6">progress</text>
 </svg>

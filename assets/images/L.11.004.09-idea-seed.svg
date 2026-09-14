@@ -7,7 +7,7 @@
 
   <!-- Ground -->
   <line x1="40" y1="400" x2="472" y2="400" stroke="#7a9e7e" stroke-width="3"/>
-  <path d="M40 400 q40 -14 80 0 t80 0 t80 0 t80 0 t80 0 t80 0 t12 0" fill="none" stroke="#7a9e7e" stroke-width="2"/>
+  <path d="M40 400 q36 -14 72 0 t72 0 t72 0 t72 0 t72 0 t72 0" fill="none" stroke="#7a9e7e" stroke-width="2"/>
 
   <!-- Seed -->
   <ellipse cx="256" cy="410" rx="16" ry="11" fill="#8a6d4a" stroke="#2b3a42" stroke-width="2"/>

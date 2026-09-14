@@ -5,7 +5,7 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Polygons on the Coordinate Plane: Position</text>
-  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">vertices are named by ordered pairs; the axes split the plane into four quadrants</text>
+  <text x="256" y="56.6" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#4f6d7a">vertices are named by ordered pairs; the axes split the plane into four quadrants</text>
 
   <g transform="translate(70, 60)">
     <line x1="0" y1="0" x2="0" y2="360" stroke="#2b3a42" stroke-width="3"/>

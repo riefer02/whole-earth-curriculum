@@ -49,6 +49,7 @@
   <text x="417" y="224" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">space for my body</text>
 
   <!-- 4. my name said kindly: name tag + smile -->
+  <g transform="translate(0,162)">
   <rect x="55" y="132" width="80" height="34" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <line x1="66" y1="144" x2="124" y2="144" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <line x1="66" y1="154" x2="112" y2="154" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
@@ -56,8 +57,10 @@
   <circle cx="80" cy="180" r="2.5" fill="#2b3a42"/>
   <circle cx="110" cy="180" r="2.5" fill="#2b3a42"/>
   <text x="95" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">my name, said kindly</text>
+  </g>
 
   <!-- 5. no one hurting me: open hand + heart -->
+  <g transform="translate(0,162)">
   <g fill="#f5d6b6" stroke="#2b3a42" stroke-width="2">
     <rect x="238" y="142" width="12" height="16" rx="5"/>
     <rect x="252" y="136" width="12" height="22" rx="5"/>
@@ -67,6 +70,7 @@
   <rect x="246" y="156" width="40" height="20" rx="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
   <path d="M266 186 C262 182 256 182 254 186 C252 190 254 193 266 200 C278 193 280 190 278 186 C276 182 270 182 266 186 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <text x="266" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">no one hurting me</text>
+  </g>
 
   <!-- 6. a turn to speak: wheelchair user raising hand + turn marker -->
   <circle cx="404" cy="306" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>

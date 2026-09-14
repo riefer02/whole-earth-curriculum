@@ -58,6 +58,6 @@
   <!-- legend -->
   <rect x="30" y="428" width="452" height="74" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
   <text x="44" y="450" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Two ways to prove congruence:</text>
-  <text x="44" y="472" font-family="sans-serif" font-size="13" fill="#222222">· a single translation (6, 2) maps A onto B — (0,0)→(6,2), (4,0)→(10,2), (0,3)→(6,5), or</text>
+  <text x="44" y="472.3" font-family="sans-serif" font-size="10.9" fill="#222222">· a single translation (6, 2) maps A onto B — (0,0)→(6,2), (4,0)→(10,2), (0,3)→(6,5), or</text>
   <text x="44" y="494" font-family="sans-serif" font-size="13" fill="#222222">· the distance formula shows each matching side is equal (4, 3, 5).</text>
 </svg>
