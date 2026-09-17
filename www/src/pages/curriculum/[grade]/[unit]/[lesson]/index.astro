@@ -12,6 +12,7 @@ import { lessonsByUnit } from '../../../../../lib/data';
 import { gradeValue, pillarValue } from '../../../../../lib/filters';
 import { pad2 } from '../../../../../lib/taxonomy';
 import { metaDescription, breadcrumbJsonLd, toIsoDate } from '../../../../../lib/seo';
+import { svgSize } from '../../../../../lib/svgSize';
 
 export async function getStaticPaths() {
   const lessons = await getCollection('lessons');
@@ -64,7 +65,11 @@ const pagefindFilters = [
 ];
 
 const assets = lessonEntry.data.assets ?? [];
-const images = assets.filter((a) => (a.kind ?? 'image') === 'image');
+const images = await Promise.all(
+  assets
+    .filter((a) => (a.kind ?? 'image') === 'image' && a.path)
+    .map(async (a) => ({ ...a, path: a.path as string, size: await svgSize(a.path as string) })),
+);
 const otherAssets = assets.filter((a) => (a.kind ?? 'image') !== 'image');
 
 const materialTiers = [
@@ -233,7 +238,14 @@ const feedbackUrl =
         <div style="margin: 1rem 0; display: grid; gap: 1rem">
           {images.map((a) => (
             <figure style="margin:0">
-              <img src={`/${a.path}`} alt={a.alt ?? ''} loading="lazy" />
+              <img
+                src={`/${a.path}`}
+                alt={a.alt ?? ''}
+                width={a.size.width}
+                height={a.size.height}
+                loading="lazy"
+                decoding="async"
+              />
               {a.alt && <figcaption class="card__meta">{a.alt}</figcaption>}
             </figure>
           ))}
@@ -262,7 +274,7 @@ const feedbackUrl =
       <Content />
     </div>
 
-    <nav class="prevnext" aria-label={ui.common.lessons}>
+    <nav class="prevnext" aria-label={ui.common.lessons} data-pagefind-ignore>
       {prevLesson ? (
         <a class="prevnext__link prevnext__link--prev" href={lessonPath(prevLesson.data.id ?? '')}>
           <span class="prevnext__dir">← {ui.common.previous}</span>

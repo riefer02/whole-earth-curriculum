@@ -10,7 +10,7 @@ interface Props {
 const { source = '[data-content]' } = Astro.props;
 ---
 
-<nav class="toc" data-toc data-source={source} aria-label={ui.common.onThisPage}>
+<nav class="toc" data-toc data-source={source} aria-label={ui.common.onThisPage} data-pagefind-ignore>
   <p class="toc__title">{ui.common.onThisPage}</p>
   <ul class="toc__list"></ul>
 </nav>

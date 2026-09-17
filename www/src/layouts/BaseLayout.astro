@@ -235,7 +235,9 @@ const footerNavItems = [
         </div>
       </div>
     </header>
-    <main id="main" class="site-main">
+    <!-- data-pagefind-body scopes the search index to page content, so the
+         header, footer and action buttons stop polluting search excerpts. -->
+    <main id="main" class="site-main" data-pagefind-body>
       <slot />
     </main>
     <footer class="site-footer">
