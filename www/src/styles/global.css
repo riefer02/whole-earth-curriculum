@@ -352,7 +352,7 @@ li {
   font-size: 0.85rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: var(--accent-warm);
+  color: var(--accent-warm-text);
 }
 
 .hero__title {
@@ -919,8 +919,8 @@ li {
 .badge--pillar-P4 { color: var(--pillar-4-text); }
 
 .badge--status-draft { color: var(--secondary); }
-.badge--status-review { color: var(--accent-warm); }
-.badge--status-approved { color: var(--accent-green); }
+.badge--status-review { color: var(--accent-warm-text); }
+.badge--status-approved { color: var(--accent-green-text); }
 
 .badge-row {
   display: flex;
@@ -1425,7 +1425,7 @@ html[data-show-ids='on'] .id {
 
 .search-result__title mark {
   background: var(--accent-warm);
-  color: var(--text);
+  color: var(--mark-text);
   padding: 0 0.1rem;
   border-radius: 2px;
 }
@@ -1439,7 +1439,7 @@ html[data-show-ids='on'] .id {
 
 .search-result__excerpt mark {
   background: var(--accent-warm);
-  color: var(--text);
+  color: var(--mark-text);
   padding: 0 0.1rem;
   border-radius: 2px;
 }

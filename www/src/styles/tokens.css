@@ -28,9 +28,16 @@
   --accent-green: #7a9e7e;
   --accent-blue: #6b93b6;
 
+  /* Color — brand text variants (AA-safe on paper/paper-soft). The raw accents
+     above are decorative and fall short of 4.5:1 as text, so body/badge text
+     uses these darker variants instead. */
+  --accent-warm-text: #8f5b14;
+  --accent-green-text: #3a6b52;
+  --mark-text: #1f1a13;      /* search-highlight text (dark on amber in both themes) */
+
   /* Color — structure */
   --border: #e6e0d3;
-  --focus: #e0a458;
+  --focus: #9c6619;          /* >=3:1 on paper so the focus ring stays visible */
 
   /* Color — pillars (decorative) + their AA-safe text variants */
   --pillar-1: #c98a5a;
@@ -86,6 +93,8 @@
   --accent-warm: #e2a65c;
   --accent-green: #8fb697;
   --accent-blue: #82a6c7;
+  --accent-warm-text: #e2a65c;
+  --accent-green-text: #8fb697;
 
   --border: #333a41;
   --focus: #e2a65c;
@@ -119,5 +128,7 @@
     --pillar-2-text: #000000;
     --pillar-3-text: #000000;
     --pillar-4-text: #000000;
+    --accent-warm-text: #000000;
+    --accent-green-text: #000000;
   }
 }

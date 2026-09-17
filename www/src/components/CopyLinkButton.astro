@@ -24,6 +24,7 @@ import { ui } from '../i18n';
     <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
   </svg>
   <span data-copy-text>{ui.common.copyLink}</span>
+  <span class="sr-only" data-copy-status aria-live="polite"></span>
 </button>
 
 <script>
@@ -33,6 +34,7 @@ import { ui } from '../i18n';
     if (!btn) return;
 
     const labelEl = btn.querySelector('[data-copy-text]');
+    const statusEl = btn.querySelector('[data-copy-status]');
     const copyLabel = btn.dataset.copyLabel ?? 'Copy link';
     const copiedLabel = btn.dataset.copiedLabel ?? 'Copied';
     const url = window.location.href;
@@ -62,12 +64,12 @@ import { ui } from '../i18n';
     if (!(await writeToClipboard())) return;
 
     if (labelEl) labelEl.textContent = copiedLabel;
-    btn.setAttribute('aria-label', copiedLabel);
+    if (statusEl) statusEl.textContent = copiedLabel;
     btn.classList.add('is-copied');
 
     window.setTimeout(() => {
       if (labelEl) labelEl.textContent = copyLabel;
-      btn.setAttribute('aria-label', copyLabel);
+      if (statusEl) statusEl.textContent = '';
       btn.classList.remove('is-copied');
     }, 1500);
   });
