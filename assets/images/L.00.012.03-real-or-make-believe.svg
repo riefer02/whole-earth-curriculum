@@ -59,7 +59,7 @@
     <!-- wings -->
     <path d="M344 206 Q330 192 340 180 Q348 190 352 196" fill="#8fb0cc" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
     <!-- tail -->
-    <path d="M340 226 Q324 232 330 244" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M340 226 Q326 230 332 238" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
     <!-- breath: a small heart -->
     <path d="M398 214 C394 206 388 208 388 213 C388 218 392 220 398 225 C404 220 408 218 408 213 C408 208 402 206 398 214 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   </g>
