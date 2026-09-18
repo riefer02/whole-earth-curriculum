@@ -29,7 +29,7 @@
 
   <!-- sound lines + clear -->
   <path d="M214 168 Q226 156 214 146 M226 172 Q238 160 226 148 M238 176 Q250 164 238 152" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" fill="none"/>
-  <text x="238" y="188" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">clear</text>
+  <text x="238" y="198" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">clear</text>
 
   <!-- Listener (right) -->
   <g>
@@ -52,12 +52,12 @@
   <path d="M150 452 L150 440 Q150 432 158 432 L170 432" fill="none" stroke="#c99567" stroke-width="4" stroke-linecap="round"/>
   <circle cx="150" cy="456" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
 
-  <path d="M250 402 Q250 392 260 392 L300 392 Q310 392 310 402 L310 418 Q310 428 300 428 L268 428 L262 436 L264 428 L260 428 Q250 428 250 418 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="280" y="415" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">the words</text>
+  <path d="M238 402 Q238 392 254 392 L326 392 Q342 392 342 402 L342 418 Q342 428 326 428 L294 428 L288 436 L290 428 L254 428 Q238 428 238 418 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="290" y="415" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">the words</text>
 
-  <text x="390" y="414" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">sign, point, or use</text>
-  <text x="390" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a device — that is</text>
-  <text x="390" y="454" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">reading aloud too</text>
+  <text x="410" y="414" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">sign, point, or use</text>
+  <text x="410" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a device — that is</text>
+  <text x="410" y="454" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">reading aloud too</text>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Read clearly enough for a listener to follow every word.</text>
 </svg>

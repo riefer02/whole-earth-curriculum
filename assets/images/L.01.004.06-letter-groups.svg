@@ -21,7 +21,7 @@
 
   <rect x="360" y="120" width="92" height="64" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <text x="406" y="164" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">one</text>
-  <text x="406" y="188" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">chunk</text>
+  <text x="406" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">chunk</text>
 
   <!-- Bottom panel: syllable block -->
   <rect x="16" y="262" width="480" height="170" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>

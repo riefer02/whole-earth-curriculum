@@ -29,10 +29,10 @@
   <path d="M256 232 Q244 224 236 232 Q240 240 256 244 Q272 240 276 232 Q268 224 256 232 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <path d="M256 244 Q248 238 240 244 Q244 250 256 252 Q268 250 272 244 Q264 238 256 244 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
 
-  <path d="M302 232 L322 216 L322 232 L342 216" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M302 240 Q298 246 300 252 M306 240 Q310 246 308 252" fill="none" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="320" cy="210" r="3" fill="#6b93b6"/>
-  <circle cx="336" cy="206" r="3" fill="#6b93b6"/>
+  <path d="M282 232 L302 216 L302 232 L322 216" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M282 240 Q278 246 280 252 M286 240 Q290 246 288 252" fill="none" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="300" cy="210" r="3" fill="#6b93b6"/>
+  <circle cx="316" cy="206" r="3" fill="#6b93b6"/>
 
   <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a sprout, watered</text>
 

@@ -11,8 +11,8 @@
   <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">the story</text>
 
   <!-- pond -->
-  <ellipse cx="396" cy="160" rx="62" ry="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M368 158 Q382 152 396 158 Q410 164 424 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="396" cy="156" rx="62" ry="18" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M368 154 Q382 148 396 154 Q410 160 424 154" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
   <!-- bird -->
   <g>
@@ -23,7 +23,7 @@
     <path d="M132 146 Q134 152 128 158 M136 152 Q138 156 136 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   </g>
   <text x="140" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a little bird</text>
-  <text x="396" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a pond</text>
+  <text x="396" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a pond</text>
 
   <!-- Three question-and-answer cards -->
   <g>

@@ -31,7 +31,7 @@
   <line x1="216" y1="158" x2="296" y2="158" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
   <line x1="216" y1="176" x2="296" y2="176" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
   <line x1="216" y1="194" x2="296" y2="194" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
-  <text x="256" y="190" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">I see a bird.</text>
+  <text x="256" y="190" text-anchor="middle" font-family="'DejaVu Sans', 'Noto Sans', 'Arial Unicode MS', sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">I see a bird.</text>
 
   <path d="M244 246 L260 262 L292 230 L276 214 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <path d="M260 262 L272 278" fill="#2b3a42"/>
@@ -39,7 +39,7 @@
   <path d="M290 200 L292 202 L288 206 Z" fill="#2b3a42"/>
 
   <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">open with a capital,</text>
-  <text x="256" y="324" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">close with an end mark</text>
+  <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">close with an end mark</text>
 
   <!-- Arrow -->
   <path d="M337 205 L357 205" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
