@@ -17,7 +17,7 @@
 
   <path d="M 382 140 L 382 200 M 442 140 L 442 200" stroke="#2b3a42" stroke-width="3"/>
   <path d="M 372 200 C 372 226, 452 226, 452 200" fill="none" stroke="#2b3a42" stroke-width="3"/>
-  <text x="412" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458" font-weight="bold">Risk</text>
+  <text x="412" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#8a5a1a" font-weight="bold">Risk</text>
 
   <!-- promise list -->
   <text x="100" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">light</text>

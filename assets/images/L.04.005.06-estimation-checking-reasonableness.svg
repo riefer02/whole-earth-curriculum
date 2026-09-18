@@ -27,7 +27,7 @@
 
   <!-- Step 3 -->
   <rect x="362" y="96" width="120" height="150" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
-  <text x="422" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">Step 3 — Judge</text>
+  <text x="422" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">Step 3 — Judge</text>
   <text x="422" y="158" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">exact</text>
   <text x="422" y="184" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">2,856</text>
   <text x="422" y="218" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">close ✓</text>

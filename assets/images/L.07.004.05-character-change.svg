@@ -25,7 +25,7 @@
   <!-- Arrow -->
   <path d="M238 230 L274 230" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   <path d="M264 222 L274 230 L264 238" fill="none" stroke="#2b3a42" stroke-width="3"/>
-  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">the change</text>
+  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">the change</text>
 
   <!-- Right panel: content -->
   <g>

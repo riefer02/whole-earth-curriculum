@@ -14,7 +14,7 @@
   <text x="192" y="70" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Im</text>
 
   <!-- Point a + bi -->
-  <text x="270" y="214" font-family="sans-serif" font-size="16" fill="#e0a458" font-weight="bold">a + bi</text>
+  <text x="270" y="214" font-family="sans-serif" font-size="16" fill="#8a5a1a" font-weight="bold">a + bi</text>
   <circle cx="252" cy="196" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <line x1="180" y1="196" x2="252" y2="196" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4,4"/>
   <line x1="252" y1="260" x2="252" y2="196" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4,4"/>

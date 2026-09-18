@@ -12,7 +12,7 @@
     <!-- labels -->
     <text x="256" y="184" font-size="13" fill="#222222">intended effect</text>
     <text x="256" y="120" font-size="13" fill="#4f6d7a">second-order effect</text>
-    <text x="256" y="62" font-size="13" fill="#e0a458">unintended effect</text>
+    <text x="256" y="62" font-size="13" fill="#8a5a1a">unintended effect</text>
     <text x="256" y="480" font-size="13.1" fill="#222222">every action drops a stone in water</text>
   </g>
 </svg>

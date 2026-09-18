@@ -30,7 +30,7 @@
   <ellipse cx="380" cy="252" rx="16" ry="8" fill="#cfe0cf" stroke="#2b3a42" stroke-width="2"/>
   <text x="382" y="306" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">later</text>
 
-  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">which weighs more for me?</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#8a5a1a">which weighs more for me?</text>
 
   <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a good decision listens to both the now and the later</text>
 </svg>

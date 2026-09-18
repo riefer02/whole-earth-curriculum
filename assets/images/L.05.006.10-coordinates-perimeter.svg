@@ -38,8 +38,8 @@
     <text x="300" y="56" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(5,4)</text>
     <text x="60" y="56" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(1,4)</text>
 
-    <text x="180" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#7a9e7e">width = 4</text>
-    <text x="-28" y="162" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#7a9e7e" transform="rotate(-90 -28 162)">height = 3</text>
+    <text x="180" y="282" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#436b47">width = 4</text>
+    <text x="-28" y="162" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#436b47" transform="rotate(-90 -28 162)">height = 3</text>
 
     <!-- dashed path (1,1) to (5,4) -->
     <path d="M 60 260 L 300 260 L 300 65" fill="none" stroke="#e0a458" stroke-width="3" stroke-dasharray="8 6"/>

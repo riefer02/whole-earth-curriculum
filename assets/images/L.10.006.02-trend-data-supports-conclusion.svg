@@ -18,7 +18,7 @@
   <circle cx="180" cy="170" r="6" fill="#6b93b6"/>
   <circle cx="200" cy="140" r="6" fill="#6b93b6"/>
   <text x="130" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Points hug the line</text>
-  <text x="130" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e" font-weight="bold">Strong support</text>
+  <text x="130" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#436b47" font-weight="bold">Strong support</text>
 
   <!-- Right plot: noisy, weak -->
   <text x="386" y="66" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Noisy / weak</text>
@@ -34,7 +34,7 @@
   <circle cx="430" cy="200" r="6" fill="#6b93b6"/>
   <circle cx="450" cy="280" r="6" fill="#6b93b6"/>
   <text x="386" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Points scatter widely</text>
-  <text x="386" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458" font-weight="bold">Weak support</text>
+  <text x="386" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a5a1a" font-weight="bold">Weak support</text>
 
   <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Check: direction, tightness, sample size — and whether the claim overreaches.</text>
   <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Correlation is not causation.</text>

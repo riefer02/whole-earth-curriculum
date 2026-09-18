@@ -22,7 +22,7 @@
 
   <!-- loop back -->
   <path d="M 192 272 L 96 272 L 96 132 L 162 132" fill="none" stroke="#e0a458" stroke-width="2"/>
-  <text x="100" y="206" font-family="sans-serif" font-size="13" fill="#e0a458">yes</text>
+  <text x="100" y="206" font-family="sans-serif" font-size="13" fill="#8a5a1a">yes</text>
 
   <!-- output -->
   <path d="M 256 302 L 256 328" stroke="#2b3a42" stroke-width="2"/>

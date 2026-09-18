@@ -14,25 +14,25 @@
 
   <!-- alternate interior angles arcs -->
   <path d="M 170 120 A 22 22 0 0 0 148 138" fill="none" stroke="#e0a458" stroke-width="2.5"/>
-  <text x="138" y="120" font-family="sans-serif" font-size="13" fill="#e0a458">a</text>
+  <text x="138" y="120" font-family="sans-serif" font-size="13" fill="#8a5a1a">a</text>
   <path d="M 186 220 A 22 22 0 0 1 164 202" fill="none" stroke="#e0a458" stroke-width="2.5"/>
-  <text x="196" y="214" font-family="sans-serif" font-size="13" fill="#e0a458">a</text>
+  <text x="196" y="214" font-family="sans-serif" font-size="13" fill="#8a5a1a">a</text>
   <text x="36" y="300" font-family="sans-serif" font-size="13" fill="#2b3a42">alternate interior angles are equal</text>
 
   <!-- vertical angles marker -->
   <path d="M 150 120 A 18 18 0 0 1 168 138" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
-  <text x="124" y="150" font-family="sans-serif" font-size="13" fill="#6b93b6">b</text>
+  <text x="124" y="150" font-family="sans-serif" font-size="13" fill="#375f7d">b</text>
   <path d="M 168 138 A 18 18 0 0 1 150 156" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
   <text x="36" y="322" font-family="sans-serif" font-size="13" fill="#2b3a42">vertical angles are equal</text>
 
   <!-- triangle sum -->
   <polygon points="390,200 470,280 340,280" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
   <path d="M 400 268 A 20 20 0 0 1 420 256" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
-  <text x="402" y="302" font-family="sans-serif" font-size="14" fill="#7a9e7e">70°</text>
+  <text x="402" y="302" font-family="sans-serif" font-size="14" fill="#436b47">70°</text>
   <path d="M 448 280 A 20 20 0 0 0 452 258" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
-  <text x="452" y="304" font-family="sans-serif" font-size="14" fill="#7a9e7e">60°</text>
+  <text x="452" y="304" font-family="sans-serif" font-size="14" fill="#436b47">60°</text>
   <path d="M 340 272 A 20 20 0 0 1 352 252" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
-  <text x="322" y="304" font-family="sans-serif" font-size="14" fill="#7a9e7e">50°</text>
+  <text x="322" y="304" font-family="sans-serif" font-size="14" fill="#436b47">50°</text>
   <text x="352" y="317.2" font-family="sans-serif" font-size="13" fill="#2b3a42">the three angles of</text>
   <text x="352" y="334.1" font-family="sans-serif" font-size="13" fill="#2b3a42">a triangle sum to</text>
   <text x="352" y="351" font-family="sans-serif" font-size="13" fill="#2b3a42">180°</text>

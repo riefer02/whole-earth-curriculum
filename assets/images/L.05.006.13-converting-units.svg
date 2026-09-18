@@ -22,10 +22,10 @@
   </g>
 
   <!-- category labels on the side -->
-  <text x="40" y="102" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e" transform="rotate(-90 40 102)">length</text>
-  <text x="40" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e" transform="rotate(-90 40 164)">length</text>
-  <text x="40" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6" transform="rotate(-90 40 226)">mass</text>
-  <text x="40" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458" transform="rotate(-90 40 288)">capacity</text>
+  <text x="40" y="102" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#436b47" transform="rotate(-90 40 102)">length</text>
+  <text x="40" y="164" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#436b47" transform="rotate(-90 40 164)">length</text>
+  <text x="40" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#375f7d" transform="rotate(-90 40 226)">mass</text>
+  <text x="40" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a5a1a" transform="rotate(-90 40 288)">capacity</text>
 
   <!-- rule -->
   <rect x="60" y="330" width="392" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

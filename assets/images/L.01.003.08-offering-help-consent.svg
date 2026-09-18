@@ -97,7 +97,7 @@
     <!-- heart between them -->
     <path d="M350 418 Q346 412 342 418 Q338 424 350 430 Q362 424 358 418 Q354 412 350 418 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.8"/>
   </g>
-  <text x="373" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">no, thank you</text>
+  <text x="373" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">no, thank you</text>
   <text x="373" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">that's okay too</text>
 
   <!-- Bottom note -->

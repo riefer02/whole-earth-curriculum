@@ -15,7 +15,7 @@
     <line x1="472" y1="122" x2="472" y2="138"/>
   </g>
   <text x="40" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">400,000</text>
-  <text x="256" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458">450,000 (midpoint)</text>
+  <text x="256" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#8a5a1a">450,000 (midpoint)</text>
   <text x="472" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">500,000</text>
 
   <!-- 463,215 dot -->
@@ -29,7 +29,7 @@
       <path d="M0,0 L8,3 L0,6 Z" fill="#e0a458"/>
     </marker>
   </defs>
-  <text x="392" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458">rounds up to 500,000</text>
+  <text x="392" y="206" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#8a5a1a">rounds up to 500,000</text>
 
   <!-- Comparison section -->
   <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">Comparing 463,215 and 463,150</text>
@@ -42,8 +42,8 @@
   <g font-family="sans-serif" text-anchor="middle" font-size="16" fill="#7a9e7e">
     <text x="80" y="314">=</text><text x="120" y="314">=</text><text x="160" y="314">=</text>
   </g>
-  <text x="200" y="314" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">2 &gt; 1</text>
-  <text x="200" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e0a458">hundreds decide</text>
+  <text x="200" y="314" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#8a5a1a">2 &gt; 1</text>
+  <text x="200" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a5a1a">hundreds decide</text>
 
   <rect x="316" y="268" width="164" height="86" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
   <text x="398" y="304" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">463,215 &gt; 463,150</text>

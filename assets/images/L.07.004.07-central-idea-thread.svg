@@ -23,7 +23,7 @@
   <text x="382" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a moment</text>
 
   <!-- Thread label -->
-  <text x="256" y="324" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#e0a458">central idea</text>
+  <text x="256" y="324" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#8a5a1a">central idea</text>
   <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">(the big point, in one sentence)</text>
 
   <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">The idea runs through the whole text.</text>

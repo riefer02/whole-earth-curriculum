@@ -20,7 +20,7 @@
 
   <!-- The seventh (last) pebble circled -->
   <circle cx="196" cy="288" r="34" fill="none" stroke="#e0a458" stroke-width="4" stroke-dasharray="8 6"/>
-  <text x="252" y="276" font-family="sans-serif" font-size="16" font-weight="bold" fill="#e0a458">last</text>
+  <text x="252" y="276" font-family="sans-serif" font-size="16" font-weight="bold" fill="#8a5a1a">last</text>
   <line x1="248" y1="282" x2="232" y2="288" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
 
   <!-- How many card -->

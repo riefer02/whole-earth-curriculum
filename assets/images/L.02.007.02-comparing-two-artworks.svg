@@ -36,7 +36,7 @@
   <g stroke="#6b93b6" stroke-width="2" fill="none" stroke-dasharray="5 4">
     <path d="M66 130 Q200 96 398 126"/>
   </g>
-  <text x="236" y="98" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">different: one is flat, one is round</text>
+  <text x="236" y="98" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#375f7d">different: one is flat, one is round</text>
 
   <!-- cards -->
   <g font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">

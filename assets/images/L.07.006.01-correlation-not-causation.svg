@@ -17,8 +17,8 @@
   <path d="M40 150 L150 120 L300 96 L440 84" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
   <path d="M40 150 L160 118 L310 94 L440 82" fill="none" stroke="#6b93b6" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 5"/>
 
-  <text x="470" y="80" text-anchor="end" font-family="sans-serif" font-size="14" fill="#e0a458">ice cream sales</text>
-  <text x="470" y="98" text-anchor="end" font-family="sans-serif" font-size="14" fill="#6b93b6">drownings</text>
+  <text x="470" y="80" text-anchor="end" font-family="sans-serif" font-size="14" fill="#8a5a1a">ice cream sales</text>
+  <text x="470" y="98" text-anchor="end" font-family="sans-serif" font-size="14" fill="#375f7d">drownings</text>
 
   <!-- Bottom: third-variable model -->
   <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">…but a third thing may cause BOTH.</text>

@@ -19,7 +19,7 @@
 
     <line x1="138" y1="170" x2="162" y2="170" stroke="#2b3a42" stroke-width="2"/>
     <text x="122" y="176" text-anchor="end" font-family="sans-serif" font-size="16" fill="#222222">+30</text>
-    <text x="172" y="176" font-family="sans-serif" font-size="15" fill="#e0a458" font-weight="bold">+30°C hot day  ·  +5,895 m mountain peak</text>
+    <text x="172" y="176" font-family="sans-serif" font-size="15" fill="#8a5a1a" font-weight="bold">+30°C hot day  ·  +5,895 m mountain peak</text>
 
     <line x1="138" y1="220" x2="162" y2="220" stroke="#2b3a42" stroke-width="2"/>
     <text x="122" y="226" text-anchor="end" font-family="sans-serif" font-size="16" fill="#222222">+10</text>
@@ -33,7 +33,7 @@
     <text x="172" y="406" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">-430 m: the Dead Sea, below sea level</text>
 
     <!-- up arrow -->
-    <text x="60" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e" transform="rotate(-90 60 150)">ABOVE</text>
+    <text x="60" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#436b47" transform="rotate(-90 60 150)">ABOVE</text>
     <text x="60" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a" transform="rotate(-90 60 390)">BELOW</text>
   </g>
 

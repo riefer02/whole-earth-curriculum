@@ -23,7 +23,7 @@
   <!-- Open door on right side of box -->
   <rect x="250" y="200" width="12" height="80" fill="#fdfbf7"/>
   <line x1="250" y1="200" x2="250" y2="280" stroke="#7a9e7e" stroke-width="3"/>
-  <text x="236" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#7a9e7e">door</text>
+  <text x="236" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#436b47">door</text>
 
   <!-- Paths beyond the door -->
   <g>

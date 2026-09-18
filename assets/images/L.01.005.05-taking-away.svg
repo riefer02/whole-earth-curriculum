@@ -28,7 +28,7 @@
     <ellipse cx="334" cy="172" rx="13" ry="10" fill="#e0a458"/>
     <ellipse cx="372" cy="172" rx="13" ry="10" fill="#e0a458"/>
   </g>
-  <text x="361" y="236" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">take 2 away</text>
+  <text x="361" y="236" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">take 2 away</text>
 
   <!-- Down arrow -->
   <line x1="256" y1="258" x2="256" y2="286" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>

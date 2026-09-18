@@ -30,15 +30,15 @@
 
     <!-- mode -->
     <line x1="120" y1="150" x2="120" y2="226" stroke="#7a9e7e" stroke-width="3"/>
-    <text x="120" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#7a9e7e">mode 3</text>
+    <text x="120" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#436b47">mode 3</text>
 
     <!-- median -->
     <line x1="120" y1="110" x2="120" y2="226" stroke="#e0a458" stroke-width="3" stroke-dasharray="6 4"/>
-    <text x="60" y="100" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#e0a458">median 3</text>
+    <text x="60" y="100" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#8a5a1a">median 3</text>
 
     <!-- mean -->
     <line x1="168" y1="70" x2="168" y2="226" stroke="#6b93b6" stroke-width="3"/>
-    <text x="196" y="78" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#6b93b6">mean ≈ 4.08</text>
+    <text x="196" y="78" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#375f7d">mean ≈ 4.08</text>
 
     <!-- range -->
     <path d="M0 60 L0 50 L420 50 L420 60" fill="none" stroke="#2b3a42" stroke-width="3"/>

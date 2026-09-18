@@ -72,7 +72,7 @@
   <!-- Comparison chart -->
   <rect x="20" y="320" width="472" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Alike and Different — different, not better or worse</text>
-  <text x="138" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#7a9e7e">ALIKE</text>
+  <text x="138" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#436b47">ALIKE</text>
   <text x="374" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">DIFFERENT</text>
   <text x="138" y="390" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">both need food, water, shelter,</text>
   <text x="138" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">care, and play</text>

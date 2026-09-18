@@ -37,7 +37,7 @@
 
   <!-- Checked I-statement bubble -->
   <rect x="130" y="90" width="220" height="66" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
-  <text x="152" y="110" font-family="sans-serif" font-size="14" fill="#7a9e7e">✓</text>
+  <text x="152" y="110" font-family="sans-serif" font-size="14" fill="#436b47">✓</text>
   <text x="240" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">I feel upset when the ball is</text>
   <text x="240" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">taken before my turn, and I</text>
   <text x="240" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">need a turn next.</text>

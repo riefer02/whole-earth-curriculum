@@ -20,7 +20,7 @@
 
   <!-- Ring 3: 5+ sides -->
   <ellipse cx="406" cy="190" rx="86" ry="104" fill="none" stroke="#e0a458" stroke-width="3"/>
-  <text x="406" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">5 or more sides</text>
+  <text x="406" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">5 or more sides</text>
   <polygon points="406,120 446,150 432,196 380,196 366,150" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <polygon points="406,232 434,246 434,278 406,292 378,278 378,246" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
 

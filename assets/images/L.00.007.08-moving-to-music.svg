@@ -66,7 +66,7 @@
   <!-- Panel 3: freeze -->
   <g>
     <rect x="340" y="96" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="415" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">freeze</text>
+    <text x="415" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#8a5a1a">freeze</text>
     <!-- sparkle -->
     <path d="M415 132 L417.4 140.6 L426 142 L417.4 143.4 L415 152 L412.6 143.4 L404 142 L412.6 140.6 Z" fill="#e0a458"/>
     <circle cx="415" cy="160" r="15" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>

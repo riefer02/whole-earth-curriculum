@@ -23,12 +23,12 @@
   <!-- Magnifying glass over one mark -->
   <circle cx="150" cy="170" r="46" fill="none" stroke="#6b93b6" stroke-width="5"/>
   <line x1="184" y1="204" x2="214" y2="234" stroke="#6b93b6" stroke-width="6"/>
-  <text x="150" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6" font-weight="bold">one criterion</text>
+  <text x="150" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#375f7d" font-weight="bold">one criterion</text>
 
   <!-- Magnifying glass over another mark -->
   <circle cx="390" cy="170" r="46" fill="none" stroke="#e0a458" stroke-width="5"/>
   <line x1="424" y1="204" x2="454" y2="234" stroke="#e0a458" stroke-width="6"/>
-  <text x="390" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#e0a458" font-weight="bold">another criterion</text>
+  <text x="390" y="120" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a5a1a" font-weight="bold">another criterion</text>
 
   <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The same years, two different stories —</text>
   <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">depending on which change you call significant.</text>

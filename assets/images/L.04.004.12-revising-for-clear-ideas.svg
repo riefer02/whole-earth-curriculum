@@ -18,7 +18,7 @@
   <line x1="100" y1="220" x2="410" y2="220" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
   <text x="230" y="214" font-family="sans-serif" font-size="18" fill="#4f6d7a">extra word</text>
   <line x1="216" y1="206" x2="308" y2="232" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
-  <text x="360" y="256" font-family="sans-serif" font-size="16" fill="#e0a458">remove</text>
+  <text x="360" y="256" font-family="sans-serif" font-size="16" fill="#8a5a1a">remove</text>
 
   <!-- Line 3 with reorder arrow -->
   <line x1="100" y1="300" x2="410" y2="300" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>

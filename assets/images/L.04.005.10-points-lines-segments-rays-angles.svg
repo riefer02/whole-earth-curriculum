@@ -55,6 +55,6 @@
     <!-- obtuse -->
     <line x1="356" y1="452" x2="406" y2="452" stroke="#2b3a42" stroke-width="3"/>
     <line x1="356" y1="452" x2="332" y2="420" stroke="#2b3a42" stroke-width="3"/>
-    <text x="366" y="482" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458">obtuse (wide)</text>
+    <text x="366" y="482" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#8a5a1a">obtuse (wide)</text>
   </g>
 </svg>

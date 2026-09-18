@@ -27,7 +27,7 @@
     <circle cx="204" cy="140" r="9"/>
   </g>
   <text x="182" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">$12</text>
-  <text x="134" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">12 ÷ 3 = $4 per kg</text>
+  <text x="134" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#375f7d">12 ÷ 3 = $4 per kg</text>
 
   <!-- Offer B box -->
   <rect x="268" y="52" width="220" height="150" fill="none" stroke="#2b3a42" stroke-width="2" rx="6"/>
@@ -48,7 +48,7 @@
     <circle cx="448" cy="140" r="9"/>
   </g>
   <text x="426" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">$18</text>
-  <text x="378" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">18 ÷ 5 = $3.60 per kg</text>
+  <text x="378" y="192" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#375f7d">18 ÷ 5 = $3.60 per kg</text>
 
   <!-- Comparison bars -->
   <text x="24" y="240" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">price per 1 kg</text>

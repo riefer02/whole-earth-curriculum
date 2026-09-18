@@ -15,7 +15,7 @@
   </g>
   <!-- trade arrow: ones to tens -->
   <path d="M196 118 C 210 124, 210 96, 196 92" fill="none" stroke="#e0a458" stroke-width="2"/>
-  <text x="71" y="94" font-family="sans-serif" font-size="12" fill="#e0a458">trade 10 ones → 1 ten</text>
+  <text x="71" y="94" font-family="sans-serif" font-size="12" fill="#8a5a1a">trade 10 ones → 1 ten</text>
   <text x="40" y="196" font-family="monospace" font-size="26" font-weight="bold" fill="#e0a458">8 5 , 7 8 7</text>
   <text x="46" y="226" font-family="sans-serif" font-size="14" fill="#4f6d7a">8 + 9 = 17 → 7 ones, carry 1 ten</text>
 
@@ -28,7 +28,7 @@
   </g>
   <!-- borrow arrows: hundreds and thousands -->
   <path d="M336 120 C 322 126, 322 92, 336 88" fill="none" stroke="#6b93b6" stroke-width="2"/>
-  <text x="340" y="94" font-family="sans-serif" font-size="12" fill="#6b93b6">borrow from the next place</text>
+  <text x="340" y="94" font-family="sans-serif" font-size="12" fill="#375f7d">borrow from the next place</text>
   <text x="278" y="196" font-family="monospace" font-size="26" font-weight="bold" fill="#6b93b6">1 8 , 7 3 7</text>
   <text x="286" y="226" font-family="sans-serif" font-size="12" fill="#4f6d7a">12 − 5 = 7; 16 − 8 = 8 (borrow twice)</text>
 
@@ -38,7 +38,7 @@
 
   <!-- Trade reminder boxes -->
   <rect x="60" y="330" width="180" height="90" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
-  <text x="150" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">Adding</text>
+  <text x="150" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">Adding</text>
   <text x="150" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">10 ones = 1 ten</text>
   <text x="150" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">10 tens = 1 hundred</text>
 

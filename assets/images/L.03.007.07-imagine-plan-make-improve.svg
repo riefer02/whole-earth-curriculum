@@ -39,7 +39,7 @@
   <!-- make (bottom-right) -->
   <g>
     <rect x="358" y="278" width="118" height="118" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="417" y="304" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">make</text>
+    <text x="417" y="304" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#8a5a1a">make</text>
     <path d="M386 344 Q386 322 404 322 L430 322 Q448 322 448 344 L448 360 Q448 372 430 372 L404 372 Q386 372 386 360 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   </g>
 

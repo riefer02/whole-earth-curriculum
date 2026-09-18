@@ -19,11 +19,11 @@
 
   <!-- caret marking a misspelled word -->
   <text x="160" y="140" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#e0a458">^</text>
-  <text x="160" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458">fix spelling</text>
+  <text x="160" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">fix spelling</text>
 
   <!-- period being added -->
   <circle cx="306" cy="180" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="306" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458">add period</text>
+  <text x="306" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">add period</text>
 
   <!-- checklist -->
   <rect x="130" y="250" width="252" height="130" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

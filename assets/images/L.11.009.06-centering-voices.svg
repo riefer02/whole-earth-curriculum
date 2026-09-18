@@ -12,7 +12,7 @@
   <circle cx="256" cy="246" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <path d="M232 300 Q256 286 280 300" fill="none" stroke="#2b3a42" stroke-width="3"/>
   <rect x="248" y="262" width="16" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458" font-weight="bold">speaks first</text>
+  <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a" font-weight="bold">speaks first</text>
 
   <!-- Listeners around -->
   <g>

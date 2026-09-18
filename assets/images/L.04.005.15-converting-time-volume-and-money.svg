@@ -27,7 +27,7 @@
 
   <!-- Money card -->
   <rect x="340" y="80" width="150" height="250" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
-  <text x="415" y="110" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#e0a458">Money</text>
+  <text x="415" y="110" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#8a5a1a">Money</text>
   <circle cx="392" cy="160" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="392" y="166" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1</text>
   <circle cx="438" cy="160" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>

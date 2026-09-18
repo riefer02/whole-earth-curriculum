@@ -13,7 +13,7 @@
   <!-- Slow rise then sharp climb -->
   <path d="M70 410 Q 220 400 320 380 Q 400 300 460 90" fill="none" stroke="#6b93b6" stroke-width="5"/>
   <circle cx="320" cy="380" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="330" y="372" font-family="sans-serif" font-size="12" fill="#e0a458" font-weight="bold">the bend (~1800)</text>
+  <text x="330" y="372" font-family="sans-serif" font-size="12" fill="#8a5a1a" font-weight="bold">the bend (~1800)</text>
 
   <!-- Footprint symbol -->
   <g transform="translate(408,96)" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">

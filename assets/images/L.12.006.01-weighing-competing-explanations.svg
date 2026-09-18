@@ -14,7 +14,7 @@
   <!-- left pan (A) -->
   <path d="M 70 150 L 70 210 M 130 150 L 130 210" stroke="#2b3a42" stroke-width="3"/>
   <path d="M 60 210 C 60 236, 140 236, 140 210" fill="none" stroke="#2b3a42" stroke-width="3"/>
-  <text x="100" y="226" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#e0a458" font-weight="bold">A</text>
+  <text x="100" y="226" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#8a5a1a" font-weight="bold">A</text>
 
   <!-- right pan (B) -->
   <path d="M 382 150 L 382 210 M 442 150 L 442 210" stroke="#2b3a42" stroke-width="3"/>

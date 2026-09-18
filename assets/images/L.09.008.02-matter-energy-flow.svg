@@ -55,7 +55,7 @@
   <!-- matter cycle arrow: decomposer -> soil -> producer -->
   <path d="M404 316 Q330 372 216 360 Q196 356 196 178" fill="none" stroke="#7a9e7e" stroke-width="2.5"/>
   <polygon points="196,178 190,190 202,190" fill="#7a9e7e"/>
-  <text x="200" y="330" font-family="sans-serif" font-size="13" fill="#7a9e7e">nutrients</text>
+  <text x="200" y="330" font-family="sans-serif" font-size="13" fill="#436b47">nutrients</text>
   <text x="200" y="348" font-family="sans-serif" font-size="12" fill="#4f6d7a">return to soil</text>
 
   <!-- key -->

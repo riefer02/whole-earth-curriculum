@@ -11,7 +11,7 @@
 
   <!-- ocean -->
   <path d="M30 330 L482 330 L482 420 L30 420 Z" fill="#ffffff" stroke="none"/>
-  <text x="418" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">ocean</text>
+  <text x="418" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#375f7d">ocean</text>
   <line x1="34" y1="344" x2="478" y2="344" stroke="#6b93b6" stroke-width="2"/>
   <line x1="34" y1="360" x2="478" y2="360" stroke="#6b93b6" stroke-width="2"/>
   <line x1="34" y1="376" x2="478" y2="376" stroke="#6b93b6" stroke-width="2"/>
@@ -29,7 +29,7 @@
 
   <!-- river -->
   <path d="M256 320 C300 300 320 260 340 240 C360 220 380 200 430 190 C450 184 470 176 482 170" stroke="#6b93b6" stroke-width="7" fill="none" stroke-linecap="round"/>
-  <text x="222" y="314" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#6b93b6">river</text>
+  <text x="222" y="314" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#375f7d">river</text>
   <text x="360" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">valley</text>
 
   <!-- oasis -->

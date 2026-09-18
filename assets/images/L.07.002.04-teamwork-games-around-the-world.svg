@@ -9,7 +9,7 @@
   <!-- Card 1: Kabaddi -->
   <g>
     <rect x="20" y="66" width="150" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="95" y="96" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#e0a458">Kabaddi</text>
+    <text x="95" y="96" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#8a5a1a">Kabaddi</text>
     <text x="95" y="116" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">South Asia</text>
     <!-- field line -->
     <line x1="40" y1="230" x2="150" y2="230" stroke="#2b3a42" stroke-width="2" stroke-dasharray="6 5"/>

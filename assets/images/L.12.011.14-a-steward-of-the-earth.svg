@@ -16,17 +16,17 @@
   <!-- north -->
   <line x1="256" y1="270" x2="256" y2="120" stroke="#2b3a42" stroke-width="2"/>
   <path d="M 248 128 L 256 112 L 264 128" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#6b93b6" font-weight="bold">care for technology</text>
+  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#375f7d" font-weight="bold">care for technology</text>
 
   <!-- east -->
   <line x1="256" y1="270" x2="406" y2="270" stroke="#2b3a42" stroke-width="2"/>
   <path d="M 398 262 L 414 270 L 398 278" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="420" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7a9e7e" font-weight="bold">honest media</text>
+  <text x="420" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#436b47" font-weight="bold">honest media</text>
 
   <!-- south -->
   <line x1="256" y1="270" x2="256" y2="420" stroke="#2b3a42" stroke-width="2"/>
   <path d="M 248 412 L 256 428 L 264 412" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#e0a458" font-weight="bold">the living world</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a5a1a" font-weight="bold">the living world</text>
 
   <!-- west -->
   <line x1="256" y1="270" x2="106" y2="270" stroke="#2b3a42" stroke-width="2"/>

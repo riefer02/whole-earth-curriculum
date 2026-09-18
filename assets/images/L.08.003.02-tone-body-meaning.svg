@@ -19,7 +19,7 @@
   <line x1="95" y1="300" x2="118" y2="372" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="95" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">warm voice,</text>
   <text x="95" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">open arms</text>
-  <text x="95" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#7a9e7e">means: agreement</text>
+  <text x="95" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#436b47">means: agreement</text>
 
   <!-- panel 2 -->
   <rect x="181" y="88" width="150" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>

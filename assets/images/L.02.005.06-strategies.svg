@@ -22,7 +22,7 @@
   </g>
   <text x="92" y="196" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#2b3a42">4 tens + 2 tens = 6 tens</text>
   <text x="92" y="216" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">6 + 3 = 9 ones</text>
-  <text x="92" y="240" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#e0a458">= 69</text>
+  <text x="92" y="240" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#8a5a1a">= 69</text>
 
   <!-- Panel 2: number line -->
   <rect x="180" y="60" width="152" height="200" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -37,12 +37,12 @@
   <text x="256" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">66</text>
   <text x="322" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">69</text>
   <path d="M190 126 Q223 108 256 126" fill="none" stroke="#7a9e7e" stroke-width="3"/>
-  <text x="223" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e">+20</text>
+  <text x="223" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#436b47">+20</text>
   <path d="M256 126 Q289 108 322 126" fill="none" stroke="#6b93b6" stroke-width="3"/>
-  <text x="289" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b93b6">+3</text>
+  <text x="289" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#375f7d">+3</text>
   <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">start 46, jump 20,</text>
   <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">then 3 more</text>
-  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#e0a458">= 69</text>
+  <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#8a5a1a">= 69</text>
 
   <!-- Panel 3: break apart -->
   <rect x="344" y="60" width="152" height="200" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

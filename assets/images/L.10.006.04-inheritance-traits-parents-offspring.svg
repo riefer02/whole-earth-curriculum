@@ -24,7 +24,7 @@
   <text x="205" y="188" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#7a9e7e" font-weight="bold">PP</text>
   <text x="315" y="188" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#7a9e7e" font-weight="bold">Pp</text>
   <text x="205" y="298" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#7a9e7e" font-weight="bold">Pp</text>
-  <text x="315" y="298" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#e0a458" font-weight="bold">pp</text>
+  <text x="315" y="298" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#8a5a1a" font-weight="bold">pp</text>
 
   <!-- Ratio -->
   <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Genotype ratio: 1 PP : 2 Pp : 1 pp</text>

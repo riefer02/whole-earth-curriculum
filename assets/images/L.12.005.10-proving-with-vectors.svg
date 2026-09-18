@@ -20,15 +20,15 @@
 
   <!-- midpoint M of both diagonals -->
   <circle cx="180" cy="230" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="190" y="222" font-family="sans-serif" font-size="14" fill="#7a9e7e" font-weight="bold">M</text>
+  <text x="190" y="222" font-family="sans-serif" font-size="14" fill="#436b47" font-weight="bold">M</text>
 
   <!-- labels -->
   <text x="122" y="360" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">O</text>
   <text x="336" y="360" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">A</text>
   <text x="14" y="110" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">B</text>
   <text x="256" y="112" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">C</text>
-  <text x="226" y="330" font-family="sans-serif" font-size="14" fill="#e0a458" font-weight="bold">a</text>
-  <text x="58" y="240" font-family="sans-serif" font-size="14" fill="#6b93b6" font-weight="bold">b</text>
+  <text x="226" y="330" font-family="sans-serif" font-size="14" fill="#8a5a1a" font-weight="bold">a</text>
+  <text x="58" y="240" font-family="sans-serif" font-size="14" fill="#375f7d" font-weight="bold">b</text>
 
   <rect x="60" y="390" width="392" height="96" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
   <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Midpoint of OC = &#189;(a + b)  =  midpoint of AB</text>

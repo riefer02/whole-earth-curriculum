@@ -11,18 +11,18 @@
   <text x="99" y="76" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Sound — pitch</text>
   <text x="99" y="96" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">frequency (how fast waves repeat)</text>
   <path d="M34 140 q14 -22 28 0 t28 0 t28 0 t28 0" fill="none" stroke="#e0a458" stroke-width="2.5"/>
-  <text x="99" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#e0a458">high pitch (fast)</text>
+  <text x="99" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">high pitch (fast)</text>
   <path d="M34 200 q28 -22 56 0" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
-  <text x="99" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">low pitch (slow)</text>
+  <text x="99" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#375f7d">low pitch (slow)</text>
 
   <!-- Loudness -->
   <rect x="186" y="52" width="150" height="180" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="261" y="76" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Sound — loudness</text>
   <text x="261" y="96" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">amplitude (height)</text>
   <path d="M196 130 q14 -26 28 0 t28 0 t28 0 t28 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
-  <text x="261" y="164" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#7a9e7e">loud (tall)</text>
+  <text x="261" y="164" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#436b47">loud (tall)</text>
   <path d="M196 200 q14 -10 28 0 t28 0 t28 0 t28 0" fill="none" stroke="#6b93b6" stroke-width="3"/>
-  <text x="261" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#6b93b6">quiet (short)</text>
+  <text x="261" y="228" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#375f7d">quiet (short)</text>
 
   <!-- Color -->
   <rect x="348" y="52" width="140" height="180" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

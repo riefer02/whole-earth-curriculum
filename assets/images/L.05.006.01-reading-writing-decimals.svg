@@ -43,9 +43,9 @@
   <text x="448" y="252" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">6 thousandths</text>
 
   <!-- Fraction value row -->
-  <text x="192" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e">4/10</text>
-  <text x="320" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e">5/100</text>
-  <text x="448" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#7a9e7e">6/1000</text>
+  <text x="192" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#436b47">4/10</text>
+  <text x="320" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#436b47">5/100</text>
+  <text x="448" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#436b47">6/1000</text>
 
   <!-- Expanded form -->
   <rect x="16" y="320" width="480" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

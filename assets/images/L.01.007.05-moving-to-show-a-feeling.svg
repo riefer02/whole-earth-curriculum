@@ -10,7 +10,7 @@
   <!-- ===== Happy ===== -->
   <g>
     <rect x="22" y="96" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="97" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">happy</text>
+    <text x="97" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#8a5a1a">happy</text>
     <!-- bounce arcs -->
     <path d="M76 140 Q78 130 84 128" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
     <path d="M112 138 Q114 128 120 126" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>

@@ -19,7 +19,7 @@
     <circle cx="210" cy="252" r="11"/><circle cx="246" cy="252" r="11"/><circle cx="282" cy="252" r="11"/><circle cx="318" cy="252" r="11"/><circle cx="354" cy="252" r="11"/><circle cx="390" cy="252" r="11"/>
   </g>
   <text x="452" y="257" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">6</text>
-  <text x="452" y="237" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e0a458">most</text>
+  <text x="452" y="237" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#8a5a1a">most</text>
 
   <!-- Banana row: 4 -->
   <path d="M102 312 Q128 316 120 332" fill="none" stroke="#e0a458" stroke-width="9" stroke-linecap="round"/>
@@ -38,7 +38,7 @@
     <circle cx="210" cy="388" r="11"/><circle cx="246" cy="388" r="11"/><circle cx="282" cy="388" r="11"/>
   </g>
   <text x="452" y="393" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">3</text>
-  <text x="452" y="415" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#e0a458">fewest</text>
+  <text x="452" y="415" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#8a5a1a">fewest</text>
 
   <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Mango has the most (6). Apple has the fewest (3).</text>
   <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">One mark = one answer. Every voice counts once.</text>

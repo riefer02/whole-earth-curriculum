@@ -26,7 +26,7 @@
   <!-- ===== Face ===== -->
   <g>
     <rect x="181" y="96" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#e0a458">face</text>
+    <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#8a5a1a">face</text>
     <circle cx="256" cy="186" r="44" fill="#c99567" stroke="#2b3a42" stroke-width="2.5"/>
     <path d="M212 184 A44 44 0 0 1 300 184 Z" fill="#2b3a42"/>
     <circle cx="238" cy="188" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

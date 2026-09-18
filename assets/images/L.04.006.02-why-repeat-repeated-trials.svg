@@ -40,7 +40,7 @@
   <!-- Odd outlier -->
   <g>
     <circle cx="250" cy="150" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="250" y="176" text-anchor="middle" font-size="15" fill="#e0a458">odd try?</text>
+    <text x="250" y="176" text-anchor="middle" font-size="15" fill="#8a5a1a">odd try?</text>
   </g>
 
   <rect x="70" y="300" width="372" height="66" rx="12" fill="#e0a458" opacity="0.25" stroke="#e0a458" stroke-width="2"/>

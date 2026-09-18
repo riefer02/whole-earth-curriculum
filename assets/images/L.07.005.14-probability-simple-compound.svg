@@ -13,8 +13,8 @@
   <!-- first coin branches -->
   <line x1="60" y1="96" x2="140" y2="70" stroke="#2b3a42" stroke-width="2"/>
   <line x1="60" y1="96" x2="140" y2="150" stroke="#2b3a42" stroke-width="2"/>
-  <text x="100" y="96" font-family="sans-serif" font-size="13" fill="#6b93b6">H (1/2)</text>
-  <text x="100" y="172" font-family="sans-serif" font-size="13" fill="#6b93b6">T (1/2)</text>
+  <text x="100" y="96" font-family="sans-serif" font-size="13" fill="#375f7d">H (1/2)</text>
+  <text x="100" y="172" font-family="sans-serif" font-size="13" fill="#375f7d">T (1/2)</text>
   <circle cx="140" cy="70" r="4" fill="#6b93b6"/>
   <circle cx="140" cy="150" r="4" fill="#6b93b6"/>
   <!-- second coin branches from H -->
@@ -37,7 +37,7 @@
   <line x1="300" y1="124" x2="492" y2="124" stroke="#2b3a42" stroke-width="1"/>
   <text x="316" y="148" font-family="sans-serif" font-size="14" fill="#222222">simple: P(H) = 1/2</text>
   <text x="316" y="174" font-family="sans-serif" font-size="14" fill="#222222">compound:</text>
-  <text x="316" y="196" font-family="sans-serif" font-size="14" font-weight="bold" fill="#6b93b6">1/2 × 1/2 = 1/4</text>
+  <text x="316" y="196" font-family="sans-serif" font-size="14" font-weight="bold" fill="#375f7d">1/2 × 1/2 = 1/4</text>
 
   <!-- four equal quarter panels -->
   <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">the four outcomes share the whole (each = 1/4)</text>

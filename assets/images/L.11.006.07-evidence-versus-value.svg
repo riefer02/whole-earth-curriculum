@@ -19,7 +19,7 @@
   <text x="256" y="170" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" font-weight="bold">— different questions, both worth asking —</text>
 
   <!-- Bottom shelf -->
-  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#e0a458" font-weight="bold">Value claims — how we ought to act</text>
+  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#8a5a1a" font-weight="bold">Value claims — how we ought to act</text>
   <rect x="40" y="230" width="200" height="58" fill="#e0a458" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="6"/>
   <text x="140" y="254" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Animals deserve care</text>
   <text x="140" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(a matter of conscience)</text>
