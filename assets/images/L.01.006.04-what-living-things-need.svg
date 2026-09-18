@@ -54,7 +54,7 @@
     <path d="M418 390 L441 366 L464 390 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
     <rect x="424" y="390" width="34" height="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <rect x="436" y="402" width="10" height="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="441" y="428" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">shelter</text>
+    <text x="441" y="436" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">shelter</text>
   </g>
 
   <!-- Footer -->
