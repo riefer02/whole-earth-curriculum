@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Location and distance on a grid</title>
-  <desc id="desc">A first-quadrant coordinate grid with two distance examples. First, points (1,2) and (4,2) are plotted on the same horizontal line, and the 3-unit horizontal distance between them is marked with a thick line and labeled 3 units. Second, points (3,1) and (3,5) are plotted on the same vertical line, and the 4-unit vertical distance is marked with a thick line and labeled 4 units. Labels and counts, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-09-location-distance desc-L-05-006-09-location-distance">
+  <title id="title-L-05-006-09-location-distance">Location and distance on a grid</title>
+  <desc id="desc-L-05-006-09-location-distance">A first-quadrant coordinate grid with two distance examples. First, points (1,2) and (4,2) are plotted on the same horizontal line, and the 3-unit horizontal distance between them is marked with a thick line and labeled 3 units. Second, points (3,1) and (3,5) are plotted on the same vertical line, and the 4-unit vertical distance is marked with a thick line and labeled 4 units. Labels and counts, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

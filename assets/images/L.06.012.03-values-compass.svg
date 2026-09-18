@@ -50,6 +50,6 @@
 
   <!-- toolkit strip -->
   <rect x="40" y="398" width="432" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">my toolkit: pause &#183; breathe &#183; name it &#183; ask &#183; choose</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="12.7" font-weight="bold" fill="#2b3a42">my toolkit: pause &#183; breathe &#183; name it &#183; ask &#183; choose</text>
   <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">My values are my compass when pressure pushes on me.</text>
 </svg>

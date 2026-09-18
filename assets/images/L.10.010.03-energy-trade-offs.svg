@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Energy trade-offs: dam, wind, forest</title>
-  <desc id="desc">Three choices side by side: a dam holding back a reservoir, a wind turbine on a hill, and a standing forest. Beneath each, a benefits list and a harms list, grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-010-03-energy-trade-offs desc-L-10-010-03-energy-trade-offs">
+  <title id="title-L-10-010-03-energy-trade-offs">Energy trade-offs: dam, wind, forest</title>
+  <desc id="desc-L-10-010-03-energy-trade-offs">Three choices side by side: a dam holding back a reservoir, a wind turbine on a hill, and a standing forest. Beneath each, a benefits list and a harms list, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <g font-size="16" fill="#2b3a42" font-weight="bold">
@@ -43,6 +43,6 @@
       <text x="256" y="286">bird paths, land used</text>
       <text x="430" y="286">no electricity produced</text>
     </g>
-    <text x="256" y="330" font-size="14" fill="#222222">every option has a cost; the skill is seeing it clearly</text>
+    <text x="256" y="330" font-size="12" fill="#222222">every option has a cost; the skill is seeing it clearly</text>
   </g>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">One idea, three registers</title>
-  <desc id="desc">One central idea box at the top branches down into three panels labeled formal, informal, and technical, each reworded differently with placeholder lines. A note reads: the idea stays the same; the words, tone, and formality shift to fit the audience.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-004-11-three-registers desc-L-11-004-11-three-registers">
+  <title id="title-L-11-004-11-three-registers">One idea, three registers</title>
+  <desc id="desc-L-11-004-11-three-registers">One central idea box at the top branches down into three panels labeled formal, informal, and technical, each reworded differently with placeholder lines. A note reads: the idea stays the same; the words, tone, and formality shift to fit the audience.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">One Idea, Three Registers</text>

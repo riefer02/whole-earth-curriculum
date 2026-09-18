@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Taking turns in a conversation</title>
-  <desc id="desc">Four children sit in a circle. The child at the top is holding a talking stick and speaking, with sound lines by their mouth, while the other three listen. A small card in the center of the circle shows the shared topic, a smiling sun over a bowl of food. Dashed arrows run around the circle to show the turn passing from one child to the next. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to take turns in a conversation, stay on one topic, and speak clearly.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-004-02-taking-turns-in-conversation desc-L-02-004-02-taking-turns-in-conversation">
+  <title id="title-L-02-004-02-taking-turns-in-conversation">Taking turns in a conversation</title>
+  <desc id="desc-L-02-004-02-taking-turns-in-conversation">Four children sit in a circle. The child at the top is holding a talking stick and speaking, with sound lines by their mouth, while the other three listen. A small card in the center of the circle shows the shared topic, a smiling sun over a bowl of food. Dashed arrows run around the circle to show the turn passing from one child to the next. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to take turns in a conversation, stay on one topic, and speak clearly.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -41,5 +41,5 @@
   <path d="M256 226 Q280 218 300 230" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
   <path d="M236 254 L276 254 Q284 254 284 260 L284 264 L228 264 L228 260 Q228 254 236 254 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">One person speaks, the rest listen — and the ideas stay connected.</text>
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">One person speaks, the rest listen — and the ideas stay connected.</text>
 </svg>

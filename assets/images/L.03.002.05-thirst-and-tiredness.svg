@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Thirst and tiredness signals</title>
-  <desc id="desc">Two body diagrams. On the left, a body with a dry mouth and tongue labeled thirst, with an arrow to the response drink water. On the right, a body with heavy eyelids and a yawn labeled tiredness, with an arrow to the response rest. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-002-05-thirst-and-tiredness desc-L-03-002-05-thirst-and-tiredness">
+  <title id="title-L-03-002-05-thirst-and-tiredness">Thirst and tiredness signals</title>
+  <desc id="desc-L-03-002-05-thirst-and-tiredness">Two body diagrams. On the left, a body with a dry mouth and tongue labeled thirst, with an arrow to the response drink water. On the right, a body with heavy eyelids and a yawn labeled tiredness, with an arrow to the response rest. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Thirst and Tiredness</text>
@@ -27,7 +27,7 @@
     <path d="M128 214 Q122 226 128 236 Q134 226 128 214 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.8"/>
     <text x="128" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">dry mouth, dry lips</text>
     <!-- arrow to response -->
-    <line x1="128" y1="300" x2="128" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown)"/>
+    <line x1="128" y1="300" x2="128" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown-L-03-002-05-thirst-and-tiredness)"/>
     <rect x="48" y="336" width="160" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
     <text x="128" y="361" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">drink water</text>
   </g>
@@ -47,7 +47,7 @@
     <line x1="388" y1="148" x2="400" y2="146" stroke="#2b3a42" stroke-width="2"/>
     <!-- yawning mouth -->
     <ellipse cx="384" cy="166" rx="10" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="384" y="171" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#222222">yawn</text>
+    <text x="384" y="171" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">yawn</text>
     <!-- torso -->
     <path d="M366 182 Q384 192 402 182 L406 250 Q384 262 362 250 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5" stroke-linejoin="round"/>
     <!-- Zzz -->
@@ -56,13 +56,13 @@
     <text x="434" y="188" font-family="sans-serif" font-size="11" font-weight="bold" fill="#4f6d7a">z</text>
     <text x="384" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">heavy eyelids, slow body</text>
     <!-- arrow to response -->
-    <line x1="384" y1="300" x2="384" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown)"/>
+    <line x1="384" y1="300" x2="384" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown-L-03-002-05-thirst-and-tiredness)"/>
     <rect x="304" y="336" width="160" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
     <text x="384" y="361" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">rest or sleep</text>
   </g>
 
   <defs>
-    <marker id="arrDown" markerWidth="10" markerHeight="10" refX="3" refY="8" orient="auto">
+    <marker id="arrDown-L-03-002-05-thirst-and-tiredness" markerWidth="10" markerHeight="10" refX="3" refY="8" orient="auto">
       <path d="M0 0 L6 0 L3 8 Z" fill="#2b3a42"/>
     </marker>
   </defs>

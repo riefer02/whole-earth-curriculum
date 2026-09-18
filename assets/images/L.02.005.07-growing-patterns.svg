@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A growing staircase pattern</title>
-  <desc id="desc">A staircase pattern of blocks growing by one each step, from one block to four blocks, with labels showing that each step adds one more block.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-07-growing-patterns desc-L-02-005-07-growing-patterns">
+  <title id="title-L-02-005-07-growing-patterns">A growing staircase pattern</title>
+  <desc id="desc-L-02-005-07-growing-patterns">A staircase pattern of blocks growing by one each step, from one block to four blocks, with labels showing that each step adds one more block.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

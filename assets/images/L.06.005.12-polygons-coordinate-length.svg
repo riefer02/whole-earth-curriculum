@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Polygons on the coordinate plane: length</title>
-  <desc id="desc">A four-quadrant coordinate plane with a rectangle whose vertices are (minus 3, 2), (1, 2), (1, minus 1), and (minus 3, minus 1). The horizontal side length is shown as 1 minus (minus 3) equals 4 units, and the vertical side length is shown as 2 minus (minus 1) equals 3 units. The side lengths are labeled along the rectangle. Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-005-12-polygons-coordinate-length desc-L-06-005-12-polygons-coordinate-length">
+  <title id="title-L-06-005-12-polygons-coordinate-length">Polygons on the coordinate plane: length</title>
+  <desc id="desc-L-06-005-12-polygons-coordinate-length">A four-quadrant coordinate plane with a rectangle whose vertices are (minus 3, 2), (1, 2), (1, minus 1), and (minus 3, minus 1). The horizontal side length is shown as 1 minus (minus 3) equals 4 units, and the vertical side length is shown as 2 minus (minus 1) equals 3 units. The side lengths are labeled along the rectangle. Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Polygons on the Coordinate Plane: Length</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22.9" font-weight="bold" fill="#2b3a42">Polygons on the Coordinate Plane: Length</text>
   <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">find a side's length by subtracting its two coordinates</text>
 
   <g transform="translate(80, 70)">

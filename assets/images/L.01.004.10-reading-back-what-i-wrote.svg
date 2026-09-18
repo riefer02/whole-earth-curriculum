@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Write it, then read it back</title>
-  <desc id="desc">A loop shows writing and reading working together. On the left, a hand with a pencil writes a word on paper, labeled "write it." An arrow leads to the right, where a finger points under each mark of the word and an eye looks at it, labeled "read it back." A circular arrow returns from reading back to writing, showing the loop repeats. The example word is "mango" written in clear marks. The labels, arrows, and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to write a word, then read it back and check that the marks say what they meant.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-004-10-reading-back-what-i-wrote desc-L-01-004-10-reading-back-what-i-wrote">
+  <title id="title-L-01-004-10-reading-back-what-i-wrote">Write it, then read it back</title>
+  <desc id="desc-L-01-004-10-reading-back-what-i-wrote">A loop shows writing and reading working together. On the left, a hand with a pencil writes a word on paper, labeled "write it." An arrow leads to the right, where a finger points under each mark of the word and an eye looks at it, labeled "read it back." A circular arrow returns from reading back to writing, showing the loop repeats. The example word is "mango" written in clear marks. The labels, arrows, and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to write a word, then read it back and check that the marks say what they meant.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

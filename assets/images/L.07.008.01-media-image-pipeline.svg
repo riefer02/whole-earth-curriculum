@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Real people versus the repeated edited image media often shows</title>
-  <desc id="desc">Two panels side by side. The left panel, labeled "Real people — every body is different," shows five simple standing figures of different heights, widths, and skin tones, one using a wheelchair, all smiling. The right panel, labeled "Media often shows one narrow image, edited and repeated," shows three identical tall, thin figures with a sparkle-and-filter icon above them. A caption reads "Media images are chosen, edited, and repeated — not a picture of every body."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-008-01-media-image-pipeline desc-L-07-008-01-media-image-pipeline">
+  <title id="title-L-07-008-01-media-image-pipeline">Real people versus the repeated edited image media often shows</title>
+  <desc id="desc-L-07-008-01-media-image-pipeline">Two panels side by side. The left panel, labeled "Real people — every body is different," shows five simple standing figures of different heights, widths, and skin tones, one using a wheelchair, all smiling. The right panel, labeled "Media often shows one narrow image, edited and repeated," shows three identical tall, thin figures with a sparkle-and-filter icon above them. A caption reads "Media images are chosen, edited, and repeated — not a picture of every body."</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -112,5 +112,5 @@
 
   <!-- caption -->
   <rect x="70" y="452" width="372" height="40" rx="8" fill="#7a9e7e" fill-opacity="0.18" stroke="#7a9e7e" stroke-width="2"/>
-  <text x="256" y="504" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#2b3a42">Media images are chosen, edited, and repeated — not a picture of every body.</text>
+  <text x="256" y="504" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">Media images are chosen, edited, and repeated — not a picture of every body.</text>
 </svg>

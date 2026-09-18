@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">How things change: a toy then and now</title>
-  <desc id="desc">Two panels side by side. The left panel, labeled "then," shows a simple woven cloth doll. The right panel, labeled "now," shows a ball. A dashed line in the middle is labeled "same job: play," showing that although the toy changed, its job stayed the same. Neither toy is shown as better than the other. Prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-010-03-how-things-change desc-L-00-010-03-how-things-change">
+  <title id="title-L-00-010-03-how-things-change">How things change: a toy then and now</title>
+  <desc id="desc-L-00-010-03-how-things-change">Two panels side by side. The left panel, labeled "then," shows a simple woven cloth doll. The right panel, labeled "now," shows a ball. A dashed line in the middle is labeled "same job: play," showing that although the toy changed, its job stayed the same. Neither toy is shown as better than the other. Prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -50,5 +50,5 @@
   <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">same job</text>
   <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">play</text>
 
-  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Both are for playing &#183; one thing changed, one stayed</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="16.1" fill="#4f6d7a">Both are for playing &#183; one thing changed, one stayed</text>
 </svg>

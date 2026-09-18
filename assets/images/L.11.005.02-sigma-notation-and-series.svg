@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Sigma Notation and Series</title>
-  <desc id="desc">Left panel: sigma notation with an uppercase sigma followed by a general term, with the start index, end index, and general term labeled with small arrows. Right panel: a pairing diagram folding the numbers 1 through 8 into four pairs (1 and 8, 2 and 7, 3 and 6, 4 and 5), each summing to 9, to show the arithmetic-series formula.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-005-02-sigma-notation-and-series desc-L-11-005-02-sigma-notation-and-series">
+  <title id="title-L-11-005-02-sigma-notation-and-series">Sigma Notation and Series</title>
+  <desc id="desc-L-11-005-02-sigma-notation-and-series">Left panel: sigma notation with an uppercase sigma followed by a general term, with the start index, end index, and general term labeled with small arrows. Right panel: a pairing diagram folding the numbers 1 through 8 into four pairs (1 and 8, 2 and 7, 3 and 6, 4 and 5), each summing to 9, to show the arithmetic-series formula.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Sigma Notation and the Pairing Trick</text>
@@ -17,8 +17,8 @@
   <text x="150" y="256" font-family="sans-serif" font-size="13" fill="#4f6d7a">lower index (start)</text>
   <line x1="165" y1="178" x2="215" y2="150" stroke="#e0a458" stroke-width="2"/>
   <text x="218" y="146" font-family="sans-serif" font-size="13" fill="#4f6d7a">general term</text>
-  <text x="70" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"add every term a&#7522;,</text>
-  <text x="70" y="320" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">from i = 1 up to n"</text>
+  <text x="70" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">"add every term a&#7522;,</text>
+  <text x="70" y="320" text-anchor="middle" font-family="sans-serif" font-size="12.6" fill="#222222">from i = 1 up to n"</text>
 
   <!-- Pairing panel -->
   <text x="384" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Pairing 1..8</text>
@@ -32,10 +32,10 @@
   <line x1="392" y1="188" x2="452" y2="98" stroke="#e0a458" stroke-width="2"/>
   <text x="384" y="240" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">4 pairs, each 9 &#8594; total 36</text>
   <rect x="300" y="264" width="168" height="72" fill="#ffffff" stroke="#7a9e7e" stroke-width="2" rx="6"/>
-  <text x="384" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">S&#8345; = (n/2)&#183;(a&#8321; + a&#8345;)</text>
+  <text x="384" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">S&#8345; = (n/2)&#183;(a&#8321; + a&#8345;)</text>
   <text x="384" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">= (8/2)&#183;(1 + 8) = 36</text>
   <text x="384" y="328" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">first + last, paired</text>
 
-  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Geometric series: S&#8345; = a&#8321;&#183;(1 &#8722; r&#8319;)/(1 &#8722; r)</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Geometric series: S&#8345; = a&#8321;&#183;(1 &#8722; r&#8319;)/(1 &#8722; r)</text>
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Two formulas turn a long addition into one step.</text>
 </svg>

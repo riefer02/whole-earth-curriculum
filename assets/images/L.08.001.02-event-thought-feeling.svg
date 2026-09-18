@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Event, thought, feeling: taking a reaction apart</title>
-  <desc id="desc">Three stacked boxes connected by downward arrows: EVENT, THOUGHT, FEELING. Below them, a worked example fills each box: a friend walks past without saying hello; the thought "she is angry with me"; the feeling "hurt". A caption reads "same event, different thought, different feeling". Outline and label only, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-001-02-event-thought-feeling desc-L-08-001-02-event-thought-feeling">
+  <title id="title-L-08-001-02-event-thought-feeling">Event, thought, feeling: taking a reaction apart</title>
+  <desc id="desc-L-08-001-02-event-thought-feeling">Three stacked boxes connected by downward arrows: EVENT, THOUGHT, FEELING. Below them, a worked example fills each box: a friend walks past without saying hello; the thought "she is angry with me"; the feeling "hurt". A caption reads "same event, different thought, different feeling". Outline and label only, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -29,6 +29,6 @@
 
   <!-- Caption -->
   <rect x="60" y="412" width="392" height="72" rx="14" fill="#f2efe6" stroke="#7a9e7e" stroke-width="2"/>
-  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Same event, different thought &#8594; different feeling</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="16.7" font-weight="bold" fill="#2b3a42">Same event, different thought &#8594; different feeling</text>
   <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the thought is the hinge between event and feeling</text>
 </svg>

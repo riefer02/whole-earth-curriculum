@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">One care, two acts</title>
-  <desc id="desc">Two acts of care are joined by an arrow to show they are one care. On the left, a child with medium skin turns off a running tap, captioned act 1: waste less — turning off the tap saves water. On the right, the same saved water is poured from a cup onto a plant, captioned act 2: care for a living thing — the saved water helps the plant grow. An arrow between them reads "the water you save is the water the plant drinks." Word labels and the arrow carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that wasting less and caring for living things are one care for one shared home.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-011-09-one-care-two-acts desc-L-01-011-09-one-care-two-acts">
+  <title id="title-L-01-011-09-one-care-two-acts">One care, two acts</title>
+  <desc id="desc-L-01-011-09-one-care-two-acts">Two acts of care are joined by an arrow to show they are one care. On the left, a child with medium skin turns off a running tap, captioned act 1: waste less — turning off the tap saves water. On the right, the same saved water is poured from a cup onto a plant, captioned act 2: care for a living thing — the saved water helps the plant grow. An arrow between them reads "the water you save is the water the plant drinks." Word labels and the arrow carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that wasting less and caring for living things are one care for one shared home.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -12,7 +12,7 @@
   <rect x="286" y="90" width="206" height="290" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
 
   <text x="123" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">act 1: waste less</text>
-  <text x="389" y="114" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">act 2: care for a living thing</text>
+  <text x="389" y="114" text-anchor="middle" font-family="sans-serif" font-size="14.4" font-weight="bold" fill="#2b3a42">act 2: care for a living thing</text>
 
   <!-- act 1: turning off tap -->
   <path d="M78 190 L168 190" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>
@@ -52,6 +52,6 @@
   <text x="389" y="356" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the saved water helps</text>
   <text x="389" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the plant grow</text>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Saving water IS caring for the living things that need it.</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15.8" font-weight="bold" fill="#2b3a42">Saving water IS caring for the living things that need it.</text>
   <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Two faces of one act of care for our shared home.</text>
 </svg>

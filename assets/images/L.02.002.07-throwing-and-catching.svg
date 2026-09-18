@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Throwing and catching with both hands</title>
-  <desc id="desc">Two panels. Throw: a child pushes a soft ball with both hands toward a target. Catch: a child catches a ball with both hands open and ready, and a seated child in a wheelchair catches too. Arrows show the ball's path. Each panel is labeled with words, so it prints clearly in grayscale and the meaning does not depend on color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-002-07-throwing-and-catching desc-L-02-002-07-throwing-and-catching">
+  <title id="title-L-02-002-07-throwing-and-catching">Throwing and catching with both hands</title>
+  <desc id="desc-L-02-002-07-throwing-and-catching">Two panels. Throw: a child pushes a soft ball with both hands toward a target. Catch: a child catches a ball with both hands open and ready, and a seated child in a wheelchair catches too. Arrows show the ball's path. Each panel is labeled with words, so it prints clearly in grayscale and the meaning does not depend on color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Throwing and Catching with Both Hands</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24.8" font-weight="bold" fill="#2b3a42">Throwing and Catching with Both Hands</text>
 
   <!-- ===== Throw panel ===== -->
   <g>

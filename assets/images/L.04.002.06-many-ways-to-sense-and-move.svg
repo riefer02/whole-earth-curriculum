@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Many ways to sense and move</title>
-  <desc id="desc">A row of five diverse figures going about everyday life, each naturally using an aid. From left to right: a child with glasses reading a book, a child with a hearing aid, a child in a wheelchair, a person with a white cane, and a person with a prosthetic leg. All are shown with equal dignity and ease, in varied skin tones.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-002-06-many-ways-to-sense-and-move desc-L-04-002-06-many-ways-to-sense-and-move">
+  <title id="title-L-04-002-06-many-ways-to-sense-and-move">Many ways to sense and move</title>
+  <desc id="desc-L-04-002-06-many-ways-to-sense-and-move">A row of five diverse figures going about everyday life, each naturally using an aid. From left to right: a child with glasses reading a book, a child with a hearing aid, a child in a wheelchair, a person with a white cane, and a person with a prosthetic leg. All are shown with equal dignity and ease, in varied skin tones.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -67,6 +67,6 @@
     <!-- prosthetic leg -->
     <line x1="482" y1="240" x2="486" y2="292" stroke="#4f6d7a" stroke-width="6" stroke-linecap="round"/>
     <rect x="478" y="290" width="18" height="8" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-    <text x="474" y="322" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">prosthetic</text>
+    <text x="474" y="322" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#222222">prosthetic</text>
   </g>
 </svg>

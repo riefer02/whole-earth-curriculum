@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Body signal map: hunger, fatigue, stress</title>
-  <desc id="desc">A simple front-facing human figure with three labeled signals marked by leader lines. Hunger is marked at the stomach as an empty or rumbling stomach. Fatigue is marked at the eyes and shoulders as heavy eyelids and drooping shoulders. Stress is marked at the chest as a fast heart and tight chest. The figure is neutral and calm; shapes and labels, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-002-01-reading-my-bodys-signals desc-L-07-002-01-reading-my-bodys-signals">
+  <title id="title-L-07-002-01-reading-my-bodys-signals">Body signal map: hunger, fatigue, stress</title>
+  <desc id="desc-L-07-002-01-reading-my-bodys-signals">A simple front-facing human figure with three labeled signals marked by leader lines. Hunger is marked at the stomach as an empty or rumbling stomach. Fatigue is marked at the eyes and shoulders as heavy eyelids and drooping shoulders. Stress is marked at the chest as a fast heart and tight chest. The figure is neutral and calm; shapes and labels, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

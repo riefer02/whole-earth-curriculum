@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My daily routine: study, sleep, movement</title>
-  <desc id="desc">A 24-hour wheel divided into labeled segments. A large SLEEP segment reads "about 8–10 hours." A STUDY segment reads "with breaks." A MOVEMENT segment reads "daily." A MEALS &amp; REST segment completes the circle. Around the outside, a line reads "each block serves my goal." A caption below reads "Small, repeated actions add up to the life I want." Meaning is carried by labels and segment position, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-001-10-my-routine desc-L-07-001-10-my-routine">
+  <title id="title-L-07-001-10-my-routine">My daily routine: study, sleep, movement</title>
+  <desc id="desc-L-07-001-10-my-routine">A 24-hour wheel divided into labeled segments. A large SLEEP segment reads "about 8–10 hours." A STUDY segment reads "with breaks." A MOVEMENT segment reads "daily." A MEALS &amp; REST segment completes the circle. Around the outside, a line reads "each block serves my goal." A caption below reads "Small, repeated actions add up to the life I want." Meaning is carried by labels and segment position, not color, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

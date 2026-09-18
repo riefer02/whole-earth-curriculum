@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Honoring Many Traditions</title>
-  <desc id="desc">A central circle labeled "a living tradition" with four smaller circles around it, each labeled one act of honoring — recognize it, credit its keepers, protect it, pass it on. Arrows run both ways between center and each small circle. Labels carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-009-07-honoring-many-traditions desc-L-12-009-07-honoring-many-traditions">
+  <title id="title-L-12-009-07-honoring-many-traditions">Honoring Many Traditions</title>
+  <desc id="desc-L-12-009-07-honoring-many-traditions">A central circle labeled "a living tradition" with four smaller circles around it, each labeled one act of honoring — recognize it, credit its keepers, protect it, pass it on. Arrows run both ways between center and each small circle. Labels carry the meaning, so it prints in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Four Acts of Honoring a Tradition</text>
@@ -33,5 +33,5 @@
   <line x1="334" y1="262" x2="316" y2="276" stroke="#2b3a42" stroke-width="3"/>
   <line x1="256" y1="310" x2="256" y2="366" stroke="#2b3a42" stroke-width="3"/>
 
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Honoring is more than tolerating — and more than taking without credit.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">Honoring is more than tolerating — and more than taking without credit.</text>
 </svg>

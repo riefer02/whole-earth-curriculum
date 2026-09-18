@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Why we brush and rest</title>
-  <desc id="desc">On the left, a friendly tooth with a toothbrush and motion arcs, with sun and moon labeled morning and night, plus a chewing stick and a clean finger as other ways to clean teeth. On the right, a bed with a crescent moon and a sleeping child labeled rest and sleep, with the note that sleep helps the body grow, heal, and fight sickness. Labels and shapes carry the meaning in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-008-06-why-we-brush-and-rest desc-L-02-008-06-why-we-brush-and-rest">
+  <title id="title-L-02-008-06-why-we-brush-and-rest">Why we brush and rest</title>
+  <desc id="desc-L-02-008-06-why-we-brush-and-rest">On the left, a friendly tooth with a toothbrush and motion arcs, with sun and moon labeled morning and night, plus a chewing stick and a clean finger as other ways to clean teeth. On the right, a bed with a crescent moon and a sleeping child labeled rest and sleep, with the note that sleep helps the body grow, heal, and fight sickness. Labels and shapes carry the meaning in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Why We Brush and Rest</text>
@@ -20,10 +20,10 @@
     <text x="108" y="152" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">morning</text>
     <circle cx="156" cy="120" r="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
     <text x="156" y="152" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">night</text>
-    <text x="132" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">other ways: a chewing stick or a clean finger</text>
+    <text x="132" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">other ways: a chewing stick or a clean finger</text>
     <text x="132" y="387.1" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">brushing washes away bits that</text>
     <text x="132" y="405.3" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">can hurt teeth</text>
-    <text x="132" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">morning and night, about two minutes</text>
+    <text x="132" y="366" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">morning and night, about two minutes</text>
   </g>
 
   <!-- Rest panel -->
@@ -40,8 +40,8 @@
     <text x="380" y="341.6" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">heal, and fight sickness</text>
     <text x="380" y="384.8" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">most children your age need about 9</text>
     <text x="380" y="401.7" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">to 12 hours</text>
-    <text x="380" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">every body's rest can look a little different</text>
+    <text x="380" y="366" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">every body's rest can look a little different</text>
   </g>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Brush and rest — two ways to care for the body that cares for you.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13.9" font-weight="bold" fill="#2b3a42">Brush and rest — two ways to care for the body that cares for you.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 380" role="img" aria-labelledby="title desc">
-  <title id="title">Tracing a migration: the settlement of the Pacific</title>
-  <desc id="desc">A map-style diagram titled "Tracing a migration: the settlement of the Pacific." A chain of islands is connected by curved arrows that move from left to right, showing a gradual eastward voyage across water. Near the starting islands on the left, a label reads "push — islands grow full, families need more." Near the farthest islands on the right, a label reads "pull — new islands, fresh water, and food." Small double-hulled canoes with sails sit between the islands, and a star and wave marks suggest navigation. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 380" role="img" aria-labelledby="title-L-05-010-06-people-on-the-move desc-L-05-010-06-people-on-the-move">
+  <title id="title-L-05-010-06-people-on-the-move">Tracing a migration: the settlement of the Pacific</title>
+  <desc id="desc-L-05-010-06-people-on-the-move">A map-style diagram titled "Tracing a migration: the settlement of the Pacific." A chain of islands is connected by curved arrows that move from left to right, showing a gradual eastward voyage across water. Near the starting islands on the left, a label reads "push — islands grow full, families need more." Near the farthest islands on the right, a label reads "pull — new islands, fresh water, and food." Small double-hulled canoes with sails sit between the islands, and a star and wave marks suggest navigation. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="380" fill="#fdfbf7"/>
   <text x="256" y="34.4" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Tracing a Migration: The Settlement of the Pacific</text>
@@ -46,11 +46,11 @@
   <!-- push / pull labels -->
   <rect x="30" y="262" width="196" height="54" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="128" y="284" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">push</text>
-  <text x="128" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">islands grow full, families need more</text>
+  <text x="128" y="304" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#2b3a42">islands grow full, families need more</text>
 
   <rect x="288" y="262" width="196" height="54" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="386" y="284" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">pull</text>
   <text x="386" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">new islands, fresh water, and food</text>
 
-  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">A voyage of skill, courage, and hope — over about three thousand years.</text>
+  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#2b3a42">A voyage of skill, courage, and hope — over about three thousand years.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Forests and Water</title>
-  <desc id="desc">Two panels. The left shows a forested slope with a flowing stream and animals. The right shows the same slope cleared, the stream thinner, and dry cracked ground, with a water jar, showing deforestation and water scarcity.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-009-10-forests-and-water desc-L-11-009-10-forests-and-water">
+  <title id="title-L-11-009-10-forests-and-water">Forests and Water</title>
+  <desc id="desc-L-11-009-10-forests-and-water">Two panels. The left shows a forested slope with a flowing stream and animals. The right shows the same slope cleared, the stream thinner, and dry cracked ground, with a water jar, showing deforestation and water scarcity.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Forest and Water, One Loop</text>
@@ -30,5 +30,5 @@
   <path d="M430 270 q12 -2 14 -16 q2 -14 -12 -16 l2 16 q-14 -2 -16 12 q-2 14 12 16 z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <text x="436" y="316" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">water jar</text>
 
-  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Clearing the forest changes the water — and the people downstream.</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#222222">Clearing the forest changes the water — and the people downstream.</text>
 </svg>

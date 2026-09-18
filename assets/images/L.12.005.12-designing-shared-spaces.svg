@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Designing Shared Spaces: Access and Sustainability</title>
-  <desc id="desc">A plan view of a shared space with a ramp whose rise and run are labeled (rise 1 meter, run 12 meters, slope 1:12), a winding accessible path, a gathering area, and a garden. A note says a gentler slope serves more people.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-12-designing-shared-spaces desc-L-12-005-12-designing-shared-spaces">
+  <title id="title-L-12-005-12-designing-shared-spaces">Designing Shared Spaces: Access and Sustainability</title>
+  <desc id="desc-L-12-005-12-designing-shared-spaces">A plan view of a shared space with a ramp whose rise and run are labeled (rise 1 meter, run 12 meters, slope 1:12), a winding accessible path, a gathering area, and a garden. A note says a gentler slope serves more people.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">A Shared Space Built for Everyone</text>
@@ -33,8 +33,8 @@
 
   <!-- slope label -->
   <rect x="250" y="90" width="222" height="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
-  <text x="361" y="114" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">slope = rise &#247; run = 1 &#247; 12 = 1:12</text>
+  <text x="361" y="114" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#222222">slope = rise &#247; run = 1 &#247; 12 = 1:12</text>
   <text x="361" y="136" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">gentle = usable by everyone</text>
 
-  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Access and sustainability are geometry &#8212; not afterthoughts (S-483, S-395).</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Access and sustainability are geometry &#8212; not afterthoughts (S-483, S-395).</text>
 </svg>

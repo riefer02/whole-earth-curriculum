@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Plan It, Try It, Adjust It: a goal loop</title>
-  <desc id="desc">A three-part plan-try-adjust loop. On the left, a child writes numbered steps up a short staircase labeled "my plan," with a goal flag at the top. In the middle, the child tries the first step and a small wobble is marked "what happened." On the right, a curved arrow labeled "adjust" loops back to the staircase where one step is redrawn, showing that when a step does not work you change it and try again.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-012-03-plan-it-try-it-adjust-it desc-L-04-012-03-plan-it-try-it-adjust-it">
+  <title id="title-L-04-012-03-plan-it-try-it-adjust-it">Plan It, Try It, Adjust It: a goal loop</title>
+  <desc id="desc-L-04-012-03-plan-it-try-it-adjust-it">A three-part plan-try-adjust loop. On the left, a child writes numbered steps up a short staircase labeled "my plan," with a goal flag at the top. In the middle, the child tries the first step and a small wobble is marked "what happened." On the right, a curved arrow labeled "adjust" loops back to the staircase where one step is redrawn, showing that when a step does not work you change it and try again.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

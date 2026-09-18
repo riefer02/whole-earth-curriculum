@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Transformations: slide, turn, flip, and scale</title>
-  <desc id="desc">A base triangle with four arrows leading to its images. A translation slides it right, a rotation turns it a quarter turn, a reflection flips it over a line, and a dilation enlarges it. The three rigid moves are labeled "same size, same shape — congruent," and the dilation is labeled "same shape, different size — similar." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-005-08-transformations desc-L-08-005-08-transformations">
+  <title id="title-L-08-005-08-transformations">Transformations: slide, turn, flip, and scale</title>
+  <desc id="desc-L-08-005-08-transformations">A base triangle with four arrows leading to its images. A translation slides it right, a rotation turns it a quarter turn, a reflection flips it over a line, and a dilation enlarges it. The three rigid moves are labeled "same size, same shape — congruent," and the dilation is labeled "same shape, different size — similar." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Four Moves: Slide, Turn, Flip, Scale</text>

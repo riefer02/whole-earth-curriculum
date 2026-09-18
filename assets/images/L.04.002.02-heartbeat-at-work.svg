@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Heartbeat at rest and at work</title>
-  <desc id="desc">Two hearts side by side. The left heart is labeled "rest" with four slow, evenly spaced beat dots. The right heart is labeled "work" with seven faster, closer beat dots, showing the heartbeat speeds up with activity.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-002-02-heartbeat-at-work desc-L-04-002-02-heartbeat-at-work">
+  <title id="title-L-04-002-02-heartbeat-at-work">Heartbeat at rest and at work</title>
+  <desc id="desc-L-04-002-02-heartbeat-at-work">Two hearts side by side. The left heart is labeled "rest" with four slow, evenly spaced beat dots. The right heart is labeled "work" with seven faster, closer beat dots, showing the heartbeat speeds up with activity.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -17,6 +17,7 @@
     <circle cx="176" cy="260" r="9"/>
   </g>
   <text x="116" y="300" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">rest</text>
+  <text x="116" y="326" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">4 slow beats</text>
 
   <!-- Work heart -->
   <g transform="translate(336, 92) scale(3.0)">
@@ -32,13 +33,19 @@
     <circle cx="468" cy="260" r="9"/>
   </g>
   <text x="384" y="300" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">work</text>
+  <text x="384" y="326" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">7 fast beats</text>
 
   <!-- Arrow from rest to work -->
-  <path d="M212 180 L288 180" stroke="#2b3a42" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M212 180 L288 180" stroke="#2b3a42" stroke-width="3" fill="none" marker-end="url(#arrow-L-04-002-02-heartbeat-at-work)"/>
   <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="arrow-L-04-002-02-heartbeat-at-work" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
     </marker>
   </defs>
   <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">when I work, my heart works too</text>
+
+  <rect x="56" y="384" width="400" height="92" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Count the dots: 4 at rest, 7 at work</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">number + spacing show speed — not color alone</text>
+  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">feel it: hand on chest, rest, then move</text>
 </svg>

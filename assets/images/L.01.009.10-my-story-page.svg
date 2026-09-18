@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My people, places, and long ago story page</title>
-  <desc id="desc">This is a story page divided into five labeled sections, like a foldable a learner fills in. The sections are: my day in order, with a sun and an arrow; then and now, with a small pot and a spinning top; a tradition, with a heart; my place, with a hill and water; and a kind act, with a hand and a small heart. Each section has an icon and a clear label. The labels and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and shows how all the pieces of the unit fit together into one story, and that every learner's story is different and every one belongs.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-009-10-my-story-page desc-L-01-009-10-my-story-page">
+  <title id="title-L-01-009-10-my-story-page">My people, places, and long ago story page</title>
+  <desc id="desc-L-01-009-10-my-story-page">This is a story page divided into five labeled sections, like a foldable a learner fills in. The sections are: my day in order, with a sun and an arrow; then and now, with a small pot and a spinning top; a tradition, with a heart; my place, with a hill and water; and a kind act, with a hand and a small heart. Each section has an icon and a clear label. The labels and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and shows how all the pieces of the unit fit together into one story, and that every learner's story is different and every one belongs.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">My People, Places and Long Ago Story</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="25.5" font-weight="bold" fill="#2b3a42">My People, Places and Long Ago Story</text>
 
   <!-- the page -->
   <rect x="28" y="66" width="456" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -64,6 +64,6 @@
     <text x="328" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a kind act</text>
   </g>
 
-  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every learner's story is different, and every one belongs.</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">Every learner's story is different, and every one belongs.</text>
   <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Told from many perspectives &#183; never just one</text>
 </svg>

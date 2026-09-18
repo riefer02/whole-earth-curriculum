@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Trust built in small steps</title>
-  <desc id="desc">A jar is filled one small pebble at a time. Each pebble is labeled with a trust-building behavior: reliability, honesty, respect, care, owning mistakes. A small crack on the jar is labeled repair, showing that a rupture can be mended. Labels, not color, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-005-03-trust-built-in-small-steps desc-L-09-005-03-trust-built-in-small-steps">
+  <title id="title-L-09-005-03-trust-built-in-small-steps">Trust built in small steps</title>
+  <desc id="desc-L-09-005-03-trust-built-in-small-steps">A jar is filled one small pebble at a time. Each pebble is labeled with a trust-building behavior: reliability, honesty, respect, care, owning mistakes. A small crack on the jar is labeled repair, showing that a rupture can be mended. Labels, not color, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -34,5 +34,5 @@
   <path d="M150 220 L166 250 L154 282" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   <text x="104" y="258" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">repair</text>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">One pebble at a time — and a crack can be mended.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="18.7" fill="#4f6d7a">One pebble at a time — and a crack can be mended.</text>
 </svg>

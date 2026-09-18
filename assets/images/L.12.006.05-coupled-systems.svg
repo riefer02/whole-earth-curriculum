@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Coupled Systems: Ecosystem, Economy, Health</title>
-  <desc id="desc">Three labeled circles — Ecosystem, Economy, Health — connected by arrows showing what flows between them: food, water, and materials, work and income, disease and health, with a feedback loop curving back.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-006-05-coupled-systems desc-L-12-006-05-coupled-systems">
+  <title id="title-L-12-006-05-coupled-systems">Coupled Systems: Ecosystem, Economy, Health</title>
+  <desc id="desc-L-12-006-05-coupled-systems">Three labeled circles — Ecosystem, Economy, Health — connected by arrows showing what flows between them: food, water, and materials, work and income, disease and health, with a feedback loop curving back.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">One Coupled System, Three Views</text>

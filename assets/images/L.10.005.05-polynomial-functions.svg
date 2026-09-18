@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Polynomial Functions: Shape and Key Features</title>
-  <desc id="desc">A cubic function graph with its x-intercepts (zeros) marked, a local maximum and minimum (turning points) labeled, and arrows showing the end behavior (down on the far left, up on the far right), with the factored form written beside it.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-005-05-polynomial-functions desc-L-10-005-05-polynomial-functions">
+  <title id="title-L-10-005-05-polynomial-functions">Polynomial Functions: Shape and Key Features</title>
+  <desc id="desc-L-10-005-05-polynomial-functions">A cubic function graph with its x-intercepts (zeros) marked, a local maximum and minimum (turning points) labeled, and arrows showing the end behavior (down on the far left, up on the far right), with the factored form written beside it.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Polynomial: f(x) = (x&#8722;1)(x+2)(x&#8722;3)</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="19.1" fill="#2b3a42" font-weight="bold">A Polynomial: f(x) = (x&#8722;1)(x+2)(x&#8722;3)</text>
 
   <!-- Axes -->
   <line x1="70" y1="290" x2="470" y2="290" stroke="#2b3a42" stroke-width="2"/>
@@ -40,8 +40,8 @@
   <!-- End behavior -->
   <text x="80" y="330" font-family="sans-serif" font-size="13" fill="#4f6d7a">as x &#8594; &#8722;&#8734;,</text>
   <text x="80" y="346" font-family="sans-serif" font-size="13" fill="#4f6d7a">f(x) &#8594; &#8722;&#8734;</text>
-  <text x="360" y="150" font-family="sans-serif" font-size="13" fill="#4f6d7a">as x &#8594; +&#8734;,</text>
-  <text x="360" y="166" font-family="sans-serif" font-size="13" fill="#4f6d7a">f(x) &#8594; +&#8734;</text>
+  <text x="360" y="150" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">as x &#8594; +&#8734;,</text>
+  <text x="360" y="166" font-family="sans-serif" font-size="12.8" fill="#4f6d7a">f(x) &#8594; +&#8734;</text>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Degree 3, leading term x&#179; &#8594; odd degree, positive lead: down on the left, up on the right.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Degree 3, leading term x&#179; &#8594; odd degree, positive lead: down on the left, up on the right.</text>
 </svg>

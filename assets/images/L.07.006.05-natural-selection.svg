@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Natural selection shapes populations</title>
-  <desc id="desc">A four-step cycle showing natural selection. Step 1 "Variation exists" shows varied beetles. Step 2 "The environment selects" shows a bird eating the beetles that stand out on dark bark while the darker ones blend in. Step 3 "Survivors reproduce" shows the darker beetles leaving offspring. Step 4 "The population shifts" shows a row of mostly dark beetles. An arrow loops from step 4 back to step 1, labeled "over many generations." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-006-05-natural-selection desc-L-07-006-05-natural-selection">
+  <title id="title-L-07-006-05-natural-selection">Natural selection shapes populations</title>
+  <desc id="desc-L-07-006-05-natural-selection">A four-step cycle showing natural selection. Step 1 "Variation exists" shows varied beetles. Step 2 "The environment selects" shows a bird eating the beetles that stand out on dark bark while the darker ones blend in. Step 3 "Survivors reproduce" shows the darker beetles leaving offspring. Step 4 "The population shifts" shows a row of mostly dark beetles. An arrow loops from step 4 back to step 1, labeled "over many generations." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -27,11 +27,11 @@
   <text x="378" y="158" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">light beetles stand out — eaten first</text>
 
   <!-- arrow down -->
-  <path d="M134 172 L134 196" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr5)"/>
-  <path d="M378 172 L378 196" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr5)"/>
+  <path d="M134 172 L134 196" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr5-L-07-006-05-natural-selection)"/>
+  <path d="M378 172 L378 196" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr5-L-07-006-05-natural-selection)"/>
 
   <defs>
-    <marker id="arr5" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="arr5-L-07-006-05-natural-selection" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0 0 L8 3 L0 6 z" fill="#2b3a42"/>
     </marker>
   </defs>
@@ -56,11 +56,11 @@
   <text x="378" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">now mostly dark — better hidden</text>
 
   <!-- loop back -->
-  <path d="M256 320 C256 360 40 360 40 320 L40 172" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arr5)"/>
+  <path d="M256 320 C256 360 40 360 40 320 L40 172" fill="none" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arr5-L-07-006-05-natural-selection)"/>
   <text x="52" y="352" font-family="sans-serif" font-size="13" fill="#7a9e7e">over many generations</text>
 
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">The environment does not choose on purpose —</text>
-  <text x="256" y="444.7" text-anchor="middle" font-family="sans-serif" font-size="15.4" font-weight="bold" fill="#222222">it simply makes some traits more likely to survive and reproduce.</text>
+  <text x="256" y="444.7" text-anchor="middle" font-family="sans-serif" font-size="14.1" font-weight="bold" fill="#222222">it simply makes some traits more likely to survive and reproduce.</text>
 
   <rect x="96" y="462" width="320" height="40" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
   <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">variation + inheritance + selection → change over time</text>

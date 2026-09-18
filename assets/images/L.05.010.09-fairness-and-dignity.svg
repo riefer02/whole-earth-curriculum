@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 440" role="img" aria-labelledby="title desc">
-  <title id="title">Fairness and dignity: honored or denied</title>
-  <desc id="desc">A two-panel poster titled "Fairness and dignity: honored or denied." The left panel, "dignity honored," shows a table where several people sit together sharing food, including a figure in a wheelchair, with the note "everyone has a place, a name, and a share." The right panel, "dignity denied," shows a figure shut out of a doorway while others sit inside, with the note "some are kept out, paid less, or treated as less." A caption reads "Fairness means equal respect and a fair chance; dignity means being treated as a person of worth." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 440" role="img" aria-labelledby="title-L-05-010-09-fairness-and-dignity desc-L-05-010-09-fairness-and-dignity">
+  <title id="title-L-05-010-09-fairness-and-dignity">Fairness and dignity: honored or denied</title>
+  <desc id="desc-L-05-010-09-fairness-and-dignity">A two-panel poster titled "Fairness and dignity: honored or denied." The left panel, "dignity honored," shows a table where several people sit together sharing food, including a figure in a wheelchair, with the note "everyone has a place, a name, and a share." The right panel, "dignity denied," shows a figure shut out of a doorway while others sit inside, with the note "some are kept out, paid less, or treated as less." A caption reads "Fairness means equal respect and a fair chance; dignity means being treated as a person of worth." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="440" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Fairness and Dignity: Honored or Denied</text>
@@ -66,6 +66,6 @@
   <text x="376" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">some are kept out,</text>
   <text x="376" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">paid less, or treated as less</text>
 
-  <text x="256" y="396.2" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Fairness means equal respect and a fair chance; dignity means being</text>
+  <text x="256" y="396.2" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#2b3a42">Fairness means equal respect and a fair chance; dignity means being</text>
   <text x="256" y="414.4" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">treated as a person of worth.</text>
 </svg>

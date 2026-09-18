@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Two stories for the Sun</title>
-  <desc id="desc">Two panels each tell one people's story of the Sun. The left panel shows a radiant figure emerging from a cave as others celebrate, labeled "Japan — Amaterasu, the Sun returning." The right panel shows a figure in a boat crossing a sky with a horizon, labeled "Egypt — Ra, the Sun crossing the sky." Between them a caption reads "the same Sun, two peoples' stories, and both watched it closely." Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-009-06-two-stories-for-the-sun desc-L-04-009-06-two-stories-for-the-sun">
+  <title id="title-L-04-009-06-two-stories-for-the-sun">Two stories for the Sun</title>
+  <desc id="desc-L-04-009-06-two-stories-for-the-sun">Two panels each tell one people's story of the Sun. The left panel shows a radiant figure emerging from a cave as others celebrate, labeled "Japan — Amaterasu, the Sun returning." The right panel shows a figure in a boat crossing a sky with a horizon, labeled "Egypt — Ra, the Sun crossing the sky." Between them a caption reads "the same Sun, two peoples' stories, and both watched it closely." Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Two Stories for the Sun</text>
-  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same Sun &#8212; two peoples&#8217; stories, and both watched it closely.</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">The same Sun &#8212; two peoples&#8217; stories, and both watched it closely.</text>
 
   <!-- left: Amaterasu -->
   <rect x="30" y="88" width="216" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Analyzing the features of two patterns</title>
-  <desc id="desc">Two patterns side by side. Left: a growing pattern 2, 5, 8, 11 with an arrow labeled "changes: the numbers" and another labeled "stays the same: step +3," showing it increases by 3. Right: a repeating pattern A, B, A, B, A with an arrow labeled "changes: the letter" and another labeled "stays the same: order A then B," showing it repeats every 2.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-08-analyzing-pattern-features desc-L-04-005-08-analyzing-pattern-features">
+  <title id="title-L-04-005-08-analyzing-pattern-features">Analyzing the features of two patterns</title>
+  <desc id="desc-L-04-005-08-analyzing-pattern-features">Two patterns side by side. Left: a growing pattern 2, 5, 8, 11 with an arrow labeled "changes: the numbers" and another labeled "stays the same: step +3," showing it increases by 3. Right: a repeating pattern A, B, A, B, A with an arrow labeled "changes: the letter" and another labeled "stays the same: order A then B," showing it repeats every 2.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -32,7 +32,7 @@
     <text x="312" y="168">A</text><text x="356" y="168">B</text><text x="400" y="168">A</text><text x="444" y="168">B</text><text x="470" y="168">A</text>
   </g>
   <text x="372" y="200" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">changes: the letter</text>
-  <text x="372" y="226" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#7a9e7e">stays the same: the order, A then B</text>
+  <text x="372" y="226" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#7a9e7e">stays the same: the order, A then B</text>
   <text x="372" y="256" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">→ repeats every 2</text>
   <text x="372" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Predict the 11th shape:</text>
   <text x="372" y="330" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#7a9e7e">A (odd places are A)</text>

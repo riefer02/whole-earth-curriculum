@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A balance between doing it alone and asking for help</title>
-  <desc id="desc">A balance scale. One pan holds a single figure standing alone labeled 'on my own'; the other holds a figure reaching a hand toward another figure labeled 'ask for help'. The beam is level, showing both are parts of one healthy independence.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-11-independent-and-connected desc-L-10-001-11-independent-and-connected">
+  <title id="title-L-10-001-11-independent-and-connected">A balance between doing it alone and asking for help</title>
+  <desc id="desc-L-10-001-11-independent-and-connected">A balance scale. One pan holds a single figure standing alone labeled 'on my own'; the other holds a figure reaching a hand toward another figure labeled 'ask for help'. The beam is level, showing both are parts of one healthy independence.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- beam and support -->
   <path d="M120 150 L392 150" stroke="#2b3a42" stroke-width="5"/>
@@ -21,5 +21,5 @@
   <rect x="408" y="220" width="24" height="40" rx="10" fill="#e0a458"/>
   <path d="M386 210 Q402 202 408 216" fill="none" stroke="#2b3a42" stroke-width="3"/>
   <text x="404" y="278" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#222222">ask for help</text>
-  <text x="256" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">independence and asking for help hold each other up</text>
+  <text x="256" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="18.0" fill="#222222">independence and asking for help hold each other up</text>
 </svg>

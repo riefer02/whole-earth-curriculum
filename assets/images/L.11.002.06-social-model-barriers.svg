@@ -41,5 +41,5 @@
   <path d="M 390 236 L 376 270" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
   <path d="M 390 236 L 404 270" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
 
-  <text x="256" y="438" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">Remove the barrier, and more people can take part.</text>
+  <text x="256" y="438" font-family="sans-serif" font-size="18.3" fill="#2b3a42" text-anchor="middle">Remove the barrier, and more people can take part.</text>
 </svg>

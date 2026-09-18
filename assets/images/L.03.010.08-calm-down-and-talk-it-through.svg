@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Calm down and talk it through</title>
-  <desc id="desc">A five-step strip shows how to calm down and talk through a conflict. Step 1: stop and breathe (a child takes slow breaths). Step 2: name the feeling (a face with a label "I feel mad"). Step 3: say what you need (a speech bubble "I need a turn"). Step 4: listen to the other (an ear beside a face). Step 5: find a fair solve (two children shake hands over a shared ball). Numbered labels and the actions, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-010-08-calm-down-and-talk-it-through desc-L-03-010-08-calm-down-and-talk-it-through">
+  <title id="title-L-03-010-08-calm-down-and-talk-it-through">Calm down and talk it through</title>
+  <desc id="desc-L-03-010-08-calm-down-and-talk-it-through">A five-step strip shows how to calm down and talk through a conflict. Step 1: stop and breathe (a child takes slow breaths). Step 2: name the feeling (a face with a label "I feel mad"). Step 3: say what you need (a speech bubble "I need a turn"). Step 4: listen to the other (an ear beside a face). Step 5: find a fair solve (two children shake hands over a shared ball). Numbered labels and the actions, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -20,7 +20,7 @@
   <path d="M84 120 q8 -5 16 0 q-8 5 -16 0" fill="none" stroke="#4f6d7a" stroke-width="2"/>
   <text x="64" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">stop and</text>
   <text x="64" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">breathe</text>
-  <text x="64" y="264" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">slow in, slower out</text>
+  <text x="64" y="264" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">slow in, slower out</text>
 
   <!-- Step 2 -->
   <rect x="116" y="60" width="88" height="220" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -33,7 +33,7 @@
   <text x="160" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">"I feel mad"</text>
   <text x="160" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">name the</text>
   <text x="160" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">feeling</text>
-  <text x="160" y="264" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">say "I feel…"</text>
+  <text x="160" y="264" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">say "I feel…"</text>
 
   <!-- Step 3 -->
   <rect x="212" y="60" width="88" height="220" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -45,11 +45,11 @@
   <circle cx="261" cy="150" r="1.8" fill="#2b3a42"/>
   <rect x="244" y="168" width="24" height="34" rx="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <path d="M276 136 q12 -10 26 -6 l0 16 q-12 3 -24 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="292" y="138" font-family="sans-serif" font-size="10" fill="#222222">I need</text>
-  <text x="292" y="150" font-family="sans-serif" font-size="10" fill="#222222">a turn</text>
+  <text x="292" y="138" font-family="sans-serif" font-size="11" fill="#222222">I need</text>
+  <text x="292" y="150" font-family="sans-serif" font-size="11" fill="#222222">a turn</text>
   <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">say what</text>
   <text x="256" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">you need</text>
-  <text x="256" y="264" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">say "I need…"</text>
+  <text x="256" y="264" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">say "I need…"</text>
 
   <!-- Step 4 -->
   <rect x="308" y="60" width="88" height="220" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -65,7 +65,7 @@
   <path d="M347 213 Q352 218 357 213" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <text x="352" y="238" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">listen to</text>
   <text x="352" y="254" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">the other</text>
-  <text x="352" y="272" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">hear them too</text>
+  <text x="352" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">hear them too</text>
 
   <!-- Step 5 -->
   <rect x="404" y="60" width="88" height="220" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -91,7 +91,7 @@
 
   <text x="448" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">find a</text>
   <text x="448" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">fair solve</text>
-  <text x="448" y="264" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">works for both</text>
+  <text x="448" y="264" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">works for both</text>
 
   <!-- footer -->
   <rect x="76" y="304" width="360" height="80" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>

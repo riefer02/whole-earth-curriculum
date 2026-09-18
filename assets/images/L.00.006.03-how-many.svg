@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">How many are there? The last number you say is the answer</title>
-  <desc id="desc">A scattered collection of seven pebbles sits on the left. The seventh pebble is circled with a dashed ring and an arrow labeled last, showing that the last object you count gives the answer. On the right, a large card asks "How many?" and shows the numeral 7. A caption below says to count once and count again to check. Labels and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-006-03-how-many desc-L-00-006-03-how-many">
+  <title id="title-L-00-006-03-how-many">How many are there? The last number you say is the answer</title>
+  <desc id="desc-L-00-006-03-how-many">A scattered collection of seven pebbles sits on the left. The seventh pebble is circled with a dashed ring and an arrow labeled last, showing that the last object you count gives the answer. On the right, a large card asks "How many?" and shows the numeral 7. A caption below says to count once and count again to check. Labels and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -29,7 +29,7 @@
   <text x="388" y="268" text-anchor="middle" font-family="sans-serif" font-size="96" font-weight="bold" fill="#2b3a42">7</text>
   <text x="388" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">seven</text>
 
-  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Count once, then count again to check — that is how we know.</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">Count once, then count again to check — that is how we know.</text>
 
   <!-- Check badges -->
   <rect x="84" y="388" width="160" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>

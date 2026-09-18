@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Three shapers of emotion: context, belonging, and media</title>
-  <desc id="desc">A diagram with a feeling at the center and three arrows pointing in toward it, labeled social context, group belonging, and media, showing that all three shape what and how strongly a person feels.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-003-04-context-belonging desc-L-09-003-04-context-belonging">
+  <title id="title-L-09-003-04-context-belonging">Three shapers of emotion: context, belonging, and media</title>
+  <desc id="desc-L-09-003-04-context-belonging">A diagram with a feeling at the center and three arrows pointing in toward it, labeled social context, group belonging, and media, showing that all three shape what and how strongly a person feels.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">What Shapes What I Feel</text>
@@ -35,11 +35,11 @@
   <text x="288" y="456" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">and question the pull</text>
 
   <!-- arrows -->
-  <path d="M150 164 L228 276" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#sarr)"/>
-  <path d="M362 164 L284 276" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#sarr)"/>
-  <path d="M160 392 L220 330" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#sarr)"/>
+  <path d="M150 164 L228 276" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#sarr-L-09-003-04-context-belonging)"/>
+  <path d="M362 164 L284 276" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#sarr-L-09-003-04-context-belonging)"/>
+  <path d="M160 392 L220 330" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#sarr-L-09-003-04-context-belonging)"/>
   <defs>
-    <marker id="sarr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="sarr-L-09-003-04-context-belonging" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0 0 L8 3 L0 6 Z" fill="#4f6d7a"/>
     </marker>
   </defs>

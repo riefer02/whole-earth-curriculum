@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Arithmetic and Geometric Sequences</title>
-  <desc id="desc">Two rows side by side. The top row shows an arithmetic sequence as equal staircase steps labeled 2, 4, 6, 8 with a plus 2 arrow between them. The bottom row shows a geometric sequence as doubling bars labeled 1, 2, 4, 8 with a times 2 arrow between them. Each row has its common difference or common ratio noted.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-005-01-arithmetic-and-geometric-sequences desc-L-11-005-01-arithmetic-and-geometric-sequences">
+  <title id="title-L-11-005-01-arithmetic-and-geometric-sequences">Arithmetic and Geometric Sequences</title>
+  <desc id="desc-L-11-005-01-arithmetic-and-geometric-sequences">Two rows side by side. The top row shows an arithmetic sequence as equal staircase steps labeled 2, 4, 6, 8 with a plus 2 arrow between them. The bottom row shows a geometric sequence as doubling bars labeled 1, 2, 4, 8 with a times 2 arrow between them. Each row has its common difference or common ratio noted.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Two Kinds of Sequence</text>
@@ -16,7 +16,7 @@
   <text x="155" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#ffffff" font-weight="bold">6</text>
   <text x="201" y="106" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#ffffff" font-weight="bold">8</text>
   <text x="128" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">equal steps: +2 each time</text>
-  <text x="128" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a&#8345; = a&#8321; + (n&#8722;1)d</text>
+  <text x="128" y="316" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#222222">a&#8345; = a&#8321; + (n&#8722;1)d</text>
 
   <!-- Geometric panel -->
   <text x="384" y="66" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Geometric (multiply by r)</text>
@@ -28,8 +28,8 @@
   <text x="360" y="234" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffffff" font-weight="bold">2</text>
   <text x="404" y="186" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffffff" font-weight="bold">4</text>
   <text x="448" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#ffffff" font-weight="bold">8</text>
-  <text x="384" y="296" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">doubling piles: &#215;2 each time</text>
-  <text x="384" y="316" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a&#8345; = a&#8321; &#183; r&#8319;&#8315;&#185;</text>
+  <text x="384" y="296" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">doubling piles: &#215;2 each time</text>
+  <text x="384" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a&#8345; = a&#8321; &#183; r&#8319;&#8315;&#185;</text>
 
   <!-- Note box -->
   <rect x="90" y="344" width="332" height="120" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>

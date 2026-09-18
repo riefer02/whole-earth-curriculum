@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">How acts reach another's feelings</title>
-  <desc id="desc">Two rows show how an act reaches a feeling, drawn as an arrow from act to feeling. The top row shows a kind act: one child offers a cracker to another, an arrow points right, and a glad smiling face appears, labeled "a kind act reaches a warm feeling." The bottom row shows an unkind act: one child grabs a toy away while the other's hands are empty, an arrow points right, and a sad face appears, labeled "an unkind act reaches a hurt feeling." The arrows, labels, and faces, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-010-02-how-acts-reach-others-feelings desc-L-02-010-02-how-acts-reach-others-feelings">
+  <title id="title-L-02-010-02-how-acts-reach-others-feelings">How acts reach another's feelings</title>
+  <desc id="desc-L-02-010-02-how-acts-reach-others-feelings">Two rows show how an act reaches a feeling, drawn as an arrow from act to feeling. The top row shows a kind act: one child offers a cracker to another, an arrow points right, and a glad smiling face appears, labeled "a kind act reaches a warm feeling." The bottom row shows an unkind act: one child grabs a toy away while the other's hands are empty, an arrow points right, and a sad face appears, labeled "an unkind act reaches a hurt feeling." The arrows, labels, and faces, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -92,5 +92,5 @@
   <text x="360" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">an unkind act reaches</text>
   <text x="360" y="362" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a hurt feeling</text>
 
-  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Before I act, I can pause and ask: how will this reach them?</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">Before I act, I can pause and ask: how will this reach them?</text>
 </svg>

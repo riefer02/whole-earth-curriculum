@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Movement helps the heart</title>
-  <desc id="desc">A diagram with a heart symbol on the left and a running figure on the right. A pulse line runs between them, slow and steady at rest on the left, then quick and tall during movement on the right. A label reads "movement makes the heart pump; regular movement makes it stronger." Labels and the changing pulse line, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-003-07-movement-helps-the-heart desc-L-05-003-07-movement-helps-the-heart">
+  <title id="title-L-05-003-07-movement-helps-the-heart">Movement helps the heart</title>
+  <desc id="desc-L-05-003-07-movement-helps-the-heart">A diagram with a heart symbol on the left and a running figure on the right. A pulse line runs between them, slow and steady at rest on the left, then quick and tall during movement on the right. A label reads "movement makes the heart pump; regular movement makes it stronger." Labels and the changing pulse line, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -30,7 +30,7 @@
   <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M110 360 L140 360 L152 320 L164 388 L176 340 L188 360 L206 360 L220 340 L234 380 L248 344 L262 360 L300 360 L314 312 L330 396 L346 336 L360 360 L402 360"/>
   </g>
-  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">pulse at rest (slow and steady) → pulse during movement (fast and tall)</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">pulse at rest (slow and steady) → pulse during movement (fast and tall)</text>
 
   <text x="256" y="471.4" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Movement makes the heart pump; regular</text>
   <text x="256" y="498.8" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">movement makes it stronger.</text>

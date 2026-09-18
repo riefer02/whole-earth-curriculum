@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Three ways of deciding: democracy, autocracy, consensus</title>
-  <desc id="desc">Three side-by-side panels comparing ways of deciding. Left panel "democracy": several raised hands and a vote tally, with "strength: many voices heard" and "limit: majority can overlook a minority." Middle panel "autocracy": a single figure at a desk, with "strength: fast, clear decision" and "limit: one voice, others may not be heard." Right panel "consensus": a talking circle of diverse figures, with "strength: everyone agrees" and "limit: can take a long time." Labels, shapes, and counts carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-010-06-ways-of-deciding desc-L-06-010-06-ways-of-deciding">
+  <title id="title-L-06-010-06-ways-of-deciding">Three ways of deciding: democracy, autocracy, consensus</title>
+  <desc id="desc-L-06-010-06-ways-of-deciding">Three side-by-side panels comparing ways of deciding. Left panel "democracy": several raised hands and a vote tally, with "strength: many voices heard" and "limit: majority can overlook a minority." Middle panel "autocracy": a single figure at a desk, with "strength: fast, clear decision" and "limit: one voice, others may not be heard." Right panel "consensus": a talking circle of diverse figures, with "strength: everyone agrees" and "limit: can take a long time." Labels, shapes, and counts carry the meaning, so it prints clearly in grayscale independent of color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

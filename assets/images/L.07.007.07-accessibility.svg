@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Designing for everyone: remove the barriers</title>
-  <desc id="desc">Two panels compare two designs for the same doorway. The left panel, labeled "Design that blocks," shows a doorway reached only by stairs: a person using a wheelchair and a person using a cane are stopped below, unable to enter. The right panel, labeled "Design that includes," shows the same doorway with a ramp beside the stairs and a wide door: the wheelchair user, the cane user, and a person carrying a heavy load all enter together. Below, a note reads "a ramp helps more than wheelchairs — it helps everyone." Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-007-07-accessibility desc-L-07-007-07-accessibility">
+  <title id="title-L-07-007-07-accessibility">Designing for everyone: remove the barriers</title>
+  <desc id="desc-L-07-007-07-accessibility">Two panels compare two designs for the same doorway. The left panel, labeled "Design that blocks," shows a doorway reached only by stairs: a person using a wheelchair and a person using a cane are stopped below, unable to enter. The right panel, labeled "Design that includes," shows the same doorway with a ramp beside the stairs and a wide door: the wheelchair user, the cane user, and a person carrying a heavy load all enter together. Below, a note reads "a ramp helps more than wheelchairs — it helps everyone." Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -57,7 +57,7 @@
   <text x="378" y="367" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">everyone enters</text>
 
   <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">A ramp helps more than wheelchairs</text>
-  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">It helps the person with a cane, the person carrying a heavy load,</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#222222">It helps the person with a cane, the person carrying a heavy load,</text>
   <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">the person pushing a cart, the person with tired legs.</text>
 
   <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Design for the edges and you design better for everyone.</text>

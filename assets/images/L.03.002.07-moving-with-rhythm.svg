@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Moving with rhythm</title>
-  <desc id="desc">Four beat dots in a row show a steady rhythm. Below them, a child moves through a four-move sequence — stomp, stomp, clap, turn — each move drawn under one beat dot, showing how a body moves in time with a beat. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-002-07-moving-with-rhythm desc-L-03-002-07-moving-with-rhythm">
+  <title id="title-L-03-002-07-moving-with-rhythm">Moving with rhythm</title>
+  <desc id="desc-L-03-002-07-moving-with-rhythm">Four beat dots in a row show a steady rhythm. Below them, a child moves through a four-move sequence — stomp, stomp, clap, turn — each move drawn under one beat dot, showing how a body moves in time with a beat. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Moving with Rhythm</text>

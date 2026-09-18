@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The emotional climate of a group</title>
-  <desc id="desc">A group of five people seated in a circle, with a shared "climate" drawn above them. Three small panels show the three collective emotions named in the lesson — hope (a sun), fear (a storm cloud), and grief (a rain cloud) — each with its word, so the diagram prints clearly in grayscale. One seated figure uses a wheelchair.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-001-01-emotional-weather desc-L-11-001-01-emotional-weather">
+  <title id="title-L-11-001-01-emotional-weather">The emotional climate of a group</title>
+  <desc id="desc-L-11-001-01-emotional-weather">A group of five people seated in a circle, with a shared "climate" drawn above them. Three small panels show the three collective emotions named in the lesson — hope (a sun), fear (a storm cloud), and grief (a rain cloud) — each with its word, so the diagram prints clearly in grayscale. One seated figure uses a wheelchair.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -69,5 +69,5 @@
     <path d="M382 372 a20 20 0 0 1 40 0 z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   </g>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222">A climate is shared — everyone breathes the same air.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17.3" fill="#222222">A climate is shared — everyone breathes the same air.</text>
 </svg>

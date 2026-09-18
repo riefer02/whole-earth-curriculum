@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What my food costs the Earth</title>
-  <desc id="desc">A bar chart comparing food footprints. A small bar for plant foods like grains and beans, a medium bar for dairy, and the largest bar for ruminant meat. A small Earth and a food-waste note show that what we eat carries land, water, and greenhouse-gas costs that vary by food.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-002-11-food-footprint desc-L-10-002-11-food-footprint">
+  <title id="title-L-10-002-11-food-footprint">What my food costs the Earth</title>
+  <desc id="desc-L-10-002-11-food-footprint">A bar chart comparing food footprints. A small bar for plant foods like grains and beans, a medium bar for dairy, and the largest bar for ruminant meat. A small Earth and a food-waste note show that what we eat carries land, water, and greenhouse-gas costs that vary by food.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -39,5 +39,5 @@
   <text x="250" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">wasted food wastes its land, water, and energy</text>
   <text x="250" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">about a fifth of food available to consumers is wasted</text>
 
-  <text x="256" y="506" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">What we eat is a message to the planet — weighed as a choice, never a guilt.</text>
+  <text x="256" y="506" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#4f6d7a">What we eat is a message to the planet — weighed as a choice, never a guilt.</text>
 </svg>

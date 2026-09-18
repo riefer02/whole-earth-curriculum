@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Senses team up — taste and smell make flavor</title>
-  <desc id="desc">Two side-by-side panels of the same child tasting food. On the left the child's nose is pinched closed and a faint, small flavor cloud rises. On the right the nose is open and a strong, full flavor cloud rises. Labels show smell and taste meeting to make flavor. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-002-01-senses-team-up desc-L-03-002-01-senses-team-up">
+  <title id="title-L-03-002-01-senses-team-up">Senses team up — taste and smell make flavor</title>
+  <desc id="desc-L-03-002-01-senses-team-up">Two side-by-side panels of the same child tasting food. On the left the child's nose is pinched closed and a faint, small flavor cloud rises. On the right the nose is open and a strong, full flavor cloud rises. Labels show smell and taste meeting to make flavor. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Taste + Smell = Flavor</text>
@@ -78,11 +78,11 @@
     <path d="M168 426 L168 414 M168 434 L168 442" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <rect x="296" y="408" width="180" height="44" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
     <text x="386" y="435" text-anchor="middle" font-size="16" font-weight="bold" fill="#2b3a42">flavor</text>
-    <line x1="274" y1="430" x2="296" y2="430" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr)"/>
+    <line x1="274" y1="430" x2="296" y2="430" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr-L-03-002-01-senses-team-up)"/>
   </g>
 
   <defs>
-    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="arr-L-03-002-01-senses-team-up" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0 0 L8 3 L0 6 Z" fill="#2b3a42"/>
     </marker>
   </defs>

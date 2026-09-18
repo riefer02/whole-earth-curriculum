@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The body-mind connection across cultures and times</title>
-  <desc id="desc">A simple world map with four labeled markers — breath practice, meditation, movement arts, and humoral medicine — each connected by a line to a small icon of a person, showing that many cultures across time have held ideas about the body-mind connection.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-002-05-body-mind-across-cultures desc-L-10-002-05-body-mind-across-cultures">
+  <title id="title-L-10-002-05-body-mind-across-cultures">The body-mind connection across cultures and times</title>
+  <desc id="desc-L-10-002-05-body-mind-across-cultures">A simple world map with four labeled markers — breath practice, meditation, movement arts, and humoral medicine — each connected by a line to a small icon of a person, showing that many cultures across time have held ideas about the body-mind connection.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -59,5 +59,5 @@
     <path d="M256 370 L256 390" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
   </g>
 
-  <text x="256" y="506" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A discovery the whole human family keeps making, each in its own words.</text>
+  <text x="256" y="506" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">A discovery the whole human family keeps making, each in its own words.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Feelings come and go: a three-picture sequence</title>
-  <desc id="desc">A three-panel sequence read left to right. Panel 1 shows a sad face with a tear under a cloud, labeled "it arrives." Panel 2 shows the same sad face bigger with two tears, labeled "it stays." Panel 3 shows a happy face under a sun, labeled "it passes." Arrows join the panels. The words and face shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-03-feelings-come-and-go desc-L-00-001-03-feelings-come-and-go">
+  <title id="title-L-00-001-03-feelings-come-and-go">Feelings come and go: a three-picture sequence</title>
+  <desc id="desc-L-00-001-03-feelings-come-and-go">A three-panel sequence read left to right. Panel 1 shows a sad face with a tear under a cloud, labeled "it arrives." Panel 2 shows the same sad face bigger with two tears, labeled "it stays." Panel 3 shows a happy face under a sun, labeled "it passes." Arrows join the panels. The words and face shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

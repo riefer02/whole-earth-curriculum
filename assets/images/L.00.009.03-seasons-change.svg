@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Many ways a year changes</title>
-  <desc id="desc">Three panels showing different climate patterns, none better than the others. The first shows a place with a wet time (rain clouds and rain over green plants) and a dry time (sun over dry cracked ground). The second shows a warm-all-year place with a leafy tree and sun. The third shows a cold-much-of-the-year place with snow and a bare tree. Each is labeled in words and by simple shapes, so the meaning holds in grayscale. There is no single "four seasons" default.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-009-03-seasons-change desc-L-00-009-03-seasons-change">
+  <title id="title-L-00-009-03-seasons-change">Many ways a year changes</title>
+  <desc id="desc-L-00-009-03-seasons-change">Three panels showing different climate patterns, none better than the others. The first shows a place with a wet time (rain clouds and rain over green plants) and a dry time (sun over dry cracked ground). The second shows a warm-all-year place with a leafy tree and sun. The third shows a cold-much-of-the-year place with snow and a bare tree. Each is labeled in words and by simple shapes, so the meaning holds in grayscale. There is no single "four seasons" default.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -115,5 +115,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every place has its own pattern — none is the "right" one.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">Every place has its own pattern — none is the "right" one.</text>
 </svg>

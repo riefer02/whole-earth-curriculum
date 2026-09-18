@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Asking for help</title>
-  <desc id="desc">A child raises one hand and says "I need help" in a speech bubble, while a trusted grown-up stands nearby with an open, welcoming hand. Both figures are labeled child and trusted grown-up. Words and shapes, not color alone, carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-002-09-asking-for-help desc-L-00-002-09-asking-for-help">
+  <title id="title-L-00-002-09-asking-for-help">Asking for help</title>
+  <desc id="desc-L-00-002-09-asking-for-help">A child raises one hand and says "I need help" in a speech bubble, while a trusted grown-up stands nearby with an open, welcoming hand. Both figures are labeled child and trusted grown-up. Words and shapes, not color alone, carry the meaning, so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Asking for Help</text>
@@ -53,6 +53,6 @@
   </g>
   <text x="376" y="416" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">trusted grown-up</text>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">When you are hurt, scared, or unsafe, ask a grown-up you trust.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">When you are hurt, scared, or unsafe, ask a grown-up you trust.</text>
   <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Asking for help is strong, not weak.</text>
 </svg>

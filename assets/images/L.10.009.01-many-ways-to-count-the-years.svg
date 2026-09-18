@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Three ways to count a year</title>
-  <desc id="desc">Three labeled rings compare a solar year (about 365 days, marked by the Sun), a lunar year (about 354 days, marked by twelve Moons), and a lunisolar year (twelve Moons plus an added month so Sun and Moon stay together). Simple icons, grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-009-01-many-ways-to-count-the-years desc-L-10-009-01-many-ways-to-count-the-years">
+  <title id="title-L-10-009-01-many-ways-to-count-the-years">Three ways to count a year</title>
+  <desc id="desc-L-10-009-01-many-ways-to-count-the-years">Three labeled rings compare a solar year (about 365 days, marked by the Sun), a lunar year (about 354 days, marked by twelve Moons), and a lunisolar year (twelve Moons plus an added month so Sun and Moon stay together). Simple icons, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- Ring 1: Solar -->
   <g transform="translate(96,128)">
@@ -47,12 +47,12 @@
   <!-- Bottom caption -->
   <rect x="56" y="268" width="400" height="196" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">A calendar is a choice</text>
-  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Every people matches two rhythms — the Sun's year and the Moon's month</text>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#222222">Every people matches two rhythms — the Sun's year and the Moon's month</text>
   <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">— plus its own seasons and events. The "year one" and the names</text>
   <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">are chosen by people, not fixed by nature.</text>
   <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
     <line x1="96" y1="404" x2="416" y2="404"/>
   </g>
-  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Gregorian · Hijri · Chinese · Maya Long Count · seasonal calendars</text>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">each watches the Sun, the Moon, both, or the land — none is "the" natural one.</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">Gregorian · Hijri · Chinese · Maya Long Count · seasonal calendars</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">each watches the Sun, the Moon, both, or the land — none is "the" natural one.</text>
 </svg>

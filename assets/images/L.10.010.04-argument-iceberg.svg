@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Argument iceberg: the unsaid below the water</title>
-  <desc id="desc">An iceberg floating in water. Above the waterline a stated claim is written. Below the waterline several hidden assumptions are written on lines. The water is lightly shaded.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-010-04-argument-iceberg desc-L-10-010-04-argument-iceberg">
+  <title id="title-L-10-010-04-argument-iceberg">Argument iceberg: the unsaid below the water</title>
+  <desc id="desc-L-10-010-04-argument-iceberg">An iceberg floating in water. Above the waterline a stated claim is written. Below the waterline several hidden assumptions are written on lines. The water is lightly shaded.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- water -->
   <rect x="20" y="230" width="472" height="220" fill="#d9e4ec"/>
@@ -17,7 +17,7 @@
     <text x="271" y="284" font-size="12" fill="#2b3a42">assumption: everyone has a network</text>
     <text x="271" y="316" font-size="12" fill="#2b3a42">assumption: "better" is the same for all</text>
     <text x="271" y="348" font-size="12" fill="#2b3a42">assumption: the speaker's life is the default</text>
-    <text x="271" y="392" font-size="13" fill="#222222">hidden assumptions (what is unsaid)</text>
+    <text x="271" y="392" font-size="12.3" fill="#222222">hidden assumptions (what is unsaid)</text>
   </g>
   <text x="256" y="486" font-family="sans-serif" font-size="14" fill="#2b3a42" text-anchor="middle">draw the waterline, then read what lies below it</text>
 </svg>

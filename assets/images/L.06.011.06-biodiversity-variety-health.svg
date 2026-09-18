@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Biodiversity: variety is a safety net</title>
-  <desc id="desc">Two garden plots side by side. The left plot, labeled "MANY KINDS," shows several different plants — a flower, grass, a bush, and a tree — with a bee, a bird, and a worm, and the caption "If one plant fails, others still grow." The right plot, labeled "ONE KIND," shows a single repeated crop, with the caption "If disease hits it, everything fails at once." A bottom band reads "Variety is a safety net: the more kinds of life, the more ways a system can stay healthy." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-011-06-biodiversity-variety-health desc-L-06-011-06-biodiversity-variety-health">
+  <title id="title-L-06-011-06-biodiversity-variety-health">Biodiversity: variety is a safety net</title>
+  <desc id="desc-L-06-011-06-biodiversity-variety-health">Two garden plots side by side. The left plot, labeled "MANY KINDS," shows several different plants — a flower, grass, a bush, and a tree — with a bee, a bird, and a worm, and the caption "If one plant fails, others still grow." The right plot, labeled "ONE KIND," shows a single repeated crop, with the caption "If disease hits it, everything fails at once." A bottom band reads "Variety is a safety net: the more kinds of life, the more ways a system can stay healthy." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -32,7 +32,7 @@
     <path d="M222 166 L222 156" stroke="#2b3a42" stroke-width="2"/>
     <!-- worm -->
     <path d="M120 308 Q128 304 136 308 Q144 312 152 308" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="133" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">If one plant fails, others still grow —</text>
+    <text x="133" y="346" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">If one plant fails, others still grow —</text>
     <text x="133" y="364" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">food and homes remain for many.</text>
   </g>
 
@@ -63,7 +63,7 @@
       <path d="M460 300 L460 262" stroke="#2b3a42" stroke-width="2"/>
       <path d="M460 262 Q450 250 460 240 Q470 250 460 262" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
     </g>
-    <text x="379" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">If a disease hits it, everything fails</text>
+    <text x="379" y="346" text-anchor="middle" font-family="sans-serif" font-size="12.3" fill="#222222">If a disease hits it, everything fails</text>
     <text x="379" y="364" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">at once — few creatures find food.</text>
   </g>
 

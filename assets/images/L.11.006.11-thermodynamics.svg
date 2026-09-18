@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Thermodynamics</title>
-  <desc id="desc">A flow diagram of a system (a kettle). Energy in is shown as an arrow entering, useful work as one arrow leaving (water heated), and heat lost as a second, wider arrow leaving (heat to the air). A note reads energy is conserved, but some always spreads out as heat — that spread is entropy.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-006-11-thermodynamics desc-L-11-006-11-thermodynamics">
+  <title id="title-L-11-006-11-thermodynamics">Thermodynamics</title>
+  <desc id="desc-L-11-006-11-thermodynamics">A flow diagram of a system (a kettle). Energy in is shown as an arrow entering, useful work as one arrow leaving (water heated), and heat lost as a second, wider arrow leaving (heat to the air). A note reads energy is conserved, but some always spreads out as heat — that spread is entropy.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Energy In, Work Out, Heat Lost</text>

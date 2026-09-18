@@ -1,87 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Feeling faces: happy, sad, angry, scared, calm</title>
-  <desc id="desc">Five round faces in a row, each labeled with an emotion word. The faces differ by mouth and eyebrow shape, not color, so they print clearly in grayscale. Skin tones vary across the five faces, and one face wears a hearing aid.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-01-feeling-faces desc-L-00-001-01-feeling-faces">
+  <title id="title-L-00-001-01-feeling-faces">Feeling faces: happy, sad, angry, scared, calm</title>
+  <desc id="desc-L-00-001-01-feeling-faces">Five round faces in a row, each labeled with an emotion word. The faces differ by mouth and eyebrow shape, not color, so they print clearly in grayscale. Skin tones vary across the five faces, and one face wears a hearing aid.</desc>
 
-  <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <!-- Header -->
-  <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="bold" fill="#2b3a42">Feelings</text>
+  <text x="256" y="54" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Feelings</text>
+  <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">faces show clues — mouths and eyebrows</text>
 
-  <!-- Card 1: happy (light skin) -->
+  <!-- Card 1: happy -->
   <g>
-    <rect x="14" y="84" width="92" height="256" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
-    <circle cx="29" cy="170" r="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="91" cy="170" r="8" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="60" cy="170" r="32" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="48" cy="158" r="3.5" fill="#2b3a42"/>
-    <circle cx="72" cy="158" r="3.5" fill="#2b3a42"/>
-    <path d="M44 146 Q48 142 52 146" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M68 146 Q72 142 76 146" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M46 184 Q60 198 74 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="60" y="318" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">happy</text>
+    <rect x="14" y="94" width="92" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="24" cy="200" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="96" cy="200" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="60" cy="200" r="38" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="47" cy="190" r="4" fill="#2b3a42"/>
+    <circle cx="73" cy="190" r="4" fill="#2b3a42"/>
+    <path d="M42 177 Q47 172 52 177" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M68 177 Q73 172 78 177" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M44 216 Q60 232 76 216" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="60" y="368" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">happy</text>
   </g>
 
-  <!-- Card 2: sad (light-medium skin) -->
+  <!-- Card 2: sad -->
   <g>
-    <rect x="112" y="84" width="92" height="256" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
-    <circle cx="127" cy="170" r="8" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="189" cy="170" r="8" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="158" cy="170" r="32" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="146" cy="158" r="3.5" fill="#2b3a42"/>
-    <circle cx="170" cy="158" r="3.5" fill="#2b3a42"/>
-    <path d="M142 149 L150 144" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M166 144 L174 149" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M144 188 Q158 176 172 188" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <ellipse cx="146" cy="168" rx="2.2" ry="3.4" fill="#6b93b6"/>
-    <text x="158" y="318" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">sad</text>
+    <rect x="112" y="94" width="92" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="122" cy="200" r="9" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="194" cy="200" r="9" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="158" cy="200" r="38" fill="#e6bb92" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="145" cy="190" r="4" fill="#2b3a42"/>
+    <circle cx="171" cy="190" r="4" fill="#2b3a42"/>
+    <path d="M141 180 L150 174" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M166 174 L175 180" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M143 220 Q158 207 173 220" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="144" cy="200" rx="2.6" ry="4" fill="#6b93b6"/>
+    <text x="158" y="368" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">sad</text>
   </g>
 
-  <!-- Card 3: angry (medium skin) -->
+  <!-- Card 3: angry -->
   <g>
-    <rect x="210" y="84" width="92" height="256" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
-    <circle cx="225" cy="170" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="287" cy="170" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="256" cy="170" r="32" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="244" cy="158" r="3.5" fill="#2b3a42"/>
-    <circle cx="268" cy="158" r="3.5" fill="#2b3a42"/>
-    <path d="M240 144 L248 149" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M264 149 L272 144" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M244 186 L268 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">angry</text>
+    <rect x="210" y="94" width="92" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="220" cy="200" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="292" cy="200" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="256" cy="200" r="38" fill="#c99567" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="243" cy="190" r="4" fill="#2b3a42"/>
+    <circle cx="269" cy="190" r="4" fill="#2b3a42"/>
+    <path d="M238 175 L248 181" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M264 181 L274 175" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M243 218 L269 218" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">angry</text>
   </g>
 
-  <!-- Card 4: scared (medium-deep skin) -->
+  <!-- Card 4: scared -->
   <g>
-    <rect x="308" y="84" width="92" height="256" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
-    <circle cx="323" cy="170" r="8" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="385" cy="170" r="8" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="354" cy="170" r="32" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="342" cy="158" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="366" cy="158" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="342" cy="158" r="2" fill="#2b3a42"/>
-    <circle cx="366" cy="158" r="2" fill="#2b3a42"/>
-    <path d="M337 144 Q342 138 347 144" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M361 144 Q366 138 371 144" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <ellipse cx="354" cy="190" rx="5.5" ry="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-    <text x="354" y="318" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">scared</text>
+    <rect x="308" y="94" width="92" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="318" cy="200" r="9" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="390" cy="200" r="9" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="354" cy="200" r="38" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2.5"/>
+    <circle cx="341" cy="190" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="367" cy="190" r="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="341" cy="190" r="2.2" fill="#2b3a42"/>
+    <circle cx="367" cy="190" r="2.2" fill="#2b3a42"/>
+    <path d="M336 175 Q341 169 346 175" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M362 175 Q367 169 372 175" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="354" cy="221" rx="6.5" ry="9.5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="354" y="368" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">scared</text>
   </g>
 
-  <!-- Card 5: calm (deep skin, hearing aid) -->
+  <!-- Card 5: calm, hearing aid -->
   <g>
-    <rect x="406" y="84" width="92" height="256" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
-    <circle cx="421" cy="170" r="8" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="483" cy="170" r="8" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <!-- hearing aid: body over right ear, tube, and earmold -->
-    <path d="M476 162 A8 8 0 0 1 491 162" fill="none" stroke="#e0a458" stroke-width="5.5" stroke-linecap="round"/>
-    <path d="M483 163 L489 170" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="489" cy="170" r="2.6" fill="#e0a458"/>
-    <circle cx="452" cy="170" r="32" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M436 158 Q440 163 444 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M460 158 Q464 163 468 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M436 146 Q440 143 444 146" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M460 146 Q464 143 468 146" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M444 184 Q452 189 460 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="452" y="318" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">calm</text>
+    <rect x="406" y="94" width="92" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <circle cx="416" cy="200" r="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="482" cy="200" r="9" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M474 191 A9 9 0 0 1 490 191" fill="none" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
+    <path d="M482 192 L488 200" fill="none" stroke="#e0a458" stroke-width="3.2" stroke-linecap="round"/>
+    <circle cx="488" cy="200" r="3" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="452" cy="200" r="38" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2.5"/>
+    <path d="M435 190 Q439 195 443 190" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M461 190 Q465 195 469 190" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M435 177 Q439 174 443 177" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M461 177 Q465 174 469 177" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M443 216 Q452 221 461 216" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="452" y="368" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#222222">calm</text>
   </g>
+
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Look at mouths and eyebrows — not colors.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Every feeling is okay.</text>
 </svg>

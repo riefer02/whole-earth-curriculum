@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Fairness and caring for others: my kind choice page</title>
-  <desc id="desc">A four-box page that gathers the whole unit. Box one, "kind and helpful," shows a heart. Box two, "fair," shows a balance scale with two equal pans. Box three, "our job or decision," shows three people with different skin tones side by side. Box four, "make it right," shows two hands meeting with a small heart above them. Each box is labeled. The labels and the shapes carry the meaning, not color, so the picture prints clearly in grayscale and shows four small things a person can do every day to be fair and caring.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-011-08-fairness-and-caring-for-others desc-L-00-011-08-fairness-and-caring-for-others">
+  <title id="title-L-00-011-08-fairness-and-caring-for-others">Fairness and caring for others: my kind choice page</title>
+  <desc id="desc-L-00-011-08-fairness-and-caring-for-others">A four-box page that gathers the whole unit. Box one, "kind and helpful," shows a heart. Box two, "fair," shows a balance scale with two equal pans. Box three, "our job or decision," shows three people with different skin tones side by side. Box four, "make it right," shows two hands meeting with a small heart above them. Each box is labeled. The labels and the shapes carry the meaning, not color, so the picture prints clearly in grayscale and shows four small things a person can do every day to be fair and caring.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <!-- Title -->
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Fair &amp; Caring — My Kind Choice Page</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="23.5" font-weight="bold" fill="#2b3a42">Fair &amp; Caring — My Kind Choice Page</text>
 
   <!-- Box frames -->
   <rect x="24" y="80" width="224" height="180" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -65,5 +65,5 @@
   <text x="376" y="432" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">repair the hurt, not punish</text>
 
   <!-- Bottom note -->
-  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Four small things, every day, make a fair and caring life.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">Four small things, every day, make a fair and caring life.</text>
 </svg>

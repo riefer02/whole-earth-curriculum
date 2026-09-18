@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My self-directed learning cycle</title>
-  <desc id="desc">A four-step cycle drawn as a rounded loop with arrows: choose a goal, find resources, check my progress, adjust and keep going. A small figure stands at the 'adjust' step holding a pencil, showing the loop is mine to steer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-012-03-authoring-my-learning desc-L-10-012-03-authoring-my-learning">
+  <title id="title-L-10-012-03-authoring-my-learning">My self-directed learning cycle</title>
+  <desc id="desc-L-10-012-03-authoring-my-learning">A four-step cycle drawn as a rounded loop with arrows: choose a goal, find resources, check my progress, adjust and keep going. A small figure stands at the 'adjust' step holding a pencil, showing the loop is mine to steer.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" font-size="22" fill="#222222" text-anchor="middle">
     <!-- four nodes -->
@@ -12,12 +12,12 @@
     <g>
       <rect x="292" y="70" width="150" height="72" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
       <text x="367" y="100">find resources</text>
-      <text x="367" y="126" font-size="17">(people, places, tools)</text>
+      <text x="367" y="126" font-size="12">(people, places, tools)</text>
     </g>
     <g>
       <rect x="292" y="300" width="150" height="72" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
       <text x="367" y="330">check progress</text>
-      <text x="367" y="356" font-size="17">(how will I know?)</text>
+      <text x="367" y="356" font-size="14.2">(how will I know?)</text>
     </g>
     <g>
       <rect x="70" y="300" width="150" height="72" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
@@ -26,9 +26,9 @@
     </g>
   </g>
   <!-- arrows -->
-  <g fill="none" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arr)">
+  <g fill="none" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arr-L-10-012-03-authoring-my-learning)">
     <defs>
-      <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <marker id="arr-L-10-012-03-authoring-my-learning" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
         <path d="M0,0 L8,3 L0,6 z" fill="#2b3a42"/>
       </marker>
     </defs>

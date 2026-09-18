@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Phone lifecycle: benefits and harms</title>
-  <desc id="desc">Four stages of a phone's life in a row — a mine, a factory, a hand holding a phone, and a pile of discarded electronics. Below each stage, a benefits line and a harms line, printed in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-010-02-phone-lifecycle desc-L-10-010-02-phone-lifecycle">
+  <title id="title-L-10-010-02-phone-lifecycle">Phone lifecycle: benefits and harms</title>
+  <desc id="desc-L-10-010-02-phone-lifecycle">Four stages of a phone's life in a row — a mine, a factory, a hand holding a phone, and a pile of discarded electronics. Below each stage, a benefits line and a harms line, printed in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <!-- stage titles -->
@@ -57,7 +57,7 @@
       <text x="290" y="288">energy, attention</text>
       <text x="410" y="288">toxic e-waste</text>
     </g>
-    <text x="256" y="330" font-size="14" fill="#222222">who gains, and who loses, at each stage</text>
-    <text x="256" y="360" font-size="13" fill="#4f6d7a">the distance between benefit and harm is the question</text>
+    <text x="256" y="330" font-size="12" fill="#222222">who gains, and who loses, at each stage</text>
+    <text x="256" y="360" font-size="12" fill="#4f6d7a">the distance between benefit and harm is the question</text>
   </g>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">How paper spread and changed: China to the world</title>
-  <desc id="desc">A map-style diagram of paper's journey, with a dotted path and labeled stops. The path begins at a point labeled "China — paper invented (about 105 CE)," then moves through "Korea and Japan," then "Central Asia," then "Baghdad — paper mills," then "North Africa," then "Europe — paper by the 1100s." Beside each region, a small label notes how paper changed as it moved, such as "new materials and mills" and "printing spread with it." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-009-06-paper-spread desc-L-06-009-06-paper-spread">
+  <title id="title-L-06-009-06-paper-spread">How paper spread and changed: China to the world</title>
+  <desc id="desc-L-06-009-06-paper-spread">A map-style diagram of paper's journey, with a dotted path and labeled stops. The path begins at a point labeled "China — paper invented (about 105 CE)," then moves through "Korea and Japan," then "Central Asia," then "Baghdad — paper mills," then "North Africa," then "Europe — paper by the 1100s." Beside each region, a small label notes how paper changed as it moved, such as "new materials and mills" and "printing spread with it." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">How Paper Spread and Changed</text>
@@ -51,5 +51,5 @@
 
   <rect x="24" y="408" width="464" height="80" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">As paper moved, it changed: new materials, new mills,</text>
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and printing spread along with it — each people made it their own.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#222222">and printing spread along with it — each people made it their own.</text>
 </svg>

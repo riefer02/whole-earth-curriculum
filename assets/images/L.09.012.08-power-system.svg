@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Colonialism and empire as a system of power</title>
-  <desc id="desc">A diagram of three layers. The top layer is individual actions, the middle layer is rules and laws, and the bottom layer is structures and beliefs. Together they form a system of power. A note says systems are more than single events.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-012-08-power-system desc-L-09-012-08-power-system">
+  <title id="title-L-09-012-08-power-system">Colonialism and empire as a system of power</title>
+  <desc id="desc-L-09-012-08-power-system">A diagram of three layers. The top layer is individual actions, the middle layer is rules and laws, and the bottom layer is structures and beliefs. Together they form a system of power. A note says systems are more than single events.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A System of Power: Layers, Not Just Events</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="21.8" font-weight="bold" fill="#2b3a42">A System of Power: Layers, Not Just Events</text>
 
   <!-- actions -->
   <rect x="60" y="80" width="392" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

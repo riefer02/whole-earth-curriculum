@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Mind and body are connected</title>
-  <desc id="desc">A diagram showing a thought bubble reading "I have a big test tomorrow" beside a worried face, with an arrow pointing to a simple body outline whose stomach is shaded and labeled "tight stomach." A caption reads "A worry in the mind can show up as a feeling in the body." Labels and arrows, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-003-01-mind-and-body-connection desc-L-05-003-01-mind-and-body-connection">
+  <title id="title-L-05-003-01-mind-and-body-connection">Mind and body are connected</title>
+  <desc id="desc-L-05-003-01-mind-and-body-connection">A diagram showing a thought bubble reading "I have a big test tomorrow" beside a worried face, with an arrow pointing to a simple body outline whose stomach is shaded and labeled "tight stomach." A caption reads "A worry in the mind can show up as a feeling in the body." Labels and arrows, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -44,6 +44,6 @@
   <text x="249" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">mind</text>
   <text x="249" y="192" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">body</text>
 
-  <text x="256" y="465.3" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">A worry in the mind can show up as a feeling in</text>
+  <text x="256" y="465.3" text-anchor="middle" font-family="sans-serif" font-size="19.5" fill="#2b3a42">A worry in the mind can show up as a feeling in</text>
   <text x="256" y="493.9" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">the body.</text>
 </svg>

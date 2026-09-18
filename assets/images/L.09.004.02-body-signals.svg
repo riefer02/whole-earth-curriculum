@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reading my body's signals</title>
-  <desc id="desc">A three-column chart. The left column lists body signals: tight jaw, shallow breath, empty stomach, heavy eyes. The middle column lists the mood each tends to steer toward: anxious, overwhelmed, irritable, flat. The right column lists a kind response: slow exhale, pause and water, food, rest.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-004-02-body-signals desc-L-09-004-02-body-signals">
+  <title id="title-L-09-004-02-body-signals">Reading my body's signals</title>
+  <desc id="desc-L-09-004-02-body-signals">A three-column chart. The left column lists body signals: tight jaw, shallow breath, empty stomach, heavy eyes. The middle column lists the mood each tends to steer toward: anxious, overwhelmed, irritable, flat. The right column lists a kind response: slow exhale, pause and water, food, rest.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Reading My Body's Signals</text>

@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Tools all around me</title>
-  <desc id="desc">Four boxes, each a place where a tool lives, with a label: a pot in a kitchen, a hoe in a field, a basket at a market, and a bicycle on a road. Under each tool is the job it helps with. Each place is named in words and each tool is drawn simply, so the picture prints clearly in grayscale and shows that every place has its own tools and no place's tools are more important than another's.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-012-02-tools-all-around-me desc-L-00-012-02-tools-all-around-me">
+  <title id="title-L-00-012-02-tools-all-around-me">Tools all around me</title>
+  <desc id="desc-L-00-012-02-tools-all-around-me">Four boxes, each a place where a tool lives, with a label: a pot in a kitchen, a hoe in a field, a basket at a market, and a bicycle on a road. Under each tool is the job it helps with. Each place is named in words and each tool is drawn simply, so the picture prints clearly in grayscale and shows that every place has its own tools and no place's tools are more important than another's.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <!-- Header -->
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Tools All Around Me</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A tool lives in a place, and every place has its own tools.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15.5" fill="#4f6d7a">A tool lives in a place, and every place has its own tools.</text>
 
   <!-- ===== Panel A: kitchen / pot ===== -->
   <rect x="24" y="100" width="224" height="176" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -73,5 +73,5 @@
   <text x="376" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">a bicycle carries a rider</text>
 
   <!-- Footer -->
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every place has its own tools, and every tool helps someone do a job.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">Every place has its own tools, and every tool helps someone do a job.</text>
 </svg>

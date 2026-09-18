@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Feelings grow bigger: a feeling-word ladder</title>
-  <desc id="desc">Two rows of feeling faces. The bottom row shows four small faces labeled happy, sad, angry, and scared, captioned "words I already know." The top row shows three bigger faces labeled proud, lonely, and excited, each tagged "new!" An arrow points up from the bottom row to the top, labeled "grow," to show that a learner's feeling vocabulary grows bigger with practice. Mouth and eyebrow shapes differ so each feeling reads clearly in grayscale, and skin tones vary across the faces.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-001-01-feeling-word-ladder desc-L-01-001-01-feeling-word-ladder">
+  <title id="title-L-01-001-01-feeling-word-ladder">Feelings grow bigger: a feeling-word ladder</title>
+  <desc id="desc-L-01-001-01-feeling-word-ladder">Two rows of feeling faces. The bottom row shows four small faces labeled happy, sad, angry, and scared, captioned "words I already know." The top row shows three bigger faces labeled proud, lonely, and excited, each tagged "new!" An arrow points up from the bottom row to the top, labeled "grow," to show that a learner's feeling vocabulary grows bigger with practice. Mouth and eyebrow shapes differ so each feeling reads clearly in grayscale, and skin tones vary across the faces.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

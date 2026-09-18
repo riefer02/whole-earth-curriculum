@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My goal and its first step</title>
-  <desc id="desc">A staircase of four steps going up and to the right. At the top is a flag labeled "my goal." The bottom step is highlighted with a thick outline and labeled "first step." A small figure stands at the bottom step, ready to climb. The idea is that a tall goal is reached one small step at a time, and the first step is the one to do now. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-001-09-goal-first-step desc-L-03-001-09-goal-first-step">
+  <title id="title-L-03-001-09-goal-first-step">My goal and its first step</title>
+  <desc id="desc-L-03-001-09-goal-first-step">A staircase of four steps going up and to the right. At the top is a flag labeled "my goal." The bottom step is highlighted with a thick outline and labeled "first step." A small figure stands at the bottom step, ready to climb. The idea is that a tall goal is reached one small step at a time, and the first step is the one to do now. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

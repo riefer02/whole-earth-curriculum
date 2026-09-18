@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The forms of energy</title>
-  <desc id="desc">A five-panel diagram of the forms of energy. The first panel shows a rolling ball labeled kinetic, energy of motion. The second shows a stretched bow labeled potential, stored energy. The third shows a steaming bowl labeled thermal, heat energy. The fourth shows a plate of food and a fuel can labeled chemical, energy stored in matter. The fifth shows a battery and a lit bulb labeled electrical, energy of moving charges. A title reads: forms of energy. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-006-07-forms-of-energy desc-L-06-006-07-forms-of-energy">
+  <title id="title-L-06-006-07-forms-of-energy">The forms of energy</title>
+  <desc id="desc-L-06-006-07-forms-of-energy">A five-panel diagram of the forms of energy. The first panel shows a rolling ball labeled kinetic, energy of motion. The second shows a stretched bow labeled potential, stored energy. The third shows a steaming bowl labeled thermal, heat energy. The fourth shows a plate of food and a fuel can labeled chemical, energy stored in matter. The fifth shows a battery and a lit bulb labeled electrical, energy of moving charges. A title reads: forms of energy. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -12,8 +12,8 @@
     <rect x="0" y="0" width="150" height="180" rx="10" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
     <text x="75" y="24" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">kinetic</text>
     <circle cx="75" cy="80" r="24" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="75" y1="80" x2="110" y2="80" stroke="#2b3a42" stroke-width="2" marker-end="url(#ka)"/>
-    <defs><marker id="ka" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/></marker></defs>
+    <line x1="75" y1="80" x2="110" y2="80" stroke="#2b3a42" stroke-width="2" marker-end="url(#ka-L-06-006-07-forms-of-energy)"/>
+    <defs><marker id="ka-L-06-006-07-forms-of-energy" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/></marker></defs>
     <text x="75" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">energy of motion</text>
   </g>
 
@@ -55,8 +55,8 @@
     <rect x="0" y="0" width="150" height="180" rx="10" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
     <text x="75" y="24" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">electrical</text>
     <rect x="30" y="78" width="30" height="46" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="45" y="98" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#222222">+</text>
-    <text x="45" y="112" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#222222">−</text>
+    <text x="45" y="98" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">+</text>
+    <text x="45" y="112" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">−</text>
     <circle cx="98" cy="100" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <g stroke="#2b3a42" stroke-width="2">
       <line x1="60" y1="88" x2="78" y2="92"/>
@@ -69,7 +69,7 @@
   <g transform="translate(344, 288)">
     <rect x="0" y="0" width="150" height="180" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2" stroke-dasharray="6 4"/>
     <text x="75" y="40" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">and it changes</text>
-    <path d="M45,110 Q75,60 105,110" fill="none" stroke="#2b3a42" stroke-width="3" marker-end="url(#ka)"/>
+    <path d="M45,110 Q75,60 105,110" fill="none" stroke="#2b3a42" stroke-width="3" marker-end="url(#ka-L-06-006-07-forms-of-energy)"/>
     <text x="75" y="140" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">energy changes from</text>
     <text x="75" y="158" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">one form to another</text>
   </g>

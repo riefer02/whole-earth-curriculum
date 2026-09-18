@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Civil society: people acting together</title>
-  <desc id="desc">A three-layer diagram. At the bottom, individual people. In the middle, civil-society groups joined by arrows. At the top, government. Arrows show people joining together in groups that act for the common good, and sometimes press government to act.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-010-08-civil-society desc-L-07-010-08-civil-society">
+  <title id="title-L-07-010-08-civil-society">Civil society: people acting together</title>
+  <desc id="desc-L-07-010-08-civil-society">A three-layer diagram. At the bottom, individual people. In the middle, civil-society groups joined by arrows. At the top, government. Arrows show people joining together in groups that act for the common good, and sometimes press government to act.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -35,11 +35,11 @@
 
   <!-- arrows -->
   <line x1="256" y1="128" x2="256" y2="184" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="6 6"/>
-  <line x1="176" y1="382" x2="200" y2="304" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr2)"/>
-  <line x1="344" y1="382" x2="320" y2="304" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr2)"/>
+  <line x1="176" y1="382" x2="200" y2="304" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr2-L-07-010-08-civil-society)"/>
+  <line x1="344" y1="382" x2="320" y2="304" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr2-L-07-010-08-civil-society)"/>
 
   <defs>
-    <marker id="arr2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="arr2-L-07-010-08-civil-society" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
   </defs>

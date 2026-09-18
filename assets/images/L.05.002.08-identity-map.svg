@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My identity map: many parts, one whole self</title>
-  <desc id="desc">An identity map diagram. In the center is a circle labeled "me" with a friendly face. Around it are six connected bubbles labeled "my family," "my culture," "my place," "my history," "my language," and "my interests," each with a small icon: two figures, a bowl and music note, a house, an open book, a speech bubble, and a ball. Lines connect each bubble to the center. Below, a caption reads "Many parts, one whole self — every family's shape belongs." Labels and icons differ in shape, so the map prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-002-08-identity-map desc-L-05-002-08-identity-map">
+  <title id="title-L-05-002-08-identity-map">My identity map: many parts, one whole self</title>
+  <desc id="desc-L-05-002-08-identity-map">An identity map diagram. In the center is a circle labeled "me" with a friendly face. Around it are six connected bubbles labeled "my family," "my culture," "my place," "my history," "my language," and "my interests," each with a small icon: two figures, a bowl and music note, a house, an open book, a speech bubble, and a ball. Lines connect each bubble to the center. Below, a caption reads "Many parts, one whole self — every family's shape belongs." Labels and icons differ in shape, so the map prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -66,6 +66,6 @@
   <path d="M160 184 Q162 176 160 170" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
   <text x="160" y="160" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">my interests</text>
 
-  <text x="256" y="449" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Many parts, one whole self — every family's shape</text>
+  <text x="256" y="449" text-anchor="middle" font-family="sans-serif" font-size="18.7" fill="#2b3a42">Many parts, one whole self — every family's shape</text>
   <text x="256" y="475" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">belongs.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Our data fair bar graph</title>
-  <desc id="desc">A completed bar graph titled How We Get to School with bars for walking eight, riding four, and bus three, plus a finding card that says four more children walk than ride because eight minus four is four.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-16-data-fair desc-L-02-005-16-data-fair">
+  <title id="title-L-02-005-16-data-fair">Our data fair bar graph</title>
+  <desc id="desc-L-02-005-16-data-fair">A completed bar graph titled How We Get to School with bars for walking eight, riding four, and bus three, plus a finding card that says four more children walk than ride because eight minus four is four.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -42,5 +42,5 @@
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#e0a458">4 more children walk than ride</text>
   <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">because 8 − 4 = 4</text>
 
-  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Ask → collect → graph → read. Every voice counts once.</text>
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="17.0" fill="#4f6d7a">Ask → collect → graph → read. Every voice counts once.</text>
 </svg>

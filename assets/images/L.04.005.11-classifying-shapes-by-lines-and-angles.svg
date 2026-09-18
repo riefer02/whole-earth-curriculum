@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Classifying quadrilaterals by lines and angles</title>
-  <desc id="desc">Four quadrilaterals shown in a row: a parallelogram, a rectangle, a rhombus, and a square. Each is labeled with its features: the parallelogram has two pairs of parallel sides; the rectangle adds four right angles; the rhombus has four equal sides; the square has four equal sides and four right angles. A note says every square is a rectangle and a rhombus.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-11-classifying-shapes-by-lines-and-angles desc-L-04-005-11-classifying-shapes-by-lines-and-angles">
+  <title id="title-L-04-005-11-classifying-shapes-by-lines-and-angles">Classifying quadrilaterals by lines and angles</title>
+  <desc id="desc-L-04-005-11-classifying-shapes-by-lines-and-angles">Four quadrilaterals shown in a row: a parallelogram, a rectangle, a rhombus, and a square. Each is labeled with its features: the parallelogram has two pairs of parallel sides; the rectangle adds four right angles; the rhombus has four equal sides; the square has four equal sides and four right angles. A note says every square is a rectangle and a rhombus.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Classifying Shapes by Lines &amp; Angles</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22.9" font-weight="bold" fill="#2b3a42">Classifying Shapes by Lines &amp; Angles</text>
 
   <!-- Parallelogram -->
   <text x="106" y="86" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">parallelogram</text>

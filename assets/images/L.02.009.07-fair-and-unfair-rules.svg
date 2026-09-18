@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Fair and unfair rules</title>
-  <desc id="desc">Two panels compare a fair rule and an unfair rule. The left panel shows four children in a circle passing a ball, labeled "everyone gets a turn — fair". The right panel shows three children playing with a ball while a fourth child stands apart with head down, labeled "some are left out for no reason — unfair". A small question mark sits between the two panels, labeled "why?". The labels and shapes — not color — carry the meaning, so the picture prints clearly in grayscale and teaches that fair means everyone gets a chance, and unfair means someone is left out for no good reason.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-009-07-fair-and-unfair-rules desc-L-02-009-07-fair-and-unfair-rules">
+  <title id="title-L-02-009-07-fair-and-unfair-rules">Fair and unfair rules</title>
+  <desc id="desc-L-02-009-07-fair-and-unfair-rules">Two panels compare a fair rule and an unfair rule. The left panel shows four children in a circle passing a ball, labeled "everyone gets a turn — fair". The right panel shows three children playing with a ball while a fourth child stands apart with head down, labeled "some are left out for no reason — unfair". A small question mark sits between the two panels, labeled "why?". The labels and shapes — not color — carry the meaning, so the picture prints clearly in grayscale and teaches that fair means everyone gets a chance, and unfair means someone is left out for no good reason.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Fair and Unfair Rules</text>
-  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Fair = same chance, good reason &#183; unfair = left out, no reason</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Fair = same chance, good reason &#183; unfair = left out, no reason</text>
 
   <!-- fair panel -->
   <rect x="28" y="96" width="200" height="280" rx="14" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
@@ -42,6 +42,6 @@
   <text x="258" y="266" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#222222">?</text>
   <text x="258" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">why?</text>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Notice fair and unfair &#183; say why &#183; then make it right</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">Notice fair and unfair &#183; say why &#183; then make it right</text>
   <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The unfairness is in the rule, never in a child</text>
 </svg>

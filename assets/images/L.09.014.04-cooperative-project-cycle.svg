@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Our cooperative project: the design cycle</title>
-  <desc id="desc">A circle of five steps: see a need, listen to the people, plan together, act, and reflect and adjust. Small figures of varied skin tones cooperate at each step. An arrow leads onward from the cycle labeled "to Grade 10," showing the work continues forward.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-014-04-cooperative-project-cycle desc-L-09-014-04-cooperative-project-cycle">
+  <title id="title-L-09-014-04-cooperative-project-cycle">Our cooperative project: the design cycle</title>
+  <desc id="desc-L-09-014-04-cooperative-project-cycle">A circle of five steps: see a need, listen to the people, plan together, act, and reflect and adjust. Small figures of varied skin tones cooperate at each step. An arrow leads onward from the cycle labeled "to Grade 10," showing the work continues forward.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Care Into Action: The Design Cycle</text>
@@ -58,6 +58,6 @@
   <!-- onward arrow to Grade 10 -->
   <path d="M404 460 L488 460" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   <path d="M480 452 L488 460 L480 468" fill="#2b3a42"/>
-  <text x="470" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">to Grade 10</text>
+  <text x="470" y="440" text-anchor="middle" font-family="sans-serif" font-size="12.6" font-weight="bold" fill="#2b3a42">to Grade 10</text>
   <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">everyone gives, everyone decides, everyone shares the credit</text>
 </svg>

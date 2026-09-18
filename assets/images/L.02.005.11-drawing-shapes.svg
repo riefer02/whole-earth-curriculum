@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Drawing shapes from attributes</title>
-  <desc id="desc">Two challenge cards. The first says draw a shape with four equal sides, with a square drawn below. The second says draw a shape with three angles, with a triangle drawn below.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-11-drawing-shapes desc-L-02-005-11-drawing-shapes">
+  <title id="title-L-02-005-11-drawing-shapes">Drawing shapes from attributes</title>
+  <desc id="desc-L-02-005-11-drawing-shapes">Two challenge cards. The first says draw a shape with four equal sides, with a square drawn below. The second says draw a shape with three angles, with a triangle drawn below.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

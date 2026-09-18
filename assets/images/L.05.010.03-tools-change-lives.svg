@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 360" role="img" aria-labelledby="title desc">
-  <title id="title">Writing changed how people lived and worked</title>
-  <desc id="desc">A before-and-after chain titled "Writing changed how people lived and worked." On the left, under a heading "before writing," a figure with a worried expression holds a hand to their head, and below them a note reads "people had to remember everything, and ideas could only travel if people traveled." A dashed arrow points right. On the right, under a heading "after writing," a figure marks a clay tablet with a stylus, and below them a note reads "records were kept, trade was counted, and laws and stories could travel farther and last longer." A caption at the bottom reads "A tool changes the work; the work changes the life." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 360" role="img" aria-labelledby="title-L-05-010-03-tools-change-lives desc-L-05-010-03-tools-change-lives">
+  <title id="title-L-05-010-03-tools-change-lives">Writing changed how people lived and worked</title>
+  <desc id="desc-L-05-010-03-tools-change-lives">A before-and-after chain titled "Writing changed how people lived and worked." On the left, under a heading "before writing," a figure with a worried expression holds a hand to their head, and below them a note reads "people had to remember everything, and ideas could only travel if people traveled." A dashed arrow points right. On the right, under a heading "after writing," a figure marks a clay tablet with a stylus, and below them a note reads "records were kept, trade was counted, and laws and stories could travel farther and last longer." A caption at the bottom reads "A tool changes the work; the work changes the life." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="360" fill="#fdfbf7"/>
-  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Writing Changed How People Lived and Worked</text>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="21.3" font-weight="bold" fill="#2b3a42">Writing Changed How People Lived and Worked</text>
 
   <!-- Before panel -->
   <text x="96" y="78" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">before writing</text>

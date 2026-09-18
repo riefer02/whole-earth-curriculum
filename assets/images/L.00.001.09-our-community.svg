@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My class, my community: a circle of people</title>
-  <desc id="desc">A child stands in the middle of a dashed circle, surrounded by six labeled community members: a food seller with a basket, a teacher with a book, a healer with a medicine bottle, a fixer with a hammer, a friend with a ball, and a neighbor with a house. Each person is labeled by role, not color, so the image prints clearly in grayscale. Skin tones and shirts vary across the figures.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-09-our-community desc-L-00-001-09-our-community">
+  <title id="title-L-00-001-09-our-community">My class, my community: a circle of people</title>
+  <desc id="desc-L-00-001-09-our-community">A child stands in the middle of a dashed circle, surrounded by six labeled community members: a food seller with a basket, a teacher with a book, a healer with a medicine bottle, a fixer with a hammer, a friend with a ball, and a neighbor with a house. Each person is labeled by role, not color, so the image prints clearly in grayscale. Skin tones and shirts vary across the figures.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">From messy observations to an organized table</title>
-  <desc id="desc">A diagram showing how scattered observations become an organized data table. On the left, a messy pile of tally marks and scribbled notes is labeled "messy observations." An arrow points right to a neat table with three columns. The header row reads "cloth type," "drops absorbed," and "tally," and four rows list wool, cotton, paper, and plastic with their drop counts and tally marks. A caption below reads: a table lines up every observation under a clear header, so the pattern is easy to read. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-006-01-data-tables desc-L-06-006-01-data-tables">
+  <title id="title-L-06-006-01-data-tables">From messy observations to an organized table</title>
+  <desc id="desc-L-06-006-01-data-tables">A diagram showing how scattered observations become an organized data table. On the left, a messy pile of tally marks and scribbled notes is labeled "messy observations." An arrow points right to a neat table with three columns. The header row reads "cloth type," "drops absorbed," and "tally," and four rows list wool, cotton, paper, and plastic with their drop counts and tally marks. A caption below reads: a table lines up every observation under a clear header, so the pattern is easy to read. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -54,6 +54,6 @@
     <text x="165" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">II</text>
   </g>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">a table lines up every observation under a clear header</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16.7" font-weight="bold" fill="#222222">a table lines up every observation under a clear header</text>
   <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">so the pattern is easy to read</text>
 </svg>

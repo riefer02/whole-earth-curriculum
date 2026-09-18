@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Data and the shape of privacy</title>
-  <desc id="desc">A horizontal spectrum from privacy limited on the left to privacy expanded on the right. Four technologies are placed along it — a surveillance camera, an ID card, a health app, and a messaging app — grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-010-08-data-and-privacy desc-L-10-010-08-data-and-privacy">
+  <title id="title-L-10-010-08-data-and-privacy">Data and the shape of privacy</title>
+  <desc id="desc-L-10-010-08-data-and-privacy">A horizontal spectrum from privacy limited on the left to privacy expanded on the right. Four technologies are placed along it — a surveillance camera, an ID card, a health app, and a messaging app — grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <text x="120" y="60" font-size="16" font-weight="bold" fill="#2b3a42">privacy limited</text>
-    <text x="392" y="60" font-size="16" font-weight="bold" fill="#2b3a42">privacy expanded</text>
+    <text x="392" y="60" font-size="13.2" font-weight="bold" fill="#2b3a42">privacy expanded</text>
     <!-- spectrum line -->
     <line x1="60" y1="150" x2="452" y2="150" stroke="#2b3a42" stroke-width="3"/>
     <path d="M60 150 L452 150" stroke="#2b3a42" stroke-width="3"/>
@@ -37,6 +37,6 @@
       <path d="M392 186 q 0 -2 4 -2 q 4 0 4 2 v 8 q 0 2 -4 2 q -2 0 -3 -1 l -1 -1 h -2 q -1 0 -1 1 v 1"/>
     </g>
     <text x="401" y="230" font-size="12" fill="#222222">messaging</text>
-    <text x="256" y="300" font-size="14" fill="#222222">the same tool can sit in two places at once</text>
+    <text x="256" y="300" font-size="12" fill="#222222">the same tool can sit in two places at once</text>
   </g>
 </svg>

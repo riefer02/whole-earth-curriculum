@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Listen, then ask a question</title>
-  <desc id="desc">A speaker on the left tells a short story, with a speech bubble that says "a little story." A listener on the right faces them calmly with hands still. Below, five equal question-starter cards read "Who?", "What?", "Where?", "When?", and "Why?", each with a tiny picture: a face for who, a block for what, a map pin for where, a clock for when, and a question mark for why. A caption under the cards reminds learners that a question can be asked by voice, sign, pointing, or drawing. The labels and shapes, not color, carry the meaning, so the picture prints clearly in grayscale and teaches learners to listen with their whole self and then ask one question using a starter word.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-004-01-listening-and-asking-questions desc-L-01-004-01-listening-and-asking-questions">
+  <title id="title-L-01-004-01-listening-and-asking-questions">Listen, then ask a question</title>
+  <desc id="desc-L-01-004-01-listening-and-asking-questions">A speaker on the left tells a short story, with a speech bubble that says "a little story." A listener on the right faces them calmly with hands still. Below, five equal question-starter cards read "Who?", "What?", "Where?", "When?", and "Why?", each with a tiny picture: a face for who, a block for what, a map pin for where, a clock for when, and a question mark for why. A caption under the cards reminds learners that a question can be asked by voice, sign, pointing, or drawing. The labels and shapes, not color, carry the meaning, so the picture prints clearly in grayscale and teaches learners to listen with their whole self and then ask one question using a starter word.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -72,5 +72,5 @@
     <text x="448" y="434" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Why?</text>
   </g>
 
-  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ask by voice, sign, pointing, or drawing — every question counts.</text>
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Ask by voice, sign, pointing, or drawing — every question counts.</text>
 </svg>

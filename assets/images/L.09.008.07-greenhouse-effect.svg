@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The greenhouse effect warms the Earth</title>
-  <desc id="desc">The sun's incoming light reaches and warms the Earth's surface. The surface emits heat, shown as wavy arrows. A layer of greenhouse gases lets sunlight in but traps some outgoing heat and sends part of it back to the surface, keeping the planet warm.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-008-07-greenhouse-effect desc-L-09-008-07-greenhouse-effect">
+  <title id="title-L-09-008-07-greenhouse-effect">The greenhouse effect warms the Earth</title>
+  <desc id="desc-L-09-008-07-greenhouse-effect">The sun's incoming light reaches and warms the Earth's surface. The surface emits heat, shown as wavy arrows. A layer of greenhouse gases lets sunlight in but traps some outgoing heat and sends part of it back to the surface, keeping the planet warm.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Greenhouse Gases Trap Some Heat</text>
@@ -39,10 +39,10 @@
   <path d="M214 168 Q206 196 226 218 Q240 234 236 262" fill="none" stroke="#e0a458" stroke-width="2.5" stroke-dasharray="5 4"/>
   <polygon points="236,262 230,252 240,252" fill="#e0a458"/>
 
-  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Sunlight passes through; heat is partly held back and sent down again.</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#222222">Sunlight passes through; heat is partly held back and sent down again.</text>
 
   <rect x="60" y="366" width="392" height="112" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
-  <text x="76" y="390" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">More greenhouse gases = more heat trapped = a warmer planet.</text>
+  <text x="76" y="390" font-family="sans-serif" font-size="13.1" font-weight="bold" fill="#222222">More greenhouse gases = more heat trapped = a warmer planet.</text>
   <text x="76" y="414" font-family="sans-serif" font-size="13" fill="#4f6d7a">Burning fossil fuels adds carbon dioxide and methane.</text>
   <text x="76" y="434" font-family="sans-serif" font-size="13" fill="#4f6d7a">The effect itself is natural and keeps Earth livable —</text>
   <text x="76" y="452" font-family="sans-serif" font-size="13" fill="#4f6d7a">the problem is how fast human activity has strengthened it.</text>

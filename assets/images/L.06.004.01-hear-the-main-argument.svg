@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Hear the main argument — the argument tree</title>
-  <desc id="desc">A tree diagram of one spoken argument. The trunk is labeled "main claim — we should build a shaded rest stop by the field." Three branches are labeled "supporting detail" (people work there all day; there is no shade; a rest stop helps everyone), and scattered leaves are labeled "example" (the old woman who carries water, the children who play at noon, the market seller who naps on his cart). Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-004-01-hear-the-main-argument desc-L-06-004-01-hear-the-main-argument">
+  <title id="title-L-06-004-01-hear-the-main-argument">Hear the main argument — the argument tree</title>
+  <desc id="desc-L-06-004-01-hear-the-main-argument">A tree diagram of one spoken argument. The trunk is labeled "main claim — we should build a shaded rest stop by the field." Three branches are labeled "supporting detail" (people work there all day; there is no shade; a rest stop helps everyone), and scattered leaves are labeled "example" (the old woman who carries water, the children who play at noon, the market seller who naps on his cart). Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -39,7 +39,7 @@
   <rect x="40" y="378" width="432" height="34" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the market seller who naps on his cart</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Trunk = the claim. Branches = details. Leaves = examples.</text>
-  <text x="256" y="481.1" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">A claim holds the argument; details and examples hold up the</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16.1" fill="#2b3a42">Trunk = the claim. Branches = details. Leaves = examples.</text>
+  <text x="256" y="481.1" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">A claim holds the argument; details and examples hold up the</text>
   <text x="256" y="503.2" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">claim.</text>
 </svg>

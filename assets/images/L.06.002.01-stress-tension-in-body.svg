@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Stress, tension, and my body</title>
-  <desc id="desc">A diagram showing a thought bubble reading "so much to do, and a test tomorrow" beside a worried face, with an arrow pointing to a simple body outline whose shoulders, jaw, and stomach are shaded and labeled "tight shoulders," "clenched jaw," and "tight stomach." A caption reads "Stress in the mind can show up as tension in the body." Labels and arrows, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-002-01-stress-tension-in-body desc-L-06-002-01-stress-tension-in-body">
+  <title id="title-L-06-002-01-stress-tension-in-body">Stress, tension, and my body</title>
+  <desc id="desc-L-06-002-01-stress-tension-in-body">A diagram showing a thought bubble reading "so much to do, and a test tomorrow" beside a worried face, with an arrow pointing to a simple body outline whose shoulders, jaw, and stomach are shaded and labeled "tight shoulders," "clenched jaw," and "tight stomach." A caption reads "Stress in the mind can show up as tension in the body." Labels and arrows, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Stress in the Mind, Tension in the Body</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="23.5" font-weight="bold" fill="#2b3a42">Stress in the Mind, Tension in the Body</text>
 
   <!-- Thought bubble -->
   <rect x="36" y="72" width="180" height="96" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -54,5 +54,5 @@
     <text x="400" y="364">stomach</text>
   </g>
 
-  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Stress in the mind can show up as tension in the body.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="17.0" fill="#2b3a42">Stress in the mind can show up as tension in the body.</text>
 </svg>

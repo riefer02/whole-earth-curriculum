@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My body belongs to me</title>
-  <desc id="desc">On the left, a child stands with a hand raised in a stop sign and a speech bubble saying no. In the middle, a body drawing shows the swimsuit-covered parts shaded and labeled private. On the right, a listening trusted adult kneels with an open hand. The words my body belongs to me appear at the bottom. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-008-08-my-body-belongs-to-me desc-L-03-008-08-my-body-belongs-to-me">
+  <title id="title-L-03-008-08-my-body-belongs-to-me">My body belongs to me</title>
+  <desc id="desc-L-03-008-08-my-body-belongs-to-me">On the left, a child stands with a hand raised in a stop sign and a speech bubble saying no. In the middle, a body drawing shows the swimsuit-covered parts shaded and labeled private. On the right, a listening trusted adult kneels with an open hand. The words my body belongs to me appear at the bottom. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">My Body Belongs to Me</text>
@@ -40,5 +40,5 @@
     <text x="392" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">tell a trusted adult</text>
   </g>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Telling is never wrong, and you are never in trouble for telling.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#222222">Telling is never wrong, and you are never in trouble for telling.</text>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Wayfinding: reading the stars, waves, and sky</title>
-  <desc id="desc">A sailing canoe with a triangular sail moves across the ocean under a night sky. A crescent moon and many stars hang above, and wavy lines show the sea. Small arrows point from the stars, the moon, and the waves down to the canoe, showing that wayfinders read the stars, the sky, and the ocean swells to know where they are and which way to sail. A person sits in the canoe steering. The labels and the shapes — not color — carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-009-04-wayfinding desc-L-02-009-04-wayfinding">
+  <title id="title-L-02-009-04-wayfinding">Wayfinding: reading the stars, waves, and sky</title>
+  <desc id="desc-L-02-009-04-wayfinding">A sailing canoe with a triangular sail moves across the ocean under a night sky. A crescent moon and many stars hang above, and wavy lines show the sea. Small arrows point from the stars, the moon, and the waves down to the canoe, showing that wayfinders read the stars, the sky, and the ocean swells to know where they are and which way to sail. A person sits in the canoe steering. The labels and the shapes — not color — carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Wayfinding: Reading Stars and Waves</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26.2" font-weight="bold" fill="#2b3a42">Wayfinding: Reading Stars and Waves</text>
   <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A knowledge and skill people developed</text>
 
   <!-- sky -->
@@ -51,6 +51,6 @@
     <path d="M352 230 L360 216 L344 214 Z"/>
   </g>
 
-  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Stars &#183; waves &#183; clouds &#183; birds &#183; they show the way home</text>
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Passed down hand to hand &#183; never &#8220;primitive&#8221;</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">Stars &#183; waves &#183; clouds &#183; birds &#183; they show the way home</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15.0" fill="#4f6d7a">Passed down hand to hand &#183; never &#8220;primitive&#8221;</text>
 </svg>

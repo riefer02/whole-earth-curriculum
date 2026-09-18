@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The Idea of Getting Closer</title>
-  <desc id="desc">A number line from 0 to 1 showing the partial sums 1/2, 3/4, 7/8, and 15/16 as marks stepping closer and closer to 1, never reaching it, with the label "approaches 1, never overshoots."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-01-the-idea-of-getting-closer desc-L-12-005-01-the-idea-of-getting-closer">
+  <title id="title-L-12-005-01-the-idea-of-getting-closer">The Idea of Getting Closer</title>
+  <desc id="desc-L-12-005-01-the-idea-of-getting-closer">A number line from 0 to 1 showing the partial sums 1/2, 3/4, 7/8, and 15/16 as marks stepping closer and closer to 1, never reaching it, with the label "approaches 1, never overshoots."</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Limit: Getting Closer and Closer</text>
@@ -27,7 +27,7 @@
   <!-- brace toward 1 -->
   <path d="M 427 168 C 427 190, 452 190, 452 168" fill="none" stroke="#6b93b6" stroke-width="2"/>
   <text x="452" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#6b93b6">approaches 1,</text>
-  <text x="452" y="230" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#6b93b6">never overshoots</text>
+  <text x="452" y="230" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#6b93b6">never overshoots</text>
 
   <!-- continuity vs jump -->
   <text x="128" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Continuous: no gap, no jump</text>
@@ -41,5 +41,5 @@
   <text x="384" y="386" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a staircase step</text>
 
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">"As close as I like" is the whole idea.</text>
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Early limit ideas appear in Greek and Kerala (India) traditions (S-272).</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">Early limit ideas appear in Greek and Kerala (India) traditions (S-272).</text>
 </svg>

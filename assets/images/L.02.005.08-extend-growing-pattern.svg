@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Extending a growing dot pattern</title>
-  <desc id="desc">A growing pattern of dots in four rows of two, four, six, and eight dots, with the next row of ten dots shown as the extension, and the rule that it grows by two each time.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-08-extend-growing-pattern desc-L-02-005-08-extend-growing-pattern">
+  <title id="title-L-02-005-08-extend-growing-pattern">Extending a growing dot pattern</title>
+  <desc id="desc-L-02-005-08-extend-growing-pattern">A growing pattern of dots in four rows of two, four, six, and eight dots, with the next row of ten dots shown as the extension, and the rule that it grows by two each time.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -18,7 +18,7 @@
   <rect x="300" y="120" width="180" height="230" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
   <text x="390" y="152" text-anchor="middle" font-size="19" fill="#2b3a42" font-weight="bold">My record</text>
   <line x1="310" y1="166" x2="470" y2="166" stroke="#4f6d7a" stroke-width="2"/>
-  <text x="390" y="192" text-anchor="middle" font-size="16" fill="#222222">My prediction: the leaf floats</text>
+  <text x="390" y="192" text-anchor="middle" font-size="14.3" fill="#222222">My prediction: the leaf floats</text>
 
   <rect x="316" y="212" width="148" height="42" rx="8" fill="#7a9e7e" opacity="0.3" stroke="#7a9e7e" stroke-width="2"/>
   <text x="330" y="238" text-anchor="middle" font-size="16" fill="#222222">✓ It matched</text>

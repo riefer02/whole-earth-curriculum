@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Probability Rules and Compound Events</title>
-  <desc id="desc">A two-way table and a branching tree diagram for a compound event (two coin tosses), with the addition rule for or and the multiplication rule for and written beside them.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-005-12-probability-rules desc-L-10-005-12-probability-rules">
+  <title id="title-L-10-005-12-probability-rules">Probability Rules and Compound Events</title>
+  <desc id="desc-L-10-005-12-probability-rules">A two-way table and a branching tree diagram for a compound event (two coin tosses), with the addition rule for or and the multiplication rule for and written beside them.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Two Coin Tosses</text>

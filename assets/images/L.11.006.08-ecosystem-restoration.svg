@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Conservation and Restoration</title>
-  <desc id="desc">A food web with several linked species. One species is faded with a broken link, showing the ripple to its neighbors. A second panel shows the web restored with the missing link redrawn, labeled conservation and restoration.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-006-08-ecosystem-restoration desc-L-11-006-08-ecosystem-restoration">
+  <title id="title-L-11-006-08-ecosystem-restoration">Conservation and Restoration</title>
+  <desc id="desc-L-11-006-08-ecosystem-restoration">A food web with several linked species. One species is faded with a broken link, showing the ripple to its neighbors. A second panel shows the web restored with the missing link redrawn, labeled conservation and restoration.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Conservation and Restoration</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Critiquing the Numbers in Public Claims</title>
-  <desc id="desc">A four-step flow — read the claim, estimate what the number should be, compare the two, and write a verdict — with a worked example: a claim of ten million homes served is compared against an estimate of about one million homes, and the verdict is "implausible, off by about ten times."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-04-critiquing-public-claims desc-L-12-005-04-critiquing-public-claims">
+  <title id="title-L-12-005-04-critiquing-public-claims">Critiquing the Numbers in Public Claims</title>
+  <desc id="desc-L-12-005-04-critiquing-public-claims">A four-step flow — read the claim, estimate what the number should be, compare the two, and write a verdict — with a worked example: a claim of ten million homes served is compared against an estimate of about one million homes, and the verdict is "implausible, off by about ten times."</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">The Back-of-the-Envelope Check</text>
@@ -35,13 +35,13 @@
   <rect x="30" y="140" width="452" height="190" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>
   <text x="256" y="166" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Worked example</text>
   <text x="48" y="194" font-family="sans-serif" font-size="14" fill="#222222">Claim: "The plant will power 10,000,000 homes."</text>
-  <text x="48" y="220" font-family="sans-serif" font-size="14" fill="#222222">Estimate: one big plant serves ~1,000,000 homes (10&#8310;).</text>
+  <text x="48" y="220" font-family="sans-serif" font-size="13.9" fill="#222222">Estimate: one big plant serves ~1,000,000 homes (10&#8310;).</text>
   <text x="48" y="246" font-family="sans-serif" font-size="14" fill="#222222">Compare: the claim is ten times bigger than the estimate.</text>
-  <text x="48" y="272" font-family="sans-serif" font-size="14" fill="#222222">Verdict: implausible &#8212; off by about an order of magnitude.</text>
-  <text x="48" y="304" font-family="sans-serif" font-size="13" fill="#4f6d7a">Separate the fact (is the number right?) from the value (what should be done?).</text>
+  <text x="48" y="272" font-family="sans-serif" font-size="13.1" fill="#222222">Verdict: implausible &#8212; off by about an order of magnitude.</text>
+  <text x="48" y="304" font-family="sans-serif" font-size="12" fill="#4f6d7a">Separate the fact (is the number right?) from the value (what should be done?).</text>
 
   <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Per capita = divide by people, to compare fairly.</text>
   <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1,000,000 t carbon &#247; 100,000,000 people = 10 kg each.</text>
 
-  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Checking before repeating is an everyday honesty tool (S-005, S-006).</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">Checking before repeating is an everyday honesty tool (S-005, S-006).</text>
 </svg>

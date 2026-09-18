@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Body signals at three feeling strengths</title>
-  <desc id="desc">Three simple person figures side by side, each labeled with a feeling strength. The "a little" figure shows a small spiral flutter near the stomach. The "some" figure, who wears a hearing aid, shows a heart at the chest and motion lines for a faster heartbeat. The "a lot" figure shows zigzag shaking lines at the shoulders and hands. Labels and shape, not color, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-001-02-body-signals desc-L-04-001-02-body-signals">
+  <title id="title-L-04-001-02-body-signals">Body signals at three feeling strengths</title>
+  <desc id="desc-L-04-001-02-body-signals">Three simple person figures side by side, each labeled with a feeling strength. The "a little" figure shows a small spiral flutter near the stomach. The "some" figure, who wears a hearing aid, shows a heart at the chest and motion lines for a faster heartbeat. The "a lot" figure shows zigzag shaking lines at the shoulders and hands. Labels and shape, not color, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -60,5 +60,5 @@
     <text x="412" y="392" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">hot, tight, shaky</text>
   </g>
 
-  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">My body tells me how strong my feeling is.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="21.8" fill="#2b3a42">My body tells me how strong my feeling is.</text>
 </svg>

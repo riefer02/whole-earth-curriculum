@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
-  <title id="title">Celebration, two ways</title>
-  <desc id="desc">A two-panel comparison titled "Celebration, two ways." The left panel, labeled "Brazilian samba," shows a small drum with two sticks and dancing figures, with labels "surdo, tamborim, cuíca," "a syncopated groove," and "call-and-response with dancing crowds." The right panel, labeled "Japanese taiko," shows a large drum with two players holding bachi sticks, with labels "large drums and bachi sticks," "unison strikes with full-body form," and "intensity that builds and builds." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title-L-06-007-04-celebration-two-traditions desc-L-06-007-04-celebration-two-traditions">
+  <title id="title-L-06-007-04-celebration-two-traditions">Celebration, two ways</title>
+  <desc id="desc-L-06-007-04-celebration-two-traditions">A two-panel comparison titled "Celebration, two ways." The left panel, labeled "Brazilian samba," shows a small drum with two sticks and dancing figures, with labels "surdo, tamborim, cuíca," "a syncopated groove," and "call-and-response with dancing crowds." The right panel, labeled "Japanese taiko," shows a large drum with two players holding bachi sticks, with labels "large drums and bachi sticks," "unison strikes with full-body form," and "intensity that builds and builds." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="560" fill="#fdfbf7"/>
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Celebration, Two Ways</text>
@@ -84,7 +84,7 @@
   <text x="300" y="388" font-family="sans-serif" font-size="13" fill="#2b3a42">large drums and bachi sticks</text>
   <text x="300" y="408" font-family="sans-serif" font-size="13" fill="#2b3a42">unison strikes with</text>
   <text x="300" y="428" font-family="sans-serif" font-size="13" fill="#2b3a42">full-body form</text>
-  <text x="300" y="448" font-family="sans-serif" font-size="13" fill="#2b3a42">intensity that builds and builds</text>
+  <text x="300" y="448" font-family="sans-serif" font-size="12" fill="#2b3a42">intensity that builds and builds</text>
 
   <text x="256" y="548" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">each grew in its place, with its instruments and its people</text>
 </svg>

@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Offering help, without being asked</title>
-  <desc id="desc">Three steps for offering help without being asked. Step one, notice: a child using a wheelchair notices that a standing child has dropped pencils on the floor. Step two, offer: a child offers with kind words in a speech bubble, "Would you like help?" Step three, yes or no: if the answer is "yes, please," the two help side by side; if the answer is "no, thank you," the helper says "okay" and lets the person try alone — both answers are okay. Word labels and the speech bubbles carry the meaning, not color, so the picture prints in grayscale. The closing line teaches that help is mutual aid, not pity — today you give, another day you receive.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-012-05-offering-help desc-L-01-012-05-offering-help">
+  <title id="title-L-01-012-05-offering-help">Offering help, without being asked</title>
+  <desc id="desc-L-01-012-05-offering-help">Three steps for offering help without being asked. Step one, notice: a child using a wheelchair notices that a standing child has dropped pencils on the floor. Step two, offer: a child offers with kind words in a speech bubble, "Would you like help?" Step three, yes or no: if the answer is "yes, please," the two help side by side; if the answer is "no, thank you," the helper says "okay" and lets the person try alone — both answers are okay. Word labels and the speech bubbles carry the meaning, not color, so the picture prints in grayscale. The closing line teaches that help is mutual aid, not pity — today you give, another day you receive.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Offering Help, Without Being Asked</text>
-  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">notice a struggle, offer with kind words, and "no thank you" is always okay</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27.0" font-weight="bold" fill="#2b3a42">Offering Help, Without Being Asked</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">notice a struggle, offer with kind words, and "no thank you" is always okay</text>
 
   <!-- panel 1: notice -->
   <rect x="20" y="90" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>

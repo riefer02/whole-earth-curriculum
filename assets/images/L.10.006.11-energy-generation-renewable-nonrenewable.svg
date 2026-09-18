@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Energy Generation: Renewable and Nonrenewable</title>
-  <desc id="desc">Two columns of labeled energy sources — nonrenewable (coal, oil, natural gas, nuclear) and renewable (solar, wind, hydro, geothermal, biomass) — each with an arrow into a turbine or panel and the word electricity.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-006-11-energy-generation-renewable-nonrenewable desc-L-10-006-11-energy-generation-renewable-nonrenewable">
+  <title id="title-L-10-006-11-energy-generation-renewable-nonrenewable">Energy Generation: Renewable and Nonrenewable</title>
+  <desc id="desc-L-10-006-11-energy-generation-renewable-nonrenewable">Two columns of labeled energy sources — nonrenewable (coal, oil, natural gas, nuclear) and renewable (solar, wind, hydro, geothermal, biomass) — each with an arrow into a turbine or panel and the word electricity.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Where Electricity Comes From</text>
 

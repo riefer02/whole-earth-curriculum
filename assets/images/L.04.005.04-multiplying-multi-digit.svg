@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Area model for 23 times 45</title>
-  <desc id="desc">A rectangle split into four parts to show 23 times 45. The left side is labeled 20 and 3, and the top is labeled 40 and 5. The four inner parts are labeled 20 times 40 equals 800, 20 times 5 equals 100, 3 times 40 equals 120, and 3 times 5 equals 15. Below, the partial products 800, 100, 120, and 15 add to 1,035.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-04-multiplying-multi-digit desc-L-04-005-04-multiplying-multi-digit">
+  <title id="title-L-04-005-04-multiplying-multi-digit">Area model for 23 times 45</title>
+  <desc id="desc-L-04-005-04-multiplying-multi-digit">A rectangle split into four parts to show 23 times 45. The left side is labeled 20 and 3, and the top is labeled 40 and 5. The four inner parts are labeled 20 times 40 equals 800, 20 times 5 equals 100, 3 times 40 equals 120, and 3 times 5 equals 15. Below, the partial products 800, 100, 120, and 15 add to 1,035.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

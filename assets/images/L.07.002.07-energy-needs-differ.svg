@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Energy needs differ among bodies and activities</title>
-  <desc id="desc">A fuel gauge chart with three bars of different heights. The shortest bar is labeled smaller body, restful day, less fuel. The middle bar is labeled bigger body, restful day, more fuel. The tallest bar is labeled active day, most fuel, with a small note that a growing body needs extra fuel on top. Bars differ by height and label, so the chart reads clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-002-07-energy-needs-differ desc-L-07-002-07-energy-needs-differ">
+  <title id="title-L-07-002-07-energy-needs-differ">Energy needs differ among bodies and activities</title>
+  <desc id="desc-L-07-002-07-energy-needs-differ">A fuel gauge chart with three bars of different heights. The shortest bar is labeled smaller body, restful day, less fuel. The middle bar is labeled bigger body, restful day, more fuel. The tallest bar is labeled active day, most fuel, with a small note that a growing body needs extra fuel on top. Bars differ by height and label, so the chart reads clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

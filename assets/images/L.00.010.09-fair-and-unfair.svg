@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Fair and unfair: everyone gets a turn</title>
-  <desc id="desc">Three gentle, blame-free scenes in a row. The first, labeled "fair," shows three children in a row, each holding a ball, all smiling. The second, labeled "unfair," shows two children playing with one ball while a third child in a wheelchair stands apart looking down with no ball. The third, labeled "then we make it fair," shows the same three children, and now the child who was left out holds a ball too, and everyone smiles. No one is shamed; the scenes end with repair. The children have varied skin tones, and one uses a wheelchair. Prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-010-09-fair-and-unfair desc-L-00-010-09-fair-and-unfair">
+  <title id="title-L-00-010-09-fair-and-unfair">Fair and unfair: everyone gets a turn</title>
+  <desc id="desc-L-00-010-09-fair-and-unfair">Three gentle, blame-free scenes in a row. The first, labeled "fair," shows three children in a row, each holding a ball, all smiling. The second, labeled "unfair," shows two children playing with one ball while a third child in a wheelchair stands apart looking down with no ball. The third, labeled "then we make it fair," shows the same three children, and now the child who was left out holds a ball too, and everyone smiles. No one is shamed; the scenes end with repair. The children have varied skin tones, and one uses a wheelchair. Prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -101,5 +101,5 @@
     <circle cx="420" cy="386" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   </g>
 
-  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Fair means everyone gets a turn &#183; and we can help make it fair</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Fair means everyone gets a turn &#183; and we can help make it fair</text>
 </svg>

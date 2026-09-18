@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Coordinates, perimeter, and paths</title>
-  <desc id="desc">A first-quadrant coordinate grid showing a rectangle with corners at (1,1), (5,1), (5,4), and (1,4). The side lengths are labeled: width 4 units across and height 3 units up. Below the grid, the perimeter is computed as 4 plus 3 plus 4 plus 3 equals 14 units. A dashed path from (1,1) to (5,4) along grid lines is also shown and labeled 4 plus 3 equals 7 units. Labels and counts, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-10-coordinates-perimeter desc-L-05-006-10-coordinates-perimeter">
+  <title id="title-L-05-006-10-coordinates-perimeter">Coordinates, perimeter, and paths</title>
+  <desc id="desc-L-05-006-10-coordinates-perimeter">A first-quadrant coordinate grid showing a rectangle with corners at (1,1), (5,1), (5,4), and (1,4). The side lengths are labeled: width 4 units across and height 3 units up. Below the grid, the perimeter is computed as 4 plus 3 plus 4 plus 3 equals 14 units. A dashed path from (1,1) to (5,4) along grid lines is also shown and labeled 4 plus 3 equals 7 units. Labels and counts, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reading nonfiction and drama</title>
-  <desc id="desc">Two pages side by side. The left page is labeled "nonfiction — information" and shows a heading ("How Rain Reaches the River"), three fact lines with a check mark each, and the label "facts — can be checked." The right page is labeled "drama — a play" and shows two character names with dialogue lines and a bracketed stage direction "(she sets the basket down slowly)" labeled "stage direction." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-004-08-reading-nonfiction-and-drama desc-L-06-004-08-reading-nonfiction-and-drama">
+  <title id="title-L-06-004-08-reading-nonfiction-and-drama">Reading nonfiction and drama</title>
+  <desc id="desc-L-06-004-08-reading-nonfiction-and-drama">Two pages side by side. The left page is labeled "nonfiction — information" and shows a heading ("How Rain Reaches the River"), three fact lines with a check mark each, and the label "facts — can be checked." The right page is labeled "drama — a play" and shows two character names with dialogue lines and a bracketed stage direction "(she sets the basket down slowly)" labeled "stage direction." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -33,7 +33,7 @@
   <text x="286" y="176" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">AMARA:</text>
   <text x="340" y="176" font-family="sans-serif" font-size="13" fill="#222222">"The water is rising."</text>
   <text x="286" y="198" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">GRANDMA:</text>
-  <text x="340" y="198" font-family="sans-serif" font-size="13" fill="#222222">"Then we move the rice."</text>
+  <text x="340" y="198" font-family="sans-serif" font-size="12.7" fill="#222222">"Then we move the rice."</text>
 
   <path d="M286 218 L458 218" stroke="#4f6d7a" stroke-width="1.5"/>
 
@@ -45,5 +45,5 @@
   <text x="374" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"what does this show</text>
   <text x="374" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">about the character?"</text>
 
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">A fact is judged by truth; a line, by what it reveals.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="17.0" fill="#2b3a42">A fact is judged by truth; a line, by what it reveals.</text>
 </svg>

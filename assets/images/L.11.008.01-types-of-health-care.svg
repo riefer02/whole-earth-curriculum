@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Five types of health care</title>
-  <desc id="desc">Five labeled cards in a row: prevention, primary care, emergency care, rehabilitation, and palliative care. Each has a simple line icon. A note below says mental health weaves through every type. Shapes and labels, not color, carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-008-01-types-of-health-care desc-L-11-008-01-types-of-health-care">
+  <title id="title-L-11-008-01-types-of-health-care">Five types of health care</title>
+  <desc id="desc-L-11-008-01-types-of-health-care">Five labeled cards in a row: prevention, primary care, emergency care, rehabilitation, and palliative care. Each has a simple line icon. A note below says mental health weaves through every type. Shapes and labels, not color, carry the meaning, so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -12,10 +12,10 @@
     <text x="60" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Prevent</text>
     <!-- shield icon -->
     <path d="M60 128 L76 136 L76 158 Q76 174 60 182 Q44 174 44 158 L44 136 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="60" y="232" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">Vaccines,</text>
-    <text x="60" y="248" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">check-ups,</text>
-    <text x="60" y="264" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">healthy habits</text>
-    <text x="60" y="280" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">— keep well</text>
+    <text x="60" y="232" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">Vaccines,</text>
+    <text x="60" y="248" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">check-ups,</text>
+    <text x="60" y="264" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">healthy habits</text>
+    <text x="60" y="280" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">— keep well</text>
   </g>
 
   <!-- Card 2: Primary care -->
@@ -26,9 +26,9 @@
     <rect x="134" y="132" width="48" height="48" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <rect x="152" y="140" width="12" height="32" fill="#fdfbf7"/>
     <rect x="142" y="150" width="32" height="12" fill="#fdfbf7"/>
-    <text x="158" y="240" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">Clinic visits for</text>
-    <text x="158" y="256" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">everyday illness</text>
-    <text x="158" y="272" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">and needs</text>
+    <text x="158" y="240" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">Clinic visits for</text>
+    <text x="158" y="256" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">everyday illness</text>
+    <text x="158" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">and needs</text>
   </g>
 
   <!-- Card 3: Emergency care -->
@@ -37,9 +37,9 @@
     <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Emergency</text>
     <!-- lightning / urgent icon -->
     <path d="M260 130 L242 158 L252 158 L246 184 L272 154 L261 154 L268 130 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">Urgent, life-</text>
-    <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">threatening help</text>
-    <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">— call now</text>
+    <text x="256" y="240" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">Urgent, life-</text>
+    <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">threatening help</text>
+    <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">— call now</text>
   </g>
 
   <!-- Card 4: Rehabilitation -->
@@ -49,9 +49,9 @@
     <!-- person rising icon -->
     <circle cx="354" cy="138" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <path d="M354 148 L354 170 M354 158 L340 172 M354 158 L368 172 M354 170 L342 186 M354 170 L366 186" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="354" y="240" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">Regain and keep</text>
-    <text x="354" y="256" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">function after</text>
-    <text x="354" y="272" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">illness or injury</text>
+    <text x="354" y="240" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">Regain and keep</text>
+    <text x="354" y="256" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">function after</text>
+    <text x="354" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">illness or injury</text>
   </g>
 
   <!-- Card 5: Palliative care -->
@@ -60,9 +60,9 @@
     <text x="452" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Comfort</text>
     <!-- heart icon -->
     <path d="M452 172 Q430 150 430 162 Q430 174 452 186 Q474 174 474 162 Q474 150 452 172 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="452" y="240" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">Ease pain and</text>
-    <text x="452" y="256" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">support quality</text>
-    <text x="452" y="272" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#222222">of life</text>
+    <text x="452" y="240" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">Ease pain and</text>
+    <text x="452" y="256" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">support quality</text>
+    <text x="452" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">of life</text>
   </g>
 
   <rect x="16" y="352" width="480" height="60" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>

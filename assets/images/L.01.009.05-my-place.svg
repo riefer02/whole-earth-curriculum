@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My place: land, water, weather, and living things</title>
-  <desc id="desc">A four-part chart shows the pieces of a home place. The top-left square is labeled land and shows mountains. The top-right square is labeled water and shows waves with a raindrop. The bottom-left square is labeled weather and shows a sun behind a rain cloud. The bottom-right square is labeled living things and shows a tree with a bird. A small house marked home sits in the middle. The labels and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that every home place is made of these four parts, and there is no correct place, only the one that is home.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-009-05-my-place desc-L-01-009-05-my-place">
+  <title id="title-L-01-009-05-my-place">My place: land, water, weather, and living things</title>
+  <desc id="desc-L-01-009-05-my-place">A four-part chart shows the pieces of a home place. The top-left square is labeled land and shows mountains. The top-right square is labeled water and shows waves with a raindrop. The bottom-left square is labeled weather and shows a sun behind a rain cloud. The bottom-right square is labeled living things and shows a tree with a bird. A small house marked home sits in the middle. The labels and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that every home place is made of these four parts, and there is no correct place, only the one that is home.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -70,6 +70,6 @@
     <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">home</text>
   </g>
 
-  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">There is no correct place &#183; only the one that is home.</text>
-  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Your place shapes how people live there &#183; every place is different</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15.5" fill="#4f6d7a">There is no correct place &#183; only the one that is home.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">Your place shapes how people live there &#183; every place is different</text>
 </svg>

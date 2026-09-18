@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Senses and joy</title>
-  <desc id="desc">A smiling child stands with arms open in the middle of a joyful scene. Around them, five sense favorites are labeled: a rainbow for see, a music note for hear, a flower for smell, a fruit for taste, and a soft blanket with a heart for touch. Small hearts float nearby. Each object has a word tag, so the meaning does not depend on color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-008-07-senses-and-joy desc-L-00-008-07-senses-and-joy">
+  <title id="title-L-00-008-07-senses-and-joy">Senses and joy</title>
+  <desc id="desc-L-00-008-07-senses-and-joy">A smiling child stands with arms open in the middle of a joyful scene. Around them, five sense favorites are labeled: a rainbow for see, a music note for hear, a flower for smell, a fruit for taste, and a soft blanket with a heart for touch. Small hearts float nearby. Each object has a word tag, so the meaning does not depend on color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Senses and Joy</text>
@@ -83,5 +83,5 @@
     <path d="M362 210 C 358 205 352 205 352 210 C 352 215 358 218 362 221 C 366 218 372 215 372 210 C 372 205 366 205 362 210 Z"/>
   </g>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Joy is shared and personal — every favorite is welcome.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16.7" fill="#4f6d7a">Joy is shared and personal — every favorite is welcome.</text>
 </svg>

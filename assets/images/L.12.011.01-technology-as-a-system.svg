@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Technology as a System</title>
-  <desc id="desc">A diagram of technology as a system. 'Design and values' and 'Materials and energy' boxes flow into a central box labeled 'The technology,' which flows out to 'Uses' and then to 'Effects — benefits, harms, waste.' A horizontal band across the top reads 'Governance and rules: laws, standards, markets, platform rules.' Labels carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-011-01-technology-as-a-system desc-L-12-011-01-technology-as-a-system">
+  <title id="title-L-12-011-01-technology-as-a-system">Technology as a System</title>
+  <desc id="desc-L-12-011-01-technology-as-a-system">A diagram of technology as a system. 'Design and values' and 'Materials and energy' boxes flow into a central box labeled 'The technology,' which flows out to 'Uses' and then to 'Effects — benefits, harms, waste.' A horizontal band across the top reads 'Governance and rules: laws, standards, markets, platform rules.' Labels carry the meaning, so it prints in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Technology as a System</text>

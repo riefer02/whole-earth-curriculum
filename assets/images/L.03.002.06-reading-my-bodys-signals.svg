@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reading my body's signals — a body-signal map</title>
-  <desc id="desc">A full-body outline with four labeled signal spots and a response box beside each. A rumbling tummy is labeled hunger and fullness with the response eat and stop. A dry mouth is labeled thirst with the response drink water. Heavy eyelids are labeled tiredness with the response rest. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-002-06-reading-my-bodys-signals desc-L-03-002-06-reading-my-bodys-signals">
+  <title id="title-L-03-002-06-reading-my-bodys-signals">Reading my body's signals — a body-signal map</title>
+  <desc id="desc-L-03-002-06-reading-my-bodys-signals">A full-body outline with four labeled signal spots and a response box beside each. A rumbling tummy is labeled hunger and fullness with the response eat and stop. A dry mouth is labeled thirst with the response drink water. Heavy eyelids are labeled tiredness with the response rest. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Body-Signal Map</text>

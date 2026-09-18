@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A food system, from farm to table to waste</title>
-  <desc id="desc">Six stages in a row with arrows between them: produce, process, transport, sell, eat, waste. Each stage is a labeled box; beneath key stages are small notes naming an effect on health, workers, or the environment. A curved loop arrow returns from waste to the soil, showing nutrients and energy returning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-004-07-food-system-flow desc-L-09-004-07-food-system-flow">
+  <title id="title-L-09-004-07-food-system-flow">A food system, from farm to table to waste</title>
+  <desc id="desc-L-09-004-07-food-system-flow">Six stages in a row with arrows between them: produce, process, transport, sell, eat, waste. Each stage is a labeled box; beneath key stages are small notes naming an effect on health, workers, or the environment. A curved loop arrow returns from waste to the soil, showing nutrients and energy returning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">From Farm to Table to Waste</text>
@@ -46,7 +46,7 @@
   <text x="44" y="276" font-family="sans-serif" font-size="13" fill="#3f6b4a">Health —</text>
   <text x="112" y="276" font-family="sans-serif" font-size="13" fill="#222222">what ends up on the plate and how it nourishes people</text>
   <text x="44" y="300" font-family="sans-serif" font-size="13" fill="#3f6b4a">Workers —</text>
-  <text x="120" y="300" font-family="sans-serif" font-size="13" fill="#222222">who grows, carries, and sells it, and under what conditions</text>
+  <text x="120" y="300" font-family="sans-serif" font-size="12" fill="#222222">who grows, carries, and sells it, and under what conditions</text>
   <text x="44" y="324" font-family="sans-serif" font-size="13" fill="#3f6b4a">Environment —</text>
   <text x="132" y="324" font-family="sans-serif" font-size="13" fill="#222222">the water, soil, fuel, and waste the chain uses</text>
 

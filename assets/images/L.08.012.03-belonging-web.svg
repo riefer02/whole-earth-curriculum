@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A belonging web of people making room</title>
-  <desc id="desc">A web of six simple figures connected by lines to a central meeting place, with one figure shown stepping in from the edge, showing belonging as something people build by reaching out to one another.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-012-03-belonging-web desc-L-08-012-03-belonging-web">
+  <title id="title-L-08-012-03-belonging-web">A belonging web of people making room</title>
+  <desc id="desc-L-08-012-03-belonging-web">A web of six simple figures connected by lines to a central meeting place, with one figure shown stepping in from the edge, showing belonging as something people build by reaching out to one another.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -48,5 +48,5 @@
   <line x1="439" y1="462" x2="392" y2="352" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="6 4"/>
   <text x="452" y="496" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">a newcomer steps in</text>
 
-  <text x="120" y="474" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Reach out: save a seat, learn a name.</text>
+  <text x="120" y="474" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Reach out: save a seat, learn a name.</text>
 </svg>

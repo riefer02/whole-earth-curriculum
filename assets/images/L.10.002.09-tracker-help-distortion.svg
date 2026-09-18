@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Tech in my pocket: help or distortion</title>
-  <desc id="desc">A wrist-worn tracker and a phone screen shown as a two-sided scale. The left side shows helpful prompts: steps, activity, and rest. The right side shows distorting pressures: streak broken, you're behind, and not enough. It shows the same tool can support or strain a healthy relationship with the body.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-002-09-tracker-help-distortion desc-L-10-002-09-tracker-help-distortion">
+  <title id="title-L-10-002-09-tracker-help-distortion">Tech in my pocket: help or distortion</title>
+  <desc id="desc-L-10-002-09-tracker-help-distortion">A wrist-worn tracker and a phone screen shown as a two-sided scale. The left side shows helpful prompts: steps, activity, and rest. The right side shows distorting pressures: streak broken, you're behind, and not enough. It shows the same tool can support or strain a healthy relationship with the body.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Tech in My Pocket: Help or Distortion?</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24.1" font-weight="bold" fill="#2b3a42">Tech in My Pocket: Help or Distortion?</text>
 
   <!-- Watch -->
   <g transform="translate(76,150)">
@@ -50,5 +50,5 @@
     <line x1="256" y1="338" x2="256" y2="360" stroke="#2b3a42" stroke-width="3"/>
   </g>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same tool can support or strain — you get to decide what your body is for.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">The same tool can support or strain — you get to decide what your body is for.</text>
 </svg>

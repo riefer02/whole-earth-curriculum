@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
-  <title id="title">Music reflects place, history, and community</title>
-  <desc id="desc">A three-panel listening map titled "Music reflects place, history, and community." The left panel, labeled "steppe — khoomei (Mongolia)," shows a wide open horizon with a single figure and long horizontal sound waves, with the note "long, held notes — wide open land." The middle panel, labeled "Andes — siku panpipes," shows two figures on a mountain playing pipes together, with the note "two players share one melody — cooperation." The right panel, labeled "West Africa — djembe drumming," shows a circle of drummers, with the note "layered rhythms and call and response — gathering together." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title-L-05-008-06-music-reflects-place desc-L-05-008-06-music-reflects-place">
+  <title id="title-L-05-008-06-music-reflects-place">Music reflects place, history, and community</title>
+  <desc id="desc-L-05-008-06-music-reflects-place">A three-panel listening map titled "Music reflects place, history, and community." The left panel, labeled "steppe — khoomei (Mongolia)," shows a wide open horizon with a single figure and long horizontal sound waves, with the note "long, held notes — wide open land." The middle panel, labeled "Andes — siku panpipes," shows two figures on a mountain playing pipes together, with the note "two players share one melody — cooperation." The right panel, labeled "West Africa — djembe drumming," shows a circle of drummers, with the note "layered rhythms and call and response — gathering together." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="480" fill="#fdfbf7"/>
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Music Reflects Place, History, and Community</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20.8" font-weight="bold" fill="#2b3a42">Music Reflects Place, History, and Community</text>
 
   <!-- Panel 1: steppe -->
   <rect x="24" y="66" width="144" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Effects and ripples of a plan</title>
-  <desc id="desc">A stone dropped in water at center, with three concentric ripple rings labeled intended effect, second-order effect, and unintended effect, grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-010-11-effects-and-ripples desc-L-10-010-11-effects-and-ripples">
+  <title id="title-L-10-010-11-effects-and-ripples">Effects and ripples of a plan</title>
+  <desc id="desc-L-10-010-11-effects-and-ripples">A stone dropped in water at center, with three concentric ripple rings labeled intended effect, second-order effect, and unintended effect, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <!-- stone -->
@@ -13,6 +13,6 @@
     <text x="256" y="184" font-size="13" fill="#222222">intended effect</text>
     <text x="256" y="120" font-size="13" fill="#4f6d7a">second-order effect</text>
     <text x="256" y="62" font-size="13" fill="#e0a458">unintended effect</text>
-    <text x="256" y="480" font-size="14" fill="#222222">every action drops a stone in water</text>
+    <text x="256" y="480" font-size="13.1" fill="#222222">every action drops a stone in water</text>
   </g>
 </svg>

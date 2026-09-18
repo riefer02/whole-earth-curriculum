@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Finding the missing number in a sharing story</title>
-  <desc id="desc">A sharing story shown in three parts: six seeds left, four seeds given away, and the missing starting number found to be ten, with the number sentence blank minus four equals six checked as ten minus four equals six.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-09-missing-number desc-L-02-005-09-missing-number">
+  <title id="title-L-02-005-09-missing-number">Finding the missing number in a sharing story</title>
+  <desc id="desc-L-02-005-09-missing-number">A sharing story shown in three parts: six seeds left, four seeds given away, and the missing starting number found to be ten, with the number sentence blank minus four equals six checked as ten minus four equals six.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Missing Number</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#4f6d7a">"I had some seeds. I gave away 4. Now I have 6."</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="19.1" fill="#4f6d7a">"I had some seeds. I gave away 4. Now I have 6."</text>
 
   <!-- Now: 6 seeds -->
   <text x="80" y="116" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#7a9e7e">now: 6</text>

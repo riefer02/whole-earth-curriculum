@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Where my food comes from</title>
-  <desc id="desc">Four labeled panels — a plant with roots, a mango, and a rice plant; an animal panel with a hen, a fish, and a bee by a honey jar; a farm field with a barn; and a garden bed with vegetables. An arrow from each origin points to a plate of food at the center. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-008-05-where-my-food-comes-from desc-L-03-008-05-where-my-food-comes-from">
+  <title id="title-L-03-008-05-where-my-food-comes-from">Where my food comes from</title>
+  <desc id="desc-L-03-008-05-where-my-food-comes-from">Four labeled panels — a plant with roots, a mango, and a rice plant; an animal panel with a hen, a fish, and a bee by a honey jar; a farm field with a barn; and a garden bed with vegetables. An arrow from each origin points to a plate of food at the center. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Where My Food Comes From</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Helping hands in our community</title>
-  <desc id="desc">Four panels show ways people in a community help one another, with a child joining in each time. Top left, labeled food drive: a child places a can into a collection box. Top right, labeled cleanup: a child with gloved hands picks up litter. Bottom left, labeled read to a younger child: an older child reads a book to a younger child. Bottom right, labeled water the shared garden: a child pours water from a cup onto a plant. A caption at the bottom reads "you can join in." Labels and the actions, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-010-06-helping-hands-in-our-community desc-L-02-010-06-helping-hands-in-our-community">
+  <title id="title-L-02-010-06-helping-hands-in-our-community">Helping hands in our community</title>
+  <desc id="desc-L-02-010-06-helping-hands-in-our-community">Four panels show ways people in a community help one another, with a child joining in each time. Top left, labeled food drive: a child places a can into a collection box. Top right, labeled cleanup: a child with gloved hands picks up litter. Bottom left, labeled read to a younger child: an older child reads a book to a younger child. Bottom right, labeled water the shared garden: a child pours water from a cup onto a plant. A caption at the bottom reads "you can join in." Labels and the actions, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -49,7 +49,7 @@
   <rect x="82" y="374" width="20" height="36" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <rect x="70" y="386" width="30" height="22" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <line x1="85" y1="386" x2="85" y2="408" stroke="#2b3a42" stroke-width="2"/>
-  <text x="85" y="402" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">A</text>
+  <text x="85" y="402" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">A</text>
   <!-- younger child -->
   <circle cx="152" cy="392" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
   <path d="M141 390 A11 11 0 0 1 163 390 Z" fill="#4f6d7a"/>

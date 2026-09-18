@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Perimeter of an 8 by 5 rectangle</title>
-  <desc id="desc">A rectangle with its top and bottom sides labeled 8 and its left and right sides labeled 5. The perimeter is shown as the sum of the four sides: 8 plus 5 plus 8 plus 5 equals 26, and also by the formula 2 times 8 plus 2 times 5 equals 26.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-13-perimeter-of-rectangles desc-L-04-005-13-perimeter-of-rectangles">
+  <title id="title-L-04-005-13-perimeter-of-rectangles">Perimeter of an 8 by 5 rectangle</title>
+  <desc id="desc-L-04-005-13-perimeter-of-rectangles">A rectangle with its top and bottom sides labeled 8 and its left and right sides labeled 5. The perimeter is shown as the sum of the four sides: 8 plus 5 plus 8 plus 5 equals 26, and also by the formula 2 times 8 plus 2 times 5 equals 26.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -17,9 +17,9 @@
   <text x="348" y="210" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">5</text>
 
   <!-- walking arrow around -->
-  <path d="M140 205 L 140 140 L 320 140 L 320 270 L 150 270" fill="none" stroke="#e0a458" stroke-width="4" marker-end="url(#parr)"/>
+  <path d="M140 205 L 140 140 L 320 140 L 320 270 L 150 270" fill="none" stroke="#e0a458" stroke-width="4" marker-end="url(#parr-L-04-005-13-perimeter-of-rectangles)"/>
   <defs>
-    <marker id="parr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="parr-L-04-005-13-perimeter-of-rectangles" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L8,3 L0,6 Z" fill="#e0a458"/>
     </marker>
   </defs>
@@ -31,5 +31,5 @@
   <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">perimeter = 2 × length + 2 × width</text>
   <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#e0a458">2 × 8 + 2 × 5 = 26</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Perimeter = the distance around. Area = the squares that cover.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">Perimeter = the distance around. Area = the squares that cover.</text>
 </svg>

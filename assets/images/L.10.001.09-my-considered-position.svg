@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A person standing on their considered position</title>
-  <desc id="desc">A figure stands on a solid labeled platform — 'what defines me' — built from three blocks: my values, my story, and my choices. Other people's expectations float around as empty speech bubbles that do not touch the platform.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-09-my-considered-position desc-L-10-001-09-my-considered-position">
+  <title id="title-L-10-001-09-my-considered-position">A person standing on their considered position</title>
+  <desc id="desc-L-10-001-09-my-considered-position">A figure stands on a solid labeled platform — 'what defines me' — built from three blocks: my values, my story, and my choices. Other people's expectations float around as empty speech bubbles that do not touch the platform.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- floating expectation bubbles -->
   <path d="M80 96 C60 96 48 108 48 124 C48 136 56 146 68 150 L62 166 L80 153 C88 155 96 156 102 155 C122 155 134 143 134 127 C134 111 122 99 102 99 C96 99 88 98 80 96 Z" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
@@ -24,6 +24,6 @@
   <path d="M238 332 L238 338 M274 332 L274 338" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
   <circle cx="244" cy="174" r="4" fill="#fdfbf7"/>
   <circle cx="268" cy="174" r="4" fill="#fdfbf7"/>
-  <text x="256" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">my position stands on what is mine — not on others'</text>
+  <text x="256" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="18.0" fill="#222222">my position stands on what is mine — not on others'</text>
   <text x="256" y="501" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">expectations</text>
 </svg>

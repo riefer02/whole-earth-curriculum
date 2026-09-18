@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A movement sequence of my own</title>
-  <desc id="desc">Three numbered panels showing a movement sequence in order: first, hop; then, turn; last, balance. Each panel has a number, a word label, and a simple child figure doing the movement, with the last panel showing a child balancing on one foot like a tree. Below each panel is a line where a learner writes or draws their own movement. Words and numbers carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-002-06-a-movement-sequence-of-my-own desc-L-02-002-06-a-movement-sequence-of-my-own">
+  <title id="title-L-02-002-06-a-movement-sequence-of-my-own">A movement sequence of my own</title>
+  <desc id="desc-L-02-002-06-a-movement-sequence-of-my-own">Three numbered panels showing a movement sequence in order: first, hop; then, turn; last, balance. Each panel has a number, a word label, and a simple child figure doing the movement, with the last panel showing a child balancing on one foot like a tree. Below each panel is a line where a learner writes or draws their own movement. Words and numbers carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">A Movement Sequence of My Own</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Pollination: a partnership between a bee and a flower</title>
-  <desc id="desc">A bee on the left and a flower on the right, with two arrows between them. The top arrow points from the flower to the bee, labeled "bee gets nectar and pollen (food)". The bottom arrow points from the bee to the flower, labeled "flower gets pollen moved (to make seeds)". This shows both organisms benefit.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-011-07-pollination-symbiosis desc-L-07-011-07-pollination-symbiosis">
+  <title id="title-L-07-011-07-pollination-symbiosis">Pollination: a partnership between a bee and a flower</title>
+  <desc id="desc-L-07-011-07-pollination-symbiosis">A bee on the left and a flower on the right, with two arrows between them. The top arrow points from the flower to the bee, labeled "bee gets nectar and pollen (food)". The bottom arrow points from the bee to the flower, labeled "flower gets pollen moved (to make seeds)". This shows both organisms benefit.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -27,14 +27,14 @@
   </g>
 
   <!-- arrows -->
-  <line x1="168" y1="196" x2="330" y2="206" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar7)"/>
+  <line x1="168" y1="196" x2="330" y2="206" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar7-L-07-011-07-pollination-symbiosis)"/>
   <text x="250" y="172" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">bee gets nectar + pollen (food)</text>
 
-  <line x1="330" y1="224" x2="168" y2="232" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar7)"/>
+  <line x1="330" y1="224" x2="168" y2="232" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar7-L-07-011-07-pollination-symbiosis)"/>
   <text x="250" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">flower gets pollen moved (to make seeds)</text>
 
   <defs>
-    <marker id="ar7" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar7-L-07-011-07-pollination-symbiosis" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
   </defs>

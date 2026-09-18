@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Seeing a community from the inside</title>
-  <desc id="desc">Two lenses side by side. The left lens shows a distant figure looking at a community through a telescope, with labels and assumptions floating near them. The right lens shows a person seated inside a community circle with first-person speech bubbles and questions being asked, not assumed.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-003-05-outside-inside-view desc-L-10-003-05-outside-inside-view">
+  <title id="title-L-10-003-05-outside-inside-view">Seeing a community from the inside</title>
+  <desc id="desc-L-10-003-05-outside-inside-view">Two lenses side by side. The left lens shows a distant figure looking at a community through a telescope, with labels and assumptions floating near them. The right lens shows a person seated inside a community circle with first-person speech bubbles and questions being asked, not assumed.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -67,6 +67,6 @@
   </g>
   <text x="373" y="372" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">sits inside the circle</text>
 
-  <text x="256" y="459.9" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The goal is not mastery but humility — to ask, listen, and let people name</text>
+  <text x="256" y="459.9" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">The goal is not mastery but humility — to ask, listen, and let people name</text>
   <text x="256" y="478.1" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">themselves.</text>
 </svg>

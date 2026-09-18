@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Telling my story: the pieces become one story</title>
-  <desc id="desc">Four small cards in a row, connected by arrows, each standing for one piece of a learner's story: "my facts" (a person with a name tag), "my feelings" (a smiling face), "my proud moment" (a star), and "my family story" (an open book). A large arrow leads down into a big panel labeled "my story," which shows a child holding an open book. The graphic shows that separate pieces are woven into one story that can be told with voice, pictures, and words, and it prints clearly in grayscale because labels and shapes carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-001-08-my-story-sequence desc-L-01-001-08-my-story-sequence">
+  <title id="title-L-01-001-08-my-story-sequence">Telling my story: the pieces become one story</title>
+  <desc id="desc-L-01-001-08-my-story-sequence">Four small cards in a row, connected by arrows, each standing for one piece of a learner's story: "my facts" (a person with a name tag), "my feelings" (a smiling face), "my proud moment" (a star), and "my family story" (an open book). A large arrow leads down into a big panel labeled "my story," which shows a child holding an open book. The graphic shows that separate pieces are woven into one story that can be told with voice, pictures, and words, and it prints clearly in grayscale because labels and shapes carry the meaning.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

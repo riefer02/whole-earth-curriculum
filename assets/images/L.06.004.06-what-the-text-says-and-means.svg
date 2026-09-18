@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What the text says and means</title>
-  <desc id="desc">A two-column diagram joined by an arrow labeled "because of the clues." The left column is headed "the text says" and reads "the wind died and the birds stopped singing, and everyone began rolling up the mats." The right column is headed "this means" and reads "a storm is coming." Below, a clue line reads "clues — wind died, birds stopped, rolling up mats." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-004-06-what-the-text-says-and-means desc-L-06-004-06-what-the-text-says-and-means">
+  <title id="title-L-06-004-06-what-the-text-says-and-means">What the text says and means</title>
+  <desc id="desc-L-06-004-06-what-the-text-says-and-means">A two-column diagram joined by an arrow labeled "because of the clues." The left column is headed "the text says" and reads "the wind died and the birds stopped singing, and everyone began rolling up the mats." The right column is headed "this means" and reads "a storm is coming." Below, a clue line reads "clues — wind died, birds stopped, rolling up mats." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -18,9 +18,9 @@
   <text x="124" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">on the page</text>
 
   <!-- Arrow -->
-  <path d="M228 180 L280 180" stroke="#2b3a42" stroke-width="3" marker-end="url(#c)"/>
+  <path d="M228 180 L280 180" stroke="#2b3a42" stroke-width="3" marker-end="url(#c-L-06-004-06-what-the-text-says-and-means)"/>
   <defs>
-    <marker id="c" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+    <marker id="c-L-06-004-06-what-the-text-says-and-means" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
       <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
     </marker>
   </defs>
@@ -41,6 +41,6 @@
   <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">clues — the exact words that bridge the two</text>
   <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">wind died · birds stopped singing · rolling up the mats</text>
 
-  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">The text never says "storm" — the clues point there.</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="17.6" fill="#2b3a42">The text never says "storm" — the clues point there.</text>
   <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Inference is meaning built from evidence, not a guess.</text>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What plants and animals both need</title>
-  <desc id="desc">A two-circle diagram shows the needs that plants and animals share. The left circle is labeled plants and holds a drawing of a plant with the word light. The right circle is labeled animals and holds a drawing of a bird with the word food. The overlap between the two circles is labeled both and holds the words water and air, because both plants and animals need water and air. Word labels and the placement of each need carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that every living thing depends on the same few gifts from the Earth.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-011-06-shared-needs desc-L-01-011-06-shared-needs">
+  <title id="title-L-01-011-06-shared-needs">What plants and animals both need</title>
+  <desc id="desc-L-01-011-06-shared-needs">A two-circle diagram shows the needs that plants and animals share. The left circle is labeled plants and holds a drawing of a plant with the word light. The right circle is labeled animals and holds a drawing of a bird with the word food. The overlap between the two circles is labeled both and holds the words water and air, because both plants and animals need water and air. Word labels and the placement of each need carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that every living thing depends on the same few gifts from the Earth.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Plants and Animals Both Need</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27.8" font-weight="bold" fill="#2b3a42">What Plants and Animals Both Need</text>
   <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Two needs they share: water and air</text>
 
   <!-- circles -->
@@ -42,7 +42,7 @@
   <path d="M232 208 Q226 216 232 224 Q238 216 232 208 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <path d="M280 210 Q288 216 280 226 Q272 216 280 210" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Water and air go in the middle — both plants and animals need them.</text>
-  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every living thing, everywhere, depends on the same few gifts</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Water and air go in the middle — both plants and animals need them.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15.0" fill="#4f6d7a">Every living thing, everywhere, depends on the same few gifts</text>
   <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">the Earth gives.</text>
 </svg>

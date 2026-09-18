@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Species in relationship</title>
-  <desc id="desc">A community diagram showing three kinds of species relationships. Predation: a solid arrow labeled "eats" from a rabbit to a fox, and from grass to a rabbit. Competition: a dashed double-headed line labeled "compete for food" between a rabbit and a deer, both eating grass. Symbiosis: a two-headed arrow labeled "mutual benefit" between a flower and a bee. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-006-06-species-relationships desc-L-07-006-06-species-relationships">
+  <title id="title-L-07-006-06-species-relationships">Species in relationship</title>
+  <desc id="desc-L-07-006-06-species-relationships">A community diagram showing three kinds of species relationships. Predation: a solid arrow labeled "eats" from a rabbit to a fox, and from grass to a rabbit. Competition: a dashed double-headed line labeled "compete for food" between a rabbit and a deer, both eating grass. Symbiosis: a two-headed arrow labeled "mutual benefit" between a flower and a bee. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -88,11 +88,11 @@
   <text x="448" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">bee</text>
 
   <!-- mutual arrow -->
-  <line x1="398" y1="150" x2="428" y2="150" stroke="#2b3a42" stroke-width="2" marker-start="url(#arr6)" marker-end="url(#arr6)"/>
+  <line x1="398" y1="150" x2="428" y2="150" stroke="#2b3a42" stroke-width="2" marker-start="url(#arr6-L-07-006-06-species-relationships)" marker-end="url(#arr6-L-07-006-06-species-relationships)"/>
   <text x="418" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">mutual benefit</text>
 
   <defs>
-    <marker id="arr6" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="arr6-L-07-006-06-species-relationships" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0 0 L8 3 L0 6 z" fill="#2b3a42"/>
     </marker>
   </defs>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Language loss and revitalization</title>
-  <desc id="desc">A tree whose roots are labeled with languages. Some branches are faded and bare, marked lost, while others are green and regrowing, marked revitalized. Small plant and animal shapes beside the tree show that languages carry knowledge of the living world.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-006-11-language-tree desc-L-09-006-11-language-tree">
+  <title id="title-L-09-006-11-language-tree">Language loss and revitalization</title>
+  <desc id="desc-L-09-006-11-language-tree">A tree whose roots are labeled with languages. Some branches are faded and bare, marked lost, while others are green and regrowing, marked revitalized. Small plant and animal shapes beside the tree show that languages carry knowledge of the living world.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -52,5 +52,5 @@
     <circle cx="450" cy="322" r="5"/>
   </g>
 
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">When a language is lost, its names for plants, animals, and places go with it</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">When a language is lost, its names for plants, animals, and places go with it</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Small movements</title>
-  <desc id="desc">Four small hand movements in labeled panels: a hand stacking blocks into a tower, a hand holding a crayon to draw a zigzag line, a hand pinching a small bead between thumb and first finger, and a hand threading beads onto a string. Each panel has a word label — stack, draw, pinch, thread — so the meaning does not depend on color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-008-02-small-movements desc-L-00-008-02-small-movements">
+  <title id="title-L-00-008-02-small-movements">Small movements</title>
+  <desc id="desc-L-00-008-02-small-movements">Four small hand movements in labeled panels: a hand stacking blocks into a tower, a hand holding a crayon to draw a zigzag line, a hand pinching a small bead between thumb and first finger, and a hand threading beads onto a string. Each panel has a word label — stack, draw, pinch, thread — so the meaning does not depend on color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Small Movements</text>
@@ -81,5 +81,5 @@
     <text x="378" y="398" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">thread</text>
   </g>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Hands do careful work — slowly, one small move at a time.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16.1" fill="#4f6d7a">Hands do careful work — slowly, one small move at a time.</text>
 </svg>

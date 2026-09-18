@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Learning to live together: a collage of eight caring skills</title>
-  <desc id="desc">A collage of eight small panels, each showing one skill from the unit, arranged in two rows of four. Row one: "kind words" shows a speech bubble; "listen" shows an ear and a turned-toward figure; "read feelings" shows two faces, one smiling and one sad; "guess needs" shows a thought bubble with a cloth. Row two: "my community" shows concentric circles; "help out" shows a hand watering a plant; "offer help" shows an open palm with the words "can I help?"; and "share and care" shows a crayon and a box. A central band below reads "many small acts make a caring community." The pictures and their labels carry the meaning, not color, so the print is clear in grayscale and gathers the whole unit into one image of living together.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-003-10-living-together-collage desc-L-01-003-10-living-together-collage">
+  <title id="title-L-01-003-10-living-together-collage">Learning to live together: a collage of eight caring skills</title>
+  <desc id="desc-L-01-003-10-living-together-collage">A collage of eight small panels, each showing one skill from the unit, arranged in two rows of four. Row one: "kind words" shows a speech bubble; "listen" shows an ear and a turned-toward figure; "read feelings" shows two faces, one smiling and one sad; "guess needs" shows a thought bubble with a cloth. Row two: "my community" shows concentric circles; "help out" shows a hand watering a plant; "offer help" shows an open palm with the words "can I help?"; and "share and care" shows a crayon and a box. A central band below reads "many small acts make a caring community." The pictures and their labels carry the meaning, not color, so the print is clear in grayscale and gathers the whole unit into one image of living together.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -86,7 +86,7 @@
   <!-- Central band -->
   <rect x="18" y="364" width="476" height="66" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Many small acts make a caring community.</text>
-  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">kind words · listen · read feelings · guess needs · community · help · share · care</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">kind words · listen · read feelings · guess needs · community · help · share · care</text>
 
   <!-- Bottom note -->
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Living together is a skill we practice every day.</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Story arc</title>
-  <desc id="desc">A rising-and-falling line with five labeled points — opening, rising, turn, falling, landing. A dashed horizontal line labeled "the idea" runs beneath, and a note reads: the idea stays central across the whole arc, and the ending lands where the seed pointed.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-004-10-story-arc desc-L-11-004-10-story-arc">
+  <title id="title-L-11-004-10-story-arc">Story arc</title>
+  <desc id="desc-L-11-004-10-story-arc">A rising-and-falling line with five labeled points — opening, rising, turn, falling, landing. A dashed horizontal line labeled "the idea" runs beneath, and a note reads: the idea stays central across the whole arc, and the ending lands where the seed pointed.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Structure Carries the Idea</text>

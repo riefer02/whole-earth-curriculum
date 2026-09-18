@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Gathering facts from several sources</title>
-  <desc id="desc">A researcher figure sits in the center holding a pencil. Around the figure, four labeled sources point inward with arrows: "a book," "a person," "a chart," and "a place I visited." From each source, a small arrow leads toward a note card labeled "source" and "key facts." The figure is writing on a note card. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-005-11-gathering-facts-from-sources desc-L-05-005-11-gathering-facts-from-sources">
+  <title id="title-L-05-005-11-gathering-facts-from-sources">Gathering facts from several sources</title>
+  <desc id="desc-L-05-005-11-gathering-facts-from-sources">A researcher figure sits in the center holding a pencil. Around the figure, four labeled sources point inward with arrows: "a book," "a person," "a chart," and "a place I visited." From each source, a small arrow leads toward a note card labeled "source" and "key facts." The figure is writing on a note card. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Gathering Facts from Several Sources</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="25.5" font-weight="bold" fill="#2b3a42">Gathering Facts from Several Sources</text>
 
   <!-- Source: book -->
   <rect x="40" y="80" width="88" height="64" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

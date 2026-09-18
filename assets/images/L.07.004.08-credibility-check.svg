@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Three checks before you trust</title>
-  <desc id="desc">Three checkboxes labeled "author," "purpose," and "evidence," each with a question below: "who wrote it?", "why?", and "what proof?". A caption reads "Three checks before you trust." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-004-08-credibility-check desc-L-07-004-08-credibility-check">
+  <title id="title-L-07-004-08-credibility-check">Three checks before you trust</title>
+  <desc id="desc-L-07-004-08-credibility-check">Three checkboxes labeled "author," "purpose," and "evidence," each with a question below: "who wrote it?", "why?", and "what proof?". A caption reads "Three checks before you trust." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -33,5 +33,5 @@
   <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Then reach a verdict:</text>
   <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">trust · question · reject</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The same claim can be trustworthy or not — it depends on the source.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">The same claim can be trustworthy or not — it depends on the source.</text>
 </svg>

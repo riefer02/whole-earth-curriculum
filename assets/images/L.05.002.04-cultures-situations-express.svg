@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Same feeling, different situation</title>
-  <desc id="desc">A comparison chart titled "Same feeling, different situation." The left column shows a joyful celebration at a festival with a person dancing and arms raised, labeled "at a festival." The right column shows the same joy shown quietly at a solemn ceremony with bowed heads and folded hands, labeled "at a ceremony." Both columns carry the label "feeling: joy," showing that situation changes how a feeling is shown without changing the feeling itself. Labels and shapes, not color alone, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-002-04-cultures-situations-express desc-L-05-002-04-cultures-situations-express">
+  <title id="title-L-05-002-04-cultures-situations-express">Same feeling, different situation</title>
+  <desc id="desc-L-05-002-04-cultures-situations-express">A comparison chart titled "Same feeling, different situation." The left column shows a joyful celebration at a festival with a person dancing and arms raised, labeled "at a festival." The right column shows the same joy shown quietly at a solemn ceremony with bowed heads and folded hands, labeled "at a ceremony." Both columns carry the label "feeling: joy," showing that situation changes how a feeling is shown without changing the feeling itself. Labels and shapes, not color alone, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -66,6 +66,6 @@
   <text x="135" y="388" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">feeling: joy</text>
   <text x="377" y="388" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">feeling: joy</text>
 
-  <text x="256" y="449" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">The situation changes how it is shown — not the</text>
+  <text x="256" y="449" text-anchor="middle" font-family="sans-serif" font-size="19.5" fill="#2b3a42">The situation changes how it is shown — not the</text>
   <text x="256" y="475" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">feeling itself.</text>
 </svg>

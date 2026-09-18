@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Back-translation drift</title>
-  <desc id="desc">A loop diagram. A sentence in language A is translated to language B, then back to language A, where it has visibly drifted from the original — words differ and a meaning has shifted. A warning note reads: machine translation gives quick gist, but misses tone, idioms, and nuance, and works unevenly across languages.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-004-06-back-translation-loop desc-L-11-004-06-back-translation-loop">
+  <title id="title-L-11-004-06-back-translation-loop">Back-translation drift</title>
+  <desc id="desc-L-11-004-06-back-translation-loop">A loop diagram. A sentence in language A is translated to language B, then back to language A, where it has visibly drifted from the original — words differ and a meaning has shifted. A warning note reads: machine translation gives quick gist, but misses tone, idioms, and nuance, and works unevenly across languages.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">The Back-Translation Test</text>

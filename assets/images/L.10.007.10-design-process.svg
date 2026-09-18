@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The design process</title>
-  <desc id="desc">A design process diagram with five labeled stages arranged in a circle — find a need, research, imagine, prototype, test — with arrows flowing between them and a note reading "document each decision."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-007-10-design-process desc-L-10-007-10-design-process">
+  <title id="title-L-10-007-10-design-process">The design process</title>
+  <desc id="desc-L-10-007-10-design-process">A design process diagram with five labeled stages arranged in a circle — find a need, research, imagine, prototype, test — with arrows flowing between them and a note reading "document each decision."</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <circle cx="256" cy="256" r="150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="8 6"/>
   <!-- five nodes around the circle -->

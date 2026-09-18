@@ -1,26 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Restorative practice: repair, not only punish</title>
-  <desc id="desc">A circle shows the three steps of restorative practice around a small harm — a child's knocked-over block tower. The three steps, in a ring, are labeled: "listen — hear the person who was hurt," "take responsibility — own what happened," and "repair the harm — fix it and make it right." In the center, the same child who knocked the tower is shown helping rebuild it, while the other child's face turns from sad to glad. A note reads "accountability plus repair — not punishment alone." Labels, the three steps, and the rebuilt tower, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-010-09-restorative-practice-repair-not-only-punish desc-L-04-010-09-restorative-practice-repair-not-only-punish">
+  <title id="title-L-04-010-09-restorative-practice-repair-not-only-punish">Restorative practice: repair, not only punish</title>
+  <desc id="desc-L-04-010-09-restorative-practice-repair-not-only-punish">A circle shows the three steps of restorative practice around a small harm — a child's knocked-over block tower. The three steps, in a ring, are labeled: "listen — hear the person who was hurt," "take responsibility — own what happened," and "repair the harm — fix it and make it right." In the center, the same child who knocked the tower is shown helping rebuild it, while the other child's face turns from sad to glad. A note reads "accountability plus repair — not punishment alone." Labels, the three steps, and the rebuilt tower, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Restorative Practice: Repair, Not Only Punish</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20.4" font-weight="bold" fill="#2b3a42">Restorative Practice: Repair, Not Only Punish</text>
 
   <!-- three step boxes in a ring -->
   <rect x="24" y="64" width="140" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="94" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1. listen</text>
-  <text x="94" y="112" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">hear the person</text>
-  <text x="94" y="126" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">who was hurt</text>
+  <text x="94" y="112" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">hear the person</text>
+  <text x="94" y="126" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">who was hurt</text>
 
   <rect x="348" y="64" width="140" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="418" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">2. take responsibility</text>
-  <text x="418" y="112" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">own what happened,</text>
-  <text x="418" y="126" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">without shame</text>
+  <text x="418" y="112" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">own what happened,</text>
+  <text x="418" y="126" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">without shame</text>
 
   <rect x="186" y="172" width="140" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">3. repair the harm</text>
-  <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">fix it and</text>
-  <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">make it right</text>
+  <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">fix it and</text>
+  <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">make it right</text>
 
   <!-- arrows linking steps -->
   <path d="M164 130 L348 100" stroke="#2b3a42" stroke-width="2"/>

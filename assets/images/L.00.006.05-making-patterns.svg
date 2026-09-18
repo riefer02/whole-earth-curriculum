@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Making and continuing patterns: what comes next?</title>
-  <desc id="desc">A repeating pattern of a shell, a pebble, a shell, a pebble, a shell sits in a row, ending in a dashed empty spot with a question mark. Below, an answer strip shows the same pattern finished with a pebble in the empty spot, labeled next equals pebble, with a check mark. This teaches that a pattern repeats, so you can say what comes next. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-006-05-making-patterns desc-L-00-006-05-making-patterns">
+  <title id="title-L-00-006-05-making-patterns">Making and continuing patterns: what comes next?</title>
+  <desc id="desc-L-00-006-05-making-patterns">A repeating pattern of a shell, a pebble, a shell, a pebble, a shell sits in a row, ending in a dashed empty spot with a question mark. Below, an answer strip shows the same pattern finished with a pebble in the empty spot, labeled next equals pebble, with a check mark. This teaches that a pattern repeats, so you can say what comes next. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -37,7 +37,7 @@
   <circle cx="456" cy="222" r="30" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="7 6"/>
   <text x="456" y="230" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#4f6d7a">?</text>
 
-  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">Shell, pebble, shell, pebble, shell … what comes next?</text>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="17.0" fill="#222222">Shell, pebble, shell, pebble, shell … what comes next?</text>
 
   <!-- Answer strip -->
   <rect x="88" y="330" width="336" height="112" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>

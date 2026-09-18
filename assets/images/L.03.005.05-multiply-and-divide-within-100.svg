@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Multiplying and dividing within 100 with known facts and strategies</title>
-  <desc id="desc">A ten-by-ten multiplication table with the 5s row highlighted. Beside it, three strategy boxes show doubling (4 times 3 equals 12, so 8 times 3 equals 24), halving (so 2 times 3 equals 6), and a fact family for five times six equals thirty.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-005-05-multiply-and-divide-within-100 desc-L-03-005-05-multiply-and-divide-within-100">
+  <title id="title-L-03-005-05-multiply-and-divide-within-100">Multiplying and dividing within 100 with known facts and strategies</title>
+  <desc id="desc-L-03-005-05-multiply-and-divide-within-100">A ten-by-ten multiplication table with the 5s row highlighted. Beside it, three strategy boxes show doubling (4 times 3 equals 12, so 8 times 3 equals 24), halving (so 2 times 3 equals 6), and a fact family for five times six equals thirty.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -36,7 +36,7 @@
   <text x="372" y="230" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">5 × 6 = 30   30 ÷ 5 = 6</text>
   <text x="372" y="254" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">6 × 5 = 30   30 ÷ 6 = 5</text>
 
-  <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">If you know 5 × 4 = 20, then 5 × 6 = 20 + 5 + 5 = 30.</text>
+  <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="17.3" fill="#2b3a42">If you know 5 × 4 = 20, then 5 × 6 = 20 + 5 + 5 = 30.</text>
 
   <rect x="96" y="340" width="320" height="120" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
   <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Fluency is reasoning, not racing.</text>

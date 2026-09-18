@@ -62,7 +62,7 @@
 
   <rect x="24" y="330" width="464" height="140" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
   <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Why the right place matters</text>
-  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Litter dropped on the ground can wash into rivers and the sea,</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#222222">Litter dropped on the ground can wash into rivers and the sea,</text>
   <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">where animals may mistake it for food.</text>
-  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Litter in the right place keeps water, soil, and animals safe.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#222222">Litter in the right place keeps water, soil, and animals safe.</text>
 </svg>

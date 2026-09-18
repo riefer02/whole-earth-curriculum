@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Is the claim supported by evidence?</title>
-  <desc id="desc">A three-column evaluation diagram. Left column: a box labeled "The claim" containing "Eating breakfast improves memory." Middle column: a box labeled "Evidence given" containing "one small study of 20 students for one week." Right column: a box labeled "Further evidence that would help" containing "a larger sample, a control group, repetition, and an explanation of how." A caption reads "supported, weak, or not enough to say yet?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-006-03-claim-supported-by-evidence desc-L-07-006-03-claim-supported-by-evidence">
+  <title id="title-L-07-006-03-claim-supported-by-evidence">Is the claim supported by evidence?</title>
+  <desc id="desc-L-07-006-03-claim-supported-by-evidence">A three-column evaluation diagram. Left column: a box labeled "The claim" containing "Eating breakfast improves memory." Middle column: a box labeled "Evidence given" containing "one small study of 20 students for one week." Right column: a box labeled "Further evidence that would help" containing "a larger sample, a control group, repetition, and an explanation of how." A caption reads "supported, weak, or not enough to say yet?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

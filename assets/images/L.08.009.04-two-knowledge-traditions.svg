@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Two knowledge traditions compared</title>
-  <desc id="desc">Two side-by-side panels — Polynesian wayfinding reading stars, swells, clouds, and birds, passed on orally; and Indian Ocean navigation using the astrolabe and written tables, passed on in writing — joined by a band noting where the two agree and differ.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-009-04-two-knowledge-traditions desc-L-08-009-04-two-knowledge-traditions">
+  <title id="title-L-08-009-04-two-knowledge-traditions">Two knowledge traditions compared</title>
+  <desc id="desc-L-08-009-04-two-knowledge-traditions">Two side-by-side panels — Polynesian wayfinding reading stars, swells, clouds, and birds, passed on orally; and Indian Ocean navigation using the astrolabe and written tables, passed on in writing — joined by a band noting where the two agree and differ.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Two ways of finding the way across the sea</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="21.8" font-weight="bold" fill="#2b3a42">Two ways of finding the way across the sea</text>
 
   <!-- panel 1: wayfinding -->
   <rect x="24" y="70" width="224" height="286" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
@@ -37,7 +37,7 @@
 
   <!-- agreement band -->
   <rect x="24" y="376" width="464" height="108" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Where they agree: both read the sky and sea — both are precise, living knowledge.</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Where they agree: both read the sky and sea — both are precise, living knowledge.</text>
   <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Where they differ: oral and whole-environment vs. written instruments and tables;</text>
   <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and different seas — open Pacific vs. monsoon coasts.</text>
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Neither is "less" — each is complete in its own world.</text>

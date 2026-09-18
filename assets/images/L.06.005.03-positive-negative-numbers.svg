@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Positive and negative numbers in real life</title>
-  <desc id="desc">A vertical number line with zero in the middle. Above zero, positive numbers show warm temperature (plus 30 degrees Celsius, a hot day) and high elevation (plus 5,895 meters, a mountain peak). Below zero, negative numbers show cold temperature (minus 10 degrees Celsius) and low elevation (minus 430 meters, the Dead Sea below sea level). The word "above zero / above sea level" sits above zero and "below zero / below sea level" sits below zero. Labels, numbers, and position on the line, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-005-03-positive-negative-numbers desc-L-06-005-03-positive-negative-numbers">
+  <title id="title-L-06-005-03-positive-negative-numbers">Positive and negative numbers in real life</title>
+  <desc id="desc-L-06-005-03-positive-negative-numbers">A vertical number line with zero in the middle. Above zero, positive numbers show warm temperature (plus 30 degrees Celsius, a hot day) and high elevation (plus 5,895 meters, a mountain peak). Below zero, negative numbers show cold temperature (minus 10 degrees Celsius) and low elevation (minus 430 meters, the Dead Sea below sea level). The word "above zero / above sea level" sits above zero and "below zero / below sea level" sits below zero. Labels, numbers, and position on the line, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Positive and Negative Numbers</text>
-  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the same idea — above and below — works for temperature and elevation</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">the same idea — above and below — works for temperature and elevation</text>
 
   <!-- vertical number line -->
   <g>

@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 620" role="img" aria-labelledby="title desc">
-  <title id="title">Pollution, and what people can do</title>
-  <desc id="desc">A pathway diagram about plastic pollution and what people can do. A top row of five boxes connected by arrows reads: "plastic bag or bottle," then "dropped or blown away," then "into the river," then "out to the ocean," then "an animal mistakes it for food, or gets tangled." A bottom band, separated from the pathway, reads "what people can do — REFUSE single-use plastic, REUSE bags and bottles, RECYCLE, join a clean-up." A closing caption reads "the problem is real, and so are the fixes." Labels, arrows, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 620" role="img" aria-labelledby="title-L-05-012-08-pollution-and-action desc-L-05-012-08-pollution-and-action">
+  <title id="title-L-05-012-08-pollution-and-action">Pollution, and what people can do</title>
+  <desc id="desc-L-05-012-08-pollution-and-action">A pathway diagram about plastic pollution and what people can do. A top row of five boxes connected by arrows reads: "plastic bag or bottle," then "dropped or blown away," then "into the river," then "out to the ocean," then "an animal mistakes it for food, or gets tangled." A bottom band, separated from the pathway, reads "what people can do — REFUSE single-use plastic, REUSE bags and bottles, RECYCLE, join a clean-up." A closing caption reads "the problem is real, and so are the fixes." Labels, arrows, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="620" fill="#fdfbf7"/>
 
   <defs>
-    <marker id="arr8" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="arr8-L-05-012-08-pollution-and-action" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
     </marker>
   </defs>
@@ -18,21 +18,21 @@
   <text x="89" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">plastic bag</text>
   <text x="89" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">or bottle</text>
 
-  <line x1="154" y1="118" x2="174" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+  <line x1="154" y1="118" x2="174" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8-L-05-012-08-pollution-and-action)"/>
   <rect x="176" y="80" width="130" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="241" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">dropped or</text>
   <text x="241" y="128" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">blown away</text>
 
-  <line x1="306" y1="118" x2="326" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+  <line x1="306" y1="118" x2="326" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8-L-05-012-08-pollution-and-action)"/>
   <rect x="328" y="80" width="90" height="76" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <text x="373" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">into the</text>
   <text x="373" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">river</text>
 
-  <line x1="418" y1="118" x2="438" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+  <line x1="418" y1="118" x2="438" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8-L-05-012-08-pollution-and-action)"/>
   <rect x="440" y="80" width="52" height="76" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <text x="466" y="112" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">ocean</text>
 
-  <line x1="466" y1="156" x2="466" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+  <line x1="466" y1="156" x2="466" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8-L-05-012-08-pollution-and-action)"/>
   <rect x="116" y="182" width="280" height="76" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">an animal mistakes it for food,</text>
   <text x="256" y="232" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">or gets tangled</text>

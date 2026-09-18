@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Who bears the climate burden</title>
-  <desc id="desc">On the left, tall smokestacks of high-emitting places. On the right, low-lying and exposed communities with floods, heat, and drought. Arrows of responsibility run from left to right, grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-010-06-climate-burden desc-L-10-010-06-climate-burden">
+  <title id="title-L-10-010-06-climate-burden">Who bears the climate burden</title>
+  <desc id="desc-L-10-010-06-climate-burden">On the left, tall smokestacks of high-emitting places. On the right, low-lying and exposed communities with floods, heat, and drought. Arrows of responsibility run from left to right, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <text x="130" y="36" font-size="15" font-weight="bold" fill="#2b3a42">who emitted most</text>
-    <text x="386" y="36" font-size="15" font-weight="bold" fill="#2b3a42">who is harmed most</text>
+    <text x="386" y="36" font-size="12.3" font-weight="bold" fill="#2b3a42">who is harmed most</text>
     <!-- left: smokestacks -->
     <g stroke="#2b3a42" stroke-width="2" fill="#4f6d7a">
       <rect x="86" y="120" width="34" height="90"/>
@@ -33,6 +33,6 @@
       <path d="M170 150 L320 150"/>
       <path d="M310 142 L322 150 L310 158"/>
     </g>
-    <text x="256" y="300" font-size="14" fill="#222222">responsibility runs from cause to harm — who owes what?</text>
+    <text x="256" y="300" font-size="12" fill="#222222">responsibility runs from cause to harm — who owes what?</text>
   </g>
 </svg>

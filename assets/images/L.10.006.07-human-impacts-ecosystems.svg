@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Human Activity and Ecosystems</title>
-  <desc id="desc">Three labeled panels showing the three human drivers of ecosystem change — land use with forest cleared, pollution with waste into a river, and an introduced species with a new animal arriving — each with an arrow to a chain of effects.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-006-07-human-impacts-ecosystems desc-L-10-006-07-human-impacts-ecosystems">
+  <title id="title-L-10-006-07-human-impacts-ecosystems">Human Activity and Ecosystems</title>
+  <desc id="desc-L-10-006-07-human-impacts-ecosystems">Three labeled panels showing the three human drivers of ecosystem change — land use with forest cleared, pollution with waste into a river, and an introduced species with a new animal arriving — each with an arrow to a chain of effects.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Three Human Drivers</text>
 
@@ -38,6 +38,6 @@
     <text x="60" y="336">&#8226; the people closest to the land feel it first</text>
   </g>
 
-  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The three drivers are leading causes of biodiversity loss (S-437).</text>
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Who feels the effect first is a fairness question, not just an ecology one.</text>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">The three drivers are leading causes of biodiversity loss (S-437).</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#222222">Who feels the effect first is a fairness question, not just an ecology one.</text>
 </svg>

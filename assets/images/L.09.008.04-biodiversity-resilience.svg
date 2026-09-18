@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Biodiversity makes an ecosystem resilient</title>
-  <desc id="desc">Two side-by-side ecosystems. Left: a rich ecosystem with many different plants, shown as varied shapes, that keeps functioning when one is removed. Right: a monoculture of identical plants that is left empty when the one kind is removed. Labels explain that variety absorbs shocks.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-008-04-biodiversity-resilience desc-L-09-008-04-biodiversity-resilience">
+  <title id="title-L-09-008-04-biodiversity-resilience">Biodiversity makes an ecosystem resilient</title>
+  <desc id="desc-L-09-008-04-biodiversity-resilience">Two side-by-side ecosystems. Left: a rich ecosystem with many different plants, shown as varied shapes, that keeps functioning when one is removed. Right: a monoculture of identical plants that is left empty when the one kind is removed. Labels explain that variety absorbs shocks.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Why Variety Keeps an Ecosystem Strong</text>
@@ -41,5 +41,5 @@
   <text x="372" y="360" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the system empties</text>
 
   <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Variety spreads risk; a single crop or species concentrates it.</text>
-  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Biodiversity is resilience — and people depend on it for food, water, and medicine.</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Biodiversity is resilience — and people depend on it for food, water, and medicine.</text>
 </svg>

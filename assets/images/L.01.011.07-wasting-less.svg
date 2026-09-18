@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Wasting less</title>
-  <desc id="desc">Four cards show four real ways to waste less. Turn off the tap shows a tap with a drop, captioned "saves water." Reuse a bag or basket shows a basket, captioned "use it again and again." Use both sides of paper shows a sheet with a folded corner, captioned "save trees." Take only what you need shows a cup of just-enough water, captioned "use just enough." Word labels carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that wasting less is using just enough — care and agency, not guilt — and that in places where water is scarce, every drop saved matters.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-011-07-wasting-less desc-L-01-011-07-wasting-less">
+  <title id="title-L-01-011-07-wasting-less">Wasting less</title>
+  <desc id="desc-L-01-011-07-wasting-less">Four cards show four real ways to waste less. Turn off the tap shows a tap with a drop, captioned "saves water." Reuse a bag or basket shows a basket, captioned "use it again and again." Use both sides of paper shows a sheet with a folded corner, captioned "save trees." Take only what you need shows a cup of just-enough water, captioned "use just enough." Word labels carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that wasting less is using just enough — care and agency, not guilt — and that in places where water is scarce, every drop saved matters.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -45,5 +45,5 @@
   <path d="M360 366 L398 366 L398 376 L360 376 Z" fill="#fdfbf7" opacity="0.6"/>
   <text x="379" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">use just enough</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">In places where water is scarce, every drop saved truly matters.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">In places where water is scarce, every drop saved truly matters.</text>
 </svg>

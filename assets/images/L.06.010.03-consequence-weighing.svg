@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Weighing the consequences of each choice</title>
-  <desc id="desc">A consequence-weighing diagram. A balance scale sits in the center. On the left pan, labeled "Choice A: keep the secret," sit two labels: "helped: the friend (trust kept)" and "harmed: the person at risk." On the right pan, labeled "Choice B: tell a trusted adult," sit two labels: "helped: the person at risk" and "harmed: the friend (trust broken)." The two pans tip to show they weigh differently. A caption reads "weigh each choice by who is helped and who is harmed." Labels, shapes, and the tilt carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-010-03-consequence-weighing desc-L-06-010-03-consequence-weighing">
+  <title id="title-L-06-010-03-consequence-weighing">Weighing the consequences of each choice</title>
+  <desc id="desc-L-06-010-03-consequence-weighing">A consequence-weighing diagram. A balance scale sits in the center. On the left pan, labeled "Choice A: keep the secret," sit two labels: "helped: the friend (trust kept)" and "harmed: the person at risk." On the right pan, labeled "Choice B: tell a trusted adult," sit two labels: "helped: the person at risk" and "harmed: the friend (trust broken)." The two pans tip to show they weigh differently. A caption reads "weigh each choice by who is helped and who is harmed." Labels, shapes, and the tilt carry the meaning, so it prints clearly in grayscale independent of color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

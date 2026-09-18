@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Our care, our celebration</title>
-  <desc id="desc">A year-end celebration of care and belonging. In the middle, a child holds up a portfolio page with a star and a sprout while friends around them clap. On the left, two helping hands pass a cup of water to a smaller hand, labeled "how we help one another," with the note "helping fills a need and warms the helper too." On the right, an arrow points forward to a flag labeled "Grade 4" beside a small sprout and the words "one goal ahead." Portfolio pages are shown on a line behind everyone, each page equal. Children vary in skin tone, hair, and dress; one uses a wheelchair. The closing line teaches that we grew together by caring for each other, and every child belongs.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-012-07-our-care-our-celebration desc-L-03-012-07-our-care-our-celebration">
+  <title id="title-L-03-012-07-our-care-our-celebration">Our care, our celebration</title>
+  <desc id="desc-L-03-012-07-our-care-our-celebration">A year-end celebration of care and belonging. In the middle, a child holds up a portfolio page with a star and a sprout while friends around them clap. On the left, two helping hands pass a cup of water to a smaller hand, labeled "how we help one another," with the note "helping fills a need and warms the helper too." On the right, an arrow points forward to a flag labeled "Grade 4" beside a small sprout and the words "one goal ahead." Portfolio pages are shown on a line behind everyone, each page equal. Children vary in skin tone, hair, and dress; one uses a wheelchair. The closing line teaches that we grew together by caring for each other, and every child belongs.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -81,5 +81,5 @@
     <rect x="390" y="388" width="16" height="10" rx="2" fill="#c9a06b" stroke="#2b3a42" stroke-width="1.5"/>
   </g>
 
-  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">We grew together by caring for each other — and we look ahead, one goal at a time.</text>
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">We grew together by caring for each other — and we look ahead, one goal at a time.</text>
 </svg>

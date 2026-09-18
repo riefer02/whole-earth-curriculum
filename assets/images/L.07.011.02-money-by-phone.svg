@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">How mobile money spread</title>
-  <desc id="desc">A phone icon on the left with three labeled regions to its right — "2007: Kenya" then "East Africa" then "across 90+ countries" — connected by arrows, showing a technology spreading outward from one place.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-011-02-money-by-phone desc-L-07-011-02-money-by-phone">
+  <title id="title-L-07-011-02-money-by-phone">How mobile money spread</title>
+  <desc id="desc-L-07-011-02-money-by-phone">A phone icon on the left with three labeled regions to its right — "2007: Kenya" then "East Africa" then "across 90+ countries" — connected by arrows, showing a technology spreading outward from one place.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -27,12 +27,12 @@
   <text x="356" y="364" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">(and still growing)</text>
 
   <!-- arrows -->
-  <line x1="138" y1="226" x2="176" y2="226" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar2)"/>
-  <line x1="296" y1="226" x2="322" y2="226" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar2)"/>
-  <line x1="387" y1="256" x2="387" y2="316" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar2)"/>
+  <line x1="138" y1="226" x2="176" y2="226" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar2-L-07-011-02-money-by-phone)"/>
+  <line x1="296" y1="226" x2="322" y2="226" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar2-L-07-011-02-money-by-phone)"/>
+  <line x1="387" y1="256" x2="387" y2="316" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar2-L-07-011-02-money-by-phone)"/>
 
   <defs>
-    <marker id="ar2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar2-L-07-011-02-money-by-phone" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
   </defs>

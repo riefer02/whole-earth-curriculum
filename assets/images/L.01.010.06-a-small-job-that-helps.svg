@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A small job that helps, and how it helps</title>
-  <desc id="desc">Four cards show small classroom jobs and how each helps. Watering the plant shows a watering can over a sprout, labeled "it helps: the plant grows." Tidying the shelf shows a shelf of books, labeled "it helps: everyone finds things." Helping carry shows two children carrying a basket together, one of them using a wheelchair, labeled "it helps: the load is lighter." Caring for the class animal shows a bird in a nest, labeled "it helps: the animal is well." Each job and its help are named in words, so the picture prints clearly in grayscale and teaches that every job is a contribution that matters, and no job is more important than another — helping is not a prize to win.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-010-06-a-small-job-that-helps desc-L-01-010-06-a-small-job-that-helps">
+  <title id="title-L-01-010-06-a-small-job-that-helps">A small job that helps, and how it helps</title>
+  <desc id="desc-L-01-010-06-a-small-job-that-helps">Four cards show small classroom jobs and how each helps. Watering the plant shows a watering can over a sprout, labeled "it helps: the plant grows." Tidying the shelf shows a shelf of books, labeled "it helps: everyone finds things." Helping carry shows two children carrying a basket together, one of them using a wheelchair, labeled "it helps: the load is lighter." Caring for the class animal shows a bird in a nest, labeled "it helps: the animal is well." Each job and its help are named in words, so the picture prints clearly in grayscale and teaches that every job is a contribution that matters, and no job is more important than another — helping is not a prize to win.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -91,5 +91,5 @@
   <path d="M368 340 L360 346 M367 348 L358 356" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
   <text x="379" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">it helps: the animal is well</text>
 
-  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every job helps equally — no job is more important than another.</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">Every job helps equally — no job is more important than another.</text>
 </svg>

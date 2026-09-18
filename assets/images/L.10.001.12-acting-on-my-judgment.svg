@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Choosing a path at a fork and acting</title>
-  <desc id="desc">A figure stands at a fork in a path. One branch is labeled 'try alone first', the other 'seek help now'; a signpost shows both lead forward. Ahead, a portfolio folder gathers the work, showing judgment turned into action and gathered learning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-12-acting-on-my-judgment desc-L-10-001-12-acting-on-my-judgment">
+  <title id="title-L-10-001-12-acting-on-my-judgment">Choosing a path at a fork and acting</title>
+  <desc id="desc-L-10-001-12-acting-on-my-judgment">A figure stands at a fork in a path. One branch is labeled 'try alone first', the other 'seek help now'; a signpost shows both lead forward. Ahead, a portfolio folder gathers the work, showing judgment turned into action and gathered learning.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- paths -->
   <path d="M256 330 C256 250 200 240 160 190" fill="none" stroke="#7a9e7e" stroke-width="14" stroke-linecap="round"/>
@@ -25,5 +25,5 @@
     <path d="M12 40 L68 40" stroke="#2b3a42" stroke-width="3"/>
     <path d="M12 50 L60 50" stroke="#2b3a42" stroke-width="3"/>
   </g>
-  <text x="256" y="487.3" text-anchor="middle" font-family="Georgia, serif" font-size="15.4" fill="#222222">judgment becomes action — and action becomes my gathered work</text>
+  <text x="256" y="487.3" text-anchor="middle" font-family="Georgia, serif" font-size="15.0" fill="#222222">judgment becomes action — and action becomes my gathered work</text>
 </svg>

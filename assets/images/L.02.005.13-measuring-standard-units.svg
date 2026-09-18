@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Measuring a pencil in centimeters</title>
-  <desc id="desc">A pencil lying along a ruler marked in centimeters, with its left end at zero and its right end at twelve, showing the pencil is twelve centimeters long.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-13-measuring-standard-units desc-L-02-005-13-measuring-standard-units">
+  <title id="title-L-02-005-13-measuring-standard-units">Measuring a pencil in centimeters</title>
+  <desc id="desc-L-02-005-13-measuring-standard-units">A pencil lying along a ruler marked in centimeters, with its left end at zero and its right end at twelve, showing the pencil is twelve centimeters long.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -53,5 +53,5 @@
   <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">The pencil is</text>
   <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#e0a458">12 centimeters long</text>
 
-  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#4f6d7a">A centimeter is the same for everyone, everywhere.</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="18.3" fill="#4f6d7a">A centimeter is the same for everyone, everywhere.</text>
 </svg>

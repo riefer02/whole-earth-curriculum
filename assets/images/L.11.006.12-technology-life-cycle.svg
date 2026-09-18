@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Technology Life Cycle</title>
-  <desc id="desc">A four-stage cycle diagram. Stage one shows raw materials being extracted. Stage two shows manufacturing in a factory. Stage three shows the object in use. Stage four shows disposal, with some parts recycled back and others becoming waste. Energy and material costs are marked at each stage.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-006-12-technology-life-cycle desc-L-11-006-12-technology-life-cycle">
+  <title id="title-L-11-006-12-technology-life-cycle">Technology Life Cycle</title>
+  <desc id="desc-L-11-006-12-technology-life-cycle">A four-stage cycle diagram. Stage one shows raw materials being extracted. Stage two shows manufacturing in a factory. Stage three shows the object in use. Stage four shows disposal, with some parts recycled back and others becoming waste. Energy and material costs are marked at each stage.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Technology's Life Cycle</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The feedback loop: specific, kind, useful</title>
-  <desc id="desc">A circular loop with two speech bubbles. One bubble reads "I noticed...", the other reads "What if you...". Curved arrows connect the bubbles in a loop labeled "feedback". A caption reads "Specific, kind, useful." Meaning is carried by labels and the loop shape, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-004-11-feedback-loop desc-L-07-004-11-feedback-loop">
+  <title id="title-L-07-004-11-feedback-loop">The feedback loop: specific, kind, useful</title>
+  <desc id="desc-L-07-004-11-feedback-loop">A circular loop with two speech bubbles. One bubble reads "I noticed...", the other reads "What if you...". Curved arrows connect the bubbles in a loop labeled "feedback". A caption reads "Specific, kind, useful." Meaning is carried by labels and the loop shape, not color, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Three values: fairness, honesty, kindness</title>
-  <desc id="desc">Three value cards side by side. The first card shows a balanced set of scales and the label "fairness." The second card shows an open honest hand with a small mirror and the label "honesty." The third card shows two hands passing a bowl of food to another and the label "kindness." Each card uses a distinct symbol plus a label so the meaning prints clearly in grayscale, independent of color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-002-05-values-cards desc-L-05-002-05-values-cards">
+  <title id="title-L-05-002-05-values-cards">Three values: fairness, honesty, kindness</title>
+  <desc id="desc-L-05-002-05-values-cards">Three value cards side by side. The first card shows a balanced set of scales and the label "fairness." The second card shows an open honest hand with a small mirror and the label "honesty." The third card shows two hands passing a bowl of food to another and the label "kindness." Each card uses a distinct symbol plus a label so the meaning prints clearly in grayscale, independent of color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -59,6 +59,6 @@
   <text x="419" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">care and help</text>
   <text x="419" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">others</text>
 
-  <text x="256" y="457.8" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Values guide what we do — your compass is your</text>
+  <text x="256" y="457.8" text-anchor="middle" font-family="sans-serif" font-size="19.9" fill="#2b3a42">Values guide what we do — your compass is your</text>
   <text x="256" y="485.1" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">own.</text>
 </svg>

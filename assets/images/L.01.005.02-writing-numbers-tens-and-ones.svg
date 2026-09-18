@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Writing numbers: tens and ones make 35</title>
-  <desc id="desc">Three bundles of ten sticks and five loose circles sit in a row. Under the bundles a label says three tens (30), and under the circles a label says five ones (5). Together they are written as 35, with the caption "three tens and five ones = thirty-five." Below, a box shows two other ways people record numbers: five tally marks equal five, and a knotted cord called a quipu records numbers with knots. Labels and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-005-02-writing-numbers-tens-and-ones desc-L-01-005-02-writing-numbers-tens-and-ones">
+  <title id="title-L-01-005-02-writing-numbers-tens-and-ones">Writing numbers: tens and ones make 35</title>
+  <desc id="desc-L-01-005-02-writing-numbers-tens-and-ones">Three bundles of ten sticks and five loose circles sit in a row. Under the bundles a label says three tens (30), and under the circles a label says five ones (5). Together they are written as 35, with the caption "three tens and five ones = thirty-five." Below, a box shows two other ways people record numbers: five tally marks equal five, and a knotted cord called a quipu records numbers with knots. Labels and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -76,5 +76,5 @@
     <circle cx="408" cy="370" r="4"/>
   </g>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">These digits are one good system among many &#8212; none is "better."</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">These digits are one good system among many &#8212; none is "better."</text>
 </svg>

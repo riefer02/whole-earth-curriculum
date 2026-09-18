@@ -40,6 +40,6 @@
   <text x="412" y="348" text-anchor="middle" font-size="14" fill="#4f6d7a">to escape danger</text>
 
   <rect x="40" y="410" width="432" height="60" rx="12" fill="#e0a458" opacity="0.22" stroke="#e0a458" stroke-width="2"/>
-  <text x="256" y="438" text-anchor="middle" font-size="18" fill="#222222">A body part or a behavior fits each animal to its home.</text>
+  <text x="256" y="438" text-anchor="middle" font-size="16.7" fill="#222222">A body part or a behavior fits each animal to its home.</text>
   <text x="256" y="460" text-anchor="middle" font-size="15" fill="#4f6d7a">None is better — each is fitted to its own place.</text>
 </svg>

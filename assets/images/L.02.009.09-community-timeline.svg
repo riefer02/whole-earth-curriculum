@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Our community timeline — then and now</title>
-  <desc id="desc">A timeline sheet with a "long ago" end on the left and a "now" end on the right. Along the line are three event spots in order, each with a small drawing: a new school, a festival banner, and a new baby. Beside one event, a small two-column mark reads "changed" and "stayed the same". A dotted arrow runs left to right. The labels and the left-to-right arrow — not color — carry the meaning, so the picture prints clearly in grayscale and shows how a timeline and a then-and-now comparison fit together on one page.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-009-09-community-timeline desc-L-02-009-09-community-timeline">
+  <title id="title-L-02-009-09-community-timeline">Our community timeline — then and now</title>
+  <desc id="desc-L-02-009-09-community-timeline">A timeline sheet with a "long ago" end on the left and a "now" end on the right. Along the line are three event spots in order, each with a small drawing: a new school, a festival banner, and a new baby. Beside one event, a small two-column mark reads "changed" and "stayed the same". A dotted arrow runs left to right. The labels and the left-to-right arrow — not color — carry the meaning, so the picture prints clearly in grayscale and shows how a timeline and a then-and-now comparison fit together on one page.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Our Community Timeline: Then and Now</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25.5" font-weight="bold" fill="#2b3a42">Our Community Timeline: Then and Now</text>
   <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Order the events &#183; mark what changed and what stayed</text>
 
   <!-- page -->
@@ -55,7 +55,7 @@
     <line x1="404" y1="341" x2="440" y2="341" stroke="#2b3a42" stroke-width="2"/>
   </g>
 
-  <text x="256" y="425.9" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">A small history of my people and place &#183; in order, with change</text>
+  <text x="256" y="425.9" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">A small history of my people and place &#183; in order, with change</text>
   <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">and sameness</text>
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every family&#8217;s order of events is real and worthy</text>
 </svg>

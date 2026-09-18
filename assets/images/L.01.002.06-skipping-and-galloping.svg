@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Skipping and galloping</title>
-  <desc id="desc">Two panels show two traveling movements. Skip is a step and a hop, step-hop step-hop, shown by a standing child and a seated child who bounces and swings arms to the beat. Gallop is step-together like a horse, shown by a standing child leading one foot and a child in a wheelchair rolling with the same rhythm. Movement arrows and word labels carry the meaning, not color alone.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-002-06-skipping-and-galloping desc-L-01-002-06-skipping-and-galloping">
+  <title id="title-L-01-002-06-skipping-and-galloping">Skipping and galloping</title>
+  <desc id="desc-L-01-002-06-skipping-and-galloping">Two panels show two traveling movements. Skip is a step and a hop, step-hop step-hop, shown by a standing child and a seated child who bounces and swings arms to the beat. Gallop is step-together like a horse, shown by a standing child leading one foot and a child in a wheelchair rolling with the same rhythm. Movement arrows and word labels carry the meaning, not color alone.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Skipping and Galloping</text>
@@ -60,6 +60,6 @@
     <text x="376" y="326" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">feet or wheels</text>
   </g>
 
-  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Keep the beat with your body — standing, seated, or rolling.</text>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">Keep the beat with your body — standing, seated, or rolling.</text>
   <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every body moves its own way.</text>
 </svg>

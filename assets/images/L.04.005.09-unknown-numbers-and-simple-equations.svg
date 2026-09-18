@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">An unknown number: n plus 3 equals 7</title>
-  <desc id="desc">A balance scale with two pans. The left pan holds a box labeled n and three counters, and the right pan holds seven counters. The scale is level, showing both sides are equal. Below, the equation n plus 3 equals 7 is solved: n equals 4, with the check 4 plus 3 equals 7.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-09-unknown-numbers-and-simple-equations desc-L-04-005-09-unknown-numbers-and-simple-equations">
+  <title id="title-L-04-005-09-unknown-numbers-and-simple-equations">An unknown number: n plus 3 equals 7</title>
+  <desc id="desc-L-04-005-09-unknown-numbers-and-simple-equations">A balance scale with two pans. The left pan holds a box labeled n and three counters, and the right pan holds seven counters. The scale is level, showing both sides are equal. Below, the equation n plus 3 equals 7 is solved: n equals 4, with the check 4 plus 3 equals 7.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -51,5 +51,5 @@
   <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#e0a458">n = 4</text>
   <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Check: 4 + 3 = 7 ✓</text>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A letter stands for the unknown. An equation is a balance.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">A letter stands for the unknown. An equation is a balance.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The living world around me</title>
-  <desc id="desc">One big picture that brings the unit together. A sky shows the sun on the left and the moon and stars on the right, so day and night both appear. In the middle stands a child, and around them are the parts of a living world: a growing plant, a tree with falling and new leaves, a raindrop, a bird, and a puddle. A question bubble floats above the child. Every part is drawn as a shape and labeled, so the collage prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-009-10-the-living-world-around-us desc-L-00-009-10-the-living-world-around-us">
+  <title id="title-L-00-009-10-the-living-world-around-us">The living world around me</title>
+  <desc id="desc-L-00-009-10-the-living-world-around-us">One big picture that brings the unit together. A sky shows the sun on the left and the moon and stars on the right, so day and night both appear. In the middle stands a child, and around them are the parts of a living world: a growing plant, a tree with falling and new leaves, a raindrop, a bird, and a puddle. A question bubble floats above the child. Every part is drawn as a shape and labeled, so the collage prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -98,5 +98,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">I am part of the living world — and my wonder is part of it too.</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">I am part of the living world — and my wonder is part of it too.</text>
 </svg>

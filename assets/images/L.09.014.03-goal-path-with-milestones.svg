@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My north star: a goal path with milestones</title>
-  <desc id="desc">A winding path leads from a starting point labeled "where I am now" up to a large star labeled "my goal." Along the path are three milestone flags labeled milestone one, two, and three. A dotted side path leaves the main road and loops back onto it, labeled "adjust the plan," showing that changing course is part of reaching a goal.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-014-03-goal-path-with-milestones desc-L-09-014-03-goal-path-with-milestones">
+  <title id="title-L-09-014-03-goal-path-with-milestones">My north star: a goal path with milestones</title>
+  <desc id="desc-L-09-014-03-goal-path-with-milestones">A winding path leads from a starting point labeled "where I am now" up to a large star labeled "my goal." Along the path are three milestone flags labeled milestone one, two, and three. A dotted side path leaves the main road and loops back onto it, labeled "adjust the plan," showing that changing course is part of reaching a goal.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">My North Star: The Goal Path</text>

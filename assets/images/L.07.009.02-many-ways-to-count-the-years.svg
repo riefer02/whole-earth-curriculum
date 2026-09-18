@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Two calendars side by side: solar and lunar</title>
-  <desc id="desc">Two panels. The left panel shows a solar year: a circle marked "one year = 365 days," divided into twelve labeled months, with a sun. The right panel shows a lunar year: twelve moons around a circle marked "one year = about 354 days," with a crescent moon. A note at the bottom says the same day can be a different number in each calendar.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-009-02-many-ways-to-count-the-years desc-L-07-009-02-many-ways-to-count-the-years">
+  <title id="title-L-07-009-02-many-ways-to-count-the-years">Two calendars side by side: solar and lunar</title>
+  <desc id="desc-L-07-009-02-many-ways-to-count-the-years">Two panels. The left panel shows a solar year: a circle marked "one year = 365 days," divided into twelve labeled months, with a sun. The right panel shows a lunar year: twelve moons around a circle marked "one year = about 354 days," with a crescent moon. A note at the bottom says the same day can be a different number in each calendar.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Digital audio workstation tracks</title>
-  <desc id="desc">A timeline of four horizontal tracks — drums, bass, melody, and voice — with colored clip regions, a looping section, and an effects chain, showing how music is built in digital tools.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-009-03-daw-tracks desc-L-09-009-03-daw-tracks">
+  <title id="title-L-09-009-03-daw-tracks">Digital audio workstation tracks</title>
+  <desc id="desc-L-09-009-03-daw-tracks">A timeline of four horizontal tracks — drums, bass, melody, and voice — with colored clip regions, a looping section, and an effects chain, showing how music is built in digital tools.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">Building music on a timeline</text>
 

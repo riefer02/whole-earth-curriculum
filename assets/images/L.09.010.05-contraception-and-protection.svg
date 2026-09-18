@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Contraception and protection at a glance</title>
-  <desc id="desc">A chart of four main approaches to contraception. Barrier methods (condoms) block sperm and also reduce the risk of many infections. Hormonal methods (pill, patch, ring, injection, implant) stop the egg's release and prevent pregnancy but not infections. The IUD sits in the uterus and lasts years, preventing pregnancy but not infections. Emergency contraception is a backup after unprotected sex, not for routine use. A green banner adds: dual protection means condoms plus one more method, and testing matters because many infections have no symptoms.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-010-05-contraception-and-protection desc-L-09-010-05-contraception-and-protection">
+  <title id="title-L-09-010-05-contraception-and-protection">Contraception and protection at a glance</title>
+  <desc id="desc-L-09-010-05-contraception-and-protection">A chart of four main approaches to contraception. Barrier methods (condoms) block sperm and also reduce the risk of many infections. Hormonal methods (pill, patch, ring, injection, implant) stop the egg's release and prevent pregnancy but not infections. The IUD sits in the uterus and lasts years, preventing pregnancy but not infections. Emergency contraception is a backup after unprotected sex, not for routine use. A green banner adds: dual protection means condoms plus one more method, and testing matters because many infections have no symptoms.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#222222">Contraception &amp; protection at a glance</text>
+  <text x="256" y="34" text-anchor="middle" font-family="system-ui, sans-serif" font-size="21.8" font-weight="700" fill="#222222">Contraception &amp; protection at a glance</text>
 
   <!-- Card 1 -->
   <rect x="40" y="56" width="210" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
@@ -19,7 +19,7 @@
   <rect x="262" y="56" width="210" height="40" rx="12" fill="#6b93b6"/>
   <text x="367" y="76" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">Hormonal</text>
   <text x="367" y="92" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#222222">pill · patch · ring · implant</text>
-  <text x="274" y="122" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">How: stops the egg's release</text>
+  <text x="274" y="122" font-family="system-ui, sans-serif" font-size="15.2" font-weight="700" fill="#222222">How: stops the egg's release</text>
   <text x="274" y="152" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Prevents pregnancy.</text>
   <text x="274" y="172" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Does not protect against</text>
   <text x="274" y="192" font-family="system-ui, sans-serif" font-size="16" fill="#222222">infections.</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Writing a topic sentence</title>
-  <desc id="desc">A paragraph is drawn as a stack of sentence lines, and the first line glows with a warm highlight and a star, labeled "topic sentence — tells what the paragraph is about." The lines below are dimmer, marked "the rest of the sentences." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that a topic sentence is the first sentence that tells the reader what the paragraph will be about.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-004-09-writing-a-topic-sentence desc-L-03-004-09-writing-a-topic-sentence">
+  <title id="title-L-03-004-09-writing-a-topic-sentence">Writing a topic sentence</title>
+  <desc id="desc-L-03-004-09-writing-a-topic-sentence">A paragraph is drawn as a stack of sentence lines, and the first line glows with a warm highlight and a star, labeled "topic sentence — tells what the paragraph is about." The lines below are dimmer, marked "the rest of the sentences." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that a topic sentence is the first sentence that tells the reader what the paragraph will be about.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -39,6 +39,6 @@
     <text x="270" y="290" fill="#4f6d7a">sentences</text>
   </g>
 
-  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The topic sentence tells the reader what the paragraph is about.</text>
-  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">It is usually the first sentence — the door the reader walks through.</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">The topic sentence tells the reader what the paragraph is about.</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#2b3a42">It is usually the first sentence — the door the reader walks through.</text>
 </svg>

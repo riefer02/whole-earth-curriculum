@@ -22,5 +22,5 @@
   <circle cx="392" cy="300" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="346" cy="300" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <!-- note -->
-  <text x="256" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Both are strategies to evaluate — when they work, and when they fall short.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.2" fill="#222222">Both are strategies to evaluate — when they work, and when they fall short.</text>
 </svg>

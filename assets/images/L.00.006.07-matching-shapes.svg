@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Matching shapes: the same shape matches, even in a different size</title>
-  <desc id="desc">Two rows show shape matching. In the top row, a big triangle and a small triangle are paired with a green check mark and the words "big and small — still a match," teaching that shape is about sides and corners, not size. In the bottom row, a circle and a square are paired with an orange X and the words "circle and square — not a match," teaching that different shapes do not match. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-006-07-matching-shapes desc-L-00-006-07-matching-shapes">
+  <title id="title-L-00-006-07-matching-shapes">Matching shapes: the same shape matches, even in a different size</title>
+  <desc id="desc-L-00-006-07-matching-shapes">Two rows show shape matching. In the top row, a big triangle and a small triangle are paired with a green check mark and the words "big and small — still a match," teaching that shape is about sides and corners, not size. In the bottom row, a circle and a square are paired with an orange X and the words "circle and square — not a match," teaching that different shapes do not match. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

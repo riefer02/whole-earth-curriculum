@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A line plot of fractional measurements</title>
-  <desc id="desc">A number line from 3 to 6 marked in halves, with X marks stacked above each value to show how many objects had each length: one X at 3 and a half, three Xs at 4, two Xs at 4 and a half, one X at 5, two Xs at 5 and a half, and one X at 6. Below, questions are answered: the most common length is 4, the least common lengths appear once, and there are ten objects in all.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-16-line-plots-with-fractional-data desc-L-04-005-16-line-plots-with-fractional-data">
+  <title id="title-L-04-005-16-line-plots-with-fractional-data">A line plot of fractional measurements</title>
+  <desc id="desc-L-04-005-16-line-plots-with-fractional-data">A number line from 3 to 6 marked in halves, with X marks stacked above each value to show how many objects had each length: one X at 3 and a half, three Xs at 4, two Xs at 4 and a half, one X at 5, two Xs at 5 and a half, and one X at 6. Below, questions are answered: the most common length is 4, the least common lengths appear once, and there are ten objects in all.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">A Line Plot of Fractional Measurements</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24.1" font-weight="bold" fill="#2b3a42">A Line Plot of Fractional Measurements</text>
   <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Lengths of leaves, to the nearest half unit</text>
 
   <!-- number line -->
@@ -56,5 +56,5 @@
   <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Least common: lengths with one X each</text>
   <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">How many in all? 10 objects</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A line plot is data you can see — one mark for each measurement.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">A line plot is data you can see — one mark for each measurement.</text>
 </svg>

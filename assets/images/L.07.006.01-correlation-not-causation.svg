@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Correlation is not causation</title>
-  <desc id="desc">A diagram explaining that correlation is not causation. The top half shows two rising lines together — "ice cream sales" and "drownings" — that both rise in summer, labeled "they move together." The bottom half shows a third-variable model: a box labeled "Hot summer weather" with arrows down to "Ice cream sales rise" and "Drownings rise," and a dashed line between those two labeled "correlation, not causation." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-006-01-correlation-not-causation desc-L-07-006-01-correlation-not-causation">
+  <title id="title-L-07-006-01-correlation-not-causation">Correlation is not causation</title>
+  <desc id="desc-L-07-006-01-correlation-not-causation">A diagram explaining that correlation is not causation. The top half shows two rising lines together — "ice cream sales" and "drownings" — that both rise in summer, labeled "they move together." The bottom half shows a third-variable model: a box labeled "Hot summer weather" with arrows down to "Ice cream sales rise" and "Drownings rise," and a dashed line between those two labeled "correlation, not causation." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -28,11 +28,11 @@
   <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(the third variable)</text>
 
   <!-- arrows down-left and down-right -->
-  <path d="M210 288 L96 340" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arrow)"/>
-  <path d="M302 288 L416 340" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M210 288 L96 340" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arrow-L-07-006-01-correlation-not-causation)"/>
+  <path d="M302 288 L416 340" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#arrow-L-07-006-01-correlation-not-causation)"/>
 
   <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="arrow-L-07-006-01-correlation-not-causation" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0 0 L8 3 L0 6 z" fill="#2b3a42"/>
     </marker>
   </defs>

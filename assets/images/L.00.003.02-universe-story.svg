@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The universe's story in four pictures</title>
-  <desc id="desc">A four-panel sequence read left to right: a tiny hot beginning, then stars, then galaxies, then a warm Earth with living things. Simple, calm shapes for young learners; the panels print clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-003-02-universe-story desc-L-00-003-02-universe-story">
+  <title id="title-L-00-003-02-universe-story">The universe's story in four pictures</title>
+  <desc id="desc-L-00-003-02-universe-story">A four-panel sequence read left to right: a tiny hot beginning, then stars, then galaxies, then a warm Earth with living things. Simple, calm shapes for young learners; the panels print clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

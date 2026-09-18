@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Tools help us do jobs</title>
-  <desc id="desc">Four boxes, each showing one tool doing its job, with a label under each: a spoon scooping soup from a bowl, a water jug carrying water, a mortar and pestle grinding grain, and a broom sweeping the floor. Each tool is drawn simply with its job named in words, so the picture prints clearly in grayscale and shows that a tool is something people make to help them do a job.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-012-01-tools-help-us desc-L-00-012-01-tools-help-us">
+  <title id="title-L-00-012-01-tools-help-us">Tools help us do jobs</title>
+  <desc id="desc-L-00-012-01-tools-help-us">Four boxes, each showing one tool doing its job, with a label under each: a spoon scooping soup from a bowl, a water jug carrying water, a mortar and pestle grinding grain, and a broom sweeping the floor. Each tool is drawn simply with its job named in words, so the picture prints clearly in grayscale and shows that a tool is something people make to help them do a job.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -60,5 +60,5 @@
   <text x="376" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">sweeps the floor</text>
 
   <!-- Footer -->
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">People everywhere, in every time, have made tools for their own hands.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#4f6d7a">People everywhere, in every time, have made tools for their own hands.</text>
 </svg>

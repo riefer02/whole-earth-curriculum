@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Ways I calm down</title>
-  <desc id="desc">A menu of six calming strategies, each in its own card with an icon and a label. Top row: "take a deep breath" (a flower), "count to ten" (the numbers 1, 2, 3 with a ten), and "find a safe space" (a quiet pillow and mat). Bottom row: "hug a pillow" (a figure hugging a pillow), "drink water" (a cup with a straw), and "rock, sway, or stretch" (a figure reaching up). The labels and shapes, not color, carry the meaning so it prints clearly in grayscale, and the note at the bottom says a calm-down is a helpful tool, never a punishment.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-001-09-calming-strategies desc-L-01-001-09-calming-strategies">
+  <title id="title-L-01-001-09-calming-strategies">Ways I calm down</title>
+  <desc id="desc-L-01-001-09-calming-strategies">A menu of six calming strategies, each in its own card with an icon and a label. Top row: "take a deep breath" (a flower), "count to ten" (the numbers 1, 2, 3 with a ten), and "find a safe space" (a quiet pillow and mat). Bottom row: "hug a pillow" (a figure hugging a pillow), "drink water" (a cup with a straw), and "rock, sway, or stretch" (a figure reaching up). The labels and shapes, not color, carry the meaning so it prints clearly in grayscale, and the note at the bottom says a calm-down is a helpful tool, never a punishment.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

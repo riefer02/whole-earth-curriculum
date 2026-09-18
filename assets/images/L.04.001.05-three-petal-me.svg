@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Three-petal me: interests, abilities, experiences</title>
-  <desc id="desc">A flower with a round center labeled "me" and three petals. The petals are labeled "interests" with a small book and ball, "abilities" with a small star and hand, and "experiences" with a small path and sun. Labels and shapes, not color, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-001-05-three-petal-me desc-L-04-001-05-three-petal-me">
+  <title id="title-L-04-001-05-three-petal-me">Three-petal me: interests, abilities, experiences</title>
+  <desc id="desc-L-04-001-05-three-petal-me">A flower with a round center labeled "me" and three petals. The petals are labeled "interests" with a small book and ball, "abilities" with a small star and hand, and "experiences" with a small path and sun. Labels and shapes, not color, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -38,6 +38,6 @@
   <circle cx="256" cy="272" r="56" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
   <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">me</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">What I love, what I can do, and what I have lived</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="18.7" fill="#2b3a42">What I love, what I can do, and what I have lived</text>
   <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">all shape me.</text>
 </svg>

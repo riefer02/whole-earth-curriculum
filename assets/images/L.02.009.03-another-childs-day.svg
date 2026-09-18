@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A day in another child's life</title>
-  <desc id="desc">Four simple cards show the parts of a child's day in another place. The first card shows a bowl of food with a spoon, labeled food. The second card shows a small home with a roof and a door, labeled home. The third card shows a child carrying a basket, labeled work. The fourth card shows a child playing with a ball, labeled play. The four labels and the simple shapes — not color — carry the meaning, so the picture prints clearly in grayscale and teaches that children everywhere eat, live somewhere, help, and play.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-009-03-another-childs-day desc-L-02-009-03-another-childs-day">
+  <title id="title-L-02-009-03-another-childs-day">A day in another child's life</title>
+  <desc id="desc-L-02-009-03-another-childs-day">Four simple cards show the parts of a child's day in another place. The first card shows a bowl of food with a spoon, labeled food. The second card shows a small home with a roof and a door, labeled home. The third card shows a child carrying a basket, labeled work. The fourth card shows a child playing with a ball, labeled play. The four labels and the simple shapes — not color — carry the meaning, so the picture prints clearly in grayscale and teaches that children everywhere eat, live somewhere, help, and play.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">A Day in Another Child&#8217;s Life</text>
-  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Food &#183; home &#183; work &#183; play &#183; the parts are alike, the ways are many</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26.2" font-weight="bold" fill="#2b3a42">A Day in Another Child&#8217;s Life</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Food &#183; home &#183; work &#183; play &#183; the parts are alike, the ways are many</text>
 
   <!-- card frames -->
   <rect x="26" y="104" width="100" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

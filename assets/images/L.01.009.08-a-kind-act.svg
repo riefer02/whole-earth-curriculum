@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A kind act, and why it mattered</title>
-  <desc id="desc">Two panels tell one gentle kind act and its meaning. The first panel is labeled the kind act and shows a child holding out a bowl of food to a child who has none. The second panel is labeled why it mattered and shows the child who received the food smiling with a warm heart above, because kindness met a need and told them they are not alone. Skin tones and clothes differ between the two children. The labels, the bowl, the heart, and the smiling face, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that a kind act is small but matters, because it meets a need and grows.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-009-08-a-kind-act desc-L-01-009-08-a-kind-act">
+  <title id="title-L-01-009-08-a-kind-act">A kind act, and why it mattered</title>
+  <desc id="desc-L-01-009-08-a-kind-act">Two panels tell one gentle kind act and its meaning. The first panel is labeled the kind act and shows a child holding out a bowl of food to a child who has none. The second panel is labeled why it mattered and shows the child who received the food smiling with a warm heart above, because kindness met a need and told them they are not alone. Skin tones and clothes differ between the two children. The labels, the bowl, the heart, and the smiling face, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that a kind act is small but matters, because it meets a need and grows.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -70,6 +70,6 @@
 
   <text x="379" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">they felt cared for, not alone</text>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Kindness meets a need and tells someone: you are not alone.</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15.5" fill="#4f6d7a">Kindness meets a need and tells someone: you are not alone.</text>
   <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Kindness is small and mighty &#183; it grows</text>
 </svg>

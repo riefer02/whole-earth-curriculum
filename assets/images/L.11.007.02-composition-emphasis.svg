@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Composition and Emphasis</title>
-  <desc id="desc">A picture frame containing a small bright shape and a large pale shape. Dashed arrows show how contrast and placement pull the eye to the small bright shape first. Labels point to contrast, placement, and the path the viewer's eye follows.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-007-02-composition-emphasis desc-L-11-007-02-composition-emphasis">
+  <title id="title-L-11-007-02-composition-emphasis">Composition and Emphasis</title>
+  <desc id="desc-L-11-007-02-composition-emphasis">A picture frame containing a small bright shape and a large pale shape. Dashed arrows show how contrast and placement pull the eye to the small bright shape first. Labels point to contrast, placement, and the path the viewer's eye follows.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Composition Steers the Eye</text>
@@ -25,7 +25,7 @@
 
   <line x1="276" y1="300" x2="372" y2="268" stroke="#4f6d7a" stroke-width="2"/>
   <text x="374" y="262" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">small, bright</text>
-  <text x="374" y="280" font-family="sans-serif" font-size="13" fill="#4f6d7a">(contrast = emphasis)</text>
+  <text x="374" y="280" font-family="sans-serif" font-size="12" fill="#4f6d7a">(contrast = emphasis)</text>
 
   <!-- Caption -->
   <rect x="90" y="420" width="332" height="62" rx="8" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The two-way body–mind loop</title>
-  <desc id="desc">A diagram with two boxes: "body state" on the left listing heart rate, breath, muscle tension, gut signals, and hormones, and "mood and thinking" on the right. Two curved arrows run between them, one labeled "body shapes mind" and the other "mind shapes body". Below, a worked example shows a tired, unfed body leading to a flat, irritable mood and negative thinking, and a slow exhale leading back toward calm.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-004-01-body-mind-loop desc-L-09-004-01-body-mind-loop">
+  <title id="title-L-09-004-01-body-mind-loop">The two-way body–mind loop</title>
+  <desc id="desc-L-09-004-01-body-mind-loop">A diagram with two boxes: "body state" on the left listing heart rate, breath, muscle tension, gut signals, and hormones, and "mood and thinking" on the right. Two curved arrows run between them, one labeled "body shapes mind" and the other "mind shapes body". Below, a worked example shows a tired, unfed body leading to a flat, irritable mood and negative thinking, and a slow exhale leading back toward calm.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">The Body–Mind Loop</text>
-  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Feeling and thinking are built in and with the body — it runs both ways.</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">Feeling and thinking are built in and with the body — it runs both ways.</text>
 
   <!-- body state box -->
   <rect x="28" y="92" width="180" height="178" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
@@ -37,10 +37,10 @@
   <!-- worked example -->
   <rect x="28" y="300" width="456" height="188" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
   <text x="44" y="326" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Worked example</text>
-  <text x="44" y="352" font-family="sans-serif" font-size="13" fill="#222222">Bad sleep + no breakfast &#8594; heavy eyelids, low energy &#8594; flat,</text>
-  <text x="44" y="370" font-family="sans-serif" font-size="13" fill="#222222">irritable mood &#8594; &#8220;that comment was an insult; today is pointless.&#8221;</text>
+  <text x="44" y="352" font-family="sans-serif" font-size="12" fill="#222222">Bad sleep + no breakfast &#8594; heavy eyelids, low energy &#8594; flat,</text>
+  <text x="44" y="370" font-family="sans-serif" font-size="12" fill="#222222">irritable mood &#8594; &#8220;that comment was an insult; today is pointless.&#8221;</text>
   <path d="M44 390 L468 390" stroke="#7a9e7e" stroke-width="1.5" stroke-opacity="0.6"/>
-  <text x="44" y="414" font-family="sans-serif" font-size="13" fill="#222222">One slow exhale + a little food &#8594; shoulders drop &#8594; same comment</text>
-  <text x="44" y="432" font-family="sans-serif" font-size="13" fill="#222222">now reads as ordinary &#8594; &#8220;the day looks manageable.&#8221;</text>
+  <text x="44" y="414" font-family="sans-serif" font-size="12" fill="#222222">One slow exhale + a little food &#8594; shoulders drop &#8594; same comment</text>
+  <text x="44" y="432" font-family="sans-serif" font-size="12.2" fill="#222222">now reads as ordinary &#8594; &#8220;the day looks manageable.&#8221;</text>
   <text x="44" y="458" font-family="sans-serif" font-size="12" fill="#4f6d7a">The facts did not change — the body state I thought from did.</text>
 </svg>

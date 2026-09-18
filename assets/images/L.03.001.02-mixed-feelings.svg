@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Mixed feelings: happy and sad at the same time</title>
-  <desc id="desc">Two overlapping circles side by side. The left circle is labeled "happy" and holds a smiling face; the right circle is labeled "sad" and holds a frowning face with a tear. Where the circles overlap in the middle is a shaded space labeled "happy AND sad" with a small caption "both are true at once." Words and face shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-001-02-mixed-feelings desc-L-03-001-02-mixed-feelings">
+  <title id="title-L-03-001-02-mixed-feelings">Mixed feelings: happy and sad at the same time</title>
+  <desc id="desc-L-03-001-02-mixed-feelings">Two overlapping circles side by side. The left circle is labeled "happy" and holds a smiling face; the right circle is labeled "sad" and holds a frowning face with a tear. Where the circles overlap in the middle is a shaded space labeled "happy AND sad" with a small caption "both are true at once." Words and face shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

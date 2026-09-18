@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Pretending to be a character: voice, face, and body</title>
-  <desc id="desc">Three panels show the three tools a child uses to become a character. The first panel, labeled "voice," shows a child's head with an open mouth and a speech bubble reading "high · low · fast · slow." The second panel, labeled "face," shows a big close-up face with wide eyes, raised eyebrows, and an open mouth, with the note "show it with your face." The third panel, labeled "body," shows a child leaning forward with both arms reaching to carry a basket, with the note "tell it with your body." Below, the three are combined under the words "voice + face + body = a character," and a round turn marker — a stone with a cloth knot on top — is drawn beside the label "a turn marker shows whose turn it is." Words and shapes carry all meaning, not color, so the picture prints clearly in grayscale and teaches that there is no correct way to play a character.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-007-06-pretending-to-be-a-character desc-L-01-007-06-pretending-to-be-a-character">
+  <title id="title-L-01-007-06-pretending-to-be-a-character">Pretending to be a character: voice, face, and body</title>
+  <desc id="desc-L-01-007-06-pretending-to-be-a-character">Three panels show the three tools a child uses to become a character. The first panel, labeled "voice," shows a child's head with an open mouth and a speech bubble reading "high · low · fast · slow." The second panel, labeled "face," shows a big close-up face with wide eyes, raised eyebrows, and an open mouth, with the note "show it with your face." The third panel, labeled "body," shows a child leaning forward with both arms reaching to carry a basket, with the note "tell it with your body." Below, the three are combined under the words "voice + face + body = a character," and a round turn marker — a stone with a cloth knot on top — is drawn beside the label "a turn marker shows whose turn it is." Words and shapes carry all meaning, not color, so the picture prints clearly in grayscale and teaches that there is no correct way to play a character.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -79,5 +79,5 @@
     <text x="152" y="438" font-family="sans-serif" font-size="13" fill="#4f6d7a">to speak or act</text>
   </g>
 
-  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">There is no correct way to play a character — every way is a way to play.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12.6" fill="#4f6d7a">There is no correct way to play a character — every way is a way to play.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Feelings I've grown this year</title>
-  <desc id="desc">Seven feeling faces in two rows. The top row shows the three new feelings this year — proud (warm and tall), lonely (quiet and heavy), and excited (buzzy and bright) — each tagged "new." The bottom row shows the four feelings already known — happy (light and sunny), sad (slow and droopy), angry (hot and tight), and scared (fast and small). Each face has different eyebrows and a different mouth so the feeling reads in grayscale, not by color, and each is labeled with a word plus a body-sense hint. Skin tones and hair vary across the faces; one wears glasses and one has a hearing aid. The closing line teaches that a feeling is never wrong — only a guess about someone else's feeling can miss.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-012-01-feelings-ive-grown desc-L-01-012-01-feelings-ive-grown">
+  <title id="title-L-01-012-01-feelings-ive-grown">Feelings I've grown this year</title>
+  <desc id="desc-L-01-012-01-feelings-ive-grown">Seven feeling faces in two rows. The top row shows the three new feelings this year — proud (warm and tall), lonely (quiet and heavy), and excited (buzzy and bright) — each tagged "new." The bottom row shows the four feelings already known — happy (light and sunny), sad (slow and droopy), angry (hot and tight), and scared (fast and small). Each face has different eyebrows and a different mouth so the feeling reads in grayscale, not by color, and each is labeled with a word plus a body-sense hint. Skin tones and hair vary across the faces; one wears glasses and one has a hearing aid. The closing line teaches that a feeling is never wrong — only a guess about someone else's feeling can miss.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -133,6 +133,6 @@
     <text x="445" y="430" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fast and small</text>
   </g>
 
-  <text x="256" y="483" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A feeling is never wrong — only a guess about someone else's feeling</text>
+  <text x="256" y="483" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">A feeling is never wrong — only a guess about someone else's feeling</text>
   <text x="256" y="502.5" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">can miss.</text>
 </svg>

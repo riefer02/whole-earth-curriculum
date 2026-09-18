@@ -36,7 +36,7 @@
   <circle cx="430" cy="120" r="5" fill="#2b3a42"/>
   <line x1="374" y1="176" x2="470" y2="130" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="5,4"/>
   <text x="421" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">A slope lets a load</text>
-  <text x="421" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">roll up instead of lifting.</text>
+  <text x="421" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">roll up instead of lifting.</text>
   <text x="421" y="240" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">job: raising</text>
 
   <rect x="16" y="268" width="480" height="120" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>

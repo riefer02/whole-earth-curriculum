@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Energy flows one way; matter cycles</title>
-  <desc id="desc">A diagram showing energy from the sun entering a producer, moving to a consumer and a decomposer, then leaving as heat — a one-way path. Matter is shown looping back from the decomposer to the soil and producer, a closed cycle.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-008-02-matter-energy-flow desc-L-09-008-02-matter-energy-flow">
+  <title id="title-L-09-008-02-matter-energy-flow">Energy flows one way; matter cycles</title>
+  <desc id="desc-L-09-008-02-matter-energy-flow">A diagram showing energy from the sun entering a producer, moving to a consumer and a decomposer, then leaving as heat — a one-way path. Matter is shown looping back from the decomposer to the soil and producer, a closed cycle.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Energy Flows One Way · Matter Cycles</text>

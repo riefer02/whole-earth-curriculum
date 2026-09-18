@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Comparing and rounding decimals</title>
-  <desc id="desc">A number line from 0 to 1 marked in tenths with smaller hundredths ticks. The point 0.5 is highlighted with a filled dot and labeled with its fraction equivalents: 1/2, 5/10, and 50/100. A second panel below shows rounding: 0.46 is marked on a small number line, and an arrow points from 0.46 to 0.5, labeled "round 0.46 to the nearest tenth gives 0.5." Labels, tick marks, and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-02-comparing-rounding-decimals desc-L-05-006-02-comparing-rounding-decimals">
+  <title id="title-L-05-006-02-comparing-rounding-decimals">Comparing and rounding decimals</title>
+  <desc id="desc-L-05-006-02-comparing-rounding-decimals">A number line from 0 to 1 marked in tenths with smaller hundredths ticks. The point 0.5 is highlighted with a filled dot and labeled with its fraction equivalents: 1/2, 5/10, and 50/100. A second panel below shows rounding: 0.46 is marked on a small number line, and an arrow points from 0.46 to 0.5, labeled "round 0.46 to the nearest tenth gives 0.5." Labels, tick marks, and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

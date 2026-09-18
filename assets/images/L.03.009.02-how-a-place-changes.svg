@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">How a place changes over time</title>
-  <desc id="desc">Three panels show the same riverside market at three times. The first panel, "long ago," shows a small market of a few stalls beside a river. The middle panel, "in between," shows a bridge being built across the river. The last panel, "now," shows a large busy market with many stalls, the bridge, and boats. An arrow points from the bridge to the busy market, labeled "the bridge let more people cross, so the market grew." Labels and shapes, not color, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-009-02-how-a-place-changes desc-L-03-009-02-how-a-place-changes">
+  <title id="title-L-03-009-02-how-a-place-changes">How a place changes over time</title>
+  <desc id="desc-L-03-009-02-how-a-place-changes">Three panels show the same riverside market at three times. The first panel, "long ago," shows a small market of a few stalls beside a river. The middle panel, "in between," shows a bridge being built across the river. The last panel, "now," shows a large busy market with many stalls, the bridge, and boats. An arrow points from the bridge to the busy market, labeled "the bridge let more people cross, so the market grew." Labels and shapes, not color, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">How Our Place Changed Over Time</text>
-  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Long ago &#8594; in between &#8594; now, and what caused the change.</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">Long ago &#8594; in between &#8594; now, and what caused the change.</text>
 
   <!-- panel 1: long ago -->
   <rect x="30" y="96" width="140" height="150" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>

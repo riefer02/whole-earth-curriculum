@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Empathy online: the compassion curve</title>
-  <desc id="desc">A line graph of the compassion curve. It rises steeply for one named face and story, then falls as the feed becomes an endless stream of headlines. Labels mark "one named face" at the peak and "a flood of headlines" where the curve falls, with a note about choosing where care goes.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-003-07-compassion-curve desc-L-10-003-07-compassion-curve">
+  <title id="title-L-10-003-07-compassion-curve">Empathy online: the compassion curve</title>
+  <desc id="desc-L-10-003-07-compassion-curve">A line graph of the compassion curve. It rises steeply for one named face and story, then falls as the feed becomes an endless stream of headlines. Labels mark "one named face" at the peak and "a flood of headlines" where the curve falls, with a note about choosing where care goes.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -11,7 +11,7 @@
   <line x1="60" y1="360" x2="60" y2="70" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
 
   <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">how many crises in the feed</text>
-  <text x="40" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" transform="rotate(-90 40 216)">my capacity to care</text>
+  <text x="40" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a" transform="rotate(-90 40 216)">my capacity to care</text>
 
   <!-- Curve -->
   <path d="M70,340 C110,340 140,120 190,110 C240,100 300,180 360,290 C410,360 460,360 470,360"

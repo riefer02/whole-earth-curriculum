@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My life story so far, in order</title>
-  <desc id="desc">A winding road drawn left to right with five numbered stops. Stop 1 is labeled "I was born," stop 2 "a first memory," stop 3 "something I learned," stop 4 "a big change," and stop 5 "now." Small dots mark each stop along the road. The stops are blank enough for a learner to draw or write their own moment at each one. Numbers and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-001-05-life-story-timeline desc-L-03-001-05-life-story-timeline">
+  <title id="title-L-03-001-05-life-story-timeline">My life story so far, in order</title>
+  <desc id="desc-L-03-001-05-life-story-timeline">A winding road drawn left to right with five numbered stops. Stop 1 is labeled "I was born," stop 2 "a first memory," stop 3 "something I learned," stop 4 "a big change," and stop 5 "now." Small dots mark each stop along the road. The stops are blank enough for a learner to draw or write their own moment at each one. Numbers and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

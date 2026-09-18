@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Saying how many: the last number is the total</title>
-  <desc id="desc">A row of seven pebbles, each with a number from 1 to 7 underneath. A warm ring highlights the seventh pebble with the caption that the last number you say is how many there are: seven. Below, a box compares two groups: a pile of five pebbles labeled 5 and a pile of eight pebbles labeled 8, with the caption that eight is more than five, and more and fewer are facts about amounts, never about a person's worth. Numbers and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-005-03-the-last-number-is-how-many desc-L-01-005-03-the-last-number-is-how-many">
+  <title id="title-L-01-005-03-the-last-number-is-how-many">Saying how many: the last number is the total</title>
+  <desc id="desc-L-01-005-03-the-last-number-is-how-many">A row of seven pebbles, each with a number from 1 to 7 underneath. A warm ring highlights the seventh pebble with the caption that the last number you say is how many there are: seven. Below, a box compares two groups: a pile of five pebbles labeled 5 and a pile of eight pebbles labeled 8, with the caption that eight is more than five, and more and fewer are facts about amounts, never about a person's worth. Numbers and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -62,5 +62,5 @@
   <text x="382" y="406" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">8</text>
   <text x="382" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">more</text>
 
-  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">More and fewer are facts about amounts &#8212; never about a person's worth.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#4f6d7a">More and fewer are facts about amounts &#8212; never about a person's worth.</text>
 </svg>

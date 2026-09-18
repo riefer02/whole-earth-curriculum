@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Shared work, symbols, and stories</title>
-  <desc id="desc">Three panels side by side, each labeled at the top. Panel one, "shared work," shows several figures of varied skin tones lifting a roof beam together. Panel two, "symbols," shows a patterned cloth and a crest, labeled "patterns that say who we are." Panel three, "stories," shows people gathered in a circle listening to an elder with a speech bubble, labeled "stories we remember." A caption below reads "Work, symbols, and stories build the 'we.'" Labels and pictures, not color alone, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-004-07-shared-work-symbols-stories desc-L-05-004-07-shared-work-symbols-stories">
+  <title id="title-L-05-004-07-shared-work-symbols-stories">Shared work, symbols, and stories</title>
+  <desc id="desc-L-05-004-07-shared-work-symbols-stories">Three panels side by side, each labeled at the top. Panel one, "shared work," shows several figures of varied skin tones lifting a roof beam together. Panel two, "symbols," shows a patterned cloth and a crest, labeled "patterns that say who we are." Panel three, "stories," shows people gathered in a circle listening to an elder with a speech bubble, labeled "stories we remember." A caption below reads "Work, symbols, and stories build the 'we.'" Labels and pictures, not color alone, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -58,6 +58,6 @@
   <text x="416" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">again and again</text>
 
   <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Work, symbols, and stories build the "we."</text>
-  <text x="256" y="411.2" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">They turn a group of people into a community that belongs to</text>
+  <text x="256" y="411.2" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">They turn a group of people into a community that belongs to</text>
   <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">each other.</text>
 </svg>

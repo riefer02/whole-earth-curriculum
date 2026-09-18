@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The self-directed learning loop</title>
-  <desc id="desc">A circular loop of four labeled steps with arrows: choose a goal, gather resources, check my progress, and adjust. A figure stands beside the loop, showing a learner steering their own learning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-10-authoring-my-learning desc-L-10-001-10-authoring-my-learning">
+  <title id="title-L-10-001-10-authoring-my-learning">The self-directed learning loop</title>
+  <desc id="desc-L-10-001-10-authoring-my-learning">A circular loop of four labeled steps with arrows: choose a goal, gather resources, check my progress, and adjust. A figure stands beside the loop, showing a learner steering their own learning.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- loop nodes -->
   <g font-family="Georgia, serif" font-size="15" fill="#222222" text-anchor="middle">

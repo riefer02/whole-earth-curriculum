@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Many causes lead to one change, which leads to many consequences</title>
-  <desc id="desc">A cause-and-consequence diagram. On the left, four rounded boxes labeled "cause" with arrows pointing right to a central box labeled "the change." From the central box, three arrows point right to three boxes labeled "consequence." The picture shows that one big change has more than one cause and more than one consequence.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-009-03-many-causes-many-consequences desc-L-07-009-03-many-causes-many-consequences">
+  <title id="title-L-07-009-03-many-causes-many-consequences">Many causes lead to one change, which leads to many consequences</title>
+  <desc id="desc-L-07-009-03-many-causes-many-consequences">A cause-and-consequence diagram. On the left, four rounded boxes labeled "cause" with arrows pointing right to a central box labeled "the change." From the central box, three arrows point right to three boxes labeled "consequence." The picture shows that one big change has more than one cause and more than one consequence.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">One change, many causes, many results</text>
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="24.8" font-weight="bold" fill="#2b3a42">One change, many causes, many results</text>
 
   <!-- Causes -->
   <g font-family="sans-serif">

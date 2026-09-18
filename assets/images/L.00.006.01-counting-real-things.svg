@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Counting real things: one number for each thing</title>
-  <desc id="desc">A pointing hand touches the first of five found objects in a row: a smooth pebble, a ridged shell, a seed, a leaf, and a second pebble. Directly under each object is a number from 1 to 5, one number for each thing, so a learner sees one-to-one correspondence. Below, a strip shows five tally marks as another way people count, with a caption that counting is done in many ways and numerals are one system among many. Shapes, labels, and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-006-01-counting-real-things desc-L-00-006-01-counting-real-things">
+  <title id="title-L-00-006-01-counting-real-things">Counting real things: one number for each thing</title>
+  <desc id="desc-L-00-006-01-counting-real-things">A pointing hand touches the first of five found objects in a row: a smooth pebble, a ridged shell, a seed, a leaf, and a second pebble. Directly under each object is a number from 1 to 5, one number for each thing, so a learner sees one-to-one correspondence. Below, a strip shows five tally marks as another way people count, with a caption that counting is done in many ways and numerals are one system among many. Shapes, labels, and numbers carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -41,7 +41,7 @@
     <text x="438" y="302">5</text>
   </g>
 
-  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">One thing = one number. The last number you say is how many: five.</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">One thing = one number. The last number you say is how many: five.</text>
 
   <!-- Tally marks: another way people count -->
   <rect x="88" y="374" width="336" height="108" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>

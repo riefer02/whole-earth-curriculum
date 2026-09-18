@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Rules of the game</title>
-  <desc id="desc">Three numbered rule cards in a row. Card 1 shows a child passing a ball to a teammate, labeled "pass to a teammate." Card 2 shows a circle with a child inside, labeled "stay inside the circle." Card 3 shows several children with a check mark, labeled "everyone gets a turn."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-002-08-rules-of-the-game desc-L-04-002-08-rules-of-the-game">
+  <title id="title-L-04-002-08-rules-of-the-game">Rules of the game</title>
+  <desc id="desc-L-04-002-08-rules-of-the-game">Three numbered rule cards in a row. Card 1 shows a child passing a ball to a teammate, labeled "pass to a teammate." Card 2 shows a circle with a child inside, labeled "stay inside the circle." Card 3 shows several children with a check mark, labeled "everyone gets a turn."</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

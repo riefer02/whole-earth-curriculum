@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My self-care plan</title>
-  <desc id="desc">A one-page plan diagram titled "my self-care plan." Three boxes: "my trusted person — someone I can talk to" (two figures, one listening); "my self-care action — what I do when I notice stress" (a glass of water, slow breaths, and a figure stretching); and "what I know now" (small icons for the unit's ideas — a growing figure, a plate of food, a road, a phone). A caption reads "A plan I can carry forward." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-008-08-self-care-plan desc-L-06-008-08-self-care-plan">
+  <title id="title-L-06-008-08-self-care-plan">My self-care plan</title>
+  <desc id="desc-L-06-008-08-self-care-plan">A one-page plan diagram titled "my self-care plan." Three boxes: "my trusted person — someone I can talk to" (two figures, one listening); "my self-care action — what I do when I notice stress" (a glass of water, slow breaths, and a figure stretching); and "what I know now" (small icons for the unit's ideas — a growing figure, a plate of food, a road, a phone). A caption reads "A plan I can carry forward." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -42,7 +42,7 @@
   <rect x="172" y="404" width="24" height="20" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <rect x="232" y="400" width="34" height="24" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="300" y="404" font-family="sans-serif" font-size="14" fill="#222222">puberty + every pace normal</text>
-  <text x="300" y="422" font-family="sans-serif" font-size="14" fill="#222222">fuel · food journey · safer choices</text>
+  <text x="300" y="422" font-family="sans-serif" font-size="12" fill="#222222">fuel · food journey · safer choices</text>
 
   <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">A plan I can carry forward.</text>
 </svg>

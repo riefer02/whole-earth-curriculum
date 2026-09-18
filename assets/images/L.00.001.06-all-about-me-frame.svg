@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What makes me, me: a four-part "Me" frame</title>
-  <desc id="desc">A single frame divided into four labeled spaces for a "Me" sheet: "my name" shows a blank name tag, "things I like" shows a heart and a star, "things I can do" shows an open hand, and "my people" shows two small figures, one taller and one shorter. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale. The blank white spaces invite a learner to draw their own answers.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-06-all-about-me-frame desc-L-00-001-06-all-about-me-frame">
+  <title id="title-L-00-001-06-all-about-me-frame">What makes me, me: a four-part "Me" frame</title>
+  <desc id="desc-L-00-001-06-all-about-me-frame">A single frame divided into four labeled spaces for a "Me" sheet: "my name" shows a blank name tag, "things I like" shows a heart and a star, "things I can do" shows an open hand, and "my people" shows two small figures, one taller and one shorter. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale. The blank white spaces invite a learner to draw their own answers.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

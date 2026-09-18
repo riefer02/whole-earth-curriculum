@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Proving with Vectors</title>
-  <desc id="desc">A parallelogram with vertices O, A, C, and B, position vectors a and b drawn from O, and both diagonals drawn crossing at a point M. The vector equations show the midpoint of each diagonal is (a plus b) over 2, so the diagonals bisect each other.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-10-proving-with-vectors desc-L-12-005-10-proving-with-vectors">
+  <title id="title-L-12-005-10-proving-with-vectors">Proving with Vectors</title>
+  <desc id="desc-L-12-005-10-proving-with-vectors">A parallelogram with vertices O, A, C, and B, position vectors a and b drawn from O, and both diagonals drawn crossing at a point M. The vector equations show the midpoint of each diagonal is (a plus b) over 2, so the diagonals bisect each other.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Proof: The Diagonals of a Parallelogram Bisect</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="19.9" fill="#2b3a42" font-weight="bold">Proof: The Diagonals of a Parallelogram Bisect</text>
 
   <!-- parallelogram: O(110,340), A(330,340), C(250,120), B(30,120) -->
   <polygon points="110,340 330,340 250,120 30,120" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>

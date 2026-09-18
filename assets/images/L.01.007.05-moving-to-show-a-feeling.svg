@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Moving to show a feeling: the body is a language</title>
-  <desc id="desc">Three panels show the same idea — that a body can show a feeling without words. The first panel, labeled "happy," shows a light-skinned child with a hearing aid, arms raised and open, with little bounce arcs above the head, and the note "bouncy and open." The second panel, labeled "angry," shows a deep-brown-skinned child with slanted brows and tight fists pulled close to the body, with quick motion ticks, and the note "tight and fast." The third panel, labeled "tired," shows a medium-brown-skinned child with closed eyes and a drooping head, arms hanging heavy, with the note "slow and heavy." Below, a child in a wheelchair with open, raised arms is labeled "seated is equal." Every meaning is carried by the posture and the words, not color, so the picture prints clearly in grayscale and teaches that every body tells its own true feeling and there is no wrong way to move.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-007-05-moving-to-show-a-feeling desc-L-01-007-05-moving-to-show-a-feeling">
+  <title id="title-L-01-007-05-moving-to-show-a-feeling">Moving to show a feeling: the body is a language</title>
+  <desc id="desc-L-01-007-05-moving-to-show-a-feeling">Three panels show the same idea — that a body can show a feeling without words. The first panel, labeled "happy," shows a light-skinned child with a hearing aid, arms raised and open, with little bounce arcs above the head, and the note "bouncy and open." The second panel, labeled "angry," shows a deep-brown-skinned child with slanted brows and tight fists pulled close to the body, with quick motion ticks, and the note "tight and fast." The third panel, labeled "tired," shows a medium-brown-skinned child with closed eyes and a drooping head, arms hanging heavy, with the note "slow and heavy." Below, a child in a wheelchair with open, raised arms is labeled "seated is equal." Every meaning is carried by the posture and the words, not color, so the picture prints clearly in grayscale and teaches that every body tells its own true feeling and there is no wrong way to move.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -110,6 +110,6 @@
     <circle cx="218" cy="452" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="294" cy="452" r="24" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
     <circle cx="294" cy="452" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">seated is equal — a happy body can be open arms, right where you are</text>
+    <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">seated is equal — a happy body can be open arms, right where you are</text>
   </g>
 </svg>

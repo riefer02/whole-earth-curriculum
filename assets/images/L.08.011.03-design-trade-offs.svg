@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Design trade-offs among cost, safety, access, and environment</title>
-  <desc id="desc">A diagram with a design choice at the center and four labeled corners — cost, safety, access, and environment — with a kerosene lamp and a solar lamp on either side, showing how improving one corner often costs another.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-011-03-design-trade-offs desc-L-08-011-03-design-trade-offs">
+  <title id="title-L-08-011-03-design-trade-offs">Design trade-offs among cost, safety, access, and environment</title>
+  <desc id="desc-L-08-011-03-design-trade-offs">A diagram with a design choice at the center and four labeled corners — cost, safety, access, and environment — with a kerosene lamp and a solar lamp on either side, showing how improving one corner often costs another.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Design Trade-offs</text>
@@ -35,7 +35,7 @@
     <path d="M104 436 q4 -10 0 -16 q-4 -6 0 -14" fill="none" stroke="#e0a458" stroke-width="3"/>
   </g>
   <text x="108" y="496" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">kerosene</text>
-  <text x="108" y="510" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">cheap · smoky</text>
+  <text x="108" y="510" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">cheap · smoky</text>
 
   <!-- solar lamp -->
   <g>
@@ -45,7 +45,7 @@
     <circle cx="372" cy="440" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
   </g>
   <text x="372" y="496" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">solar</text>
-  <text x="372" y="510" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">clean · costly</text>
+  <text x="372" y="510" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">clean · costly</text>
 
   <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">you can have one good — but it costs another</text>
 </svg>

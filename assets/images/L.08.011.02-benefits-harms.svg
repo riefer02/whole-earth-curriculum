@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Who benefits, who is harmed: weighing a technology</title>
-  <desc id="desc">A balance scale with benefits on one pan and harms on the other, and small labeled figures of different people — a farmer, a worker, an elder, a child, and a miner — arranged around it, showing that the same technology helps some and burdens others.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-011-02-benefits-harms desc-L-08-011-02-benefits-harms">
+  <title id="title-L-08-011-02-benefits-harms">Who benefits, who is harmed: weighing a technology</title>
+  <desc id="desc-L-08-011-02-benefits-harms">A balance scale with benefits on one pan and harms on the other, and small labeled figures of different people — a farmer, a worker, an elder, a child, and a miner — arranged around it, showing that the same technology helps some and burdens others.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Who Benefits, Who Is Harmed?</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">How objects move: push, pull, roll, slide</title>
-  <desc id="desc">Four labeled cards showing ways objects move. A hand pushes a block away, a hand pulls a rope toward, a ball rolls with a turning arrow, and a block slides flat with a straight arrow. Each card has a written word and motion arrows, so meaning is carried by words and shapes, not color alone, and it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-006-07-how-objects-move desc-L-01-006-07-how-objects-move">
+  <title id="title-L-01-006-07-how-objects-move">How objects move: push, pull, roll, slide</title>
+  <desc id="desc-L-01-006-07-how-objects-move">Four labeled cards showing ways objects move. A hand pushes a block away, a hand pulls a rope toward, a ball rolls with a turning arrow, and a block slides flat with a straight arrow. Each card has a written word and motion arrows, so meaning is carried by words and shapes, not color alone, and it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -64,5 +64,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Push and pull start things; a hand, a wall, or the ground stops them.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">Push and pull start things; a hand, a wall, or the ground stops them.</text>
 </svg>

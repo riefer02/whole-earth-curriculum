@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Populations, communities, and the predator-prey cycle</title>
-  <desc id="desc">A three-part diagram. The top left panel shows many grasshoppers inside a dashed oval labeled "A POPULATION: all the grasshoppers in this meadow." The top right panel shows grass, a grasshopper, a mouse, and a hawk together, labeled "A COMMUNITY: all the living things there together." The bottom panel shows a four-step cycle of predator and prey: "Many mice, so hawks eat well," "Hawk numbers rise," "Fewer mice, so hawks eat less," "Hawk numbers fall, mice recover, and the cycle repeats." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-011-05-population-community-predator-prey desc-L-06-011-05-population-community-predator-prey">
+  <title id="title-L-06-011-05-population-community-predator-prey">Populations, communities, and the predator-prey cycle</title>
+  <desc id="desc-L-06-011-05-population-community-predator-prey">A three-part diagram. The top left panel shows many grasshoppers inside a dashed oval labeled "A POPULATION: all the grasshoppers in this meadow." The top right panel shows grass, a grasshopper, a mouse, and a hawk together, labeled "A COMMUNITY: all the living things there together." The bottom panel shows a four-step cycle of predator and prey: "Many mice, so hawks eat well," "Hawk numbers rise," "Fewer mice, so hawks eat less," "Hawk numbers fall, mice recover, and the cycle repeats." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -68,16 +68,16 @@
     <text x="372" y="374" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Hawk numbers fall,</text>
     <text x="372" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">mice recover.</text>
     <!-- arrows -->
-    <path d="M240 318 L272 318" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow)"/>
-    <path d="M372 344 L372 356" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow)"/>
-    <path d="M272 382 L240 382" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow)"/>
-    <path d="M140 356 L140 344" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M240 318 L272 318" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow-L-06-011-05-population-community-predator-prey)"/>
+    <path d="M372 344 L372 356" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow-L-06-011-05-population-community-predator-prey)"/>
+    <path d="M272 382 L240 382" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow-L-06-011-05-population-community-predator-prey)"/>
+    <path d="M140 356 L140 344" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow-L-06-011-05-population-community-predator-prey)"/>
     <defs>
-      <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <marker id="arrow-L-06-011-05-population-community-predator-prey" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
         <path d="M0 0 L6 3 L0 6 Z" fill="#2b3a42"/>
       </marker>
     </defs>
   </g>
 
-  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" font-style="italic" fill="#4f6d7a">A population is one kind of life; a community is all of it, woven together.</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="12.2" font-style="italic" fill="#4f6d7a">A population is one kind of life; a community is all of it, woven together.</text>
 </svg>

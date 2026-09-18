@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Imagine, plan, make, improve: the design loop</title>
-  <desc id="desc">A four-step design loop is shown as four boxes joined by curved arrows forming a circle. The boxes are: imagine (with a thought bubble holding a small cup), plan (with a small sketch on paper), make (with a hand and a built cup), and improve (with a test-and-fix arrow). Each box is labeled, and a center label reads "a loop, not a line." Labels and icons carry all meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-007-07-imagine-plan-make-improve desc-L-03-007-07-imagine-plan-make-improve">
+  <title id="title-L-03-007-07-imagine-plan-make-improve">Imagine, plan, make, improve: the design loop</title>
+  <desc id="desc-L-03-007-07-imagine-plan-make-improve">A four-step design loop is shown as four boxes joined by curved arrows forming a circle. The boxes are: imagine (with a thought bubble holding a small cup), plan (with a small sketch on paper), make (with a hand and a built cup), and improve (with a test-and-fix arrow). Each box is labeled, and a center label reads "a loop, not a line." Labels and icons carry all meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -53,5 +53,5 @@
 
   <text x="256" y="266" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a loop, not a line</text>
 
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">test it, fix it, test again — that is how good things get made</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">test it, fix it, test again — that is how good things get made</text>
 </svg>

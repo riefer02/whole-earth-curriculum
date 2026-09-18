@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Meet the marks: many writing systems side by side</title>
-  <desc id="desc">Eight cards in a grid show marks from different writing systems of the world, each labeled with its script name: Latin (A), Cyrillic (Ж), Arabic (an isolated letter with a dot), Devanagari (म), Chinese (山, the mark for mountain), Ethiopic (ሀ), and Hangul (한). An eighth card is empty with a dotted outline and the label "Yours!", a place for the learner's own home writing system. Every card is equal in size and none is marked as better, so the picture prints clearly in grayscale and teaches that many writing systems exist and each one is a full, beautiful, equal way of writing.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-005-05-many-writing-systems desc-L-00-005-05-many-writing-systems">
+  <title id="title-L-00-005-05-many-writing-systems">Meet the marks: many writing systems side by side</title>
+  <desc id="desc-L-00-005-05-many-writing-systems">Eight cards in a grid show marks from different writing systems of the world, each labeled with its script name: Latin (A), Cyrillic (Ж), Arabic (an isolated letter with a dot), Devanagari (म), Chinese (山, the mark for mountain), Ethiopic (ሀ), and Hangul (한). An eighth card is empty with a dotted outline and the label "Yours!", a place for the learner's own home writing system. Every card is equal in size and none is marked as better, so the picture prints clearly in grayscale and teaches that many writing systems exist and each one is a full, beautiful, equal way of writing.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -22,7 +22,7 @@
 
     <rect x="380" y="84" width="112" height="132" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="436" y="146">म</text>
-    <text x="436" y="200" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">Devanagari</text>
+    <text x="436" y="200" font-family="sans-serif" font-size="13.1" font-weight="bold" fill="#4f6d7a">Devanagari</text>
 
     <!-- Row 2 -->
     <rect x="20" y="248" width="112" height="132" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -43,5 +43,5 @@
     <text x="436" y="360" font-family="sans-serif" font-size="12" fill="#4f6d7a">(your home script)</text>
   </g>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every writing system is a treasure — none is "the real one."</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">Every writing system is a treasure — none is "the real one."</text>
 </svg>

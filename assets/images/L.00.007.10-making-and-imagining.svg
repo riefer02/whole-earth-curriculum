@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Making and imagining: draw, sing, move, and build</title>
-  <desc id="desc">Four panels show the four ways of making and imagining. The first shows a hand with a pencil drawing a circle on paper, labeled "make — draw". The second shows two hands clapping beside a music note, labeled "sing — clap". The third shows a child with arms raised dancing, labeled "move — dance". The fourth shows a stack of blocks, labeled "build". Each panel is labeled with its way of making, so the picture prints clearly in grayscale and teaches that drawing, music, movement, and building are all ways of making and imagining, and every piece has a story.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-007-10-making-and-imagining desc-L-00-007-10-making-and-imagining">
+  <title id="title-L-00-007-10-making-and-imagining">Making and imagining: draw, sing, move, and build</title>
+  <desc id="desc-L-00-007-10-making-and-imagining">Four panels show the four ways of making and imagining. The first shows a hand with a pencil drawing a circle on paper, labeled "make — draw". The second shows two hands clapping beside a music note, labeled "sing — clap". The third shows a child with arms raised dancing, labeled "move — dance". The fourth shows a stack of blocks, labeled "build". Each panel is labeled with its way of making, so the picture prints clearly in grayscale and teaches that drawing, music, movement, and building are all ways of making and imagining, and every piece has a story.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -70,5 +70,5 @@
     <text x="376" y="412" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">build</text>
   </g>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Drawing, music, movement, and building — every piece has a story.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Drawing, music, movement, and building — every piece has a story.</text>
 </svg>

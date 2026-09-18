@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Converting measurement units</title>
-  <desc id="desc">A unit conversion chart with four rows. Row one shows 1 meter equals 100 centimeters. Row two shows 1 kilometer equals 1000 meters. Row three shows 1 kilogram equals 1000 grams. Row four shows 1 liter equals 1000 milliliters. A note reads "larger to smaller: multiply · smaller to larger: divide." Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-13-converting-units desc-L-05-006-13-converting-units">
+  <title id="title-L-05-006-13-converting-units">Converting measurement units</title>
+  <desc id="desc-L-05-006-13-converting-units">A unit conversion chart with four rows. Row one shows 1 meter equals 100 centimeters. Row two shows 1 kilometer equals 1000 meters. Row three shows 1 kilogram equals 1000 grams. Row four shows 1 liter equals 1000 milliliters. A note reads "larger to smaller: multiply · smaller to larger: divide." Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What living things need</title>
-  <desc id="desc">A plant grows in the center. Around it, four labeled cards point to what it needs: the sun, water, food from the soil, and air. Each need has a simple drawing and a word label, and arrows point from each need to the plant. The four needs are shown with different shapes and labels, so the picture prints clearly in grayscale and shows that every living thing needs sun, water, food, and air to live and grow.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-012-05-what-living-things-need desc-L-00-012-05-what-living-things-need">
+  <title id="title-L-00-012-05-what-living-things-need">What living things need</title>
+  <desc id="desc-L-00-012-05-what-living-things-need">A plant grows in the center. Around it, four labeled cards point to what it needs: the sun, water, food from the soil, and air. Each need has a simple drawing and a word label, and arrows point from each need to the plant. The four needs are shown with different shapes and labels, so the picture prints clearly in grayscale and shows that every living thing needs sun, water, food, and air to live and grow.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <!-- Header -->
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Living Things Need</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Sun, water, food, and air — every living thing needs these gifts.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Sun, water, food, and air — every living thing needs these gifts.</text>
 
   <!-- ===== Central plant ===== -->
   <g>
@@ -75,5 +75,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The Earth is the home that gives all living things what they need.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">The Earth is the home that gives all living things what they need.</text>
 </svg>

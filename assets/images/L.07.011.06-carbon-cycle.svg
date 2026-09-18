@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The carbon cycle in a forest</title>
-  <desc id="desc">A loop diagram of the carbon cycle in a forest: a tree takes in carbon dioxide (photosynthesis), an animal breathes out carbon dioxide (respiration), dead leaves and wood decay on the ground (decomposition), and carbon returns to the air and soil. Arrows connect the parts in a cycle, with the note "carbon is reused, not created new".</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-011-06-carbon-cycle desc-L-07-011-06-carbon-cycle">
+  <title id="title-L-07-011-06-carbon-cycle">The carbon cycle in a forest</title>
+  <desc id="desc-L-07-011-06-carbon-cycle">A loop diagram of the carbon cycle in a forest: a tree takes in carbon dioxide (photosynthesis), an animal breathes out carbon dioxide (respiration), dead leaves and wood decay on the ground (decomposition), and carbon returns to the air and soil. Arrows connect the parts in a cycle, with the note "carbon is reused, not created new".</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -29,9 +29,9 @@
 
   <!-- arrows forming the loop -->
   <g stroke="#2b3a42" stroke-width="2.5" fill="none">
-    <path d="M296 176 C330 176 330 150 354 150" marker-end="url(#ar6)"/>
-    <path d="M360 168 C360 260 300 300 240 320" marker-end="url(#ar6)"/>
-    <path d="M120 300 C90 240 150 190 205 176" marker-end="url(#ar6)"/>
+    <path d="M296 176 C330 176 330 150 354 150" marker-end="url(#ar6-L-07-011-06-carbon-cycle)"/>
+    <path d="M360 168 C360 260 300 300 240 320" marker-end="url(#ar6-L-07-011-06-carbon-cycle)"/>
+    <path d="M120 300 C90 240 150 190 205 176" marker-end="url(#ar6-L-07-011-06-carbon-cycle)"/>
   </g>
 
   <!-- atmosphere label -->
@@ -39,7 +39,7 @@
   <path d="M118 82 C150 60 200 50 246 108" stroke="#4f6d7a" stroke-width="2" fill="none" stroke-dasharray="5 4"/>
 
   <defs>
-    <marker id="ar6" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar6-L-07-011-06-carbon-cycle" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
   </defs>

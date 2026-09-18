@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My body toolkit</title>
-  <desc id="desc">A page divided into four labeled boxes like a kit. Box one "my tension map" shows a small body with a shaded spot; box two "my release technique" shows an open hand labeled "squeeze, then let go"; box three "my skill log" shows tally marks and four footprints; box four "my teamwork reflection" shows four figures in a circle. A header reads "My body toolkit." Labels, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-002-08-my-body-toolkit desc-L-06-002-08-my-body-toolkit">
+  <title id="title-L-06-002-08-my-body-toolkit">My body toolkit</title>
+  <desc id="desc-L-06-002-08-my-body-toolkit">A page divided into four labeled boxes like a kit. Box one "my tension map" shows a small body with a shaded spot; box two "my release technique" shows an open hand labeled "squeeze, then let go"; box three "my skill log" shows tally marks and four footprints; box four "my teamwork reflection" shows four figures in a circle. A header reads "My body toolkit." Labels, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -53,5 +53,5 @@
   <text x="376" y="352" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a role I shared,</text>
   <text x="376" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a word that encouraged</text>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Notice, release, move, belong — my toolkit for life.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17.6" fill="#2b3a42">Notice, release, move, belong — my toolkit for life.</text>
 </svg>

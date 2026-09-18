@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Big movements</title>
-  <desc id="desc">Four big movements shown side by side: run, hop, jump, and gallop, each as a simple child figure with a word label. Below them, an equal-width band shows a child in a wheelchair rolling and gliding with one arm raised, labeled roll and glide. Labels carry the meaning, so color is never the only signal. Every way of moving big is shown as equal.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-008-01-big-movements desc-L-00-008-01-big-movements">
+  <title id="title-L-00-008-01-big-movements">Big movements</title>
+  <desc id="desc-L-00-008-01-big-movements">Four big movements shown side by side: run, hop, jump, and gallop, each as a simple child figure with a word label. Below them, an equal-width band shows a child in a wheelchair rolling and gliding with one arm raised, labeled roll and glide. Labels carry the meaning, so color is never the only signal. Every way of moving big is shown as equal.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Big Movements</text>

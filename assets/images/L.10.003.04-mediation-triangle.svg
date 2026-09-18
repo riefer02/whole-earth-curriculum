@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">When it's too big: seeking mediation</title>
-  <desc id="desc">A mediation triangle with two parties at the base corners facing each other and a neutral mediator at the apex. Labels show the steps: listen, restate each side, and find a fair solution both accept. A side panel lists the four "too big to solve alone" signs: safety, power imbalance, repeated harm, and stuck pattern.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-003-04-mediation-triangle desc-L-10-003-04-mediation-triangle">
+  <title id="title-L-10-003-04-mediation-triangle">When it's too big: seeking mediation</title>
+  <desc id="desc-L-10-003-04-mediation-triangle">A mediation triangle with two parties at the base corners facing each other and a neutral mediator at the apex. Labels show the steps: listen, restate each side, and find a fair solution both accept. A side panel lists the four "too big to solve alone" signs: safety, power imbalance, repeated harm, and stuck pattern.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -51,7 +51,7 @@
     <text x="88" y="148" text-anchor="middle">&#9679; harm repeats</text>
     <text x="88" y="170" text-anchor="middle">&#9679; fight stuck</text>
   </g>
-  <text x="88" y="196" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#8a6d4a">ask for help</text>
+  <text x="88" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#8a6d4a">ask for help</text>
 
-  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Asking for a mediator is not losing — it is how the hardest conflicts are handled.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Asking for a mediator is not losing — it is how the hardest conflicts are handled.</text>
 </svg>

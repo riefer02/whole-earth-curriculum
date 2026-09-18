@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Area of a rectangle: four rows of six is twenty-four square units</title>
-  <desc id="desc">A rectangle tiled into four rows of six unit squares, totaling twenty-four squares. Labels show count the squares equals twenty-four, and rows times columns, four times six equals twenty-four, with the note area is how much surface is covered.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-005-10-area-of-rectangles desc-L-03-005-10-area-of-rectangles">
+  <title id="title-L-03-005-10-area-of-rectangles">Area of a rectangle: four rows of six is twenty-four square units</title>
+  <desc id="desc-L-03-005-10-area-of-rectangles">A rectangle tiled into four rows of six unit squares, totaling twenty-four squares. Labels show count the squares equals twenty-four, and rows times columns, four times six equals twenty-four, with the note area is how much surface is covered.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

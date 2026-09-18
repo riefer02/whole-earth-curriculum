@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A feeling story: beginning, middle, end</title>
-  <desc id="desc">Three empty panels in a row, read left to right. The first panel is labeled "Beginning — how I felt first," the second "Middle — how it changed," and the third "End — how I felt last." The panels are blank so a learner can draw or write their own feeling story inside. Arrows join the panels. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-001-03-feeling-story desc-L-03-001-03-feeling-story">
+  <title id="title-L-03-001-03-feeling-story">A feeling story: beginning, middle, end</title>
+  <desc id="desc-L-03-001-03-feeling-story">Three empty panels in a row, read left to right. The first panel is labeled "Beginning — how I felt first," the second "Middle — how it changed," and the third "End — how I felt last." The panels are blank so a learner can draw or write their own feeling story inside. Arrows join the panels. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

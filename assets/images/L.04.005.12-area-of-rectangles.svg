@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Area of a 6 by 4 rectangle</title>
-  <desc id="desc">A rectangle 6 units wide and 4 units tall, tiled with 24 unit squares arranged in 4 rows of 6. The length 6 and width 4 are labeled. Beside it, the formula area equals length times width is shown as 6 times 4 equals 24 square units.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-12-area-of-rectangles desc-L-04-005-12-area-of-rectangles">
+  <title id="title-L-04-005-12-area-of-rectangles">Area of a 6 by 4 rectangle</title>
+  <desc id="desc-L-04-005-12-area-of-rectangles">A rectangle 6 units wide and 4 units tall, tiled with 24 unit squares arranged in 4 rows of 6. The length 6 and width 4 are labeled. Beside it, the formula area equals length times width is shown as 6 times 4 equals 24 square units.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

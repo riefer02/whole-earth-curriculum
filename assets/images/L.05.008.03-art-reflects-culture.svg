@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
-  <title id="title">Art reflects place, materials, and beliefs</title>
-  <desc id="desc">A two-panel comparison titled "Art reflects place, materials, and beliefs." The left panel, labeled "Māori whakairo (Aotearoa New Zealand)," shows a carved wooden panel with a spiral fern-frond pattern and a carved figure; labels read "carved wood — forest material," "koru spiral — the unfurling fern of Aotearoa," and "carved ancestor — belonging (whakapapa)." The right panel, labeled "Adinkra cloth (Ghana)," shows a cloth covered in stamped symbols; labels read "cotton cloth — plant dye," "stamped symbols — each is a proverb," and "worn at ceremonies and in daily life." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title-L-05-008-03-art-reflects-culture desc-L-05-008-03-art-reflects-culture">
+  <title id="title-L-05-008-03-art-reflects-culture">Art reflects place, materials, and beliefs</title>
+  <desc id="desc-L-05-008-03-art-reflects-culture">A two-panel comparison titled "Art reflects place, materials, and beliefs." The left panel, labeled "Māori whakairo (Aotearoa New Zealand)," shows a carved wooden panel with a spiral fern-frond pattern and a carved figure; labels read "carved wood — forest material," "koru spiral — the unfurling fern of Aotearoa," and "carved ancestor — belonging (whakapapa)." The right panel, labeled "Adinkra cloth (Ghana)," shows a cloth covered in stamped symbols; labels read "cotton cloth — plant dye," "stamped symbols — each is a proverb," and "worn at ceremonies and in daily life." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="480" fill="#fdfbf7"/>
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Art Reflects Place, Materials, and Beliefs</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21.8" font-weight="bold" fill="#2b3a42">Art Reflects Place, Materials, and Beliefs</text>
 
   <!-- Left panel: Māori whakairo -->
   <rect x="24" y="66" width="222" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

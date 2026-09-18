@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Rational and irrational numbers on the number line</title>
-  <desc id="desc">A number line from negative 2 to 5. Rational numbers — negative 4, 1/2, 0.75, 3 — are shown as filled dots with labels. Irrational numbers — the square root of 2 near 1.4 and pi near 3.14 — are shown as open dots. A side panel states the test: a rational number can be written as a/b with a terminating or repeating decimal; an irrational number cannot. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-005-02-rational-irrational-number-line desc-L-08-005-02-rational-irrational-number-line">
+  <title id="title-L-08-005-02-rational-irrational-number-line">Rational and irrational numbers on the number line</title>
+  <desc id="desc-L-08-005-02-rational-irrational-number-line">A number line from negative 2 to 5. Rational numbers — negative 4, 1/2, 0.75, 3 — are shown as filled dots with labels. Irrational numbers — the square root of 2 near 1.4 and pi near 3.14 — are shown as open dots. A side panel states the test: a rational number can be written as a/b with a terminating or repeating decimal; an irrational number cannot. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Rational and Irrational Numbers</text>

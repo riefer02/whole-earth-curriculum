@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Scaled picture graph and bar graph of the same data</title>
-  <desc id="desc">The same how-children-get-to-school data shown two ways with a scale of one symbol for two children. On the left a scaled picture graph with walking four symbols, riding two symbols, and bus three symbols. On the right a scaled bar graph with the same counts. A key reads one symbol equals two children, and a finding card reads four more children walk than ride, from two symbols more times two equals four.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-005-16-scaled-graphs desc-L-03-005-16-scaled-graphs">
+  <title id="title-L-03-005-16-scaled-graphs">Scaled picture graph and bar graph of the same data</title>
+  <desc id="desc-L-03-005-16-scaled-graphs">The same how-children-get-to-school data shown two ways with a scale of one symbol for two children. On the left a scaled picture graph with walking four symbols, riding two symbols, and bus three symbols. On the right a scaled bar graph with the same counts. A key reads one symbol equals two children, and a finding card reads four more children walk than ride, from two symbols more times two equals four.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Scaled Graphs (1 symbol = 2 children)</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24.8" font-weight="bold" fill="#2b3a42">Scaled Graphs (1 symbol = 2 children)</text>
 
   <!-- Picture graph -->
   <text x="130" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">Picture graph</text>

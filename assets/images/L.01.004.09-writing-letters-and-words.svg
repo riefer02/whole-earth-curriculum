@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Writing keeps your word</title>
-  <desc id="desc">Two panels show how a mark is formed so a word stays. The top panel shows a large dotted Latin letter "b" with a numbered arrow showing where to start and which way to move, labeled "trace the shape." The bottom panel shows a hand holding a stick writing in the sand, with a trail of marks behind it, and a hand tracing a Devanagari mark in the air, labeled "write in sand, air, or on paper." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to form the marks of their own writing system slowly and carefully — writing turns a spoken word into marks that last.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-004-09-writing-letters-and-words desc-L-01-004-09-writing-letters-and-words">
+  <title id="title-L-01-004-09-writing-letters-and-words">Writing keeps your word</title>
+  <desc id="desc-L-01-004-09-writing-letters-and-words">Two panels show how a mark is formed so a word stays. The top panel shows a large dotted Latin letter "b" with a numbered arrow showing where to start and which way to move, labeled "trace the shape." The bottom panel shows a hand holding a stick writing in the sand, with a trail of marks behind it, and a hand tracing a Devanagari mark in the air, labeled "write in sand, air, or on paper." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to form the marks of their own writing system slowly and carefully — writing turns a spoken word into marks that last.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -41,5 +41,5 @@
   <text x="400" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">trace in the air</text>
   <text x="400" y="382" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">with your whole arm</text>
 
-  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your marks keep your words — for someone far away or years later.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Your marks keep your words — for someone far away or years later.</text>
 </svg>

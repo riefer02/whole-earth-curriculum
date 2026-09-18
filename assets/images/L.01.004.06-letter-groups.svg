@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Marks travel in groups</title>
-  <desc id="desc">Two panels show that marks often stay together as one group or chunk. The top panel shows a Latin letter group "sh" highlighted with a rounded outline, and it is found inside the word "ship" where "sh" is underlined, with the label "a letter group stays together." The bottom panel shows a Hangul syllable block 한 drawn as one connected block with a hand clapping once beside it, labeled "a syllable block is one chunk — clap once." A caption reminds learners that different writing systems build their groups in their own way. The outlines, underlines, and labels carry the meaning, so the picture prints clearly in grayscale and teaches learners to spot and read groups of marks as one part.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-004-06-letter-groups desc-L-01-004-06-letter-groups">
+  <title id="title-L-01-004-06-letter-groups">Marks travel in groups</title>
+  <desc id="desc-L-01-004-06-letter-groups">Two panels show that marks often stay together as one group or chunk. The top panel shows a Latin letter group "sh" highlighted with a rounded outline, and it is found inside the word "ship" where "sh" is underlined, with the label "a letter group stays together." The bottom panel shows a Hangul syllable block 한 drawn as one connected block with a hand clapping once beside it, labeled "a syllable block is one chunk — clap once." A caption reminds learners that different writing systems build their groups in their own way. The outlines, underlines, and labels carry the meaning, so the picture prints clearly in grayscale and teaches learners to spot and read groups of marks as one part.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -38,5 +38,5 @@
   </g>
   <text x="300" y="408" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">clap once for the whole group</text>
 
-  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Different writing systems build their groups in their own way.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">Different writing systems build their groups in their own way.</text>
 </svg>

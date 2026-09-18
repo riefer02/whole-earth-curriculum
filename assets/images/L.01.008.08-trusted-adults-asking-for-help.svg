@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Trusted adults and asking for help</title>
-  <desc id="desc">A child raises one hand and says I need help in a speech bubble, while a trusted grown-up who uses a wheelchair sits nearby with an open, welcoming hand; both are labeled. Below, a large open help hand has one kind of trusted adult named at each finger: caregiver, grandparent, teacher, nurse, and neighbor. The message is warm and safe, and labels carry the meaning so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-008-08-trusted-adults-asking-for-help desc-L-01-008-08-trusted-adults-asking-for-help">
+  <title id="title-L-01-008-08-trusted-adults-asking-for-help">Trusted adults and asking for help</title>
+  <desc id="desc-L-01-008-08-trusted-adults-asking-for-help">A child raises one hand and says I need help in a speech bubble, while a trusted grown-up who uses a wheelchair sits nearby with an open, welcoming hand; both are labeled. Below, a large open help hand has one kind of trusted adult named at each finger: caregiver, grandparent, teacher, nurse, and neighbor. The message is warm and safe, and labels carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Trusted Adults and Asking for Help</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27.0" font-weight="bold" fill="#2b3a42">Trusted Adults and Asking for Help</text>
 
   <!-- Ground -->
   <rect x="0" y="300" width="512" height="12" fill="#dbe6d2"/>
@@ -73,7 +73,7 @@
   <text x="290" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">nurse</text>
   <text x="328" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">neighbor</text>
 
-  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">You choose who you trust — one trusted adult on each finger.</text>
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="15.3" font-weight="bold" fill="#2b3a42">You choose who you trust — one trusted adult on each finger.</text>
   <text x="256" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Asking for help is a strength. Telling is never wrong,</text>
   <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and you are never in trouble for telling.</text>
 </svg>

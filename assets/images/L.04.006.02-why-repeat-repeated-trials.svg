@@ -2,7 +2,7 @@
   <title>Repeated trials cluster close together</title>
   <desc>Three rolls of the same ball down the same ramp. The stopping distance of each roll is marked with a flag labeled Trial 1, Trial 2, and Trial 3. The three marks land close together, showing that repeated trials make a result more trustworthy.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="40" text-anchor="middle" font-size="26" fill="#222222" font-weight="bold">Why repeat? Three trials, close together</text>
+  <text x="256" y="40" text-anchor="middle" font-size="22.9" fill="#222222" font-weight="bold">Why repeat? Three trials, close together</text>
 
   <!-- Ramp -->
   <line x1="60" y1="150" x2="180" y2="90" stroke="#4f6d7a" stroke-width="10" stroke-linecap="round"/>

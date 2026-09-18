@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My communities: I belong to many circles</title>
-  <desc id="desc">Concentric circles radiate outward from a small "me" figure at the center. The rings are labeled from inside out: "the people who care for me," "my class," "my neighborhood," and "my bigger world." Simple icons mark each ring — a heart for the people who care for me, an open book for my class, a house and a tree for my neighborhood, and a small globe for my bigger world. Three small faces with different skin tones sit on the outer ring to show the many people in the wider world. The labels and the shapes carry the meaning, not color, so the picture prints clearly in grayscale and teaches that a person belongs to many communities at once, and that "family" — the people who care for you — comes in many shapes, none of them the only right one.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-003-06-my-communities-circles desc-L-01-003-06-my-communities-circles">
+  <title id="title-L-01-003-06-my-communities-circles">My communities: I belong to many circles</title>
+  <desc id="desc-L-01-003-06-my-communities-circles">Concentric circles radiate outward from a small "me" figure at the center. The rings are labeled from inside out: "the people who care for me," "my class," "my neighborhood," and "my bigger world." Simple icons mark each ring — a heart for the people who care for me, an open book for my class, a house and a tree for my neighborhood, and a small globe for my bigger world. Three small faces with different skin tones sit on the outer ring to show the many people in the wider world. The labels and the shapes carry the meaning, not color, so the picture prints clearly in grayscale and teaches that a person belongs to many communities at once, and that "family" — the people who care for you — comes in many shapes, none of them the only right one.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -74,5 +74,5 @@
   <path d="M328 438 Q332 442 336 438" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
 
   <!-- Bottom note -->
-  <text x="256" y="502.2" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">Families and communities come in many shapes — and you belong to all of yours.</text>
+  <text x="256" y="502.2" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Families and communities come in many shapes — and you belong to all of yours.</text>
 </svg>

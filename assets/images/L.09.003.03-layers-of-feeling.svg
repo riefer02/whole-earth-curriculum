@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reading a complex moment: the layers of feeling</title>
-  <desc id="desc">A stack of four labeled layers from bottom to top: the event, the thought about the event, the subtle feeling, and the secondary feeling about that feeling. An arrow ascends the stack showing how each layer rises from the one below.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-003-03-layers-of-feeling desc-L-09-003-03-layers-of-feeling">
+  <title id="title-L-09-003-03-layers-of-feeling">Reading a complex moment: the layers of feeling</title>
+  <desc id="desc-L-09-003-03-layers-of-feeling">A stack of four labeled layers from bottom to top: the event, the thought about the event, the subtle feeling, and the secondary feeling about that feeling. An arrow ascends the stack showing how each layer rises from the one below.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Layers of a Complex Feeling</text>
@@ -26,11 +26,11 @@
   <text x="96" y="144" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">the feeling about that feeling — shame, pride, guilt</text>
 
   <!-- ascending arrow -->
-  <path d="M256 352 L256 286" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#larr)"/>
-  <path d="M256 264 L256 198" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#larr)"/>
-  <path d="M256 176 L256 110" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#larr)"/>
+  <path d="M256 352 L256 286" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#larr-L-09-003-03-layers-of-feeling)"/>
+  <path d="M256 264 L256 198" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#larr-L-09-003-03-layers-of-feeling)"/>
+  <path d="M256 176 L256 110" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#larr-L-09-003-03-layers-of-feeling)"/>
   <defs>
-    <marker id="larr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="larr-L-09-003-03-layers-of-feeling" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0 0 L8 3 L0 6 Z" fill="#4f6d7a"/>
     </marker>
   </defs>

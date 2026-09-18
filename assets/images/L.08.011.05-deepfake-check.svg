@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Five checks for an altered video</title>
-  <desc id="desc">A checklist graphic showing four grouped checks for a possibly altered video: look (unnatural edges, blinking, lighting), trace (who posted it, where it first appeared), verify (find the original, check independent reporting), and ask (is this too perfect), with a small face under a magnifying glass.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-011-05-deepfake-check desc-L-08-011-05-deepfake-check">
+  <title id="title-L-08-011-05-deepfake-check">Five checks for an altered video</title>
+  <desc id="desc-L-08-011-05-deepfake-check">A checklist graphic showing four grouped checks for a possibly altered video: look (unnatural edges, blinking, lighting), trace (who posted it, where it first appeared), verify (find the original, check independent reporting), and ask (is this too perfect), with a small face under a magnifying glass.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Is This Video Real?</text>

@@ -2,7 +2,7 @@
   <title>Energy moves: heat, sound, and light</title>
   <desc>Three panels showing energy moving from a source to a receiver. First, a hand warms over a flame with an arrow labeled heat. Second, a drum sends sound waves to an ear labeled sound. Third, a lamp sends light rays to a book labeled light. Each panel names a source and a receiver.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="40" text-anchor="middle" font-size="25" fill="#222222" font-weight="bold">Energy moves — and is never destroyed</text>
+  <text x="256" y="40" text-anchor="middle" font-size="24.8" fill="#222222" font-weight="bold">Energy moves — and is never destroyed</text>
 
   <!-- Panel 1: heat -->
   <rect x="30" y="70" width="140" height="240" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>

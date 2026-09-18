@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Evidence and the counterargument</title>
-  <desc id="desc">A complete-argument diagram. At top, the claim "our neighborhood should plant more shade and fruit trees." Below, two reason boxes each carry an evidence line: reason "shade" with evidence "streets with no trees feel far hotter than shaded streets"; reason "fruit" with evidence "a single mango tree can give many baskets of fruit each year." At bottom, a counterargument box reads "some people say trees cost money and need care," and a response box reads "true — trees do need care, but the shade and fruit give back more each year, and we can share the watering." Arrows show the response answering the counterargument. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-004-10-evidence-and-the-counterargument desc-L-06-004-10-evidence-and-the-counterargument">
+  <title id="title-L-06-004-10-evidence-and-the-counterargument">Evidence and the counterargument</title>
+  <desc id="desc-L-06-004-10-evidence-and-the-counterargument">A complete-argument diagram. At top, the claim "our neighborhood should plant more shade and fruit trees." Below, two reason boxes each carry an evidence line: reason "shade" with evidence "streets with no trees feel far hotter than shaded streets"; reason "fruit" with evidence "a single mango tree can give many baskets of fruit each year." At bottom, a counterargument box reads "some people say trees cost money and need care," and a response box reads "true — trees do need care, but the shade and fruit give back more each year, and we can share the watering." Arrows show the response answering the counterargument. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -40,14 +40,14 @@
   <text x="376" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and we can share the watering"</text>
 
   <!-- Arrow: response answers counterargument -->
-  <path d="M248 286 L264 286" stroke="#2b3a42" stroke-width="3" marker-end="url(#e)"/>
+  <path d="M248 286 L264 286" stroke="#2b3a42" stroke-width="3" marker-end="url(#e-L-06-004-10-evidence-and-the-counterargument)"/>
   <defs>
-    <marker id="e" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+    <marker id="e-L-06-004-10-evidence-and-the-counterargument" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
       <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
     </marker>
   </defs>
 
   <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Concede first, then answer.</text>
-  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A strong argument names its weakest point and answers it honestly.</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">A strong argument names its weakest point and answers it honestly.</text>
   <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Evidence is checkable — not just a stronger opinion.</text>
 </svg>

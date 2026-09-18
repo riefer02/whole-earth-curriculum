@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The urgency ladder</title>
-  <desc id="desc">A four-rung ladder for deciding when to seek care: self-manage, routine appointment, urgent soon, and emergency now. Each rung has an example. A blank box at the bottom is left for the learner to fill in their local emergency number. Labels and shapes carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-008-04-urgency-ladder desc-L-11-008-04-urgency-ladder">
+  <title id="title-L-11-008-04-urgency-ladder">The urgency ladder</title>
+  <desc id="desc-L-11-008-04-urgency-ladder">A four-rung ladder for deciding when to seek care: self-manage, routine appointment, urgent soon, and emergency now. Each rung has an example. A blank box at the bottom is left for the learner to fill in their local emergency number. Labels and shapes carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -22,14 +22,14 @@
   <g>
     <line x1="70" y1="200" x2="442" y2="200" stroke="#2b3a42" stroke-width="4"/>
     <text x="256" y="188" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Urgent — see someone soon</text>
-    <text x="256" y="224" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Fever that will not break, a cut that needs stitches, worry that will not settle</text>
+    <text x="256" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Fever that will not break, a cut that needs stitches, worry that will not settle</text>
   </g>
 
   <!-- Rung 2: Routine -->
   <g>
     <line x1="70" y1="280" x2="442" y2="280" stroke="#2b3a42" stroke-width="4"/>
     <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Routine — book an appointment</text>
-    <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">A check-up, a nagging ache, a question about a medicine, a mental-health check-in</text>
+    <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">A check-up, a nagging ache, a question about a medicine, a mental-health check-in</text>
   </g>
 
   <!-- Rung 1: Self-manage (bottom) -->

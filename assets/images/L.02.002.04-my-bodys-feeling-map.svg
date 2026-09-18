@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My body's feeling map</title>
-  <desc id="desc">A simple child body outline with blank boxes beside each body part — heart (chest), tummy, cheeks, hands, shoulders, and legs — where a learner writes or draws the feeling that shows up there. Leader lines connect each box to its body spot. The body is drawn in a neutral tone so any learner can see it as their own. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-002-04-my-bodys-feeling-map desc-L-02-002-04-my-bodys-feeling-map">
+  <title id="title-L-02-002-04-my-bodys-feeling-map">My body's feeling map</title>
+  <desc id="desc-L-02-002-04-my-bodys-feeling-map">A simple child body outline with blank boxes beside each body part — heart (chest), tummy, cheeks, hands, shoulders, and legs — where a learner writes or draws the feeling that shows up there. Leader lines connect each box to its body spot. The body is drawn in a neutral tone so any learner can see it as their own. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Body's Feeling Map</text>

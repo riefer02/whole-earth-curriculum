@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
-  <title id="title">Design to solve a real problem</title>
-  <desc id="desc">A circular design-cycle diagram titled "Design to solve a real problem." Six steps are arranged around a circle, each with an icon and label: "name the problem" (a question mark), "imagine" (a light-bulb sketch), "choose materials" (three shapes), "build" (hands on a box), "test" (a drop of water), and "improve" (an upward arrow). In the center, a small worked example reads "rain comes under the door → a raised shelf and a door guard." Arrows connect the steps around the circle. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title-L-05-008-09-design-cycle desc-L-05-008-09-design-cycle">
+  <title id="title-L-05-008-09-design-cycle">Design to solve a real problem</title>
+  <desc id="desc-L-05-008-09-design-cycle">A circular design-cycle diagram titled "Design to solve a real problem." Six steps are arranged around a circle, each with an icon and label: "name the problem" (a question mark), "imagine" (a light-bulb sketch), "choose materials" (three shapes), "build" (hands on a box), "test" (a drop of water), and "improve" (an upward arrow). In the center, a small worked example reads "rain comes under the door → a raised shelf and a door guard." Arrows connect the steps around the circle. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="480" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Design to Solve a Real Problem</text>
 
   <defs>
-    <marker id="arr9" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="arr9-L-05-008-09-design-cycle" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L7,3 L0,6 Z" fill="#2b3a42"/>
     </marker>
   </defs>
@@ -70,13 +70,13 @@
 
   <!-- arrows between steps -->
   <g stroke="#2b3a42" stroke-width="2.5" fill="none">
-    <line x1="282" y1="146" x2="360" y2="172" marker-end="url(#arr9)"/>
-    <line x1="392" y1="214" x2="402" y2="256" marker-end="url(#arr9)"/>
-    <line x1="398" y1="312" x2="368" y2="344" marker-end="url(#arr9)"/>
-    <line x1="326" y1="366" x2="186" y2="366" marker-end="url(#arr9)"/>
-    <line x1="126" y1="366" x2="110" y2="314" marker-end="url(#arr9)"/>
-    <line x1="112" y1="258" x2="120" y2="216" marker-end="url(#arr9)"/>
-    <line x1="150" y1="158" x2="228" y2="132" marker-end="url(#arr9)"/>
+    <line x1="282" y1="146" x2="360" y2="172" marker-end="url(#arr9-L-05-008-09-design-cycle)"/>
+    <line x1="392" y1="214" x2="402" y2="256" marker-end="url(#arr9-L-05-008-09-design-cycle)"/>
+    <line x1="398" y1="312" x2="368" y2="344" marker-end="url(#arr9-L-05-008-09-design-cycle)"/>
+    <line x1="326" y1="366" x2="186" y2="366" marker-end="url(#arr9-L-05-008-09-design-cycle)"/>
+    <line x1="126" y1="366" x2="110" y2="314" marker-end="url(#arr9-L-05-008-09-design-cycle)"/>
+    <line x1="112" y1="258" x2="120" y2="216" marker-end="url(#arr9-L-05-008-09-design-cycle)"/>
+    <line x1="150" y1="158" x2="228" y2="132" marker-end="url(#arr9-L-05-008-09-design-cycle)"/>
   </g>
 
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">every choice has a reason</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A fuller picture — senses working together chart</title>
-  <desc id="desc">A chart with a mango in the center and five clue bubbles around it. The bubbles read: looks orange, smells sweet, feels smooth, tastes juicy, and sounds soft when tapped. Each bubble connects to the mango with a line, showing how every sense adds one clue to one fuller picture. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-002-03-a-fuller-picture desc-L-03-002-03-a-fuller-picture">
+  <title id="title-L-03-002-03-a-fuller-picture">A fuller picture — senses working together chart</title>
+  <desc id="desc-L-03-002-03-a-fuller-picture">A chart with a mango in the center and five clue bubbles around it. The bubbles read: looks orange, smells sweet, feels smooth, tastes juicy, and sounds soft when tapped. Each bubble connects to the mango with a line, showing how every sense adds one clue to one fuller picture. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Senses Working Together</text>
@@ -55,7 +55,7 @@
     <line x1="362" y1="336" x2="288" y2="292" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
   </g>
 
-  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Each sense adds one clue — together they make the whole mango.</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">Each sense adds one clue — together they make the whole mango.</text>
 
   <!-- legend of senses -->
   <g font-family="sans-serif" font-size="13" fill="#4f6d7a">

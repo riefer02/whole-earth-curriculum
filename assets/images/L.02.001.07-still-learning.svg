@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Still learning: not yet is not a verdict</title>
-  <desc id="desc">A growth ladder with three rungs labeled "not yet," "with help," and "on my own," and a small climber stepping from the bottom rung up toward the top. Beside the ladder, a speech bubble says "Not yet means I am still learning." A note at the bottom says everyone is learning something, and "not yet" is information, not a verdict. The ladder, rung labels, and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-001-07-still-learning desc-L-02-001-07-still-learning">
+  <title id="title-L-02-001-07-still-learning">Still learning: not yet is not a verdict</title>
+  <desc id="desc-L-02-001-07-still-learning">A growth ladder with three rungs labeled "not yet," "with help," and "on my own," and a small climber stepping from the bottom rung up toward the top. Beside the ladder, a speech bubble says "Not yet means I am still learning." A note at the bottom says everyone is learning something, and "not yet" is information, not a verdict. The ladder, rung labels, and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -46,5 +46,5 @@
     <text x="388" y="172" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">I am still learning.</text>
   </g>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Everyone is learning something. "Not yet" is information, not a verdict.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">Everyone is learning something. "Not yet" is information, not a verdict.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Plotting points and relationships</title>
-  <desc id="desc">A first-quadrant coordinate grid numbered 0 to 6 on the x-axis and y-axis. Points (1,2), (2,4), and (3,6) are plotted as filled dots and connected by a dashed line, each point labeled. A caption reads "as x goes up by 1, y goes up by 2 — the relationship y = 2x," showing a doubling pattern. The axes are labeled x-axis and y-axis and the origin is marked 0. Labels and coordinates, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-07-plotting-points-relationships desc-L-05-006-07-plotting-points-relationships">
+  <title id="title-L-05-006-07-plotting-points-relationships">Plotting points and relationships</title>
+  <desc id="desc-L-05-006-07-plotting-points-relationships">A first-quadrant coordinate grid numbered 0 to 6 on the x-axis and y-axis. Points (1,2), (2,4), and (3,6) are plotted as filled dots and connected by a dashed line, each point labeled. A caption reads "as x goes up by 1, y goes up by 2 — the relationship y = 2x," showing a doubling pattern. The axes are labeled x-axis and y-axis and the origin is marked 0. Labels and coordinates, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -53,6 +53,6 @@
     <text x="0" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">origin</text>
   </g>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">as x goes up by 1, y goes up by 2 — the relationship y = 2x</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15.5" font-weight="bold" fill="#222222">as x goes up by 1, y goes up by 2 — the relationship y = 2x</text>
   <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"along the corridor, up the stairs" — across first, then up</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Geometry in Real Design</title>
-  <desc id="desc">A star-and-polygon pattern built from a square grid of construction lines shown lightly, with one repeating tile highlighted in a bold outline and labels naming symmetry, tessellation, and the underlying grid. The pattern prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-11-geometry-in-real-design desc-L-12-005-11-geometry-in-real-design">
+  <title id="title-L-12-005-11-geometry-in-real-design">Geometry in Real Design</title>
+  <desc id="desc-L-12-005-11-geometry-in-real-design">A star-and-polygon pattern built from a square grid of construction lines shown lightly, with one repeating tile highlighted in a bold outline and labels naming symmetry, tessellation, and the underlying grid. The pattern prints in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Design = Symmetry + Tessellation + Scale</text>
@@ -42,6 +42,6 @@
   <text x="352" y="180" font-family="sans-serif" font-size="13" fill="#7a9e7e" font-weight="bold">one tile</text>
 
   <!-- labels -->
-  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">symmetry: mirrors and rotations &#8226; tessellation: the tile repeats without gaps</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">symmetry: mirrors and rotations &#8226; tessellation: the tile repeats without gaps</text>
   <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Patterned design spans many traditions (S-024, S-292, S-434).</text>
 </svg>

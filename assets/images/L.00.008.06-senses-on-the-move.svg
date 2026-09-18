@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Senses on the move</title>
-  <desc id="desc">A child in a wheelchair rolls along a path to the right. Wind lines trail behind to show touch, sound waves rise near the ear to show hearing, a bird overhead shows sight, the sun shows warmth on the skin, and a flower shows smell. Labeled tags read see, hear, feel, and smell. A caption names the ways of moving — walk, hop, roll, glide — and reminds that moving changes what the senses notice. Labels carry meaning in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-008-06-senses-on-the-move desc-L-00-008-06-senses-on-the-move">
+  <title id="title-L-00-008-06-senses-on-the-move">Senses on the move</title>
+  <desc id="desc-L-00-008-06-senses-on-the-move">A child in a wheelchair rolls along a path to the right. Wind lines trail behind to show touch, sound waves rise near the ear to show hearing, a bird overhead shows sight, the sun shows warmth on the skin, and a flower shows smell. Labeled tags read see, hear, feel, and smell. A caption names the ways of moving — walk, hop, roll, glide — and reminds that moving changes what the senses notice. Labels carry meaning in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Senses on the Move</text>
@@ -85,7 +85,7 @@
 
   <!-- Caption band -->
   <rect x="16" y="396" width="480" height="46" rx="12" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
-  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">walk · hop · roll · glide — moving changes what I notice</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="16.4" fill="#4f6d7a">walk · hop · roll · glide — moving changes what I notice</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">taste: remember a taste from your day — never taste unknown plants</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">taste: remember a taste from your day — never taste unknown plants</text>
 </svg>

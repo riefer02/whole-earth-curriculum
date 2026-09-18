@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Change and continuity in the practice of trade</title>
-  <desc id="desc">A two-column diagram for the practice of trade — left column what changed over centuries (scale, speed, money, technology), right column what stayed the same (exchanging what is scarce, carrying ideas, trust and credit), with a timeline of trade stages across the middle.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-009-03-change-and-continuity desc-L-08-009-03-change-and-continuity">
+  <title id="title-L-08-009-03-change-and-continuity">Change and continuity in the practice of trade</title>
+  <desc id="desc-L-08-009-03-change-and-continuity">A two-column diagram for the practice of trade — left column what changed over centuries (scale, speed, money, technology), right column what stayed the same (exchanging what is scarce, carrying ideas, trust and credit), with a timeline of trade stages across the middle.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Trade: what changed &amp; what stayed</text>
@@ -45,5 +45,5 @@
     <text x="436" y="408">today</text>
   </g>
 
-  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">A practice can change almost entirely on the outside and stay the same at its heart.</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">A practice can change almost entirely on the outside and stay the same at its heart.</text>
 </svg>

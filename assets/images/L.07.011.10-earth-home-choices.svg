@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Our Earth home, our choices</title>
-  <desc id="desc">A central circle labeled "Our Earth Home" surrounded by four labeled lenses: "Ethics — what is right?", "Egalitarianism — who benefits?", "Global — how do others see it?", and "Technology &amp; Environment — what is the effect?". Arrows point from each lens into the center, showing the four lenses meet in one place: our choices.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-011-10-earth-home-choices desc-L-07-011-10-earth-home-choices">
+  <title id="title-L-07-011-10-earth-home-choices">Our Earth home, our choices</title>
+  <desc id="desc-L-07-011-10-earth-home-choices">A central circle labeled "Our Earth Home" surrounded by four labeled lenses: "Ethics — what is right?", "Egalitarianism — who benefits?", "Global — how do others see it?", and "Technology &amp; Environment — what is the effect?". Arrows point from each lens into the center, showing the four lenses meet in one place: our choices.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -30,14 +30,14 @@
 
   <!-- arrows -->
   <g stroke="#2b3a42" stroke-width="2.5">
-    <line x1="256" y1="122" x2="256" y2="190" marker-end="url(#ar10)"/>
-    <line x1="204" y1="233" x2="190" y2="242" marker-end="url(#ar10)"/>
-    <line x1="308" y1="233" x2="322" y2="242" marker-end="url(#ar10)"/>
-    <line x1="256" y1="390" x2="256" y2="322" marker-end="url(#ar10)"/>
+    <line x1="256" y1="122" x2="256" y2="190" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
+    <line x1="204" y1="233" x2="190" y2="242" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
+    <line x1="308" y1="233" x2="322" y2="242" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
+    <line x1="256" y1="390" x2="256" y2="322" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
   </g>
 
   <defs>
-    <marker id="ar10" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar10-L-07-011-10-earth-home-choices" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
   </defs>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reading my own body's signals</title>
-  <desc id="desc">A personal tracker with three dials labeled stress, sleep, and movement, each with a needle pointing to a low, medium, or high position, and a strip below labeled "mood and focus" for marking the day. It shows the three forces being read together as one pattern.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-002-04-reading-my-own-body-signals desc-L-10-002-04-reading-my-own-body-signals">
+  <title id="title-L-10-002-04-reading-my-own-body-signals">Reading my own body's signals</title>
+  <desc id="desc-L-10-002-04-reading-my-own-body-signals">A personal tracker with three dials labeled stress, sleep, and movement, each with a needle pointing to a low, medium, or high position, and a strip below labeled "mood and focus" for marking the day. It shows the three forces being read together as one pattern.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -52,6 +52,6 @@
   <circle cx="300" cy="392" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="400" cy="392" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="256" y="473.2" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Three forces, read together, tell one story — noticed with honesty, not</text>
+  <text x="256" y="473.2" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">Three forces, read together, tell one story — noticed with honesty, not</text>
   <text x="256" y="492.8" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">judgment.</text>
 </svg>

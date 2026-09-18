@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Claim on top, support below</title>
-  <desc id="desc">A diagram with one claim bubble at the top reading "The river water is safe to drink" and three empty support boxes below. The first box is labeled "reason," the next two are labeled "evidence." A caption reads "Claim on top, support below." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-004-01-claim-vs-support desc-L-07-004-01-claim-vs-support">
+  <title id="title-L-07-004-01-claim-vs-support">Claim on top, support below</title>
+  <desc id="desc-L-07-004-01-claim-vs-support">A diagram with one claim bubble at the top reading "The river water is safe to drink" and three empty support boxes below. The first box is labeled "reason," the next two are labeled "evidence." A caption reads "Claim on top, support below." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

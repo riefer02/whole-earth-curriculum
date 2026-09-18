@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The volume formula</title>
-  <desc id="desc">A labeled rectangular prism with length 4, width 2, and height 3 marked on its edges. Below, the volume formula V equals length times width times height is shown with the values substituted: V equals 4 times 2 times 3 equals 24 cubic units. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-12-volume-formula desc-L-05-006-12-volume-formula">
+  <title id="title-L-05-006-12-volume-formula">The volume formula</title>
+  <desc id="desc-L-05-006-12-volume-formula">A labeled rectangular prism with length 4, width 2, and height 3 marked on its edges. Below, the volume formula V equals length times width times height is shown with the values substituted: V equals 4 times 2 times 3 equals 24 cubic units. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

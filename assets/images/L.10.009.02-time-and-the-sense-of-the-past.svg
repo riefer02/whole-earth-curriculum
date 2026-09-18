@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Cyclical and linear time</title>
-  <desc id="desc">Two panels: on the left a repeating circle of seasons keeps the past always near (cyclical time, seen in many oral and seasonal traditions); on the right a forward arrow moves from a fixed beginning toward now (linear time, seen in era-dated calendars and written annals). Grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-009-02-time-and-the-sense-of-the-past desc-L-10-009-02-time-and-the-sense-of-the-past">
+  <title id="title-L-10-009-02-time-and-the-sense-of-the-past">Cyclical and linear time</title>
+  <desc id="desc-L-10-009-02-time-and-the-sense-of-the-past">Two panels: on the left a repeating circle of seasons keeps the past always near (cyclical time, seen in many oral and seasonal traditions); on the right a forward arrow moves from a fixed beginning toward now (linear time, seen in era-dated calendars and written annals). Grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- Left panel: cyclical -->
   <rect x="24" y="24" width="224" height="464" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>

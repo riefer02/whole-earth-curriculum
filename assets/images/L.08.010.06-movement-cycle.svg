@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">How a social movement works</title>
-  <desc id="desc">A four-step cycle with arrows: name the goal, choose strategies, act together, and look at effects then reflect and evaluate, looping back to the goal.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-010-06-movement-cycle desc-L-08-010-06-movement-cycle">
+  <title id="title-L-08-010-06-movement-cycle">How a social movement works</title>
+  <desc id="desc-L-08-010-06-movement-cycle">A four-step cycle with arrows: name the goal, choose strategies, act together, and look at effects then reflect and evaluate, looping back to the goal.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -16,7 +16,7 @@
   <!-- strategies -->
   <rect x="328" y="84" width="150" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="352" cy="108" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="366" y="113" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">2. Choose strategies</text>
+  <text x="366" y="113" font-family="sans-serif" font-size="12.9" font-weight="bold" fill="#222222">2. Choose strategies</text>
   <text x="340" y="136" font-family="sans-serif" font-size="11" fill="#4f6d7a">Organize, petition,</text>
   <text x="340" y="152" font-family="sans-serif" font-size="11" fill="#4f6d7a">protest, build allies</text>
 
@@ -35,13 +35,13 @@
   <text x="46" y="374" font-family="sans-serif" font-size="11" fill="#4f6d7a">benefited? Who was left out?</text>
 
   <!-- arrows -->
-  <path d="M184 127 L328 127" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr)"/>
-  <path d="M403 170 L403 306" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr)"/>
-  <path d="M328 349 L184 349" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr)"/>
-  <path d="M109 306 L109 170" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr)"/>
+  <path d="M184 127 L328 127" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr-L-08-010-06-movement-cycle)"/>
+  <path d="M403 170 L403 306" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr-L-08-010-06-movement-cycle)"/>
+  <path d="M328 349 L184 349" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr-L-08-010-06-movement-cycle)"/>
+  <path d="M109 306 L109 170" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr-L-08-010-06-movement-cycle)"/>
 
   <defs>
-    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+    <marker id="arr-L-08-010-06-movement-cycle" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
       <path d="M0,0 L6,3 L0,6 Z" fill="#4f6d7a"/>
     </marker>
   </defs>

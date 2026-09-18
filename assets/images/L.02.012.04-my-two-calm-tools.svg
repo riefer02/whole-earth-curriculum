@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My two calm tools</title>
-  <desc id="desc">Two calm tools drawn as two cards. The first card shows "balloon breath": a small circle growing into a big balloon as a child breathes in, then shrinking as the child breathes out, with arrows in and out. The second card shows "count to five": a hand with five fingers, each finger labeled with a number and a dot, plus a small "pause" hand held up. A banner above both cards reads "pause first." The closing line teaches that a strong feeling is okay, and I can choose a calm tool on my own. Labels carry the meaning, so the picture prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-012-04-my-two-calm-tools desc-L-02-012-04-my-two-calm-tools">
+  <title id="title-L-02-012-04-my-two-calm-tools">My two calm tools</title>
+  <desc id="desc-L-02-012-04-my-two-calm-tools">Two calm tools drawn as two cards. The first card shows "balloon breath": a small circle growing into a big balloon as a child breathes in, then shrinking as the child breathes out, with arrows in and out. The second card shows "count to five": a hand with five fingers, each finger labeled with a number and a dot, plus a small "pause" hand held up. A banner above both cards reads "pause first." The closing line teaches that a strong feeling is okay, and I can choose a calm tool on my own. Labels carry the meaning, so the picture prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -50,5 +50,5 @@
     <text x="382" y="412" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">slow and steady</text>
   </g>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">These are two of many calm tools. I can choose the one that helps me today.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">These are two of many calm tools. I can choose the one that helps me today.</text>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Stories of People: a four-box page</title>
-  <desc id="desc">A page with four boxes ready for a learner to fill with their own story. The boxes are labeled "then &amp; now" with a seed and a sprout, "a story or song" with a musical note, "a place" with a little house and trees, and "fair" with three small people sharing a ball. Each box has room to draw or write. This is the capstone page that gathers the whole unit into one person's story. Prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-010-10-stories-of-people desc-L-00-010-10-stories-of-people">
+  <title id="title-L-00-010-10-stories-of-people">Stories of People: a four-box page</title>
+  <desc id="desc-L-00-010-10-stories-of-people">A page with four boxes ready for a learner to fill with their own story. The boxes are labeled "then &amp; now" with a seed and a sprout, "a story or song" with a musical note, "a place" with a little house and trees, and "fair" with three small people sharing a ball. Each box has room to draw or write. This is the capstone page that gathers the whole unit into one person's story. Prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">Then &amp; Now: Stories of People</text>
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="27.8" font-weight="bold" fill="#2b3a42">Then &amp; Now: Stories of People</text>
 
   <!-- box 1: then & now -->
   <rect x="24" y="78" width="224" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -61,5 +61,5 @@
     <circle cx="376" cy="428" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   </g>
 
-  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">My story matters &#183; and so does everyone&#8217;s</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="17.6" fill="#4f6d7a">My story matters &#183; and so does everyone&#8217;s</text>
 </svg>

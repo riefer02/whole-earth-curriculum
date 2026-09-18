@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Flat shapes: compose and take apart</title>
-  <desc id="desc">Two panels show composing and taking apart flat shapes. The left panel, labeled compose, shows a blue triangle and a green triangle with a downward arrow to a square made of the same two triangles joined along a dashed diagonal, captioned two triangles make a square. The right panel, labeled take apart, shows a square split into a blue triangle and a green triangle with a downward arrow to the two triangles pulled apart, captioned a square taken apart makes two triangles. A bottom note says big shapes are made of small shapes, and every shape has sides and corners. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-005-10-compose-and-take-apart desc-L-01-005-10-compose-and-take-apart">
+  <title id="title-L-01-005-10-compose-and-take-apart">Flat shapes: compose and take apart</title>
+  <desc id="desc-L-01-005-10-compose-and-take-apart">Two panels show composing and taking apart flat shapes. The left panel, labeled compose, shows a blue triangle and a green triangle with a downward arrow to a square made of the same two triangles joined along a dashed diagonal, captioned two triangles make a square. The right panel, labeled take apart, shows a square split into a blue triangle and a green triangle with a downward arrow to the two triangles pulled apart, captioned a square taken apart makes two triangles. A bottom note says big shapes are made of small shapes, and every shape has sides and corners. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Compose and Take Apart</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Small shapes join to make big shapes &#8212; and can be split apart again.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Small shapes join to make big shapes &#8212; and can be split apart again.</text>
 
   <!-- Left panel: compose -->
   <rect x="24" y="96" width="226" height="374" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -49,5 +49,5 @@
   <text x="375" y="366" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a square taken apart</text>
   <text x="375" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">makes two triangles</text>
 
-  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Big shapes are made of small shapes &#8212; and every shape has sides and corners.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Big shapes are made of small shapes &#8212; and every shape has sides and corners.</text>
 </svg>

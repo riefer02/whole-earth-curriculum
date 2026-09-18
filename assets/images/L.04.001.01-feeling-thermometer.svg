@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Feeling thermometer: a little, some, a lot</title>
-  <desc id="desc">A labeled thermometer with three stacked zones. From bottom to top the zones read "a little," "some," and "a lot." Tick marks and a bulb at the base show the feeling strength rising. The zones differ in shade and by label so the chart still makes sense printed in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-001-01-feeling-thermometer desc-L-04-001-01-feeling-thermometer">
+  <title id="title-L-04-001-01-feeling-thermometer">Feeling thermometer: a little, some, a lot</title>
+  <desc id="desc-L-04-001-01-feeling-thermometer">A labeled thermometer with three stacked zones. From bottom to top the zones read "a little," "some," and "a lot." Tick marks and a bulb at the base show the feeling strength rising. The zones differ in shade and by label so the chart still makes sense printed in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

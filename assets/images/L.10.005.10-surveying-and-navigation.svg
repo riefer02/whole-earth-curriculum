@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Surveying and Navigation with Right Triangles</title>
-  <desc id="desc">A person sighting a tall tree with a clinometer, showing the angle of elevation from eye height, the measured baseline distance, and the right triangle used to find the tree's height, with a second panel showing a bearing across a river.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-005-10-surveying-and-navigation desc-L-10-005-10-surveying-and-navigation">
+  <title id="title-L-10-005-10-surveying-and-navigation">Surveying and Navigation with Right Triangles</title>
+  <desc id="desc-L-10-005-10-surveying-and-navigation">A person sighting a tall tree with a clinometer, showing the angle of elevation from eye height, the measured baseline distance, and the right triangle used to find the tree's height, with a second panel showing a bearing across a river.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Height by Elevation</text>
@@ -37,9 +37,9 @@
   <text x="400" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">river</text>
   <line x1="330" y1="360" x2="470" y2="300" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="4,4"/>
   <text x="410" y="296" font-family="sans-serif" font-size="12" fill="#a06030" font-weight="bold">&#952;</text>
-  <text x="336" y="404" font-family="sans-serif" font-size="13" fill="#222222">width = baseline &#183; tan &#952;</text>
-  <text x="336" y="424" font-family="sans-serif" font-size="13" fill="#222222">check: a&#178; + b&#178; = c&#178;</text>
+  <text x="336" y="404" font-family="sans-serif" font-size="12" fill="#222222">width = baseline &#183; tan &#952;</text>
+  <text x="336" y="424" font-family="sans-serif" font-size="12" fill="#222222">check: a&#178; + b&#178; = c&#178;</text>
 
-  <text x="256" y="486.2" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Every height, gap, and bearing is a right triangle: name two knowns, choose the</text>
+  <text x="256" y="486.2" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Every height, gap, and bearing is a right triangle: name two knowns, choose the</text>
   <text x="256" y="503.1" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">relation, solve, and check a second way.</text>
 </svg>

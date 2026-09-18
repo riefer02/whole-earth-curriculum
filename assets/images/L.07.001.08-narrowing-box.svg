@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A label can narrow me — and I can step out</title>
-  <desc id="desc">A figure stands inside a closing box labeled "not for people like you." One side of the box has an open door, and beyond the door several labeled paths stretch outward: "try it anyway," "ask for help," "find my people," "redefine it." A caption reads "A label can narrow me — and I can step out." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-001-08-narrowing-box desc-L-07-001-08-narrowing-box">
+  <title id="title-L-07-001-08-narrowing-box">A label can narrow me — and I can step out</title>
+  <desc id="desc-L-07-001-08-narrowing-box">A figure stands inside a closing box labeled "not for people like you." One side of the box has an open door, and beyond the door several labeled paths stretch outward: "try it anyway," "ask for help," "find my people," "redefine it." A caption reads "A label can narrow me — and I can step out." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

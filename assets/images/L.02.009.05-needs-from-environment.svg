@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What people need from their environment</title>
-  <desc id="desc">Four labeled cards show what people need from their environment. The first card shows a water drop, labeled water. The second card shows a bowl of food with a leaf, labeled food. The third card shows a small house, labeled shelter. The fourth card shows a pile of sticks and a stone, labeled materials. A curved arrow loops around the four cards from the environment to the needs. The labels and shapes — not color — carry the meaning, so the picture prints clearly in grayscale and teaches that every person everywhere needs water, food, shelter, and materials.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-009-05-needs-from-environment desc-L-02-009-05-needs-from-environment">
+  <title id="title-L-02-009-05-needs-from-environment">What people need from their environment</title>
+  <desc id="desc-L-02-009-05-needs-from-environment">Four labeled cards show what people need from their environment. The first card shows a water drop, labeled water. The second card shows a bowl of food with a leaf, labeled food. The third card shows a small house, labeled shelter. The fourth card shows a pile of sticks and a stone, labeled materials. A curved arrow loops around the four cards from the environment to the needs. The labels and shapes — not color — carry the meaning, so the picture prints clearly in grayscale and teaches that every person everywhere needs water, food, shelter, and materials.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -50,5 +50,5 @@
   <path d="M452 330 L462 342 L440 342 Z" fill="#4f6d7a"/>
 
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">The need is the same &#183; the way is shaped by place</text>
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A river, a well, the rain &#183; a farm, the sea, a market</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">A river, a well, the rain &#183; a farm, the sea, a market</text>
 </svg>

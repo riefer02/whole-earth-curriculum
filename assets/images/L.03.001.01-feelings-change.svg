@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A feeling path: nervous changes to excited changes to proud</title>
-  <desc id="desc">A winding path drawn left to right with three stops. Stop 1 shows a nervous face with wavy eyebrows, labeled "nervous." Stop 2 shows an excited face with a big smile, labeled "excited." Stop 3 shows a proud face with a soft smile and a small sparkle, labeled "proud." An arrow along the path shows the feeling changing over time. Words and face shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-001-01-feelings-change desc-L-03-001-01-feelings-change">
+  <title id="title-L-03-001-01-feelings-change">A feeling path: nervous changes to excited changes to proud</title>
+  <desc id="desc-L-03-001-01-feelings-change">A winding path drawn left to right with three stops. Stop 1 shows a nervous face with wavy eyebrows, labeled "nervous." Stop 2 shows an excited face with a big smile, labeled "excited." Stop 3 shows a proud face with a soft smile and a small sparkle, labeled "proud." An arrow along the path shows the feeling changing over time. Words and face shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

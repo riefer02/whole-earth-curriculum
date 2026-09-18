@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Percentages: discounts, tax, and tips</title>
-  <desc id="desc">A percentage diagram. A 10-by-10 grid of 100 small squares has 25 squares shaded, labeled "25 out of 100 = 25% = 1/4 = 0.25." Below it, a worked example shows a $40 item with a 20% discount: a bar of 100 parts with 20 shaded, and the computation 20% of 40 = 0.20 × 40 = 8, so the sale price is 40 − 8 = $32. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-005-02-percentages desc-L-07-005-02-percentages">
+  <title id="title-L-07-005-02-percentages">Percentages: discounts, tax, and tips</title>
+  <desc id="desc-L-07-005-02-percentages">A percentage diagram. A 10-by-10 grid of 100 small squares has 25 squares shaded, labeled "25 out of 100 = 25% = 1/4 = 0.25." Below it, a worked example shows a $40 item with a 20% discount: a bar of 100 parts with 20 shaded, and the computation 20% of 40 = 0.20 × 40 = 8, so the sale price is 40 − 8 = $32. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

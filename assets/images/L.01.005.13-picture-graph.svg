@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Making a picture graph: one mark for each answer</title>
-  <desc id="desc">A picture graph answers the question, which fruit do you like best? It has three rows. The mango row holds six marks, the banana row holds four marks, and the apple row holds three marks, each mark meaning one person's answer. The mango row is labeled most and the apple row is labeled fewest, with the count written at the end of each row. A note says one mark equals one answer and every voice counts once. Labels, counts, and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-005-13-picture-graph desc-L-01-005-13-picture-graph">
+  <title id="title-L-01-005-13-picture-graph">Making a picture graph: one mark for each answer</title>
+  <desc id="desc-L-01-005-13-picture-graph">A picture graph answers the question, which fruit do you like best? It has three rows. The mango row holds six marks, the banana row holds four marks, and the apple row holds three marks, each mark meaning one person's answer. The mango row is labeled most and the apple row is labeled fewest, with the count written at the end of each row. A note says one mark equals one answer and every voice counts once. Labels, counts, and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">All of me, all of us</title>
-  <desc id="desc">A central circle labeled "all of us" surrounded by three parts — "mutual aid: everyone gives and receives," "motives: care, duty, recognition," and an arrow into "Grade 8." A caption reads "We are each a whole person, and together a caring whole."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-012-05-all-of-me-all-of-us desc-L-07-012-05-all-of-me-all-of-us">
+  <title id="title-L-07-012-05-all-of-me-all-of-us">All of me, all of us</title>
+  <desc id="desc-L-07-012-05-all-of-me-all-of-us">A central circle labeled "all of us" surrounded by three parts — "mutual aid: everyone gives and receives," "motives: care, duty, recognition," and an arrow into "Grade 8." A caption reads "We are each a whole person, and together a caring whole."</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -26,13 +26,13 @@
   <line x1="272" y1="153" x2="334" y2="220" stroke="#2b3a42" stroke-width="2.5"/>
 
   <!-- arrow into grade 8 -->
-  <line x1="256" y1="328" x2="256" y2="378" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar)"/>
+  <line x1="256" y1="328" x2="256" y2="378" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar-L-07-012-05-all-of-me-all-of-us)"/>
   <rect x="170" y="384" width="172" height="58" rx="10" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">carry into</text>
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Grade 8</text>
 
   <defs>
-    <marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar-L-07-012-05-all-of-me-all-of-us" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
   </defs>

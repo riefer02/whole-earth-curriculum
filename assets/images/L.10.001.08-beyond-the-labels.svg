@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A person larger than the labels attached to them</title>
-  <desc id="desc">A large, whole figure stands in the center. Around them, several small labels — drawn as tags — are peeling away and floating off, showing that the person is more than any single label others attach to them.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-08-beyond-the-labels desc-L-10-001-08-beyond-the-labels">
+  <title id="title-L-10-001-08-beyond-the-labels">A person larger than the labels attached to them</title>
+  <desc id="desc-L-10-001-08-beyond-the-labels">A large, whole figure stands in the center. Around them, several small labels — drawn as tags — are peeling away and floating off, showing that the person is more than any single label others attach to them.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- central figure -->
   <circle cx="256" cy="180" r="44" fill="#8d5a3b"/>

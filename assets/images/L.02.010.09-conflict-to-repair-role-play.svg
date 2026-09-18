@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Conflict to repair: a role-play</title>
-  <desc id="desc">A three-step strip shows the whole path from conflict to repair. Step 1, labeled conflict: two children pull the same ball and frown. Step 2, labeled peaceful solve: the same two children face each other and take turns passing the ball. Step 3, labeled real apology: one child reaches out and says "I am sorry," and both smile, with a caption "fix the harm." Numbered labels and the actions, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-010-09-conflict-to-repair-role-play desc-L-02-010-09-conflict-to-repair-role-play">
+  <title id="title-L-02-010-09-conflict-to-repair-role-play">Conflict to repair: a role-play</title>
+  <desc id="desc-L-02-010-09-conflict-to-repair-role-play">A three-step strip shows the whole path from conflict to repair. Step 1, labeled conflict: two children pull the same ball and frown. Step 2, labeled peaceful solve: the same two children face each other and take turns passing the ball. Step 3, labeled real apology: one child reaches out and says "I am sorry," and both smile, with a caption "fix the harm." Numbered labels and the actions, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -100,11 +100,11 @@
   <path d="M480 201 Q484 205 488 201" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <rect x="476" y="208" width="16" height="26" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="456" y="292" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">I am sorry &#8212;</text>
+  <text x="456" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I am sorry &#8212;</text>
   <text x="456" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">I will fix</text>
   <text x="456" y="332" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">the harm</text>
 
-  <text x="256" y="414.8" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">describe the conflict &#8594; choose a peaceful solve &#8594; make a</text>
+  <text x="256" y="414.8" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">describe the conflict &#8594; choose a peaceful solve &#8594; make a</text>
   <text x="256" y="436.9" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">real apology</text>
   <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">That is how both people become well again.</text>
 </svg>

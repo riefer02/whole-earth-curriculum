@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What to say in an emergency</title>
-  <desc id="desc">A diagram titled "when you call for help, tell three things." Three labeled boxes sit beside a calm child holding a phone. Box 1, "your name," shows a name tag. Box 2, "your location," shows a map pin and a house. Box 3, "what happened," shows a first-aid cross and a small flame. A bottom line reads "Then stay on the line and answer the helper's questions." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-009-06-what-to-say desc-L-05-009-06-what-to-say">
+  <title id="title-L-05-009-06-what-to-say">What to say in an emergency</title>
+  <desc id="desc-L-05-009-06-what-to-say">A diagram titled "when you call for help, tell three things." Three labeled boxes sit beside a calm child holding a phone. Box 1, "your name," shows a name tag. Box 2, "your location," shows a map pin and a house. Box 3, "what happened," shows a first-aid cross and a small flame. A bottom line reads "Then stay on the line and answer the helper's questions." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -45,5 +45,5 @@
   <text x="344" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">and answer the helper's questions.</text>
 
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Name · location · what happened</text>
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Three small pieces of information can bring help to the right place.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">Three small pieces of information can bring help to the right place.</text>
 </svg>

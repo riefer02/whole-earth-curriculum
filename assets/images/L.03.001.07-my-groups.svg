@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The groups I belong to</title>
-  <desc id="desc">A web diagram with a simple figure in the center labeled "me," and six empty circles around it connected by lines, ready to be filled in with the groups a learner belongs to. Small labels around the edge suggest ideas: family, class, community, a club or team, a faith or culture, a language. The circles are blank so the learner writes or draws their own. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-001-07-my-groups desc-L-03-001-07-my-groups">
+  <title id="title-L-03-001-07-my-groups">The groups I belong to</title>
+  <desc id="desc-L-03-001-07-my-groups">A web diagram with a simple figure in the center labeled "me," and six empty circles around it connected by lines, ready to be filled in with the groups a learner belongs to. Small labels around the edge suggest ideas: family, class, community, a club or team, a faith or culture, a language. The circles are blank so the learner writes or draws their own. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

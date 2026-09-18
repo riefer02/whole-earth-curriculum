@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Collective fear and collective grief</title>
-  <desc id="desc">Two side-by-side panels. The left panel shows collective fear as a storm cloud with jagged arrows labeled rumor, panic, and blame. The right panel shows collective grief as a rain cloud with joined hands and a candle, labeled mourning, remembrance, and together. Labels and shapes carry the difference so the diagram prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-001-03-fear-and-grief desc-L-11-001-03-fear-and-grief">
+  <title id="title-L-11-001-03-fear-and-grief">Collective fear and collective grief</title>
+  <desc id="desc-L-11-001-03-fear-and-grief">Two side-by-side panels. The left panel shows collective fear as a storm cloud with jagged arrows labeled rumor, panic, and blame. The right panel shows collective grief as a rain cloud with joined hands and a candle, labeled mourning, remembrance, and together. Labels and shapes carry the difference so the diagram prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Fear and Grief in Common</text>

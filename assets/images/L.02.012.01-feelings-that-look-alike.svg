@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Feelings that look alike</title>
-  <desc id="desc">Four feeling faces in a two-by-two grid. The top pair shows two feelings that look alike — mad (hot, tight, wants to push) and frustrated (stuck and blocked, trying again). The bottom pair shows sad (a loss, slow and heavy) and disappointed (a hope that did not come true, let down). Each face has a different brow and mouth shape, and each is labeled with a word plus a body-sense hint, so the difference reads in grayscale, not by color. Skin tones and hair vary across the four faces; one wears glasses. A small "same?" and "different" label sits between each pair, teaching that telling two alike feelings apart takes a closer look.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-012-01-feelings-that-look-alike desc-L-02-012-01-feelings-that-look-alike">
+  <title id="title-L-02-012-01-feelings-that-look-alike">Feelings that look alike</title>
+  <desc id="desc-L-02-012-01-feelings-that-look-alike">Four feeling faces in a two-by-two grid. The top pair shows two feelings that look alike — mad (hot, tight, wants to push) and frustrated (stuck and blocked, trying again). The bottom pair shows sad (a loss, slow and heavy) and disappointed (a hope that did not come true, let down). Each face has a different brow and mouth shape, and each is labeled with a word plus a body-sense hint, so the difference reads in grayscale, not by color. Skin tones and hair vary across the four faces; one wears glasses. A small "same?" and "different" label sits between each pair, teaching that telling two alike feelings apart takes a closer look.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -76,5 +76,5 @@
     <text x="386" y="476" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a hope that did not come true</text>
   </g>
 
-  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Look closer: the body gives the clue that tells two alike feelings apart.</text>
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="12.6" fill="#4f6d7a">Look closer: the body gives the clue that tells two alike feelings apart.</text>
 </svg>

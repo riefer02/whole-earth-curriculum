@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Rules, leaders, and fair decisions</title>
-  <desc id="desc">A flow chart shows how a group decides: propose, then discuss, then decide. From "decide," two paths split — "fair" leads to "everyone can live with it," and "unfair" leads to three actions: speak up, gather others, propose a better rule. Small circle figures of many skin tones sit around a table at the top. Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-009-09-rules-leaders-fair-decisions desc-L-04-009-09-rules-leaders-fair-decisions">
+  <title id="title-L-04-009-09-rules-leaders-fair-decisions">Rules, leaders, and fair decisions</title>
+  <desc id="desc-L-04-009-09-rules-leaders-fair-decisions">A flow chart shows how a group decides: propose, then discuss, then decide. From "decide," two paths split — "fair" leads to "everyone can live with it," and "unfair" leads to three actions: speak up, gather others, propose a better rule. Small circle figures of many skin tones sit around a table at the top. Labels and shapes, not color, carry the meaning, so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Rules, Leaders, and Fair Decisions</text>
@@ -61,5 +61,5 @@
   <line x1="352" y1="413" x2="260" y2="413" stroke="#4f6d7a" stroke-width="2"/>
   <line x1="196" y1="413" x2="184" y2="413" stroke="#4f6d7a" stroke-width="2"/>
 
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Fair groups decide with many voices — unfair decisions can be changed.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#222222">Fair groups decide with many voices — unfair decisions can be changed.</text>
 </svg>

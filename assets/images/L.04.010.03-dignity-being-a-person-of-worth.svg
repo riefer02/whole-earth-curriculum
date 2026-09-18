@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Dignity: being a person of worth</title>
-  <desc id="desc">Two panels show the same scene treated two ways. In the left panel, labeled "dignity honored," a new child is greeted by name, given a seat, and listened to — the group's faces and open bodies turn toward them. In the right panel, labeled "dignity denied," the same child stands to the side, ignored and talked over, while the group turns away. A banner reads "dignity: being treated as a person of worth." Labels, the turned-toward vs. turned-away bodies, and the seated vs. standing figure, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-010-03-dignity-being-a-person-of-worth desc-L-04-010-03-dignity-being-a-person-of-worth">
+  <title id="title-L-04-010-03-dignity-being-a-person-of-worth">Dignity: being a person of worth</title>
+  <desc id="desc-L-04-010-03-dignity-being-a-person-of-worth">Two panels show the same scene treated two ways. In the left panel, labeled "dignity honored," a new child is greeted by name, given a seat, and listened to — the group's faces and open bodies turn toward them. In the right panel, labeled "dignity denied," the same child stands to the side, ignored and talked over, while the group turns away. A banner reads "dignity: being treated as a person of worth." Labels, the turned-toward vs. turned-away bodies, and the seated vs. standing figure, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Dignity: Being Treated as a Person of Worth</text>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="21.3" font-weight="bold" fill="#2b3a42">Dignity: Being Treated as a Person of Worth</text>
 
   <!-- ===== left panel: honored ===== -->
   <rect x="16" y="60" width="234" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

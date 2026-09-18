@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The register spectrum</title>
-  <desc id="desc">A horizontal line running from close and intimate on the left to formal and public on the right. Five settings are placed along it with labels: home with family, the market, the classroom, a ceremony, and a court. A note says every culture draws this line in its own way.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-004-04-register-spectrum desc-L-10-004-04-register-spectrum">
+  <title id="title-L-10-004-04-register-spectrum">The register spectrum</title>
+  <desc id="desc-L-10-004-04-register-spectrum">A horizontal line running from close and intimate on the left to formal and public on the right. Five settings are placed along it with labels: home with family, the market, the classroom, a ceremony, and a court. A note says every culture draws this line in its own way.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -11,8 +11,8 @@
   <polygon points="60,180 60,200 40,190" fill="#2b3a42"/>
   <polygon points="452,180 452,200 472,190" fill="#2b3a42"/>
 
-  <text x="60" y="148" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">close &amp; intimate</text>
-  <text x="452" y="148" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">formal &amp; public</text>
+  <text x="60" y="148" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#7a9e7e">close &amp; intimate</text>
+  <text x="452" y="148" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">formal &amp; public</text>
 
   <!-- Placements -->
   <g font-family="sans-serif" font-size="14" fill="#222222" text-anchor="middle">

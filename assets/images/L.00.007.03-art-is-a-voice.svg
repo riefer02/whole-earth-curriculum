@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Art is a voice: a picture says a feeling</title>
-  <desc id="desc">A child with medium brown skin draws a big smiling sun on a sheet of paper. A speech bubble above the child holds a small heart and the word "happy", because the picture is saying a feeling. A second child with deep brown skin points at the sun and asks in a speech bubble, "What does it say?" Both children are labeled by what they are doing — drawing and guessing — so the meaning does not rely on color, and the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-007-03-art-is-a-voice desc-L-00-007-03-art-is-a-voice">
+  <title id="title-L-00-007-03-art-is-a-voice">Art is a voice: a picture says a feeling</title>
+  <desc id="desc-L-00-007-03-art-is-a-voice">A child with medium brown skin draws a big smiling sun on a sheet of paper. A speech bubble above the child holds a small heart and the word "happy", because the picture is saying a feeling. A second child with deep brown skin points at the sun and asks in a speech bubble, "What does it say?" Both children are labeled by what they are doing — drawing and guessing — so the meaning does not rely on color, and the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -78,5 +78,5 @@
     <text x="436" y="288" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">it say?</text>
   </g>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">You said something today — and no one needed to hear a word.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">You said something today — and no one needed to hear a word.</text>
 </svg>

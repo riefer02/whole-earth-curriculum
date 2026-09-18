@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Gene Expression and the Environment</title>
-  <desc id="desc">Two panels showing identical plants grown in sun and shade with the same labeled gene switches, some turned on in the sun and some off in the shade, producing different shapes — genotype versus environment and phenotype.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-006-06-gene-expression-environment desc-L-10-006-06-gene-expression-environment">
+  <title id="title-L-10-006-06-gene-expression-environment">Gene Expression and the Environment</title>
+  <desc id="desc-L-10-006-06-gene-expression-environment">Two panels showing identical plants grown in sun and shade with the same labeled gene switches, some turned on in the sun and some off in the shade, producing different shapes — genotype versus environment and phenotype.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Same Genes, Different Environment</text>
 
@@ -32,5 +32,5 @@
     <text x="365" y="414" text-anchor="middle" fill="#222222">stretch: ON</text>
   </g>
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Genotype is the instructions; phenotype is the result.</text>
-  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The environment turns genes on and off &#8212; this is gene expression.</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">The environment turns genes on and off &#8212; this is gene expression.</text>
 </svg>

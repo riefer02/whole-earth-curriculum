@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Random sampling and bias</title>
-  <desc id="desc">A random sampling and bias diagram. A large grid of 100 dots (the population) has 30 dark dots and 70 light dots. A dashed circle (random sample) encloses a scattered mix that roughly matches the 30/70 split, labeled "random sample: representative." A second solid outline (biased sample) encloses only a corner full of dark dots, labeled "biased sample: misleading." A caption reads "a random sample reflects the whole; a biased one does not." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-005-13-random-sampling-bias desc-L-07-005-13-random-sampling-bias">
+  <title id="title-L-07-005-13-random-sampling-bias">Random sampling and bias</title>
+  <desc id="desc-L-07-005-13-random-sampling-bias">A random sampling and bias diagram. A large grid of 100 dots (the population) has 30 dark dots and 70 light dots. A dashed circle (random sample) encloses a scattered mix that roughly matches the 30/70 split, labeled "random sample: representative." A second solid outline (biased sample) encloses only a corner full of dark dots, labeled "biased sample: misleading." A caption reads "a random sample reflects the whole; a biased one does not." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -54,7 +54,7 @@
   <rect x="48" y="70" width="120" height="90" fill="none" stroke="#e0a458" stroke-width="3"/>
   <text x="108" y="62" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#e0a458">biased sample</text>
 
-  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">a random sample reflects the whole; a biased one does not</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="16.1" font-weight="bold" fill="#222222">a random sample reflects the whole; a biased one does not</text>
   <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">every member has an equal chance in a random sample</text>
   <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">before trusting a conclusion, ask: who was left out?</text>
 </svg>

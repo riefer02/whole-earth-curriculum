@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Finding feelings in others: face, voice, and body clues</title>
-  <desc id="desc">Three labeled cards showing where to look for feelings in another person. The FACE card shows a face with eyes and a mouth. The VOICE card shows an open mouth with sound waves, labeled loud, quiet, fast, slow. The BODY card shows a small figure with drooping shoulders, labeled shoulders, hands, feet. A bottom banner reads "Look, Listen, Ask to be sure." Words and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-04-feeling-clues desc-L-00-001-04-feeling-clues">
+  <title id="title-L-00-001-04-feeling-clues">Finding feelings in others: face, voice, and body clues</title>
+  <desc id="desc-L-00-001-04-feeling-clues">Three labeled cards showing where to look for feelings in another person. The FACE card shows a face with eyes and a mouth. The VOICE card shows an open mouth with sound waves, labeled loud, quiet, fast, slow. The BODY card shows a small figure with drooping shoulders, labeled shoulders, hands, feet. A bottom banner reads "Look, Listen, Ask to be sure." Words and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -53,7 +53,7 @@
     <line x1="427" y1="237" x2="430" y2="266" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
     <ellipse cx="410" cy="270" rx="7" ry="4" fill="#2b3a42"/>
     <ellipse cx="432" cy="270" rx="7" ry="4" fill="#2b3a42"/>
-    <text x="421" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">shoulders &#183; hands &#183; feet</text>
+    <text x="421" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">shoulders &#183; hands &#183; feet</text>
   </g>
 
   <!-- Bottom banner -->

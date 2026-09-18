@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What power is, and who holds it</title>
-  <desc id="desc">A diagram about power. The top shows a definition: "Power is the ability to influence or decide — for yourself and others." Two panels follow. The left panel, labeled "POWER OVER," shows one figure standing above and three smaller figures below, labeled "one person or group decides for others." The right panel, labeled "POWER WITH," shows four equal figures in a circle holding hands, labeled "people deciding together." A bottom line asks "Who holds power in a community?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-009-09-what-is-power desc-L-06-009-09-what-is-power">
+  <title id="title-L-06-009-09-what-is-power">What power is, and who holds it</title>
+  <desc id="desc-L-06-009-09-what-is-power">A diagram about power. The top shows a definition: "Power is the ability to influence or decide — for yourself and others." Two panels follow. The left panel, labeled "POWER OVER," shows one figure standing above and three smaller figures below, labeled "one person or group decides for others." The right panel, labeled "POWER WITH," shows four equal figures in a circle holding hands, labeled "people deciding together." A bottom line asks "Who holds power in a community?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">What Is Power?</text>
   <rect x="22" y="66" width="468" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Power is the ability to influence or decide — for yourself and others.</text>
+  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#222222">Power is the ability to influence or decide — for yourself and others.</text>
   <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">It can be held by one person, a few, or many — and it can be shared.</text>
 
   <!-- Power over -->

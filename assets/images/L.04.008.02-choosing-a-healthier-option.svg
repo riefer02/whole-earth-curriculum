@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Choosing a healthier option</title>
-  <desc id="desc">Two simplified nutrition labels side by side for the same kind of food. Each label lists fiber, sugar, and salt with simple numbers. Label A has more fiber and less sugar and salt, so a green check mark points to it as the healthier choice. The choice is shown by comparing the numbers, with words and shapes, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-008-02-choosing-a-healthier-option desc-L-04-008-02-choosing-a-healthier-option">
+  <title id="title-L-04-008-02-choosing-a-healthier-option">Choosing a healthier option</title>
+  <desc id="desc-L-04-008-02-choosing-a-healthier-option">Two simplified nutrition labels side by side for the same kind of food. Each label lists fiber, sugar, and salt with simple numbers. Label A has more fiber and less sugar and salt, so a green check mark points to it as the healthier choice. The choice is shown by comparing the numbers, with words and shapes, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -52,5 +52,5 @@
     <text x="380" y="360" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">less fiber, more sugar and salt</text>
   </g>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">I read, I compare, I choose what helps my body. No food is bad, and no body is judged.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I read, I compare, I choose what helps my body. No food is bad, and no body is judged.</text>
 </svg>

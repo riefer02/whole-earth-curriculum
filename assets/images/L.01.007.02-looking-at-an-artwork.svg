@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Looking at an artwork: I notice and it makes me feel</title>
-  <desc id="desc">A woven cloth hangs in a frame on the left, labeled "a maker's work." In front of it, a small paper "notice frame" is shown over one corner so a viewer can focus on one small part. On the right are two labeled cards. The top card says "I notice" and asks what you see — a line, a shape, a color. The bottom card says "it makes me feel" and offers feeling words: happy, calm, curious, excited. A child stands at the bottom holding a notice frame up to one eye, looking at the cloth. Every meaning is carried by the words and shapes, so the picture prints clearly in grayscale and teaches that looking carefully means noticing one thing and naming one feeling, with no wrong answer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-007-02-looking-at-an-artwork desc-L-01-007-02-looking-at-an-artwork">
+  <title id="title-L-01-007-02-looking-at-an-artwork">Looking at an artwork: I notice and it makes me feel</title>
+  <desc id="desc-L-01-007-02-looking-at-an-artwork">A woven cloth hangs in a frame on the left, labeled "a maker's work." In front of it, a small paper "notice frame" is shown over one corner so a viewer can focus on one small part. On the right are two labeled cards. The top card says "I notice" and asks what you see — a line, a shape, a color. The bottom card says "it makes me feel" and offers feeling words: happy, calm, curious, excited. A child stands at the bottom holding a notice frame up to one eye, looking at the cloth. Every meaning is carried by the words and shapes, so the picture prints clearly in grayscale and teaches that looking carefully means noticing one thing and naming one feeling, with no wrong answer.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -51,12 +51,12 @@
     <text x="300" y="134" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">I notice ...</text>
     <text x="266" y="168" font-family="sans-serif" font-size="14" fill="#222222">What do you see?</text>
     <text x="266" y="188" font-family="sans-serif" font-size="13" fill="#4f6d7a">a line · a shape · a color</text>
-    <text x="266" y="208" font-family="sans-serif" font-size="13" fill="#4f6d7a">Everyone notices something different.</text>
+    <text x="266" y="208" font-family="sans-serif" font-size="12" fill="#4f6d7a">Everyone notices something different.</text>
   </g>
   <g>
     <rect x="246" y="240" width="244" height="128" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <path d="M270 244 C268 238 274 234 278 238 L282 234 C286 232 290 234 289 239 L290 244 C288 248 272 248 270 244 Z" fill="#c47a6b" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="300" y="276" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">it makes me feel ...</text>
+    <text x="300" y="276" font-family="sans-serif" font-size="18.9" font-weight="bold" fill="#2b3a42">it makes me feel ...</text>
     <text x="266" y="310" font-family="sans-serif" font-size="14" fill="#222222">How does it make you feel?</text>
     <text x="266" y="330" font-family="sans-serif" font-size="13" fill="#4f6d7a">happy · calm · curious · excited</text>
     <text x="266" y="350" font-family="sans-serif" font-size="13" fill="#4f6d7a">There is no wrong feeling.</text>

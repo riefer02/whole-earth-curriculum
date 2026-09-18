@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Right and wrong choices, with a reason</title>
-  <desc id="desc">Two panels compare a wrong and a right choice, each with a "because" reason. The left panel is labeled "wrong to do": one child knocks a block tower over and turns away while the other child stands with blocks scattered and a sad face, and a speech bubble says "because I wanted to be first." A note below says a reason helps us understand but does not make a wrong choice right. The right panel is labeled "right to do": the same two children smile and rebuild the tower together, and a speech bubble says "because I care how they feel." Labels, faces, and the because-bubbles, not color, carry the meaning, so it prints clearly in grayscale and teaches that right and wrong name the choice, not the child.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-010-01-right-and-wrong-with-a-reason desc-L-02-010-01-right-and-wrong-with-a-reason">
+  <title id="title-L-02-010-01-right-and-wrong-with-a-reason">Right and wrong choices, with a reason</title>
+  <desc id="desc-L-02-010-01-right-and-wrong-with-a-reason">Two panels compare a wrong and a right choice, each with a "because" reason. The left panel is labeled "wrong to do": one child knocks a block tower over and turns away while the other child stands with blocks scattered and a sad face, and a speech bubble says "because I wanted to be first." A note below says a reason helps us understand but does not make a wrong choice right. The right panel is labeled "right to do": the same two children smile and rebuild the tower together, and a speech bubble says "because I care how they feel." Labels, faces, and the because-bubbles, not color, carry the meaning, so it prints clearly in grayscale and teaches that right and wrong name the choice, not the child.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Right and Wrong, With a Reason</text>
-  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Same situation, two different choices &#8212; each with a reason</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">Same situation, two different choices &#8212; each with a reason</text>
 
   <rect x="20" y="86" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
   <rect x="266" y="86" width="226" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>

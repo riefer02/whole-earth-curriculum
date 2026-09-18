@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Decision fork: compare two choices by their consequences for others</title>
-  <desc id="desc">A decision-fork diagram. At the top, a box reads "you find a wallet on the path." Two branches split downward from it. The left branch, labeled "Choice A: return it," leads to a bubble that reads "the owner gets their money and papers back." The right branch, labeled "Choice B: keep it," leads to a bubble that reads "the owner loses what they need." Below, a caption reads "compare the consequences for others before you decide." Arrows and labels, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-011-02-two-choices-two-futures desc-L-05-011-02-two-choices-two-futures">
+  <title id="title-L-05-011-02-two-choices-two-futures">Decision fork: compare two choices by their consequences for others</title>
+  <desc id="desc-L-05-011-02-two-choices-two-futures">A decision-fork diagram. At the top, a box reads "you find a wallet on the path." Two branches split downward from it. The left branch, labeled "Choice A: return it," leads to a bubble that reads "the owner gets their money and papers back." The right branch, labeled "Choice B: keep it," leads to a bubble that reads "the owner loses what they need." Below, a caption reads "compare the consequences for others before you decide." Arrows and labels, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

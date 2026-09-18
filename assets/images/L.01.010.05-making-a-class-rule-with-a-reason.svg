@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Making a class rule with a reason</title>
-  <desc id="desc">The picture shows how a class makes a rule together. At the top, a large rule chart reads "Our class rule" with the rule "We listen when someone speaks" and, beside a small ear icon, the reason "because every voice matters." Below, a row of four children decides together. One child with a speech bubble holds a soft turn marker, another raises a hand, a third child using a wheelchair places a choice token forward, and a fourth child with a hearing aid raises a hand. The rule, the reason, and the different ways of showing a choice are all labeled, so the picture prints clearly in grayscale and teaches that a rule is made by everyone, each idea carrying a reason, and every voice matters — not just the loudest.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-010-05-making-a-class-rule-with-a-reason desc-L-01-010-05-making-a-class-rule-with-a-reason">
+  <title id="title-L-01-010-05-making-a-class-rule-with-a-reason">Making a class rule with a reason</title>
+  <desc id="desc-L-01-010-05-making-a-class-rule-with-a-reason">The picture shows how a class makes a rule together. At the top, a large rule chart reads "Our class rule" with the rule "We listen when someone speaks" and, beside a small ear icon, the reason "because every voice matters." Below, a row of four children decides together. One child with a speech bubble holds a soft turn marker, another raises a hand, a third child using a wheelchair places a choice token forward, and a fourth child with a hearing aid raises a hand. The rule, the reason, and the different ways of showing a choice are all labeled, so the picture prints clearly in grayscale and teaches that a rule is made by everyone, each idea carrying a reason, and every voice matters — not just the loudest.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Making a Class Rule With a Reason</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27.8" font-weight="bold" fill="#2b3a42">Making a Class Rule With a Reason</text>
 
   <!-- rule chart -->
   <rect x="40" y="70" width="432" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Competing answers: capabilities, fairness, ubuntu</title>
-  <desc id="desc">Three labeled circles, partially overlapping, each holding a short answer to who is responsible for poverty. Capabilities, fairness, and ubuntu, grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-010-07-competing-answers desc-L-10-010-07-competing-answers">
+  <title id="title-L-10-010-07-competing-answers">Competing answers: capabilities, fairness, ubuntu</title>
+  <desc id="desc-L-10-010-07-competing-answers">Three labeled circles, partially overlapping, each holding a short answer to who is responsible for poverty. Capabilities, fairness, and ubuntu, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <!-- three overlapping circles -->
@@ -16,6 +16,6 @@
     <text x="256" y="310" font-size="16" font-weight="bold" fill="#2b3a42">ubuntu</text>
     <text x="256" y="334" font-size="12" fill="#222222">"I am because we are" —</text>
     <text x="256" y="352" font-size="12" fill="#222222">no one left out</text>
-    <text x="256" y="470" font-size="14" fill="#222222">three languages for the same question</text>
+    <text x="256" y="470" font-size="12.4" fill="#222222">three languages for the same question</text>
   </g>
 </svg>

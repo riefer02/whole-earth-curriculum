@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Measuring liquid volume: one liter equals one thousand milliliters</title>
-  <desc id="desc">A one-liter bottle and a smaller cup marked two hundred fifty milliliters. A pouring arrow shows four cups filling the liter bottle. Labels read one liter equals one thousand milliliters, and a note says estimate first, then measure to check.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-005-14-liquid-volume desc-L-03-005-14-liquid-volume">
+  <title id="title-L-03-005-14-liquid-volume">Measuring liquid volume: one liter equals one thousand milliliters</title>
+  <desc id="desc-L-03-005-14-liquid-volume">A one-liter bottle and a smaller cup marked two hundred fifty milliliters. A pouring arrow shows four cups filling the liter bottle. Labels read one liter equals one thousand milliliters, and a note says estimate first, then measure to check.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Liquid Volume: Liters &amp; Milliliters</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="23.5" font-weight="bold" fill="#2b3a42">Liquid Volume: Liters &amp; Milliliters</text>
 
   <!-- Liter bottle -->
   <rect x="120" y="110" width="90" height="200" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>

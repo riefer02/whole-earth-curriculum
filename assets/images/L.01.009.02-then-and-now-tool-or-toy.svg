@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Then and now: a tool and a toy, neither better</title>
-  <desc id="desc">A two-by-two grid compares one thing from long ago with one thing today. The left column is labeled long ago and shows a clay pot and a hand-carved spinning top. The right column is labeled today and shows a jug and a store top. The top row is a tool for holding water: both the clay pot and the jug hold water. The bottom row is a toy: both the carved top and the store top spin. The labels and the matching shapes, not color, carry the meaning, so the picture prints clearly in grayscale and shows that neither way is better, only different.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-009-02-then-and-now-tool-or-toy desc-L-01-009-02-then-and-now-tool-or-toy">
+  <title id="title-L-01-009-02-then-and-now-tool-or-toy">Then and now: a tool and a toy, neither better</title>
+  <desc id="desc-L-01-009-02-then-and-now-tool-or-toy">A two-by-two grid compares one thing from long ago with one thing today. The left column is labeled long ago and shows a clay pot and a hand-carved spinning top. The right column is labeled today and shows a jug and a store top. The top row is a tool for holding water: both the clay pot and the jug hold water. The bottom row is a toy: both the carved top and the store top spin. The labels and the matching shapes, not color, carry the meaning, so the picture prints clearly in grayscale and shows that neither way is better, only different.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Then and Now &#183; A Tool or Toy</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27.8" font-weight="bold" fill="#2b3a42">Then and Now &#183; A Tool or Toy</text>
 
   <line x1="256" y1="70" x2="256" y2="470" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
 
@@ -52,6 +52,6 @@
     <text x="384" y="430" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">store top</text>
   </g>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">Both hold water &#183; Both spin &#183; Neither is better</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16.1" fill="#4f6d7a">Both hold water &#183; Both spin &#183; Neither is better</text>
   <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Different ways people solve the same job</text>
 </svg>

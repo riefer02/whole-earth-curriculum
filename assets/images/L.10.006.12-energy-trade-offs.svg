@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Energy Trade-Offs</title>
-  <desc id="desc">A balance scale weighing environmental and social costs on one side against benefits on the other for an energy source, with labeled weights for emissions, land, water, waste, jobs, and access.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-006-12-energy-trade-offs desc-L-10-006-12-energy-trade-offs">
+  <title id="title-L-10-006-12-energy-trade-offs">Energy Trade-Offs</title>
+  <desc id="desc-L-10-006-12-energy-trade-offs">A balance scale weighing environmental and social costs on one side against benefits on the other for an energy source, with labeled weights for emissions, land, water, waste, jobs, and access.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Weighing an Energy Source</text>
 
@@ -30,7 +30,7 @@
   <!-- Justice note -->
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">The burden falls unevenly</text>
   <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Who breathes the smoke, loses the land, or goes without?</text>
-  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">The &#8220;cleanest&#8221; and the &#8220;fairest&#8221; source are not always the same.</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">The &#8220;cleanest&#8221; and the &#8220;fairest&#8221; source are not always the same.</text>
 
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">The question is not &#8220;which is perfect?&#8221; but &#8220;which mix is fairest?&#8221;</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">The question is not &#8220;which is perfect?&#8221; but &#8220;which mix is fairest?&#8221;</text>
 </svg>

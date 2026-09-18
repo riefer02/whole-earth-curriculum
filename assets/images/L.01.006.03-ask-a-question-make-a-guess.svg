@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A wondering child asking a question and making a guess</title>
-  <desc id="desc">A child in a wheelchair rests a hand on their chin, with a thought bubble holding a question mark. Beside them, three stacked steps connected by arrows show the science rhythm: I wonder, I think, I can check by — each with a small icon (a question mark, a lightbulb, an eye). Words and shapes, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-006-03-ask-a-question-make-a-guess desc-L-01-006-03-ask-a-question-make-a-guess">
+  <title id="title-L-01-006-03-ask-a-question-make-a-guess">A wondering child asking a question and making a guess</title>
+  <desc id="desc-L-01-006-03-ask-a-question-make-a-guess">A child in a wheelchair rests a hand on their chin, with a thought bubble holding a question mark. Beside them, three stacked steps connected by arrows show the science rhythm: I wonder, I think, I can check by — each with a small icon (a question mark, a lightbulb, an eye). Words and shapes, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Two peoples, two places comparison</title>
-  <desc id="desc">A comparison chart with two columns and four rows. The two column headers are "Arctic people" and "desert people." The rows are labeled "place," "food," "shelter," and "clothing," with a simple icon in each cell: snow and sun for place, fish and dates for food, a snow house and a tent for shelter, and a parka and a robe for clothing. Labels and shapes, not color, carry the meaning so it prints in grayscale, and neither column is marked better.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-009-09-two-peoples-two-places desc-L-03-009-09-two-peoples-two-places">
+  <title id="title-L-03-009-09-two-peoples-two-places">Two peoples, two places comparison</title>
+  <desc id="desc-L-03-009-09-two-peoples-two-places">A comparison chart with two columns and four rows. The two column headers are "Arctic people" and "desert people." The rows are labeled "place," "food," "shelter," and "clothing," with a simple icon in each cell: snow and sun for place, fish and dates for food, a snow house and a tent for shelter, and a parka and a robe for clothing. Labels and shapes, not color, carry the meaning so it prints in grayscale, and neither column is marked better.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Two Peoples, Two Places</text>

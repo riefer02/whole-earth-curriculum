@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Having a say</title>
-  <desc id="desc">Two circles of people compare a fair group and an unfair group. The left circle shows five people all with speech bubbles, labeled "everyone has a say — fair." The right circle shows four people speaking while one person sits outside the circle with no bubble, labeled "someone is left out — unfair." A small question sits between them. Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-009-08-power-and-a-say desc-L-03-009-08-power-and-a-say">
+  <title id="title-L-03-009-08-power-and-a-say">Having a say</title>
+  <desc id="desc-L-03-009-08-power-and-a-say">Two circles of people compare a fair group and an unfair group. The left circle shows five people all with speech bubbles, labeled "everyone has a say — fair." The right circle shows four people speaking while one person sits outside the circle with no bubble, labeled "someone is left out — unfair." A small question sits between them. Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Having a Say</text>
-  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A say means your voice helps decide what happens in the group.</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">A say means your voice helps decide what happens in the group.</text>
 
   <!-- left circle -->
   <rect x="30" y="96" width="218" height="240" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
@@ -47,6 +47,6 @@
   <text x="373" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">&#8594; the choice can be unfair</text>
 
   <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Having a say means your voice helps decide.</text>
-  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">When someone is left out, the group can notice — and invite them in.</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#222222">When someone is left out, the group can notice — and invite them in.</text>
   <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every voice matters. A fair group makes room for all.</text>
 </svg>

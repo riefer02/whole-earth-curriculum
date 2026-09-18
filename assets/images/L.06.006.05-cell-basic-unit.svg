@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Cells: the basic unit of life</title>
-  <desc id="desc">A diagram of cells as the basic unit of life. On the left, an animal cell is a rounded shape with a labeled outer membrane, a central labeled nucleus, and labeled cytoplasm filling the inside. In the middle, a plant cell is a more boxy shape with a thick labeled cell wall outside the membrane, a nucleus, cytoplasm, and small labeled chloroplasts. On the right, a single-celled organism (an amoeba) is one irregular cell with a nucleus, labeled one cell equals one whole living thing. A title reads: cells are the basic unit of life. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-006-05-cell-basic-unit desc-L-06-006-05-cell-basic-unit">
+  <title id="title-L-06-006-05-cell-basic-unit">Cells: the basic unit of life</title>
+  <desc id="desc-L-06-006-05-cell-basic-unit">A diagram of cells as the basic unit of life. On the left, an animal cell is a rounded shape with a labeled outer membrane, a central labeled nucleus, and labeled cytoplasm filling the inside. In the middle, a plant cell is a more boxy shape with a thick labeled cell wall outside the membrane, a nucleus, cytoplasm, and small labeled chloroplasts. On the right, a single-celled organism (an amoeba) is one irregular cell with a nucleus, labeled one cell equals one whole living thing. A title reads: cells are the basic unit of life. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -46,7 +46,7 @@
     <path d="M40,30 C70,10 100,20 110,50 C120,80 100,120 70,130 C40,140 10,120 8,80 C6,50 20,40 40,30 Z"
           fill="#e0a458" fill-opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="60" cy="75" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="40" y="188" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">one cell = one living thing</text>
+    <text x="40" y="188" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">one cell = one living thing</text>
     <text x="40" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">an amoeba</text>
   </g>
 

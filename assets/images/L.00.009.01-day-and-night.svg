@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Day and night, side by side</title>
-  <desc id="desc">Two panels. The left panel shows daytime: a sun with rays over a green hill with a small plant. The right panel shows nighttime: a crescent moon and stars over a dark hill. Each panel is labeled "Day" and "Night," and the difference is shown by light versus dark, not by color alone, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-009-01-day-and-night desc-L-00-009-01-day-and-night">
+  <title id="title-L-00-009-01-day-and-night">Day and night, side by side</title>
+  <desc id="desc-L-00-009-01-day-and-night">Two panels. The left panel shows daytime: a sun with rays over a green hill with a small plant. The right panel shows nighttime: a crescent moon and stars over a dark hill. Each panel is labeled "Day" and "Night," and the difference is shown by light versus dark, not by color alone, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

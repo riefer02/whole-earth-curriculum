@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Teamwork: games from around the world</title>
-  <desc id="desc">Three cards side by side. Card one, kabaddi from South Asia, shows two players and a line with a chant, noting teamwork of timing and rescue. Card two, kho-kho from South Asia, shows players chasing around a row, noting teamwork of taking turns. Card three, sepak takraw from Southeast Asia, shows a player kicking a rattan ball over a net, noting teamwork of passing to set each other up. Labels and shapes carry the meaning so the image prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-002-04-teamwork-games-around-the-world desc-L-07-002-04-teamwork-games-around-the-world">
+  <title id="title-L-07-002-04-teamwork-games-around-the-world">Teamwork: games from around the world</title>
+  <desc id="desc-L-07-002-04-teamwork-games-around-the-world">Three cards side by side. Card one, kabaddi from South Asia, shows two players and a line with a chant, noting teamwork of timing and rescue. Card two, kho-kho from South Asia, shows players chasing around a row, noting teamwork of taking turns. Card three, sepak takraw from Southeast Asia, shows a player kicking a rattan ball over a net, noting teamwork of passing to set each other up. Labels and shapes carry the meaning so the image prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -56,5 +56,5 @@
     <text x="417" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">and knees, setting up.</text>
   </g>
 
-  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Three lands, one language: share roles, talk, help each other.</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#2b3a42">Three lands, one language: share roles, talk, help each other.</text>
 </svg>

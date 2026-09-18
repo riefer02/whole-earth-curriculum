@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Rational Functions: Ratios That Model Rates</title>
-  <desc id="desc">A rational function graph with a dashed vertical asymptote where the denominator is zero and a dashed horizontal asymptote, beside a small table showing cost per person shrinking as the number of people grows.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-005-06-rational-functions desc-L-10-005-06-rational-functions">
+  <title id="title-L-10-005-06-rational-functions">Rational Functions: Ratios That Model Rates</title>
+  <desc id="desc-L-10-005-06-rational-functions">A rational function graph with a dashed vertical asymptote where the denominator is zero and a dashed horizontal asymptote, beside a small table showing cost per person shrinking as the number of people grows.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">A Rational Function: f(x) = (x+1)/(x&#8722;2)</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20.4" fill="#2b3a42" font-weight="bold">A Rational Function: f(x) = (x+1)/(x&#8722;2)</text>
 
   <!-- Axes -->
   <line x1="60" y1="300" x2="340" y2="300" stroke="#2b3a42" stroke-width="2"/>
@@ -41,5 +41,5 @@
   <text x="420" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">share shrinks toward 0,</text>
   <text x="420" y="268" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">never quite zero.</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Vertical asymptote: denominator = 0. Horizontal asymptote: the ratio's long-run value.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Vertical asymptote: denominator = 0. Horizontal asymptote: the ratio's long-run value.</text>
 </svg>

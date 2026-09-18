@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Many words for one feeling, across languages</title>
-  <desc id="desc">Four speech bubbles each hold an emotion word from a different language, with a shared glowing heart at the center showing they all name the same felt experience in richer or different ways.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-02-words-culture-gave-me desc-L-10-001-02-words-culture-gave-me">
+  <title id="title-L-10-001-02-words-culture-gave-me">Many words for one feeling, across languages</title>
+  <desc id="desc-L-10-001-02-words-culture-gave-me">Four speech bubbles each hold an emotion word from a different language, with a shared glowing heart at the center showing they all name the same felt experience in richer or different ways.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- central heart -->
   <path d="M256 278 C244 262 218 268 218 284 C218 300 256 320 256 320 C256 320 294 300 294 284 C294 268 268 262 256 278 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>

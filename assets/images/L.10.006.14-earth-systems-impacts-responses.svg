@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Human Impacts on Earth Systems</title>
-  <desc id="desc">A diagram of Earth's connected systems — atmosphere, ocean, land, and ice — with arrows showing human drivers of change entering each, and a response column showing mitigation and adaptation feeding back toward balance.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-006-14-earth-systems-impacts-responses desc-L-10-006-14-earth-systems-impacts-responses">
+  <title id="title-L-10-006-14-earth-systems-impacts-responses">Human Impacts on Earth Systems</title>
+  <desc id="desc-L-10-006-14-earth-systems-impacts-responses">A diagram of Earth's connected systems — atmosphere, ocean, land, and ice — with arrows showing human drivers of change entering each, and a response column showing mitigation and adaptation feeding back toward balance.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Earth&#8217;s Connected Systems</text>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My Place in the Living World</title>
-  <desc id="desc">A web of life. A central figure labeled 'me' is connected by lines to six surrounding nodes labeled food, water, air, soil, sun, and other species. A caption reads 'a living being among living beings.' Labels carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-011-11-my-place-in-the-living-world desc-L-12-011-11-my-place-in-the-living-world">
+  <title id="title-L-12-011-11-my-place-in-the-living-world">My Place in the Living World</title>
+  <desc id="desc-L-12-011-11-my-place-in-the-living-world">A web of life. A central figure labeled 'me' is connected by lines to six surrounding nodes labeled food, water, air, soil, sun, and other species. A caption reads 'a living being among living beings.' Labels carry the meaning, so it prints in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">The Web of Life</text>

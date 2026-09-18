@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Putting the six ideas together</title>
-  <desc id="desc">A synthesis map linking six ideas in a ring: matter cycles and energy flows; disruptions affect carrying capacity; biodiversity gives resilience; energy is conserved; atoms bond with energy; greenhouse gases and deep time. The center reads "evidence-based explanations."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-008-10-capstone-map desc-L-09-008-10-capstone-map">
+  <title id="title-L-09-008-10-capstone-map">Putting the six ideas together</title>
+  <desc id="desc-L-09-008-10-capstone-map">A synthesis map linking six ideas in a ring: matter cycles and energy flows; disruptions affect carrying capacity; biodiversity gives resilience; energy is conserved; atoms bond with energy; greenhouse gases and deep time. The center reads "evidence-based explanations."</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Six Ideas, One Picture of the Natural World</text>
@@ -54,6 +54,6 @@
     <line x1="186" y1="192" x2="156" y2="186"/>
   </g>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Living systems, physical systems, and our origins are one connected story —</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">Living systems, physical systems, and our origins are one connected story —</text>
   <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">told with evidence, held with wonder, open to every honest question.</text>
 </svg>

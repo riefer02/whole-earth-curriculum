@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Four ways writing systems encode meaning</title>
-  <desc id="desc">Four panels. Alphabet: the Greek word for mother, mu eta tau eta rho alpha, with a note that vowels and consonants are each written. Abjad: the Arabic word kitab for book, with a note that consonants are written and short vowels omitted. Abugida: the Devanagari signs ka, kaa, and ki, with a note that a consonant carries an inherent vowel changed by small marks. Character: the Chinese characters for water, tree, and person, with a note that each stands for a syllable plus a meaning. Transliterations and labels carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-004-06-how-writing-systems-encode-meaning desc-L-12-004-06-how-writing-systems-encode-meaning">
+  <title id="title-L-12-004-06-how-writing-systems-encode-meaning">Four ways writing systems encode meaning</title>
+  <desc id="desc-L-12-004-06-how-writing-systems-encode-meaning">Four panels. Alphabet: the Greek word for mother, mu eta tau eta rho alpha, with a note that vowels and consonants are each written. Abjad: the Arabic word kitab for book, with a note that consonants are written and short vowels omitted. Abugida: the Devanagari signs ka, kaa, and ki, with a note that a consonant carries an inherent vowel changed by small marks. Character: the Chinese characters for water, tree, and person, with a note that each stands for a syllable plus a meaning. Transliterations and labels carry the meaning, so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -48,11 +48,11 @@
     <rect x="262" y="262" width="232" height="36" rx="10" fill="#cbb79a"/>
     <text x="378" y="286" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">character</text>
     <text x="378" y="346" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#2b3a42">水  木  人</text>
-    <text x="378" y="372" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">shu&#464; "water" · m&#249; "tree" · r&#233;n "person"</text>
+    <text x="378" y="372" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">shu&#464; "water" · m&#249; "tree" · r&#233;n "person"</text>
     <text x="378" y="398" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">each stands for a syllable + a meaning</text>
     <text x="378" y="416" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(morphosyllabic — not a "picture of an idea")</text>
     <text x="378" y="438" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one mark &#8776; one morpheme-syllable</text>
   </g>
 
-  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">four complete solutions — no one script is "more logical" than another</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#4f6d7a">four complete solutions — no one script is "more logical" than another</text>
 </svg>

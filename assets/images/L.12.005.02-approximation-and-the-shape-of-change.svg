@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Approximation and the Shape of Change</title>
-  <desc id="desc">A smooth curve with a secant line cutting across two points labeled P and Q and a tangent line touching at point P only. Labels mark the secant as average slope over an interval and the tangent as the instantaneous slope, with a note that shrinking the interval turns the secant into the tangent.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-02-approximation-and-the-shape-of-change desc-L-12-005-02-approximation-and-the-shape-of-change">
+  <title id="title-L-12-005-02-approximation-and-the-shape-of-change">Approximation and the Shape of Change</title>
+  <desc id="desc-L-12-005-02-approximation-and-the-shape-of-change">A smooth curve with a secant line cutting across two points labeled P and Q and a tangent line touching at point P only. Labels mark the secant as average slope over an interval and the tangent as the instantaneous slope, with a note that shrinking the interval turns the secant into the tangent.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Average Slope Becomes Instantaneous Slope</text>
@@ -30,5 +30,5 @@
 
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Shrink the interval: the secant turns into the tangent.</text>
   <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The instantaneous rate is the limit of average rates.</text>
-  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Approximating ever more finely is ancient and worldwide (S-430, S-272).</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">Approximating ever more finely is ancient and worldwide (S-430, S-272).</text>
 </svg>

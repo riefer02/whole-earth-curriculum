@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Weighing it: a decision in two time scales</title>
-  <desc id="desc">A balance scale with two pans. The left pan is labeled "now" and holds one small stone; the right pan is labeled "later" and holds three stones, tipping the scale down. A center label reads "which weighs more for me?". Outline and label only, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-001-09-balance-scale desc-L-08-001-09-balance-scale">
+  <title id="title-L-08-001-09-balance-scale">Weighing it: a decision in two time scales</title>
+  <desc id="desc-L-08-001-09-balance-scale">A balance scale with two pans. The left pan is labeled "now" and holds one small stone; the right pan is labeled "later" and holds three stones, tipping the scale down. A center label reads "which weighs more for me?". Outline and label only, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

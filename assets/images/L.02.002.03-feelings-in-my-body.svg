@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Feelings in my body</title>
-  <desc id="desc">A body map showing a simple child body outline with four feeling spots marked by shapes. A fast heartbeat (a star, for excited and scared), a fluttery tummy (a triangle, for nervous), warm hot cheeks (a circle, for mad and embarrassed), and heavy shoulders (a diamond, for sad). A legend on the right repeats each shape with its body spot and the feelings that live there. The body is drawn in a neutral tone so any learner can see it as their own body. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-002-03-feelings-in-my-body desc-L-02-002-03-feelings-in-my-body">
+  <title id="title-L-02-002-03-feelings-in-my-body">Feelings in my body</title>
+  <desc id="desc-L-02-002-03-feelings-in-my-body">A body map showing a simple child body outline with four feeling spots marked by shapes. A fast heartbeat (a star, for excited and scared), a fluttery tummy (a triangle, for nervous), warm hot cheeks (a circle, for mad and embarrassed), and heavy shoulders (a diamond, for sad). A legend on the right repeats each shape with its body spot and the feelings that live there. The body is drawn in a neutral tone so any learner can see it as their own body. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Feelings in My Body</text>

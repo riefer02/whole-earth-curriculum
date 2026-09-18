@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Same event, different thoughts, different feelings</title>
-  <desc id="desc">A two-row chart showing the same event leading to two different thoughts and two different feelings. The top row shows a rainy day, the thought "our game is ruined," and a worried face. The bottom row shows the same rainy day, the thought "the garden needs this," and a calm smiling face. Columns are labeled event, thought, and feeling. Shapes and labels, not color alone, carry the meaning so the chart prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-002-01-thoughts-shape-feelings desc-L-05-002-01-thoughts-shape-feelings">
+  <title id="title-L-05-002-01-thoughts-shape-feelings">Same event, different thoughts, different feelings</title>
+  <desc id="desc-L-05-002-01-thoughts-shape-feelings">A two-row chart showing the same event leading to two different thoughts and two different feelings. The top row shows a rainy day, the thought "our game is ruined," and a worried face. The bottom row shows the same rainy day, the thought "the garden needs this," and a calm smiling face. Columns are labeled event, thought, and feeling. Shapes and labels, not color alone, carry the meaning so the chart prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

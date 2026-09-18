@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Two peoples meet their needs</title>
-  <desc id="desc">Two panels compare how two peoples meet the same needs in different places. The left panel, "the Arctic — cold," shows a warm parka, a snow house, and a fish on a line, labeled clothing, shelter, food. The right panel, "the desert — hot and dry," shows a light loose robe, a tent, and dates with a milk bowl, labeled clothing, shelter, food. The place shapes each choice, and labels and shapes carry the meaning so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-009-03-two-peoples-basic-needs desc-L-03-009-03-two-peoples-basic-needs">
+  <title id="title-L-03-009-03-two-peoples-basic-needs">Two peoples meet their needs</title>
+  <desc id="desc-L-03-009-03-two-peoples-basic-needs">Two panels compare how two peoples meet the same needs in different places. The left panel, "the Arctic — cold," shows a warm parka, a snow house, and a fish on a line, labeled clothing, shelter, food. The right panel, "the desert — hot and dry," shows a light loose robe, a tent, and dates with a milk bowl, labeled clothing, shelter, food. The place shapes each choice, and labels and shapes carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Two Peoples, Two Ways to Meet Needs</text>
-  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The same needs — food, shelter, clothing — answered by the place.</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">The same needs — food, shelter, clothing — answered by the place.</text>
 
   <!-- left: Arctic -->
   <rect x="30" y="92" width="218" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>

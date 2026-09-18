@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My All About Me page</title>
-  <desc id="desc">A large "All About Me" page with six labeled boxes and a self-portrait spot. The boxes are: a feeling (a smiling face), a fact (a star), a proud thing (a growing plant), a family tradition (a small house), a community (a circle with connecting dots), and a kind act (a hand and a heart). A line for "my name" and a round "me" self-portrait sit at the top. Word labels carry the meaning, not color, so the page prints in grayscale. The closing line teaches that the page can be made by writing, drawing, pasting, pointing, or signing — every page is a whole person's story.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-012-06-all-about-me-page desc-L-01-012-06-all-about-me-page">
+  <title id="title-L-01-012-06-all-about-me-page">My All About Me page</title>
+  <desc id="desc-L-01-012-06-all-about-me-page">A large "All About Me" page with six labeled boxes and a self-portrait spot. The boxes are: a feeling (a smiling face), a fact (a star), a proud thing (a growing plant), a family tradition (a small house), a community (a circle with connecting dots), and a kind act (a hand and a heart). A line for "my name" and a round "me" self-portrait sit at the top. Word labels carry the meaning, not color, so the page prints in grayscale. The closing line teaches that the page can be made by writing, drawing, pasting, pointing, or signing — every page is a whole person's story.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -63,5 +63,5 @@
   <path d="M414 344 Q402 336 398 348 L398 356 Q404 366 414 360 Q424 366 430 356 L430 348 Q426 336 414 344 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <path d="M420 340 Q416 336 420 332 Q424 336 420 340 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.4"/>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">I can write, draw, paste, point, or sign — every page is a whole story.</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">I can write, draw, paste, point, or sign — every page is a whole story.</text>
 </svg>

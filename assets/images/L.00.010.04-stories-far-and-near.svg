@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Stories from far and near: a storyteller and a listening circle</title>
-  <desc id="desc">A storyteller sits on a mat in the center of a circle of listeners with varied skin tones and hair. One listener uses a wheelchair and one wears a hearing aid. A dotted path loops from a small globe through the storyteller's raised hands to the listeners, showing a story traveling from far and near. No one is dressed as a costume; the focus is respectful listening. Prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-010-04-stories-far-and-near desc-L-00-010-04-stories-far-and-near">
+  <title id="title-L-00-010-04-stories-far-and-near">Stories from far and near: a storyteller and a listening circle</title>
+  <desc id="desc-L-00-010-04-stories-far-and-near">A storyteller sits on a mat in the center of a circle of listeners with varied skin tones and hair. One listener uses a wheelchair and one wears a hearing aid. A dotted path loops from a small globe through the storyteller's raised hands to the listeners, showing a story traveling from far and near. No one is dressed as a costume; the focus is respectful listening. Prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -73,5 +73,5 @@
     <line x1="364" y1="426" x2="364" y2="452" stroke="#2b3a42" stroke-width="3"/>
   </g>
 
-  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">Every people tells stories &#183; listening is a gift</text>
+  <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="17.3" fill="#4f6d7a">Every people tells stories &#183; listening is a gift</text>
 </svg>

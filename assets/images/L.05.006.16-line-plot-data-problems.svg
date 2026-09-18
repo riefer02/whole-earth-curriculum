@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Line-plot data problems</title>
-  <desc id="desc">A line plot of weekly rainwater collected, marked in eighths of a unit, with X marks stacked above 1/2, 5/8, 3/4, and 1. Beside the plot, a panel lists the questions it answers: the total of all weeks by adding fractions, the range as largest minus smallest, the most common amount, and a conversion note that 8 eighths make 1 whole unit. Labels and marks, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-16-line-plot-data-problems desc-L-05-006-16-line-plot-data-problems">
+  <title id="title-L-05-006-16-line-plot-data-problems">Line-plot data problems</title>
+  <desc id="desc-L-05-006-16-line-plot-data-problems">A line plot of weekly rainwater collected, marked in eighths of a unit, with X marks stacked above 1/2, 5/8, 3/4, and 1. Beside the plot, a panel lists the questions it answers: the total of all weeks by adding fractions, the range as largest minus smallest, the most common amount, and a conversion note that 8 eighths make 1 whole unit. Labels and marks, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Line-Plot Data Problems: The Rainwater Story</text>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20.8" font-weight="bold" fill="#2b3a42">Line-Plot Data Problems: The Rainwater Story</text>
   <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">centimeters of rain each week, in eighths</text>
 
   <!-- number line -->

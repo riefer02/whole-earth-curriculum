@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My identity: me then and me now</title>
-  <desc id="desc">A two-panel timeline. The left panel is labeled "me then" and shows a younger child. The right panel is labeled "me now" and shows an older young person. An arrow points from left to right between them, with small labels underneath reading "interests changed," "abilities grew," "values deepened," and "relationships shifted." A caption reads "I am a story still being written." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-001-05-changing-story desc-L-07-001-05-changing-story">
+  <title id="title-L-07-001-05-changing-story">My identity: me then and me now</title>
+  <desc id="desc-L-07-001-05-changing-story">A two-panel timeline. The left panel is labeled "me then" and shows a younger child. The right panel is labeled "me now" and shows an older young person. An arrow points from left to right between them, with small labels underneath reading "interests changed," "abilities grew," "values deepened," and "relationships shifted." A caption reads "I am a story still being written." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reading, writing and many languages</title>
-  <desc id="desc">Three emblems stand in a row around a globe: an open book for reading, a pencil writing on paper for writing, and two speech bubbles for many languages, all joined by a gentle ribbon. The caption reads "reading, writing, and many languages — my treasures." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that reading, writing, and many languages are all parts of one connected whole in their lives.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-004-15-reading-writing-and-many-languages desc-L-03-004-15-reading-writing-and-many-languages">
+  <title id="title-L-03-004-15-reading-writing-and-many-languages">Reading, writing and many languages</title>
+  <desc id="desc-L-03-004-15-reading-writing-and-many-languages">Three emblems stand in a row around a globe: an open book for reading, a pencil writing on paper for writing, and two speech bubbles for many languages, all joined by a gentle ribbon. The caption reads "reading, writing, and many languages — my treasures." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that reading, writing, and many languages are all parts of one connected whole in their lives.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Reading, Writing &amp; Many Languages</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="24.8" font-weight="bold" fill="#2b3a42">Reading, Writing &amp; Many Languages</text>
 
   <!-- open book -->
   <path d="M70 190 Q110 170 150 190 L150 240 Q110 220 70 240 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

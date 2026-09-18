@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Meet my body parts</title>
-  <desc id="desc">A front-facing body drawn in a neutral tone with five labeled parts. Leader lines point from the words head, arms, legs, hands, and feet to the matching part on the body. The parts are named with words and pointed to with lines, so the meaning does not depend on color and it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-002-01-meet-my-body-parts desc-L-01-002-01-meet-my-body-parts">
+  <title id="title-L-01-002-01-meet-my-body-parts">Meet my body parts</title>
+  <desc id="desc-L-01-002-01-meet-my-body-parts">A front-facing body drawn in a neutral tone with five labeled parts. Leader lines point from the words head, arms, legs, hands, and feet to the matching part on the body. The parts are named with words and pointed to with lines, so the meaning does not depend on color and it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

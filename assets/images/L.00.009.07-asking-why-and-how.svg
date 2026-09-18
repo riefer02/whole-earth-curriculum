@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Asking why and how</title>
-  <desc id="desc">A wondering child with a raised finger looks at a leaf and a seed on a table in front of them. Two speech bubbles above the child hold the question words "Why?" and "How?". A box to the right is labeled "Wonder box," where questions can be dropped. A small lightbulb marks the child's own idea. The scene shows that wondering and asking is how every curious person begins, and it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-009-07-asking-why-and-how desc-L-00-009-07-asking-why-and-how">
+  <title id="title-L-00-009-07-asking-why-and-how">Asking why and how</title>
+  <desc id="desc-L-00-009-07-asking-why-and-how">A wondering child with a raised finger looks at a leaf and a seed on a table in front of them. Two speech bubbles above the child hold the question words "Why?" and "How?". A box to the right is labeled "Wonder box," where questions can be dropped. A small lightbulb marks the child's own idea. The scene shows that wondering and asking is how every curious person begins, and it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -70,5 +70,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">There are no silly questions. Ask, then share your own idea.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">There are no silly questions. Ask, then share your own idea.</text>
 </svg>

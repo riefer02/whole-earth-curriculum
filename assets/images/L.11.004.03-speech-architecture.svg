@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Speech architecture scaffold</title>
-  <desc id="desc">A six-box scaffold for building a persuasive speech, arranged in a column. Top box: claim. Next: reason one and reason two. Then: evidence. Then two boxes joined by a bracket labeled "steelman, not straw man": strongest counterargument and honest response. Arrows flow downward through the column.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-004-03-speech-architecture desc-L-11-004-03-speech-architecture">
+  <title id="title-L-11-004-03-speech-architecture">Speech architecture scaffold</title>
+  <desc id="desc-L-11-004-03-speech-architecture">A six-box scaffold for building a persuasive speech, arranged in a column. Top box: claim. Next: reason one and reason two. Then: evidence. Then two boxes joined by a bracket labeled "steelman, not straw man": strongest counterargument and honest response. Arrows flow downward through the column.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">The Architecture of a Speech</text>
@@ -34,7 +34,7 @@
 
   <!-- Bracket -->
   <path d="M70 254 h14 v76 h-14" stroke="#7a9e7e" stroke-width="3" fill="none"/>
-  <text x="52" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a3a" transform="rotate(-90 52 300)">steelman, not straw man</text>
+  <text x="52" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a" transform="rotate(-90 52 300)">steelman, not straw man</text>
 
   <path d="M256 330 v14" stroke="#4f6d7a" stroke-width="2" fill="none"/>
   <rect x="140" y="344" width="232" height="40" rx="20" fill="#7a9e7e"/>

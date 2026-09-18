@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Why we wash our hands</title>
-  <desc id="desc">Two hands under running water with soap, while small round germs are carried away from the hands and swirl down a drain. Below, four labeled boxes show when to wash: before eating, after the bathroom, after coughing or sneezing, and after touching an animal. The labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-008-05-why-we-wash-our-hands desc-L-02-008-05-why-we-wash-our-hands">
+  <title id="title-L-02-008-05-why-we-wash-our-hands">Why we wash our hands</title>
+  <desc id="desc-L-02-008-05-why-we-wash-our-hands">Two hands under running water with soap, while small round germs are carried away from the hands and swirl down a drain. Below, four labeled boxes show when to wash: before eating, after the bathroom, after coughing or sneezing, and after touching an animal. The labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Why We Wash Our Hands</text>
@@ -52,6 +52,6 @@
     <circle cx="420" cy="436" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <path d="M431 430 l8 -6 m0 12 l-8 -6" fill="none" stroke="#2b3a42" stroke-width="2"/>
     <path d="M409 436 l-6 4 m0 -8 l6 4" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <text x="435" y="468" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">after touching an animal</text>
+    <text x="435" y="468" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">after touching an animal</text>
   </g>
 </svg>

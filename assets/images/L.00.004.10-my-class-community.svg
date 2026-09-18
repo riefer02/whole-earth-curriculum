@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My class community: everyone has a part</title>
-  <desc id="desc">A circle of seven children stands together around a small center. Each child is labeled with the part they bring to the class: a smile, a helping hand, a question, a song, an idea, a listening ear, and a helping hand. One child uses a wheelchair. The children have different skin tones, hair, and clothes. The circle and the word labels, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that the class is a community where everyone belongs and everyone adds their own part.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-004-10-my-class-community desc-L-00-004-10-my-class-community">
+  <title id="title-L-00-004-10-my-class-community">My class community: everyone has a part</title>
+  <desc id="desc-L-00-004-10-my-class-community">A circle of seven children stands together around a small center. Each child is labeled with the part they bring to the class: a smile, a helping hand, a question, a song, an idea, a listening ear, and a helping hand. One child uses a wheelchair. The children have different skin tones, hair, and clothes. The circle and the word labels, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that the class is a community where everyone belongs and everyone adds their own part.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -85,7 +85,7 @@
     <rect x="127" y="384" width="26" height="40" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <path d="M154 350 Q160 342 154 336 Q152 340 154 350 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   </g>
-  <text x="108" y="392" text-anchor="end" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">a listening ear</text>
+  <text x="108" y="392" text-anchor="end" font-family="sans-serif" font-size="12.6" font-weight="bold" fill="#222222">a listening ear</text>
 
   <!-- Child 7 (left): a helping hand, wheelchair -->
   <g>

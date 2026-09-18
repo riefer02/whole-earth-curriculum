@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Light then and now: what changed, what stayed</title>
-  <desc id="desc">Two columns compare how people light a home long ago and today. On the left, under the label "long ago", a candle stands with a small flame. On the right, under the label "today", an electric bulb glows inside a lamp. A center band reads "both give light" with the word "same", and two small labels read "flame" and "bulb" with the word "different". The labels and the shapes — not color — carry the meaning, so the picture prints clearly in grayscale and shows that the job stayed the same while the way changed, without calling either way better.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-009-02-light-then-and-now desc-L-02-009-02-light-then-and-now">
+  <title id="title-L-02-009-02-light-then-and-now">Light then and now: what changed, what stayed</title>
+  <desc id="desc-L-02-009-02-light-then-and-now">Two columns compare how people light a home long ago and today. On the left, under the label "long ago", a candle stands with a small flame. On the right, under the label "today", an electric bulb glows inside a lamp. A center band reads "both give light" with the word "same", and two small labels read "flame" and "bulb" with the word "different". The labels and the shapes — not color — carry the meaning, so the picture prints clearly in grayscale and shows that the job stayed the same while the way changed, without calling either way better.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -44,6 +44,6 @@
   <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">same &#183; both give light</text>
   <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">stayed the same</text>
 
-  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">different &#183; flame and bulb &#183; neither way is better</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">different &#183; flame and bulb &#183; neither way is better</text>
   <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Many homes still use a flame or a lamp today</text>
 </svg>

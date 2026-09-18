@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Throw, catch, and kick together</title>
-  <desc id="desc">Three panels showing a ball moving between two friends. Throw: one child throws a ball with both hands to a friend. Catch: the friend catches with both hands. Kick: one child kicks the ball back to the friend. Arrows show the ball's path between the two children. Each panel is labeled with words, so it prints clearly in grayscale and the meaning does not depend on color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-002-09-throw-catch-kick-together desc-L-02-002-09-throw-catch-kick-together">
+  <title id="title-L-02-002-09-throw-catch-kick-together">Throw, catch, and kick together</title>
+  <desc id="desc-L-02-002-09-throw-catch-kick-together">Three panels showing a ball moving between two friends. Throw: one child throws a ball with both hands to a friend. Catch: the friend catches with both hands. Kick: one child kicks the ball back to the friend. Arrows show the ball's path between the two children. Each panel is labeled with words, so it prints clearly in grayscale and the meaning does not depend on color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Throw, Catch, and Kick Together</text>
@@ -57,7 +57,7 @@
     <!-- friend receiving -->
     <circle cx="474" cy="242" r="12" fill="#d9a066" stroke="#2b3a42" stroke-width="2"/>
     <rect x="465" y="254" width="18" height="24" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="417" y="252" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">kick it back with one foot</text>
+    <text x="417" y="252" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">kick it back with one foot</text>
   </g>
 
   <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A ball is more fun when we pass it to each other.</text>

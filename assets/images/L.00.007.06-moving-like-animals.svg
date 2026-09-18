@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Moving like animals: bird, frog, snake, elephant</title>
-  <desc id="desc">Four panels show children moving like animals, each with a different skin tone. The bird panel shows a child with arms spread as wings, labeled "bird — flap wings". The frog panel shows a child crouched low and ready to hop, labeled "frog — hop". The snake panel shows a child sitting in a chair wiggling one arm in a wave, labeled "snake — wiggle (from a chair)". The elephant panel shows a child swaying one arm down like a trunk, labeled "elephant — sway". Every panel is labeled with the animal and its movement, and one panel shows a seated version, so the picture prints clearly in grayscale and teaches that every animal movement works from where you are.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-007-06-moving-like-animals desc-L-00-007-06-moving-like-animals">
+  <title id="title-L-00-007-06-moving-like-animals">Moving like animals: bird, frog, snake, elephant</title>
+  <desc id="desc-L-00-007-06-moving-like-animals">Four panels show children moving like animals, each with a different skin tone. The bird panel shows a child with arms spread as wings, labeled "bird — flap wings". The frog panel shows a child crouched low and ready to hop, labeled "frog — hop". The snake panel shows a child sitting in a chair wiggling one arm in a wave, labeled "snake — wiggle (from a chair)". The elephant panel shows a child swaying one arm down like a trunk, labeled "elephant — sway". Every panel is labeled with the animal and its movement, and one panel shows a seated version, so the picture prints clearly in grayscale and teaches that every animal movement works from where you are.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -88,5 +88,5 @@
     <text x="376" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">sway trunk</text>
   </g>
 
-  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Watching and copying counts. Every animal works from where you are.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Watching and copying counts. Every animal works from where you are.</text>
 </svg>

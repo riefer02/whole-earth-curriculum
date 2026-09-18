@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A synthesis matrix for integrating texts</title>
-  <desc id="desc">A grid with source rows and question columns. Rows are labeled economics, technical, literary, and news; columns are labeled problem, evidence, who is affected, and what to do. Cells contain short notes or empty marks. A final shaded row labeled "my synthesized position" spans the full width. All meaning is carried by labels, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-004-05-integrating-texts-across-disciplines desc-L-12-004-05-integrating-texts-across-disciplines">
+  <title id="title-L-12-004-05-integrating-texts-across-disciplines">A synthesis matrix for integrating texts</title>
+  <desc id="desc-L-12-004-05-integrating-texts-across-disciplines">A grid with source rows and question columns. Rows are labeled economics, technical, literary, and news; columns are labeled problem, evidence, who is affected, and what to do. Cells contain short notes or empty marks. A final shaded row labeled "my synthesized position" spans the full width. All meaning is carried by labels, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -26,50 +26,50 @@
   <rect x="30" y="96" width="120" height="52" fill="#7a9e7e"/>
   <text x="90" y="127" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">economics</text>
   <rect x="150" y="96" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="194" y="118" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">cost rises</text>
-  <text x="194" y="132" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">each year</text>
+  <text x="194" y="118" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">cost rises</text>
+  <text x="194" y="132" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">each year</text>
   <rect x="238" y="96" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="282" y="127" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">price data</text>
+  <text x="282" y="127" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">price data</text>
   <rect x="326" y="96" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="370" y="127" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">— (empty)</text>
+  <text x="370" y="127" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">— (empty)</text>
   <rect x="414" y="96" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="458" y="127" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">raise price</text>
+  <text x="458" y="127" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">raise price</text>
 
   <!-- Row technical -->
   <rect x="30" y="148" width="120" height="52" fill="#6b93b6"/>
   <text x="90" y="179" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">technical</text>
   <rect x="150" y="148" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="194" y="179" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">water low</text>
+  <text x="194" y="179" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">water low</text>
   <rect x="238" y="148" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="282" y="179" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">measured mm</text>
+  <text x="282" y="179" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">measured mm</text>
   <rect x="326" y="148" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="370" y="179" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">— (empty)</text>
+  <text x="370" y="179" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">— (empty)</text>
   <rect x="414" y="148" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="458" y="179" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">save water</text>
+  <text x="458" y="179" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">save water</text>
 
   <!-- Row literary -->
   <rect x="30" y="200" width="120" height="52" fill="#e0a458"/>
   <text x="90" y="231" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">literary</text>
   <rect x="150" y="200" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="194" y="231" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">thirst felt</text>
+  <text x="194" y="231" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">thirst felt</text>
   <rect x="238" y="200" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="282" y="231" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">image</text>
+  <text x="282" y="231" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">image</text>
   <rect x="326" y="200" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="370" y="231" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">families</text>
+  <text x="370" y="231" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">families</text>
   <rect x="414" y="200" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="458" y="231" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">— (empty)</text>
+  <text x="458" y="231" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">— (empty)</text>
 
   <!-- Row news -->
   <rect x="30" y="252" width="120" height="52" fill="#cbb79a"/>
   <text x="90" y="283" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">news</text>
   <rect x="150" y="252" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="194" y="283" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">dispute</text>
+  <text x="194" y="283" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">dispute</text>
   <rect x="238" y="252" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="282" y="283" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">interviews</text>
+  <text x="282" y="283" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">interviews</text>
   <rect x="326" y="252" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="370" y="283" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">farmers</text>
+  <text x="370" y="283" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">farmers</text>
   <rect x="414" y="252" width="88" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="458" y="283" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#2b3a42">mediate</text>
+  <text x="458" y="283" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">mediate</text>
 
   <!-- Synthesized position row -->
   <rect x="30" y="316" width="472" height="64" rx="10" fill="#f0ede4" stroke="#2b3a42" stroke-width="2.5"/>

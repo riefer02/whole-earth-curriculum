@@ -26,32 +26,32 @@
 
   <!-- heating arrows (clockwise: melt solid->liquid, evaporate liquid->gas) -->
   <!-- melt: solid -> liquid -->
-  <path d="M150 180 Q150 300 210 330" stroke="#e0a458" stroke-width="5" fill="none" marker-end="url(#arrowWarm)"/>
+  <path d="M150 180 Q150 300 210 330" stroke="#e0a458" stroke-width="5" fill="none" marker-end="url(#arrowWarm-L-03-006-06-heating-cooling)"/>
   <rect x="120" y="250" width="66" height="26" rx="6" fill="#e0a458" opacity="0.3"/>
   <text x="153" y="268" text-anchor="middle" font-size="15" fill="#2b3a42">melt</text>
 
   <!-- evaporate: liquid -> gas -->
-  <path d="M340 330 Q380 300 384 186" stroke="#e0a458" stroke-width="5" fill="none" marker-end="url(#arrowWarm)"/>
+  <path d="M340 330 Q380 300 384 186" stroke="#e0a458" stroke-width="5" fill="none" marker-end="url(#arrowWarm-L-03-006-06-heating-cooling)"/>
   <rect x="352" y="248" width="86" height="26" rx="6" fill="#e0a458" opacity="0.3"/>
   <text x="395" y="266" text-anchor="middle" font-size="15" fill="#2b3a42">evaporate</text>
 
   <!-- cooling arrows (counterclockwise: freeze liquid->solid, condense gas->liquid) -->
   <!-- freeze: liquid -> solid -->
-  <path d="M200 360 Q170 300 170 190" stroke="#6b93b6" stroke-width="5" fill="none" marker-end="url(#arrowCool)"/>
+  <path d="M200 360 Q170 300 170 190" stroke="#6b93b6" stroke-width="5" fill="none" marker-end="url(#arrowCool-L-03-006-06-heating-cooling)"/>
   <rect x="120" y="282" width="66" height="26" rx="6" fill="#6b93b6" opacity="0.3"/>
   <text x="153" y="300" text-anchor="middle" font-size="15" fill="#2b3a42">freeze</text>
 
   <!-- condense: gas -> liquid -->
-  <path d="M366 190 Q340 300 300 330" stroke="#6b93b6" stroke-width="5" fill="none" marker-end="url(#arrowCool)"/>
+  <path d="M366 190 Q340 300 300 330" stroke="#6b93b6" stroke-width="5" fill="none" marker-end="url(#arrowCool-L-03-006-06-heating-cooling)"/>
   <rect x="352" y="282" width="86" height="26" rx="6" fill="#6b93b6" opacity="0.3"/>
   <text x="395" y="300" text-anchor="middle" font-size="15" fill="#2b3a42">condense</text>
 
   <!-- arrowheads -->
   <defs>
-    <marker id="arrowWarm" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="arrowWarm-L-03-006-06-heating-cooling" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L8,3 L0,6 Z" fill="#e0a458"/>
     </marker>
-    <marker id="arrowCool" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="arrowCool-L-03-006-06-heating-cooling" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L8,3 L0,6 Z" fill="#6b93b6"/>
     </marker>
   </defs>

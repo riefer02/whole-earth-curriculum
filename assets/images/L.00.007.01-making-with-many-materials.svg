@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Making with many materials: found things become art</title>
-  <desc id="desc">Six labeled cards show everyday found materials: a leaf, a stone, a shell, a coil of string, a ball of clay, and a stick. Below, a scene shows two hands of different skin tones pressing a leaf onto a sheet of paper to make a leaf print, leaving a green leaf shape on the paper. Every material is labeled with its name, and the shapes carry the meaning, so the picture prints clearly in grayscale and teaches that any found material can become art.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-007-01-making-with-many-materials desc-L-00-007-01-making-with-many-materials">
+  <title id="title-L-00-007-01-making-with-many-materials">Making with many materials: found things become art</title>
+  <desc id="desc-L-00-007-01-making-with-many-materials">Six labeled cards show everyday found materials: a leaf, a stone, a shell, a coil of string, a ball of clay, and a stick. Below, a scene shows two hands of different skin tones pressing a leaf onto a sheet of paper to make a leaf print, leaving a green leaf shape on the paper. Every material is labeled with its name, and the shapes carry the meaning, so the picture prints clearly in grayscale and teaches that any found material can become art.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -67,5 +67,5 @@
   <!-- motion dots -->
   <circle cx="256" cy="332" r="3" fill="#4f6d7a"/>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">There is no wrong way to make — any material is a place to start.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">There is no wrong way to make — any material is a place to start.</text>
 </svg>

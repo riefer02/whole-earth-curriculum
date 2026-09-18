@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The people and places in my story</title>
-  <desc id="desc">A straight timeline with three stops, each holding two empty boxes. Above each stop is a box labeled "who was there" with a small person shape, and below is a box labeled "where I was" with a small house shape. The boxes are blank so a learner can draw or write their important people and places in the right order. Words and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-001-06-my-story-map desc-L-03-001-06-my-story-map">
+  <title id="title-L-03-001-06-my-story-map">The people and places in my story</title>
+  <desc id="desc-L-03-001-06-my-story-map">A straight timeline with three stops, each holding two empty boxes. Above each stop is a box labeled "who was there" with a small person shape, and below is a box labeled "where I was" with a small house shape. The boxes are blank so a learner can draw or write their important people and places in the right order. Words and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

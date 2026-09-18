@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Evidence, Coherence, and Falsifiability</title>
-  <desc id="desc">Three labeled tool cards — Evidence, Coherence, Falsifiability — each with a one-line definition and a test question, plus a reminder that a correlation is not yet a cause.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-006-02-evidence-coherence-falsifiability desc-L-12-006-02-evidence-coherence-falsifiability">
+  <title id="title-L-12-006-02-evidence-coherence-falsifiability">Evidence, Coherence, and Falsifiability</title>
+  <desc id="desc-L-12-006-02-evidence-coherence-falsifiability">Three labeled tool cards — Evidence, Coherence, Falsifiability — each with a one-line definition and a test question, plus a reminder that a correlation is not yet a cause.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Three Tools for Checking a Claim</text>
@@ -24,5 +24,5 @@
   <text x="56" y="404" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ask: what would make me give this up?</text>
 
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42" font-weight="bold">A correlation is a pattern — not yet a cause.</text>
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Ice cream and drowning rise together; one does not cause the other.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Ice cream and drowning rise together; one does not cause the other.</text>
 </svg>

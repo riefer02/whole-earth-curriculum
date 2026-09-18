@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">One distance at three levels of precision</title>
-  <desc id="desc">The same distance drawn three ways — about 2 meters, 1.8 meters, and 1.83 meters — each shown against a ruler with coarser or finer markings, labeled with what each precision is honestly good for.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-007-04-precision-scale desc-L-09-007-04-precision-scale">
+  <title id="title-L-09-007-04-precision-scale">One distance at three levels of precision</title>
+  <desc id="desc-L-09-007-04-precision-scale">The same distance drawn three ways — about 2 meters, 1.8 meters, and 1.83 meters — each shown against a ruler with coarser or finer markings, labeled with what each precision is honestly good for.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">One Length, Three Precisions</text>
@@ -15,7 +15,7 @@
     <line x1="240" y1="98" x2="240" y2="132"/>
   </g>
   <line x1="90" y1="116" x2="240" y2="116" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
-  <text x="256" y="122" font-family="sans-serif" font-size="14" fill="#4f6d7a">nearest meter — good for buying rope</text>
+  <text x="256" y="122" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">nearest meter — good for buying rope</text>
 
   <!-- row 2 -->
   <text x="46" y="186" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1.8 m</text>
@@ -65,9 +65,9 @@
 
   <!-- takeaway -->
   <rect x="36" y="324" width="440" height="150" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
-  <text x="52" y="354" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Report only as many digits as your tool honestly gives you.</text>
+  <text x="52" y="354" font-family="sans-serif" font-size="14.1" font-weight="bold" fill="#2b3a42">Report only as many digits as your tool honestly gives you.</text>
   <text x="52" y="380" font-family="sans-serif" font-size="14" fill="#222222">· precision = how fine the markings are</text>
   <text x="52" y="402" font-family="sans-serif" font-size="14" fill="#222222">· accuracy = how close to the true value</text>
-  <text x="52" y="428.3" font-family="sans-serif" font-size="12.3" fill="#4f6d7a">A calculator printing eight digits is not "more accurate" — it is echoing noise.</text>
+  <text x="52" y="428.3" font-family="sans-serif" font-size="12" fill="#4f6d7a">A calculator printing eight digits is not "more accurate" — it is echoing noise.</text>
   <text x="52" y="454" font-family="sans-serif" font-size="14" fill="#4f6d7a">Over-precision is a kind of dishonesty.</text>
 </svg>

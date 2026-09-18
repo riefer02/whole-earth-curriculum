@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reproductive anatomy, accurately named</title>
-  <desc id="desc">Two clean, labeled line diagrams side by side. Left: a body with a uterus, showing two ovaries, two fallopian tubes, the uterus, the cervix, and the vagina, with a small inset of the external vulva (clitoris, labia, urethral opening, vaginal opening). Right: a body with testes, showing the bladder, vas deferens, prostate, urethra, penis, epididymis, and testes inside the scrotum. Each part is labeled with a short plain-language job. Bodies vary widely; these are simplified drawings, not a "normal" body to compare against.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-010-02-reproductive-anatomy desc-L-09-010-02-reproductive-anatomy">
+  <title id="title-L-09-010-02-reproductive-anatomy">Reproductive anatomy, accurately named</title>
+  <desc id="desc-L-09-010-02-reproductive-anatomy">Two clean, labeled line diagrams side by side. Left: a body with a uterus, showing two ovaries, two fallopian tubes, the uterus, the cervix, and the vagina, with a small inset of the external vulva (clitoris, labia, urethral opening, vaginal opening). Right: a body with testes, showing the bladder, vas deferens, prostate, urethra, penis, epididymis, and testes inside the scrotum. Each part is labeled with a short plain-language job. Bodies vary widely; these are simplified drawings, not a "normal" body to compare against.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <!-- Title -->
@@ -73,9 +73,9 @@
   <path d="M 322 356 Q 362 348 402 356 L 402 382 Q 362 396 322 382 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
 
   <!-- Labels right -->
-  <text x="420" y="176" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">vas deferens</text>
+  <text x="420" y="176" font-family="system-ui, sans-serif" font-size="13.3" fill="#4f6d7a">vas deferens</text>
   <line x1="414" y1="180" x2="396" y2="208" stroke="#4f6d7a" stroke-width="2"/>
-  <text x="420" y="196" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">(sperm's path)</text>
+  <text x="420" y="196" font-family="system-ui, sans-serif" font-size="12" fill="#4f6d7a">(sperm's path)</text>
   <text x="420" y="230" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">prostate</text>
   <line x1="414" y1="226" x2="384" y2="186" stroke="#4f6d7a" stroke-width="2"/>
   <text x="420" y="280" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">penis</text>
@@ -87,5 +87,5 @@
   <text x="420" y="398" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">scrotum</text>
 
   <!-- Footer -->
-  <text x="256" y="504" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">Bodies vary widely — these are simplified drawings, not a "normal" body.</text>
+  <text x="256" y="504" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12.7" fill="#4f6d7a">Bodies vary widely — these are simplified drawings, not a "normal" body.</text>
 </svg>

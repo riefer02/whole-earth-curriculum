@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Food for my growing body</title>
-  <desc id="desc">A child stands in the center with arms raised and a grow arrow pointing up. Around them, six everyday foods from around the world are labeled: rice, beans, fruit, vegetable, bread, and fish. A footer says food is fuel, energy to run, play, learn, and grow. Labels and shapes carry the meaning in grayscale; no food is shown as better than another.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-008-08-food-for-my-growing-body desc-L-00-008-08-food-for-my-growing-body">
+  <title id="title-L-00-008-08-food-for-my-growing-body">Food for my growing body</title>
+  <desc id="desc-L-00-008-08-food-for-my-growing-body">A child stands in the center with arms raised and a grow arrow pointing up. Around them, six everyday foods from around the world are labeled: rice, beans, fruit, vegetable, bread, and fish. A footer says food is fuel, energy to run, play, learn, and grow. Labels and shapes carry the meaning in grayscale; no food is shown as better than another.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Food for My Growing Body</text>
@@ -72,5 +72,5 @@
   <text x="312" y="182" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">grow</text>
 
   <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Food is fuel — energy to run, play, learn, and grow.</text>
-  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every family's foods help it grow — every way of eating is worthy.</text>
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">Every family's foods help it grow — every way of eating is worthy.</text>
 </svg>

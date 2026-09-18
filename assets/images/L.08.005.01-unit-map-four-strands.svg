@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The four strands of the year</title>
-  <desc id="desc">A four-panel unit map. Each panel shows one strand — Number &amp; Quantity, Patterns &amp; Relationships, Geometry &amp; Spatial Reasoning, and Data &amp; Measurement — with a Grade 7 idea on the first line, a progression arrow, and the Grade 8 idea it leads to on the next line. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-005-01-unit-map-four-strands desc-L-08-005-01-unit-map-four-strands">
+  <title id="title-L-08-005-01-unit-map-four-strands">The four strands of the year</title>
+  <desc id="desc-L-08-005-01-unit-map-four-strands">A four-panel unit map. Each panel shows one strand — Number &amp; Quantity, Patterns &amp; Relationships, Geometry &amp; Spatial Reasoning, and Data &amp; Measurement — with a Grade 7 idea on the first line, a progression arrow, and the Grade 8 idea it leads to on the next line. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Four Strands, One Year of Sense-Making</text>
@@ -37,5 +37,5 @@
   <line x1="34" y1="436" x2="452" y2="436" stroke="#e0a458" stroke-width="2"/>
   <path d="M448 431 L452 436 L448 441" fill="none" stroke="#e0a458" stroke-width="2"/>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">four habits that grow together — number, relationship, shape, and data</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#4f6d7a">four habits that grow together — number, relationship, shape, and data</text>
 </svg>

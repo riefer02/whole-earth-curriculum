@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Dressing and my daily care</title>
-  <desc id="desc">Five cards show ways clothes fasten: a button, a zip, a snap, a tie, and a wrap with a sash or drawstring. Each card has a simple drawing and a word label. Below, five icons with arrows show a daily care routine in order: wake, wash, brush, dress, eat. Labels carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-008-06-dressing-daily-care desc-L-01-008-06-dressing-daily-care">
+  <title id="title-L-01-008-06-dressing-daily-care">Dressing and my daily care</title>
+  <desc id="desc-L-01-008-06-dressing-daily-care">Five cards show ways clothes fasten: a button, a zip, a snap, a tie, and a wrap with a sash or drawstring. Each card has a simple drawing and a word label. Below, five icons with arrows show a daily care routine in order: wake, wash, brush, dress, eat. Labels carry the meaning, so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Dressing and My Daily Care</text>
@@ -59,7 +59,7 @@
     <text x="460" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">wrap / sash</text>
   </g>
 
-  <text x="256" y="244.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Much of the world&#8217;s clothing wraps, ties, or uses a sash or</text>
+  <text x="256" y="244.8" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Much of the world&#8217;s clothing wraps, ties, or uses a sash or</text>
   <text x="256" y="265.6" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">drawstring — all are honored.</text>
 
   <!-- Daily routine -->
@@ -95,8 +95,8 @@
     <text x="412" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">eat</text>
   </g>
 
-  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Helpers, Velcro, big buttons, and extra practice are all fine.</text>
-  <text x="256" y="453.8" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Practice is how fingers grow. Caring for your body is the goal — care</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14.8" font-weight="bold" fill="#2b3a42">Helpers, Velcro, big buttons, and extra practice are all fine.</text>
+  <text x="256" y="453.8" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">Practice is how fingers grow. Caring for your body is the goal — care</text>
   <text x="256" y="473.2" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">is never a test.</text>
-  <text x="256" y="487.6" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#4f6d7a">There is no one right outfit — people dress for their own weather and their own life.</text>
+  <text x="256" y="487.6" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">There is no one right outfit — people dress for their own weather and their own life.</text>
 </svg>

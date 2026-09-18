@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Tools, media, and our Earth home</title>
-  <desc id="desc">A big circle, the Earth home, is divided into four parts. The first part, labeled "Tool", shows a spoon. The second, labeled "Real / Pretend", shows a leaf and a dragon side by side. The third, labeled "Living", shows a plant with a sun. The fourth, labeled "Care", shows two hands holding a heart. The four parts are clearly labeled and each drawing is simple, so the picture prints clearly in grayscale and brings the whole unit together: tools, real-and-pretend stories, living things, and care all belong to our one Earth home.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-012-08-tools-media-and-our-earth-home desc-L-00-012-08-tools-media-and-our-earth-home">
+  <title id="title-L-00-012-08-tools-media-and-our-earth-home">Tools, media, and our Earth home</title>
+  <desc id="desc-L-00-012-08-tools-media-and-our-earth-home">A big circle, the Earth home, is divided into four parts. The first part, labeled "Tool", shows a spoon. The second, labeled "Real / Pretend", shows a leaf and a dragon side by side. The third, labeled "Living", shows a plant with a sun. The fourth, labeled "Care", shows two hands holding a heart. The four parts are clearly labeled and each drawing is simple, so the picture prints clearly in grayscale and brings the whole unit together: tools, real-and-pretend stories, living things, and care all belong to our one Earth home.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <!-- Header -->
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Our Earth Home</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Tools, stories, living things, and care — all in one home.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">Tools, stories, living things, and care — all in one home.</text>
 
   <!-- ===== Earth circle ===== -->
   <circle cx="256" cy="300" r="158" fill="#ffffff" stroke="#2b3a42" stroke-width="4"/>
@@ -61,5 +61,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Tools, stories, living things, and care — all together, in one Earth home.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Tools, stories, living things, and care — all together, in one Earth home.</text>
 </svg>

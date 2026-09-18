@@ -26,5 +26,5 @@
   <polygon points="256,350 240,378 272,378" fill="#2b3a42"/>
   <rect x="250" y="376" width="12" height="46" rx="6" fill="#2b3a42"/>
 
-  <text x="256" y="470" font-family="sans-serif" font-size="20" fill="#2b3a42" text-anchor="middle">No zone is good or bad — noticing is the first skill.</text>
+  <text x="256" y="470" font-family="sans-serif" font-size="17.3" fill="#2b3a42" text-anchor="middle">No zone is good or bad — noticing is the first skill.</text>
 </svg>

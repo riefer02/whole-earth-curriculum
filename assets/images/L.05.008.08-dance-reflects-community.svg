@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
-  <title id="title">Dance reflects place, history, and community</title>
-  <desc id="desc">A three-panel diagram titled "Dance reflects place, history, and community." The left panel, labeled "haka (Aotearoa)," shows a figure in a strong wide stance with wide eyes and a chant line, with the note "strong stance and chant — welcome and strength." The middle panel, labeled "Bharatanatyam (South India)," shows a figure with precise hand gestures and a calm face, with the note "hand gestures and expression tell stories." The right panel, labeled "capoeira (Brazil)," shows two figures moving low inside a circle while another holds an instrument, with the note "a circle, music, and movement born of resistance." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title-L-05-008-08-dance-reflects-community desc-L-05-008-08-dance-reflects-community">
+  <title id="title-L-05-008-08-dance-reflects-community">Dance reflects place, history, and community</title>
+  <desc id="desc-L-05-008-08-dance-reflects-community">A three-panel diagram titled "Dance reflects place, history, and community." The left panel, labeled "haka (Aotearoa)," shows a figure in a strong wide stance with wide eyes and a chant line, with the note "strong stance and chant — welcome and strength." The middle panel, labeled "Bharatanatyam (South India)," shows a figure with precise hand gestures and a calm face, with the note "hand gestures and expression tell stories." The right panel, labeled "capoeira (Brazil)," shows two figures moving low inside a circle while another holds an instrument, with the note "a circle, music, and movement born of resistance." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="480" fill="#fdfbf7"/>
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Dance Reflects Place, History, and Community</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20.8" font-weight="bold" fill="#2b3a42">Dance Reflects Place, History, and Community</text>
 
   <!-- Panel 1: haka -->
   <rect x="24" y="66" width="144" height="366" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

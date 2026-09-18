@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Peacebuilding strategies</title>
-  <desc id="desc">Three labeled pathways — nonviolent resistance, dialogue and mediation, truth and reconciliation — converging from a conflict on the left toward a peaceful center on the right, grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-010-14-peacebuilding-strategies desc-L-10-010-14-peacebuilding-strategies">
+  <title id="title-L-10-010-14-peacebuilding-strategies">Peacebuilding strategies</title>
+  <desc id="desc-L-10-010-14-peacebuilding-strategies">Three labeled pathways — nonviolent resistance, dialogue and mediation, truth and reconciliation — converging from a conflict on the left toward a peaceful center on the right, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <!-- conflict -->
@@ -21,6 +21,6 @@
     <text x="252" y="126" font-size="13" fill="#222222">nonviolent resistance</text>
     <text x="252" y="248" font-size="13" fill="#222222">dialogue &amp; mediation</text>
     <text x="252" y="392" font-size="13" fill="#222222">truth &amp; reconciliation</text>
-    <text x="256" y="486" font-size="14" fill="#2b3a42">different settings call for different strategies</text>
+    <text x="256" y="486" font-size="12" fill="#2b3a42">different settings call for different strategies</text>
   </g>
 </svg>

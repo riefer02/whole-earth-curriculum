@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Modeling Periodic Phenomena: Tides</title>
-  <desc id="desc">A graph of tide height over time. A smooth cosine curve passes through data points showing high tide at 5 meters and low tide at 1 meter, repeating every 12 hours. The amplitude (2), midline (3), and period (12 hours) are labeled with arrows, and the model h equals 2 cosine plus 3 is written.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-005-08-modeling-periodic-phenomena desc-L-11-005-08-modeling-periodic-phenomena">
+  <title id="title-L-11-005-08-modeling-periodic-phenomena">Modeling Periodic Phenomena: Tides</title>
+  <desc id="desc-L-11-005-08-modeling-periodic-phenomena">A graph of tide height over time. A smooth cosine curve passes through data points showing high tide at 5 meters and low tide at 1 meter, repeating every 12 hours. The amplitude (2), midline (3), and period (12 hours) are labeled with arrows, and the model h equals 2 cosine plus 3 is written.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Fitting a Wave to the Tide</text>

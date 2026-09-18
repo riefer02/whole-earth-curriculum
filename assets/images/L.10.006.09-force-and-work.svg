@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Force and Work</title>
-  <desc id="desc">A person leans into a wooden crate and pushes it to the left across a floor. A blue arrow above the crate points the way the push acts and is labelled "F — the push". A green bracket under the floor measures how far the crate moved and is labelled "d — the distance moved". Below the picture, the equation work equals force times distance is written, with the note that a newton times a metre is a joule and that direction matters.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-006-09-force-and-work desc-L-10-006-09-force-and-work">
+  <title id="title-L-10-006-09-force-and-work">Force and Work</title>
+  <desc id="desc-L-10-006-09-force-and-work">A person leans into a wooden crate and pushes it to the left across a floor. A blue arrow above the crate points the way the push acts and is labelled "F — the push". A green bracket under the floor measures how far the crate moved and is labelled "d — the distance moved". Below the picture, the equation work equals force times distance is written, with the note that a newton times a metre is a joule and that direction matters.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Work = Force &#215; Distance</text>

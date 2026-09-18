@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Solving a radical equation with a two-column justification</title>
-  <desc id="desc">A two-column worked solution of the equation the square root of 2x minus 3 equals x minus 3. Each step is listed on the left and the property that justifies it on the right, ending with a check that marks x equals 6 valid and x equals 2 extraneous.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-007-03-justifying-steps desc-L-09-007-03-justifying-steps">
+  <title id="title-L-09-007-03-justifying-steps">Solving a radical equation with a two-column justification</title>
+  <desc id="desc-L-09-007-03-justifying-steps">A two-column worked solution of the equation the square root of 2x minus 3 equals x minus 3. Each step is listed on the left and the property that justifies it on the right, ending with a check that marks x equals 6 valid and x equals 2 extraneous.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Solve √(2x − 3) = x − 3</text>

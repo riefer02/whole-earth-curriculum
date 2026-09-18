@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Mixed-media layers diagram</title>
-  <desc id="desc">A stack of three layers — a painted background, a scanned hand drawing, and a digital color layer — combining into one finished framed artwork on the right.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-009-01-mixed-media-layers desc-L-09-009-01-mixed-media-layers">
+  <title id="title-L-09-009-01-mixed-media-layers">Mixed-media layers diagram</title>
+  <desc id="desc-L-09-009-01-mixed-media-layers">A stack of three layers — a painted background, a scanned hand drawing, and a digital color layer — combining into one finished framed artwork on the right.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">One artwork, three layers</text>
 
@@ -18,9 +18,9 @@
   <text x="200" y="280" font-family="system-ui, sans-serif" font-size="15" fill="#222222" text-anchor="middle">digital color + text</text>
 
   <!-- arrows from layers to result -->
-  <path d="M300 155 H 360" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
-  <path d="M270 215 H 360" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
-  <path d="M300 275 H 360" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M300 155 H 360" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-009-01-mixed-media-layers)"/>
+  <path d="M270 215 H 360" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-009-01-mixed-media-layers)"/>
+  <path d="M300 275 H 360" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-009-01-mixed-media-layers)"/>
 
   <!-- finished artwork -->
   <rect x="360" y="110" width="120" height="180" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
@@ -30,7 +30,7 @@
   <text x="420" y="308" font-family="system-ui, sans-serif" font-size="13" fill="#222222" text-anchor="middle">combined piece</text>
 
   <defs>
-    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+    <marker id="arrow-L-09-009-01-mixed-media-layers" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
       <path d="M0,0 L8,4 L0,8 z" fill="#4f6d7a"/>
     </marker>
   </defs>

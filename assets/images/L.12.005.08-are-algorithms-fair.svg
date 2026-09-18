@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Are Algorithms Fair?</title>
-  <desc id="desc">An algorithm pipeline: a skewed input (a row of dots, more of one group) flows into a rule box, then into an output that is also skewed toward the same group. Below, a fairness check asks who is left out. Arrows and labels carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-08-are-algorithms-fair desc-L-12-005-08-are-algorithms-fair">
+  <title id="title-L-12-005-08-are-algorithms-fair">Are Algorithms Fair?</title>
+  <desc id="desc-L-12-005-08-are-algorithms-fair">An algorithm pipeline: a skewed input (a row of dots, more of one group) flows into a rule box, then into an output that is also skewed toward the same group. Below, a fairness check asks who is left out. Arrows and labels carry the meaning.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Correct Can Still Be Unfair</text>
@@ -51,5 +51,5 @@
   <text x="256" y="314" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Bias can enter in the input, the rule, or a proxy.</text>
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Judge by outputs, not by intentions.</text>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Feeds rank by engagement and can narrow what we see (S-481, S-482).</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Feeds rank by engagement and can narrow what we see (S-481, S-482).</text>
 </svg>

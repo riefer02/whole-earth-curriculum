@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Atoms rearranged: hydrogen and oxygen make water</title>
-  <desc id="desc">A diagram showing two hydrogen atoms and one oxygen atom on the left, an arrow, and a water molecule on the right. Labels note that the same atoms are present before and after, just rearranged.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-006-06-atoms-reactions desc-L-08-006-06-atoms-reactions">
+  <title id="title-L-08-006-06-atoms-reactions">Atoms rearranged: hydrogen and oxygen make water</title>
+  <desc id="desc-L-08-006-06-atoms-reactions">A diagram showing two hydrogen atoms and one oxygen atom on the left, an arrow, and a water molecule on the right. Labels note that the same atoms are present before and after, just rearranged.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A Reaction Rearranges Atoms</text>
@@ -18,9 +18,9 @@
   </g>
 
   <!-- arrow -->
-  <path d="M212 190 L288 190" fill="none" stroke="#2b3a42" stroke-width="3" marker-end="url(#carr)"/>
+  <path d="M212 190 L288 190" fill="none" stroke="#2b3a42" stroke-width="3" marker-end="url(#carr-L-08-006-06-atoms-reactions)"/>
   <defs>
-    <marker id="carr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="carr-L-08-006-06-atoms-reactions" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0 0 L8 3 L0 6 Z" fill="#2b3a42"/>
     </marker>
   </defs>

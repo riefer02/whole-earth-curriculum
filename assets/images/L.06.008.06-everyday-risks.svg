@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Everyday risks — choose the safer action</title>
-  <desc id="desc">A three-panel diagram titled "everyday risks — choose the safer action." Panel one "play" shows a child warming up before a game with the label "warm up, wear a helmet, play fair." Panel two "travel" shows a child looking both ways before crossing with the label "look, listen, cross safely." Panel three "online" shows a screen with a lock and the labels "keep personal information private" and "tell a trusted adult if something feels wrong." A caption reads "Notice, think, choose the safer way." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-008-06-everyday-risks desc-L-06-008-06-everyday-risks">
+  <title id="title-L-06-008-06-everyday-risks">Everyday risks — choose the safer action</title>
+  <desc id="desc-L-06-008-06-everyday-risks">A three-panel diagram titled "everyday risks — choose the safer action." Panel one "play" shows a child warming up before a game with the label "warm up, wear a helmet, play fair." Panel two "travel" shows a child looking both ways before crossing with the label "look, listen, cross safely." Panel three "online" shows a screen with a lock and the labels "keep personal information private" and "tell a trusted adult if something feels wrong." A caption reads "Notice, think, choose the safer way." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Everyday Risks — Choose the Safer Action</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22.9" font-weight="bold" fill="#2b3a42">Everyday Risks — Choose the Safer Action</text>
 
   <!-- Panel 1: play -->
   <rect x="24" y="58" width="144" height="240" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -57,5 +57,5 @@
   <text x="416" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">wrong</text>
 
   <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Notice, think, choose the safer way.</text>
-  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">A risk is a chance of harm — and a safer choice lowers the chance.</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#2b3a42">A risk is a chance of harm — and a safer choice lowers the chance.</text>
 </svg>

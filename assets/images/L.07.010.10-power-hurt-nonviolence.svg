@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Power and hurt, and the way through</title>
-  <desc id="desc">Two panels. The left panel shows a conflict spiraling upward, with labels "power" and "hurt" feeding it, ending in "worse." The right panel shows the same conflict spiraling downward, with labels "name feelings," "balance power," "meet needs," and "repair," ending in "a way through." Drawn simply for grayscale printing.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-010-10-power-hurt-nonviolence desc-L-07-010-10-power-hurt-nonviolence">
+  <title id="title-L-07-010-10-power-hurt-nonviolence">Power and hurt, and the way through</title>
+  <desc id="desc-L-07-010-10-power-hurt-nonviolence">Two panels. The left panel shows a conflict spiraling upward, with labels "power" and "hurt" feeding it, ending in "worse." The right panel shows the same conflict spiraling downward, with labels "name feelings," "balance power," "meet needs," and "repair," ending in "a way through." Drawn simply for grayscale printing.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -28,5 +28,5 @@
   <text x="351" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">meet needs &amp; repair</text>
   <text x="379" y="404" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">a way through</text>
 
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Nonviolence is not the absence of conflict — it is a better way through it.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">Nonviolence is not the absence of conflict — it is a better way through it.</text>
 </svg>

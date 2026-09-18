@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Living things grow: seed to plant, baby to child</title>
-  <desc id="desc">Two panels showing growing and changing as a sign of being alive. The left panel shows a seed, a sprout, and a full plant with an arrow between them. The right panel shows a small baby and a bigger child with an arrow between them. Each is labeled in words and by shape and size, not color alone, so it prints clearly in grayscale. The figures wear simple clothes.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-009-04-living-things-grow desc-L-00-009-04-living-things-grow">
+  <title id="title-L-00-009-04-living-things-grow">Living things grow: seed to plant, baby to child</title>
+  <desc id="desc-L-00-009-04-living-things-grow">Two panels showing growing and changing as a sign of being alive. The left panel shows a seed, a sprout, and a full plant with an arrow between them. The right panel shows a small baby and a bigger child with an arrow between them. Each is labeled in words and by shape and size, not color alone, so it prints clearly in grayscale. The figures wear simple clothes.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

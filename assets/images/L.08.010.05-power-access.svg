@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Power and access shape whose rights are protected</title>
-  <desc id="desc">A door labeled rights protected. Two paths lead to it: a wide, open path labeled access for some, and a narrow, blocked path labeled barriers for others. Barriers listed are cost, distance, information, and rules that favor some.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-010-05-power-access desc-L-08-010-05-power-access">
+  <title id="title-L-08-010-05-power-access">Power and access shape whose rights are protected</title>
+  <desc id="desc-L-08-010-05-power-access">A door labeled rights protected. Two paths lead to it: a wide, open path labeled access for some, and a narrow, blocked path labeled barriers for others. Barriers listed are cost, distance, information, and rules that favor some.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -22,7 +22,7 @@
   <!-- blocked path (right) -->
   <path d="M452 150 Q380 200 300 285" fill="none" stroke="#4f6d7a" stroke-width="4" stroke-dasharray="8 6"/>
   <rect x="330" y="196" width="66" height="18" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="363" y="209" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#222222">barrier</text>
+  <text x="363" y="209" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#222222">barrier</text>
   <text x="452" y="128" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">barriers for others</text>
   <text x="386" y="150" font-family="sans-serif" font-size="11" fill="#4f6d7a">cost, distance,</text>
   <text x="386" y="166" font-family="sans-serif" font-size="11" fill="#4f6d7a">no information,</text>

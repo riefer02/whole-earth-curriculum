@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My identity: then, now, next</title>
-  <desc id="desc">Three panels in a row labeled "me then", "me now", and "me next", joined by forward arrows. A caption reads "I am a story still being written — and I can predict its next page."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-012-01-identity-then-now-next desc-L-07-012-01-identity-then-now-next">
+  <title id="title-L-07-012-01-identity-then-now-next">My identity: then, now, next</title>
+  <desc id="desc-L-07-012-01-identity-then-now-next">Three panels in a row labeled "me then", "me now", and "me next", joined by forward arrows. A caption reads "I am a story still being written — and I can predict its next page."</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -35,12 +35,12 @@
 
   <!-- arrows -->
   <g stroke="#2b3a42" stroke-width="2.5" fill="#2b3a42">
-    <line x1="158" y1="215" x2="188" y2="215" marker-end="url(#ar)"/>
-    <line x1="322" y1="215" x2="352" y2="215" marker-end="url(#ar)"/>
+    <line x1="158" y1="215" x2="188" y2="215" marker-end="url(#ar-L-07-012-01-identity-then-now-next)"/>
+    <line x1="322" y1="215" x2="352" y2="215" marker-end="url(#ar-L-07-012-01-identity-then-now-next)"/>
   </g>
 
   <defs>
-    <marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar-L-07-012-01-identity-then-now-next" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
   </defs>
@@ -49,5 +49,5 @@
   <line x1="92" y1="360" x2="420" y2="360" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="7 6"/>
   <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what stays the same, all the way through</text>
 
-  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">I am a story still being written — and I can predict its next page.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#2b3a42">I am a story still being written — and I can predict its next page.</text>
 </svg>

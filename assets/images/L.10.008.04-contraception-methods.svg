@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Contraception: Four Method Groups</title>
-  <desc id="desc">A chart grouping contraception methods into four boxes — barrier, hormonal, long-acting, and emergency — with a highlighted note that condoms also protect against STIs including HIV.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-008-04-contraception-methods desc-L-10-008-04-contraception-methods">
+  <title id="title-L-10-008-04-contraception-methods">Contraception: Four Method Groups</title>
+  <desc id="desc-L-10-008-04-contraception-methods">A chart grouping contraception methods into four boxes — barrier, hormonal, long-acting, and emergency — with a highlighted note that condoms also protect against STIs including HIV.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Contraception: How the Methods Work</text>
@@ -37,8 +37,8 @@
 
   <rect x="36" y="330" width="440" height="70" rx="8" fill="#e0a458" opacity="0.25" stroke="#e0a458" stroke-width="2"/>
   <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">The key fact: condoms are the method that also protects</text>
-  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">against STIs, including HIV. &#8220;Dual protection&#8221; = condom + another method.</text>
+  <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">against STIs, including HIV. &#8220;Dual protection&#8221; = condom + another method.</text>
 
   <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Effectiveness depends on correct and consistent use.</text>
-  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Access to these methods is unequal worldwide &#8212; a justice issue, not a personal failing.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Access to these methods is unequal worldwide &#8212; a justice issue, not a personal failing.</text>
 </svg>

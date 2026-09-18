@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My body belongs to me</title>
-  <desc id="desc">A smiling child who wears a hearing aid stands inside a soft dashed circle that says my body, mine, with a small heart on the chest. Around the child are three gentle reminders: an open stop hand labeled no and stop are okay, a yes and stop card, and a speech bubble saying tell a trusted adult. There is no anatomical detail. The message is empowering and calm, and labels carry the meaning so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-008-07-my-body-belongs-to-me desc-L-01-008-07-my-body-belongs-to-me">
+  <title id="title-L-01-008-07-my-body-belongs-to-me">My body belongs to me</title>
+  <desc id="desc-L-01-008-07-my-body-belongs-to-me">A smiling child who wears a hearing aid stands inside a soft dashed circle that says my body, mine, with a small heart on the chest. Around the child are three gentle reminders: an open stop hand labeled no and stop are okay, a yes and stop card, and a speech bubble saying tell a trusted adult. There is no anatomical detail. The message is empowering and calm, and labels carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">My Body Belongs to Me</text>
@@ -32,7 +32,7 @@
   <g>
     <circle cx="80" cy="200" r="40" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
     <path d="M80 184 L80 194 L70 200 L70 192 L64 195 L66 185 L76 182 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="80" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">&#8220;no&#8221; / &#8220;stop&#8221;</text>
+    <text x="80" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">&#8220;no&#8221; / &#8220;stop&#8221;</text>
     <text x="80" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">is always okay</text>
   </g>
 

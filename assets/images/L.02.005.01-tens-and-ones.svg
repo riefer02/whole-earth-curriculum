@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Tens and ones: three tens and four ones make thirty-four</title>
-  <desc id="desc">Three bundles of ten sticks on the left, each wrapped with a band and labeled ten, twenty, thirty, and four single sticks on the right labeled ones. A line reads three tens and four ones make thirty-four.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-01-tens-and-ones desc-L-02-005-01-tens-and-ones">
+  <title id="title-L-02-005-01-tens-and-ones">Tens and ones: three tens and four ones make thirty-four</title>
+  <desc id="desc-L-02-005-01-tens-and-ones">Three bundles of ten sticks on the left, each wrapped with a band and labeled ten, twenty, thirty, and four single sticks on the right labeled ones. A line reads three tens and four ones make thirty-four.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -46,7 +46,7 @@
     <rect x="470" y="86" width="14" height="180" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <rect x="488" y="86" width="14" height="180" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <rect x="428" y="120" width="60" height="16" fill="none" stroke="#4f6d7a" stroke-width="4"/>
-    <text x="458" y="296" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2b3a42">three tens</text>
+    <text x="458" y="296" text-anchor="middle" font-family="sans-serif" font-size="18.2" fill="#2b3a42">three tens</text>
   </g>
 
   <!-- Four ones -->

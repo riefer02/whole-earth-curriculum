@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What each body part can do</title>
-  <desc id="desc">Five rows match a body part to jobs it can do. Head — think, look, listen. Arms — reach, lift, hug. Legs — walk or roll, run, kick. Hands — hold, build, touch. Feet — stand, walk, balance. Each part is drawn with a small icon and a word label, and an arrow points to its jobs, so the meaning does not depend on color. One row shows a wheelchair to remind that the same job is done many ways.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-002-02-what-each-part-can-do desc-L-01-002-02-what-each-part-can-do">
+  <title id="title-L-01-002-02-what-each-part-can-do">What each body part can do</title>
+  <desc id="desc-L-01-002-02-what-each-part-can-do">Five rows match a body part to jobs it can do. Head — think, look, listen. Arms — reach, lift, hug. Legs — walk or roll, run, kick. Hands — hold, build, touch. Feet — stand, walk, balance. Each part is drawn with a small icon and a word label, and an arrow points to its jobs, so the meaning does not depend on color. One row shows a wheelchair to remind that the same job is done many ways.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Each Part Can Do</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Converting metric lengths</title>
-  <desc id="desc">A metric conversion ladder showing four rungs: 10 millimeters equal 1 centimeter, 100 centimeters equal 1 meter, and 1,000 meters equal 1 kilometer. An example below shows 2.5 kilometers converted to 2,500 meters, and 150 centimeters converted to 1 meter 50 centimeters.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-14-converting-length-and-distance desc-L-04-005-14-converting-length-and-distance">
+  <title id="title-L-04-005-14-converting-length-and-distance">Converting metric lengths</title>
+  <desc id="desc-L-04-005-14-converting-length-and-distance">A metric conversion ladder showing four rungs: 10 millimeters equal 1 centimeter, 100 centimeters equal 1 meter, and 1,000 meters equal 1 kilometer. An example below shows 2.5 kilometers converted to 2,500 meters, and 150 centimeters converted to 1 meter 50 centimeters.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -10,13 +10,13 @@
   <!-- Ladder rungs -->
   <g font-family="sans-serif" text-anchor="middle">
     <rect x="70" y="96" width="372" height="46" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="126" font-size="18" fill="#fdfbf7">1 kilometer (km) = 1,000 meters (m)</text>
+    <text x="256" y="126" font-size="13.1" fill="#fdfbf7">1 kilometer (km) = 1,000 meters (m)</text>
 
     <rect x="70" y="150" width="372" height="46" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="180" font-size="18" fill="#fdfbf7">1 meter (m) = 100 centimeters (cm)</text>
+    <text x="256" y="180" font-size="13.5" fill="#fdfbf7">1 meter (m) = 100 centimeters (cm)</text>
 
     <rect x="70" y="204" width="372" height="46" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="234" font-size="18" fill="#2b3a42">1 centimeter (cm) = 10 millimeters (mm)</text>
+    <text x="256" y="234" font-size="12" fill="#2b3a42">1 centimeter (cm) = 10 millimeters (mm)</text>
   </g>
 
   <!-- Example conversions -->

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The routine I'll carry forward</title>
-  <desc id="desc">A 24-hour wheel divided into four labeled segments — SLEEP, STUDY, MOVEMENT, and MEALS &amp; REST — with a forward arrow leaving the wheel into a gate labeled "Grade 8 — next year." A caption reads "A routine is how my goals become my days."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-012-03-routine-carry-forward desc-L-07-012-03-routine-carry-forward">
+  <title id="title-L-07-012-03-routine-carry-forward">The routine I'll carry forward</title>
+  <desc id="desc-L-07-012-03-routine-carry-forward">A 24-hour wheel divided into four labeled segments — SLEEP, STUDY, MOVEMENT, and MEALS &amp; REST — with a forward arrow leaving the wheel into a gate labeled "Grade 8 — next year." A caption reads "A routine is how my goals become my days."</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -33,13 +33,13 @@
   </g>
 
   <!-- arrow into next year -->
-  <line x1="330" y1="252" x2="406" y2="252" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar)"/>
+  <line x1="330" y1="252" x2="406" y2="252" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar-L-07-012-03-routine-carry-forward)"/>
   <rect x="412" y="222" width="86" height="60" rx="10" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="455" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Grade 8 —</text>
   <text x="455" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">next year</text>
 
   <defs>
-    <marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar-L-07-012-03-routine-carry-forward" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
   </defs>

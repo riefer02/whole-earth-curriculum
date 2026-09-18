@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Why people move</title>
-  <desc id="desc">A simple home with two people sits on the left, and a new home with two people sits on the right. A dotted arrow points from the first home to the second, with the word "move" on it. Around the arrow are four small labeled cards showing reasons people move: family (people holding hands), work (a tool and bag), safety (a shield), and environment (sun and rain). Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-009-05-why-people-move desc-L-03-009-05-why-people-move">
+  <title id="title-L-03-009-05-why-people-move">Why people move</title>
+  <desc id="desc-L-03-009-05-why-people-move">A simple home with two people sits on the left, and a new home with two people sits on the right. A dotted arrow points from the first home to the second, with the word "move" on it. Around the arrow are four small labeled cards showing reasons people move: family (people holding hands), work (a tool and bag), safety (a shield), and environment (sun and rain). Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Why People Move</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My neighborhood: places people share</title>
-  <desc id="desc">A neighborhood scene along a winding path shows five labeled places people share: a home with a door, a market stall with fruit, a well where a person draws water, a meeting tree with two people sitting under it, and a school building with a flag. A path connects them all, and small arrows show people walking between places. Labels name each place, and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and shows that a neighborhood is the places and people around our home where we belong to each other.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-004-11-my-neighborhood desc-L-00-004-11-my-neighborhood">
+  <title id="title-L-00-004-11-my-neighborhood">My neighborhood: places people share</title>
+  <desc id="desc-L-00-004-11-my-neighborhood">A neighborhood scene along a winding path shows five labeled places people share: a home with a door, a market stall with fruit, a well where a person draws water, a meeting tree with two people sitting under it, and a school building with a flag. A path connects them all, and small arrows show people walking between places. Labels name each place, and the shapes, not color, carry the meaning, so the picture prints clearly in grayscale and shows that a neighborhood is the places and people around our home where we belong to each other.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -75,5 +75,5 @@
 
   <!-- Bottom note -->
   <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A neighborhood is the places and people around home.</text>
-  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">City block or village road — people share it and help each other.</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">City block or village road — people share it and help each other.</text>
 </svg>

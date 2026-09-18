@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Helping two peers solve a conflict</title>
-  <desc id="desc">A three-step diagram for peer mediation. Two peers stand on either side of a helper figure in the middle. Three labeled steps flow left to right: "each side speaks, one at a time," "each side listens and repeats back," and "find a fair solution both accept." Labels, arrows, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-011-09-conflict-mediation-steps desc-L-05-011-09-conflict-mediation-steps">
+  <title id="title-L-05-011-09-conflict-mediation-steps">Helping two peers solve a conflict</title>
+  <desc id="desc-L-05-011-09-conflict-mediation-steps">A three-step diagram for peer mediation. Two peers stand on either side of a helper figure in the middle. Three labeled steps flow left to right: "each side speaks, one at a time," "each side listens and repeats back," and "find a fair solution both accept." Labels, arrows, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -60,6 +60,6 @@
   <text x="440" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">solution</text>
   <text x="440" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">both accept</text>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">The helper's job is listening and dignity &#8212; not choosing a winner.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#2b3a42">The helper's job is listening and dignity &#8212; not choosing a winner.</text>
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A fair solution is one both sides accept.</text>
 </svg>

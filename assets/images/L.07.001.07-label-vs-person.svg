@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A label is a shortcut; a person is a story</title>
-  <desc id="desc">Two panels. The left shows a small box containing the single label "the quiet one," with the caption "a shortcut." The right shows the same person drawn whole, surrounded by many labeled facets — singer, joker, runner, dreamer, worrier — with the caption "the whole person." A not-equal sign sits between the two panels, and a line below reads "A label is a shortcut; a person is a story." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-001-07-label-vs-person desc-L-07-001-07-label-vs-person">
+  <title id="title-L-07-001-07-label-vs-person">A label is a shortcut; a person is a story</title>
+  <desc id="desc-L-07-001-07-label-vs-person">Two panels. The left shows a small box containing the single label "the quiet one," with the caption "a shortcut." The right shows the same person drawn whole, surrounded by many labeled facets — singer, joker, runner, dreamer, worrier — with the caption "the whole person." A not-equal sign sits between the two panels, and a line below reads "A label is a shortcut; a person is a story." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

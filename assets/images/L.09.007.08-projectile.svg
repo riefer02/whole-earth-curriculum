@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A quadratic model of a thrown ball</title>
-  <desc id="desc">A parabola opening downward modeling a thrown ball's height versus time, with the two roots — the ball leaves and returns to the ground — the vertex as maximum height, and a note that a negative-time root is real algebra but meaningless in this context.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-007-08-projectile desc-L-09-007-08-projectile">
+  <title id="title-L-09-007-08-projectile">A quadratic model of a thrown ball</title>
+  <desc id="desc-L-09-007-08-projectile">A parabola opening downward modeling a thrown ball's height versus time, with the two roots — the ball leaves and returns to the ground — the vertex as maximum height, and a note that a negative-time root is real algebra but meaningless in this context.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A Thrown Ball: h = −5t² + 20t</text>
@@ -32,5 +32,5 @@
   <text x="20" y="454" font-family="sans-serif" font-size="13" fill="#4f6d7a">not part of this story</text>
 
   <rect x="36" y="462" width="440" height="36" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
-  <text x="48" y="486" font-family="sans-serif" font-size="14" fill="#222222">Math hands you candidates; the situation chooses which ones count.</text>
+  <text x="48" y="486" font-family="sans-serif" font-size="12.7" fill="#222222">Math hands you candidates; the situation chooses which ones count.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Things we all share: food, water, sleep, play, feelings</title>
-  <desc id="desc">A row of five labeled icons showing things every person shares: a bowl for food, a drop for water, a crescent moon for sleep, a ball for play, and a heart for feelings. Each icon is a distinct shape with its word printed beneath, so meaning does not depend on color and the image prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-07-things-we-share desc-L-00-001-07-things-we-share">
+  <title id="title-L-00-001-07-things-we-share">Things we all share: food, water, sleep, play, feelings</title>
+  <desc id="desc-L-00-001-07-things-we-share">A row of five labeled icons showing things every person shares: a bowl for food, a drop for water, a crescent moon for sleep, a ball for play, and a heart for feelings. Each icon is a distinct shape with its word printed beneath, so meaning does not depend on color and the image prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

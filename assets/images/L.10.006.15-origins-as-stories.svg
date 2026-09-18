@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Origins as Stories</title>
-  <desc id="desc">A gentle diagram with the scientific model and a cultural or spiritual account placed side by side, both pointing into a shared open circle labeled with the questions they both ask, with no ranking between them.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-006-15-origins-as-stories desc-L-10-006-15-origins-as-stories">
+  <title id="title-L-10-006-15-origins-as-stories">Origins as Stories</title>
+  <desc id="desc-L-10-006-15-origins-as-stories">A gentle diagram with the scientific model and a cultural or spiritual account placed side by side, both pointing into a shared open circle labeled with the questions they both ask, with no ranking between them.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Origins as Stories</text>
 
@@ -32,5 +32,5 @@
   <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">come from?</text>
   <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">held side by side</text>
 
-  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Different answers to different questions &#8212; no ranking, only respect.</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#222222">Different answers to different questions &#8212; no ranking, only respect.</text>
 </svg>

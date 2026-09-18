@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A timeline of local landmarks</title>
-  <desc id="desc">A long arrow points from a "long ago" end on the left to a "now" end on the right. Three landmark spots sit in order along the line: a young tree that was planted, a bridge, and a school. Above each landmark is a small clue card showing how we know the order: a photo, an elder's memory, and a dated plaque. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-009-01-timeline-of-local-landmarks desc-L-03-009-01-timeline-of-local-landmarks">
+  <title id="title-L-03-009-01-timeline-of-local-landmarks">A timeline of local landmarks</title>
+  <desc id="desc-L-03-009-01-timeline-of-local-landmarks">A long arrow points from a "long ago" end on the left to a "now" end on the right. Three landmark spots sit in order along the line: a young tree that was planted, a bridge, and a school. Above each landmark is a small clue card showing how we know the order: a photo, an elder's memory, and a dated plaque. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Timeline of Local Landmarks</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What Technology Gives and Costs</title>
-  <desc id="desc">A two-column ledger. The left column, 'what technology gives me,' lists connection, learning, access. The right column, 'what technology costs me,' lists attention, time, privacy, rest, and Earth's materials. A footer reads 'neither worship nor fear.' Labels carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-011-03-what-technology-gives-and-costs desc-L-12-011-03-what-technology-gives-and-costs">
+  <title id="title-L-12-011-03-what-technology-gives-and-costs">What Technology Gives and Costs</title>
+  <desc id="desc-L-12-011-03-what-technology-gives-and-costs">A two-column ledger. The left column, 'what technology gives me,' lists connection, learning, access. The right column, 'what technology costs me,' lists attention, time, privacy, rest, and Earth's materials. A footer reads 'neither worship nor fear.' Labels carry the meaning, so it prints in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">An Honest Ledger</text>

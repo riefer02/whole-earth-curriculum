@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Hopping and jumping</title>
-  <desc id="desc">Two panels show springing movements. Hop is a spring on one foot, shown by a standing child on one foot and a seated child bouncing in a chair. Jump is a spring on two feet, shown by a standing child with both feet off the ground and a child in a wheelchair pushing up and gliding. Bent knees show a soft landing. Word labels and shapes carry the meaning, not color alone.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-002-07-hopping-and-jumping desc-L-01-002-07-hopping-and-jumping">
+  <title id="title-L-01-002-07-hopping-and-jumping">Hopping and jumping</title>
+  <desc id="desc-L-01-002-07-hopping-and-jumping">Two panels show springing movements. Hop is a spring on one foot, shown by a standing child on one foot and a seated child bouncing in a chair. Jump is a spring on two feet, shown by a standing child with both feet off the ground and a child in a wheelchair pushing up and gliding. Bent knees show a soft landing. Word labels and shapes carry the meaning, not color alone.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Hopping and Jumping</text>
@@ -64,6 +64,6 @@
     <text x="376" y="322" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">or a push-and-glide</text>
   </g>
 
-  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Land softly with bent knees — control matters more than height.</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">Land softly with bent knees — control matters more than height.</text>
   <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every body springs and lands its own way.</text>
 </svg>

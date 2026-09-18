@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Team step sequence</title>
-  <desc id="desc">Four diverse figures standing in a line, mid-step, each labeled with the move they added to a shared eight-count sequence. Below, eight boxes labeled counts 1 through 8 show the four counts of the traveling step followed by four added moves. A caption reads "One sequence, four contributions — a cooperative game." Labels, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-002-07-team-step-sequence desc-L-06-002-07-team-step-sequence">
+  <title id="title-L-06-002-07-team-step-sequence">Team step sequence</title>
+  <desc id="desc-L-06-002-07-team-step-sequence">Four diverse figures standing in a line, mid-step, each labeled with the move they added to a shared eight-count sequence. Below, eight boxes labeled counts 1 through 8 show the four counts of the traveling step followed by four added moves. A caption reads "One sequence, four contributions — a cooperative game." Labels, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -58,7 +58,7 @@
     <text x="447" y="270" text-anchor="middle" font-size="14" fill="#222222">hop</text>
   </g>
 
-  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Every teammate adds one move — any move, seated or large.</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="16.1" fill="#4f6d7a">Every teammate adds one move — any move, seated or large.</text>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">One sequence, four contributions — a cooperative game.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17.0" fill="#2b3a42">One sequence, four contributions — a cooperative game.</text>
 </svg>

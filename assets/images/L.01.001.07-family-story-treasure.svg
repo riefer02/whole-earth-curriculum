@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Our family stories and traditions</title>
-  <desc id="desc">Two rows of cards. The top row shows four ways a family carries a tradition: a bowl of food for a shared meal, a music note for a song, an open book for a story, and a candle for a special day. The bottom row shows three different family shapes: one grown-up and a child; a grandparent with glasses and a cane and a child; and two grown-ups and a child, one grown-up wearing a hearing aid. Skin tones and hair vary. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale, and the graphic shows that every family shape and every tradition is worth telling.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-001-07-family-story-treasure desc-L-01-001-07-family-story-treasure">
+  <title id="title-L-01-001-07-family-story-treasure">Our family stories and traditions</title>
+  <desc id="desc-L-01-001-07-family-story-treasure">Two rows of cards. The top row shows four ways a family carries a tradition: a bowl of food for a shared meal, a music note for a song, an open book for a story, and a candle for a special day. The bottom row shows three different family shapes: one grown-up and a child; a grandparent with glasses and a cane and a child; and two grown-ups and a child, one grown-up wearing a hearing aid. Skin tones and hair vary. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale, and the graphic shows that every family shape and every tradition is worth telling.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <!-- Header -->
-  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Our Family Stories &amp; Traditions</text>
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="26.2" font-weight="bold" fill="#2b3a42">Our Family Stories &amp; Traditions</text>
 
   <!-- Row 1 label -->
   <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">traditions come in many forms</text>

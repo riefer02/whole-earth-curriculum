@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The Normal Distribution and Standard Deviation</title>
-  <desc id="desc">A bell curve with the mean at the center and shaded bands at one, two, and three standard deviations on each side. Labels show the empirical rule: about 68 percent within one standard deviation, 95 percent within two, and 99.7 percent within three. A small circle far out on the right tail is marked as an outlier.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-005-14-normal-distribution-and-standard-deviation desc-L-11-005-14-normal-distribution-and-standard-deviation">
+  <title id="title-L-11-005-14-normal-distribution-and-standard-deviation">The Normal Distribution and Standard Deviation</title>
+  <desc id="desc-L-11-005-14-normal-distribution-and-standard-deviation">A bell curve with the mean at the center and shaded bands at one, two, and three standard deviations on each side. Labels show the empirical rule: about 68 percent within one standard deviation, 95 percent within two, and 99.7 percent within three. A small circle far out on the right tail is marked as an outlier.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Bell Curve: Center and Spread</text>
@@ -33,7 +33,7 @@
   <!-- empirical rule -->
   <rect x="120" y="404" width="272" height="92" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Empirical rule (bell curve)</text>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">&#177;1 SD &#8776; 68% &#183; &#177;2 SD &#8776; 95% &#183; &#177;3 SD &#8776; 99.7%</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">&#177;1 SD &#8776; 68% &#183; &#177;2 SD &#8776; 95% &#183; &#177;3 SD &#8776; 99.7%</text>
   <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">z = (value &#8722; mean) / SD</text>
   <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">an outlier is information, not a verdict</text>
 </svg>

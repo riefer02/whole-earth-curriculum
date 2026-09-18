@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Hunger and fullness signals</title>
-  <desc id="desc">A body diagram with two states. On the left, a body with an empty, rumbling tummy labeled hunger, with an arrow to the response eat a meal or snack. On the right, a body with a comfortable, satisfied tummy labeled fullness, with an arrow to the response stop when satisfied. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-002-04-hunger-and-fullness desc-L-03-002-04-hunger-and-fullness">
+  <title id="title-L-03-002-04-hunger-and-fullness">Hunger and fullness signals</title>
+  <desc id="desc-L-03-002-04-hunger-and-fullness">A body diagram with two states. On the left, a body with an empty, rumbling tummy labeled hunger, with an arrow to the response eat a meal or snack. On the right, a body with a comfortable, satisfied tummy labeled fullness, with an arrow to the response stop when satisfied. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Hunger and Fullness</text>
@@ -25,7 +25,7 @@
     <path d="M120 220 Q124 214 128 220 Q132 226 136 220" fill="none" stroke="#4f6d7a" stroke-width="1.8" stroke-linecap="round"/>
     <text x="128" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">empty, rumbling</text>
     <!-- arrow to response -->
-    <line x1="128" y1="300" x2="128" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown)"/>
+    <line x1="128" y1="300" x2="128" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown-L-03-002-04-hunger-and-fullness)"/>
     <rect x="48" y="336" width="160" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
     <text x="128" y="361" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">eat a meal or snack</text>
   </g>
@@ -50,18 +50,18 @@
     <path d="M374 222 Q384 232 394 222" fill="none" stroke="#4f6d7a" stroke-width="1.8" stroke-linecap="round"/>
     <text x="384" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">comfortable, satisfied</text>
     <!-- arrow to response -->
-    <line x1="384" y1="300" x2="384" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown)"/>
+    <line x1="384" y1="300" x2="384" y2="330" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrDown-L-03-002-04-hunger-and-fullness)"/>
     <rect x="304" y="336" width="160" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
     <text x="384" y="361" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">stop when satisfied</text>
   </g>
 
   <defs>
-    <marker id="arrDown" markerWidth="10" markerHeight="10" refX="3" refY="8" orient="auto">
+    <marker id="arrDown-L-03-002-04-hunger-and-fullness" markerWidth="10" markerHeight="10" refX="3" refY="8" orient="auto">
       <path d="M0 0 L6 0 L3 8 Z" fill="#2b3a42"/>
     </marker>
   </defs>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your body signals what it needs — hunger says eat, fullness says stop.</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#4f6d7a">Your body signals what it needs — hunger says eat, fullness says stop.</text>
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Bodies differ, and every pattern is to be respected.</text>
   <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Notice the signal, and answer it kindly.</text>
 </svg>

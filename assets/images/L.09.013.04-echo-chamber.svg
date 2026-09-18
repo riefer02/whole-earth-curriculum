@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Echo chambers and breaking out</title>
-  <desc id="desc">Two separate bubbles each contain a person hearing only the same idea repeated back. A curved path with a doorway connects the bubbles to a shared middle space where many different ideas are heard. The path is labeled breaking out.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-013-04-echo-chamber desc-L-09-013-04-echo-chamber">
+  <title id="title-L-09-013-04-echo-chamber">Echo chambers and breaking out</title>
+  <desc id="desc-L-09-013-04-echo-chamber">Two separate bubbles each contain a person hearing only the same idea repeated back. A curved path with a doorway connects the bubbles to a shared middle space where many different ideas are heard. The path is labeled breaking out.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Echo Chambers — and How to Break Out</text>
@@ -34,7 +34,7 @@
 
   <!-- arrows -->
   <defs>
-    <marker id="ec1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="ec1-L-09-013-04-echo-chamber" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/>
     </marker>
   </defs>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Standing up: first notice, then help</title>
-  <desc id="desc">This picture shows the two steps of standing up for someone. Step one, labeled notice, shows a child who sees that another child was left out and says that is not fair. Step two, labeled help, shows the same child reaching out and inviting the left-out child to come join them. Below, a band labeled repair shows all the children playing together and smiling. The numbered badges, the speech bubbles, and the faces, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that noticing unfairness and doing a kind act are two parts of one brave act, and ends in repair and warmth.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-009-09-notice-then-help desc-L-01-009-09-notice-then-help">
+  <title id="title-L-01-009-09-notice-then-help">Standing up: first notice, then help</title>
+  <desc id="desc-L-01-009-09-notice-then-help">This picture shows the two steps of standing up for someone. Step one, labeled notice, shows a child who sees that another child was left out and says that is not fair. Step two, labeled help, shows the same child reaching out and inviting the left-out child to come join them. Below, a band labeled repair shows all the children playing together and smiling. The numbered badges, the speech bubbles, and the faces, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that noticing unfairness and doing a kind act are two parts of one brave act, and ends in repair and warmth.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Standing Up: First Notice, Then Help</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="25.5" font-weight="bold" fill="#2b3a42">Standing Up: First Notice, Then Help</text>
 
   <!-- panels -->
   <rect x="20" y="80" width="226" height="270" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
@@ -99,6 +99,6 @@
     <path d="M331 417 Q336 420 341 417" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
   </g>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">You do not need to be big or strong to notice and be kind.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">You do not need to be big or strong to notice and be kind.</text>
   <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Noticing and helping are two parts of one brave act</text>
 </svg>

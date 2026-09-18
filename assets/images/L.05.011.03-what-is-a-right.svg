@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What is a right?</title>
-  <desc id="desc">A scroll-shaped diagram titled "what is a right?" It reads "a right is a shared promise to protect something every child needs." Below are three labeled icons: a child on a swing labeled "play," an open book labeled "learn," and a child beneath a sheltering roof labeled "be safe." Each icon carries a label, so the meaning prints clearly in grayscale, independent of color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-011-03-what-is-a-right desc-L-05-011-03-what-is-a-right">
+  <title id="title-L-05-011-03-what-is-a-right">What is a right?</title>
+  <desc id="desc-L-05-011-03-what-is-a-right">A scroll-shaped diagram titled "what is a right?" It reads "a right is a shared promise to protect something every child needs." Below are three labeled icons: a child on a swing labeled "play," an open book labeled "learn," and a child beneath a sheltering roof labeled "be safe." Each icon carries a label, so the meaning prints clearly in grayscale, independent of color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -55,6 +55,6 @@
   <text x="406" y="380" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">be protected</text>
   <text x="406" y="396" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">from harm</text>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">A right is owed to every child &#8212; not a prize to earn.</text>
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Some rights are written in the UN Convention on the Rights of the Child.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15.5" fill="#2b3a42">A right is owed to every child &#8212; not a prize to earn.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">Some rights are written in the UN Convention on the Rights of the Child.</text>
 </svg>

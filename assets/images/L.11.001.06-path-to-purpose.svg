@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The path to purpose</title>
-  <desc id="desc">A winding path climbs from a small figure at the lower left toward a sun on the horizon at the upper right, labeled "purpose: a direction, not a destination." The path has two looping detours labeled "try" and "try again," and two signposts labeled "reflect" and "learn." Labels and shapes carry the meaning, so the diagram prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-001-06-path-to-purpose desc-L-11-001-06-path-to-purpose">
+  <title id="title-L-11-001-06-path-to-purpose">The path to purpose</title>
+  <desc id="desc-L-11-001-06-path-to-purpose">A winding path climbs from a small figure at the lower left toward a sun on the horizon at the upper right, labeled "purpose: a direction, not a destination." The path has two looping detours labeled "try" and "try again," and two signposts labeled "reflect" and "learn." Labels and shapes carry the meaning, so the diagram prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">The Path to Purpose</text>
@@ -10,7 +10,7 @@
   <path d="M396 206 h72" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
   <text x="432" y="72.2" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">purpose: a</text>
   <text x="432" y="94.3" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">direction,</text>
-  <text x="432" y="118" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">not a destination</text>
+  <text x="432" y="118" text-anchor="middle" font-family="sans-serif" font-size="16.3" font-weight="bold" fill="#222222">not a destination</text>
 
   <!-- Winding path -->
   <path d="M72 430 C 150 430 120 340 210 340 C 300 340 250 250 340 240 C 390 234 400 200 432 200" fill="none" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
@@ -38,6 +38,6 @@
   <circle cx="72" cy="418" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
   <path d="M58 452 a14 14 0 0 1 28 0 z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="256" y="474.3" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Purpose grows by trying and reflecting — not by being</text>
+  <text x="256" y="474.3" text-anchor="middle" font-family="sans-serif" font-size="17.3" fill="#2b3a42">Purpose grows by trying and reflecting — not by being</text>
   <text x="256" y="497.7" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">certain at once.</text>
 </svg>

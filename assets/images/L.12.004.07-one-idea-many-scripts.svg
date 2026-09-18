@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">One idea, many scripts</title>
-  <desc id="desc">Two panels. Top panel: the word for mother in six languages, each in its own script — English "mother," Hindi "maataa" in Devanagari, Arabic "umm," Chinese "muqin" in characters, Swahili "mama," and Māori "whaea" — with a note that they descend from one older word. Bottom panel: the word for tea split by two routes — an overland arrow labeled cha to chai (Devanagari chaay, Chinese cha), and a sea arrow labeled te to tea/thé — with a note that the word traveled two ways. Labels and transliterations carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-004-07-one-idea-many-scripts desc-L-12-004-07-one-idea-many-scripts">
+  <title id="title-L-12-004-07-one-idea-many-scripts">One idea, many scripts</title>
+  <desc id="desc-L-12-004-07-one-idea-many-scripts">Two panels. Top panel: the word for mother in six languages, each in its own script — English "mother," Hindi "maataa" in Devanagari, Arabic "umm," Chinese "muqin" in characters, Swahili "mama," and Māori "whaea" — with a note that they descend from one older word. Bottom panel: the word for tea split by two routes — an overland arrow labeled cha to chai (Devanagari chaay, Chinese cha), and a sea arrow labeled te to tea/thé — with a note that the word traveled two ways. Labels and transliterations carry the meaning, so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -47,7 +47,7 @@
   <polygon points="330,312 320,307 320,317" fill="#e0a458"/>
   <rect x="150" y="292" width="76" height="34" rx="17" fill="#e0a458"/>
   <text x="188" y="314" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">chai</text>
-  <text x="340" y="316" font-family="sans-serif" font-size="13" fill="#4f6d7a">चाय (ch&#257;y) · 茶 (ch&#225;)</text>
+  <text x="340" y="316" font-family="sans-serif" font-size="12" fill="#4f6d7a">चाय (ch&#257;y) · 茶 (ch&#225;)</text>
 
   <!-- Sea route (bottom) -->
   <text x="40" y="352" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">sea</text>

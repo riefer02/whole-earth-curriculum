@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Coordinates and Vectors: Position and Direction</title>
-  <desc id="desc">A coordinate grid with vector v drawn from the origin three units east and four units north, vector w drawn from v's tip two units west and one unit north, and the resultant drawn as a dashed diagonal from the origin to (1, 5). Component addition (3,4) plus (-2,1) equals (1,5) is shown.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-09-coordinates-and-vectors desc-L-12-005-09-coordinates-and-vectors">
+  <title id="title-L-12-005-09-coordinates-and-vectors">Coordinates and Vectors: Position and Direction</title>
+  <desc id="desc-L-12-005-09-coordinates-and-vectors">A coordinate grid with vector v drawn from the origin three units east and four units north, vector w drawn from v's tip two units west and one unit north, and the resultant drawn as a dashed diagonal from the origin to (1, 5). Component addition (3,4) plus (-2,1) equals (1,5) is shown.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Vectors: Magnitude, Direction, and Addition</text>
@@ -44,5 +44,5 @@
   <text x="120" y="270" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">v + w = (1, 5)</text>
 
   <rect x="80" y="462" width="360" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
-  <text x="260" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Add vectors tip-to-tail = add components: (3,4) + (&#8722;2,1) = (1,5).</text>
+  <text x="260" y="488" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#222222">Add vectors tip-to-tail = add components: (3,4) + (&#8722;2,1) = (1,5).</text>
 </svg>

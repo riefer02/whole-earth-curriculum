@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Asking with kind words: "May I please?"</title>
-  <desc id="desc">Two children stand facing each other. The child on the left holds a toy; the child on the right asks with a speech bubble that reads "Please, may I have a turn?" The left child answers with a speech bubble that reads "Yes — here you go." A second small bubble on the right reads "Thank you." A "kind words" card at the top shows the words please, may I, and thank you. A note reminds that every language has its own kind words, so the skill, not one phrase, is the point. The two children have different skin tones, and the words inside the bubbles carry the lesson, so the picture prints clearly in grayscale and teaches that asking with kind words is kinder than grabbing.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-004-03-asking-with-kind-words desc-L-00-004-03-asking-with-kind-words">
+  <title id="title-L-00-004-03-asking-with-kind-words">Asking with kind words: "May I please?"</title>
+  <desc id="desc-L-00-004-03-asking-with-kind-words">Two children stand facing each other. The child on the left holds a toy; the child on the right asks with a speech bubble that reads "Please, may I have a turn?" The left child answers with a speech bubble that reads "Yes — here you go." A second small bubble on the right reads "Thank you." A "kind words" card at the top shows the words please, may I, and thank you. A note reminds that every language has its own kind words, so the skill, not one phrase, is the point. The two children have different skin tones, and the words inside the bubbles carry the lesson, so the picture prints clearly in grayscale and teaches that asking with kind words is kinder than grabbing.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -62,6 +62,6 @@
   <text x="256" y="89" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">please &#8226; may I &#8226; thank you</text>
 
   <!-- Bottom note -->
-  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every language has its own kind words &#8212; say them in your words too.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12.6" fill="#4f6d7a">Every language has its own kind words &#8212; say them in your words too.</text>
   <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Kind words turn asking into a gift.</text>
 </svg>

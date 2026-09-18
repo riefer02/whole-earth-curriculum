@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The facilitation circle</title>
-  <desc id="desc">A circle of five seated figures around a central talking piece, with four labeled steps arranged around the outside — set the ground, hear every side, name needs, build agreement — drawn simply for grayscale printing.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-003-04-facilitation-circle desc-L-08-003-04-facilitation-circle">
+  <title id="title-L-08-003-04-facilitation-circle">The facilitation circle</title>
+  <desc id="desc-L-08-003-04-facilitation-circle">A circle of five seated figures around a central talking piece, with four labeled steps arranged around the outside — set the ground, hear every side, name needs, build agreement — drawn simply for grayscale printing.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -50,7 +50,7 @@
   <text x="427" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">4 · build</text>
   <text x="427" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">agreement</text>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">The facilitator stays neutral; the group owns the outcome.</text>
-  <text x="256" y="487.2" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A solution all can accept — not everyone got everything, but no one is left</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#2b3a42">The facilitator stays neutral; the group owns the outcome.</text>
+  <text x="256" y="487.2" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">A solution all can accept — not everyone got everything, but no one is left</text>
   <text x="256" y="505.4" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">unable to live with it.</text>
 </svg>

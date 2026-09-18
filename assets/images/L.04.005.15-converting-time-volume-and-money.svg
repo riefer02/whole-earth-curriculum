@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Converting time, volume, and money</title>
-  <desc id="desc">Three cards side by side. Time card: a clock face with 60 seconds equals 1 minute and 60 minutes equals 1 hour. Volume card: a liter bottle with 1,000 milliliters equals 1 liter. Money card: coins and a bill with 100 small units equals 1 large unit. Each card shows how to convert within that system.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-15-converting-time-volume-and-money desc-L-04-005-15-converting-time-volume-and-money">
+  <title id="title-L-04-005-15-converting-time-volume-and-money">Converting time, volume, and money</title>
+  <desc id="desc-L-04-005-15-converting-time-volume-and-money">Three cards side by side. Time card: a clock face with 60 seconds equals 1 minute and 60 minutes equals 1 hour. Volume card: a liter bottle with 1,000 milliliters equals 1 liter. Money card: coins and a bill with 100 small units equals 1 large unit. Each card shows how to convert within that system.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Converting Time, Volume &amp; Money</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26.2" font-weight="bold" fill="#2b3a42">Converting Time, Volume &amp; Money</text>
 
   <!-- Time card -->
   <rect x="24" y="80" width="150" height="250" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
@@ -40,6 +40,6 @@
   <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Each system has its own rhythm.</text>
   <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">Converting is counting within that rhythm.</text>
 
-  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Time counts in sixties, water in thousands, money in hundreds.</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">Time counts in sixties, water in thousands, money in hundreds.</text>
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Know the rhythm, and count.</text>
 </svg>

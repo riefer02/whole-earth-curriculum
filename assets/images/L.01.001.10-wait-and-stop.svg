@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Wait and stop: two ways we care</title>
-  <desc id="desc">Two panels. The left panel, "wait," shows three children in a row; the middle child holds a talking object (a star) inside a dashed circle, meaning only the holder speaks, while the others wait quietly. The right panel, "stop," shows a large open-palm hand cue with the word "STOP" and a child frozen in place with small motion lines. Captions explain that waiting is for a fair chance and stopping is to keep everyone safe and respected. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale, and the note at the bottom says waiting and stopping are ways we care for each other.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-001-10-wait-and-stop desc-L-01-001-10-wait-and-stop">
+  <title id="title-L-01-001-10-wait-and-stop">Wait and stop: two ways we care</title>
+  <desc id="desc-L-01-001-10-wait-and-stop">Two panels. The left panel, "wait," shows three children in a row; the middle child holds a talking object (a star) inside a dashed circle, meaning only the holder speaks, while the others wait quietly. The right panel, "stop," shows a large open-palm hand cue with the word "STOP" and a child frozen in place with small motion lines. Captions explain that waiting is for a fair chance and stopping is to keep everyone safe and respected. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale, and the note at the bottom says waiting and stopping are ways we care for each other.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

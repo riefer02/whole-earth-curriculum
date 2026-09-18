@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A story in three parts</title>
-  <desc id="desc">Three frames read left to right, joined by arrows, showing a story's beginning, middle, and end: a seed resting in soil, a sprout with two leaves, and a taller plant with a flower and a small sun. Each frame is numbered and labeled. Prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-003-04-retelling-in-my-own-words desc-L-00-003-04-retelling-in-my-own-words">
+  <title id="title-L-00-003-04-retelling-in-my-own-words">A story in three parts</title>
+  <desc id="desc-L-00-003-04-retelling-in-my-own-words">Three frames read left to right, joined by arrows, showing a story's beginning, middle, and end: a seed resting in soil, a sprout with two leaves, and a taller plant with a flower and a small sun. Each frame is numbered and labeled. Prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -54,5 +54,5 @@
   <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Middle</text>
   <text x="424" y="352" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">End</text>
 
-  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Tell it your own way &#8212; it is still one story among many.</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">Tell it your own way &#8212; it is still one story among many.</text>
 </svg>

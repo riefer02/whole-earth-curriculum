@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A scatter plot showing positive association</title>
-  <desc id="desc">A scatter plot with study hours on the x-axis and test score on the y-axis. The points rise from lower-left to upper-right, labeled "positive association — as one variable increases, the other tends to increase." A small inset shows points scattered with no clear pattern, labeled "no association." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-005-10-scatter-plot desc-L-08-005-10-scatter-plot">
+  <title id="title-L-08-005-10-scatter-plot">A scatter plot showing positive association</title>
+  <desc id="desc-L-08-005-10-scatter-plot">A scatter plot with study hours on the x-axis and test score on the y-axis. The points rise from lower-left to upper-right, labeled "positive association — as one variable increases, the other tends to increase." A small inset shows points scattered with no clear pattern, labeled "no association." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Scatter Plots: Reading the Association</text>
@@ -44,7 +44,7 @@
   <text x="444" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">no association</text>
 
   <!-- negative panel -->
-  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">negative association: as one increases, the other tends to decrease</text>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">look at the whole cloud, not one dot — and name outliers without erasing them</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#222222">negative association: as one increases, the other tends to decrease</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">look at the whole cloud, not one dot — and name outliers without erasing them</text>
   <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">association is not yet causation (next lesson)</text>
 </svg>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Fairness and our shared rules, all together</title>
-  <desc id="desc">A five-part page gathers the whole unit on fairness and shared rules. The five boxes are labeled: "right choice and reason," drawn as a checkmark and a because-bubble; "same is not always fair," drawn as a ramp, a tall box, and a plain box; "a right every child has," drawn as an open book and a ball; "our fair decision and a helping hand," drawn as a vote chart with tokens and an open hand; and "a peaceful solve and a real apology," drawn as an ear, two smiling faces, and a repaired heart. Each box has a dashed draw-or-write area, and the labels, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-010-10-fairness-and-our-shared-rules-all-together desc-L-02-010-10-fairness-and-our-shared-rules-all-together">
+  <title id="title-L-02-010-10-fairness-and-our-shared-rules-all-together">Fairness and our shared rules, all together</title>
+  <desc id="desc-L-02-010-10-fairness-and-our-shared-rules-all-together">A five-part page gathers the whole unit on fairness and shared rules. The five boxes are labeled: "right choice and reason," drawn as a checkmark and a because-bubble; "same is not always fair," drawn as a ramp, a tall box, and a plain box; "a right every child has," drawn as an open book and a ball; "our fair decision and a helping hand," drawn as a vote chart with tokens and an open hand; and "a peaceful solve and a real apology," drawn as an ear, two smiling faces, and a repaired heart. Each box has a dashed draw-or-write area, and the labels, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Fairness &amp; Our Shared Rules &#8212; All Together</text>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="17.6" font-weight="bold" fill="#2b3a42">Fairness &amp; Our Shared Rules &#8212; All Together</text>
 
   <!-- box 1 -->
   <rect x="16" y="52" width="232" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -38,11 +38,11 @@
 
   <!-- box 4 -->
   <rect x="264" y="214" width="232" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="380" y="238" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">our fair decision &amp; helping hand</text>
+  <text x="380" y="238" text-anchor="middle" font-family="sans-serif" font-size="12.9" font-weight="bold" fill="#2b3a42">our fair decision &amp; helping hand</text>
   <rect x="292" y="252" width="44" height="40" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="304" cy="268" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="318" cy="268" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="314" y="288" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">2</text>
+  <text x="314" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">2</text>
   <path d="M382 292 Q366 264 348 272 L344 286 Q370 298 382 292 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
   <path d="M352 272 L348 260 M352 272 L356 258 M352 272 L340 266 M352 272 L342 282 M352 272 L362 264" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <rect x="284" y="302" width="192" height="46" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 5"/>

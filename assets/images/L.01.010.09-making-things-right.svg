@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Making things right: five repair steps</title>
-  <desc id="desc">Two panels and a five-step strip teach how to make things right after a small hurt. The first panel, labeled "the hurt," shows a block tower knocked over with blocks scattered and one child standing with a hand outstretched while a second child looks down with a sad frown. The second panel, labeled "the repair," shows the same two children building the tower back up together, both smiling. Below, five numbered steps read: 1 say what happened, 2 name how they felt, 3 ask what would help, 4 do the repair, and 5 check back. The labels, the scattered-then-rebuilt blocks, and the sad-then-smiling faces, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that repair — not punishment — heals a hurt so everyone can be well again, and that a sorry that matters names the act and tries to fix it.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-010-09-making-things-right desc-L-01-010-09-making-things-right">
+  <title id="title-L-01-010-09-making-things-right">Making things right: five repair steps</title>
+  <desc id="desc-L-01-010-09-making-things-right">Two panels and a five-step strip teach how to make things right after a small hurt. The first panel, labeled "the hurt," shows a block tower knocked over with blocks scattered and one child standing with a hand outstretched while a second child looks down with a sad frown. The second panel, labeled "the repair," shows the same two children building the tower back up together, both smiling. Below, five numbered steps read: 1 say what happened, 2 name how they felt, 3 ask what would help, 4 do the repair, and 5 check back. The labels, the scattered-then-rebuilt blocks, and the sad-then-smiling faces, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that repair — not punishment — heals a hurt so everyone can be well again, and that a sorry that matters names the act and tries to fix it.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -119,5 +119,5 @@
     <text x="448" y="460" text-anchor="middle" font-size="13" fill="#222222">back</text>
   </g>
 
-  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Name the act, never the child &#183; a sorry that matters tries to fix the harm</text>
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Name the act, never the child &#183; a sorry that matters tries to fix the harm</text>
 </svg>

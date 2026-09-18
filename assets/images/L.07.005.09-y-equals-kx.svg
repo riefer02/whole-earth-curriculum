@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Proportional relationships as y = kx</title>
-  <desc id="desc">A diagram of the proportional equation y = kx. A table shows x = 1, 2, 3 and y = 3, 6, 9, with k = 3 circled. A graph shows the line y = 3x rising steeply through the origin. The equation y = 3x is written large, with an arrow labeling "k = 3 is the constant of proportionality — the amount of y for each 1 of x." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-005-09-y-equals-kx desc-L-07-005-09-y-equals-kx">
+  <title id="title-L-07-005-09-y-equals-kx">Proportional relationships as y = kx</title>
+  <desc id="desc-L-07-005-09-y-equals-kx">A diagram of the proportional equation y = kx. A table shows x = 1, 2, 3 and y = 3, 6, 9, with k = 3 circled. A graph shows the line y = 3x rising steeply through the origin. The equation y = 3x is written large, with an arrow labeling "k = 3 is the constant of proportionality — the amount of y for each 1 of x." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -44,7 +44,7 @@
   <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">predict with the equation</text>
   <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">3 metres per second → y = 3x → after 10 s: y = 3 × 10 = 30 m</text>
 
-  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">find k by dividing (k = y ÷ x) · write y = kx · multiply to predict</text>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="13.7" font-weight="bold" fill="#222222">find k by dividing (k = y ÷ x) · write y = kx · multiply to predict</text>
   <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">k is the unit rate — the amount of y for each 1 of x</text>
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">change k on a graph and the line's steepness changes with it</text>
 </svg>

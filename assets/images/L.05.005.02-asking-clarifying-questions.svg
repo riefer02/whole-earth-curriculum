@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Asking a clarifying question</title>
-  <desc id="desc">A scene with two figures. On the left a speaker with a raised finger says, "Meet me at the tall tree at noon." On the right a listener with a puzzled face and a hand by the ear says, "Which tall tree — the one by the well, or the one by the road?" The listener's bubble is labeled "clarifying question." A question mark floats between them. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-005-02-asking-clarifying-questions desc-L-05-005-02-asking-clarifying-questions">
+  <title id="title-L-05-005-02-asking-clarifying-questions">Asking a clarifying question</title>
+  <desc id="desc-L-05-005-02-asking-clarifying-questions">A scene with two figures. On the left a speaker with a raised finger says, "Meet me at the tall tree at noon." On the right a listener with a puzzled face and a hand by the ear says, "Which tall tree — the one by the well, or the one by the road?" The listener's bubble is labeled "clarifying question." A question mark floats between them. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -47,5 +47,5 @@
   <rect x="148" y="376" width="216" height="50" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="407" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">clarifying question</text>
 
-  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Ask until the meaning is clear — it is a strength.</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="18.3" fill="#2b3a42">Ask until the meaning is clear — it is a strength.</text>
 </svg>

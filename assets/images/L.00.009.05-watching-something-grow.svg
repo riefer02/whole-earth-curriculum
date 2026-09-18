@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Watching something grow, day by day</title>
-  <desc id="desc">Four small frames showing the same seed in a cup growing a little more each day: first just a seed, then a tiny sprout, then a sprout with two leaves, then a taller plant with more leaves. Each frame is labeled Day 1, Day 2, Day 3, and Day 4, with an arrow pointing to the next day. Growth is shown by size and shape, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-009-05-watching-something-grow desc-L-00-009-05-watching-something-grow">
+  <title id="title-L-00-009-05-watching-something-grow">Watching something grow, day by day</title>
+  <desc id="desc-L-00-009-05-watching-something-grow">Four small frames showing the same seed in a cup growing a little more each day: first just a seed, then a tiny sprout, then a sprout with two leaves, then a taller plant with more leaves. Each frame is labeled Day 1, Day 2, Day 3, and Day 4, with an arrow pointing to the next day. Growth is shown by size and shape, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -81,5 +81,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Look again tomorrow — you will notice the change for yourself.</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">Look again tomorrow — you will notice the change for yourself.</text>
 </svg>

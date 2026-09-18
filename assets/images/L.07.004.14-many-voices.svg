@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Many voices, all correct</title>
-  <desc id="desc">A row of three speech bubbles rising from three people of varied skin tones and hair, each bubble containing a different greeting word. Above them a caption reads "Every way of speaking is a correct way of speaking." Meaning is carried by labels and the equal, side-by-side layout, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-004-14-many-voices desc-L-07-004-14-many-voices">
+  <title id="title-L-07-004-14-many-voices">Many voices, all correct</title>
+  <desc id="desc-L-07-004-14-many-voices">A row of three speech bubbles rising from three people of varied skin tones and hair, each bubble containing a different greeting word. Above them a caption reads "Every way of speaking is a correct way of speaking." Meaning is carried by labels and the equal, side-by-side layout, not color, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Every way of speaking is a correct way</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="24.1" font-weight="bold" fill="#2b3a42">Every way of speaking is a correct way</text>
 
   <!-- Person 1 -->
   <g>
@@ -56,5 +56,5 @@
     <text x="420" y="162" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">jambo</text>
   </g>
 
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Dialect and accent are natural variation — not error.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="17.3" font-weight="bold" fill="#2b3a42">Dialect and accent are natural variation — not error.</text>
 </svg>

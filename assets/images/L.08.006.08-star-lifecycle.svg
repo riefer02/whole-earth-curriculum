@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The life cycle of a star</title>
-  <desc id="desc">A sequence of five stages: a cloud of gas and dust, a shining star, a red giant, a supernova scattering elements, and new stars forming from the remains, with labels under each.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-006-08-star-lifecycle desc-L-08-006-08-star-lifecycle">
+  <title id="title-L-08-006-08-star-lifecycle">The life cycle of a star</title>
+  <desc id="desc-L-08-006-08-star-lifecycle">A sequence of five stages: a cloud of gas and dust, a shining star, a red giant, a supernova scattering elements, and new stars forming from the remains, with labels under each.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">The Life of a Star</text>
@@ -16,9 +16,9 @@
   </g>
 
   <!-- arrow -->
-  <path d="M120 170 L142 170" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr)"/>
+  <path d="M120 170 L142 170" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr-L-08-006-08-star-lifecycle)"/>
   <defs>
-    <marker id="sarr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="sarr-L-08-006-08-star-lifecycle" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0 0 L8 3 L0 6 Z" fill="#2b3a42"/>
     </marker>
   </defs>
@@ -32,7 +32,7 @@
   </g>
 
   <!-- arrow -->
-  <path d="M222 170 L244 170" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr)"/>
+  <path d="M222 170 L244 170" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr-L-08-006-08-star-lifecycle)"/>
 
   <!-- stage 3: red giant -->
   <g>
@@ -43,7 +43,7 @@
   </g>
 
   <!-- arrow -->
-  <path d="M350 170 L372 170" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr)"/>
+  <path d="M350 170 L372 170" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr-L-08-006-08-star-lifecycle)"/>
 
   <!-- stage 4: supernova -->
   <g>
@@ -54,7 +54,7 @@
   </g>
 
   <!-- arrow -->
-  <path d="M460 170 L478 170" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr)"/>
+  <path d="M460 170 L478 170" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr-L-08-006-08-star-lifecycle)"/>
 
   <!-- stage 5: new stars -->
   <g>
@@ -63,7 +63,7 @@
     <text x="477" y="226" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">new stars</text>
   </g>
 
-  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Stars forge the elements — the iron in your blood came from a star.</text>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="13.7" font-weight="bold" fill="#2b3a42">Stars forge the elements — the iron in your blood came from a star.</text>
   <text x="256" y="324" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Our Sun is one of more than 100 billion stars in the Milky Way.</text>
-  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">This is a model built from evidence — we see stars at every stage at once.</text>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">This is a model built from evidence — we see stars at every stage at once.</text>
 </svg>

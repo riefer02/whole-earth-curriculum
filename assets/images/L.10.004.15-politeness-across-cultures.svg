@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Politeness and address across cultures</title>
-  <desc id="desc">A grid comparing how two cultures greet, address, and show respect — one row showing a bow and a title, another a handshake and a name. Beside it, a respectful-check card lists questions to ask rather than assume.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-004-15-politeness-across-cultures desc-L-10-004-15-politeness-across-cultures">
+  <title id="title-L-10-004-15-politeness-across-cultures">Politeness and address across cultures</title>
+  <desc id="desc-L-10-004-15-politeness-across-cultures">A grid comparing how two cultures greet, address, and show respect — one row showing a bow and a title, another a handshake and a name. Beside it, a respectful-check card lists questions to ask rather than assume.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Respect Looks Different — Intention Is Shared</text>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="20.4" font-weight="bold" fill="#2b3a42">Respect Looks Different — Intention Is Shared</text>
 
   <!-- Grid -->
   <rect x="28" y="58" width="330" height="220" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
@@ -51,6 +51,6 @@
     <text x="390" y="252">I ask?</text>
   </g>
 
-  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Watch, ask, and adapt — so your respect lands the way you meant it.</text>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Watch, ask, and adapt — so your respect lands the way you meant it.</text>
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Respect is an intention made visible in the other person's own idiom.</text>
 </svg>

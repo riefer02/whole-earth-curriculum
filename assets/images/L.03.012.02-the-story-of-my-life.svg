@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The story of my life so far</title>
-  <desc id="desc">A winding path that tells a life story in order, from left to right. Four stops along the path show: a baby wrapped in a blanket labeled "I was born"; a small child reaching up labeled "I learned to walk and talk"; a school-age child with a backpack labeled "I started school"; and a taller child waving labeled "me today." Small icons mark important people and places along the path — a house, a school, a grandparent, and a friend. The path runs from "then" to "now," and the closing line teaches that a life story has an order, and the important people and places are part of it. Skin tones, hair, and dress vary. Everything reads in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-012-02-the-story-of-my-life desc-L-03-012-02-the-story-of-my-life">
+  <title id="title-L-03-012-02-the-story-of-my-life">The story of my life so far</title>
+  <desc id="desc-L-03-012-02-the-story-of-my-life">A winding path that tells a life story in order, from left to right. Four stops along the path show: a baby wrapped in a blanket labeled "I was born"; a small child reaching up labeled "I learned to walk and talk"; a school-age child with a backpack labeled "I started school"; and a taller child waving labeled "me today." Small icons mark important people and places along the path — a house, a school, a grandparent, and a friend. The path runs from "then" to "now," and the closing line teaches that a life story has an order, and the important people and places are part of it. Skin tones, hair, and dress vary. Everything reads in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -87,5 +87,5 @@
     <text x="390" y="396" text-anchor="middle" font-size="11">a friend</text>
   </g>
 
-  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">My life story has an order — and the people and places in it are part of who I am.</text>
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">My life story has an order — and the people and places in it are part of who I am.</text>
 </svg>

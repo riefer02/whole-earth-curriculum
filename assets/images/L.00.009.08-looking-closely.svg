@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Looking closely at a leaf</title>
-  <desc id="desc">A hand holds a magnifying glass over a leaf. Inside the round lens, the leaf's veins and a tiny dot are drawn bigger, so a learner can see that looking slowly reveals details they missed at first. Beside the lens are small labels for the senses used in close looking — see, touch, smell, hear. The picture shows observing gently without harming a living thing, and prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-009-08-looking-closely desc-L-00-009-08-looking-closely">
+  <title id="title-L-00-009-08-looking-closely">Looking closely at a leaf</title>
+  <desc id="desc-L-00-009-08-looking-closely">A hand holds a magnifying glass over a leaf. Inside the round lens, the leaf's veins and a tiny dot are drawn bigger, so a learner can see that looking slowly reveals details they missed at first. Beside the lens are small labels for the senses used in close looking — see, touch, smell, hear. The picture shows observing gently without harming a living thing, and prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -55,5 +55,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Look with your eyes; touch softly; leave it where you found it.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">Look with your eyes; touch softly; leave it where you found it.</text>
 </svg>

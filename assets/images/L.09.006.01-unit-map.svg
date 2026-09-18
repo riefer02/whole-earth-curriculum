@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Unit map: four strands of language, literature and argument</title>
-  <desc id="desc">A map of the unit showing four boxes labeled listening and speaking, reading and literacy, writing and expression, and multilingual and intercultural communication, each with two short goals, arranged around the words synthesis, argument, and authorship.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-006-01-unit-map desc-L-09-006-01-unit-map">
+  <title id="title-L-09-006-01-unit-map">Unit map: four strands of language, literature and argument</title>
+  <desc id="desc-L-09-006-01-unit-map">A map of the unit showing four boxes labeled listening and speaking, reading and literacy, writing and expression, and multilingual and intercultural communication, each with two short goals, arranged around the words synthesis, argument, and authorship.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Our Unit: Language, Literature &amp; Argument</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="20.4" font-weight="bold" fill="#2b3a42">Our Unit: Language, Literature &amp; Argument</text>
 
   <!-- center badge -->
   <ellipse cx="256" cy="256" rx="96" ry="36" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -22,7 +22,7 @@
   <!-- strand 2: reading (top-right) -->
   <rect x="328" y="82" width="150" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="352" cy="104" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="368" y="109" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">Reading &amp; Literacy</text>
+  <text x="368" y="109" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Reading &amp; Literacy</text>
   <text x="338" y="134" font-family="sans-serif" font-size="11" fill="#4f6d7a">· structure, style,</text>
   <text x="338" y="150" font-family="sans-serif" font-size="11" fill="#4f6d7a">  argument together</text>
   <text x="338" y="170" font-family="sans-serif" font-size="11" fill="#4f6d7a">· synthesize across texts</text>

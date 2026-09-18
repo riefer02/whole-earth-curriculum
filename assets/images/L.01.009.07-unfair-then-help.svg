@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Unfair, then someone helps</title>
-  <desc id="desc">Two panels show one gentle story with a repair. The first panel is labeled unfair: three children play with a ball while a fourth child stands apart, head down, left out for no reason. The second panel is labeled help: one child reaches out and invites the left-out child to join, and now all four play together and smile. The labels, the positions of the figures, and the sad-to-smiling faces, not color, carry the meaning, so the picture prints clearly in grayscale and shows that noticing unfairness and inviting someone in is a kind thing anyone can do. The story is gentle and blame-free and ends in repair.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-009-07-unfair-then-help desc-L-01-009-07-unfair-then-help">
+  <title id="title-L-01-009-07-unfair-then-help">Unfair, then someone helps</title>
+  <desc id="desc-L-01-009-07-unfair-then-help">Two panels show one gentle story with a repair. The first panel is labeled unfair: three children play with a ball while a fourth child stands apart, head down, left out for no reason. The second panel is labeled help: one child reaches out and invites the left-out child to join, and now all four play together and smile. The labels, the positions of the figures, and the sad-to-smiling faces, not color, carry the meaning, so the picture prints clearly in grayscale and shows that noticing unfairness and inviting someone in is a kind thing anyone can do. The story is gentle and blame-free and ends in repair.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -117,6 +117,6 @@
 
   <text x="379" y="358" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">come play with us</text>
 
-  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Noticing unfairness is the first step &#183; helping is the next.</text>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Noticing unfairness is the first step &#183; helping is the next.</text>
   <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">No child is ever the problem &#183; anyone can help</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">From farm to table</title>
-  <desc id="desc">A journey diagram titled "from farm to table." Four steps connected by arrows: grow — soil and water, a farmer plants and tends (a field with a plant and a farmer); harvest — a worker picks or gathers (a hand picking a fruit); transport — by truck, boat, or train, using fuel (a truck); table — a family eats (a table with bowls and two figures). Along the bottom, small labels note "people at each step" and "the environment: soil, water, fuel, packaging." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-008-05-farm-to-table desc-L-06-008-05-farm-to-table">
+  <title id="title-L-06-008-05-farm-to-table">From farm to table</title>
+  <desc id="desc-L-06-008-05-farm-to-table">A journey diagram titled "from farm to table." Four steps connected by arrows: grow — soil and water, a farmer plants and tends (a field with a plant and a farmer); harvest — a worker picks or gathers (a hand picking a fruit); transport — by truck, boat, or train, using fuel (a truck); table — a family eats (a table with bowls and two figures). Along the bottom, small labels note "people at each step" and "the environment: soil, water, fuel, packaging." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -71,8 +71,8 @@
   <!-- Bottom labels -->
   <rect x="24" y="356" width="464" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">people at each step — and the environment it draws on</text>
-  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">soil and water to grow · fuel to travel · packaging that can become waste</text>
-  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">many hands make one meal — and every plate connects us to the land.</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="12.6" fill="#222222">soil and water to grow · fuel to travel · packaging that can become waste</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#222222">many hands make one meal — and every plate connects us to the land.</text>
 
   <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">When we know the journey, we can choose with care and eat</text>
   <text x="256" y="504.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">with thanks.</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">In an emergency: call for help</title>
-  <desc id="desc">A four-step flow diagram titled "in an emergency." Step 1, "recognize," shows a calm child noticing a situation. Step 2, "get safe," shows the child stepping away. Step 3, "tell a trusted adult," shows the child with an adult. Step 4, "call the local emergency number," shows a phone with a number box labeled "your local emergency number." An arrow connects the steps. A caption reads "Stay calm. Get help fast." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-009-05-call-for-help desc-L-05-009-05-call-for-help">
+  <title id="title-L-05-009-05-call-for-help">In an emergency: call for help</title>
+  <desc id="desc-L-05-009-05-call-for-help">A four-step flow diagram titled "in an emergency." Step 1, "recognize," shows a calm child noticing a situation. Step 2, "get safe," shows the child stepping away. Step 3, "tell a trusted adult," shows the child with an adult. Step 4, "call the local emergency number," shows a phone with a number box labeled "your local emergency number." An arrow connects the steps. A caption reads "Stay calm. Get help fast." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -46,7 +46,7 @@
   <rect x="420" y="86" width="70" height="150" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <rect x="440" y="112" width="30" height="46" rx="5" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <text x="455" y="138" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">☎</text>
-  <text x="455" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">4 · call the number</text>
+  <text x="455" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">4 · call the number</text>
 
   <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Recognize · get safe · get help · call the number</text>
 
@@ -55,5 +55,5 @@
   <text x="256" y="364" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">— — — (fill in your number) — — —</text>
 
   <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">Stay calm. Get help fast.</text>
-  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Emergency numbers differ around the world — learn yours by heart.</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Emergency numbers differ around the world — learn yours by heart.</text>
 </svg>

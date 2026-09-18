@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Energy is transformed, not destroyed</title>
-  <desc id="desc">A chain showing energy changing form: chemical energy in fuel becomes thermal, then kinetic in a moving turbine, then electrical, then light in a lamp. At each step a small arrow labeled heat leaves the chain, showing energy is conserved but some always spreads as heat.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-008-05-energy-transformations desc-L-09-008-05-energy-transformations">
+  <title id="title-L-09-008-05-energy-transformations">Energy is transformed, not destroyed</title>
+  <desc id="desc-L-09-008-05-energy-transformations">A chain showing energy changing form: chemical energy in fuel becomes thermal, then kinetic in a moving turbine, then electrical, then light in a lamp. At each step a small arrow labeled heat leaves the chain, showing energy is conserved but some always spreads as heat.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34.6" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Energy Transforms — and Some Always</text>
@@ -57,7 +57,7 @@
   <text x="479" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">heat lost</text>
 
   <rect x="56" y="290" width="400" height="72" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
-  <text x="72" y="314" font-family="sans-serif" font-size="14" fill="#222222">Energy is never created or destroyed — only changed in form.</text>
+  <text x="72" y="314" font-family="sans-serif" font-size="13.2" fill="#222222">Energy is never created or destroyed — only changed in form.</text>
   <text x="72" y="336" font-family="sans-serif" font-size="14" fill="#222222">Efficiency = useful energy out ÷ total energy in.</text>
-  <text x="72" y="356" font-family="sans-serif" font-size="13" fill="#4f6d7a">The heat that "leaks" is not gone — it has spread into the surroundings.</text>
+  <text x="72" y="356" font-family="sans-serif" font-size="12" fill="#4f6d7a">The heat that "leaks" is not gone — it has spread into the surroundings.</text>
 </svg>

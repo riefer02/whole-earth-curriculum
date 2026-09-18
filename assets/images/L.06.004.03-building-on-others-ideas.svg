@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Building on others' ideas</title>
-  <desc id="desc">A tower of four stacked speech bubbles. The bottom bubble reads "We should start a class garden." The next reads "Building on that — a garden gives us food to share." The next reads "That connects to health — we would eat what we grow." The top reads "I want to add — we could give extra food to families." Each bubble is drawn resting on the one below, labeled "each idea builds on the last." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-004-03-building-on-others-ideas desc-L-06-004-03-building-on-others-ideas">
+  <title id="title-L-06-004-03-building-on-others-ideas">Building on others' ideas</title>
+  <desc id="desc-L-06-004-03-building-on-others-ideas">A tower of four stacked speech bubbles. The bottom bubble reads "We should start a class garden." The next reads "Building on that — a garden gives us food to share." The next reads "That connects to health — we would eat what we grow." The top reads "I want to add — we could give extra food to families." Each bubble is drawn resting on the one below, labeled "each idea builds on the last." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -27,11 +27,11 @@
   <text x="256" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">extra food to families."</text>
 
   <!-- arrows between bubbles -->
-  <path d="M256 356 L256 328" stroke="#2b3a42" stroke-width="3" marker-end="url(#a)"/>
-  <path d="M256 262 L256 234" stroke="#2b3a42" stroke-width="3" marker-end="url(#a)"/>
-  <path d="M256 168 L256 140" stroke="#2b3a42" stroke-width="3" marker-end="url(#a)"/>
+  <path d="M256 356 L256 328" stroke="#2b3a42" stroke-width="3" marker-end="url(#a-L-06-004-03-building-on-others-ideas)"/>
+  <path d="M256 262 L256 234" stroke="#2b3a42" stroke-width="3" marker-end="url(#a-L-06-004-03-building-on-others-ideas)"/>
+  <path d="M256 168 L256 140" stroke="#2b3a42" stroke-width="3" marker-end="url(#a-L-06-004-03-building-on-others-ideas)"/>
   <defs>
-    <marker id="a" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+    <marker id="a-L-06-004-03-building-on-others-ideas" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
       <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
     </marker>
   </defs>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Kind and unkind choices, same situation</title>
-  <desc id="desc">Two panels show the same everyday situation — two children and one ball — handled two ways. The first panel is labeled unkind choice: one child hugs the ball away while the other child stands empty-handed with a sad frown, and the caption says "unkind: one takes it all." The second panel is labeled kind choice: the same two children stand smiling and pass the ball between them, and the caption says "kind: we take turns." The labels, the sad-versus-smiling faces, and the ball's position, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that "kind" and "unkind" name the choice we make, not the child — anyone can choose again.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-010-01-kind-and-unkind-choices desc-L-01-010-01-kind-and-unkind-choices">
+  <title id="title-L-01-010-01-kind-and-unkind-choices">Kind and unkind choices, same situation</title>
+  <desc id="desc-L-01-010-01-kind-and-unkind-choices">Two panels show the same everyday situation — two children and one ball — handled two ways. The first panel is labeled unkind choice: one child hugs the ball away while the other child stands empty-handed with a sad frown, and the caption says "unkind: one takes it all." The second panel is labeled kind choice: the same two children stand smiling and pass the ball between them, and the caption says "kind: we take turns." The labels, the sad-versus-smiling faces, and the ball's position, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that "kind" and "unkind" name the choice we make, not the child — anyone can choose again.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -87,5 +87,5 @@
   <text x="379" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">we take turns</text>
 
   <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">"Kind" and "unkind" name the choice, never the child.</text>
-  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A kind choice is always possible &#183; we can choose again</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15.5" fill="#4f6d7a">A kind choice is always possible &#183; we can choose again</text>
 </svg>

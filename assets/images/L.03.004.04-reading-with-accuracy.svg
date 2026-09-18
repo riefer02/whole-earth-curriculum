@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reading with accuracy</title>
-  <desc id="desc">A child reads a line of text in their own writing system while a magnifying glass hovers over one word, and three small checks mark the steps — say the sounds, blend the word, check it makes sense. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that reading accurately means sounding out each word and checking that it fits the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-004-04-reading-with-accuracy desc-L-03-004-04-reading-with-accuracy">
+  <title id="title-L-03-004-04-reading-with-accuracy">Reading with accuracy</title>
+  <desc id="desc-L-03-004-04-reading-with-accuracy">A child reads a line of text in their own writing system while a magnifying glass hovers over one word, and three small checks mark the steps — say the sounds, blend the word, check it makes sense. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that reading accurately means sounding out each word and checking that it fits the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -46,5 +46,5 @@
     <text x="404" y="380" text-anchor="middle" fill="#4f6d7a">does it make sense?</text>
   </g>
 
-  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Accurate reading reads what is really written — every sound, every mark.</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">Accurate reading reads what is really written — every sound, every mark.</text>
 </svg>

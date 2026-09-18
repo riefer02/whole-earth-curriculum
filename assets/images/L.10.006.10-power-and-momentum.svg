@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Power and Momentum</title>
-  <desc id="desc">Two panels — one showing the same amount of work done quickly versus slowly with the equation power equals work divided by time, and one showing two objects colliding with momentum conserved before and after.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-006-10-power-and-momentum desc-L-10-006-10-power-and-momentum">
+  <title id="title-L-10-006-10-power-and-momentum">Power and Momentum</title>
+  <desc id="desc-L-10-006-10-power-and-momentum">Two panels — one showing the same amount of work done quickly versus slowly with the equation power equals work divided by time, and one showing two objects colliding with momentum conserved before and after.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Power and Momentum</text>
 
@@ -15,7 +15,7 @@
   <text x="130" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">watts = joules &#247; seconds</text>
 
   <!-- Momentum panel -->
-  <text x="386" y="66" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Momentum: conserved in collisions</text>
+  <text x="386" y="66" text-anchor="middle" font-family="sans-serif" font-size="13.4" fill="#4f6d7a" font-weight="bold">Momentum: conserved in collisions</text>
   <text x="300" y="100" font-family="sans-serif" font-size="13" fill="#222222">Before:</text>
   <rect x="300" y="112" width="50" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="325" y="136" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">2 kg</text>
@@ -28,7 +28,7 @@
   <rect x="410" y="188" width="46" height="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="386" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">total before = total after</text>
 
-  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">p = m &#215; v &#160;&#160;(momentum = mass &#215; velocity)</text>
+  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#2b3a42" font-weight="bold">p = m &#215; v &#160;&#160;(momentum = mass &#215; velocity)</text>
 
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Airbags and crumple zones stretch a crash out over time,</text>
   <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">so the same change in momentum produces a smaller force.</text>

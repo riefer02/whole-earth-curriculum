@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Stories, songs, and art show what people value</title>
-  <desc id="desc">Three panels show three kinds of cultural treasures. The first panel shows a woven kente cloth with a repeated pattern, labeled "kente cloth — patterns mean wisdom and unity." The second panel shows a painted dot pattern with circles, labeled "painting and story — caring for Country and family." The third panel shows musical notes rising from a drum, labeled "song and rhythm — passing on joy and memory." Each treasure shows what a culture values, and labels and shapes carry the meaning so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-009-04-stories-that-show-what-we-value desc-L-03-009-04-stories-that-show-what-we-value">
+  <title id="title-L-03-009-04-stories-that-show-what-we-value">Stories, songs, and art show what people value</title>
+  <desc id="desc-L-03-009-04-stories-that-show-what-we-value">Three panels show three kinds of cultural treasures. The first panel shows a woven kente cloth with a repeated pattern, labeled "kente cloth — patterns mean wisdom and unity." The second panel shows a painted dot pattern with circles, labeled "painting and story — caring for Country and family." The third panel shows musical notes rising from a drum, labeled "song and rhythm — passing on joy and memory." Each treasure shows what a culture values, and labels and shapes carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40.7" text-anchor="middle" font-family="sans-serif" font-size="17.7" font-weight="bold" fill="#2b3a42">Stories, Songs &amp; Art Show What We Value</text>
-  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every culture keeps treasures that say what matters to its people.</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">Every culture keeps treasures that say what matters to its people.</text>
 
   <!-- panel 1: kente -->
   <rect x="30" y="96" width="140" height="190" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>

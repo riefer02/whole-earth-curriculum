@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Left out, then made more fair</title>
-  <desc id="desc">Two panels show noticing and then changing. On the left, labeled "left out," three children play a ball game while a fourth child sits apart looking down, with a caption "not invited." On the right, labeled "more fair," the same four children now play together in a circle, all smiling, with a caption "everyone is included." A small arrow between the panels is labeled "notice, then change." Faces, the two scenes, and labels, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-010-04-left-out-making-it-more-fair desc-L-03-010-04-left-out-making-it-more-fair">
+  <title id="title-L-03-010-04-left-out-making-it-more-fair">Left out, then made more fair</title>
+  <desc id="desc-L-03-010-04-left-out-making-it-more-fair">Two panels show noticing and then changing. On the left, labeled "left out," three children play a ball game while a fourth child sits apart looking down, with a caption "not invited." On the right, labeled "more fair," the same four children now play together in a circle, all smiling, with a caption "everyone is included." A small arrow between the panels is labeled "notice, then change." Faces, the two scenes, and labels, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -79,5 +79,5 @@
 
   <text x="389" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" font-style="italic" fill="#222222">"everyone is included"</text>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">First notice who is left out. Then change it so everyone can take part.</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">First notice who is left out. Then change it so everyone can take part.</text>
 </svg>

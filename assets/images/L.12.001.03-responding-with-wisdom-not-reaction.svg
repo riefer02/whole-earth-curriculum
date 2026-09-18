@@ -15,13 +15,13 @@
     <rect x="24" y="272" width="128" height="56" rx="12" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
     <text x="88" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#222222">Respond</text>
     <!-- arrows -->
-    <path d="M296 152 L380 262" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a)"/>
-    <path d="M360 328 L300 438" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a)"/>
-    <path d="M176 474 L116 338" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a)"/>
-    <path d="M108 266 L180 158" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a)"/>
+    <path d="M296 152 L380 262" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a-L-12-001-03-responding-with-wisdom-not-reaction)"/>
+    <path d="M360 328 L300 438" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a-L-12-001-03-responding-with-wisdom-not-reaction)"/>
+    <path d="M176 474 L116 338" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a-L-12-001-03-responding-with-wisdom-not-reaction)"/>
+    <path d="M108 266 L180 158" fill="none" stroke="#2b3a42" stroke-width="2" marker-end="url(#a-L-12-001-03-responding-with-wisdom-not-reaction)"/>
   </g>
   <defs>
-    <marker id="a" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+    <marker id="a-L-12-001-03-responding-with-wisdom-not-reaction" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
       <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
     </marker>
   </defs>

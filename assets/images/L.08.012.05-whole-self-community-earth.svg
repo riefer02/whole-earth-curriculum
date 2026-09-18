@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Whole self, caring community, living Earth, looking ahead</title>
-  <desc id="desc">Three concentric rings. A whole person at the center, a ring of people forming a caring community around them, and a ring of land and water and sky for the living Earth around both, with an arrow pointing ahead to what comes next.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-012-05-whole-self-community-earth desc-L-08-012-05-whole-self-community-earth">
+  <title id="title-L-08-012-05-whole-self-community-earth">Whole self, caring community, living Earth, looking ahead</title>
+  <desc id="desc-L-08-012-05-whole-self-community-earth">Three concentric rings. A whole person at the center, a ring of people forming a caring community around them, and a ring of land and water and sky for the living Earth around both, with an arrow pointing ahead to what comes next.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -43,5 +43,5 @@
   <!-- arrow ahead -->
   <line x1="410" y1="420" x2="474" y2="420" stroke="#7a9e7e" stroke-width="4"/>
   <polygon points="482,420 466,412 466,428" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1"/>
-  <text x="474" y="452" text-anchor="middle" font-family="sans-serif" font-size="10.7" font-weight="bold" fill="#7a9e7e">carry it forward</text>
+  <text x="474" y="452" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#7a9e7e">carry it forward</text>
 </svg>

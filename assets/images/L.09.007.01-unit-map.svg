@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Unit map: the four strands of Mathematics and Reasoning</title>
-  <desc id="desc">Four boxes arranged in a path, each naming one strand — number and quantity, patterns and relationships, geometry and spatial reasoning, and data measurement and probability — with two short goals each, connected by the words model, prove, and reason.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-007-01-unit-map desc-L-09-007-01-unit-map">
+  <title id="title-L-09-007-01-unit-map">Unit map: the four strands of Mathematics and Reasoning</title>
+  <desc id="desc-L-09-007-01-unit-map">Four boxes arranged in a path, each naming one strand — number and quantity, patterns and relationships, geometry and spatial reasoning, and data measurement and probability — with two short goals each, connected by the words model, prove, and reason.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Mathematics &amp; Reasoning</text>
@@ -26,7 +26,7 @@
 
   <!-- strand 4 -->
   <rect x="270" y="248" width="206" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="373" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Data, Measurement &amp; Probability</text>
+  <text x="373" y="274" text-anchor="middle" font-family="sans-serif" font-size="14.0" font-weight="bold" fill="#2b3a42">Data, Measurement &amp; Probability</text>
   <text x="280" y="300" font-family="sans-serif" font-size="13" fill="#222222">· comparing distributions</text>
   <text x="280" y="322" font-family="sans-serif" font-size="13" fill="#222222">· two-way tables and fairness</text>
 

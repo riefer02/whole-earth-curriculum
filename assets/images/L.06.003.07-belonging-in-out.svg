@@ -34,7 +34,7 @@
   <!-- arrows and questions -->
   <g font-family="sans-serif" text-anchor="middle">
     <path d="M318 410 C 350 430, 340 450, 300 452" fill="none" stroke="#4f6d7a" stroke-width="3"/>
-    <text x="392" y="420" font-size="15" fill="#222222">why are they out?</text>
+    <text x="392" y="420" font-size="12.4" fill="#222222">why are they out?</text>
     <path d="M120 356 C 80 380, 80 400, 120 420" fill="none" stroke="#7a9e7e" stroke-width="3"/>
     <text x="70" y="470" font-size="14" fill="#222222" transform="rotate(0)">what would</text>
     <text x="70" y="488" font-size="14" fill="#222222">open the circle?</text>

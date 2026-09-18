@@ -19,10 +19,10 @@
   <text x="256" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#4f6d7a">and its cost</text>
   <line x1="256" y1="182" x2="256" y2="300" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 5"/>
   <!-- commitment arrow -->
-  <line x1="125" y1="380" x2="387" y2="380" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="125" y1="380" x2="387" y2="380" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr-L-12-001-07-my-values-in-action)"/>
   <text x="256" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">a commitment to close it</text>
   <defs>
-    <marker id="arr" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+    <marker id="arr-L-12-001-07-my-values-in-action" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
       <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
     </marker>
   </defs>

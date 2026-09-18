@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">First aid for minor hurts</title>
-  <desc id="desc">Three columns for three minor hurts. The first shows a cut with the steps wash with clean water and cover it. The second shows a scrape with the same steps. The third shows a bruise with a cool cloth and rest. Above all three are the words first tell an adult, with a child telling a listening adult. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-008-07-first-aid-for-minor-hurts desc-L-03-008-07-first-aid-for-minor-hurts">
+  <title id="title-L-03-008-07-first-aid-for-minor-hurts">First aid for minor hurts</title>
+  <desc id="desc-L-03-008-07-first-aid-for-minor-hurts">Three columns for three minor hurts. The first shows a cut with the steps wash with clean water and cover it. The second shows a scrape with the same steps. The third shows a bruise with a cool cloth and rest. Above all three are the words first tell an adult, with a child telling a listening adult. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">First Aid for Minor Hurts</text>
@@ -56,5 +56,5 @@
     <text x="414" y="398" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">rest</text>
   </g>
 
-  <text x="256" y="506" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">If a hurt is deep or will not stop bleeding, the adult gets more help.</text>
+  <text x="256" y="506" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#222222">If a hurt is deep or will not stop bleeding, the adult gets more help.</text>
 </svg>

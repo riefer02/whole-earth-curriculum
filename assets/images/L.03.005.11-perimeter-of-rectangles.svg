@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Perimeter of a rectangle: the distance around</title>
-  <desc id="desc">A rectangle with a dashed string line around its outside edge, side lengths labeled seven and three. Labels show perimeter equals seven plus three plus seven plus three equals twenty units, and a note says perimeter is the fence, the distance around, not the space inside.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-005-11-perimeter-of-rectangles desc-L-03-005-11-perimeter-of-rectangles">
+  <title id="title-L-03-005-11-perimeter-of-rectangles">Perimeter of a rectangle: the distance around</title>
+  <desc id="desc-L-03-005-11-perimeter-of-rectangles">A rectangle with a dashed string line around its outside edge, side lengths labeled seven and three. Labels show perimeter equals seven plus three plus seven plus three equals twenty units, and a note says perimeter is the fence, the distance around, not the space inside.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

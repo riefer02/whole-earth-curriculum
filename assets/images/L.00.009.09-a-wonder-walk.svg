@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A wonder walk with a sit spot</title>
-  <desc id="desc">An outdoor scene for a wonder walk. A child sits quietly on a log at a sit spot, looking and listening, while a friend stands beside them and points. Around them are things to wonder about: a bird flying, a tree, a flower, a puddle, a cloud, and a bug on the ground. Two question bubbles float over the scene. The scene shows that you can walk or sit and let the world come to you, and it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-009-09-a-wonder-walk desc-L-00-009-09-a-wonder-walk">
+  <title id="title-L-00-009-09-a-wonder-walk">A wonder walk with a sit spot</title>
+  <desc id="desc-L-00-009-09-a-wonder-walk">An outdoor scene for a wonder walk. A child sits quietly on a log at a sit spot, looking and listening, while a friend stands beside them and points. Around them are things to wonder about: a bird flying, a tree, a flower, a puddle, a cloud, and a bug on the ground. Two question bubbles float over the scene. The scene shows that you can walk or sit and let the world come to you, and it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -98,5 +98,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="77.7" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Walk slowly, or sit and let the world come to you. Wonder wherever you go.</text>
+  <text x="256" y="77.7" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Walk slowly, or sit and let the world come to you. Wonder wherever you go.</text>
 </svg>

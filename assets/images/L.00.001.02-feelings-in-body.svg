@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Feelings in our bodies: a body map with five feeling spots</title>
-  <desc id="desc">A simple child body outline with five labeled feeling spots marked by different shapes: a warm heart on the chest (happy), a diamond on the shoulder (sad), a circle on the cheek (angry, shown warm-toned for "hot cheeks"), a triangle on the tummy (scared), and a square on the hand (calm). The body is drawn in a neutral tone, not a skin tone, so any learner can see it as their own body. A legend on the right repeats each shape with its feeling word and body spot. The shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-02-feelings-in-body desc-L-00-001-02-feelings-in-body">
+  <title id="title-L-00-001-02-feelings-in-body">Feelings in our bodies: a body map with five feeling spots</title>
+  <desc id="desc-L-00-001-02-feelings-in-body">A simple child body outline with five labeled feeling spots marked by different shapes: a warm heart on the chest (happy), a diamond on the shoulder (sad), a circle on the cheek (angry, shown warm-toned for "hot cheeks"), a triangle on the tummy (scared), and a square on the hand (calm). The body is drawn in a neutral tone, not a skin tone, so any learner can see it as their own body. A legend on the right repeats each shape with its feeling word and body spot. The shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

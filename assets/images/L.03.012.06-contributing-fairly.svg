@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Contributing fairly to a group goal</title>
-  <desc id="desc">A community garden being made by four children who each do a fair, different part — one digs, one plants, one waters, one carries a basket of seedlings. A banner above reads "our group goal: a garden." A small inset at the bottom right shows one child doing everything alone, labeled "not fair," next to the main scene labeled "a fair share." The closing line teaches that contributing fairly means everyone gives a real part, and no one does it all or nothing. Children vary in skin tone, hair, and dress; one wears a hearing aid. Everything reads in grayscale and by label, not color alone.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-012-06-contributing-fairly desc-L-03-012-06-contributing-fairly">
+  <title id="title-L-03-012-06-contributing-fairly">Contributing fairly to a group goal</title>
+  <desc id="desc-L-03-012-06-contributing-fairly">A community garden being made by four children who each do a fair, different part — one digs, one plants, one waters, one carries a basket of seedlings. A banner above reads "our group goal: a garden." A small inset at the bottom right shows one child doing everything alone, labeled "not fair," next to the main scene labeled "a fair share." The closing line teaches that contributing fairly means everyone gives a real part, and no one does it all or nothing. Children vary in skin tone, hair, and dress; one wears a hearing aid. Everything reads in grayscale and by label, not color alone.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -95,5 +95,5 @@
   <text x="150" y="400" font-family="sans-serif" font-size="14" font-weight="bold" fill="#3a6b4a">a fair share</text>
   <text x="150" y="418" font-family="sans-serif" font-size="13" fill="#4f6d7a">everyone gives a real part</text>
 
-  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Contributing fairly means everyone gives a real part — no one does it all or nothing.</text>
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Contributing fairly means everyone gives a real part — no one does it all or nothing.</text>
 </svg>

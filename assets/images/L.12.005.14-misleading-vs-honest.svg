@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Detecting Misleading Statistics</title>
-  <desc id="desc">Two bar charts of the same data side by side. The left chart has a truncated vertical axis starting at 50, making the difference between 50 and 52 look huge. The right chart has a full axis from 0, making the same difference look small. Labels point out the truncated axis as the trick.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-14-misleading-vs-honest desc-L-12-005-14-misleading-vs-honest">
+  <title id="title-L-12-005-14-misleading-vs-honest">Detecting Misleading Statistics</title>
+  <desc id="desc-L-12-005-14-misleading-vs-honest">Two bar charts of the same data side by side. The left chart has a truncated vertical axis starting at 50, making the difference between 50 and 52 look huge. The right chart has a full axis from 0, making the same difference look small. Labels point out the truncated axis as the trick.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Same Numbers, Two Stories</text>

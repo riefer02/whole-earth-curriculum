@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Growing and square-number patterns</title>
-  <desc id="desc">A row of four growing square arrangements of dots: 1 dot, a 2 by 2 square of 4 dots, a 3 by 3 square of 9 dots, and a 4 by 4 square of 16 dots. Below, a number sequence 1, 4, 9, 16, 25 shows the rule: add the next odd number, plus 3, plus 5, plus 7, plus 9. A second row shows a repeating pattern of circle, square, circle, square with the rule written beneath.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-07-patterns-that-follow-a-rule desc-L-04-005-07-patterns-that-follow-a-rule">
+  <title id="title-L-04-005-07-patterns-that-follow-a-rule">Growing and square-number patterns</title>
+  <desc id="desc-L-04-005-07-patterns-that-follow-a-rule">A row of four growing square arrangements of dots: 1 dot, a 2 by 2 square of 4 dots, a 3 by 3 square of 9 dots, and a 4 by 4 square of 16 dots. Below, a number sequence 1, 4, 9, 16, 25 shows the rule: add the next odd number, plus 3, plus 5, plus 7, plus 9. A second row shows a repeating pattern of circle, square, circle, square with the rule written beneath.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

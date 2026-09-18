@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Two knowledge systems: cultural burning and fire science</title>
-  <desc id="desc">Two side-by-side panels. The left panel shows low, careful fire moving through a forest with the words "cultural burning — care passed down for generations." The right panel shows a scientist measuring and recording with the words "fire science — measuring and testing." Between them is an equals sign, and the caption says neither is better: they are two ways of knowing and caring for the same land.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-009-07-two-knowledge-systems-fire-and-forest desc-L-07-009-07-two-knowledge-systems-fire-and-forest">
+  <title id="title-L-07-009-07-two-knowledge-systems-fire-and-forest">Two knowledge systems: cultural burning and fire science</title>
+  <desc id="desc-L-07-009-07-two-knowledge-systems-fire-and-forest">Two side-by-side panels. The left panel shows low, careful fire moving through a forest with the words "cultural burning — care passed down for generations." The right panel shows a scientist measuring and recording with the words "fire science — measuring and testing." Between them is an equals sign, and the caption says neither is better: they are two ways of knowing and caring for the same land.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Two ways of knowing and caring for land</text>
+  <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="23.5" font-weight="bold" fill="#2b3a42">Two ways of knowing and caring for land</text>
 
   <!-- Left panel: cultural burning -->
   <g>

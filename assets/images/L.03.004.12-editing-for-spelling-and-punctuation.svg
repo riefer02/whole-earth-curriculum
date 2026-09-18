@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Editing for spelling and punctuation</title>
-  <desc id="desc">A sentence sits on a writing line with a period being added at its end and a small caret marking a misspelled word, while a checklist below shows two items — check spelling and check punctuation — each with a check mark. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that editing fixes spelling and punctuation so the writing is correct and ready to share.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-004-12-editing-for-spelling-and-punctuation desc-L-03-004-12-editing-for-spelling-and-punctuation">
+  <title id="title-L-03-004-12-editing-for-spelling-and-punctuation">Editing for spelling and punctuation</title>
+  <desc id="desc-L-03-004-12-editing-for-spelling-and-punctuation">A sentence sits on a writing line with a period being added at its end and a small caret marking a misspelled word, while a checklist below shows two items — check spelling and check punctuation — each with a check mark. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that editing fixes spelling and punctuation so the writing is correct and ready to share.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Editing for Spelling and Punctuation</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="25.5" font-weight="bold" fill="#2b3a42">Editing for Spelling and Punctuation</text>
 
   <!-- sentence line -->
   <line x1="90" y1="180" x2="422" y2="180" stroke="#4f6d7a" stroke-width="2"/>
@@ -39,6 +39,6 @@
     <text x="184" y="349">check punctuation  . ? !</text>
   </g>
 
-  <text x="256" y="423.5" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Editing fixes the small things — spelling and punctuation — so the writing</text>
+  <text x="256" y="423.5" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Editing fixes the small things — spelling and punctuation — so the writing</text>
   <text x="256" y="441.7" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">is ready to share.</text>
 </svg>

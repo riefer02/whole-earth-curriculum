@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Counting, shapes, and patterns: four math jobs in a math museum</title>
-  <desc id="desc">Four cards show the four jobs of the unit as a math museum. The first card shows five pebbles and the numeral 5 for counting. The second card shows two small rings, one with three circles and one with two triangles, for sorting and asking which has more. The third card shows a repeating shell-pebble pattern. The fourth card shows a circle, a square, a triangle, and a rectangle for naming shapes. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-006-10-capstone desc-L-00-006-10-capstone">
+  <title id="title-L-00-006-10-capstone">Counting, shapes, and patterns: four math jobs in a math museum</title>
+  <desc id="desc-L-00-006-10-capstone">Four cards show the four jobs of the unit as a math museum. The first card shows five pebbles and the numeral 5 for counting. The second card shows two small rings, one with three circles and one with two triangles, for sorting and asking which has more. The third card shows a repeating shell-pebble pattern. The fourth card shows a circle, a square, a triangle, and a rectangle for naming shapes. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Counting, Shapes &amp; Patterns</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Four math jobs, one collection — welcome to the math museum.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">Four math jobs, one collection — welcome to the math museum.</text>
 
   <!-- Count -->
   <rect x="36" y="104" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -47,6 +47,6 @@
   <text x="372" y="406" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">shape</text>
   <text x="372" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">circle, square, triangle, rectangle</text>
 
-  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Count it, sort it, pattern it, name the shapes — math helps you</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">Count it, sort it, pattern it, name the shapes — math helps you</text>
   <text x="256" y="504.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">see your world.</text>
 </svg>

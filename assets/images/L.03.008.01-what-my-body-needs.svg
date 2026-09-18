@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What my body needs</title>
-  <desc id="desc">Four equal panels in a row, each the same size so no need ranks above another. The first shows a child eating from a bowl labeled food, the second a child drinking from a cup labeled water, the third a child asleep under a blanket labeled sleep, and the fourth a child running labeled movement. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-008-01-what-my-body-needs desc-L-03-008-01-what-my-body-needs">
+  <title id="title-L-03-008-01-what-my-body-needs">What my body needs</title>
+  <desc id="desc-L-03-008-01-what-my-body-needs">Four equal panels in a row, each the same size so no need ranks above another. The first shows a child eating from a bowl labeled food, the second a child drinking from a cup labeled water, the third a child asleep under a blanket labeled sleep, and the fourth a child running labeled movement. Labels and shapes carry the idea, and the picture reads clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">What My Body Needs</text>

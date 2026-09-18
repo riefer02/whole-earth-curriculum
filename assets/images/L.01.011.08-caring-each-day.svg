@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Caring for a plant or animal each day</title>
-  <desc id="desc">A child with light skin and a hearing aid waters a windowsill plant from a small cup, while a wild bird drinks from a dish of water. The three daily needs are listed below in words: water each day, food each day, and a clean safe place each day. A row of three circles shows a daily care plan with one caring task for each day, labeled day 1 water, day 2 food, day 3 clean safe place. Word labels carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that steady everyday care — not one grand gesture — keeps a living thing well, and that a windowsill plant, a wild bird, or a street tree all count as caring.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-011-08-caring-each-day desc-L-01-011-08-caring-each-day">
+  <title id="title-L-01-011-08-caring-each-day">Caring for a plant or animal each day</title>
+  <desc id="desc-L-01-011-08-caring-each-day">A child with light skin and a hearing aid waters a windowsill plant from a small cup, while a wild bird drinks from a dish of water. The three daily needs are listed below in words: water each day, food each day, and a clean safe place each day. A row of three circles shows a daily care plan with one caring task for each day, labeled day 1 water, day 2 food, day 3 clean safe place. Word labels carry the meaning, not color, so the picture prints clearly in grayscale. The closing line teaches that steady everyday care — not one grand gesture — keeps a living thing well, and that a windowsill plant, a wild bird, or a street tree all count as caring.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Caring Each Day</text>
-  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Steady care — not one grand gesture — keeps a living thing well</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">Steady care — not one grand gesture — keeps a living thing well</text>
 
   <!-- windowsill and plant -->
   <rect x="20" y="150" width="240" height="10" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
@@ -42,11 +42,11 @@
   <line x1="418" y1="211" x2="418" y2="220" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <!-- water dish -->
   <ellipse cx="440" cy="228" rx="20" ry="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="440" y="252" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a wild bird counts too</text>
+  <text x="440" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a wild bird counts too</text>
 
   <!-- daily needs -->
   <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">What it needs each day</text>
-  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">water each day &#160;&#183;&#160; food each day &#160;&#183;&#160; a clean safe place each day</text>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">water each day &#160;&#183;&#160; food each day &#160;&#183;&#160; a clean safe place each day</text>
 
   <!-- daily care plan -->
   <circle cx="160" cy="386" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

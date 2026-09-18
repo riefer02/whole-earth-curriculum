@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">One clear main idea</title>
-  <desc id="desc">A speaker stands before a small audience holding up a large banner that reads "One main idea." Above the speaker, a thought bubble shows a tangle of many small words crossed out, and an arrow leads down to the single clear banner. The banner is labeled "main idea" and the crossed-out tangle is labeled "too many ideas." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-005-03-presentation-main-idea desc-L-05-005-03-presentation-main-idea">
+  <title id="title-L-05-005-03-presentation-main-idea">One clear main idea</title>
+  <desc id="desc-L-05-005-03-presentation-main-idea">A speaker stands before a small audience holding up a large banner that reads "One main idea." Above the speaker, a thought bubble shows a tangle of many small words crossed out, and an arrow leads down to the single clear banner. The banner is labeled "main idea" and the crossed-out tangle is labeled "too many ideas." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -46,5 +46,5 @@
   <circle cx="499" cy="467" r="2.5" fill="#2b3a42"/>
   <path d="M487 477 Q494 481 501 477" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
-  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">State the one thing your audience should remember.</text>
+  <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="18.3" fill="#2b3a42">State the one thing your audience should remember.</text>
 </svg>

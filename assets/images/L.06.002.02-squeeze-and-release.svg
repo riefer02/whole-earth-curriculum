@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Squeeze and release</title>
-  <desc id="desc">Two panels side by side. The left panel shows a hand drawn as a tight fist with raised shoulders, labeled "squeeze and hold," with a small "breathe in" arrow. The right panel shows the same hand open and soft with lowered shoulders, labeled "release and let go," with a "breathe out" arrow. A caption reads "Squeeze, then let go — the body learns to release." Labels and arrows, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-002-02-squeeze-and-release desc-L-06-002-02-squeeze-and-release">
+  <title id="title-L-06-002-02-squeeze-and-release">Squeeze and release</title>
+  <desc id="desc-L-06-002-02-squeeze-and-release">Two panels side by side. The left panel shows a hand drawn as a tight fist with raised shoulders, labeled "squeeze and hold," with a small "breathe in" arrow. The right panel shows the same hand open and soft with lowered shoulders, labeled "release and let go," with a "breathe out" arrow. A caption reads "Squeeze, then let go — the body learns to release." Labels and arrows, not color alone, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -52,8 +52,8 @@
   <text x="377" y="272" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">breathe out</text>
 
   <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#222222">The four steps</text>
-  <text x="256" y="425.9" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">breathe in &#8226; squeeze tight &#8226; hold three counts &#8226; breathe out</text>
+  <text x="256" y="425.9" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">breathe in &#8226; squeeze tight &#8226; hold three counts &#8226; breathe out</text>
   <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">and let go</text>
 
-  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Squeeze, then let go — the body learns to release.</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="18.3" fill="#2b3a42">Squeeze, then let go — the body learns to release.</text>
 </svg>

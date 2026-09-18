@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Picture graph and bar graph of the same data</title>
-  <desc id="desc">The same favorite-fruit data shown two ways. On the left, a picture graph with mango six, banana four, and apple three. On the right, a bar graph with the same counts, labeled most and fewest, with the question how many more chose mango than apple.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-15-picture-and-bar-graph desc-L-02-005-15-picture-and-bar-graph">
+  <title id="title-L-02-005-15-picture-and-bar-graph">Picture graph and bar graph of the same data</title>
+  <desc id="desc-L-02-005-15-picture-and-bar-graph">The same favorite-fruit data shown two ways. On the left, a picture graph with mango six, banana four, and apple three. On the right, a bar graph with the same counts, labeled most and fewest, with the question how many more chose mango than apple.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

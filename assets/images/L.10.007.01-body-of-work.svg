@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A body of work — one idea, many versions</title>
-  <desc id="desc">A sketchbook page showing one branching leaf drawn four different ways in four frames, with a caption reading "one idea, many versions."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-007-01-body-of-work desc-L-10-007-01-body-of-work">
+  <title id="title-L-10-007-01-body-of-work">A body of work — one idea, many versions</title>
+  <desc id="desc-L-10-007-01-body-of-work">A sketchbook page showing one branching leaf drawn four different ways in four frames, with a caption reading "one idea, many versions."</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <rect x="56" y="40" width="400" height="432" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">I keep returning to ______</text>

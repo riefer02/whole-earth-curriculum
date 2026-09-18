@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The Unit Circle and Radians</title>
-  <desc id="desc">A unit circle centered at the origin with a radius drawn at angle theta. The point on the circle is labeled (cos theta, sin theta). A dashed right triangle drops from the point to the x-axis, showing the cosine and sine as horizontal and vertical lengths. A small arc marks the angle theta as one radius of arc, and the quadrants are labeled with the signs of sine and cosine.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-005-11-unit-circle-and-radians desc-L-11-005-11-unit-circle-and-radians">
+  <title id="title-L-11-005-11-unit-circle-and-radians">The Unit Circle and Radians</title>
+  <desc id="desc-L-11-005-11-unit-circle-and-radians">A unit circle centered at the origin with a radius drawn at angle theta. The point on the circle is labeled (cos theta, sin theta). A dashed right triangle drops from the point to the x-axis, showing the cosine and sine as horizontal and vertical lengths. A small arc marks the angle theta as one radius of arc, and the quadrants are labeled with the signs of sine and cosine.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Unit Circle</text>
@@ -15,7 +15,7 @@
   <!-- radius at ~40 degrees: point (256+115, 250-96) = (371,154) -->
   <line x1="256" y1="250" x2="371" y2="154" stroke="#e0a458" stroke-width="3"/>
   <circle cx="371" cy="154" r="6" fill="#e0a458"/>
-  <text x="384" y="146" font-family="sans-serif" font-size="14" fill="#222222">(cos &#952;, sin &#952;)</text>
+  <text x="384" y="146" font-family="sans-serif" font-size="12" fill="#222222">(cos &#952;, sin &#952;)</text>
 
   <!-- dashed right triangle -->
   <line x1="371" y1="154" x2="371" y2="250" stroke="#7a9e7e" stroke-width="2" stroke-dasharray="6 5"/>
@@ -34,5 +34,5 @@
   <text x="200" y="432" font-family="sans-serif" font-size="13" fill="#4f6d7a">III: sin &#8722;, cos &#8722;</text>
   <text x="330" y="432" font-family="sans-serif" font-size="13" fill="#4f6d7a">IV: sin &#8722;, cos +</text>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">full turn = 2&#960; radians &#183; radius 1, so the point is (cos, sin)</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#222222">full turn = 2&#960; radians &#183; radius 1, so the point is (cos, sin)</text>
 </svg>

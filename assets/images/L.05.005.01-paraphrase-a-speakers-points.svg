@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Paraphrase: same meaning, my own words</title>
-  <desc id="desc">A two-person scene. On the left a speaker with an open hand says, "Walk to the mango tree, turn left at the blue gate." On the right a listener with a thoughtful face says back, "So I go to the mango tree, turn left at the blue gate, then the second door." An arrow between them is labeled "same meaning," and the listener's bubble is labeled "my own words." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-005-01-paraphrase-a-speakers-points desc-L-05-005-01-paraphrase-a-speakers-points">
+  <title id="title-L-05-005-01-paraphrase-a-speakers-points">Paraphrase: same meaning, my own words</title>
+  <desc id="desc-L-05-005-01-paraphrase-a-speakers-points">A two-person scene. On the left a speaker with an open hand says, "Walk to the mango tree, turn left at the blue gate." On the right a listener with a thoughtful face says back, "So I go to the mango tree, turn left at the blue gate, then the second door." An arrow between them is labeled "same meaning," and the listener's bubble is labeled "my own words." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -18,7 +18,7 @@
   <rect x="30" y="66" width="176" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <path d="M96 130 L88 146 L118 130" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <text x="118" y="92" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">Walk to the mango tree,</text>
-  <text x="118" y="114" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">turn left at the blue gate.</text>
+  <text x="118" y="114" text-anchor="middle" font-family="sans-serif" font-size="15.4" fill="#222222">turn left at the blue gate.</text>
 
   <!-- Listener (right) -->
   <circle cx="394" cy="150" r="30" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
@@ -44,5 +44,5 @@
   <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">same meaning</text>
   <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">my own words</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Same meaning — different words, my own words.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="20.4" fill="#2b3a42">Same meaning — different words, my own words.</text>
 </svg>

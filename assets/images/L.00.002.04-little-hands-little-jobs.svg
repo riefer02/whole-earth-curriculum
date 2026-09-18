@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Little hands, little jobs</title>
-  <desc id="desc">Three panels showing a hand doing a small job: drawing with a crayon, stacking a block, and threading a bead onto a string. Each panel is labeled draw, stack, or thread. The hands use three different skin tones, and the labels carry the meaning so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-002-04-little-hands-little-jobs desc-L-00-002-04-little-hands-little-jobs">
+  <title id="title-L-00-002-04-little-hands-little-jobs">Little hands, little jobs</title>
+  <desc id="desc-L-00-002-04-little-hands-little-jobs">Three panels showing a hand doing a small job: drawing with a crayon, stacking a block, and threading a bead onto a string. Each panel is labeled draw, stack, or thread. The hands use three different skin tones, and the labels carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Little Hands, Little Jobs</text>

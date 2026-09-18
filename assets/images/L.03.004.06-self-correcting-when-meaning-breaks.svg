@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Self-correcting when meaning breaks down</title>
-  <desc id="desc">A loop of three arrows circles around three labeled steps — read, stop when meaning breaks, and fix and go on. In the center a child pauses with a thoughtful face and a question mark above the head, then a small check mark shows the meaning restored. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to monitor their reading and self-correct when the meaning stops making sense.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-004-06-self-correcting-when-meaning-breaks desc-L-03-004-06-self-correcting-when-meaning-breaks">
+  <title id="title-L-03-004-06-self-correcting-when-meaning-breaks">Self-correcting when meaning breaks down</title>
+  <desc id="desc-L-03-004-06-self-correcting-when-meaning-breaks">A loop of three arrows circles around three labeled steps — read, stop when meaning breaks, and fix and go on. In the center a child pauses with a thoughtful face and a question mark above the head, then a small check mark shows the meaning restored. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to monitor their reading and self-correct when the meaning stops making sense.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -37,5 +37,5 @@
   <path d="M128 360 L138 370 L154 350" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
   <text x="140" y="404" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#7a9e7e">meaning restored</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Good readers notice when it stops making sense — and fix it themselves.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">Good readers notice when it stops making sense — and fix it themselves.</text>
 </svg>

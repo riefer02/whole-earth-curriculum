@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Brushing my teeth</title>
-  <desc id="desc">A large tooth with a toothbrush beside it, showing a small circular brushing motion. Four labeled steps run across the bottom: tops, fronts, backs, and tongue. A caption notes to brush in the morning and before bed. Steps and shapes, not color alone, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-002-08-brushing-my-teeth desc-L-00-002-08-brushing-my-teeth">
+  <title id="title-L-00-002-08-brushing-my-teeth">Brushing my teeth</title>
+  <desc id="desc-L-00-002-08-brushing-my-teeth">A large tooth with a toothbrush beside it, showing a small circular brushing motion. Four labeled steps run across the bottom: tops, fronts, backs, and tongue. A caption notes to brush in the morning and before bed. Steps and shapes, not color alone, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Brushing My Teeth</text>
@@ -53,6 +53,6 @@
     </g>
   </g>
 
-  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Brush in the morning and before bed, for about two minutes.</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15.5" fill="#4f6d7a">Brush in the morning and before bed, for about two minutes.</text>
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Clean teeth help me eat, talk, and smile.</text>
 </svg>

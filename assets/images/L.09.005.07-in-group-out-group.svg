@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">In-group and out-group</title>
-  <desc id="desc">Two panels. The first shows a small circle labeled us with figures inside and a figure outside labeled them, separated by a line. The second shows the same line redrawn as a larger circle that includes more people, with the note that belonging can build community or exclude. Shape and position, not color, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-005-07-in-group-out-group desc-L-09-005-07-in-group-out-group">
+  <title id="title-L-09-005-07-in-group-out-group">In-group and out-group</title>
+  <desc id="desc-L-09-005-07-in-group-out-group">Two panels. The first shows a small circle labeled us with figures inside and a figure outside labeled them, separated by a line. The second shows the same line redrawn as a larger circle that includes more people, with the note that belonging can build community or exclude. Shape and position, not color, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -34,5 +34,5 @@
   <circle cx="430" cy="270" r="14" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
   <text x="392" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">now "them" is "us" too</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#4f6d7a">Belonging can build community — or leave people out.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="17.6" fill="#4f6d7a">Belonging can build community — or leave people out.</text>
 </svg>

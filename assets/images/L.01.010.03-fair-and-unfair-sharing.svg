@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Fair and unfair sharing: same amount or what each needs</title>
-  <desc id="desc">Three panels compare ways to share a snack of round crackers. The first panel is labeled unfair and shows one child with a big pile of five crackers while a second child stands with an empty plate and a sad face. The second panel is labeled fair: the same amount and shows two children — one who uses a wheelchair — each with three crackers, equal. The third panel is labeled fair: what each needs and shows a very hungry child with four crackers and rumble marks beside a not-hungry child with two crackers, so the need, not the number, decides. A caption below holds it as an open question: fair can mean the same amount for everyone, or what each person needs — or both. The labels, the count of crackers, and the faces, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-010-03-fair-and-unfair-sharing desc-L-01-010-03-fair-and-unfair-sharing">
+  <title id="title-L-01-010-03-fair-and-unfair-sharing">Fair and unfair sharing: same amount or what each needs</title>
+  <desc id="desc-L-01-010-03-fair-and-unfair-sharing">Three panels compare ways to share a snack of round crackers. The first panel is labeled unfair and shows one child with a big pile of five crackers while a second child stands with an empty plate and a sad face. The second panel is labeled fair: the same amount and shows two children — one who uses a wheelchair — each with three crackers, equal. The third panel is labeled fair: what each needs and shows a very hungry child with four crackers and rumble marks beside a not-hungry child with two crackers, so the need, not the number, decides. A caption below holds it as an open question: fair can mean the same amount for everyone, or what each person needs — or both. The labels, the count of crackers, and the faces, not color, carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -14,7 +14,7 @@
 
   <text x="95" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">unfair</text>
   <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">fair: same amount</text>
-  <text x="417" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">fair: what each needs</text>
+  <text x="417" y="110" text-anchor="middle" font-family="sans-serif" font-size="15.8" font-weight="bold" fill="#2b3a42">fair: what each needs</text>
 
   <!-- ===== Panel 1: unfair ===== -->
   <!-- child A (left, medium skin, big pile) -->
@@ -124,7 +124,7 @@
 
   <text x="417" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">each gets what they need</text>
 
-  <text x="256" y="403.8" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Is fair the same amount for everyone, or what each person</text>
+  <text x="256" y="403.8" text-anchor="middle" font-family="sans-serif" font-size="16.1" fill="#4f6d7a">Is fair the same amount for everyone, or what each person</text>
   <text x="256" y="425.9" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">needs — or both?</text>
-  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A question to keep wondering about &#183; no one is left out</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">A question to keep wondering about &#183; no one is left out</text>
 </svg>

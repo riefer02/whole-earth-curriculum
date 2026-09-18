@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Roots and Rational Exponents</title>
-  <desc id="desc">A unit square with its diagonal labeled the square root of 2, a number line from 0 to 4 with root-2 and root-3 placed between whole numbers, and a bridge table showing nth-root form equals rational-exponent form.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-005-02-roots-and-rational-exponents desc-L-10-005-02-roots-and-rational-exponents">
+  <title id="title-L-10-005-02-roots-and-rational-exponents">Roots and Rational Exponents</title>
+  <desc id="desc-L-10-005-02-roots-and-rational-exponents">A unit square with its diagonal labeled the square root of 2, a number line from 0 to 4 with root-2 and root-3 placed between whole numbers, and a bridge table showing nth-root form equals rational-exponent form.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Roots and Rational Exponents</text>
@@ -12,7 +12,7 @@
   <text x="68" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
   <text x="108" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
   <text x="122" y="152" font-family="sans-serif" font-size="15" fill="#a06030" font-weight="bold">&#8730;2</text>
-  <text x="108" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">(diagonal)&#178; = 1&#178; + 1&#178; = 2</text>
+  <text x="108" y="236" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(diagonal)&#178; = 1&#178; + 1&#178; = 2</text>
 
   <!-- Number line -->
   <text x="384" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Where do the roots sit?</text>
@@ -28,7 +28,7 @@
   <circle cx="358" cy="130" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
   <text x="352" y="176" text-anchor="end" font-family="sans-serif" font-size="13" fill="#a06030">&#8730;2 &#8776; 1.414</text>
   <circle cx="410" cy="130" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="416" y="176" font-family="sans-serif" font-size="13" fill="#a06030">&#8730;3 &#8776; 1.732</text>
+  <text x="416" y="176" font-family="sans-serif" font-size="12" fill="#a06030">&#8730;3 &#8776; 1.732</text>
 
   <!-- Bridge table -->
   <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">The bridge: a root is a fractional power</text>
@@ -46,7 +46,7 @@
     <text x="256" y="376" text-anchor="middle" font-size="13" fill="#4f6d7a">Power rules still hold: x^(1/2) &#183; x^(1/2) = x&#185; = x</text>
   </g>
 
-  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">&#8730;2 is not a fraction: assume &#8730;2 = a/b, then both a and b turn out even — impossible.</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">&#8730;2 is not a fraction: assume &#8730;2 = a/b, then both a and b turn out even — impossible.</text>
   <text x="256" y="448.8" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">The Babylonians approximated &#8730;2 to about six decimals on tablet YBC 7289 (c.</text>
   <text x="256" y="464.4" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">1800&#8211;1600 BCE).</text>
 </svg>

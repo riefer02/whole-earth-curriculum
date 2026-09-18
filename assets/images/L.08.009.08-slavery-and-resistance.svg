@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Slavery and resistance</title>
-  <desc id="desc">A two-panel diagram — left, the transatlantic slave trade as a system built on the denial of human dignity; right, forms of resistance — revolt, maroon communities, everyday refusal, and preserving culture — each with a named example.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-009-08-slavery-and-resistance desc-L-08-009-08-slavery-and-resistance">
+  <title id="title-L-08-009-08-slavery-and-resistance">Slavery and resistance</title>
+  <desc id="desc-L-08-009-08-slavery-and-resistance">A two-panel diagram — left, the transatlantic slave trade as a system built on the denial of human dignity; right, forms of resistance — revolt, maroon communities, everyday refusal, and preserving culture — each with a named example.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34.6" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Slavery as a system — and the people who</text>
@@ -32,6 +32,6 @@
     <text x="376" y="278" text-anchor="middle">language, music, family, faith</text>
   </g>
 
-  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Enslaved people never accepted it — they resisted, in ways large and small.</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="12.2" font-weight="bold" fill="#2b3a42">Enslaved people never accepted it — they resisted, in ways large and small.</text>
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Told with care: dignity and agency at the center, never as spectacle.</text>
 </svg>

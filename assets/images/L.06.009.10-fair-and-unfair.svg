@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Power used fairly and unfairly</title>
-  <desc id="desc">A two-panel diagram about how power is used. The left panel, labeled "FAIR USE," shows four equal figures in a circle labeled "decisions made with everyone — all voices heard, serving all." The right panel, labeled "UNFAIR USE," shows one figure standing above three smaller figures labeled "one decides for others — some voices silenced, serving the few." A bottom box lists a simple fairness test: "Does it serve everyone or only the powerful? Who gets to speak? Can decisions be challenged?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-009-10-fair-and-unfair desc-L-06-009-10-fair-and-unfair">
+  <title id="title-L-06-009-10-fair-and-unfair">Power used fairly and unfairly</title>
+  <desc id="desc-L-06-009-10-fair-and-unfair">A two-panel diagram about how power is used. The left panel, labeled "FAIR USE," shows four equal figures in a circle labeled "decisions made with everyone — all voices heard, serving all." The right panel, labeled "UNFAIR USE," shows one figure standing above three smaller figures labeled "one decides for others — some voices silenced, serving the few." A bottom box lists a simple fairness test: "Does it serve everyone or only the powerful? Who gets to speak? Can decisions be challenged?" Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">How Is Power Used?</text>

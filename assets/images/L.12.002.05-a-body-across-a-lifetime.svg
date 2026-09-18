@@ -24,10 +24,10 @@
   <circle cx="412" cy="196" r="16" fill="#c68b6b" stroke="#2b3a42" stroke-width="2"/>
   <path d="M396 212 Q396 204 412 204 Q428 204 428 212 L432 240 L420 252 L412 258 L404 252 L392 240 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <line x1="430" y1="216" x2="448" y2="286" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-  <text x="412" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">older adult — wise, patient;</text>
-  <text x="412" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">needs a rail, and is no less whole</text>
+  <text x="412" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#222222">older adult — wise, patient;</text>
+  <text x="412" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">needs a rail, and is no less whole</text>
   <!-- wheelchair user note -->
-  <text x="256" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">A body may also use a wheelchair, a cane, a hearing aid at any age —</text>
+  <text x="256" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.5" fill="#222222">A body may also use a wheelchair, a cane, a hearing aid at any age —</text>
   <text x="256" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">those are tools, not losses.</text>
-  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">Each stage trades one thing for another. None is the "right" body.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.9" fill="#222222">Each stage trades one thing for another. None is the "right" body.</text>
 </svg>

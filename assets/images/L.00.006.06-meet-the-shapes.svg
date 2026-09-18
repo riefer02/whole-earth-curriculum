@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Meet the shapes: circle, square, triangle, rectangle</title>
-  <desc id="desc">Four cards show the four common shapes. A circle is round with no corners. A square has four equal sides and four corners. A triangle has three sides and three corners. A rectangle has four sides, two long and two short. Small dots mark the corners of the square, triangle, and rectangle. Each shape is labeled with its name and its sides and corners. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-006-06-meet-the-shapes desc-L-00-006-06-meet-the-shapes">
+  <title id="title-L-00-006-06-meet-the-shapes">Meet the shapes: circle, square, triangle, rectangle</title>
+  <desc id="desc-L-00-006-06-meet-the-shapes">Four cards show the four common shapes. A circle is round with no corners. A square has four equal sides and four corners. A triangle has three sides and three corners. A rectangle has four sides, two long and two short. Small dots mark the corners of the square, triangle, and rectangle. Each shape is labeled with its name and its sides and corners. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

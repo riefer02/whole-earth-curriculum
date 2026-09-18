@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A movement goal planner and tracking log</title>
-  <desc id="desc">A planner with a worked example goal: walk or roll outside three times a week, starting at ten minutes. It lists a reason (more afternoon energy and a clearer head), a start point, small steps for weeks one through three, and a note on what to do if a week is missed. A weekly tracking table records each day done and one word for how it felt.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-004-05-movement-goal-log desc-L-09-004-05-movement-goal-log">
+  <title id="title-L-09-004-05-movement-goal-log">A movement goal planner and tracking log</title>
+  <desc id="desc-L-09-004-05-movement-goal-log">A planner with a worked example goal: walk or roll outside three times a week, starting at ten minutes. It lists a reason (more afternoon energy and a clearer head), a start point, small steps for weeks one through three, and a note on what to do if a week is missed. A weekly tracking table records each day done and one word for how it felt.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A Movement Goal I Own</text>
@@ -13,7 +13,7 @@
   <text x="44" y="152" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Reason</text>
   <text x="44" y="172" font-family="sans-serif" font-size="13" fill="#222222">more afternoon energy and a clearer head before I study</text>
   <text x="44" y="196" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Small steps</text>
-  <text x="44" y="216" font-family="sans-serif" font-size="12.5" fill="#222222">week 1: two walks &#183; week 2: three &#183; week 3: three, a little longer if it feels good</text>
+  <text x="44" y="216" font-family="sans-serif" font-size="12" fill="#222222">week 1: two walks &#183; week 2: three &#183; week 3: three, a little longer if it feels good</text>
   <text x="44" y="232" font-family="sans-serif" font-size="12" fill="#4f6d7a">If I miss a week: restart smaller — no blame, no quitting.</text>
 
   <!-- tracking log -->

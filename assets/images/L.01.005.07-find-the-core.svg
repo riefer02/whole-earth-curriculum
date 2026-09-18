@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Repeating patterns: find the core and keep going</title>
-  <desc id="desc">A row of six natural objects alternates stone, leaf, stone, leaf, stone, leaf. A bracket under the first two marks them as the core, labeled core: stone, leaf. Below, the next three objects are drawn as dashed outlines labeled keep going, showing how the pattern continues. A box at the bottom shows a three-part core: shell, pebble, leaf, repeated, with a note that a core can have two parts (AB) or three parts (ABC). Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-005-07-find-the-core desc-L-01-005-07-find-the-core">
+  <title id="title-L-01-005-07-find-the-core">Repeating patterns: find the core and keep going</title>
+  <desc id="desc-L-01-005-07-find-the-core">A row of six natural objects alternates stone, leaf, stone, leaf, stone, leaf. A bracket under the first two marks them as the core, labeled core: stone, leaf. Below, the next three objects are drawn as dashed outlines labeled keep going, showing how the pattern continues. A box at the bottom shows a three-part core: shell, pebble, leaf, repeated, with a note that a core can have two parts (AB) or three parts (ABC). Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

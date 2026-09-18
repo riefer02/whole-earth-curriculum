@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Following through on my part</title>
-  <desc id="desc">A three-step path drawn as three circles connected by arrows, labeled "make the promise," "do my part," and "check in." In the first circle a child points to a job list. In the second the same child is doing the job. In the third, two children give a high five, and a speech bubble reads "I finished my part — are you stuck? Can I help?" A caption reads "Reliable teammates keep their promises." Labels and arrows, not color alone, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-004-04-follow-through desc-L-05-004-04-follow-through">
+  <title id="title-L-05-004-04-follow-through">Following through on my part</title>
+  <desc id="desc-L-05-004-04-follow-through">A three-step path drawn as three circles connected by arrows, labeled "make the promise," "do my part," and "check in." In the first circle a child points to a job list. In the second the same child is doing the job. In the third, two children give a high five, and a speech bubble reads "I finished my part — are you stuck? Can I help?" A caption reads "Reliable teammates keep their promises." Labels and arrows, not color alone, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -53,5 +53,5 @@
   <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">are you stuck? Can I help?</text>
 
   <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Reliable teammates keep their promises.</text>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Promise &#8594; do my part &#8594; check in &#8594; help or ask for help.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12.6" fill="#4f6d7a">Promise &#8594; do my part &#8594; check in &#8594; help or ask for help.</text>
 </svg>

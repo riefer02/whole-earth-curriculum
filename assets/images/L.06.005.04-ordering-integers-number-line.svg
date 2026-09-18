@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Ordering integers on a number line</title>
-  <desc id="desc">A horizontal number line from minus 5 to plus 5 with tick marks and labels. Dots are placed at minus 4, minus 1, 0, and 3. A caption reads "minus 4 is less than minus 1 is less than 0 is less than 3 — farther left is smaller." The left side is labeled "negative" and the right side "positive." Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-005-04-ordering-integers-number-line desc-L-06-005-04-ordering-integers-number-line">
+  <title id="title-L-06-005-04-ordering-integers-number-line">Ordering integers on a number line</title>
+  <desc id="desc-L-06-005-04-ordering-integers-number-line">A horizontal number line from minus 5 to plus 5 with tick marks and labels. Dots are placed at minus 4, minus 1, 0, and 3. A caption reads "minus 4 is less than minus 1 is less than 0 is less than 3 — farther left is smaller." The left side is labeled "negative" and the right side "positive." Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -50,6 +50,6 @@
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">-4 &lt; -1 &lt; 0 &lt; 3</text>
   <text x="256" y="368" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">-4 is smallest (leftmost) and 3 is largest (rightmost)</text>
 
-  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">negative numbers appear in many traditions — merchants in China used</text>
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">red and black counting rods for owing and having over 2,000 years ago</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">negative numbers appear in many traditions — merchants in China used</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">red and black counting rods for owing and having over 2,000 years ago</text>
 </svg>

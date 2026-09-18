@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Our care, our celebration</title>
-  <desc id="desc">A year-end celebration of care and belonging. In the middle, a child holds up a portfolio page with a star and a plant, while friends stand nearby clapping. On the left, two helping hands pass a cup of water to a smaller hand, labeled "a remembered act of care." On the right, a large arrow points forward to the words "Grade 3," with a small sprout growing beside it. Children vary in skin tone, hair, and dress, and one uses a wheelchair. The closing line teaches that helping others helps everyone, including me. Labels carry the meaning, so the picture prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-012-07-our-care-our-celebration desc-L-02-012-07-our-care-our-celebration">
+  <title id="title-L-02-012-07-our-care-our-celebration">Our care, our celebration</title>
+  <desc id="desc-L-02-012-07-our-care-our-celebration">A year-end celebration of care and belonging. In the middle, a child holds up a portfolio page with a star and a plant, while friends stand nearby clapping. On the left, two helping hands pass a cup of water to a smaller hand, labeled "a remembered act of care." On the right, a large arrow points forward to the words "Grade 3," with a small sprout growing beside it. Children vary in skin tone, hair, and dress, and one uses a wheelchair. The closing line teaches that helping others helps everyone, including me. Labels carry the meaning, so the picture prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -64,5 +64,5 @@
   </g>
 
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">We grew together, and we did it by caring for each other.</text>
-  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Every page shown. Every child belongs. A celebration, never a contest.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#4f6d7a">Every page shown. Every child belongs. A celebration, never a contest.</text>
 </svg>

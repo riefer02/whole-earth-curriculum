@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Using conversions to solve problems</title>
-  <desc id="desc">A real-problem conversion diagram. Top left shows two bottles labeled 500 mL and 250 mL, with a note that together they make 750 mL, which is 0.75 L. Top right shows a walking route labeled 1.5 km, converted to 1500 m. Bottom shows a grain bag labeled 1 kg and a smaller 250 g bag, noting the large bag is 4 times the small one, since 1000 g divided by 250 g equals 4. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-14-conversions-real-problems desc-L-05-006-14-conversions-real-problems">
+  <title id="title-L-05-006-14-conversions-real-problems">Using conversions to solve problems</title>
+  <desc id="desc-L-05-006-14-conversions-real-problems">A real-problem conversion diagram. Top left shows two bottles labeled 500 mL and 250 mL, with a note that together they make 750 mL, which is 0.75 L. Top right shows a walking route labeled 1.5 km, converted to 1500 m. Bottom shows a grain bag labeled 1 kg and a smaller 250 g bag, noting the large bag is 4 times the small one, since 1000 g divided by 250 g equals 4. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

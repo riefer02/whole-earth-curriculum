@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Moving with balance</title>
-  <desc id="desc">A child walks a straight line like a tightrope with arms wide for balance. Beside it are three balance poses: standing on one foot, arms wide, and slow heel-toe steps. A note reminds us that the inner ear and muscles work together to keep us steady. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-002-08-moving-with-balance desc-L-03-002-08-moving-with-balance">
+  <title id="title-L-03-002-08-moving-with-balance">Moving with balance</title>
+  <desc id="desc-L-03-002-08-moving-with-balance">A child walks a straight line like a tightrope with arms wide for balance. Beside it are three balance poses: standing on one foot, arms wide, and slow heel-toe steps. A note reminds us that the inner ear and muscles work together to keep us steady. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Moving with Balance</text>
@@ -92,7 +92,7 @@
     <text x="426" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">heel-toe</text>
   </g>
 
-  <text x="256" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Balance uses a hidden sense in the ear, plus your muscles and eyes.</text>
+  <text x="256" y="312" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Balance uses a hidden sense in the ear, plus your muscles and eyes.</text>
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Wobbling is how balance grows — it is never a failure.</text>
   <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Stay steady, in your own body's way.</text>
 </svg>

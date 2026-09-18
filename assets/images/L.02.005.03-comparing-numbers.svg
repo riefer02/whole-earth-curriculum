@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Comparing 42 and 37</title>
-  <desc id="desc">The number 42 built from four bundles of ten and two ones on the left, and 37 built from three bundles of ten and seven ones on the right. A greater-than sign between them shows 42 is greater than 37 because four tens is more than three tens.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-03-comparing-numbers desc-L-02-005-03-comparing-numbers">
+  <title id="title-L-02-005-03-comparing-numbers">Comparing 42 and 37</title>
+  <desc id="desc-L-02-005-03-comparing-numbers">The number 42 built from four bundles of ten and two ones on the left, and 37 built from three bundles of ten and seven ones on the right. A greater-than sign between them shows 42 is greater than 37 because four tens is more than three tens.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -83,5 +83,5 @@
 
   <text x="428" y="340" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">37</text>
 
-  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#e0a458">42 &gt; 37 because 4 tens &gt; 3 tens</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="24.8" font-weight="bold" fill="#e0a458">42 &gt; 37 because 4 tens &gt; 3 tens</text>
 </svg>

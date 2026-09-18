@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The greenhouse effect</title>
-  <desc id="desc">A diagram of the greenhouse effect. The Sun is at the top, sending energy arrows down to the Earth's surface. A layer of greenhouse gases surrounds the Earth, and some heat arrows bounce back down, labeled "heat is trapped". A note reads "greenhouse gases trap heat".</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-011-08-why-earth-warming desc-L-07-011-08-why-earth-warming">
+  <title id="title-L-07-011-08-why-earth-warming">The greenhouse effect</title>
+  <desc id="desc-L-07-011-08-why-earth-warming">A diagram of the greenhouse effect. The Sun is at the top, sending energy arrows down to the Earth's surface. A layer of greenhouse gases surrounds the Earth, and some heat arrows bounce back down, labeled "heat is trapped". A note reads "greenhouse gases trap heat".</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -17,9 +17,9 @@
 
   <!-- incoming energy -->
   <g stroke="#2b3a42" stroke-width="2.5" fill="none">
-    <path d="M232 126 C220 190 230 250 250 300" marker-end="url(#ar8)"/>
-    <path d="M256 130 L256 300" marker-end="url(#ar8)"/>
-    <path d="M280 126 C290 190 282 250 266 300" marker-end="url(#ar8)"/>
+    <path d="M232 126 C220 190 230 250 250 300" marker-end="url(#ar8-L-07-011-08-why-earth-warming)"/>
+    <path d="M256 130 L256 300" marker-end="url(#ar8-L-07-011-08-why-earth-warming)"/>
+    <path d="M280 126 C290 190 282 250 266 300" marker-end="url(#ar8-L-07-011-08-why-earth-warming)"/>
   </g>
 
   <!-- atmosphere / gas layer -->
@@ -33,15 +33,15 @@
 
   <!-- trapped heat -->
   <g stroke="#e0a458" stroke-width="2.5" fill="none">
-    <path d="M140 390 C130 356 138 344 160 342" marker-end="url(#ar8w)"/>
-    <path d="M372 390 C382 356 374 344 352 342" marker-end="url(#ar8w)"/>
+    <path d="M140 390 C130 356 138 344 160 342" marker-end="url(#ar8w-L-07-011-08-why-earth-warming)"/>
+    <path d="M372 390 C382 356 374 344 352 342" marker-end="url(#ar8w-L-07-011-08-why-earth-warming)"/>
   </g>
 
   <defs>
-    <marker id="ar8" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar8-L-07-011-08-why-earth-warming" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
-    <marker id="ar8w" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar8w-L-07-011-08-why-earth-warming" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#e0a458"/>
     </marker>
   </defs>

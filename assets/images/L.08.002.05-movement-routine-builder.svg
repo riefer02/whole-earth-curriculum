@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Movement routine builder</title>
-  <desc id="desc">A routine-builder template with five labeled boxes stacked vertically: warm-up, strength, endurance, flexibility, and cool-down. Each box shows a small example and a blank line to write. The strength box shows a wall push, the endurance box shows a marching figure, and the flexibility box shows a reaching figure in a seated wheelchair. Shapes and labels, not color, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-002-05-movement-routine-builder desc-L-08-002-05-movement-routine-builder">
+  <title id="title-L-08-002-05-movement-routine-builder">Movement routine builder</title>
+  <desc id="desc-L-08-002-05-movement-routine-builder">A routine-builder template with five labeled boxes stacked vertically: warm-up, strength, endurance, flexibility, and cool-down. Each box shows a small example and a blank line to write. The strength box shows a wall push, the endurance box shows a marching figure, and the flexibility box shows a reaching figure in a seated wheelchair. Shapes and labels, not color, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

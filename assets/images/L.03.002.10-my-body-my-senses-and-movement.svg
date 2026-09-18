@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My body, my senses and movement — celebration collage</title>
-  <desc id="desc">A four-part collage celebrating the body. Panel one shows senses teaming up: a nose and tongue, and an eye and ear. Panel two shows body signals: hunger, fullness, thirst, and tiredness. Panel three shows movement with rhythm and balance: a child stomping and then walking a line. Panel four shows aiming: a child throwing at a target. A note reminds us to celebrate everything our body can sense, signal, and do. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-002-10-my-body-my-senses-and-movement desc-L-03-002-10-my-body-my-senses-and-movement">
+  <title id="title-L-03-002-10-my-body-my-senses-and-movement">My body, my senses and movement — celebration collage</title>
+  <desc id="desc-L-03-002-10-my-body-my-senses-and-movement">A four-part collage celebrating the body. Panel one shows senses teaming up: a nose and tongue, and an eye and ear. Panel two shows body signals: hunger, fullness, thirst, and tiredness. Panel three shows movement with rhythm and balance: a child stomping and then walking a line. Panel four shows aiming: a child throwing at a target. A note reminds us to celebrate everything our body can sense, signal, and do. Words and shapes carry the meaning, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Celebrate My Body</text>
@@ -36,9 +36,9 @@
     <path d="M326 164 Q330 160 334 164" fill="none" stroke="#2b3a42" stroke-width="1.4"/>
     <!-- signal list -->
     <text x="376" y="124" font-family="sans-serif" font-size="13" fill="#222222">hunger &#8594; eat</text>
-    <text x="376" y="142" font-family="sans-serif" font-size="13" fill="#222222">fullness &#8594; stop</text>
-    <text x="376" y="160" font-family="sans-serif" font-size="13" fill="#222222">thirst &#8594; drink</text>
-    <text x="376" y="178" font-family="sans-serif" font-size="13" fill="#222222">tiredness &#8594; rest</text>
+    <text x="376" y="142" font-family="sans-serif" font-size="12" fill="#222222">fullness &#8594; stop</text>
+    <text x="376" y="160" font-family="sans-serif" font-size="12" fill="#222222">thirst &#8594; drink</text>
+    <text x="376" y="178" font-family="sans-serif" font-size="12" fill="#222222">tiredness &#8594; rest</text>
     <text x="378" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">notice the signal, answer kindly</text>
   </g>
 
@@ -92,12 +92,12 @@
     <path d="M438 306 L456 306 L452 338 Q447 342 442 338 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.2" stroke-linejoin="round"/>
     <ellipse cx="447" cy="306" rx="9" ry="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
     <!-- dotted path -->
-    <path d="M358 292 Q400 300 440 308" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#arrow2)"/>
+    <path d="M358 292 Q400 300 440 308" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#arrow2-L-03-002-10-my-body-my-senses-and-movement)"/>
     <text x="378" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">eyes guide the hands</text>
   </g>
 
   <defs>
-    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="arrow2-L-03-002-10-my-body-my-senses-and-movement" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0 0 L8 3 L0 6 Z" fill="#4f6d7a"/>
     </marker>
   </defs>

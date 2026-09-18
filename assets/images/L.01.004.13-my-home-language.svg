@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My home language is a treasure</title>
-  <desc id="desc">A treasure chest with its lid open spills out word cards, each holding a word for "love" from a different language and script, all equal in size: "amor" (Spanish), "حب" (Arabic), "प्यार" (Devanagari), "爱" (Chinese), and "amour" (French). Beside the chest, a small speech bubble with sound lines and two hands signing show that a home language may be spoken or signed and need not be written at all. The caption reads "every language is a treasure — spoken, signed, or written." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to name their home language and share its words with pride, with no language ranked above another.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-004-13-my-home-language desc-L-01-004-13-my-home-language">
+  <title id="title-L-01-004-13-my-home-language">My home language is a treasure</title>
+  <desc id="desc-L-01-004-13-my-home-language">A treasure chest with its lid open spills out word cards, each holding a word for "love" from a different language and script, all equal in size: "amor" (Spanish), "حب" (Arabic), "प्यार" (Devanagari), "爱" (Chinese), and "amour" (French). Beside the chest, a small speech bubble with sound lines and two hands signing show that a home language may be spoken or signed and need not be written at all. The caption reads "every language is a treasure — spoken, signed, or written." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to name their home language and share its words with pride, with no language ranked above another.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -46,5 +46,5 @@
   <path d="M332 446 L328 438 M326 446 L320 438 M336 450 L342 444" stroke="#c99567" stroke-width="4" stroke-linecap="round"/>
   <text x="392" y="448" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">signed</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every language is a treasure — spoken, signed, or written. None is better.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Every language is a treasure — spoken, signed, or written. None is better.</text>
 </svg>

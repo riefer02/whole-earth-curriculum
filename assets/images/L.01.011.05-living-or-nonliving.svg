@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Living or nonliving</title>
-  <desc id="desc">Two labeled trays sort things into living and nonliving, with three clues listed between them. The living tray holds a plant, a bird, and a fish. The nonliving tray holds a rock, a spoon, and a toy. The three clue boxes read: living things grow and change, living things need food or water, living things breathe air — nonliving things do none of these. Word labels and the clues carry the meaning, not color, so the picture prints clearly in grayscale. A note reminds learners that a seed or a feather is a gentle wonder to ask about, teaching that living things are to be cared for and respected.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-011-05-living-or-nonliving desc-L-01-011-05-living-or-nonliving">
+  <title id="title-L-01-011-05-living-or-nonliving">Living or nonliving</title>
+  <desc id="desc-L-01-011-05-living-or-nonliving">Two labeled trays sort things into living and nonliving, with three clues listed between them. The living tray holds a plant, a bird, and a fish. The nonliving tray holds a rock, a spoon, and a toy. The three clue boxes read: living things grow and change, living things need food or water, living things breathe air — nonliving things do none of these. Word labels and the clues carry the meaning, not color, so the picture prints clearly in grayscale. A note reminds learners that a seed or a feather is a gentle wonder to ask about, teaching that living things are to be cared for and respected.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -62,7 +62,7 @@
 
   <!-- clues -->
   <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Three clues a thing is living</text>
-  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">1. it grows and changes &#160;&#160; 2. it needs food or water &#160;&#160; 3. it breathes air</text>
+  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1. it grows and changes &#160;&#160; 2. it needs food or water &#160;&#160; 3. it breathes air</text>
 
   <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A seed or a feather is a gentle wonder to ask about.</text>
   <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">When we know a thing is living, we treat it gently.</text>

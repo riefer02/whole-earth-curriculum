@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Soil supports life</title>
-  <desc id="desc">A cross-section diagram of soil supporting life. At the top, a plant grows with roots reaching down, labeled plants grow in soil. A small animal and a worm are shown in the soil, labeled soil is home to many living things. The soil is drawn in layers: the dark top layer is labeled humus — decayed remains of living things, and the lighter lower layer is labeled minerals — broken-down rock. Small arrows loop between the plant, the worm, and the soil, labeled nutrients cycle. A caption reads: soil is rock and life, working together to feed everything above. Labels, layers, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-006-12-soil-supports-life desc-L-06-006-12-soil-supports-life">
+  <title id="title-L-06-006-12-soil-supports-life">Soil supports life</title>
+  <desc id="desc-L-06-006-12-soil-supports-life">A cross-section diagram of soil supporting life. At the top, a plant grows with roots reaching down, labeled plants grow in soil. A small animal and a worm are shown in the soil, labeled soil is home to many living things. The soil is drawn in layers: the dark top layer is labeled humus — decayed remains of living things, and the lighter lower layer is labeled minerals — broken-down rock. Small arrows loop between the plant, the worm, and the soil, labeled nutrients cycle. A caption reads: soil is rock and life, working together to feed everything above. Labels, layers, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -50,13 +50,13 @@
 
   <!-- nutrient loop arrows -->
   <defs>
-    <marker id="sa" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="sa-L-06-006-12-soil-supports-life" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L8,3 L0,6 Z" fill="#4f6d7a"/>
     </marker>
   </defs>
   <g fill="none" stroke="#4f6d7a" stroke-width="2">
-    <path d="M240,196 C200,150 320,140 300,206" marker-end="url(#sa)"/>
-    <path d="M330,260 C360,300 400,280 380,250" marker-end="url(#sa)"/>
+    <path d="M240,196 C200,150 320,140 300,206" marker-end="url(#sa-L-06-006-12-soil-supports-life)"/>
+    <path d="M330,260 C360,300 400,280 380,250" marker-end="url(#sa-L-06-006-12-soil-supports-life)"/>
   </g>
   <text x="250" y="180" font-family="sans-serif" font-size="11" fill="#4f6d7a">nutrients cycle</text>
 

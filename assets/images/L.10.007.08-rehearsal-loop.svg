@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The rehearsal loop</title>
-  <desc id="desc">A circular loop with four labeled steps — rehearse, watch or record, note what wavered, revise — with arrows showing the cycle repeating, and a small star at "perform" on the final pass.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-007-08-rehearsal-loop desc-L-10-007-08-rehearsal-loop">
+  <title id="title-L-10-007-08-rehearsal-loop">The rehearsal loop</title>
+  <desc id="desc-L-10-007-08-rehearsal-loop">A circular loop with four labeled steps — rehearse, watch or record, note what wavered, revise — with arrows showing the cycle repeating, and a small star at "perform" on the final pass.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- circle path -->
   <circle cx="256" cy="256" r="140" fill="none" stroke="#2b3a42" stroke-width="2" stroke-dasharray="8 6"/>

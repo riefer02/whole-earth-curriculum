@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Hundreds, tens, and ones: four hundreds, three tens, and two ones make four hundred thirty-two</title>
-  <desc id="desc">Four hundred flats drawn as large squares of one hundred dots each, three rods of ten drawn as strips of ten dots, and two single units. Labels read four hundreds, three tens, and two ones, with the total four hundred thirty-two, written as 432.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-005-01-hundreds-tens-and-ones desc-L-03-005-01-hundreds-tens-and-ones">
+  <title id="title-L-03-005-01-hundreds-tens-and-ones">Hundreds, tens, and ones: four hundreds, three tens, and two ones make four hundred thirty-two</title>
+  <desc id="desc-L-03-005-01-hundreds-tens-and-ones">Four hundred flats drawn as large squares of one hundred dots each, three rods of ten drawn as strips of ten dots, and two single units. Labels read four hundreds, three tens, and two ones, with the total four hundred thirty-two, written as 432.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -43,7 +43,7 @@
   <text x="78" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">(each = 1)</text>
 
   <rect x="300" y="100" width="184" height="200" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
-  <text x="392" y="136" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2b3a42">4 hundreds + 3 tens + 2 ones</text>
+  <text x="392" y="136" text-anchor="middle" font-family="sans-serif" font-size="15.1" fill="#2b3a42">4 hundreds + 3 tens + 2 ones</text>
   <text x="392" y="200" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#2b3a42">400 + 30 + 2</text>
   <text x="392" y="268" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#e0a458">432</text>
 

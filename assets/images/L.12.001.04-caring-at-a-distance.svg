@@ -16,10 +16,10 @@
   <text x="256" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">humanity</text>
   <text x="256" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">living world</text>
   <!-- arrow -->
-  <line x1="150" y1="452" x2="360" y2="452" stroke="#2b3a42" stroke-width="2" marker-end="url(#b)"/>
+  <line x1="150" y1="452" x2="360" y2="452" stroke="#2b3a42" stroke-width="2" marker-end="url(#b-L-12-001-04-caring-at-a-distance)"/>
   <text x="255" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">concern → action</text>
   <defs>
-    <marker id="b" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+    <marker id="b-L-12-001-04-caring-at-a-distance" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
       <path d="M0 0 L8 4 L0 8 Z" fill="#2b3a42"/>
     </marker>
   </defs>

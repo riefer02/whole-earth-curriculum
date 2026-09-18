@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Two-step inequalities</title>
-  <desc id="desc">A two-step inequality diagram for 2x + 3 ≤ 11. The solving steps are shown: subtract 3 → 2x ≤ 8, divide by 2 → x ≤ 4. Below, a number line from 0 to 8 has a closed (filled) circle at 4 and shading to the left, labeled "x ≤ 4." A note reads "a closed circle means 4 is included; the shaded side is the whole solution set." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-005-07-two-step-inequalities desc-L-07-005-07-two-step-inequalities">
+  <title id="title-L-07-005-07-two-step-inequalities">Two-step inequalities</title>
+  <desc id="desc-L-07-005-07-two-step-inequalities">A two-step inequality diagram for 2x + 3 ≤ 11. The solving steps are shown: subtract 3 → 2x ≤ 8, divide by 2 → x ≤ 4. Below, a number line from 0 to 8 has a closed (filled) circle at 4 and shading to the left, labeled "x ≤ 4." A note reads "a closed circle means 4 is included; the shaded side is the whole solution set." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

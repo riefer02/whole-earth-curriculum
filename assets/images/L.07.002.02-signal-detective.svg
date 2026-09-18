@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Signal detective chart</title>
-  <desc id="desc">A three-row chart. Row one, hunger, shows an empty stomach shape and lists what it feels like (empty or rumbling stomach) and what it is confused with (thirst, boredom). Row two, fatigue, shows heavy eyelids and drooping shoulders and is confused with stress. Row three, stress, shows a fast heart and tight chest and is confused with excitement. A checkmark marks the accurate reading in each row. The chart uses labels and shapes, not color alone, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-002-02-signal-detective desc-L-07-002-02-signal-detective">
+  <title id="title-L-07-002-02-signal-detective">Signal detective chart</title>
+  <desc id="desc-L-07-002-02-signal-detective">A three-row chart. Row one, hunger, shows an empty stomach shape and lists what it feels like (empty or rumbling stomach) and what it is confused with (thirst, boredom). Row two, fatigue, shows heavy eyelids and drooping shoulders and is confused with stress. Row three, stress, shows a fast heart and tight chest and is confused with excitement. A checkmark marks the accurate reading in each row. The chart uses labels and shapes, not color alone, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -26,7 +26,7 @@
     <path d="M88 276 Q96 268 104 276" fill="none" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
     <text x="156" y="244" font-family="sans-serif" font-size="15" fill="#2b3a42">Feels like: heavy eyelids, heavy body,</text>
     <text x="156" y="264" font-family="sans-serif" font-size="15" fill="#2b3a42">wanting rest.</text>
-    <text x="156" y="296" font-family="sans-serif" font-size="15" fill="#2b3a42">Confused with: stress (can also drain you).</text>
+    <text x="156" y="296" font-family="sans-serif" font-size="14.9" fill="#2b3a42">Confused with: stress (can also drain you).</text>
     <path d="M440 236 l10 12 l18 -20" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 
@@ -37,7 +37,7 @@
     <path d="M92 388 C86 380 76 388 92 400 C108 388 98 380 92 388" fill="none" stroke="#7a9e7e" stroke-width="2"/>
     <text x="156" y="384" font-family="sans-serif" font-size="15" fill="#2b3a42">Feels like: fast heart, tight chest,</text>
     <text x="156" y="404" font-family="sans-serif" font-size="15" fill="#2b3a42">quick shallow breaths.</text>
-    <text x="156" y="436" font-family="sans-serif" font-size="15" fill="#2b3a42">Confused with: excitement (heart speeds up too).</text>
+    <text x="156" y="436" font-family="sans-serif" font-size="13.3" fill="#2b3a42">Confused with: excitement (heart speeds up too).</text>
     <path d="M440 376 l10 12 l18 -20" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 

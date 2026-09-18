@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Area and volume</title>
-  <desc id="desc">Two diagrams side by side. Left: a rectangle 4 by 3 drawn as a grid of 12 unit squares, labeled area equals length times width equals 4 times 3 equals 12 square units. Right: a rectangular prism 4 by 3 by 2 drawn with visible unit cubes, labeled volume equals length times width times height equals 4 times 3 times 2 equals 24 cubic units. Labels, numbers, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-005-09-area-volume desc-L-06-005-09-area-volume">
+  <title id="title-L-06-005-09-area-volume">Area and volume</title>
+  <desc id="desc-L-06-005-09-area-volume">Two diagrams side by side. Left: a rectangle 4 by 3 drawn as a grid of 12 unit squares, labeled area equals length times width equals 4 times 3 equals 12 square units. Right: a rectangular prism 4 by 3 by 2 drawn with visible unit cubes, labeled volume equals length times width times height equals 4 times 3 times 2 equals 24 cubic units. Labels, numbers, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -17,7 +17,7 @@
     <text x="100" y="-12" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">4 units wide</text>
     <text x="-12" y="80" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222" transform="rotate(-90 -12 80)">3 units tall</text>
     <text x="100" y="186" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">area = length × width</text>
-    <text x="100" y="210" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">= 4 × 3 = 12 square units</text>
+    <text x="100" y="210" text-anchor="middle" font-family="sans-serif" font-size="14.0" fill="#222222">= 4 × 3 = 12 square units</text>
   </g>
 
   <!-- prism 4x3x2 -->
@@ -32,10 +32,10 @@
     <text x="80" y="20" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2 deep</text>
     <text x="166" y="95" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">4 wide</text>
     <text x="20" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">3 tall</text>
-    <text x="72" y="224" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">volume = length × width × height</text>
-    <text x="72" y="248" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">= 4 × 3 × 2 = 24 cubic units</text>
+    <text x="72" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">volume = length × width × height</text>
+    <text x="72" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">= 4 × 3 × 2 = 24 cubic units</text>
   </g>
 
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">area is measured in square units; volume in cubic units</text>
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">farmers, builders, and potters everywhere use these same two ideas</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">farmers, builders, and potters everywhere use these same two ideas</text>
 </svg>

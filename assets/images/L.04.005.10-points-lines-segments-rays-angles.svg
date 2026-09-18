@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Point, line, segment, ray, and angle</title>
-  <desc id="desc">Five labeled figures arranged in a row. A point shown as a single dot. A line with arrowheads at both ends. A line segment with two endpoint dots. A ray with one endpoint dot and one arrowhead. An angle made of two rays meeting at a vertex, with a small arc marking the angle.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-10-points-lines-segments-rays-angles desc-L-04-005-10-points-lines-segments-rays-angles">
+  <title id="title-L-04-005-10-points-lines-segments-rays-angles">Point, line, segment, ray, and angle</title>
+  <desc id="desc-L-04-005-10-points-lines-segments-rays-angles">Five labeled figures arranged in a row. A point shown as a single dot. A line with arrowheads at both ends. A line segment with two endpoint dots. A ray with one endpoint dot and one arrowhead. An angle made of two rays meeting at a vertex, with a small arc marking the angle.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Point · Line · Segment · Ray · Angle</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="25.5" font-weight="bold" fill="#2b3a42">Point · Line · Segment · Ray · Angle</text>
 
   <!-- Point -->
   <text x="80" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#6b93b6">point</text>

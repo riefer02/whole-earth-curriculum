@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Working together to change something unfair</title>
-  <desc id="desc">Three panels tell a gentle, hopeful story of people working together to change something unfair. The first panel shows a person noticing an unfair rule, with a question mark, labeled "notice." The second panel shows a long line of people walking peacefully together toward the sea, labeled "work together, peacefully." The third panel shows people at the shore gathering salt while a sun shines, with a check mark, labeled "change it — and it changes." Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-009-07-together-we-can-change-it desc-L-03-009-07-together-we-can-change-it">
+  <title id="title-L-03-009-07-together-we-can-change-it">Working together to change something unfair</title>
+  <desc id="desc-L-03-009-07-together-we-can-change-it">Three panels tell a gentle, hopeful story of people working together to change something unfair. The first panel shows a person noticing an unfair rule, with a question mark, labeled "notice." The second panel shows a long line of people walking peacefully together toward the sea, labeled "work together, peacefully." The third panel shows people at the shore gathering salt while a sun shines, with a check mark, labeled "change it — and it changes." Labels and shapes, not color, carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40.7" text-anchor="middle" font-family="sans-serif" font-size="17.7" font-weight="bold" fill="#2b3a42">Working Together to Change Something Unfair</text>
-  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Notice &#8594; work together &#8594; change it — and hope grows.</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">Notice &#8594; work together &#8594; change it — and hope grows.</text>
 
   <!-- panel 1 -->
   <rect x="30" y="96" width="140" height="180" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>

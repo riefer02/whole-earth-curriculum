@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Locating square roots on the number line</title>
-  <desc id="desc">A number line from 0 to 5. Perfect squares 1, 4, 9, 16, 25 are marked above with their square roots below. The square roots √2, √5, √10, and √17 are placed between consecutive integers, each labeled with its bracket, such as "√10 is between 3 and 4 because 9 &lt; 10 &lt; 16." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-005-03-square-roots-on-number-line desc-L-08-005-03-square-roots-on-number-line">
+  <title id="title-L-08-005-03-square-roots-on-number-line">Locating square roots on the number line</title>
+  <desc id="desc-L-08-005-03-square-roots-on-number-line">A number line from 0 to 5. Perfect squares 1, 4, 9, 16, 25 are marked above with their square roots below. The square roots √2, √5, √10, and √17 are placed between consecutive integers, each labeled with its bracket, such as "√10 is between 3 and 4 because 9 &lt; 10 &lt; 16." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Placing Square Roots on the Number Line</text>
@@ -45,7 +45,7 @@
   <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">bracket, then refine</text>
   <text x="40" y="346" font-family="sans-serif" font-size="15" fill="#222222">√10 is between 3 and 4, because 9 &lt; 10 &lt; 16.</text>
   <text x="40" y="372" font-family="sans-serif" font-size="15" fill="#222222">√2 is between 1 and 2, because 1 &lt; 2 &lt; 4.</text>
-  <text x="40" y="408" font-family="sans-serif" font-size="14" fill="#4f6d7a">refine √2: 1.4² = 1.96 (a little low) · 1.5² = 2.25 (a little high)</text>
+  <text x="40" y="408" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">refine √2: 1.4² = 1.96 (a little low) · 1.5² = 2.25 (a little high)</text>
   <text x="40" y="432" font-family="sans-serif" font-size="14" fill="#4f6d7a">so √2 ≈ 1.4 — closer to 1.4 than to 1.5</text>
-  <text x="40" y="464" font-family="sans-serif" font-size="14" fill="#4f6d7a">locate it between the perfect squares, then refine by squaring</text>
+  <text x="40" y="464" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">locate it between the perfect squares, then refine by squaring</text>
 </svg>

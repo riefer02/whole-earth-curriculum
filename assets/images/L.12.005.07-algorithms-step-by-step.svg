@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Algorithms: Step-by-Step Procedures</title>
-  <desc id="desc">A flowchart with an oval labeled "input" at the top, three rectangular steps below it, a diamond decision box that loops back up if more items remain, and an oval labeled "output" at the bottom, with the note that an algorithm must always terminate and produce the correct result.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-07-algorithms-step-by-step desc-L-12-005-07-algorithms-step-by-step">
+  <title id="title-L-12-005-07-algorithms-step-by-step">Algorithms: Step-by-Step Procedures</title>
+  <desc id="desc-L-12-005-07-algorithms-step-by-step">A flowchart with an oval labeled "input" at the top, three rectangular steps below it, a diamond decision box that loops back up if more items remain, and an oval labeled "output" at the bottom, with the note that an algorithm must always terminate and produce the correct result.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">An Algorithm Has a Start, Steps, a Test, a Stop</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="19.5" fill="#2b3a42" font-weight="bold">An Algorithm Has a Start, Steps, a Test, a Stop</text>
 
   <!-- input oval -->
   <ellipse cx="256" cy="70" rx="70" ry="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

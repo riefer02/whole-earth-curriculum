@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Sequencing my day: first, next, then, last</title>
-  <desc id="desc">Four cards in a left-to-right line show the order of a day. Card one is a rising sun with a child stretching, labeled wake and first. Card two is a bowl with a spoon, labeled eat and next. Card three is a ball, labeled play and then. Card four is a moon and star with a child lying down, labeled sleep and last. Arrows point from each card to the next. The order words and arrows, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that a day is a story told in order.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-009-01-day-sequence desc-L-01-009-01-day-sequence">
+  <title id="title-L-01-009-01-day-sequence">Sequencing my day: first, next, then, last</title>
+  <desc id="desc-L-01-009-01-day-sequence">Four cards in a left-to-right line show the order of a day. Card one is a rising sun with a child stretching, labeled wake and first. Card two is a bowl with a spoon, labeled eat and next. Card three is a ball, labeled play and then. Card four is a moon and star with a child lying down, labeled sleep and last. Arrows point from each card to the next. The order words and arrows, not color, carry the meaning, so the picture prints clearly in grayscale and teaches that a day is a story told in order.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -90,5 +90,5 @@
   <text x="319" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">then</text>
   <text x="445" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">last</text>
 
-  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4f6d7a">before &#183; next &#183; after &#183; the order tells the story</text>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">before &#183; next &#183; after &#183; the order tells the story</text>
 </svg>

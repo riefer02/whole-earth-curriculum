@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Sorting living and nonliving things</title>
-  <desc id="desc">Two labeled mats. The left mat, Living, holds a seed sprouting into a plant, a flying bird, and a person — with the words grow, move, reproduce beneath them. The right mat, Nonliving, holds a rock, a pencil, and a cup — with the words stay the same beneath them. Each mat is labeled in words and distinguished by shape, not color alone, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-006-05-living-and-nonliving desc-L-01-006-05-living-and-nonliving">
+  <title id="title-L-01-006-05-living-and-nonliving">Sorting living and nonliving things</title>
+  <desc id="desc-L-01-006-05-living-and-nonliving">Two labeled mats. The left mat, Living, holds a seed sprouting into a plant, a flying bird, and a person — with the words grow, move, reproduce beneath them. The right mat, Nonliving, holds a rock, a pencil, and a cup — with the words stay the same beneath them. Each mat is labeled in words and distinguished by shape, not color alone, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Structure of a research-supported argument</title>
-  <desc id="desc">A five-step flow from claim to reason to evidence with citation, then to a response to a counterargument, ending in a supported conclusion. Each step is a labeled box with an arrow to the next.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-006-07-argument-structure desc-L-09-006-07-argument-structure">
+  <title id="title-L-09-006-07-argument-structure">Structure of a research-supported argument</title>
+  <desc id="desc-L-09-006-07-argument-structure">A five-step flow from claim to reason to evidence with citation, then to a response to a counterargument, ending in a supported conclusion. Each step is a labeled box with an arrow to the next.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -24,12 +24,12 @@
   <text x="368" y="226" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">reply to a counterargument</text>
 
   <!-- arrows -->
-  <path d="M242 109 L270 109" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
-  <path d="M144 142 L144 180" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
-  <path d="M242 213 L270 213" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
-  <path d="M368 142 L368 180" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
+  <path d="M242 109 L270 109" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5-L-09-006-07-argument-structure)"/>
+  <path d="M144 142 L144 180" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5-L-09-006-07-argument-structure)"/>
+  <path d="M242 213 L270 213" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5-L-09-006-07-argument-structure)"/>
+  <path d="M368 142 L368 180" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5-L-09-006-07-argument-structure)"/>
   <defs>
-    <marker id="ar5" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+    <marker id="ar5-L-09-006-07-argument-structure" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
       <path d="M0,0 L9,3 L0,6 Z" fill="#4f6d7a"/>
     </marker>
   </defs>
@@ -44,7 +44,7 @@
   <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">5 · a supported position</text>
   <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a claim no one else made for you</text>
 
-  <path d="M256 332 L256 356" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5)"/>
+  <path d="M256 332 L256 356" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#ar5-L-09-006-07-argument-structure)"/>
 
-  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">An argument is only as strong as the evidence it names and the doubt it answers</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">An argument is only as strong as the evidence it names and the doubt it answers</text>
 </svg>

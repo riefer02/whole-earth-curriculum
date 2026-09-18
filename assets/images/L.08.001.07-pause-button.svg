@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Pause before you pounce: the respond-not-react path</title>
-  <desc id="desc">A four-step path from left to right. Step 1: a charged moment. Step 2: a pause symbol (two bars) labeled "pause". Step 3: a small menu of three tools: breathe, name the feeling, count to ten. Step 4: "choose my response". Arrows connect the steps. Outline and label only, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-001-07-pause-button desc-L-08-001-07-pause-button">
+  <title id="title-L-08-001-07-pause-button">Pause before you pounce: the respond-not-react path</title>
+  <desc id="desc-L-08-001-07-pause-button">A four-step path from left to right. Step 1: a charged moment. Step 2: a pause symbol (two bars) labeled "pause". Step 3: a small menu of three tools: breathe, name the feeling, count to ten. Step 4: "choose my response". Arrows connect the steps. Outline and label only, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -38,7 +38,7 @@
   <!-- Step 4 -->
   <rect x="432" y="120" width="100" height="120" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="482" y="172" text-anchor="middle" font-family="sans-serif" font-size="11.7" font-weight="bold" fill="#2b3a42">choose my</text>
-  <text x="482" y="194" text-anchor="middle" font-family="sans-serif" font-size="13.7" font-weight="bold" fill="#2b3a42">response</text>
+  <text x="482" y="194" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">response</text>
 
   <!-- Loop back -->
   <path d="M482 240 L482 300 Q482 318 464 318 L74 318 Q56 318 56 300 L56 246" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-dasharray="6 6"/>
@@ -46,5 +46,5 @@
   <text x="270" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">practice makes the pause come faster</text>
   </g>
 
-  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the impulse says &#8220;now&#8221; &#8212; the pause gives you the choice back</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the impulse says &#8220;now&#8221; &#8212; the pause gives you the choice back</text>
 </svg>

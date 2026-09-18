@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My five senses on a body map</title>
-  <desc id="desc">A friendly front-facing body in a warm tone with five labeled sense spots. Leader lines point from the words see (eyes), hear (ears), smell (nose), taste (tongue), and touch (hands) to the matching body part, each ringed in a distinct shape of circle or oval. Labels and shapes — not color alone — carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-006-01-my-five-senses desc-L-01-006-01-my-five-senses">
+  <title id="title-L-01-006-01-my-five-senses">My five senses on a body map</title>
+  <desc id="desc-L-01-006-01-my-five-senses">A friendly front-facing body in a warm tone with five labeled sense spots. Leader lines point from the words see (eyes), hear (ears), smell (nose), taste (tongue), and touch (hands) to the matching body part, each ringed in a distinct shape of circle or oval. Labels and shapes — not color alone — carry the meaning, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Cause and effect chain</title>
-  <desc id="desc">A horizontal chain of four boxes connected by arrows. Box one reads "heavy rain" and is labeled "cause." Box two reads "river rises" and is labeled "effect (and cause)." Box three reads "fields flood" and is labeled "effect (and cause)." Box four reads "crops are lost" and is labeled "effect." Signal words "because" and "so" appear above the arrows. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-005-05-cause-and-effect desc-L-05-005-05-cause-and-effect">
+  <title id="title-L-05-005-05-cause-and-effect">Cause and effect chain</title>
+  <desc id="desc-L-05-005-05-cause-and-effect">A horizontal chain of four boxes connected by arrows. Box one reads "heavy rain" and is labeled "cause." Box two reads "river rises" and is labeled "effect (and cause)." Box three reads "fields flood" and is labeled "effect (and cause)." Box four reads "crops are lost" and is labeled "effect." Signal words "because" and "so" appear above the arrows. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Author's Structure: Cause and Effect</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="25.5" font-weight="bold" fill="#2b3a42">Author's Structure: Cause and Effect</text>
 
   <!-- Box 1 -->
   <rect x="28" y="180" width="96" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -47,6 +47,6 @@
   <text x="291" y="362" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">are lost</text>
   <text x="291" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">effect</text>
 
-  <text x="256" y="457.8" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">One thing makes the next happen — a chain the</text>
+  <text x="256" y="457.8" text-anchor="middle" font-family="sans-serif" font-size="20.4" fill="#2b3a42">One thing makes the next happen — a chain the</text>
   <text x="256" y="485.1" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">author builds.</text>
 </svg>

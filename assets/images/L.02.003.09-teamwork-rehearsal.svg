@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Teamwork Rehearsal: each adds one, we cheer each other on</title>
-  <desc id="desc">A team of three children builds a tower of blocks together. The child in the middle carefully places one block on the growing tower, while the other two children cheer with speech bubbles: "You can do it!" and "Nice try!" A label across the bottom reads "each adds one, we cheer each other on." The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-003-09-teamwork-rehearsal desc-L-02-003-09-teamwork-rehearsal">
+  <title id="title-L-02-003-09-teamwork-rehearsal">Teamwork Rehearsal: each adds one, we cheer each other on</title>
+  <desc id="desc-L-02-003-09-teamwork-rehearsal">A team of three children builds a tower of blocks together. The child in the middle carefully places one block on the growing tower, while the other two children cheer with speech bubbles: "You can do it!" and "Nice try!" A label across the bottom reads "each adds one, we cheer each other on." The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -67,5 +67,5 @@
   <rect x="86" y="330" width="340" height="48" rx="12" fill="#2b3a42"/>
   <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#fdfbf7">each adds one, we cheer each other on</text>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A team is people doing their parts and cheering each other on.</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">A team is people doing their parts and cheering each other on.</text>
 </svg>

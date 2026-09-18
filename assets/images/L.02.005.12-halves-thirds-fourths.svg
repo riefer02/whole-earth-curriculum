@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Halves, thirds, and fourths</title>
-  <desc id="desc">A circle and a rectangle, each partitioned into two, three, and four equal parts, with each part labeled one half, one third, and one fourth.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-12-halves-thirds-fourths desc-L-02-005-12-halves-thirds-fourths">
+  <title id="title-L-02-005-12-halves-thirds-fourths">Halves, thirds, and fourths</title>
+  <desc id="desc-L-02-005-12-halves-thirds-fourths">A circle and a rectangle, each partitioned into two, three, and four equal parts, with each part labeled one half, one third, and one fourth.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -51,5 +51,5 @@
   <line x1="409" y1="336" x2="409" y2="402" stroke="#2b3a42" stroke-width="3"/>
   <text x="384" y="430" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">4 equal parts</text>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#2b3a42">More equal parts → each share is smaller.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="22.4" fill="#2b3a42">More equal parts → each share is smaller.</text>
 </svg>

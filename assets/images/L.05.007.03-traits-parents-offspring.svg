@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title desc">
-  <title id="title">Traits pass from parents to offspring</title>
-  <desc id="desc">A heredity diagram showing a mother dog and a father dog passing traits to their puppy. On the left, a mother dog with rounded hanging ears and a solid brown coat is labeled mother, with a caption floppy ears and brown coat. On the right, a father dog with pointed ears and a white coat covered in dark spots is labeled father, with a caption pointed ears and spotted coat. Arrows labeled instructions for traits point from each parent down to a puppy at the bottom center. The puppy is labeled offspring and has rounded hanging ears (from the mother) and a spotted coat (from the father). Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 480" role="img" aria-labelledby="title-L-05-007-03-traits-parents-offspring desc-L-05-007-03-traits-parents-offspring">
+  <title id="title-L-05-007-03-traits-parents-offspring">Traits pass from parents to offspring</title>
+  <desc id="desc-L-05-007-03-traits-parents-offspring">A heredity diagram showing a mother dog and a father dog passing traits to their puppy. On the left, a mother dog with rounded hanging ears and a solid brown coat is labeled mother, with a caption floppy ears and brown coat. On the right, a father dog with pointed ears and a white coat covered in dark spots is labeled father, with a caption pointed ears and spotted coat. Arrows labeled instructions for traits point from each parent down to a puppy at the bottom center. The puppy is labeled offspring and has rounded hanging ears (from the mother) and a spotted coat (from the father). Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="480" fill="#fdfbf7"/>
 
   <defs>
-    <marker id="arr3" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="arr3-L-05-007-03-traits-parents-offspring" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
     </marker>
   </defs>
@@ -48,8 +48,8 @@
   <text x="372" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">pointed ears · spotted coat</text>
 
   <!-- arrows to offspring -->
-  <line x1="140" y1="222" x2="230" y2="330" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3)"/>
-  <line x1="372" y1="222" x2="282" y2="330" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3)"/>
+  <line x1="140" y1="222" x2="230" y2="330" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3-L-05-007-03-traits-parents-offspring)"/>
+  <line x1="372" y1="222" x2="282" y2="330" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr3-L-05-007-03-traits-parents-offspring)"/>
   <text x="168" y="300" font-family="sans-serif" font-size="12" fill="#2b3a42">instructions</text>
   <text x="330" y="300" font-family="sans-serif" font-size="12" fill="#2b3a42">instructions</text>
 

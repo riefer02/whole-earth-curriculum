@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Building a balanced meal</title>
-  <desc id="desc">A round plate divided into three labeled sections — grains, vegetables and fruits, and protein — with a small glass of water beside it. Each section holds simple example foods: rice and flatbread for grains, greens and a mango for vegetables and fruits, and beans, egg, and fish for protein. The labels and shapes carry the idea so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-008-02-building-a-balanced-meal desc-L-02-008-02-building-a-balanced-meal">
+  <title id="title-L-02-008-02-building-a-balanced-meal">Building a balanced meal</title>
+  <desc id="desc-L-02-008-02-building-a-balanced-meal">A round plate divided into three labeled sections — grains, vegetables and fruits, and protein — with a small glass of water beside it. Each section holds simple example foods: rice and flatbread for grains, greens and a mango for vegetables and fruits, and beans, egg, and fish for protein. The labels and shapes carry the idea so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Build a Balanced Meal</text>
@@ -38,5 +38,5 @@
     <text x="459" y="324" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">water</text>
   </g>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">A balanced meal = foods from several groups, plus water to drink.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14.1" font-weight="bold" fill="#2b3a42">A balanced meal = foods from several groups, plus water to drink.</text>
 </svg>

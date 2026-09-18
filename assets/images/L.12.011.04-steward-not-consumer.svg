@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Steward, Not Consumer</title>
-  <desc id="desc">Two diverging paths. The upper path is labeled 'consumer — take, use, discard' and leads to a broken, discarded object. The lower path is labeled 'steward — choose, use, repair, share, care' and leads to a cared-for object beside a small plant. Labels carry the meaning, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-011-04-steward-not-consumer desc-L-12-011-04-steward-not-consumer">
+  <title id="title-L-12-011-04-steward-not-consumer">Steward, Not Consumer</title>
+  <desc id="desc-L-12-011-04-steward-not-consumer">Two diverging paths. The upper path is labeled 'consumer — take, use, discard' and leads to a broken, discarded object. The lower path is labeled 'steward — choose, use, repair, share, care' and leads to a cared-for object beside a small plant. Labels carry the meaning, so it prints in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Two Paths for a Tool</text>

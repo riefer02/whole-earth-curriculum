@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What everyone needs to feel safe and treated well</title>
-  <desc id="desc">Six labeled cards show what every person in a class needs to feel safe and treated well. The cards are: a kind word, shown as a speech bubble with a heart; being listened to, shown as an ear with sound waves; space for my body, shown as a child with a hearing aid holding arms out wide inside a dashed boundary; my name said kindly, shown as a name tag with a smile; no one hurting me, shown as an open hand with a heart; and a turn to speak, shown as a child using a wheelchair raising a hand beside a soft turn marker. Each need is named in words, so the meaning does not depend on color and the picture prints clearly in grayscale. A caption below says these needs belong to everyone, everywhere — no one is left out.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-010-04-what-everyone-needs-to-feel-safe desc-L-01-010-04-what-everyone-needs-to-feel-safe">
+  <title id="title-L-01-010-04-what-everyone-needs-to-feel-safe">What everyone needs to feel safe and treated well</title>
+  <desc id="desc-L-01-010-04-what-everyone-needs-to-feel-safe">Six labeled cards show what every person in a class needs to feel safe and treated well. The cards are: a kind word, shown as a speech bubble with a heart; being listened to, shown as an ear with sound waves; space for my body, shown as a child with a hearing aid holding arms out wide inside a dashed boundary; my name said kindly, shown as a name tag with a smile; no one hurting me, shown as an open hand with a heart; and a turn to speak, shown as a child using a wheelchair raising a hand beside a soft turn marker. Each need is named in words, so the meaning does not depend on color and the picture prints clearly in grayscale. A caption below says these needs belong to everyone, everywhere — no one is left out.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -92,5 +92,5 @@
   <circle cx="447" cy="356" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <text x="417" y="382" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a turn to speak</text>
 
-  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">These needs belong to everyone, everywhere — no one is left out.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">These needs belong to everyone, everywhere — no one is left out.</text>
 </svg>

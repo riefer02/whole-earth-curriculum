@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Details versus examples</title>
-  <desc id="desc">A two-column chart. The left column is headed "supporting detail — general reason" and contains "Shade keeps people cool all day" with a broad band icon and the test "applies broadly? yes." The right column is headed "example — specific instance" and contains "Yesterday the market seller napped in the one shady spot" with a single dot icon and the test "one specific case? yes." A bottom line reads "details are general; examples are specific." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-004-02-details-and-examples desc-L-06-004-02-details-and-examples">
+  <title id="title-L-06-004-02-details-and-examples">Details versus examples</title>
+  <desc id="desc-L-06-004-02-details-and-examples">A two-column chart. The left column is headed "supporting detail — general reason" and contains "Shade keeps people cool all day" with a broad band icon and the test "applies broadly? yes." The right column is headed "example — specific instance" and contains "Yesterday the market seller napped in the one shady spot" with a single dot icon and the test "one specific case? yes." A bottom line reads "details are general; examples are specific." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A class job that helps</title>
-  <desc id="desc">Three panels of small class jobs. Panel one, "water the plants": a child tips a small watering can over a potted plant. Panel two, "pass the paper": two children pass a sheet of paper from one to the other. Panel three, "tidy the shelf": a child places a book on a shelf. The children have different skin tones and shirt colors. Each job is labeled. The labels and the shapes of the jobs carry the meaning, not color, so the picture prints clearly in grayscale and shows that many small jobs, done by many hands, care for the whole class.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-011-06-a-class-job-that-helps desc-L-00-011-06-a-class-job-that-helps">
+  <title id="title-L-00-011-06-a-class-job-that-helps">A class job that helps</title>
+  <desc id="desc-L-00-011-06-a-class-job-that-helps">Three panels of small class jobs. Panel one, "water the plants": a child tips a small watering can over a potted plant. Panel two, "pass the paper": two children pass a sheet of paper from one to the other. Panel three, "tidy the shelf": a child places a book on a shelf. The children have different skin tones and shirt colors. Each job is labeled. The labels and the shapes of the jobs carry the meaning, not color, so the picture prints clearly in grayscale and shows that many small jobs, done by many hands, care for the whole class.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -97,6 +97,6 @@
   </g>
 
   <!-- Bottom note -->
-  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">When each person does a little, the whole group is cared for.</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="15.0" fill="#4f6d7a">When each person does a little, the whole group is cared for.</text>
   <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Every job helps — no job is too small.</text>
 </svg>

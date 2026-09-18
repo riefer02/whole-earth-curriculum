@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Writing and evaluating expressions</title>
-  <desc id="desc">An expression diagram for 3n + 2. Three circles each labeled n, plus two loose dots, equal a box labeled 3n + 2. Below, an evaluation shows substituting n = 5: 3 times 5 plus 2 equals 17. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-08-writing-evaluating-expressions desc-L-05-006-08-writing-evaluating-expressions">
+  <title id="title-L-05-006-08-writing-evaluating-expressions">Writing and evaluating expressions</title>
+  <desc id="desc-L-05-006-08-writing-evaluating-expressions">An expression diagram for 3n + 2. Three circles each labeled n, plus two loose dots, equal a box labeled 3n + 2. Below, an evaluation shows substituting n = 5: 3 times 5 plus 2 equals 17. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

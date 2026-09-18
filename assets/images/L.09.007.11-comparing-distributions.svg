@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Comparing two distributions with box plots</title>
-  <desc id="desc">Two box plots stacked on the same value scale, both centered at mean and median 11 but with very different spread — one tight and symmetric (range 4, IQR 2), one wide with long tails (range 22, IQR 10.5) — with the median, quartiles, and range labeled, plus a note comparing center, spread, and shape.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-007-11-comparing-distributions desc-L-09-007-11-comparing-distributions">
+  <title id="title-L-09-007-11-comparing-distributions">Comparing two distributions with box plots</title>
+  <desc id="desc-L-09-007-11-comparing-distributions">Two box plots stacked on the same value scale, both centered at mean and median 11 but with very different spread — one tight and symmetric (range 4, IQR 2), one wide with long tails (range 22, IQR 10.5) — with the median, quartiles, and range labeled, plus a note comparing center, spread, and shape.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Comparing Two Distributions</text>
@@ -46,6 +46,6 @@
   <!-- legend -->
   <rect x="30" y="392" width="452" height="90" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5" stroke-opacity="0.6"/>
   <text x="44" y="416" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Compare three things:</text>
-  <text x="44" y="438" font-family="sans-serif" font-size="13" fill="#222222">center (median/mean) · spread (range/IQR) · shape (symmetric or skewed)</text>
-  <text x="44" y="462" font-family="sans-serif" font-size="13" fill="#4f6d7a">Same center here — mean = median = 11 — but very different spread.</text>
+  <text x="44" y="438" font-family="sans-serif" font-size="12" fill="#222222">center (median/mean) · spread (range/IQR) · shape (symmetric or skewed)</text>
+  <text x="44" y="462" font-family="sans-serif" font-size="12.8" fill="#4f6d7a">Same center here — mean = median = 11 — but very different spread.</text>
 </svg>

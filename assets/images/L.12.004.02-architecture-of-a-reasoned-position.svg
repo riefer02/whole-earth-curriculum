@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The architecture of a reasoned position</title>
-  <desc id="desc">A diagram of a reasoned position. At the top a box labeled "claim." Below it, two boxes labeled "grounds" and "warrant" support it with upward arrows. Under the warrant, a box labeled "backing" supports it. On the right, a box labeled "qualifier" points at the claim, and a box labeled "rebuttal" points back at the claim with an arrow. All meaning is carried by labels and arrows, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-004-02-architecture-of-a-reasoned-position desc-L-12-004-02-architecture-of-a-reasoned-position">
+  <title id="title-L-12-004-02-architecture-of-a-reasoned-position">The architecture of a reasoned position</title>
+  <desc id="desc-L-12-004-02-architecture-of-a-reasoned-position">A diagram of a reasoned position. At the top a box labeled "claim." Below it, two boxes labeled "grounds" and "warrant" support it with upward arrows. Under the warrant, a box labeled "backing" supports it. On the right, a box labeled "qualifier" points at the claim, and a box labeled "rebuttal" points back at the claim with an arrow. All meaning is carried by labels and arrows, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

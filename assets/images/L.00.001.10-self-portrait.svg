@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">All about me: a self-portrait template</title>
-  <desc id="desc">A simple "All About Me" page. On the left, a frame labeled "draw me" holds a faint dashed oval and shoulders as a guide for drawing a self-portrait. On the right, four fill-in lines: "My name," "One feeling I know," "Something that makes me me," and "A group I belong to." The dashed writing lines and labels carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-10-self-portrait desc-L-00-001-10-self-portrait">
+  <title id="title-L-00-001-10-self-portrait">All about me: a self-portrait template</title>
+  <desc id="desc-L-00-001-10-self-portrait">A simple "All About Me" page. On the left, a frame labeled "draw me" holds a faint dashed oval and shoulders as a guide for drawing a self-portrait. On the right, four fill-in lines: "My name," "One feeling I know," "Something that makes me me," and "A group I belong to." The dashed writing lines and labels carry the meaning, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

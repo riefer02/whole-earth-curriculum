@@ -50,10 +50,10 @@
 
   <!-- Banner -->
   <rect x="60" y="258" width="392" height="56" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="283" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">the same feeling keeps showing up: a pattern</text>
-  <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">same situation shape &#8594; same feeling, again and again</text>
+  <text x="256" y="283" text-anchor="middle" font-family="sans-serif" font-size="20.8" font-weight="bold" fill="#2b3a42">the same feeling keeps showing up: a pattern</text>
+  <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">same situation shape &#8594; same feeling, again and again</text>
 
-  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">Patterns help me predict and care for my feelings.</text>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="18.3" fill="#222222">Patterns help me predict and care for my feelings.</text>
 
   <!-- small decorative row of three dots -->
   <g fill="#7a9e7e">

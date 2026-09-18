@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Advocating for Health and Dignity for All</title>
-  <desc id="desc">A lever lifting a shared table, with labels naming the levers — policy, community programs, cooperatives, school meals, gardens — captioned "individual and collective wellbeing linked."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-008-05-advocating-for-health-and-dignity-for-all desc-L-12-008-05-advocating-for-health-and-dignity-for-all">
+  <title id="title-L-12-008-05-advocating-for-health-and-dignity-for-all">Advocating for Health and Dignity for All</title>
+  <desc id="desc-L-12-008-05-advocating-for-health-and-dignity-for-all">A lever lifting a shared table, with labels naming the levers — policy, community programs, cooperatives, school meals, gardens — captioned "individual and collective wellbeing linked."</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">The Lever: Advocacy</text>
@@ -28,5 +28,5 @@
   <path d="M 250 126 L 256 116 L 262 126" stroke="#7a9e7e" stroke-width="3" fill="none"/>
 
   <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Individual and collective wellbeing are one.</text>
-  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Name a change, show who it helps and what it costs, take a first step.</text>
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#4f6d7a">Name a change, show who it helps and what it costs, take a first step.</text>
 </svg>

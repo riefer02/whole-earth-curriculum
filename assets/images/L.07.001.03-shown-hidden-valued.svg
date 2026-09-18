@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Which feelings are shown, hidden, or valued</title>
-  <desc id="desc">A three-column chart titled "Which feelings are shown, hidden, or valued?" The left column "SHOWN" lists open joy and spoken thanks. The middle column "HIDDEN" lists fear and, in some places, grief held quietly. The right column "VALUED" lists courage and calm in hard moments. A caption reads "Norms differ by culture and family — none is the only right way." Meaning is carried by labels and column position, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-001-03-shown-hidden-valued desc-L-07-001-03-shown-hidden-valued">
+  <title id="title-L-07-001-03-shown-hidden-valued">Which feelings are shown, hidden, or valued</title>
+  <desc id="desc-L-07-001-03-shown-hidden-valued">A three-column chart titled "Which feelings are shown, hidden, or valued?" The left column "SHOWN" lists open joy and spoken thanks. The middle column "HIDDEN" lists fear and, in some places, grief held quietly. The right column "VALUED" lists courage and calm in hard moments. A caption reads "Norms differ by culture and family — none is the only right way." Meaning is carried by labels and column position, not color, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <!-- Header -->
-  <text x="256" y="26" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Which feelings are shown, hidden, or</text>
+  <text x="256" y="26" text-anchor="middle" font-family="sans-serif" font-size="25.5" font-weight="bold" fill="#2b3a42">Which feelings are shown, hidden, or</text>
   <text x="256" y="59.8" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">valued?</text>
 
   <!-- Column 1: SHOWN -->

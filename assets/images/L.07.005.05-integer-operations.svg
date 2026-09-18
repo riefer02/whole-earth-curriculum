@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Operating with integers</title>
-  <desc id="desc">An integer operations diagram on a vertical temperature number line from −20 to +20. Arrows show: −5 + 8 = +3 (a rise from −5 up 8), 3 − 5 = −2 (a fall of 5 from 3), and −3 × −2 = +6 with a note "a negative times a negative is positive." A small table lists the sign rules for multiply/divide: same signs → positive, different signs → negative. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-005-05-integer-operations desc-L-07-005-05-integer-operations">
+  <title id="title-L-07-005-05-integer-operations">Operating with integers</title>
+  <desc id="desc-L-07-005-05-integer-operations">An integer operations diagram on a vertical temperature number line from −20 to +20. Arrows show: −5 + 8 = +3 (a rise from −5 up 8), 3 − 5 = −2 (a fall of 5 from 3), and −3 × −2 = +6 with a note "a negative times a negative is positive." A small table lists the sign rules for multiply/divide: same signs → positive, different signs → negative. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -64,5 +64,5 @@
 
   <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a +1 and a −1 make a zero pair</text>
   <text x="256" y="459" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">negatives name cold below zero, depth below sea level, money owed</text>
-  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">negative numbers: red/black rods in ancient China · rules in India (7th c.)</text>
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">negative numbers: red/black rods in ancient China · rules in India (7th c.)</text>
 </svg>

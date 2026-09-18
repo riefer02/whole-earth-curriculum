@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
-  <title id="title">Notate it so others can follow</title>
-  <desc id="desc">A notation poster titled "Notate it so others can follow." At the top, a beat grid shows four boxes; the first holds one filled note labeled "ta — one sound on a beat," the second holds two beamed notes labeled "ti-ti — two sounds on a beat." Below, a five-step pitch ladder is labeled, bottom to top, "do re mi sol la," and a worked example melody of noteheads on the ladder steps reads across the grid, with a caption "same beat grid, plus a pitch ladder — a melody anyone can read." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title-L-06-007-03-notation-followable desc-L-06-007-03-notation-followable">
+  <title id="title-L-06-007-03-notation-followable">Notate it so others can follow</title>
+  <desc id="desc-L-06-007-03-notation-followable">A notation poster titled "Notate it so others can follow." At the top, a beat grid shows four boxes; the first holds one filled note labeled "ta — one sound on a beat," the second holds two beamed notes labeled "ti-ti — two sounds on a beat." Below, a five-step pitch ladder is labeled, bottom to top, "do re mi sol la," and a worked example melody of noteheads on the ladder steps reads across the grid, with a caption "same beat grid, plus a pitch ladder — a melody anyone can read." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="560" fill="#fdfbf7"/>
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Notate It So Others Can Follow</text>
@@ -83,6 +83,6 @@
   <text x="324" y="446" font-family="sans-serif" font-size="12" fill="#4f6d7a">beat 4</text>
 
   <line x1="40" y1="470" x2="472" y2="470" stroke="#d8d3ca" stroke-width="2"/>
-  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">same beat grid, plus a pitch ladder — a melody anyone can read</text>
-  <text x="256" y="526" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">people around the world notate music in many ways — this is one shared way</text>
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#2b3a42">same beat grid, plus a pitch ladder — a melody anyone can read</text>
+  <text x="256" y="526" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">people around the world notate music in many ways — this is one shared way</text>
 </svg>

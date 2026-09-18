@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Properties explain patterns: turn it, split it, same total</title>
-  <desc id="desc">Three arrays of twelve. The first is three rows of four. The second is the same array turned one quarter turn to four rows of three, labeled the order does not change the product. The third shows seven rows of six split into five rows of six and two rows of six, labeled split a fact into two easy facts.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-005-07-properties-explain-patterns desc-L-03-005-07-properties-explain-patterns">
+  <title id="title-L-03-005-07-properties-explain-patterns">Properties explain patterns: turn it, split it, same total</title>
+  <desc id="desc-L-03-005-07-properties-explain-patterns">Three arrays of twelve. The first is three rows of four. The second is the same array turned one quarter turn to four rows of three, labeled the order does not change the product. The third shows seven rows of six split into five rows of six and two rows of six, labeled split a fact into two easy facts.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

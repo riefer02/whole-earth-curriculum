@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Holding two feelings at once: happy AND sad</title>
-  <desc id="desc">One scene drawn twice, side by side. The left panel shows a smiling person waving with a moving box, labeled "happy — a new beginning." The right panel shows the same person with a tear and a heavy heart, labeled "sad — an ending." A large word "AND" joins the two panels, with a caption reading "Both are true at once." The meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-001-01-holding-two-feelings desc-L-07-001-01-holding-two-feelings">
+  <title id="title-L-07-001-01-holding-two-feelings">Holding two feelings at once: happy AND sad</title>
+  <desc id="desc-L-07-001-01-holding-two-feelings">One scene drawn twice, side by side. The left panel shows a smiling person waving with a moving box, labeled "happy — a new beginning." The right panel shows the same person with a tear and a heavy heart, labeled "sad — an ending." A large word "AND" joins the two panels, with a caption reading "Both are true at once." The meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

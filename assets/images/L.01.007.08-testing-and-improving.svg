@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Testing and improving: change one thing</title>
-  <desc id="desc">Three panels joined by arrows show how a build gets better. The first panel, labeled "1 · build," shows a standing block tower on a ground line. The second panel, labeled "2 · test," shows the same tower leaning to the right with a round weight on top, wobble marks beside it, and the note "it tips!" with a downward arrow. The third panel, labeled "3 · change one thing," shows the tower standing straight again, now on a much wider base, with the same weight on top, a check mark, and the note "it stands! wider base." The lean of the middle tower, the wide base, the labels, and the numbers carry all meaning, not color, so the picture prints clearly in grayscale and teaches that a test is a question, not a grade, and one change can make a build work better.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-007-08-testing-and-improving desc-L-01-007-08-testing-and-improving">
+  <title id="title-L-01-007-08-testing-and-improving">Testing and improving: change one thing</title>
+  <desc id="desc-L-01-007-08-testing-and-improving">Three panels joined by arrows show how a build gets better. The first panel, labeled "1 · build," shows a standing block tower on a ground line. The second panel, labeled "2 · test," shows the same tower leaning to the right with a round weight on top, wobble marks beside it, and the note "it tips!" with a downward arrow. The third panel, labeled "3 · change one thing," shows the tower standing straight again, now on a much wider base, with the same weight on top, a check mark, and the note "it stands! wider base." The lean of the middle tower, the wide base, the labels, and the numbers carry all meaning, not color, so the picture prints clearly in grayscale and teaches that a test is a question, not a grade, and one change can make a build work better.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -55,7 +55,7 @@
   <!-- ===== 3 · change one thing ===== -->
   <g>
     <rect x="350" y="96" width="140" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="420" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">3 · change one thing</text>
+    <text x="420" y="124" text-anchor="middle" font-family="sans-serif" font-size="16.0" font-weight="bold" fill="#7a9e7e">3 · change one thing</text>
     <!-- tower with wide base -->
     <rect x="382" y="252" width="76" height="22" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <rect x="394" y="228" width="52" height="22" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>

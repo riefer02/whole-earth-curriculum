@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Using context clues to figure out an unfamiliar word</title>
-  <desc id="desc">A sentence in a box contains one circled unfamiliar word. Three arrows point from surrounding words to the circled word, each labeled "clue." This shows that nearby words reveal what an unfamiliar word means. Simple shapes, grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-004-04-using-context-clues desc-L-04-004-04-using-context-clues">
+  <title id="title-L-04-004-04-using-context-clues">Using context clues to figure out an unfamiliar word</title>
+  <desc id="desc-L-04-004-04-using-context-clues">A sentence in a box contains one circled unfamiliar word. Three arrows point from surrounding words to the circled word, each labeled "clue." This shows that nearby words reveal what an unfamiliar word means. Simple shapes, grayscale-printable.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -24,7 +24,7 @@
   </g>
 
   <!-- Label -->
-  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">The words around a word are clues to its meaning.</text>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="18.7" fill="#2b3a42">The words around a word are clues to its meaning.</text>
 
   <!-- Guessed meaning -->
   <rect x="96" y="356" width="320" height="64" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>

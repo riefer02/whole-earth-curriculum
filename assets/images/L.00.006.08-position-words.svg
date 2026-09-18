@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Where is it? Position words over, on, in, under, and beside</title>
-  <desc id="desc">A woven basket sits in the middle of the picture. A bird flies over the basket, a leaf rests on its rim, a seed sits inside it, a pebble lies under it, and another seed sits beside it. Each object has a label with a thin line pointing to it, teaching the position words over, on, in, under, and beside. The words and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-006-08-position-words desc-L-00-006-08-position-words">
+  <title id="title-L-00-006-08-position-words">Where is it? Position words over, on, in, under, and beside</title>
+  <desc id="desc-L-00-006-08-position-words">A woven basket sits in the middle of the picture. A bird flies over the basket, a leaf rests on its rim, a seed sits inside it, a pebble lies under it, and another seed sits beside it. Each object has a label with a thin line pointing to it, teaching the position words over, on, in, under, and beside. The words and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -43,5 +43,5 @@
   <text x="412" y="300" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">beside</text>
   <line x1="402" y1="304" x2="396" y2="308" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
 
-  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Over, on, in, under, beside — say where it is, and it can be found.</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Over, on, in, under, beside — say where it is, and it can be found.</text>
 </svg>

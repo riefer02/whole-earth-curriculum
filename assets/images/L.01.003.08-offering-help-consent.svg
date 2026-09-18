@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Offering help: offer, don't take over, and honor a "no, thank you"</title>
-  <desc id="desc">A main scene shows two children. The child on the left leans forward struggling to lift a very heavy bag. The child on the right reaches out with an open palm and a speech bubble reading "Can I help you?" instead of grabbing the bag. Below are two outcome panels. The first shows the two children lifting the bag together, labeled "yes, please." The second shows the helper stepping back with a kind, calm smile while the other carries on, labeled "no, thank you — okay too." The open hand, the heavy bag, the question, and the labels carry the meaning, not color, so the picture prints clearly in grayscale and teaches that help is offered, not forced, and that a kind "no, thank you" is always a fine answer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-003-08-offering-help-consent desc-L-01-003-08-offering-help-consent">
+  <title id="title-L-01-003-08-offering-help-consent">Offering help: offer, don't take over, and honor a "no, thank you"</title>
+  <desc id="desc-L-01-003-08-offering-help-consent">A main scene shows two children. The child on the left leans forward struggling to lift a very heavy bag. The child on the right reaches out with an open palm and a speech bubble reading "Can I help you?" instead of grabbing the bag. Below are two outcome panels. The first shows the two children lifting the bag together, labeled "yes, please." The second shows the helper stepping back with a kind, calm smile while the other carries on, labeled "no, thank you — okay too." The open hand, the heavy bag, the question, and the labels carry the meaning, not color, so the picture prints clearly in grayscale and teaches that help is offered, not forced, and that a kind "no, thank you" is always a fine answer.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -101,5 +101,5 @@
   <text x="373" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">that's okay too</text>
 
   <!-- Bottom note -->
-  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Anyone can need help, and anyone can give it. Offer, then let them choose.</text>
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Anyone can need help, and anyone can give it. Offer, then let them choose.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What helps and hurts my focus</title>
-  <desc id="desc">A two-column chart titled "What helps and hurts my focus." The left column, marked with an upward arrow and labeled "helps," shows a quiet room, a water glass, and a written plan. The right column, marked with a dashed downward arrow and labeled "hurts," shows a ringing phone, a noisy crowd, and an empty stomach. Icons differ in shape and label, not color alone, so the chart prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-002-09-focus-helps-hurts desc-L-05-002-09-focus-helps-hurts">
+  <title id="title-L-05-002-09-focus-helps-hurts">What helps and hurts my focus</title>
+  <desc id="desc-L-05-002-09-focus-helps-hurts">A two-column chart titled "What helps and hurts my focus." The left column, marked with an upward arrow and labeled "helps," shows a quiet room, a water glass, and a written plan. The right column, marked with a dashed downward arrow and labeled "hurts," shows a ringing phone, a noisy crowd, and an empty stomach. Icons differ in shape and label, not color alone, so the chart prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -62,6 +62,6 @@
   <path d="M314 324 Q322 330 330 324" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
   <text x="388" y="328" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">an empty stomach</text>
 
-  <text x="256" y="475" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Notice what helps and what hurts — then guide your</text>
+  <text x="256" y="475" text-anchor="middle" font-family="sans-serif" font-size="18.3" fill="#2b3a42">Notice what helps and what hurts — then guide your</text>
   <text x="256" y="501" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">lantern back.</text>
 </svg>

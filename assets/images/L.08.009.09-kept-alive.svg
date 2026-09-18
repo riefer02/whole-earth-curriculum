@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Keeping humanity, culture, and hope alive</title>
-  <desc id="desc">A diagram of four channels — music, language, family and community, and faith — through which enslaved and colonized peoples kept their humanity, culture, and hope alive, each channel labeled with an example like spirituals, capoeira, creole languages, and family.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-009-09-kept-alive desc-L-08-009-09-kept-alive">
+  <title id="title-L-08-009-09-kept-alive">Keeping humanity, culture, and hope alive</title>
+  <desc id="desc-L-08-009-09-kept-alive">A diagram of four channels — music, language, family and community, and faith — through which enslaved and colonized peoples kept their humanity, culture, and hope alive, each channel labeled with an example like spirituals, capoeira, creole languages, and family.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">How people kept humanity, culture &amp; hope alive</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="18.3" font-weight="bold" fill="#2b3a42">How people kept humanity, culture &amp; hope alive</text>
 
   <!-- channel 1 -->
   <g>

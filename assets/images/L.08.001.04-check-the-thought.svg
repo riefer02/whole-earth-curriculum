@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Check the thought: when a feeling misleads</title>
-  <desc id="desc">A large magnifying glass held over a thought bubble. Inside the bubble, a question: "Is this thought true and fair?" Three small labels sit beneath, each naming a thought error: "catastrophizing" (the worst will happen), "mind-reading" (I know what they think), "all-or-nothing" (perfect or ruined). Outline and label only, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-001-04-check-the-thought desc-L-08-001-04-check-the-thought">
+  <title id="title-L-08-001-04-check-the-thought">Check the thought: when a feeling misleads</title>
+  <desc id="desc-L-08-001-04-check-the-thought">A large magnifying glass held over a thought bubble. Inside the bubble, a question: "Is this thought true and fair?" Three small labels sit beneath, each naming a thought error: "catastrophizing" (the worst will happen), "mind-reading" (I know what they think), "all-or-nothing" (perfect or ruined). Outline and label only, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">When a feeling misleads, check the thought</text>
+  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="21.8" font-weight="bold" fill="#2b3a42">When a feeling misleads, check the thought</text>
 
   <!-- Magnifying glass -->
   <circle cx="300" cy="172" r="74" fill="none" stroke="#e0a458" stroke-width="7"/>
@@ -25,7 +25,7 @@
 
   <rect x="30" y="364" width="452" height="52" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
   <text x="48" y="396" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">mind-reading</text>
-  <text x="204" y="396" font-family="sans-serif" font-size="15" fill="#4f6d7a">&#8220;I know what they think of me&#8221;</text>
+  <text x="204" y="396" font-family="sans-serif" font-size="13.2" fill="#4f6d7a">&#8220;I know what they think of me&#8221;</text>
 
   <rect x="30" y="428" width="452" height="52" rx="12" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
   <text x="48" y="460" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">all-or-nothing</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Triangles: possible and impossible</title>
-  <desc id="desc">A diagram of the triangle inequality. Three panels show: (a) lengths 3, 4, 5 forming a closed triangle labeled "possible: 3 + 4 > 5"; (b) lengths 2, 3, 5 lying flat in a line labeled "impossible: 2 + 3 = 5, no triangle"; and (c) lengths 1, 2, 4 not reaching, labeled "impossible: 1 + 2 &lt; 4." A caption reads "the two shorter sides must add to more than the longest side." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-005-10-triangles-possible-impossible desc-L-07-005-10-triangles-possible-impossible">
+  <title id="title-L-07-005-10-triangles-possible-impossible">Triangles: possible and impossible</title>
+  <desc id="desc-L-07-005-10-triangles-possible-impossible">A diagram of the triangle inequality. Three panels show: (a) lengths 3, 4, 5 forming a closed triangle labeled "possible: 3 + 4 > 5"; (b) lengths 2, 3, 5 lying flat in a line labeled "impossible: 2 + 3 = 5, no triangle"; and (c) lengths 1, 2, 4 not reaching, labeled "impossible: 1 + 2 &lt; 4." A caption reads "the two shorter sides must add to more than the longest side." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -45,13 +45,13 @@
 
   <!-- rule -->
   <rect x="40" y="240" width="432" height="80" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
-  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">the two shorter sides must add to MORE than the longest</text>
-  <text x="256" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">equal → lies flat · less → cannot reach · only "more" closes a triangle</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="16.7" font-weight="bold" fill="#222222">the two shorter sides must add to MORE than the longest</text>
+  <text x="256" y="294" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">equal → lies flat · less → cannot reach · only "more" closes a triangle</text>
 
   <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">predict with the sum test, then build to confirm</text>
-  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">4, 5, 6 → 4 + 5 = 9 &gt; 6 ✓ · 3, 3, 6 → 3 + 3 = 6 ✗ · 2, 2, 5 → 4 &lt; 5 ✗</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">4, 5, 6 → 4 + 5 = 9 &gt; 6 ✓ · 3, 3, 6 → 3 + 3 = 6 ✗ · 2, 2, 5 → 4 &lt; 5 ✗</text>
 
-  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">triangles are rigid — that is why bridges and roofs are braced with them</text>
-  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the 3-4-5 rope triangle for right angles: Egypt, India, China — shared geometry</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">triangles are rigid — that is why bridges and roofs are braced with them</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the 3-4-5 rope triangle for right angles: Egypt, India, China — shared geometry</text>
   <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">shape has conditions — knowing them tells you what can be built</text>
 </svg>

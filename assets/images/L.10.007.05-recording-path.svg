@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The recording signal path</title>
-  <desc id="desc">A signal path diagram with four linked stages — source, capture, balance, playback — each labeled, with an arrow looping back from playback to source labeled "listen and revise."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-007-05-recording-path desc-L-10-007-05-recording-path">
+  <title id="title-L-10-007-05-recording-path">The recording signal path</title>
+  <desc id="desc-L-10-007-05-recording-path">A signal path diagram with four linked stages — source, capture, balance, playback — each labeled, with an arrow looping back from playback to source labeled "listen and revise."</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- stage boxes -->
   <g stroke="#2b3a42" stroke-width="2">

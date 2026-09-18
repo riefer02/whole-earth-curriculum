@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Many languages are treasures</title>
-  <desc id="desc">A treasure chest sits open with gold coins, and seven small word-slip cards float above it, each carrying a mark from a different writing system: Latin A, Cyrillic Ж, Arabic, Devanagari म, Chinese 山, Ethiopic ሀ, and Hangul 한. Sparkle stars around the cards suggest that each is precious. The chest and the many equal-sized slips carry the meaning, so the picture prints clearly in grayscale and teaches that every language and writing system is a treasure, that no language is better than another, and that sharing them makes everyone richer.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-005-13-many-languages-treasures desc-L-00-005-13-many-languages-treasures">
+  <title id="title-L-00-005-13-many-languages-treasures">Many languages are treasures</title>
+  <desc id="desc-L-00-005-13-many-languages-treasures">A treasure chest sits open with gold coins, and seven small word-slip cards float above it, each carrying a mark from a different writing system: Latin A, Cyrillic Ж, Arabic, Devanagari म, Chinese 山, Ethiopic ሀ, and Hangul 한. Sparkle stars around the cards suggest that each is precious. The chest and the many equal-sized slips carry the meaning, so the picture prints clearly in grayscale and teaches that every language and writing system is a treasure, that no language is better than another, and that sharing them makes everyone richer.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -49,5 +49,5 @@
   </g>
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a chest of words</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Every language is a treasure. Sharing makes us all richer.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">Every language is a treasure. Sharing makes us all richer.</text>
 </svg>

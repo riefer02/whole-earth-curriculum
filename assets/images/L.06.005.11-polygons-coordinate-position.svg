@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Polygons on the coordinate plane: position</title>
-  <desc id="desc">A four-quadrant coordinate plane with axes from minus 4 to 4. A rectangle is drawn with vertices at (minus 3, 2), (2, 2), (2, minus 2), and (minus 3, minus 2), each vertex labeled. The rectangle crosses two quadrants. The axes are labeled x and y, and the quadrants are numbered I, II, III, IV. Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-005-11-polygons-coordinate-position desc-L-06-005-11-polygons-coordinate-position">
+  <title id="title-L-06-005-11-polygons-coordinate-position">Polygons on the coordinate plane: position</title>
+  <desc id="desc-L-06-005-11-polygons-coordinate-position">A four-quadrant coordinate plane with axes from minus 4 to 4. A rectangle is drawn with vertices at (minus 3, 2), (2, 2), (2, minus 2), and (minus 3, minus 2), each vertex labeled. The rectangle crosses two quadrants. The axes are labeled x and y, and the quadrants are numbered I, II, III, IV. Labels, numbers, and position, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Polygons on the Coordinate Plane: Position</text>
-  <text x="256" y="56.6" text-anchor="middle" font-family="sans-serif" font-size="10.2" fill="#4f6d7a">vertices are named by ordered pairs; the axes split the plane into four quadrants</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21.8" font-weight="bold" fill="#2b3a42">Polygons on the Coordinate Plane: Position</text>
+  <text x="256" y="56.6" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">vertices are named by ordered pairs; the axes split the plane into four quadrants</text>
 
   <g transform="translate(70, 60)">
     <line x1="0" y1="0" x2="0" y2="360" stroke="#2b3a42" stroke-width="3"/>
@@ -55,6 +55,6 @@
     <text x="40" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">(-3, -2)</text>
   </g>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">a polygon's place comes from its vertices' ordered pairs</text>
-  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">negative coordinates put a point left of the y-axis or below the x-axis</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16.4" font-weight="bold" fill="#222222">a polygon's place comes from its vertices' ordered pairs</text>
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">negative coordinates put a point left of the y-axis or below the x-axis</text>
 </svg>

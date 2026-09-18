@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
-  <title id="title">Story = movement + voice + one more element</title>
-  <desc id="desc">A poster titled "Story = movement + voice + one more element." At the top, three labeled parts are shown: "movement — what my body does," "voice — what I say or sound," and "one more element — music, a prop, or shadow." Below, a three-box storyboard of a worked example "a seed becomes a tree" shows the beginning (a curled figure on the ground, a whispered "seed"), the middle (reaching arms, a rising "whoosh"), and the end (spread arms as branches, a calm "shade for everyone"). Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title-L-06-007-05-story-movement-voice-prop desc-L-06-007-05-story-movement-voice-prop">
+  <title id="title-L-06-007-05-story-movement-voice-prop">Story = movement + voice + one more element</title>
+  <desc id="desc-L-06-007-05-story-movement-voice-prop">A poster titled "Story = movement + voice + one more element." At the top, three labeled parts are shown: "movement — what my body does," "voice — what I say or sound," and "one more element — music, a prop, or shadow." Below, a three-box storyboard of a worked example "a seed becomes a tree" shows the beginning (a curled figure on the ground, a whispered "seed"), the middle (reaching arms, a rising "whoosh"), and the end (spread arms as branches, a calm "shade for everyone"). Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="560" fill="#fdfbf7"/>
   <text x="256" y="37.5" text-anchor="middle" font-family="sans-serif" font-size="16.3" font-weight="bold" fill="#2b3a42">Story = Movement + Voice + One More Element</text>
@@ -73,15 +73,15 @@
 
   <!-- arrows between boxes -->
   <g stroke="#2b3a42" stroke-width="2.5" fill="none">
-    <line x1="172" y1="310" x2="182" y2="310" marker-end="url(#arr5)"/>
-    <line x1="330" y1="310" x2="340" y2="310" marker-end="url(#arr5)"/>
+    <line x1="172" y1="310" x2="182" y2="310" marker-end="url(#arr5-L-06-007-05-story-movement-voice-prop)"/>
+    <line x1="330" y1="310" x2="340" y2="310" marker-end="url(#arr5-L-06-007-05-story-movement-voice-prop)"/>
   </g>
   <defs>
-    <marker id="arr5" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="arr5-L-06-007-05-story-movement-voice-prop" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L7,3 L0,6 Z" fill="#2b3a42"/>
     </marker>
   </defs>
 
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">three tools, one story, a clear beginning, middle, and end</text>
-  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">people have always told stories this way — with body, voice, and one more thing</text>
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">people have always told stories this way — with body, voice, and one more thing</text>
 </svg>

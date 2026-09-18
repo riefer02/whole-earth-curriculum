@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Estimation: check that an answer is reasonable</title>
-  <desc id="desc">Three steps shown left to right. Step 1: round 68 to 70 and 42 to 40. Step 2: estimate 70 times 40 equals about 2,800. Step 3: compare the exact answer 2,856 and judge it reasonable because it is close. A small note shows 28,560 is too big and 285 is too small.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-06-estimation-checking-reasonableness desc-L-04-005-06-estimation-checking-reasonableness">
+  <title id="title-L-04-005-06-estimation-checking-reasonableness">Estimation: check that an answer is reasonable</title>
+  <desc id="desc-L-04-005-06-estimation-checking-reasonableness">Three steps shown left to right. Step 1: round 68 to 70 and 42 to 40. Step 2: estimate 70 times 40 equals about 2,800. Step 3: compare the exact answer 2,856 and judge it reasonable because it is close. A small note shows 28,560 is too big and 285 is too small.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

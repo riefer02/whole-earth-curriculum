@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A day in a life</title>
-  <desc id="desc">A day timeline drawn as a circle with four labeled sections — "morning," "midday," "evening," and "night." Around the circle, small pictures show one child's day: carrying water, learning, playing, and sleeping, with the place label "a high Andes village." Below, a second empty circle is labeled "my day," inviting the learner to fill in their own morning, midday, evening, and night. A caption reads "Every life has a rhythm — the details differ." Labels and pictures, not color alone, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-004-05-a-day-in-a-life desc-L-05-004-05-a-day-in-a-life">
+  <title id="title-L-05-004-05-a-day-in-a-life">A day in a life</title>
+  <desc id="desc-L-05-004-05-a-day-in-a-life">A day timeline drawn as a circle with four labeled sections — "morning," "midday," "evening," and "night." Around the circle, small pictures show one child's day: carrying water, learning, playing, and sleeping, with the place label "a high Andes village." Below, a second empty circle is labeled "my day," inviting the learner to fill in their own morning, midday, evening, and night. A caption reads "Every life has a rhythm — the details differ." Labels and pictures, not color alone, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -51,5 +51,5 @@
   <text x="392" y="376" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">my day — fill it in</text>
 
   <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">Every life has a rhythm — the details differ.</text>
-  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Same day, different world — meet it with curiosity, not judgment.</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Same day, different world — meet it with curiosity, not judgment.</text>
 </svg>

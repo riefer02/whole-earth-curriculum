@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Properties of materials: hard, soft, shiny, heavy, light</title>
-  <desc id="desc">Five labeled cards, each pairing a simple object with a property word. A stone is hard, a cloth is soft, a spoon is shiny, a big stone is heavy, and a feather is light. Each card is labeled in words and distinguished by shape — the heavy stone has downward arrows and the light feather has upward motion lines — so meaning is not carried by color alone and it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-006-06-properties-of-materials desc-L-01-006-06-properties-of-materials">
+  <title id="title-L-01-006-06-properties-of-materials">Properties of materials: hard, soft, shiny, heavy, light</title>
+  <desc id="desc-L-01-006-06-properties-of-materials">Five labeled cards, each pairing a simple object with a property word. A stone is hard, a cloth is soft, a spoon is shiny, a big stone is heavy, and a feather is light. Each card is labeled in words and distinguished by shape — the heavy stone has downward arrows and the light feather has upward motion lines — so meaning is not carried by color alone and it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

@@ -35,5 +35,5 @@
   <polygon points="256,296 250,286 262,286" fill="#2b3a42"/>
 
   <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Each link has a share of the answer.</text>
-  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">The platform's share is shaped by design, not by accident.</text>
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#222222">The platform's share is shaped by design, not by accident.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Citing sources — quote, paraphrase, my own idea</title>
-  <desc id="desc">Three labeled rows. A quote in quotation marks with the label "she said". A paraphrase with the label "according to". An original idea labeled "my own idea". A bottom note reads "credit is honesty, not weakness".</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-004-08-citing-sources desc-L-08-004-08-citing-sources">
+  <title id="title-L-08-004-08-citing-sources">Citing sources — quote, paraphrase, my own idea</title>
+  <desc id="desc-L-08-004-08-citing-sources">Three labeled rows. A quote in quotation marks with the label "she said". A paraphrase with the label "according to". An original idea labeled "my own idea". A bottom note reads "credit is honesty, not weakness".</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -15,7 +15,7 @@
   <!-- paraphrase -->
   <rect x="40" y="188" width="432" height="92" rx="10" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="60" y="216" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">paraphrase</text>
-  <text x="60" y="238" font-family="sans-serif" font-size="13" fill="#222222">According to the report, the low path floods each rainy season.</text>
+  <text x="60" y="238" font-family="sans-serif" font-size="12.9" fill="#222222">According to the report, the low path floods each rainy season.</text>
   <text x="60" y="260" font-family="sans-serif" font-size="12" fill="#4f6d7a">your own words · still name the source</text>
 
   <!-- own idea -->

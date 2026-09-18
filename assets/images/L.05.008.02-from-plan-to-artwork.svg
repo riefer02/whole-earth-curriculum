@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 300" role="img" aria-labelledby="title desc">
-  <title id="title">From plan to finished artwork</title>
-  <desc id="desc">A three-panel sequence titled "From plan to finished artwork." The left panel, labeled "plan," shows a small pencil sketch on a page with the word "idea." The middle panel, labeled "make," shows hands with a pencil and paper, mid-work, with the words "follow my plan, adjust as I go." The right panel, labeled "complete," shows a finished framed picture with a title label reading "my finished artwork." Arrows point from plan to make to complete. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 300" role="img" aria-labelledby="title-L-05-008-02-from-plan-to-artwork desc-L-05-008-02-from-plan-to-artwork">
+  <title id="title-L-05-008-02-from-plan-to-artwork">From plan to finished artwork</title>
+  <desc id="desc-L-05-008-02-from-plan-to-artwork">A three-panel sequence titled "From plan to finished artwork." The left panel, labeled "plan," shows a small pencil sketch on a page with the word "idea." The middle panel, labeled "make," shows hands with a pencil and paper, mid-work, with the words "follow my plan, adjust as I go." The right panel, labeled "complete," shows a finished framed picture with a title label reading "my finished artwork." Arrows point from plan to make to complete. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="300" fill="#fdfbf7"/>
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">From Plan to Finished Artwork</text>
 
   <defs>
-    <marker id="arr2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="arr2-L-05-008-02-from-plan-to-artwork" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L8,3 L0,6 Z" fill="#2b3a42"/>
     </marker>
   </defs>
@@ -22,7 +22,7 @@
   <text x="89" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"idea"</text>
 
   <!-- arrow 1 -->
-  <line x1="160" y1="156" x2="192" y2="156" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr2)"/>
+  <line x1="160" y1="156" x2="192" y2="156" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr2-L-05-008-02-from-plan-to-artwork)"/>
 
   <!-- Panel 2: make -->
   <rect x="198" y="66" width="130" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -39,7 +39,7 @@
   <text x="263" y="220" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">adjust as I go</text>
 
   <!-- arrow 2 -->
-  <line x1="334" y1="156" x2="366" y2="156" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr2)"/>
+  <line x1="334" y1="156" x2="366" y2="156" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr2-L-05-008-02-from-plan-to-artwork)"/>
 
   <!-- Panel 3: complete -->
   <rect x="372" y="66" width="130" height="180" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

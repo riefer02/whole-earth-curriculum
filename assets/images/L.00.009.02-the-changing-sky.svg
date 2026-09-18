@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The changing sky: sun, moon, and stars</title>
-  <desc id="desc">Three cards in a row. The first shows the sun with rays, labeled "Sun — day." The second shows the moon in three changing shapes (round, half, and thin crescent), labeled "Moon — it changes shape." The third shows a few four-pointed stars, labeled "Stars — night." Each card is labeled in words and distinguished by shape, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-009-02-the-changing-sky desc-L-00-009-02-the-changing-sky">
+  <title id="title-L-00-009-02-the-changing-sky">The changing sky: sun, moon, and stars</title>
+  <desc id="desc-L-00-009-02-the-changing-sky">Three cards in a row. The first shows the sun with rays, labeled "Sun — day." The second shows the moon in three changing shapes (round, half, and thin crescent), labeled "Moon — it changes shape." The third shows a few four-pointed stars, labeled "Stars — night." Each card is labeled in words and distinguished by shape, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -67,6 +67,6 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="442.4" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Sometimes the moon shows up in the day sky too — a wonder to</text>
+  <text x="256" y="442.4" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">Sometimes the moon shows up in the day sky too — a wonder to</text>
   <text x="256" y="463.2" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">notice.</text>
 </svg>

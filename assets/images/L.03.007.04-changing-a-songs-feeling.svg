@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Changing a song's feeling: tempo, dynamics, pitch</title>
-  <desc id="desc">Three sliders are shown one above another. The tempo slider goes from a label "slow" on the left to "fast" on the right, with a small knob. The dynamics slider goes from "soft" to "loud." The pitch slider goes from "low" to "high." Beside each slider is a feeling example — "calm / excited" for tempo, "gentle / strong" for dynamics, and "light / heavy" for pitch. Labels and slider positions carry all meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-007-04-changing-a-songs-feeling desc-L-03-007-04-changing-a-songs-feeling">
+  <title id="title-L-03-007-04-changing-a-songs-feeling">Changing a song's feeling: tempo, dynamics, pitch</title>
+  <desc id="desc-L-03-007-04-changing-a-songs-feeling">Three sliders are shown one above another. The tempo slider goes from a label "slow" on the left to "fast" on the right, with a small knob. The dynamics slider goes from "soft" to "loud." The pitch slider goes from "low" to "high." Beside each slider is a feeling example — "calm / excited" for tempo, "gentle / strong" for dynamics, and "light / heavy" for pitch. Labels and slider positions carry all meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

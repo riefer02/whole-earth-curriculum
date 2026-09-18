@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 430" role="img" aria-labelledby="title desc">
-  <title id="title">Traits vary within a family</title>
-  <desc id="desc">A variation diagram. At the top, two parent dogs — a mother and a father — are shown side by side above the label same parents. Below them, four puppy offspring appear in a row. The puppies share the family's general body shape but differ from one another: the first has a solid dark coat, the second a spotted coat, the third a patchy coat, and the fourth has one floppy and one pointed ear. A caption reads: siblings share family traits, but each is its own unique mix. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 430" role="img" aria-labelledby="title-L-05-007-04-traits-vary-in-family desc-L-05-007-04-traits-vary-in-family">
+  <title id="title-L-05-007-04-traits-vary-in-family">Traits vary within a family</title>
+  <desc id="desc-L-05-007-04-traits-vary-in-family">A variation diagram. At the top, two parent dogs — a mother and a father — are shown side by side above the label same parents. Below them, four puppy offspring appear in a row. The puppies share the family's general body shape but differ from one another: the first has a solid dark coat, the second a spotted coat, the third a patchy coat, and the fourth has one floppy and one pointed ear. A caption reads: siblings share family traits, but each is its own unique mix. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="430" fill="#fdfbf7"/>
 
@@ -71,7 +71,7 @@
   <circle cx="373" cy="220" r="2" fill="#2b3a42"/>
   <text x="384" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">different ears</text>
 
-  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">siblings share family traits, but each is its own unique mix</text>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="15.3" font-weight="bold" fill="#2b3a42">siblings share family traits, but each is its own unique mix</text>
   <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">this ordinary difference is called variation</text>
   <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">variation is normal in every family of living things</text>
 </svg>

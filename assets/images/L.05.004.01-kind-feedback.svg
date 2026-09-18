@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Kind feedback</title>
-  <desc id="desc">Two speech bubbles side by side. The left bubble, marked with a check, reads "This part is clear — the second step could be labeled" and is labeled "kind and about the work." The right bubble, marked with an X, reads "that's sloppy" and is labeled "hurtful, about the person." Below, a person with a gentle, open face holds a paper, and a speech bubble reads "Thank you — I'll think about that," labeled "receiving with openness." Check and X marks, not color alone, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-004-01-kind-feedback desc-L-05-004-01-kind-feedback">
+  <title id="title-L-05-004-01-kind-feedback">Kind feedback</title>
+  <desc id="desc-L-05-004-01-kind-feedback">Two speech bubbles side by side. The left bubble, marked with a check, reads "This part is clear — the second step could be labeled" and is labeled "kind and about the work." The right bubble, marked with an X, reads "that's sloppy" and is labeled "hurtful, about the person." Below, a person with a gentle, open face holds a paper, and a speech bubble reads "Thank you — I'll think about that," labeled "receiving with openness." Check and X marks, not color alone, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -48,5 +48,5 @@
   <text x="350" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Thank you — I'll</text>
   <text x="350" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">think about that.</text>
 
-  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Name the work, not the person — and receive with thanks.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16.4" fill="#2b3a42">Name the work, not the person — and receive with thanks.</text>
 </svg>

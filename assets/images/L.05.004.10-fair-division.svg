@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Fair division</title>
-  <desc id="desc">A division diagram with two panels. The left panel, "equal shares," shows four circles each with three dots, all the same, labeled "same for each." The right panel, "need-based shares," shows four circles with different numbers of dots — one circle with more dots is labeled "greater need." A caption reads "the goal: everyone has enough." Below, a caption reads "Fair can mean equal, or it can mean each gets what they need." Labels, counts, and sizes, not color alone, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-004-10-fair-division desc-L-05-004-10-fair-division">
+  <title id="title-L-05-004-10-fair-division">Fair division</title>
+  <desc id="desc-L-05-004-10-fair-division">A division diagram with two panels. The left panel, "equal shares," shows four circles each with three dots, all the same, labeled "same for each." The right panel, "need-based shares," shows four circles with different numbers of dots — one circle with more dots is labeled "greater need." A caption reads "the goal: everyone has enough." Below, a caption reads "Fair can mean equal, or it can mean each gets what they need." Labels, counts, and sizes, not color alone, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -45,6 +45,6 @@
 
   <text x="376" y="336" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">the goal: everyone has enough</text>
 
-  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">Fair can mean equal — or each gets what they need.</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="18.3" font-weight="bold" fill="#222222">Fair can mean equal — or each gets what they need.</text>
   <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">The measure is the same: everyone has enough.</text>
 </svg>

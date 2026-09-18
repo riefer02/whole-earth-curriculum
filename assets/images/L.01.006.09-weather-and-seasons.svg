@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Weather and seasons in different places</title>
-  <desc id="desc">Three labeled cards showing kinds of seasons and weather around the world, with no single correct one. The first shows wet and dry times (rain clouds beside a dry sun). The second shows warm-all-year (a sun over leafy plants). The third shows cold (snowflakes over a mountain). Each card is labeled in words and distinguished by shape — raindrops, sun, and snowflakes — so meaning is not carried by color alone and it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-006-09-weather-and-seasons desc-L-01-006-09-weather-and-seasons">
+  <title id="title-L-01-006-09-weather-and-seasons">Weather and seasons in different places</title>
+  <desc id="desc-L-01-006-09-weather-and-seasons">Three labeled cards showing kinds of seasons and weather around the world, with no single correct one. The first shows wet and dry times (rain clouds beside a dry sun). The second shows warm-all-year (a sun over leafy plants). The third shows cold (snowflakes over a mountain). Each card is labeled in words and distinguished by shape — raindrops, sun, and snowflakes — so meaning is not carried by color alone and it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

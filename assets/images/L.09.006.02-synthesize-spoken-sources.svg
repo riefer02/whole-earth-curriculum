@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Synthesizing many spoken sources into one account</title>
-  <desc id="desc">Four speech bubbles from four different speakers flow into a single box labeled one coherent account, with a shaded overlap region labeled what they share, to show synthesis rather than mere listing.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-006-02-synthesize-spoken-sources desc-L-09-006-02-synthesize-spoken-sources">
+  <title id="title-L-09-006-02-synthesize-spoken-sources">Synthesizing many spoken sources into one account</title>
+  <desc id="desc-L-09-006-02-synthesize-spoken-sources">Four speech bubbles from four different speakers flow into a single box labeled one coherent account, with a shaded overlap region labeled what they share, to show synthesis rather than mere listing.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -28,13 +28,13 @@
   <text x="44" y="408" font-family="sans-serif" font-size="11" fill="#4f6d7a">main point + one detail</text>
 
   <!-- arrows -->
-  <path d="M180 126 C 240 126, 240 126, 268 126" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
-  <path d="M180 216 C 240 216, 240 216, 268 216" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
-  <path d="M180 306 C 240 306, 240 306, 268 306" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
-  <path d="M180 396 C 240 396, 240 396, 268 396" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M180 126 C 240 126, 240 126, 268 126" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-006-02-synthesize-spoken-sources)"/>
+  <path d="M180 216 C 240 216, 240 216, 268 216" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-006-02-synthesize-spoken-sources)"/>
+  <path d="M180 306 C 240 306, 240 306, 268 306" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-006-02-synthesize-spoken-sources)"/>
+  <path d="M180 396 C 240 396, 240 396, 268 396" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-006-02-synthesize-spoken-sources)"/>
 
   <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+    <marker id="arrow-L-09-006-02-synthesize-spoken-sources" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
       <path d="M0,0 L9,3 L0,6 Z" fill="#4f6d7a"/>
     </marker>
   </defs>
@@ -50,5 +50,5 @@
   <text x="378" y="302" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#222222">the overlap =</text>
   <text x="378" y="320" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#222222">what they share</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Synthesis is more than listing: it is finding the shared idea and naming the differences</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Synthesis is more than listing: it is finding the shared idea and naming the differences</text>
 </svg>

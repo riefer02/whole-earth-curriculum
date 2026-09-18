@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Many writing systems</title>
-  <desc id="desc">A five-panel grid, one panel per writing system. Panel one shows "A a B b" labeled "Latin — alphabet." Panel two shows the Arabic word "سلام" labeled "Arabic — abjad, right-to-left." Panel three shows the Devanagari word "नमस्ते" labeled "Devanagari — abugida." Panel four shows the Chinese character "水" labeled "Chinese — character script." Panel five shows the Korean word "한글" labeled "Hangul — alphabet in blocks." Each panel notes how it encodes language. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-005-13-many-writing-systems desc-L-05-005-13-many-writing-systems">
+  <title id="title-L-05-005-13-many-writing-systems">Many writing systems</title>
+  <desc id="desc-L-05-005-13-many-writing-systems">A five-panel grid, one panel per writing system. Panel one shows "A a B b" labeled "Latin — alphabet." Panel two shows the Arabic word "سلام" labeled "Arabic — abjad, right-to-left." Panel three shows the Devanagari word "नमस्ते" labeled "Devanagari — abugida." Panel four shows the Chinese character "水" labeled "Chinese — character script." Panel five shows the Korean word "한글" labeled "Hangul — alphabet in blocks." Each panel notes how it encodes language. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -28,13 +28,13 @@
   <rect x="260" y="200" width="228" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="374" y="254" text-anchor="middle" font-family="sans-serif" font-size="40" fill="#222222">水</text>
   <text x="374" y="288" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Chinese</text>
-  <text x="374" y="308" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">character script — a symbol for a meaning</text>
+  <text x="374" y="308" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">character script — a symbol for a meaning</text>
 
   <!-- Panel 5: Hangul -->
   <rect x="24" y="330" width="228" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="138" y="382" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#222222">한글</text>
   <text x="138" y="418" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Hangul</text>
-  <text x="138" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">alphabet — letters grouped in blocks</text>
+  <text x="138" y="438" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">alphabet — letters grouped in blocks</text>
 
   <!-- Bottom note panel -->
   <rect x="260" y="330" width="228" height="120" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
@@ -42,5 +42,5 @@
   <text x="374" y="390" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">a whole way to write.</text>
   <text x="374" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">None is better than another.</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">Alphabets, abjads, abugidas, and character scripts.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="18.0" fill="#2b3a42">Alphabets, abjads, abugidas, and character scripts.</text>
 </svg>

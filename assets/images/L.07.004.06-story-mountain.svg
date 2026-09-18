@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The story mountain</title>
-  <desc id="desc">A story-mountain diagram with a setting box at the base, a rising line labeled "rising action," a peak labeled "climax," a falling line labeled "falling action," and a flat end labeled "resolution." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-004-06-story-mountain desc-L-07-004-06-story-mountain">
+  <title id="title-L-07-004-06-story-mountain">The story mountain</title>
+  <desc id="desc-L-07-004-06-story-mountain">A story-mountain diagram with a setting box at the base, a rising line labeled "rising action," a peak labeled "climax," a falling line labeled "falling action," and a flat end labeled "resolution." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -27,5 +27,5 @@
   <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">setting</text>
   <text x="256" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">where and when — the world that causes the trouble</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Setting causes the conflict; plot is what happens because of it.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14.3" font-weight="bold" fill="#2b3a42">Setting causes the conflict; plot is what happens because of it.</text>
 </svg>

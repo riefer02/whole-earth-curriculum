@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Electric current makes a magnetic field</title>
-  <desc id="desc">A straight vertical wire with an electric current, surrounded by concentric magnetic field circles, with a compass needle nearby. Labels note the chain moving charge to field to force to current.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-006-07-electric-magnetic-fields desc-L-08-006-07-electric-magnetic-fields">
+  <title id="title-L-08-006-07-electric-magnetic-fields">Electric current makes a magnetic field</title>
+  <desc id="desc-L-08-006-07-electric-magnetic-fields">A straight vertical wire with an electric current, surrounded by concentric magnetic field circles, with a compass needle nearby. Labels note the chain moving charge to field to force to current.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Current Makes a Magnetic Field</text>
@@ -9,9 +9,9 @@
   <rect x="250" y="90" width="12" height="230" rx="3" fill="#2b3a42"/>
   <text x="238" y="80" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">wire</text>
   <!-- current arrow up -->
-  <path d="M256 300 L256 120" fill="none" stroke="#e0a458" stroke-width="3" marker-end="url(#iarr)"/>
+  <path d="M256 300 L256 120" fill="none" stroke="#e0a458" stroke-width="3" marker-end="url(#iarr-L-08-006-07-electric-magnetic-fields)"/>
   <defs>
-    <marker id="iarr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="iarr-L-08-006-07-electric-magnetic-fields" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0 0 L8 3 L0 6 Z" fill="#e0a458"/>
     </marker>
   </defs>

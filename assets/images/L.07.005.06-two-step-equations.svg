@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Two-step equations</title>
-  <desc id="desc">A balance-scale diagram for the two-step equation 2x + 3 = 11. The left pan holds two boxes labeled x and three dots; the right pan holds eleven dots. Below, two undoing steps are shown: "subtract 3 from both sides: 2x = 8" then "divide both sides by 2: x = 4." A final check reads "2 × 4 + 3 = 11." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-005-06-two-step-equations desc-L-07-005-06-two-step-equations">
+  <title id="title-L-07-005-06-two-step-equations">Two-step equations</title>
+  <desc id="desc-L-07-005-06-two-step-equations">A balance-scale diagram for the two-step equation 2x + 3 = 11. The left pan holds two boxes labeled x and three dots; the right pan holds eleven dots. Below, two undoing steps are shown: "subtract 3 from both sides: 2x = 8" then "divide both sides by 2: x = 4." A final check reads "2 × 4 + 3 = 11." Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A person shaped by many surrounding influences</title>
-  <desc id="desc">A central figure is surrounded by six labeled circles — family, peers, media, history, place, and language — each connected by a line. The figure is drawn partly formed, suggesting identity is built in relation to these social and historical forces rather than fixed from birth.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-06-who-told-me-who-i-am desc-L-10-001-06-who-told-me-who-i-am">
+  <title id="title-L-10-001-06-who-told-me-who-i-am">A person shaped by many surrounding influences</title>
+  <desc id="desc-L-10-001-06-who-told-me-who-i-am">A central figure is surrounded by six labeled circles — family, peers, media, history, place, and language — each connected by a line. The figure is drawn partly formed, suggesting identity is built in relation to these social and historical forces rather than fixed from birth.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- surrounding influence circles -->
   <g font-family="Georgia, serif" font-size="15" fill="#2b3a42" text-anchor="middle">
@@ -26,5 +26,5 @@
   <path d="M232 258 L232 242 Q232 234 242 234 L270 234 Q280 234 280 242 L280 258" fill="none" stroke="#7a9e7e" stroke-width="4"/>
   <circle cx="244" cy="214" r="4" fill="#fdfbf7"/>
   <circle cx="268" cy="214" r="4" fill="#fdfbf7"/>
-  <text x="256" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">who I am is built, in part, by the world around me</text>
+  <text x="256" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="18.3" fill="#222222">who I am is built, in part, by the world around me</text>
 </svg>

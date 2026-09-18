@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Place value to thousandths</title>
-  <desc id="desc">A place-value chart with four columns labeled ones, tenths, hundredths, and thousandths. A decimal-point marker sits between the ones and tenths columns. The number 3.456 is shown: digit 3 under ones, 4 under tenths, 5 under hundredths, 6 under thousandths. Below each column a value row reads 3 ones, 4 tenths, 5 hundredths, 6 thousandths. At the bottom an expanded-form line reads 3.456 equals 3 plus 4 tenths plus 5 hundredths plus 6 thousandths. Labels and digits, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-01-reading-writing-decimals desc-L-05-006-01-reading-writing-decimals">
+  <title id="title-L-05-006-01-reading-writing-decimals">Place value to thousandths</title>
+  <desc id="desc-L-05-006-01-reading-writing-decimals">A place-value chart with four columns labeled ones, tenths, hundredths, and thousandths. A decimal-point marker sits between the ones and tenths columns. The number 3.456 is shown: digit 3 under ones, 4 under tenths, 5 under hundredths, 6 under thousandths. Below each column a value row reads 3 ones, 4 tenths, 5 hundredths, 6 thousandths. At the bottom an expanded-form line reads 3.456 equals 3 plus 4 tenths plus 5 hundredths plus 6 thousandths. Labels and digits, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

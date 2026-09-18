@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Who Asks the Questions, Who Benefits</title>
-  <desc id="desc">A flowchart tracing a research question from its funder and question-framer, through who is studied and who is left out, to who benefits and who bears the cost, with a question mark over those excluded.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-006-03-who-asks-who-benefits desc-L-12-006-03-who-asks-who-benefits">
+  <title id="title-L-12-006-03-who-asks-who-benefits">Who Asks the Questions, Who Benefits</title>
+  <desc id="desc-L-12-006-03-who-asks-who-benefits">A flowchart tracing a research question from its funder and question-framer, through who is studied and who is left out, to who benefits and who bears the cost, with a question mark over those excluded.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Tracing a Question: Who Asks, Who Benefits</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21.8" fill="#2b3a42" font-weight="bold">Tracing a Question: Who Asks, Who Benefits</text>
 
   <rect x="156" y="66" width="200" height="46" rx="8" fill="none" stroke="#2b3a42" stroke-width="3"/>
   <text x="256" y="94" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">1. Who asked the question?</text>

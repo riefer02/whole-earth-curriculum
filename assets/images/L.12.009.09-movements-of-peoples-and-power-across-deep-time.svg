@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Movements of Peoples and Power Across Deep Time</title>
-  <desc id="desc">A simplified world map with four labeled arrows of different line styles: "out of Africa, roughly 300,000 years ago"; "Silk Roads and Indian Ocean trade"; "the transatlantic slave trade, forced"; and "modern displacement, chosen and forced." Each arrow is labeled by movement and by whether it was chosen or forced, so it prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-009-09-movements-of-peoples-and-power-across-deep-time desc-L-12-009-09-movements-of-peoples-and-power-across-deep-time">
+  <title id="title-L-12-009-09-movements-of-peoples-and-power-across-deep-time">Movements of Peoples and Power Across Deep Time</title>
+  <desc id="desc-L-12-009-09-movements-of-peoples-and-power-across-deep-time">A simplified world map with four labeled arrows of different line styles: "out of Africa, roughly 300,000 years ago"; "Silk Roads and Indian Ocean trade"; "the transatlantic slave trade, forced"; and "modern displacement, chosen and forced." Each arrow is labeled by movement and by whether it was chosen or forced, so it prints in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42" font-weight="bold">Movements of Peoples Across Deep Time</text>
@@ -33,13 +33,13 @@
   <path d="M130 280 Q200 250 200 210" fill="none" stroke="#2b3a42" stroke-width="4"/>
   <polygon points="200,210 190,214 196,224" fill="#2b3a42"/>
   <text x="110" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">transatlantic slave trade</text>
-  <text x="110" y="286" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">(forced)</text>
+  <text x="110" y="286" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(forced)</text>
 
   <!-- modern displacement -->
   <path d="M300 260 Q380 280 400 340" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-dasharray="4 6"/>
   <polygon points="400,340 388,336 392,350" fill="#7a9e7e"/>
   <text x="380" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">modern displacement</text>
-  <text x="380" y="302" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4f6d7a">(chosen and forced)</text>
+  <text x="380" y="302" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(chosen and forced)</text>
 
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">For each: who moved, why — and who held the power to decide?</text>
   <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Movement is the human story, not an interruption of it.</text>

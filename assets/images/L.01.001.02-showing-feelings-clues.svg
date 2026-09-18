@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Where feelings show: face, body, and voice clues</title>
-  <desc id="desc">Three cards showing the three places a feeling shows, using one feeling (excited) as the example. Card one, "face," shows a smiling face with wide eyes. Card two, "body," shows a figure standing tall with both arms up and small jump lines under the feet. Card three, "voice," shows a speech bubble with the word "Yay!" inside. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale. Skin tones vary across the figures.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-001-02-showing-feelings-clues desc-L-01-001-02-showing-feelings-clues">
+  <title id="title-L-01-001-02-showing-feelings-clues">Where feelings show: face, body, and voice clues</title>
+  <desc id="desc-L-01-001-02-showing-feelings-clues">Three cards showing the three places a feeling shows, using one feeling (excited) as the example. Card one, "face," shows a smiling face with wide eyes. Card two, "body," shows a figure standing tall with both arms up and small jump lines under the feet. Card three, "voice," shows a speech bubble with the word "Yay!" inside. The labels and shapes, not color, carry the meaning so it prints clearly in grayscale. Skin tones vary across the figures.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -63,7 +63,7 @@
     <text x="421" y="180" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Yay!</text>
     <text x="421" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">loud, fast,</text>
     <text x="421" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a happy sound</text>
-    <text x="421" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#e0a458">I hear it in the voice.</text>
+    <text x="421" y="392" text-anchor="middle" font-family="sans-serif" font-size="13.8" font-weight="bold" fill="#e0a458">I hear it in the voice.</text>
   </g>
 
   <!-- Bottom note -->

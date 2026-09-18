@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reading with fluency</title>
-  <desc id="desc">A child reads aloud from a book while a smooth, flowing wave of sound rises from the page. Three punctuation marks — a period, a comma, and a question mark — stand beside the text as signposts for pause and voice. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that fluency means reading smoothly, at a talking pace, with expression that follows the punctuation.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-004-05-reading-with-fluency desc-L-03-004-05-reading-with-fluency">
+  <title id="title-L-03-004-05-reading-with-fluency">Reading with fluency</title>
+  <desc id="desc-L-03-004-05-reading-with-fluency">A child reads aloud from a book while a smooth, flowing wave of sound rises from the page. Three punctuation marks — a period, a comma, and a question mark — stand beside the text as signposts for pause and voice. The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that fluency means reading smoothly, at a talking pace, with expression that follows the punctuation.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -40,6 +40,6 @@
     <text x="452" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">question — rise</text>
   </g>
 
-  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Fluency is smooth, like talking — not racing, and never against anyone.</text>
+  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">Fluency is smooth, like talking — not racing, and never against anyone.</text>
   <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Re-reading a familiar text makes the voice flow.</text>
 </svg>

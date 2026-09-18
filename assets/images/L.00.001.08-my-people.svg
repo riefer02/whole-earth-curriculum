@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My family, my people: many kinds of care</title>
-  <desc id="desc">Four panels showing different kinds of "my people." Panel 1: one grown-up and a child. Panel 2: two grown-ups and a child, one grown-up wearing a hearing aid. Panel 3: an older grown-up with glasses and a cane, and a child. Panel 4: a child standing and a child in a wheelchair. Skin tones, hair, and shirts vary across the figures. The captions and shapes, not color, carry the meaning so it prints clearly in grayscale, and the four panels show that no single household shape is "the" family.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-08-my-people desc-L-00-001-08-my-people">
+  <title id="title-L-00-001-08-my-people">My family, my people: many kinds of care</title>
+  <desc id="desc-L-00-001-08-my-people">Four panels showing different kinds of "my people." Panel 1: one grown-up and a child. Panel 2: two grown-ups and a child, one grown-up wearing a hearing aid. Panel 3: an older grown-up with glasses and a cane, and a child. Panel 4: a child standing and a child in a wheelchair. Skin tones, hair, and shirts vary across the figures. The captions and shapes, not color, carry the meaning so it prints clearly in grayscale, and the four panels show that no single household shape is "the" family.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

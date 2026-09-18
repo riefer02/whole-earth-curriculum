@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Stories real and pretend</title>
-  <desc id="desc">An open storybook with two pages. The left page, labeled "Real story", shows a bird sitting on a fence beside a small sun — things that really happen. The right page, labeled "Pretend story", shows a mouse wearing a tiny coat singing a song, with a music note. A speech bubble from the mouse says "la la la". The two pages are clearly labeled and the drawings differ in what they show, so the picture prints clearly in grayscale and shows that both a true story and a made-up story are worth telling.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-012-04-stories-real-and-pretend desc-L-00-012-04-stories-real-and-pretend">
+  <title id="title-L-00-012-04-stories-real-and-pretend">Stories real and pretend</title>
+  <desc id="desc-L-00-012-04-stories-real-and-pretend">An open storybook with two pages. The left page, labeled "Real story", shows a bird sitting on a fence beside a small sun — things that really happen. The right page, labeled "Pretend story", shows a mouse wearing a tiny coat singing a song, with a music note. A speech bubble from the mouse says "la la la". The two pages are clearly labeled and the drawings differ in what they show, so the picture prints clearly in grayscale and shows that both a true story and a made-up story are worth telling.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <!-- Header -->
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Stories Real and Pretend</text>
-  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Real and pretend stories are both treasures — we listen and</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="15.5" fill="#4f6d7a">Real and pretend stories are both treasures — we listen and</text>
   <text x="256" y="88.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">notice which is which.</text>
 
   <!-- ===== Open book ===== -->

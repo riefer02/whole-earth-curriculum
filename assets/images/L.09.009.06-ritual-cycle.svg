@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Cycle of ritual</title>
-  <desc id="desc">A circular cycle with four steps — gather, remember, perform, renew — each with a small icon, showing how dance, drama, and ritual build community and carry memory through repetition.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-009-06-ritual-cycle desc-L-09-009-06-ritual-cycle">
+  <title id="title-L-09-009-06-ritual-cycle">Cycle of ritual</title>
+  <desc id="desc-L-09-009-06-ritual-cycle">A circular cycle with four steps — gather, remember, perform, renew — each with a small icon, showing how dance, drama, and ritual build community and carry memory through repetition.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" font-family="system-ui, sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">The cycle of ritual</text>
 
@@ -48,16 +48,16 @@
   <text x="106" y="240" font-family="system-ui, sans-serif" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">renew</text>
 
   <!-- arrows between steps -->
-  <path d="M 285 145 A 150 150 0 0 1 381 240" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
-  <path d="M 381 300 A 150 150 0 0 1 285 395" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
-  <path d="M 227 395 A 150 150 0 0 1 131 300" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
-  <path d="M 131 240 A 150 150 0 0 1 227 145" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M 285 145 A 150 150 0 0 1 381 240" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-009-06-ritual-cycle)"/>
+  <path d="M 381 300 A 150 150 0 0 1 285 395" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-009-06-ritual-cycle)"/>
+  <path d="M 227 395 A 150 150 0 0 1 131 300" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-009-06-ritual-cycle)"/>
+  <path d="M 131 240 A 150 150 0 0 1 227 145" fill="none" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arrow-L-09-009-06-ritual-cycle)"/>
 
   <!-- caption -->
   <text x="256" y="478" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">repeated together, a ritual builds belonging and memory</text>
 
   <defs>
-    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+    <marker id="arrow-L-09-009-06-ritual-cycle" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
       <path d="M0,0 L8,4 L0,8 z" fill="#4f6d7a"/>
     </marker>
   </defs>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Probing questions</title>
-  <desc id="desc">Three speech bubbles with question marks, each labeled with a probing question stem: "How do you know?", "What is the evidence?", and "Could it also be...?". A caption reads "Questions that probe for missing support." Meaning is carried by labels and the question-mark shape, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-004-03-probing-questions desc-L-07-004-03-probing-questions">
+  <title id="title-L-07-004-03-probing-questions">Probing questions</title>
+  <desc id="desc-L-07-004-03-probing-questions">Three speech bubbles with question marks, each labeled with a probing question stem: "How do you know?", "What is the evidence?", and "Could it also be...?". A caption reads "Questions that probe for missing support." Meaning is carried by labels and the question-mark shape, not color, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

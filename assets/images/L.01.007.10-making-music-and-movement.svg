@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Making, music, and movement: four ways to make, all one making</title>
-  <desc id="desc">Four panels show the four kinds of making from the unit, laid out like a gallery. The top-left panel, labeled "draw," shows a sheet of paper with a simple sun and house drawn on it, and a crayon beside it. The top-right panel, labeled "sing," shows a face with an open mouth and two music notes floating up. The bottom-left panel, labeled "move," shows a dancer with arms raised and legs apart. The bottom-right panel, labeled "build," shows a stacked block tower. Beneath them, the words "draw + sing + move + build = making" bring all four together, with the note that every piece has a story and making is a voice that matters. Each panel has both a picture and its word, so the meaning never depends on color and the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-007-10-making-music-and-movement desc-L-01-007-10-making-music-and-movement">
+  <title id="title-L-01-007-10-making-music-and-movement">Making, music, and movement: four ways to make, all one making</title>
+  <desc id="desc-L-01-007-10-making-music-and-movement">Four panels show the four kinds of making from the unit, laid out like a gallery. The top-left panel, labeled "draw," shows a sheet of paper with a simple sun and house drawn on it, and a crayon beside it. The top-right panel, labeled "sing," shows a face with an open mouth and two music notes floating up. The bottom-left panel, labeled "move," shows a dancer with arms raised and legs apart. The bottom-right panel, labeled "build," shows a stacked block tower. Beneath them, the words "draw + sing + move + build = making" bring all four together, with the note that every piece has a story and making is a voice that matters. Each panel has both a picture and its word, so the meaning never depends on color and the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -72,5 +72,5 @@
 
   <!-- ===== Bottom banner ===== -->
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">draw + sing + move + build = making</text>
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every piece has a story — making is a voice, and every voice matters.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">Every piece has a story — making is a voice, and every voice matters.</text>
 </svg>

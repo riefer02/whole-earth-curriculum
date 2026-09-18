@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What does government do?</title>
-  <desc id="desc">A diagram with "government" in a center circle and four branches radiating outward, each with a labeled icon: "make rules and laws" (a signpost), "provide services" (a water tap), "settle disputes" (two figures shaking hands), and "protect people and rights" (a shield). Labels, icons, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-011-06-what-is-government desc-L-05-011-06-what-is-government">
+  <title id="title-L-05-011-06-what-is-government">What does government do?</title>
+  <desc id="desc-L-05-011-06-what-is-government">A diagram with "government" in a center circle and four branches radiating outward, each with a labeled icon: "make rules and laws" (a signpost), "provide services" (a water tap), "settle disputes" (two figures shaking hands), and "protect people and rights" (a shield). Labels, icons, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -50,6 +50,6 @@
   <text x="80" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">protect people</text>
   <text x="80" y="312" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">and rights</text>
 
-  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Governments take many forms around the world &#8212; there is no</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#2b3a42">Governments take many forms around the world &#8212; there is no</text>
   <text x="256" y="504.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">single model.</text>
 </svg>

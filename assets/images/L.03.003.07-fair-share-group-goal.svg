@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Fair share, group goal</title>
-  <desc id="desc">A group of four children building one tall block tower together. Each child has a labeled job — one hands blocks, one stacks, one steadies the base, one checks the plan. A jobs chart beside them lists each name and part, with the words "everyone contributes; no one does everything; no one does nothing." The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-003-07-fair-share-group-goal desc-L-03-003-07-fair-share-group-goal">
+  <title id="title-L-03-003-07-fair-share-group-goal">Fair share, group goal</title>
+  <desc id="desc-L-03-003-07-fair-share-group-goal">A group of four children building one tall block tower together. Each child has a labeled job — one hands blocks, one stacks, one steadies the base, one checks the plan. A jobs chart beside them lists each name and part, with the words "everyone contributes; no one does everything; no one does nothing." The words and shapes carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -56,7 +56,7 @@
   <text x="376" y="286" font-family="sans-serif" font-size="12" fill="#7a9e7e">everyone has</text>
   <text x="376" y="302" font-family="sans-serif" font-size="12" fill="#7a9e7e">a real part</text>
 
-  <text x="256" y="380.7" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Everyone contributes; no one does everything; no one</text>
+  <text x="256" y="380.7" text-anchor="middle" font-family="sans-serif" font-size="17.6" font-weight="bold" fill="#2b3a42">Everyone contributes; no one does everything; no one</text>
   <text x="256" y="404.1" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">does nothing.</text>
   <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A group reaches its goal when everyone carries a fair part.</text>
 </svg>

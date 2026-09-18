@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Sorting shapes by their attributes</title>
-  <desc id="desc">Three sorting rings. The first holds a triangle and a smaller triangle, labeled three sides. The second holds a square and a rectangle, labeled four sides. The third holds a pentagon and a hexagon, labeled five or more sides. A note says the rule decides the pile.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-005-12-sorting-shapes desc-L-03-005-12-sorting-shapes">
+  <title id="title-L-03-005-12-sorting-shapes">Sorting shapes by their attributes</title>
+  <desc id="desc-L-03-005-12-sorting-shapes">Three sorting rings. The first holds a triangle and a smaller triangle, labeled three sides. The second holds a square and a rectangle, labeled four sides. The third holds a pentagon and a hexagon, labeled five or more sides. A note says the rule decides the pile.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

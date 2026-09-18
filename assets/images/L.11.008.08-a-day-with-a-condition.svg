@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A day with a chronic condition</title>
-  <desc id="desc">A timeline of one day, from morning through noon to night, showing the extra steps a chronic condition can add — taking medicine, pacing activity, resting, monitoring, and planning energy. A caption notes these steps belong to the person, not to the condition. Labels and shapes carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-008-08-a-day-with-a-condition desc-L-11-008-08-a-day-with-a-condition">
+  <title id="title-L-11-008-08-a-day-with-a-condition">A day with a chronic condition</title>
+  <desc id="desc-L-11-008-08-a-day-with-a-condition">A timeline of one day, from morning through noon to night, showing the extra steps a chronic condition can add — taking medicine, pacing activity, resting, monitoring, and planning energy. A caption notes these steps belong to the person, not to the condition. Labels and shapes carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -63,5 +63,5 @@
   <text x="256" y="354" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">A condition adds steps to a day — but it does not define the day,</text>
   <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and it never defines the person.</text>
 
-  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Support that respects this day is support designed with the person who lives it.</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Support that respects this day is support designed with the person who lives it.</text>
 </svg>

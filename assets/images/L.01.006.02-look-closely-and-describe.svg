@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Looking closely at a leaf through a magnifier</title>
-  <desc id="desc">A big round magnifying glass held over a leaf. Inside the lens the leaf shows its details: a middle vein and small side veins. Three labeled callouts on the right point to what a scientist names — color, shape, and veins. Labels and shapes, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-006-02-look-closely-and-describe desc-L-01-006-02-look-closely-and-describe">
+  <title id="title-L-01-006-02-look-closely-and-describe">Looking closely at a leaf through a magnifier</title>
+  <desc id="desc-L-01-006-02-look-closely-and-describe">A big round magnifying glass held over a leaf. Inside the lens the leaf shows its details: a middle vein and small side veins. Three labeled callouts on the right point to what a scientist names — color, shape, and veins. Labels and shapes, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

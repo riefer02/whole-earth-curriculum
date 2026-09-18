@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 470" role="img" aria-labelledby="title desc">
-  <title id="title">Standing up, helping one another</title>
-  <desc id="desc">A three-panel strip titled "Standing up, helping one another." The left panel, "Salt March — India, 1930," shows a long line of walkers moving toward the sea, with a small sign reading "make our own salt." The middle panel, "Aba Women's War — Nigeria, 1929," shows women gathered together, holding hands in a ring. The right panel, "Wave Hill walk-off — Australia, 1966," shows stockworkers walking away from a station, carrying a few belongings, heads held high. A caption reads "People who are treated unfairly can resist peacefully and help one another." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 470" role="img" aria-labelledby="title-L-05-010-08-standing-up desc-L-05-010-08-standing-up">
+  <title id="title-L-05-010-08-standing-up">Standing up, helping one another</title>
+  <desc id="desc-L-05-010-08-standing-up">A three-panel strip titled "Standing up, helping one another." The left panel, "Salt March — India, 1930," shows a long line of walkers moving toward the sea, with a small sign reading "make our own salt." The middle panel, "Aba Women's War — Nigeria, 1929," shows women gathered together, holding hands in a ring. The right panel, "Wave Hill walk-off — Australia, 1966," shows stockworkers walking away from a station, carrying a few belongings, heads held high. A caption reads "People who are treated unfairly can resist peacefully and help one another." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="470" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Standing Up, Helping One Another</text>
@@ -82,5 +82,5 @@
   <text x="416" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">walked off for fair pay</text>
   <text x="416" y="378" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">and their own land</text>
 
-  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">People who are treated unfairly can resist peacefully and help one another.</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#2b3a42">People who are treated unfairly can resist peacefully and help one another.</text>
 </svg>

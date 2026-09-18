@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Evidence versus belief</title>
-  <desc id="desc">A two-column diagram. The left column, labeled evidence, shows a claim with a test and a checkmark plus a second source, marked verifiable. The right column, labeled belief or value, shows a held conviction marked not a claim about the world, but a value I hold. A middle band asks what to do when they conflict.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-004-07-evidence-vs-belief desc-L-10-004-07-evidence-vs-belief">
+  <title id="title-L-10-004-07-evidence-vs-belief">Evidence versus belief</title>
+  <desc id="desc-L-10-004-07-evidence-vs-belief">A two-column diagram. The left column, labeled evidence, shows a claim with a test and a checkmark plus a second source, marked verifiable. The right column, labeled belief or value, shows a held conviction marked not a claim about the world, but a value I hold. A middle band asks what to do when they conflict.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Evidence and Belief — Two Kinds of Thought</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21.8" font-weight="bold" fill="#2b3a42">Evidence and Belief — Two Kinds of Thought</text>
 
   <!-- Evidence column -->
   <rect x="28" y="64" width="222" height="300" rx="12" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>

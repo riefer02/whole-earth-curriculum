@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Two ways to show one feeling, neither is the default</title>
-  <desc id="desc">Two panels side by side. The left panel shows a group of people wailing and embracing openly at a loss, labeled "one way: grief shared aloud." The right panel shows a single seated figure with a still face and folded hands, labeled "another way: grief held quietly." A large equals sign sits between the panels, and a caption below reads "Two norms, both real — neither is the default." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-001-04-no-default desc-L-07-001-04-no-default">
+  <title id="title-L-07-001-04-no-default">Two ways to show one feeling, neither is the default</title>
+  <desc id="desc-L-07-001-04-no-default">Two panels side by side. The left panel shows a group of people wailing and embracing openly at a loss, labeled "one way: grief shared aloud." The right panel shows a single seated figure with a still face and folded hands, labeled "another way: grief held quietly." A large equals sign sits between the panels, and a caption below reads "Two norms, both real — neither is the default." Meaning is carried by labels and shapes, not color, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -11,7 +11,7 @@
   <!-- Left panel: grief shared aloud -->
   <g>
     <rect x="24" y="70" width="196" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="122" y="96" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">one way: grief shared aloud</text>
+    <text x="122" y="96" text-anchor="middle" font-family="sans-serif" font-size="15.9" font-weight="bold" fill="#4f6d7a">one way: grief shared aloud</text>
     <!-- three figures, arms raised, embracing -->
     <!-- figure 1 -->
     <circle cx="86" cy="180" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
@@ -41,7 +41,7 @@
   <!-- Right panel: grief held quietly -->
   <g>
     <rect x="292" y="70" width="196" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="390" y="96" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">another way: grief held quietly</text>
+    <text x="390" y="96" text-anchor="middle" font-family="sans-serif" font-size="13.8" font-weight="bold" fill="#4f6d7a">another way: grief held quietly</text>
     <!-- single seated figure, still face, folded hands -->
     <circle cx="390" cy="196" r="34" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
     <path d="M378 190 L384 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>

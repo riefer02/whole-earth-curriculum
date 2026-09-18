@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Respect others' boundaries</title>
-  <desc id="desc">A three-step diagram titled "respect others' boundaries." Step 1, "ask first," shows one child speaking to another with a question mark. Step 2, "listen to words and body cues," shows an ear and an eye. Step 3, "respect the answer," shows the second child saying "no, thank you" and the first replying "okay!" with a smile. A bottom caption reads "A 'no' is a full answer." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-009-08-respecting-boundaries desc-L-05-009-08-respecting-boundaries">
+  <title id="title-L-05-009-08-respecting-boundaries">Respect others' boundaries</title>
+  <desc id="desc-L-05-009-08-respecting-boundaries">A three-step diagram titled "respect others' boundaries." Step 1, "ask first," shows one child speaking to another with a question mark. Step 2, "listen to words and body cues," shows an ear and an eye. Step 3, "respect the answer," shows the second child saying "no, thank you" and the first replying "okay!" with a smile. A bottom caption reads "A 'no' is a full answer." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -44,8 +44,8 @@
   <text x="417" y="266" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">3 · respect the answer</text>
 
   <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">A "no" is a full answer.</text>
-  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">You say "Okay!" — and truly stop. No arguing, no pushing, no pouting.</text>
+  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">You say "Okay!" — and truly stop. No arguing, no pushing, no pouting.</text>
 
-  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Respecting boundaries honors the dignity of every person.</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="16.1" font-weight="bold" fill="#222222">Respecting boundaries honors the dignity of every person.</text>
   <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Just as your body is yours, everyone else's body is theirs.</text>
 </svg>

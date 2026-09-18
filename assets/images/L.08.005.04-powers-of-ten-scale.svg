@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Scientific notation: powers of ten</title>
-  <desc id="desc">A vertical scale of powers of ten. From top to bottom: a galaxy about 10 to the 21 metres, the distance to the Sun 1.5 times 10 to the 8 kilometres, a human about 10 to the 0 metres, a cell about 2 times 10 to the negative 5 metres, and a virus about 10 to the negative 7 metres. Each has its scientific notation labeled, showing the exponent carries the size. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-005-04-powers-of-ten-scale desc-L-08-005-04-powers-of-ten-scale">
+  <title id="title-L-08-005-04-powers-of-ten-scale">Scientific notation: powers of ten</title>
+  <desc id="desc-L-08-005-04-powers-of-ten-scale">A vertical scale of powers of ten. From top to bottom: a galaxy about 10 to the 21 metres, the distance to the Sun 1.5 times 10 to the 8 kilometres, a human about 10 to the 0 metres, a cell about 2 times 10 to the negative 5 metres, and a virus about 10 to the negative 7 metres. Each has its scientific notation labeled, showing the exponent carries the size. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Powers of Ten: Very Large and Very Small</text>

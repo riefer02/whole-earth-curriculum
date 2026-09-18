@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A phone screen like a warped mirror</title>
-  <desc id="desc">A hand holds a phone whose screen reflects a polished, filtered, smiling version of the person back at them, while the real figure beside it looks ordinary and calm — showing how curated online images can skew self-comparison.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-03-mirror-in-my-pocket desc-L-10-001-03-mirror-in-my-pocket">
+  <title id="title-L-10-001-03-mirror-in-my-pocket">A phone screen like a warped mirror</title>
+  <desc id="desc-L-10-001-03-mirror-in-my-pocket">A hand holds a phone whose screen reflects a polished, filtered, smiling version of the person back at them, while the real figure beside it looks ordinary and calm — showing how curated online images can skew self-comparison.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- real figure, left -->
   <circle cx="150" cy="160" r="34" fill="#c68a5a"/>

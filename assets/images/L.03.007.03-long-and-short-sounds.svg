@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Long and short sounds: a rhythm pattern</title>
-  <desc id="desc">A rhythm pattern is shown as a row of symbols: a long rectangle, a long rectangle, a small dot, a small dot, and a long rectangle, with the words "long long short short long" written beneath. A key above explains that a long rectangle means a held sound like "ahhh" and a small dot means a quick sound like "ta." Labels and symbol shapes carry all meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-007-03-long-and-short-sounds desc-L-03-007-03-long-and-short-sounds">
+  <title id="title-L-03-007-03-long-and-short-sounds">Long and short sounds: a rhythm pattern</title>
+  <desc id="desc-L-03-007-03-long-and-short-sounds">A rhythm pattern is shown as a row of symbols: a long rectangle, a long rectangle, a small dot, a small dot, and a long rectangle, with the words "long long short short long" written beneath. A key above explains that a long rectangle means a held sound like "ahhh" and a small dot means a quick sound like "ta." Labels and symbol shapes carry all meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

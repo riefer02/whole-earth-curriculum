@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Cause and feeling: what made me feel that way?</title>
-  <desc id="desc">A detective-style chart that links a situation to the feeling it causes. Three rows each show a situation icon on the left, an arrow in the middle, and a feeling face on the right. Row one: a gift box with a bow leads to an excited face. Row two: a lost teddy bear leads to a sad face. Row three: a new friend (two small figures) leads to a happy face. A magnifying glass in the corner stands for the "detective" hunt for the cause. Labels and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-001-04-cause-and-feeling desc-L-01-001-04-cause-and-feeling">
+  <title id="title-L-01-001-04-cause-and-feeling">Cause and feeling: what made me feel that way?</title>
+  <desc id="desc-L-01-001-04-cause-and-feeling">A detective-style chart that links a situation to the feeling it causes. Three rows each show a situation icon on the left, an arrow in the middle, and a feeling face on the right. Row one: a gift box with a bow leads to an excited face. Row two: a lost teddy bear leads to a sad face. Row three: a new friend (two small figures) leads to a happy face. A magnifying glass in the corner stands for the "detective" hunt for the cause. Labels and shapes, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

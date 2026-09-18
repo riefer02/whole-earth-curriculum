@@ -48,6 +48,6 @@
     <text x="120" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">offline: body cues, one place,</text>
     <text x="120" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">small and local, happens now</text>
     <text x="392" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">online: no body cues, many</text>
-    <text x="392" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">places, large and far, can last</text>
+    <text x="392" y="444" text-anchor="middle" font-family="sans-serif" font-size="13.6" fill="#4f6d7a">places, large and far, can last</text>
   </g>
 </svg>

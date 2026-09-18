@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Day and night: the Earth turns</title>
-  <desc id="desc">A diagram of the Earth as a ball with one side in light labeled day and the other in dark labeled night, while the Sun shines from the left. A curved arrow shows the Earth turning. Below, three cards show the Sun (seen in the day), the Moon (which changes shape), and stars (seen at night). Words and shapes, not color alone, carry the meaning, so it prints clearly in grayscale. The diagram shows the Earth turning, so the Sun only seems to rise and set.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-006-08-sun-moon-and-stars desc-L-01-006-08-sun-moon-and-stars">
+  <title id="title-L-01-006-08-sun-moon-and-stars">Day and night: the Earth turns</title>
+  <desc id="desc-L-01-006-08-sun-moon-and-stars">A diagram of the Earth as a ball with one side in light labeled day and the other in dark labeled night, while the Sun shines from the left. A curved arrow shows the Earth turning. Below, three cards show the Sun (seen in the day), the Moon (which changes shape), and stars (seen at night). Words and shapes, not color alone, carry the meaning, so it prints clearly in grayscale. The diagram shows the Earth turning, so the Sun only seems to rise and set.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
@@ -89,5 +89,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">People everywhere have looked up and wondered — and told stories.</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">People everywhere have looked up and wondered — and told stories.</text>
 </svg>

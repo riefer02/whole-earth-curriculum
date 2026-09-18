@@ -2,7 +2,7 @@
   <title id="t">The benefits and harms of a technology land in different places</title>
   <desc id="d">A phone at the center with two arrows. The left arrow points to a box labeled "benefits: connection, information, work — often near the buyer." The right arrow points to a box labeled "harms: mining, waste, low pay — often far from the buyer." The diagram shows that costs and benefits are distributed unevenly.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">One product, two very different footprints</text>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="21.8" font-weight="bold" fill="#222222">One product, two very different footprints</text>
 
   <!-- central phone -->
   <rect x="216" y="216" width="80" height="140" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>

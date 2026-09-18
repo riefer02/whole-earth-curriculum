@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Unequal access to clean water</title>
-  <desc id="desc">Two side-by-side panels. The left panel shows a neighborhood with clean water flowing from a tap into a bucket, labeled "who benefits." The right panel shows a person carrying a bucket from a polluted stream beside a factory, labeled "who is affected." Drawn simply for grayscale printing.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-010-04-seeing-injustice desc-L-07-010-04-seeing-injustice">
+  <title id="title-L-07-010-04-seeing-injustice">Unequal access to clean water</title>
+  <desc id="desc-L-07-010-04-seeing-injustice">Two side-by-side panels. The left panel shows a neighborhood with clean water flowing from a tap into a bucket, labeled "who benefits." The right panel shows a person carrying a bucket from a polluted stream beside a factory, labeled "who is affected." Drawn simply for grayscale printing.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -33,5 +33,5 @@
   <text x="379" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">who is affected</text>
   <text x="379" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">fetching from a stream</text>
 
-  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">One has a clean tap; the other carries water from a polluted stream.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">One has a clean tap; the other carries water from a polluted stream.</text>
 </svg>

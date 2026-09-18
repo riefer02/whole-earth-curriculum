@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
-  <title id="title">The same sun, shown differently</title>
-  <desc id="desc">A two-panel comparison titled "The same sun, shown differently." The left panel, labeled "ancient Egypt — a winged sun disk," shows a circle with outstretched wings and small rays, with labels "a circle with wings — the sun god's protection," "gold and pigment on temple stone," and "a divine power to honor." The right panel, labeled "Japan — an Edo woodblock sun," shows a flat red disc low in a landscape of waves and a mountain, with labels "a flat red disc — simple and symbolic," "ink and color printed on paper," and "part of the land, for many homes to see." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title-L-06-007-02-same-sun-two-ways desc-L-06-007-02-same-sun-two-ways">
+  <title id="title-L-06-007-02-same-sun-two-ways">The same sun, shown differently</title>
+  <desc id="desc-L-06-007-02-same-sun-two-ways">A two-panel comparison titled "The same sun, shown differently." The left panel, labeled "ancient Egypt — a winged sun disk," shows a circle with outstretched wings and small rays, with labels "a circle with wings — the sun god's protection," "gold and pigment on temple stone," and "a divine power to honor." The right panel, labeled "Japan — an Edo woodblock sun," shows a flat red disc low in a landscape of waves and a mountain, with labels "a flat red disc — simple and symbolic," "ink and color printed on paper," and "part of the land, for many homes to see." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="560" fill="#fdfbf7"/>
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Same Sun, Shown Differently</text>
@@ -57,9 +57,9 @@
   <!-- mountain -->
   <path d="M320 430 L376 350 L432 430 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="288" y="462" font-family="sans-serif" font-size="13" fill="#2b3a42">a flat red disc — simple and symbolic</text>
+  <text x="288" y="462" font-family="sans-serif" font-size="12" fill="#2b3a42">a flat red disc — simple and symbolic</text>
   <text x="288" y="480" font-family="sans-serif" font-size="13" fill="#2b3a42">ink and color printed on paper</text>
-  <text x="288" y="497.6" font-family="sans-serif" font-size="10.3" fill="#2b3a42">part of the land, for many homes to see</text>
+  <text x="288" y="497.6" font-family="sans-serif" font-size="11" fill="#2b3a42">part of the land, for many homes to see</text>
 
   <text x="256" y="548" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">each image is true to its own place and time</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A feeling spreading through a network</title>
-  <desc id="desc">A network of connected face nodes. One face in the center shows an emotion, and dashed waves ripple outward to the surrounding faces, which begin to show the same emotion — a picture of emotional contagion, how feelings spread person to person, online and offline.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-05-feelings-go-viral desc-L-10-001-05-feelings-go-viral">
+  <title id="title-L-10-001-05-feelings-go-viral">A feeling spreading through a network</title>
+  <desc id="desc-L-10-001-05-feelings-go-viral">A network of connected face nodes. One face in the center shows an emotion, and dashed waves ripple outward to the surrounding faces, which begin to show the same emotion — a picture of emotional contagion, how feelings spread person to person, online and offline.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- connecting lines -->
   <path d="M256 150 L136 96 M256 150 L376 96 M256 150 L96 220 M256 150 L416 220 M256 150 L120 340 M256 150 L392 340 M256 150 L256 392" stroke="#4f6d7a" stroke-width="2.5"/>

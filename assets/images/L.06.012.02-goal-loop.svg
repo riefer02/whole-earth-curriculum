@@ -2,7 +2,7 @@
   <title id="t">My goal loop</title>
   <desc id="d">A four-step cycle diagram. The top box reads "Set a goal." An arrow leads right to a box reading "Try it and track." An arrow leads down to a box reading "Reflect: what worked?" An arrow leads left to a box reading "Adjust and try again," and an arrow leads back up to "Set a goal." In the center is the italic text "my short-term goal." A caption reads "Reflect, adjust, and carry it into Grade 7." Shapes and labels, not color alone, carry the meaning.</desc>
   <defs>
-    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <marker id="arr-L-06-012-02-goal-loop" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
       <path d="M0 0 L10 5 L0 10 z" fill="#4f6d7a"/>
     </marker>
   </defs>
@@ -11,7 +11,7 @@
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">My Goal Loop</text>
 
   <!-- cycle arrows -->
-  <g stroke="#4f6d7a" stroke-width="2.5" fill="none" marker-end="url(#arr)">
+  <g stroke="#4f6d7a" stroke-width="2.5" fill="none" marker-end="url(#arr-L-06-012-02-goal-loop)">
     <path d="M322 148 C 362 154, 368 184, 364 206"/>
     <path d="M366 268 C 370 288, 360 308, 328 330"/>
     <path d="M186 334 C 156 326, 148 296, 152 266"/>

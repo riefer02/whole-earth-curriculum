@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Personal history flowing into a present feeling</title>
-  <desc id="desc">A figure in the present stands on the right. Three small past-scene panels on the left — a home, two friends, and a departure with a suitcase — are linked by dashed lines to a heart in the figure's chest, showing how past experience shapes a present feeling.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-001-01-history-under-my-feelings desc-L-10-001-01-history-under-my-feelings">
+  <title id="title-L-10-001-01-history-under-my-feelings">Personal history flowing into a present feeling</title>
+  <desc id="desc-L-10-001-01-history-under-my-feelings">A figure in the present stands on the right. Three small past-scene panels on the left — a home, two friends, and a departure with a suitcase — are linked by dashed lines to a heart in the figure's chest, showing how past experience shapes a present feeling.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- past scene panels -->
   <rect x="28" y="46" width="128" height="104" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>

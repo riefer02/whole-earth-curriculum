@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 470" role="img" aria-labelledby="title desc">
-  <title id="title">Solar and lunar eclipses</title>
-  <desc id="desc">An eclipse diagram with two panels, labeled not to scale. The top panel shows a solar eclipse: the Sun on the left, the Moon in the middle directly between the Sun and Earth, and Earth on the right, with the Moon's shadow cone narrowing to a small spot on Earth. A label reads: the Moon's shadow falls on Earth — solar eclipse (new moon). The bottom panel shows a lunar eclipse: the Sun on the left, Earth in the middle, and the Moon on the right, with Earth's shadow cone widening to cover the Moon. A label reads: Earth's shadow falls on the Moon — lunar eclipse (full moon). Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 470" role="img" aria-labelledby="title-L-05-007-09-eclipses desc-L-05-007-09-eclipses">
+  <title id="title-L-05-007-09-eclipses">Solar and lunar eclipses</title>
+  <desc id="desc-L-05-007-09-eclipses">An eclipse diagram with two panels, labeled not to scale. The top panel shows a solar eclipse: the Sun on the left, the Moon in the middle directly between the Sun and Earth, and Earth on the right, with the Moon's shadow cone narrowing to a small spot on Earth. A label reads: the Moon's shadow falls on Earth — solar eclipse (new moon). The bottom panel shows a lunar eclipse: the Sun on the left, Earth in the middle, and the Moon on the right, with Earth's shadow cone widening to cover the Moon. A label reads: Earth's shadow falls on the Moon — lunar eclipse (full moon). Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="470" fill="#fdfbf7"/>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Three ways colonization reshaped the world</title>
-  <desc id="desc">Three columns show how colonization reshaped populations (epidemic and displacement), environments (extraction and introduced species), and borders (straight lines drawn across peoples' lands). Each has a short example. Grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-009-07-colonization-reshaped-the-world desc-L-10-009-07-colonization-reshaped-the-world">
+  <title id="title-L-10-009-07-colonization-reshaped-the-world">Three ways colonization reshaped the world</title>
+  <desc id="desc-L-10-009-07-colonization-reshaped-the-world">Three columns show how colonization reshaped populations (epidemic and displacement), environments (extraction and introduced species), and borders (straight lines drawn across peoples' lands). Each has a short example. Grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">What colonization reshaped</text>
   <!-- Populations -->

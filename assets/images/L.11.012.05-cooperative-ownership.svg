@@ -14,11 +14,11 @@
   <!-- shared items on the table -->
   <rect x="196" y="272" width="40" height="30" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <path d="M208 272 v-12 h16 v12" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="216" y="292" text-anchor="middle" font-size="9" fill="#222222">shop</text>
+  <text x="216" y="292" text-anchor="middle" font-size="11" fill="#222222">shop</text>
   <path d="M268 272 q8 -14 26 -12 q14 2 14 12 h-40" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="290" y="290" text-anchor="middle" font-size="9" fill="#222222">farm</text>
+  <text x="290" y="290" text-anchor="middle" font-size="11" fill="#222222">farm</text>
   <rect x="326" y="274" width="26" height="26" rx="3" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-  <text x="339" y="291" text-anchor="middle" font-size="9" fill="#222222">bank</text>
+  <text x="339" y="291" text-anchor="middle" font-size="11" fill="#222222">bank</text>
   <!-- six people around the table -->
   <g>
     <circle cx="256" cy="196" r="14" fill="#c98a6b" stroke="#2b3a42" stroke-width="2"/>

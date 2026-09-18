@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">What add and subtract mean: joining and taking away</title>
-  <desc id="desc">Two side-by-side panels. The left panel is labeled joining, or add: three ducks sit on a pond while two more fly in along a dashed arrow, with the sentence 3 + 2 = 5 and the note that they come together and the group grows. The right panel is labeled taking away, or subtract: two ducks remain on a pond while three fly away along a dashed arrow, with the sentence 5 - 3 = 2 and the note that some leave and the group shrinks. Numbers, labels, and arrows carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-005-06-join-or-take-away desc-L-01-005-06-join-or-take-away">
+  <title id="title-L-01-005-06-join-or-take-away">What add and subtract mean: joining and taking away</title>
+  <desc id="desc-L-01-005-06-join-or-take-away">Two side-by-side panels. The left panel is labeled joining, or add: three ducks sit on a pond while two more fly in along a dashed arrow, with the sentence 3 + 2 = 5 and the note that they come together and the group grows. The right panel is labeled taking away, or subtract: two ducks remain on a pond while three fly away along a dashed arrow, with the sentence 5 - 3 = 2 and the note that some leave and the group shrinks. Numbers, labels, and arrows carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -63,5 +63,5 @@
   <text x="375" y="346" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Some leave &#8212;</text>
   <text x="375" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the group shrinks.</text>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Tell the story in your own words &#8212; every clear way is right.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">Tell the story in your own words &#8212; every clear way is right.</text>
 </svg>

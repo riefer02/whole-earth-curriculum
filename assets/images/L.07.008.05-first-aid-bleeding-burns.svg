@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Basic first aid for bleeding and burns</title>
-  <desc id="desc">Two panels of first-aid steps. The left panel, Bleeding, shows three numbered steps with icons: cover the cut with a clean cloth, press firmly and keep pressing, and get adult or medical help if bleeding is heavy or will not stop. The right panel, Burns, shows three numbered steps: cool under cool running water not ice, remove tight items like rings, and get adult or medical help for large deep burns or burns to the face, hands, or feet. The final step of each panel is emphasized in a green box.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-008-05-first-aid-bleeding-burns desc-L-07-008-05-first-aid-bleeding-burns">
+  <title id="title-L-07-008-05-first-aid-bleeding-burns">Basic first aid for bleeding and burns</title>
+  <desc id="desc-L-07-008-05-first-aid-bleeding-burns">Two panels of first-aid steps. The left panel, Bleeding, shows three numbered steps with icons: cover the cut with a clean cloth, press firmly and keep pressing, and get adult or medical help if bleeding is heavy or will not stop. The right panel, Burns, shows three numbered steps: cool under cool running water not ice, remove tight items like rings, and get adult or medical help for large deep burns or burns to the face, hands, or feet. The final step of each panel is emphasized in a green box.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Basic first aid</text>
@@ -69,8 +69,8 @@
     <text x="296" y="228" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff">2</text>
     <path d="M334 210 Q350 200 368 206 L376 226 Q356 232 340 226 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="352" cy="216" r="7" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <text x="398" y="220" font-family="sans-serif" font-size="13" fill="#2b3a42">Remove tight items</text>
-    <text x="398" y="236" font-family="sans-serif" font-size="13" fill="#2b3a42">(rings, bracelets)</text>
+    <text x="398" y="220" font-family="sans-serif" font-size="12" fill="#2b3a42">Remove tight items</text>
+    <text x="398" y="236" font-family="sans-serif" font-size="12" fill="#2b3a42">(rings, bracelets)</text>
   </g>
 
   <!-- step 3 emphasized -->

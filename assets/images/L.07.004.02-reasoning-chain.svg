@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The reasoning chain: claim, reason, evidence</title>
-  <desc id="desc">Three paper-chain links labeled "claim," "reason," and "evidence," joined in a row. The middle link is shown broken into two halves with a gap, and a caption reads "A broken link is a gap in the reasoning." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-004-02-reasoning-chain desc-L-07-004-02-reasoning-chain">
+  <title id="title-L-07-004-02-reasoning-chain">The reasoning chain: claim, reason, evidence</title>
+  <desc id="desc-L-07-004-02-reasoning-chain">Three paper-chain links labeled "claim," "reason," and "evidence," joined in a row. The middle link is shown broken into two halves with a gap, and a caption reads "A broken link is a gap in the reasoning." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My day of food and drink</title>
-  <desc id="desc">A worksheet-style diagram titled "my day of food and drink." Four boxes labeled morning, midday, afternoon, and evening, plus a row labeled drinks. Inside are example foods from several regions — rice and beans, flatbread and vegetables, fruit, soup, nuts, and a cup of water — drawn simply, with space to add your own. A caption reads "Record what you actually eat and drink — with curiosity, never judgment." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-008-03-day-of-food-drink desc-L-06-008-03-day-of-food-drink">
+  <title id="title-L-06-008-03-day-of-food-drink">My day of food and drink</title>
+  <desc id="desc-L-06-008-03-day-of-food-drink">A worksheet-style diagram titled "my day of food and drink." Four boxes labeled morning, midday, afternoon, and evening, plus a row labeled drinks. Inside are example foods from several regions — rice and beans, flatbread and vegetables, fruit, soup, nuts, and a cup of water — drawn simply, with space to add your own. A caption reads "Record what you actually eat and drink — with curiosity, never judgment." Labels, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -59,6 +59,6 @@
   <path d="M290 428 Q306 414 322 428 Q306 440 290 428 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <text x="306" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">tea</text>
 
-  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Record what you actually eat and drink — with curiosity, never</text>
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#2b3a42">Record what you actually eat and drink — with curiosity, never</text>
   <text x="256" y="504.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">judgment.</text>
 </svg>

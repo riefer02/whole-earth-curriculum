@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Helping Helps Everyone: the helping web</title>
-  <desc id="desc">Five children stand around a circle, each holding one point of a yarn web that connects them all, with arrows flowing both ways to show that help is given and received. In the center, a small plant grows and is watered by many hands reaching in. A label below reads "when I help, it comes back to everyone — including me." The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-003-08-helping-helps-everyone desc-L-02-003-08-helping-helps-everyone">
+  <title id="title-L-02-003-08-helping-helps-everyone">Helping Helps Everyone: the helping web</title>
+  <desc id="desc-L-02-003-08-helping-helps-everyone">Five children stand around a circle, each holding one point of a yarn web that connects them all, with arrows flowing both ways to show that help is given and received. In the center, a small plant grows and is watered by many hands reaching in. A label below reads "when I help, it comes back to everyone — including me." The written words carry the meaning, not color, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -92,7 +92,7 @@
 
   <!-- Bottom band -->
   <rect x="44" y="404" width="424" height="48" rx="12" fill="#2b3a42"/>
-  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#fdfbf7">when I help, it comes back to everyone — including me</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="17.3" font-weight="bold" fill="#fdfbf7">when I help, it comes back to everyone — including me</text>
 
   <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">In a helping web, everyone is held — and everyone is helped.</text>
 </svg>

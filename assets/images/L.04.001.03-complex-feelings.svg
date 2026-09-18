@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Three complex feelings: jealousy, guilt, pride</title>
-  <desc id="desc">Three labeled cards in a row. The first, "jealousy," shows a face with down-turned brows looking sideways at a star someone else holds, with the caption "I want what someone else has." The second, "guilt," shows a face with a frown and a heavy heart below, captioned "I wish I hadn't done that." The third, "pride," shows a face with a soft smile and a sparkle above, captioned "I did something hard." Shape and labels, not color, carry the meaning.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-001-03-complex-feelings desc-L-04-001-03-complex-feelings">
+  <title id="title-L-04-001-03-complex-feelings">Three complex feelings: jealousy, guilt, pride</title>
+  <desc id="desc-L-04-001-03-complex-feelings">Three labeled cards in a row. The first, "jealousy," shows a face with down-turned brows looking sideways at a star someone else holds, with the caption "I want what someone else has." The second, "guilt," shows a face with a frown and a heavy heart below, captioned "I wish I hadn't done that." The third, "pride," shows a face with a soft smile and a sparkle above, captioned "I did something hard." Shape and labels, not color, carry the meaning.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -54,5 +54,5 @@
     <text x="420" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">hard.</text>
   </g>
 
-  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42">Complex feelings point to what I care about.</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="20.8" fill="#2b3a42">Complex feelings point to what I care about.</text>
 </svg>

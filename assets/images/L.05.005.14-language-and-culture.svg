@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Words carry culture</title>
-  <desc id="desc">A three-row chart titled "words carry culture." Row one, "family," shows the Hindi words "चाचा" (father's younger brother) and "मामा" (mother's brother) beside the single English word "uncle." Row two, "food," shows the words "tea" and "chai" with a note that the same drink traveled by sea and by land. Row three, "respect," shows the Spanish "tú" (informal you) and "usted" (formal you). Each row is labeled. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-005-14-language-and-culture desc-L-05-005-14-language-and-culture">
+  <title id="title-L-05-005-14-language-and-culture">Words carry culture</title>
+  <desc id="desc-L-05-005-14-language-and-culture">A three-row chart titled "words carry culture." Row one, "family," shows the Hindi words "चाचा" (father's younger brother) and "मामा" (mother's brother) beside the single English word "uncle." Row two, "food," shows the words "tea" and "chai" with a note that the same drink traveled by sea and by land. Row three, "respect," shows the Spanish "tú" (informal you) and "usted" (formal you). Each row is labeled. Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -34,5 +34,5 @@
   <text x="330" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">you — formal</text>
   <text x="256" y="437" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">the language requires a choice</text>
 
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">A language sorts the world the way its speakers value it.</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16.1" fill="#2b3a42">A language sorts the world the way its speakers value it.</text>
 </svg>

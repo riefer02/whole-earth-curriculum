@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 420" role="img" aria-labelledby="title desc">
-  <title id="title">One long human story</title>
-  <desc id="desc">A web diagram titled "One long human story." At the center, a circle reads "peoples, cultures, and long ago." Seven threads connect outward to labeled circles: "time and timelines," "tools that changed life," "origin stories," "great achievements," "migration," "trade and exchange," and "fairness and dignity." At the bottom, a figure stands with an open hand beside the note "and our part in it." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 420" role="img" aria-labelledby="title-L-05-010-10-long-story desc-L-05-010-10-long-story">
+  <title id="title-L-05-010-10-long-story">One long human story</title>
+  <desc id="desc-L-05-010-10-long-story">A web diagram titled "One long human story." At the center, a circle reads "peoples, cultures, and long ago." Seven threads connect outward to labeled circles: "time and timelines," "tools that changed life," "origin stories," "great achievements," "migration," "trade and exchange," and "fairness and dignity." At the bottom, a figure stands with an open hand beside the note "and our part in it." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="420" fill="#fdfbf7"/>
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">One Long Human Story</text>

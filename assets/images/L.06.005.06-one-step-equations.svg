@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Solving a one-step equation</title>
-  <desc id="desc">A balance scale showing the equation x plus 3 equals 8. The left pan holds a box labeled x and three dots; the right pan holds eight dots. A caption reads "subtract 3 from both sides so the scale stays balanced: x = 5." Below, a small second balance shows the result with the box labeled x = 5 and five dots on each side. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-005-06-one-step-equations desc-L-06-005-06-one-step-equations">
+  <title id="title-L-06-005-06-one-step-equations">Solving a one-step equation</title>
+  <desc id="desc-L-06-005-06-one-step-equations">A balance scale showing the equation x plus 3 equals 8. The left pan holds a box labeled x and three dots; the right pan holds eight dots. A caption reads "subtract 3 from both sides so the scale stays balanced: x = 5." Below, a small second balance shows the result with the box labeled x = 5 and five dots on each side. Labels, counts, and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Solving a One-Step Equation</text>
-  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">what you do to one side, you do to the other — the scale stays balanced</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">what you do to one side, you do to the other — the scale stays balanced</text>
 
   <!-- balance beam -->
   <g>
@@ -56,7 +56,7 @@
     <circle cx="298" cy="206" r="7" fill="#222222"/>
   </g>
 
-  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">x + 3 = 8   →   subtract 3 from both sides   →   x = 5</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="17.0" font-weight="bold" fill="#222222">x + 3 = 8   →   subtract 3 from both sides   →   x = 5</text>
   <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">check: 5 + 3 = 8 ✓</text>
   <text x="256" y="487.2" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">the word "algebra" comes from al-jabr, used by mathematician</text>
   <text x="256" y="505.4" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">al-Khwarizmi long ago</text>

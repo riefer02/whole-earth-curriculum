@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">One idea, many languages</title>
-  <desc id="desc">Five cards, all the same size and held at the same height, each show the same idea — thank you — in a different language and script: Latin letters, Arabic script, Devanagari, Chinese characters, and a signed gesture of thanks. The caption reads "one idea, many languages." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that the same idea can be said in many languages, none above another.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-03-004-14-one-idea-many-languages desc-L-03-004-14-one-idea-many-languages">
+  <title id="title-L-03-004-14-one-idea-many-languages">One idea, many languages</title>
+  <desc id="desc-L-03-004-14-one-idea-many-languages">Five cards, all the same size and held at the same height, each show the same idea — thank you — in a different language and script: Latin letters, Arabic script, Devanagari, Chinese characters, and a signed gesture of thanks. The caption reads "one idea, many languages." The labels and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners that the same idea can be said in many languages, none above another.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -34,5 +34,5 @@
   </g>
 
   <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">one idea, many languages</text>
-  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">Every language says the same idea in its own way — none above another.</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#2b3a42">Every language says the same idea in its own way — none above another.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A bar graph that revises a claim</title>
-  <desc id="desc">A bar graph showing how much water four cloth types absorb. The horizontal axis lists thin cotton, wool, paper, and plastic. The vertical axis is labeled drops absorbed with a scale from 0 to 20. Four bars rise to different heights: thin cotton reaches 18, wool reaches 14, paper reaches 9, and plastic reaches 2. Above the graph, a claim box reads: claim — the thickest cloth absorbs the most. Below, a verdict box reads: the graph revises this claim — the thin cotton, not the thickest cloth, absorbed the most. Labels, numbers, and bar heights, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-006-02-graph-support-revise-claim desc-L-06-006-02-graph-support-revise-claim">
+  <title id="title-L-06-006-02-graph-support-revise-claim">A bar graph that revises a claim</title>
+  <desc id="desc-L-06-006-02-graph-support-revise-claim">A bar graph showing how much water four cloth types absorb. The horizontal axis lists thin cotton, wool, paper, and plastic. The vertical axis is labeled drops absorbed with a scale from 0 to 20. Four bars rise to different heights: thin cotton reaches 18, wool reaches 14, paper reaches 9, and plastic reaches 2. Above the graph, a claim box reads: claim — the thickest cloth absorbs the most. Below, a verdict box reads: the graph revises this claim — the thin cotton, not the thickest cloth, absorbed the most. Labels, numbers, and bar heights, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

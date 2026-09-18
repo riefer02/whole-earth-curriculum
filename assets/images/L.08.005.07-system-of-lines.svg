@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Solving a system of two lines by graphing</title>
-  <desc id="desc">A coordinate grid showing two lines: y = 2x + 1 and y = −x + 7, crossing at the point (2, 5). The point is marked with a dot and labeled "the solution satisfies both equations." A second small panel shows two parallel lines labeled "no solution — parallel lines never meet." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-005-07-system-of-lines desc-L-08-005-07-system-of-lines">
+  <title id="title-L-08-005-07-system-of-lines">Solving a system of two lines by graphing</title>
+  <desc id="desc-L-08-005-07-system-of-lines">A coordinate grid showing two lines: y = 2x + 1 and y = −x + 7, crossing at the point (2, 5). The point is marked with a dot and labeled "the solution satisfies both equations." A second small panel shows two parallel lines labeled "no solution — parallel lines never meet." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Two Equations at Once: The Crossing Point</text>
@@ -40,7 +40,7 @@
   <circle cx="180" cy="200" r="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <text x="196" y="216" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">(2, 5)</text>
 
-  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">the solution satisfies both equations: 5 = 2(2) + 1 ✓ and 5 = −2 + 7 ✓</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="13.1" font-weight="bold" fill="#222222">the solution satisfies both equations: 5 = 2(2) + 1 ✓ and 5 = −2 + 7 ✓</text>
 
   <!-- parallel panel -->
   <rect x="384" y="80" width="108" height="280" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
@@ -51,5 +51,5 @@
   <text x="438" y="156" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">meet</text>
   <text x="438" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">no solution</text>
 
-  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">check the crossing point in both equations — a point on one line is not enough</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">check the crossing point in both equations — a point on one line is not enough</text>
 </svg>

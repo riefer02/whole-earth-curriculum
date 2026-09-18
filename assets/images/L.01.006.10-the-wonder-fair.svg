@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The Wonder Fair: everything we wondered</title>
-  <desc id="desc">A celebration collage of the unit's ideas around a central card reading "I still wonder…". Eight labeled icons circle the theme: observe (an eye), look closely (a magnifier), ask (a question mark), guess (a lightbulb), living (a leaf), nonliving (a rock), move (a ball), and sky and weather (a sun beside a cloud). Words and shapes, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-006-10-the-wonder-fair desc-L-01-006-10-the-wonder-fair">
+  <title id="title-L-01-006-10-the-wonder-fair">The Wonder Fair: everything we wondered</title>
+  <desc id="desc-L-01-006-10-the-wonder-fair">A celebration collage of the unit's ideas around a central card reading "I still wonder…". Eight labeled icons circle the theme: observe (an eye), look closely (a magnifier), ask (a question mark), guess (a lightbulb), living (a leaf), nonliving (a rock), move (a ball), and sky and weather (a sun beside a cloud). Words and shapes, not color alone, carry the meaning, so it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

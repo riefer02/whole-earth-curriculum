@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Four-part protection argument</title>
-  <desc id="desc">Four stacked building blocks labeled claim, reason, evidence, and response to counterargument, with a capstone labeled protection, grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-010-09-protection-argument desc-L-10-010-09-protection-argument">
+  <title id="title-L-10-010-09-protection-argument">Four-part protection argument</title>
+  <desc id="desc-L-10-010-09-protection-argument">Four stacked building blocks labeled claim, reason, evidence, and response to counterargument, with a capstone labeled protection, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <!-- capstone -->
@@ -19,6 +19,6 @@
     <rect x="196" y="272" width="120" height="44" rx="6" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
     <text x="256" y="299" font-size="14" fill="#222222">response</text>
     <text x="256" y="350" font-size="13" fill="#4f6d7a">(to a counterargument)</text>
-    <text x="256" y="460" font-size="14" fill="#222222">a protection argument is built, not just said</text>
+    <text x="256" y="460" font-size="12" fill="#222222">a protection argument is built, not just said</text>
   </g>
 </svg>

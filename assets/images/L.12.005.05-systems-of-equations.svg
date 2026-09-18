@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Systems of Relationships as Equations</title>
-  <desc id="desc">A coordinate grid with two straight lines crossing at the point (30, 20). The two equations are written beside the grid, and the crossing point is labeled as the solution — the one pair that satisfies both relationships at once.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-12-005-05-systems-of-equations desc-L-12-005-05-systems-of-equations">
+  <title id="title-L-12-005-05-systems-of-equations">Systems of Relationships as Equations</title>
+  <desc id="desc-L-12-005-05-systems-of-equations">A coordinate grid with two straight lines crossing at the point (30, 20). The two equations are written beside the grid, and the crossing point is labeled as the solution — the one pair that satisfies both relationships at once.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42" font-weight="bold">Two Equations, One Pair That Satisfies Both</text>

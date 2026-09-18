@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A circle where everyone belongs</title>
-  <desc id="desc">A circle of children holding hands around an open middle. The circle has a gap, and a child standing outside is being invited in — one child in the circle reaches a hand toward them with the word "welcome." Around the circle, three small labels name what makes a group welcoming: "a smile," "a space," and "your name." The children vary in skin tone, hair, and dress; one uses a wheelchair, and one has a hearing aid. The closing line teaches that a welcoming group is one where everyone is included and everyone belongs. Labels carry the meaning, so the picture prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-012-05-a-circle-where-everyone-belongs desc-L-02-012-05-a-circle-where-everyone-belongs">
+  <title id="title-L-02-012-05-a-circle-where-everyone-belongs">A circle where everyone belongs</title>
+  <desc id="desc-L-02-012-05-a-circle-where-everyone-belongs">A circle of children holding hands around an open middle. The circle has a gap, and a child standing outside is being invited in — one child in the circle reaches a hand toward them with the word "welcome." Around the circle, three small labels name what makes a group welcoming: "a smile," "a space," and "your name." The children vary in skin tone, hair, and dress; one uses a wheelchair, and one has a hearing aid. The closing line teaches that a welcoming group is one where everyone is included and everyone belongs. Labels carry the meaning, so the picture prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -73,5 +73,5 @@
   <rect x="284" y="452" width="74" height="26" rx="13" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="321" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">belong</text>
 
-  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A welcoming group is one where everyone is included — and everyone belongs.</text>
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">A welcoming group is one where everyone is included — and everyone belongs.</text>
 </svg>

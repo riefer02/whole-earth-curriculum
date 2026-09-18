@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Co-ops and mutual aid around the world</title>
-  <desc id="desc">A three-panel spectrum. The first panel shows charity as a one-way arrow from a giver above to a receiver below, with power kept. The second shows mutual aid as a circle of equals with arrows going both ways, deciding together. The third shows a cooperative economy as a shared building owned by many, with shared benefit.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-003-12-coop-mutual-aid-spectrum desc-L-10-003-12-coop-mutual-aid-spectrum">
+  <title id="title-L-10-003-12-coop-mutual-aid-spectrum">Co-ops and mutual aid around the world</title>
+  <desc id="desc-L-10-003-12-coop-mutual-aid-spectrum">A three-panel spectrum. The first panel shows charity as a one-way arrow from a giver above to a receiver below, with power kept. The second shows mutual aid as a circle of equals with arrows going both ways, deciding together. The third shows a cooperative economy as a shared building owned by many, with shared benefit.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Charity &#183; Mutual Aid &#183; Cooperative</text>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="20.8" font-weight="bold" fill="#2b3a42">Charity &#183; Mutual Aid &#183; Cooperative</text>
 
   <!-- Panel 1: charity -->
   <rect x="20" y="64" width="150" height="250" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
@@ -57,6 +57,6 @@
     <text x="420" y="375" text-anchor="middle">worker co-ops &#183; credit unions</text>
   </g>
 
-  <text x="256" y="469" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The question is not how much is given — but who holds the power and</text>
+  <text x="256" y="469" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">The question is not how much is given — but who holds the power and</text>
   <text x="256" y="487.2" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">who decides.</text>
 </svg>

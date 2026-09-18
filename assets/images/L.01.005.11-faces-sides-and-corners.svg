@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Solid shapes: faces, sides, and corners</title>
-  <desc id="desc">A large cube is drawn in the upper part, with three callouts. A dot on the front flat square points to the label face, a dot on the front-right vertical edge points to the label side (edge), and a dot on the bottom-right front corner points to the label corner. A note says a cube has six faces, twelve sides, and eight corners. Below, a row shows four other solid shapes: a sphere labeled rolls, no flat face, no corners; a cylinder labeled two circle faces; a cone labeled one circle face, one point; and a box labeled six rectangle faces. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-005-11-faces-sides-and-corners desc-L-01-005-11-faces-sides-and-corners">
+  <title id="title-L-01-005-11-faces-sides-and-corners">Solid shapes: faces, sides, and corners</title>
+  <desc id="desc-L-01-005-11-faces-sides-and-corners">A large cube is drawn in the upper part, with three callouts. A dot on the front flat square points to the label face, a dot on the front-right vertical edge points to the label side (edge), and a dot on the bottom-right front corner points to the label corner. A note says a cube has six faces, twelve sides, and eight corners. Below, a row shows four other solid shapes: a sphere labeled rolls, no flat face, no corners; a cylinder labeled two circle faces; a cone labeled one circle face, one point; and a box labeled six rectangle faces. Labels and shapes carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -63,5 +63,5 @@
   <text x="420" y="464" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">box</text>
   <text x="420" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">6 rectangle faces</text>
 
-  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Trace a face and you get a flat shape &#8212; the bridge between solid and flat.</text>
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Trace a face and you get a flat shape &#8212; the bridge between solid and flat.</text>
 </svg>

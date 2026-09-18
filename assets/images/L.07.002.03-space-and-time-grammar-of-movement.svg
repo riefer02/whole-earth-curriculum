@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Space and time: the grammar of movement</title>
-  <desc id="desc">A top-down diagram of a rectangular playing area. Six player dots are spread evenly into open space, labeled spacing. A dashed circle marks a gap of open space. One curved arrow shows a player moving into that gap at a specific moment, labeled timing. The diagram uses labels and shapes, not color alone, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-002-03-space-and-time-grammar-of-movement desc-L-07-002-03-space-and-time-grammar-of-movement">
+  <title id="title-L-07-002-03-space-and-time-grammar-of-movement">Space and time: the grammar of movement</title>
+  <desc id="desc-L-07-002-03-space-and-time-grammar-of-movement">A top-down diagram of a rectangular playing area. Six player dots are spread evenly into open space, labeled spacing. A dashed circle marks a gap of open space. One curved arrow shows a player moving into that gap at a specific moment, labeled timing. The diagram uses labels and shapes, not color alone, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

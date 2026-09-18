@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A controlled experiment: warm versus cold water dissolving sugar</title>
-  <desc id="desc">Two cups of water, one labeled cold and one labeled warm, each with the same amount of sugar. Labels mark the independent variable temperature, the dependent variable how fast the sugar dissolves, and control variables kept the same, with a note about repeated trials.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-006-02-controlled-experiment desc-L-08-006-02-controlled-experiment">
+  <title id="title-L-08-006-02-controlled-experiment">A controlled experiment: warm versus cold water dissolving sugar</title>
+  <desc id="desc-L-08-006-02-controlled-experiment">Two cups of water, one labeled cold and one labeled warm, each with the same amount of sugar. Labels mark the independent variable temperature, the dependent variable how fast the sugar dissolves, and control variables kept the same, with a note about repeated trials.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A Controlled Experiment</text>
@@ -45,7 +45,7 @@
   <text x="46" y="448" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Dependent variable (we measure):</text>
   <text x="270" y="448" font-family="sans-serif" font-size="13" fill="#222222">time for sugar to dissolve</text>
   <text x="46" y="468" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Control variables (kept same):</text>
-  <text x="270" y="468" font-family="sans-serif" font-size="13" fill="#222222">water amount, sugar, stirring, cup</text>
+  <text x="270" y="468" font-family="sans-serif" font-size="12.7" fill="#222222">water amount, sugar, stirring, cup</text>
   <text x="46" y="488" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Repeated trials:</text>
   <text x="270" y="488" font-family="sans-serif" font-size="13" fill="#222222">run each three times, average</text>
 </svg>

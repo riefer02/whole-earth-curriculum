@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Mixing colors: two colors make a new one</title>
-  <desc id="desc">A color-mixing chart shows three starting colors at the top — red, yellow, and blue — each drawn as a circle with its name. Three arrows run downward to three new colors: red plus yellow makes orange, yellow plus blue makes green, and blue plus red makes purple. At the bottom, a small picture uses the new colors — an orange sun, green leaves, and a purple flower — to show the new colors in a real picture. Every color is labeled with its name, and labels, positions, and plus signs carry all meaning, so the chart prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-007-01-mixing-colors desc-L-02-007-01-mixing-colors">
+  <title id="title-L-02-007-01-mixing-colors">Mixing colors: two colors make a new one</title>
+  <desc id="desc-L-02-007-01-mixing-colors">A color-mixing chart shows three starting colors at the top — red, yellow, and blue — each drawn as a circle with its name. Three arrows run downward to three new colors: red plus yellow makes orange, yellow plus blue makes green, and blue plus red makes purple. At the bottom, a small picture uses the new colors — an orange sun, green leaves, and a purple flower — to show the new colors in a real picture. Every color is labeled with its name, and labels, positions, and plus signs carry all meaning, so the chart prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

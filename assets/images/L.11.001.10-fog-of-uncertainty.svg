@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Deciding when nothing is certain</title>
-  <desc id="desc">A figure stands at a fork in a path under patches of fog, holding a compass. The two branches are labeled "one option" and "another option," and the fog patches are labeled "unknown." A caption reads that when nothing is certain, values are the compass. Labels and shapes carry the meaning, so the diagram prints in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-001-10-fog-of-uncertainty desc-L-11-001-10-fog-of-uncertainty">
+  <title id="title-L-11-001-10-fog-of-uncertainty">Deciding when nothing is certain</title>
+  <desc id="desc-L-11-001-10-fog-of-uncertainty">A figure stands at a fork in a path under patches of fog, holding a compass. The two branches are labeled "one option" and "another option," and the fog patches are labeled "unknown." A caption reads that when nothing is certain, values are the compass. Labels and shapes carry the meaning, so the diagram prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Deciding When Nothing Is Certain</text>

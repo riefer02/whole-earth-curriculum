@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">My Art Plan</title>
-  <desc id="desc">A three-part planning page titled "My Art Plan." The top box, labeled "my idea (what I want to show)," shows a small sketch of a stormy sea with a thought bubble. The middle box, labeled "materials I will use," shows simple icons for paper, pencil, scissors, glue, paint, and found objects. The bottom box, labeled "technique I will try," lists the words draw, paint, cut, tear, and fold. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-008-01-art-plan desc-L-05-008-01-art-plan">
+  <title id="title-L-05-008-01-art-plan">My Art Plan</title>
+  <desc id="desc-L-05-008-01-art-plan">A three-part planning page titled "My Art Plan." The top box, labeled "my idea (what I want to show)," shows a small sketch of a stormy sea with a thought bubble. The middle box, labeled "materials I will use," shows simple icons for paper, pencil, scissors, glue, paint, and found objects. The bottom box, labeled "technique I will try," lists the words draw, paint, cut, tear, and fold. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -56,6 +56,6 @@
   <!-- Box 3: technique -->
   <rect x="40" y="364" width="432" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="60" y="392" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">technique I will try</text>
-  <text x="60" y="424" font-family="sans-serif" font-size="20" fill="#2b3a42">draw   ·   paint   ·   cut   ·   tear   ·   fold</text>
+  <text x="60" y="424" font-family="sans-serif" font-size="17.0" fill="#2b3a42">draw   ·   paint   ·   cut   ·   tear   ·   fold</text>
   <text x="60" y="458" font-family="sans-serif" font-size="13" fill="#4f6d7a">because: smudged chalk looks like moving water</text>
 </svg>

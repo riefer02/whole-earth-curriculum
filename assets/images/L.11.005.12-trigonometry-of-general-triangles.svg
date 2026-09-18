@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Trigonometry of General Triangles</title>
-  <desc id="desc">A general triangle with sides a, b, c and opposite angles A, B, C. The Law of Sines and Law of Cosines are written beside it. Below, a surveying scene shows a river with a tree on the far bank and a baseline of 100 meters on the near bank with two sighting angles, illustrating measuring a distance that cannot be walked.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-11-005-12-trigonometry-of-general-triangles desc-L-11-005-12-trigonometry-of-general-triangles">
+  <title id="title-L-11-005-12-trigonometry-of-general-triangles">Trigonometry of General Triangles</title>
+  <desc id="desc-L-11-005-12-trigonometry-of-general-triangles">A general triangle with sides a, b, c and opposite angles A, B, C. The Law of Sines and Law of Cosines are written beside it. Below, a surveying scene shows a river with a tree on the far bank and a baseline of 100 meters on the near bank with two sighting angles, illustrating measuring a distance that cannot be walked.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Solving Any Triangle</text>
@@ -18,7 +18,7 @@
   <text x="390" y="120" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Law of Sines</text>
   <text x="390" y="148" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">a/sin A = b/sin B = c/sin C</text>
   <text x="390" y="180" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Law of Cosines</text>
-  <text x="390" y="208" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">c&#178; = a&#178; + b&#178; &#8722; 2ab&#183;cos C</text>
+  <text x="390" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">c&#178; = a&#178; + b&#178; &#8722; 2ab&#183;cos C</text>
 
   <!-- surveying scene -->
   <rect x="60" y="280" width="392" height="170" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="8"/>

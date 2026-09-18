@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 440" role="img" aria-labelledby="title desc">
-  <title id="title">Great achievements made by many peoples</title>
-  <desc id="desc">A gallery of four achievements in a row, each labeled. The first, "Great Zimbabwe — a stone city," shows tall curving stone walls with a round tower. The second, "Timbuktu — a library of learning," shows an open book with lines of text and a row of shelf marks. The third, "Benin — brass art," shows a rectangular plaque with a carved standing figure. The fourth, "Maya — star records," shows a person sighting a star beside a stack of counting marks. A caption reads "Great achievements, made by many peoples." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 440" role="img" aria-labelledby="title-L-05-010-05-great-achievements desc-L-05-010-05-great-achievements">
+  <title id="title-L-05-010-05-great-achievements">Great achievements made by many peoples</title>
+  <desc id="desc-L-05-010-05-great-achievements">A gallery of four achievements in a row, each labeled. The first, "Great Zimbabwe — a stone city," shows tall curving stone walls with a round tower. The second, "Timbuktu — a library of learning," shows an open book with lines of text and a row of shelf marks. The third, "Benin — brass art," shows a rectangular plaque with a carved standing figure. The fourth, "Maya — star records," shows a person sighting a star beside a stack of counting marks. A caption reads "Great achievements, made by many peoples." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="440" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Great Achievements, Made by Many Peoples</text>

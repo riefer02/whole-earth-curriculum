@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Values shape choices: same situation, different values, different choices</title>
-  <desc id="desc">A two-panel diagram. In both panels, two children face the same situation: a table with one extra bowl of food and a person with none. In the top panel, one child holds a heart labeled "kindness" and passes the bowl to the other person. In the bottom panel, a child holds a heart labeled "look out for myself" and pulls the bowl toward themselves. An arrow flows from each heart to each choice, and a caption reads "same situation, different values, different choices." Labels, arrows, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-011-01-values-shape-choices desc-L-05-011-01-values-shape-choices">
+  <title id="title-L-05-011-01-values-shape-choices">Values shape choices: same situation, different values, different choices</title>
+  <desc id="desc-L-05-011-01-values-shape-choices">A two-panel diagram. In both panels, two children face the same situation: a table with one extra bowl of food and a person with none. In the top panel, one child holds a heart labeled "kindness" and passes the bowl to the other person. In the bottom panel, a child holds a heart labeled "look out for myself" and pulls the bowl toward themselves. An arrow flows from each heart to each choice, and a caption reads "same situation, different values, different choices." Labels, arrows, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Values Shape Choices</text>
-  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">same situation &#183; different values &#183; different choices</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">same situation &#183; different values &#183; different choices</text>
 
   <!-- ===== Top panel: kindness ===== -->
   <rect x="20" y="92" width="472" height="180" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -64,5 +64,5 @@
   </g>
   <text x="176" y="300" font-family="sans-serif" font-size="15" fill="#4f6d7a">value &#8594; choice: keeps it for later</text>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">A value is something you care about &#8212; it guides what you do.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#2b3a42">A value is something you care about &#8212; it guides what you do.</text>
 </svg>

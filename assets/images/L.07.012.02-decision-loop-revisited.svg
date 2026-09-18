@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The decision loop, revisited across a year</title>
-  <desc id="desc">A four-step circular loop labeled DECISION, CONSEQUENCE, REFLECTION, and BETTER NEXT CHOICE, surrounded by an outer ring labeled "across the year, one choice at a time." A caption reads "Look for the pattern, not just the one mistake."</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-012-02-decision-loop-revisited desc-L-07-012-02-decision-loop-revisited">
+  <title id="title-L-07-012-02-decision-loop-revisited">The decision loop, revisited across a year</title>
+  <desc id="desc-L-07-012-02-decision-loop-revisited">A four-step circular loop labeled DECISION, CONSEQUENCE, REFLECTION, and BETTER NEXT CHOICE, surrounded by an outer ring labeled "across the year, one choice at a time." A caption reads "Look for the pattern, not just the one mistake."</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -28,14 +28,14 @@
 
   <!-- loop arrows -->
   <g stroke="#2b3a42" stroke-width="2.5" fill="none">
-    <path d="M256 172 L256 226" marker-end="url(#ar)"/>
-    <path d="M316 258 L196 258" marker-end="url(#ar)"/>
-    <path d="M256 344 L256 290" marker-end="url(#ar)"/>
-    <path d="M196 258 L256 172" stroke-dasharray="6 6" marker-end="url(#ar)"/>
+    <path d="M256 172 L256 226" marker-end="url(#ar-L-07-012-02-decision-loop-revisited)"/>
+    <path d="M316 258 L196 258" marker-end="url(#ar-L-07-012-02-decision-loop-revisited)"/>
+    <path d="M256 344 L256 290" marker-end="url(#ar-L-07-012-02-decision-loop-revisited)"/>
+    <path d="M196 258 L256 172" stroke-dasharray="6 6" marker-end="url(#ar-L-07-012-02-decision-loop-revisited)"/>
   </g>
 
   <defs>
-    <marker id="ar" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+    <marker id="ar-L-07-012-02-decision-loop-revisited" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L0,6 L9,3 z" fill="#2b3a42"/>
     </marker>
   </defs>

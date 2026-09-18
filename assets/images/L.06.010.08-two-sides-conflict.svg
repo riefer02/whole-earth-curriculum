@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Seeing both sides of a conflict</title>
-  <desc id="desc">A two-sides conflict diagram. In the center, a box reads "two neighbors, one shared water tap." Two panels flank it. The left panel, labeled "side 1," shows one figure with a thought bubble "feeling: worried" and a speech label "need: water for my garden." The right panel, labeled "side 2," shows another figure with a thought bubble "feeling: frustrated" and a speech label "need: water for my family's cooking and washing." A caption reads "analyze the conflict: each side has feelings and needs." Labels, shapes, and speech bubbles carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-010-08-two-sides-conflict desc-L-06-010-08-two-sides-conflict">
+  <title id="title-L-06-010-08-two-sides-conflict">Seeing both sides of a conflict</title>
+  <desc id="desc-L-06-010-08-two-sides-conflict">A two-sides conflict diagram. In the center, a box reads "two neighbors, one shared water tap." Two panels flank it. The left panel, labeled "side 1," shows one figure with a thought bubble "feeling: worried" and a speech label "need: water for my garden." The right panel, labeled "side 2," shows another figure with a thought bubble "feeling: frustrated" and a speech label "need: water for my family's cooking and washing." A caption reads "analyze the conflict: each side has feelings and needs." Labels, shapes, and speech bubbles carry the meaning, so it prints clearly in grayscale independent of color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -55,5 +55,5 @@
   <text x="378" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">both needs are real &#8212;</text>
   <text x="378" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">that is what makes it a conflict</text>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Analyze: name each side&#8217;s feeling and need &#8212; both of them.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#2b3a42">Analyze: name each side&#8217;s feeling and need &#8212; both of them.</text>
 </svg>

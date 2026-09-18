@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">The screen in between: a curated highlight reel versus a fuller life</title>
-  <desc id="desc">Two panels. The left panel is a phone screen showing a curated grid of highlight moments labeled the highlight reel. The right panel is a fuller picture of an ordinary week, with both bright and dull moments labeled real life, most of which never gets posted.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-003-05-media-mirror desc-L-09-003-05-media-mirror">
+  <title id="title-L-09-003-05-media-mirror">The screen in between: a curated highlight reel versus a fuller life</title>
+  <desc id="desc-L-09-003-05-media-mirror">Two panels. The left panel is a phone screen showing a curated grid of highlight moments labeled the highlight reel. The right panel is a fuller picture of an ordinary week, with both bright and dull moments labeled real life, most of which never gets posted.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">The Screen in Between</text>
@@ -27,6 +27,6 @@
   <text x="378" y="368" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">real life</text>
   <text x="378" y="388" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">bright and dull, most unposted</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#2b3a42">Comparing my whole life to someone's highlight reel is an unfair match.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12.9" font-weight="bold" fill="#2b3a42">Comparing my whole life to someone's highlight reel is an unfair match.</text>
   <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">The feed is a window, not a mirror of anyone's full life.</text>
 </svg>

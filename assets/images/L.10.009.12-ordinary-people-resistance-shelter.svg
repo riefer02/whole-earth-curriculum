@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Ordinary people, extraordinary choices</title>
-  <desc id="desc">A warm scene of ordinary shelter: a family welcomed through an open door, hands passing food, a child holding a small light. Labels name the choices — shelter, warn, refuse — and the caption reads "ordinary people, extraordinary choices." Grayscale-printable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-10-009-12-ordinary-people-resistance-shelter desc-L-10-009-12-ordinary-people-resistance-shelter">
+  <title id="title-L-10-009-12-ordinary-people-resistance-shelter">Ordinary people, extraordinary choices</title>
+  <desc id="desc-L-10-009-12-ordinary-people-resistance-shelter">A warm scene of ordinary shelter: a family welcomed through an open door, hands passing food, a child holding a small light. Labels name the choices — shelter, warn, refuse — and the caption reads "ordinary people, extraordinary choices." Grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">Ordinary people, extraordinary choices</text>
   <!-- House -->
@@ -32,5 +32,5 @@
     <rect x="320" y="236" width="164" height="36" rx="8" fill="#e0a458"/>
     <text x="402" y="260" text-anchor="middle" fill="#fdfbf7">refuse an order</text>
   </g>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Courage is not a rare gift — it is an ordinary choice, made one act at a time.</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Courage is not a rare gift — it is an ordinary choice, made one act at a time.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Reading a food label</title>
-  <desc id="desc">A simplified nutrition label on a food package, showing five parts — serving size, energy, sugar, salt, and fiber — each circled with a different shape (oval, rectangle, diamond, star, and hexagon) and labeled with a word, so the parts are told apart by shape and word, not color, and print clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-008-01-reading-a-food-label desc-L-04-008-01-reading-a-food-label">
+  <title id="title-L-04-008-01-reading-a-food-label">Reading a food label</title>
+  <desc id="desc-L-04-008-01-reading-a-food-label">A simplified nutrition label on a food package, showing five parts — serving size, energy, sugar, salt, and fiber — each circled with a different shape (oval, rectangle, diamond, star, and hexagon) and labeled with a word, so the parts are told apart by shape and word, not color, and print clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

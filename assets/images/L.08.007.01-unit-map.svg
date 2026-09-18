@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Unit map: four strands of making, composing, devising and designing</title>
-  <desc id="desc">A map of the unit showing four boxes labeled visual arts, music and sound, movement dance and drama, and making and design, each with two short goals, arranged around the words make, compose, devise, and design.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-007-01-unit-map desc-L-08-007-01-unit-map">
+  <title id="title-L-08-007-01-unit-map">Unit map: four strands of making, composing, devising and designing</title>
+  <desc id="desc-L-08-007-01-unit-map">A map of the unit showing four boxes labeled visual arts, music and sound, movement dance and drama, and making and design, each with two short goals, arranged around the words make, compose, devise, and design.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -36,7 +36,7 @@
   <!-- strand 4: making & design (bottom-right) -->
   <rect x="326" y="312" width="156" height="122" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="350" cy="334" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-  <text x="366" y="339" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Making &amp; Design</text>
+  <text x="366" y="339" font-family="sans-serif" font-size="13.6" font-weight="bold" fill="#222222">Making &amp; Design</text>
   <text x="336" y="366" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· make a working</text>
   <text x="336" y="383" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">  prototype</text>
   <text x="336" y="400" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">· critique with evidence</text>

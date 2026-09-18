@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Line plot with fractions</title>
-  <desc id="desc">A line plot showing fractional data. A number line from 0 to 1 is marked in eighths. X marks are stacked above 1/2 (three Xs), 5/8 (two Xs), 3/4 (four Xs), and 7/8 (one X). Labels note the most common value is 3/4, the range from smallest (1/2) to largest (7/8) is 3/8, and there are 10 data points total. Labels and marks, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-05-006-15-line-plots-fractions desc-L-05-006-15-line-plots-fractions">
+  <title id="title-L-05-006-15-line-plots-fractions">Line plot with fractions</title>
+  <desc id="desc-L-05-006-15-line-plots-fractions">A line plot showing fractional data. A number line from 0 to 1 is marked in eighths. X marks are stacked above 1/2 (three Xs), 5/8 (two Xs), 3/4 (four Xs), and 7/8 (one X). Labels note the most common value is 3/4, the range from smallest (1/2) to largest (7/8) is 3/8, and there are 10 data points total. Labels and marks, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Adding and subtracting multi-digit numbers with regrouping</title>
-  <desc id="desc">Two worked examples laid out in place-value columns. Addition: 47,268 plus 38,519, with a small arrow showing ten ones traded into the tens column, giving the sum 85,787. Subtraction: 47,268 minus 28,531, with borrows at the hundreds and thousands columns (12 minus 5 and 16 minus 8), giving the difference 18,737.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-005-03-adding-and-subtracting-multi-digit desc-L-04-005-03-adding-and-subtracting-multi-digit">
+  <title id="title-L-04-005-03-adding-and-subtracting-multi-digit">Adding and subtracting multi-digit numbers with regrouping</title>
+  <desc id="desc-L-04-005-03-adding-and-subtracting-multi-digit">Two worked examples laid out in place-value columns. Addition: 47,268 plus 38,519, with a small arrow showing ten ones traded into the tens column, giving the sum 85,787. Subtraction: 47,268 minus 28,531, with borrows at the hundreds and thousands columns (12 minus 5 and 16 minus 8), giving the difference 18,737.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -30,10 +30,10 @@
   <path d="M336 120 C 322 126, 322 92, 336 88" fill="none" stroke="#6b93b6" stroke-width="2"/>
   <text x="340" y="94" font-family="sans-serif" font-size="12" fill="#6b93b6">borrow from the next place</text>
   <text x="278" y="196" font-family="monospace" font-size="26" font-weight="bold" fill="#6b93b6">1 8 , 7 3 7</text>
-  <text x="286" y="226" font-family="sans-serif" font-size="14" fill="#4f6d7a">12 − 5 = 7; 16 − 8 = 8 (borrow twice)</text>
+  <text x="286" y="226" font-family="sans-serif" font-size="12" fill="#4f6d7a">12 − 5 = 7; 16 − 8 = 8 (borrow twice)</text>
 
   <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Work one place at a time.</text>
-  <text x="256" y="296.8" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">When a column has ten or more (or needs more), trade with the</text>
+  <text x="256" y="296.8" text-anchor="middle" font-family="sans-serif" font-size="15.0" fill="#2b3a42">When a column has ten or more (or needs more), trade with the</text>
   <text x="256" y="317.6" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">next place.</text>
 
   <!-- Trade reminder boxes -->
@@ -47,5 +47,5 @@
   <text x="362" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">1 ten = 10 ones</text>
   <text x="362" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">1 hundred = 10 tens</text>
 
-  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Trading ten of one place for one of the next is called regrouping.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">Trading ten of one place for one of the next is called regrouping.</text>
 </svg>

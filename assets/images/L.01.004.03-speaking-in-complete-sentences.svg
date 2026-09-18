@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">A complete sentence: who plus what happened</title>
-  <desc id="desc">A sentence frame bar at the top reads "I like [a blank box]." and "I saw [a blank box]." Two labels above the blanks say "what happened." Below, an example shows a filled sentence "I like mangoes." with a friendly face as the "who" and a mango as the "what happened." Two small labels point out the two parts of a complete sentence: a "who" (the speaker) and a "what happened" (the rest). A caption notes that a complete sentence can also be signed, pointed to with picture cards, or said through a device. The labels, frames, and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to build a complete sentence from a who and a what happened.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-004-03-speaking-in-complete-sentences desc-L-01-004-03-speaking-in-complete-sentences">
+  <title id="title-L-01-004-03-speaking-in-complete-sentences">A complete sentence: who plus what happened</title>
+  <desc id="desc-L-01-004-03-speaking-in-complete-sentences">A sentence frame bar at the top reads "I like [a blank box]." and "I saw [a blank box]." Two labels above the blanks say "what happened." Below, an example shows a filled sentence "I like mangoes." with a friendly face as the "who" and a mango as the "what happened." Two small labels point out the two parts of a complete sentence: a "who" (the speaker) and a "what happened" (the rest). A caption notes that a complete sentence can also be signed, pointed to with picture cards, or said through a device. The labels, frames, and shapes carry the meaning, so the picture prints clearly in grayscale and teaches learners to build a complete sentence from a who and a what happened.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -43,5 +43,5 @@
   <text x="118" y="358" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">who</text>
   <text x="256" y="358" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">what happened</text>
 
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A sentence can be spoken, signed, pointed to, or said through a device.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">A sentence can be spoken, signed, pointed to, or said through a device.</text>
 </svg>

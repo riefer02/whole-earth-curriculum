@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Shapes named by their attributes</title>
-  <desc id="desc">Five shapes in a row — triangle, square, rectangle, pentagon, and hexagon — each labeled with its name and its number of sides and angles.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-005-10-shapes-by-attributes desc-L-02-005-10-shapes-by-attributes">
+  <title id="title-L-02-005-10-shapes-by-attributes">Shapes named by their attributes</title>
+  <desc id="desc-L-02-005-10-shapes-by-attributes">Five shapes in a row — triangle, square, rectangle, pentagon, and hexagon — each labeled with its name and its number of sides and angles.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 

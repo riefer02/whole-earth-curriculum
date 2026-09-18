@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">"I felt ___ when ___" sentence frame</title>
-  <desc id="desc">A large sentence frame reading "I felt [blank box] when [blank box]" with the two blanks labeled "a feeling" and "a situation." Below it, a filled example shows "I felt proud when I learned to swim," with a proud face in the feeling box and a person swimming in the situation box. The two-part structure teaches learners to join a feeling to the situation that caused it, and the labels and shapes, not color, carry the meaning in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-001-03-sentence-frame desc-L-01-001-03-sentence-frame">
+  <title id="title-L-01-001-03-sentence-frame">"I felt ___ when ___" sentence frame</title>
+  <desc id="desc-L-01-001-03-sentence-frame">A large sentence frame reading "I felt [blank box] when [blank box]" with the two blanks labeled "a feeling" and "a situation." Below it, a filled example shows "I felt proud when I learned to swim," with a proud face in the feeling box and a person swimming in the situation box. The two-part structure teaches learners to join a feeling to the situation that caused it, and the labels and shapes, not color, carry the meaning in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

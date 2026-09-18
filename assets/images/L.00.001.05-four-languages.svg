@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Many ways to say a feeling: words, drawing, movement, sound</title>
-  <desc id="desc">Four cards in a two-by-two grid showing four ways one feeling can be expressed. WORDS shows a speech bubble saying "I feel scared." DRAWING shows a paper with a dark cloud and a wobbly line. MOVEMENT shows a small figure hiding its face with its hands. SOUND shows a drum with two musical notes. Each card is labeled with its word, so meaning does not depend on color and it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-05-four-languages desc-L-00-001-05-four-languages">
+  <title id="title-L-00-001-05-four-languages">Many ways to say a feeling: words, drawing, movement, sound</title>
+  <desc id="desc-L-00-001-05-four-languages">Four cards in a two-by-two grid showing four ways one feeling can be expressed. WORDS shows a speech bubble saying "I feel scared." DRAWING shows a paper with a dark cloud and a wobbly line. MOVEMENT shows a small figure hiding its face with its hands. SOUND shows a drum with two musical notes. Each card is labeled with its word, so meaning does not depend on color and it prints clearly in grayscale.</desc>
 
   <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>

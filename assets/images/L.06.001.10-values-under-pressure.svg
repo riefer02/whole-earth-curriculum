@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Staying True to My Values Under Pressure</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22.9" font-weight="bold" fill="#2b3a42">Staying True to My Values Under Pressure</text>
 
   <!-- Center figure with shield -->
   <circle cx="256" cy="196" r="34" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
@@ -47,6 +47,6 @@
 
   <!-- steps strip -->
   <rect x="60" y="392" width="392" height="60" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">pause &#8594; name what presses &#8594; choose what stays true</text>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="14.8" font-weight="bold" fill="#2b3a42">pause &#8594; name what presses &#8594; choose what stays true</text>
   <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">My values are my anchor when pressure pushes on me.</text>
 </svg>

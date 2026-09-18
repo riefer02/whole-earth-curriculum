@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Presentation planner: audience, purpose, evidence</title>
-  <desc id="desc">A triangle diagram with three corners labeled "audience," "purpose," and "evidence," and a center label "my presentation." A caption reads "Adapt the talk to the audience and purpose, and support every point." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-07-004-04-presentation-planner desc-L-07-004-04-presentation-planner">
+  <title id="title-L-07-004-04-presentation-planner">Presentation planner: audience, purpose, evidence</title>
+  <desc id="desc-L-07-004-04-presentation-planner">A triangle diagram with three corners labeled "audience," "purpose," and "evidence," and a center label "my presentation." A caption reads "Adapt the talk to the audience and purpose, and support every point." Meaning is carried by labels and position, not color, so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -14,7 +14,7 @@
   <text x="256" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">who will hear it</text>
 
   <text x="86" y="420" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">purpose</text>
-  <text x="86" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what you want them to do</text>
+  <text x="86" y="444" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">what you want them to do</text>
 
   <text x="426" y="420" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">evidence</text>
   <text x="426" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">proof for each point</text>

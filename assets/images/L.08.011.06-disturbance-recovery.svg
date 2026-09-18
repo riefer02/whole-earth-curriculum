@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Disturbance and recovery: a forest after fire</title>
-  <desc id="desc">A three-panel timeline of a forest after fire. The first panel shows flames, the second shows green sprouts and seeds returning, and the third shows a fuller forest with animals, with arrows labeled disturbance, succession, and recovery.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-011-06-disturbance-recovery desc-L-08-011-06-disturbance-recovery">
+  <title id="title-L-08-011-06-disturbance-recovery">Disturbance and recovery: a forest after fire</title>
+  <desc id="desc-L-08-011-06-disturbance-recovery">A three-panel timeline of a forest after fire. The first panel shows flames, the second shows green sprouts and seeds returning, and the third shows a fuller forest with animals, with arrows labeled disturbance, succession, and recovery.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">A Forest After Fire</text>
@@ -13,10 +13,10 @@
   <path d="M52 200 q8 -14 0 -28 q-8 -14 0 -28" fill="none" stroke="#e0a458" stroke-width="4"/>
   <path d="M96 196 q8 -14 0 -28 q-8 -14 0 -28" fill="none" stroke="#e0a458" stroke-width="4"/>
   <text x="90" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">disturbance</text>
-  <text x="90" y="316" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">fire clears old growth</text>
+  <text x="90" y="316" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">fire clears old growth</text>
 
   <!-- arrow -->
-  <path d="M164 200 L192 200" stroke="#2b3a42" stroke-width="3" marker-end="url(#a1)"/>
+  <path d="M164 200 L192 200" stroke="#2b3a42" stroke-width="3" marker-end="url(#a1-L-08-011-06-disturbance-recovery)"/>
 
   <!-- panel 2: sprouts -->
   <rect x="196" y="80" width="140" height="240" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -26,10 +26,10 @@
   <ellipse cx="250" cy="198" rx="7" ry="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
   <ellipse cx="270" cy="212" rx="7" ry="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
   <text x="266" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">succession</text>
-  <text x="266" y="316" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">seeds &amp; roots sprout</text>
+  <text x="266" y="316" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">seeds &amp; roots sprout</text>
 
   <!-- arrow -->
-  <path d="M340 200 L368 200" stroke="#2b3a42" stroke-width="3" marker-end="url(#a1)"/>
+  <path d="M340 200 L368 200" stroke="#2b3a42" stroke-width="3" marker-end="url(#a1-L-08-011-06-disturbance-recovery)"/>
 
   <!-- panel 3: recovery -->
   <rect x="372" y="80" width="120" height="240" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -40,10 +40,10 @@
   <circle cx="436" cy="188" r="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
   <circle cx="452" cy="230" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
   <text x="432" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">recovery</text>
-  <text x="432" y="316" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#4f6d7a">life returns</text>
+  <text x="432" y="316" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">life returns</text>
 
   <defs>
-    <marker id="a1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="a1-L-08-011-06-disturbance-recovery" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0 0 L8 3 L0 6 Z" fill="#2b3a42"/>
     </marker>
   </defs>

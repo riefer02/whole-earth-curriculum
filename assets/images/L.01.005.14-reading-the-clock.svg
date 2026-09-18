@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Telling time: o'clock and half past</title>
-  <desc id="desc">Two clock faces are shown side by side. The left clock shows 3 o'clock: the short hour hand points to the 3 and the long minute hand points straight up to the 12, written 3:00. The right clock shows half past 3: the short hour hand points between the 3 and the 4 and the long minute hand points down to the 6, written 3:30. Each clock has all twelve numbers and tick marks. A note explains the short hand tells the hour and the long hand tells the minutes, and that people have kept time in many ways. Numbers and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-01-005-14-reading-the-clock desc-L-01-005-14-reading-the-clock">
+  <title id="title-L-01-005-14-reading-the-clock">Telling time: o'clock and half past</title>
+  <desc id="desc-L-01-005-14-reading-the-clock">Two clock faces are shown side by side. The left clock shows 3 o'clock: the short hour hand points to the 3 and the long minute hand points straight up to the 12, written 3:00. The right clock shows half past 3: the short hour hand points between the 3 and the 4 and the long minute hand points down to the 6, written 3:30. Each clock has all twelve numbers and tick marks. A note explains the short hand tells the hour and the long hand tells the minutes, and that people have kept time in many ways. Numbers and labels carry the meaning, so the picture prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -82,6 +82,6 @@
   <text x="362" y="378" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">half past 3</text>
   <text x="362" y="400" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">= 3:30</text>
 
-  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">People have kept time in many ways &#8212; sun, sand, water, and the clock.</text>
-  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A clock turns the day's rhythm into numbers you can read and write.</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">People have kept time in many ways &#8212; sun, sand, water, and the clock.</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">A clock turns the day's rhythm into numbers you can read and write.</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title desc">
-  <title id="title">Evaluate through three lenses</title>
-  <desc id="desc">A poster titled "Evaluate through three lenses." In the center is a simple drawing of a building entrance with a staircase and a heavy door. Three labeled lenses point to it: "Does it work?" (function — it shelters and lets people in), "Who is left out?" (access and equity — a figure in a wheelchair faces the steps and a person with a cane faces the heavy door), and "Effect on the environment?" (materials, energy, waste — concrete and glass, lights left on). A footer reads "a good critique names what works, who is left out, and the cost to the Earth." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title-L-06-007-08-three-lenses-critique desc-L-06-007-08-three-lenses-critique">
+  <title id="title-L-06-007-08-three-lenses-critique">Evaluate through three lenses</title>
+  <desc id="desc-L-06-007-08-three-lenses-critique">A poster titled "Evaluate through three lenses." In the center is a simple drawing of a building entrance with a staircase and a heavy door. Three labeled lenses point to it: "Does it work?" (function — it shelters and lets people in), "Who is left out?" (access and equity — a figure in a wheelchair faces the steps and a person with a cane faces the heavy door), and "Effect on the environment?" (materials, energy, waste — concrete and glass, lights left on). A footer reads "a good critique names what works, who is left out, and the cost to the Earth." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="560" fill="#fdfbf7"/>
   <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Evaluate Through Three Lenses</text>
@@ -27,7 +27,7 @@
     <text x="40" y="168" font-family="sans-serif" font-size="12" fill="#2b3a42">function —</text>
     <text x="40" y="186" font-family="sans-serif" font-size="12" fill="#2b3a42">it shelters people</text>
     <text x="40" y="204" font-family="sans-serif" font-size="12" fill="#2b3a42">and lets many in</text>
-    <line x1="190" y1="180" x2="196" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+    <line x1="190" y1="180" x2="196" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8-L-06-007-08-three-lenses-critique)"/>
   </g>
 
   <!-- lens 2: who is left out (top right) -->
@@ -38,17 +38,17 @@
     <text x="354" y="186" font-family="sans-serif" font-size="12" fill="#2b3a42">steps block a wheelchair,</text>
     <text x="354" y="207" font-family="sans-serif" font-size="12" fill="#2b3a42">a heavy door blocks</text>
     <text x="354" y="222.6" font-family="sans-serif" font-size="12" fill="#2b3a42">weak grips</text>
-    <line x1="338" y1="180" x2="316" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+    <line x1="338" y1="180" x2="316" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8-L-06-007-08-three-lenses-critique)"/>
   </g>
 
   <!-- lens 3: environment (bottom right) -->
   <g>
     <rect x="338" y="360" width="150" height="120" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
-    <text x="413" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Effect on the environment?</text>
+    <text x="413" y="384" text-anchor="middle" font-family="sans-serif" font-size="13.3" font-weight="bold" fill="#2b3a42">Effect on the environment?</text>
     <text x="354" y="408" font-family="sans-serif" font-size="12" fill="#2b3a42">materials, energy, waste —</text>
     <text x="354" y="426" font-family="sans-serif" font-size="12" fill="#2b3a42">concrete and glass cost</text>
     <text x="354" y="444" font-family="sans-serif" font-size="12" fill="#2b3a42">energy; lights stay on</text>
-    <line x1="338" y1="420" x2="326" y2="380" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8)"/>
+    <line x1="338" y1="420" x2="326" y2="380" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8-L-06-007-08-three-lenses-critique)"/>
   </g>
 
   <!-- wheelchair figure facing steps -->
@@ -72,11 +72,11 @@
   </g>
 
   <defs>
-    <marker id="arr8" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+    <marker id="arr8-L-06-007-08-three-lenses-critique" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
       <path d="M0,0 L7,3 L0,6 Z" fill="#2b3a42"/>
     </marker>
   </defs>
 
-  <text x="256" y="510" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">a good critique names what works, who is left out, and the cost to the Earth</text>
+  <text x="256" y="510" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#2b3a42">a good critique names what works, who is left out, and the cost to the Earth</text>
   <text x="256" y="538" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and it always ends in a better idea</text>
 </svg>
