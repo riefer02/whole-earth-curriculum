@@ -32,7 +32,7 @@
     <circle cx="96" cy="110" r="10"/>
   </g>
   <path d="M50 128 Q56 122 62 128" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
-  <text x="80" y="146" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a cloud moved</text>
+  <text x="80" y="154" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a cloud moved</text>
 
   <!-- Raindrop clue -->
   <g stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round">
@@ -40,7 +40,7 @@
     <line x1="156" y1="128" x2="152" y2="140"/>
     <line x1="128" y1="140" x2="124" y2="152"/>
   </g>
-  <text x="142" y="166" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">rain fell</text>
+  <text x="142" y="174" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">rain fell</text>
 
   <!-- Falling leaf clue -->
   <path d="M360 150 Q350 172 362 190 Q374 172 360 150 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
