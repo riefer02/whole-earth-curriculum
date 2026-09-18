@@ -101,7 +101,8 @@
     <rect x="416" y="246" width="88" height="150" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.4"/>
     <path d="M460 328 q-14 14 -22 2 q10 -8 4 -18 q12 -4 18 16 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
     <path d="M458 296 q-10 -6 -4 -14 q10 2 8 12 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="460" y="366" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">root vegetable</text>
+    <text x="460" y="358" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">root</text>
+    <text x="460" y="374" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">vegetable</text>
   </g>
 
   <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Every family&#8217;s food is worthy of honor.</text>

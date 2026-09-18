@@ -67,11 +67,11 @@
     <path d="M298 430 L306 388" stroke-width="14" fill="none"/>
   </g>
   <!-- finger labels -->
-  <text x="184" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">caregiver</text>
-  <text x="222" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">grandparent</text>
-  <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">teacher</text>
-  <text x="290" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">nurse</text>
-  <text x="328" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">neighbor</text>
+  <text x="190" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">caregiver</text>
+  <text x="222" y="358" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">grandparent</text>
+  <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">teacher</text>
+  <text x="290" y="358" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">nurse</text>
+  <text x="322" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">neighbor</text>
 
   <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="15.3" font-weight="bold" fill="#2b3a42">You choose who you trust — one trusted adult on each finger.</text>
   <text x="256" y="82" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Asking for help is a strength. Telling is never wrong,</text>

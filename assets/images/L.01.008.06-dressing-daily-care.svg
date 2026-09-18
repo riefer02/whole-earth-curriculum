@@ -56,7 +56,8 @@
     <path d="M436 108 L484 108 L484 168 L460 168 L448 148 L436 168 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
     <line x1="452" y1="124" x2="452" y2="160" stroke="#8f5f3d" stroke-width="2"/>
     <path d="M446 132 q6 6 12 0" fill="none" stroke="#8f5f3d" stroke-width="2" stroke-linecap="round"/>
-    <text x="460" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">wrap / sash</text>
+    <text x="460" y="188" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">wrap /</text>
+    <text x="460" y="204" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">sash</text>
   </g>
 
   <text x="256" y="244.8" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Much of the world&#8217;s clothing wraps, ties, or uses a sash or</text>
