@@ -51,9 +51,9 @@
   <line x1="150" y1="136" x2="146" y2="139" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
   <!-- speech bubble -->
-  <rect x="200" y="102" width="150" height="44" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M236 146 L244 160 L228 146 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-  <text x="275" y="130" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I choose the song</text>
+  <rect x="200" y="80" width="150" height="44" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M258 124 L266 138 L250 124 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="275" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">I choose the song</text>
 
   <!-- ===== Child C ===== -->
   <g>
