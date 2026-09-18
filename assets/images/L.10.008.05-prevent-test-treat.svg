@@ -47,16 +47,16 @@
   <!-- curable vs manageable -->
   <g font-family="sans-serif" stroke="#2b3a42" stroke-width="1.5">
     <rect x="36" y="286" width="210" height="86" rx="8" fill="#ffffff"/>
-    <text x="141" y="312" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">Some are curable</text>
-    <text x="141" y="334" text-anchor="middle" font-size="12" fill="#4f6d7a">Cured with medicine</text>
-    <text x="141" y="354" text-anchor="middle" font-size="12" fill="#4f6d7a">(syphilis, gonorrhoea,</text>
-    <text x="141" y="370" text-anchor="middle" font-size="12" fill="#4f6d7a">chlamydia, trichomoniasis)</text>
+    <text stroke="none" x="141" y="312" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">Some are curable</text>
+    <text stroke="none" x="141" y="334" text-anchor="middle" font-size="12" fill="#4f6d7a">Cured with medicine</text>
+    <text stroke="none" x="141" y="354" text-anchor="middle" font-size="12" fill="#4f6d7a">(syphilis, gonorrhoea,</text>
+    <text stroke="none" x="141" y="370" text-anchor="middle" font-size="12" fill="#4f6d7a">chlamydia, trichomoniasis)</text>
 
     <rect x="266" y="286" width="210" height="86" rx="8" fill="#ffffff"/>
-    <text x="371" y="312" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">Some are manageable</text>
-    <text x="371" y="334" text-anchor="middle" font-size="12" fill="#4f6d7a">Treated over time</text>
-    <text x="371" y="354" text-anchor="middle" font-size="12" fill="#4f6d7a">(HIV, herpes, HPV,</text>
-    <text x="371" y="370" text-anchor="middle" font-size="12" fill="#4f6d7a">hepatitis B)</text>
+    <text stroke="none" x="371" y="312" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">Some are manageable</text>
+    <text stroke="none" x="371" y="334" text-anchor="middle" font-size="12" fill="#4f6d7a">Treated over time</text>
+    <text stroke="none" x="371" y="354" text-anchor="middle" font-size="12" fill="#4f6d7a">(HIV, herpes, HPV,</text>
+    <text stroke="none" x="371" y="370" text-anchor="middle" font-size="12" fill="#4f6d7a">hepatitis B)</text>
   </g>
 
   <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Prevention, testing, and treatment are self-care and mutual care.</text>

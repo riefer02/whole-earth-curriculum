@@ -35,19 +35,19 @@
   <!-- what they say -->
   <g font-family="sans-serif" stroke="#2b3a42" stroke-width="1.5">
     <rect x="36" y="250" width="133" height="96" rx="8" fill="#ffffff"/>
-    <text x="102" y="276" text-anchor="middle" font-size="11" fill="#222222">&#8220;Here is the evidence</text>
-    <text x="102" y="294" text-anchor="middle" font-size="11" fill="#222222">and the risks, so you</text>
-    <text x="102" y="312" text-anchor="middle" font-size="11" fill="#222222">can decide.&#8221;</text>
+    <text stroke="none" x="102" y="276" text-anchor="middle" font-size="11" fill="#222222">&#8220;Here is the evidence</text>
+    <text stroke="none" x="102" y="294" text-anchor="middle" font-size="11" fill="#222222">and the risks, so you</text>
+    <text stroke="none" x="102" y="312" text-anchor="middle" font-size="11" fill="#222222">can decide.&#8221;</text>
 
     <rect x="189" y="250" width="133" height="96" rx="8" fill="#ffffff"/>
-    <text x="255" y="276" text-anchor="middle" font-size="11" fill="#222222">&#8220;Everyone&#8217;s doing it &#8212;</text>
-    <text x="255" y="294" text-anchor="middle" font-size="11" fill="#222222">don&#8217;t you want to</text>
-    <text x="255" y="312" text-anchor="middle" font-size="11" fill="#222222">fit in?&#8221;</text>
+    <text stroke="none" x="255" y="276" text-anchor="middle" font-size="11" fill="#222222">&#8220;Everyone&#8217;s doing it &#8212;</text>
+    <text stroke="none" x="255" y="294" text-anchor="middle" font-size="11" fill="#222222">don&#8217;t you want to</text>
+    <text stroke="none" x="255" y="312" text-anchor="middle" font-size="11" fill="#222222">fit in?&#8221;</text>
 
     <rect x="342" y="250" width="134" height="96" rx="8" fill="#ffffff"/>
-    <text x="409" y="276" text-anchor="middle" font-size="11" fill="#222222">&#8220;This will change</text>
-    <text x="409" y="294" text-anchor="middle" font-size="11" fill="#222222">your life &#8212; buy</text>
-    <text x="409" y="312" text-anchor="middle" font-size="11" fill="#222222">it now!&#8221;</text>
+    <text stroke="none" x="409" y="276" text-anchor="middle" font-size="11" fill="#222222">&#8220;This will change</text>
+    <text stroke="none" x="409" y="294" text-anchor="middle" font-size="11" fill="#222222">your life &#8212; buy</text>
+    <text stroke="none" x="409" y="312" text-anchor="middle" font-size="11" fill="#222222">it now!&#8221;</text>
   </g>
 
   <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Ask: &#8220;What does this person gain if I believe them?&#8221;</text>

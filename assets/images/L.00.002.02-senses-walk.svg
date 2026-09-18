@@ -27,8 +27,8 @@
 
   <!-- Ground -->
   <rect x="0" y="360" width="512" height="152" fill="#dbe6d2"/>
-  <!-- Path -->
-  <path d="M226 512 L286 512 L296 360 L216 360 Z" fill="#e9e0cc"/>
+  <!-- Path (stops above the icon row) -->
+  <path d="M236 424 L276 424 L296 360 L216 360 Z" fill="#e9e0cc"/>
 
   <!-- Tree -->
   <g>
@@ -87,31 +87,31 @@
       <rect x="18" y="424" width="84" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
       <path d="M40 452 Q60 438 80 452 Q60 466 40 452 Z" fill="#ffffff"/>
       <circle cx="60" cy="452" r="6" fill="#2b3a42"/>
-      <text x="60" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">see</text>
+      <text x="60" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222" stroke="none">see</text>
     </g>
     <!-- ear -->
     <g>
       <rect x="112" y="424" width="84" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
       <path d="M150 436 Q138 452 150 468" fill="none" stroke="#2b3a42" stroke-width="4"/>
-      <text x="154" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">hear</text>
+      <text x="154" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222" stroke="none">hear</text>
     </g>
     <!-- nose -->
     <g>
       <rect x="206" y="424" width="84" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
       <path d="M238 438 L258 438 L248 462 Z" fill="#ffffff"/>
-      <text x="248" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">smell</text>
+      <text x="248" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222" stroke="none">smell</text>
     </g>
     <!-- hand -->
     <g>
       <rect x="300" y="424" width="84" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
       <path d="M334 442 L334 452 L326 458 L326 452 L320 454 L322 446 L332 440 Z" fill="#e6bb92"/>
-      <text x="342" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">touch</text>
+      <text x="342" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222" stroke="none">touch</text>
     </g>
     <!-- mouth -->
     <g>
-      <rect x="394" y="424" width="100" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
-      <path d="M424 448 Q444 462 464 448" fill="none" stroke="#2b3a42" stroke-width="3"/>
-      <text x="444" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">taste</text>
+      <rect x="394" y="424" width="84" height="76" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-opacity="0.4"/>
+      <path d="M416 448 Q436 462 456 448" fill="none" stroke="#2b3a42" stroke-width="3"/>
+      <text x="436" y="490" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222" stroke="none">taste</text>
     </g>
   </g>
 </svg>
