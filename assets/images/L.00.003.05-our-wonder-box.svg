@@ -11,10 +11,10 @@
   <g>
     <rect x="166" y="150" width="36" height="64" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
     <text x="184" y="184" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">?</text>
-    <rect x="238" y="138" width="56" height="76" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="266" y="178" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Why?</text>
-    <rect x="310" y="150" width="56" height="64" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="338" y="184" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">How?</text>
+    <rect x="232" y="138" width="60" height="76" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="262" y="178" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Why?</text>
+    <rect x="312" y="150" width="60" height="64" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="342" y="184" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">How?</text>
   </g>
 
   <!-- box -->
