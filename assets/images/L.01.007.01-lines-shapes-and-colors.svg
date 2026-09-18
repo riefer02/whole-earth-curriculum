@@ -29,7 +29,8 @@
     <text x="256" y="224" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">triangle</text>
     <rect x="282" y="154" width="44" height="44" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <text x="304" y="224" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">square</text>
-    <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">shapes can join into new shapes</text>
+    <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">shapes can join</text>
+    <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">into new shapes</text>
   </g>
 
   <!-- ===== Panel 3: colors ===== -->
@@ -49,8 +50,7 @@
     <line x1="375" y1="262" x2="404" y2="286" stroke="#2b3a42" stroke-width="2"/>
     <line x1="360" y1="278" x2="404" y2="278" stroke="#2b3a42" stroke-width="2"/>
     <text x="414" y="287" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">blue</text>
-    <text x="415" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">red, yellow, blue</text>
-    <text x="415" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and many more</text>
+    <text x="415" y="316" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and many more</text>
   </g>
 
   <!-- ===== Bottom: put them together ===== -->
@@ -60,11 +60,11 @@
     <!-- sun (circle) -->
     <circle cx="84" cy="412" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <!-- house: triangle roof + square body -->
-    <path d="M190 390 L236 360 L282 390 Z" fill="#c47a6b" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <rect x="196" y="390" width="80" height="52" rx="2" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <rect x="226" y="412" width="20" height="30" rx="2" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M190 400 L236 370 L282 400 Z" fill="#c47a6b" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="196" y="400" width="80" height="52" rx="2" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="226" y="422" width="20" height="30" rx="2" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
     <!-- wiggly ground line -->
-    <path d="M116 452 Q132 444 148 452 Q164 460 180 452 Q196 444 212 452 Q228 460 244 452" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M116 460 Q132 452 148 460 Q164 468 180 460 Q196 452 212 460 Q228 468 244 460" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
     <text x="312" y="400" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a sun, a house,</text>
     <text x="312" y="420" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a path —</text>
     <text x="312" y="440" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">your own picture</text>

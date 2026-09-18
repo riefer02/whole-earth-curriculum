@@ -55,7 +55,8 @@
   <!-- ===== 3 · change one thing ===== -->
   <g>
     <rect x="350" y="96" width="140" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="420" y="124" text-anchor="middle" font-family="sans-serif" font-size="16.0" font-weight="bold" fill="#7a9e7e">3 · change one thing</text>
+    <text x="420" y="118" text-anchor="middle" font-family="sans-serif" font-size="16.0" font-weight="bold" fill="#7a9e7e">3 · change</text>
+    <text x="420" y="138" text-anchor="middle" font-family="sans-serif" font-size="16.0" font-weight="bold" fill="#7a9e7e">one thing</text>
     <!-- tower with wide base -->
     <rect x="382" y="252" width="76" height="22" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <rect x="394" y="228" width="52" height="22" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
