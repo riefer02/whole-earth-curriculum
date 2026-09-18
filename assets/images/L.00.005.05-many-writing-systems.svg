@@ -40,7 +40,8 @@
     <rect x="380" y="248" width="112" height="132" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-dasharray="7 6"/>
     <text x="436" y="300" font-family="sans-serif" font-size="30" font-weight="bold" fill="#4f6d7a">?</text>
     <text x="436" y="340" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">Yours!</text>
-    <text x="436" y="360" font-family="sans-serif" font-size="12" fill="#4f6d7a">(your home script)</text>
+    <text x="436" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(your home</text>
+    <text x="436" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">script)</text>
   </g>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">Every writing system is a treasure — none is "the real one."</text>

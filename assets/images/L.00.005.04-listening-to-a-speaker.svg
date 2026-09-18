@@ -27,7 +27,8 @@
 
   <!-- Speech bubble -->
   <path d="M96 120 Q96 96 122 96 L210 96 Q224 96 224 108 L224 138 Q224 150 210 150 L152 150 L142 162 L144 150 L122 150 Q96 150 96 138 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="160" y="128" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">one important thing</text>
+  <text x="160" y="122" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">one important</text>
+  <text x="160" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">thing</text>
 
   <!-- Listener (right) -->
   <g>
@@ -49,20 +50,20 @@
 
   <!-- Two listening insets -->
   <rect x="30" y="366" width="218" height="94" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
-  <circle cx="86" cy="412" r="18" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M68 410 A18 18 0 0 1 104 410 Z" fill="#2b3a42"/>
-  <path d="M80 412 Q84 409 88 412" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <path d="M92 412 Q96 409 100 412" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <text x="150" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">some look down</text>
-  <text x="150" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">to listen with respect</text>
+  <circle cx="78" cy="412" r="18" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M60 410 A18 18 0 0 1 96 410 Z" fill="#2b3a42"/>
+  <path d="M72 412 Q76 409 80 412" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M84 412 Q88 409 92 412" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="162" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">some look down</text>
+  <text x="162" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">to listen with respect</text>
 
   <rect x="264" y="366" width="218" height="94" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
-  <circle cx="320" cy="412" r="18" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M302 410 A18 18 0 0 1 338 410 Z" fill="#4f6d7a"/>
-  <circle cx="314" cy="412" r="2" fill="#2b3a42"/>
-  <circle cx="326" cy="412" r="2" fill="#2b3a42"/>
-  <text x="392" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">some watch the hands</text>
-  <text x="392" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">(sign, or pointing)</text>
+  <circle cx="310" cy="412" r="18" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M292 410 A18 18 0 0 1 328 410 Z" fill="#4f6d7a"/>
+  <circle cx="304" cy="412" r="2" fill="#2b3a42"/>
+  <circle cx="316" cy="412" r="2" fill="#2b3a42"/>
+  <text x="396" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">some watch the hands</text>
+  <text x="396" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">(sign, or pointing)</text>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Be present, don't interrupt, let them finish.</text>
 </svg>

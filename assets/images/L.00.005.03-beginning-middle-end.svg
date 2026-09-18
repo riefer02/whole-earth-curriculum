@@ -13,7 +13,7 @@
   <path d="M50 206 L52 222 M70 202 L72 222 M90 200 L92 222 M110 202 L112 222" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
   <path d="M62 214 A26 26 0 0 1 62 166" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   <circle cx="62" cy="190" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="85" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">first</text>
+  <text x="85" y="264" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">first</text>
 
   <!-- Arrow 1 -> 2 -->
   <path d="M155 172 L181 172" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
@@ -25,7 +25,7 @@
   <circle cx="256" cy="180" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <path d="M256 142 L256 132 M256 218 L256 228 M218 180 L208 180 M294 180 L304 180 M229 153 L222 146 M283 153 L290 146 M229 207 L222 214 M283 207 L290 214" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
   <path d="M221 214 L291 214" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
-  <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">next</text>
+  <text x="256" y="264" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">next</text>
 
   <!-- Arrow 2 -> 3 -->
   <path d="M326 172 L352 172" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
@@ -39,7 +39,7 @@
   <path d="M430 214 A26 26 0 0 0 430 166" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   <circle cx="430" cy="190" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <path d="M420 196 Q412 206 404 210" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
-  <text x="427" y="250" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">last</text>
+  <text x="427" y="264" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">last</text>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">First, next, last — the order helps your listeners follow you.</text>
 </svg>

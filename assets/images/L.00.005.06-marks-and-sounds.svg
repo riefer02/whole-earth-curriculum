@@ -17,6 +17,7 @@
   <path d="M250 132 Q240 132 240 142 Q240 154 252 158 Q264 162 272 152 Q278 142 272 134 Q266 128 258 128 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
   <path d="M250 138 Q246 142 248 146 Q250 149 252 146" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <path d="M340 136 Q354 130 368 136 Q354 148 340 136 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M347 139 Q354 144 361 139" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <text x="366" y="164" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">say it &#183; hear it</text>
 
   <!-- Row 2 -->
@@ -27,6 +28,7 @@
   <path d="M250 240 Q240 240 240 250 Q240 262 252 266 Q264 270 272 260 Q278 250 272 242 Q266 236 258 236 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
   <path d="M250 246 Q246 250 248 254 Q250 257 252 254" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <path d="M340 244 Q354 238 368 244 Q354 256 340 244 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M347 247 Q354 252 361 247" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <text x="366" y="272" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">say it &#183; hear it</text>
 
   <!-- Row 3 -->
@@ -37,6 +39,7 @@
   <path d="M250 348 Q240 348 240 358 Q240 370 252 374 Q264 378 272 368 Q278 358 272 350 Q266 344 258 344 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
   <path d="M250 354 Q246 358 248 362 Q250 365 252 362" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <path d="M340 352 Q354 346 368 352 Q354 364 340 352 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M347 355 Q354 360 361 355" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <text x="366" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">say it &#183; hear it</text>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">Every writing system pairs its marks with sounds in its own way.</text>

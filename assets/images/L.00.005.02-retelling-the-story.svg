@@ -36,9 +36,9 @@
   <text x="414" y="244" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">last: it blooms</text>
 
   <!-- Star + pointer on frame 3 -->
-  <path d="M470 78 L472 86 L480 88 L472 90 L470 98 L468 90 L460 88 L468 86 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-  <path d="M430 300 L442 288" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="428" cy="302" r="4" fill="#2b3a42"/>
+  <path d="M468 106 L470 114 L478 116 L470 118 L468 126 L466 118 L458 116 L466 114 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M436 296 L428 258" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="438" cy="298" r="4" fill="#2b3a42"/>
 
   <!-- Speech bubble -->
   <path d="M150 300 Q150 276 178 276 L336 276 Q350 276 350 288 L350 322 Q350 334 336 334 L196 334 L186 348 L188 334 L178 334 Q150 334 150 322 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
