@@ -30,13 +30,13 @@
 
   <!-- In: seed -->
   <path d="M256 216 q10 9 0 18 q-10 -9 0 -18 z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-  <text x="196" y="214" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">in</text>
-  <line x1="212" y1="218" x2="242" y2="224" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="172" y="204" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">in</text>
+  <line x1="188" y1="208" x2="242" y2="224" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
 
   <!-- Under: pebble -->
   <ellipse cx="256" cy="392" rx="24" ry="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="196" y="404" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">under</text>
-  <line x1="214" y1="398" x2="234" y2="394" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="150" y="404" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">under</text>
+  <line x1="216" y1="398" x2="234" y2="394" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
 
   <!-- Beside: seed -->
   <path d="M384 300 q11 10 0 20 q-11 -10 0 -20 z" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
