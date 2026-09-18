@@ -22,7 +22,7 @@
 
   <!-- Step 3: grow -->
   <rect x="296" y="162" width="120" height="96" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-  <text x="356" y="192" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">grow</text>
+  <text x="356" y="194" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">grow</text>
   <line x1="356" y1="238" x2="356" y2="222" stroke="#7a9e7e" stroke-width="3.5" stroke-linecap="round"/>
   <circle cx="356" cy="216" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="349" cy="211" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
@@ -32,14 +32,14 @@
 
   <!-- ===== Big star with proud face ===== -->
   <g>
-    <path d="M356 96 L368 126 L400 130 L374 152 L380 184 L356 170 L332 184 L338 152 L312 130 L344 126 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
-    <circle cx="342" cy="150" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="374" cy="150" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="356" cy="150" r="27" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="346" cy="140" r="3" fill="#2b3a42"/>
-    <circle cx="366" cy="140" r="3" fill="#2b3a42"/>
-    <path d="M342 160 Q356 172 370 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="356" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">proud!</text>
+    <path d="M356 82 L368 112 L400 116 L374 138 L380 170 L356 156 L332 170 L338 138 L312 116 L344 112 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="342" cy="136" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="374" cy="136" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="356" cy="136" r="27" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="346" cy="126" r="3" fill="#2b3a42"/>
+    <circle cx="366" cy="126" r="3" fill="#2b3a42"/>
+    <path d="M342 146 Q356 158 370 146" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="356" y="278" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">proud!</text>
   </g>
 
   <!-- Arrow up the steps -->

@@ -55,7 +55,7 @@
   <text x="380" y="126" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#4f6d7a">STOP</text>
 
   <!-- open palm stop cue -->
-  <g>
+  <g transform="translate(0 20)">
     <rect x="360" y="150" width="40" height="36" rx="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
     <rect x="356" y="122" width="10" height="36" rx="5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
     <rect x="369" y="118" width="10" height="40" rx="5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>

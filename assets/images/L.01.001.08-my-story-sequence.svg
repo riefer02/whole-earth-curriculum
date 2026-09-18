@@ -76,10 +76,10 @@
   <line x1="156" y1="350" x2="174" y2="350" stroke="#4f6d7a" stroke-width="1.8"/>
   <line x1="156" y1="360" x2="174" y2="360" stroke="#4f6d7a" stroke-width="1.8"/>
 
-  <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">facts + feelings +</text>
-  <text x="256" y="358" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">proud moment + family story</text>
-  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">told with my voice, my pictures,</text>
-  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">and my words</text>
+  <text x="300" y="338" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">facts + feelings +</text>
+  <text x="300" y="358" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">proud moment + family story</text>
+  <text x="300" y="386" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">told with my voice, my pictures,</text>
+  <text x="300" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">and my words</text>
 
   <!-- Bottom note -->
   <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Your story has never been told by anyone else.</text>

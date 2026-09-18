@@ -24,21 +24,21 @@
   <text x="48" y="356" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">I felt</text>
 
   <!-- proud face -->
-  <circle cx="122" cy="320" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="160" cy="320" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="141" cy="320" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="131" cy="311" r="3" fill="#2b3a42"/>
-  <circle cx="151" cy="311" r="3" fill="#2b3a42"/>
-  <path d="M127 331 Q141 341 155 331" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="122" cy="368" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="160" cy="368" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="141" cy="368" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="131" cy="359" r="3" fill="#2b3a42"/>
+  <circle cx="151" cy="359" r="3" fill="#2b3a42"/>
+  <path d="M127 379 Q141 389 155 379" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
   <text x="194" y="356" font-family="sans-serif" font-size="34" font-weight="bold" fill="#2b3a42">when</text>
 
   <!-- swimmer -->
-  <circle cx="260" cy="328" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M252 323 A13 13 0 0 1 268 323 Z" fill="#2b3a42"/>
-  <path d="M247 328 Q260 322 273 328 Q260 334 247 328 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M272 332 L284 328" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-  <path d="M272 338 L284 342" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="260" cy="372" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M252 367 A13 13 0 0 1 268 367 Z" fill="#2b3a42"/>
+  <path d="M247 372 Q260 366 273 372 Q260 378 247 372 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M272 376 L284 372" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <path d="M272 382 L284 386" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
 
   <text x="330" y="361.5" font-family="sans-serif" font-size="30" fill="#2b3a42">learned to</text>
   <text x="330" y="400.5" font-family="sans-serif" font-size="30" fill="#2b3a42">swim.</text>
