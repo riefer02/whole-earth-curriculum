@@ -9,7 +9,7 @@
 
   <!-- Left panel: join -->
   <rect x="24" y="96" width="226" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="137" y="124" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">JOINING (add)</text>
+  <text x="137" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">JOINING (add)</text>
 
   <!-- pond -->
   <ellipse cx="137" cy="262" rx="82" ry="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
@@ -37,7 +37,7 @@
 
   <!-- Right panel: take away -->
   <rect x="262" y="96" width="226" height="392" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="375" y="124" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">TAKING AWAY (subtract)</text>
+  <text x="375" y="124" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">TAKING AWAY (subtract)</text>
 
   <!-- pond -->
   <ellipse cx="375" cy="262" rx="82" ry="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>

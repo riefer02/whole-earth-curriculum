@@ -120,8 +120,8 @@
 
   <text x="256" y="366" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Twelve bundles of ten make one hundred twenty.</text>
 
-  <rect x="76" y="392" width="360" height="92" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Ten fingers make a group of ten.</text>
-  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Counting by tens keeps a long count from getting lost.</text>
-  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Counting is a rhythm everyone can join &#8212; never a race.</text>
+  <rect x="76" y="388" width="360" height="96" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Ten fingers make a group of ten.</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Counting by tens keeps a long count from getting lost.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Counting is a rhythm everyone can join &#8212; never a race.</text>
 </svg>

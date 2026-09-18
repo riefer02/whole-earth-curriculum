@@ -19,8 +19,8 @@
 
   <!-- Callout: face -->
   <circle cx="138" cy="252" r="4" fill="#e0a458"/>
-  <line x1="58" y1="260" x2="134" y2="254" stroke="#4f6d7a" stroke-width="2"/>
-  <text x="52" y="266" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">face</text>
+  <line x1="46" y1="260" x2="134" y2="254" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="40" y="266" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">face</text>
 
   <!-- Callout: side (edge) -->
   <circle cx="180" cy="250" r="4" fill="#e0a458"/>

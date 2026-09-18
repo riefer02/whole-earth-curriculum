@@ -53,8 +53,8 @@
     <line x1="96" y1="366" x2="68" y2="380"/>
   </g>
   <line x1="150" y1="314" x2="68" y2="380" stroke="#e0a458" stroke-width="2.5" stroke-dasharray="5 4"/>
-  <line x1="160" y1="330" x2="150" y2="320" stroke="#4f6d7a" stroke-width="1.5"/>
-  <text x="166" y="336" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">hand span</text>
+  <line x1="172" y1="330" x2="150" y2="320" stroke="#4f6d7a" stroke-width="1.5"/>
+  <text x="178" y="336" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">hand span</text>
   <text x="118" y="404" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">thumb to little finger</text>
 
   <!-- Body measures note -->
