@@ -40,7 +40,7 @@
     <rect x="420" y="222" width="10" height="34" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="425" cy="212" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <!-- ear icon -->
-    <path d="M372 134 Q352 134 352 112 Q352 90 372 86 Q384 84 384 100 Q384 116 372 116 L373 142 Q373 154 360 154 Q350 154 350 142 L361 142" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M302 144 Q282 144 282 122 Q282 100 302 96 Q314 94 314 110 Q314 126 302 126 L303 152 Q303 164 290 164 Q280 164 280 152 L291 152" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   </g>
 
   <!-- panel 3: sea (nose) -->
@@ -74,10 +74,10 @@
     <path d="M412 332 L396 360 L416 360 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
     <!-- hand icon -->
     <g>
-      <rect x="360" y="120" width="14" height="18" rx="6" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-      <path d="M356 122 Q356 104 368 102" fill="none" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
-      <path d="M362 118 Q366 100 380 100" fill="none" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
-      <path d="M370 120 Q376 102 392 102" fill="none" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+      <rect x="297" y="130" width="14" height="18" rx="6" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M286 132 Q286 114 298 112" fill="none" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+      <path d="M292 128 Q296 110 310 110" fill="none" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
+      <path d="M300 130 Q306 112 322 112" fill="none" stroke="#e6bb92" stroke-width="6" stroke-linecap="round"/>
     </g>
   </g>
 
