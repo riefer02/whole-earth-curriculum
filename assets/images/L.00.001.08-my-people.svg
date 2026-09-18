@@ -75,7 +75,7 @@
   <text x="380" y="254" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">two grown-ups and me</text>
 
   <!-- ===== Panel 3: my grandparent and me ===== -->
-  <g>
+  <g transform="translate(0 194)">
     <!-- grandparent (grey hair, glasses, cane) -->
     <circle cx="118" cy="156" r="15" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <path d="M108 150 A15 15 0 0 1 128 150 Z" fill="#4f6d7a"/>
@@ -102,7 +102,7 @@
   <text x="132" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">my grandparent and me</text>
 
   <!-- ===== Panel 4: friends and neighbors ===== -->
-  <g>
+  <g transform="translate(0 194)">
     <!-- child standing -->
     <circle cx="336" cy="190" r="10" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
     <path d="M330 185 A10 10 0 0 1 342 185 Z" fill="#2b3a42"/>

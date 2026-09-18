@@ -37,7 +37,8 @@
       <path d="M284 184 Q294 208 284 232"/>
       <path d="M294 176 Q306 208 294 240"/>
     </g>
-    <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">loud &#183; quiet &#183; fast &#183; slow</text>
+    <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">loud &#183; quiet</text>
+    <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">fast &#183; slow</text>
   </g>
 
   <!-- Card 3: BODY -->

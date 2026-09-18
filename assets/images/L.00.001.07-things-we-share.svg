@@ -11,7 +11,11 @@
 
   <!-- food (bowl) -->
   <g>
-    <path d="M34 180 A26 26 0 0 0 86 180 L80 204 L40 204 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M32 178 L88 178 L80 208 Q60 214 40 208 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="60" cy="178" rx="28" ry="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="50" cy="176" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="62" cy="174" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="72" cy="177" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
     <path d="M52 150 Q50 144 52 138" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
     <path d="M66 146 Q64 140 66 134" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
     <text x="60" y="244" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">food</text>

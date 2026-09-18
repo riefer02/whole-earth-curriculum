@@ -48,12 +48,12 @@
   <g>
     <rect x="348" y="326" width="64" height="38" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <rect x="346" y="320" width="68" height="10" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-    <ellipse cx="356" cy="298" rx="6" ry="4.5" fill="#2b3a42"/>
-    <line x1="362" y1="298" x2="362" y2="280" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
-    <path d="M362 280 Q372 284 374 294" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
-    <ellipse cx="392" cy="292" rx="5.5" ry="4" fill="#2b3a42"/>
-    <line x1="397" y1="292" x2="397" y2="276" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
-    <path d="M397 276 Q405 280 407 288" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="356" cy="310" rx="6" ry="4.5" fill="#2b3a42"/>
+    <line x1="362" y1="310" x2="362" y2="292" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M362 292 Q372 296 374 306" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="392" cy="304" rx="5.5" ry="4" fill="#2b3a42"/>
+    <line x1="397" y1="304" x2="397" y2="288" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M397 288 Q405 292 407 300" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
   </g>
 
   <!-- Bottom note -->
