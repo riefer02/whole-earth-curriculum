@@ -9,9 +9,9 @@
   <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Face + voice + body, then ask</text>
 
   <!-- Panel frames -->
-  <rect x="18" y="94" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="181" y="94" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="344" y="94" width="150" height="210" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="18" y="94" width="150" height="222" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="181" y="94" width="150" height="222" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="344" y="94" width="150" height="222" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- ===== Panel 1: face clue ===== -->
   <g>
@@ -45,20 +45,20 @@
 
   <!-- ===== Panel 3: body clue ===== -->
   <g>
-    <circle cx="419" cy="148" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M399 146 A20 20 0 0 1 439 146 Z" fill="#4f6d7a"/>
-    <circle cx="413" cy="148" r="2" fill="#2b3a42"/>
-    <circle cx="425" cy="148" r="2" fill="#2b3a42"/>
-    <path d="M413 157 Q419 162 425 157" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="419" cy="134" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M399 132 A20 20 0 0 1 439 132 Z" fill="#4f6d7a"/>
+    <circle cx="413" cy="134" r="2" fill="#2b3a42"/>
+    <circle cx="425" cy="134" r="2" fill="#2b3a42"/>
+    <path d="M413 143 Q419 148 425 143" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <!-- slumped body, arms hugging in -->
-    <path d="M404 188 Q406 184 408 178 Q419 200 430 178 Q432 184 434 188 L432 244 Q432 258 418 258 L406 258 Q404 244 404 188 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M410 192 Q402 202 410 214" fill="none" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <path d="M428 192 Q436 202 428 214" fill="none" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <line x1="412" y1="258" x2="410" y2="282" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-    <line x1="426" y1="258" x2="428" y2="282" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <path d="M404 174 Q406 170 408 164 Q419 186 430 164 Q432 170 434 174 L432 230 Q432 244 418 244 L406 244 Q404 230 404 174 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M410 178 Q402 188 410 200" fill="none" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M428 178 Q436 188 428 200" fill="none" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="412" y1="244" x2="410" y2="268" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
+    <line x1="426" y1="244" x2="428" y2="268" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
   </g>
-  <text x="419" y="276" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">body</text>
-  <text x="419" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">shoulders drop</text>
+  <text x="419" y="290" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">body</text>
+  <text x="419" y="308" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">shoulders drop</text>
 
   <!-- ===== Check your guess strip ===== -->
   <rect x="18" y="324" width="476" height="118" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>

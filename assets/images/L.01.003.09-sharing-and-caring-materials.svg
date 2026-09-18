@@ -90,24 +90,24 @@
   <path d="M424 182 Q428 178 432 182" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
   <!-- checklist -->
-  <text x="352" y="226" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">materials doctor</text>
+  <text x="352" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">materials doctor</text>
   <g font-family="sans-serif" font-size="13" fill="#222222">
-    <rect x="322" y="236" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M324 244 L328 248 L335 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="346" y="249">wipe</text>
+    <rect x="322" y="242" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M324 250 L328 254 L335 246" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="346" y="255">wipe</text>
 
-    <rect x="322" y="262" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M324 270 L328 274 L335 266" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="346" y="275">check whole</text>
+    <rect x="322" y="268" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M324 276 L328 280 L335 272" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="346" y="281">check whole</text>
 
-    <rect x="322" y="288" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M324 296 L328 300 L335 292" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="346" y="301">count</text>
+    <rect x="322" y="294" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M324 302 L328 306 L335 298" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="346" y="307">count</text>
 
-    <rect x="322" y="314" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <text x="346" y="327">put away</text>
+    <rect x="322" y="320" width="16" height="16" rx="3" fill="none" stroke="#2b3a42" stroke-width="2"/>
+    <text x="346" y="333">put away</text>
   </g>
-  <text x="393" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">gently, like a doctor</text>
+  <text x="393" y="358" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">gently, like a doctor</text>
 
   <!-- Bottom note -->
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#4f6d7a">When we care for our things, we care for each other and for the Earth.</text>

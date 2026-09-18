@@ -62,30 +62,30 @@
 
   <!-- ===== Three listening insets ===== -->
   <rect x="24" y="410" width="148" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
-  <circle cx="72" cy="448" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M56 446 A16 16 0 0 1 88 446 Z" fill="#4f6d7a"/>
-  <path d="M66 448 Q70 445 74 448" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <path d="M78 448 Q82 445 86 448" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <text x="98" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">eyes look down</text>
-  <text x="98" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">or to the side</text>
-  <text x="98" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">respectful too</text>
+  <circle cx="56" cy="448" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M40 446 A16 16 0 0 1 72 446 Z" fill="#4f6d7a"/>
+  <path d="M50 448 Q54 445 58 448" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M62 448 Q66 445 70 448" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="118" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">eyes look down</text>
+  <text x="118" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">or to the side</text>
+  <text x="118" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">respectful too</text>
 
   <rect x="182" y="410" width="148" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
-  <circle cx="230" cy="448" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M214 446 A16 16 0 0 1 246 446 Z" fill="#2b3a42"/>
-  <circle cx="224" cy="448" r="2" fill="#2b3a42"/>
-  <circle cx="236" cy="448" r="2" fill="#2b3a42"/>
-  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">watch the face</text>
-  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and the hands</text>
-  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">sign is listening</text>
+  <circle cx="210" cy="448" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M194 446 A16 16 0 0 1 226 446 Z" fill="#2b3a42"/>
+  <circle cx="204" cy="448" r="2" fill="#2b3a42"/>
+  <circle cx="216" cy="448" r="2" fill="#2b3a42"/>
+  <text x="272" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">watch the face</text>
+  <text x="272" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and the hands</text>
+  <text x="272" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">sign is listening</text>
 
   <rect x="340" y="410" width="148" height="86" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
-  <circle cx="388" cy="448" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M372 446 A16 16 0 0 1 404 446 Z" fill="#4f6d7a"/>
-  <circle cx="382" cy="448" r="2" fill="#2b3a42"/>
-  <circle cx="394" cy="448" r="2" fill="#2b3a42"/>
-  <path d="M382 459 Q388 464 394 459" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <text x="414" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">hands free to</text>
-  <text x="414" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">sign or tap</text>
-  <text x="414" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a real turn</text>
+  <circle cx="368" cy="448" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M352 446 A16 16 0 0 1 384 446 Z" fill="#4f6d7a"/>
+  <circle cx="362" cy="448" r="2" fill="#2b3a42"/>
+  <circle cx="374" cy="448" r="2" fill="#2b3a42"/>
+  <path d="M362 459 Q368 464 374 459" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="430" y="444" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">hands free to</text>
+  <text x="430" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">sign or tap</text>
+  <text x="430" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a real turn</text>
 </svg>

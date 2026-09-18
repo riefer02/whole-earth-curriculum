@@ -57,8 +57,8 @@
   <text x="382" y="136" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Can I help you?</text>
 
   <!-- ===== Two outcome panels ===== -->
-  <rect x="30" y="378" width="218" height="108" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
-  <rect x="264" y="378" width="218" height="108" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <rect x="30" y="378" width="218" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
+  <rect x="264" y="378" width="218" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.5"/>
 
   <!-- Outcome 1: yes please, lift together -->
   <g>
@@ -77,7 +77,7 @@
     <line x1="102" y1="424" x2="142" y2="420" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   </g>
   <text x="139" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">yes, please</text>
-  <text x="139" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">we lift it together</text>
+  <text x="139" y="464" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">we lift it together</text>
 
   <!-- Outcome 2: no thank you -->
   <g>
@@ -98,8 +98,8 @@
     <path d="M350 418 Q346 412 342 418 Q338 424 350 430 Q362 424 358 418 Q354 412 350 418 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.8"/>
   </g>
   <text x="373" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">no, thank you</text>
-  <text x="373" y="484" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">that's okay too</text>
+  <text x="373" y="464" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">that's okay too</text>
 
   <!-- Bottom note -->
-  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Anyone can need help, and anyone can give it. Offer, then let them choose.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Anyone can need help, and anyone can give it. Offer, then let them choose.</text>
 </svg>

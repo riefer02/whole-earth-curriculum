@@ -39,29 +39,30 @@
   <!-- ===== Right: the caring chain ===== -->
   <!-- Step 1 -->
   <rect x="272" y="96" width="216" height="70" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <ellipse cx="306" cy="131" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="306" cy="131" r="4" fill="#2b3a42"/>
-  <text x="336" y="126" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">I see…</text>
-  <text x="336" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a spill on the floor</text>
+  <ellipse cx="296" cy="122" rx="13" ry="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="296" cy="122" r="4" fill="#2b3a42"/>
+  <text x="362" y="126" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">I see…</text>
+  <text x="360" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a spill on the floor</text>
 
   <line x1="380" y1="166" x2="380" y2="184" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
   <path d="M374 184 L380 192 L386 184 Z" fill="#4f6d7a"/>
 
   <!-- Step 2 -->
   <rect x="272" y="192" width="216" height="70" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="286" y="214" width="34" height="28" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="288" y1="218" x2="318" y2="238" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <line x1="318" y1="218" x2="288" y2="238" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <text x="344" y="222" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">so they might need…</text>
-  <text x="344" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a cloth to wipe it</text>
+  <rect x="280" y="214" width="34" height="28" rx="4" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="282" y1="218" x2="312" y2="238" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <line x1="312" y1="218" x2="282" y2="238" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="394" y="222" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">so they might need…</text>
+  <text x="394" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a cloth to wipe it</text>
 
   <line x1="380" y1="262" x2="380" y2="280" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
   <path d="M374 280 L380 288 L386 280 Z" fill="#4f6d7a"/>
 
   <!-- Step 3 -->
   <rect x="272" y="288" width="216" height="64" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M300 304 Q300 294 316 294 L344 294 Q358 294 358 304 L358 324 Q358 334 344 334 L330 334 L326 342 L328 334 L316 334 Q300 334 300 324 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="329" y="317" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Can I help you?</text>
+  <path d="M286 302 Q286 292 302 292 L366 292 Q382 292 382 302 L382 330 Q382 340 366 340 L340 340 L334 352 L336 340 L302 340 Q286 340 286 330 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="334" y="314" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">Can I</text>
+  <text x="334" y="332" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">help you?</text>
   <text x="430" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">ask kindly</text>
 
   <!-- Bottom note -->
