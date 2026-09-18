@@ -20,7 +20,7 @@
     <line x1="82" y1="258" x2="82" y2="320" stroke-width="14" stroke="#4f6d7a"/>
     <line x1="98" y1="258" x2="98" y2="320" stroke-width="14" stroke="#4f6d7a"/>
   </g>
-  <text x="90" y="160" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">freeze!</text>
+  <text x="90" y="150" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">freeze!</text>
 
   <!-- Follower 2 (copying) -->
   <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
