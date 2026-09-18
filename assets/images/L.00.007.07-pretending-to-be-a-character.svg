@@ -33,10 +33,10 @@
   <!-- Voice card -->
   <g>
     <rect x="300" y="110" width="186" height="72" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <rect x="314" y="122" width="70" height="34" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="309" y="122" width="80" height="34" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
     <path d="M330 156 L322 170 L344 156" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="392" y="140" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">voice</text>
-    <text x="392" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"I can help!"</text>
+    <text x="438" y="140" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">voice</text>
+    <text x="349" y="147" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">"I can help!"</text>
     <line x1="300" y1="146" x2="172" y2="240" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 4"/>
   </g>
 

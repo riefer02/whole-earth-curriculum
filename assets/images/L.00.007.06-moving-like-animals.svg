@@ -51,20 +51,20 @@
     <rect x="22" y="298" width="228" height="196" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="136" y="324" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#c99567">snake</text>
     <!-- chair -->
-    <rect x="118" y="362" width="48" height="10" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="124" y1="372" x2="124" y2="414" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <line x1="160" y1="372" x2="160" y2="414" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <rect x="112" y="340" width="10" height="34" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="118" y="382" width="48" height="10" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="124" y1="392" x2="124" y2="434" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <line x1="160" y1="392" x2="160" y2="434" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <rect x="112" y="360" width="10" height="34" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <!-- seated child -->
-    <circle cx="146" cy="322" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M130 320 Q146 302 162 320" fill="#4f6d7a"/>
-    <circle cx="140" cy="320" r="2.4" fill="#2b3a42"/>
-    <circle cx="152" cy="320" r="2.4" fill="#2b3a42"/>
-    <path d="M140 328 Q146 332 152 328" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <rect x="128" y="340" width="36" height="30" rx="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="146" cy="342" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M130 340 Q146 322 162 340" fill="#4f6d7a"/>
+    <circle cx="140" cy="340" r="2.4" fill="#2b3a42"/>
+    <circle cx="152" cy="340" r="2.4" fill="#2b3a42"/>
+    <path d="M140 348 Q146 352 152 348" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <rect x="128" y="360" width="36" height="30" rx="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <!-- wiggling arm (snake) -->
-    <path d="M162 348 Q176 340 184 352 Q192 364 206 356 Q214 350 220 354" fill="none" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
-    <circle cx="220" cy="354" r="4" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M162 368 Q176 360 184 372 Q192 384 206 376 Q214 370 220 374" fill="none" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="220" cy="374" r="4" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <text x="136" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">wiggle — from a chair</text>
   </g>
 
@@ -88,5 +88,5 @@
     <text x="376" y="480" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">sway trunk</text>
   </g>
 
-  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Watching and copying counts. Every animal works from where you are.</text>
+  <text x="256" y="504" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Watching and copying counts. Every animal works from where you are.</text>
 </svg>

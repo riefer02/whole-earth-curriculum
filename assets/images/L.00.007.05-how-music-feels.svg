@@ -27,7 +27,7 @@
 
     <!-- fast sound waves -->
     <path d="M90 238 L110 222 L130 238 L150 222 L170 238 L186 226" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="136" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">exciting!</text>
+    <text x="136" y="274" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">exciting!</text>
 
     <!-- drum with hand -->
     <path d="M108 330 L114 288 Q116 282 126 282 L146 282 Q156 282 158 288 L164 330 Q164 340 136 340 Q108 340 108 330 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>

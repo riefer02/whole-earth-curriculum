@@ -50,7 +50,7 @@
     <path d="M384 270 Q384 256 400 256" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
     <path d="M448 270 Q448 256 432 256" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
   </g>
-  <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">say the sounds too: clap, clap, pat</text>
+  <text x="312" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">say the sounds too: clap, clap, pat</text>
 
   <!-- Feel the beat: hand on drum -->
   <g>
@@ -68,5 +68,5 @@
     <text x="176" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">feel the beat</text>
   </g>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Your hands and voice are an instrument you always carry.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Your hands and voice are an instrument you always carry.</text>
 </svg>
