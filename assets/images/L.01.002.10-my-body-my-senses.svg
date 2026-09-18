@@ -49,7 +49,7 @@
 
   <!-- Move quadrant -->
   <g>
-    <rect x="20" y="284" width="232" height="210" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+    <rect x="20" y="284" width="232" height="200" rx="14" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
     <text x="136" y="312" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">move</text>
     <!-- skipping child -->
     <circle cx="100" cy="356" r="22" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
@@ -66,12 +66,12 @@
     <rect x="174" y="444" width="44" height="9" rx="4" fill="#4f6d7a"/>
     <circle cx="182" cy="462" r="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
     <circle cx="212" cy="462" r="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="136" y="486" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">skip, gallop, hop, jump — feet or wheels</text>
+    <text x="136" y="474" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">skip, gallop, hop, jump — feet or wheels</text>
   </g>
 
   <!-- Careful hands quadrant -->
   <g>
-    <rect x="260" y="284" width="232" height="210" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
+    <rect x="260" y="284" width="232" height="200" rx="14" fill="#ffffff" stroke="#6b93b6" stroke-width="3"/>
     <text x="376" y="312" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">careful hands</text>
     <!-- scissors -->
     <circle cx="330" cy="376" r="7" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
@@ -91,9 +91,9 @@
     <circle cx="416" cy="368" r="2" fill="#2b3a42"/>
     <circle cx="424" cy="368" r="2" fill="#2b3a42"/>
     <text x="420" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">button</text>
-    <text x="376" y="448" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">do one careful job slowly and well</text>
-    <text x="376" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">every hand works its own way</text>
+    <text x="376" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">do one careful job slowly and well</text>
+    <text x="376" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">every hand works its own way</text>
   </g>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Celebrate everything your body can do.</text>
+  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Celebrate everything your body can do.</text>
 </svg>
