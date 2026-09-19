@@ -5,7 +5,7 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Our Earth Home</text>
-  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Tools, Stories, Living, and Care — all in one home</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Tools, Stories, Living, and Care — all in one home</text>
 
   <!-- big earth circle -->
   <circle cx="256" cy="244" r="180" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
@@ -16,8 +16,8 @@
   <!-- quadrant labels -->
   <text x="166" y="118" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Tools</text>
   <text x="346" y="118" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Stories</text>
-  <text x="166" y="376" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Living</text>
-  <text x="346" y="376" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Care</text>
+  <text x="166" y="394" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Living</text>
+  <text x="346" y="394" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Care</text>
 
   <!-- Tools quadrant: spoon + basket -->
   <ellipse cx="140" cy="160" rx="9" ry="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
@@ -32,7 +32,8 @@
   <circle cx="326" cy="168" r="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <line x1="372" y1="196" x2="386" y2="176" stroke="#e0a458" stroke-width="6" stroke-linecap="round"/>
   <line x1="386" y1="176" x2="390" y2="170" stroke="#7a9e7e" stroke-width="6" stroke-linecap="round"/>
-  <text x="346" y="208" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a photo and a drawing, with a maker</text>
+  <text x="344" y="202" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a photo and a drawing,</text>
+  <text x="344" y="218" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">with a maker</text>
 
   <!-- Living quadrant: plant + rock -->
   <path d="M130 330 L130 306" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
@@ -40,12 +41,13 @@
   <path d="M130 314 Q140 306 148 310 Q140 302 130 310 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <path d="M120 342 L140 342 L137 352 L123 352 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <path d="M188 336 Q198 320 208 336 Q216 344 208 350 L190 350 Q182 346 188 336 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-  <text x="166" y="294" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">living + nonliving, a shared need</text>
+  <text x="166" y="280" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">living + nonliving,</text>
+  <text x="166" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a shared need</text>
 
   <!-- Care quadrant: tap + plant -->
-  <path d="M310 360 L340 360" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
-  <path d="M316 360 L316 372 Q316 378 310 378 L308 378" fill="none" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="306" cy="380" r="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M310 346 L340 346" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M316 346 L316 358 Q316 364 310 364 L308 364" fill="none" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="306" cy="366" r="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <path d="M366 330 L366 308" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
   <path d="M366 324 Q358 318 352 322 Q358 312 366 320 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <path d="M366 316 Q374 308 380 312 Q374 304 366 312 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>

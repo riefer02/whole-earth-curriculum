@@ -13,7 +13,7 @@
 
   <text x="120" y="128" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">plants</text>
   <text x="392" y="128" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">animals</text>
-  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">both</text>
+  <text x="256" y="190" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">both</text>
 
   <!-- plant in left circle -->
   <path d="M150 300 L150 268" stroke="#4f6d7a" stroke-width="4" stroke-linecap="round"/>
