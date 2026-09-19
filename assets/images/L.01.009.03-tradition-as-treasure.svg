@@ -8,9 +8,9 @@
   <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15.5" fill="#4f6d7a">A tradition carries a meaning, passed from person to person</text>
 
   <!-- panel frames -->
-  <rect x="18" y="96" width="152" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
-  <rect x="180" y="96" width="152" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
-  <rect x="342" y="96" width="152" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="18" y="96" width="152" height="332" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="180" y="96" width="152" height="332" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="342" y="96" width="152" height="332" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
 
   <!-- ===== Panel 1: gathering / thanking ===== -->
   <g>
@@ -38,9 +38,9 @@
     <circle cx="132" cy="246" r="13" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="132" cy="246" r="4" fill="#4f6d7a"/>
     <!-- meaning tag -->
-    <rect x="58" y="316" width="72" height="24" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="94" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">thanking</text>
-    <text x="94" y="380" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">we share a meal</text>
+    <rect x="58" y="348" width="72" height="24" rx="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="94" y="364" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">thanking</text>
+    <text x="94" y="396" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">we share a meal</text>
   </g>
 
   <!-- ===== Panel 2: welcoming ===== -->
@@ -68,9 +68,10 @@
     <path d="M250 258 Q256 262 262 258" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
     <path d="M244 244 L268 244 L266 268 L246 268 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <!-- meaning tag -->
-    <rect x="220" y="316" width="72" height="24" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">welcoming</text>
-    <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a song for a new child</text>
+    <rect x="220" y="348" width="72" height="24" rx="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="364" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">welcoming</text>
+    <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">a song for</text>
+    <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">a new child</text>
   </g>
 
   <!-- ===== Panel 3: remembering ===== -->
@@ -99,11 +100,12 @@
     <line x1="418" y1="252" x2="428" y2="252" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <circle cx="432" cy="244" r="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.6"/>
     <!-- meaning tag -->
-    <rect x="382" y="316" width="72" height="24" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="418" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">remembering</text>
-    <text x="418" y="380" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">those who came before</text>
+    <rect x="382" y="348" width="72" height="24" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <text x="418" y="364" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">remembering</text>
+    <text x="418" y="390" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">those who</text>
+    <text x="418" y="406" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">came before</text>
   </g>
 
-  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">When we listen to a tradition, we honor the people who keep it.</text>
-  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">There is no correct family &#183; many traditions, each with meaning</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">When we listen to a tradition, we honor the people who keep it.</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">There is no correct family &#183; many traditions, each with meaning</text>
 </svg>
