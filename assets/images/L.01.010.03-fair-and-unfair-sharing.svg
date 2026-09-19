@@ -13,8 +13,10 @@
   <rect x="342" y="86" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
 
   <text x="95" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">unfair</text>
-  <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">fair: same amount</text>
-  <text x="417" y="110" text-anchor="middle" font-family="sans-serif" font-size="15.8" font-weight="bold" fill="#2b3a42">fair: what each needs</text>
+  <text x="256" y="106" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">fair: same</text>
+  <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">amount</text>
+  <text x="417" y="106" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">fair: what</text>
+  <text x="417" y="124" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">each needs</text>
 
   <!-- ===== Panel 1: unfair ===== -->
   <!-- child A (left, medium skin, big pile) -->
@@ -67,7 +69,7 @@
   <circle cx="212" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="228" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="244" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="228" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">3 crackers</text>
+  <text x="222" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3 crackers</text>
 
   <!-- child B (right, light skin, standing) -->
   <circle cx="288" cy="150" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
@@ -82,7 +84,7 @@
   <circle cx="272" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="288" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="304" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="288" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">3 crackers</text>
+  <text x="296" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3 crackers</text>
 
   <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">everyone gets the same</text>
 
@@ -106,7 +108,7 @@
   <circle cx="382" cy="264" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="376" cy="276" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="390" cy="274" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="380" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">very hungry: 4</text>
+  <text x="366" y="296" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">very hungry: 4</text>
 
   <!-- child B (right, not hungry, light skin) -->
   <circle cx="442" cy="150" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
@@ -120,7 +122,7 @@
   <!-- 2 crackers -->
   <circle cx="432" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="448" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="442" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">not hungry: 2</text>
+  <text x="450" y="296" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">not hungry: 2</text>
 
   <text x="417" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">each gets what they need</text>
 
