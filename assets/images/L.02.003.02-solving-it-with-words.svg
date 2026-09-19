@@ -38,9 +38,10 @@
   <path d="M224 168 Q240 160 256 168" fill="none" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- Speech bubble: Can I have a turn next? -->
-  <rect x="300" y="108" width="180" height="40" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M322 148 L344 148 L330 162 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-  <text x="390" y="134" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">Can I have a turn next?</text>
+  <rect x="300" y="100" width="180" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M322 158 L344 158 L330 172 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="390" y="126" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Can I have</text>
+  <text x="390" y="146" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a turn next?</text>
 
   <!-- Four steps -->
   <g font-family="sans-serif">

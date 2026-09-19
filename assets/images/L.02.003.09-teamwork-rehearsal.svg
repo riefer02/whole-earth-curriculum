@@ -64,8 +64,8 @@
   <text x="407" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Nice try!</text>
 
   <!-- Bottom band -->
-  <rect x="86" y="330" width="340" height="48" rx="12" fill="#2b3a42"/>
-  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#fdfbf7">each adds one, we cheer each other on</text>
+  <rect x="56" y="330" width="400" height="48" rx="12" fill="#2b3a42"/>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#fdfbf7">each adds one, we cheer each other on</text>
 
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">A team is people doing their parts and cheering each other on.</text>
 </svg>
