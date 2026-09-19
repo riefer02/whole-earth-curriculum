@@ -34,7 +34,7 @@
   <circle cx="100" cy="270" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
   <path d="M100 244 L82 260 L90 260 L90 286 L110 286 L110 260 L118 260 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <rect x="96" y="272" width="8" height="14" fill="#2b3a42" stroke="#2b3a42" stroke-width="1.4"/>
-  <text x="100" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">neighborhood</text>
+  <text x="100" y="304" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">neighborhood</text>
 
   <!-- my team (right) -->
   <circle cx="412" cy="270" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
@@ -61,7 +61,7 @@
   <circle cx="256" cy="244" r="11" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
   <path d="M245 244 A11 11 0 0 1 267 244 L267 236 A11 11 0 0 0 245 236 Z" fill="#2b3a42"/>
   <rect x="246" y="255" width="20" height="22" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">me</text>
+  <text x="256" y="226" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">me</text>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">No community is better than another — each is a real home of belonging.</text>
 </svg>
