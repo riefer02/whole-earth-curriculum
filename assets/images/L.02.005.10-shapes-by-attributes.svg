@@ -24,7 +24,7 @@
   <!-- Pentagon -->
   <polygon points="432,130 452,162 442,196 422,196 412,162" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
   <text x="432" y="224" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">pentagon</text>
-  <text x="432" y="246" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">5 sides, 5 angles</text>
+  <text x="432" y="262" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">5 sides, 5 angles</text>
 
   <!-- Hexagon -->
   <polygon points="86,320 116,302 146,320 146,352 116,370 86,352" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
