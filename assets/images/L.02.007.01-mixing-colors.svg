@@ -40,7 +40,7 @@
     <text x="174" y="344" font-size="14" fill="#4f6d7a">red + yellow</text>
     <circle cx="256" cy="282" r="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <text x="256" y="276">green</text>
-    <text x="256" y="344" font-size="14" fill="#4f6d7a">yellow + blue</text>
+    <text x="256" y="360" font-size="13" fill="#4f6d7a">yellow + blue</text>
     <circle cx="338" cy="282" r="34" fill="#9a7ab8" stroke="#2b3a42" stroke-width="2"/>
     <text x="338" y="276">purple</text>
     <text x="338" y="344" font-size="14" fill="#4f6d7a">blue + red</text>

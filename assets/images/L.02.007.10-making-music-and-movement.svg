@@ -52,7 +52,7 @@
   <g stroke="#2b3a42" stroke-width="2">
     <path d="M412 176 L462 176 L450 194 L424 194 Z" fill="#e0a458"/>
   </g>
-  <text x="438" y="192" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a build</text>
+  <text x="438" y="210" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a build</text>
 
   <!-- join line -->
   <text x="256" y="246" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">mix + play + move + plan = making</text>

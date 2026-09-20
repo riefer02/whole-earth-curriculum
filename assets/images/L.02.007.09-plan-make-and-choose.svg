@@ -25,14 +25,14 @@
   </g>
 
   <!-- box 2 make -->
-  <rect x="206" y="100" width="130" height="130" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="206" y="100" width="130" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="271" y="126" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">make</text>
   <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
     <path d="M232 190 Q268 208 302 190"/>
     <path d="M232 214 Q268 196 302 214"/>
   </g>
   <circle cx="267" cy="204" r="8" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-  <text x="271" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">two ways to build</text>
+  <text x="271" y="234" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">two ways to build</text>
 
   <!-- arrow -->
   <g stroke="#2b3a42" stroke-width="2.5" fill="none" stroke-linecap="round">
