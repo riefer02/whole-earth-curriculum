@@ -36,12 +36,12 @@
   <path d="M256 244 L256 272" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   <path d="M256 272 L236 292" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   <path d="M256 272 L276 292" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">me</text>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">me</text>
 
   <!-- Idea labels -->
   <g fill="#4f6d7a" font-family="sans-serif" font-size="13" text-anchor="middle">
-    <text x="110" y="60">family</text>
-    <text x="402" y="60">class</text>
+    <text x="110" y="84">family</text>
+    <text x="402" y="84">class</text>
     <text x="52" y="390">community</text>
     <text x="460" y="390">a club or team</text>
     <text x="150" y="500">a faith or culture</text>

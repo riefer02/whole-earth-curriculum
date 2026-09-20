@@ -31,9 +31,9 @@
     <path d="M90 256 L90 300" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
     <path d="M90 300 L64 322" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
     <path d="M90 300 L116 322" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-    <rect x="82" y="334" width="68" height="44" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-    <text x="116" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">I wanted to</text>
-    <text x="116" y="371" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">play outside.</text>
+    <rect x="68" y="334" width="96" height="44" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="116" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I wanted to</text>
+    <text x="116" y="371" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">play outside.</text>
     <text x="90" y="410" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">disappointed</text>
   </g>
 
@@ -48,9 +48,9 @@
     <path d="M256 256 L256 300" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
     <path d="M256 300 L230 322" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
     <path d="M256 300 L282 322" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-    <rect x="248" y="334" width="68" height="44" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-    <text x="282" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">My crops needed</text>
-    <text x="282" y="371" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">this rain.</text>
+    <rect x="234" y="334" width="96" height="44" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+    <text x="282" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">My crops needed</text>
+    <text x="282" y="371" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">this rain.</text>
     <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">relieved</text>
   </g>
 
