@@ -19,7 +19,7 @@
   <circle cx="362" cy="150" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
   <path d="M324 220 Q320 168 362 168 Q404 168 400 220 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <!-- arm reaching to stones -->
-  <path d="M388 210 Q420 250 448 296" fill="none" stroke="#c99567" stroke-width="5" stroke-linecap="round"/>
+  <path d="M388 210 Q410 230 420 246" fill="none" stroke="#c99567" stroke-width="5" stroke-linecap="round"/>
 
   <!-- three labeled spots -->
   <g>

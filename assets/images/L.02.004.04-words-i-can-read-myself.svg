@@ -30,7 +30,7 @@
   <!-- blend arrow -->
   <path d="M120 340 Q256 396 392 340" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 0"/>
   <path d="M384 350 L392 338 L378 340 Z" fill="#2b3a42"/>
-  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">blend</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">blend</text>
 
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">One sound at a time, then blend them into the word.</text>
 </svg>

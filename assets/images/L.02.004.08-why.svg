@@ -24,7 +24,7 @@
     <rect x="256" y="120" width="180" height="110" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <path d="M300 176 Q292 156 308 150 Q306 138 322 138 Q342 138 338 152 Q356 156 348 172 Q342 180 300 176 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <path d="M296 184 L292 200 M312 184 L312 200 M328 184 L332 200" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
-    <text x="346" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">it rains</text>
+    <text x="360" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">it rains</text>
   </g>
 
   <!-- effect box -->
@@ -34,7 +34,8 @@
     <path d="M296 392 Q294 362 316 362 Q338 362 336 392 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <path d="M336 344 L368 324 Q372 322 372 328 L372 352 Q372 358 368 356 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <line x1="368" y1="356" x2="368" y2="384" stroke="#8f5f3d" stroke-width="3" stroke-linecap="round"/>
-    <text x="400" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">I open my umbrella</text>
+    <text x="346" y="426" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">I open my</text>
+    <text x="346" y="442" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">umbrella</text>
   </g>
 
   <!-- because arrow -->
@@ -42,5 +43,5 @@
   <path d="M340 288 L346 300 L352 288 Z" fill="#2b3a42"/>
   <text x="386" y="268" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">because</text>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Find the reason — why did it happen?</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Find the reason — why did it happen?</text>
 </svg>
