@@ -45,8 +45,8 @@
   <circle cx="306" cy="160" r="4" fill="#2b3a42"/>
   <path d="M272 182 Q290 198 308 182" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
 
-  <text x="360" y="170" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">a kind act reaches</text>
-  <text x="360" y="192" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a warm feeling</text>
+  <text x="412" y="170" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">a kind act reaches</text>
+  <text x="412" y="192" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a warm feeling</text>
 
   <!-- ===== Bottom row: unkind act ===== -->
   <rect x="20" y="268" width="150" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
@@ -89,8 +89,8 @@
   <circle cx="306" cy="336" r="4" fill="#2b3a42"/>
   <path d="M272 366 Q290 350 308 366" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
 
-  <text x="360" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">an unkind act reaches</text>
-  <text x="360" y="362" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a hurt feeling</text>
+  <text x="412" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">an unkind act reaches</text>
+  <text x="412" y="362" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">a hurt feeling</text>
 
   <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">Before I act, I can pause and ask: how will this reach them?</text>
 </svg>

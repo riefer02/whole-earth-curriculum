@@ -47,7 +47,8 @@
   <!-- because bubble -->
   <ellipse cx="128" cy="148" rx="72" ry="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <path d="M110 170 L104 186 L128 172 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="128" y="153" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">because I wanted to be first</text>
+  <text x="128" y="144" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">because I wanted</text>
+    <text x="128" y="160" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">to be first</text>
 
   <text x="133" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a reason helps us understand &#8212;</text>
   <text x="133" y="381" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">it does not make it right</text>
@@ -87,7 +88,8 @@
   <!-- because bubble -->
   <ellipse cx="390" cy="150" rx="72" ry="26" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <path d="M372 172 L366 188 L390 174 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="390" y="155" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">because I care how they feel</text>
+  <text x="390" y="146" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">because I care</text>
+    <text x="390" y="162" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">how they feel</text>
 
   <text x="379" y="366" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a right choice helps and is fair</text>
   <text x="379" y="381" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">everyone can choose again</text>
