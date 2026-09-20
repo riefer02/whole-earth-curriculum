@@ -39,7 +39,7 @@
     <text x="376" y="142" font-family="sans-serif" font-size="12" fill="#222222">fullness &#8594; stop</text>
     <text x="376" y="160" font-family="sans-serif" font-size="12" fill="#222222">thirst &#8594; drink</text>
     <text x="376" y="178" font-family="sans-serif" font-size="12" fill="#222222">tiredness &#8594; rest</text>
-    <text x="378" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">notice the signal, answer kindly</text>
+    <text x="378" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">notice the signal, answer kindly</text>
   </g>
 
   <!-- ===== Panel 3: rhythm and balance ===== -->
