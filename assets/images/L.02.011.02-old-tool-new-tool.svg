@@ -5,7 +5,7 @@
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#222222">Same job: grinding grain</text>
 
   <!-- Old tool -->
-  <rect x="20" y="60" width="220" height="330" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="20" y="60" width="220" height="338" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
   <text x="130" y="90" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">OLD TOOL</text>
   <!-- mortar bowl -->
   <path d="M60 220 Q130 300 200 220 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="4"/>
@@ -16,7 +16,7 @@
   <text x="130" y="368" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">no power needed</text>
 
   <!-- New tool -->
-  <rect x="272" y="60" width="220" height="330" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
+  <rect x="272" y="60" width="220" height="338" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="4"/>
   <text x="382" y="90" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">NEW TOOL</text>
   <!-- blender jar -->
   <rect x="340" y="130" width="84" height="120" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="4"/>
