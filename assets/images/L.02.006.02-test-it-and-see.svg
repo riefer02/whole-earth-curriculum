@@ -24,7 +24,7 @@
   <text x="330" y="238" text-anchor="middle" font-size="16" fill="#222222">✓ It matched</text>
 
   <rect x="316" y="266" width="148" height="42" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2"/>
-  <text x="330" y="292" text-anchor="middle" font-size="16" fill="#222222">It did not match</text>
+  <text x="390" y="292" text-anchor="middle" font-size="16" fill="#222222">It did not match</text>
 
   <text x="390" y="336" text-anchor="middle" font-size="14" fill="#4f6d7a">Did my guess come true?</text>
 

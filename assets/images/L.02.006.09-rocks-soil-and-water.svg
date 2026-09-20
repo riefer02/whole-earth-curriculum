@@ -18,7 +18,7 @@
   <line x1="400" y1="280" x2="400" y2="220" stroke="#7a9e7e" stroke-width="4"/>
   <path d="M392 246 q8 -14 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
   <path d="M392 232 q8 -14 16 0" fill="none" stroke="#7a9e7e" stroke-width="3"/>
-  <text x="420" y="238" text-anchor="middle" font-size="13" fill="#222222">plants grow</text>
+  <text x="345" y="238" text-anchor="middle" font-size="13" fill="#222222">plants grow</text>
 
   <!-- Rock bottom -->
   <rect x="40" y="308" width="432" height="130" fill="#c9d5d9" stroke="#2b3a42" stroke-width="3"/>
