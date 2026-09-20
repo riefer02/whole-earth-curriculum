@@ -35,7 +35,7 @@
   <g>
     <rect x="436" y="232" width="46" height="66" rx="6" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
     <path d="M442 288 q8 -14 16 -28 q8 14 16 28 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="459" y="324" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">water</text>
+    <text x="457" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">water</text>
   </g>
 
   <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="14.1" font-weight="bold" fill="#2b3a42">A balanced meal = foods from several groups, plus water to drink.</text>

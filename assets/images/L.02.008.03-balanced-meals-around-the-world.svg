@@ -11,15 +11,17 @@
     <rect x="16" y="92" width="152" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
     <rect x="16" y="92" width="152" height="38" rx="12" fill="#7a9e7e" stroke="#4f6d7a" stroke-width="2"/>
     <rect x="16" y="112" width="152" height="18" fill="#7a9e7e"/>
-    <text x="92" y="117" text-anchor="middle" font-family="sans-serif" font-size="15.2" font-weight="bold" fill="#222222">rice + beans + greens</text>
+    <text x="92" y="117" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">rice + beans + greens</text>
     <circle cx="92" cy="240" r="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <path d="M60 240 A32 32 0 0 0 124 240 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="78" cy="234" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
     <circle cx="92" cy="230" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
     <circle cx="106" cy="234" r="5" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
     <path d="M70 254 q10 -9 20 0 q-10 9 -20 0 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="92" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">grains • protein • vegetables</text>
-    <text x="92" y="398" text-anchor="middle" font-family="sans-serif" font-size="13.3" font-weight="bold" fill="#222222">from a rice-growing land</text>
+    <text x="92" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">grains • protein</text>
+    <text x="92" y="336" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">• vegetables</text>
+    <text x="92" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">from a rice-growing</text>
+    <text x="92" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">land</text>
   </g>
 
   <!-- Meal 2 -->
@@ -27,15 +29,17 @@
     <rect x="180" y="92" width="152" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
     <rect x="180" y="92" width="152" height="38" rx="12" fill="#e0a458" stroke="#4f6d7a" stroke-width="2"/>
     <rect x="180" y="112" width="152" height="18" fill="#e0a458"/>
-    <text x="256" y="117" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">flatbread + lentils + veg</text>
+    <text x="256" y="117" text-anchor="middle" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">flatbread + lentils + veg</text>
     <circle cx="256" cy="240" r="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <ellipse cx="256" cy="234" rx="34" ry="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <ellipse cx="244" cy="248" rx="7" ry="5" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
     <ellipse cx="258" cy="250" rx="7" ry="5" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
     <ellipse cx="272" cy="248" rx="7" ry="5" fill="#c99567" stroke="#2b3a42" stroke-width="1.5"/>
     <path d="M232 258 q-10 -8 0 -16 q10 8 0 16 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">grains • protein • vegetables</text>
-    <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">from a wheat-growing land</text>
+    <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">grains • protein</text>
+    <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">• vegetables</text>
+    <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">from a wheat-growing</text>
+    <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">land</text>
   </g>
 
   <!-- Meal 3 -->
@@ -43,13 +47,15 @@
     <rect x="344" y="92" width="152" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
     <rect x="344" y="92" width="152" height="38" rx="12" fill="#6b93b6" stroke="#4f6d7a" stroke-width="2"/>
     <rect x="344" y="112" width="152" height="18" fill="#6b93b6"/>
-    <text x="420" y="117" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">maize + fish + fruit</text>
+    <text x="420" y="117" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">maize + fish + fruit</text>
     <circle cx="420" cy="240" r="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <path d="M396 240 A24 24 0 0 0 444 240 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <path d="M404 252 q10 -9 20 0 q-10 9 -20 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="432" cy="252" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="420" y="330" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">grains • protein • fruit</text>
-    <text x="420" y="398" text-anchor="middle" font-family="sans-serif" font-size="12.8" font-weight="bold" fill="#222222">from a maize-growing land</text>
+    <text x="420" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">grains • protein</text>
+    <text x="420" y="336" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">• fruit</text>
+    <text x="420" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">from a maize-growing</text>
+    <text x="420" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">land</text>
   </g>
 
   <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="15.3" font-weight="bold" fill="#2b3a42">Every tradition has its own balanced meal — and every one is</text>
