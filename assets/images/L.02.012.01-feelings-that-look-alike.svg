@@ -12,7 +12,7 @@
 
   <!-- mad -->
   <g>
-    <rect x="16" y="110" width="220" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="16" y="110" width="200" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
     <circle cx="98" cy="182" r="34" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
     <path d="M64 182 A34 34 0 0 1 132 182 L132 168 A34 34 0 0 0 64 168 Z" fill="#4f6d7a"/>
     <line x1="78" y1="172" x2="100" y2="166" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
@@ -24,11 +24,13 @@
     <text x="126" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">hot and tight, wants to push</text>
   </g>
 
-  <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a5a1a">same look? → different feeling</text>
+  <text x="256" y="184" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">same look?</text>
+    <text x="256" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">different</text>
+    <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">feeling</text>
 
   <!-- frustrated -->
   <g>
-    <rect x="276" y="110" width="220" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="296" y="110" width="200" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
     <circle cx="358" cy="182" r="34" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
     <path d="M324 182 A34 34 0 0 1 392 182 L392 168 A34 34 0 0 0 324 168 Z" fill="#c99567"/>
     <path d="M340 172 Q346 178 352 172" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
@@ -47,7 +49,7 @@
 
   <!-- sad -->
   <g>
-    <rect x="16" y="318" width="220" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="16" y="318" width="200" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
     <circle cx="98" cy="390" r="34" fill="#d9a06b" stroke="#2b3a42" stroke-width="2"/>
     <path d="M64 390 A34 34 0 0 1 132 390 L132 376 A34 34 0 0 0 64 376 Z" fill="#2b3a42"/>
     <circle cx="84" cy="388" r="2.6" fill="#2b3a42"/>
@@ -60,11 +62,13 @@
     <text x="126" y="476" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a loss, slow and heavy</text>
   </g>
 
-  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a5a1a">same look? → different feeling</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">same look?</text>
+    <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">different</text>
+    <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">feeling</text>
 
   <!-- disappointed -->
   <g>
-    <rect x="276" y="318" width="220" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <rect x="296" y="318" width="200" height="170" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
     <circle cx="358" cy="390" r="34" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <path d="M324 390 A34 34 0 0 1 392 390 L392 376 A34 34 0 0 0 324 376 Z" fill="#ab7a4e"/>
     <circle cx="344" cy="388" r="2.6" fill="#2b3a42"/>
