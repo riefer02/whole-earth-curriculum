@@ -43,7 +43,8 @@
   <text x="78" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">(each = 1)</text>
 
   <rect x="300" y="100" width="184" height="200" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
-  <text x="392" y="136" text-anchor="middle" font-family="sans-serif" font-size="15.1" fill="#2b3a42">4 hundreds + 3 tens + 2 ones</text>
+  <text x="392" y="128" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">4 hundreds + 3 tens</text>
+  <text x="392" y="148" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">+ 2 ones</text>
   <text x="392" y="200" text-anchor="middle" font-family="sans-serif" font-size="30" fill="#2b3a42">400 + 30 + 2</text>
   <text x="392" y="268" text-anchor="middle" font-family="sans-serif" font-size="40" font-weight="bold" fill="#e0a458">432</text>
 

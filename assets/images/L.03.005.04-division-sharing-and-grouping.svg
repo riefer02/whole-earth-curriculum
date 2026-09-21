@@ -24,8 +24,8 @@
     <path d="M 180 150 Q 230 90 260 150"/>
     <path d="M 340 150 Q 390 90 420 150"/>
   </g>
-  <text x="228" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">deal one at a time</text>
-  <text x="390" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">round and round</text>
+  <text x="228" y="68" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">deal one at a time</text>
+  <text x="390" y="68" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">round and round</text>
 
   <!-- Equation box -->
   <rect x="96" y="252" width="320" height="150" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
