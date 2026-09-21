@@ -32,20 +32,20 @@
 
     <!-- right column with small icons -->
     <rect x="272" y="200" width="200" height="52" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
-    <text x="282" y="224">🗨 turn · add</text>
-    <text x="282" y="242">💬 "I feel… I need…"</text>
+    <text x="302" y="224">🗨 turn · add</text>
+    <text x="302" y="242">💬 "I feel… I need…"</text>
 
     <rect x="272" y="262" width="200" height="52" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
-    <text x="282" y="286">👁 their eyes</text>
-    <text x="282" y="304">👟 their shoes</text>
+    <text x="302" y="286">👁 their eyes</text>
+    <text x="302" y="304">👟 their shoes</text>
 
     <rect x="272" y="324" width="200" height="52" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
-    <text x="282" y="348">🌍 here &amp; far</text>
-    <text x="282" y="366">⚖ fair for all</text>
+    <text x="302" y="348">🌍 here &amp; far</text>
+    <text x="302" y="366">⚖ fair for all</text>
 
     <rect x="272" y="386" width="200" height="52" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
-    <text x="282" y="410">🤝 shared work</text>
-    <text x="282" y="428">❤ helping hands</text>
+    <text x="302" y="410">🤝 shared work</text>
+    <text x="302" y="428">❤ helping hands</text>
   </g>
 
   <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">When everyone cares, everyone belongs.</text>
