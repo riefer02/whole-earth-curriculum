@@ -19,7 +19,7 @@
 
   <!-- caret marking a misspelled word -->
   <text x="160" y="140" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#e0a458">^</text>
-  <text x="160" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">fix spelling</text>
+  <text x="160" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">fix spelling</text>
 
   <!-- period being added -->
   <circle cx="306" cy="180" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>

@@ -10,7 +10,7 @@
   <path d="M96 220 Q256 100 416 220 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
   <path d="M256 220 L256 180" stroke="#2b3a42" stroke-width="3"/>
   <circle cx="256" cy="180" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="160" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">main idea</text>
+  <text x="256" y="190" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">main idea</text>
   <text x="256" y="132" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the big idea the whole text is about</text>
 
   <!-- raindrops (details) -->
