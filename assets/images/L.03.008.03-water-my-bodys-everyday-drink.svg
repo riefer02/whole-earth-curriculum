@@ -15,7 +15,7 @@
     <path d="M120 254 l-8 40 M120 254 l8 40" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
     <path d="M108 214 l-24 20" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
     <path d="M158 150 q10 -12 16 -14 q6 8 2 16 q-4 8 -10 10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="120" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">drink when thirsty</text>
+    <text x="105" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">drink when thirsty</text>
   </g>
 
   <!-- Body with water -->
@@ -29,7 +29,8 @@
     <circle cx="248" cy="200" r="4" fill="#6b93b6"/>
     <circle cx="264" cy="230" r="4" fill="#6b93b6"/>
     <circle cx="256" cy="286" r="4" fill="#6b93b6"/>
-    <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">water in blood, tears, sweat</text>
+    <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">water in blood,</text>
+    <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">tears, sweat</text>
   </g>
 
   <!-- Sources -->

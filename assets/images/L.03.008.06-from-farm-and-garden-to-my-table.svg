@@ -65,7 +65,7 @@
     <circle cx="360" cy="360" r="9" fill="#b0804f" stroke="#2b3a42" stroke-width="2"/>
     <path d="M360 369 l0 20" stroke="#2b3a42" stroke-width="3"/>
     <path d="M360 374 l-10 8 M360 374 l10 8" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-    <text x="280" y="396" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">workers help at every step</text>
+    <text x="280" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">workers help at every step</text>
   </g>
 
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Every meal is the work of many hands.</text>
