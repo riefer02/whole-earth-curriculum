@@ -18,12 +18,12 @@
   <rect x="56" y="136" width="120" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="116" y="167" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">place</text>
   <rect x="176" y="136" width="140" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M246 150 q6 -6 6 -12 q0 -6 -6 -12 q6 -6 6 -12 q0 -6 -6 -12" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <path d="M246 162 q5 -4 5 -8 q0 -4 -5 -8 q5 -4 5 -8 q0 -4 -5 -8" fill="none" stroke="#6b93b6" stroke-width="3"/>
   <text x="246" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">cold and snowy</text>
   <rect x="316" y="136" width="140" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="386" cy="156" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M386 142 l0 -6 M386 176 l0 -6 M372 156 l-6 0 M406 156 l6 0 M376 146 l-4 -4 M396 146 l4 -4 M376 166 l-4 4 M396 166 l4 4" stroke="#2b3a42" stroke-width="2"/>
-  <text x="386" y="180" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">hot and dry</text>
+  <circle cx="386" cy="148" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M386 134 l0 -6 M386 168 l0 -6 M364 148 l-6 0 M414 148 l6 0 M370 138 l-4 -4 M402 138 l4 -4 M370 158 l-4 4 M402 158 l4 4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="386" y="182" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">hot and dry</text>
 
   <!-- food -->
   <rect x="56" y="188" width="120" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -41,20 +41,20 @@
   <rect x="56" y="240" width="120" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="116" y="271" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">shelter</text>
   <rect x="176" y="240" width="140" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M224 274 q11 -18 22 0 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M224 268 q11 -18 22 0 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="246" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">snow house</text>
   <rect x="316" y="240" width="140" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M360 258 L412 258 L406 276 L366 276 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M360 252 L412 252 L406 270 L366 270 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="386" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">tent</text>
 
   <!-- clothing -->
   <rect x="56" y="292" width="120" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="116" y="323" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">clothing</text>
   <rect x="176" y="292" width="140" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M232 300 q10 -10 28 -10 q18 0 28 10 l-4 26 q-12 6 -24 6 q-12 0 -24 -6 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M232 298 q10 -10 28 -10 q18 0 28 10 l-4 24 q-12 6 -24 6 q-12 0 -24 -6 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <text x="246" y="336" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">warm parka</text>
   <rect x="316" y="292" width="140" height="52" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M370 300 q10 -14 32 -14 q22 0 32 14 l0 24 q-16 6 -32 6 q-16 0 -32 -6 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M370 298 q10 -14 32 -14 q22 0 32 14 l0 22 q-16 6 -32 6 q-16 0 -32 -6 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="386" y="336" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">light robe</text>
 
   <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Both peoples meet the same needs —</text>

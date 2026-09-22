@@ -11,8 +11,8 @@
   <text x="139" y="120" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">The Arctic — cold</text>
 
   <text x="139" y="152" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">clothing</text>
-  <path d="M118 158 q14 -14 42 -14 q28 0 42 14 l-6 44 q-18 10 -36 10 q-18 0 -36 -10 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M139 174 l0 40" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M118 176 q14 -14 42 -14 q28 0 42 14 l-6 40 q-18 10 -36 10 q-18 0 -36 -10 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M139 192 l0 36" stroke="#2b3a42" stroke-width="2"/>
 
   <text x="139" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">shelter</text>
   <path d="M96 296 q20 -34 40 0 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -20,8 +20,8 @@
   <text x="139" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">snow house</text>
 
   <text x="139" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">food</text>
-  <path d="M120 352 q0 -14 19 -14 q19 0 19 14 q0 8 -8 8 l-22 0 q-8 0 -8 -8 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M139 358 l0 -10" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M120 360 q0 -14 19 -14 q19 0 19 14 q0 8 -8 8 l-22 0 q-8 0 -8 -8 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M139 366 l0 -10" stroke="#2b3a42" stroke-width="2"/>
   <text x="139" y="384" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">fish</text>
 
   <!-- right: Desert -->
@@ -29,8 +29,8 @@
   <text x="373" y="120" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">The desert — hot, dry</text>
 
   <text x="373" y="152" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">clothing</text>
-  <path d="M348 158 q12 -20 50 -20 q38 0 50 20 l0 48 q-24 10 -50 10 q-26 0 -50 -10 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M373 178 l0 42" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M348 176 q12 -20 50 -20 q38 0 50 20 l0 44 q-24 10 -50 10 q-26 0 -50 -10 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M373 196 l0 38" stroke="#2b3a42" stroke-width="2"/>
 
   <text x="373" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">shelter</text>
   <path d="M330 268 L416 268 L406 296 L340 296 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -38,10 +38,10 @@
   <text x="373" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">tent</text>
 
   <text x="373" y="344" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">food</text>
-  <circle cx="360" cy="362" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="374" cy="358" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="386" cy="362" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M398 344 q10 0 10 10 q0 8 -6 8 l-14 0 q-6 0 -6 -8 q0 -10 16 -10 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="360" cy="368" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="374" cy="364" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="386" cy="368" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M398 350 q10 0 10 10 q0 8 -6 8 l-14 0 q-6 0 -6 -8 q0 -10 16 -10 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="373" y="384" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">dates and milk</text>
 
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">Both peoples meet the same needs — the place shapes how.</text>

@@ -41,11 +41,11 @@
   <text x="412" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">a big busy market</text>
 
   <!-- cause explanation -->
-  <rect x="70" y="276" width="372" height="70" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <rect x="36" y="276" width="440" height="80" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
   <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">What caused the change?</text>
-  <text x="256" y="328" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">The bridge let more people cross the river, so more people</text>
-  <text x="256" y="348" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">came to trade — and the little market grew into a big one.</text>
+  <text x="256" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">The bridge let more people cross the river, so more people</text>
+  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">came to trade — and the little market grew into a big one.</text>
 
-  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Places change for reasons. Finding one reason</text>
-  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">is how historians explain the past.</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Places change for reasons. Finding one reason</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">is how historians explain the past.</text>
 </svg>
