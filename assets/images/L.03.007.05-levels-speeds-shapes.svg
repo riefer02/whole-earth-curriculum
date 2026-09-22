@@ -47,10 +47,10 @@
   <!-- shapes -->
   <g>
     <text x="280" y="372" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">shapes</text>
-    <circle cx="322" cy="368" r="16" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="322" y="356" font-family="sans-serif" font-size="13" fill="#4f6d7a">round</text>
-    <polygon points="392,344 400,360 418,362 405,374 408,392 392,382 376,392 379,374 366,362 384,360" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="392" y="406" font-family="sans-serif" font-size="13" fill="#4f6d7a">sharp</text>
+    <circle cx="322" cy="358" r="16" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="322" y="394" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">round</text>
+    <polygon points="392,334 400,350 418,352 405,364 408,382 392,372 376,382 379,364 366,352 384,350" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="392" y="394" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">sharp</text>
   </g>
 
   <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">high, middle, low — fast, slow — round, sharp: a dance</text>
