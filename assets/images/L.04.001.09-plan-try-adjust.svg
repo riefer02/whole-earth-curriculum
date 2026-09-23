@@ -20,7 +20,7 @@
   </g>
   <g>
     <circle cx="150" cy="354" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="150" y="361" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">check</text>
+    <text x="150" y="361" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">check</text>
   </g>
   <g>
     <circle cx="58" cy="262" r="30" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>

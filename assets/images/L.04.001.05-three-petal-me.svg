@@ -29,7 +29,7 @@
   <!-- Petal 3: experiences (lower-right) -->
   <g>
     <circle cx="352" cy="330" r="64" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="352" y="308" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">experiences</text>
+    <text x="352" y="308" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">experiences</text>
     <circle cx="352" cy="336" r="9" fill="#ffffff" stroke="#222222" stroke-width="1.5"/>
     <path d="M344 364 Q352 356 360 364" fill="none" stroke="#222222" stroke-width="2" stroke-linecap="round"/>
   </g>
