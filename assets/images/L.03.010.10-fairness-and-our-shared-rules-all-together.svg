@@ -15,7 +15,7 @@
   <path d="M80 112 A18 18 0 0 0 116 112 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="98" y="122" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">for</text>
   <path d="M134 106 A18 18 0 0 0 170 106 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="152" y="116" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">against</text>
+  <text x="152" y="141" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">against</text>
   <text x="134" y="156" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">weigh, then decide — and say why</text>
   <rect x="34" y="164" width="200" height="16" rx="4" fill="none" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="4 4"/>
 
@@ -24,9 +24,9 @@
   <text x="278" y="80" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">same act, different situations</text>
   <!-- two speech bubbles -->
   <path d="M296 118 q10 -10 22 -6 l0 12 q-10 3 -20 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="308" y="116" font-family="sans-serif" font-size="11" fill="#222222">Watch out!</text>
-  <path d="M368 118 q10 -10 22 -6 l0 12 q-10 3 -20 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="380" y="116" font-family="sans-serif" font-size="11" fill="#222222">Go away!</text>
+  <text x="320" y="118" font-family="sans-serif" font-size="9" fill="#222222">Watch out!</text>
+  <path d="M376 118 q10 -10 22 -6 l0 12 q-10 3 -20 -2 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="402" y="118" font-family="sans-serif" font-size="9" fill="#222222">Go away!</text>
   <!-- check and x -->
   <path d="M300 152 l8 8 l14 -14" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
   <line x1="370" y1="152" x2="386" y2="168" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>

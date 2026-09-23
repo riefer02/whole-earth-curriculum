@@ -10,11 +10,11 @@
   <rect x="30" y="64" width="452" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="50" y="90" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">1 · my shared space</text>
   <!-- playground swing -->
-  <line x1="70" y1="150" x2="110" y2="150" stroke="#2b3a42" stroke-width="3"/>
-  <line x1="70" y1="150" x2="90" y2="96" stroke="#2b3a42" stroke-width="3"/>
-  <line x1="110" y1="150" x2="90" y2="96" stroke="#2b3a42" stroke-width="3"/>
-  <line x1="90" y1="100" x2="90" y2="122" stroke="#4f6d7a" stroke-width="2"/>
-  <rect x="82" y="122" width="16" height="8" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="70" y1="158" x2="110" y2="158" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="70" y1="158" x2="90" y2="104" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="110" y1="158" x2="90" y2="104" stroke="#2b3a42" stroke-width="3"/>
+  <line x1="90" y1="108" x2="90" y2="130" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="82" y="130" width="16" height="8" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <!-- dashed draw area -->
   <rect x="180" y="84" width="288" height="84" rx="6" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="5 5"/>
   <text x="324" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">draw or write your shared space</text>
@@ -37,6 +37,6 @@
   <text x="433" y="380" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">your reason</text>
 
   <!-- banner -->
-  <rect x="76" y="436" width="360" height="42" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">A fair rule is one whose reason everyone can hear.</text>
+  <rect x="36" y="436" width="440" height="42" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">A fair rule is one whose reason everyone can hear.</text>
 </svg>
