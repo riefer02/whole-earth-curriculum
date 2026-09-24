@@ -24,21 +24,21 @@
   <!-- Evaporation arrow -->
   <line x1="140" y1="300" x2="160" y2="176" stroke="#4f6d7a" stroke-width="3"/>
   <polygon points="162,176 152,184 168,180" fill="#4f6d7a"/>
-  <text x="96" y="258" font-size="15" fill="#222222" font-weight="bold">evaporation</text>
+  <text x="36" y="258" font-size="15" fill="#222222" font-weight="bold">evaporation</text>
 
   <!-- Rain -->
   <g stroke="#6b93b6" stroke-width="3" stroke-linecap="round">
-    <line x1="150" y1="196" x2="144" y2="214"/>
-    <line x1="180" y1="196" x2="174" y2="216"/>
-    <line x1="210" y1="192" x2="204" y2="212"/>
-    <line x1="232" y1="184" x2="228" y2="204"/>
+    <line x1="150" y1="208" x2="144" y2="226"/>
+    <line x1="180" y1="208" x2="174" y2="228"/>
+    <line x1="210" y1="204" x2="204" y2="224"/>
+    <line x1="232" y1="196" x2="228" y2="216"/>
   </g>
   <text x="240" y="238" font-size="15" fill="#222222" font-weight="bold">precipitation</text>
 
   <!-- Ground / lake / ocean -->
   <rect x="40" y="300" width="432" height="120" fill="#7a9e7e" opacity="0.35"/>
   <path d="M60 300 Q90 288 120 300 T180 300 T240 300 T300 300 T360 300 T420 300 T470 300" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="90" y="360" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">collection</text>
+  <text x="145" y="360" text-anchor="middle" font-size="15" fill="#222222" font-weight="bold">collection</text>
   <text x="350" y="360" text-anchor="middle" font-size="15" fill="#4f6d7a">lake &amp; ocean</text>
 
   <!-- Return arrows -->

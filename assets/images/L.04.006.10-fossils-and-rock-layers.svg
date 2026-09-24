@@ -11,9 +11,9 @@
   <rect x="80" y="130" width="352" height="70" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
 
   <!-- Youngest label -->
-  <text x="70" y="150" text-anchor="end" font-size="15" fill="#222222" font-weight="bold">youngest</text>
+  <text x="4" y="150" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">youngest</text>
   <!-- Oldest label -->
-  <text x="70" y="392" text-anchor="end" font-size="15" fill="#222222" font-weight="bold">oldest</text>
+  <text x="4" y="392" text-anchor="start" font-size="14" fill="#222222" font-weight="bold">oldest</text>
 
   <!-- Top layer: bone -->
   <text x="256" y="176" text-anchor="middle" font-size="15" fill="#222222">bone fossil (youngest)</text>

@@ -21,13 +21,13 @@
   <!-- Water -->
   <rect x="30" y="300" width="452" height="120" fill="#6b93b6" opacity="0.4"/>
   <path d="M30 300 Q70 288 120 300 T210 300 T300 300 T390 300 T482 300" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="120" y="340" text-anchor="middle" font-size="15" fill="#222222">water</text>
-  <text x="120" y="358" text-anchor="middle" font-size="12" fill="#4f6d7a">(nonliving)</text>
+  <text x="120" y="368" text-anchor="middle" font-size="15" fill="#222222">water</text>
+  <text x="120" y="384" text-anchor="middle" font-size="12" fill="#4f6d7a">(nonliving)</text>
 
   <!-- Soil -->
   <rect x="30" y="420" width="452" height="50" fill="#7a9e7e" opacity="0.55"/>
-  <text x="250" y="452" text-anchor="middle" font-size="15" fill="#222222">soil</text>
-  <text x="250" y="468" text-anchor="middle" font-size="12" fill="#4f6d7a">(nonliving)</text>
+  <text x="200" y="452" text-anchor="middle" font-size="15" fill="#222222">soil</text>
+  <text x="200" y="468" text-anchor="middle" font-size="12" fill="#4f6d7a">(nonliving)</text>
 
   <!-- Plant -->
   <g>
