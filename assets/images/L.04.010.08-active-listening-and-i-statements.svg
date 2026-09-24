@@ -25,17 +25,17 @@
   <path d="M362 250 L342 258" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
 
   <!-- speaker bubble -->
-  <rect x="28" y="300" width="250" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M140 300 L150 282 L160 300 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="153" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">I feel sad when I am interrupted,</text>
-  <text x="153" y="340" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">because my idea never gets finished.</text>
-  <text x="153" y="360" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">I need a turn to finish.</text>
+  <rect x="16" y="300" width="224" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M118 300 L128 282 L138 300 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="128" y="322" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">I feel sad when I am interrupted,</text>
+  <text x="128" y="340" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">because my idea never gets finished.</text>
+  <text x="128" y="360" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">I need a turn to finish.</text>
 
   <!-- listener bubble -->
-  <rect x="234" y="300" width="250" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M372 300 L362 282 L352 300 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="359" y="324" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">I hear that you feel sad —</text>
-  <text x="359" y="344" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">can you tell me more?</text>
+  <rect x="256" y="300" width="240" height="80" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M388 300 L378 282 L368 300 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="376" y="324" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">I hear that you feel sad —</text>
+  <text x="376" y="344" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">can you tell me more?</text>
 
   <!-- calm body caption -->
   <rect x="90" y="418" width="332" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

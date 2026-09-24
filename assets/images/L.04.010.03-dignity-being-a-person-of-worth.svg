@@ -26,14 +26,14 @@
   <rect x="110" y="164" width="20" height="34" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- new child, seated, greeted -->
-  <circle cx="172" cy="170" r="14" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M158 168 A14 14 0 0 1 186 168 Z" fill="#2b3a42"/>
-  <circle cx="167" cy="170" r="1.6" fill="#2b3a42"/>
-  <circle cx="177" cy="170" r="1.6" fill="#2b3a42"/>
-  <path d="M167 176 Q172 181 177 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <rect x="160" y="184" width="24" height="30" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="172" cy="162" r="14" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M158 160 A14 14 0 0 1 186 160 Z" fill="#2b3a42"/>
+  <circle cx="167" cy="162" r="1.6" fill="#2b3a42"/>
+  <circle cx="177" cy="162" r="1.6" fill="#2b3a42"/>
+  <path d="M167 168 Q172 173 177 168" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="160" y="176" width="24" height="30" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <!-- seat -->
-  <rect x="152" y="214" width="40" height="10" rx="4" fill="#2b3a42"/>
+  <rect x="152" y="206" width="40" height="10" rx="4" fill="#2b3a42"/>
 
   <!-- greeting speech bubble -->
   <rect x="36" y="220" width="150" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
