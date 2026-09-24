@@ -53,7 +53,7 @@
     <path d="M350 184 q14 12 28 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <path d="M350 232 q6 -14 14 -14 q8 0 14 14 l-14 16 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <rect x="332" y="316" width="64" height="34" rx="6" fill="#6b93b6"/>
-    <text x="364" y="338" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">preference</text>
+    <text x="364" y="338" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#ffffff">preference</text>
   </g>
 
   <!-- Card 5: access -->

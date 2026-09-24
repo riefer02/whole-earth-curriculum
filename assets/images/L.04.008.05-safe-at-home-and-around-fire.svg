@@ -32,7 +32,8 @@
     <circle cx="222" cy="220" r="7" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
     <path d="M278 232 q10 0 10 8 M210 226 q-8 0 -8 8" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
     <rect x="238" y="250" width="44" height="10" rx="4" fill="#e0a458"/>
-    <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">crawl low under smoke</text>
+    <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">crawl low</text>
+    <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">under smoke</text>
   </g>
 
   <!-- Panel 3: never touch matches or lighters -->
