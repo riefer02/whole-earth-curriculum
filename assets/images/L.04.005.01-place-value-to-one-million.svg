@@ -50,9 +50,9 @@
   </g>
 
   <!-- Expanded form box -->
-  <rect x="52" y="258" width="408" height="96" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <rect x="36" y="258" width="440" height="96" rx="12" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
   <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">400,000 + 60,000 + 3,000 + 200 + 10 + 5</text>
-  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="17.0" fill="#4f6d7a">four hundred sixty-three thousand, two hundred fifteen</text>
+  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">four hundred sixty-three thousand, two hundred fifteen</text>
 
   <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">The comma groups the thousands.</text>
 

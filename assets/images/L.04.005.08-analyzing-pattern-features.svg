@@ -21,8 +21,8 @@
   <text x="140" y="226" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#7a9e7e">stays the same: the step, +3</text>
   <text x="140" y="256" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">→ increases by 3 each time</text>
   <text x="140" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Predict term 10:</text>
-  <text x="140" y="330" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#e0a458">2 + 9 × 3 = 29</text>
-  <text x="140" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">count on in threes, 9 more steps</text>
+  <text x="140" y="330" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#e0a458">2 + 9 × 3 = 29</text>
+  <text x="140" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">count on in threes, 9 more steps</text>
 
   <!-- Repeating pattern -->
   <rect x="262" y="96" width="220" height="290" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2"/>
@@ -32,10 +32,10 @@
     <text x="312" y="168">A</text><text x="356" y="168">B</text><text x="400" y="168">A</text><text x="444" y="168">B</text><text x="470" y="168">A</text>
   </g>
   <text x="372" y="200" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">changes: the letter</text>
-  <text x="372" y="226" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#436b47">stays the same: the order, A then B</text>
+  <text x="372" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#436b47">stays the same: the order, A then B</text>
   <text x="372" y="256" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">→ repeats every 2</text>
   <text x="372" y="300" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Predict the 11th shape:</text>
-  <text x="372" y="330" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#7a9e7e">A (odd places are A)</text>
+  <text x="372" y="330" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#7a9e7e">A (odd places are A)</text>
   <text x="372" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">1st, 3rd, 5th … are all A</text>
 
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Every pattern has constant parts and changing parts.</text>
