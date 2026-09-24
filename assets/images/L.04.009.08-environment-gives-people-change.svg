@@ -14,8 +14,8 @@
   <text x="100" y="122" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">cold place</text>
   <path d="M82 132 q0 -8 8 -8 q8 0 8 8 q0 6 -5 6 l-6 0 q-5 0 -5 -6 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <path d="M116 132 q0 -10 12 -10 q12 0 12 10 l0 12 q-6 4 -12 4 q-6 0 -12 -4 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="100" y="160" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">fish</text>
-  <text x="100" y="174" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">warm covering</text>
+  <text x="100" y="172" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">fish</text>
+  <text x="100" y="186" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">warm covering</text>
 
   <!-- desert -->
   <rect x="186" y="100" width="140" height="130" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
@@ -23,17 +23,17 @@
   <circle cx="232" cy="150" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="244" cy="146" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <path d="M262 140 q10 0 10 8 q0 6 -5 6 l-10 0 q-5 0 -5 -6 q0 -8 10 -8 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="160" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">dates</text>
-  <text x="256" y="174" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">light cloth</text>
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">dates</text>
+  <text x="256" y="186" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">light cloth</text>
 
   <!-- river valley -->
   <rect x="342" y="100" width="140" height="130" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
   <text x="412" y="122" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">river valley</text>
-  <path d="M384 148 q4 -8 8 -8 q4 0 8 8 l-3 2 l-5 -3 l-5 3 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M404 148 q4 -8 8 -8 q4 0 8 8 l-3 2 l-5 -3 l-5 3 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M388 158 l0 10 M416 158 l0 10 M408 158 l0 8" stroke="#2b3a42" stroke-width="2"/>
-  <text x="412" y="160" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">grain</text>
-  <text x="412" y="174" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">water + soil</text>
+  <path d="M384 140 q4 -8 8 -8 q4 0 8 8 l-3 2 l-5 -3 l-5 3 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M404 140 q4 -8 8 -8 q4 0 8 8 l-3 2 l-5 -3 l-5 3 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M388 150 l0 8 M416 150 l0 8 M408 150 l0 8" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="172" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">grain</text>
+  <text x="412" y="186" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">water + soil</text>
 
   <!-- bottom row: people change -->
   <text x="256" y="258" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">People change the environment to meet their needs</text>
@@ -63,13 +63,13 @@
 
   <!-- well -->
   <rect x="342" y="272" width="140" height="150" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
-  <rect x="396" y="306" width="32" height="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M388 306 L436 306 L428 292 L396 292 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="404" y="340" width="16" height="40" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="412" y="302" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">dug well</text>
-  <text x="412" y="318" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">digging down</text>
-  <text x="412" y="332" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">to reach water</text>
-  <text x="412" y="346" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">underground</text>
+  <rect x="396" y="310" width="32" height="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M388 310 L436 310 L428 296 L396 296 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="404" y="344" width="16" height="32" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="412" y="290" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">dug well</text>
+  <text x="412" y="392" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">digging down</text>
+  <text x="412" y="404" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">to reach water</text>
+  <text x="412" y="416" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#222222">underground</text>
 
   <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#222222">The environment shapes people, and people shape the environment.</text>
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">Both directions, with knowledge and care, in every place on Earth.</text>
