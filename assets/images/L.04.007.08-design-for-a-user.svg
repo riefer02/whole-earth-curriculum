@@ -17,10 +17,10 @@
     <text x="256" y="352">3. make</text>
   </g>
   <g font-family="sans-serif" font-size="15" fill="#222222" text-anchor="middle">
-    <text x="104" y="150">who needs it,</text>
-    <text x="104" y="170">and what do they need?</text>
-    <text x="104" y="252">think of ideas</text>
-    <text x="104" y="352">build a first try</text>
+    <text x="352" y="140" font-size="14" text-anchor="start">who needs it,</text>
+    <text x="352" y="158" font-size="14" text-anchor="start">and what do they need?</text>
+    <text x="352" y="252" font-size="14" text-anchor="start">think of ideas</text>
+    <text x="352" y="352" font-size="14" text-anchor="start">build a first try</text>
   </g>
   <!-- arrows down -->
   <g fill="none" stroke="#2b3a42" stroke-width="3">
@@ -46,7 +46,7 @@
   <!-- loop back arrow -->
   <path d="M 120 444 C 60 444 40 300 150 150" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-dasharray="7 7"/>
   <path d="M 158 158 L 150 146 L 140 156" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linejoin="round"/>
-  <text x="52" y="340" font-family="sans-serif" font-size="13" fill="#4f6d7a" transform="rotate(-72 52 340)">then ask again</text>
+  <text x="80" y="392" font-family="sans-serif" font-size="13" fill="#4f6d7a">then ask again</text>
 
   <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The user's feedback is the most important part.</text>
 </svg>

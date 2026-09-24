@@ -25,6 +25,6 @@
   <!-- Respectful question speech bubble -->
   <path d="M 28 420 L 484 420 L 484 452 C 484 466 472 478 458 478 L 76 478 C 62 478 50 466 50 452 L 50 420 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
   <path d="M 88 478 L 78 500 L 108 478 Z" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">one respectful question</text>
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">"Who made this, and what does it mean to them?"</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">one respectful question</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"Who made this, and what does it mean to them?"</text>
 </svg>
