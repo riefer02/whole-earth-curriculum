@@ -49,8 +49,8 @@
   </g>
 
   <!-- Loop label -->
-  <rect x="176" y="300" width="160" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="325" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">listen · say it back · check</text>
+  <rect x="146" y="300" width="220" height="40" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="325" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">listen · say it back · check</text>
 
   <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Hearing is not enough — say it back.</text>
   <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">Put their idea into your own words, then check you got it right.</text>
