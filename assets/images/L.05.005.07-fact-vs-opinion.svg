@@ -27,7 +27,7 @@
   <!-- Right column -->
   <rect x="260" y="70" width="228" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <rect x="260" y="70" width="228" height="56" rx="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="374" y="63.3" text-anchor="middle" font-family="sans-serif" font-size="12.9" font-weight="bold" fill="#222222">opinion — what someone thinks</text>
+  <text x="374" y="104" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">opinion — what someone thinks</text>
 
   <text x="374" y="150" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">"This river is the most</text>
   <text x="374" y="172" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">beautiful in the world."</text>

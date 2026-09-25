@@ -21,15 +21,15 @@
   <!-- Step 2 -->
   <rect x="208" y="80" width="176" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <!-- small learner -->
-  <circle cx="240" cy="104" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="234" cy="104" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
   <path d="M236 128 L244 128 M240 128 L238 140 L240 138 L242 140 L242 128" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
-  <path d="M252 100 L270 96 L274 104 Z" fill="#2b3a42"/>
+  <path d="M252 90 L270 86 L274 94 Z" fill="#2b3a42"/>
   <text x="296" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">own words:</text>
   <text x="296" y="132" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"Tamarind trees can grow</text>
   <text x="296" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">for more than a century."</text>
   <text x="296" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">say it your way</text>
   <!-- crossed-out copied words -->
-  <line x1="236" y1="92" x2="360" y2="182" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <line x1="232" y1="124" x2="362" y2="158" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
 
   <!-- Arrow 2 -->
   <path d="M384 145 L420 145" fill="none" stroke="#4f6d7a" stroke-width="2.5"/>
