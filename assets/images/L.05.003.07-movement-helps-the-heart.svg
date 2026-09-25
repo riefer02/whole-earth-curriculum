@@ -23,8 +23,8 @@
   <circle cx="368" cy="146" r="2.8" fill="#222222"/>
   <circle cx="384" cy="146" r="2.8" fill="#222222"/>
   <path d="M366 162 Q376 168 386 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <text x="376" y="290" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">movement</text>
-  <text x="376" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">makes the heart work</text>
+  <text x="376" y="282" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">movement</text>
+  <text x="376" y="302" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">makes the heart work</text>
 
   <!-- Pulse line: slow then fast -->
   <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
