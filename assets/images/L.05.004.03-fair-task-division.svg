@@ -46,7 +46,7 @@
   <circle cx="402" cy="384" r="13" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="402" cy="384" r="3" fill="#2b3a42"/>
   <line x1="392" y1="376" x2="372" y2="376" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M406 318 L418 329 L408 340" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M406 358 L418 369 L408 380" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 
   <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="17.6" font-weight="bold" fill="#222222">Every job has a name — every person has a real part.</text>
   <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Nobody left out, nobody overloaded.</text>

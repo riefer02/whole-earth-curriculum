@@ -28,7 +28,7 @@
   <!-- Right: need-based -->
   <rect x="262" y="66" width="228" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="376" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">need-based shares</text>
-  <text x="376" y="118" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">more for greater need</text>
+  <text x="376" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">more for greater need</text>
 
   <circle cx="322" cy="160" r="46" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="314" cy="146" r="4" fill="#2b3a42"/><circle cx="330" cy="150" r="4" fill="#2b3a42"/><circle cx="312" cy="162" r="4" fill="#2b3a42"/><circle cx="330" cy="168" r="4" fill="#2b3a42"/><circle cx="322" cy="178" r="4" fill="#2b3a42"/>
