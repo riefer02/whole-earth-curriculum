@@ -44,9 +44,9 @@
 
   <!-- heat arrows -->
   <line x1="156" y1="140" x2="190" y2="140" stroke="#e0a458" stroke-width="3" marker-end="url(#arr5-L-05-007-05-matter-particles-states)"/>
-  <text x="173" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#b0712b">add heat</text>
+  <text x="173" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#b0712b">add heat</text>
   <line x1="322" y1="140" x2="356" y2="140" stroke="#e0a458" stroke-width="3" marker-end="url(#arr5-L-05-007-05-matter-particles-states)"/>
-  <text x="339" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#b0712b">add heat</text>
+  <text x="339" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#b0712b">add heat</text>
 
   <!-- cool arrows -->
   <line x1="190" y1="120" x2="156" y2="120" stroke="#4f6d7a" stroke-width="3" marker-end="url(#arr5-L-05-007-05-matter-particles-states)"/>

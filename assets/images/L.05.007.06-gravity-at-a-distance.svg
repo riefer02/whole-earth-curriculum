@@ -49,7 +49,7 @@
 
   <!-- weaker arrow to moon -->
   <line x1="140" y1="206" x2="120" y2="192" stroke="#4f6d7a" stroke-width="2" marker-end="url(#arr6-L-05-007-06-gravity-at-a-distance)"/>
-  <text x="150" y="238" font-family="sans-serif" font-size="12" fill="#4f6d7a">gravity also pulls the Moon</text>
+  <text x="56" y="112" font-family="sans-serif" font-size="12" fill="#4f6d7a">gravity also pulls the Moon</text>
 
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">gravity is a pull that acts at a distance — no touching</text>
 </svg>

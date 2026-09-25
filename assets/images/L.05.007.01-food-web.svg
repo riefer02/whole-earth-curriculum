@@ -20,7 +20,7 @@
   <circle cx="256" cy="92" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <g stroke="#2b3a42" stroke-width="2">
     <line x1="256" y1="56" x2="256" y2="44"/>
-    <line x1="256" y1="128" x2="256" y2="140"/>
+    
     <line x1="220" y1="92" x2="208" y2="92"/>
     <line x1="292" y1="92" x2="304" y2="92"/>
     <line x1="230" y1="66" x2="222" y2="58"/>

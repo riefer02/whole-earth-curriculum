@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 520" role="img" aria-labelledby="title-L-05-007-10-earth-surface-processes desc-L-05-007-10-earth-surface-processes">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 540" role="img" aria-labelledby="title-L-05-007-10-earth-surface-processes desc-L-05-007-10-earth-surface-processes">
   <title id="title-L-05-007-10-earth-surface-processes">Slow and fast changes to Earth's surface</title>
   <desc id="desc-L-05-007-10-earth-surface-processes">A cross-section landscape showing slow and fast changes to Earth's surface. On the left, a volcano rises above the ground and erupts with a plume of ash and a lava flow, labeled volcanic eruption — fast. In the center, a dashed line shows the original flat ground, and a V-shaped valley is carved below it with a river at its floor, labeled river erosion — slow. On the right, a fault line cuts the rock layers, and the layers on the right are shifted upward, with arrows showing the ground slipped, labeled earthquake at a fault — fast. Horizontal lines below the surface are labeled rock layers. At the bottom, an inset shows two plates meeting with arrows pushing together, a small volcano, and a star marking an earthquake, labeled most earthquakes and volcanoes happen where plates meet. Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
-  <rect width="512" height="520" fill="#fdfbf7"/>
+  <rect width="512" height="540" fill="#fdfbf7"/>
 
   <defs>
     <marker id="arr10-L-05-007-10-earth-surface-processes" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
@@ -60,9 +60,9 @@
   <line x1="150" y1="465" x2="200" y2="465" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr10-L-05-007-10-earth-surface-processes)"/>
   <line x1="362" y1="465" x2="312" y2="465" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr10-L-05-007-10-earth-surface-processes)"/>
   <!-- volcano + earthquake at boundary -->
-  <path d="M238,478 L256,446 L274,478 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M250,486 l4,9 l9,0 l-7,7 l2,9 l-8,-5 l-8,5 l2,-9 l-7,-7 l9,0 Z" fill="#2b3a42"/>
-  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">plates meet here</text>
+  <path d="M238,470 L256,446 L274,470 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M250,472 l4,9 l9,0 l-7,7 l2,9 l-8,-5 l-8,5 l2,-9 l-7,-7 l9,0 Z" fill="#2b3a42"/>
+  <text x="256" y="514" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">plates meet here</text>
 
-  <text x="256" y="516" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">most earthquakes and volcanoes happen where plates meet</text>
+  <text x="256" y="530" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">most earthquakes and volcanoes happen where plates meet</text>
 </svg>

@@ -74,21 +74,21 @@
   <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">As seen from Earth, over about one month</text>
 
   <use href="#ph-new" x="46" y="452"/>
-  <text x="46" y="486" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">new</text>
+  <text x="46" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">new</text>
   <use href="#ph-waxcres" x="106" y="452"/>
-  <text x="106" y="486" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">waxing crescent</text>
+  <text x="106" y="502" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waxing crescent</text>
   <use href="#ph-firstq" x="166" y="452"/>
-  <text x="166" y="486" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">first quarter</text>
+  <text x="166" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">first quarter</text>
   <use href="#ph-waxgib" x="226" y="452"/>
-  <text x="226" y="486" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">waxing gibbous</text>
+  <text x="226" y="502" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waxing gibbous</text>
   <use href="#ph-full" x="286" y="452"/>
-  <text x="286" y="486" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">full</text>
+  <text x="286" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">full</text>
   <use href="#ph-wangib" x="346" y="452"/>
-  <text x="346" y="486" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">waning gibbous</text>
+  <text x="346" y="502" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waning gibbous</text>
   <use href="#ph-lastq" x="406" y="452"/>
-  <text x="406" y="486" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">last quarter</text>
+  <text x="406" y="486" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">last quarter</text>
   <use href="#ph-wancres" x="466" y="452"/>
-  <text x="466" y="486" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">waning crescent</text>
+  <text x="466" y="502" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#2b3a42">waning crescent</text>
 
   <text x="256" y="540" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the Moon makes no light of its own — it reflects the Sun's light</text>
   <text x="256" y="560" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">phases are NOT Earth's shadow — that only happens during an eclipse</text>
