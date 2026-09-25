@@ -69,9 +69,9 @@
 
   <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">2/4 is the same as 1/2</text>
 
-  <rect x="120" y="382" width="272" height="52" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">keep the pieces the same size</text>
-  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">add or subtract the tops, keep the bottoms</text>
+  <rect x="96" y="382" width="320" height="52" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">keep the pieces the same size</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">add or subtract the tops, keep the bottoms</text>
 
   <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">sharing and cooking, one fair piece at a time</text>
 </svg>
