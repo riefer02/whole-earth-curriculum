@@ -28,17 +28,17 @@
   <rect x="181" y="84" width="150" height="330" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <!-- open hand, palm up -->
   <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M256 250 L256 300"/>
+    <path d="M256 250 L256 266"/>
     <path d="M256 260 L232 250"/>
     <path d="M256 260 L246 240"/>
     <path d="M256 260 L262 240"/>
     <path d="M256 260 L276 252"/>
   </g>
-  <circle cx="256" cy="254" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="256" cy="241" r="23" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
   <!-- mirror -->
   <ellipse cx="256" cy="180" rx="24" ry="30" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
   <path d="M244 170 Q256 162 268 170" fill="none" stroke="#ffffff" stroke-width="2"/>
-  <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">honesty</text>
+  <text x="256" y="294" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#222222">honesty</text>
   <text x="256" y="322" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">tell the truth,</text>
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">be real</text>
 

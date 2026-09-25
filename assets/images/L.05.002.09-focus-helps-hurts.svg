@@ -15,23 +15,23 @@
 
   <!-- quiet room -->
   <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="60" y="184" width="52" height="40" fill="#ffffff"/>
-    <path d="M54 184 L86 162 L118 184"/>
+    <rect x="40" y="184" width="52" height="40" fill="#ffffff"/>
+    <path d="M34 184 L66 162 L98 184"/>
   </g>
-  <text x="142" y="210" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a quiet spot</text>
+  <text x="152" y="210" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a quiet spot</text>
 
   <!-- water glass -->
   <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M78 250 L82 286 L96 286 L100 250 Z" fill="#c9d6df"/>
+    <path d="M58 250 L62 286 L76 286 L80 250 Z" fill="#c9d6df"/>
   </g>
-  <text x="142" y="274" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a glass of water</text>
+  <text x="152" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a glass of water</text>
 
   <!-- written plan -->
-  <rect x="62" y="308" width="54" height="36" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="70" y1="320" x2="108" y2="320" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="70" y1="328" x2="108" y2="328" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="70" y1="336" x2="96" y2="336" stroke="#2b3a42" stroke-width="2"/>
-  <text x="142" y="332" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a clear plan</text>
+  <rect x="42" y="308" width="54" height="36" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="50" y1="320" x2="88" y2="320" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="50" y1="328" x2="88" y2="328" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="50" y1="336" x2="76" y2="336" stroke="#2b3a42" stroke-width="2"/>
+  <text x="152" y="332" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a clear plan</text>
 
   <!-- Column 2: hurts -->
   <rect x="266" y="84" width="226" height="360" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -41,26 +41,26 @@
   <path d="M371 150 L379 158 L387 150" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- ringing phone -->
-  <rect x="306" y="182" width="26" height="42" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="314" y1="216" x2="324" y2="216" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="288" y="182" width="26" height="42" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="296" y1="216" x2="306" y2="216" stroke="#2b3a42" stroke-width="2"/>
   <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
-    <path d="M300 176 Q298 168 304 164"/>
-    <path d="M336 176 Q338 168 332 164"/>
+    <path d="M282 176 Q280 168 286 164"/>
+    <path d="M318 176 Q320 168 314 164"/>
   </g>
-  <text x="388" y="210" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a ringing phone</text>
+  <text x="398" y="210" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a ringing phone</text>
 
   <!-- noisy crowd -->
   <g stroke="#2b3a42" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="316" cy="254" r="9" fill="#e6bb92"/>
-    <circle cx="338" cy="254" r="9" fill="#c99567"/>
-    <circle cx="328" cy="242" r="9" fill="#f5d6b6"/>
+    <circle cx="298" cy="254" r="9" fill="#e6bb92"/>
+    <circle cx="320" cy="254" r="9" fill="#c99567"/>
+    <circle cx="310" cy="242" r="9" fill="#f5d6b6"/>
   </g>
-  <text x="388" y="258" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">a noisy crowd</text>
+  <text x="398" y="258" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a noisy crowd</text>
 
   <!-- empty stomach -->
-  <path d="M310 320 Q322 302 334 320 Q334 334 322 334 Q310 334 310 320 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M314 324 Q322 330 330 324" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="388" y="328" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">an empty stomach</text>
+  <path d="M292 320 Q304 302 316 320 Q316 334 304 334 Q292 334 292 320 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M296 324 Q304 330 312 324" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
+  <text x="398" y="328" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">an empty stomach</text>
 
   <text x="256" y="475" text-anchor="middle" font-family="sans-serif" font-size="18.3" fill="#2b3a42">Notice what helps and what hurts — then guide your</text>
   <text x="256" y="501" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">lantern back.</text>

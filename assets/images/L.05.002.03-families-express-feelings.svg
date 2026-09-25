@@ -8,7 +8,8 @@
 
   <!-- Panel 1: loud group hug -->
   <rect x="18" y="76" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-  <text x="93" y="104" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">a loud group hug</text>
+  <text x="93" y="100" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a loud</text>
+  <text x="93" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">group hug</text>
   <!-- three figures hugging, arms wide -->
   <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="66" cy="190" r="17" fill="#f5d6b6"/>
@@ -35,7 +36,8 @@
 
   <!-- Panel 2: quiet smiles and a nod -->
   <rect x="181" y="76" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-  <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">quiet smiles, a nod</text>
+  <text x="256" y="100" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">quiet smiles,</text>
+  <text x="256" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a nod</text>
   <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="220" cy="200" r="17" fill="#ab7a4e"/>
     <circle cx="292" cy="200" r="17" fill="#f5d6b6"/>
@@ -55,7 +57,8 @@
 
   <!-- Panel 3: singing and dancing -->
   <rect x="344" y="76" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-  <text x="419" y="104" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">a song, a dance</text>
+  <text x="419" y="100" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a song,</text>
+  <text x="419" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">a dance</text>
   <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="398" cy="196" r="17" fill="#c99567"/>
     <circle cx="440" cy="196" r="17" fill="#8f5f3d"/>

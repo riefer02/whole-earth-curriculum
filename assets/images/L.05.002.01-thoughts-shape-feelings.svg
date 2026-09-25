@@ -7,9 +7,9 @@
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Same Event, Different Thoughts</text>
 
   <!-- Column headers -->
-  <text x="104" y="84" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">event</text>
-  <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">thought</text>
-  <text x="418" y="84" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">feeling</text>
+  <text x="104" y="70" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">event</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">thought</text>
+  <text x="418" y="70" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">feeling</text>
 
   <!-- Row 1 -->
   <!-- event: rain cloud -->
