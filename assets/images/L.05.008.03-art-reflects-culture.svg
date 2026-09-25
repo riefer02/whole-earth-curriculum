@@ -50,9 +50,9 @@
     <circle cx="322" cy="234" r="10"/><path d="M322 224 L322 244 M312 234 L332 234"/>
     <path d="M356 234 Q362 226 370 234 Q362 244 356 234"/>
     <path d="M392 232 L400 240 L392 248 L384 240 Z"/>
-    <circle cx="322" cy="272" r="10"/><path d="M322 262 L322 282 M312 272 L332 272"/>
-    <path d="M356 272 Q362 264 370 272 Q362 282 356 272"/>
-    <path d="M392 270 L400 278 L392 286 L384 278 Z"/>
+    <circle cx="322" cy="264" r="10"/><path d="M322 254 L322 274 M312 264 L332 264"/>
+    <path d="M356 264 Q362 256 370 264 Q362 274 356 264"/>
+    <path d="M392 262 L400 270 L392 278 L384 270 Z"/>
   </g>
 
   <text x="377" y="306" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">cotton cloth — plant dye</text>
