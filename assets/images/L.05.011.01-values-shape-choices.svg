@@ -36,7 +36,7 @@
   <g stroke="#2b3a42" stroke-width="2" fill="none" marker-end="">
     <line x1="96" y1="112" x2="150" y2="180"/>
   </g>
-  <text x="176" y="92" font-family="sans-serif" font-size="15" fill="#4f6d7a">value &#8594; choice: passes the bowl</text>
+  <text x="200" y="114" font-family="sans-serif" font-size="14" fill="#4f6d7a">value &#8594; choice: passes the bowl</text>
 
   <!-- ===== Bottom panel: look out for myself ===== -->
   <rect x="20" y="300" width="472" height="180" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -62,7 +62,7 @@
   <g stroke="#2b3a42" stroke-width="2" fill="none">
     <line x1="96" y1="320" x2="152" y2="384"/>
   </g>
-  <text x="176" y="300" font-family="sans-serif" font-size="15" fill="#4f6d7a">value &#8594; choice: keeps it for later</text>
+  <text x="200" y="338" font-family="sans-serif" font-size="14" fill="#4f6d7a">value &#8594; choice: keeps it for later</text>
 
   <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#2b3a42">A value is something you care about &#8212; it guides what you do.</text>
 </svg>
