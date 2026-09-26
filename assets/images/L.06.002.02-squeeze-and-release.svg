@@ -14,7 +14,7 @@
   <path d="M60 160 Q80 128 108 150" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <path d="M162 150 Q190 128 210 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <!-- neck/head -->
-  <circle cx="135" cy="112" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="135" cy="126" r="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <!-- arm to fist -->
   <line x1="108" y1="150" x2="100" y2="210" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <!-- fist -->

@@ -16,8 +16,8 @@
     <path d="M256 172 A 118 118 0 0 1 374 270" stroke-dasharray="6 6"/>
     <path d="M256 368 A 118 118 0 0 1 138 270" stroke-dasharray="6 6"/>
   </g>
-  <text x="318" y="196" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rotate</text>
-  <text x="194" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rotate</text>
+  <text x="302" y="162" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rotate</text>
+  <text x="168" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">rotate</text>
 
   <!-- Top figure: stepper -->
   <g>

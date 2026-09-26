@@ -30,12 +30,12 @@
   <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M346 120 L402 206"/>
     <path d="M402 198 L394 206 L406 208"/>
-    <path d="M402 278 L402 330"/>
-    <path d="M394 322 L402 330 L410 322"/>
-    <path d="M322 376 L190 376 L118 278"/>
-    <path d="M126 286 L118 274 L110 282"/>
-    <path d="M110 206 L196 124"/>
-    <path d="M188 116 L196 124 L204 118"/>
+    <path d="M402 278 L362 342"/>
+    <path d="M352 336 L362 344 L368 334"/>
+    <path d="M166 376 L120 280"/>
+    <path d="M128 288 L120 276 L112 284"/>
+    <path d="M110 206 L190 142"/>
+    <path d="M182 136 L190 144 L198 136"/>
   </g>
 
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">Feedback and correction refine a skill.</text>
