@@ -40,5 +40,5 @@
     <text x="70" y="488" font-size="14" fill="#222222">open the circle?</text>
   </g>
   <!-- "a way in" label -->
-  <text x="316" y="372" font-family="sans-serif" font-size="14" fill="#222222">a way in</text>
+  <text x="250" y="338" font-family="sans-serif" font-size="14" fill="#222222">a way in</text>
 </svg>
