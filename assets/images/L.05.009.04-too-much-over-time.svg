@@ -12,9 +12,10 @@
   <path d="M70 140 Q88 116 106 140 L102 158 Q88 150 74 158 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <path d="M84 166 L84 192 M92 166 L92 192" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <path d="M60 226 L74 206 L88 226 L102 206 L116 226 L130 206" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linejoin="round"/>
-  <text x="94" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">too much added sugar</text>
-  <text x="94" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">tooth decay, energy</text>
-  <text x="94" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">spikes and crashes</text>
+  <text x="94" y="262" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">too much</text>
+  <text x="94" y="278" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">added sugar</text>
+  <text x="94" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">tooth decay, energy</text>
+  <text x="94" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">spikes and crashes</text>
 
   <!-- Panel 2: salt -->
   <rect x="186" y="86" width="140" height="250" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
@@ -30,9 +31,10 @@
   <path d="M380 128 L448 128 L448 208 L380 208 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <path d="M396 128 L396 208 M412 128 L412 208 M428 128 L428 208" stroke="#d9d2c4" stroke-width="2"/>
   <ellipse cx="420" cy="182" rx="9" ry="13" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="418" y="270" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">too much saturated fat</text>
-  <text x="418" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">build-up in</text>
-  <text x="418" y="304" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">blood vessels, over time</text>
+  <text x="418" y="262" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">too much</text>
+  <text x="418" y="278" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">saturated fat</text>
+  <text x="418" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">build-up in</text>
+  <text x="418" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">blood vessels, over time</text>
 
   <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="15.5" font-weight="bold" fill="#222222">Patterns over time matter — a single meal is not the point.</text>
   <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every body deserves respect, whatever its size or shape.</text>

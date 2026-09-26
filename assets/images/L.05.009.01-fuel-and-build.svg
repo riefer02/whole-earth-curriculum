@@ -44,8 +44,8 @@
   <!-- Fat arrow (right, bottom) -->
   <g>
     <path d="M420 320 L316 288" stroke="#e0a458" stroke-width="4" fill="none"/>
-    <text x="430" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">fats</text>
-    <text x="430" y="314" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">store energy, build cells</text>
+    <text x="430" y="270" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">fats</text>
+    <text x="430" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">store energy, build cells</text>
     <circle cx="452" cy="340" r="9" fill="#7a9e7e"/>
     <ellipse cx="468" cy="354" rx="9" ry="12" fill="#7a9e7e"/>
     <rect x="442" y="364" width="14" height="18" rx="3" fill="#e0a458"/>

@@ -24,8 +24,8 @@
     <text x="372" y="126" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">stop</text>
   </g>
 
-  <text x="356" y="246" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">no means no</text>
-  <text x="356" y="272" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">stop means stop</text>
+  <text x="384" y="246" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">no means no</text>
+  <text x="384" y="272" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">stop means stop</text>
 
   <!-- Rules -->
   <rect x="24" y="360" width="144" height="60" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>

@@ -22,19 +22,20 @@
   <rect x="124" y="114" width="12" height="6" fill="#e0a458"/>
   <text x="94" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">too little iron</text>
   <text x="94" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">tired, low energy</text>
-  <circle cx="62" cy="324" r="6" fill="#7a9e7e"/>
-  <circle cx="78" cy="330" r="6" fill="#7a9e7e"/>
-  <text x="94" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">beans, leafy greens</text>
+  <circle cx="62" cy="316" r="6" fill="#7a9e7e"/>
+  <circle cx="78" cy="322" r="6" fill="#7a9e7e"/>
+  <text x="94" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">beans, leafy greens</text>
 
   <!-- Panel 2: calcium -->
   <rect x="186" y="86" width="140" height="260" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <path d="M220 160 L270 150 L296 170 L282 196 L268 190 L268 210 L244 210 L244 190 L230 196 L216 170 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <path d="M256 180 Q248 190 240 188 M256 180 Q264 190 272 188" stroke="#2b3a42" stroke-width="2" fill="none"/>
   <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">too little calcium</text>
-  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">&amp; vitamin D — weaker bones</text>
-  <path d="M236 320 L244 332 L252 320" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
-  <path d="M272 324 q0 -8 8 -8 q0 8 -8 8" fill="#7a9e7e"/>
-  <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a cup, leafy greens</text>
+  <text x="256" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">&amp; vitamin D —</text>
+  <text x="256" y="312" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">weaker bones</text>
+  <path d="M236 314 L244 326 L252 314" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M272 318 q0 -8 8 -8 q0 8 -8 8" fill="#7a9e7e"/>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a cup, leafy greens</text>
 
   <!-- Panel 3: water -->
   <rect x="348" y="86" width="140" height="260" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
@@ -50,7 +51,7 @@
   <path d="M436 132 L436 178 Q436 186 428 186 L426 186 Q418 186 418 178 L418 132 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <text x="418" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">too little water</text>
   <text x="418" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">thirsty, headache</text>
-  <text x="418" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a glass of water</text>
+  <text x="418" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a glass of water</text>
 
   <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">The body needs enough of each nutrient.</text>
   <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">This is about what a body needs — never about a person.</text>
