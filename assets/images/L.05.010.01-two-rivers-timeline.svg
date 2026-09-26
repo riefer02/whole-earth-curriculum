@@ -21,7 +21,7 @@
 
   <circle cx="118" cy="150" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="124" y="128" text-anchor="start" font-family="sans-serif" font-size="13" fill="#2b3a42">Great Pyramid</text>
-  <text x="118" y="114" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">~2600 BCE</text>
+  <text x="130" y="114" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">~2600 BCE</text>
 
   <circle cx="270" cy="150" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="270" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">New Kingdom</text>

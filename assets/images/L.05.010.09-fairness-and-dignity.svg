@@ -58,13 +58,13 @@
   <circle cx="450" cy="230" r="2.5" fill="#2b3a42"/>
   <!-- figure shut out -->
   <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="420" cy="302" r="11" fill="#d9a06b"/>
-    <path d="M420 313 L420 344"/>
-    <path d="M420 328 L404 320"/>
-    <path d="M420 328 L436 320"/>
+    <circle cx="444" cy="302" r="11" fill="#d9a06b"/>
+    <path d="M444 313 L444 344"/>
+    <path d="M444 328 L428 320"/>
+    <path d="M444 328 L460 320"/>
   </g>
   <text x="376" y="328" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">some are kept out,</text>
-  <text x="376" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">paid less, or treated as less</text>
+  <text x="350" y="346" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">paid less, or treated as less</text>
 
   <text x="256" y="396.2" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#2b3a42">Fairness means equal respect and a fair chance; dignity means being</text>
   <text x="256" y="414.4" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">treated as a person of worth.</text>

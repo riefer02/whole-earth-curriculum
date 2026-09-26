@@ -15,11 +15,11 @@
   </g>
   <path d="M84 110 L76 102" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <path d="M108 110 L116 102" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <rect x="30" y="196" width="132" height="92" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="96" y="218" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">people had to remember</text>
-  <text x="96" y="236" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">everything, and ideas</text>
-  <text x="96" y="254" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">could only travel if</text>
-  <text x="96" y="272" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">people traveled</text>
+  <rect x="24" y="196" width="144" height="92" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="96" y="218" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">people had to remember</text>
+  <text x="96" y="236" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">everything, and ideas</text>
+  <text x="96" y="254" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">could only travel if</text>
+  <text x="96" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">people traveled</text>
 
   <!-- Arrow -->
   <line x1="188" y1="130" x2="300" y2="130" stroke="#2b3a42" stroke-width="2" stroke-dasharray="7 6"/>
