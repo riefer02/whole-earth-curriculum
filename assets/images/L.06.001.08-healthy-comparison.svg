@@ -52,8 +52,8 @@
   </g>
   <path d="M422 312 L436 296" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
   <path d="M430 308 L444 296" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
-  <text x="442" y="240" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">my own</text>
-  <text x="442" y="253" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">growth</text>
+  <text x="442" y="226" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">my own</text>
+  <text x="442" y="239" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">growth</text>
   <!-- thought bubble -->
   <rect x="300" y="336" width="140" height="48" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="370" y="356" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"I compare my today</text>
