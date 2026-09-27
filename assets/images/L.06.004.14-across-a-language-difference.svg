@@ -22,29 +22,29 @@
   <text x="256" y="118" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">the four bridges</text>
 
   <!-- gesture -->
-  <rect x="188" y="132" width="136" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M214 170 L222 150 L232 158 L240 146 L248 154 L256 172 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="286" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">gesture</text>
-  <text x="286" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a hand shapes a cup</text>
+  <rect x="195" y="132" width="160" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M150 170 L158 150 L168 158 L176 146 L184 154 L192 172 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="275" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">gesture</text>
+  <text x="275" y="176" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a hand shapes a cup</text>
 
   <!-- drawing -->
-  <rect x="188" y="192" width="136" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M206 212 L206 232 M206 222 L222 222 M206 222 Q220 210 236 222" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="286" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">drawing</text>
-  <text x="286" y="236" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a cup in the dirt</text>
+  <rect x="195" y="192" width="160" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M156 212 L156 232 M156 222 L172 222 M156 222 Q170 210 186 222" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="275" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">drawing</text>
+  <text x="275" y="236" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a cup in the dirt</text>
 
   <!-- translation tool -->
-  <rect x="188" y="252" width="136" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="204" y="262" width="30" height="32" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M282 272 L304 272 M296 266 L304 272 L296 278" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="286" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">translation tool</text>
-  <text x="286" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">an arrow between the words</text>
+  <rect x="195" y="252" width="160" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="160" y="262" width="30" height="32" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M194 278 L210 278 M204 272 L212 278 L204 284" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="275" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">translation tool</text>
+  <text x="275" y="296" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">an arrow between the words</text>
 
   <!-- patience -->
-  <rect x="188" y="312" width="136" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M236 326 Q240 316 246 322 Q256 312 262 322 Q268 316 272 326 Q264 340 254 340 Q244 340 236 326 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="286" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">patience</text>
-  <text x="286" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the bridge that holds the rest</text>
+  <rect x="195" y="312" width="160" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M176 326 Q180 316 186 322 Q196 312 202 322 Q208 316 212 326 Q204 340 194 340 Q184 340 176 326 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="275" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">patience</text>
+  <text x="275" y="356" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the bridge that holds the rest</text>
 
   <!-- Banner -->
   <rect x="56" y="400" width="400" height="56" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
