@@ -36,7 +36,7 @@
     <text x="150" y="108" font-family="sans-serif" font-size="11" fill="#222222">kick</text>
     <!-- friction arrow (short, left) -->
     <line x1="34" y1="118" x2="10" y2="118" stroke="#4f6d7a" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
-    <text x="10" y="106" font-family="sans-serif" font-size="11" fill="#4f6d7a">friction</text>
+    <text x="60" y="90" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">friction</text>
     <text x="60" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">unbalanced — it speeds up</text>
   </g>
 
