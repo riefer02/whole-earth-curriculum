@@ -21,7 +21,7 @@
     <circle cx="190" cy="216" r="7" fill="#222222"/>
     <circle cx="206" cy="216" r="7" fill="#222222"/>
     <circle cx="222" cy="216" r="7" fill="#222222"/>
-    <text x="165" y="244" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">x + 3</text>
+    <text x="150" y="234" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">x + 3</text>
 
     <!-- right pan: 8 -->
     <line x1="372" y1="120" x2="330" y2="160" stroke="#2b3a42" stroke-width="2"/>
@@ -34,7 +34,7 @@
     <circle cx="298" cy="206" r="7" fill="#222222"/>
     <circle cx="314" cy="206" r="7" fill="#222222"/>
     <circle cx="330" cy="206" r="7" fill="#222222"/>
-    <text x="306" y="244" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">8</text>
+    <text x="306" y="234" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">8</text>
   </g>
 
   <!-- result -->

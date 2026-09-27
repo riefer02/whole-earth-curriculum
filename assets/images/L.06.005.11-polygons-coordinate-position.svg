@@ -21,12 +21,12 @@
 
     <!-- axis labels -->
     <text x="180" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">0</text>
-    <text x="45" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1</text>
-    <text x="90" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">2</text>
-    <text x="135" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3</text>
-    <text x="225" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-1</text>
-    <text x="270" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-2</text>
-    <text x="315" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-3</text>
+    <text x="45" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-3</text>
+    <text x="90" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-2</text>
+    <text x="135" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">-1</text>
+    <text x="225" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1</text>
+    <text x="270" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">2</text>
+    <text x="315" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3</text>
     <text x="160" y="135" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">1</text>
     <text x="160" y="90" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">2</text>
     <text x="160" y="45" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">3</text>
@@ -38,10 +38,10 @@
     <text x="12" y="14" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">y</text>
 
     <!-- quadrants -->
-    <text x="240" y="40" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">II</text>
-    <text x="120" y="40" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">I</text>
-    <text x="240" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">III</text>
-    <text x="120" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">IV</text>
+    <text x="240" y="40" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">I</text>
+    <text x="120" y="40" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">II</text>
+    <text x="240" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">IV</text>
+    <text x="120" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">III</text>
 
     <!-- rectangle -->
     <polygon points="45,90 270,90 270,270 45,270" fill="#e0a458" fill-opacity="0.35" stroke="#2b3a42" stroke-width="3"/>

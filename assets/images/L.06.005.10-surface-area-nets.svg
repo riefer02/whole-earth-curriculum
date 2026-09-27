@@ -40,7 +40,7 @@
   </g>
 
   <!-- folded box -->
-  <g transform="translate(400, 120)">
+  <g transform="translate(412, 220) scale(0.85)">
     <polygon points="0,40 30,15 95,15 65,40" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <polygon points="0,40 0,110 30,135 30,65" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <polygon points="65,40 65,110 30,135 30,65" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>

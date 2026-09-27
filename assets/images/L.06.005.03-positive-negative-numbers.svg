@@ -15,7 +15,7 @@
     <!-- tick marks + labels -->
     <line x1="138" y1="270" x2="162" y2="270" stroke="#2b3a42" stroke-width="3"/>
     <text x="122" y="276" text-anchor="end" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">0</text>
-    <text x="430" y="276" text-anchor="end" font-family="sans-serif" font-size="14" fill="#4f6d7a">zero (sea level, freezing point)</text>
+    <text x="430" y="292" text-anchor="end" font-family="sans-serif" font-size="14" fill="#4f6d7a">zero (sea level, freezing point)</text>
 
     <line x1="138" y1="170" x2="162" y2="170" stroke="#2b3a42" stroke-width="2"/>
     <text x="122" y="176" text-anchor="end" font-family="sans-serif" font-size="16" fill="#222222">+30</text>

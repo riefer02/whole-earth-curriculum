@@ -38,7 +38,7 @@
 
     <!-- mean -->
     <line x1="168" y1="70" x2="168" y2="226" stroke="#6b93b6" stroke-width="3"/>
-    <text x="196" y="78" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#375f7d">mean ≈ 4.08</text>
+    <text x="225" y="78" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#375f7d">mean ≈ 4.08</text>
 
     <!-- range -->
     <path d="M0 60 L0 50 L420 50 L420 60" fill="none" stroke="#2b3a42" stroke-width="3"/>
