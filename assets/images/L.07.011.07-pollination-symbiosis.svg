@@ -23,7 +23,7 @@
     <ellipse cx="316" cy="236" rx="20" ry="26" fill="#7a9e7e" opacity="0.7" stroke="#2b3a42" stroke-width="2.5"/>
     <circle cx="374" cy="214" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
     <circle cx="374" cy="214" r="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-    <text x="374" y="282" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">flower</text>
+    <text x="374" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">flower</text>
   </g>
 
   <!-- arrows -->
@@ -31,7 +31,7 @@
   <text x="250" y="172" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">bee gets nectar + pollen (food)</text>
 
   <line x1="330" y1="224" x2="168" y2="232" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#ar7-L-07-011-07-pollination-symbiosis)"/>
-  <text x="250" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">flower gets pollen moved (to make seeds)</text>
+  <text x="250" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">flower gets pollen moved (to make seeds)</text>
 
   <defs>
     <marker id="ar7-L-07-011-07-pollination-symbiosis" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">

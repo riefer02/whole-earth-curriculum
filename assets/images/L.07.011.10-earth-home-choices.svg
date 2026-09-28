@@ -16,13 +16,13 @@
     <rect x="150" y="72" width="212" height="50" rx="10" fill="#7a9e7e" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
     <text x="256" y="102" text-anchor="middle" font-weight="bold">Ethics — what is right?</text>
 
-    <rect x="24" y="200" width="180" height="66" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="114" y="228" text-anchor="middle" font-weight="bold">Egalitarianism —</text>
-    <text x="114" y="250" text-anchor="middle" font-weight="bold">who benefits?</text>
+    <rect x="8" y="200" width="160" height="66" rx="10" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="88" y="228" text-anchor="middle" font-weight="bold">Egalitarianism —</text>
+    <text x="88" y="250" text-anchor="middle" font-weight="bold">who benefits?</text>
 
-    <rect x="308" y="200" width="180" height="66" rx="10" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="398" y="228" text-anchor="middle" font-weight="bold">Global — how do</text>
-    <text x="398" y="250" text-anchor="middle" font-weight="bold">others see it?</text>
+    <rect x="344" y="200" width="160" height="66" rx="10" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="424" y="228" text-anchor="middle" font-weight="bold">Global — how do</text>
+    <text x="424" y="250" text-anchor="middle" font-weight="bold">others see it?</text>
 
     <rect x="120" y="390" width="272" height="50" rx="10" fill="#7a9e7e" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
     <text x="256" y="420" text-anchor="middle" font-weight="bold">Technology &amp; Environment — the effect?</text>
@@ -31,8 +31,8 @@
   <!-- arrows -->
   <g stroke="#2b3a42" stroke-width="2.5">
     <line x1="256" y1="122" x2="256" y2="190" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
-    <line x1="204" y1="233" x2="190" y2="242" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
-    <line x1="308" y1="233" x2="322" y2="242" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
+    <line x1="190" y1="233" x2="176" y2="242" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
+    <line x1="322" y1="233" x2="336" y2="242" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
     <line x1="256" y1="390" x2="256" y2="322" marker-end="url(#ar10-L-07-011-10-earth-home-choices)"/>
   </g>
 

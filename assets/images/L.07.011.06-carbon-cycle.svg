@@ -17,7 +17,8 @@
     <ellipse cx="360" cy="150" rx="30" ry="18" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
     <circle cx="360" cy="118" r="16" fill="#6b93b6" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
     <text x="360" y="100" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">animal</text>
-    <text x="360" y="180" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">breathes out CO₂</text>
+    <text x="400" y="205" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">breathes out</text>
+    <text x="400" y="223" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">CO₂</text>
   </g>
 
   <!-- decomposers / ground -->

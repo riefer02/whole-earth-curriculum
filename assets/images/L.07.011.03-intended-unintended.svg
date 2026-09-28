@@ -22,8 +22,8 @@
   <path d="M328 170 Q328 142 352 142 L384 142 Q408 142 408 170 L408 220 L328 220 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
   <path d="M340 152 Q368 166 396 152" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
   <path d="M360 244 q-4 30 -30 34 q26 2 28 26 q2 -24 30 -26 q-26 -4 -28 -34 z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="378" y="292" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">plastic in rivers</text>
-  <text x="378" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">and oceans, harming wildlife</text>
+  <text x="378" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">plastic in rivers</text>
+  <text x="378" y="338" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">and oceans, harming wildlife</text>
 
   <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Designers plan the first; no one planned the second.</text>
 </svg>
