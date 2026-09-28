@@ -11,7 +11,8 @@
   <!-- Left panel: grief shared aloud -->
   <g>
     <rect x="24" y="70" width="196" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="122" y="96" text-anchor="middle" font-family="sans-serif" font-size="15.9" font-weight="bold" fill="#4f6d7a">one way: grief shared aloud</text>
+    <text x="122" y="88" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">one way:</text>
+    <text x="122" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">grief shared aloud</text>
     <!-- three figures, arms raised, embracing -->
     <!-- figure 1 -->
     <circle cx="86" cy="180" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
@@ -41,7 +42,8 @@
   <!-- Right panel: grief held quietly -->
   <g>
     <rect x="292" y="70" width="196" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="390" y="96" text-anchor="middle" font-family="sans-serif" font-size="13.8" font-weight="bold" fill="#4f6d7a">another way: grief held quietly</text>
+    <text x="390" y="88" text-anchor="middle" font-family="sans-serif" font-size="13.8" font-weight="bold" fill="#4f6d7a">another way:</text>
+    <text x="390" y="108" text-anchor="middle" font-family="sans-serif" font-size="13.8" font-weight="bold" fill="#4f6d7a">grief held quietly</text>
     <!-- single seated figure, still face, folded hands -->
     <circle cx="390" cy="196" r="34" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
     <path d="M378 190 L384 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>

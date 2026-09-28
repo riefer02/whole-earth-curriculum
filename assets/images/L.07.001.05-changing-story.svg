@@ -38,8 +38,9 @@
     <path d="M393 178 Q403 187 413 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <!-- taller body -->
     <path d="M403 198 q-24 34 0 60 q24 -26 0 -60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="403" y="284" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">three sports, many books</text>
-    <text x="403" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">still keeps promises</text>
+    <text x="403" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">three sports,</text>
+    <text x="403" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">many books</text>
+    <text x="403" y="316" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">still keeps promises</text>
   </g>
 
   <!-- Change labels -->
