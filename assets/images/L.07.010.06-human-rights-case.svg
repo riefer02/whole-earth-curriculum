@@ -32,13 +32,13 @@
   <!-- timeline -->
   <line x1="30" y1="398" x2="482" y2="398" stroke="#2b3a42" stroke-width="2.5"/>
   <circle cx="100" cy="398" r="5" fill="#2b3a42"/>
-  <text x="100" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1893</text>
+  <text x="100" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1893</text>
   <text x="100" y="426" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">New Zealand</text>
   <circle cx="256" cy="398" r="5" fill="#2b3a42"/>
-  <text x="256" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1971</text>
+  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1971</text>
   <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Switzerland</text>
   <circle cx="412" cy="398" r="5" fill="#2b3a42"/>
-  <text x="412" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">2015</text>
+  <text x="412" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">2015</text>
   <text x="412" y="426" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Saudi Arabia</text>
 
   <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same right — won at different times in different places.</text>

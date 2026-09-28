@@ -7,23 +7,25 @@
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Three restorative steps</text>
 
   <!-- step 1 -->
-  <rect x="40" y="150" width="140" height="72" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="110" y="182" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">1 · listen</text>
-  <text x="110" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">what happened?</text>
+  <rect x="40" y="150" width="124" height="72" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="102" y="182" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">1 · listen</text>
+  <text x="102" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">what happened?</text>
 
   <!-- step 2 -->
-  <rect x="186" y="150" width="140" height="72" rx="10" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="256" y="182" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">2 · take responsibility</text>
-  <text x="256" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">who was harmed?</text>
+  <rect x="180" y="150" width="152" height="72" rx="10" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">2 · take</text>
+  <text x="256" y="192" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">responsibility</text>
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">who was harmed?</text>
 
   <!-- step 3 -->
-  <rect x="332" y="150" width="140" height="72" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="402" y="182" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">3 · repair</text>
-  <text x="402" y="206" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">how do we make it right?</text>
+  <rect x="348" y="150" width="124" height="72" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="410" y="182" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">3 · repair</text>
+  <text x="410" y="200" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">how do we</text>
+  <text x="410" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">make it right?</text>
 
   <!-- arrows -->
-  <line x1="180" y1="186" x2="186" y2="186" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr3-L-07-010-09-restoring-after-harm)"/>
-  <line x1="326" y1="186" x2="332" y2="186" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr3-L-07-010-09-restoring-after-harm)"/>
+  <line x1="164" y1="186" x2="180" y2="186" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr3-L-07-010-09-restoring-after-harm)"/>
+  <line x1="332" y1="186" x2="348" y2="186" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arr3-L-07-010-09-restoring-after-harm)"/>
 
   <defs>
     <marker id="arr3-L-07-010-09-restoring-after-harm" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">

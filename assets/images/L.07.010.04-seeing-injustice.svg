@@ -30,8 +30,8 @@
   <circle cx="344" cy="238" r="16" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
   <path d="M344 270 L344 330 M344 330 L322 344 M344 330 L366 344" stroke="#2b3a42" stroke-width="4" fill="none" stroke-linecap="round"/>
   <path d="M318 300 Q344 290 370 300" stroke="#e0a458" stroke-width="4" fill="none"/>
-  <text x="379" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">who is affected</text>
-  <text x="379" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">fetching from a stream</text>
+  <text x="379" y="362" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">who is affected</text>
+  <text x="379" y="380" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">fetching from a stream</text>
 
   <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="13.5" fill="#4f6d7a">One has a clean tap; the other carries water from a polluted stream.</text>
 </svg>

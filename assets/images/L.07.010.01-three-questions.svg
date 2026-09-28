@@ -7,7 +7,7 @@
   <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Three questions to ask</text>
 
   <!-- center box -->
-  <rect x="166" y="216" width="180" height="80" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
+  <rect x="186" y="216" width="140" height="80" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="256" y="250" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">a moral</text>
   <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">question</text>
 
@@ -17,14 +17,14 @@
   <line x1="256" y1="216" x2="256" y2="150" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow-L-07-010-01-three-questions)"/>
 
   <!-- left box: harmed -->
-  <rect x="24" y="216" width="180" height="62" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="114" y="254" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Who is harmed?</text>
-  <line x1="166" y1="247" x2="204" y2="247" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow-L-07-010-01-three-questions)"/>
+  <rect x="12" y="216" width="176" height="62" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="100" y="254" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Who is harmed?</text>
+  <line x1="186" y1="247" x2="150" y2="247" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow-L-07-010-01-three-questions)"/>
 
   <!-- right box: fair -->
-  <rect x="308" y="216" width="180" height="62" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="398" y="254" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">What is fair?</text>
-  <line x1="346" y1="247" x2="308" y2="247" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow-L-07-010-01-three-questions)"/>
+  <rect x="324" y="216" width="176" height="62" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="412" y="254" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">What is fair?</text>
+  <line x1="326" y1="247" x2="362" y2="247" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#arrow-L-07-010-01-three-questions)"/>
 
   <defs>
     <marker id="arrow-L-07-010-01-three-questions" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">

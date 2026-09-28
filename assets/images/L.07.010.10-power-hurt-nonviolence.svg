@@ -9,7 +9,7 @@
   <!-- left panel -->
   <rect x="20" y="66" width="226" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
   <text x="133" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#c0392b">what makes it worse</text>
-  <path d="M60 340 Q80 300 100 300 Q120 300 120 260 Q120 220 140 220 Q160 220 160 180 Q160 140 180 140" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M60 340 Q90 300 120 295 Q160 290 170 260 Q170 220 170 200 Q170 180 172 160 Q174 140 180 140" stroke="#2b3a42" stroke-width="3" fill="none"/>
   <rect x="40" y="140" width="120" height="44" rx="8" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
   <text x="100" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">power</text>
   <rect x="40" y="230" width="120" height="44" rx="8" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
@@ -19,7 +19,7 @@
   <!-- right panel -->
   <rect x="266" y="66" width="226" height="380" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
   <text x="379" y="94" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">the way through</text>
-  <path d="M300 140 Q320 180 340 180 Q360 180 360 220 Q360 260 380 260 Q400 260 400 300 Q400 340 420 340" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M446 140 C436 180 436 220 430 250 C424 280 434 310 444 340" stroke="#2b3a42" stroke-width="3" fill="none"/>
   <rect x="286" y="140" width="130" height="40" rx="8" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
   <text x="351" y="166" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">name feelings</text>
   <rect x="286" y="230" width="130" height="40" rx="8" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>

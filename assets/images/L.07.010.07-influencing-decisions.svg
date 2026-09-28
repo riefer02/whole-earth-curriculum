@@ -11,36 +11,36 @@
   <text x="392" y="78" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">limit</text>
 
   <!-- row 1: voting -->
-  <rect x="20" y="96" width="140" height="88" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
-  <text x="90" y="124" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">voting</text>
-  <rect x="180" y="96" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="194" y1="148" x2="312" y2="148" stroke="#2b3a42" stroke-width="1.5"/>
-  <rect x="346" y="96" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="360" y1="148" x2="478" y2="148" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="20" y="96" width="140" height="80" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="116" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">voting</text>
+  <rect x="180" y="96" width="146" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="194" y1="140" x2="312" y2="140" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="346" y="96" width="146" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="360" y1="140" x2="478" y2="140" stroke="#2b3a42" stroke-width="1.5"/>
 
   <!-- row 2: protest -->
-  <rect x="20" y="200" width="140" height="88" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
-  <text x="90" y="228" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">protest</text>
-  <rect x="180" y="200" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="194" y1="252" x2="312" y2="252" stroke="#2b3a42" stroke-width="1.5"/>
-  <rect x="346" y="200" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="360" y1="252" x2="478" y2="252" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="20" y="192" width="140" height="80" rx="10" fill="#6b93b6" opacity="0.3" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="220" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">protest</text>
+  <rect x="180" y="192" width="146" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="194" y1="244" x2="312" y2="244" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="346" y="192" width="146" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="360" y1="244" x2="478" y2="244" stroke="#2b3a42" stroke-width="1.5"/>
 
   <!-- row 3: petition -->
-  <rect x="20" y="304" width="140" height="88" rx="10" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
-  <text x="90" y="332" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">petition</text>
-  <rect x="180" y="304" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="194" y1="356" x2="312" y2="356" stroke="#2b3a42" stroke-width="1.5"/>
-  <rect x="346" y="304" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="360" y1="356" x2="478" y2="356" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="20" y="288" width="140" height="80" rx="10" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">petition</text>
+  <rect x="180" y="288" width="146" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="194" y1="348" x2="312" y2="348" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="346" y="288" width="146" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="360" y1="348" x2="478" y2="348" stroke="#2b3a42" stroke-width="1.5"/>
 
   <!-- row 4: organizing -->
-  <rect x="20" y="408" width="140" height="88" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
-  <text x="90" y="436" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">organizing</text>
-  <rect x="180" y="408" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="194" y1="460" x2="312" y2="460" stroke="#2b3a42" stroke-width="1.5"/>
-  <rect x="346" y="408" width="146" height="88" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="360" y1="460" x2="478" y2="460" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="20" y="384" width="140" height="80" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="412" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">organizing</text>
+  <rect x="180" y="384" width="146" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="194" y1="452" x2="312" y2="452" stroke="#2b3a42" stroke-width="1.5"/>
+  <rect x="346" y="384" width="146" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="360" y1="452" x2="478" y2="452" stroke="#2b3a42" stroke-width="1.5"/>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Each way has power — and each has limits.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Each way has power — and each has limits.</text>
 </svg>
