@@ -13,7 +13,7 @@
     <path d="M150 260 L150 330" stroke="#2b3a42" stroke-width="2"/>
     <path d="M150 330 L128 380 M150 330 L172 380" stroke="#2b3a42" stroke-width="2"/>
     <path d="M118 292 L182 292" stroke="#2b3a42" stroke-width="2"/>
-    <text x="150" y="418" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">pauses, steps back</text>
+    <text x="150" y="388" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">pauses, steps back</text>
   </g>
 
   <!-- Right figure (setting boundary) -->
@@ -34,12 +34,13 @@
 
   <!-- Cue cards -->
   <g>
-    <rect x="30" y="420" width="452" height="72" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
-    <text x="52" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">words</text>
-    <text x="52" y="472" font-family="sans-serif" font-size="12" fill="#4f6d7a">"no," "stop," "not now"</text>
-    <text x="175" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">body</text>
-    <text x="175" y="472" font-family="sans-serif" font-size="12" fill="#4f6d7a">palm up, leaning back, turning away</text>
-    <text x="370" y="448" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">voice</text>
-    <text x="370" y="472" font-family="sans-serif" font-size="12" fill="#4f6d7a">flat, quiet, or firm</text>
+    <rect x="30" y="396" width="452" height="96" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
+    <text x="52" y="424" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">words</text>
+    <text x="52" y="448" font-family="sans-serif" font-size="12" fill="#4f6d7a">"no," "stop," "not now"</text>
+    <text x="210" y="424" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">body</text>
+    <text x="210" y="448" font-family="sans-serif" font-size="12" fill="#4f6d7a">palm up, leaning back,</text>
+    <text x="210" y="466" font-family="sans-serif" font-size="12" fill="#4f6d7a">turning away</text>
+    <text x="360" y="424" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">voice</text>
+    <text x="360" y="448" font-family="sans-serif" font-size="12" fill="#4f6d7a">flat, quiet, or firm</text>
   </g>
 </svg>

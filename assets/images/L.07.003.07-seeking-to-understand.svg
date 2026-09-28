@@ -13,7 +13,7 @@
     <path d="M120 236 L120 300 L100 344 M120 300 L140 344" stroke="#2b3a42" stroke-width="2"/>
     <path d="M96 274 L144 274" stroke="#2b3a42" stroke-width="2"/>
     <path d="M120 158 L150 130 L186 142 L156 158 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="152" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"I see it differently…"</text>
+    <text x="152" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"I see it differently…"</text>
   </g>
 
   <!-- Right figure -->
@@ -25,7 +25,7 @@
     <path d="M392 236 L392 300 L372 344 M392 300 L412 344" stroke="#2b3a42" stroke-width="2"/>
     <path d="M368 274 L416 274" stroke="#2b3a42" stroke-width="2"/>
     <path d="M392 158 L362 130 L326 142 L356 158 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="360" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"tell me more."</text>
+    <text x="360" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"tell me more."</text>
   </g>
 
   <!-- Listening loop -->

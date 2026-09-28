@@ -6,7 +6,7 @@
 
   <!-- Offline panel -->
   <g>
-    <rect x="22" y="66" width="228" height="220" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="22" y="66" width="228" height="236" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="136" y="92" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">offline</text>
     <!-- fire -->
     <path d="M136 200 L124 224 L148 224 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
@@ -17,13 +17,13 @@
     <circle cx="176" cy="196" r="13" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="88" cy="244" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="184" cy="244" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <text x="136" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">face to face — body, voice,</text>
-    <text x="136" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and one shared place</text>
+    <text x="136" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">face to face — body, voice,</text>
+    <text x="136" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and one shared place</text>
   </g>
 
   <!-- Online panel -->
   <g>
-    <rect x="262" y="66" width="228" height="220" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="262" y="66" width="228" height="236" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="376" y="92" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">online</text>
     <!-- central screen/globe -->
     <circle cx="376" cy="200" r="30" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
@@ -35,8 +35,8 @@
     <circle cx="306" cy="252" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="446" cy="250" r="12" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <path d="M330 158 L352 186 M426 158 L400 186 M316 242 L350 216 M436 240 L402 214" stroke="#2b3a42" stroke-width="2"/>
-    <text x="376" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">across distance — words and</text>
-    <text x="376" y="290" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">images, no body cues</text>
+    <text x="376" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">across distance — words and</text>
+    <text x="376" y="294" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">images, no body cues</text>
   </g>
 
   <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">People belong in both — in different ways.</text>

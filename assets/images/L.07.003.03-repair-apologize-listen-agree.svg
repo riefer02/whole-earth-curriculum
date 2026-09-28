@@ -6,7 +6,7 @@
 
   <!-- Step 1 -->
   <g>
-    <rect x="22" y="92" width="140" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="22" y="92" width="140" height="168" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="92" cy="142" r="22" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="86" cy="138" r="2.5" fill="#2b3a42"/>
     <circle cx="98" cy="138" r="2.5" fill="#2b3a42"/>
@@ -20,7 +20,7 @@
 
   <!-- Step 2 -->
   <g>
-    <rect x="196" y="92" width="140" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="196" y="92" width="140" height="168" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="238" cy="142" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="232" cy="138" r="2.5" fill="#2b3a42"/>
     <circle cx="244" cy="138" r="2.5" fill="#2b3a42"/>
@@ -40,7 +40,7 @@
 
   <!-- Step 3 -->
   <g>
-    <rect x="370" y="92" width="120" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="370" y="92" width="120" height="168" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="414" cy="142" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="446" cy="142" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
     <path d="M430 154 L446 142" stroke="#2b3a42" stroke-width="3"/>
