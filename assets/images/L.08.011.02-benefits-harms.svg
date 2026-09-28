@@ -12,8 +12,8 @@
   <path d="M362 180 L362 200" stroke="#2b3a42" stroke-width="2"/>
   <path d="M126 200 A 30 26 0 0 0 186 200 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <path d="M338 200 A 30 26 0 0 0 398 200 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="156" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">benefits</text>
-  <text x="368" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">harms</text>
+  <text x="156" y="170" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">benefits</text>
+  <text x="368" y="170" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">harms</text>
   <polygon points="256,60 248,92 264,92" fill="#2b3a42"/>
 
   <!-- figures -->

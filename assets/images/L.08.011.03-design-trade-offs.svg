@@ -29,23 +29,23 @@
 
   <!-- kerosene lamp -->
   <g>
-    <rect x="88" y="470" width="40" height="8" rx="2" fill="#2b3a42"/>
-    <path d="M96 470 L100 448 L116 448 L120 470 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M108 448 L108 440" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M104 436 q4 -10 0 -16 q-4 -6 0 -14" fill="none" stroke="#e0a458" stroke-width="3"/>
+    <rect x="88" y="454" width="40" height="8" rx="2" fill="#2b3a42"/>
+    <path d="M96 454 L100 432 L116 432 L120 454 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M108 432 L108 424" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M104 420 q4 -10 0 -16 q-4 -6 0 -14" fill="none" stroke="#e0a458" stroke-width="3"/>
   </g>
-  <text x="108" y="496" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">kerosene</text>
-  <text x="108" y="510" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">cheap · smoky</text>
+  <text x="108" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">kerosene</text>
+  <text x="108" y="494" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">cheap · smoky</text>
 
   <!-- solar lamp -->
   <g>
-    <rect x="352" y="470" width="40" height="8" rx="2" fill="#2b3a42"/>
-    <rect x="360" y="452" width="24" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M366 452 L366 446 M372 452 L372 446 M378 452 L378 446" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="372" cy="440" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <rect x="352" y="454" width="40" height="8" rx="2" fill="#2b3a42"/>
+    <rect x="360" y="436" width="24" height="18" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M366 436 L366 430 M372 436 L372 430 M378 436 L378 430" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="372" cy="424" r="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
   </g>
-  <text x="372" y="496" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">solar</text>
-  <text x="372" y="510" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">clean · costly</text>
+  <text x="372" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">solar</text>
+  <text x="372" y="494" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">clean · costly</text>
 
   <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">you can have one good — but it costs another</text>
 </svg>
