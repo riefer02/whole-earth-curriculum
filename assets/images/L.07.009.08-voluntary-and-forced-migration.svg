@@ -8,7 +8,7 @@
 
   <!-- Voluntary -->
   <g>
-    <rect x="24" y="88" width="224" height="248" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="24" y="88" width="224" height="260" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="136" y="122" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Voluntary</text>
     <!-- person walking -->
     <circle cx="120" cy="200" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
@@ -22,7 +22,7 @@
 
   <!-- Forced -->
   <g>
-    <rect x="264" y="88" width="224" height="248" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="264" y="88" width="224" height="260" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="376" y="122" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Forced</text>
     <!-- person with chain -->
     <circle cx="364" cy="200" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
@@ -36,8 +36,9 @@
     <text x="376" y="334" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">taken by force</text>
   </g>
 
-  <rect x="60" y="368" width="392" height="100" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
-  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Both change the people who move and the places they go —</text>
-  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">but only one is a choice.</text>
-  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">That difference changes everything about the journey.</text>
+  <rect x="60" y="368" width="392" height="124" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="398" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">Both change the people who move</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">and the places they go —</text>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">but only one is a choice.</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">That difference changes everything about the journey.</text>
 </svg>

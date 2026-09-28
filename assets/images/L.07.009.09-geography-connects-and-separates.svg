@@ -32,7 +32,7 @@
 
   <!-- Mountains -->
   <g>
-    <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">mountains</text>
+    <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">mountains</text>
     <path d="M120 360 L180 290 L240 360 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <path d="M240 360 L300 280 L360 360 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <path d="M250 330 L266 312 L282 330" fill="none" stroke="#fdfbf7" stroke-width="4"/>
