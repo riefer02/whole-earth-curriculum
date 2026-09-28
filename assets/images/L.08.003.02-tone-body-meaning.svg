@@ -9,7 +9,7 @@
 
   <!-- helper for a simple figure: circle head + body line -->
   <!-- panel 1 -->
-  <rect x="20" y="88" width="150" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="20" y="88" width="150" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
   <circle cx="95" cy="150" r="22" fill="#d9a066" stroke="#2b3a42" stroke-width="2.5"/>
   <path d="M80 200 Q86 186 95 186 Q104 186 110 200" stroke="#2b3a42" stroke-width="2.5" fill="none"/>
   <line x1="95" y1="184" x2="95" y2="300" stroke="#2b3a42" stroke-width="2.5"/>
@@ -22,7 +22,7 @@
   <text x="95" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#436b47">means: agreement</text>
 
   <!-- panel 2 -->
-  <rect x="181" y="88" width="150" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="181" y="88" width="150" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
   <circle cx="256" cy="150" r="22" fill="#c98a5e" stroke="#2b3a42" stroke-width="2.5"/>
   <line x1="246" y1="146" x2="266" y2="146" stroke="#2b3a42" stroke-width="2.5"/>
   <line x1="256" y1="184" x2="256" y2="300" stroke="#2b3a42" stroke-width="2.5"/>
@@ -37,7 +37,7 @@
   <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">means: dismissal</text>
 
   <!-- panel 3 -->
-  <rect x="342" y="88" width="150" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <rect x="342" y="88" width="150" height="360" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
   <circle cx="417" cy="150" r="22" fill="#8a5a3a" stroke="#2b3a42" stroke-width="2.5"/>
   <line x1="409" y1="142" x2="409" y2="152" stroke="#2b3a42" stroke-width="2.5"/>
   <line x1="425" y1="142" x2="425" y2="152" stroke="#2b3a42" stroke-width="2.5"/>

@@ -35,8 +35,9 @@
   <text x="272" y="298" font-family="sans-serif" font-size="15" fill="#2b3a42">inclusion — do the people</text>
   <text x="276" y="318" font-family="sans-serif" font-size="15" fill="#2b3a42">served have a say?</text>
 
-  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">Mutual aid: people meet one another's needs together,</text>
-  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">as equals — sharing the giving and the deciding.</text>
+  <text x="372" y="388" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">Mutual aid: people meet one</text>
+  <text x="372" y="408" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">another's needs together, as equals —</text>
+  <text x="372" y="428" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">sharing the giving and the deciding.</text>
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">The fairest care shares not only the goods but the power — and the dignity.</text>
 
   <defs>

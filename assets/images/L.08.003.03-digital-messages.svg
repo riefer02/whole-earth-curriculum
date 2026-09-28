@@ -25,7 +25,7 @@
 
   <!-- top right -->
   <circle cx="410" cy="92" r="8" fill="#c0392b" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="428" cy="68" r="6" fill="#c0392b" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="434" cy="78" r="6" fill="#c0392b" stroke="#2b3a42" stroke-width="2"/>
   <rect x="352" y="36" width="124" height="34" rx="17" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
   <text x="414" y="57" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">"I'm angry"</text>
 
