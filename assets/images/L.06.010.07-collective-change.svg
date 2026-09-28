@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-010-07-collective-change desc-L-06-010-07-collective-change">
   <title id="title-L-06-010-07-collective-change">Ordinary people changing what was unfair</title>
-  <desc id="desc-L-06-010-07-collective-change">A before-and-after change diagram. The left panel, labeled "before," shows a bare hillside with a caption "forest being cut down." An arrow labeled "ordinary people worked together" leads to the right panel, labeled "after," showing the same hillside with many small planted trees and a caption "trees replanted, land cared for." Below, four labeled steps run left to right: "see the unfair thing," "join together," "act over time," "the change holds." Arrows, labels, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
+  <desc id="desc-L-06-010-07-collective-change">A before-and-after change diagram. The left panel, labeled "before," shows a bare hillside with a caption "forest being cut down." An arrow below, labeled "ordinary people worked together," leads from before to after. labeled "after," showing the same hillside with many small planted trees and a caption "trees replanted, land cared for." Below, four labeled steps run left to right: "see the unfair thing," "join together," "act over time," "the change holds." Arrows, labels, and shapes carry the meaning, so it prints clearly in grayscale independent of color.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
@@ -15,11 +15,10 @@
   <rect x="150" y="244" width="12" height="26" rx="3" fill="#c9a06b" stroke="#2b3a42" stroke-width="2"/>
   <text x="130" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">forest being cut down</text>
 
-  <!-- arrow -->
-  <path d="M250 190 L300 190" stroke="#2b3a42" stroke-width="3" fill="none"/>
-  <path d="M292 182 L302 190 L292 198" fill="none" stroke="#2b3a42" stroke-width="3"/>
-  <text x="276" y="166" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">ordinary people</text>
-  <text x="276" y="184" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">worked together</text>
+  <!-- change arrow: before leads to after -->
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">ordinary people worked together</text>
+  <path d="M130 338 L382 338" stroke="#2b3a42" stroke-width="3" fill="none"/>
+  <path d="M372 331 L384 338 L372 345" fill="none" stroke="#2b3a42" stroke-width="3"/>
 
   <!-- after panel -->
   <rect x="272" y="64" width="220" height="250" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -38,18 +37,18 @@
 
   <!-- four steps -->
   <g font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">
-    <rect x="20" y="340" width="108" height="60" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
-    <text x="74" y="362">see the</text>
-    <text x="74" y="378">unfair thing</text>
-    <rect x="140" y="340" width="108" height="60" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
-    <text x="194" y="362">join</text>
-    <text x="194" y="378">together</text>
-    <rect x="260" y="340" width="108" height="60" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
-    <text x="314" y="362">act over</text>
-    <text x="314" y="378">time</text>
-    <rect x="380" y="340" width="108" height="60" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
-    <text x="434" y="362">the change</text>
-    <text x="434" y="378">holds</text>
+    <rect x="20" y="346" width="108" height="60" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="74" y="368">see the</text>
+    <text x="74" y="384">unfair thing</text>
+    <rect x="140" y="346" width="108" height="60" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="194" y="368">join</text>
+    <text x="194" y="384">together</text>
+    <rect x="260" y="346" width="108" height="60" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="314" y="368">act over</text>
+    <text x="314" y="384">time</text>
+    <rect x="380" y="346" width="108" height="60" rx="10" fill="#eef3f6" stroke="#4f6d7a" stroke-width="2"/>
+    <text x="434" y="368">the change</text>
+    <text x="434" y="384">holds</text>
   </g>
   <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">no single hero &#8212; many people, staying with it</text>
 
