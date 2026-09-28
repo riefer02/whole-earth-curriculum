@@ -23,10 +23,10 @@
 
   <line x1="374" y1="212" x2="374" y2="360" stroke="#2b3a42" stroke-width="4"/>
   <circle cx="374" cy="366" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M340 224 L408 224 L388 238 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M340 224 L374 150 L408 224 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
-  <text x="374" y="168" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">built on likes,</text>
-  <text x="374" y="186" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">grades, popularity</text>
+  <path d="M340 264 L408 264 L388 278 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M340 264 L374 190 L408 264 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <text x="374" y="164" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">built on likes,</text>
+  <text x="374" y="182" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">grades, popularity</text>
   <text x="374" y="438" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">changes with the wind</text>
 
   <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">both are real &#8212; one is steadier than the other</text>
