@@ -29,22 +29,22 @@
     <text x="256" y="83">weigh</text><text x="256" y="97">causes</text>
 
     <circle cx="420" cy="160" r="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="420" y="157">change &amp;</text><text x="420" y="171">stays</text>
+    <text x="420" y="192">change &amp;</text><text x="420" y="206">stays</text>
 
     <circle cx="430" cy="256" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="430" y="253">knowledge</text><text x="430" y="267">traditions</text>
+    <text x="430" y="288">knowledge</text><text x="430" y="302">traditions</text>
 
     <circle cx="420" cy="352" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="420" y="349">blending</text><text x="420" y="363">of cultures</text>
+    <text x="420" y="384">blending</text><text x="420" y="398">of cultures</text>
 
     <circle cx="256" cy="426" r="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <text x="256" y="423">trade</text><text x="256" y="437">networks</text>
 
     <circle cx="92" cy="352" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="92" y="349">environment</text><text x="92" y="363">&amp; migration</text>
+    <text x="92" y="384">environment</text><text x="92" y="398">&amp; migration</text>
 
     <circle cx="82" cy="256" r="22" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-    <text x="82" y="253" fill="#fdfbf7">slavery &amp;</text><text x="82" y="267" fill="#fdfbf7">resistance</text>
+    <text x="82" y="288" fill="#fdfbf7">slavery &amp;</text><text x="82" y="302" fill="#fdfbf7">resistance</text>
 
     <circle cx="92" cy="160" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <text x="92" y="157">keeping</text><text x="92" y="171">hope</text>
