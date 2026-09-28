@@ -46,22 +46,22 @@
   <text x="132" y="326" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">flip and multiply</text>
 
   <!-- Panel 4: decimals -->
-  <rect x="264" y="196" width="232" height="140" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
+  <rect x="264" y="196" width="232" height="152" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>
   <text x="380" y="218" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">decimals</text>
   <!-- 0.4 x 3 -->
   <g fill="#6b93b6" stroke="#2b3a42" stroke-width="2">
-    <rect x="290" y="234" width="24" height="24"/>
-    <rect x="318" y="234" width="24" height="24"/>
-    <rect x="346" y="234" width="24" height="24"/>
-    <rect x="290" y="262" width="24" height="24"/>
-    <rect x="318" y="262" width="24" height="24"/>
-    <rect x="346" y="262" width="24" height="24"/>
-    <rect x="290" y="290" width="24" height="24"/>
-    <rect x="318" y="290" width="24" height="24"/>
-    <rect x="346" y="290" width="24" height="24"/>
-    <rect x="290" y="318" width="24" height="24"/>
-    <rect x="318" y="318" width="24" height="24"/>
-    <rect x="346" y="318" width="24" height="24"/>
+    <rect x="290" y="234" width="20" height="20"/>
+    <rect x="314" y="234" width="20" height="20"/>
+    <rect x="338" y="234" width="20" height="20"/>
+    <rect x="290" y="258" width="20" height="20"/>
+    <rect x="314" y="258" width="20" height="20"/>
+    <rect x="338" y="258" width="20" height="20"/>
+    <rect x="290" y="282" width="20" height="20"/>
+    <rect x="314" y="282" width="20" height="20"/>
+    <rect x="338" y="282" width="20" height="20"/>
+    <rect x="290" y="306" width="20" height="20"/>
+    <rect x="314" y="306" width="20" height="20"/>
+    <rect x="338" y="306" width="20" height="20"/>
   </g>
   <text x="460" y="252" font-family="sans-serif" font-size="13" fill="#222222">0.4 × 3</text>
   <text x="460" y="274" font-family="sans-serif" font-size="13" fill="#222222">= 1.2</text>
