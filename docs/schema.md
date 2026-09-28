@@ -82,6 +82,37 @@ Recommended `context_variants` contexts: `large-group` (30+ learners), `multi-ag
 lesson_count }`), `domain_weighting` (map `Dxx` → days/percent), `assessment_plan`,
 `status`.
 
+#### Writing a scope
+
+A grade page renders exactly two pieces of prose: `summary` as the lede paragraph at
+the top of the page, and the body's `## Year at a glance` section as the overview
+below the unit timeline. Both are read by parents, teachers, and curious visitors who
+want to *understand the year*, not to audit every standard. Keep them short, distinct,
+and non-overlapping.
+
+| Piece | Target | Job |
+|-------|--------|-----|
+| `summary` | 60–110 words, 3–5 sentences | The page lede and the meta description. What the year is about and what the learner becomes. No unit list, no standard IDs, no enumeration. |
+| `## Year at a glance` | 350–650 words | The narrative arc: how the year builds on the prior grade, how the units cluster into two to four movements, and the pillar balance. |
+
+Rules:
+
+- **Never recite the standards.** Do not walk through objectives one by one, with or
+  without IDs, and do not string sentences together with "and … and … and". Objective
+  text already lives in `curriculum/standards/domains/*/domain.md` and on each unit
+  page's objectives list. The scope names each unit once, in the form
+  `*Unit Title* (U.gg.nnn, Dxx)` — both domains for a two-domain unit, as
+  `(U.gg.nnn, Dxx + Dyy)` — and says what the unit is *for*.
+- **Do not repeat `summary` in the body.** The lede and the overview sit inches apart
+  on the same page; restating one in the other doubles the wall of text for no gain.
+- **Keep the closing pillar paragraph** (roughly 80–140 words) — it is the one place
+  the page states how P1–P4 are weighted in the year.
+- **Do not pad back up later.** The year plan, `units`, `domain_weighting`, and
+  `assessment_plan` carry the detail. `npm run validate` warns when a scope summary or
+  body drifts past these targets.
+
+Line-wrap body prose at ~88 characters, as elsewhere in the repository.
+
 ### `domain`
 
 `kind`, `id` (`Dxx`), `title`, `pillar`, `description`, `rationale`, `strands`
@@ -100,6 +131,8 @@ In addition to valid frontmatter, the Markdown body must include certain heading
   `## Connection` (case-insensitive, `##` level), and is strongly encouraged to
   include `## Summary`, `## Objectives`, `## Materials`, `## Preparation`,
   `## Differentiation`, `## Resources`, and `## Home connection`.
+- **`scope`** requires `# <Grade> Scope`, `## How to read this scope`, and
+  `## Year at a glance`.
 
 The validator checks these. Content that fails frontmatter or heading checks will
 not pass CI.

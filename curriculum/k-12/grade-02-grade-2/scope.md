@@ -118,7 +118,7 @@ assessment_plan: >-
   year-end portfolio celebrates each child's own work.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-15
+last_updated: 2026-09-28
 ---
 
 # Grade 2 Scope
@@ -136,46 +136,45 @@ describes how a child's growth is seen and recorded at this level.
 
 ## Year at a glance
 
-The Grade 2 year is a spiral that deepens what came before. It begins inward — with a
-growing feeling-vocabulary, the story of our strengths, and the first steps of
-self-regulation (*My Feelings & My Strengths*) and with the body as a home to sense,
-move, and read (*My Body, My Senses & Movement*) — then turns outward into the
-practice of caring and cooperation (*Caring & Working Together*). Where Kindergarten
-named happy, sad, angry, and scared, and Grade 1 added proud, lonely, and excited,
-Grade 2 asks children to tell similar feelings apart, notice where a feeling lives in
-the body, and pause before they act. Where Grade 1 learned to share and take turns,
-Grade 2 learns to give real encouragement, resolve a disagreement with words, and work
-together on a task no one could finish alone.
+The Grade 2 year is a spiral that deepens what came before. It begins inward. *My
+Feelings & My Strengths* (U.02.001, D01) grows the feeling-vocabulary, the story of our
+strengths, and the first steps of self-regulation, and *My Body, My Senses & Movement*
+(U.02.002, D03) reads the body as a home to sense, move, and read. *Caring & Working
+Together* (U.02.003, D02) then turns outward into the practice of caring and
+cooperation. Where Kindergarten named happy, sad, angry, and scared, and Grade 1 added
+proud, lonely, and excited, Grade 2 asks children to tell similar feelings apart, notice
+where a feeling lives in the body, and pause before they act. Where Grade 1 learned to
+share and take turns, Grade 2 learns to give real encouragement, resolve a disagreement
+with words, and work together on a task no one could finish alone.
 
 The heart of the year is given to the two great tools of formal school, now in their
-second year of real work. *Reading, Writing & Many Languages* builds fluency: children
-read common and regularly spelled words with growing ease, answer who, what, where,
-when, and why questions, write a short story with first, next, and last, and write an
-opinion or an explanation with a reason — always in the learner's home language first,
-with other languages alongside. *Numbers, Shapes, Patterns & Data* grows from Grade
-1's counting to 120 and adding within 20 into place value of tens and ones, adding and
-subtracting within 100, growing patterns, shapes with given attributes, halves, thirds,
-and fourths, measuring with standard units, and reading picture and bar graphs —
-mathematics as sense-making with real things, drawn from many traditions, for everyone.
+second year of real work. *Reading, Writing & Many Languages* (U.02.004, D04) builds
+fluency and comprehension — reading regularly spelled words with growing ease, telling a
+story in order, and giving a reason for an opinion — always in the learner's home
+language first, with other languages alongside. *Numbers, Shapes, Patterns & Data*
+(U.02.005, D05) grows from Grade 1's counting to 120 and adding within 20 into place
+value, adding and subtracting within 100, halves and fourths, measuring with standard
+units, and reading picture and bar graphs — mathematics as sense-making with real
+things, drawn from many traditions, for everyone.
 
-From there the year looks out at the living world through wonder that now becomes
-prediction and test (*Wondering & Testing: The Living World*), and gives the whole body
-and the imagination to making, song, and movement (*Making, Music & Movement*), then
-returns to the body with growing independence for health and safety (*Healthy, Safe &
-Strong*). The final third steps into the wider human story — how people live across
-time and place, now on simple timelines (*People, Places & Long Ago*), what it means to
-be fair and to decide together (*Fairness & Our Shared Rules*), and the tools, media,
-and living Earth we are stewards of (*Tools, Media & Our Earth Home*). The year closes
-by gathering all of it together in a celebration of self and belonging (*All of Me, All
-of Us*), looking ahead to Grade 3.
+From there *Wondering & Testing: The Living World* (U.02.006, D06) looks out at the
+living world through wonder that now becomes prediction and test, and *Making, Music &
+Movement* (U.02.007, D07) gives the whole body and the imagination to making, song, and
+movement. *Healthy, Safe & Strong* (U.02.008, D03) returns to the body with growing
+independence for health and safety. The final third steps into the wider human story:
+*People, Places & Long Ago* (U.02.009, D08) for how people live across time and place,
+now on simple timelines; *Fairness & Our Shared Rules* (U.02.010, D09) for what it means
+to be fair and to decide together; and *Tools, Media & Our Earth Home* (U.02.011, D10)
+for the tools, media, and living Earth we are stewards of. The year closes in
+*All of Me, All of Us* (U.02.012, D01 + D02), looking ahead to Grade 3.
 
 Throughout, the four pillars are interwoven. Intellectual awareness (P3) carries the
-most weight, because fluent reading and writing and a firm hold on number are the
-year's central work — but emotional and social awareness (P1) and physical and somatic
+most weight, because fluent reading and writing and a firm hold on number are the year's
+central work — but emotional and social awareness (P1) and physical and somatic
 awareness (P2) remain strong, for a known, cared-for, and capable body-and-self is the
 ground all formal learning stands on. Contextual and ecological awareness (P4) grows a
 little this year — history begins to move from "then and now" toward simple timelines,
 science toward prediction and test, and fairness toward children's rights and the
-difference between being treated the same and being treated fairly. No high-stakes
-tests anywhere: a child's growth is seen through reading aloud, writing, number work
-with real things, and a portfolio of what they make, say, and do.
+difference between being treated the same and being treated fairly. No high-stakes tests
+anywhere: a child's growth is seen through reading aloud, writing, number work with real
+things, and a portfolio of what they make, say, and do.

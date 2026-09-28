@@ -17,7 +17,13 @@ const KIND_TO_SCHEMA = {
 
 const REQUIRED_HEADINGS = {
   lesson: ['Procedure', 'Assessment', 'Facilitator note', 'Connection'],
+  scope: ['How to read this scope', 'Year at a glance'],
 };
+
+// A grade page shows only the scope `summary` (as the lede) and the body's
+// "Year at a glance" section. See docs/schema.md § "Writing a scope".
+const SCOPE_SUMMARY_MAX_WORDS = 110;
+const SCOPE_GLANCE_MAX_WORDS = 650;
 
 const errors = [];
 const warnings = [];
@@ -71,10 +77,27 @@ function checkHeadings(file, kind, body) {
   }
 }
 
+function wordCount(text) {
+  return String(text ?? '')
+    .split(/\s+/)
+    .filter(Boolean).length;
+}
+
+/** Extract the prose under a `## <heading>` in a Markdown body, up to the next heading. */
+function sectionBody(text, heading) {
+  const lines = String(text ?? '').split('\n');
+  const start = lines.findIndex(
+    (l) => l.trim().toLowerCase() === `## ${heading}`.toLowerCase()
+  );
+  if (start === -1) return '';
+  const rest = lines.slice(start + 1);
+  const end = rest.findIndex((l) => /^#{1,6}\s/.test(l));
+  return (end === -1 ? rest : rest.slice(0, end)).join('\n');
+}
+
 function gradeToToken(grade) {
   return grade === 0 ? 'K' : String(grade).padStart(2, '0');
 }
-
 function objectiveGradeToken(objectiveId) {
   const parts = String(objectiveId).split('.');
   return parts.length === 4 ? parts[2] : null;
@@ -177,6 +200,23 @@ function main() {
       } else if (unit.grade !== data.grade) {
         errors.push(`${rel(file)}: planned unit "${u.unit_id}" is grade ${unit.grade}, not ${data.grade}`);
       }
+    }
+
+    const summaryWords = wordCount(data.summary);
+    if (summaryWords > SCOPE_SUMMARY_MAX_WORDS) {
+      warnings.push(
+        `${rel(file)}: scope summary is ${summaryWords} words (target ≤ ${SCOPE_SUMMARY_MAX_WORDS}); ` +
+          'it renders as the grade page lede — see docs/schema.md § "Writing a scope"'
+      );
+    }
+
+    const glance = sectionBody(fs.readFileSync(file, 'utf8'), 'Year at a glance');
+    const glanceWords = wordCount(glance);
+    if (glanceWords > SCOPE_GLANCE_MAX_WORDS) {
+      warnings.push(
+        `${rel(file)}: "Year at a glance" is ${glanceWords} words (target ≤ ${SCOPE_GLANCE_MAX_WORDS}); ` +
+          'synthesize the arc instead of reciting standards — see docs/schema.md § "Writing a scope"'
+      );
     }
   }
 

@@ -115,7 +115,7 @@ assessment_plan: >-
   level. A year-end portfolio celebrates each child's own work.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-09-28
 ---
 
 # Grade 1 Scope
@@ -133,24 +133,29 @@ describes how a child's growth is seen and recorded at this level.
 
 ## Year at a glance
 
-The Grade 1 year is a spiral from the self outward, now with real tools in hand. It
-begins inward — with a growing feeling-vocabulary and a story of who each child is
-(*My Feelings, My Story*) and with the body as a home to sense, move, and read
-(*My Body, My Senses*) — then turns outward into the practice of relationship
-(*Learning to Live Together*). The heart of the year is given to the two great tools
-of formal school: decoding, reading, and writing (*Letters, Sounds & Words*) and
-number, pattern, and shape (*Numbers All Around Us*), taught with explicit
-instruction and real objects, in the learner's home language first and other
-languages alongside. From there the year looks out at the living world through
-wonder and close observation (*Wondering About the Living World*) and gives the whole
-body and the imagination to making, song, and movement (*Making, Music & Movement*),
-then returns to the body with growing independence for health and safety
-(*Healthy, Safe & Strong*). The final third steps into the wider human story — how
-people live across time and place (*People, Places & Long Ago*), what it means to be
-fair and to decide together (*Fairness & Our Shared Rules*), and the tools, media,
-and living Earth we are stewards of (*Tools, Stories & Our Earth Home*). The year
-closes by gathering all of it together in a celebration of self and belonging
-(*All of Me, All of Us*).
+The Grade 1 year is a spiral from the self outward, now with real tools in hand, and it
+begins inward. *My Feelings, My Story* (U.01.001, D01) grows a feeling-vocabulary and
+the story of who each child is; *My Body, My Senses* (U.01.002, D03) reads the body as a
+home to sense, move, and care for. *Learning to Live Together* (U.01.003, D02) then
+turns outward into the practice of relationship — listening, sharing, and solving a
+disagreement with words.
+
+The heart of the year is given to the two great tools of formal school.
+*Letters, Sounds & Words* (U.01.004, D04) teaches decoding, reading, and writing with
+explicit instruction and real objects; *Numbers All Around Us* (U.01.005, D05) builds
+number, pattern, and shape from counting and comparing — both in the learner's home
+language first, with other languages alongside. From there
+*Wondering About the Living World* (U.01.006, D06) looks out through wonder and close
+observation, and *Making, Music & Movement* (U.01.007, D07) gives the whole body and the
+imagination to making, song, and dance. *Healthy, Safe & Strong* (U.01.008, D03) returns
+to the body with growing independence for health and safety.
+
+The final third steps into the wider human story. *People, Places & Long Ago* (U.01.009,
+D08) asks how people live across time and place; *Fairness & Our Shared Rules*
+(U.01.010, D09) asks what it means to be fair and to decide together; and
+*Tools, Stories & Our Earth Home* (U.01.011, D10) looks at the tools and stories we
+share and the living Earth we are stewards of. The year closes in *All of Me, All of Us*
+(U.01.012, D01 + D02), a celebration of self and belonging, looking ahead to Grade 2.
 
 Throughout, the four pillars are interwoven. Intellectual awareness (P3) now carries
 the most weight, because reading, writing, and number are the year's central work —

@@ -120,7 +120,7 @@ assessment_plan: >-
   child's own work.
 status: draft
 author: scope-sequencer
-last_updated: 2026-08-14
+last_updated: 2026-09-28
 ---
 
 # Kindergarten Scope
@@ -137,21 +137,27 @@ recorded at this level.
 
 ## Year at a glance
 
-The Kindergarten year is a spiral from the self outward. It begins inward — with
-feelings and identity (*Who Am I?*) and with the body as a home to sense and care for
-(*My Body, My Home*) — then turns to the oldest human question (*Where Did Everything
-Come From?*) held as wonder, not creed. From there the child moves outward into
-relationships (*We Are Friends*) and into the shared tools of language and number
-(*Words, Sounds & Stories*; *Counting, Shapes & Patterns*), learning that marks can
-carry meaning and that the world is full of patterns to notice. The middle of the year
-is given to the whole body and the imagination — making, singing, and moving (*Making
-& Imagining*), then moving and growing with new strength (*Moving & Growing*) — and to
-looking closely at the living, changing world (*The Living World Around Us*). The
-final third steps into the wider human story: how people have lived across time and
-place (*Then & Now: Stories of People*), what it means to be fair and to care for
-others (*Fairness & Caring for Others*), and the tools, media, and living Earth we are
-stewards of (*Tools, Media & Our Earth Home*). The year closes by gathering all of it
-together in a celebration of self and belonging (*All of Me, All of Us*).
+The Kindergarten year is a spiral from the self outward, and it begins inward.
+*Who Am I?* (U.00.001, D01) opens with feelings and identity — naming what a child feels
+and who they are — and *My Body, My Home* (U.00.002, D03) treats the body as a home to
+sense, move, and care for. *Where Did Everything Come From?* (U.00.003, D06) then asks
+the oldest human question, held as wonder and story rather than creed. From there the
+child moves outward. *We Are Friends* (U.00.004, D02) turns to relationships — sharing,
+taking turns, and repairing a hurt — and the shared tools of school arrive through
+*Words, Sounds & Stories* (U.00.005, D04) and *Counting, Shapes & Patterns*
+(U.00.006, D05): marks that can carry meaning, and a world full of patterns to notice
+and name.
+
+The middle of the year is given to the whole body and the imagination. *Making &
+Imagining* (U.00.007, D07) makes, sings, and moves; *Moving & Growing* (U.00.008, D03)
+builds new strength, balance, and control; and *The Living World Around Us* (U.00.009,
+D06) looks closely at plants, animals, weather, and the changing seasons. The final
+third steps into the wider human story. *Then & Now: Stories of People* (U.00.010, D08)
+asks how people have lived across time and place; *Fairness & Caring for Others*
+(U.00.011, D09) asks what it means to be fair, to share, and to care for someone else;
+and *Tools, Media & Our Earth Home* (U.00.012, D10) looks at the tools we use and the
+living Earth we are stewards of. The year closes in *All of Me, All of Us*
+(U.00.013, D01 + D02), a celebration of self and belonging, looking ahead to Grade 1.
 
 Throughout, the four pillars are interwoven. Emotional and social awareness (P1) and
 physical and somatic awareness (P2) carry the most weight in this first year, because
