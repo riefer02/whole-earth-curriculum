@@ -59,7 +59,9 @@
   <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">gravity pulls things down · friction resists sliding</text>
 
   <!-- rule -->
-  <rect x="64" y="396" width="384" height="56" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Motion changes only when forces are unbalanced.</text>
-  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">balanced forces = steady motion · unbalanced forces = speeding up or slowing down</text>
+  <rect x="64" y="396" width="384" height="104" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Motion changes only</text>
+  <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">when forces are unbalanced.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">balanced forces = steady motion ·</text>
+  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">unbalanced forces = speeding up or slowing down</text>
 </svg>

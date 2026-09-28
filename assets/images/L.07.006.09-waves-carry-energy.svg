@@ -8,7 +8,7 @@
 
   <!-- rest line -->
   <line x1="30" y1="250" x2="482" y2="250" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="6 5"/>
-  <text x="488" y="250" text-anchor="end" font-family="sans-serif" font-size="12" fill="#4f6d7a">rest line</text>
+  <text x="470" y="240" text-anchor="end" font-family="sans-serif" font-size="12" fill="#4f6d7a">rest line</text>
 
   <!-- wave -->
   <path d="M40 250 Q70 180 100 250 T160 250 T220 250 T280 250 T340 250 T400 250 T460 250"

@@ -44,10 +44,11 @@
   <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">The same force moves the light cart more than the heavy one.</text>
 
   <!-- Formula box -->
-  <rect x="96" y="320" width="320" height="104" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="96" y="320" width="320" height="124" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">force = mass × acceleration</text>
   <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">so  acceleration = force ÷ mass</text>
-  <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">more force → more acceleration · more mass → less acceleration</text>
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">more force → more acceleration</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">more mass → less acceleration</text>
 
   <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">a force is a push or a pull; acceleration is how quickly motion changes</text>
 </svg>
