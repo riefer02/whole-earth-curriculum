@@ -21,8 +21,9 @@
 
   <!-- speech bubble -->
   <g>
-    <path d="M196 150 L316 150 Q336 150 336 170 L336 196 Q336 216 316 216 L206 216 L192 234 L196 214 Q186 216 180 210 L180 170 Q180 150 196 150 Z" fill="#fdfbf7" stroke="#e0a458" stroke-width="2.5"/>
-    <text x="256" y="186" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">"Makes you strong!"</text>
+    <rect x="56" y="118" width="168" height="44" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2.5"/>
+    <path d="M128 162 L140 180 L152 162" fill="none" stroke="#e0a458" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="140" y="146" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">"Makes you strong!"</text>
   </g>
   <text x="131" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">A promise to make you buy it</text>
 
@@ -57,7 +58,8 @@
   <text x="381" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Facts you can look up and test</text>
 
   <!-- caption -->
-  <rect x="60" y="420" width="392" height="56" rx="10" fill="#7a9e7e" fill-opacity="0.18" stroke="#7a9e7e" stroke-width="2"/>
-  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">A claim is what they say; evidence is what can be checked.</text>
-  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Ads are built on claims. Wise eaters ask for evidence.</text>
+  <rect x="60" y="420" width="392" height="76" rx="10" fill="#7a9e7e" fill-opacity="0.18" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">A claim is what they say;</text>
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">evidence is what can be checked.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Ads are built on claims. Wise eaters ask for evidence.</text>
 </svg>

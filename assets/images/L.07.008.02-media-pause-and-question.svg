@@ -38,7 +38,7 @@
   <path d="M248 362 L256 376 L264 362 Z" fill="#2b3a42"/>
 
   <!-- Step 3 -->
-  <rect x="146" y="378" width="220" height="92" rx="14" fill="#7a9e7e" fill-opacity="0.2" stroke="#7a9e7e" stroke-width="2.5"/>
+  <rect x="146" y="378" width="220" height="100" rx="14" fill="#7a9e7e" fill-opacity="0.2" stroke="#7a9e7e" stroke-width="2.5"/>
   <g>
     <path d="M256 400 C236 388 212 402 212 420 C212 436 256 452 256 452 C256 452 300 436 300 420 C300 402 276 388 256 400 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   </g>

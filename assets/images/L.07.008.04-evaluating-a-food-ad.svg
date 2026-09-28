@@ -43,8 +43,9 @@
     <line x1="304" y1="222" x2="360" y2="222" stroke="#6b93b6" stroke-width="2"/>
     <rect x="364" y="208" width="136" height="30" rx="6" fill="#6b93b6" fill-opacity="0.2" stroke="#6b93b6" stroke-width="2"/>
     <text x="432" y="228" text-anchor="middle" font-weight="bold" fill="#2b3a42">Feeling appeal:</text>
-    <rect x="370" y="240" width="124" height="24" rx="6" fill="#6b93b6" fill-opacity="0.15" stroke="#6b93b6" stroke-width="2"/>
-    <text x="432" y="257" text-anchor="middle" fill="#2b3a42">happy sun, warm colors</text>
+    <rect x="370" y="240" width="124" height="48" rx="6" fill="#6b93b6" fill-opacity="0.15" stroke="#6b93b6" stroke-width="2"/>
+    <text x="432" y="258" text-anchor="middle" fill="#2b3a42">happy sun,</text>
+    <text x="432" y="276" text-anchor="middle" fill="#2b3a42">warm colors</text>
 
     <!-- no evidence -->
     <line x1="150" y1="250" x2="120" y2="250" stroke="#7a9e7e" stroke-width="2"/>
