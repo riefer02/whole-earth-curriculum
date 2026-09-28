@@ -7,7 +7,7 @@
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Same scene, three choices</text>
 
   <!-- Panel A: wide frame -->
-  <rect x="20" y="66" width="150" height="190" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="20" y="66" width="150" height="218" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="95" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Wide frame</text>
   <!-- sky + mountain -->
   <path d="M40 214 L88 148 L120 214 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
@@ -23,7 +23,7 @@
   <text x="95" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">looks small</text>
 
   <!-- Panel B: close frame -->
-  <rect x="181" y="66" width="150" height="190" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="181" y="66" width="150" height="218" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Close frame</text>
   <!-- zoomed-in person -->
   <circle cx="256" cy="160" r="26" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
@@ -39,7 +39,7 @@
   <text x="256" y="278" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">important</text>
 
   <!-- Panel C: emphasis -->
-  <rect x="342" y="66" width="150" height="190" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="342" y="66" width="150" height="218" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="417" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Emphasis</text>
   <!-- light background, dark bold figure -->
   <line x1="342" y1="150" x2="492" y2="150" stroke="#4f6d7a" stroke-width="2" stroke-opacity="0.5"/>

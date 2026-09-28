@@ -14,9 +14,9 @@
   <circle cx="230" cy="150" r="16" fill="#6b93b6"/>
   <circle cx="320" cy="150" r="22" fill="#2b3a42"/>
   <circle cx="410" cy="150" r="28" fill="#2b3a42"/>
-  <text x="80" y="182" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">p — soft</text>
-  <text x="410" y="182" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">f — loud</text>
-  <text x="256" y="182" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">soft → building → loud</text>
+  <text x="80" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">p — soft</text>
+  <text x="410" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">f — loud</text>
+  <text x="256" y="190" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">soft → building → loud</text>
 
   <!-- Phrasing -->
   <rect x="20" y="210" width="472" height="130" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -47,5 +47,5 @@
   <ellipse cx="290" cy="442" rx="8" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 290 442)"/>
   <ellipse cx="370" cy="438" rx="8" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 370 438)"/>
   <ellipse cx="450" cy="444" rx="8" ry="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" transform="rotate(-20 450 444)"/>
-  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">two parts (blue and green rows) move on the same dashed beat</text>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">two parts (blue and green rows) move on the same dashed beat</text>
 </svg>
