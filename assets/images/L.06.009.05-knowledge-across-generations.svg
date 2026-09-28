@@ -29,7 +29,7 @@
   <g>
     <rect x="182" y="92" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <rect x="190" y="104" width="134" height="32" rx="6" fill="#6b93b6" opacity="0.35"/>
-    <text x="257" y="125" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">WRITTEN RECORDS</text>
+    <text x="257" y="125" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">WRITTEN RECORDS</text>
     <!-- manuscript page -->
     <rect x="210" y="152" width="94" height="130" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <line x1="222" y1="172" x2="292" y2="172" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>

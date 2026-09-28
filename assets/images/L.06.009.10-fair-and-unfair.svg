@@ -30,12 +30,12 @@
     <text x="379" y="128" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">UNFAIR USE</text>
     <circle cx="379" cy="182" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
     <path d="M379 198 L379 240" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M363 276 L379 240 L395 276" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M363 270 L379 240 L395 270" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="340" cy="270" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="379" cy="282" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="379" cy="282" r="9" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="418" cy="270" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="379" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one decides for others</text>
-    <text x="379" y="318" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">some voices silenced, serving the few</text>
+    <text x="379" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one decides for others</text>
+    <text x="379" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">some voices silenced, serving the few</text>
   </g>
 
   <rect x="22" y="356" width="468" height="128" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
