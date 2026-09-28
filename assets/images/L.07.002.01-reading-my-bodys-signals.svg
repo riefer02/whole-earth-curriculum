@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Body Signal Map</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#2b3a42">Body Signal Map</text>
 
   <!-- Figure -->
   <g>
@@ -37,12 +37,12 @@
 
   <!-- Fatigue: eyes and shoulders -->
   <g>
-    <line x1="245" y1="114" x2="120" y2="96" stroke="#6b93b6" stroke-width="2"/>
-    <circle cx="120" cy="96" r="3" fill="#6b93b6"/>
-    <rect x="40" y="46" width="168" height="66" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="124" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Fatigue</text>
-    <text x="124" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">heavy eyes, drooping</text>
-    <text x="124" y="106" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">shoulders</text>
+    <line x1="245" y1="114" x2="120" y2="100" stroke="#6b93b6" stroke-width="2"/>
+    <circle cx="120" cy="100" r="3" fill="#6b93b6"/>
+    <rect x="40" y="52" width="168" height="66" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="124" y="74" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">Fatigue</text>
+    <text x="124" y="94" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">heavy eyes, drooping</text>
+    <text x="124" y="110" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">shoulders</text>
   </g>
 
   <!-- Stress: chest / heart -->

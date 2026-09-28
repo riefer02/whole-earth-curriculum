@@ -25,13 +25,15 @@
   <path d="M258 224 l14 -4 l-6 12 z" fill="#7a9e7e"/>
 
   <!-- Labels -->
-  <rect x="60" y="396" width="150" height="62" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="60" y="396" width="150" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="135" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#6b93b6">Spacing</text>
-  <text x="135" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">spread into open space</text>
+  <text x="135" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">spread into</text>
+  <text x="135" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">open space</text>
 
-  <rect x="306" y="396" width="150" height="62" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="306" y="396" width="150" height="80" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="381" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">Timing</text>
-  <text x="381" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">move at the right moment</text>
+  <text x="381" y="442" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">move at the</text>
+  <text x="381" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">right moment</text>
 
   <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Grammar you can learn, not a gift you are born with.</text>
 </svg>
