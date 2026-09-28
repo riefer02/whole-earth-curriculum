@@ -15,7 +15,7 @@
 
   <!-- Link 2: reason (broken) -->
   <g>
-    <path d="M172 228 L240 228" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M184 228 L206 228" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <path d="M196 210 A 40 40 0 0 0 196 246" fill="none" stroke="#e0a458" stroke-width="3"/>
     <path d="M316 210 A 40 40 0 0 0 316 246" fill="none" stroke="#e0a458" stroke-width="3"/>
     <text x="256" y="228" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#e0a458">reason</text>

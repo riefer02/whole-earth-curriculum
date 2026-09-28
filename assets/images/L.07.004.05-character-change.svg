@@ -25,7 +25,8 @@
   <!-- Arrow -->
   <path d="M238 230 L274 230" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   <path d="M264 222 L274 230 L264 238" fill="none" stroke="#2b3a42" stroke-width="3"/>
-  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">the change</text>
+  <text x="256" y="198" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#8a5a1a">the</text>
+  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#8a5a1a">change</text>
 
   <!-- Right panel: content -->
   <g>
@@ -37,7 +38,8 @@
     <path d="M374 180 Q384 192 394 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <path d="M366 224 Q384 240 402 224 L402 288 Q384 302 366 288 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <path d="M384 250 L384 288" stroke="#2b3a42" stroke-width="2"/>
-    <text x="384" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">seated, calm, glad to be himself</text>
+    <text x="384" y="348" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">seated, calm,</text>
+    <text x="384" y="366" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">glad to be himself</text>
   </g>
 
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Find the evidence for the change.</text>

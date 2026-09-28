@@ -8,17 +8,17 @@
 
   <!-- Left column: translation -->
   <g>
-    <rect x="30" y="80" width="206" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="30" y="80" width="206" height="316" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="133" y="112" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">translation</text>
     <rect x="70" y="134" width="126" height="150" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
     <path d="M82 162 L184 162 M82 184 L184 184 M82 206 L184 206 M82 228 L150 228" stroke="#4f6d7a" stroke-width="2"/>
     <path d="M140 300 L168 330 L150 330 L184 356 L126 356 L162 330 L140 330 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="133" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">written, can take time</text>
+    <text x="133" y="384" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">written, can take time</text>
   </g>
 
   <!-- Right column: interpretation -->
   <g>
-    <rect x="276" y="80" width="206" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="276" y="80" width="206" height="316" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="379" y="112" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">interpretation</text>
     <!-- left speaker -->
     <circle cx="314" cy="230" r="24" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
