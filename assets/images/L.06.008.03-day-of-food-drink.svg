@@ -29,11 +29,11 @@
   <path d="M150 116 Q138 108 130 114" fill="none" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- Midday: rice and beans in a bowl -->
-  <path d="M300 120 A52 52 0 0 1 404 120 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <ellipse cx="352" cy="120" rx="52" ry="12" fill="#7a9e7e" opacity="0.7"/>
-  <circle cx="332" cy="122" r="3" fill="#2b3a42"/>
-  <circle cx="352" cy="126" r="3" fill="#2b3a42"/>
-  <circle cx="370" cy="121" r="3" fill="#2b3a42"/>
+  <path d="M300 132 A52 52 0 0 1 404 132 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="352" cy="132" rx="52" ry="12" fill="#7a9e7e" opacity="0.7"/>
+  <circle cx="332" cy="132" r="3" fill="#2b3a42"/>
+  <circle cx="352" cy="136" r="3" fill="#2b3a42"/>
+  <circle cx="370" cy="131" r="3" fill="#2b3a42"/>
 
   <!-- Afternoon: fruit and nuts -->
   <circle cx="80" cy="300" r="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -55,7 +55,7 @@
   <path d="M160 424 L160 448 L200 448 L200 424 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <path d="M168 412 L172 424 L188 424 L192 412 Z" fill="#6b93b6" opacity="0.6"/>
   <path d="M168 412 L172 424 L188 424 L192 412 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="182" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">water</text>
+  <text x="182" y="458" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">water</text>
   <path d="M290 428 Q306 414 322 428 Q306 440 290 428 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <text x="306" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">tea</text>
 
