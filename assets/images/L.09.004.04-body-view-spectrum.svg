@@ -35,7 +35,8 @@
   <text x="391" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">what it is and does</text>
   <text x="391" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(not "thinking you're attractive")</text>
 
-  <rect x="36" y="434" width="440" height="54" rx="8" fill="#eaf0ea" stroke="#7a9e7e" stroke-width="1.5"/>
-  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="13.9" font-weight="bold" fill="#2b3a42">Appearance is not my worth — my body's value is not up for a vote.</text>
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Any resting place on the right half is valid — and it may change day to day.</text>
+  <rect x="36" y="428" width="440" height="72" rx="8" fill="#eaf0ea" stroke="#7a9e7e" stroke-width="1.5"/>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">Appearance is not my worth —</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">my body's value is not up for a vote.</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Any resting place on the right half is valid — and it may change day to day.</text>
 </svg>

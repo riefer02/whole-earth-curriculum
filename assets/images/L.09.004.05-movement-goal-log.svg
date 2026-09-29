@@ -7,14 +7,15 @@
   <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Built on what my body can do and feel — never on weight or appearance.</text>
 
   <!-- goal box -->
-  <rect x="28" y="84" width="456" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="28" y="84" width="456" height="168" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="44" y="108" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Goal</text>
   <text x="44" y="128" font-family="sans-serif" font-size="13" fill="#222222">walk or roll outside three times a week, starting at ten minutes</text>
   <text x="44" y="152" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Reason</text>
   <text x="44" y="172" font-family="sans-serif" font-size="13" fill="#222222">more afternoon energy and a clearer head before I study</text>
   <text x="44" y="196" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Small steps</text>
-  <text x="44" y="216" font-family="sans-serif" font-size="12" fill="#222222">week 1: two walks &#183; week 2: three &#183; week 3: three, a little longer if it feels good</text>
-  <text x="44" y="232" font-family="sans-serif" font-size="12" fill="#4f6d7a">If I miss a week: restart smaller — no blame, no quitting.</text>
+  <text x="44" y="216" font-family="sans-serif" font-size="12" fill="#222222">week 1: two walks &#183; week 2: three &#183; week 3: three,</text>
+  <text x="44" y="232" font-family="sans-serif" font-size="12" fill="#222222">a little longer if it feels good</text>
+  <text x="44" y="248" font-family="sans-serif" font-size="12" fill="#4f6d7a">If I miss a week: restart smaller — no blame, no quitting.</text>
 
   <!-- tracking log -->
   <text x="44" y="268" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Tracking log</text>
