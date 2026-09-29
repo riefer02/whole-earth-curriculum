@@ -34,7 +34,7 @@
   </g>
 
   <!-- Arrow down from blow-up -->
-  <text x="120" y="350" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">each rung harder to step back from</text>
+  <text x="120" y="350" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a" stroke="#fdfbf7" stroke-width="4" paint-order="stroke">each rung harder to step back from</text>
 
   <!-- Ramp (right) -->
   <text x="390" y="76" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">de-escalation</text>

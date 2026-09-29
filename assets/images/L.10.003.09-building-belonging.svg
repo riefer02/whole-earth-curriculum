@@ -12,13 +12,13 @@
   <circle cx="256" cy="240" r="180" fill="none" stroke="#e0a458" stroke-width="3"/>
 
   <!-- Inner person -->
-  <g transform="translate(256,240)">
+  <g transform="translate(256,252)">
     <circle cx="0" cy="-30" r="18" fill="#e0a458"/>
     <rect x="-13" y="-12" width="26" height="42" rx="9" fill="#2b3a42"/>
   </g>
 
   <!-- Labels -->
-  <text x="256" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2c4a2c">family &#183; class &#183; neighborhood</text>
+  <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2c4a2c">family &#183; class &#183; neighborhood</text>
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#3a5a6a">online spaces &#183; diaspora ties</text>
   <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#5a3d1e">the global</text>
 

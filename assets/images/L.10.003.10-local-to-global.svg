@@ -30,8 +30,8 @@
   </g>
 
   <!-- Flow labels -->
-  <text x="352" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">goods</text>
-  <text x="168" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">people</text>
+  <text x="352" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" stroke="#fdfbf7" stroke-width="3" paint-order="stroke">goods</text>
+  <text x="168" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42" stroke="#fdfbf7" stroke-width="3" paint-order="stroke">people</text>
   <text x="90" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">ideas</text>
   <text x="420" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">water</text>
 

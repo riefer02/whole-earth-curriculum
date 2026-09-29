@@ -11,32 +11,32 @@
   <text x="139" y="92" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Face to face</text>
 
   <!-- Person 1 -->
-  <g transform="translate(52,120)">
+  <g transform="translate(52,150)">
     <circle cx="0" cy="-34" r="22" fill="#6b93b6"/>
     <rect x="-16" y="-14" width="32" height="52" rx="10" fill="#4f6d7a"/>
   </g>
   <!-- Person 2 -->
-  <g transform="translate(196,120)">
+  <g transform="translate(196,150)">
     <circle cx="0" cy="-34" r="22" fill="#e0a458"/>
     <rect x="-16" y="-14" width="32" height="52" rx="10" fill="#2b3a42"/>
   </g>
 
   <!-- Speech waves between -->
   <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round">
-    <path d="M86,108 C100,96 112,96 126,108"/>
-    <path d="M162,108 C176,96 188,96 202,108"/>
+    <path d="M86,134 C100,122 112,122 126,134"/>
+    <path d="M162,134 C176,122 188,122 202,134"/>
   </g>
 
   <!-- Cues kept -->
   <g font-family="sans-serif" font-size="13" fill="#222222">
-    <rect x="52" y="188" width="174" height="26" rx="8" fill="#eaf2ea"/>
-    <text x="139" y="206" text-anchor="middle">tone of voice</text>
-    <rect x="52" y="220" width="174" height="26" rx="8" fill="#eaf2ea"/>
-    <text x="139" y="238" text-anchor="middle">face and body</text>
-    <rect x="52" y="252" width="174" height="26" rx="8" fill="#eaf2ea"/>
-    <text x="139" y="270" text-anchor="middle">instant reply &amp; repair</text>
-    <rect x="52" y="284" width="174" height="26" rx="8" fill="#eaf2ea"/>
-    <text x="139" y="302" text-anchor="middle">shared moment</text>
+    <rect x="52" y="194" width="174" height="26" rx="8" fill="#eaf2ea"/>
+    <text x="139" y="212" text-anchor="middle">tone of voice</text>
+    <rect x="52" y="226" width="174" height="26" rx="8" fill="#eaf2ea"/>
+    <text x="139" y="244" text-anchor="middle">face and body</text>
+    <rect x="52" y="258" width="174" height="26" rx="8" fill="#eaf2ea"/>
+    <text x="139" y="276" text-anchor="middle">instant reply &amp; repair</text>
+    <rect x="52" y="290" width="174" height="26" rx="8" fill="#eaf2ea"/>
+    <text x="139" y="308" text-anchor="middle">shared moment</text>
   </g>
 
   <!-- Right panel: screens -->

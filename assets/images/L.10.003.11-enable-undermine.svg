@@ -15,7 +15,7 @@
   <g>
     <line x1="130" y1="200" x2="130" y2="220" stroke="#2b3a42" stroke-width="3"/>
     <path d="M70,260 Q130,320 190,260 Z" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="3"/>
-    <text x="130" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2c4a2c">enables</text>
+    <text x="130" y="304" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2c4a2c">enables</text>
   </g>
   <g font-family="sans-serif" font-size="11" fill="#222222">
     <rect x="52" y="312" width="156" height="22" rx="8" fill="#dcefdc"/>
@@ -30,7 +30,7 @@
   <g>
     <line x1="382" y1="200" x2="382" y2="220" stroke="#2b3a42" stroke-width="3"/>
     <path d="M322,260 Q382,320 442,260 Z" fill="#f6ead8" stroke="#e0a458" stroke-width="3"/>
-    <text x="382" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5a3d1e">undermines</text>
+    <text x="382" y="304" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5a3d1e">undermines</text>
   </g>
   <g font-family="sans-serif" font-size="11" fill="#222222">
     <rect x="304" y="312" width="156" height="22" rx="8" fill="#f6ead8"/>

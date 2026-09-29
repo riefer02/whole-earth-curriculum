@@ -20,7 +20,7 @@
 
   <!-- Echo chamber circle -->
   <circle cx="256" cy="256" r="120" fill="#fdfbf7" stroke="#6b93b6" stroke-width="4"/>
-  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">the echo chamber</text>
+  <text x="256" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">the echo chamber</text>
 
   <!-- Person in center -->
   <g transform="translate(256,256)">
