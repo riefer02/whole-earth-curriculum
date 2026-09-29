@@ -43,7 +43,7 @@
 
   <!-- revive panel -->
   <rect x="394" y="78" width="88" height="230" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="438" y="104" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">3 · Revived</text>
+  <text x="438" y="104" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">3 · Revived</text>
   <path d="M410 138 q14 -18 28 0 q14 18 28 0" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
   <path d="M410 138 q14 18 28 0 q14 -18 28 0" fill="none" stroke="#6b93b6" stroke-width="2.5"/>
   <text x="438" y="204" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">studied, taught,</text>
