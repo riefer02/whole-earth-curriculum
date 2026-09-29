@@ -10,7 +10,7 @@
   <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">standing on one discipline: evidence, then claim, with limits</text>
 
   <!-- panel 1: living systems -->
-  <rect x="36" y="84" width="136" height="150" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
+  <rect x="36" y="84" width="136" height="164" rx="10" fill="#ffffff" stroke="#7a9e7e" stroke-width="2.5"/>
   <text x="104" y="112" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Living Systems</text>
   <!-- plant -->
   <line x1="104" y1="198" x2="104" y2="170" stroke="#4f6d7a" stroke-width="2"/>
@@ -25,7 +25,7 @@
   <text x="104" y="239" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">energy flows</text>
 
   <!-- panel 2: physical systems -->
-  <rect x="188" y="84" width="136" height="150" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
+  <rect x="188" y="84" width="136" height="164" rx="10" fill="#ffffff" stroke="#6b93b6" stroke-width="2.5"/>
   <text x="256" y="112" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Physical Systems</text>
   <!-- atom -->
   <circle cx="256" cy="168" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
@@ -37,7 +37,7 @@
   <text x="256" y="239" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">atoms bond</text>
 
   <!-- panel 3: Earth, space & origins -->
-  <rect x="340" y="84" width="136" height="150" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2.5"/>
+  <rect x="340" y="84" width="136" height="164" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2.5"/>
   <text x="408" y="112" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Earth &amp; Origins</text>
   <!-- globe -->
   <circle cx="408" cy="164" r="22" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
