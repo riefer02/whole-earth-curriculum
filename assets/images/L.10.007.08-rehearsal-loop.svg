@@ -15,8 +15,8 @@
   <text x="256" y="130" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">run the piece</text>
   <text x="410" y="236" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">watch / record</text>
   <text x="410" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">see it from outside</text>
-  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">note what wavered</text>
-  <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">timing, expression</text>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">note what wavered</text>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">timing, expression</text>
   <text x="102" y="236" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">revise</text>
   <text x="102" y="260" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">change one thing</text>
   <!-- arrows between nodes -->
