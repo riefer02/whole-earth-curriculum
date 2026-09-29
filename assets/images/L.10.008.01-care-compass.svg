@@ -13,7 +13,7 @@
 
   <!-- N: Dignity -->
   <polygon points="256,132 246,158 266,158" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="256" y="118" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Dignity</text>
+  <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">Dignity</text>
 
   <!-- E: Accuracy -->
   <polygon points="364,238 338,228 338,248" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>

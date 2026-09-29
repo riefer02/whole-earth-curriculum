@@ -12,21 +12,24 @@
     <text stroke="none" x="104" y="92" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">1</text>
     <text stroke="none" x="132" y="86" font-size="15" font-weight="bold" fill="#222222">Know the facts</text>
     <text stroke="none" x="132" y="106" font-size="12" fill="#4f6d7a">Accurate info on</text>
-    <text stroke="none" x="132" y="122" font-size="12" fill="#4f6d7a">contraception &amp; infections</text>
+    <text stroke="none" x="132" y="122" font-size="12" fill="#4f6d7a">contraception &amp;</text>
+    <text stroke="none" x="132" y="138" font-size="12" fill="#4f6d7a">infections</text>
 
     <rect x="256" y="58" width="180" height="86" rx="10" fill="#ffffff"/>
     <circle cx="284" cy="86" r="16" fill="#6b93b6"/>
     <text stroke="none" x="284" y="92" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">2</text>
     <text stroke="none" x="312" y="86" font-size="15" font-weight="bold" fill="#222222">Know my values</text>
     <text stroke="none" x="312" y="106" font-size="12" fill="#4f6d7a">What matters to me</text>
-    <text stroke="none" x="312" y="122" font-size="12" fill="#4f6d7a">(delay &amp; abstinence are valid)</text>
+    <text stroke="none" x="312" y="122" font-size="12" fill="#4f6d7a">(delay &amp; abstinence</text>
+    <text stroke="none" x="312" y="138" font-size="12" fill="#4f6d7a">are valid)</text>
 
     <rect x="76" y="168" width="180" height="86" rx="10" fill="#ffffff"/>
     <circle cx="104" cy="196" r="16" fill="#e0a458"/>
     <text stroke="none" x="104" y="202" text-anchor="middle" font-size="14" font-weight="bold" fill="#222222">3</text>
     <text stroke="none" x="132" y="196" font-size="15" font-weight="bold" fill="#222222">Talk it through</text>
     <text stroke="none" x="132" y="216" font-size="12" fill="#4f6d7a">Honest, consenting</text>
-    <text stroke="none" x="132" y="232" font-size="12" fill="#4f6d7a">communication together</text>
+    <text stroke="none" x="132" y="232" font-size="12" fill="#4f6d7a">communication</text>
+    <text stroke="none" x="132" y="248" font-size="12" fill="#4f6d7a">together</text>
 
     <rect x="256" y="168" width="180" height="86" rx="10" fill="#ffffff"/>
     <circle cx="284" cy="196" r="16" fill="#4f6d7a"/>
