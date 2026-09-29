@@ -33,8 +33,8 @@
   <rect x="364" y="374" width="56" height="20" rx="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- speech bubble -->
-  <path d="M150 414 Q256 380 362 414 L362 450 Q256 434 150 450 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">Who decides what we see — and what happens to our data?</text>
+  <rect x="66" y="404" width="380" height="52" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42">Who decides what we see — and what happens to our data?</text>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Control over rules, ranking, and data is power over users</text>
 </svg>

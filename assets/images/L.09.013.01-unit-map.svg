@@ -9,10 +9,11 @@
   <rect x="36" y="66" width="208" height="30" rx="8" fill="#6b93b6"/>
   <text x="140" y="86" text-anchor="middle" font-family="sans-serif" font-size="14.5" font-weight="bold" fill="#fdfbf7">Arc 1 · Media &amp; Technology</text>
 
-  <text x="46" y="120" font-family="sans-serif" font-size="13" fill="#2b3a42">1 · Algorithms &amp; feeds shape what we see</text>
-  <text x="46" y="146" font-family="sans-serif" font-size="13" fill="#2b3a42">2 · Who controls the platform</text>
-  <text x="46" y="172" font-family="sans-serif" font-size="13" fill="#2b3a42">3 · Echo chambers &amp; breaking out</text>
-  <text x="46" y="198" font-family="sans-serif" font-size="13" fill="#2b3a42">4 · Trace a viral claim to its source</text>
+  <text x="46" y="116" font-family="sans-serif" font-size="13" fill="#2b3a42">1 · Algorithms &amp; feeds</text>
+  <text x="46" y="132" font-family="sans-serif" font-size="13" fill="#2b3a42">shape what we see</text>
+  <text x="46" y="158" font-family="sans-serif" font-size="13" fill="#2b3a42">2 · Who controls the platform</text>
+  <text x="46" y="184" font-family="sans-serif" font-size="13" fill="#2b3a42">3 · Echo chambers &amp; breaking out</text>
+  <text x="46" y="210" font-family="sans-serif" font-size="13" fill="#2b3a42">4 · Trace a viral claim to its source</text>
 
   <!-- Arc 2: Earth home -->
   <rect x="268" y="66" width="208" height="30" rx="8" fill="#7a9e7e"/>
