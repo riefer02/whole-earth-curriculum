@@ -20,7 +20,7 @@
   <circle cx="406" cy="270" r="34" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
   <path d="M400 250 q6 14 0 26 q-4 10 12 14 q-12 -6 -10 -16 q0 -10 4 -18 z" fill="#2b3a42"/>
   <path d="M396 292 q10 8 20 0" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="406" y="240" font-family="system-ui, sans-serif" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">remember</text>
+  <text x="406" y="228" font-family="system-ui, sans-serif" font-size="16" fill="#222222" text-anchor="middle" font-weight="bold">remember</text>
 
   <!-- step 3: perform (bottom) -->
   <circle cx="256" cy="420" r="34" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2"/>
