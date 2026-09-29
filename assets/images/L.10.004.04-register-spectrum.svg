@@ -40,7 +40,7 @@
   </g>
 
   <!-- Examples of change -->
-  <rect x="60" y="280" width="392" height="118" rx="12" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
+  <rect x="60" y="280" width="392" height="130" rx="12" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
   <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">What changes as I move along the line?</text>
   <g font-family="sans-serif" font-size="14" fill="#3a5a6a">
     <text x="82" y="332">words ("hey" → "good morning")</text>

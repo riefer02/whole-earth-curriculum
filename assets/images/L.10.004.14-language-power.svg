@@ -11,10 +11,10 @@
   <text x="101" y="90" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Law</text>
   <rect x="60" y="104" width="82" height="46" rx="6" fill="#4f6d7a"/>
   <circle cx="80" cy="127" r="10" fill="#e0a458"/>
-  <text x="120" y="131" font-family="sans-serif" font-size="12" fill="#fdfbf7">the bench</text>
-  <text x="101" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">official, technical</text>
-  <text x="101" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">language decides</text>
-  <text x="101" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">who is heard</text>
+  <text x="101" y="168" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">the bench</text>
+  <text x="101" y="186" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">official, technical</text>
+  <text x="101" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">language decides</text>
+  <text x="101" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">who is heard</text>
   <!-- shadowed figure -->
   <circle cx="101" cy="250" r="16" fill="#c9c4ba"/>
   <rect x="85" y="268" width="32" height="34" rx="9" fill="#c9c4ba"/>
@@ -25,10 +25,10 @@
   <text x="256" y="90" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Medicine</text>
   <rect x="215" y="104" width="82" height="46" rx="6" fill="#e0a458"/>
   <circle cx="235" cy="127" r="10" fill="#fdfbf7"/>
-  <text x="276" y="131" font-family="sans-serif" font-size="12" fill="#2b3a42">the clinic</text>
-  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">jargon decides</text>
-  <text x="256" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">who understands</text>
-  <text x="256" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">their own care</text>
+  <text x="256" y="168" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">the clinic</text>
+  <text x="256" y="186" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">jargon decides</text>
+  <text x="256" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">who understands</text>
+  <text x="256" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">their own care</text>
   <circle cx="256" cy="250" r="16" fill="#c9c4ba"/>
   <rect x="240" y="268" width="32" height="34" rx="9" fill="#c9c4ba"/>
   <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">who is left out?</text>
@@ -38,10 +38,10 @@
   <text x="411" y="90" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">School</text>
   <rect x="370" y="104" width="82" height="46" rx="6" fill="#7a9e7e"/>
   <circle cx="390" cy="127" r="10" fill="#fdfbf7"/>
-  <text x="431" y="131" font-family="sans-serif" font-size="12" fill="#2b3a42">the classroom</text>
-  <text x="411" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">one "standard"</text>
-  <text x="411" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">language decides</text>
-  <text x="411" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">who learns easily</text>
+  <text x="411" y="168" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">the classroom</text>
+  <text x="411" y="186" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">one "standard"</text>
+  <text x="411" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">language decides</text>
+  <text x="411" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">who learns easily</text>
   <circle cx="411" cy="250" r="16" fill="#c9c4ba"/>
   <rect x="395" y="268" width="32" height="34" rx="9" fill="#c9c4ba"/>
   <text x="411" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">who is left out?</text>

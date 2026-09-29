@@ -14,8 +14,8 @@
     <!-- bead 1 -->
     <circle cx="96" cy="216" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <text x="96" y="222" text-anchor="middle" fill="#fdfbf7" font-weight="bold">1</text>
-    <text x="96" y="270" text-anchor="middle" fill="#2b3a42">ch. 1 — a hint</text>
-    <text x="96" y="290" text-anchor="middle" fill="#4f6d7a">"home" first appears</text>
+    <text x="88" y="270" text-anchor="middle" fill="#2b3a42">ch. 1 — a hint</text>
+    <text x="88" y="304" text-anchor="middle" fill="#4f6d7a">"home" first appears</text>
 
     <!-- bead 2 -->
     <circle cx="216" cy="232" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>

@@ -11,28 +11,29 @@
   <!-- header row -->
   <text x="70" y="86" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">greet</text>
   <text x="196" y="86" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">address</text>
-  <text x="286" y="86" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">show respect</text>
+  <text x="270" y="86" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">show respect</text>
   <line x1="42" y1="96" x2="344" y2="96" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- culture 1: bow -->
   <text x="44" y="124" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">culture A</text>
-  <path d="M70 120 q0 30 -8 34" stroke="#2b3a42" stroke-width="3" fill="none" stroke-linecap="round"/>
-  <circle cx="62" cy="116" r="8" fill="#6b93b6"/>
+  <path d="M148 126 q0 30 -8 34" stroke="#2b3a42" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="140" cy="122" r="8" fill="#6b93b6"/>
   <text x="196" y="128" font-family="sans-serif" font-size="13" fill="#3a5a6a">a title +</text>
   <text x="196" y="146" font-family="sans-serif" font-size="13" fill="#3a5a6a">family name</text>
-  <text x="286" y="128" font-family="sans-serif" font-size="13" fill="#3a5a3a">a bow; the</text>
-  <text x="286" y="146" font-family="sans-serif" font-size="13" fill="#3a5a3a">elder speaks first</text>
+  <text x="272" y="124" font-family="sans-serif" font-size="12.5" fill="#3a5a3a">a bow;</text>
+  <text x="272" y="140" font-family="sans-serif" font-size="12.5" fill="#3a5a3a">the elder</text>
+  <text x="272" y="156" font-family="sans-serif" font-size="12.5" fill="#3a5a3a">speaks first</text>
 
   <!-- culture 2: handshake -->
   <text x="44" y="190" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">culture B</text>
   <g stroke="#2b3a42" stroke-width="3" stroke-linecap="round">
-    <line x1="66" y1="176" x2="92" y2="176"/>
-    <line x1="66" y1="188" x2="92" y2="188"/>
-    <line x1="92" y1="176" x2="92" y2="188"/>
+    <line x1="126" y1="176" x2="152" y2="176"/>
+    <line x1="126" y1="188" x2="152" y2="188"/>
+    <line x1="152" y1="176" x2="152" y2="188"/>
   </g>
   <text x="196" y="194" font-family="sans-serif" font-size="13" fill="#3a5a6a">a first name</text>
-  <text x="286" y="194" font-family="sans-serif" font-size="13" fill="#3a5a3a">a handshake,</text>
-  <text x="286" y="212" font-family="sans-serif" font-size="13" fill="#3a5a3a">eye contact</text>
+  <text x="272" y="190" font-family="sans-serif" font-size="12.5" fill="#3a5a3a">a handshake,</text>
+  <text x="272" y="206" font-family="sans-serif" font-size="12.5" fill="#3a5a3a">eye contact</text>
 
   <text x="44" y="258" font-family="sans-serif" font-size="13" fill="#4f6d7a">Neither is "the right" way — each signals respect</text>
   <text x="44" y="276" font-family="sans-serif" font-size="13" fill="#4f6d7a">in its own idiom.</text>
