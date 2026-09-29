@@ -20,7 +20,7 @@
   <!-- exponential curve (unbounded) -->
   <path d="M 60 360 C 140 350, 220 320, 300 250 C 340 200, 380 120, 430 40"
         fill="none" stroke="#6b93b6" stroke-width="2" stroke-dasharray="5,5"/>
-  <text x="330" y="120" font-family="sans-serif" font-size="13" fill="#3a5a72">exponential (unbounded)</text>
+  <text x="230" y="120" font-family="sans-serif" font-size="13" fill="#3a5a72" stroke="#fdfbf7" stroke-width="4" paint-order="stroke">exponential (unbounded)</text>
 
   <!-- logistic S-curve -->
   <path d="M 60 360 C 130 340, 200 280, 260 230 C 320 180, 370 162, 430 154"

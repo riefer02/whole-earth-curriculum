@@ -13,7 +13,7 @@
 
   <!-- vertical asymptote x = 2 -> at x = 240 (center 140 = x0, scale 50/unit) -->
   <line x1="240" y1="60" x2="240" y2="460" stroke="#e0a458" stroke-width="2" stroke-dasharray="6,5"/>
-  <text x="244" y="78" font-family="sans-serif" font-size="13" fill="#a06030" font-weight="bold">x = 2 (vertical asymptote)</text>
+  <text x="234" y="78" text-anchor="end" font-family="sans-serif" font-size="13" fill="#a06030" font-weight="bold">x = 2 (vertical asymptote)</text>
 
   <!-- horizontal asymptote y = 1 -> y = 250 (y axis center 300, scale 50/unit: y=1 -> 250) -->
   <line x1="60" y1="250" x2="340" y2="250" stroke="#6b93b6" stroke-width="2" stroke-dasharray="6,5"/>

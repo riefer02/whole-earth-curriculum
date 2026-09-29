@@ -36,7 +36,6 @@
   <text x="205" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#a06030" font-weight="bold">true +</text>
   <text x="295" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#a06030" font-weight="bold">false &#8722;</text>
   <text x="385" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a72" font-weight="bold">(false + are here: &#8776;100)</text>
-  <text x="295" y="130" font-family="sans-serif" font-size="12" fill="#3a5a72">&#8592; false +</text>
 
   <!-- Computation -->
   <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">P(disease | positive) = 10 / (10 + 100) &#8776; 9%</text>
