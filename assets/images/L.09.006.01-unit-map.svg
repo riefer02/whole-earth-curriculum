@@ -14,34 +14,38 @@
   <!-- strand 1: listening & speaking (top-left) -->
   <rect x="34" y="82" width="150" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="58" cy="104" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="74" y="109" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">Listening &amp; Speaking</text>
-  <text x="44" y="134" font-family="sans-serif" font-size="11" fill="#4f6d7a">· synthesize many</text>
-  <text x="44" y="150" font-family="sans-serif" font-size="11" fill="#4f6d7a">  spoken sources</text>
-  <text x="44" y="170" font-family="sans-serif" font-size="11" fill="#4f6d7a">· lead a discussion fairly</text>
+  <text x="74" y="104" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Listening &amp;</text>
+  <text x="74" y="120" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Speaking</text>
+  <text x="44" y="142" font-family="sans-serif" font-size="11" fill="#4f6d7a">· synthesize many</text>
+  <text x="44" y="158" font-family="sans-serif" font-size="11" fill="#4f6d7a">  spoken sources</text>
+  <text x="44" y="178" font-family="sans-serif" font-size="11" fill="#4f6d7a">· lead a discussion fairly</text>
 
   <!-- strand 2: reading (top-right) -->
   <rect x="328" y="82" width="150" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="352" cy="104" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="368" y="109" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Reading &amp; Literacy</text>
-  <text x="338" y="134" font-family="sans-serif" font-size="11" fill="#4f6d7a">· structure, style,</text>
-  <text x="338" y="150" font-family="sans-serif" font-size="11" fill="#4f6d7a">  argument together</text>
-  <text x="338" y="170" font-family="sans-serif" font-size="11" fill="#4f6d7a">· synthesize across texts</text>
+  <text x="368" y="104" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Reading &amp;</text>
+  <text x="368" y="120" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Literacy</text>
+  <text x="338" y="142" font-family="sans-serif" font-size="11" fill="#4f6d7a">· structure, style,</text>
+  <text x="338" y="158" font-family="sans-serif" font-size="11" fill="#4f6d7a">  argument together</text>
+  <text x="338" y="178" font-family="sans-serif" font-size="11" fill="#4f6d7a">· synthesize across texts</text>
 
   <!-- strand 3: writing (bottom-left) -->
   <rect x="34" y="312" width="150" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="58" cy="334" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="74" y="339" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#222222">Writing &amp; Expression</text>
-  <text x="44" y="364" font-family="sans-serif" font-size="11" fill="#4f6d7a">· research argument with</text>
-  <text x="44" y="380" font-family="sans-serif" font-size="11" fill="#4f6d7a">  cited sources</text>
-  <text x="44" y="400" font-family="sans-serif" font-size="11" fill="#4f6d7a">· compose for real readers</text>
+  <text x="74" y="334" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Writing &amp;</text>
+  <text x="74" y="350" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Expression</text>
+  <text x="44" y="370" font-family="sans-serif" font-size="11" fill="#4f6d7a">· research argument with</text>
+  <text x="44" y="386" font-family="sans-serif" font-size="11" fill="#4f6d7a">  cited sources</text>
+  <text x="44" y="404" font-family="sans-serif" font-size="11" fill="#4f6d7a">· compose for real readers</text>
 
   <!-- strand 4: multilingual (bottom-right) -->
   <rect x="328" y="312" width="150" height="118" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="352" cy="334" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-  <text x="368" y="339" font-family="sans-serif" font-size="11.5" font-weight="bold" fill="#222222">Multilingual &amp; Intercultural</text>
-  <text x="338" y="364" font-family="sans-serif" font-size="11" fill="#4f6d7a">· languages &amp; identity</text>
-  <text x="338" y="382" font-family="sans-serif" font-size="11" fill="#4f6d7a">· language loss &amp;</text>
-  <text x="338" y="398" font-family="sans-serif" font-size="11" fill="#4f6d7a">  revitalization</text>
+  <text x="368" y="334" font-family="sans-serif" font-size="11" font-weight="bold" fill="#222222">Multilingual &amp;</text>
+  <text x="368" y="350" font-family="sans-serif" font-size="11" font-weight="bold" fill="#222222">Intercultural</text>
+  <text x="338" y="370" font-family="sans-serif" font-size="11" fill="#4f6d7a">· languages &amp; identity</text>
+  <text x="338" y="386" font-family="sans-serif" font-size="11" fill="#4f6d7a">· language loss &amp;</text>
+  <text x="338" y="402" font-family="sans-serif" font-size="11" fill="#4f6d7a">  revitalization</text>
 
   <!-- connector lines -->
   <path d="M184 141 L256 220" fill="none" stroke="#4f6d7a" stroke-width="2"/>
