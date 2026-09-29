@@ -20,9 +20,9 @@
     <text x="256" y="314" fill="#222222" font-weight="bold">respect</text>
     <ellipse cx="206" cy="262" rx="40" ry="20" fill="#7a9e7e" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
     <text x="206" y="266" fill="#222222" font-weight="bold">care</text>
-    <ellipse cx="306" cy="250" rx="46" ry="20" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="306" cy="250" rx="62" ry="20" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
     <text x="306" y="254" fill="#222222" font-weight="bold">owning mistakes</text>
-    <ellipse cx="256" cy="212" rx="40" ry="18" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="256" cy="212" rx="54" ry="18" fill="#6b93b6" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
     <text x="256" y="216" fill="#222222" font-weight="bold">kept promises</text>
   </g>
 
