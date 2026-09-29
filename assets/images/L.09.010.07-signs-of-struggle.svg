@@ -28,11 +28,11 @@
 
   <text x="256" y="348" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">One sign on one day is just a hard day — that is normal.</text>
 
-  <rect x="40" y="364" width="432" height="104" rx="14" fill="#7a9e7e"/>
-  <text x="256" y="398" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">The test</text>
-  <text x="256" y="424" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Signs that last about two weeks or more</text>
-  <text x="256" y="446" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#222222">and get in the way of daily life</text>
-  <text x="256" y="468" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#222222">= a reason to seek help, not a reason for shame.</text>
+  <rect x="40" y="364" width="432" height="112" rx="14" fill="#7a9e7e"/>
+  <text x="256" y="394" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">The test</text>
+  <text x="256" y="420" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Signs that last about two weeks or more</text>
+  <text x="256" y="442" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#222222">and get in the way of daily life</text>
+  <text x="256" y="464" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#222222">= a reason to seek help, not a reason for shame.</text>
 
   <text x="256" y="502" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">Struggling is not weakness — it is human, and help works.</text>
 </svg>

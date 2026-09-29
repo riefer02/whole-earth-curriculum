@@ -8,7 +8,7 @@
   <rect x="76" y="52" width="360" height="60" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
   <circle cx="104" cy="82" r="16" fill="#e0a458"/>
   <text x="104" y="88" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">1</text>
-  <text x="132" y="78" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Ask a trusted adult or health worker</text>
+  <text x="132" y="78" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">Ask a trusted adult or health worker</text>
   <text x="132" y="100" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">without shame — no question is a bad question</text>
 
   <line x1="256" y1="112" x2="256" y2="124" stroke="#4f6d7a" stroke-width="3"/>
@@ -35,8 +35,8 @@
   <rect x="76" y="310" width="360" height="60" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
   <circle cx="104" cy="340" r="16" fill="#e0a458"/>
   <text x="104" y="346" text-anchor="middle" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">4</text>
-  <text x="132" y="336" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Decide for yourself, with consent</text>
-  <text x="132" y="358" font-family="system-ui, sans-serif" font-size="13.1" fill="#4f6d7a">your body, your choice — no one else decides for you</text>
+  <text x="132" y="336" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">Decide for yourself, with consent</text>
+  <text x="132" y="358" font-family="system-ui, sans-serif" font-size="11" fill="#4f6d7a">your body, your choice — no one else decides for you</text>
 
   <line x1="256" y1="370" x2="256" y2="382" stroke="#4f6d7a" stroke-width="3"/>
   <polygon points="256,392 249,380 263,380" fill="#4f6d7a"/>
@@ -47,6 +47,7 @@
   <text x="132" y="422" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#222222">Follow up</text>
   <text x="132" y="444" font-family="system-ui, sans-serif" font-size="14" fill="#4f6d7a">return, adjust, keep the care going</text>
 
-  <rect x="76" y="466" width="360" height="38" rx="10" fill="#7a9e7e"/>
-  <text x="256" y="490" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13.7" font-weight="700" fill="#222222">Your care is confidential — with exceptions when safety is at risk.</text>
+  <rect x="76" y="460" width="360" height="44" rx="10" fill="#7a9e7e"/>
+  <text x="256" y="478" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12.5" font-weight="700" fill="#222222">Your care is confidential —</text>
+  <text x="256" y="496" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12.5" font-weight="700" fill="#222222">with exceptions when safety is at risk.</text>
 </svg>

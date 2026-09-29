@@ -28,6 +28,7 @@
   <line x1="74" y1="167" x2="50" y2="169" stroke="#4f6d7a" stroke-width="2"/>
   <text x="16" y="246" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">uterus</text>
   <line x1="118" y1="248" x2="70" y2="245" stroke="#4f6d7a" stroke-width="2"/>
+  <rect x="12" y="286" width="182" height="20" fill="#fdfbf7"/>
   <text x="16" y="300" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">where a pregnancy grows</text>
   <text x="16" y="340" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#222222">vagina</text>
   <line x1="138" y1="342" x2="72" y2="340" stroke="#4f6d7a" stroke-width="2"/>

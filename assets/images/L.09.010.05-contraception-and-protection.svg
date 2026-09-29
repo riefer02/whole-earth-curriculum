@@ -12,14 +12,15 @@
   <text x="52" y="122" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">How: blocks sperm</text>
   <text x="52" y="152" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Also reduces the risk of</text>
   <text x="52" y="172" font-family="system-ui, sans-serif" font-size="16" fill="#222222">many infections.</text>
-  <text x="52" y="204" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#2b3a42">Protects: pregnancy + infections</text>
+  <text x="52" y="200" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#2b3a42">Protects: pregnancy</text>
+  <text x="52" y="218" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#2b3a42">+ infections</text>
 
   <!-- Card 2 -->
   <rect x="262" y="56" width="210" height="176" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
   <rect x="262" y="56" width="210" height="40" rx="12" fill="#6b93b6"/>
   <text x="367" y="76" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#222222">Hormonal</text>
   <text x="367" y="92" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#222222">pill · patch · ring · implant</text>
-  <text x="274" y="122" font-family="system-ui, sans-serif" font-size="15.2" font-weight="700" fill="#222222">How: stops the egg's release</text>
+  <text x="270" y="122" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#222222">How: stops the egg's release</text>
   <text x="274" y="152" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Prevents pregnancy.</text>
   <text x="274" y="172" font-family="system-ui, sans-serif" font-size="16" fill="#222222">Does not protect against</text>
   <text x="274" y="192" font-family="system-ui, sans-serif" font-size="16" fill="#222222">infections.</text>
