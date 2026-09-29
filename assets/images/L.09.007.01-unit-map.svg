@@ -20,15 +20,17 @@
 
   <!-- strand 3 -->
   <rect x="36" y="248" width="206" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="139" y="274" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Geometry &amp; Spatial Reasoning</text>
-  <text x="46" y="300" font-family="sans-serif" font-size="13" fill="#222222">· rigid motions and coordinates</text>
-  <text x="46" y="322" font-family="sans-serif" font-size="13" fill="#222222">· theorems: lines, angles, shapes</text>
+  <text x="139" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Geometry &amp; Spatial</text>
+  <text x="139" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Reasoning</text>
+  <text x="46" y="310" font-family="sans-serif" font-size="13" fill="#222222">· rigid motions and coordinates</text>
+  <text x="46" y="330" font-family="sans-serif" font-size="13" fill="#222222">· theorems: lines, angles, shapes</text>
 
   <!-- strand 4 -->
   <rect x="270" y="248" width="206" height="120" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="373" y="274" text-anchor="middle" font-family="sans-serif" font-size="14.0" font-weight="bold" fill="#2b3a42">Data, Measurement &amp; Probability</text>
-  <text x="280" y="300" font-family="sans-serif" font-size="13" fill="#222222">· comparing distributions</text>
-  <text x="280" y="322" font-family="sans-serif" font-size="13" fill="#222222">· two-way tables and fairness</text>
+  <text x="373" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Data, Measurement</text>
+  <text x="373" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">&amp; Probability</text>
+  <text x="280" y="310" font-family="sans-serif" font-size="13" fill="#222222">· comparing distributions</text>
+  <text x="280" y="330" font-family="sans-serif" font-size="13" fill="#222222">· two-way tables and fairness</text>
 
   <!-- connecting words -->
   <text x="256" y="234" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#7a9e7e">model the world</text>

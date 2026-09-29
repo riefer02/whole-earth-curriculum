@@ -6,35 +6,35 @@
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Solve √(2x − 3) = x − 3</text>
 
   <!-- two column header -->
-  <rect x="36" y="64" width="280" height="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="176" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Step</text>
-  <rect x="316" y="64" width="160" height="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="396" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Property (why it is legal)</text>
+  <rect x="36" y="64" width="250" height="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="161" y="86" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Step</text>
+  <rect x="286" y="64" width="190" height="34" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="381" y="86" text-anchor="middle" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">Property (why it is legal)</text>
 
   <!-- rows -->
   <g font-family="sans-serif" font-size="14" fill="#222222">
     <text x="46" y="122">√(2x − 3) = x − 3</text>
-    <text x="326" y="122">given</text>
+    <text x="296" y="122">given</text>
     <line x1="36" y1="134" x2="476" y2="134" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
 
     <text x="46" y="158">2x − 3 = (x − 3)²</text>
-    <text x="326" y="158">square both sides</text>
+    <text x="296" y="158">square both sides</text>
     <line x1="36" y1="170" x2="476" y2="170" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
 
     <text x="46" y="194">2x − 3 = x² − 6x + 9</text>
-    <text x="326" y="194">expand (x − 3)²</text>
+    <text x="296" y="194">expand (x − 3)²</text>
     <line x1="36" y1="206" x2="476" y2="206" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
 
     <text x="46" y="230">x² − 8x + 12 = 0</text>
-    <text x="326" y="230">move all terms to one side</text>
+    <text x="296" y="230">move all terms to one side</text>
     <line x1="36" y1="242" x2="476" y2="242" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
 
     <text x="46" y="266">(x − 6)(x − 2) = 0</text>
-    <text x="326" y="266">factor</text>
+    <text x="296" y="266">factor</text>
     <line x1="36" y1="278" x2="476" y2="278" stroke="#4f6d7a" stroke-width="1" stroke-opacity="0.4"/>
 
     <text x="46" y="302">x = 6  or  x = 2</text>
-    <text x="326" y="302">zero-product property</text>
+    <text x="296" y="302">zero-product property</text>
   </g>
 
   <!-- check box -->

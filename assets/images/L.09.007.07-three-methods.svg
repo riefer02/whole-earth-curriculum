@@ -33,7 +33,7 @@
   <text x="414" y="96" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Formula</text>
   <text x="352" y="138" font-family="sans-serif" font-size="14" fill="#222222">2x² + 3x − 2 = 0</text>
   <text x="352" y="164" font-family="sans-serif" font-size="14" fill="#222222">a=2, b=3, c=−2</text>
-  <text x="352" y="190" font-family="sans-serif" font-size="12" fill="#222222">x = [−b ± √(b²−4ac)] / 2a</text>
+  <text x="352" y="190" font-family="sans-serif" font-size="11" fill="#222222">x = [−b ± √(b²−4ac)] / 2a</text>
   <text x="352" y="216" font-family="sans-serif" font-size="14" fill="#222222">x = ½ or x = −2</text>
   <text x="352" y="254" font-family="sans-serif" font-size="13" fill="#4f6d7a">works for ANY</text>
   <text x="352" y="274" font-family="sans-serif" font-size="13" fill="#4f6d7a">ax² + bx + c = 0</text>
