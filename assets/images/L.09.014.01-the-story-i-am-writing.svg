@@ -29,7 +29,7 @@
   <path d="M452 188 L456 206 L474 208 L458 219 L461 237 L452 226 L443 237 L446 219 L430 208 L448 206 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5" stroke-linejoin="round"/>
   <path d="M404 268 q48 16 96 0" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-linecap="round"/>
   <text x="452" y="258" text-anchor="middle" font-family="sans-serif" font-size="12.7" font-weight="bold" fill="#2b3a42">hoped-for future</text>
-  <text x="452" y="276" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">who I am becoming</text>
+  <text x="452" y="292" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">who I am becoming</text>
 
   <!-- the thread label -->
   <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">one thread runs through all three</text>
