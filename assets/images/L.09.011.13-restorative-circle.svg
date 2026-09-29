@@ -20,11 +20,11 @@
     <text x="256" y="84" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">person harmed</text>
 
     <circle cx="400" cy="200" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="430" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">person</text>
-    <text x="430" y="210" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">responsible</text>
+    <text x="438" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">person</text>
+    <text x="438" y="210" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">responsible</text>
 
     <circle cx="400" cy="316" r="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="432" y="324" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">community</text>
+    <text x="440" y="324" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">community</text>
 
     <circle cx="256" cy="410" r="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">supporters</text>

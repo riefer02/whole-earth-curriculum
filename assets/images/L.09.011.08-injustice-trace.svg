@@ -37,7 +37,7 @@
   <path d="M357 261 L364 268 L371 261" fill="none" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- combine note -->
-  <text x="364" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">combine</text>
+  <text x="398" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">combine</text>
 
   <!-- box 4: outcome -->
   <rect x="304" y="272" width="120" height="84" rx="10" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
@@ -49,8 +49,8 @@
   <path d="M304 314 L180 314 L180 262 L120 262" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
   <path d="M128 255 L120 262 L128 269" fill="none" stroke="#4f6d7a" stroke-width="2"/>
 
-  <text x="120" y="246" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">where could the</text>
-  <text x="120" y="262" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">loop be broken?</text>
+  <text x="242" y="288" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">where could the</text>
+  <text x="242" y="304" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">loop be broken?</text>
 
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#4f6d7a">To change the outcome, change a rule, a structure, or the repeated actions —</text>
   <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">not only the blame.</text>
