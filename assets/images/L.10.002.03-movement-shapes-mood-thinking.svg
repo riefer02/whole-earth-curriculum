@@ -46,9 +46,9 @@
   <path d="M250 398 L256 410 L262 398" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- Body box -->
-  <rect x="186" y="414" width="140" height="66" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-  <path d="M216 430 Q216 414 234 414 Q252 414 252 430 Q252 442 252 448 L216 448 Q216 442 216 430 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="292" y="436" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">stronger body</text>
+  <rect x="166" y="414" width="180" height="66" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
+  <path d="M202 430 Q202 414 220 414 Q238 414 238 430 Q238 442 238 448 L202 448 Q202 442 202 430 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="297" y="436" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">stronger body</text>
 
   <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">These follow from real changes in the brain and body during movement.</text>
 </svg>
