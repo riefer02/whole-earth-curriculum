@@ -41,7 +41,7 @@
 
   <!-- arrow down -->
   <line x1="222" y1="235" x2="268" y2="235" stroke="#4f6d7a" stroke-width="4"/>
-  <line x1="245" y1="115" x2="222" y2="200" stroke="#4f6d7a" stroke-width="4"/>
+  <line x1="243" y1="152" x2="222" y2="200" stroke="#4f6d7a" stroke-width="4"/>
   <path d="M 230 188 L 224 202 L 240 198" fill="none" stroke="#4f6d7a" stroke-width="3"/>
 
   <!-- result -->

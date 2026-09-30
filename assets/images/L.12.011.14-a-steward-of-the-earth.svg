@@ -21,7 +21,7 @@
   <!-- east -->
   <line x1="256" y1="270" x2="406" y2="270" stroke="#2b3a42" stroke-width="2"/>
   <path d="M 398 262 L 414 270 L 398 278" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="420" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#436b47" font-weight="bold">honest media</text>
+  <text x="438" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#436b47" font-weight="bold">honest media</text>
 
   <!-- south -->
   <line x1="256" y1="270" x2="256" y2="420" stroke="#2b3a42" stroke-width="2"/>
@@ -29,9 +29,9 @@
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a5a1a" font-weight="bold">the living world</text>
 
   <!-- west -->
-  <line x1="256" y1="270" x2="106" y2="270" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M 114 262 L 98 270 L 114 278" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="92" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">shared action</text>
+  <line x1="256" y1="270" x2="140" y2="270" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 148 262 L 132 270 L 148 278" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <text x="84" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">shared action</text>
 
   <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">individually and with others, for all life.</text>
 </svg>

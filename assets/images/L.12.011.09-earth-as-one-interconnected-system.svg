@@ -51,8 +51,9 @@
   <path d="M 401 290 L 407 302 L 413 290" fill="none" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- greenhouse effect -->
-  <rect x="120" y="400" width="272" height="46" rx="6" fill="none" stroke="#4f6d7a" stroke-width="2"/>
-  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">greenhouse effect: gases trap heat, keeping Earth warm for life</text>
+  <rect x="120" y="392" width="272" height="64" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42" font-weight="bold">greenhouse effect: gases trap heat,</text>
+  <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#2b3a42" font-weight="bold">keeping Earth warm for life</text>
 
   <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Matter is recycled, never made new.</text>
 </svg>

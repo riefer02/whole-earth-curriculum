@@ -15,21 +15,21 @@
   </g>
   <text x="256" y="188" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">posts · headlines · videos · forwards</text>
 
+  <!-- funnel sides (behind filters) -->
+  <line x1="140" y1="208" x2="216" y2="410" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="372" y1="208" x2="296" y2="410" stroke="#4f6d7a" stroke-width="2"/>
+
   <!-- filter 1 -->
-  <rect x="120" y="208" width="272" height="44" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <rect x="120" y="208" width="272" height="44" rx="6" fill="#fdfbf7" stroke="#e0a458" stroke-width="3"/>
   <text x="256" y="236" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">pause</text>
 
   <!-- filter 2 -->
-  <rect x="120" y="268" width="272" height="44" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <rect x="120" y="268" width="272" height="44" rx="6" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="3"/>
   <text x="256" y="296" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">check the source</text>
 
   <!-- filter 3 -->
-  <rect x="120" y="328" width="272" height="44" rx="6" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <rect x="120" y="328" width="272" height="44" rx="6" fill="#fdfbf7" stroke="#6b93b6" stroke-width="3"/>
   <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">seek more than one view</text>
-
-  <!-- funnel sides -->
-  <line x1="140" y1="208" x2="216" y2="410" stroke="#4f6d7a" stroke-width="2"/>
-  <line x1="372" y1="208" x2="296" y2="410" stroke="#4f6d7a" stroke-width="2"/>
 
   <!-- out stream -->
   <line x1="256" y1="410" x2="256" y2="468" stroke="#2b3a42" stroke-width="4"/>
