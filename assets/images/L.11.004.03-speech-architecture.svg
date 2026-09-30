@@ -27,16 +27,17 @@
   <path d="M256 218 v14" stroke="#4f6d7a" stroke-width="2" fill="none"/>
 
   <!-- Counterargument + response -->
-  <rect x="90" y="232" width="332" height="44" rx="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="259" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">STRONGEST COUNTERARGUMENT — the best objection</text>
-  <rect x="90" y="286" width="332" height="44" rx="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="313" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">HONEST RESPONSE — your answer to it</text>
+  <rect x="90" y="232" width="332" height="52" rx="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">STRONGEST COUNTERARGUMENT</text>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">— the best objection</text>
+  <rect x="90" y="294" width="332" height="44" rx="9" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="321" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">HONEST RESPONSE — your answer to it</text>
 
   <!-- Bracket -->
-  <path d="M70 254 h14 v76 h-14" stroke="#7a9e7e" stroke-width="3" fill="none"/>
-  <text x="52" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a" transform="rotate(-90 52 300)">steelman, not straw man</text>
+  <path d="M70 248 h14 v78 h-14" stroke="#7a9e7e" stroke-width="3" fill="none"/>
+  <text x="52" y="287" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a" transform="rotate(-90 52 287)">steelman, not straw man</text>
 
-  <path d="M256 330 v14" stroke="#4f6d7a" stroke-width="2" fill="none"/>
+  <path d="M256 338 v6" stroke="#4f6d7a" stroke-width="2" fill="none"/>
   <rect x="140" y="344" width="232" height="40" rx="20" fill="#7a9e7e"/>
   <text x="256" y="369" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#fdfbf7">CONCLUSION</text>
 

@@ -14,7 +14,7 @@
   <!-- Author figure -->
   <circle cx="256" cy="238" r="12" fill="#dce9f0" stroke="#2b3a42" stroke-width="2"/>
   <path d="M256 250 q-14 14 0 28 q14 -14 0 -28 z" fill="#dce9f0" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="298" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">author</text>
+  <text x="256" y="314" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">author</text>
 
   <!-- Ring labels -->
   <text x="256" y="202" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#3a5a6a">language &amp; culture</text>

@@ -29,8 +29,8 @@
   <path d="M302 180 l-8 -6 M302 180 l8 -6" stroke="#e0a458" stroke-width="2" fill="none"/>
 
   <text x="230" y="118" font-family="sans-serif" font-size="12" fill="#3a5a3a">gained</text>
-  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">lost</text>
-  <text x="286" y="118" font-family="sans-serif" font-size="12" fill="#3a5a6a">changed</text>
+  <text x="256" y="136" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">lost</text>
+  <text x="256" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a6a">changed</text>
 
   <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The second language is a second home for the idea —</text>
   <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">not a test you pass or fail.</text>
