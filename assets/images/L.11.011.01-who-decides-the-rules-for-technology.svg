@@ -27,8 +27,8 @@
   <!-- Arrows -->
   <line x1="256" y1="138" x2="256" y2="356" stroke="#2b3a42" stroke-width="2.5"/>
   <polygon points="256,356 250,344 262,344" fill="#2b3a42"/>
-  <line x1="126" y1="256" x2="180" y2="388" stroke="#2b3a42" stroke-width="2.5"/>
-  <polygon points="180,388 172,376 188,378" fill="#2b3a42"/>
-  <line x1="386" y1="256" x2="332" y2="388" stroke="#2b3a42" stroke-width="2.5"/>
-  <polygon points="332,388 340,376 324,378" fill="#2b3a42"/>
+  <line x1="126" y1="256" x2="180" y2="362" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="180,362 172,350 188,352" fill="#2b3a42"/>
+  <line x1="386" y1="256" x2="332" y2="362" stroke="#2b3a42" stroke-width="2.5"/>
+  <polygon points="332,362 340,350 324,352" fill="#2b3a42"/>
 </svg>
