@@ -14,12 +14,12 @@
   <text x="195" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#2b3a42">wins</text>
   <text x="195" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#2b3a42">perfect</text>
   <!-- right column -->
-  <rect x="262" y="112" width="110" height="250" rx="8" fill="#e0a458" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="256" y="112" width="122" height="250" rx="8" fill="#e0a458" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
   <text x="317" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">what it</text>
   <text x="317" y="158" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">hides</text>
-  <text x="317" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#2b3a42">the losses</text>
-  <text x="317" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#2b3a42">ordinary</text>
-  <text x="317" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#2b3a42">the struggle</text>
+  <text x="317" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#2b3a42">the losses</text>
+  <text x="317" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#2b3a42">ordinary</text>
+  <text x="317" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#2b3a42">the struggle</text>
   <!-- keep space -->
   <rect x="90" y="410" width="332" height="72" rx="12" fill="#7a9e7e" opacity="0.25" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="438" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">what I keep</text>
