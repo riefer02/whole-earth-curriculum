@@ -21,7 +21,7 @@
   <!-- Frame 3 -->
   <rect x="310" y="130" width="90" height="110" fill="#6b93b6" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="355" y="182" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">3</text>
-  <text x="355" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the question</text>
+  <text x="355" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a" stroke="#ffffff" stroke-width="4" paint-order="stroke">the question</text>
 
   <!-- Frame 4 -->
   <rect x="430" y="130" width="0" height="0" fill="none"/>
@@ -35,7 +35,7 @@
   <!-- Frame 4 (last, centered) -->
   <rect x="250" y="285" width="90" height="110" fill="#4f6d7a" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="295" y="337" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222" font-weight="bold">4</text>
-  <text x="295" y="417" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">leave with this</text>
+  <text x="295" y="424" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">leave with this</text>
 
   <path d="M 355 200 C 340 240, 330 260, 340 285" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-dasharray="7 5"/>
   <polygon points="340,285 336,272 330,281" fill="#2b3a42"/>

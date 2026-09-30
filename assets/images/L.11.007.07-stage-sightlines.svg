@@ -16,14 +16,14 @@
   <!-- Performer marks -->
   <circle cx="256" cy="105" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="256" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">1</text>
-  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">center</text>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a" stroke="#ffffff" stroke-width="4" paint-order="stroke">center</text>
 
   <circle cx="120" cy="185" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="120" y="190" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">2</text>
 
   <!-- Audience -->
   <rect x="60" y="320" width="392" height="60" fill="#4f6d7a" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">audience</text>
+  <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">audience</text>
 
   <!-- Audience marks -->
   <circle cx="150" cy="350" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
