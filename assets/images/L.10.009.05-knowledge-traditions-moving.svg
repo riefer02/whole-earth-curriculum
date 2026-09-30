@@ -15,15 +15,15 @@
     <circle cx="120" cy="180" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <text x="120" y="184">China</text>
     <circle cx="256" cy="140" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="144">Baghdad</text>
+    <text x="256" y="144" font-size="11">Baghdad</text>
     <circle cx="392" cy="176" r="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <text x="392" y="180">Europe</text>
     <circle cx="256" cy="360" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <text x="256" y="360">India</text>
     <text x="256" y="382">zero · decimal</text>
     <circle cx="120" cy="360" r="30" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="120" y="360">Timbuktu</text>
-    <text x="120" y="382">manuscripts</text>
+    <text x="120" y="362">Timbuktu</text>
+    <text x="120" y="404">manuscripts</text>
   </g>
   <!-- Arrows -->
   <g stroke="#2b3a42" stroke-width="2" fill="none">
@@ -40,7 +40,7 @@
   <g font-family="sans-serif" font-size="12" fill="#4f6d7a">
     <text x="196" y="112" text-anchor="middle">paper →</text>
     <text x="360" y="120" text-anchor="middle">paper →</text>
-    <text x="296" y="250" text-anchor="middle">zero &amp; decimal →</text>
+    <text x="308" y="250" text-anchor="middle" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">zero &amp; decimal →</text>
   </g>
   <!-- Credit note -->
   <rect x="40" y="420" width="432" height="70" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>

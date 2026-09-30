@@ -18,12 +18,15 @@
     <path d="M 190 110 A 88 88 0 0 1 210 190" fill="none"/>
     <path d="M 200 150 l 18 8 -18 6" fill="none"/>
   </g>
-  <text x="136" y="150" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">seasons · festivals · ancestors</text>
+  <text x="136" y="144" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">seasons · festivals</text>
+  <text x="136" y="160" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">· ancestors ·</text>
   <text x="136" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">The past returns each cycle</text>
   <text x="136" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and stays near — told and</text>
   <text x="136" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">re-told, alive and shifting.</text>
-  <text x="136" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">oral traditions · seasonal calendars</text>
-  <text x="136" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">many Indigenous ways of remembering</text>
+  <text x="136" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">oral traditions · seasonal</text>
+  <text x="136" y="408" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">calendars</text>
+  <text x="136" y="426" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">many Indigenous ways</text>
+  <text x="136" y="442" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">of remembering</text>
   <!-- Right panel: linear -->
   <rect x="264" y="24" width="224" height="464" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <text x="376" y="56" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">LINEAR TIME</text>
@@ -44,7 +47,9 @@
   <text x="376" y="312" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Time moves forward from a</text>
   <text x="376" y="334" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">chosen beginning; the past is</text>
   <text x="376" y="356" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"behind," fixed in a record.</text>
-  <text x="376" y="400" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">era-dated calendars · written annals</text>
-  <text x="376" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">dynastic histories · dated records</text>
-  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Neither is better — each keeps something and lets something fade.</text>
+  <text x="376" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">era-dated calendars ·</text>
+  <text x="376" y="408" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">written annals</text>
+  <text x="376" y="426" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">dynastic histories ·</text>
+  <text x="376" y="442" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">dated records</text>
+  <text x="256" y="504" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Neither is better — each keeps some and lets some fade.</text>
 </svg>
