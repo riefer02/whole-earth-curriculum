@@ -21,8 +21,8 @@
   <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2. Microwave background — a glow in every direction.</text>
   <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3. Light-element abundances — hydrogen and helium.</text>
 
-  <rect x="96" y="328" width="320" height="40" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
-  <text x="256" y="354" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">The microwave background favored the Big Bang.</text>
+  <rect x="76" y="328" width="360" height="40" rx="8" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <text x="256" y="354" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">The microwave background favored the Big Bang.</text>
 
   <!-- deep time -->
   <line x1="50" y1="412" x2="462" y2="412" stroke="#2b3a42" stroke-width="3"/>

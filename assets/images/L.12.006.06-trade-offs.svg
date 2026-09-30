@@ -24,9 +24,9 @@
   <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">1. Who gains?  2. Who loses?</text>
   <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">3. Over what time?  4. Can it be reversed?</text>
 
-  <rect x="96" y="336" width="320" height="50" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2"/>
-  <text x="256" y="367" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Verdict: which costs are we willing to bear —</text>
-  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">and who bears them?</text>
+  <rect x="76" y="334" width="360" height="76" rx="8" fill="none" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#2b3a42" font-weight="bold">Verdict: which costs are we willing to bear —</text>
+  <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#2b3a42" font-weight="bold">and who bears them?</text>
 
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A hidden cost is a cost imposed without consent.</text>
 </svg>
