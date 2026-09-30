@@ -25,7 +25,7 @@
 
   <line x1="70" y1="284" x2="180" y2="284" stroke="#2b3a42" stroke-width="2"/>
   <text x="188" y="289" font-family="sans-serif" font-size="14" fill="#222222">10&#8313; = 1,000,000,000</text>
-  <text x="300" y="289" font-family="sans-serif" font-size="12" fill="#4f6d7a">the planet&#8217;s people (billions)</text>
+  <text x="325" y="289" font-family="sans-serif" font-size="12" fill="#4f6d7a">planet&#8217;s people (billions)</text>
 
   <!-- side rail -->
   <line x1="70" y1="92" x2="70" y2="284" stroke="#e0a458" stroke-width="4"/>
