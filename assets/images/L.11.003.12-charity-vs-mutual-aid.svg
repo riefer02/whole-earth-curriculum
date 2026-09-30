@@ -49,8 +49,8 @@
     <path d="M416 316 l6 12 l4 -12 z"/>
     <path d="M348 334 l12 6 l-12 6 z"/>
   </g>
-  <text x="378" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">we meet needs</text>
-  <text x="378" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">as equals</text>
+  <text x="378" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" stroke="#ffffff" stroke-width="5" paint-order="stroke">we meet needs</text>
+  <text x="378" y="318" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" stroke="#ffffff" stroke-width="5" paint-order="stroke">as equals</text>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">Mutual aid shares both the giving and the deciding.</text>
 </svg>
