@@ -8,7 +8,7 @@
   <path d="M232 178 L238 300" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
   <path d="M268 178 L274 300" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
   <path d="M204 232 L308 232" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="6 5"/>
-  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">mended, not thrown away</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#2b3a42">mended, not thrown away</text>
   <!-- step 1 -->
   <rect x="120" y="46" width="150" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="195" y="70" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">what happened</text>

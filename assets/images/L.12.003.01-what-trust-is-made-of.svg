@@ -14,7 +14,7 @@
   <rect x="132" y="270" width="248" height="64" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="256" y="309" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">repair</text>
   <!-- crack line -->
-  <path d="M228 272 L214 318 L238 332" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M202 272 L190 316 L212 330" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- block 4 mutual respect -->
   <rect x="132" y="346" width="248" height="64" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="256" y="385" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">mutual respect</text>
