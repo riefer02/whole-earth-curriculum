@@ -34,8 +34,8 @@
   <text x="256" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Workers far from us make what we use.</text>
   <text x="256" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Fairness across borders needs coordination.</text>
   <!-- small figures under two boxes -->
-  <circle cx="63" cy="320" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="165" cy="320" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="369" cy="320" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="63" cy="300" r="12" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="165" cy="300" r="12" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="369" cy="300" r="12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4f6d7a">(figures mark where workers' hands do the work)</text>
 </svg>

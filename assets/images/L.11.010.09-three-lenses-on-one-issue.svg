@@ -14,13 +14,15 @@
 
   <rect x="194" y="122" width="124" height="300" rx="10" fill="#7a9e7e" opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222" font-weight="bold">equality</text>
-  <text x="256" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">how are benefits</text>
-  <text x="256" y="216" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">and burdens shared?</text>
+  <text x="256" y="192" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#222222">how are benefits</text>
+  <text x="256" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#222222">and burdens</text>
+  <text x="256" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#222222">shared?</text>
 
   <rect x="328" y="122" width="124" height="300" rx="10" fill="#e0a458" opacity="0.45" stroke="#2b3a42" stroke-width="2"/>
   <text x="390" y="154" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222" font-weight="bold">care</text>
-  <text x="390" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">whose needs and</text>
-  <text x="390" y="216" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#222222">relationships are met?</text>
+  <text x="390" y="192" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#222222">whose needs and</text>
+  <text x="390" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#222222">relationships</text>
+  <text x="390" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="12.5" fill="#222222">are met?</text>
   <!-- note -->
   <text x="256" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Each lens reveals something the others miss.</text>
 </svg>

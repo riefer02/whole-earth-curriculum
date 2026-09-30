@@ -12,13 +12,13 @@
   <text x="256" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(eudaimonia, ancient Greece)</text>
   <!-- left spoke -->
   <line x1="182" y1="250" x2="96" y2="250" stroke="#2b3a42" stroke-width="2"/>
-  <text x="139" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">duty &amp; harmony</text>
-  <text x="139" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(dharma, South Asia)</text>
+  <text x="115" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">duty &amp; harmony</text>
+  <text x="115" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">(dharma, South Asia)</text>
   <!-- right spoke -->
   <line x1="330" y1="250" x2="416" y2="250" stroke="#2b3a42" stroke-width="2"/>
-  <text x="373" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">freedom from</text>
-  <text x="373" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">suffering</text>
-  <text x="373" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4f6d7a">(nirvana, Buddhist)</text>
+  <text x="397" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">freedom from</text>
+  <text x="397" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">suffering</text>
+  <text x="397" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">(nirvana, Buddhist)</text>
   <!-- bottom spoke -->
   <line x1="256" y1="324" x2="256" y2="382" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="406" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#222222">benevolence</text>
