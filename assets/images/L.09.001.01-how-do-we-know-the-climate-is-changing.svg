@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-001-01-how-do-we-know-the-climate-is-changing desc-L-09-001-01-how-do-we-know-the-climate-is-changing">
+  <title id="title-L-09-001-01-how-do-we-know-the-climate-is-changing">Read the data, judge the source</title>
+  <desc id="desc-L-09-001-01-how-do-we-know-the-climate-is-changing">Two small line graphs side by side, one labeled "temperature" and one labeled "CO2 in the air," each showing a line rising over time from left to right. Below, three labeled boxes ask the source questions: who made it, how do they know, and what do they gain or lose. A footer reads "state the claim — and its limits." Labels and shapes carry the meaning so the diagram prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Read the Data, Judge the Source</text>
+  <!-- Left graph: temperature -->
+  <rect x="28" y="66" width="220" height="170" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="138" y="92" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">temperature</text>
+  <line x1="52" y1="200" x2="224" y2="200" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="52" y1="200" x2="52" y2="110" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M52 188 Q110 182 150 162 T224 122" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <text x="138" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rising trend</text>
+  <!-- Right graph: CO2 -->
+  <rect x="264" y="66" width="220" height="170" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="374" y="92" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">CO2 in the air</text>
+  <line x1="288" y1="200" x2="460" y2="200" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="288" y1="200" x2="288" y2="110" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M288 190 Q350 184 390 160 T460 128" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <text x="374" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rising trend</text>
+  <!-- Three source questions -->
+  <rect x="28" y="264" width="140" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="98" y="292" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">1 · who made it?</text>
+  <text x="98" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">author and sponsor</text>
+  <text x="98" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">named or hidden?</text>
+  <rect x="186" y="264" width="140" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">2 · how so?</text>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">data shown, or only</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">assertion?</text>
+  <rect x="344" y="264" width="140" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="414" y="292" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">3 · who gains?</text>
+  <text x="414" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what do they gain</text>
+  <text x="414" y="340" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">or lose?</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">state the claim — and its limits</text>
+</svg>

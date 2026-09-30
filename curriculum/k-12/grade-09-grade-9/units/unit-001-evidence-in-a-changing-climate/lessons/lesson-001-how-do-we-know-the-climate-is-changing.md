@@ -48,6 +48,15 @@ context_variants:
     note: A learner studies the graphs, writes their claim, then evaluates one source using the three questions
   - context: outdoor-only
     note: Observe local weather or a long-lived plant/tree as a doorway to "how do we know what a normal year is?"
+assets:
+  - path: assets/images/L.09.001.01-how-do-we-know-the-climate-is-changing.svg
+    alt: >-
+      Two small line graphs, one labeled temperature and one labeled CO2 in the
+      air, each showing a line rising over time. Below, three boxes ask the
+      source questions: who made it, how so, and who gains. A footer reads
+      state the claim and its limits. The diagram prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 60
 summary: >-
   Learners read two real data trends — global temperature and atmospheric CO₂ — and
