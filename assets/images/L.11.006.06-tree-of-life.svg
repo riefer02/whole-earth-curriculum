@@ -14,7 +14,7 @@
   <path d="M 370 210 C 370 190 330 180 320 150" stroke="#2b3a42" stroke-width="5" fill="none"/>
   <path d="M 370 210 C 370 190 410 180 424 150" stroke="#2b3a42" stroke-width="5" fill="none"/>
 
-  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">common ancestor</text>
+  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">common ancestor</text>
 
   <!-- Homologous structures group -->
   <rect x="40" y="90" width="120" height="120" fill="#7a9e7e" fill-opacity="0.15" stroke="#2b3a42" stroke-width="2" rx="6"/>
@@ -27,7 +27,7 @@
   <text x="380" y="110" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">wing</text>
   <text x="380" y="126" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(bat)</text>
 
-  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">homologous structures — one plan, modified</text>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">homologous structures — one plan, modified</text>
 
   <!-- Inset: fossil and DNA -->
   <rect x="20" y="300" width="210" height="120" fill="#e0a458" fill-opacity="0.12" stroke="#2b3a42" stroke-width="2" rx="6"/>
