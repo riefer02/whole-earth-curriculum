@@ -35,9 +35,9 @@
     <rect x="360" y="300" width="48" height="40" rx="6"/>
   </g>
   <text x="384" y="122" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">make</text>
-  <text x="314" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">use</text>
-  <text x="454" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">repair</text>
-  <text x="384" y="326" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">reuse</text>
+  <text x="314" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" stroke="#7a9e7e" stroke-width="4" paint-order="stroke">use</text>
+  <text x="454" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" stroke="#7a9e7e" stroke-width="4" paint-order="stroke">repair</text>
+  <text x="384" y="326" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" stroke="#7a9e7e" stroke-width="4" paint-order="stroke">reuse</text>
   <g stroke="#2b3a42" stroke-width="3" fill="none">
     <path d="M384 330 a90 90 0 0 1 74 -58"/>
     <path d="M384 136 a90 90 0 0 1 -70 70"/>

@@ -5,14 +5,14 @@
   <circle cx="256" cy="256" r="180" fill="none" stroke="#2b3a42" stroke-width="3"/>
   <line x1="256" y1="76" x2="256" y2="436" stroke="#2b3a42" stroke-width="2"/>
   <line x1="76" y1="256" x2="436" y2="256" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">technology</text>
-  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">&amp; society</text>
-  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">ecology</text>
-  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">&amp; systems</text>
-  <text x="122" y="250" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">media</text>
-  <text x="122" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">literacy</text>
-  <text x="390" y="250" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">stewardship</text>
-  <text x="390" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">&amp; solutions</text>
+  <text x="256" y="150" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">technology</text>
+  <text x="256" y="172" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">&amp; society</text>
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">ecology</text>
+  <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">&amp; systems</text>
+  <text x="122" y="250" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">media</text>
+  <text x="122" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">literacy</text>
+  <text x="390" y="250" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">stewardship</text>
+  <text x="390" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">&amp; solutions</text>
   <circle cx="256" cy="256" r="70" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="248" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">neither</text>
   <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">worship</text>
