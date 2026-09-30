@@ -18,8 +18,8 @@
     <rect x="368" y="176" width="128" height="44" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="432" y="204">2. name values</text>
 
-    <rect x="344" y="336" width="128" height="44" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="408" y="364">3. consider options</text>
+    <rect x="330" y="336" width="156" height="44" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="408" y="364" font-size="14">3. consider options</text>
 
     <rect x="156" y="336" width="128" height="44" rx="9" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="220" y="364">4. choose</text>
@@ -32,13 +32,13 @@
   <g fill="none" stroke="#2b3a42" stroke-width="3">
     <path d="M256 140 L256 172 L368 172 L368 214"/>
     <path d="M424 220 L424 300 L408 300 L408 332"/>
-    <path d="M360 358 L300 358 L220 358"/>
+    <path d="M360 372 L220 372"/>
     <path d="M160 358 L120 358 L120 262 L80 262 L80 224"/>
     <path d="M80 176 L120 176 L120 118 L206 118"/>
   </g>
   <path d="M368 214 l-8 8 l16 0 z" fill="#2b3a42"/>
   <path d="M408 332 l-8 8 l16 0 z" fill="#2b3a42"/>
-  <path d="M220 358 l-8 8 l16 0 z" fill="#2b3a42"/>
+  <path d="M220 372 l-8 8 l16 0 z" fill="#2b3a42"/>
   <path d="M80 224 l-8 8 l16 0 z" fill="#2b3a42"/>
   <path d="M206 118 l-8 8 l16 0 z" fill="#2b3a42"/>
 

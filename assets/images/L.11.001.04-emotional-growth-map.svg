@@ -35,7 +35,7 @@
   <g>
     <path d="M346 320 q0 -26 0 -40" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
     <path d="M346 300 q14 2 22 -14 M346 306 q-14 2 -22 -14" fill="none" stroke="#7a9e7e" stroke-width="3" stroke-linecap="round"/>
-    <path d="M336 330 h20" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M334 320 h24" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
   </g>
   <text x="380" y="340" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">an area of</text>
   <text x="380" y="360" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">growth</text>
