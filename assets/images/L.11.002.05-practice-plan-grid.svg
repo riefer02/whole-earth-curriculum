@@ -29,8 +29,8 @@
     <text x="391" y="104">Su</text>
   </g>
 
-  <text x="256" y="138" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle">practice (breath / move / notice)</text>
-  <text x="256" y="288" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle">why it works (in my own words)</text>
+  <text x="256" y="138" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">practice (breath / move / notice)</text>
+  <text x="256" y="288" font-family="sans-serif" font-size="16" fill="#4f6d7a" text-anchor="middle" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">why it works (in my own words)</text>
 
   <!-- sample check marks in a few cells -->
   <g stroke="#7a9e7e" stroke-width="5" stroke-linecap="round">

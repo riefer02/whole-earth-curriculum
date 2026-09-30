@@ -26,8 +26,9 @@
   <path d="M 257 200 q 26 -14 40 -4" stroke="#2b3a42" stroke-width="7" fill="none" stroke-linecap="round"/>
   <circle cx="217" cy="196" r="5" fill="#2b3a42"/>
   <circle cx="297" cy="196" r="5" fill="#2b3a42"/>
-  <text x="257" y="330" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42" text-anchor="middle">Qigong / Tai chi</text>
-  <text x="257" y="350" font-family="sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">China</text>
+  <text x="257" y="320" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42" text-anchor="middle">Qigong /</text>
+  <text x="257" y="338" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42" text-anchor="middle">Tai chi</text>
+  <text x="257" y="356" font-family="sans-serif" font-size="13" fill="#4f6d7a" text-anchor="middle">China</text>
 
   <!-- panel 3 martial arts -->
   <rect x="340" y="70" width="146" height="300" rx="12" fill="#f6ede2" stroke="#2b3a42" stroke-width="3"/>

@@ -42,7 +42,7 @@
   </g>
   <g font-family="sans-serif" font-size="13" fill="#2b3a42" text-anchor="middle">
     <text x="75" y="304">subsidies &amp;</text><text x="75" y="322">land rules</text>
-    <text x="178" y="304">food labeling</text><text x="178" y="322">&amp; marketing</text>
+    <text x="178" y="298" font-size="12">food</text><text x="178" y="314" font-size="12">labeling &amp;</text><text x="178" y="330" font-size="12">marketing</text>
     <text x="286" y="304">school &amp;</text><text x="286" y="322">public meals</text>
     <text x="396" y="304">zoning &amp;</text><text x="396" y="322">food access</text>
   </g>
