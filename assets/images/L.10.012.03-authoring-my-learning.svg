@@ -5,24 +5,25 @@
   <g font-family="sans-serif" font-size="22" fill="#222222" text-anchor="middle">
     <!-- four nodes -->
     <g>
-      <rect x="70" y="70" width="150" height="72" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
-      <text x="145" y="100">choose a goal</text>
-      <text x="145" y="126" font-size="17">(what do I want to learn?)</text>
+      <rect x="70" y="70" width="150" height="96" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
+      <text x="145" y="100" font-size="17">choose a goal</text>
+      <text x="145" y="124" font-size="13">(what do I</text>
+      <text x="145" y="142" font-size="13">want to learn?)</text>
     </g>
     <g>
-      <rect x="292" y="70" width="150" height="72" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
-      <text x="367" y="100">find resources</text>
+      <rect x="292" y="70" width="150" height="96" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
+      <text x="367" y="100" font-size="17">find resources</text>
       <text x="367" y="126" font-size="12">(people, places, tools)</text>
     </g>
     <g>
       <rect x="292" y="300" width="150" height="72" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
-      <text x="367" y="330">check progress</text>
+      <text x="367" y="330" font-size="17">check progress</text>
       <text x="367" y="356" font-size="14.2">(how will I know?)</text>
     </g>
     <g>
       <rect x="70" y="300" width="150" height="72" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
-      <text x="145" y="330">adjust &amp; go on</text>
-      <text x="145" y="356" font-size="17">(what will I change?)</text>
+      <text x="145" y="330" font-size="17">adjust &amp; go on</text>
+      <text x="145" y="356" font-size="13">(what will I change?)</text>
     </g>
   </g>
   <!-- arrows -->
@@ -32,15 +33,15 @@
         <path d="M0,0 L8,3 L0,6 z" fill="#2b3a42"/>
       </marker>
     </defs>
-    <line x1="220" y1="106" x2="286" y2="106"/>
-    <line x1="367" y1="142" x2="367" y2="294"/>
+    <line x1="220" y1="118" x2="286" y2="118"/>
+    <line x1="367" y1="172" x2="367" y2="294"/>
     <line x1="286" y1="336" x2="226" y2="336"/>
-    <line x1="145" y1="294" x2="145" y2="148"/>
+    <line x1="145" y1="294" x2="145" y2="172"/>
   </g>
   <!-- person holding pencil -->
   <g stroke="#2b3a42" stroke-width="3" fill="none">
-    <circle cx="186" cy="248" r="18" fill="#c98d5f"/>
-    <path d="M 186 266 q -3 20 -20 22 l 0 34 q 0 5 5 5 l 30 0 q 5 0 5 -5 l 0 -34 q -17 -2 -20 -22 z" fill="#e8c9a8"/>
+    <circle cx="186" cy="208" r="18" fill="#c98d5f"/>
+    <path d="M 186 226 q -3 20 -20 22 l 0 34 q 0 5 5 5 l 30 0 q 5 0 5 -5 l 0 -34 q -17 -2 -20 -22 z" fill="#e8c9a8"/>
   </g>
-  <line x1="206" y1="250" x2="240" y2="270" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="206" y1="210" x2="240" y2="230" stroke="#2b3a42" stroke-width="3.5" stroke-linecap="round"/>
 </svg>
