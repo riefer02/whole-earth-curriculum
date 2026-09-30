@@ -3,7 +3,7 @@
   <desc id="desc-L-10-010-06-climate-burden">On the left, tall smokestacks of high-emitting places. On the right, low-lying and exposed communities with floods, heat, and drought. Arrows of responsibility run from left to right, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
-    <text x="130" y="36" font-size="15" font-weight="bold" fill="#2b3a42">who emitted most</text>
+    <text x="130" y="36" font-size="15" font-weight="bold" fill="#2b3a42" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">who emitted most</text>
     <text x="386" y="36" font-size="12.3" font-weight="bold" fill="#2b3a42">who is harmed most</text>
     <!-- left: smokestacks -->
     <g stroke="#2b3a42" stroke-width="2" fill="#4f6d7a">

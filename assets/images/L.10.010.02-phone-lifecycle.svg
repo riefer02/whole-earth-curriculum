@@ -44,14 +44,14 @@
     <line x1="30" y1="196" x2="482" y2="196" stroke="#2b3a42" stroke-width="2"/>
     <!-- benefit labels -->
     <g font-size="12" fill="#2b3a42">
-      <text x="30" y="218" font-weight="bold">benefits</text>
+      <text x="38" y="218" font-weight="bold">benefits</text>
       <text x="76" y="238">jobs, materials</text>
       <text x="180" y="238">work, wages</text>
       <text x="290" y="238">connect, learn, pay</text>
       <text x="410" y="238">materials recovered</text>
     </g>
     <g font-size="12" fill="#2b3a42">
-      <text x="30" y="268" font-weight="bold">harms</text>
+      <text x="38" y="268" font-weight="bold">harms</text>
       <text x="76" y="288">mining hurts people</text>
       <text x="180" y="288">long hours, risk</text>
       <text x="290" y="288">energy, attention</text>

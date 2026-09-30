@@ -11,7 +11,7 @@
   <!-- waterline -->
   <line x1="20" y1="230" x2="492" y2="230" stroke="#2b3a42" stroke-width="2"/>
   <g font-family="sans-serif" text-anchor="middle">
-    <text x="271" y="158" font-size="13" fill="#222222">stated claim</text>
+    <text x="271" y="158" font-size="13" fill="#222222" stroke="#fdfbf7" stroke-width="4" paint-order="stroke">stated claim</text>
     <text x="271" y="178" font-size="12" fill="#4f6d7a">(what is said)</text>
     <text x="271" y="252" font-size="12" fill="#2b3a42">assumption: everyone can afford it</text>
     <text x="271" y="284" font-size="12" fill="#2b3a42">assumption: everyone has a network</text>

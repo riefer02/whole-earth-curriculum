@@ -34,12 +34,13 @@
     </g>
     <line x1="30" y1="196" x2="482" y2="196" stroke="#2b3a42" stroke-width="2"/>
     <g font-size="12" fill="#2b3a42">
-      <text x="30" y="216" font-weight="bold">benefits</text>
+      <text x="40" y="216" font-weight="bold">benefits</text>
       <text x="86" y="236">electricity, water</text>
       <text x="256" y="236">clean power</text>
       <text x="430" y="236">carbon stored, soil held</text>
-      <text x="30" y="266" font-weight="bold">harms</text>
-      <text x="86" y="286">valley flooded, people moved</text>
+      <text x="40" y="266" font-weight="bold">harms</text>
+      <text x="86" y="286">valley flooded,</text>
+      <text x="86" y="302">people moved</text>
       <text x="256" y="286">bird paths, land used</text>
       <text x="430" y="286">no electricity produced</text>
     </g>

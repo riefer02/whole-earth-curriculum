@@ -4,8 +4,8 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <!-- capstone -->
-    <path d="M206 96 L256 70 L306 96 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="90" font-size="13" font-weight="bold" fill="#222222">protection</text>
+    <path d="M196 96 L256 64 L316 96 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="91" font-size="12" font-weight="bold" fill="#222222">protection</text>
     <!-- block 1 -->
     <rect x="196" y="110" width="120" height="44" rx="6" fill="#e8eef2" stroke="#2b3a42" stroke-width="2"/>
     <text x="256" y="137" font-size="14" fill="#222222">claim</text>
