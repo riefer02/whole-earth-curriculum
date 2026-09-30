@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-002-01-how-should-a-society-remember desc-L-09-002-01-how-should-a-society-remember">
+  <title id="title-L-09-002-01-how-should-a-society-remember">Three lenses, one hard question</title>
+  <desc id="desc-L-09-002-01-how-should-a-society-remember">A central ellipse asks "how should we remember?" Three labeled boxes point to it: consequences (what happens if we remember this way), duties (what do we owe those harmed), and virtues (what kind of society are we). A footer reads "hold two views — then choose." Labels and shapes carry the meaning so the diagram prints clearly in grayscale.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Three Lenses, One Hard Question</text>
+  <!-- Left box: consequences -->
+  <rect x="24" y="120" width="124" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="86" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">consequences</text>
+  <text x="86" y="174" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what happens</text>
+  <text x="86" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">if we remember</text>
+  <text x="86" y="210" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">this way?</text>
+  <!-- Right box: duties -->
+  <rect x="364" y="120" width="124" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="426" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">duties</text>
+  <text x="426" y="174" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what do we owe</text>
+  <text x="426" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">those harmed,</text>
+  <text x="426" y="210" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">and after?</text>
+  <!-- Center question -->
+  <ellipse cx="256" cy="220" rx="100" ry="48" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
+  <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">how should</text>
+  <text x="256" y="238" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">we remember?</text>
+  <line x1="148" y1="190" x2="160" y2="206" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="364" y1="190" x2="352" y2="206" stroke="#4f6d7a" stroke-width="2"/>
+  <!-- Bottom box: virtues -->
+  <rect x="176" y="310" width="160" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">virtues</text>
+  <text x="256" y="364" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what kind of society</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">does this make us?</text>
+  <line x1="256" y1="310" x2="256" y2="272" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">hold two views — then choose</text>
+</svg>

@@ -46,6 +46,14 @@ context_variants:
     note: A learner reads the cases, applies the frameworks in writing, then discusses with one other person
   - context: outdoor-only
     note: Hold the talking circle outside; a calm, natural space can help hold hard subjects
+assets:
+  - path: assets/images/L.09.002.01-how-should-a-society-remember.svg
+    alt: >-
+      A central ellipse asks how should we remember. Three boxes point to it:
+      consequences, duties, and virtues. A footer reads hold two views, then
+      choose. The diagram prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 60
 summary: >-
   Learners examine how different societies have tried to remember harm — through
