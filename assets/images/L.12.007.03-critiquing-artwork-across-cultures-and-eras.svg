@@ -18,17 +18,17 @@
 
   <!-- Rung 1: describe -->
   <line x1="150" y1="120" x2="300" y2="120" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-  <text x="150" y="200" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">describe</text>
+  <text x="225" y="200" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">describe</text>
 
   <!-- Rung 2: analyze -->
   <line x1="150" y1="230" x2="300" y2="230" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-  <text x="150" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">analyze</text>
+  <text x="225" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">analyze</text>
 
   <!-- Rung 3: interpret -->
   <line x1="150" y1="340" x2="300" y2="340" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-  <text x="150" y="400" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">interpret</text>
+  <text x="225" y="400" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">interpret</text>
 
   <!-- Rung 4: evaluate -->
   <line x1="150" y1="440" x2="300" y2="440" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-  <text x="150" y="478" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">evaluate</text>
+  <text x="225" y="478" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">evaluate</text>
 </svg>

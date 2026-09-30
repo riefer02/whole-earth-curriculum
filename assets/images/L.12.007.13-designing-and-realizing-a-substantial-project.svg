@@ -11,19 +11,19 @@
   <text x="256" y="117" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">ask</text>
 
   <circle cx="386" cy="184" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="386" y="191" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">imagine</text>
+  <text x="386" y="191" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">imagine</text>
 
   <circle cx="386" cy="336" r="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <text x="386" y="343" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">plan</text>
 
   <circle cx="256" cy="410" r="26" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="417" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">create</text>
+  <text x="256" y="417" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">create</text>
 
   <circle cx="126" cy="336" r="26" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="126" y="343" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">test</text>
 
   <circle cx="126" cy="184" r="26" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="126" y="191" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">improve</text>
+  <text x="126" y="191" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">improve</text>
 
   <!-- Loop arrow from improve back to ask -->
   <path d="M120 158 C80 120 84 84 128 86" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
