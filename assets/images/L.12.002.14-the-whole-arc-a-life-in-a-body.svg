@@ -9,18 +9,18 @@
   <path d="M416 392 Q256 472 96 392" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <path d="M96 392 Q32 256 96 120" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <!-- thread labels -->
-  <text x="256" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">body–mind</text>
+  <text x="256" y="86" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">body–mind</text>
   <text x="256" y="104" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">notice, name,</text>
   <text x="256" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">regulate, reflect</text>
-  <text x="456" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">dignity</text>
-  <text x="456" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">every body,</text>
-  <text x="456" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">every age</text>
+  <text x="456" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">dignity</text>
+  <text x="456" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a" stroke="#fdfbf7" stroke-width="4" paint-order="stroke">every body,</text>
+  <text x="456" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a" stroke="#fdfbf7" stroke-width="4" paint-order="stroke">every age</text>
   <text x="256" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#222222">movement plan</text>
   <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">four blocks,</text>
   <text x="256" y="486" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">FITT, a restart</text>
-  <text x="56" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.8" fill="#222222">environments</text>
-  <text x="56" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">widen the</text>
-  <text x="56" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a">door</text>
+  <text x="56" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="15.8" fill="#222222" stroke="#fdfbf7" stroke-width="5" paint-order="stroke">environments</text>
+  <text x="56" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a" stroke="#fdfbf7" stroke-width="4" paint-order="stroke">widen the</text>
+  <text x="56" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#4f6d7a" stroke="#fdfbf7" stroke-width="4" paint-order="stroke">door</text>
   <!-- center -->
   <circle cx="256" cy="256" r="80" fill="#e0a458" opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#222222">one life</text>
