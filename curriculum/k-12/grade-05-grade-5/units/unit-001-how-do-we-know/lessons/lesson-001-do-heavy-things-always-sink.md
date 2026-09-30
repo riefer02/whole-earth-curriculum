@@ -46,6 +46,16 @@ context_variants:
     note: A learner fills any bowl with water and tests the objects on their own, writing each prediction before each test
   - context: outdoor-only
     note: Use a stream or a puddle and natural objects only
+assets:
+  - path: assets/images/L.05.001.01-do-heavy-things-always-sink.svg
+    alt: >-
+      Two basins side by side. In the left basin a ball of clay sits on the
+      bottom, labeled ball sinks. In the right basin the same clay shaped as a
+      boat floats on the water, labeled boat floats. Below, three piles sort
+      statements into evidence (I saw it), inference (I reason it), and opinion
+      (I think it). The diagram prints clearly in grayscale.
+    kind: image
+    source: original
 duration_minutes: 60
 summary: >-
   Learners test the idea that "heavy things sink" by predicting, testing, and
