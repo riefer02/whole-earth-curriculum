@@ -22,14 +22,16 @@
   <g>
     <line x1="70" y1="200" x2="442" y2="200" stroke="#2b3a42" stroke-width="4"/>
     <text x="256" y="188" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Urgent — see someone soon</text>
-    <text x="256" y="224" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Fever that will not break, a cut that needs stitches, worry that will not settle</text>
+    <text x="256" y="220" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">Fever that will not break, a cut that needs stitches,</text>
+    <text x="256" y="236" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">worry that will not settle</text>
   </g>
 
   <!-- Rung 2: Routine -->
   <g>
     <line x1="70" y1="280" x2="442" y2="280" stroke="#2b3a42" stroke-width="4"/>
     <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">Routine — book an appointment</text>
-    <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">A check-up, a nagging ache, a question about a medicine, a mental-health check-in</text>
+    <text x="256" y="298" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">A check-up, a nagging ache, a question about a medicine,</text>
+    <text x="256" y="314" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">a mental-health check-in</text>
   </g>
 
   <!-- Rung 1: Self-manage (bottom) -->
