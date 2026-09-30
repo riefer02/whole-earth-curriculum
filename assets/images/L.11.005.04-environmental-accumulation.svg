@@ -31,9 +31,10 @@
   <text x="398" y="208" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2</text>
   <text x="438" y="208" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">1</text>
   <rect x="300" y="220" width="168" height="76" fill="#ffffff" stroke="#6b93b6" stroke-width="2" rx="6"/>
-  <text x="384" y="244" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">each term &#215;&#189; (half-life)</text>
-  <text x="384" y="264" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">passed through = 8+4+2+1 = 15</text>
-  <text x="384" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a decay series, summed</text>
+  <text x="384" y="240" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">each term &#215;&#189; (half-life)</text>
+  <text x="384" y="258" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">passed through =</text>
+  <text x="384" y="276" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">8+4+2+1 = 15</text>
+  <text x="384" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a decay series, summed</text>
 
   <!-- Footer -->
   <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Cumulative, not annual, tells the real story.</text>

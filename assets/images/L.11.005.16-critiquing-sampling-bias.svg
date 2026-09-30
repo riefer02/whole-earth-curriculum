@@ -28,7 +28,8 @@
   <circle cx="322" cy="110" r="4" fill="#e0a458"/>
   <circle cx="340" cy="112" r="4" fill="#e0a458"/>
   <circle cx="356" cy="104" r="4" fill="#e0a458"/>
-  <text x="345" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">biased: one corner</text>
+  <text x="345" y="170" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">biased:</text>
+  <text x="345" y="186" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">one corner</text>
 
   <rect x="400" y="84" width="70" height="70" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="414" cy="98" r="4" fill="#6b93b6"/>
@@ -37,7 +38,8 @@
   <circle cx="452" cy="132" r="4" fill="#6b93b6"/>
   <circle cx="414" cy="126" r="4" fill="#6b93b6"/>
   <circle cx="450" cy="150" r="4" fill="#6b93b6"/>
-  <text x="435" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">fair: spread out</text>
+  <text x="435" y="170" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">fair:</text>
+  <text x="435" y="186" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">spread out</text>
 
   <!-- footer -->
   <rect x="90" y="414" width="332" height="60" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>

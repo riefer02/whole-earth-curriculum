@@ -19,9 +19,10 @@
 
   <!-- inverse box -->
   <rect x="140" y="236" width="232" height="88" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
-  <text x="256" y="264" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">log&#8321;&#8320;(1000) = 3</text>
-  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">because 10&#179; = 1000</text>
-  <text x="256" y="310" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">"what power?" is the inverse of the power</text>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">log&#8321;&#8320;(1000) = 3</text>
+  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">because 10&#179; = 1000</text>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">"what power?" is</text>
+  <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">the inverse of the power</text>
 
   <!-- three scales -->
   <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Three real log scales</text>

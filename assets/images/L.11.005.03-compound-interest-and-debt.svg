@@ -26,12 +26,13 @@
   <rect x="288" y="90" width="192" height="210" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
   <text x="384" y="118" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Unpaid loan at 20%:</text>
   <text x="384" y="142" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">100 &#8594; 120 &#8594; 144 &#8594; 172.80</text>
-  <text x="384" y="168" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the same factor, now against you</text>
-  <line x1="304" y1="184" x2="464" y2="184" stroke="#6b93b6" stroke-width="2"/>
-  <text x="384" y="208" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Installments add up:</text>
-  <text x="384" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">200 loan, 24 payments of 10</text>
-  <text x="384" y="256" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">total repaid = 240</text>
-  <text x="384" y="280" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">the difference is the cost of credit</text>
+  <text x="384" y="162" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">the same factor,</text>
+  <text x="384" y="180" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">now against you</text>
+  <line x1="304" y1="196" x2="464" y2="196" stroke="#6b93b6" stroke-width="2"/>
+  <text x="384" y="220" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222" font-weight="bold">Installments add up:</text>
+  <text x="384" y="244" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">200 loan, 24 payments of 10</text>
+  <text x="384" y="268" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">total repaid = 240</text>
+  <text x="384" y="290" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">the difference is the cost of credit</text>
 
   <!-- Footer -->
   <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Read the rate. See the true total.</text>
