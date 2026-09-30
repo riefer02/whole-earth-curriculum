@@ -17,14 +17,14 @@
   <text x="126" y="442" text-anchor="middle" font-size="20" fill="#222222" font-weight="600">adjust</text>
 
   <!-- arrows -->
-  <path d="M196 89 H250 a20 20 0 0 1 20 20 V66" fill="none" stroke="#4f6d7a" stroke-width="3"/>
-  <polygon points="316,66 296,72 306,54" fill="#4f6d7a"/>
+  <path d="M196 89 H310" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="310,89 298,83 298,95" fill="#4f6d7a"/>
   <path d="M386 122 V240 a20 20 0 0 1 -20 20 H130 a20 20 0 0 0 -20 20 V378" fill="none" stroke="#4f6d7a" stroke-width="3"/>
   <polygon points="124,390 118,370 140,380" fill="#4f6d7a"/>
-  <path d="M196 423 H250 a20 20 0 0 1 20 20 V446" fill="none" stroke="#4f6d7a" stroke-width="3"/>
-  <polygon points="316,446 296,452 306,434" fill="#4f6d7a"/>
+  <path d="M196 423 H310" fill="none" stroke="#4f6d7a" stroke-width="3"/>
+  <polygon points="310,423 298,417 298,429" fill="#4f6d7a"/>
   <path d="M126 390 V280 a20 20 0 0 1 20 -20 H382 a20 20 0 0 0 20 -20 V132" fill="none" stroke="#4f6d7a" stroke-width="3"/>
-  <polygon points="388,122 382,142 366,132" fill="#4f6d7a"/>
+  <polygon points="402,132 394,150 410,150" fill="#4f6d7a"/>
 
   <!-- figure at the check step holding a pencil -->
   <circle cx="256" cy="356" r="15" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
