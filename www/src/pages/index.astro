@@ -4,7 +4,7 @@ import { ui } from '../i18n';
 import { PILLAR_IDS } from '../lib/taxonomy';
 import { gradePath } from '../lib/links';
 
-const title = 'Free K–12 Curriculum';
+const title = ui.home.pageTitle;
 const grades = Array.from({ length: 13 }, (_, i) => i);
 ---
 
@@ -42,7 +42,7 @@ const grades = Array.from({ length: 13 }, (_, i) => i);
   <section class="home-section">
     <div class="container">
       <h2>{ui.home.browseByGrade}</h2>
-      <p class="lede">Jump straight to a grade level.</p>
+      <p class="lede">{ui.home.jumpToGrade}</p>
       <div class="grades-nav">
         {
           grades.map((g) => (

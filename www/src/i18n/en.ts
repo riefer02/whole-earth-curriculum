@@ -42,6 +42,8 @@ export interface UI {
     browseStandards: string;
     supportProject: string;
     browseByGrade: string;
+    jumpToGrade: string;
+    pageTitle: string;
     pillarsTitle: string;
     pillarsIntro: string;
     valuesTitle: string;
@@ -282,6 +284,8 @@ const en: UI = {
     browseStandards: 'Explore the standards',
     supportProject: 'Support the project',
     browseByGrade: 'Browse by grade',
+    jumpToGrade: 'Jump straight to a grade level.',
+    pageTitle: 'Free K\u201312 Curriculum',
     pillarsTitle: 'Four pillars, one whole person',
     pillarsIntro:
       'Every subject, at every grade, grows out of four dimensions of a whole person \u2014 not out of disconnected school subjects.',
