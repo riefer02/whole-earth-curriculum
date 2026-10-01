@@ -34,10 +34,9 @@ export function breadcrumbJsonLd(
   crumbs: Crumb[],
   pageUrl: string,
 ): Record<string, unknown> {
-  const itemListElement = crumbs
-    .filter((c) => c.label || c.id)
-    .map((c, i) => {
-      const isLast = i === crumbs.length - 1;
+  const items = crumbs.filter((c) => c.label || c.id);
+  const itemListElement = items.map((c, i) => {
+    const isLast = i === items.length - 1;
       const href = isLast
         ? pageUrl
         : c.href

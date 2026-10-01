@@ -22,7 +22,7 @@ import { ui } from '../../i18n';
           placeholder={ui.search.placeholder}
           value=""
           autocomplete="off"
-          autofocus
+          data-autofocus
         />
         <button type="submit" class="btn btn--primary search-bar__btn">
           {ui.nav.search}
@@ -71,6 +71,15 @@ import { ui } from '../../i18n';
     <p class="note" style="margin-top: 2.5rem; font-size:0.8rem">{ui.search.hint}</p>
   </div>
 </BaseLayout>
+
+<script is:inline>
+  // Focus the search box on load for keyboard users, but not on touch
+  // devices where focusing would pop the on-screen keyboard uninvited.
+  (function () {
+    var input = document.querySelector('[data-autofocus]');
+    if (input && window.matchMedia('(pointer: fine)').matches) input.focus({ preventScroll: true });
+  })();
+</script>
 
 <script is:inline>
   (async function () {

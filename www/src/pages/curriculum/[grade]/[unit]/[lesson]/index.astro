@@ -46,7 +46,7 @@ if (!lessonEntry) return Astro.redirect('/curriculum/');
 
 const standardMap = buildStandardMap(domains);
 const objectives = resolveObjectives(lessonEntry.data.objectives, standardMap);
-const { Content } = await render(lessonEntry);
+const { Content, headings } = await render(lessonEntry);
 
 const domainIndex = buildDomainIndex(domains);
 const unitLessons = lessonsByUnit(lessons).get(unitId) ?? [];
@@ -236,14 +236,15 @@ const feedbackUrl =
     {
       images.length > 0 && (
         <div style="margin: 1rem 0; display: grid; gap: 1rem">
-          {images.map((a) => (
+          {images.map((a, i) => (
             <figure style="margin:0">
               <img
                 src={`/${a.path}`}
                 alt={a.alt ?? ''}
                 width={a.size.width}
                 height={a.size.height}
-                loading="lazy"
+                loading={i === 0 ? 'eager' : 'lazy'}
+                fetchpriority={i === 0 ? 'high' : undefined}
                 decoding="async"
               />
               {a.alt && <figcaption class="card__meta">{a.alt}</figcaption>}
@@ -268,7 +269,7 @@ const feedbackUrl =
       )
     }
 
-    <TableOfContents />
+    <TableOfContents headings={headings} />
 
     <div class="prose prose--no-h1" data-content>
       <Content />

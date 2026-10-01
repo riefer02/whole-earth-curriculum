@@ -26,13 +26,13 @@ const crumbs = [
   { label: title },
 ];
 const jsonLd = pageUrl ? breadcrumbJsonLd(crumbs, pageUrl) : undefined;
-const { Content } = await render(doc);
+const { Content, headings } = await render(doc);
 ---
 
 <BaseLayout title={title} description={description} pagefindFilters={['type:Document']} jsonLd={jsonLd}>
   <div class="container container--prose">
     <Breadcrumbs crumbs={crumbs} />
-    <TableOfContents />
+    <TableOfContents headings={headings} />
     <article class="prose" data-content>
       <Content />
     </article>
