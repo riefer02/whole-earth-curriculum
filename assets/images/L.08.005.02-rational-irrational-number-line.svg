@@ -12,10 +12,10 @@
   <line x1="172" y1="60" x2="172" y2="150" stroke="#2b3a42" stroke-width="1"/>
   <line x1="284" y1="60" x2="284" y2="150" stroke="#2b3a42" stroke-width="1"/>
   <line x1="396" y1="60" x2="396" y2="150" stroke="#2b3a42" stroke-width="1"/>
-  <text x="60" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">−4</text>
-  <text x="172" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">0</text>
-  <text x="284" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">1</text>
-  <text x="396" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2</text>
+  <text x="60" y="180" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">−4</text>
+  <text x="172" y="180" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">0</text>
+  <text x="284" y="180" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">1</text>
+  <text x="396" y="180" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2</text>
 
   <!-- rational filled dots -->
   <circle cx="60" cy="150" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
