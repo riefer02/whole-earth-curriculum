@@ -36,29 +36,41 @@ function schoolYearStart(year: number): Date {
  *  - Results are clamped to `1..180`: before the start → `1`, after → `180`.
  */
 export function schoolDayForToday(today: Date): number {
+  const { day } = anchoredStartAndDay(today);
+  if (day < 1) return 1;
+  return Math.max(1, Math.min(SCHOOL_YEAR_DAYS, day));
+}
+
+/**
+ * Anchor `today` to its school year (this September, or last September when
+ * `today` precedes this year's start) and count the weekdays from that start
+ * through `today`, unclamped. Returns `day < 1` only for dates before any
+ * plausible year start (defensive).
+ */
+function anchoredStartAndDay(today: Date): { start: Date; day: number } {
   let start = schoolYearStart(today.getFullYear());
   if (today.getTime() < start.getTime()) {
     start = schoolYearStart(today.getFullYear() - 1);
   }
 
   // Before the earliest plausible year start (defensive): day 1.
-  if (today.getTime() < start.getTime()) return 1;
+  if (today.getTime() < start.getTime()) return { start, day: 0 };
 
   let day = 0;
   const cursor = new Date(start);
-  while (cursor.getTime() <= today.getTime() && day < SCHOOL_YEAR_DAYS) {
+  while (cursor.getTime() <= today.getTime()) {
     const dow = cursor.getDay();
     if (dow !== 0 && dow !== 6) day += 1; // count weekdays only
     cursor.setDate(cursor.getDate() + 1);
   }
 
-  return Math.max(1, Math.min(SCHOOL_YEAR_DAYS, day));
+  return { start, day };
 }
 
 /** Is today within the current school year? False during summer / pre-planning. */
 export function isSchoolActive(today: Date): boolean {
-  const start = schoolYearStart(today.getFullYear());
-  return today >= start;
+  const { day } = anchoredStartAndDay(today);
+  return day >= 1 && day <= SCHOOL_YEAR_DAYS;
 }
 
 /**

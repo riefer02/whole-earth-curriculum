@@ -55,6 +55,14 @@ import { ui } from '../../i18n';
       id="search-results"
       class="search-results"
       data-show-more={ui.search.showMore}
+      data-msg-start={ui.search.startTyping}
+      data-msg-searching={ui.search.searching}
+      data-msg-unavailable={ui.search.unavailable}
+      data-msg-error={ui.search.searchError}
+      data-msg-zero={ui.search.zeroResults}
+      data-msg-all={ui.search.all}
+      data-msg-one={ui.search.resultsOne}
+      data-msg-many={ui.search.resultsMany}
       aria-live="polite"
     >
       <p id="search-placeholder" class="muted" style="font-size:1rem; margin-top:1.5rem">{ui.search.startTyping}</p>
@@ -77,6 +85,11 @@ import { ui } from '../../i18n';
     const clearBtn = document.getElementById('facet-clear');
     if (!form || !input || !results || !filtersEl || !clearBtn) return;
 
+    // User-facing strings come from data attributes (wired to the i18n
+    // catalog in markup above) so a future locale never falls back to
+    // hardcoded English inside this script.
+    const msg = (key, fallback) => results.dataset[key] || fallback;
+
     const FACETS = [
       { key: 'type', el: document.getElementById('facet-type') },
       { key: 'grade', el: document.getElementById('facet-grade') },
@@ -89,7 +102,7 @@ import { ui } from '../../i18n';
       pagefind = await import('/pagefind/pagefind.js');
     } catch (err) {
       console.error('Pagefind failed to load:', err);
-      results.innerHTML = '<p class="muted">Search is not available right now.</p>';
+      results.innerHTML = '<p class="muted">' + esc(msg('msgUnavailable', 'Search is not available right now.')) + '</p>';
       return;
     }
 
@@ -104,7 +117,7 @@ import { ui } from '../../i18n';
       sel.innerHTML = '';
       const allOpt = document.createElement('option');
       allOpt.value = ALL;
-      allOpt.textContent = 'All';
+      allOpt.textContent = msg('msgAll', 'All');
       sel.appendChild(allOpt);
       const keys = Object.keys(values || {}).sort();
       keys.forEach(function (k) {
@@ -129,7 +142,11 @@ import { ui } from '../../i18n';
 
     function showSpinner() {
       results.innerHTML =
-        '<p class="search-loading"><span class="spinner" aria-hidden="true"></span> Searching\u2026</p>';
+        '<p class="search-loading"><span class="spinner" aria-hidden="true"></span> ' + esc(msg('msgSearching', 'Searching…')) + '</p>';
+    }
+
+    function startMessage() {
+      return '<p class="muted" style="font-size:1rem; margin-top:1.5rem">' + esc(msg('msgStart', 'Start typing to search.')) + '</p>';
     }
 
     let activeRequest = 0;
@@ -138,7 +155,7 @@ import { ui } from '../../i18n';
       const reqId = ++activeRequest;
       const q = input.value.trim();
       if (!q) {
-        results.innerHTML = '<p class="muted" style="font-size:1rem; margin-top:1.5rem">Start typing to search.</p>';
+        results.innerHTML = startMessage();
         return;
       }
 
@@ -153,7 +170,7 @@ import { ui } from '../../i18n';
       } catch (err) {
         console.error('Search failed:', err);
         if (reqId !== activeRequest) return;
-        results.innerHTML = '<p class="muted">Something went wrong. Try again.</p>';
+        results.innerHTML = '<p class="muted">' + esc(msg('msgError', 'Something went wrong. Try again.')) + '</p>';
         return;
       }
 
@@ -161,7 +178,7 @@ import { ui } from '../../i18n';
 
       if (!search || search.results.length === 0) {
         results.innerHTML =
-          '<p class="muted" style="font-size:1rem; margin-top:1.5rem">Nothing matched &ldquo;' + esc(q) + '&rdquo;.</p>';
+          '<p class="muted" style="font-size:1rem; margin-top:1.5rem">' + esc(msg('msgZero', 'Nothing matched that search.')) + ' &ldquo;' + esc(q) + '&rdquo;.</p>';
         return;
       }
 
@@ -170,7 +187,10 @@ import { ui } from '../../i18n';
 
       const countEl = document.createElement('p');
       countEl.className = 'search-count';
-      countEl.textContent = count + ' result' + (count !== 1 ? 's' : '');
+      countEl.textContent =
+        count === 1
+          ? msg('msgOne', '1 result')
+          : msg('msgMany', '{n} results').replace('{n}', String(count));
       results.appendChild(countEl);
 
       const list = document.createElement('div');

@@ -91,6 +91,9 @@ export interface UI {
       update: string;
       todayIs: string;
       thisWeek: string;
+      comingSoon: string;
+      firstLesson: string;
+      offSeasonNote: string;
       notAuthored: string;
       browseFullYear: string;
       chooseTitle: string;
@@ -228,6 +231,12 @@ export interface UI {
     pillar: string;
     clear: string;
     showMore: string;
+    searching: string;
+    unavailable: string;
+    searchError: string;
+    all: string;
+    resultsOne: string;
+    resultsMany: string;
   };
   status: Record<string, string>;
   gradeLabel: (grade: number) => string;
@@ -424,6 +433,9 @@ const en: UI = {
       update: 'Update',
       todayIs: 'Today is school day',
       thisWeek: 'This week:',
+      comingSoon: 'Coming school year.',
+      firstLesson: 'First lesson:',
+      offSeasonNote: 'The school year starts around September.',
       notAuthored: 'Not yet authored \u2014 open',
       browseFullYear: 'to browse the full year.',
       chooseTitle: 'Choose a grade',
@@ -820,6 +832,12 @@ const en: UI = {
     pillar: 'Pillar',
     clear: 'Clear',
     showMore: 'Show more results',
+    searching: 'Searching\u2026',
+    unavailable: 'Search is not available right now.',
+    searchError: 'Something went wrong. Try again.',
+    all: 'All',
+    resultsOne: '1 result',
+    resultsMany: '{n} results',
   },
 
   status: {

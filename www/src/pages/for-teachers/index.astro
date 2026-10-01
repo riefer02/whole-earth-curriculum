@@ -26,8 +26,9 @@ function esc(s: string): string {
 }
 
 // Pre-render the "this week" result HTML for every grade at build time so the
-// client can swap it with a single innerHTML assignment — no path logic or
-// escaping duplicated in the browser.
+// page is useful with JavaScript disabled. The browser recomputes the same
+// answer for the visitor's actual date on load (see the script below), since
+// a static build's date goes stale after deploy.
 const htmlByGrade: Record<string, string> = {};
 for (let g = 0; g <= 12; g++) {
   const scope = scopeMap.get(g);
@@ -37,7 +38,7 @@ for (let g = 0; g <= 12; g++) {
     const lessonTitle = tw.lesson.data.title ?? tw.lesson.data.id ?? 'Lesson';
     const lead = isActive
       ? `<strong>${t.todayIs} ${schoolDay}.</strong> ${t.thisWeek}`
-      : '<strong>Coming school year.</strong> First lesson:';
+      : `<strong>${t.comingSoon}</strong> ${t.firstLesson}`;
     htmlByGrade[g] =
       `${lead} <a href="${unitPath(tw.unit.unit_id ?? '')}">${esc(unitTitle)}</a>` +
       ` &mdash; <a href="${lessonPath(tw.lesson.data.id ?? '')}">${esc(lessonTitle)}</a>`;
@@ -47,8 +48,62 @@ for (let g = 0; g <= 12; g++) {
   }
 }
 
+// Compact per-grade catalog so the browser can answer "which lesson is it
+// today?" for the visitor's own date without another round trip: unit day
+// ranges plus the ordered lesson id/title pairs of each unit.
+const teachCatalog: Record<
+  string,
+  {
+    units: { id: string; title: string; start: number; end: number }[];
+    lessons: Record<string, [string, string][]>;
+  }
+> = {};
+for (let g = 0; g <= 12; g++) {
+  const scope = scopeMap.get(g);
+  if (!scope) continue;
+  const units = (scope.data.units ?? []).filter(
+    (u) =>
+      u.unit_id &&
+      typeof u.start_day === 'number' &&
+      typeof u.end_day === 'number',
+  );
+  if (!units.length) continue;
+  const lessons: Record<string, [string, string][]> = {};
+  for (const u of units) {
+    const list = lessonMap.get(u.unit_id ?? '') ?? [];
+    if (list.length) {
+      lessons[u.unit_id ?? ''] = list.map((l) => [
+        l.data.id ?? '',
+        l.data.title ?? l.data.id ?? 'Lesson',
+      ]);
+    }
+  }
+  teachCatalog[g] = {
+    units: units.map((u) => ({
+      id: u.unit_id ?? '',
+      title: u.title ?? u.unit_id ?? 'Unit',
+      start: u.start_day as number,
+      end: u.end_day as number,
+    })),
+    lessons,
+  };
+}
+
 const defaultGrade = 1;
-const jsonData = JSON.stringify(htmlByGrade);
+const jsonData = JSON.stringify({
+  catalog: teachCatalog,
+  copy: {
+    todayIs: t.todayIs,
+    thisWeek: t.thisWeek,
+    comingSoon: t.comingSoon,
+    firstLesson: t.firstLesson,
+    notAuthored: t.notAuthored,
+    browseFullYear: t.browseFullYear,
+    gradeNames: grades.map((g) => ui.gradeLabel(g)),
+  },
+  // Server-rendered fallback (build-date answer) for no-JavaScript visitors.
+  fallback: htmlByGrade,
+}).replace(/</g, '\\u003c');
 ---
 
 <BaseLayout title={t.title} description={t.description}>
@@ -66,7 +121,7 @@ const jsonData = JSON.stringify(htmlByGrade);
       {isActive ? (
         <p class="lede">{t.whereIntro}</p>
       ) : (
-        <p class="lede">The school year starts around September. {t.whereIntro}</p>
+        <p class="lede">{t.offSeasonNote} {t.whereIntro}</p>
       )}
 
       <div class="teach-today">
@@ -135,22 +190,133 @@ const jsonData = JSON.stringify(htmlByGrade);
 <script is:inline type="application/json" id="teach-data" set:html={jsonData}></script>
 
 <script is:inline>
+  // Answer "which lesson is it today?" for the visitor's own date. The
+  // server-rendered result is the build date's answer (kept as the no-JS
+  // fallback); recompute here so the widget never goes stale after deploy.
+  // Mirrors schoolDayForToday / isSchoolActive / lessonForSchoolDay in
+  // src/lib/teachToday.ts (180 weekdays from September, no holidays).
   (function () {
     var el = document.getElementById('teach-data');
     if (!el) return;
-    var htmlByGrade = JSON.parse(el.textContent || '{}');
+    var data;
+    try {
+      data = JSON.parse(el.textContent || '{}');
+    } catch (e) {
+      return;
+    }
+    var catalog = data.catalog || {};
+    var copy = data.copy || {};
+    var fallback = data.fallback || {};
     var select = document.getElementById('grade-select');
     var resultEl = document.getElementById('teach-result');
     if (!select || !resultEl) return;
 
+    function pad2(n) {
+      return String(n).padStart(2, '0');
+    }
+    function gradePath(g) {
+      return '/curriculum/' + pad2(g) + '/';
+    }
+    function unitPath(id) {
+      var m = /^U\.(\d+)\.(\d+)$/.exec(id || '');
+      if (!m) return '/curriculum/';
+      return '/curriculum/' + pad2(m[1]) + '/' + pad2(m[2]) + '/';
+    }
+    function lessonPath(id) {
+      var m = /^L\.(\d+)\.(\d+)\.(\d+)$/.exec(id || '');
+      if (!m) return '/curriculum/';
+      return '/curriculum/' + pad2(m[1]) + '/' + pad2(m[2]) + '/' + pad2(m[3]) + '/';
+    }
+    function esc(s) {
+      return String(s == null ? '' : s)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+    function schoolYearStart(year) {
+      var s = new Date(year, 8, 1);
+      var dow = s.getDay();
+      var offset = dow === 0 ? 1 : dow === 6 ? 2 : 0;
+      return new Date(year, 8, 1 + offset);
+    }
+    function dayCount(today) {
+      var t = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+      var s = schoolYearStart(t.getFullYear());
+      if (t < s) s = schoolYearStart(t.getFullYear() - 1);
+      if (t < s) return 0;
+      var day = 0;
+      var c = new Date(s);
+      while (c <= t) {
+        var w = c.getDay();
+        if (w !== 0 && w !== 6) day += 1;
+        c.setDate(c.getDate() + 1);
+      }
+      return day;
+    }
+    function notAuthoredHtml(g) {
+      var names = copy.gradeNames || [];
+      var label = names[g] || ('Grade ' + g);
+      return (
+        '<strong>' +
+        esc(copy.notAuthored || '') +
+        ' <a href="' +
+        gradePath(g) +
+        '">' +
+        esc(label) +
+        '</a> ' +
+        esc(copy.browseFullYear || '') +
+        '</strong>'
+      );
+    }
+    function htmlFor(g) {
+      var gd = catalog[g];
+      if (!gd) return fallback[g] || notAuthoredHtml(g);
+      var day = dayCount(new Date());
+      var active = day >= 1 && day <= 180;
+      var schoolDay = active ? Math.min(180, day) : 1;
+      var unit = null;
+      for (var i = 0; i < gd.units.length; i++) {
+        var u = gd.units[i];
+        if (schoolDay >= u.start && schoolDay <= u.end) {
+          unit = u;
+          break;
+        }
+      }
+      if (!unit) return fallback[g] || notAuthoredHtml(g);
+      var list = gd.lessons[unit.id] || [];
+      if (!list.length) return fallback[g] || notAuthoredHtml(g);
+      var span = unit.end - unit.start + 1;
+      var idx = Math.max(
+        0,
+        Math.min(list.length - 1, Math.floor(((schoolDay - unit.start) / span) * list.length)),
+      );
+      var lesson = list[idx];
+      var lead = active
+        ? '<strong>' + esc(copy.todayIs || '') + ' ' + schoolDay + '.</strong> ' + esc(copy.thisWeek || '')
+        : '<strong>' + esc(copy.comingSoon || '') + '</strong> ' + esc(copy.firstLesson || '');
+      return (
+        lead +
+        ' <a href="' +
+        unitPath(unit.id) +
+        '">' +
+        esc(unit.title) +
+        '</a> &mdash; <a href="' +
+        lessonPath(lesson[0]) +
+        '">' +
+        esc(lesson[1]) +
+        '</a>'
+      );
+    }
+
     function show() {
-      resultEl.innerHTML = htmlByGrade[select.value] || '';
+      resultEl.innerHTML = htmlFor(select.value);
       resultEl.classList.add('teach-today__result--changed');
       setTimeout(function () { resultEl.classList.remove('teach-today__result--changed'); }, 400);
     }
 
     var q = new URLSearchParams(window.location.search).get('grade');
-    if (q !== null && htmlByGrade.hasOwnProperty(q)) select.value = q;
+    if (q !== null && (catalog[q] || fallback[q])) select.value = q;
     show();
 
     select.addEventListener('change', show);
