@@ -378,26 +378,26 @@ const en: UI = {
       seeIntro:
         'You don\u2019t need to take our word for it. Open any lesson and judge it yourself \u2014 every one is free, printable, and written so a child can follow it.',
       seeCta: 'Open a sample lesson',
-      builtTitle: 'How it was built',
+      builtTitle: 'Who created this curriculum?',
       builtIntro:
-        'The complete first pass was built through a documented, AI-assisted curriculum process. The process is public so anyone can inspect both the work and how it was made.',
+        'I’m a K–12 educator, anthropologist, and software engineer. I’m also a former K–12 science teacher and special education teacher. I created and direct Whole Earth Curriculum. AI tools helped me assemble research, draft and review material, and create some assets; I remain responsible for what is published.',
       built: [
         {
           title: 'AI-assisted drafting and review',
-          body: 'AI agents drafted, checked, and revised material in sequence across defined curriculum, developmental, factual, cultural, accessibility, and alignment roles.',
+          body: 'AI tools helped draft, check, and revise material across curriculum, developmental, factual, cultural, accessibility, and alignment perspectives.',
         },
         {
           title: 'Automated validation',
           body: 'Every lesson is checked against the curriculum schema, its learning objectives, required teaching structure, source registry, and linked assets before publication.',
         },
         {
-          title: 'Human review is the next layer',
-          body: 'Agent review and automated checks are not presented as independent human review. WEC is now recruiting educators, subject experts, translators, and pilot partners to test and strengthen the first pass.',
+          title: 'What these checks cannot establish',
+          body: 'AI-assisted review and automated checks do not replace independent review by educators and subject experts, accessibility and cultural review, or evidence from classrooms. WEC is seeking educators, subject experts, translators, and pilot partners to test and strengthen the curriculum.',
         },
       ],
       responsibilityTitle: 'Who is responsible',
       responsibilityBody:
-        'Whole Earth Curriculum is currently stewarded by its repository maintainer and developed in public. The maintainer is accountable for what is published, for applying the project’s stated standards consistently, and for recording material changes in the open repository. Human reviewers and advisory participants will be named here with their permission as the circle grows.',
+        'I created and steward Whole Earth Curriculum. I’m a K–12 educator, anthropologist, and software engineer, with former experience teaching K–12 science and special education. I’m accountable for what is published and for recording material changes in the open repository. Human reviewers and advisory participants will be named here with their permission as the circle grows.',
       governanceTitle: 'How decisions are made',
       governance: [
         {
