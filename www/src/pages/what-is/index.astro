@@ -50,34 +50,26 @@ const p = ui.pages.whatIs;
 
   <section class="home-section" id="how-it-was-built">
     <div class="container">
-      <h2>{p.builtTitle}</h2>
-      <p class="lede">{p.builtIntro}</p>
-      <div class="grid">
-        {
-          p.built.map((item) => (
-            <div class="card">
-              <h3 class="card__title">{item.title}</h3>
-              <p class="card__meta">{item.body}</p>
-            </div>
-          ))
-        }
+      <h2>{p.creatorTitle}</h2>
+      <p class="lede">{p.creatorBody}</p>
+      <div class="prose">
+        <p>{p.developmentBody}</p>
+        <p>{p.reviewBody}</p>
+        <p>
+          <a href="https://github.com/riefer02/whole-earth-curriculum">{p.repositoryCta}</a>
+        </p>
       </div>
     </div>
   </section>
 
   <section class="home-section" id="governance">
     <div class="container">
-      <h2>{p.responsibilityTitle}</h2>
-      <p class="lede">{p.responsibilityBody}</p>
-      <p class="lede">
-        <a href="https://github.com/riefer02/whole-earth-curriculum">View the public repository and maintainer</a>
-      </p>
-      <h3 class="section-heading">{p.governanceTitle}</h3>
+      <h2>{p.governanceTitle}</h2>
       <div class="grid">
         {
           p.governance.map((item) => (
             <div class="card">
-              <h4 class="card__title">{item.title}</h4>
+              <h3 class="card__title">{item.title}</h3>
               <p class="card__meta">{item.body}</p>
             </div>
           ))

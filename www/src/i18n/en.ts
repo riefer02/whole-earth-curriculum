@@ -70,11 +70,11 @@ export interface UI {
       seeTitle: string;
       seeIntro: string;
       seeCta: string;
-      builtTitle: string;
-      builtIntro: string;
-      built: Array<{ title: string; body: string }>;
-      responsibilityTitle: string;
-      responsibilityBody: string;
+      creatorTitle: string;
+      creatorBody: string;
+      developmentBody: string;
+      reviewBody: string;
+      repositoryCta: string;
       governanceTitle: string;
       governance: Array<{ title: string; body: string }>;
       participateTitle: string;
@@ -279,7 +279,7 @@ const en: UI = {
     heroKicker: 'Offered free to the world',
     heroTitle: 'Educate the whole human.',
     heroSubtitle:
-      'One complete, coherent K\u201312 curriculum that develops people who are emotionally, physically, and intellectually aware \u2014 of themselves, their world, and the Earth they live in.',
+      'A complete K\u201312 curriculum that develops emotional, physical, intellectual, and ecological awareness.',
     browseCurriculum: 'Browse the curriculum',
     browseStandards: 'Explore the standards',
     supportProject: 'Support the project',
@@ -301,9 +301,9 @@ const en: UI = {
     howTitle: 'How it all fits together',
     howSteps: [
       'One vision guides every grade and subject.',
-      'Every lesson is built on clear learning goals that build on each other, year by year.',
-      'Every lesson is checked for accuracy, safety, and age-appropriateness before it ships.',
-      'Free, open, and ready to use online or in print \u2014 no account, no cost.',
+      'Learning goals connect lessons across subjects and grades.',
+      'Lessons follow published standards for accuracy, safety, and developmental fit.',
+      'Read online or print, with no account or fee.',
     ],
     audienceTitle: 'Who are you here for?',
     audienceIntro: 'Three doors, one curriculum.',
@@ -322,7 +322,7 @@ const en: UI = {
       },
       {
         title: 'I\u2019m a leader or funder',
-        body: 'See the evidence, the quality guarantees, and how to adopt or fund it.',
+        body: 'See the evidence, review process, and ways to adopt or fund it.',
         href: '/for-leaders/',
         cta: 'For leaders',
       },
@@ -336,7 +336,7 @@ const en: UI = {
       kicker: 'Offered free to the world',
       heroTitle: 'Education for the whole human.',
       heroSubtitle:
-        'A free, complete K\u201312 curriculum that treats every child as a whole person \u2014 mind, body, emotion, and the world they live in. Start here for the short version \u2014 what it is, what it stands for, and how it\u2019s put together.',
+        'A free K\u201312 curriculum connecting mind, body, emotion, and the world each child lives in.',
       beliefsTitle: 'What we believe',
       beliefsIntro: 'Six beliefs, stated plainly. Everything else follows from them.',
       beliefs: [
@@ -376,33 +376,21 @@ const en: UI = {
       ],
       seeTitle: 'See for yourself',
       seeIntro:
-        'You don\u2019t need to take our word for it. Open any lesson and judge it yourself \u2014 every one is free, printable, and written so a child can follow it.',
-      seeCta: 'Open a sample lesson',
-      builtTitle: 'Who created this curriculum?',
-      builtIntro:
-        'I’m a K–12 educator, anthropologist, and software engineer. I’m also a former K–12 science teacher and special education teacher. I created and direct Whole Earth Curriculum. AI tools helped me assemble research, draft and review material, and create some assets; I remain responsible for what is published.',
-      built: [
-        {
-          title: 'AI-assisted drafting and review',
-          body: 'AI tools helped draft, check, and revise material across curriculum, developmental, factual, cultural, accessibility, and alignment perspectives.',
-        },
-        {
-          title: 'Automated validation',
-          body: 'Every lesson is checked against the curriculum schema, its learning objectives, required teaching structure, source registry, and linked assets before publication.',
-        },
-        {
-          title: 'What these checks cannot establish',
-          body: 'AI-assisted review and automated checks do not replace independent review by educators and subject experts, accessibility and cultural review, or evidence from classrooms. WEC is seeking educators, subject experts, translators, and pilot partners to test and strengthen the curriculum.',
-        },
-      ],
-      responsibilityTitle: 'Who is responsible',
-      responsibilityBody:
-        'I created and steward Whole Earth Curriculum. I’m a K–12 educator, anthropologist, and software engineer, with former experience teaching K–12 science and special education. I’m accountable for what is published and for recording material changes in the open repository. Human reviewers and advisory participants will be named here with their permission as the circle grows.',
+        'Browse a grade, open a lesson, and judge it for yourself.',
+      seeCta: 'Explore the curriculum',
+      creatorTitle: 'Who created this curriculum?',
+      creatorBody:
+        'I’m a K–12 educator, anthropologist, and software engineer with experience teaching science and special education. I created Whole Earth Curriculum and am responsible for its direction and published content.',
+      developmentBody:
+        'AI tools supported much of the initial research, drafting, review, and artwork. Automated checks verify lesson structure, links to learning goals, source references, and assets.',
+      reviewBody:
+        'Independent subject, cultural, and accessibility review and classroom pilots are still needed to test the curriculum beyond these checks.',
+      repositoryCta: 'View the work and its history on GitHub',
       governanceTitle: 'How decisions are made',
       governance: [
         {
           title: 'The vision is the test',
-          body: 'Changes must serve the four dimensions of a whole learner and preserve the curriculum’s traceable learning goals.',
+          body: 'Changes must support learners’ emotional, physical, intellectual, and ecological awareness.',
         },
         {
           title: 'Evidence and values stay distinct',
@@ -410,16 +398,16 @@ const en: UI = {
         },
         {
           title: 'The work stays inspectable',
-          body: 'Curriculum changes, review discussion, validation rules, and funding assumptions are kept in public whenever privacy and safety allow.',
+          body: 'Changes, review findings, and funding assumptions are public, with personal information kept private.',
         },
         {
           title: 'Support does not buy doctrine',
-          body: 'Partners may fund outcomes and contribute expertise; they do not receive a private right to override the vision or close the curriculum.',
+          body: 'Partners may fund work and contribute expertise without gaining ownership or control over the curriculum’s principles.',
         },
       ],
-      participateTitle: 'Help build the human layer',
+      participateTitle: 'Help improve it',
       participateBody:
-        'Use the curriculum, review it, pilot a unit, translate it, or help fund the work. Support is how the complete first pass becomes a curriculum tested by real communities.',
+        'Teach a unit, review lessons, translate materials, or fund the work. Share what needs to change for your community.',
       participateCta: 'Choose how to support WEC',
     },
     forTeachers: {
@@ -429,7 +417,7 @@ const en: UI = {
       kicker: 'For teachers',
       heroTitle: 'Pick a grade and jump in.',
       heroSubtitle:
-        'No onboarding, no account, no cost. Choose a grade, open the next lesson, and teach \u2014 today.',
+        'Free, printable lessons with clear timing, materials, and teaching steps.',
       whereTitle: 'Where are we this week?',
       whereIntro:
         'The school year runs 180 days, Monday through Friday, starting on the first weekday on or after September 1. Pick a grade to see which lesson a class is on today.',
@@ -444,29 +432,29 @@ const en: UI = {
       browseFullYear: 'to browse the full year.',
       chooseTitle: 'Choose a grade',
       chooseIntro:
-        'Every grade is a full, ordered school year \u2014 units and daily lessons that build on the last and set up the next.',
+        'Browse each grade’s ordered units and daily lessons.',
       madeTitle: 'Made for real classrooms',
       made: [
         {
           title: 'Low-tech, no-cost',
-          body: 'Every lesson has a low-tech / no-cost version. A bare classroom with no devices is a first-class setting, not an afterthought.',
+          body: 'Each lesson includes a version using simple or freely available materials.',
         },
         {
           title: 'Print in one click',
-          body: 'Every lesson and unit prints clean as a binder-ready page \u2014 grayscale-safe, with materials and timing up front.',
+          body: 'Lessons and units print in grayscale, with timing and materials up front.',
         },
         {
           title: 'Teach it day-of',
-          body: 'Duration, materials, and a step-by-step procedure are at the top of every lesson. No prep-reading required.',
+          body: 'Follow a step-by-step procedure, with guidance for the facilitator.',
         },
         {
-          title: 'Works without you',
-          body: 'Lessons are written learner-first, so a child can follow along with or without a teacher \u2014 useful for a substitute or a family.',
+          title: 'Written for learners',
+          body: 'Learners can read the instructions themselves or follow with support from a teacher, family member, or peer.',
         },
       ],
       fitTitle: 'How it fits your week',
       fitIntro:
-        'Everything is aligned grade by grade, so you can trust that today\u2019s lesson follows yesterday\u2019s and sets up tomorrow\u2019s.',
+        'Follow the sequence or choose lessons to suit your learners.',
       fitSteps: [
         { title: 'Open your grade', body: 'find the unit you\u2019re on.' },
         { title: 'Open the next lesson', body: 'read the materials and timing.' },
@@ -483,7 +471,7 @@ const en: UI = {
       kicker: 'For leaders & funders',
       heroTitle: 'A drop-in replacement for a struggling system.',
       heroSubtitle:
-        'One free, evidence-grounded K\u201312 curriculum that develops the whole human \u2014 emotionally, physically, intellectually, and ecologically \u2014 and is built to reach the world at no cost.',
+        'A free K\u201312 curriculum designed around the whole learner.',
       problemTitle: 'The problem',
       problemIntro:
         'Public education, across much of the world, is failing the whole human being.',
@@ -511,12 +499,12 @@ const en: UI = {
       ],
       solutionTitle: 'The solution',
       solutionLead:
-        'Whole Earth Curriculum (WEC) is a free, open, comprehensive K\u201312 curriculum with one aim: to produce humans who are emotionally, physically, intellectually, and contextually aware \u2014 of themselves, their communities, and the living systems they depend on \u2014 and so to raise the baseline standard of living for all life on Earth.',
+        'Schools, communities, families, and independent learners can use WEC in full or choose individual units.',
       solutionBody:
-        'It is organized under four dimensions \u2014 emotional & social, physical & somatic, intellectual & cognitive, and contextual & ecological awareness \u2014 spanning ten content areas into grade-level standards, units, and daily lessons. It is designed as a drop-in replacement and offered to the world at no cost.',
-      evidenceTitle: 'Why it will work \u2014 the evidence base',
+        'Four dimensions of learning connect ten content areas through grade-level goals, units, and daily lessons.',
+      evidenceTitle: 'The evidence behind the design',
       evidenceIntro:
-        'WEC is built on evidence that is well established in the learning sciences, not on fashion.',
+        'These studies inform the teaching approaches used in WEC.',
       evidenceCols: ['Commitment', 'Evidence it rests on', 'Source'],
       evidenceRows: [
         {
@@ -564,51 +552,49 @@ const en: UI = {
       ],
       lenses:
         'Four cross-cutting lenses \u2014 ethics, egalitarianism, global/anthropological perspective, and the effect of technology on humanity and the environment \u2014 are carried through every lesson, so values are not a unit but a habit.',
-      qualityTitle: 'How quality and alignment are guaranteed',
+      qualityTitle: 'How quality is checked',
       quality: [
         {
           title: 'Clear, auditable alignment',
-          body: 'Every lesson maps to clear, measurable learning goals that connect across grades and subjects. Automated checks keep the whole thing aligned.',
+          body: 'Automated checks verify that lessons link to learning goals across grades and subjects.',
         },
         {
-          title: 'Independent specialist review',
-          body: 'Every lesson is reviewed by specialists for accuracy, cultural fairness, accessibility, values, and developmental fit \u2014 and cannot ship until it passes.',
+          title: 'Human review',
+          body: 'Educators and subject, cultural, and accessibility experts are being recruited to review and improve the first pass.',
         },
         {
           title: 'Built for everyone',
-          body: 'Every lesson has low-tech and enriched material tiers, so it works in a bare classroom and a well-equipped one, and is written learner-first.',
+          body: 'Lessons include simple and enriched material options, with instructions addressed to the learner.',
         },
         {
           title: 'Honest and open',
-          body: 'Factual claims cite a vetted source registry; evidence is distinguished from values; content is free, forever.',
+          body: 'Factual claims link to the source registry; evidence and values are identified separately.',
         },
       ],
       whereTitle: 'Where it stands today',
       where: [
-        '<strong>975 standards</strong> \u2014 a complete K\u201312 vertical spine across ten content areas and four dimensions.',
-        '<strong>13 complete grades</strong> (Kindergarten through Grade 12) \u2014 each a full ~180-day year, all units and lessons authored end-to-end.',
-        '<strong>1,676 lessons</strong> and <strong>1,674 SVG assets</strong> \u2014 near 1:1, all accessible (alt text, grayscale-printable, diverse representation).',
-        '<strong>159 units</strong> across 13 grades, with a year-plan for every grade.',
+        '<strong>975 standards</strong> across ten content areas.',
+        '<strong>13 grades</strong> (K\u201312), each planned around a ~180-day year, with <strong>159 units</strong> in total.',
+        '<strong>1,676 lessons</strong> with <strong>1,674 SVG illustrations</strong>.',
         'A complete <strong>assessment framework, facilitation guide, developmental rubric, art/accessibility style guide, and evidence-grounded contexts guide</strong>.',
-        'An open, repeatable authoring process with automated checks and specialist review \u2014 so the full K\u201312 curriculum can be refined and extended at consistent quality.',
       ],
-      whereNote: 'Live counts, verified against the open curriculum as of August 2026.',
+      whereNote: 'Repository snapshot: August 2026.',
       sourcesCta: 'See the full source registry',
       askTitle: 'The ask',
       askIntro:
-        'Funding would convert a working, evidence-grounded core into a resource that can actually reach the world.',
+        'Fund a specific outcome:',
       ask: [
         {
-          title: 'Polish and deepen K\u201312',
-          body: 'the full first pass is authored; funding moves it from first pass to publication quality across all 13 grades.',
+          title: 'Polish the first pass',
+          body: 'improve clarity, depth, and materials across all 13 grades.',
         },
         {
           title: 'Human expert review',
-          body: 'a track for real educators, scientists, and cultural experts to validate and refine.',
+          body: 'support independent educators, scientists, and cultural experts in reviewing units.',
         },
         {
           title: 'Translation and localization',
-          body: 'so every child learns in their own language and context.',
+          body: 'translate materials and adapt them with local educators.',
         },
         {
           title: 'Delivery',
@@ -626,13 +612,13 @@ const en: UI = {
       title: 'Support Whole Earth Curriculum',
       description:
         'Pilot, review, translate, fund, or partner with Whole Earth Curriculum as the complete K–12 first pass moves into human validation and wider use.',
-      kicker: 'Turn a complete first pass into a shared public resource',
-      heroTitle: 'Help make it real in the world.',
+      kicker: 'The next stage',
+      heroTitle: 'Help improve the curriculum.',
       heroSubtitle:
-        'The K–12 curriculum is written, illustrated, open, and structurally validated. The next work is human: classroom pilots, expert review, localization, delivery, and the support that makes them possible.',
+        'The first K–12 draft is written and illustrated. Help test it in classrooms, review it, translate it, or make it easier to access.',
       pathsTitle: 'Choose your way in',
       pathsIntro:
-        'You do not need to take on the whole curriculum. Start with one useful, bounded contribution.',
+        'Start with one unit or contribution.',
       paths: [
         {
           key: 'pilot',
@@ -643,29 +629,29 @@ const en: UI = {
         {
           key: 'review',
           title: 'Review as an expert',
-          body: 'Review a bounded set of lessons through your teaching, subject, developmental, cultural, or accessibility expertise.',
+          body: 'Apply your teaching, subject, developmental, cultural, or accessibility expertise to a few lessons.',
           cta: 'Offer a review',
         },
         {
           key: 'localize',
           title: 'Translate or localize',
-          body: 'Help a unit speak accurately in another language, culture, place, or material reality.',
+          body: 'Adapt a unit for another language, culture, or setting.',
           cta: 'Propose a localization',
         },
         {
           key: 'fund',
           title: 'Fund or partner',
-          body: 'Support a measurable outcome such as a reviewed unit, a pilot cohort, a localization, or offline delivery.',
+          body: 'Fund a reviewed unit, classroom pilot, translation, or delivery project.',
           cta: 'Discuss a partnership',
         },
       ],
       pilotTitle: 'The first pilot cohort',
       pilotIntro:
-        'The initial cohort will test complete units in real learning settings and create the evidence needed for stronger adoption and cost estimates.',
+        'Work with a unit and share what you learn so the next version fits real teaching conditions.',
       pilotSteps: [
         {
-          title: 'Choose a bounded unit',
-          body: 'Select a grade and unit that fits your learners; whole-school adoption is not required.',
+          title: 'Choose a unit',
+          body: 'Pick a grade and topic that fit your learners.',
         },
         {
           title: 'Teach and observe',
@@ -684,7 +670,7 @@ const en: UI = {
         'The first cohort is curriculum improvement, not formal human-subjects research. Do not submit learner names, contact details, health information, images, or other personal student data.',
       budgetTitle: 'A budget built from real work',
       budgetIntro:
-        'WEC will not invent polished totals before the work is measured. Initial pilots and reviews will establish hours, rates, and coordination costs; each funded outcome will then publish its assumptions and actuals.',
+        'Pilots and reviews will establish the time and cost of the work. Each funded outcome will publish its estimate and actual spending.',
       budgetRows: [
         {
           outcome: 'Human review',
@@ -713,11 +699,11 @@ const en: UI = {
         },
       ],
       budgetPromise:
-        'The public budget will show the estimate, its assumptions, money received, money spent, remaining balance, and what changed. No donor receives private ownership of the curriculum.',
+        'We’ll publish funding received, spending, remaining balances, and changes to estimates. Contributions do not buy ownership of the curriculum.',
       budgetCta: 'Read the budget and measurement plan',
       formTitle: 'Tell us how you want to help',
       formIntro:
-        'This first form is intentionally broad. Responses will shape the pilot cohort, reviewer pool, localization priorities, and the first costed funding outcomes.',
+        'Tell us what you can offer and what support you need to take part.',
       form: {
         name: 'Name',
         email: 'Email',
@@ -767,14 +753,14 @@ const en: UI = {
       kicker: 'Interest received',
       heroTitle: 'Thank you for stepping in.',
       heroSubtitle:
-        'Your response will help shape the first pilot cohort, reviewer pool, localization priorities, partnerships, and costed public outcomes.',
+        'We’ll use your response to plan the work and follow up about your contribution.',
       back: 'Return to support',
       curriculum: 'Explore the curriculum',
     },
     sources: {
       title: 'Sources',
       intro:
-        'Every factual claim in the curriculum and on this site is backed by a vetted source, each reviewed by our fact-checker. This is the full registry \u2014 evidence and values are kept clearly apart.',
+        'Browse the references used throughout the curriculum. Entries link to the original sources and flag contested evidence.',
       reviewed: 'Reviewed',
       contested: 'Contested',
     },
@@ -827,7 +813,7 @@ const en: UI = {
     placeholder: 'Search lessons, units, standards\u2026',
     shortPlaceholder: 'Search\u2026',
     zeroResults: 'Nothing matched that search.',
-    hint: 'Search is built by Pagefind at build time \u2014 it works entirely in the browser with no third-party service.',
+    hint: 'Search runs in your browser using the site’s own index.',
     startTyping: 'Start typing to search.',
     filter: 'Filter by',
     type: 'Type',
