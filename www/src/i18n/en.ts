@@ -238,6 +238,13 @@ export interface UI {
     moreActions: string;
     draftNotice: string;
     qualityLink: string;
+    printUnit: string;
+    packTitle: string;
+    packIntro: string;
+    packMaterials: string;
+    packNoTechNote: string;
+    packDays: string;
+    packLessons: string;
   };
   footer: {
     tagline: string;
@@ -863,6 +870,15 @@ const en: UI = {
     moreActions: 'More actions',
     draftNotice: 'Machine-checked draft \u2014 not yet independently reviewed.',
     qualityLink: 'How quality is checked',
+    printUnit: 'Print all lessons',
+    packTitle: 'Unit pack',
+    packIntro:
+      'Every lesson in this unit in one printable document \u2014 for a binder, a substitute teacher, or a classroom with no internet.',
+    packMaterials: 'Materials for the whole unit',
+    packNoTechNote:
+      'None of this is required. Every lesson below also lists a no-cost, low-tech alternative that uses found objects, paper, voice, and body.',
+    packDays: 'Days',
+    packLessons: 'lessons',
   },
 
   footer: {

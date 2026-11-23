@@ -73,10 +73,13 @@ const images = await Promise.all(
 const otherAssets = assets.filter((a) => (a.kind ?? 'image') !== 'image');
 
 const materialTiers = [
-  { label: ui.common.standardMaterials, items: lessonEntry.data.materials },
+  // Low-tech first: it is the tier that works in a bare classroom, and burying
+  // it behind the standard list made the project's core promise invisible.
   { label: ui.common.lowTechMaterials, items: lessonEntry.data.materials_low_tech },
+  { label: ui.common.standardMaterials, items: lessonEntry.data.materials },
   { label: ui.common.enrichedMaterials, items: lessonEntry.data.materials_enriched },
 ];
+const visibleTiers = materialTiers.filter((tier) => (tier.items ?? []).length > 0);
 
 const title = `${lessonEntry.data.title} — ${ui.gradeLabel(gradeNum)} ${ui.common.lesson}`;
 const description = metaDescription(lessonEntry.data.summary);
@@ -124,6 +127,11 @@ const feedbackUrl =
   <div class="container">
     <Breadcrumbs crumbs={crumbs} />
 
+    <div class="print-only print-head">
+      <p class="print-head__id">{lessonEntry.data.id} · {ui.gradeLabel(gradeNum)} · {ui.common.unit} {unit}</p>
+      <p class="print-head__unit">{unitEntry?.data.title}</p>
+    </div>
+
     <PageActions print copy suggestHref={feedbackUrl} />
 
     <h1 class="page-title">
@@ -161,7 +169,7 @@ const feedbackUrl =
 
     {
       objectives.length > 0 && (
-        <details class="accordion">
+        <details class="accordion" open>
           <summary>{ui.common.objectives}</summary>
           <div class="accordion__body">
             <Objectives objectives={objectives} />
@@ -193,31 +201,24 @@ const feedbackUrl =
     }
 
     {
-      materialTiers.filter((t) => (t.items ?? []).length > 0).length > 0 && (
-        <details class="accordion">
-          <summary>{ui.common.materials}</summary>
-          <div class="accordion__body">
-            {
-              materialTiers.map((tier) => {
-                if (!(tier.items ?? []).length) return null;
-                return (
-                  <>
-                    <p class="section-label" style="margin-top:0.6rem">{tier.label}</p>
-                    <ul class="materials">
-                      {tier.items!.map((m) => (
-                        <li>
-                          <span>{m.name}</span>
-                          {m.quantity && <span class="qty">· {m.quantity}</span>}
-                          {m.notes && <span class="notes">{m.notes}</span>}
-                        </li>
-                      ))}
-                    </ul>
-                  </>
-                );
-              })
-            }
-          </div>
-        </details>
+      visibleTiers.length > 0 && (
+        <section class="lesson-materials">
+          <p class="section-label">{ui.common.materials}</p>
+          {visibleTiers.map((tier) => (
+            <>
+              <p class="materials__tier">{tier.label}</p>
+              <ul class="materials">
+                {tier.items!.map((m) => (
+                  <li>
+                    <span>{m.name}</span>
+                    {m.quantity && <span class="qty">· {m.quantity}</span>}
+                    {m.notes && <span class="notes">{m.notes}</span>}
+                  </li>
+                ))}
+              </ul>
+            </>
+          ))}
+        </section>
       )
     }
 

@@ -7,10 +7,11 @@ interface Props {
   print?: boolean;
   copy?: boolean;
   suggestHref?: string;
+  printAllHref?: string;
 }
 
-const { print = false, copy = false, suggestHref } = Astro.props;
-const hasActions = print || copy || !!suggestHref;
+const { print = false, copy = false, suggestHref, printAllHref } = Astro.props;
+const hasActions = print || copy || !!suggestHref || !!printAllHref;
 ---
 
 {
@@ -32,6 +33,11 @@ const hasActions = print || copy || !!suggestHref;
       </button>
 
       <div class="page-actions__row" id="page-actions-menu">
+        {printAllHref && (
+          <a class="btn btn--print" href={printAllHref}>
+            {ui.common.printUnit}
+          </a>
+        )}
         {print && <PrintButton />}
         {copy && <CopyLinkButton />}
         {suggestHref && (
