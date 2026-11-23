@@ -179,6 +179,29 @@ export interface UI {
       reviewed: string;
       contested: string;
     };
+    quality: {
+      title: string;
+      description: string;
+      intro: string;
+      checkedTitle: string;
+      checked: string[];
+      notCheckedTitle: string;
+      notChecked: string[];
+      numbersTitle: string;
+      rows: {
+        lessons: string;
+        units: string;
+        citations: string;
+        sources: string;
+        objectives: string;
+        thinUnits: string;
+        verdicts: string;
+      };
+      statusNote: string;
+      verdictNote: string;
+      snapshot: string;
+      repoCta: string;
+    };
   };
   common: {
     unit: string;
@@ -213,6 +236,8 @@ export interface UI {
     copied: string;
     suggestImprovement: string;
     moreActions: string;
+    draftNotice: string;
+    qualityLink: string;
   };
   footer: {
     tagline: string;
@@ -302,7 +327,7 @@ const en: UI = {
     howSteps: [
       'One vision guides every grade and subject.',
       'Learning goals connect lessons across subjects and grades.',
-      'Lessons follow published standards for accuracy, safety, and developmental fit.',
+      'Every lesson names the learning goals it serves, and automated checks verify every link.',
       'Read online or print, with no account or fee.',
     ],
     audienceTitle: 'Who are you here for?',
@@ -420,7 +445,7 @@ const en: UI = {
         'Free, printable lessons with clear timing, materials, and teaching steps.',
       whereTitle: 'Where are we this week?',
       whereIntro:
-        'The school year runs 180 days, Monday through Friday, starting on the first weekday on or after September 1. Pick a grade to see which lesson a class is on today.',
+        'The school year runs 180 days, Monday through Friday, starting on the first weekday on or after September 1. Pick a grade to see which lesson a class is on today under this one possible pacing. Units are a sequence, not a fixed calendar, so shift them to fit your term.',
       gradeLabel: 'Grade',
       update: 'Update',
       todayIs: 'Today is school day',
@@ -568,14 +593,14 @@ const en: UI = {
         },
         {
           title: 'Honest and open',
-          body: 'Factual claims link to the source registry; evidence and values are identified separately.',
+          body: 'Every source is listed in a public registry, and the share of lessons citing one is published openly.',
         },
       ],
       whereTitle: 'Where it stands today',
       where: [
         '<strong>975 standards</strong> across ten content areas.',
         '<strong>13 grades</strong> (K\u201312), each planned around a ~180-day year, with <strong>159 units</strong> in total.',
-        '<strong>1,676 lessons</strong> with <strong>1,674 SVG illustrations</strong>.',
+        '<strong>1,676 lessons</strong> with <strong>1,677 SVG illustrations</strong>.',
         'A complete <strong>assessment framework, facilitation guide, developmental rubric, art/accessibility style guide, and evidence-grounded contexts guide</strong>.',
       ],
       whereNote: 'Repository snapshot: August 2026.',
@@ -764,6 +789,43 @@ const en: UI = {
       reviewed: 'Reviewed',
       contested: 'Contested',
     },
+    quality: {
+      title: 'Quality checks',
+      description:
+        'What Whole Earth Curriculum verifies automatically, what it does not verify yet, and the current numbers.',
+      intro:
+        'This page states what the repository actually checks, and what it does not. The numbers are read from the curriculum files when the site is built, so they cannot drift from the content.',
+      checkedTitle: 'What is checked automatically',
+      checked: [
+        'Every file matches the published schema.',
+        'Every lesson names learning goals that resolve to a real standard.',
+        'Every lesson has the required sections and a complete structure.',
+        'Every illustration and asset a lesson references exists in the repository.',
+        'Every source a lesson cites is registered in the source registry.',
+      ],
+      notCheckedTitle: 'What is not checked yet',
+      notChecked: [
+        'Independent review by subject, cultural, and accessibility experts.',
+        'Whether a factual claim is correct \u2014 only that the source it cites is registered.',
+        'Classroom use, learning outcomes, and real material cost.',
+      ],
+      numbersTitle: 'Current numbers',
+      rows: {
+        lessons: 'Lessons',
+        units: 'Units',
+        citations: 'Lessons citing a registered source',
+        sources: 'Sources in the registry',
+        objectives: 'Learning goals covered by at least one lesson',
+        thinUnits: 'Units with fewer than four lessons',
+        verdicts: 'Recorded workflow review verdicts',
+      },
+      statusNote:
+        'Status describes authoring state, not quality: \u201cdraft\u201d means no independent human review has signed off yet.',
+      verdictNote:
+        'These verdicts come from the project\u2019s own agent workflow. They are not independent human review.',
+      snapshot: 'Generated from the repository at build time.',
+      repoCta: 'Inspect the validator and the source registry in the repository',
+    },
   },
 
   common: {
@@ -799,6 +861,8 @@ const en: UI = {
     copied: 'Copied',
     suggestImprovement: 'Suggest an improvement',
     moreActions: 'More actions',
+    draftNotice: 'Machine-checked draft \u2014 not yet independently reviewed.',
+    qualityLink: 'How quality is checked',
   },
 
   footer: {

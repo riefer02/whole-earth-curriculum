@@ -68,7 +68,7 @@ units:
     pillar: [P2]
     start_day: 111
     end_day: 124
-    lesson_count: 11
+    lesson_count: 10
   - unit_id: U.10.009
     title: "Global History: Time, Culture & Atrocity"
     domain: [D08]
@@ -89,14 +89,14 @@ units:
     pillar: [P4]
     start_day: 159
     end_day: 174
-    lesson_count: 13
+    lesson_count: 14
   - unit_id: U.10.012
     title: "All of Me, All of Us"
     domain: [D01, D02]
     pillar: [P1]
     start_day: 175
     end_day: 180
-    lesson_count: 4
+    lesson_count: 7
 domain_weighting:
   D01: 10
   D02: 10

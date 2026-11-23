@@ -6,7 +6,7 @@ import Objectives from '../../../../components/Objectives.astro';
 import PageActions from '../../../../components/PageActions.astro';
 import { ui } from '../../../../i18n';
 import { gradePath, lessonPath, domainPath, strandPath } from '../../../../lib/links';
-import { lessonsByUnit } from '../../../../lib/data';
+import { lessonsByUnit, firstParagraph } from '../../../../lib/data';
 import { buildStandardMap, resolveObjectives, buildDomainIndex } from '../../../../lib/standards';
 import { gradeValue, pillarValue } from '../../../../lib/filters';
 import { pad2 } from '../../../../lib/taxonomy';
@@ -41,6 +41,7 @@ const unitLessons = lessonMap.get(unitId) ?? [];
 const standardMap = buildStandardMap(domains);
 const objectives = resolveObjectives(unitEntry.data.objectives, standardMap);
 const { Content } = await render(unitEntry);
+const lede = unitEntry.data.summary ?? firstParagraph(unitEntry.body);
 
 const domainIndex = buildDomainIndex(domains);
 const pagefindFilters = [
@@ -68,7 +69,7 @@ const jsonLd = pageUrl ? breadcrumbJsonLd(crumbs, pageUrl) : undefined;
     <PageActions print copy />
 
     <h1 class="page-title">{unitEntry.data.title}</h1>
-    {unitEntry.data.summary && <p class="lede">{unitEntry.data.summary}</p>}
+    {lede && <p class="lede">{lede}</p>}
 
     <div class="badge-row">
       {(unitEntry.data.domain ?? []).map((d) => (

@@ -33,11 +33,10 @@ last_updated: 2026-08-16
 
 ## Overview
 
-A **rigor-calibration exemplar** for Grade 9 — the "hard topic held with nuance"
-bar. This unit shows how to teach a difficult subject (how societies reckon with
-injustice) with multiple perspectives, more than one ethical framework, and no
-contrived single answer — while keeping it emotionally safe. Evidence and values are
-distinguished throughout.
+This unit teaches a difficult subject — how societies reckon with injustice — with
+multiple perspectives, more than one ethical framework, and no contrived single
+answer, while keeping it emotionally safe. Evidence and values are distinguished
+throughout.
 
 ## Lessons
 

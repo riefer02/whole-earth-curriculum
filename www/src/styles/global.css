@@ -376,6 +376,15 @@ li {
   max-width: var(--prosew);
 }
 
+/* Honest authoring-state note under the badges. Present on screen and in print:
+   readers should never mistake an unreviewed draft for a reviewed lesson. */
+.draft-note {
+  margin: 0.25rem 0 1.25rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  max-width: var(--prosew);
+}
+
 /* Hero */
 .hero {
   padding-block: 3rem 2.5rem;

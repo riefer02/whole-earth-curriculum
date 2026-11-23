@@ -46,7 +46,7 @@ units:
     pillar: [P3]
     start_day: 64
     end_day: 81
-    lesson_count: 15
+    lesson_count: 16
   - unit_id: U.11.006
     title: "Science: Systems, Evidence & Our Origins"
     domain: [D06]
@@ -88,14 +88,14 @@ units:
     pillar: [P4]
     start_day: 162
     end_day: 176
-    lesson_count: 12
+    lesson_count: 14
   - unit_id: U.11.012
     title: "All of Me, All of Us"
     domain: [D01, D02]
     pillar: [P1]
     start_day: 177
     end_day: 180
-    lesson_count: 3
+    lesson_count: 7
 domain_weighting:
   D01: 10
   D02: 10

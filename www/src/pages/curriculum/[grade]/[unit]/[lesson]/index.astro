@@ -153,6 +153,12 @@ const feedbackUrl =
       )}
     </div>
 
+    {lessonEntry.data.status === 'draft' && (
+      <p class="draft-note">
+        {ui.common.draftNotice} <a href="/quality/">{ui.common.qualityLink}</a>
+      </p>
+    )}
+
     {
       objectives.length > 0 && (
         <details class="accordion">
