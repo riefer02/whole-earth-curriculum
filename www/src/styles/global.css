@@ -376,6 +376,15 @@ li {
   max-width: var(--prosew);
 }
 
+/* Honest authoring-state note under the badges. Present on screen and in print:
+   readers should never mistake an unreviewed draft for a reviewed lesson. */
+.draft-note {
+  margin: 0.25rem 0 1.25rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  max-width: var(--prosew);
+}
+
 /* Hero */
 .hero {
   padding-block: 3rem 2.5rem;
@@ -1629,6 +1638,26 @@ html[data-show-ids='on'] .id {
   padding-top: 0.5rem;
 }
 
+/* Print-only furniture: on screen these are hidden; on paper they identify
+   loose sheets (grade, unit, lesson id) so a printed set stays in order. */
+.print-only {
+  display: none;
+}
+
+/* Materials are always visible: the no-cost tier is the point, not a detail. */
+.lesson-materials {
+  margin: 1rem 0;
+}
+
+.materials__tier {
+  margin: 0.5rem 0 0.15rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
 /* Print — lessons/units should print as binders. Colors are reset via the
    token overrides in tokens.css; here we only adjust layout. */
 @media print {
@@ -1672,6 +1701,42 @@ html[data-show-ids='on'] .id {
 
   .accordion > .accordion__body {
     display: block !important;
+  }
+
+  /* The "+" marker is a screen affordance; on paper it printed as stray glyphs. */
+  .accordion > summary::after {
+    content: none !important;
+  }
+
+  .print-only {
+    display: block;
+  }
+
+  .print-head {
+    border-bottom: 1px solid #000;
+    padding-bottom: 0.35rem;
+    margin-bottom: 1rem;
+  }
+
+  .print-head p {
+    margin: 0;
+  }
+
+  .print-head__id {
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .print-head__unit {
+    font-size: 0.95rem;
+  }
+
+  /* Keep a lesson's heading with its opening paragraph, and start each lesson
+     of a unit pack on its own page. */
+  .print-lesson {
+    break-before: page;
   }
 }
 

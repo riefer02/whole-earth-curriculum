@@ -18,49 +18,49 @@ units:
     pillar: [P1]
     start_day: 1
     end_day: 15
-    lesson_count: 12
+    lesson_count: 14
   - unit_id: U.12.002
     title: "Body, Wellness & Lifelong Movement"
     domain: [D03]
     pillar: [P2]
     start_day: 16
     end_day: 29
-    lesson_count: 12
+    lesson_count: 14
   - unit_id: U.12.003
     title: "Relationships, Community & Collective Care"
     domain: [D02]
     pillar: [P1]
     start_day: 30
     end_day: 44
-    lesson_count: 12
+    lesson_count: 14
   - unit_id: U.12.004
     title: "Language, Literature & Deliberation"
     domain: [D04]
     pillar: [P3]
     start_day: 45
     end_day: 63
-    lesson_count: 16
+    lesson_count: 14
   - unit_id: U.12.005
     title: "Mathematics: Reasoning about Large Systems"
     domain: [D05]
     pillar: [P3]
     start_day: 64
     end_day: 81
-    lesson_count: 15
+    lesson_count: 14
   - unit_id: U.12.006
     title: "Science: Systems, Evidence & Our Origins"
     domain: [D06]
     pillar: [P3]
     start_day: 82
     end_day: 100
-    lesson_count: 16
+    lesson_count: 14
   - unit_id: U.12.007
     title: "Creative & Aesthetic Expression: A Capstone Voice"
     domain: [D07]
     pillar: [P3]
     start_day: 101
     end_day: 113
-    lesson_count: 10
+    lesson_count: 14
   - unit_id: U.12.008
     title: "Health, Nutrition & Care"
     domain: [D03]
@@ -74,7 +74,7 @@ units:
     pillar: [P4]
     start_day: 127
     end_day: 144
-    lesson_count: 15
+    lesson_count: 14
   - unit_id: U.12.010
     title: "Ethics, Justice & Civic Life"
     domain: [D09]
@@ -88,7 +88,7 @@ units:
     pillar: [P4]
     start_day: 162
     end_day: 176
-    lesson_count: 12
+    lesson_count: 14
   - unit_id: U.12.012
     title: "All of Me, All of Us"
     domain: [D01, D02]

@@ -23,6 +23,11 @@ export function lessonPath(lessonId: string): string {
   return `/curriculum/${pad2(gg)}/${pad2(nnn)}/${pad2(nn)}/`;
 }
 
+/** The unit's single-document print pack. */
+export function unitPrintPath(unitId: string): string {
+  return `${unitPath(unitId)}print/`;
+}
+
 export function domainPath(domainId: string): string {
   return `/standards/${domainId.toLowerCase()}/`;
 }

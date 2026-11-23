@@ -31,11 +31,10 @@ last_updated: 2026-08-16
 
 ## Overview
 
-A **rigor-calibration exemplar** for Grade 9. This unit shows the bar for high-grade
-science: building an evidence-based explanation that links data to a claim and states
-its limits, and critically evaluating sources — taught through a topic that demands
-the distinction between evidence, values, and certainty. Inquiry over creed; data over
-assertion.
+This unit builds the core of high-school science: an evidence-based explanation that
+links data to a claim and states its limits, and the critical evaluation of sources —
+taught through a topic that demands the distinction between evidence, values, and
+certainty. Inquiry over creed; data over assertion.
 
 ## Lessons
 

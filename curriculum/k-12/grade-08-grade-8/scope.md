@@ -27,7 +27,7 @@ units:
     pillar: [P2]
     start_day: 16
     end_day: 28
-    lesson_count: 8
+    lesson_count: 7
   - unit_id: U.08.003
     title: "Relationships, Empathy & Conflict"
     domain: [D02]
@@ -41,42 +41,42 @@ units:
     pillar: [P3]
     start_day: 44
     end_day: 63
-    lesson_count: 14
+    lesson_count: 11
   - unit_id: U.08.005
     title: "Functions, Linear Equations, Geometry & Data"
     domain: [D05]
     pillar: [P3]
     start_day: 64
     end_day: 83
-    lesson_count: 14
+    lesson_count: 11
   - unit_id: U.08.006
     title: "Science: Systems, Evidence & Models"
     domain: [D06]
     pillar: [P3]
     start_day: 84
     end_day: 101
-    lesson_count: 12
+    lesson_count: 10
   - unit_id: U.08.007
     title: "Making, Composing, Devising & Designing"
     domain: [D07]
     pillar: [P3]
     start_day: 102
     end_day: 114
-    lesson_count: 8
+    lesson_count: 10
   - unit_id: U.08.008
     title: "Healthy, Safe & Strong: Substance & Self-Care"
     domain: [D03]
     pillar: [P2]
     start_day: 115
     end_day: 127
-    lesson_count: 8
+    lesson_count: 10
   - unit_id: U.08.009
     title: "Trade, Knowledge Systems & the Human Story"
     domain: [D08]
     pillar: [P4]
     start_day: 128
     end_day: 145
-    lesson_count: 12
+    lesson_count: 10
   - unit_id: U.08.010
     title: "Ethics, Justice & Civic Power"
     domain: [D09]

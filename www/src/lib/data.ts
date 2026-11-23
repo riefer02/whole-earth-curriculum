@@ -34,3 +34,29 @@ export function scopeByGrade(
   }
   return map;
 }
+
+/**
+ * First real paragraph of a markdown body. Unit files open with
+ * `# Unit N — Title` then `## Overview`, so the page lede is derived from the
+ * overview paragraph instead of requiring a `summary` field on every unit.
+ */
+export function firstParagraph(body: string | undefined): string | undefined {
+  if (!body) return undefined;
+  for (const block of body.replace(/\r\n/g, '\n').split(/\n\s*\n/)) {
+    const text = block.trim();
+    if (!text) continue;
+    if (/^(#|>|\||---|```|[-*+]\s|\d+\.\s)/.test(text)) continue;
+    if (text.length < 80) continue;
+    const clean = text
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+      .replace(/\*\*|__/g, '')
+      .replace(/(^|[\s(])\*([^*\n]+)\*(?=[\s).,;:!?]|$)/g, '$1$2')
+      .replace(/\s+/g, ' ')
+      .trim();
+    // A page lede is a lead-in, not the whole overview: keep two sentences.
+    const [first, second] = clean.split(/(?<=[.!?])\s+/);
+    return second ? `${first} ${second}` : first;
+  }
+  return undefined;
+}

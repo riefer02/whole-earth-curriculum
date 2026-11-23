@@ -1,0 +1,99 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ui } from '../../i18n';
+import { loadSources } from '../../lib/sources';
+import { lessonsByUnit } from '../../lib/data';
+import { citationCoverage, objectiveCoverage, reviewVerdicts, tallyStatus } from '../../lib/quality';
+
+const p = ui.pages.quality;
+
+const [lessons, units, domains] = await Promise.all([
+  getCollection('lessons'),
+  getCollection('units'),
+  getCollection('domains'),
+]);
+
+const sources = loadSources();
+const lessonStatus = tallyStatus(lessons);
+const unitStatus = tallyStatus(units);
+const citations = citationCoverage(lessons);
+const objectives = objectiveCoverage(domains, lessons);
+const verdicts = reviewVerdicts();
+
+const numbers = (value: number) => value.toLocaleString('en-US');
+const statuses = (byStatus: Record<string, number>) =>
+  Object.entries(byStatus)
+    .sort((a, b) => b[1] - a[1])
+    .map(([status, count]) => `${numbers(count)} ${status}`)
+    .join(' \u00b7 ');
+
+const byUnit = lessonsByUnit(lessons);
+const thinUnits = units
+  .map((unit) => ({ id: unit.data.id ?? '', count: (byUnit.get(unit.data.id ?? '') ?? []).length }))
+  .filter((unit) => unit.count > 0 && unit.count < 4);
+
+const rows = [
+  { label: p.rows.lessons, value: `${numbers(lessonStatus.total)} \u2014 ${statuses(lessonStatus.byStatus)}` },
+  { label: p.rows.units, value: `${numbers(unitStatus.total)} \u2014 ${statuses(unitStatus.byStatus)}` },
+  {
+    label: p.rows.citations,
+    value: `${numbers(citations.citing)} / ${numbers(citations.total)} (${citations.percent}%)`,
+  },
+  { label: p.rows.sources, value: numbers(sources.length) },
+  {
+    label: p.rows.objectives,
+    value: `${numbers(objectives.taught)} / ${numbers(objectives.declared)}`,
+  },
+  {
+    label: p.rows.thinUnits,
+    value: thinUnits.length ? thinUnits.map((u) => u.id).join(', ') : '\u2014',
+  },
+  {
+    label: p.rows.verdicts,
+    value: `${numbers(verdicts.passed)} passed \u00b7 ${numbers(verdicts.blocked)} blocked`,
+  },
+];
+
+const repoUrl = 'https://github.com/riefer02/whole-earth-curriculum';
+---
+
+<BaseLayout title={p.title} description={p.description}>
+  <div class="container container--prose">
+    <h1 class="page-title">{p.title}</h1>
+    <p class="lede">{p.intro}</p>
+
+    <h2 class="section-label">{p.checkedTitle}</h2>
+    <ul class="prose">
+      {p.checked.map((item) => <li>{item}</li>)}
+    </ul>
+
+    <h2 class="section-label">{p.notCheckedTitle}</h2>
+    <ul class="prose">
+      {p.notChecked.map((item) => <li>{item}</li>)}
+    </ul>
+
+    <h2 class="section-label">{p.numbersTitle}</h2>
+    <div class="prose">
+      <table>
+        <tbody>
+          {
+            rows.map((row) => (
+              <tr>
+                <th scope="row">{row.label}</th>
+                <td>{row.value}</td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+    <p class="draft-note">{p.statusNote}</p>
+    <p class="draft-note">{p.verdictNote}</p>
+    <p class="draft-note">{p.snapshot}</p>
+
+    <p>
+      <a class="btn btn--ghost" href={repoUrl}>{p.repoCta}</a>
+    </p>
+  </div>
+</BaseLayout>

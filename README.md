@@ -73,5 +73,11 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md). If you are an AI agent, read
 
 ## License
 
-Curriculum content: [CC BY-SA 4.0](LICENSE) (free, with attribution + share-alike).
-Tooling under `tools/`: MIT (`tools/LICENSE`).
+**Curriculum content** — all content under `curriculum/`, `assets/`, and `docs/`, and
+the published site — is licensed [CC BY-SA 4.0](LICENSE) (free, with attribution and
+share-alike). The full legal code is in [`LICENSE`](LICENSE).
+
+**Tooling** — everything under `tools/` is MIT licensed; see [`tools/LICENSE`](tools/LICENSE).
+
+You may teach, print, copy, and adapt this curriculum commercially or non-commercially,
+provided you credit the source and license any adaptation under the same terms.

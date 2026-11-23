@@ -16,6 +16,9 @@ export default defineConfig({
     sitemap({
       filter: (page) => {
         const { pathname } = new URL(page);
+        // Print packs are noindex duplicates of lesson pages: keep them out of
+        // the sitemap so search engines see one canonical copy of each lesson.
+        if (/\/print\/$/.test(pathname)) return false;
         return !pathname.startsWith('/search/') && !pathname.startsWith('/support/thanks/');
       },
     }),

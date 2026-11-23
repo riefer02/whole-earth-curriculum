@@ -20,14 +20,14 @@ units:
     pillar: [P3]
     start_day: 1
     end_day: 5
-    lesson_count: 4
+    lesson_count: 1
   - unit_id: U.09.002
     title: "Remembering a Painful Past"
     domain: [D09, D08]
     pillar: [P4]
     start_day: 6
     end_day: 10
-    lesson_count: 4
+    lesson_count: 1
   - unit_id: U.09.003
     title: "Feelings, Identity & Purpose"
     domain: [D01]

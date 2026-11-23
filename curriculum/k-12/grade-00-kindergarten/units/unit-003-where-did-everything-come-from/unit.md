@@ -36,8 +36,8 @@ last_updated: 2026-08-15
 This unit lets Kindergarten learners meet the oldest and biggest human question —
 where did everything come from? — as *wonder*, not as a test. The Big Bang is told as
 a story grounded in evidence, and held alongside other peoples' origin stories,
-without requiring belief. This unit is the exemplar for the "inquiry over creed"
-voice (see [`docs/philosophy.md`](../../../../docs/philosophy.md) §11).
+without requiring belief. It models the approach set out in
+[`docs/philosophy.md`](../../../../docs/philosophy.md) §11: inquiry over creed.
 
 ## Essential questions
 

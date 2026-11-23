@@ -31,10 +31,9 @@ last_updated: 2026-08-16
 
 ## Overview
 
-A **rigor-calibration exemplar** for Grade 5. This unit shows the bar for middle-grade
-science: real inquiry with controls, a hands-on investigation, and the explicit
-distinction between evidence, inference, and opinion — concrete, but genuinely
-rigorous.
+This unit sets the pace for middle-grade science: real inquiry with controls, a
+hands-on investigation, and the explicit distinction between evidence, inference, and
+opinion — concrete, but genuinely rigorous.
 
 ## Essential questions
 

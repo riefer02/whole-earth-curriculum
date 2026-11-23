@@ -1,0 +1,170 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import { ui } from '../../../../i18n';
+import { lessonsByUnit } from '../../../../lib/data';
+import { buildStandardMap, resolveObjectives } from '../../../../lib/standards';
+import { pad2 } from '../../../../lib/taxonomy';
+import { metaDescription } from '../../../../lib/seo';
+
+// A unit as one printable document. Everything here is derived: lesson bodies
+// are rendered from the same files the lesson pages use, and the kit is a union
+// of the materials already declared in frontmatter. No content is authored for
+// this page.
+
+export async function getStaticPaths() {
+  const units = await getCollection('units');
+  return units
+    .filter((u) => typeof u.data.grade === 'number' && u.data.id)
+    .map((u) => {
+      const m = (u.data.id as string).match(/^U\.(\d+)\.(\d+)$/);
+      return { params: { grade: pad2(u.data.grade as number), unit: pad2(m?.[2] ?? '0') } };
+    });
+}
+
+const { grade, unit } = Astro.params;
+const unitId = `U.${grade}.${unit}`;
+const gradeNum = Number(grade);
+
+const [unitEntry, lessons, scopes, domains] = await Promise.all([
+  getEntry('units', unitId),
+  getCollection('lessons'),
+  getCollection('scopes'),
+  getCollection('domains'),
+]);
+
+if (!unitEntry) return Astro.redirect('/curriculum/');
+
+const standardMap = buildStandardMap(domains);
+const objectives = resolveObjectives(unitEntry.data.objectives, standardMap);
+
+const unitLessons = lessonsByUnit(lessons).get(unitId) ?? [];
+const scope = scopes.find((s) => s.data.grade === gradeNum);
+const scopeUnit = (scope?.data.units ?? []).find((u) => u.unit_id === unitId);
+
+const rendered = await Promise.all(
+  unitLessons.map(async (lesson) => ({ lesson, Content: (await render(lesson)).Content })),
+);
+
+const totalMinutes = unitLessons.reduce((sum, l) => sum + (l.data.duration_minutes ?? 0), 0);
+
+/** Union of a material list across lessons, deduplicated by name. */
+function kit(pick: (lesson: (typeof unitLessons)[number]) => { name?: string }[] | undefined) {
+  const seen = new Map<string, string>();
+  for (const lesson of unitLessons) {
+    for (const item of pick(lesson) ?? []) {
+      const name = (item.name ?? '').trim();
+      if (!name) continue;
+      const key = name.toLowerCase();
+      if (!seen.has(key)) seen.set(key, name);
+    }
+  }
+  return [...seen.values()];
+}
+
+const standardKit = kit((l) => l.data.materials);
+const enrichedKit = kit((l) => l.data.materials_enriched);
+
+const title = `${unitEntry.data.title} \u2014 ${ui.gradeLabel(gradeNum)} ${ui.common.packTitle}`;
+const description = metaDescription(
+  `${ui.common.packTitle}: ${unitLessons.length} ${ui.common.packLessons} \u2014 ${unitEntry.data.title}`,
+);
+---
+
+<BaseLayout title={title} description={description} noindex>
+  <div class="container" data-pagefind-ignore>
+    <p class="print-only print-head__id">
+      {unitEntry.data.id} · {ui.gradeLabel(gradeNum)} · {ui.common.packTitle}
+    </p>
+
+    <h1 class="page-title">{unitEntry.data.title}</h1>
+    <p class="lede">{ui.common.packIntro}</p>
+
+    <div class="badge-row">
+      <span class="badge">{unitLessons.length} {ui.common.packLessons}</span>
+      {totalMinutes > 0 && (
+        <span class="badge">{totalMinutes} {ui.common.durationMinutes}</span>
+      )}
+      {scopeUnit?.start_day !== undefined && scopeUnit?.end_day !== undefined && (
+        <span class="badge">{ui.common.packDays} {scopeUnit.start_day}–{scopeUnit.end_day}</span>
+      )}
+    </div>
+
+    <p class="draft-note">
+      {ui.common.draftNotice} <a href="/quality/">{ui.common.qualityLink}</a>
+    </p>
+
+    <h2 class="section-label">{ui.common.objectives}</h2>
+    <ul class="prose">
+      {objectives.map((objective) => <li>{objective.text}</li>)}
+    </ul>
+
+    {
+      (unitEntry.data.essential_questions ?? []).length > 0 && (
+        <>
+          <h2 class="section-label">{ui.common.essentialQuestions}</h2>
+          <ul class="prose">
+            {unitEntry.data.essential_questions!.map((question) => (
+              <li>{question}</li>
+            ))}
+          </ul>
+        </>
+      )
+    }
+
+    <h2 class="section-label">{ui.common.packMaterials}</h2>
+    <p class="draft-note">{ui.common.packNoTechNote}</p>
+    {
+      [
+        { label: ui.common.standardMaterials, items: standardKit },
+        { label: ui.common.enrichedMaterials, items: enrichedKit },
+      ]
+        .filter((tier) => tier.items.length > 0)
+        .map((tier) => (
+          <>
+            <p class="materials__tier">{tier.label}</p>
+            <ul class="materials">
+              {tier.items.map((name) => (
+                <li>
+                  <span>{name}</span>
+                </li>
+              ))}
+            </ul>
+          </>
+        ))
+    }
+
+    {
+      rendered.map(({ lesson, Content }) => (
+        <section class="print-lesson">
+          <h2>
+            {ui.common.lesson} {lesson.data.sequence_in_unit} — {lesson.data.title}
+          </h2>
+          <p class="draft-note">
+            {lesson.data.id}
+            {lesson.data.duration_minutes ? ` · ${lesson.data.duration_minutes} ${ui.common.durationMinutes}` : ''}
+            {lesson.data.status ? ` · ${ui.status[lesson.data.status] ?? lesson.data.status}` : ''}
+          </p>
+
+          {(lesson.data.materials_low_tech ?? []).length > 0 && (
+            <>
+              <p class="materials__tier">{ui.common.lowTechMaterials}</p>
+              <ul class="materials">
+                {lesson.data.materials_low_tech!.map((item) => (
+                  <li>
+                    <span>{item.name}</span>
+                    {item.notes && <span class="notes">{item.notes}</span>}
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
+
+          <div class="prose prose--no-h1">
+            <Content />
+          </div>
+        </section>
+      ))
+    }
+  </div>
+</BaseLayout>
