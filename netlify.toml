@@ -2,6 +2,12 @@
   base = "www"
   command = "npm run build"
   publish = "dist"
+  # The curriculum lives OUTSIDE this base directory (curriculum/, assets/,
+  # sources/), but Netlify's change detection only watches the base. Left to
+  # itself it cancels the deploy of a content-only commit with "no content
+  # change" — so a lesson edit silently never reaches the site. A lesson commit
+  # on 2026-11-24 was lost exactly this way. Non-zero means "do build".
+  ignore = "exit 1"
 
 [build.environment]
   NODE_VERSION = "22"
