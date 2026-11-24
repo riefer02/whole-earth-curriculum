@@ -64,7 +64,7 @@ context_variants:
     note: Learners ready to extend connect all six pages into one spoken reflection on who they are becoming
 assets:
   - path: assets/images/L.04.012.07-all-of-me-all-of-us-celebration.svg
-    alt: "A year-end celebration. In the middle, a child holds up a portfolio page with a star and a sprout while friends clap. Around the circle, six labeled pages are displayed equally: 'me,' 'my tradition,' 'my goal,' 'my role,' 'welcome,' and 'my care act.' An arrow points ahead to a flag labeled 'Grade 5.' People vary in skin tone and dress; one child uses a wheelchair and one wears a hearing aid."
+    alt: "A year-end celebration. Six page cards hang in an equal row — 'me', 'my tradition', 'my goal', 'my role', 'welcome', 'my care act' — joined by a bracket and leader to a group of children below. In the middle, a child holds up a page with a star and a sprout while friends clap; one friend uses a wheelchair and one wears a hearing aid. An arrow points down to a flag labelled 'Grade 5.' People vary in skin tone and dress."
     kind: image
     source: original
 duration_minutes: 60

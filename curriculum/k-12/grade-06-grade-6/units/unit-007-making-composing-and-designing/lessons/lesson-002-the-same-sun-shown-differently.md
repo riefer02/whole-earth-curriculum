@@ -55,7 +55,7 @@ context_variants:
     note: Look at how the sun is pictured in the local environment — a mural, a woven pattern, a drawn sign — and compare it to one card, offering a reason for the difference
 assets:
   - path: assets/images/L.06.007.02-same-sun-two-ways.svg
-    alt: "A two-panel comparison titled 'The same sun, shown differently.' The left panel, labeled 'ancient Egypt — a winged sun disk,' shows a circle with outstretched wings and small rays, with labels 'a circle with wings — the sun god's protection,' 'gold and pigment on temple stone,' and 'a divine power to honor.' The right panel, labeled 'Japan — an Edo woodblock sun,' shows a flat red disc low in a landscape of waves and a mountain, with labels 'a flat red disc — simple and symbolic,' 'ink and color printed on paper,' and 'part of the land, for many homes to see.' Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale."
+    alt: "A two-panel comparison titled 'The same sun, shown differently.' The left panel, labeled 'ancient Egypt — a winged sun disk,' shows a circle with outstretched wings and small rays, with labels 'a circle with wings — the sun god's protection,' 'gold and pigment on temple stone,' and 'a divine power to honor.' The right panel, labeled 'Japan — an Edo woodblock sun,' shows a flat red disc low in a landscape of waves and a mountain, with labels 'a flat red disc — simple and symbolic,' 'ink and color printed on paper,' and 'part of the land, for many to see.' Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale."
     kind: image
     source: original
 duration_minutes: 50

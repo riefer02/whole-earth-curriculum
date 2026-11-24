@@ -57,7 +57,7 @@ context_variants:
     note: Critique movement outdoors — a game, a dance, a ritual, or everyday gesture — using the four lenses where they apply
 assets:
   - path: assets/images/L.08.007.07-performance-elements.svg
-    alt: A simple human figure in a reaching pose surrounded by four labeled callouts — movement and action, expression and energy, context, and purpose
+    alt: "A performer caught mid-gesture on a low stage — one arm swept up, one arm out with a hand, weight on one leg and the other leg extended back. Four labelled boxes stand around them, each joined by a thin leader line — movement and action (levels, speed, space), expression and energy (face, force, feeling), context (where, when, tradition), and purpose (what it means to say). A closing line reads 'separate what you saw from what you felt about it.'"
     kind: image
     source: original
 duration_minutes: 55

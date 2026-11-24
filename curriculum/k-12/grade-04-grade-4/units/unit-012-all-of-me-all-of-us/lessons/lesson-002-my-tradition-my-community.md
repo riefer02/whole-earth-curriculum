@@ -52,7 +52,7 @@ context_variants:
     note: Learners ready to extend compare two traditions and name what they have in common
 assets:
   - path: assets/images/L.04.012.02-my-tradition-my-community.svg
-    alt: "A tradition web. In the center, a small circle labeled 'my tradition' holds a family sharing a meal, a lantern, and a drum. Lines radiate outward to a larger circle labeled 'the larger community' that shows a mosque, a church, a temple, a market, and a gathering of many hands. The lines show how one family's tradition connects to a whole community. People vary in skin tone and dress, and one figure uses a cane."
+    alt: "A tradition web. In the centre, a circle labelled 'my tradition' holds a family sharing a meal at a table, steam rising from a shared bowl. Lines radiate outward to a dashed ring labelled 'the larger community', which shows a mosque, a church, a temple, a market stall and a group of neighbours; a leader joins the ring to those words. People vary in skin tone and dress."
     kind: image
     source: original
 duration_minutes: 50

@@ -50,7 +50,7 @@ context_variants:
     note: Sit by a real tree or a growing plant and use its roots-and-branches shape to draw the values map in the earth or on paper
 assets:
   - path: assets/images/L.12.010.03-how-my-values-formed.svg
-    alt: "A tree. Roots are labeled 'family,' 'community,' 'culture,' 'faith,' 'school,' 'peers,' 'media,' 'experience.' The trunk is labeled 'my values.' Branches are labeled 'still growing' and 'still open — a question, not a creed.' Labels carry the meaning, so it prints in grayscale."
+    alt: "A tree. Roots are labeled 'family,' 'community,' 'culture,' 'faith,' 'school,' 'peers,' 'media,' 'experience.' The trunk is labeled 'my values.' Branches are labeled 'still growing' and 'still open' and 'question, not creed.' Labels carry the meaning, so it prints in grayscale."
     kind: image
     source: original
 duration_minutes: 55

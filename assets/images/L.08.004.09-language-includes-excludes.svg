@@ -6,33 +6,79 @@
 
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Language is a door</text>
 
-  <!-- left open door -->
-  <rect x="48" y="150" width="90" height="150" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="3"/>
-  <rect x="48" y="150" width="90" height="150" fill="none"/>
-  <path d="M138,150 L48,86 L48,150" fill="none" stroke="#2b3a42" stroke-width="3"/>
-  <path d="M48,86 L138,150" stroke="#2b3a42" stroke-width="1.5" stroke-dasharray="6,6"/>
-  <!-- figure walking in -->
-  <circle cx="82" cy="220" r="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M82,230 L82,268" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M82,240 L66,256 M82,240 L98,256" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M82,268 L70,288 M82,268 L94,288" stroke="#2b3a42" stroke-width="2"/>
-  <text x="93" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">welcomes</text>
-  <text x="93" y="354" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">plain words,</text>
-  <text x="93" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">everyone's language</text>
+  <!-- left door, standing open -->
+  <rect x="48" y="150" width="90" height="150" fill="#eef5ec" stroke="#2b3a42" stroke-width="3"/>
+  <path d="M 48 152 L 16 168 L 16 312 L 48 300 Z" fill="#7a9e7e" fill-opacity="0.45"
+        stroke="#2b3a42" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="29" y="229" width="13" height="4.5" rx="2" fill="#2b3a42"/>
 
-  <!-- right closed door -->
-  <rect x="374" y="150" width="90" height="150" fill="#e0a458" opacity="0.5" stroke="#2b3a42" stroke-width="3"/>
-  <path d="M374,86 L374,150" stroke="#2b3a42" stroke-width="3"/>
-  <path d="M374,86 L464,150" stroke="#2b3a42" stroke-width="3"/>
-  <circle cx="452" cy="236" r="3" fill="#222222"/>
-  <!-- figure standing outside -->
-  <circle cx="320" cy="228" r="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M320,238 L320,276" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M320,248 L304,264 M320,248 L336,264" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M320,276 L308,296 M320,276 L332,296" stroke="#2b3a42" stroke-width="2"/>
-  <text x="419" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">shuts out</text>
-  <text x="419" y="354" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">jargon,</text>
-  <text x="419" y="370" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">one language only</text>
+  <!-- someone walking in, through the open door -->
+  <g>
+    <path d="M 91 258 L 100 274 L 101 288" fill="none" stroke="#4f6d7a" stroke-width="11"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 95 258 L 86 274 L 85 288" fill="none" stroke="#4f6d7a" stroke-width="11"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="103" cy="291" rx="8" ry="4.5" fill="#2b3a42"/>
+    <ellipse cx="83" cy="291" rx="8" ry="4.5" fill="#2b3a42"/>
+    <path d="M 81 218 Q 81 208 91 206 L 95 206 Q 105 208 105 218 L 105 254 Q 105 260 98 260
+             L 88 260 Q 81 260 81 254 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"
+          stroke-linejoin="round"/>
+    <path d="M 83 222 Q 74 242 76 256" fill="none" stroke="#c98d5f" stroke-width="9"
+          stroke-linecap="round"/>
+    <path d="M 103 222 Q 112 242 110 256" fill="none" stroke="#c98d5f" stroke-width="9"
+          stroke-linecap="round"/>
+    <circle cx="93" cy="194" r="13" fill="#c98d5f" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 80 192 Q 80 179 93 179 Q 106 179 106 192 Q 99 184 93 184 Q 87 184 80 192 Z"
+          fill="#2b3a42"/>
+    <circle cx="88" cy="195" r="1.8" fill="#2b3a42"/>
+    <circle cx="98" cy="195" r="1.8" fill="#2b3a42"/>
+    <path d="M 88 202 q 5 3 10 0" fill="none" stroke="#2b3a42" stroke-width="1.8"
+          stroke-linecap="round"/>
+  </g>
+
+  <text x="93" y="336" text-anchor="middle" font-family="sans-serif" font-size="13"
+        font-weight="bold" fill="#222222">welcomes</text>
+  <text x="93" y="354" text-anchor="middle" font-family="sans-serif" font-size="12"
+        fill="#222222">plain words,</text>
+  <text x="93" y="370" text-anchor="middle" font-family="sans-serif" font-size="12"
+        fill="#222222">everyone's language</text>
+
+  <!-- right door, shut -->
+  <rect x="374" y="150" width="90" height="150" fill="#f7e6cc" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="383" y="159" width="72" height="132" fill="#e0a458" fill-opacity="0.45"
+        stroke="#2b3a42" stroke-width="2"/>
+  <rect x="434" y="228" width="14" height="5" rx="2.5" fill="#2b3a42"/>
+
+  <!-- someone standing outside the shut door -->
+  <g>
+    <path d="M 334 266 L 332 292" fill="none" stroke="#4f6d7a" stroke-width="12"
+          stroke-linecap="round"/>
+    <path d="M 342 266 L 344 292" fill="none" stroke="#4f6d7a" stroke-width="12"
+          stroke-linecap="round"/>
+    <ellipse cx="330" cy="295" rx="9" ry="5" fill="#2b3a42"/>
+    <ellipse cx="346" cy="295" rx="9" ry="5" fill="#2b3a42"/>
+    <path d="M 323 226 Q 323 216 333 214 L 343 214 Q 353 216 353 226 L 353 262 Q 353 268
+             345 268 L 331 268 Q 323 268 323 262 Z" fill="#6b93b6" stroke="#2b3a42"
+          stroke-width="2" stroke-linejoin="round"/>
+    <path d="M 325 230 Q 316 252 318 266" fill="none" stroke="#8f5f3d" stroke-width="9"
+          stroke-linecap="round"/>
+    <path d="M 351 230 Q 360 252 358 266" fill="none" stroke="#8f5f3d" stroke-width="9"
+          stroke-linecap="round"/>
+    <circle cx="338" cy="202" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 325 200 Q 325 187 338 187 Q 351 187 351 200 Q 344 192 338 192 Q 332 192 325 200 Z"
+          fill="#2b3a42"/>
+    <circle cx="333" cy="203" r="1.8" fill="#2b3a42"/>
+    <circle cx="343" cy="203" r="1.8" fill="#2b3a42"/>
+    <path d="M 334 210 q 4 -3 8 0" fill="none" stroke="#2b3a42" stroke-width="1.8"
+          stroke-linecap="round"/>
+  </g>
+
+  <text x="419" y="336" text-anchor="middle" font-family="sans-serif" font-size="13"
+        font-weight="bold" fill="#222222">shuts out</text>
+  <text x="419" y="354" text-anchor="middle" font-family="sans-serif" font-size="12"
+        fill="#222222">jargon,</text>
+  <text x="419" y="370" text-anchor="middle" font-family="sans-serif" font-size="12"
+        fill="#222222">one language only</text>
 
   <text x="256" y="416" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">Who can come in?</text>
   <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">We choose whether the door is open.</text>

@@ -1,76 +1,175 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
   <title id="t">Peers and media shape my self-image</title>
-  <desc id="d">A diagram of two forces shaping self-image. In the center is a figure holding a small mirror labeled "how I see myself." From the left, an arrow labeled "peers" comes from a group of three figures with a speech bubble reading "everyone has one." From the right, an arrow labeled "media" comes from a phone screen showing a row of sparkly, edited-looking images. A caption reads "Peers and media are like mirrors — some mirrors are warped. Noticing the influence gives me power." Shapes, labels, and arrows, not color alone, carry the meaning, so the diagram prints clearly in grayscale.</desc>
+  <desc id="d">A young person stands at the centre, holding a hand mirror up before them; the mirror is
+    labelled “me”. From the left an arrow labelled “peers” points in, coming from three standing
+    friends of different skin tones and heights, one of whom says “everyone has one”. From the
+    right an arrow labelled “media” points in, coming from a phone showing three sparkly, edited
+    pictures above the words “edited, curated”. Below, a caption reads: peers and media are like
+    mirrors — some mirrors are warped, and noticing that gives me power.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Two Forces Shape My Self-Image</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24"
+        font-weight="bold" fill="#2b3a42">Two Forces Shape My Self-Image</text>
 
-  <!-- Center figure -->
+  <!-- the two forces, drawn under the artwork so each arrow meets the body edge -->
+  <g stroke="#e0a458" stroke-width="3" stroke-linecap="round">
+    <line x1="166" y1="258" x2="202" y2="258"/>
+    <line x1="352" y1="240" x2="312" y2="240"/>
+  </g>
+  <g fill="#e0a458">
+    <path d="M202 252 L212 258 L202 264 Z"/>
+    <path d="M312 234 L302 240 L312 246 Z"/>
+  </g>
+
+  <!-- peers -->
+  <text x="104" y="96" text-anchor="middle" font-family="sans-serif" font-size="19"
+        font-weight="bold" fill="#4f6d7a">peers</text>
+
+  <rect x="24" y="110" width="130" height="48" rx="11" fill="#ffffff" stroke="#2b3a42"
+        stroke-width="2"/>
+  <path d="M114 157 L122 180 L98 156 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"
+        stroke-linejoin="round"/>
+  <text x="89" y="130" text-anchor="middle" font-family="sans-serif" font-size="13"
+        fill="#222222">“everyone</text>
+  <text x="89" y="147" text-anchor="middle" font-family="sans-serif" font-size="13"
+        fill="#222222">has one”</text>
+
+  <!-- three friends, standing together: a tall one at the left, a younger one at the right -->
+  <!-- back-left friend -->
   <g>
-    <circle cx="256" cy="180" r="34" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="246" cy="173" r="3.5" fill="#2b3a42"/>
-    <circle cx="266" cy="173" r="3.5" fill="#2b3a42"/>
-    <path d="M248 190 Q256 197 264 190" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M256 214 L256 290" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M256 290 L228 352" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M256 290 L284 352" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M230 236 L282 236" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <!-- mirror in hand -->
-    <rect x="288" y="244" width="30" height="44" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="303" y="274" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">me</text>
+    <g fill="none" stroke-linecap="round">
+      <path d="M50 244 Q30 266 34 292" stroke="#8f5f3d" stroke-width="10"/>
+      <path d="M76 244 Q94 266 90 292" stroke="#8f5f3d" stroke-width="10"/>
+      <path d="M56 292 L54 328" stroke="#4f6d7a" stroke-width="10"/>
+      <path d="M70 292 L74 328" stroke="#4f6d7a" stroke-width="10"/>
+    </g>
+    <path d="M44 240 Q44 232 52 232 L72 232 Q80 232 80 240 L82 286 Q82 293 75 293 L50 293
+             Q43 293 43 286 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"
+          stroke-linejoin="round"/>
+    <circle cx="58" cy="222" r="14" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M44 220 Q44 205 58 205 Q72 205 72 220 Q64 212 58 212 Q52 212 44 220 Z"
+          fill="#2b3a42"/>
+    <circle cx="52" cy="221" r="1.8" fill="#2b3a42"/>
+    <circle cx="64" cy="221" r="1.8" fill="#2b3a42"/>
+    <path d="M54 229 Q58 232 62 229" fill="none" stroke="#2b3a42" stroke-width="1.8"
+          stroke-linecap="round"/>
+    <ellipse cx="52" cy="331" rx="9" ry="5" fill="#4f6d7a"/>
+    <ellipse cx="75" cy="331" rx="9" ry="5" fill="#4f6d7a"/>
+  </g>
+  <!-- centre friend, a step forward -->
+  <g>
+    <g fill="none" stroke-linecap="round">
+      <path d="M92 236 Q72 260 76 288" stroke="#e6bb92" stroke-width="10"/>
+      <path d="M120 236 Q140 260 136 288" stroke="#e6bb92" stroke-width="10"/>
+      <path d="M99 292 L97 330" stroke="#c9d6df" stroke-width="10"/>
+      <path d="M113 292 L117 330" stroke="#c9d6df" stroke-width="10"/>
+    </g>
+    <path d="M86 232 Q86 224 94 224 L116 224 Q124 224 124 232 L126 286 Q126 293 119 293
+             L93 293 Q86 293 86 286 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"
+          stroke-linejoin="round"/>
+    <circle cx="103" cy="212" r="15" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M88 210 Q88 194 103 194 Q118 194 118 210 Q110 201 103 201 Q96 201 88 210 Z"
+          fill="#4f6d7a"/>
+    <circle cx="97" cy="211" r="1.9" fill="#2b3a42"/>
+    <circle cx="109" cy="211" r="1.9" fill="#2b3a42"/>
+    <ellipse cx="95" cy="333" rx="9" ry="5" fill="#2b3a42"/>
+    <ellipse cx="118" cy="333" rx="9" ry="5" fill="#2b3a42"/>
+  </g>
+  <!-- younger friend at the right -->
+  <g>
+    <g fill="none" stroke-linecap="round">
+      <path d="M134 252 Q118 272 122 294" stroke="#f2c9a0" stroke-width="9"/>
+      <path d="M155 252 Q171 272 167 294" stroke="#f2c9a0" stroke-width="9"/>
+      <path d="M137 292 L135 324" stroke="#4f6d7a" stroke-width="9"/>
+      <path d="M149 292 L152 324" stroke="#4f6d7a" stroke-width="9"/>
+    </g>
+    <path d="M129 248 Q129 242 136 242 L152 242 Q159 242 159 250 L160 286 Q160 292 154 292
+             L135 292 Q129 292 129 286 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"
+          stroke-linejoin="round"/>
+    <circle cx="144" cy="230" r="12.5" fill="#f2c9a0" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M131 229 Q131 216 144 216 Q157 216 157 229 Q150 222 144 222 Q138 222 131 229 Z"
+          fill="#2b3a42"/>
+    <circle cx="140" cy="229" r="1.8" fill="#2b3a42"/>
+    <circle cx="149" cy="229" r="1.8" fill="#2b3a42"/>
+    <path d="M141 236 Q144.5 238.5 148 236" fill="none" stroke="#2b3a42" stroke-width="1.8"
+          stroke-linecap="round"/>
+    <ellipse cx="133" cy="327" rx="8" ry="4.5" fill="#4f6d7a"/>
+    <ellipse cx="154" cy="327" rx="8" ry="4.5" fill="#4f6d7a"/>
   </g>
 
-  <!-- Peers arrow from left -->
-  <path d="M150 170 L204 170" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
-  <path d="M196 164 L204 170 L196 176" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="150" y="106" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">peers</text>
-
-  <!-- Peers group -->
-  <g stroke="#2b3a42" stroke-width="2" fill="none">
-    <circle cx="84" cy="196" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="132" cy="208" r="20" fill="#8a5a3b" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="108" cy="244" r="20" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- the young person at the centre, holding the mirror -->
+  <g>
+    <!-- legs and feet -->
+    <path d="M244 292 L240 352" stroke="#4f6d7a" stroke-width="14" stroke-linecap="round" fill="none"/>
+    <path d="M268 292 L274 352" stroke="#4f6d7a" stroke-width="14" stroke-linecap="round" fill="none"/>
+    <ellipse cx="236" cy="360" rx="13" ry="7" fill="#2b3a42"/>
+    <ellipse cx="278" cy="360" rx="13" ry="7" fill="#2b3a42"/>
+    <!-- torso -->
+    <path d="M232 190 Q232 174 246 174 L268 174 Q282 174 282 190 L286 274 Q286 292 268 292
+             L240 292 Q222 292 222 274 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"
+          stroke-linejoin="round"/>
+    <!-- left arm, resting at the side -->
+    <path d="M234 192 Q222 226 224 252 Q226 272 232 282" fill="none" stroke="#ab7a4e"
+          stroke-width="11" stroke-linecap="round"/>
+    <!-- right arm, bent to hold the mirror -->
+    <path d="M280 192 Q302 212 288 238" fill="none" stroke="#ab7a4e" stroke-width="11"
+          stroke-linecap="round"/>
+    <!-- head -->
+    <circle cx="256" cy="148" r="23" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M233 146 Q233 120 256 120 Q279 120 279 146 Q270 134 256 134 Q242 134 233 146 Z"
+          fill="#2b3a42"/>
+    <circle cx="247" cy="147" r="2.2" fill="#2b3a42"/>
+    <circle cx="265" cy="147" r="2.2" fill="#2b3a42"/>
+    <path d="M249 158 Q256 163 263 158" fill="none" stroke="#2b3a42" stroke-width="2"
+          stroke-linecap="round"/>
   </g>
-  <circle cx="80" cy="192" r="2.5" fill="#2b3a42"/>
-  <circle cx="88" cy="192" r="2.5" fill="#2b3a42"/>
-  <circle cx="128" cy="204" r="2.5" fill="#2b3a42"/>
-  <circle cx="136" cy="204" r="2.5" fill="#2b3a42"/>
-  <circle cx="104" cy="240" r="2.5" fill="#2b3a42"/>
-  <circle cx="112" cy="240" r="2.5" fill="#2b3a42"/>
-  <rect x="46" y="120" width="120" height="44" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="106" y="138" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">"everyone</text>
-  <text x="106" y="156" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">has one"</text>
 
-  <!-- Media arrow from right -->
-  <path d="M362 170 L308 170" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
-  <path d="M316 164 L308 170 L316 176" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="390" y="150" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#4f6d7a">media</text>
-
-  <!-- Phone with curated images -->
-  <rect x="370" y="196" width="88" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="380" y="212" width="68" height="34" rx="6" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="380" y="256" width="68" height="34" rx="6" fill="#e0e8ee" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="380" y="300" width="68" height="34" rx="6" fill="#c9d6df" stroke="#2b3a42" stroke-width="2"/>
-  <!-- sparkles -->
-  <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
-    <line x1="416" y1="216" x2="416" y2="208"/>
-    <line x1="412" y1="212" x2="420" y2="212"/>
-    <line x1="416" y1="260" x2="416" y2="252"/>
-    <line x1="412" y1="256" x2="420" y2="256"/>
-    <line x1="416" y1="304" x2="416" y2="296"/>
-    <line x1="412" y1="300" x2="420" y2="300"/>
+  <!-- the mirror, labelled: how I see myself -->
+  <g>
+    <rect x="264" y="194" width="36" height="46" rx="9" fill="#ffffff" stroke="#2b3a42"
+          stroke-width="2"/>
+    <rect x="268" y="198" width="28" height="38" rx="6" fill="#eaf1f6" stroke="#6b93b6"
+          stroke-width="1.6"/>
+    <text x="282" y="222" text-anchor="middle" font-family="sans-serif" font-size="12"
+          fill="#4f6d7a">me</text>
+    <line x1="282" y1="240" x2="282" y2="254" stroke="#2b3a42" stroke-width="4"
+          stroke-linecap="round"/>
+    <!-- hand gripping the handle -->
+    <circle cx="282" cy="248" r="8" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
   </g>
-  <text x="414" y="368" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">edited, curated</text>
 
-  <!-- Caption -->
-  <rect x="60" y="392" width="392" height="70" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Peers and media are like mirrors.</text>
-  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">Some mirrors are warped — noticing that gives me power.</text>
-
-  <g fill="#7a9e7e">
-    <circle cx="226" cy="490" r="4"/>
-    <circle cx="256" cy="490" r="4"/>
-    <circle cx="286" cy="490" r="4"/>
+  <!-- media: a phone of edited pictures -->
+  <text x="412" y="96" text-anchor="middle" font-family="sans-serif" font-size="19"
+        font-weight="bold" fill="#4f6d7a">media</text>
+  <rect x="356" y="118" width="112" height="192" rx="14" fill="#ffffff" stroke="#2b3a42"
+        stroke-width="2"/>
+  <rect x="366" y="130" width="92" height="168" rx="6" fill="#f4efe4"/>
+  <g fill="#c9d6df" stroke="#2b3a42" stroke-width="2">
+    <rect x="372" y="138" width="80" height="44" rx="6"/>
+    <rect x="372" y="192" width="80" height="44" rx="6"/>
+    <rect x="372" y="246" width="80" height="44" rx="6"/>
   </g>
+  <!-- sparkles: the pictures are edited highlights, not whole lives -->
+  <g stroke="#e0a458" stroke-width="2.5" stroke-linecap="round">
+    <line x1="438" y1="146" x2="438" y2="134"/>
+    <line x1="432" y1="140" x2="444" y2="140"/>
+    <line x1="438" y1="200" x2="438" y2="188"/>
+    <line x1="432" y1="194" x2="444" y2="194"/>
+    <line x1="438" y1="254" x2="438" y2="242"/>
+    <line x1="432" y1="248" x2="444" y2="248"/>
+  </g>
+
+  <text x="412" y="338" text-anchor="middle" font-family="sans-serif" font-size="13"
+        fill="#4f6d7a">edited, curated</text>
+
+  <!-- caption -->
+  <rect x="46" y="390" width="420" height="76" rx="12" fill="#ffffff" stroke="#2b3a42"
+        stroke-width="2"/>
+  <text x="256" y="418" text-anchor="middle" font-family="sans-serif" font-size="18"
+        font-weight="bold" fill="#2b3a42">Peers and media are like mirrors.</text>
+  <text x="256" y="441" text-anchor="middle" font-family="sans-serif" font-size="15"
+        fill="#2b3a42">Some mirrors are warped —</text>
+  <text x="256" y="459" text-anchor="middle" font-family="sans-serif" font-size="15"
+        fill="#2b3a42">noticing that gives me power.</text>
 </svg>

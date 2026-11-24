@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 560" role="img" aria-labelledby="title-L-06-006-03-sources-of-error desc-L-06-006-03-sources-of-error">
   <title id="title-L-06-006-03-sources-of-error">Sources of error in a measurement</title>
-  <desc id="desc-L-06-006-03-sources-of-error">A diagram of the same pencil measured five times, each time with a slightly different reading. A pencil is drawn at the top, and beneath it five rulers each show a reading: trial 1 reads 12.1, trial 2 reads 12.0, trial 3 reads 12.2, trial 4 reads 11.9, and trial 5 reads 12.1 centimetres. An average box reads: average is about 12.1 cm. Below, three panels name three sources of error: tool limits (the ruler marks are coarse), human reading (the eye sits at a slight angle), and conditions (the object shifted). A caption reads: careful measurements still differ a little; naming the source lets us reduce it. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
+  <desc id="desc-L-06-006-03-sources-of-error">A diagram of the same pencil measured five times, each time with a slightly different reading. A pencil is drawn at the top, and beneath it five rulers each show a reading: trial 1 reads 12.1, trial 2 reads 12.0, trial 3 reads 12.2, trial 4 reads 11.9, and trial 5 reads 12.1 centimetres. An average box reads: average is about 12.1 cm. Below, three panels name three sources of error, each with a small drawing: tool limits (a ruler with only a few coarse marks), human reading (a person leaning in, eye off to one side of the mark, the dashed sight line landing at an angle), and conditions (the object shifted along the bench). A caption reads: careful measurements still differ a little; naming the source lets us reduce it. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="560" fill="#fdfbf7"/>
 
@@ -54,25 +54,57 @@
   <text x="380" y="146" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">average</text>
   <text x="380" y="168" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">≈ 12.1 cm</text>
 
-  <!-- three sources -->
+  <!-- three sources, each with the thing its words name -->
   <g font-family="sans-serif">
-    <rect x="20" y="300" width="150" height="120" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
-    <text x="95" y="326" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">tool limits</text>
-    <text x="95" y="350" text-anchor="middle" font-size="12" fill="#222222">the ruler's marks</text>
-    <text x="95" y="368" text-anchor="middle" font-size="12" fill="#222222">are coarse</text>
-    <text x="95" y="400" text-anchor="middle" font-size="12" fill="#4f6d7a">use finer marks</text>
+    <rect x="20" y="300" width="150" height="146" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="95" y="322" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">tool limits</text>
+    <text x="95" y="344" text-anchor="middle" font-size="12" fill="#222222">the ruler's marks</text>
+    <text x="95" y="362" text-anchor="middle" font-size="12" fill="#222222">are coarse</text>
+    <text x="95" y="382" text-anchor="middle" font-size="12" fill="#4f6d7a">use finer marks</text>
+    <!-- a ruler with only a few coarse marks -->
+    <rect x="63" y="398" width="64" height="20" rx="3" fill="#ffffff" stroke="#2b3a42"
+          stroke-width="2"/>
+    <g stroke="#2b3a42" stroke-width="2">
+      <line x1="79" y1="398" x2="79" y2="408"/>
+      <line x1="95" y1="398" x2="95" y2="408"/>
+      <line x1="111" y1="398" x2="111" y2="408"/>
+    </g>
+    <line x1="63" y1="432" x2="127" y2="432" stroke="#4f6d7a" stroke-width="1.6"/>
 
-    <rect x="182" y="300" width="150" height="120" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
-    <text x="257" y="326" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">human reading</text>
-    <text x="257" y="350" text-anchor="middle" font-size="12" fill="#222222">the eye sits at</text>
-    <text x="257" y="368" text-anchor="middle" font-size="12" fill="#222222">a slight angle</text>
-    <text x="257" y="400" text-anchor="middle" font-size="12" fill="#4f6d7a">read straight on</text>
+    <rect x="182" y="300" width="150" height="146" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="257" y="322" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">human reading</text>
+    <text x="257" y="344" text-anchor="middle" font-size="12" fill="#222222">the eye sits at</text>
+    <text x="257" y="362" text-anchor="middle" font-size="12" fill="#222222">a slight angle</text>
+    <text x="257" y="382" text-anchor="middle" font-size="12" fill="#4f6d7a">read straight on</text>
+    <!-- a reader leaning in, eye off to one side of the mark -->
+    <path d="M 222 436 Q 222 414 232 410 L 246 410 Q 253 414 253 422 L 253 436 Z"
+          fill="#c98d5f" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="240" cy="398" r="11" fill="#c98d5f" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 229 396 Q 230 384 241 384 Q 251 384 252 393 Q 244 388 234 391 Q 230 393 229 396 Z"
+          fill="#2b3a42"/>
+    <circle cx="247" cy="398" r="1.8" fill="#2b3a42"/>
+    <path d="M 248 401 L 280 427" fill="none" stroke="#4f6d7a" stroke-width="1.6"
+          stroke-dasharray="4 3"/>
+    <line x1="252" y1="428" x2="316" y2="428" stroke="#2b3a42" stroke-width="2"/>
+    <g stroke="#2b3a42" stroke-width="1.6">
+      <line x1="264" y1="428" x2="264" y2="433"/>
+      <line x1="280" y1="428" x2="280" y2="433"/>
+      <line x1="296" y1="428" x2="296" y2="433"/>
+    </g>
 
-    <rect x="344" y="300" width="150" height="120" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
-    <text x="419" y="326" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">conditions</text>
-    <text x="419" y="350" text-anchor="middle" font-size="12" fill="#222222">the object</text>
-    <text x="419" y="368" text-anchor="middle" font-size="12" fill="#222222">shifted</text>
-    <text x="419" y="400" text-anchor="middle" font-size="12" fill="#4f6d7a">hold it steady</text>
+    <rect x="344" y="300" width="150" height="146" rx="8" fill="#f4efe4" stroke="#2b3a42" stroke-width="2"/>
+    <text x="419" y="322" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">conditions</text>
+    <text x="419" y="344" text-anchor="middle" font-size="12" fill="#222222">the object</text>
+    <text x="419" y="362" text-anchor="middle" font-size="12" fill="#222222">shifted</text>
+    <text x="419" y="382" text-anchor="middle" font-size="12" fill="#4f6d7a">hold it steady</text>
+    <!-- the same object, moved along the bench -->
+    <rect x="396" y="418" width="40" height="12" rx="2" fill="#e0a458" stroke="#2b3a42"
+          stroke-width="2"/>
+    <path d="M 390 412 q 14 -12 34 -8" fill="none" stroke="#4f6d7a" stroke-width="2"
+          stroke-linecap="round"/>
+    <path d="M 419 400 L 426 404 L 419 409" fill="none" stroke="#4f6d7a" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="386" y1="434" x2="450" y2="434" stroke="#4f6d7a" stroke-width="1.6"/>
   </g>
 
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">naming the source lets us reduce it</text>

@@ -53,7 +53,7 @@ context_variants:
     note: Choose a technology visible outdoors (a road, a power line, a water pump) and weigh its benefits and harms for the people nearby
 assets:
   - path: assets/images/L.08.011.02-benefits-harms.svg
-    alt: A balance scale with benefits on one side and harms on the other, and small labeled figures of different people — a farmer, a worker, an elder, a child, a miner — arranged around it, showing that the same technology helps some and burdens others
+    alt: "A balance scale with benefits on one side and harms on the other. Below it stand five people of different ages and skin tones — a farmer, a city worker, an elder with a cane, a child, and a miner in a hard hat — showing that the same technology helps some and burdens others."
     kind: image
     source: original
 duration_minutes: 50

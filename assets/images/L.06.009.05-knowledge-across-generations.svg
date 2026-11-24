@@ -14,13 +14,46 @@
     <!-- song lines -->
     <path d="M36 170 Q52 156 66 170 Q80 184 96 170 Q112 156 128 170 Q144 184 154 172" fill="none" stroke="#4f6d7a" stroke-width="2"/>
     <path d="M40 190 Q56 176 70 190 Q84 204 100 190 Q116 176 132 190" fill="none" stroke="#4f6d7a" stroke-width="2"/>
-    <!-- elder and child -->
-    <circle cx="70" cy="250" r="13" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M70 263 L70 300" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M58 340 L70 300 L82 340" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="118" cy="260" r="10" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M118 270 L118 300" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M108 336 L118 300 L128 336" stroke="#2b3a42" stroke-width="2"/>
+    <!-- an elder and a child, sitting together on the ground -->
+    <g>
+      <!-- crossed legs -->
+      <path d="M 40 322 Q 42 302 62 304 Q 78 298 92 310 Q 98 322 84 328 L 52 328
+               Q 40 328 40 322 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"
+            stroke-linejoin="round"/>
+      <!-- torso -->
+      <path d="M 56 274 Q 56 262 68 260 L 78 260 Q 88 262 88 274 L 88 310 Q 88 316 80 316
+               L 62 316 Q 56 316 56 310 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"
+            stroke-linejoin="round"/>
+      <!-- arm resting on the knee -->
+      <path d="M 60 276 Q 50 296 58 310" fill="none" stroke="#ab7a4e" stroke-width="9"
+            stroke-linecap="round"/>
+      <!-- head -->
+      <circle cx="72" cy="246" r="13" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M 59 244 Q 59 230 72 230 Q 85 230 85 244 Q 78 236 72 236 Q 66 236 59 244 Z"
+            fill="#c9d6df" stroke="#4f6d7a" stroke-width="1.4"/>
+      <circle cx="67" cy="247" r="1.8" fill="#2b3a42"/>
+      <circle cx="77" cy="247" r="1.8" fill="#2b3a42"/>
+      <path d="M 67 254 q 5 3 10 0" fill="none" stroke="#2b3a42" stroke-width="1.8"
+            stroke-linecap="round"/>
+    </g>
+    <g>
+      <!-- child, sitting close -->
+      <path d="M 98 328 Q 100 312 114 314 Q 126 310 136 320 Q 141 329 130 333 L 108 333
+               Q 98 333 98 328 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"
+            stroke-linejoin="round"/>
+      <path d="M 110 288 Q 110 278 118 276 L 126 276 Q 134 278 134 288 L 134 318 Q 134 324
+               127 324 L 117 324 Q 110 324 110 318 Z" fill="#7a9e7e" stroke="#2b3a42"
+            stroke-width="2" stroke-linejoin="round"/>
+      <path d="M 130 290 Q 140 306 134 318" fill="none" stroke="#c99567" stroke-width="8"
+            stroke-linecap="round"/>
+      <circle cx="122" cy="264" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M 111 262 Q 111 250 122 250 Q 133 250 133 262 Q 127 255 122 255 Q 117 255 111 262 Z"
+            fill="#2b3a42"/>
+      <circle cx="118" cy="265" r="1.6" fill="#2b3a42"/>
+      <circle cx="126" cy="265" r="1.6" fill="#2b3a42"/>
+      <path d="M 118 271 q 4 3 8 0" fill="none" stroke="#2b3a42" stroke-width="1.6"
+            stroke-linecap="round"/>
+    </g>
     <text x="95" y="364" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">songlines — Australia</text>
     <text x="95" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">land and law in song</text>
   </g>
@@ -49,19 +82,41 @@
     <rect x="344" y="92" width="150" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <rect x="352" y="104" width="134" height="32" rx="6" fill="#7a9e7e" opacity="0.45"/>
     <text x="419" y="125" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">APPRENTICESHIP</text>
-    <!-- workbench -->
-    <rect x="366" y="236" width="106" height="12" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="372" y1="248" x2="372" y2="286" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="466" y1="248" x2="466" y2="286" stroke="#2b3a42" stroke-width="2"/>
-    <rect x="384" y="242" width="20" height="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <!-- master -->
-    <circle cx="404" cy="212" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M404 224 L404 242" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M392 214 L376 224" stroke="#2b3a42" stroke-width="2"/>
-    <!-- apprentice -->
-    <circle cx="438" cy="218" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M438 228 L438 242" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M438 226 L454 240" stroke="#2b3a42" stroke-width="2"/>
+    <!-- workbench, with the work on it -->
+    <rect x="366" y="252" width="106" height="12" rx="3" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="372" y1="264" x2="372" y2="292" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="466" y1="264" x2="466" y2="292" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="388" y="240" width="22" height="12" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <!-- master, standing at the bench, one hand showing the work -->
+    <g>
+      <path d="M 388 216 Q 388 206 398 204 L 408 204 Q 418 206 418 216 L 418 254 L 388 254 Z"
+            fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M 392 222 Q 382 232 386 246" fill="none" stroke="#8f5f3d" stroke-width="9"
+            stroke-linecap="round"/>
+      <path d="M 414 220 Q 404 232 402 242" fill="none" stroke="#8f5f3d" stroke-width="9"
+            stroke-linecap="round"/>
+      <circle cx="403" cy="190" r="12.5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M 391 188 Q 391 176 403 176 Q 415 176 415 188 Q 408 181 403 181 Q 398 181 391 188 Z"
+            fill="#c9d6df" stroke="#4f6d7a" stroke-width="1.4"/>
+      <circle cx="399" cy="191" r="1.8" fill="#2b3a42"/>
+      <circle cx="408" cy="191" r="1.8" fill="#2b3a42"/>
+      <path d="M 399 197 q 4 3 9 0" fill="none" stroke="#2b3a42" stroke-width="1.8"
+            stroke-linecap="round"/>
+    </g>
+    <!-- apprentice, standing close to watch the hands -->
+    <g>
+      <path d="M 434 224 Q 434 216 442 214 L 450 214 Q 458 216 458 224 L 458 254 L 434 254 Z"
+            fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M 436 230 Q 426 240 424 246" fill="none" stroke="#e6bb92" stroke-width="8"
+            stroke-linecap="round"/>
+      <circle cx="446" cy="202" r="10.5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M 435 200 Q 435 190 446 190 Q 457 190 457 200 Q 451 194 446 194 Q 441 194 435 200 Z"
+            fill="#2b3a42"/>
+      <circle cx="443" cy="203" r="1.6" fill="#2b3a42"/>
+      <circle cx="450" cy="203" r="1.6" fill="#2b3a42"/>
+      <path d="M 442 208 q 4 3 8 0" fill="none" stroke="#2b3a42" stroke-width="1.6"
+            stroke-linecap="round"/>
+    </g>
     <text x="419" y="312" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">master and apprentice</text>
     <text x="419" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">— Japan</text>
     <text x="419" y="364" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">learning by doing,</text>

@@ -58,7 +58,7 @@ context_variants:
     note: Pair up outside across a real or imagined language difference and use gestures, drawings in the dirt, and patience to accomplish one task together
 assets:
   - path: assets/images/L.06.004.14-across-a-language-difference.svg
-    alt: Two figures of varied skin tones face each other, each with a speech bubble in a different script. Between them, four bridges are drawn and labeled — a hand raised in a gesture, a small drawing of a cup (for water), a phone showing a translation arrow, and a heart labeled "patience." A banner reads "we don't share the words, but we can still meet." Labels and shapes, not color alone, carry the meaning so it prints clearly in grayscale.
+    alt: "Two people of different skin tones face each other, each holding one open hand out toward the other, each with a speech bubble in a different script. Between them, four bridges are drawn and labelled — a cupped hand shaping a cup for gesture, a small drawing of a cup in the dirt for drawing, a phone showing a translation arrow for a translation tool, and a heart for patience. A banner reads 'we don't share the words, but we can still meet.' Labels and shapes, not colour alone, carry the meaning so it prints clearly in grayscale."
     kind: image
     source: original
 duration_minutes: 50

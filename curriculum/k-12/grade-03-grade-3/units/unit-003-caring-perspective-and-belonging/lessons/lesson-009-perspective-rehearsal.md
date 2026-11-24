@@ -57,7 +57,7 @@ context_variants:
     note: Group by comfort with speaking; every group runs the same discussion and retell, with confident speakers modeling first
 assets:
   - path: assets/images/L.03.003.09-perspective-rehearsal.svg
-    alt: A circle of children passing a turn marker. Above the circle, two reminder banners float — "take turns and build on" and "see through their eyes." A dotted path connects one child's head to another child's speech bubble, showing a thought being retold from the other's point of view. The words and shapes carry the meaning, not color, so it prints clearly in grayscale.
+    alt: "Three children sit together as soft silhouettes. The child on the left passes a round turn marker to the middle child, and a thin leader line runs from the marker down to the words 'the turn passes.' The child on the right has a speech bubble whose tail meets their shoulder— 'As you saw it… (their point of view).' Two banners above read 'take turns & build on' and 'see through their eyes.' Labels and shapes carry the meaning, not colour, so it prints clearly in grayscale."
     kind: image
     source: original
 duration_minutes: 45

@@ -58,7 +58,7 @@ context_variants:
     note: Measure a leaf or shadow five times with a marked stick, and notice how wind or light changes the reading
 assets:
   - path: assets/images/L.06.006.03-sources-of-error.svg
-    alt: "A diagram of the same object measured five times. At the top, a pencil is shown with five rulers beneath it, each showing a slightly different reading: 12.1, 12.0, 12.2, 11.9, and 12.1 centimetres. Each reading is labeled trial 1 through trial 5. An average box reads 'average ≈ 12.1 cm.' Below, three small panels each name a source of error: 'tool limits — the ruler marks are coarse,' 'human reading — the eye sits at a slight angle,' and 'conditions — the object shifted.' A caption reads: careful measurements still differ a little; naming the source lets us reduce it. Labels and numbers, not color alone, carry the meaning so it prints clearly in grayscale."
+    alt: "A diagram of the same object measured five times. At the top, a pencil is shown with five rulers beneath it, each showing a slightly different reading — 12.1, 12.0, 12.2, 11.9, and 12.1 centimetres — labelled trial 1 through trial 5. An average box reads 'average ≈ 12.1 cm.' Below, three small panels each name a source of error and draw it — tool limits (a ruler with only coarse marks), human reading (a person leaning in, eye at an angle, a dashed sight line landing on the marks), and conditions (the object shifted along the bench). A caption reads that careful measurements still differ a little, and naming the source lets us reduce it."
     kind: image
     source: original
 duration_minutes: 50

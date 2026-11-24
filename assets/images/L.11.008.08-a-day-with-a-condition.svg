@@ -50,7 +50,7 @@
   <g>
     <circle cx="464" cy="120" r="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <text x="464" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Night</text>
-    <rect x="418" y="166" width="92" height="116" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
+    <rect x="418" y="166" width="92" height="122" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
     <text x="464" y="188" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Evening dose</text>
     <text x="464" y="224" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">A rest routine</text>
     <text x="464" y="242" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Sleep that</text>

@@ -57,7 +57,7 @@ context_variants:
     note: Design a project for the land around you — a shared garden, a clean-up, a repair — and celebrate under the open sky
 assets:
   - path: assets/images/L.09.014.04-cooperative-project-cycle.svg
-    alt: A circular cycle of five steps — see a need, listen to the people, plan together, act, and reflect and adjust — with diverse figures cooperating at each step and an arrow leading onward labeled "to Grade 10"
+    alt: "A circular cycle of five steps — see a need, listen to the people, plan together, act, and reflect and adjust — with three people of different skin tones standing together at the centre, arms around one another's shoulders, and an arrow leading onward labelled 'to Grade 10'."
     kind: image
     source: original
 duration_minutes: 55
